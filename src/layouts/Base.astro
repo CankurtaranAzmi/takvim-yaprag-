@@ -1,0 +1,89 @@
+---
+import '@fontsource-variable/fraunces';
+import '@fontsource-variable/inter';
+import '../styles/global.css';
+import { SITE } from '../site.config.mjs';
+
+interface Props {
+  baslik?: string;
+  aciklama?: string;
+  noindex?: boolean;
+  tur?: 'website' | 'article';
+  jsonld?: object | object[];
+  aktif?: 'bugun' | 'takvim' | 'hakkimizda';
+}
+
+const { baslik, aciklama = SITE.aciklama, noindex = false, tur = 'website', jsonld, aktif } = Astro.props;
+const tamBaslik = baslik ? `${baslik} | ${SITE.ad}` : `${SITE.ad} – ${SITE.slogan}`;
+const kanonik = new URL(Astro.url.pathname, Astro.site).href;
+const yil = new Date().getFullYear();
+const ldListe = jsonld ? (Array.isArray(jsonld) ? jsonld : [jsonld]) : [];
+---
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{tamBaslik}</title>
+  <meta name="description" content={aciklama} />
+  <link rel="canonical" href={kanonik} />
+  {noindex && <meta name="robots" content="noindex, follow" />}
+  <meta name="theme-color" content="#b3261e" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="sitemap" href="/sitemap-index.xml" />
+
+  <meta property="og:site_name" content={SITE.ad} />
+  <meta property="og:locale" content="tr_TR" />
+  <meta property="og:type" content={tur} />
+  <meta property="og:title" content={baslik ?? SITE.ad} />
+  <meta property="og:description" content={aciklama} />
+  <meta property="og:url" content={kanonik} />
+  <meta name="twitter:card" content="summary" />
+
+
+  {ldListe.map((ld) => <script type="application/ld+json" set:html={JSON.stringify(ld)} />)}
+
+  <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adsense}`} crossorigin="anonymous"></script>
+</head>
+<body>
+  <a class="atla" href="#icerik">İçeriğe geç</a>
+  <header class="ust">
+    <div class="kap">
+      <a class="logo" href="/" aria-label={`${SITE.ad} ana sayfa`}>
+        <svg class="logo-ikon" viewBox="0 0 32 32" aria-hidden="true">
+          <rect x="3" y="5" width="26" height="24" rx="5" fill="var(--kart)" stroke="var(--murekkep)" stroke-width="2" />
+          <path d="M3 10a5 5 0 0 1 5-5h16a5 5 0 0 1 5 5v2H3z" fill="var(--kirmizi)" />
+          <circle cx="11" cy="4" r="2" fill="var(--murekkep)" /><circle cx="21" cy="4" r="2" fill="var(--murekkep)" />
+          <path d="M11 17h10M11 22h7" stroke="var(--murekkep)" stroke-width="2" stroke-linecap="round" />
+        </svg>
+        <span>{SITE.ad}</span>
+      </a>
+      <nav class="menu" aria-label="Ana menü">
+        <a href="/" aria-current={aktif === 'bugun' ? 'page' : undefined}>Bugün</a>
+        <a href="/takvim/" aria-current={aktif === 'takvim' ? 'page' : undefined}>Takvim</a>
+        <a href="/hakkimizda/" aria-current={aktif === 'hakkimizda' ? 'page' : undefined}>Hakkımızda</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="icerik">
+    <div class="kap">
+      <slot />
+    </div>
+  </main>
+
+  <footer class="alt">
+    <div class="kap">
+      <nav aria-label="Alt menü">
+        <a href="/hakkimizda/">Hakkımızda</a>
+        <a href="/iletisim/">İletişim</a>
+        <a href="/gizlilik-politikasi/">Gizlilik Politikası</a>
+        <a href="/cerez-politikasi/">Çerez Politikası</a>
+        <a href="/takvim/">Tüm Günler</a>
+      </nav>
+      <p>Olay listeleri <a href="https://tr.wikipedia.org" rel="noopener">Vikipedi</a> kaynaklıdır ve <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.tr" rel="license noopener">CC BY-SA 4.0</a> lisansıyla kullanılır. Özet yazılar editörlerimize aittir.</p>
+      <p>© {yil} {SITE.ad}</p>
+    </div>
+  </footer>
+</body>
+</html>

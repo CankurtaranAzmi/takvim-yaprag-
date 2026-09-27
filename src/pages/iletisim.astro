@@ -1,0 +1,13 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../site.config.mjs';
+---
+<Base baslik="İletişim" aciklama={`${SITE.ad} ile iletişime geçin: hata bildirimi, öneri ve iş birliği talepleri.`}>
+  <article class="metin-sayfa">
+    <h1>İletişim</h1>
+    <p>Hata bildirimleri, içerik önerileri ve iş birliği talepleriniz için bize e-posta ile ulaşabilirsiniz:</p>
+    <p style="font-size:1.2rem"><a href={`mailto:${SITE.eposta}`}><strong>{SITE.eposta}</strong></a></p>
+    <p>Hata bildirirken ilgili sayfanın bağlantısını ve doğru bilginin kaynağını eklerseniz düzeltmeyi çok daha hızlı yapabiliriz.</p>
+    <p>E-postalarınıza genellikle 2 iş günü içinde dönüş yapıyoruz.</p>
+  </article>
+</Base>

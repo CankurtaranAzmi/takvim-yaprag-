@@ -1,0 +1,41 @@
+# Takvim Yaprağı – Apache (cPanel) ayarları
+Options -Indexes
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # HTTPS ve www'suz alan adı
+  RewriteCond %{HTTPS} off [OR]
+  RewriteCond %{HTTP_HOST} ^www\. [NC]
+  RewriteRule ^ https://takvimyapragi.com%{REQUEST_URI} [L,R=301]
+
+  # Eski WordPress yazıları (/2026/09/26/yil-1930-...) -> takvim.
+  # Eski yazılar yayın tarihine göre dizildiği için olayın gününü URL'den çıkarmak mümkün değil;
+  # eski-yeni eşleme haritası hazırlanınca bu kural olay bazında daraltılacak.
+  RewriteRule ^\d{4}/\d{2}/\d{2}/.+$ /takvim/ [L,R=301]
+
+  # WordPress sistem adresleri ve tema demo sayfaları
+  RewriteRule ^(category|tag|author|feed|comments|wp-admin|wp-login\.php|wp-content|wp-includes|wp-json|xmlrpc\.php)(/.*)?$ / [L,R=301]
+  RewriteRule ^(sample-page(-2)?|masonry-[^/]+|grid-[^/]+|portfolio-[^/]+|gallery|typography|page-full-width|contact-information|privacy-policy-2)/?$ / [L,R=301]
+  RewriteRule ^about/?$ /hakkimizda/ [L,R=301]
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/html "access plus 10 minutes"
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+  ExpiresByType font/woff2 "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 month"
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript image/svg+xml application/xml text/plain
+</IfModule>
+
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>

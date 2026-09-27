@@ -1,0 +1,24 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../site.config.mjs';
+---
+<Base baslik="Çerez Politikası" aciklama={`${SITE.ad} çerez politikası: hangi çerezler kullanılır, nasıl yönetilir?`}>
+  <article class="metin-sayfa">
+    <h1>Çerez Politikası</h1>
+    <p>Çerezler, ziyaret ettiğiniz sitelerin tarayıcınıza kaydettiği küçük metin dosyalarıdır.</p>
+
+    <h2>Kullandığımız çerezler</h2>
+    <ul>
+      <li><strong>Zorunlu çerezler:</strong> {SITE.ad} kendi işleyişi için çerez kullanmaz. Yazı tipleri ve tüm site dosyaları kendi sunucumuzdan yüklenir.</li>
+      <li><strong>Reklam çerezleri (Google AdSense):</strong> Google ve iş ortakları, reklam göstermek, reklam performansını ölçmek ve izin verdiyseniz kişiselleştirilmiş reklam sunmak için çerez kullanır.</li>
+    </ul>
+
+    <h2>İzin yönetimi</h2>
+    <p>Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'den gelen ziyaretçilere, Google'ın sertifikalı izin yönetim platformu üzerinden bir onay penceresi gösterilir. Bu pencerede reklam çerezlerini kabul edebilir, reddedebilir ya da tercihlerinizi özelleştirebilirsiniz.</p>
+
+    <h2>Çerezleri nasıl kontrol edebilirim?</h2>
+    <p>Tarayıcınızın ayarlarından çerezleri silebilir veya engelleyebilirsiniz. Kişiselleştirilmiş reklamları <a href="https://adssettings.google.com" rel="noopener">Google Reklam Ayarları</a> sayfasından kapatabilirsiniz. Çerezleri engellemeniz sitenin çalışmasını etkilemez; yalnızca gösterilen reklamlar kişiselleştirilmez.</p>
+
+    <p>Sorularınız için: <a href={`mailto:${SITE.eposta}`}>{SITE.eposta}</a></p>
+  </article>
+</Base>

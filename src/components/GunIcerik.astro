@@ -1,0 +1,92 @@
+---
+// Bir günün tüm içeriği: yaprak, özel günler, olaylar, doğumlar, ölümler, gezinme.
+import { AYLAR, GUNLER_HAFTA, gunSlug, gunAdi, gunAdiDe, komsuGun, yilYaz, istanbulBugun } from '../lib/tarih.mjs';
+import { gunBul } from '../lib/veri.mjs';
+import GunSec from './GunSec.astro';
+
+interface Props { g: any; baslikEtiketi?: 'h1' | 'h2'; bugunMu?: boolean }
+const { g, bugunMu = false } = Astro.props;
+
+const bugun = istanbulBugun();
+const buYil = bugun.yil;
+const haftaGunu = GUNLER_HAFTA[new Date(Date.UTC(buYil, g.ay - 1, g.gun)).getUTCDay()];
+const gecerliTarih = !(g.ay === 2 && g.gun === 29) || new Date(Date.UTC(buYil, 1, 29)).getUTCMonth() === 1;
+
+const onceki = komsuGun(g.ay, g.gun, -1);
+const sonraki = komsuGun(g.ay, g.gun, 1);
+const oncekiVar = !!gunBul(onceki.ay, onceki.gun);
+const sonrakiVar = !!gunBul(sonraki.ay, sonraki.gun);
+
+const yayinda = (o: any) => o.durum === 'yayinda' && o.ozet;
+const ilkCumle = (s: string) => (s.split(/\n\s*\n/)[0] ?? s).trim();
+---
+<div class="yaprak" aria-hidden="true">
+  <div class="yaprak-ust">{bugunMu ? `${haftaGunu} · ${buYil}` : 'Tarihte bugün'}</div>
+  <div class="yaprak-gun">{g.gun}</div>
+  <div class="yaprak-ay">{AYLAR[g.ay - 1]}</div>
+  <div class="yaprak-alt">{g.olaylar.length} olay · {g.dogumlar.length} doğum · {g.olumler.length} ölüm</div>
+</div>
+
+<div class="giris">
+  <h1>{bugunMu ? `Bugün tarihte: ${gunAdi(g.ay, g.gun)}` : `${gunAdiDe(g.ay, g.gun)} tarihte ne oldu?`}</h1>
+  <p>
+    {gunAdi(g.ay, g.gun)} tarihinde dünyada ve Türkiye'de yaşanan önemli olaylar, bu günde doğan ve hayatını kaybeden ünlüler.
+    {gecerliTarih && !bugunMu && ` ${buYil} yılında ${haftaGunu.toLocaleLowerCase('tr')} gününe denk geliyor.`}
+  </p>
+</div>
+
+{g.ozelGunler.length > 0 && (
+  <ul class="etiketler" aria-label="Özel günler">
+    {g.ozelGunler.map((o: string) => <li class="etiket">{o}</li>)}
+  </ul>
+)}
+
+<section class="bolum" aria-labelledby="olaylar">
+  <div class="bolum-baslik"><h2 id="olaylar">Olaylar</h2><span>{g.olaylar.length} kayıt</span></div>
+  <ol class="olaylar">
+    {g.olaylar.map((o: any) => (
+      <li class="olay">
+        <div class="olay-yil">{yilYaz(o.yil)}{o.yil > 0 && <small>{buYil - o.yil} yıl önce</small>}</div>
+        <div class="olay-metin">
+          {yayinda(o) && o.kategori && <span class="olay-kat">{o.kategori}</span>}
+          <p>{yayinda(o) ? ilkCumle(o.ozet) : o.metin}</p>
+          {yayinda(o) && <a class="devam" href={`/olay/${o.id}/`}>Devamını oku →</a>}
+        </div>
+      </li>
+    ))}
+  </ol>
+</section>
+
+{g.dogumlar.length > 0 && (
+  <details class="bolum kisa">
+    <summary><div class="bolum-baslik"><h2>Doğumlar</h2><span>{g.dogumlar.length} kişi</span></div></summary>
+    <ol class="olaylar">
+      {g.dogumlar.map((o: any) => (
+        <li class="olay"><div class="olay-yil">{yilYaz(o.yil)}</div><div class="olay-metin"><p>{o.metin}</p></div></li>
+      ))}
+    </ol>
+  </details>
+)}
+
+{g.olumler.length > 0 && (
+  <details class="bolum kisa">
+    <summary><div class="bolum-baslik"><h2>Ölümler</h2><span>{g.olumler.length} kişi</span></div></summary>
+    <ol class="olaylar">
+      {g.olumler.map((o: any) => (
+        <li class="olay"><div class="olay-yil">{yilYaz(o.yil)}</div><div class="olay-metin"><p>{o.metin}</p></div></li>
+      ))}
+    </ol>
+  </details>
+)}
+
+<nav class="gezinme" aria-label="Günler arası gezinme">
+  {oncekiVar ? <a href={`/${gunSlug(onceki.ay, onceki.gun)}/`}><span>← Önceki gün</span><strong>{gunAdi(onceki.ay, onceki.gun)}</strong></a> : <span />}
+  {sonrakiVar ? <a href={`/${gunSlug(sonraki.ay, sonraki.gun)}/`}><span>Sonraki gün →</span><strong>{gunAdi(sonraki.ay, sonraki.gun)}</strong></a> : <span />}
+</nav>
+
+<p class="kaynak-kutu">
+  Kaynak: <a href={g.kaynak.url} rel="noopener">Vikipedi – {gunAdi(g.ay, g.gun)}</a> (CC BY-SA 4.0).
+  Son güncelleme: {new Date(g.guncelleme).toLocaleDateString('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' })}.
+</p>
+
+<GunSec />

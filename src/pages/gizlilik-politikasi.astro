@@ -1,0 +1,33 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../site.config.mjs';
+const guncelleme = '27 Eylül 2026';
+---
+<Base baslik="Gizlilik Politikası" aciklama={`${SITE.ad} gizlilik politikası ve KVKK aydınlatma metni.`}>
+  <article class="metin-sayfa">
+    <h1>Gizlilik Politikası</h1>
+    <p><em>Son güncelleme: {guncelleme}</em></p>
+    <p>Bu metin, {SITE.url} adresindeki {SITE.ad} web sitesini ziyaret ettiğinizde hangi verilerin nasıl işlendiğini, 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) ve Avrupa Birliği Genel Veri Koruma Tüzüğü (GDPR) kapsamındaki haklarınızı açıklar.</p>
+
+    <h2>Veri sorumlusu</h2>
+    <p>{SITE.ad} — iletişim: <a href={`mailto:${SITE.eposta}`}>{SITE.eposta}</a></p>
+
+    <h2>Hangi verileri işliyoruz?</h2>
+    <ul>
+      <li><strong>Sunucu kayıtları:</strong> Barındırma sağlayıcımız, güvenlik ve hata tespiti amacıyla IP adresi, tarayıcı bilgisi, ziyaret edilen sayfa ve zaman bilgisini kısa süreliğine kaydeder.</li>
+      <li><strong>Reklam ve çerezler:</strong> Sitemizde Google AdSense reklamları gösterilir. Google ve iş ortakları, izniniz doğrultusunda çerezler ve benzeri teknolojilerle ilgi alanlarınıza göre reklam sunabilir. Ayrıntılar için <a href="/cerez-politikasi/">Çerez Politikası</a> sayfasına bakın.</li>
+      <li><strong>E-posta yazışmaları:</strong> Bize e-posta gönderdiğinizde adınız ve e-posta adresiniz yalnızca yanıt vermek amacıyla kullanılır.</li>
+    </ul>
+    <p>Sitemizde üyelik, yorum veya form bulunmaz; doğrudan kişisel veri toplamayız.</p>
+
+    <h2>Google reklamları</h2>
+    <p>Google gibi üçüncü taraf sağlayıcılar, bu sitedeki ve diğer sitelerdeki önceki ziyaretlerinize dayanarak reklam sunmak için çerez kullanır. Google'ın reklam çerezlerini kullanması, Google ve iş ortaklarının bu siteye ve/veya internetteki diğer sitelere yaptığınız ziyaretlere göre reklam göstermesine olanak tanır.</p>
+    <p>Kişiselleştirilmiş reklamları <a href="https://adssettings.google.com" rel="noopener">Google Reklam Ayarları</a> sayfasından kapatabilirsiniz. Google'ın verileri nasıl kullandığını <a href="https://policies.google.com/technologies/partner-sites?hl=tr" rel="noopener">buradan</a> okuyabilirsiniz.</p>
+
+    <h2>Haklarınız</h2>
+    <p>KVKK'nın 11. maddesi uyarınca verilerinizin işlenip işlenmediğini öğrenme, düzeltilmesini veya silinmesini isteme ve işlemeye itiraz etme haklarına sahipsiniz. Taleplerinizi <a href={`mailto:${SITE.eposta}`}>{SITE.eposta}</a> adresine iletebilirsiniz.</p>
+
+    <h2>Değişiklikler</h2>
+    <p>Bu politika gerektiğinde güncellenir. Güncel sürüm her zaman bu sayfada yayımlanır.</p>
+  </article>
+</Base>

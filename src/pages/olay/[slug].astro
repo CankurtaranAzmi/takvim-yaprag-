@@ -1,0 +1,74 @@
+---
+import Base from '../../layouts/Base.astro';
+import { gunAdi, gunSlug, yilYaz, istanbulBugun } from '../../lib/tarih.mjs';
+import { TUM_YAYINDAKI_OLAYLAR, yayindakiOlaylar } from '../../lib/veri.mjs';
+import { SITE } from '../../site.config.mjs';
+
+export function getStaticPaths() {
+  return TUM_YAYINDAKI_OLAYLAR.map((o) => ({ params: { slug: o.id }, props: { o } }));
+}
+
+const { o } = Astro.props;
+const g = o.gunVeri;
+const tarih = `${gunAdi(g.ay, g.gun)} ${yilYaz(o.yil)}`;
+const paragraflar = o.ozet.split(/\n\s*\n/).map((p) => p.trim()).filter(Boolean);
+const aciklama = paragraflar[0].length > 155 ? paragraflar[0].slice(0, 152).replace(/\s+\S*$/, '') + '…' : paragraflar[0];
+const ayniGun = yayindakiOlaylar(g).filter((x) => x.id !== o.id).slice(0, 5);
+const buYil = istanbulBugun().yil;
+const url = `${SITE.url}/olay/${o.id}/`;
+
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: o.baslik,
+    description: aciklama,
+    inLanguage: 'tr',
+    mainEntityOfPage: url,
+    dateModified: g.guncelleme,
+    author: { '@type': 'Organization', name: `${SITE.ad} Editörlüğü`, url: `${SITE.url}/hakkimizda/` },
+    publisher: { '@type': 'Organization', name: SITE.ad, url: SITE.url },
+    about: { '@type': 'Event', name: o.baslik, description: o.metin },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: gunAdi(g.ay, g.gun), item: `${SITE.url}/${g.slug}/` },
+      { '@type': 'ListItem', position: 2, name: o.baslik, item: url },
+    ],
+  },
+];
+---
+<Base baslik={`${o.baslik} (${yilYaz(o.yil)})`} aciklama={aciklama} tur="article" jsonld={jsonld}>
+  <nav class="yol" aria-label="Konum"><a href="/">Anasayfa</a> / <a href={`/${g.slug}/`}>{gunAdi(g.ay, g.gun)}</a></nav>
+  <article>
+    <header class="makale-ust">
+      <div class="makale-tarih"><span>{tarih}</span>{o.kategori && <span class="etiket">{o.kategori}</span>}</div>
+      <h1>{o.baslik}</h1>
+      {o.yil > 0 && <p style="color:var(--soluk);margin:0">Bu olayın üzerinden {buYil - o.yil} yıl geçti.</p>}
+    </header>
+    <div class="makale-govde">
+      {paragraflar.map((p) => <p>{p}</p>)}
+    </div>
+    <p class="kaynak-kutu">
+      Olay kaydı: <a href={g.kaynak.url} rel="noopener">Vikipedi – {gunAdi(g.ay, g.gun)}</a> (CC BY-SA 4.0).
+      Bu özet {SITE.ad} editörlüğü tarafından hazırlanmıştır. Bir hata fark ederseniz <a href="/iletisim/">bize yazın</a>.
+    </p>
+  </article>
+
+  {ayniGun.length > 0 && (
+    <section class="bolum">
+      <div class="bolum-baslik"><h2>{gunAdi(g.ay, g.gun)} tarihinde başka neler oldu?</h2></div>
+      <ol class="olaylar">
+        {ayniGun.map((x) => (
+          <li class="olay">
+            <div class="olay-yil">{yilYaz(x.yil)}</div>
+            <div class="olay-metin"><a href={`/olay/${x.id}/`}>{x.baslik}</a></div>
+          </li>
+        ))}
+      </ol>
+    </section>
+  )}
+  <p><a href={`/${gunSlug(g.ay, g.gun)}/`}>← {gunAdi(g.ay, g.gun)} gününün tamamını gör</a></p>
+</Base>

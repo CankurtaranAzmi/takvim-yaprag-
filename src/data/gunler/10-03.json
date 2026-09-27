@@ -1,0 +1,981 @@
+{
+  "ay": 10,
+  "gun": 3,
+  "olaylar": [
+    {
+      "id": "mo-52-jul-sezar-komutasindaki-roma-ordusu-alesia-muharebesini",
+      "yil": -52,
+      "metin": "Jül Sezar komutasındaki Roma Ordusu, Alesia Muharebesi'ni kazanarak Galya'yı fethetti.",
+      "konular": [
+        "Jül Sezar",
+        "Roma Cumhuriyeti",
+        "Alesia Muharebesi",
+        "Galya"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1605-sadrazam-sokolluzade-lala-mehmed-pasa-komutasindaki-osmanli",
+      "yil": 1605,
+      "metin": "Sadrazam Sokolluzade Lala Mehmed Paşa komutasındaki Osmanlı Ordusu, Estergon Kalesi'ni ikinci kez fethetti.",
+      "konular": [
+        "Sokolluzade Lala Mehmed Paşa",
+        "Osmanlı İmparatorluğu",
+        "Estergon Kalesi"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1716-nevsehirli-damat-ibrahim-pasa-sadaret-kaymakamligina-getirildi",
+      "yil": 1716,
+      "metin": "Nevşehirli Damat İbrahim Paşa, Sadaret Kaymakamlığı'na getirildi.",
+      "konular": [
+        "Nevşehir",
+        "Damat İbrahim Paşa"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1739-osmanli-rus-avusturya-savasini-sona-erdiren-ve-osmanlinin-karli",
+      "yil": 1739,
+      "metin": "Osmanlı-Rus-Avusturya Savaşı'nı sona erdiren ve Osmanlı'nın kârlı çıktığı son antlaşma olan Niş Antlaşması imzalandı.",
+      "konular": [
+        "1735-1739 Osmanlı-Rus-Avusturya Savaşı",
+        "Osmanlı İmparatorluğu",
+        "Niş Antlaşması (1739)"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1849-amerikali-yazar-edgar-allan-poe-baltimore-sokaklarinda",
+      "yil": 1849,
+      "metin": "Amerikalı yazar Edgar Allan Poe, Baltimore sokaklarında perişan bir vaziyette bulundu, hastaneye kaldırıldı.",
+      "konular": [
+        "Amerika Birleşik Devletleri",
+        "Edgar Allan Poe",
+        "Baltimore"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1852-damad-mehmed-ali-pasa-osmanli-sadrazami-oldu",
+      "yil": 1852,
+      "metin": "Damad Mehmed Ali Paşa, Osmanlı Sadrazamı oldu.",
+      "konular": [
+        "Damad Mehmed Ali Paşa",
+        "Osmanlı İmparatorluğu",
+        "Sadrazam"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1912-sirbistan-karadag-yunanistan-ve-bulgaristan-osmanli-devletinden",
+      "yil": 1912,
+      "metin": "Sırbistan, Karadağ, Yunanistan ve Bulgaristan, Osmanlı Devleti'nden 3 gün içinde Arnavutluk ve Makedonya'ya özerklik verilmesini istediler. Osmanlı, bu notayı reddedince 8 Ekim'de I. Balkan Savaşı başladı.",
+      "konular": [
+        "Sırbistan Krallığı",
+        "Karadağ Krallığı",
+        "Yunanistan Krallığı",
+        "Bulgaristan Krallığı",
+        "Osmanlı İmparatorluğu"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1922-mudanya-mutarekesinin-imzalanmasiyla-sonuclanan-mudanya-konferansi-basladi",
+      "yil": 1922,
+      "metin": "Mudanya Mütarekesi'nin imzalanmasıyla sonuçlanan Mudanya Konferansı başladı.",
+      "konular": [
+        "Mudanya Mütarekesi"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1926-ataturkun-ilk-heykeli-istanbul-sarayburnuna-dikildi",
+      "yil": 1926,
+      "metin": "Atatürk'ün ilk heykeli, İstanbul Sarayburnu'na dikildi.",
+      "konular": [
+        "Mustafa Kemal Atatürk",
+        "Sarayburnu Atatürk Anıtı",
+        "Sarayburnu"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1929-sirp-hirvat-ve-sloven-kralligi-ismini-yugoslavya",
+      "yil": 1929,
+      "metin": "Sırp, Hırvat ve Sloven Krallığı, ismini Yugoslavya Krallığı olarak değiştirdi.",
+      "konular": [
+        "Sırp, Hırvat ve Sloven Krallığı",
+        "Yugoslavya Krallığı"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1931-turkiye-cumhuriyet-merkez-bankasi-faaliyete-gecti",
+      "yil": 1931,
+      "metin": "Türkiye Cumhuriyet Merkez Bankası faaliyete geçti.",
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1932-birlesik-krallik-mandasi-irak-bagimsizligini-ilan-etti",
+      "yil": 1932,
+      "metin": "Birleşik Krallık mandası Irak bağımsızlığını ilan etti.",
+      "konular": [
+        "İngiliz",
+        "Irak"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1935-italya-kralligi-etiyopyayi-isgal-harekatina-basladi",
+      "yil": 1935,
+      "metin": "İtalya Krallığı, Etiyopya'yı işgal harekâtına başladı.",
+      "konular": [
+        "İtalya Krallığı",
+        "Etiyopya"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1952-birlesik-krallik-ilk-atom-bombasi-denemesini-monte",
+      "yil": 1952,
+      "metin": "Birleşik Krallık ilk atom bombası denemesini, Monte Bello adasında gerçekleştirerek dünyanın 3. nükleer gücü oldu.",
+      "konular": [
+        "Birleşik Krallık",
+        "atom bombası",
+        "Monte Bello"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1953-canakkale-aciklarinda-isvec-bandirali-naboland-gemisiyle-carpisarak",
+      "yil": 1953,
+      "metin": "Çanakkale açıklarında İsveç Bandıralı Naboland gemisiyle çarpışarak batan, 81 denizcinin öldüğü TCG Dumlupınar denizaltısı ile ilgili dava sonuçlandı: Naboland kaptanı 6 ay ağır hapse mahkûm edildi, Dumlupınar Komutanı Yüzbaşı Sabri Çelebioğlu beraat etti.",
+      "konular": [
+        "Çanakkale",
+        "İsveç",
+        "Naboland",
+        "TCG Dumlupınar (D-6)"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1965-kuba-lideri-fidel-castro-che-guevaranin-emperyalizme",
+      "yil": 1965,
+      "metin": "Küba lideri Fidel Castro, Che Guevara'nın emperyalizme karşı savaşmak için Küba'dan ayrıldığını açıkladı.",
+      "konular": [
+        "Küba",
+        "Fidel Castro",
+        "Ernesto Che Guevara"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1966-istanbulun-anadolu-yakasindaki-son-tramvay-hatti-da",
+      "yil": 1966,
+      "metin": "İstanbul'un Anadolu yakasındaki son tramvay hattı da kaldırıldı.",
+      "konular": [
+        "İstanbul",
+        "tramvay"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1967-kuzey-vietnam-amerika-birlesik-devletlerinin-baris-gorusmeleri",
+      "yil": 1967,
+      "metin": "Kuzey Vietnam, Amerika Birleşik Devletleri'nin barış görüşmeleri önerisini reddetti.",
+      "konular": [
+        "Kuzey Vietnam",
+        "Amerika Birleşik Devletleri"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1970-iskenderun-demir-ve-celik-a-s-kuruldu",
+      "yil": 1970,
+      "metin": "İskenderun Demir ve Çelik A.Ş. kuruldu.",
+      "konular": [
+        "İskenderun Demir ve Çelik A.Ş."
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1971-sscb-ile-abd-arasinda-kisa-adi-salt",
+      "yil": 1971,
+      "metin": "SSCB ile ABD arasında kısa adı SALT olan Stratejik Silahları Sınırlama Antlaşması imzalandı.",
+      "konular": [
+        "Sovyetler Birliği",
+        "Amerika Birleşik Devletleri"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1973-75-yildan-beri-petrol-aranan-trakya-bolgesinde",
+      "yil": 1973,
+      "metin": "75 yıldan beri petrol aranan Trakya bölgesinde ilk petrol Lüleburgaz yakınlarında TPAO tarafından bulundu.",
+      "konular": [
+        "petrol",
+        "Lüleburgaz",
+        "TPAO"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1981-belfastta-irlanda-cumhuriyet-ordusu-ira-tutuklularinin-yaptigi",
+      "yil": 1981,
+      "metin": "Belfast'ta, İrlanda Cumhuriyet Ordusu (IRA) tutuklularının yaptığı açlık grevi bitti. Açlık grevi 7 ay sürmüş ve 10 IRA üyesi hayatını kaybetmişti.",
+      "konular": [
+        "Belfast",
+        "İrlanda Cumhuriyet Ordusu",
+        "IRA",
+        "açlık grevi#İrlandalı Cumhuriyetçiler"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1984-devrimci-yol-davasi-sonucu-idam-cezasina-carptirilan",
+      "yil": 1984,
+      "metin": "Devrimci Yol davası sonucu idam cezasına çarptırılan Hıdır Aslan ve İlyas Has'ın cezaları TBMM'de onaylandı.",
+      "konular": [
+        "Devrimci Yol",
+        "idam",
+        "Hıdır Aslan",
+        "İlyas Has",
+        "Türkiye Büyük Millet Meclisi"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1990-dogu-ve-bati-almanya-birlesti",
+      "yil": 1990,
+      "metin": "Doğu ve Batı Almanya birleşti.",
+      "konular": [
+        "Doğu Almanya",
+        "Batı Almanya",
+        "Almanya'nın yeniden birleşmesi"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1993-haydar-aliyev-azerbaycan-devlet-baskani-secildi",
+      "yil": 1993,
+      "metin": "Haydar Aliyev, Azerbaycan Devlet Başkanı seçildi.",
+      "konular": [
+        "Haydar Aliyev",
+        "Azerbaycan"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1994-ii-nukleer-karsiti-kongre-istanbulda-toplandi",
+      "yil": 1994,
+      "metin": "II. Nükleer Karşıtı Kongre, İstanbul'da toplandı.",
+      "konular": [
+        "İstanbul"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2005-avrupa-birligi-ile-turkiye-arasinda-uyelik-muzakereleri",
+      "yil": 2005,
+      "metin": "Avrupa Birliği ile Türkiye arasında üyelik müzakereleri başladı.",
+      "konular": [
+        "Avrupa Birliği",
+        "Türkiye"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2006-thynin-tiran-istanbul-seferini-yapan-boeing",
+      "yil": 2006,
+      "metin": "THY'nin Tiran - İstanbul seferini yapan Boeing 737-400 tipi tarifeli uçağı, Hakan Ekinci adlı hava korsanı tarafından kaçırıldı.",
+      "konular": [
+        "Türk Hava Yolları",
+        "Tiran, Arnavutluk",
+        "İstanbul",
+        "Boeing 737-400",
+        "Türk Hava Yolları Uçuş 1476"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2008-pkk-militanlari-hakkarinin-semdinli-ilcesinde-aktutun-karakoluna",
+      "yil": 2008,
+      "metin": "PKK militanları, Hakkâri'nin Şemdinli ilçesinde Aktütün Karakolu'na saldırdı.",
+      "konular": [
+        "PKK",
+        "Hakkâri (il)",
+        "Şemdinli",
+        "3 Ekim 2008 Aktütün Karakolu'na saldırı"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2009-azerbaycan-kazakistan-kirgizistan-ve-turkiye-devlet-baskanlarinin",
+      "yil": 2009,
+      "metin": "Azerbaycan, Kazakistan, Kırgızistan ve Türkiye Devlet Başkanları'nın imzaladığı Nahçıvan Anlaşması ile Türk Konseyi kuruldu.",
+      "konular": [
+        "Azerbaycan",
+        "Kazakistan",
+        "Kırgızistan",
+        "Türkiye",
+        "Nahçıvan Anlaşması"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2010-almanya-versay-baris-antlasmasinda-kabul-ettigi-i",
+      "yil": 2010,
+      "metin": "Almanya, Versay Barış Antlaşması'nda kabul ettiği I. Dünya Savaşı'ndan kalma savaş tazminatlarının son taksitini ödedi.",
+      "konular": [
+        "Almanya",
+        "Versay Barış Antlaşması",
+        "I. Dünya Savaşı"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2012-suriyeden-gelen-top-mermileri-sonucu-sanliurfanin-akcakale",
+      "yil": 2012,
+      "metin": "Suriye'den gelen top mermileri sonucu Şanlıurfa'nın Akçakale ilçesinde 5 sivilin hayatını kaybetmesi üzerine Türkiye, Suriye'yi vurdu.",
+      "konular": [
+        "Suriye",
+        "Şanlıurfa",
+        "Akçakale",
+        "Türkiye"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2013-gambiya-ingiliz-milletler-toplulugundan-ayrildigini-acikladi",
+      "yil": 2013,
+      "metin": "Gambiya, İngiliz Milletler Topluluğu'ndan ayrıldığını açıkladı.",
+      "konular": [
+        "Gambiya",
+        "İngiliz Milletler Topluluğu"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    }
+  ],
+  "dogumlar": [
+    {
+      "yil": 1804,
+      "metin": "Allan Kardec, Fransız yazar, Deneysel Spiritüalizm'in kurucusu (ö. 1869)"
+    },
+    {
+      "yil": 1867,
+      "metin": "Pierre Bonnard, Fransız illüstratör, ressam ve baskı resim sanatçısı (ö. 1947)"
+    },
+    {
+      "yil": 1886,
+      "metin": "Alain-Fournier, Fransız yazar (ö. 1914)"
+    },
+    {
+      "yil": 1889,
+      "metin": "Carl von Ossietzky, Alman yazar (ö. 1938)"
+    },
+    {
+      "yil": 1894,
+      "metin": "Walter Warlimont, Alman asker (ö. 1976)"
+    },
+    {
+      "yil": 1895,
+      "metin": "Sergey Yesenin, Rus şair (ö. 1925)"
+    },
+    {
+      "yil": 1897,
+      "metin": "Louis Aragon, Fransız yazar (ö. 1982)"
+    },
+    {
+      "yil": 1898,
+      "metin": "Leo McCarey, Amerikalı film yönetmeni, yapımcı, senarist ve Oscar ödülü sahibi (ö. 1969)"
+    },
+    {
+      "yil": 1901,
+      "metin": "Hilmi Ziya Ülken, Türk felsefeci ve sosyolog (ö. 1974)"
+    },
+    {
+      "yil": 1903,
+      "metin": "Tekin Arıburun, Türk asker ve siyasetçi (ö. 1993)"
+    },
+    {
+      "yil": 1903,
+      "metin": "Max Mengeringhausen, Alman mühendis, mucit ve girişimci (ö. 1988)"
+    },
+    {
+      "yil": 1904,
+      "metin": "Ernst-Günther Schenck, Alman doktor ve SS-Obersturmbannführer (ö. 1998)"
+    },
+    {
+      "yil": 1919,
+      "metin": "James M. Buchanan, Amerikalı iktisatçı (ö. 2013)"
+    },
+    {
+      "yil": 1923,
+      "metin": "Edward Oliver LeBlanc, Dominikalı siyasetçi (ö. 2004)"
+    },
+    {
+      "yil": 1925,
+      "metin": "Gore Vidal, Amerikalı romancı, oyun yazarı, deneme yazarı, senarist ve siyasi aktivist (ö. 2012)"
+    },
+    {
+      "yil": 1925,
+      "metin": "Simone Segouin, Fransız partizan (ö. 2023)"
+    },
+    {
+      "yil": 1925,
+      "metin": "George Wein, Amerikalı yapımcı ve müzisyen (ö. 2021)"
+    },
+    {
+      "yil": 1928,
+      "metin": "Erik Bruhn, Danimarkalı dansör, koreograf, sanat yönetmeni, oyuncu ve yazar (ö. 1986)"
+    },
+    {
+      "yil": 1931,
+      "metin": "Samim Emek, Türk futbolcu ve teknik direktör"
+    },
+    {
+      "yil": 1935,
+      "metin": "Armen Cigarhanyan, Ermeni-Sovyet aktör ve tiyatro yönetmeni (ö. 2020)"
+    },
+    {
+      "yil": 1935,
+      "metin": "Charles Duke, Amerikalı astronot"
+    },
+    {
+      "yil": 1936,
+      "metin": "Steve Reich, Amerikalı besteci"
+    },
+    {
+      "yil": 1939,
+      "metin": "Bob Amstrong, Amerikalı güreşçi (ö. 2020)"
+    },
+    {
+      "yil": 1940,
+      "metin": "Mike Troy, Amerikalı eski Olimpiyat yüzücüsü (ö. 2019)"
+    },
+    {
+      "yil": 1941,
+      "metin": "Andrea de Adamich, İtalyan Formula 1 pilotu (ö. 2025)"
+    },
+    {
+      "yil": 1941,
+      "metin": "Chubby Checker, Amerikalı şarkıcı"
+    },
+    {
+      "yil": 1944,
+      "metin": "Celile Toyon, Türk oyuncu"
+    },
+    {
+      "yil": 1947,
+      "metin": "Zdenek Altner, Çek hukukçu (ö. 2016)"
+    },
+    {
+      "yil": 1947,
+      "metin": "John Perry Barlow, Amerikalı şair ve deneme yazarı (ö. 2018)"
+    },
+    {
+      "yil": 1954,
+      "metin": "Haluk Koç, Türk hekim ve siyasetçi"
+    },
+    {
+      "yil": 1954,
+      "metin": "Stevie Ray Vaughan, Amerikalı gitarist (ö. 1990)"
+    },
+    {
+      "yil": 1955,
+      "metin": "Buket Uzuner, Türk öykücü, romancı ve gezi yazarı"
+    },
+    {
+      "yil": 1959,
+      "metin": "Fred Couples, Amerikalı golfçü"
+    },
+    {
+      "yil": 1959,
+      "metin": "Jack Wagner, Amerikalı oyuncu"
+    },
+    {
+      "yil": 1962,
+      "metin": "Tommy Lee, Amerikalı müzisyen"
+    },
+    {
+      "yil": 1964,
+      "metin": "Clive Owen, İngiliz oyuncu"
+    },
+    {
+      "yil": 1967,
+      "metin": "Erman Ilıcak, Türk iş insanı"
+    },
+    {
+      "yil": 1968,
+      "metin": "Bianca Krijgsman, Hollandalı aktris"
+    },
+    {
+      "yil": 1969,
+      "metin": "Gwen Stefani, Amerikalı şarkıcı"
+    },
+    {
+      "yil": 1970,
+      "metin": "Selahaddin Menteş, Türk hukukçu ve hakim"
+    },
+    {
+      "yil": 1970,
+      "metin": "Zeynep Casalini, Türk-İtalyan ses sanatçısı"
+    },
+    {
+      "yil": 1972,
+      "metin": "Gianluca Arrighi, İtalyan yazar ve avukat"
+    },
+    {
+      "yil": 1973,
+      "metin": "Lena Headey, İngiliz sinema oyuncusu"
+    },
+    {
+      "yil": 1973,
+      "metin": "Neve Campbell, Amerikalı oyuncu"
+    },
+    {
+      "yil": 1973,
+      "metin": "Uğur Dağdelen, Türk futbolcu (ö. 2015)"
+    },
+    {
+      "yil": 1975,
+      "metin": "India.Arie, Amerikalı şarkıcı-söz yazarı ve prodüktör"
+    },
+    {
+      "yil": 1976,
+      "metin": "Herman Li, Hong Konglu müzisyen"
+    },
+    {
+      "yil": 1976,
+      "metin": "Seann William Scott, Amerikalı oyuncu"
+    },
+    {
+      "yil": 1978,
+      "metin": "Claudio Pizarro, Perulu futbolcu"
+    },
+    {
+      "yil": 1978,
+      "metin": "Gerald Asamoah, Alman futbolcu"
+    },
+    {
+      "yil": 1978,
+      "metin": "Jake Shears, Amerikalı şarkıcı ve şarkı yazarı"
+    },
+    {
+      "yil": 1979,
+      "metin": "John Morrison, Amerikalı güreşçi ve aktör"
+    },
+    {
+      "yil": 1981,
+      "metin": "Andreas Isaksson, İsveçli futbolcu"
+    },
+    {
+      "yil": 1981,
+      "metin": "Zlatan Ibrahimović, İsveçli futbolcu"
+    },
+    {
+      "yil": 1983,
+      "metin": "Fred, Brezilyalı futbolcu"
+    },
+    {
+      "yil": 1983,
+      "metin": "Tessa Thompson, Amerikalı oyuncu, şarkıcı ve şarkı yazarı"
+    },
+    {
+      "yil": 1984,
+      "metin": "Yoon Eun Hye, Güney Koreli model, oyuncu ve şarkıcı"
+    },
+    {
+      "yil": 1984,
+      "metin": "Jessica Parker Kennedy, Kanadalı aktris"
+    },
+    {
+      "yil": 1984,
+      "metin": "Ashlee Simpson, Amerikalı şarkıcı"
+    },
+    {
+      "yil": 1997,
+      "metin": "Bang Chan, Güney Kore/Avusturalyalı şarkıcı, dansçı, rapçi, söz yazarı ve yapımcı"
+    },
+    {
+      "yil": 2004,
+      "metin": "Noah Schnapp, Kanadalı-Amerikalı televizyon ve sinema oyuncusu"
+    }
+  ],
+  "olumler": [
+    {
+      "yil": -42,
+      "metin": "Gaius Cassius Longinus, Romalı senatör (d. MÖ 85)"
+    },
+    {
+      "yil": 1078,
+      "metin": "I. İzyaslav, Kiev büyük prensi (d. 1024)"
+    },
+    {
+      "yil": 1226,
+      "metin": "Assisili Françesko, Fransisken Tarikatı'nın kurucusu olan keşiş, mistik ve sonradan Hristiyan azizi (d. 1181)"
+    },
+    {
+      "yil": 1629,
+      "metin": "Giorgi Saakadze, Gürcü siyasetçi ve komutan (d. 1570)"
+    },
+    {
+      "yil": 1649,
+      "metin": "Giovanni Diodati, İsviçreli Protestan ilâhiyatçı (d. 1575)"
+    },
+    {
+      "yil": 1685,
+      "metin": "Juan Carreño de Miranda, İspanyol ressam (d. 1614)"
+    },
+    {
+      "yil": 1838,
+      "metin": "Kara Şahin, Kızılderili kabilelerinden Sauk'ların Şefi (d. 1767)"
+    },
+    {
+      "yil": 1860,
+      "metin": "Alfred Edward Chalon, İsviçreli ressam (d. 1780)"
+    },
+    {
+      "yil": 1877,
+      "metin": "Rómulo Díaz de la Vega, Meksikalı siyasetçi (d. 1800)"
+    },
+    {
+      "yil": 1896,
+      "metin": "William Morris, İngiliz şair, roman yazarı ve ressam (d. 1834)"
+    },
+    {
+      "yil": 1929,
+      "metin": "Gustav Stresemann, Alman siyasetçi, Weimar Cumhuriyeti Şansölyesi ve Nobel Barış Ödülü sahibi (d. 1878)"
+    },
+    {
+      "yil": 1931,
+      "metin": "Carl Nielsen, Danimarkalı besteci ve aynı zamanda virtüöz kemancı, kornet çalgısı, orkestra şefi, müzik eğitimcisi (d. 1865)"
+    },
+    {
+      "yil": 1932,
+      "metin": "Max Wolf, bir Alman gök bilimci ve astrofotografiçı (d. 1863)"
+    },
+    {
+      "yil": 1941,
+      "metin": "Adalbert Czerny, Avusturyalı çocuk doktoru (d. 1863)"
+    },
+    {
+      "yil": 1941,
+      "metin": "Wilhelm Kienzl, Avusturyalı besteci (d. 1857)"
+    },
+    {
+      "yil": 1952,
+      "metin": "Zavel Kwartin, Rus asıllı Yahudi şarkıcı (Hazan) ve besteci (d. 1874)"
+    },
+    {
+      "yil": 1956,
+      "metin": "Džafer-beg Kulenović, Boşnak siyasetçi (Yugoslavya Krallığı Orman ve Madencilik Bakanı ve Bağımsız Hırvatistan Devleti Başkan Yardımcısı) (d. 1891)"
+    },
+    {
+      "yil": 1967,
+      "metin": "Woody Guthrie, Amerikalı folk müzik şarkıcısı (d. 1912)"
+    },
+    {
+      "yil": 1968,
+      "metin": "Fakih Usman, Endonezyalı politikacı (d. 1902)"
+    },
+    {
+      "yil": 1969,
+      "metin": "Skip James, Amerikalı blues şarkıcısı, gitarist ve şarkı sözü yazarı (d. 1902)"
+    },
+    {
+      "yil": 1975,
+      "metin": "Guy Mollet, Fransız siyasetçi ve Fransa Başbakanı (d. 1905)"
+    },
+    {
+      "yil": 1978,
+      "metin": "Muzaffer Kuşakçıoğlu, Türk siyasetçi (d. 1905)"
+    },
+    {
+      "yil": 1979,
+      "metin": "Nicos Poulantzas, Yunan asıllı Fransız sosyolog ve felsefeci (d. 1936)"
+    },
+    {
+      "yil": 1987,
+      "metin": "Jean Anouilh, Fransız oyun yazarı (d. 1910)"
+    },
+    {
+      "yil": 1993,
+      "metin": "Mahmut Şerafettin Dikerdem, Türk diplomat ve yazar (d. 1916)"
+    },
+    {
+      "yil": 1998,
+      "metin": "Roddy McDowall, İngiliz oyuncu (d. 1928)"
+    },
+    {
+      "yil": 1999,
+      "metin": "Akio Morita, Japon iş insanı ve Sony'nin kurucusu (d. 1921)"
+    },
+    {
+      "yil": 2004,
+      "metin": "Janet Leigh, Amerikalı oyuncu (d. 1927)"
+    },
+    {
+      "yil": 2005,
+      "metin": "Francesco Scoglio, İtalyan teknik direktör (d. 1941)"
+    },
+    {
+      "yil": 2005,
+      "metin": "Nurettin Ersin, Türk asker ve Türk Silahlı Kuvvetleri'nin 18. Genelkurmay Başkanı (d. 1918)"
+    },
+    {
+      "yil": 2010,
+      "metin": "Philippa Foot, İngiliz filozof (d. 1920)"
+    },
+    {
+      "yil": 2013,
+      "metin": "Masae Kasai, Japon voleybolcu (d. 1933)"
+    },
+    {
+      "yil": 2014,
+      "metin": "Behcet Nacar, Türk sinema oyuncusu (d. 1934)"
+    },
+    {
+      "yil": 2014,
+      "metin": "Jean-Jacques Marcel, Fransız eski millî futbolcu (d. 1931)"
+    },
+    {
+      "yil": 2015,
+      "metin": "Denis Healey, İngiltere'nin eski bakanlarından, İşçi Partili siyasetçi (d. 1917)"
+    },
+    {
+      "yil": 2016,
+      "metin": "Andrew Vicari, Galli ressam (d. 1938)"
+    },
+    {
+      "yil": 2016,
+      "metin": "Ljupka Dimitrovska, Makedonya doğumlu Hırvat şarkıcı (d. 1946)"
+    },
+    {
+      "yil": 2016,
+      "metin": "Mehmet Türker Acaroğlu, Türk araştırmacı-yazar, kütüphaneci, dokümantalist ve çevirmen (d. 1915)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Rodney Bickerstaffe, İngiliz aktivist, yönetici ve sendikacı (d. 1945)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Michel Jouvet, Fransız nörobiyolog ve oneirolog (d. 1925)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Isabella Karle, Amerikalı bilim insanı (d. 1921)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Celal Talabani, Iraklı Kürt siyasetçi ve Irak'ın 6. Cumhurbaşkanı (d. 1933)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Elisabeth Andersen, Hollandalı oyuncu (d. 1920)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Julien Bogaert, Belçikalı kano yarışçısı (d. 1924)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Roger Gibbs, İngiliz girişimci ve iş insanı (d. 1934)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Leon Lederman, Amerikalı fizikçi (d. 1922)"
+    },
+    {
+      "yil": 2018,
+      "metin": "John Von Ohlen, Amerikalı caz müzisyeni ve besteci (d. 1941)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Yıldırım Öcek, Türk oyuncu (d. 1952)"
+    },
+    {
+      "yil": 2019,
+      "metin": "Diogo Freitas do Amaral, Portekizli siyasetçi, akademisyen ve Portekiz Başbakanı (d. 1941)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Thomas Jefferson Byrd, Amerikalı oyuncu (d. 1950)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Karel Fiala, Çek opera sanatçısı ve aktör (d. 1925)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Armelia McQueen, Amerikalı aktris (d. 1952)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Todd Akin, Amerikalı siyasetçi, iş adamı ve mühendis (d. 1947)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Luis Belló, İspanyol futbolcu ve teknik direktör (d. 1929)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Blanka Bohdanová, Çek tiyatro, sinema ve dizi oyuncusu (d. 1930)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Samantha Epasinghe, Sri Lankalı tiyatro, sinema ve dizi oyuncusu (d. 1967)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Cynthia Harris, Amerikalı aktris (d. 1934)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Jorge Medina, Şilili Roma Katolik piskopos ve Kardinaldir (d. 1926)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Ghanashyam Nayak, Hint aktör (d. 1945)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Marc Pilcher, İngiliz saç stilisti ve makyaj sanatçısı (d. 1967)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Marta Rojas, Kübalı gazeteci, tarihçi, yazar ve devrimci (d. 1928)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Bernard Tapie Fransız iş insanı, aktör, şarkıcı, sunucu ve siyasetçi (d. 1943)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Lars Vilks, İsveçli çizer, karikatürist, heykeltıraş ve sanat tarihçisi (d. 1946)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Ekow Blankson, Ganalı aktör ve iş insanı (d. 1972)"
+    },
+    {
+      "yil": 2025,
+      "metin": "Patrica Routledge, İngiliz oyuncu ve şarkıcı (d. 1929)"
+    }
+  ],
+  "ozelGunler": [
+    "Türkiye, Azerbaycan, Kazakistan, Özbekistan ve Kırgızistan - Türk Dili Konuşan Ülkeler İşbirliği Günü",
+    "Almanya Bağımsızlık günü"
+  ],
+  "kaynak": {
+    "ad": "Vikipedi",
+    "url": "https://tr.wikipedia.org/wiki/3_Ekim",
+    "revid": 37818751
+  },
+  "guncelleme": "2026-09-27T09:06:37.959Z"
+}

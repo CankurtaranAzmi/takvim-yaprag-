@@ -1,0 +1,32 @@
+---
+import Base from '../layouts/Base.astro';
+import { AYLAR, AY_GUN_SAYISI, gunSlug, istanbulBugun } from '../lib/tarih.mjs';
+import { gunBul } from '../lib/veri.mjs';
+
+const b = istanbulBugun();
+// Pazartesi başlangıçlı ızgara; boşluklar bu yılın takvimine göre
+const ilkGunOfseti = (ay) => (new Date(Date.UTC(b.yil, ay, 1)).getUTCDay() + 6) % 7;
+---
+<Base baslik="Takvim – Tüm Günler" aciklama="Yılın 366 gününün her biri için tarihte bugün sayfaları. Bir gün seçin, o gün tarihte neler olduğunu okuyun." aktif="takvim">
+  <div class="giris">
+    <h1>Takvim</h1>
+    <p>Bir gün seçin, o gün tarihte neler olduğunu okuyun.</p>
+  </div>
+  <div class="aylar">
+    {AYLAR.map((ad, i) => (
+      <section class="ay-kart">
+        <h2>{ad}</h2>
+        <div class="ay-gunler">
+          {Array.from({ length: ilkGunOfseti(i) }, () => <span aria-hidden="true"></span>)}
+          {Array.from({ length: AY_GUN_SAYISI[i] }, (_, k) => {
+            const gun = k + 1;
+            const var_ = gunBul(i + 1, gun);
+            return var_
+              ? <a href={`/${gunSlug(i + 1, gun)}/`} class={b.ay === i + 1 && b.gun === gun ? 'bugun' : undefined} aria-label={`${gun} ${ad}`}>{gun}</a>
+              : <span title="Yakında">{gun}</span>;
+          })}
+        </div>
+      </section>
+    ))}
+  </div>
+</Base>

@@ -1,0 +1,22 @@
+---
+// Anasayfa: derleme anındaki İstanbul tarihinin günü. Site her gece 00:05'te yeniden derlenir.
+import Base from '../layouts/Base.astro';
+import GunIcerik from '../components/GunIcerik.astro';
+import { istanbulBugun, gunAdi } from '../lib/tarih.mjs';
+import { gunBul, GUNLER } from '../lib/veri.mjs';
+import { SITE } from '../site.config.mjs';
+
+const b = istanbulBugun();
+const g = gunBul(b.ay, b.gun) ?? GUNLER[0];
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITE.ad,
+  url: SITE.url,
+  inLanguage: 'tr',
+  description: SITE.aciklama,
+};
+---
+<Base baslik={`Tarihte Bugün: ${gunAdi(g.ay, g.gun)}`} aciklama={`Bugün ${gunAdi(g.ay, g.gun)}: tarihte bugün yaşanan olaylar, doğanlar, ölenler ve özel günler.`} jsonld={jsonld} aktif="bugun">
+  <GunIcerik g={g} bugunMu />
+</Base>

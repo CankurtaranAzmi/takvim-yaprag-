@@ -1,0 +1,40 @@
+---
+import { AYLAR, AY_GUN_SAYISI } from '../lib/tarih.mjs';
+---
+<section class="gun-sec" aria-labelledby="gun-sec-baslik">
+  <h2 id="gun-sec-baslik">Başka bir gün seç</h2>
+  <p>Doğum gününde, yıl dönümünde ya da merak ettiğin bir tarihte neler olmuş?</p>
+  <form id="gun-sec-form" action="/takvim/">
+    <label class="gizli" for="gs-gun">Gün</label>
+    <select id="gs-gun" name="gun">
+      {Array.from({ length: 31 }, (_, i) => <option value={i + 1}>{i + 1}</option>)}
+    </select>
+    <label class="gizli" for="gs-ay">Ay</label>
+    <select id="gs-ay" name="ay">
+      {AYLAR.map((a, i) => <option value={i + 1}>{a}</option>)}
+    </select>
+    <button type="submit">Göster</button>
+  </form>
+</section>
+
+<script define:vars={{ AYLAR, AY_GUN_SAYISI }}>
+  const form = document.getElementById('gun-sec-form');
+  const gunSel = document.getElementById('gs-gun');
+  const aySel = document.getElementById('gs-ay');
+  const tr = { ç: 'c', ğ: 'g', ı: 'i', ö: 'o', ş: 's', ü: 'u' };
+  const sluga = (s) => s.toLocaleLowerCase('tr').replace(/[çğıöşü]/g, (c) => tr[c]);
+  const simdi = new Date();
+  aySel.value = String(simdi.getMonth() + 1);
+  gunSel.value = String(simdi.getDate());
+  const sinirla = () => {
+    const max = AY_GUN_SAYISI[aySel.value - 1];
+    [...gunSel.options].forEach((o) => { o.hidden = o.disabled = Number(o.value) > max; });
+    if (Number(gunSel.value) > max) gunSel.value = String(max);
+  };
+  aySel.addEventListener('change', sinirla);
+  sinirla();
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    location.href = `/${gunSel.value}-${sluga(AYLAR[aySel.value - 1])}/`;
+  });
+</script>

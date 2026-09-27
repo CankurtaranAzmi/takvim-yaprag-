@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro';
+import GunIcerik from '../components/GunIcerik.astro';
+import { gunAdi, gunAdiDe } from '../lib/tarih.mjs';
+import { GUNLER } from '../lib/veri.mjs';
+import { SITE } from '../site.config.mjs';
+
+export function getStaticPaths() {
+  return GUNLER.map((g) => ({ params: { gun: g.slug }, props: { g } }));
+}
+
+const { g } = Astro.props;
+const ad = gunAdi(g.ay, g.gun);
+const ornek = g.olaylar.slice(-3).map((o) => o.yil).reverse().join(', ');
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Takvim', item: `${SITE.url}/takvim/` },
+    { '@type': 'ListItem', position: 2, name: ad, item: `${SITE.url}/${g.slug}/` },
+  ],
+};
+---
+<Base
+  baslik={`${ad} – Tarihte Bugün`}
+  aciklama={`${gunAdiDe(g.ay, g.gun)} tarihte ne oldu? ${g.olaylar.length} önemli olay${ornek ? ` (${ornek}...)` : ''}, bu günde doğanlar ve ölenler.`}
+  jsonld={jsonld}
+>
+  <GunIcerik g={g} />
+</Base>

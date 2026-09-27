@@ -1,0 +1,700 @@
+{
+  "ay": 9,
+  "gun": 30,
+  "olaylar": [
+    {
+      "id": "1399-iv-henry-ingiltere-krali-oldu",
+      "yil": 1399,
+      "metin": "IV. Henry İngiltere Kralı oldu.",
+      "konular": [
+        "IV. Henry"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1517-oruc-reis-cezayir-zaferini-elde-etti",
+      "yil": 1517,
+      "metin": "Oruç Reis, Cezayir zaferini elde etti.",
+      "konular": [
+        "Oruç Reis",
+        "Cezayir"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1520-kanuni-sultan-suleyman-10-osmanli-padisahi-olarak",
+      "yil": 1520,
+      "metin": "Kanuni Sultan Süleyman 10. Osmanlı Padişahı olarak tahta çıktı.",
+      "konular": [
+        "I. Süleyman",
+        "Osmanlı İmparatorluğu"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1730-sultan-i-mahmut-tahta-cikti",
+      "yil": 1730,
+      "metin": "Sultan I. Mahmut tahta çıktı.",
+      "konular": [
+        "I. Mahmud"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1791-mozartin-son-operasi-sihirli-flutun-galasi-viyanada",
+      "yil": 1791,
+      "metin": "Mozart'ın son operası Sihirli Flütün galası Viyana'da yapıldı.",
+      "konular": [
+        "Wolfgang Amadeus Mozart",
+        "Sihirli Flüt",
+        "Viyana"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1888-karindesen-jack-ucuncu-kurbani-olan-elizabeth-stridei",
+      "yil": 1888,
+      "metin": "Karındeşen Jack üçüncü kurbanı olan Elizabeth Stride'ı ve dördüncü kurbanı olan Catherine Eddowes'u öldürerek aynı gün iki kişiyi öldürmüş oldu.",
+      "konular": [
+        "Karındeşen Jack"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1930-ilk-turk-sivil-pilotlardan-vecihi-bey-kendi",
+      "yil": 1930,
+      "metin": "İlk Türk sivil pilotlardan Vecihi Bey, kendi yaptığı uçağıyla Göztepe'den Yeşilköy'e uçtu.",
+      "konular": [
+        "Vecihi Hürkuş",
+        "Göztepe, Kadıköy",
+        "Yeşilköy"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1956-soprano-leyla-gencer-san-franciscoda-konser-verdi",
+      "yil": 1956,
+      "metin": "Soprano Leyla Gencer, San Francisco'da konser verdi.",
+      "konular": [
+        "Soprano",
+        "Leyla Gencer",
+        "San Francisco",
+        "konser"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1960-devlet-planlama-teskilati-kuruldu",
+      "yil": 1960,
+      "metin": "Devlet Planlama Teşkilatı kuruldu.",
+      "konular": [
+        "Devlet Planlama Teşkilatı"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1966-botsvana-birlesik-kralliktan-bagimsizligini-kazandi",
+      "yil": 1966,
+      "metin": "Botsvana, Birleşik Krallık'tan bağımsızlığını kazandı.",
+      "konular": [
+        "Botsvana",
+        "Birleşik Krallık"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1980-devlet-baskani-orgeneral-kenan-evren-kara-harp",
+      "yil": 1980,
+      "metin": "Devlet Başkanı Orgeneral Kenan Evren, Kara Harp Okulunun yeni ders yılı açılış töreninde konuştu: \"Eğer izm'li bir ideoloji aşılamak lazım gelirse işte Ulu Önder Atatürk'ün Kemalizm ideolojisi vardır. Onu benimseyiniz.\"",
+      "konular": [
+        "Kenan Evren"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1991-istanbul-metrosunun-on-tunel-insaati-basladi-acilisi",
+      "yil": 1991,
+      "metin": "İstanbul Metrosu'nun ön tünel inşaatı başladı. Açılışı Sosyal Demokrat Halkçı Parti Genel Başkanı Erdal İnönü yaptı.",
+      "konular": [
+        "İstanbul Metrosu",
+        "Sosyaldemokrat Halkçı Parti",
+        "Erdal İnönü"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1993-6-2-mw-latur-depremi-hindistanin-maharashtra",
+      "yil": 1993,
+      "metin": "6,2 Mw Latur depremi Hindistan'ın Maharashtra kentini maksimum VIII (Şiddetli) Mercalli yoğunluğuyla sallayarak 9.748 kişinin ölümüne ve 30.000 kişinin yaralanmasına neden oldu",
+      "konular": [],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2005-danimarkada-jyllands-posten-isimli-gazetede-muhammed-peygamberi",
+      "yil": 2005,
+      "metin": "Danimarka'da Jyllands Posten isimli gazetede Muhammed peygamberi tasvir eden karikatürler yayınlaması üzerine Karikatür Krizi çıktı.",
+      "konular": [
+        "Danimarka",
+        "Jyllands-Posten",
+        "Muhammed",
+        "Danimarka Karikatür Krizi"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2009-endonezyanin-sumatra-adasinda-gerceklesen-depremde-1115-kisi",
+      "yil": 2009,
+      "metin": "Endonezya'nın Sumatra adasında gerçekleşen depremde 1115 kişi öldü.",
+      "konular": [
+        "Endonezya",
+        "Sumatra",
+        "deprem"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2016-matthew-kasirgasi-kategori-5-kasirgasi-haline-gelerek",
+      "yil": 2016,
+      "metin": "Matthew Kasırgası Kategori 5 kasırgası haline gelerek Karayip Denizi'nde 2007'den bu yana oluşan en güçlü kasırga oldu",
+      "konular": [
+        "Matthew Kasırgası"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor"
+    }
+  ],
+  "dogumlar": [
+    {
+      "yil": 1207,
+      "metin": "Mevlânâ Celaleddin-i Rumi, Fars şair (ö. 1273)"
+    },
+    {
+      "yil": 1227,
+      "metin": "IV. Nicolaus, 22 Şubat 1288'den 1292'de ölümüne kadar papalık yapmıştır (ö. 1292)"
+    },
+    {
+      "yil": 1550,
+      "metin": "Michael Maestlin, Alman astronom ve matematikçi (ö. 1631)"
+    },
+    {
+      "yil": 1715,
+      "metin": "Étienne Bonnot de Condillac, Fransız düşünür (ö. 1780)"
+    },
+    {
+      "yil": 1802,
+      "metin": "Antoine Jérôme Balard, Fransız kimyacı (ö. 1876)"
+    },
+    {
+      "yil": 1856,
+      "metin": "Naile Sultan, Abdülmecid'in kızı (ö. 1882)"
+    },
+    {
+      "yil": 1863,
+      "metin": "Reinhard Scheer, Kaiserliche Marine Amirali (ö. 1928)"
+    },
+    {
+      "yil": 1870,
+      "metin": "Jean Baptiste Perrin, Fransız fizikçi (ö.1942)"
+    },
+    {
+      "yil": 1882,
+      "metin": "Hans Geiger, Alman fizikçi ve Geiger sayacının mucidi (ö. 1945)"
+    },
+    {
+      "yil": 1883,
+      "metin": "Bernhard Rust, Nazi Almanyası'nda Bilim, Eğitim ve Ulusal Kültür Bakanı (ö. 1945)"
+    },
+    {
+      "yil": 1895,
+      "metin": "Lewis Milestone, Rus asıllı Amerikalı film yönetmeni (ö. 1980)"
+    },
+    {
+      "yil": 1898,
+      "metin": "Renée Adorée, Sessiz sinema dönemi Fransız oyuncu (ö. 1933)"
+    },
+    {
+      "yil": 1904,
+      "metin": "Ralph Forbes, İngiltere ve Amerika Birleşik Devletleri'nde çalışmış olan İngiliz film ve tiyatro oyuncusu (ö. 1951)"
+    },
+    {
+      "yil": 1905,
+      "metin": "Nevill Mott, İngiliz fizikçi ve Nobel Fizik Ödülü sahibi (ö. 1996)"
+    },
+    {
+      "yil": 1908,
+      "metin": "David Oistrakh, Ukraynalı bir klasik kemancı, orkestra şefi ve pedagog (ö. 1974)"
+    },
+    {
+      "yil": 1911,
+      "metin": "Gustave M. Gilbert, Amerikalı Psikolog (ö. 1977)"
+    },
+    {
+      "yil": 1913,
+      "metin": "Bill Walsh, Amerikalı film yapımcısı ve senarist (ö. 1975)"
+    },
+    {
+      "yil": 1918,
+      "metin": "Aldo Parisot, Brezilyalı-Amerikalı çellist ve müzik eğitimcisi (ö. 2018)"
+    },
+    {
+      "yil": 1920,
+      "metin": "Nejat Ekrem Basmacı, İstanbul Ticaret Borsası Onursal Başkanı ve Türkiye Odalar ve Borsalar Birliği eski Konsey Başkanı (ö. 2018)"
+    },
+    {
+      "yil": 1921,
+      "metin": "Deborah Kerr, İskoç kökenli İngiliz sinema ve sahne oyuncusu (ö. 2007)"
+    },
+    {
+      "yil": 1924,
+      "metin": "Truman Capote, Amerikalı yazar (ö. 1984)"
+    },
+    {
+      "yil": 1926,
+      "metin": "Joseph Behar, Amerikalı televizyon yapımcısı ve yönetmeni"
+    },
+    {
+      "yil": 1928,
+      "metin": "Elie Wiesel, Romanya doğumlu Yahudi edebiyatçı ve Nobel Barış Ödülü sahibi (ö. 2016)"
+    },
+    {
+      "yil": 1931,
+      "metin": "Angie Dickinson, Amerikalı aktris"
+    },
+    {
+      "yil": 1932,
+      "metin": "Shintarō Ishihara, 1999-2012 yılları arasında Tokyo Valisi olarak görev yapan Japon siyasetçi ve yazar (ö. 2022)"
+    },
+    {
+      "yil": 1939,
+      "metin": "Jean-Marie Lehn, Fransız kimyager"
+    },
+    {
+      "yil": 1942,
+      "metin": "Leyla Berkes Onat, Türk ressam, çevirmen ve yazar"
+    },
+    {
+      "yil": 1942,
+      "metin": "M. Srinivas, Hint siyasetçi (ö. 2025)"
+    },
+    {
+      "yil": 1943,
+      "metin": "Johann Deisenhofer, Alman biyokimyacı"
+    },
+    {
+      "yil": 1947,
+      "metin": "Marc Bolan, İngiliz müzisyen, şarkıcı, söz yazarı ve şair (ö. 1977)"
+    },
+    {
+      "yil": 1948,
+      "metin": "Semiramis Pekkan, Türk sinema oyuncusu ve ses sanatçısı"
+    },
+    {
+      "yil": 1955,
+      "metin": "Ünver Kaynak, Türk bilim insanı ve akademisyen"
+    },
+    {
+      "yil": 1956,
+      "metin": "Frank Arnesen, Danimarkalı eski futbolcu ve Hamburg'nin şu anki sportif direktörü"
+    },
+    {
+      "yil": 1957,
+      "metin": "Fran Drescher, Amerikalı oyuncu, komedyen, yazar ve aktivist"
+    },
+    {
+      "yil": 1958,
+      "metin": "Nick Fish, Amerikalı siyasetçi ve hukukçu (ö. 2020)"
+    },
+    {
+      "yil": 1959,
+      "metin": "Ettore Messina, İtalyan profesyonel basketbol koçu"
+    },
+    {
+      "yil": 1960,
+      "metin": "Ahmet Ümit, Türk şair ve yazar"
+    },
+    {
+      "yil": 1961,
+      "metin": "Eric Stoltz, Amerikalı yönetmen, aktör ve yapımcı"
+    },
+    {
+      "yil": 1962,
+      "metin": "Frank Rijkaard, Hollandalı eski futbolcu ve teknik direktör"
+    },
+    {
+      "yil": 1967,
+      "metin": "Paul Dobransky, Amerikalı doktor ve yazar"
+    },
+    {
+      "yil": 1968,
+      "metin": "Hervé Renard, Fransız eski futbolcu, futbol menajeri ve teknik direktör"
+    },
+    {
+      "yil": 1969,
+      "metin": "Chris Von Erich, Amerikalı profesyonel güreşçi (ö. 1991)"
+    },
+    {
+      "yil": 1971,
+      "metin": "Giancarlo Judica Cordiglia, İtalyan oyuncu ve yönetmen"
+    },
+    {
+      "yil": 1973,
+      "metin": "Vyaçeslav Lıçkin, Azeri millî futbolcu"
+    },
+    {
+      "yil": 1974,
+      "metin": "Daniel Wu, Çin asıllı Amerikalı yönetmen, yapımcı ve aktör"
+    },
+    {
+      "yil": 1975,
+      "metin": "Marion Cotillard, Fransız oyuncu, şarkıcı ve çevreci"
+    },
+    {
+      "yil": 1976,
+      "metin": "Chay Hews, Avustralyalı futbolcu"
+    },
+    {
+      "yil": 1977,
+      "metin": "Roy Carroll, Kuzey İrlandalı eski millî futbolcu"
+    },
+    {
+      "yil": 1981,
+      "metin": "Jan Rajnoch, Çek eski futbolcu"
+    },
+    {
+      "yil": 1982,
+      "metin": "Tory Lane, Amerikalı eski pornografik film oyuncusu ve yönetmeni"
+    },
+    {
+      "yil": 1984,
+      "metin": "Georgios Eleftheriou, Kıbrıslı millî futbolcu"
+    },
+    {
+      "yil": 1989,
+      "metin": "Emilio Nsue, Ekvator Gineli millî futbolcu"
+    },
+    {
+      "yil": 1990,
+      "metin": "Kim Seung-Gyu, Güney Koreli milli futbolcu"
+    },
+    {
+      "yil": 1991,
+      "metin": "Cosmin Matei, Rumen millî futbolcu"
+    },
+    {
+      "yil": 1993,
+      "metin": "Bedir Benun, Faslı milli futbolcu"
+    },
+    {
+      "yil": 1995,
+      "metin": "Victor Andrade, Brezilyalı futbolcu"
+    },
+    {
+      "yil": 1995,
+      "metin": "Mauro Arambarri, Uruguaylı profesyonel futbolcu"
+    },
+    {
+      "yil": 1996,
+      "metin": "Nico Elvedi, İsviçreli milli futbolcu"
+    },
+    {
+      "yil": 1996,
+      "metin": "Alexander Nübel, Alman futbolcu ve Almanya millî takımında kaleci"
+    },
+    {
+      "yil": 1997,
+      "metin": "Max Verstappen, Hollandalı Formula 1 pilotu"
+    },
+    {
+      "yil": 1999,
+      "metin": "Ersu Şaşma, Türk sırıkla atlama atleti"
+    },
+    {
+      "yil": 1999,
+      "metin": "Shuto Machino, Japon millî futbolcu"
+    },
+    {
+      "yil": 2002,
+      "metin": "Maddie Ziegler, Amerikalı dansçı, oyuncu ve internet ünlüsü"
+    }
+  ],
+  "olumler": [
+    {
+      "yil": 420,
+      "metin": "Hieronymus, Romalı rahip, teolog ve tarihçi (d. 347)"
+    },
+    {
+      "yil": 1246,
+      "metin": "II. Yaroslav, 1238 ile 1246 yılları arasında Vladimir Büyük prensi (d. 1191)"
+    },
+    {
+      "yil": 1572,
+      "metin": "Francisco de Borja, 4. Gandía Dükü, İspanyol bir Cizvit ve üçüncü Üstün Generali idi (d. 1510)"
+    },
+    {
+      "yil": 1626,
+      "metin": "Nurhaci, Qing Hanedanı'nın kurucusu (d. 1553)"
+    },
+    {
+      "yil": 1897,
+      "metin": "Lisieux'lü Teresa, Fransız Karmelit rahibe ve mistik (d. 1873)"
+    },
+    {
+      "yil": 1937,
+      "metin": "Miheil Cavahişvili, Gürcü yazar (d. 1880)"
+    },
+    {
+      "yil": 1942,
+      "metin": "Hans-Joachim Marseille, Alman avcı pilotu (d. 1919)"
+    },
+    {
+      "yil": 1943,
+      "metin": "Franz Oppenheimer, Alman sosyolog ve politik ekonomist (d. 1864)"
+    },
+    {
+      "yil": 1955,
+      "metin": "James Dean, Amerikalı oyuncu (d. 1931)"
+    },
+    {
+      "yil": 1978,
+      "metin": "Ali Nihat Tarlan, Türk edebiyat tarihçisi (d. 1898)"
+    },
+    {
+      "yil": 1985,
+      "metin": "Charles Francis Richter, Amerikalı deprem bilimci ve Richter ölçeğinin yaratıcısı (d. 1900)"
+    },
+    {
+      "yil": 1985,
+      "metin": "Simone Signoret, Fransız oyuncu (d. 1921)"
+    },
+    {
+      "yil": 1987,
+      "metin": "Alfred Bester, Amerikalı bilimkurgu yazarı, senarist ve editör (d. 1913)"
+    },
+    {
+      "yil": 1990,
+      "metin": "Patrick White, Avustralyalı yazar ve Nobel Edebiyat Ödülü sahibi (d. 1912)"
+    },
+    {
+      "yil": 1994,
+      "metin": "André Michel Lwoff, Fransız mikrobiyolog (d. 1902)"
+    },
+    {
+      "yil": 1999,
+      "metin": "Avni Akyol, Türk eğitimci ve siyasetçi (Millî Eğitim Bakanı ve Kültür Bakanı) (d. 1931)"
+    },
+    {
+      "yil": 2003,
+      "metin": "Robert Kardashian, Ermeni asıllı Amerikalı avukat (d. 1944)"
+    },
+    {
+      "yil": 2010,
+      "metin": "Stephen J. Cannell, Amerikalı senarist, film ve dizi yapımcısı (d. 1941)"
+    },
+    {
+      "yil": 2011,
+      "metin": "Anwar al-Awlaki, Amerikalı-Yemenli imam ve vaiz (d. 1971)"
+    },
+    {
+      "yil": 2011,
+      "metin": "Suphi Gürsoytrak, Türk asker ve siyasetçi (d. 1925)"
+    },
+    {
+      "yil": 2011,
+      "metin": "Ralph Steinman, Kanadalı immünolog, hücre biyoloğu ve Nobel Fizyoloji veya Tıp Ödülü sahibi (d. 1943)"
+    },
+    {
+      "yil": 2012,
+      "metin": "Turhan Bey, Türk kökenli Avusturyalı oyuncu ve yapımcı (d. 1922)"
+    },
+    {
+      "yil": 2012,
+      "metin": "Barbara Ann Scott, Kanadalı buz patencisi (d. 1928)"
+    },
+    {
+      "yil": 2014,
+      "metin": "Vítor Crespo, Portekizli siyasetçi ve akademisyen (d. 1932)"
+    },
+    {
+      "yil": 2014,
+      "metin": "Martin Perl, Keşfini gerçekleştirdiği Tau leptonu ile 1995 yılında Nobel Fizik Ödülünü kazanmış olan Amerikalı fizikçi (d. 1927)"
+    },
+    {
+      "yil": 2015,
+      "metin": "Ricky Talan, Eski Hollandalı futbolcu (d. 1960)"
+    },
+    {
+      "yil": 2016,
+      "metin": "Hanoi Hannah, Vietnamlı radyo sunucusu (d. 1931)"
+    },
+    {
+      "yil": 2016,
+      "metin": "Mike Towell, İskoç profesyonel boksör (d. 1991)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Elizabeth Baur, Amerikalı oyuncu (d. 1947)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Vladimir Voevodsky, Rus-Amerikalı matematikçi (d. 1966)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Kemal İnci, Türk sinema ve dizi oyuncusu (d. 1933)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Kim Larsen, Danimarkalı rock müzik sanatçısı (d. 1945)"
+    },
+    {
+      "yil": 2018,
+      "metin": "René Pétillon, Fransız çizer (d. 1945)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Czesław Strumiłło, Leh kimya mühendisliği uzmanı (d. 1930)"
+    },
+    {
+      "yil": 2019,
+      "metin": "David Akers-Jones, İngiliz siyasetçi (d. 1927)"
+    },
+    {
+      "yil": 2019,
+      "metin": "Wayne Fitzgerald, Amerikalı sinema ve televizyon baş tasarımcısı (d. 1930)"
+    },
+    {
+      "yil": 2019,
+      "metin": "Viju Khote, Hint oyuncu (d. 1941)"
+    },
+    {
+      "yil": 2019,
+      "metin": "Kornel Andrzej Morawiecki, Polonyalı siyasetçi ve teorik fizikçi (d. 1941)"
+    },
+    {
+      "yil": 2019,
+      "metin": "Ben Pon, Hollandalı otomobil yarışçısı, atıcı ve şarap üreticisi (d. 1936)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Ali Bozer, Türk hukukçu ve siyasetçi (d. 1925)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Jacques Brunhes, Fransız komünist siyasetçi (d. 1934)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Leonard A. Mastroni, Amerikalı siyasetçi ve hukukçu (d. 1949)"
+    },
+    {
+      "yil": 2020,
+      "metin": "John Russell, Amerikalı eski asker ve binici (d. 1920)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Carlisle Floyd, Amerikalı besteci ve müzisyen (d. 1926)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Xicoténcatl Leyva Mortera, Meksikalı siyasetçi ve hukukçu (d. 1940)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Donna Nalewaja, Amerikalı siyasetçi ve emlakçı (d. 1939)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Philip Owen, Kanadalı siyasetçi (d. 1933)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Kōichi Sugiyama, Japon besteci ve orkestra şefi (d. 1931)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Şehzad Azam, Pakistanlı kriketçi (d. 1985)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Manvel Badeyan, Ermeni siyasetçi (d. 1957)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Alexandru Vagner, Rumen profesyonel futbolcu (d. 1989)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Yuri Zaitsev, Sovyet-Rus Olimpiyat haltercisi (d. 1951)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Halid ez-Zeylai, Suudi Arabistanlı millî futbolcu (d. 1987)"
+    },
+    {
+      "yil": 2024,
+      "metin": "Ken Page, Amerikalı sinema oyuncusu (d. 1954)"
+    },
+    {
+      "yil": 2025,
+      "metin": "Necati Zincirkıran, Türk gazeteci ve yazar (d. 1929)"
+    }
+  ],
+  "ozelGunler": [
+    "Fırtına: Turna Geçimi Fırtınası",
+    "Dünya Çeviri Günü",
+    "Botsvana'nın Bağımsızlık Günü"
+  ],
+  "kaynak": {
+    "ad": "Vikipedi",
+    "url": "https://tr.wikipedia.org/wiki/30_Eyl%C3%BCl",
+    "revid": 37907765
+  },
+  "guncelleme": "2026-09-27T09:06:35.867Z"
+}

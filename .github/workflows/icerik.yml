@@ -1,0 +1,59 @@
+# Her gün önümüzdeki 8 günün verisini Vikipedi'den çeker, eksik özetleri Claude ile yazar
+# ve bir Pull Request açar. PR'ı inceleyip birleştirmek = editör onayı.
+name: Günlük içerik
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # 09:00 İstanbul
+  workflow_dispatch:
+    inputs:
+      kapsam:
+        description: 'Boş = önümüzdeki 8 gün, "--hepsi" = 366 gün, "--gun 09-27" = tek gün'
+        required: false
+        default: ''
+      limit:
+        description: 'En fazla kaç özet yazılsın'
+        required: false
+        default: '60'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  icerik:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Vikipedi'den listeleri çek
+        run: node scripts/wiki-cek.mjs ${{ github.event.inputs.kapsam }}
+
+      - name: Eksik özetleri yaz
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+        run: node scripts/ozet-yaz.mjs ${{ github.event.inputs.kapsam }} --limit ${{ github.event.inputs.limit || '60' }}
+
+      - name: Derlemeyi dene
+        run: npm run build
+
+      - name: Pull Request aç
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: icerik/gunluk
+          delete-branch: true
+          commit-message: 'İçerik: günlük güncelleme'
+          title: 'İçerik: günlük güncelleme'
+          body: |
+            Otomatik içerik güncellemesi.
+
+            - `durum: "yayinda"` olan özetler birleştirmeden sonra yayına girer.
+            - `durum: "incele"` olanlar modelin emin olmadığı kayıtlardır; düzeltip `yayinda` yapabilir ya da olduğu gibi bırakabilirsiniz (yayınlanmaz).
+            - Hatalı bir özeti silmek için `ozet` alanını `null` yapın.
+          labels: icerik
