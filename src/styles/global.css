@@ -95,7 +95,7 @@ p { margin: 0 0 1em; }
 .serit a[aria-current='page'] b { color: var(--kirmizi); }
 
 /* ——— Manşet ——— */
-.manset { position: relative; min-height: min(78vh, 640px); display: flex; align-items: flex-end; background: var(--koyu); color: #fff; overflow: hidden; isolation: isolate; }
+.manset { position: relative; min-height: min(52vh, 440px); display: flex; align-items: flex-end; background: var(--koyu); color: #fff; overflow: hidden; isolation: isolate; }
 .manset-gorsel { position: absolute; inset: 0; z-index: -1; margin: 0; }
 .manset-gorsel img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 30%; display: block; }
 .manset--gorselsiz { background: repeating-linear-gradient(-55deg, var(--koyu) 0 22px, var(--koyu-2) 22px 44px); min-height: 360px; }
@@ -195,7 +195,7 @@ main { padding-bottom: 72px; }
 .kaynak-kutu { font-size: .8rem; color: var(--soluk); margin-top: 24px; }
 
 /* ——— Olay sayfası ——— */
-.manset--olay { min-height: min(70vh, 560px); }
+.manset--olay { min-height: min(48vh, 400px); }
 .yol { font-size: .78rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: rgb(255 255 255 / .7); margin-bottom: 14px; }
 .yol a { color: rgb(255 255 255 / .7); text-decoration: none; }
 .yol a:hover { color: #fff; }
@@ -249,7 +249,7 @@ main { padding-bottom: 72px; }
   .menu a[aria-current='page']::after { left: 7px; right: 7px; bottom: -11px; }
   .logo-isaret { width: 30px; height: 30px; }
   .logo-yazi { font-size: 1.25rem; }
-  .manset { min-height: 520px; }
+  .manset { min-height: 380px; }
   .manset .kap { padding-top: 32px; padding-bottom: 16px; padding-left: 12px; padding-right: 12px; }
   .manset-panel { padding: 18px; border-radius: 14px; }
   .sayilar { gap: 16px; }
@@ -283,3 +283,7 @@ main { padding-bottom: 72px; }
 :root[data-tema="koyu"] .tema-dugme .ay { display: none; }
 :root[data-tema="koyu"] .tema-dugme .gunes { display: block; }
 @media (max-width: 720px) { .tema-dugme { width: 34px; height: 34px; } }
+
+.olay-bolumu + .olay-bolumu { margin-top: 48px; }
+.kart-kredi { display: block; margin-top: 12px; font-size: .72rem; color: var(--soluk); line-height: 1.45; }
+.kart-kredi a { color: var(--soluk); }

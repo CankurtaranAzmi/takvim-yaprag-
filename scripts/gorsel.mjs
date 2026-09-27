@@ -30,10 +30,10 @@ function htmlSok(s = '') {
 }
 
 /** Madde başlığı -> ana görsel dosya adı (yalnızca serbest lisanslı) */
-async function maddeGorselleri(basliklar) {
+async function maddeGorselleri(basliklar, host = 'tr.wikipedia.org') {
   const sonuc = new Map();
   for (const grup of parcala([...new Set(basliklar)], 50)) {
-    const j = await api('tr.wikipedia.org', {
+    const j = await api(host, {
       action: 'query', prop: 'pageimages', piprop: 'name', pilicense: 'free', redirects: '1', titles: grup.join('|'),
     });
     const yonlendirme = new Map();
@@ -92,11 +92,11 @@ async function dosyaBilgileri(dosyalar) {
  * gorsel alanı hiç tanımlı olmayan olaylara görsel arar.
  * gorsel: null  -> aranmış, bulunamamış (ya da elle kapatılmış), tekrar aranmaz.
  */
-export async function gorselleriBul(olaylar, { yenile = false } = {}) {
+export async function gorselleriBul(olaylar, { yenile = false, host = 'tr.wikipedia.org' } = {}) {
   const hedef = olaylar.filter((o) => yenile || o.gorsel === undefined);
   if (!hedef.length) return 0;
 
-  const maddeler = await maddeGorselleri(hedef.flatMap((o) => o.konular ?? []));
+  const maddeler = await maddeGorselleri(hedef.flatMap((o) => o.konular ?? []), host);
   const adaylar = new Map(); // olay -> [{ dosya, konu }]
   for (const o of hedef) {
     const d = (o.konular ?? [])

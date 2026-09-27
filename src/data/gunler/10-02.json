@@ -1477,5 +1477,399 @@
     "url": "https://tr.wikipedia.org/wiki/2_Ekim",
     "revid": 37817062
   },
-  "guncelleme": "2026-09-27T10:43:55.988Z"
+  "guncelleme": "2026-09-27T10:43:55.988Z",
+  "yakinOlaylar": [
+    {
+      "id": "2025-tr-a-magnitude-5-0-earthquake-hits",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "metinEn": "A magnitude 5.0 earthquake hits the Sea of Marmara, injuring 17 people in the Istanbul area.",
+      "konular": [
+        "Sea of Marmara",
+        "Istanbul"
+      ],
+      "haberKaynagi": {
+        "ad": "Mugla Gazetesi",
+        "url": "https://www.muglagazetesi.com.tr/gundem/deprem-sonrasi-17-kisi-yaralandi-4-binada-hasar-ihbari-yapildi-197399h"
+      },
+      "metin": null,
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Historical_peninsula_and_modern_skyline_of_Istanbul.jpg/960px-Historical_peninsula_and_modern_skyline_of_Istanbul.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Historical_peninsula_and_modern_skyline_of_Istanbul.jpg/500px-Historical_peninsula_and_modern_skyline_of_Istanbul.jpg",
+        "genislik": 960,
+        "yukseklik": 464,
+        "orijinalGenislik": 3301,
+        "yazar": "Hunanuk",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Historical_peninsula_and_modern_skyline_of_Istanbul.jpg",
+        "aciklama": "Aerial view of the historical peninsula and modern skyline of Istanbul",
+        "konu": "Istanbul"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2023-tr-turkey-launches-airstrikes-against-around-20",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "metinEn": "Turkey launches airstrikes against around 20 PKK targets in northern Iraq, in response to the PKK's bombing of Ankara, killing an unknown number of militants.",
+      "konular": [
+        "airstrike",
+        "Kurdistan Workers' Party",
+        "Iraq",
+        "2023 Ankara bombing",
+        "Ankara"
+      ],
+      "haberKaynagi": {
+        "ad": "AP News",
+        "url": "https://apnews.com/article/turkey-ankara-explosion-dfdbae1c7cd90f7e0a48b029c866b561"
+      },
+      "metin": null,
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bombardement_du_Grand_B%C3%A9_par_des_B-24_Liberators_de_la_8th_Air_Force_am%C3%A9ricaine_en_ao%C3%BBt_1944..jpg/960px-Bombardement_du_Grand_B%C3%A9_par_des_B-24_Liberators_de_la_8th_Air_Force_am%C3%A9ricaine_en_ao%C3%BBt_1944..jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bombardement_du_Grand_B%C3%A9_par_des_B-24_Liberators_de_la_8th_Air_Force_am%C3%A9ricaine_en_ao%C3%BBt_1944..jpg/500px-Bombardement_du_Grand_B%C3%A9_par_des_B-24_Liberators_de_la_8th_Air_Force_am%C3%A9ricaine_en_ao%C3%BBt_1944..jpg",
+        "genislik": 960,
+        "yukseklik": 705,
+        "orijinalGenislik": 2593,
+        "yazar": "US Air Force",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bombardement_du_Grand_B%C3%A9_par_des_B-24_Liberators_de_la_8th_Air_Force_am%C3%A9ricaine_en_ao%C3%BBt_1944..jpg",
+        "aciklama": "Bombing of the Grand Bé islet close to Saint-Malo, France in August 1944 by American B-24 Liberators of the 8th US Air Force.",
+        "konu": "airstrike"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bombardement_du_Grand_B%C3%A9_par_des_B-24_Liberators_de_la_8th_Air_Force_am%C3%A9ricaine_en_ao%C3%BBt_1944..jpg/960px-Bombardement_du_Grand_B%C3%A9_par_des_B-24_Liberators_de_la_8th_Air_Force_am%C3%A9ricaine_en_ao%C3%BBt_1944..jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bombardement_du_Grand_B%C3%A9_par_des_B-24_Liberators_de_la_8th_Air_Force_am%C3%A9ricaine_en_ao%C3%BBt_1944..jpg/500px-Bombardement_du_Grand_B%C3%A9_par_des_B-24_Liberators_de_la_8th_Air_Force_am%C3%A9ricaine_en_ao%C3%BBt_1944..jpg",
+          "genislik": 960,
+          "yukseklik": 705,
+          "orijinalGenislik": 2593,
+          "yazar": "US Air Force",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Bombardement_du_Grand_B%C3%A9_par_des_B-24_Liberators_de_la_8th_Air_Force_am%C3%A9ricaine_en_ao%C3%BBt_1944..jpg",
+          "aciklama": "Bombing of the Grand Bé islet close to Saint-Malo, France in August 1944 by American B-24 Liberators of the 8th US Air Force.",
+          "konu": "airstrike"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Ankara_from_bus_station.jpg/960px-Ankara_from_bus_station.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Ankara_from_bus_station.jpg/500px-Ankara_from_bus_station.jpg",
+          "genislik": 960,
+          "yukseklik": 620,
+          "orijinalGenislik": 3883,
+          "yazar": "Boubacar Amadou Cisse",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_from_bus_station.jpg",
+          "aciklama": "Ankara is the capital city of Turkey. This picture has been taken from the Central Bus Station.",
+          "konu": "Ankara"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2019-dn-25-soldiers-are-killed-and-60",
+      "yil": 2019,
+      "bolge": "dunya",
+      "metinEn": "25 soldiers are killed and 60 missing following attacks on two army camps in Boulkessi and Mondoro, Mali.",
+      "konular": [
+        "Mondoro",
+        "Mali"
+      ],
+      "haberKaynagi": {
+        "ad": "CNN",
+        "url": "https://edition.cnn.com/2019/10/02/africa/mali-soldiers-killed-military-base-attack/index.html"
+      },
+      "metin": null,
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2018-tr-the-washington-post-journalist-jamal-khashoggi",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "metinEn": "The Washington Post journalist Jamal Khashoggi is murdered inside the Saudi consulate in Istanbul, Turkey, triggering a diplomatic crisis for Saudi Arabia.",
+      "konular": [
+        "The Washington Post",
+        "Jamal Khashoggi",
+        "Murder of Jamal Khashoggi",
+        "Istanbul"
+      ],
+      "haberKaynagi": {
+        "ad": "N.Y. Times",
+        "url": "https://www.nytimes.com/2018/11/16/world/europe/khashoggi-turkey.html"
+      },
+      "metin": null,
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Jamal_Khashoggi_in_March_2018_%28cropped%29.jpg/960px-Jamal_Khashoggi_in_March_2018_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Jamal_Khashoggi_in_March_2018_%28cropped%29.jpg/500px-Jamal_Khashoggi_in_March_2018_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1344,
+        "orijinalGenislik": 1430,
+        "yazar": "April Brady / POMED",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Jamal_Khashoggi_in_March_2018_(cropped).jpg",
+        "aciklama": "Saudi journalist, Global Opinions columnist for the Washington Post, and former editor-in-chief of Al-Arab News Channel Jamal Khashoggi offers remarks during POMED’s “Mohammed bin Salman’s Saudi Arabi",
+        "konu": "Jamal Khashoggi"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Jamal_Khashoggi_in_March_2018_%28cropped%29.jpg/960px-Jamal_Khashoggi_in_March_2018_%28cropped%29.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Jamal_Khashoggi_in_March_2018_%28cropped%29.jpg/500px-Jamal_Khashoggi_in_March_2018_%28cropped%29.jpg",
+          "genislik": 960,
+          "yukseklik": 1344,
+          "orijinalGenislik": 1430,
+          "yazar": "April Brady / POMED",
+          "lisans": "CC BY 2.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Jamal_Khashoggi_in_March_2018_(cropped).jpg",
+          "aciklama": "Saudi journalist, Global Opinions columnist for the Washington Post, and former editor-in-chief of Al-Arab News Channel Jamal Khashoggi offers remarks during POMED’s “Mohammed bin Salman’s Saudi Arabi",
+          "konu": "Jamal Khashoggi"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Funeral_for_Kashoggi_in_Istanbul%2C_November_16%2C_2018.jpg/960px-Funeral_for_Kashoggi_in_Istanbul%2C_November_16%2C_2018.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Funeral_for_Kashoggi_in_Istanbul%2C_November_16%2C_2018.jpg/500px-Funeral_for_Kashoggi_in_Istanbul%2C_November_16%2C_2018.jpg",
+          "genislik": 960,
+          "yukseklik": 720,
+          "orijinalGenislik": 2048,
+          "yazar": "Mark Lowen",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Funeral_for_Kashoggi_in_Istanbul,_November_16,_2018.jpg",
+          "aciklama": "Funeral for Kashoggi in Istanbul, November 16, 2018 Image donated to Wikimedia UK by Mark Lowen, former BBC correspondent in Turkey.",
+          "konu": "Murder of Jamal Khashoggi"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Historical_peninsula_and_modern_skyline_of_Istanbul.jpg/960px-Historical_peninsula_and_modern_skyline_of_Istanbul.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Historical_peninsula_and_modern_skyline_of_Istanbul.jpg/500px-Historical_peninsula_and_modern_skyline_of_Istanbul.jpg",
+          "genislik": 960,
+          "yukseklik": 464,
+          "orijinalGenislik": 3301,
+          "yazar": "Hunanuk",
+          "lisans": "CC0",
+          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Historical_peninsula_and_modern_skyline_of_Istanbul.jpg",
+          "aciklama": "Aerial view of the historical peninsula and modern skyline of Istanbul",
+          "konu": "Istanbul"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2009-dn-ireland-holds-a-second-referendum-on",
+      "yil": 2009,
+      "bolge": "dunya",
+      "metinEn": "Ireland holds a second referendum on the EU's Lisbon Treaty. The amendment is approved by the Irish electorate, having been rejected in the Lisbon I referendum held last year.",
+      "konular": [
+        "Republic of Ireland",
+        "Twenty-eighth Amendment of the Constitution of Ireland",
+        "European Union",
+        "Lisbon Treaty",
+        "Irish electorate"
+      ],
+      "haberKaynagi": {
+        "ad": "RTÉ News",
+        "url": "http://www.rte.ie/news/2009/1003/eulisbon1.html"
+      },
+      "metin": null,
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Tratado_de_Lisboa_13_12_2007_%2804%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Tratado_de_Lisboa_13_12_2007_%2804%29.jpg",
+        "genislik": 700,
+        "yukseklik": 466,
+        "orijinalGenislik": 700,
+        "yazar": "Archiwum Kancelarii Prezydenta RP",
+        "lisans": "GFDL 1.2",
+        "lisansUrl": "https://gnu.org/licenses/old-licenses/fdl-1.2.html",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Tratado_de_Lisboa_13_12_2007_(04).jpg",
+        "aciklama": "Tratado de Lisboa 2007",
+        "konu": "Lisbon Treaty"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2009-dn-the-international-olympic-committee-awards-rio",
+      "yil": 2009,
+      "bolge": "dunya",
+      "metinEn": "The International Olympic Committee awards Rio de Janeiro the right to host the 2016 Summer Olympics.",
+      "konular": [
+        "International Olympic Committee",
+        "Rio de Janeiro",
+        "2016 Summer Olympics"
+      ],
+      "haberKaynagi": {
+        "ad": "BBC News",
+        "url": "http://news.bbc.co.uk/sport1/hi/olympic_games/8282518.stm"
+      },
+      "metin": null,
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Si%C3%A8ge_CIO_2020_%281%29.jpg/960px-Si%C3%A8ge_CIO_2020_%281%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Si%C3%A8ge_CIO_2020_%281%29.jpg/500px-Si%C3%A8ge_CIO_2020_%281%29.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 5568,
+        "yazar": "Gzzz",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Si%C3%A8ge_CIO_2020_(1).jpg",
+        "aciklama": "The IOC headquarters, in Lausanne (Switzerland).",
+        "konu": "International Olympic Committee"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Si%C3%A8ge_CIO_2020_%281%29.jpg/960px-Si%C3%A8ge_CIO_2020_%281%29.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Si%C3%A8ge_CIO_2020_%281%29.jpg/500px-Si%C3%A8ge_CIO_2020_%281%29.jpg",
+          "genislik": 960,
+          "yukseklik": 640,
+          "orijinalGenislik": 5568,
+          "yazar": "Gzzz",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Si%C3%A8ge_CIO_2020_(1).jpg",
+          "aciklama": "The IOC headquarters, in Lausanne (Switzerland).",
+          "konu": "International Olympic Committee"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Cidade_Maravilhosa.jpg/960px-Cidade_Maravilhosa.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Cidade_Maravilhosa.jpg/500px-Cidade_Maravilhosa.jpg",
+          "genislik": 960,
+          "yukseklik": 513,
+          "orijinalGenislik": 3648,
+          "yazar": "Rafael Rabello de Barros",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Cidade_Maravilhosa.jpg",
+          "aciklama": "Rio !",
+          "konu": "Rio de Janeiro"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2002-dn-former-republika-srpska-president-biljana-plavsic",
+      "yil": 2002,
+      "bolge": "dunya",
+      "metinEn": "Former Republika Srpska president Biljana Plavšić pleads guilty to crimes against humanity for her involvement in the Bosnian genocide.",
+      "konular": [
+        "Republika Srpska",
+        "Biljana Plavšić",
+        "crimes against humanity",
+        "Bosnian genocide"
+      ],
+      "haberKaynagi": {
+        "ad": "The New York Times",
+        "url": "https://www.nytimes.com/2002/10/03/international/europe/exbosnian-serb-leader-enters-guilty-plea-to-the-hague.html"
+      },
+      "metin": null,
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Biljana_Plavsic.JPG/960px-Biljana_Plavsic.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Biljana_Plavsic.JPG/500px-Biljana_Plavsic.JPG",
+        "genislik": 960,
+        "yukseklik": 1250,
+        "orijinalGenislik": 1260,
+        "yazar": "SSGT Lance Cheung, USAF",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Biljana_Plavsic.JPG",
+        "aciklama": "Biljana Plavšić, from 960912-F-2907C-002 U.S. Provisional President Mrs. Biljana Plavsic, at a group press conference, held in support of Operation JOINT ENDEAVOR, after meeting with the principal ele",
+        "konu": "Biljana Plavšić"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Biljana_Plavsic.JPG/960px-Biljana_Plavsic.JPG",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Biljana_Plavsic.JPG/500px-Biljana_Plavsic.JPG",
+          "genislik": 960,
+          "yukseklik": 1250,
+          "orijinalGenislik": 1260,
+          "yazar": "SSGT Lance Cheung, USAF",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Biljana_Plavsic.JPG",
+          "aciklama": "Biljana Plavšić, from 960912-F-2907C-002 U.S. Provisional President Mrs. Biljana Plavsic, at a group press conference, held in support of Operation JOINT ENDEAVOR, after meeting with the principal ele",
+          "konu": "Biljana Plavšić"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Ambassador_Morgenthau%27s_Story_p314.jpg/960px-Ambassador_Morgenthau%27s_Story_p314.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Ambassador_Morgenthau%27s_Story_p314.jpg/500px-Ambassador_Morgenthau%27s_Story_p314.jpg",
+          "genislik": 960,
+          "yukseklik": 656,
+          "orijinalGenislik": 3999,
+          "yazar": "Henry Morgenthau",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Ambassador_Morgenthau%27s_Story_p314.jpg",
+          "aciklama": "Picture showing Armenians killed during the Armenian Genocide. Image taken from Ambassador Morgenthau's Story, written by Henry Morgenthau, Sr. and published in 1918. Original description: \"THOSE WHO ",
+          "konu": "crimes against humanity"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Memorijalni_centar_Srebrenica-Poto%C4%8Dari6.JPG/960px-Memorijalni_centar_Srebrenica-Poto%C4%8Dari6.JPG",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Memorijalni_centar_Srebrenica-Poto%C4%8Dari6.JPG/500px-Memorijalni_centar_Srebrenica-Poto%C4%8Dari6.JPG",
+          "genislik": 960,
+          "yukseklik": 720,
+          "orijinalGenislik": 4000,
+          "yazar": "Andrija1234567",
+          "lisans": "GFDL",
+          "lisansUrl": "http://www.gnu.org/copyleft/fdl.html",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Memorijalni_centar_Srebrenica-Poto%C4%8Dari6.JPG",
+          "aciklama": "Memorial stone at the Srebrenica-Potočari Memorial Centre",
+          "konu": "Bosnian genocide"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2001-dn-swissair-the-nbsp-national-airline-nbsp",
+      "yil": 2001,
+      "bolge": "dunya",
+      "metinEn": "Swissair, the&nbsp;national airline&nbsp;of Switzerland, seeks bankruptcy protection and grounds its entire fleet, stranding thousands of people worldwide.",
+      "konular": [
+        "Swissair"
+      ],
+      "haberKaynagi": {
+        "ad": "The Guardian",
+        "url": "http://www.theguardian.com/business/2001/oct/03/theairlineindustry.internationalnews"
+      },
+      "metin": null,
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/McDonnell_Douglas_MD-11%2C_Swissair_AN0154183.jpg/960px-McDonnell_Douglas_MD-11%2C_Swissair_AN0154183.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/McDonnell_Douglas_MD-11%2C_Swissair_AN0154183.jpg/500px-McDonnell_Douglas_MD-11%2C_Swissair_AN0154183.jpg",
+        "genislik": 960,
+        "yukseklik": 647,
+        "orijinalGenislik": 1024,
+        "yazar": "Sunil Gupta",
+        "lisans": "GFDL 1.2",
+        "lisansUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_MD-11,_Swissair_AN0154183.jpg",
+        "aciklama": "“heading 35 immediately after takeoff”",
+        "konu": "Swissair"
+      },
+      "durum": "bekliyor"
+    }
+  ]
 }

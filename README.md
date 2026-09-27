@@ -8,6 +8,8 @@
 |---|---|
 | `src/data/gunler/MM-DD.json` | Her günün verisi (olaylar, doğumlar, ölümler, özel günler) |
 | `scripts/wiki-cek.mjs` | Vikipedi gün maddelerinden listeleri çeker (özetleri korur) |
+| `scripts/yakin-cek.mjs` | İngilizce Vikipedi "YYYY in Turkey" ve "YYYY" sayfalarından son 25 yılın olaylarını haber kaynağıyla çeker (İngilizce; ozet-yaz çevirir) |
+| `scripts/turkiye-cek.mjs` | Gemini + Google Arama ile son 15 yılın Türkiye olaylarını bulur (gün başına bir kez) |
 | `scripts/gorsel.mjs` | Olayın bağlantılı Vikipedi maddelerinden Commons görseli bulur (yalnızca serbest lisans; bayrak/logo/harita elenir), en fazla 3 aday saklar |
 | `scripts/ozet-yaz.mjs` | Özeti olmayan olaylara Gemini (ücretsiz) ile özgün özet + başlık + kategori yazar |
 | `src/pages/[gun].astro` | `/27-eylul/` gün sayfaları |

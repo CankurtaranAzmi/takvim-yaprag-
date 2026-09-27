@@ -32,13 +32,16 @@ const SEMA = {
     kategori: { type: 'STRING', format: 'enum', enum: KATEGORILER },
     guven: { type: 'STRING', format: 'enum', enum: ['yuksek', 'dusuk'], description: 'Olayın tarihi ve içeriğinden emin değilsen "dusuk".' },
     gorsel: { type: 'INTEGER', description: 'Aday görsellerden olayı en iyi anlatanın numarası; hiçbiri uygun değilse 0.' },
+    metin: { type: 'STRING', description: 'Kaydın akıcı Türkçe tek cümlelik hali (kayıt İngilizceyse çevir).' },
+    bolge: { type: 'STRING', format: 'enum', enum: ['turkiye', 'dunya'], description: 'Olay Türkiye ya da Türklerle doğrudan ilgiliyse "turkiye".' },
+    onemli: { type: 'BOOLEAN', description: 'Türk okuyucu için tarihte anılmaya değer, geniş ilgi gören bir olay mı? Yerel, teknik ya da önemsiz raporlarsa false.' },
   },
-  required: ['baslik', 'ozet', 'kategori', 'guven', 'gorsel'],
-  propertyOrdering: ['baslik', 'ozet', 'kategori', 'guven', 'gorsel'],
+  required: ['baslik', 'ozet', 'kategori', 'guven', 'gorsel', 'metin', 'bolge', 'onemli'],
+  propertyOrdering: ['metin', 'baslik', 'ozet', 'kategori', 'bolge', 'onemli', 'guven', 'gorsel'],
 };
 
 const SISTEM = `Sen "Takvim Yaprağı" adlı Türkçe "tarihte bugün" sitesinin editörüsün.
-Sana bir tarihte yaşanmış bir olayın tek satırlık kaydı ve ilgili Vikipedi maddelerinin giriş paragrafları verilecek.
+Sana bir tarihte yaşanmış bir olayın tek satırlık kaydı (Türkçe ya da İngilizce) ve ilgili Vikipedi maddelerinin giriş paragrafları verilecek. Her zaman Türkçe yaz.
 
 Görevin, okuyucunun "bu gün ne oldu, neden önemli?" sorusunu yanıtlayan özgün bir yazı hazırlamak:
 - İlk paragraf olayın kendisini anlatır: ne oldu, kim, nerede.
@@ -52,9 +55,9 @@ Görevin, okuyucunun "bu gün ne oldu, neden önemli?" sorusunu yanıtlayan özg
 Görsel seçimi: Aday görseller numaralı verilir. Olayın kendisini, baş aktörünü ya da doğrudan ilgili bir nesneyi/yeri gösteren görseli seç.
 Şunları seçme (0 ver): saldırı, katliam, afet ve ölüm olaylarında turistik şehir manzaraları; olayla ilgisi zayıf genel şehir veya bina fotoğrafları.`;
 
-async function vikiGirisleri(basliklar) {
+async function vikiGirisleri(basliklar, dil = 'tr') {
   if (!basliklar?.length) return [];
-  const url = `https://tr.wikipedia.org/w/api.php?action=query&prop=extracts&exintro=1&explaintext=1&redirects=1&format=json&formatversion=2&titles=${encodeURIComponent(basliklar.slice(0, 3).join('|'))}`;
+  const url = `https://${dil}.wikipedia.org/w/api.php?action=query&prop=extracts&exintro=1&explaintext=1&redirects=1&format=json&formatversion=2&titles=${encodeURIComponent(basliklar.slice(0, 3).join('|'))}`;
   try {
     const res = await fetch(url, { headers: { 'User-Agent': UA } });
     const json = await res.json();
@@ -67,11 +70,12 @@ async function vikiGirisleri(basliklar) {
 }
 
 async function olayYaz(ay, gun, olay) {
-  const baglam = await vikiGirisleri(olay.konular);
+  const baglam = await vikiGirisleri(olay.konular, olay.metinEn && !olay.metin ? 'en' : 'tr');
   const adaylar = olay.gorselAdaylari ?? (olay.gorsel ? [olay.gorsel] : []);
   const istek = [
     `Tarih: ${gunAdi(ay, gun)} ${yilYaz(olay.yil)}`,
-    `Kayıt: ${olay.metin}`,
+    olay.metin ? `Kayıt: ${olay.metin}` : `Kayıt (İngilizce): ${olay.metinEn}`,
+    olay.haberKaynagi ? `Haber kaynağı: ${olay.haberKaynagi.ad}` : '',
     '',
     adaylar.length
       ? 'Aday görseller:\n' + adaylar.map((g, i) => `${i + 1}. "${g.konu}" maddesinin görseli: ${g.aciklama ?? decodeURIComponent(g.kaynak.split('File:')[1])}`).join('\n')
@@ -145,21 +149,31 @@ for (const { ay, gun } of await hedefGunler(args)) {
   try { veri = JSON.parse(await fs.readFile(dosya, 'utf8')); } catch { continue; }
 
   let degisti = false;
-  for (const olay of veri.olaylar) {
-    if (!olay.gorsel || olay.ozet || olay.durum === 'incele' || kalan <= 0 || kotaDoldu) continue;
+  const TR = /Türkiye|Türk(?!men|istan)|Osmanlı|Atatürk|Ankara|İstanbul|İzmir|TBMM|Kurtuluş Savaşı/;
+  const tumu = [...veri.olaylar, ...(veri.yakinOlaylar ?? [])]
+    .filter((o) => o.gorsel && !o.ozet && o.durum === 'bekliyor')
+    .sort((a, b) => {
+      const trA = a.bolge === 'turkiye' || TR.test(a.metin ?? '') ? 1 : 0;
+      const trB = b.bolge === 'turkiye' || TR.test(b.metin ?? '') ? 1 : 0;
+      return trB - trA || b.yil - a.yil;
+    });
+  for (const olay of tumu) {
+    if (kalan <= 0 || kotaDoldu) break;
     try {
       const c = await olayYaz(ay, gun, olay);
+      if (!olay.metin) olay.metin = c.metin;
       olay.baslik = c.baslik;
       olay.ozet = c.ozet;
       olay.kategori = c.kategori;
+      olay.bolge = olay.bolge ?? c.bolge;
       olay.gorsel = c.secilenGorsel;
       delete olay.gorselAdaylari;
-      // Düşük güvenli yazılar yayınlanmaz, elle incelenir
-      olay.durum = c.guven === 'yuksek' ? 'yayinda' : 'incele';
+      // Önemsiz bulunanlar elenir; düşük güvenli yazılar yayınlanmaz, elle incelenir
+      olay.durum = !c.onemli ? 'elendi' : c.guven === 'yuksek' ? 'yayinda' : 'incele';
       degisti = true;
       yazilan++;
       kalan--;
-      console.log(`${olay.durum === 'yayinda' ? '✓' : '?'} ${gunAdi(ay, gun)} ${olay.yil}: ${c.baslik}`);
+      console.log(`${{ yayinda: '✓', incele: '?', elendi: '-' }[olay.durum]} ${gunAdi(ay, gun)} ${olay.yil}: ${c.baslik}`);
     } catch (e) {
       if (e instanceof KotaDoldu) {
         kotaDoldu = true;

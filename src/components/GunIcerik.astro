@@ -4,6 +4,7 @@ import { AYLAR, GUNLER_HAFTA, gunSlug, gunAdi, gunAdiDe, komsuGun, yilYaz, istan
 import { gunBul, oneCikan } from '../lib/veri.mjs';
 import { srcset, altMetin, kisaYazar } from '../lib/gorsel.mjs';
 import GunSec from './GunSec.astro';
+import OlayKart from './OlayKart.astro';
 
 interface Props { g: any; bugunMu?: boolean }
 const { g, bugunMu = false } = Astro.props;
@@ -26,7 +27,9 @@ for (let k = -7; k <= 7; k++) {
 const yayinda = (o: any) => o.durum === 'yayinda' && o.ozet;
 const ilkParagraf = (s: string) => (s.split(/\n\s*\n/)[0] ?? s).trim();
 const vitrin = oneCikan(g);
-const kartlar = [...g.olaylar.filter((o: any) => o !== vitrin)].reverse(); // yeniden eskiye
+const kalan = g.olaylar.filter((o: any) => o !== vitrin); // yeniden eskiye sıralı
+const turkiye = kalan.filter((o: any) => o.bolge === 'turkiye');
+const dunya = kalan.filter((o: any) => o.bolge !== 'turkiye');
 const ayKisa = (ay: number) => AYLAR[ay - 1].slice(0, 3);
 const ILK = 10;
 const dikey = (o: any) => !!o?.gorsel && o.gorsel.yukseklik > o.gorsel.genislik * 0.95;
@@ -91,35 +94,18 @@ const dikey = (o: any) => !!o?.gorsel && o.gorsel.yukseklik > o.gorsel.genislik 
 
 <div class="kap duzen">
   <div>
-    <section aria-labelledby="olaylar">
-      <div class="bolum-baslik"><h2 id="olaylar">Olaylar</h2><span>Yeniden eskiye</span></div>
-      <ol class="kartlar">
-        {kartlar.map((o: any) => {
-          const link = yayinda(o) ? `/olay/${o.id}/` : null;
-          const Kap = link ? 'a' : 'div';
-          return (
-            <li class="kart">
-              <Kap class:list={['kart-gorsel', { 'kart-gorsel--bos': !o.gorsel }]} href={link ?? undefined} tabindex={link ? -1 : undefined} aria-hidden={link ? 'true' : undefined}>
-                {o.gorsel
-                  ? <img src={o.gorsel.kucukUrl} alt={altMetin(o.gorsel)} width="500" height="313" loading="lazy" decoding="async" />
-                  : <b aria-hidden="true">{yilYaz(o.yil)}</b>}
-                <span class="kart-yil"><span>{yilYaz(o.yil)}</span></span>
-              </Kap>
-              <div class="kart-govde">
-                <div class="kart-ust">
-                  <span class="kat">{yayinda(o) && o.kategori ? o.kategori : 'Olay'}</span>
-                  {o.yil > 0 && <span>{buYil - o.yil} yıl önce</span>}
-                </div>
-                {yayinda(o)
-                  ? <><h3><a href={link}>{o.baslik}</a></h3><p>{ilkParagraf(o.ozet).slice(0, 160)}…</p><a class="kart-devam" href={link}>Devamını oku →</a></>
-                  : <p>{o.metin}</p>}
-                {o.gorsel && !yayinda(o) && <span class="kart-ust" style="margin:10px 0 0;font-weight:500;text-transform:none;letter-spacing:0">Görsel: {kisaYazar(o.gorsel, 36)} · {o.gorsel.lisans}</span>}
-              </div>
-            </li>
-          );
-        })}
-      </ol>
-    </section>
+    {turkiye.length > 0 && (
+      <section aria-labelledby="turkiye" class="olay-bolumu">
+        <div class="bolum-baslik"><h2 id="turkiye">Türkiye'de bu gün</h2><span>{turkiye.length} olay</span></div>
+        <ol class="kartlar">{turkiye.map((o: any) => <OlayKart o={o} buYil={buYil} />)}</ol>
+      </section>
+    )}
+    {dunya.length > 0 && (
+      <section aria-labelledby="dunya" class="olay-bolumu">
+        <div class="bolum-baslik"><h2 id="dunya">Dünyada bu gün</h2><span>{dunya.length} olay</span></div>
+        <ol class="kartlar">{dunya.map((o: any) => <OlayKart o={o} buYil={buYil} />)}</ol>
+      </section>
+    )}
 
     <nav class="gezinme" aria-label="Günler arası gezinme">
       {gunBul(onceki.ay, onceki.gun) ? <a href={`/${gunSlug(onceki.ay, onceki.gun)}/`}><span>← Önceki gün</span><strong>{gunAdi(onceki.ay, onceki.gun)}</strong></a> : <span />}
