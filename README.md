@@ -22,7 +22,7 @@ Olay `durum` alanı: `bekliyor` (özet yok, sadece listede görünür) · `yayin
 
 ```bash
 npm run dev                       # http://localhost:4321
-npm run cek                       # bugün + 7 gün
+npm run cek                       # 20 gün öncesi – 10 gün sonrası
 npm run cek -- --hepsi            # 366 gün
 npm run ozet -- --gun 09-27       # GEMINI_API_KEY gerekir (ücretsiz)
 npm run build                     # dist/ klasörü = public_html içeriği

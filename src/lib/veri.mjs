@@ -3,8 +3,14 @@ import { gunSlug, gunAnahtar } from './tarih.mjs';
 
 const dosyalar = import.meta.glob('../data/gunler/*.json', { eager: true, import: 'default' });
 
+// Site görsel ağırlıklı: görseli olmayan olaylar hiç gösterilmez (veride kalır, görsel bulunursa geri gelir)
 export const GUNLER = Object.values(dosyalar)
-  .map((g) => ({ ...g, slug: gunSlug(g.ay, g.gun), anahtar: gunAnahtar(g.ay, g.gun) }))
+  .map((g) => ({
+    ...g,
+    olaylar: g.olaylar.filter((o) => o.gorsel),
+    slug: gunSlug(g.ay, g.gun),
+    anahtar: gunAnahtar(g.ay, g.gun),
+  }))
   .sort((a, b) => a.ay - b.ay || a.gun - b.gun);
 
 const anahtarla = new Map(GUNLER.map((g) => [g.anahtar, g]));

@@ -1,5 +1,5 @@
-# Her gün önümüzdeki 8 günün verisini Vikipedi'den tazeler; eksik özetleri bugünden başlayarak
-# tüm yıl boyunca Gemini (ücretsiz, günde ~400) ile yazar
+# Her gün 20 gün öncesi ile 10 gün sonrası arasını Vikipedi'den çeker (pencere her gün bir gün kayar,
+# eklenen günler kalır). Eksik özetleri Gemini (ücretsiz, günde ~400) ile yazar
 # ve bir Pull Request açar. PR'ı inceleyip birleştirmek = editör onayı.
 name: Günlük içerik
 
@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
     inputs:
       kapsam:
-        description: 'Boş = önümüzdeki 8 gün, "--hepsi" = 366 gün, "--gun 09-27" = tek gün'
+        description: 'Boş = 20 gün önce / 10 gün sonra, "--hepsi" = 366 gün, "--gun 09-27" = tek gün'
         required: false
         default: ''
       limit:
@@ -39,7 +39,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
-        run: node scripts/ozet-yaz.mjs ${{ github.event.inputs.kapsam || '--hepsi' }} --limit ${{ github.event.inputs.limit || '400' }}
+        run: node scripts/ozet-yaz.mjs ${{ github.event.inputs.kapsam }} --limit ${{ github.event.inputs.limit || '400' }}
 
       - name: Derlemeyi dene
         run: npm run build

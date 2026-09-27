@@ -2,7 +2,7 @@
 // Vikipedi'deki ilgili maddelerin giriş paragrafları yalnızca BAĞLAM olarak verilir; metin kopyalanmaz.
 //
 // Kullanım:
-//   node scripts/ozet-yaz.mjs                  -> bugün + önümüzdeki 7 gün
+//   node scripts/ozet-yaz.mjs                  -> verisi çekilmiş tüm günler (bugünden başlayarak)
 //   node scripts/ozet-yaz.mjs --gun 09-27      -> tek gün
 //   node scripts/ozet-yaz.mjs --hepsi --limit 400
 //
@@ -12,7 +12,7 @@
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { gunAnahtar, gunAdi, tumGunler, istanbulBugun, komsuGun, yilYaz } from '../src/lib/tarih.mjs';
+import { gunAnahtar, gunAdi, istanbulBugun, yilYaz } from '../src/lib/tarih.mjs';
 import { KATEGORILER } from '../src/lib/kategoriler.mjs';
 
 const VERI_DIZINI = path.resolve('src/data/gunler');
@@ -112,23 +112,18 @@ async function gemini(istek, deneme = 0) {
   return JSON.parse(metin);
 }
 
-function hedefGunler(args) {
-  if (args.includes('--hepsi')) {
-    // Bugünden başlayarak yılı dolaş: yaklaşan günler önce dolsun
-    const liste = tumGunler();
-    const b = istanbulBugun();
-    const i = liste.findIndex((d) => d.ay === b.ay && d.gun === b.gun);
-    return [...liste.slice(i), ...liste.slice(0, i)];
-  }
+async function hedefGunler(args) {
   const i = args.indexOf('--gun');
   if (i >= 0) {
     const [ay, gun] = args[i + 1].split('-').map(Number);
     return [{ ay, gun }];
   }
-  let d = istanbulBugun();
-  const liste = [{ ay: d.ay, gun: d.gun }];
-  for (let k = 0; k < 7; k++) { d = komsuGun(d.ay, d.gun, 1); liste.push(d); }
-  return liste;
+  // Verisi çekilmiş günler; bugün ve sonrası önce, geçmiş günler sonra
+  const b = istanbulBugun();
+  const bugunAnahtar = gunAnahtar(b.ay, b.gun);
+  const anahtarlar = (await fs.readdir(VERI_DIZINI)).filter((f) => f.endsWith('.json')).map((f) => f.slice(0, 5)).sort();
+  const sirali = [...anahtarlar.filter((a) => a >= bugunAnahtar), ...anahtarlar.filter((a) => a < bugunAnahtar).reverse()];
+  return sirali.map((a) => ({ ay: Number(a.slice(0, 2)), gun: Number(a.slice(3, 5)) }));
 }
 
 if (!API_KEY) {
@@ -143,7 +138,7 @@ let yazilan = 0;
 let hata = 0;
 
 let kotaDoldu = false;
-for (const { ay, gun } of hedefGunler(args)) {
+for (const { ay, gun } of await hedefGunler(args)) {
   if (kalan <= 0 || kotaDoldu) break;
   const dosya = path.join(VERI_DIZINI, `${gunAnahtar(ay, gun)}.json`);
   let veri;
@@ -151,7 +146,7 @@ for (const { ay, gun } of hedefGunler(args)) {
 
   let degisti = false;
   for (const olay of veri.olaylar) {
-    if (olay.ozet || olay.durum === 'incele' || kalan <= 0 || kotaDoldu) continue;
+    if (!olay.gorsel || olay.ozet || olay.durum === 'incele' || kalan <= 0 || kotaDoldu) continue;
     try {
       const c = await olayYaz(ay, gun, olay);
       olay.baslik = c.baslik;

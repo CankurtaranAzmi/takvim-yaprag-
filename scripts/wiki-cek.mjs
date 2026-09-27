@@ -2,7 +2,8 @@
 // ve src/data/gunler/MM-DD.json dosyalarına yazar. Daha önce yazılmış özet/kategori alanları korunur.
 //
 // Kullanım:
-//   node scripts/wiki-cek.mjs                 -> bugün + önümüzdeki 7 gün
+//   node scripts/wiki-cek.mjs                 -> 20 gün öncesi ile 10 gün sonrası arası (her gün pencere kayar)
+//   node scripts/wiki-cek.mjs --once 5 --sonra 30   -> pencereyi değiştir
 //   node scripts/wiki-cek.mjs --gun 09-27     -> tek gün
 //   node scripts/wiki-cek.mjs --hepsi         -> 366 günün tamamı
 //   --gorsel-yenile                           -> daha önce bulunmuş/bulunamamış görselleri yeniden ara
@@ -10,7 +11,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { gorselleriBul } from './gorsel.mjs';
-import { AYLAR, gunAnahtar, gunAdi, slugla, tumGunler, istanbulBugun, komsuGun } from '../src/lib/tarih.mjs';
+import { AYLAR, gunAnahtar, gunAdi, slugla, tumGunler, gunPenceresi } from '../src/lib/tarih.mjs';
 
 const VERI_DIZINI = path.resolve('src/data/gunler');
 const UA = 'TakvimYapragiBot/1.0 (https://takvimyapragi.com; iletisim@takvimyapragi.com)';
@@ -151,10 +152,8 @@ function hedefGunler(args) {
     const [ay, gun] = args[i + 1].split('-').map(Number);
     return [{ ay, gun }];
   }
-  let d = istanbulBugun();
-  const liste = [{ ay: d.ay, gun: d.gun }];
-  for (let k = 0; k < 7; k++) { d = komsuGun(d.ay, d.gun, 1); liste.push(d); }
-  return liste;
+  const sayi = (ad, v) => (args.includes(ad) ? Number(args[args.indexOf(ad) + 1]) : v);
+  return gunPenceresi(sayi('--once', 20), sayi('--sonra', 10));
 }
 
 await fs.mkdir(VERI_DIZINI, { recursive: true });

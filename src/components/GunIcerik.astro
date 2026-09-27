@@ -122,8 +122,8 @@ const dikey = (o: any) => !!o?.gorsel && o.gorsel.yukseklik > o.gorsel.genislik 
     </section>
 
     <nav class="gezinme" aria-label="Günler arası gezinme">
-      <a href={`/${gunSlug(onceki.ay, onceki.gun)}/`}><span>← Önceki gün</span><strong>{gunAdi(onceki.ay, onceki.gun)}</strong></a>
-      <a href={`/${gunSlug(sonraki.ay, sonraki.gun)}/`}><span>Sonraki gün →</span><strong>{gunAdi(sonraki.ay, sonraki.gun)}</strong></a>
+      {gunBul(onceki.ay, onceki.gun) ? <a href={`/${gunSlug(onceki.ay, onceki.gun)}/`}><span>← Önceki gün</span><strong>{gunAdi(onceki.ay, onceki.gun)}</strong></a> : <span />}
+      {gunBul(sonraki.ay, sonraki.gun) ? <a href={`/${gunSlug(sonraki.ay, sonraki.gun)}/`}><span>Sonraki gün →</span><strong>{gunAdi(sonraki.ay, sonraki.gun)}</strong></a> : <span />}
     </nav>
 
     <p class="kaynak-kutu">
