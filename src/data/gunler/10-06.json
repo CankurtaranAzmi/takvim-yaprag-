@@ -1714,5 +1714,440 @@
     "url": "https://tr.wikipedia.org/wiki/6_Ekim",
     "revid": 37999615
   },
-  "guncelleme": "2026-09-27T10:43:58.690Z"
+  "guncelleme": "2026-09-27T10:43:58.690Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2441187",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bitcoin, altın ve Japon hisse senetleri zirveye çıktı! Siyasi dalgalanmalar rekor getirdi...",
+      "aciklama": "Siyasi dalgalanmalar Nikkei, bitcoin ve altının yeni rekorlar kırmasına yol açtı. Japon hisse senetleri yüzde 5'in üzerinde artış kaydederken ons altın 4 bin dolara yaklaştı, bitcoin tüm zamanların en yüksek değerine ulaştı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/bitcoin-altin-ve-japon-hisse-senetleri-zirveye-cikti-siyasi-dalgalanmalar-rekor-getirdi-2441187"
+      },
+      "yayin": "2025-10-06T12:11:00+03:00",
+      "puan": 13,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2025-haber-2441197",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Eski Dalaman Belediye Başkanı Erdoğan Karakuş hayatını kaybetti",
+      "aciklama": "Eski Dalaman Belediye Başkanı ve CHP ilçe başkanlarından Erdoğan Karakuş hayatını kaybetti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/eski-dalaman-belediye-baskani-erdogan-karakus-hayatini-kaybetti-2441197"
+      },
+      "yayin": "2025-10-06T12:23:00+03:00",
+      "puan": 12,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2024-haber-2255236",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Maxim: 'Beşiktaş inşallah şampiyon olur!'",
+      "aciklama": "Beşiktaş'ı 90+5'te yıkan golü atan Alexandru Maxim, maçın ardından açıklamalarda bulundu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/maxim-besiktas-insallah-sampiyon-olur-2255236"
+      },
+      "yayin": "2024-10-06T21:42:00+03:00",
+      "puan": 10,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2024-haber-2255192",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Yunus Nadi Parkı ve anıtı açıldı",
+      "aciklama": "Yunus Nadi Anıtı’nın da bulunduğu Yunus Nadi Parkı dün Fethiye Cumhuriyet Mahallesi’nde düzenlenen törenle açıldı. Parkın içinde aynı zamanda Yunus Nadi’nin ismini taşıyan kültür merkezinin yapımı sürüyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/yunus-nadi-parki-ve-aniti-acildi-2255192"
+      },
+      "yayin": "2024-10-06T18:15:00+03:00",
+      "puan": 8,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2023-haber-2127046",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP'nin yeni anayasa takvimi belli oldu: '400 vekil' hesabı",
+      "aciklama": "CHP lideri Kemal Kılıçdaroğlu, Cumhur İttifakı’nın hazırlayacağı yeni anayasa için kapıları kapatsa da AKP’de “ortak mutabakat” için görüşme takvimi hazır. CHP’ye yönelik “Kurultayda ya değişim\nolursa” şerhi düşülüyor. AKP, önceliği Meclis’te grubu olan altı siyasi partiye verece",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/akpnin-yeni-anayasa-takvimi-belli-oldu-400-vekil-hesabi-2127046"
+      },
+      "yayin": "2023-10-06T03:00:00+03:00",
+      "puan": 12,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2023-haber-2127053",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Depremin üzerinden 8 ay geçti: Yurttaşa değil, ranta eğilim!",
+      "aciklama": "Depremin üzerinden sekiz ay geçmesine karşın depremzedenin yaraları sarılmadı. İktidar 11 ilde kıyı dolgusu, yüksek mimari, ormana maden ve enerji santralları gibi birçok yanlışa izin verdi. Çok sayıda proje ihale yerine pazarlık usulüyle dağıtıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/depremin-uzerinden-8-ay-gecti-yurttasa-degil-ranta-egilim-2127053"
+      },
+      "yayin": "2023-10-06T03:00:00+03:00",
+      "puan": 9,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2022-haber-1989340",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez Bankası'nın net rezervleri rekor düşük seviyeye geriledi",
+      "aciklama": "Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) swap hariç net rezervleri 30 Eylül haftası itibariyle eksi 59 milyar dolarla rekor düşük seviyeye geriledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasinin-net-rezervleri-rekor-dusuk-seviyeye-geriledi-1989340"
+      },
+      "yayin": "2022-10-06T15:13:00+03:00",
+      "puan": 14,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2022-haber-1989408",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan - Macron görüşmesi başladı",
+      "aciklama": "AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan ile Fransa Cumhurbaşkanı Emmanuel Macron görüşmesi başladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-erdogan-macron-gorusmesi-basladi-1989408"
+      },
+      "yayin": "2022-10-06T18:01:00+03:00",
+      "puan": 10,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2021-haber-1874807",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Paris Anlaşması TBMM Genel Kurulu'nda kabul edildi",
+      "aciklama": "Paris Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi, TBMM Genel Kurulunda kabul edildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/paris-anlasmasi-tbmm-genel-kurulunda-kabul-edildi-1874807"
+      },
+      "yayin": "2021-10-06T23:21:00+03:00",
+      "puan": 18,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2021-haber-1874726",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Paris İklim Anlaşması’nın Meclis görüşmelerinde ‘uçak’ ve ‘fon’ tartışması",
+      "aciklama": "CHP Eskişehir Milletvekili Utku Çakırözer, Dışişleri Komisyonu'ndan geçen Paris Paris İklim Anlaşması'na dair kanun teklifine ilişkin",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/paris-iklim-anlasmasinin-meclis-gorusmelerinde-ucak-ve-fon-tartismasi-1874726"
+      },
+      "yayin": "2021-10-06T14:48:00+03:00",
+      "puan": 11,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2020-haber-1771683",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Mali ve Orta Afrika’ya asker gönderilmesine ilişkin tezkere TBMM'de kabul edildi",
+      "aciklama": "Mali ve Orta Afrika’ya asker gönderilmesine ilişkin Cumhurbaşkanlığı Tezkeresi TBMM'de kabul edildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/mali-ve-orta-afrikaya-asker-gonderilmesine-iliskin-tezkere-tbmmde-kabul-edildi-1771683"
+      },
+      "yayin": "2020-10-06T22:04:00+03:00",
+      "puan": 12,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2020-haber-1771660",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Kırgızistan'da Başbakan ve Meclis Başkanı istifa etti",
+      "aciklama": "Kırgızistan'da seçim sonuçlarını kabul etmeyen muhaliflerin kamu kurumlarını işgali sürerken, Meclis Başkanı Dastanbek Cumabekov ve Başbakan Kubatbek Boronov istifa etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/kirgizistanda-basbakan-ve-meclis-baskani-istifa-etti-1771660"
+      },
+      "yayin": "2020-10-06T20:49:00+03:00",
+      "puan": 11,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2018-haber-1104251",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Serbest Dalış Dünya Şampiyonası rekorlarla tamamlandı",
+      "aciklama": "Antalya’nın Kaş ilçesinde Türkiye Sualtı Sporları Federasyonunca (TSSF) 1-6 Ekim tarihleri arasında gerçekleştirilen CMAS 3. Serbest Dalış Outdoor Dünya Şampiyonası’nın son gün yarışlarında 2 Dünya rekoru kırıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/serbest-dalis-dunya-sampiyonasi-rekorlarla-tamamlandi-1104251"
+      },
+      "yayin": "2018-10-06T16:07:00+03:00",
+      "puan": 13,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2018-haber-1104124",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ultra Maraton Türkiye Şampiyonası start aldı",
+      "aciklama": "Türkiye’nin en uzun ve şartları en ağır ultra maraton koşusu bu yıl ilk kez 2018 Ultra Maraton Türkiye Şampiyonası adı altında başladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ultra-maraton-turkiye-sampiyonasi-start-aldi-1104124"
+      },
+      "yayin": "2018-10-06T13:36:00+03:00",
+      "puan": 10,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2017-haber-839021",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolar son 3 ayın zirvesinde, avro tarihi rekorunu kırdı",
+      "aciklama": "ABD Merkez Bankası'nın (Fed) Aralık ayında faiz artıracağı yolundaki beklentilerin güçlenmesiyle dolar 3.63 lirayı da aştı, avro da 4.24 lirayı da aşarak rekor kırdı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/dolar-son-3-ayin-zirvesinde-avro-tarihi-rekorunu-kirdi-839021"
+      },
+      "yayin": "2017-10-06T09:41:00+03:00",
+      "puan": 14,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2017-haber-839640",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Aydın'da CHP'nin delege seçiminde oyların imzadan fazla çıkması sonucu arbede çıktı",
+      "aciklama": "CHP'nin Aydın’da gerçekleştirilen delege seçimleri sırasında sandıktan çıkan oy sayısı oy kullanan kişi sayısından fazla çıkınca partililer arasında arbede yaşandı. Olay yerine çağrılan polis ekiplerinin müdahalesi ile çıkan tartışma büyümeden sonlandırıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/aydinda-chpnin-delege-seciminde-oylarin-imzadan-fazla-cikmasi-sonucu-arbede-cikti-839640"
+      },
+      "yayin": "2017-10-06T19:13:00+03:00",
+      "puan": 9,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2016-haber-611156",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Başbakan Yıldırım'dan Başika resti: Irak hükümetinin haddi değildir",
+      "aciklama": "Başbakan Binali Yıldırm, Irak Parlamentosu'nun Türk askerinin Irak'tan çıkartılması yönünde aldığı karara tepki göstererek",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbakan-yildirimdan-basika-resti-irak-hukumetinin-haddi-degildir-611156"
+      },
+      "yayin": "2016-10-06T13:19:00+03:00",
+      "puan": 9,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2016-haber-611416",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Deniz Akkaya: Yılmaz Erdoğan'a hala aşığım",
+      "aciklama": "Deniz Akkaya yaptığı açıklamayla magazin gündeminde dikkat çekti. Yılmaz Erdoğan ve Belçim Bilgin ayrılığı hakkında yorum yapan Akkaya, bir itirafta bulundu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/deniz-akkaya-yilmaz-erdogana-hala-asigim-611416"
+      },
+      "yayin": "2016-10-06T20:30:00+03:00",
+      "puan": 7,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2015-haber-382898",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Yurt dışında 1 Kasım seçimleri için sandıklar kuruldu",
+      "aciklama": "Türkiye'de 1 Kasım'da yapılacak olan 26. Dönem Milletvekili Genel Seçimleri için yurt dışı seçmen kütüğüne kayıtlı seçmenler 8 Ekim Perşembe günü oy kullanmaya başlıyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/yurt-disinda-1-kasim-secimleri-icin-sandiklar-kuruldu-382898"
+      },
+      "yayin": "2015-10-06T22:35:00+03:00",
+      "puan": 11,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2015-haber-382745",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan'a salon vermeyen belediye başkanı konuştu",
+      "aciklama": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın Belçika’da planladığı miting için talep edilen salona izin vermeyen Brüksel Belediye Başkanı Yvan Mayeur, RTL televizyonuna yaptığı açıklamada siyasi bir mitingin resmi devlet ziyareti protokolünün dışına çıktığını söyledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogana-salon-vermeyen-belediye-baskani-konustu-382745"
+      },
+      "yayin": "2015-10-06T16:36:00+03:00",
+      "puan": 7,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2014-haber-127571",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ronaldo'dan bir rekor daha",
+      "aciklama": "İspanya'nın önde gelen kulüplerinden Real Madrid forması giyen Cristiano Ronaldo, ligde Athletic Bilbao maçında kariyerinin 22.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ronaldodan-bir-rekor-daha-127571"
+      },
+      "yayin": "2014-10-06T15:13:00+03:00",
+      "puan": 7,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2014-haber-127485",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Beşiktaş'ta 3 günlük izin başladı",
+      "aciklama": "Spor Toto Süper Lig'in 5. haftasında deplasmanda Balıkesirspor'u 1-0 yenerek liderliğe yükselen Beşiktaş'ta futbolcular 3 gün izin yapacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/besiktasta-3-gunluk-izin-basladi-127485"
+      },
+      "yayin": "2014-10-06T10:50:00+03:00",
+      "puan": 6,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2012-haber-374612",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP Kongresine Alınmayan Gazeteciler ve Anayasa",
+      "aciklama": "Bir siyasal partinin, hele devlet yardımından (yani yurttaşların ödediği vergilerden) en büyük payı alan iktidar partisinin; liderinin, subjektif nede",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/akp-kongresine-alinmayan-gazeteciler-ve-anayasa-374612"
+      },
+      "yayin": "2012-10-06T06:38:00+03:00",
+      "puan": 7,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2012-haber-374730",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İnce: Tezkere, anayasaya aykırı",
+      "aciklama": "CHP Grup Başkanvekili Muharrem İnce, Meclis'te kabul edilen tezkereye ilişkin, ''Bu tezkere uluslararası hukuka aykırıdır. Bu tezkere anayasaya aykırıdır'' dedi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ince-tezkere-anayasaya-aykiri-374730"
+      },
+      "yayin": "2012-10-06T14:42:00+03:00",
+      "puan": 5,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2011-haber-287944",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Filenin sultanları ödülde şampiyon",
+      "aciklama": "Sporda uluslararası arenada alınan derecelere büyük önem verilen Türkiye'de, bu başarıların sporculara geri dönüşü de büyük oluyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/filenin-sultanlari-odulde-sampiyon-287944"
+      },
+      "yayin": "2011-10-06T09:01:00+03:00",
+      "puan": 10,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2011-haber-287976",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez Bankası'ndan banka ekonomistlerine sunum",
+      "aciklama": "Merkez Bankası, TL zorunlu karşılık oranlarının, bankaların ülke kredi notundaki artışın özellikle fonlama maliyeti açısından sağladığı uygun ortamdan mümkün olduğunca istifade edebilmesine imkan verecek ve TL mevduat/katılım fonu dışı diğer yükümlülüklerin vadesinin uzamasını te",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/merkez-bankasindan-banka-ekonomistlerine-sunum-287976"
+      },
+      "yayin": "2011-10-06T11:30:00+03:00",
+      "puan": 6,
+      "durum": "haber",
+      "konular": []
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }

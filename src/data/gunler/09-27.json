@@ -11,9 +11,9 @@
         "Osmanlı Ordusu",
         "I. Viyana Kuşatması"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Kanuni Sultan Süleyman Viyana Önlerinde",
+      "ozet": "Kanuni Sultan Süleyman komutasındaki Osmanlı ordusu, 27 Eylül 1529 tarihinde Kutsal Roma İmparatorluğu'nun merkezi konumundaki Avusturya Arşidüklüğü'nün başkenti Viyana'yı kuşatmak üzere harekete geçti. Bu sefer, kısa süre önce gerçekleşen Mohaç Muharebesi'nin ve Macaristan tahtı üzerindeki hakimiyet mücadelesinin bir devamı niteliğindeydi.\n\nOsmanlı kuvvetleri, Mohaç'ın ardından Macaristan'da aradıkları siyasi istikrarı sağlamak ve Habsburg Hanedanı'nın Orta Avrupa'daki ilerleyişini durdurmak amacıyla bu büyük seferi planlamıştı. Sayısal olarak savunmacılardan çok üstün olan Osmanlı ordusu, dönemin en gelişmiş kuşatma teknolojilerini ve toplarını kullanarak şehre yöneldi. Ancak mevsim şartlarının elverişsizleşmesi, uzun süren seferin getirdiği lojistik zorluklar ve Viyana'nın güçlü surları karşısında kuşatma planlandığı gibi sonuç vermedi.\n\nEkim ayının ortalarında kuşatma kaldırılarak geri çekilindi. Bu girişim, Osmanlı İmparatorluğu'nun Avrupa'daki sınırlarının en uç noktalarından birini oluşturması bakımından tarihte önemli bir dönüm noktası kabul edilir ve Osmanlı'nın Batı seferlerindeki stratejik sınırlarını belirlemiştir.",
+      "kategori": "Savaş",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/960px-EmperorSuleiman.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/500px-EmperorSuleiman.jpg",
@@ -27,35 +27,8 @@
         "aciklama": "Delle tre versioni del ritratto di Solimano, ricordate dalle fonti come «di mano di Tiziano», ne sono giunte fino a noi solo due, iconograficamente diverse tra loro, ma entrambe riferibili alla botteg",
         "konu": "I. Süleyman"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/960px-EmperorSuleiman.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/500px-EmperorSuleiman.jpg",
-          "genislik": 960,
-          "yukseklik": 1123,
-          "orijinalGenislik": 1810,
-          "yazar": "Circle of Titian",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:EmperorSuleiman.jpg",
-          "aciklama": "Delle tre versioni del ritratto di Solimano, ricordate dalle fonti come «di mano di Tiziano», ne sono giunte fino a noi solo due, iconograficamente diverse tra loro, ma entrambe riferibili alla botteg",
-          "konu": "I. Süleyman"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/SiegeOfViennaByOttomanForces.jpg/960px-SiegeOfViennaByOttomanForces.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/SiegeOfViennaByOttomanForces.jpg/500px-SiegeOfViennaByOttomanForces.jpg",
-          "genislik": 960,
-          "yukseklik": 1656,
-          "orijinalGenislik": 1074,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:SiegeOfViennaByOttomanForces.jpg",
-          "aciklama": "Siege Of Buda By Suleyman",
-          "konu": "I. Viyana Kuşatması"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1540-isa-tarikati-cizvitler-papalik-tarafindan-resmen-tanindi",
@@ -94,9 +67,9 @@
         "Osmanlı İmparatorluğu",
         "Girit"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Osmanlıların Girit Fethi ve Kandiye Kalesi'nin Düşüşü",
+      "ozet": "Osmanlı İmparatorluğu'nun Akdeniz'deki hakimiyetini pekiştiren en önemli askeri harekatlardan biri olan Girit'in fethi, 27 Eylül 1669 tarihinde Kandiye Kalesi'nin teslim olmasıyla sonuçlandı. Ada üzerindeki Venedik varlığına son veren bu büyük zafer, çeyrek asra yakın süren son derece çetin çatışmalara ve deniz mücadelelerine sahne oldu. Özellikle Kandiye kuşatması, askeri tarih kitaplarına dönemin en uzun süreli ve kayıp veren kuşatmalarından biri olarak geçti. Ada genelindeki direncin tamamen kırılarak Osmanlı topraklarına katılması, Doğu Akdeniz'deki ticaret yollarının ve stratejik dengelerin Osmanlı lehine yeniden şekillenmesini sağladı. Bu fetih aynı zamanda Osmanlı İmparatorluğu'nun toprak genişlemesi sürecinde ulaştığı son büyük ada hakimiyeti olma özelliğini de taşır.",
+      "kategori": "Savaş",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Heraklion_Montage_L.png/960px-Heraklion_Montage_L.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Heraklion_Montage_L.png/500px-Heraklion_Montage_L.png",
@@ -110,35 +83,8 @@
         "aciklama": "The city of Heraklion",
         "konu": "Kandiye"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Heraklion_Montage_L.png/960px-Heraklion_Montage_L.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Heraklion_Montage_L.png/500px-Heraklion_Montage_L.png",
-          "genislik": 960,
-          "yukseklik": 1165,
-          "orijinalGenislik": 1000,
-          "yazar": "SilentResident (compilation, sources to attribute see above; if any of the sources used in the Montage are removed from Wikimedia Commons, o",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Heraklion_Montage_L.png",
-          "aciklama": "The city of Heraklion",
-          "konu": "Kandiye"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Island_of_Crete%2C_Greece.JPG/960px-Island_of_Crete%2C_Greece.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Island_of_Crete%2C_Greece.JPG/500px-Island_of_Crete%2C_Greece.JPG",
-          "genislik": 960,
-          "yukseklik": 639,
-          "orijinalGenislik": 4256,
-          "yazar": "ISS Expedition 28 crew",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Island_of_Crete,_Greece.JPG",
-          "aciklama": "The western and central parts of Crete appear surrounded by quicksilver in this astronaut photograph taken from the International Space Station. This phenomenon is known as sunglint, caused by light r",
-          "konu": "Girit"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1919-merzifonu-isgal-eden-ingilizler-sehri-terk-etti",
@@ -148,9 +94,9 @@
         "Merzifon",
         "İngiltere"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "İngiliz Birlikleri Merzifon'dan Ayrıldı",
+      "ozet": "Birinci Dünya Savaşı sonrasında Mondros Ateşkes Antlaşması'nın ardından Anadolu'nun çeşitli bölgeleri gibi stratejik noktaları işgal eden İngiliz kuvvetleri, Merzifon'daki varlıklarına son vererek şehirden çekildi. Bu gelişme, Millî Mücadele döneminde Anadolu'daki işgal güçlerinin geri çekilme süreçlerinin önemli adımlarından biri olarak kayda geçti.\n\nİngilizlerin Merzifon'u boşaltması, bölgedeki yerel direniş hareketleri ve ulusal kongreler sonrasında yurdun işgalden kurtarılması yolunda atılan adımlarla doğrudan ilişkilidir. Bu çekilme, Türk milletinin bağımsızlık mücadelesindeki kararlılığının yabancı güçler üzerindeki etkisini göstermesi açısından önem taşır.",
+      "kategori": "Savaş",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Merzifon-June2016_%281%29.jpg/960px-Merzifon-June2016_%281%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Merzifon-June2016_%281%29.jpg/500px-Merzifon-June2016_%281%29.jpg",
@@ -164,7 +110,8 @@
         "aciklama": "Aerial photograph of Merzifon, Turkey.",
         "konu": "Merzifon"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1922-yunan-krali-i-konstantin-anadolu-yenilgisi-sonrasi",
@@ -174,9 +121,9 @@
         "I. Konstantin (Yunanistan)",
         "Türk Kurtuluş Savaşı Batı Cephesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Yunan Kralı I. Konstantin Tahtını Bıraktı",
+      "ozet": "Yunanistan Kralı I. Konstantin, Türk Kurtuluş Savaşı'nda uğranılan ağır askerî yenilgi ve Anadolu'daki politikaların çökmesinin ardından 27 Eylül 1922 tarihinde tahtından çekilmek zorunda kaldı. Büyük Taarruz ile Türk ordusunun zaferi ve İzmir'in kurtarılması, Atina'da hem siyasi hem de toplumsal bir krize yol açmıştı.\n\nBu gelişme, Yunanistan'ın Anadolu'daki yayılmacı politikasının ve Megali İdea hayalinin askeri olarak son bulmasının ardından iç siyasette yaşanan büyük çalkantıların bir sonucu olarak gerçekleşti. Tahttan çekilen Konstantin ülkeyi terk ederken, bu durum Yunanistan'da monarşiye ve dönemin politik figürlerine duyulan güveni temelden sarstı.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Constantine_I_of_Greece_%281914%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Constantine_I_of_Greece_%281914%29.jpg",
@@ -190,35 +137,8 @@
         "aciklama": "Constantine I of Greece.",
         "konu": "I. Konstantin (Yunanistan)"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Constantine_I_of_Greece_%281914%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Constantine_I_of_Greece_%281914%29.jpg",
-          "genislik": 435,
-          "yukseklik": 611,
-          "orijinalGenislik": 435,
-          "yazar": "Philip de László",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Constantine_I_of_Greece_(1914).jpg",
-          "aciklama": "Constantine I of Greece.",
-          "konu": "I. Konstantin (Yunanistan)"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Greco-Turkish_War_of_1919-1922_collage.jpg/960px-Greco-Turkish_War_of_1919-1922_collage.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Greco-Turkish_War_of_1919-1922_collage.jpg/500px-Greco-Turkish_War_of_1919-1922_collage.jpg",
-          "genislik": 960,
-          "yukseklik": 960,
-          "orijinalGenislik": 1200,
-          "yazar": "Crasyy",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Greco-Turkish_War_of_1919-1922_collage.jpg",
-          "aciklama": "Clockwise from top left: Mustafa Kemal at the end of the First Battle of İnönü; Greek soldiers retreat during the last stages; Turkish infantry in trench; Greek infantry charge in river Gediz.",
-          "konu": "Türk Kurtuluş Savaşı Batı Cephesi"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1928-cin-cumhuriyeti-amerika-birlesik-devletleri-tarafindan-tanindi",
@@ -259,51 +179,24 @@
         "Berlin",
         "Tripartite Paktı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Mihver Devletleri Arasında Tarihi Üçlü Pakt İmzalandı",
+      "ozet": "Nazi Almanyası, İtalya Krallığı ve Japon İmparatorluğu arasında Berlin'de imzalanan Üçlü Pakt, İkinci Dünya Savaşı'nın seyrini değiştiren en kritik diplomatik ve askeri adımlardan biri olarak tarihe geçti. Bu anlaşmayla taraflar, Avrupa ve Asya'da kendi etki alanlarını kurma çabalarında birbirlerine siyasi, ekonomik ve askeri destek sağlama taahhüdünde bulundular. Özellikle imzacısı olan üç büyük totaliter rejimin güçlerini resmi olarak birleştirmesi, küresel çapta güç dengelerini radikal bir şekilde sarstı.\n\nPaktın temel hedefi, ABD gibi potansiyel dış müdahaleci güçleri caydırmak ve dünyayı kendi aralarında yeniden paylaşmaktı. Anlaşma metni, her devletin kendi coğrafi bölgelerinde yeni bir düzen kurma hakkını tanırken, taraflardan birinin savaşa girmesi durumunda (halihazırda çatışma içinde olan ABD hariç) karşılıklı yardımlaşma öngörüyordu. Bu hamle, Mihver devletleri bloğunu resmileştirirken, müttefikler cephesindeki endişeleri artırdı ve savaşın küresel bir boyuta ulaşmasını hızlandırdı.",
+      "kategori": "Savaş",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/960px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/500px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 560,
-        "orijinalGenislik": 5464,
-        "yazar": "Kasa Fue",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Museumsinsel_Berlin_Juli_2021_1_(cropped).jpg",
-        "aciklama": "Museumsinsel in Berlin, im Hintergrund der Fernsehturm am Alexanderplatz, Juli 2021",
-        "konu": "Berlin"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Protokol-1.03.1941.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Protokol-1.03.1941.jpg",
+        "genislik": 574,
+        "yukseklik": 827,
+        "orijinalGenislik": 574,
+        "yazar": "Bogdan Filow, Ioachim Ribbentrop, Ciano, Hiroshi Oshima",
+        "lisans": "CC BY 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Protokol-1.03.1941.jpg",
+        "aciklama": "Official Protocol of Bulgaria's accession into the Axis Tripartite Pact. Vienna, 1. March 1941",
+        "konu": "Tripartite Paktı"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/960px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/500px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 560,
-          "orijinalGenislik": 5464,
-          "yazar": "Kasa Fue",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Museumsinsel_Berlin_Juli_2021_1_(cropped).jpg",
-          "aciklama": "Museumsinsel in Berlin, im Hintergrund der Fernsehturm am Alexanderplatz, Juli 2021",
-          "konu": "Berlin"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Protokol-1.03.1941.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Protokol-1.03.1941.jpg",
-          "genislik": 574,
-          "yukseklik": 827,
-          "orijinalGenislik": 574,
-          "yazar": "Bogdan Filow, Ioachim Ribbentrop, Ciano, Hiroshi Oshima",
-          "lisans": "CC BY 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Protokol-1.03.1941.jpg",
-          "aciklama": "Official Protocol of Bulgaria's accession into the Axis Tripartite Pact. Vienna, 1. March 1941",
-          "konu": "Tripartite Paktı"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1962-yemen-arap-cumhuriyeti-kuzey-yemen-kuruldu-albay",
@@ -332,9 +225,9 @@
         "Hüseyin (Ürdün)",
         "Filistin Kurtuluş Örgütü"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Kara Eylül Krizini Sonlandıran Tarihi Anlaşma",
+      "ozet": "1970 yılının Eylül ayında Ürdün ile Filistinli gerillalar arasında yaşanan ve Kara Eylül olarak bilinen şiddetli çatışmaları durdurmak amacıyla Mısır'ın başkenti Kahire'de olağanüstü bir Arap Zirvesi toplandı. Ürdün Kralı Hüseyin ve Filistin Kurtuluş Örgütü lideri Yaser Arafat, Arap liderlerinin arabuluculuğunda bir araya gelerek kanlı çatışmaları sonlandıran bir ateşkes anlaşmasına imza attılar.\n\nBu anlaşma, Orta Doğu siyasetinde derin izler bırakan iç savaş niteliğindeki çatışmaların durdurulması açısından kritik bir dönüm noktası oldu. Taraflar arasındaki gerginliği geçici olarak dindirmeyi amaçlayan bu zirve, aynı zamanda Arap dünyasının kendi içindeki ihtilafları diplomatik yollarla çözme çabasının bir göstergesi olarak kayıtlara geçti ancak bölgedeki kalıcı barışı sağlamaya yetmedi.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/HusseinJordanien.jpg/960px-HusseinJordanien.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/HusseinJordanien.jpg/500px-HusseinJordanien.jpg",
@@ -348,7 +241,8 @@
         "aciklama": "King Hussein I , of the Hashemite Kingdom of Jordan, meets with Secretary of Defense William S. Cohen in the Pentagon on April 2, 1997. Helene C. Stikkel.",
         "konu": "Hüseyin (Ürdün)"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1996-sosyalist-afganistan-demokratik-cumhuriyetinin-son-devlet-baskani",
@@ -360,23 +254,12 @@
         "Taliban",
         "Kabil"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kabul%2C_Afghanistan_view.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kabul%2C_Afghanistan_view.jpg",
-        "genislik": 959,
-        "yukseklik": 640,
-        "orijinalGenislik": 959,
-        "yazar": "Weaveravel",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Kabul,_Afghanistan_view.jpg",
-        "aciklama": "Kabul, Afghanistan view",
-        "konu": "Kabil"
-      },
-      "durum": "bekliyor"
+      "baslik": "Afganistan'ın Devrik Lideri Necibullah'ın Acı Sonu",
+      "ozet": "Afganistan'ın son komünist devlet başkanı Muhammed Necibullah, başkent Kabil'in Taliban tarafından ele geçirilmesinin ardından vahşi bir şekilde katledildi. 1987 ile 1992 yılları arasında ülkeyi yöneten ve Sovyet desteğinin çekilmesinin ardından iktidarı kaybeden Necibullah, uzun süredir Birleşmiş Milletler yerleşkesinde sığınmacı olarak yaşıyordu. Taliban militanlarının Kabil'e girmesiyle birlikte sığındığı yerleşkeden çıkarılan eski lider, halka açık bir şekilde sorgulandıktan sonra ağır işkencelere maruz bırakılarak öldürüldü ve cesedi ibret olsun diye asıldı.\n\nBu olay, ülkeyi on yıllardır kasıp kavuran iç savaşın ve radikal İslamcı Taliban hareketinin Kabil'de kurduğu baskı rejiminin en kanlı dönüm noktalarından biri olarak tarihe geçti. Necibullah'ın öldürülmesi, uluslararası alanda büyük bir infial yaratırken, Afganistan'ın karanlık bir döneme girdiğinin ve şiddetin doruk noktasına ulaştığının en net göstergesi oldu. Ülke genelinde şeriat kurallarını en katı şekilde uygulamaya başlayan Taliban, bu infazla birlikte otoritesini tüm dünyaya sert bir mesajla duyurmuş oldu.",
+      "kategori": "Siyaset",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1998-google-web-sitesi-acildi",
@@ -399,9 +282,9 @@
         "James Joyce",
         "Ulysses (roman)"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Ulysses Uyarlamasının İrlanda'daki Yasağı Kalktı",
+      "ozet": "İrlandalı yazar James Joyce'un modern edebiyatın en önemli yapıtları arasında gösterilen Ulysses romanından sinemaya uyarlanan film, ülkesinde uzun yıllar boyunca uygulanan sansürden kurtuldu. Eserin içerdiği cesur anlatım ve dönemin ahlak anlayışına ters düşen unsurlar nedeniyle İrlanda'da sinemalarda gösterilmesi uzun süre yasaklanmıştı. 2000 yılının Eylül ayında alınan bu kararla birlikte, yazarın kendi memleketindeki kültürel engellerden biri daha tarihe karışmış oldu.\n\nUlysses, yayımlandığı günden bu yana dünya edebiyatında bilinç akışı tekniğinin en yetkin örneği olarak kabul edilmektedir. Eser, Dublin şehrinde geçen bir günü konu alırken, içerdiği üslup yenilikleri ve felsefi derinlikle edebiyat dünyasında çığır açmıştır. Ancak bu yenilikçi ve tabuları yıkan yapı, yayımlandığı dönemde hem edebi çevrelerde büyük tartışmalara yol açmış hem de pek çok ülkede resmi mercilerin engellemeleriyle karşılaşmıştır. İrlanda'da yasağın kalkması, edebiyat tarihinin en tartışmalı ve etkili metinlerinden birinin ülkesindeki serüveninde önemli bir dönüm noktasını temsil etmektedir.",
+      "kategori": "Sanat",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Revolutionary_Joyce_Better_Contrast.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Revolutionary_Joyce_Better_Contrast.jpg",
@@ -415,7 +298,8 @@
         "aciklama": null,
         "konu": "James Joyce"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "2019-dunya-capinda-2-400-noktada-iklim-degisikligini",
@@ -435,9 +319,9 @@
       "konular": [
         "2020 Dağlık Karabağ çatışmaları"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "İkinci Dağlık Karabağ Savaşı'nın Başlangıcı",
+      "ozet": "Yirmi yedi Eylül 2020 sabahı, uzun süredir donmuş bir çatışma alanı olan Dağlık Karabağ'da temas hattı boyunca silahlı çatışmalar patlak verdi. Karşılıklı topçu atışları ve hava saldırılarıyla başlayan bu süreç, tarafların askeri ve sivil kayıplar bildirmesiyle hızla tırmandı. Bölgedeki gerilimin en üst seviyeye çıkmasının ardından her iki ülkede de sıkıyönetim ve seferberlik ilan edildi. \n\nBu çatışmalar, 1990'lardaki ilk savaşın ardından çözülemeyen toprak anlaşmazlıklarının bir sonucu olarak ortaya çıktı. 1994 ateşkesinden bu yana süren statüko, bu operasyonla birlikte bozuldu ve çatışma kısa sürede geniş çaplı bir savaşa dönüştü. Azerbaycan kuvvetleri, işgal altındaki topraklarını geri almak amacıyla kapsamlı bir askerî harekât başlattı. Kırk dört gün sürecek olan bu savaş, bölgenin jeopolitik dengelerini kökten değiştirecek sonuçlar doğuracaktı.",
+      "kategori": "Savaş",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2020_Nagorno-Karabakh_war_Turkish.png/960px-2020_Nagorno-Karabakh_war_Turkish.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2020_Nagorno-Karabakh_war_Turkish.png/500px-2020_Nagorno-Karabakh_war_Turkish.png",
@@ -451,7 +335,8 @@
         "aciklama": "Bu harita belirtilmiş haritanın Türkiye Türkçesine uygun hâlidir. Yer isimlerini arama motorlarında çıkan sonuçlara, Vikipedideki hâllerine uygun olarak ve Türkiye Türkçesine yakın olmaya göre koydum.",
         "konu": "2020 Dağlık Karabağ çatışmaları"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     }
   ],
   "dogumlar": [
@@ -939,25 +824,23 @@
       "yil": 2025,
       "bolge": "turkiye",
       "tur": "haber",
-      "metin": "Son dakika... Parti Meclisi kurultayın ardından ilk kez toplandı: CHP'nin MYK üyeleri belli oldu!",
+      "metin": "Parti Meclisi kurultayın ardından ilk kez toplandı: CHP'nin MYK üyeleri belli oldu!",
       "aciklama": "Son dakika haberi... CHP Sözcüsü Deniz Yücel,",
       "haberKaynagi": {
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-parti-meclisi-kurultayin-ardindan-ilk-kez-toplandi-chp-nin-myk-uyeleri-belli-oldu-2438721"
       },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//1249ec25-2e02-4e65-b382-151ea02b4165.jpg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//1249ec25-2e02-4e65-b382-151ea02b4165.jpg",
-        "kaynak": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-parti-meclisi-kurultayin-ardindan-ilk-kez-toplandi-chp-nin-myk-uyeleri-belli-oldu-2438721",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
       "yayin": "2025-09-27T14:14:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "CHP Parti Meclisi Toplandı ve Merkez Yürütme Kurulu Üyeleri Belirlendi",
+      "ozet": "Kurultayın hemen ardından toplanan Parti Meclisi, parti yönetiminin yeni kadrosunu oluşturdu. Toplantı sonrasında yapılan açıklamada Cumhuriyet Halk Partisinin yeni Merkez Yürütme Kurulu üyelerinin kimler olduğu kamuoyuna duyuruldu.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Cumhuriyet Halk Partisi",
+        "Deniz Yücel"
+      ],
+      "gorsel": null
     },
     {
       "id": "2025-haber-2438720",
@@ -970,144 +853,52 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/chp-den-kritik-erdogan-karari-meclis-acilisinda-karsilama-olacak-mi-2438720"
       },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive/cec196c9-a4eb-4bab-b394-b41d51e9d259.jpg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive/cec196c9-a4eb-4bab-b394-b41d51e9d259.jpg",
-        "kaynak": "https://www.cumhuriyet.com.tr/siyaset/chp-den-kritik-erdogan-karari-meclis-acilisinda-karsilama-olacak-mi-2438720",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
       "yayin": "2025-09-27T14:09:00+03:00",
       "puan": 11,
-      "durum": "haber"
-    },
-    {
-      "id": "2024-haber-2251875",
-      "yil": 2024,
-      "bolge": "turkiye",
-      "tur": "haber",
-      "metin": "Deprem mi oldu? 27 Eylül 2024 nerede, ne zaman deprem oldu? Son depremler!",
-      "aciklama": "Son depremler! Az önce deprem mi oldu? Sarsıntı hisseden yurttaşlar, 27 Eylül 2024 son depremlerin nerede ve kaç büyüklüğünde olduğunu merak ediyor. Deprem mi oldu? Nerede, ne zaman deprem oldu? 27 Eylül 2024 Türkiye'deki depremler...",
-      "haberKaynagi": {
-        "ad": "Cumhuriyet",
-        "url": "https://www.cumhuriyet.com.tr/turkiye/deprem-mi-oldu-27-eylul-2024-nerede-ne-zaman-deprem-oldu-son-2251875"
-      },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2024/9/27/2251875/kapak_091251.jpg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2024/9/27/2251875/kapak_091251.jpg",
-        "kaynak": "https://www.cumhuriyet.com.tr/turkiye/deprem-mi-oldu-27-eylul-2024-nerede-ne-zaman-deprem-oldu-son-2251875",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
-      "yayin": "2024-09-27T09:13:00+03:00",
-      "puan": 13,
-      "durum": "haber"
-    },
-    {
-      "id": "2024-haber-2252176",
-      "yil": 2024,
-      "bolge": "turkiye",
-      "tur": "haber",
-      "metin": "İBB ve Moskova şehri yönetimi arasında işbirliği protokolü imzalandı",
-      "aciklama": "İstanbul Büyükşehir Belediyesi (İBB) ile federatif bir yapıya sahip Moskova şehri yönetimi arasında ilişkileri geliştirme hedefiyle işbirliği protokolü imzalandı.",
-      "haberKaynagi": {
-        "ad": "Cumhuriyet",
-        "url": "https://www.cumhuriyet.com.tr/siyaset/ibb-ve-moskova-sehri-yonetimi-arasinda-isbirligi-protokolu-imzalandi-2252176"
-      },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2024/9/27/2252176/kapak_191016.jpg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2024/9/27/2252176/kapak_191016.jpg",
-        "kaynak": "https://www.cumhuriyet.com.tr/siyaset/ibb-ve-moskova-sehri-yonetimi-arasinda-isbirligi-protokolu-imzalandi-2252176",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
-      "yayin": "2024-09-27T19:10:00+03:00",
-      "puan": 10,
-      "durum": "haber"
-    },
-    {
-      "id": "2023-haber-2123831",
-      "yil": 2023,
-      "bolge": "turkiye",
-      "tur": "haber",
-      "metin": "Erdoğan açıkladı: Vergisiz telefonun ayrıntıları belli oldu! İşte 9 bin 500 lirayı aşmayan telefon modelleri",
-      "aciklama": "Kabine sonrası konuşan AKP'li Cumhurbaşkanı Erdoğan, üniversite öğrencilerinin bir kereye mahsus olmak üzere vergisiz cep telefonu ve bilgisayar almasına olanak tanıyacak düzenlemenin ayrıntılarını açıkladı. Peki öğrenciler ve gençler hangi cep telefonu marka ve modelleri alabile",
-      "haberKaynagi": {
-        "ad": "Cumhuriyet",
-        "url": "https://www.cumhuriyet.com.tr/ekonomi/erdogan-acikladi-vergisiz-telefonun-ayrintilari-belli-oldu-iste-9-bin-500-lirayi-asmayan-telefon-modelleri-2123831"
-      },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2023/9/27/2123831/kapak_093058.jpg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2023/9/27/2123831/kapak_093058.jpg",
-        "kaynak": "https://www.cumhuriyet.com.tr/ekonomi/erdogan-acikladi-vergisiz-telefonun-ayrintilari-belli-oldu-iste-9-bin-500-lirayi-asmayan-telefon-modelleri-2123831",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
-      "yayin": "2023-09-27T09:31:00+03:00",
-      "puan": 14,
-      "durum": "haber"
-    },
-    {
-      "id": "2023-haber-2124018",
-      "yil": 2023,
-      "bolge": "turkiye",
-      "tur": "haber",
-      "metin": "Ek MTV için geri sayım başladı: İptal kararı çıkmazsa ikinci taksit ne zaman ödenecek?",
-      "aciklama": "Anayasa Mahkemesi Genel Kurulu'nca, ek MTV alınmasını öngören düzenlemenin iptali ve yürürlüğünün durdurulması istemiyle yapılan başvuruyu 28 Eylül Perşembe günü karara bağlanacak.",
-      "haberKaynagi": {
-        "ad": "Cumhuriyet",
-        "url": "https://www.cumhuriyet.com.tr/ekonomi/ek-mtv-icin-geri-sayim-basladi-iptal-karari-cikmazsa-ikinci-taksit-ne-zaman-odenecek-2124018"
-      },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2023/9/27/2124018/kapak_150700.jpg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2023/9/27/2124018/kapak_150700.jpg",
-        "kaynak": "https://www.cumhuriyet.com.tr/ekonomi/ek-mtv-icin-geri-sayim-basladi-iptal-karari-cikmazsa-ikinci-taksit-ne-zaman-odenecek-2124018",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
-      "yayin": "2023-09-27T15:07:00+03:00",
-      "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ana muhalefet partisinden Meclis açılış oturumu kararı",
+      "ozet": "Parti meclisinde oy birliği ile varılan uzlaşma neticesinde, cumhurbaşkanının katılım sağlayacağı Meclis açılış oturumunda yer almama kararı alındı. Yapılan açıklamada, söz konusu oturumun boykot edileceği ve milletvekillerinin salona girmeyeceği duyuruldu.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Cumhuriyet Halk Partisi",
+        "Türkiye Büyük Millet Meclisi"
+      ],
+      "gorsel": null
     },
     {
       "id": "2022-haber-1986010",
       "yil": 2022,
       "bolge": "turkiye",
       "tur": "haber",
-      "metin": "Son Dakika: Erdoğan: Tüm kesimlerin gelirlerini yılbaşında ciddi şekilde yükseltmekte kararlıyız",
+      "metin": "Erdoğan: Tüm kesimlerin gelirlerini yılbaşında ciddi şekilde yükseltmekte kararlıyız",
       "aciklama": "Son dakika gelişmesi... AKP'li Cumhurbaşkanı Erdoğan, yılbaşında yapılacak maaş artış oranlarına ilişkin,",
       "haberKaynagi": {
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-erdogan-tum-kesimlerin-gelirlerini-yilbasinda-ciddi-sekilde-yukseltmekte-kararliyiz-1986010"
       },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2022/9/27/1986010/kapak_180432.jpg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2022/9/27/1986010/kapak_180432.jpg",
-        "kaynak": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-erdogan-tum-kesimlerin-gelirlerini-yilbasinda-ciddi-sekilde-yukseltmekte-kararliyiz-1986010",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
       "yayin": "2022-09-27T18:04:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Gelirleri Yılbaşında Artırma Kararlılığı",
+      "ozet": "Devlet yetkilileri, yeni yıl itibarıyla toplumun tüm kesimlerinin kazançlarında önemli oranda artış yapmaya kararlı olduklarını bildirdi. Yapılan açıklamada, maaş ve gelir düzenlemeleri konusunda çalışmaların sürdüğü ifade edildi.",
+      "kategori": "Ekonomi",
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Türkiye Ekonomisi"
+      ],
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2022-haber-1985726",
@@ -1120,19 +911,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/arkas-spor-sampiyonlar-kupasi-icin-sahaya-cikiyor-1985726"
       },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2022/9/27/1985726/kapak_105625.jpg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2022/9/27/1985726/kapak_105625.jpg",
-        "kaynak": "https://www.cumhuriyet.com.tr/turkiye/arkas-spor-sampiyonlar-kupasi-icin-sahaya-cikiyor-1985726",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
       "yayin": "2022-09-27T10:56:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Arkas Spor ile Ziraat Bankkart Şampiyonlar Kupası'nda karşılaşacak",
+      "ozet": "Kupa Voley kazananı Arkas Spor ile Efeler Ligi şampiyonu Ziraat Bankkart, Ankara'da oynanacak Erkekler Spor Toto Şampiyonlar Kupası mücadelesinde rakip oluyor. İzmir ekibinin basın sözcüsü Uğur Özden, başkentteki bu kritik karşılaşmanın ardından kupayı müzelerine götürmek istediklerini ifade etti.",
+      "kategori": "Spor",
+      "konular": [
+        "Şampiyonlar Kupası",
+        "Arkas Spor",
+        "Ziraat Bankkart"
+      ],
+      "gorsel": null
     },
     {
       "id": "2021-haber-1872339",
@@ -1145,19 +935,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/deva-partili-metin-erdogan-hayatini-kaybetti-1872339"
       },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2021/9/27/1872339/kapak_184635.jpg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2021/9/27/1872339/kapak_184635.jpg",
-        "kaynak": "https://www.cumhuriyet.com.tr/siyaset/deva-partili-metin-erdogan-hayatini-kaybetti-1872339",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
       "yayin": "2021-09-27T18:39:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "DEVA Partisi Rize Kurucu İl Başkanı Metin Erdoğan Vefat Etti",
+      "ozet": "DEVA Partisi Genel Başkanı Ali Babacan, partinin Rize kurucu il başkanlığı görevini yürüten Metin Erdoğanin hayatını kaybettiğini duyurdu. Merhumun vefatı parti teşkilatında ve siyaset çevrelerinde üzüntüyle karşılandı.",
+      "kategori": "Siyaset",
+      "konular": [
+        "DEVA Partisi",
+        "Ali Babacan",
+        "Rize"
+      ],
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg",
+        "genislik": 641,
+        "yukseklik": 872,
+        "orijinalGenislik": 641,
+        "yazar": "Yıldız Yazıcıoğlu",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ali_Babacan,_May_21,_2022.jpg",
+        "aciklama": "Ali Babacan, May 21, 2022",
+        "konu": "Ali Babacan"
+      }
     },
     {
       "id": "2021-haber-1872281",
@@ -1170,19 +971,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/fransa-cumhurbaskani-macrona-yumurta-firlatildi-1872281"
       },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2021/9/27/1872281/kapak_152438.jpg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2021/9/27/1872281/kapak_152438.jpg",
-        "kaynak": "https://www.cumhuriyet.com.tr/dunya/fransa-cumhurbaskani-macrona-yumurta-firlatildi-1872281",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
       "yayin": "2021-09-27T15:23:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Fransa Cumhurbaskani Macron Lyon Ziyaretinde Saldiriya Ugradi",
+      "ozet": "Fransa lideri Emmanuel Macron, Lyon kentine gerçekleştirdiği resmi gezisi esnasında protestoyla karşılaştı. Bu ziyaret sırasında Fransa Cumhurbaskani'na yönelik olarak yumurta benzeri bir cisim fırlatıldı ve olayla ilgili güvenlik önlemleri alındı.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Emmanuel Macron",
+        "Lyon",
+        "Fransa"
+      ],
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/960px-Emmanuel_Macron_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/500px-Emmanuel_Macron_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1328,
+        "orijinalGenislik": 1515,
+        "yazar": "Nebojša Tejić",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_2025_(cropped).jpg",
+        "aciklama": "Foto: Nebojša Tejić / STA",
+        "konu": "Emmanuel Macron"
+      }
     },
     {
       "id": "2020-haber-1769325",
@@ -1195,19 +1007,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/azerbaycan-ermenistan-catismasinda-yeni-gelisme-azerbaycan-ordusu-harekata-basliyor-1769325"
       },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2020/9/27/1769325/kapak_215514.jpg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2020/9/27/1769325/kapak_215514.jpg",
-        "kaynak": "https://www.cumhuriyet.com.tr/haber/azerbaycan-ermenistan-catismasinda-yeni-gelisme-azerbaycan-ordusu-harekata-basliyor-1769325",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
       "yayin": "2020-09-27T21:49:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Azerbaycan ile Ermenistan Sınırında Karşı Taarruz Kararı",
+      "ozet": "İki ülke arasındaki cephe hattında devam eden çatışmaların ardından Azerbaycan Savunma Bakanlığı yeni bir adım attı. Bakanlık, Ermenistan güçlerine karşı sivillerin can güvenliğini korumak ve askeri hamlelere yanıt vermek amacıyla sınır boyunca taarruz operasyonu başlatıldığını bildirdi.",
+      "kategori": "Savaş",
+      "konular": [
+        "Karabağ Savaşı (2020)",
+        "Azerbaycan Savunma Bakanlığı",
+        "Ermenistan"
+      ],
+      "gorsel": null
     },
     {
       "id": "2020-haber-1769206",
@@ -1220,19 +1031,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ermenistan-basbakani-kutsal-vatanimizi-korumaya-hazir-olun-1769206"
       },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2020/9/27/1769206/kapak_120649.jpg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2020/9/27/1769206/kapak_120649.jpg",
-        "kaynak": "https://www.cumhuriyet.com.tr/haber/ermenistan-basbakani-kutsal-vatanimizi-korumaya-hazir-olun-1769206",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
       "yayin": "2020-09-27T12:04:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Ermenistan Başbakanından cephe hattındaki çatışmalarla ilgili mesaj",
+      "ozet": "Ermenistan Başbakanı Nikol Paşinyan, Azerbaycan sınırındaki cephe hattında yaşanan çatışmalar üzerine sosyal medya hesabı üzerinden bir açıklama paylaştı. Yapılan paylaşımda vatandaşların ülkeyi savunmaya hazır olmaları istendi ve bölgedeki askeri hareketliliğe dikkat çekildi.",
+      "kategori": "Savaş",
+      "konular": [
+        "Dağlık Karabağ Savaşı",
+        "Nikol Paşinyan",
+        "Ermenistan"
+      ],
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/K%C3%A4tlemine_Armeenia_peaminister_Pashinyan%27iga_%28552477480461%29.jpg/960px-K%C3%A4tlemine_Armeenia_peaminister_Pashinyan%27iga_%28552477480461%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/K%C3%A4tlemine_Armeenia_peaminister_Pashinyan%27iga_%28552477480461%29.jpg/500px-K%C3%A4tlemine_Armeenia_peaminister_Pashinyan%27iga_%28552477480461%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "orijinalGenislik": 1170,
+        "yazar": "Stenbocki maja",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:K%C3%A4tlemine_Armeenia_peaminister_Pashinyan%27iga_(552477480461).jpg",
+        "aciklama": "Armenian PM Nikol Pashinyan in a meeting with French President Emmanuel Macron, 2026",
+        "konu": "Nikol Paşinyan"
+      }
     },
     {
       "id": "2018-haber-1095149",
@@ -1245,69 +1067,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tbmm-acilis-resepsiyonu-iptal-gerekce-tasarruf-tedbirleri-1095149"
       },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2018/9/27/1095149_cover.jpeg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2018/9/27/1095149_cover.jpeg",
-        "kaynak": "https://www.cumhuriyet.com.tr/haber/tbmm-acilis-resepsiyonu-iptal-gerekce-tasarruf-tedbirleri-1095149",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
       "yayin": "2018-09-27T02:24:00+03:00",
       "puan": 8,
-      "durum": "haber"
-    },
-    {
-      "id": "2017-haber-832576",
-      "yil": 2017,
-      "bolge": "turkiye",
-      "tur": "haber",
-      "metin": "Mehmet Demirkol: Beşiktaş tam bir Şampiyonlar Ligi takımı gibiydi",
-      "aciklama": "Spor yazarı ve yorumcusu Mehmet Demirkol, Beşiktaş'ın Şampiyonlar Ligi'ndeki RB Leipzig galibiyetini değerlendirdi.",
-      "haberKaynagi": {
-        "ad": "Cumhuriyet",
-        "url": "https://www.cumhuriyet.com.tr/haber/mehmet-demirkol-besiktas-tam-bir-sampiyonlar-ligi-takimi-gibiydi-832576"
-      },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2017/9/27/832576_cover.jpeg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2017/9/27/832576_cover.jpeg",
-        "kaynak": "https://www.cumhuriyet.com.tr/haber/mehmet-demirkol-besiktas-tam-bir-sampiyonlar-ligi-takimi-gibiydi-832576",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
-      "yayin": "2017-09-27T09:47:00+03:00",
-      "puan": 10,
-      "durum": "haber"
-    },
-    {
-      "id": "2017-haber-832567",
-      "yil": 2017,
-      "bolge": "turkiye",
-      "tur": "haber",
-      "metin": "Serbest piyasada döviz fiyatları: Dolar yeni güne güçlü başladı (27.09.2017)",
-      "aciklama": "Fed başkanı Yellen'ın aralıkta faiz artırım sinyali veren açıklamaları dolara değer kazandırırken küresel piyasalara paralel olarak dolar içerde de güçlü seyrini sürdürüyor.",
-      "haberKaynagi": {
-        "ad": "Cumhuriyet",
-        "url": "https://www.cumhuriyet.com.tr/haber/serbest-piyasada-doviz-fiyatlari-dolar-yeni-gune-guclu-basladi-832567"
-      },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2017/9/27/832567_cover.jpeg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2017/9/27/832567_cover.jpeg",
-        "kaynak": "https://www.cumhuriyet.com.tr/haber/serbest-piyasada-doviz-fiyatlari-dolar-yeni-gune-guclu-basladi-832567",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
-      "yayin": "2017-09-27T09:39:00+03:00",
-      "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Meclis yeni yasama dönemi resepsiyonunu yapmama kararı aldı",
+      "ozet": "Türkiye Büyük Millet Meclisi, yeni yasama yılının başlangıcı dolayısıyla her yıl düzenlenen açılış resepsiyonunun bu dönem gerçekleştirilmeyeceğini duyurdu. Yapılan açıklamada, bu kararın alınmasında kamu harcamalarında tasarruf sağlanması amacının etkili olduğu belirtildi. Böylece milletvekilleri ve davetliler bu yıl geleneksel buluşmada bir araya gelmeyecek.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Türkiye siyaseti"
+      ],
+      "gorsel": null
     },
     {
       "id": "2016-haber-606554",
@@ -1320,19 +1090,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpli-boke-proje-okullarini-meclise-tasidi-606554"
       },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2016/9/27/606554_cover.jpeg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2016/9/27/606554_cover.jpeg",
-        "kaynak": "https://www.cumhuriyet.com.tr/haber/chpli-boke-proje-okullarini-meclise-tasidi-606554",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
       "yayin": "2016-09-27T12:29:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "CHP'den Proje Okulları İçin Meclis Girişimi",
+      "ozet": "Ana muhalefet partisi genel başkan yardımcısı, yeni eğitim döneminde okullarda yaşanabilecek öğretmen eksikliği sıkıntılarını Türkiye Büyük Millet Meclisi gündemine taşıdı. Özellikle belirli bir şehirdeki durumu örnek gösteren yetkili, proje okulu statüsündeki kurumlarda görev yapan yönetici ve eğitimcilerin durumuna dikkat çekti.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Selin Sayek Böke",
+        "Cumhuriyet Halk Partisi",
+        "Türkiye Büyük Millet Meclisi"
+      ],
+      "gorsel": null
     },
     {
       "id": "2016-haber-606396",
@@ -1345,19 +1114,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/clinton-trump-tartismasi-rekor-kirdi-606396"
       },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2016/9/27/606396_cover.jpeg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2016/9/27/606396_cover.jpeg",
-        "kaynak": "https://www.cumhuriyet.com.tr/haber/clinton-trump-tartismasi-rekor-kirdi-606396",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
       "yayin": "2016-09-27T10:07:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Amerika başkanlık adaylarının ilk televizyon münazarasında rekor izleyiciye ulaşıldı",
+      "ozet": "Amerika Birleşik Devletleri başkanlık yarışında aday olan Hillary Clinton ve Donald Trump karşı karşıya geldi. Doksan dakika süren ilk televizyon karşılaşması büyük bir izleyici kitlesi tarafından takip edilerek rekor kırdı. Yapılan anket sonuçlarına göre bu ilk tartışmanın kazanan tarafı Hillary Clinton oldu.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Hillary Clinton",
+        "Donald Trump",
+        "Amerika Birleşik Devletleri"
+      ],
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Former_United_States_Secretary_of_State_Hillary_Rodham_Clinton_at_the_U.S._Department_of_State_on_September_26%2C_2023_in_Washington%2C_D.C._14_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Former_United_States_Secretary_of_State_Hillary_Rodham_Clinton_at_the_U.S._Department_of_State_on_September_26%2C_2023_in_Washington%2C_D.C._14_%28cropped%29.jpg",
+        "genislik": 528,
+        "yukseklik": 703,
+        "orijinalGenislik": 528,
+        "yazar": "U.S. Department of State",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Former_United_States_Secretary_of_State_Hillary_Rodham_Clinton_at_the_U.S._Department_of_State_on_September_26,_2023_in_Washington,_D.C._14_(cropped).jpg",
+        "aciklama": "Former Secretary of State Hillary Rodham Clinton joined Secretary of State Antony J. Blinken at an event for the unveiling of her portrait at the U.S. Department of State on September 26, 2023 in Wash",
+        "konu": "Hillary Clinton"
+      }
     },
     {
       "id": "2015-haber-376845",
@@ -1370,19 +1150,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kamalaktan-akpye-secim-sarkisi-onerisi-376845"
       },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2015/9/27/376845_cover.jpeg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2015/9/27/376845_cover.jpeg",
-        "kaynak": "https://www.cumhuriyet.com.tr/haber/kamalaktan-akpye-secim-sarkisi-onerisi-376845",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
       "yayin": "2015-09-27T15:13:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Saadet Partisi Liderinden İktidara Seçim Şarkısı Tavsiyesi",
+      "ozet": "Yüksek Seçim Kurulu tarafından yasaklanan iktidar partisinin seçim şarkısına değinen Saadet Partisi Genel Başkanı Mustafa Kamalak, yönetim partisinin uzun bir aradan sonra besmeleyle yola çıktığını ifade etti. Kamalak, bu sürecin besmele yerine Fatiha suresiyle başlatılmasının daha isabetli olacağını dile getirdi.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Mustafa Kamalak",
+        "Saadet Partisi",
+        "Adalet ve Kalkınma Partisi"
+      ],
+      "gorsel": null
     },
     {
       "id": "2014-haber-124348",
@@ -1395,19 +1174,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/turkiyeye-giris-yapanlara-ates-acildi-124348"
       },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2014/9/27/124348_cover.jpeg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2014/9/27/124348_cover.jpeg",
-        "kaynak": "https://www.cumhuriyet.com.tr/haber/turkiyeye-giris-yapanlara-ates-acildi-124348",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
       "yayin": "2014-09-27T19:48:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Surte sınırında mültecilere doğru ateş açıldı",
+      "ozet": "Suriye tarafındakı çatışmalardan kaçarak Türkiye sınırına ulaşan sivillerin bulunduğu bölgeye akşam saatlerinde ateş açıldı. Sınır hattında yaşanan bu hareketliliğin ardından olay bölgesine güvenlik önlemleri artırıldı ve durum yakından takip edildi.",
+      "kategori": "Savaş",
+      "konular": [
+        "Kobani",
+        "Suruç",
+        "IŞİD"
+      ],
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Coalition_Airstrike_on_ISIL_position_in_Kobane.jpg/960px-Coalition_Airstrike_on_ISIL_position_in_Kobane.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Coalition_Airstrike_on_ISIL_position_in_Kobane.jpg/500px-Coalition_Airstrike_on_ISIL_position_in_Kobane.jpg",
+        "genislik": 960,
+        "yukseklik": 539,
+        "orijinalGenislik": 1108,
+        "yazar": "Voice of America News: Scott Bobb reports from the Suruç, Turkey/ Kobane, Syrian border; \"Turkish Border Towns Hosting Thousands of Kobani R",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Coalition_Airstrike_on_ISIL_position_in_Kobane.jpg",
+        "aciklama": "Coalition airstrike on ISIL position in Kobane on 22 October 2014.",
+        "konu": "Kobani"
+      }
     },
     {
       "id": "2014-haber-124269",
@@ -1420,19 +1210,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/turk-takimina-transfer-oldu-vatan-haini-ilan-edildi-124269"
       },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2014/9/27/124269_cover.jpeg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2014/9/27/124269_cover.jpeg",
-        "kaynak": "https://www.cumhuriyet.com.tr/haber/turk-takimina-transfer-oldu-vatan-haini-ilan-edildi-124269",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
       "yayin": "2014-09-27T14:20:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Rum Futbolcunun Türk Kulübüne Transferi Tepki Çekti",
+      "ozet": "Otuz beş yaşındaki Rum futbolcu Vasilio, bir Türk futbol takımına transfer olunca fanatik vatandaşlarının hedefi haline geldi. Bu transferin ardından aşırı milliyetçi gruplar oyuncuyu ülkesine ihanet etmekle suçladı.",
+      "kategori": "Spor",
+      "konular": [
+        "Vasilio",
+        "Futbol"
+      ],
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/960px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/500px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
+        "genislik": 960,
+        "yukseklik": 653,
+        "orijinalGenislik": 3420,
+        "yazar": "Rick Dikeman",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1995.jpg",
+        "aciklama": "Association football (soccer), Bloomington, Indiana. The offensive player (in red) is Chris Klein of the Indiana Hoosiers. He has sprinted past two defenders (in white) and is about to shoot the ball ",
+        "konu": "Futbol"
+      }
     },
     {
       "id": "2012-haber-372782",
@@ -1445,19 +1245,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdoganin-imralidan-medet-ummasi-affedilmez-372782"
       },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2012/9/27/372782_cover.jpeg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2012/9/27/372782_cover.jpeg",
-        "kaynak": "https://www.cumhuriyet.com.tr/haber/erdoganin-imralidan-medet-ummasi-affedilmez-372782",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
       "yayin": "2012-09-27T11:51:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Bahçeli'den Hükümetin İmralı Politikasına Sert Tepki",
+      "ozet": "Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli, terörle mücadele eden isimlerin cezaevinde tutulurken iktidarın İmralı ile temas kurmasını eleştirdi. Bu yaklaşımın kabul edilemez olduğunu belirten Bahçeli, iktidarın politikalarını şiddetle kınadı ve yaşananları eleştiri oklarının hedefi yaptı.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Devlet Bahçeli",
+        "Milliyetçi Hareket Partisi",
+        "İmralı"
+      ],
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bah%C3%A7eli_VOA_2015_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bah%C3%A7eli_VOA_2015_%28cropped%29.jpg",
+        "genislik": 953,
+        "yukseklik": 1271,
+        "orijinalGenislik": 953,
+        "yazar": "Yıldız Yazıcıoğlu",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Devlet_Bah%C3%A7eli_VOA_2015_(cropped).jpg",
+        "aciklama": "This image has been extracted from another file",
+        "konu": "Devlet Bahçeli"
+      }
     },
     {
       "id": "2012-haber-372826",
@@ -1470,19 +1281,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erken-secim-icin-kanun-teklifi-372826"
       },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2012/9/27/372826_cover.jpeg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2012/9/27/372826_cover.jpeg",
-        "kaynak": "https://www.cumhuriyet.com.tr/haber/erken-secim-icin-kanun-teklifi-372826",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
       "yayin": "2012-09-27T13:16:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Yerel Seçimlerin Tarihini Değiştirecek Teklif Mecliste",
+      "ozet": "Yerel seçimlerin yirmi yedi Ekim iki bin on üç tarihinde yapılmasına olanak tanıyan anayasa değişikliği ile ilgili yasa teklifi, Türkiye Büyük Millet Meclisi Başkanlığına iletildi. Yapılan bu girişimle birlikte seçim takviminin öne çekilmesi yönündeki hukuki süreç resmiyet kazandı.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Türkiye'de yerel seçimler"
+      ],
+      "gorsel": null
     },
     {
       "id": "2011-haber-285396",
@@ -1495,19 +1304,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yeni-anayasayi-gorusme-tarihi-belli-oldu-285396"
       },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2011/9/27/285396_cover.jpeg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2011/9/27/285396_cover.jpeg",
-        "kaynak": "https://www.cumhuriyet.com.tr/haber/yeni-anayasayi-gorusme-tarihi-belli-oldu-285396",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
       "yayin": "2011-09-27T07:31:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "CHP ve AKP Yeni Anayasa İçin Randevulaştı",
+      "ozet": "Cumhuriyet Halk Partisi, Adalet ve Kalkınma Partisi'ne yeni anayasa çalışmaları kapsamında görüşme için gün verdi. Yapılan planlamaya göre iki parti temsilcileri belirtilen hafta içi gününde bir araya gelecek.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Cumhuriyet Halk Partisi",
+        "Adalet ve Kalkınma Partisi",
+        "Türkiye Büyük Millet Meclisi"
+      ],
+      "gorsel": null
     },
     {
       "id": "2011-haber-285578",
@@ -1520,31 +1328,26 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/misirda-parlamento-secimleri-28-kasimda-baslayacak-285578"
       },
-      "gorsel": {
-        "url": "https://media.cumhuriyet.com.tr/Archive//2011/9/27/285578_cover.jpeg",
-        "genislik": 1280,
-        "yukseklik": 720,
-        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2011/9/27/285578_cover.jpeg",
-        "kaynak": "https://www.cumhuriyet.com.tr/haber/misirda-parlamento-secimleri-28-kasimda-baslayacak-285578",
-        "yazar": "Cumhuriyet",
-        "lisans": "Kaynak sitede",
-        "haber": true
-      },
       "yayin": "2011-09-27T16:50:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Mısır'da Yasama Meclisi Seçimleri İçin Tarih Belirlendi",
+      "ozet": "Mısır'daki yönetim geçiş sürecinde halkın temsilcilerini belirleyeceği parlamento seçimlerinin yirmi sekiz Kasım tarihinde yapılacağı duyuruldu. Yetkililer tarafından paylaşılan bilgilere göre seçim süreci kademeli olarak hayata geçirilecek ve ülke genelinde sandıklar kurulacak.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Mısır Parlamentosu",
+        "Mısır"
+      ],
+      "gorsel": null
     }
   ],
   "haberYillari": [
     2025,
-    2024,
-    2023,
     2022,
     2021,
     2020,
     2019,
     2018,
-    2017,
     2016,
     2015,
     2014,

@@ -2161,5 +2161,440 @@
     "url": "https://tr.wikipedia.org/wiki/7_Ekim",
     "revid": 36789113
   },
-  "guncelleme": "2026-09-27T10:43:59.393Z"
+  "guncelleme": "2026-09-27T10:43:59.393Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2441658",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez Bankası Başkanı Fatih Karahan'a TBMM'de protesto",
+      "aciklama": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, TBMM Plan ve Bütçe Komisyonu'nda bankanın faaliyetleri ve para politikasına ilişkin sunum yaptı. Toplantı başlamadan önce CHP grubu, TCMB'nin enflasyon ve faiz politikalarını protesto etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/merkez-bankasi-baskani-fatih-karahan-a-tbmm-de-protesto-2441658"
+      },
+      "yayin": "2025-10-07T19:28:00+03:00",
+      "puan": 12,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2025-haber-2441678",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Galatasaray MCT Technic, FIBA Şampiyonlar Ligi'ne iyi başladı!",
+      "aciklama": "FIBA Şampiyonlar Ligi E grubu 1. hafta maçında Galatasaray MCT Technic, sahasında Igokea m:tel'i 94-82 mağlup etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-mct-technic-fiba-sampiyonlar-ligi-ne-iyi-basladi-2441678"
+      },
+      "yayin": "2025-10-07T22:56:00+03:00",
+      "puan": 10,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2024-haber-2255426",
+      "yil": 2024,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "Eski Başbakan, İngiltere'yi hedef aldı: Savaş suçu işleyen bir ülkeye silah satmaya devam ediyor",
+      "aciklama": "Eski İskoçya Bölgesel Başbakanı Hamza Yusuf, görevi sırasında İngiltere hükümetinin İsrail'e silah satışını durdurmasını istediğini belirterek,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/eski-basbakan-ingiltereyi-hedef-aldi-savas-sucu-isleyen-bir-ulkeye-2255426"
+      },
+      "yayin": "2024-10-07T13:36:00+03:00",
+      "puan": 10,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2024-haber-2255559",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Yavuz Ağıralioğlu'nun partisinin kuruluş tarihi belli oldu: Meral Akşener'den mesaj",
+      "aciklama": "Eski İYİ Parti Milletvekili Yavuz Ağıralioğlu'nun parti kurma hazırlıkları kapsamında kuruluş dilekçesinin verileceği tarih belli oldu. Öte yandan, Ağıralioğlu'na İYİ Parti'nin kurucu Genel Başkanı Meral Akşener'in 'hayırlı olsun' mesajı verdiği belirtildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/yavuz-agiralioglunun-partisinin-kurulus-tarihi-belli-oldu-meral-2255559"
+      },
+      "yayin": "2024-10-07T18:37:00+03:00",
+      "puan": 8,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2023-haber-2127445",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fenerbahçe'nin rakibinde istifa depremi: 7-1'lik mağlubiyetin faturası ağır oldu!",
+      "aciklama": "Fenerbahçe'nin Konferans Ligi H Grubu'ndaki rakiplerinden Ludogorets'te Nordsjaelland karşısında alından 7-1'lik mağlubiyet sonrası tüm yönetim ve teknik ekip istifa etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/fenerbahcenin-rakibinde-istifa-depremi-7-1lik-maglubiyetin-faturasi-2127445"
+      },
+      "yayin": "2023-10-07T09:45:00+03:00",
+      "puan": 12,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2023-haber-2127481",
+      "yil": 2023,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "İsrail Cumhurbaşkanı: 'İsrail zor zamandan geçiyor'",
+      "aciklama": "İsrail Cumhurbaşkanı Isaac Herzog sosyal medya hesabından yaptığı açıklamada, “İsrail zor zamandan geçiyor. İsrail, bize zarar vermek isteyenlerin üstesinden gelebilecek güçte” dedi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/israil-cumhurbaskani-israil-zor-zamandan-geciyor-2127481"
+      },
+      "yayin": "2023-10-07T11:29:00+03:00",
+      "puan": 9,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2022-haber-1989746",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP’li Vedat Demiröz açıkladı: Asgari ücrete ilişkin ilk kez rakam paylaşıldı",
+      "aciklama": "Çorum'da konuşan AKP Genel Başkan Yardımcısı Vedat Demiröz, asgari ücrette enflasyon farkları ilave edilerek herkesin beklemediğinin üzerinde bir rakam çıkacağını açıklayarak, “İkinci dönemde 6. aydan sonraki enflasyonu dikkate alırsanız bu benim şu andaki hesaplamalarıma göre ko",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/akpli-vedat-demiroz-acikladi-asgari-ucrete-iliskin-ilk-kez-rakam-paylasildi-1989746"
+      },
+      "yayin": "2022-10-07T15:16:00+03:00",
+      "puan": 12,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2022-haber-1989570",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez Bankası Para Politikası Kurulu üyesi Prof. Dr. Yusuf Tuna hayatını kaybetti",
+      "aciklama": "Türkiye Cumhuriyet Merkez Bankası(TCMB)'nin Para Politikası Kurulu üyesi Prof. Dr. Yusuf Tuna hayatını kaybetti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasi-para-politikasi-kurulu-uyesi-prof-dr-yusuf-tuna-hayatini-kaybetti-1989570"
+      },
+      "yayin": "2022-10-07T10:00:00+03:00",
+      "puan": 11,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2021-haber-1875048",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ziraat Bankkart,  2021 Spor Toto Şampiyonlar Kupası'nı kazandı",
+      "aciklama": "Ziraat Bankkart voleybolda Erkekler 2021 Spor Toto Şampiyonlar Kupası'nı, Spor Toto'yu 3-2 yenerek kazandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/ziraat-bankkart-2021-spor-toto-sampiyonlar-kupasini-kazandi-1875048"
+      },
+      "yayin": "2021-10-07T22:14:00+03:00",
+      "puan": 10,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2021-haber-1875015",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Milli güreşçi Burhan Akbudak, Dünya Şampiyonası'nda finale yükseldi",
+      "aciklama": "Burhan Akbudak grekoromen stil 82 kilo yarı final maçında İranlı Pejman Soltanmorad Poshtam'ı 5-2 mağlup ederek finale çıktı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/milli-guresci-burhan-akbudak-dunya-sampiyonasinda-finale-yukseldi-1875015"
+      },
+      "yayin": "2021-10-07T18:51:00+03:00",
+      "puan": 10,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2020-haber-1771856",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Irak ve Suriye'ye ilişkin tezkere TBMM'de kabul edildi",
+      "aciklama": "Irak ve Suriye'de Türk Silahlı Kuvvetleri'nin sınır ötesi operasyon süresini 1 yıl uzatan Cumhurbaşkanlığı Tezkeresi Meclis Genel Kurulu'nda kabul edildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/irak-ve-suriyeye-iliskin-tezkere-tbmmde-kabul-edildi-1771856"
+      },
+      "yayin": "2020-10-07T18:07:00+03:00",
+      "puan": 12,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2018-haber-1105270",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP’de Suriyeli tartışması: Erdoğan kızdı",
+      "aciklama": "AKP’nin Kızılcahamam kampında Suriyeli mültecilerin durumu tartışma konusu oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/akpde-suriyeli-tartismasi-erdogan-kizdi-1105270"
+      },
+      "yayin": "2018-10-07T23:33:00+03:00",
+      "puan": 9,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2018-haber-1104837",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Eski İtalya Başbakanı Berlusconi'den Putin'e doğum günü jesti",
+      "aciklama": "İtalya’nın eski Başbakanı Silvio Berlusconi, Rusya Devlet Başkanı Vladimir Putin’in doğum günü için Rusya’ya geleceğini duyurdu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/eski-italya-basbakani-berlusconiden-putine-dogum-gunu-jesti-1104837"
+      },
+      "yayin": "2018-10-07T13:28:00+03:00",
+      "puan": 7,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2017-haber-839831",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan: İdlib'de ciddi bir harekat var",
+      "aciklama": "Cumhurbaşkanı Erdoğan AKP'li belediye başkanlarının görevden alınması ile ilgili",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-idlibde-ciddi-bir-harekat-var-839831"
+      },
+      "yayin": "2017-10-07T11:05:00+03:00",
+      "puan": 8,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2017-haber-840151",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Aslı Erdoğan ve Deniz Yücel'e Almanya'dan ödül",
+      "aciklama": "Yazar Aslı Erdoğan ve Türkiye'de tutuklu Die Welt Türkiye Temsilcisi Deniz Yücel, 2017 Leipzig Medya Özgürlüğü Ödülü'ne layık görüldü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/asli-erdogan-ve-deniz-yucele-almanyadan-odul-840151"
+      },
+      "yayin": "2017-10-07T19:38:00+03:00",
+      "puan": 7,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2016-haber-611825",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dünya şampiyonu atletten ilginç kokain savunması: Öpüşürken bulaştı",
+      "aciklama": "2015'te dünya şampiyonu olan Kanadalı sırıkçı Shawn Barber'ın pozitif çıkan doping testinin arkasında enteresan bir serüven var...",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/dunya-sampiyonu-atletten-ilginc-kokain-savunmasi-opusurken-bulasti-611825"
+      },
+      "yayin": "2016-10-07T14:06:00+03:00",
+      "puan": 10,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2016-haber-612015",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP'li Yarkadaş: Aslı Erdoğan'a hırka işkencesi yapılıyor",
+      "aciklama": "Bakırköy Kadın Kapalı Cezaevi önünde düzenlenen 'Demokrasi Nöbeti'nde konuşan CHP milletvekili Barış Yarkadaş",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chpli-yarkadas-asli-erdogana-hirka-iskencesi-yapiliyor-612015"
+      },
+      "yayin": "2016-10-07T18:59:00+03:00",
+      "puan": 7,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2015-haber-383383",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İşsizin parası seçim rüşveti oldu",
+      "aciklama": "Çalışanların ücretlerinden yapılan kesintilerle oluşturulan İşsizlik Sigortası Fonu’nun varlıkları 90 milyar TL’ye ulaşırken Eylül ayında 73 bin kişi işsizlik ödeneği almak için başvurdu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/issizin-parasi-secim-rusveti-oldu-383383"
+      },
+      "yayin": "2015-10-07T22:52:00+03:00",
+      "puan": 7,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2015-haber-383365",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Cumhurbaşkanlığı Kupası Anadolu Efes'in",
+      "aciklama": "Basketbol Erkekler Cumhurbaşkanlığı Kupası'nı Pınar Karşıyaka'yı 76-74 yenen Anadolu Efes kazandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/cumhurbaskanligi-kupasi-anadolu-efesin-383365"
+      },
+      "yayin": "2015-10-07T21:31:00+03:00",
+      "puan": 7,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2014-haber-127801",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ahmet Nur Çebi:Hakemlerle şampiyon olacaksak, olmayalım",
+      "aciklama": "Atatürk Olimpiyat Stadı'nın zemininde yaşanan sıkıntıdan dolayı iç saha maçları için yeni stat arayışında olan Beşiktaş Kulübü'nün ikinci başkanı Ahmet Nur Çebi, siyah-beyazlı takımı ağırlayacak bir stadın çıkmamasına hayret ettiğini ve çok üzüldüğünü söyledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ahmet-nur-cebihakemlerle-sampiyon-olacaksak-olmayalim-127801"
+      },
+      "yayin": "2014-10-07T13:08:00+03:00",
+      "puan": 8,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2014-haber-127935",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Diyarbakır'da polise ateş açıldı: 1 yaralı",
+      "aciklama": "Merkez Sur İlçesi Gazi Caddesi üzerinde bulunan Sur İlçe Emniyet Müdürlüğü önünde nöbet tutan polislerin üzerine uzun namlulu silahla ateş açıldı. Diyarbakır'da iki gündür süren olaylar akşam da devam etti. Ara sokaktan açılan ateşte seken bir kurşun nöbet tutan polisin ayağını s",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/diyarbakirda-polise-ates-acildi-1-yarali-127935"
+      },
+      "yayin": "2014-10-07T21:24:00+03:00",
+      "puan": 7,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2013-haber-3467",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Çinli ressamın tablosuna rekor fiyat",
+      "aciklama": "Ünlü Çinli ressam Zeng Fanzhi'nin",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/cinli-ressamin-tablosuna-rekor-fiyat-3467"
+      },
+      "yayin": "2013-10-07T15:35:00+03:00",
+      "puan": 7,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2012-haber-374810",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Srebrenitsa'da Durakoviç seçimleri kazandı",
+      "aciklama": "Bosna Hersek'te 1995 yılının Temmuz ayında soykırıma sahne olan Srebrenitsa'da, Boşnak partilerin tek adayı olarak yerel seçimlere giren Çamil Durakoviç, seçimleri kazandığını açıkladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/srebrenitsada-durakovic-secimleri-kazandi-374810"
+      },
+      "yayin": "2012-10-07T06:45:00+03:00",
+      "puan": 9,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2012-haber-374872",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Şırnak'ta mayın patlaması: 1 ölü, 1 yaralı",
+      "aciklama": "Uludere ilçesine bağlı Şenoba beldesinde meydana gelen mayın patlamasında 1 kişi hayatını kaybetti, 1 kişi de yaralandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/sirnakta-mayin-patlamasi-1-olu-1-yarali-374872"
+      },
+      "yayin": "2012-10-07T16:34:00+03:00",
+      "puan": 6,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2011-haber-288296",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP ilçe yönetiminde toplu istifa",
+      "aciklama": "CHP Hacıbektaş İlçe Başkanı Ali Eger ve yönetim kurulu üyeleri, görevlerinden istifa etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chp-ilce-yonetiminde-toplu-istifa-288296"
+      },
+      "yayin": "2011-10-07T11:55:00+03:00",
+      "puan": 6,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2011-haber-288328",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Rumlar Erdoğan'ı BM'ye şikayet etti",
+      "aciklama": "Rum yönetimi, Başbakan Erdoğan'nın BM Genel Kurulu'ndaki konuşmasını Güney Kıbrıs'a yönelik tehdit olarak değerlendirerek, Erdoğan'ı BM Genel Sekreteri Ban Ki-Moon'a yazdıkları mektupla şikayet etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/rumlar-erdogani-bmye-sikayet-etti-288328"
+      },
+      "yayin": "2011-10-07T15:21:00+03:00",
+      "puan": 5,
+      "durum": "haber",
+      "konular": []
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }

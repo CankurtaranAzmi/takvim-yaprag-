@@ -1896,5 +1896,576 @@
     "url": "https://tr.wikipedia.org/wiki/5_Ekim",
     "revid": 36713824
   },
-  "guncelleme": "2026-09-27T10:43:57.993Z"
+  "guncelleme": "2026-09-27T10:43:57.993Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2440869",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Sayıştay'a üye seçimi için süreç başlıyor: Komisyonun toplanma tarihi belli oldu",
+      "aciklama": "TBMM Plan ve Bütçe Komisyonu, Sayıştay’da boş bulunan 5 üyelik için adayları belirlemek üzere 9 Ekim’de toplanacak. Komisyon, 20 aday arasından 10 ismi belirleyecek, ardından Genel Kurul bu isimlerden 5’ini Sayıştay üyesi olarak seçecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/sayistay-a-uye-secimi-icin-surec-basliyor-komisyonun-toplanma-tarihi-belli-oldu-2440869"
+      },
+      "yayin": "2025-10-05T11:41:00+03:00",
+      "puan": 13,
+      "durum": "elendi",
+      "baslik": "Sayistay uyeligi secimi icin TBMM Komisyonu toplanacak",
+      "ozet": "TBMM Plan ve Bütçe Komisyonu, Sayıştay bünyesindeki boş koltuklar için aday tespiti yapmak üzere toplanma kararı aldı. Belirlenen adaylar arasından yapılacak oylama sonucunda yeni üyeler meclis genel kurulunca seçilecek.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Sayıştay",
+        "Türkiye Büyük Millet Meclisi"
+      ],
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Het_Rekenhof_28-12-2007_13-40-32.jpg/960px-Het_Rekenhof_28-12-2007_13-40-32.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Het_Rekenhof_28-12-2007_13-40-32.jpg/500px-Het_Rekenhof_28-12-2007_13-40-32.jpg",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "orijinalGenislik": 1944,
+        "yazar": "Paul Hermans",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Het_Rekenhof_28-12-2007_13-40-32.jpg",
+        "aciklama": "Het Rekenhof in Brussel",
+        "konu": "Sayıştay"
+      }
+    },
+    {
+      "id": "2025-haber-2440822",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "TBMM'de bu hafta... Merkez Bankası Başkanı Fatih Karahan sunum yapacak",
+      "aciklama": "Türkiye Büyük Millet Meclisi'nin (TBMM) gündemi yeni haftada yoğun olacak. Meclis Genel Kurulu'nda Karayolları Trafik Kanunu görüşülecek. Merkez Bankası Başkanı Fatih Karahan, Meclis Plan ve Bütçe Komisyonunda sunum yapacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/tbmm-de-bu-hafta-merkez-bankasi-baskani-karahan-sunum-yapacak-2440822"
+      },
+      "yayin": "2025-10-05T09:31:00+03:00",
+      "puan": 12,
+      "durum": "elendi",
+      "baslik": "Meclis gündeminde trafik kanunu ve Merkez Bankası sunumu var",
+      "ozet": "Türkiye Büyük Millet Meclisi yeni haftada yoğun bir çalışma temposuna giriyor. Genel Kurul salonunda Karayolları Trafik Kanunu ile ilgili düzenlemeler masaya yatırılacak. Diğer taraftan Merkez Bankası Başkanı Fatih Karahan, Plan ve Bütçe Komisyonu üyelerine yönelik bilgilendirme yapacak.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Fatih Karahan"
+      ],
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Finans_Merkezi.jpg/960px-Finans_Merkezi.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Finans_Merkezi.jpg/500px-Finans_Merkezi.jpg",
+        "genislik": 960,
+        "yukseklik": 960,
+        "orijinalGenislik": 3000,
+        "yazar": "Ail Subway",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Finans_Merkezi.jpg",
+        "aciklama": "İstanbul Financial Centre",
+        "konu": "Türkiye Cumhuriyet Merkez Bankası"
+      }
+    },
+    {
+      "id": "2024-haber-2254850",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP'li isim, Erdoğan'ın masasındaki son anketi açıkladı",
+      "aciklama": "AKP Grup Başkanı Abdullah Güler, yaptırdıkları son anketin sonuçlarına ilişkin dikkat çeken açıklamalarda bulundu. Birkaç ankette birinci parti olduklarını iddia eden Güler,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/akpli-isim-erdoganin-masasindaki-son-anketi-acikladi-2254850"
+      },
+      "yayin": "2024-10-05T13:50:00+03:00",
+      "puan": 10,
+      "durum": "elendi",
+      "baslik": "İktidar Partisi Son Kamuoyu Araştırmasının Sonuçlarını Paylaştı",
+      "ozet": "İktidar partisi meclis grup başkanı, yapılan en son kamuoyu yoklamasına dair değerlendirmelerde bulundu. Gerçekleştirilen birkaç farklı ankette birinci sırada yer aldıklarını ifade etti. Siyaset alanındaki bu gelişmeler kamuoyuna duyuruldu.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Abdullah Güler",
+        "Adalet ve Kalkınma Partisi",
+        "Türkiye"
+      ],
+      "gorsel": null
+    },
+    {
+      "id": "2024-haber-2254711",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan'ın atama ve görevden alma kararları yayımlandı",
+      "aciklama": "Büyükelçi atamaları Resmi Gazete'de yayımlandı. Buna göre, Pakistan Büyükelçiliği'ne İrfan Neziroğlu, Lübnan Büyükelçiliği'ne ise Murat Lütem atandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/erdoganin-atama-ve-gorevden-alma-kararlari-yayimlandi-2254711"
+      },
+      "yayin": "2024-10-05T00:15:00+03:00",
+      "puan": 9,
+      "durum": "elendi",
+      "baslik": "Resmi Gazete ile Yeni Büyükelçi Atamaları Gerçekleşti",
+      "ozet": "Devletin resmi yayın organında yer alan kararlara göre bazı dış temsilciliklerin yönetim kadrolarında değişim yapıldı. Yapılan düzenlemeler çerçevesinde Pakistan nezdindeki büyükelçilik görevine İrfan Neziroğlu getirilirken, Lübnan nezdindeki büyükelçilik görevine ise Murat Lütem atandı. Bu atama kararları ilgili makamların onayının ardından yürürlüğe girdi.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Resmi Gazete",
+        "Recep Tayyip Erdoğan",
+        "Türkiye"
+      ],
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Resmi_Gazete_sayfasi.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Resmi_Gazete_sayfasi.png",
+        "genislik": 663,
+        "yukseklik": 920,
+        "orijinalGenislik": 663,
+        "yazar": "Turkish government",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Resmi_Gazete_sayfasi.png",
+        "aciklama": "Official Gazette of the Republic of Turkey",
+        "konu": "Resmi Gazete"
+      }
+    },
+    {
+      "id": "2023-haber-2126730",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolar/TL tarihi zirvesine yakın! Dolar ve Euro ne kadar oldu? 5 Ekim 2023 döviz fiyatları",
+      "aciklama": "Dolar/TL tarihi zirvesinde sınırlı yükselişini sürdürürken piyasalarda veri gündemi ile uluslararası yatırımcı toplantıları mesajları da takip edilecek. Euro ise 30.66 zirvesinin altında sınırlı yükselişini sürdürüyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/dolartl-tarihi-zirvesine-yakin-dolar-ve-euro-ne-kadar-oldu-5-ekim-2126730"
+      },
+      "yayin": "2023-10-05T10:10:00+03:00",
+      "puan": 15,
+      "durum": "elendi",
+      "baslik": "Doviz Kurlarinda Son Durum ve Piyasa Gelismeleri",
+      "ozet": "Doviz piyasalarinda dolar ve euro sinirli artis egilimini surdurmeye devam etti. Yatirimcilar tarafindan uluslararasi toplantilardan gelecek mesajlar ile veri takvimi yakindan izlendi.",
+      "kategori": "Ekonomi",
+      "konular": [
+        "Doviz kuru",
+        "Ekonomi"
+      ],
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/960px-Luchtfoto_van_Lower_Manhattan.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/500px-Luchtfoto_van_Lower_Manhattan.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 5616,
+        "yazar": "Daniele Pieroni",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Luchtfoto_van_Lower_Manhattan.jpg",
+        "aciklama": "Lower Manhattan gezien vanuit het zuidwesten.",
+        "konu": "Ekonomi"
+      }
+    },
+    {
+      "id": "2023-haber-2126824",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dünya Yüzme Şampiyonası'nda trans yüzücüler için karar!",
+      "aciklama": "World Aquatics (eski adı Uluslararası Yüzme Federasyonu), trans yüzücüler için açılan Açık Kategori'yi iptal etme kararı aldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/dunya-yuzme-sampiyonasinda-trans-yuzuculer-icin-karar-2126824"
+      },
+      "yayin": "2023-10-05T13:26:00+03:00",
+      "puan": 13,
+      "durum": "elendi",
+      "baslik": "Dünya Yüzme Şampiyonasi Açık Kategori Kararı",
+      "ozet": "Uluslararası yüzme organizasyonlarını yürüten kurum, trans sporcular için daha önce oluşturulan yeni kategorinin iptal edildiğini duyurdu. Alınan bu kararla birlikte ilgili organizasyon planlamasında değişikliğe gidildi.",
+      "kategori": "Spor",
+      "konular": [
+        "World Aquatics",
+        "Yüzme"
+      ],
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/DM_Freiwasserschwimmen_2009_Lindau.JPG/960px-DM_Freiwasserschwimmen_2009_Lindau.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/DM_Freiwasserschwimmen_2009_Lindau.JPG/500px-DM_Freiwasserschwimmen_2009_Lindau.JPG",
+        "genislik": 960,
+        "yukseklik": 1440,
+        "orijinalGenislik": 2048,
+        "yazar": "Giacomo1970",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:DM_Freiwasserschwimmen_2009_Lindau.JPG",
+        "aciklama": "DM Freiwasserschwimmen; 19. Juni 2009 in Lindau am Bodensee",
+        "konu": "Yüzme"
+      }
+    },
+    {
+      "id": "2022-haber-1989065",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "TBMM Genel Kurulunda, Anayasa Mahkemesi üyeliğine eski İçişleri Bakan Yardımcısı Muhterem İnce seçildi",
+      "aciklama": "TBMM Genel Kurulunda gizli yapılan oylamada Anayasa Mahkemesi (AYM) üyeliğine, eski İçişleri Bakan Yardımcısı, Sayıştay üyesi Muhterem İnce seçildi. Oylamaya CHP ve HDP katılmadı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/tbmm-genel-kurulunda-anayasa-mahkemesi-uyeligine-eski-icisleri-bakan-yardimcisi-muhterem-ince-secildi-1989065"
+      },
+      "yayin": "2022-10-05T21:50:00+03:00",
+      "puan": 12,
+      "durum": "yazildi",
+      "baslik": "Anayasa Mahkemesi Üyeliğine Yeni İsim Seçildi",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulunda gerçekleştirilen gizli oylama sonucunda, eski İçişleri Bakan Yardımcısı ve Sayıştay üyesi Muhterem İnce Anayasa Mahkemesi üyeliğine getirildi. Söz konusu oylama sürecine Cumhuriyet Halk Partisi ile Halkların Demokratik Partisi milletvekilleri iştirak etmedi.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Muhterem İnce",
+        "Anayasa Mahkemesi",
+        "Türkiye Büyük Millet Meclisi"
+      ],
+      "gorsel": null
+    },
+    {
+      "id": "2022-haber-1989035",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Katar Tezkeresi TBMM'de kabul edildi!",
+      "aciklama": "Türk Silahlı Kuvvetleri'nin, Katar'da 6 ay süreyle görevlendirilmesine ilişkin Cumhurbaşkanlığı Tezkeresi. TBMM'de kabul edildi. Tezkerede,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/son-dakika-katar-tezkeresi-tbmmde-kabul-edildi-1989035"
+      },
+      "yayin": "2022-10-05T17:34:00+03:00",
+      "puan": 12,
+      "durum": "yazildi",
+      "baslik": "Katar Askeri Görevlendirme Tezkeresi Meclis Onayından Geçti",
+      "ozet": "Türk Silahlı Kuvvetleri mensuplarının Katar'da yarım yıl süreyle görev yapmasını öngören Cumhurbaşkanlığı tezkeresi meclis genel kurulunda oylandı. Yapılan oylama sonucunda metin kabul edilerek yasalaştı. Böylece ordunun ilgili ülkedeki faaliyet süresinin uzatılmasına resmiyet kazandırıldı.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Türk Silahlı Kuvvetleri",
+        "Katar"
+      ],
+      "gorsel": null
+    },
+    {
+      "id": "2021-haber-1874534",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Paris İklim Anlaşması kabul edildi",
+      "aciklama": "Paris Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi, TBMM Dışişleri Komisyonunda kabul edildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/paris-iklim-anlasmasi-kabul-edildi-1874534"
+      },
+      "yayin": "2021-10-05T20:49:00+03:00",
+      "puan": 13,
+      "durum": "yazildi",
+      "baslik": "Paris İklim Anlaşması Meclis Komisyonundan Geçti",
+      "ozet": "Küresel çapta iklim değişikliğiyle mücadeleyi amaçlayan Paris Antlaşması'nın onaylanmasını içeren kanun teklifi, Türkiye Büyük Millet Meclisi Dışişleri Komisyonunda ele alınarak kabul edildi. Bu gelişmeyle birlikte anlaşmanın onaylanma sürecinde önemli bir basamak daha geride bırakılmış oldu.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Paris İklim Anlaşması",
+        "Türkiye Büyük Millet Meclisi"
+      ],
+      "gorsel": null
+    },
+    {
+      "id": "2021-haber-1874316",
+      "yil": 2021,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "Japonya'nın 100. başbakanı Kişida Fumio kabinesiyle göreve başladı",
+      "aciklama": "Japonya'da meclis oturumunda ülkenin 100. başbakanı seçilen ve kabinesiyle görevine resmen başlayan Kişida Fumio, ekonominin",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/japonyanin-100-basbakani-kisida-fumio-kabinesiyle-goreve-basladi-1874316"
+      },
+      "yayin": "2021-10-05T08:04:00+03:00",
+      "puan": 11,
+      "durum": "yazildi",
+      "baslik": "Japonya'nın Yeni Hükümeti Göreve Başladı",
+      "ozet": "Japonya parlamentosunda yapılan oylama sonucunda ülkenin yüzüncü başbakanı olan Kişida Fumio, bakanlar kurulu ile birlikte resmi olarak görevine adım attı. Yeni kabinenin ülkenin ekonomik durumu ve diğer temel meseleler üzerine odaklanması bekleniyor.",
+      "kategori": "Siyaset",
+      "konular": [
+        "Kişida Fumio",
+        "Japonya Başbakanı",
+        "Japonya"
+      ],
+      "gorsel": null
+    },
+    {
+      "id": "2020-haber-1771461",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Milli atletler, Dünya Yarı Maraton Şampiyonası'na takım halinde katılacak",
+      "aciklama": "Toplam 62 ülkeden 283 atletin yarışacağı organizasyonda Türkiye'nin erkeklerde beş, kadınlarda ise üç atletle takım halinde mücadele edeceği açıklandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/milli-atletler-dunya-yari-maraton-sampiyonasina-takim-halinde-katilacak-1771461"
+      },
+      "yayin": "2020-10-05T23:36:00+03:00",
+      "puan": 10,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2020-haber-1771359",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Putin kameralar önünde Ermenistan Başbakanı Paşinyan’ın yüzüne telefonu kapattı!",
+      "aciklama": "Ermenistan Başbakan Nikol Paşinyan'ın telefonunu açan Rusya Devlet Başkanı Vladimir Putin,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/putin-kameralar-onunde-ermenistan-basbakani-pasinyanin-yuzune-telefonu-kapatti-1771359"
+      },
+      "yayin": "2020-10-05T16:43:00+03:00",
+      "puan": 9,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2018-haber-1103571",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Galatasaray'dan Şampiyonlar Ligi açıklaması (05.10.2018)",
+      "aciklama": "UEFA'nın Galatasaray hakkındaki açıklaması üzerine Sarı-Kırmızılılar'dan açıklama geldi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/galatasaraydan-sampiyonlar-ligi-aciklamasi-1103571"
+      },
+      "yayin": "2018-10-05T17:08:00+03:00",
+      "puan": 8,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2018-haber-1103034",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Basketbolda sezon derbiyle başlıyor",
+      "aciklama": "Tahincioğlu Basketbol Süper Ligi'nde 2018-2019 sezonunun ilk haftasında yarın Fenerbahçe ile Beşiktaş Sompo Japan karşılaşacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basketbolda-sezon-derbiyle-basliyor-1103034"
+      },
+      "yayin": "2018-10-05T11:07:00+03:00",
+      "puan": 8,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2017-haber-838911",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "ABD Temsilciler Meclisi bütçe tasarısını kabul etti",
+      "aciklama": "ABD Temsilciler Meclisi, Beyaz Saray'ın 2018 mali yılına ilişkin 4,1 trilyon dolarlık bütçe tasarısını kabul etti. Tasarının onaylanması, uzun zamandır beklenen vergi reformu için önemli bir adım olarak değerlendirildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/abd-temsilciler-meclisi-butce-tasarisini-kabul-etti-838911"
+      },
+      "yayin": "2017-10-05T21:13:00+03:00",
+      "puan": 9,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2017-haber-838377",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan'dan istifaya direnen başkanlara: Makama gelirken iyi, boşalt demek neden yadırganıyor?",
+      "aciklama": "Cumhurbaşkanı Recep Tayyip Erdoğan, bazı AKP'li belediye başkanlarının istifaya yönlendirilmesi tartışmalarıyla ilgili mesajlar verdi. Partiden ihraç ya da görevden alma gibi yöntemlere başvurmak istemediklerini söyledi. Erdoğan",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-istifaya-direnen-baskanlara-makama-gelirken-iyi-bosalt-demek-neden-yadirganiyor-838377"
+      },
+      "yayin": "2017-10-05T11:13:00+03:00",
+      "puan": 9,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2016-haber-610819",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Cumhurbaşkanlığı Kupası Fenerbahçe'nin... Taraftardan Erdoğan'a protesto",
+      "aciklama": "Anadolu Efes'i 77-69 skorla yenen Fenerbahçe, Cumhurbaşkanlığı Kupası'nın sahibi oldu. Kupa töreni esnasında Fenerbahçe'ye kupasını vermek için sahaya inen Cumhurbaşkanı Erdoğan, taraftarların ıslıklarıyla karşılaştı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/cumhurbaskanligi-kupasi-fenerbahcenin-taraftardan-erdogana-protesto-610819"
+      },
+      "yayin": "2016-10-05T21:52:00+03:00",
+      "puan": 9,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2016-haber-610847",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "ABD'de 4 eyalette OHAL ilan edildi",
+      "aciklama": "ABD'de etkili olması beklenen Matthew Kasırgası nedeniyle, Florida, Georgia, Güney Carolina ve Kuzey Carolina eyaletlerinin kıyı bölgelerinde",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/abdde-4-eyalette-ohal-ilan-edildi-610847"
+      },
+      "yayin": "2016-10-05T22:49:00+03:00",
+      "puan": 7,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2015-haber-381561",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Başbakanlık doğruladı: Rus uçağı Türk hava sahasına girdi",
+      "aciklama": "DIŞİŞLERİ Bakanlığı, Rusya Federasyonu'na ait bir savaş uçağının Türk hava sahasını ihlali hakkında bir açıklama yaptı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbakanlik-dogruladi-rus-ucagi-turk-hava-sahasina-girdi-381561"
+      },
+      "yayin": "2015-10-05T10:31:00+03:00",
+      "puan": 9,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2015-haber-381949",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Serena rekora koşuyor... Tam 261 hafta",
+      "aciklama": "Dünya sıralamasında toplam 261 hafta ilk sırada yer alan ABD'li Serena Williams, Chris Evert'i geçerek",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/serena-rekora-kosuyor-tam-261-hafta-381949"
+      },
+      "yayin": "2015-10-05T16:28:00+03:00",
+      "puan": 7,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2014-haber-127389",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "ABD Dünya Şampiyonu oldu",
+      "aciklama": "2014 FIBA Kadınlar Dünya Şampiyonası'nda İspanya'yı 77-64 mağlup eden ABD, şampiyon oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/abd-dunya-sampiyonu-oldu-127389"
+      },
+      "yayin": "2014-10-05T22:55:00+03:00",
+      "puan": 8,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2014-haber-127227",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "'Erdoğan iktidarı için savaş çıkarır'",
+      "aciklama": "Murat Belge, Irak ve Suriye’ye asker gönderme tezkeresini alan Erdoğan’ın, Türkiye’yi nereye sürüklediğini anlattı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-iktidari-icin-savas-cikarir-127227"
+      },
+      "yayin": "2014-10-05T09:25:00+03:00",
+      "puan": 8,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2012-haber-374414",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Başbakan: Seçilme yaşı düşsün",
+      "aciklama": "Başbakan Erdoğan,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbakan-secilme-yasi-dussun-374414"
+      },
+      "yayin": "2012-10-05T09:00:00+03:00",
+      "puan": 9,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2012-haber-374528",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Balkanlılar Halk Dansları Festivali, İzmir'de başladı",
+      "aciklama": "İlk kez Atatürk'ün talimatıyla 1936 yılında yapılan, uzun duraklama yıllarının ardından tekrar canlandırılan Balkanlılar Halk Dansları Festivali'nin 8'incisi İzmir'de başladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/balkanlilar-halk-danslari-festivali-izmirde-basladi-374528"
+      },
+      "yayin": "2012-10-05T15:27:00+03:00",
+      "puan": 6,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2011-haber-287626",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP'li Öztürk'ten Erdoğan'a",
+      "aciklama": "CHP Mersin Milletvekili Ali Rıza Öztürk, Başbakan Recep Tayyip Erdoğan'a,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chpli-ozturkten-erdogana-bm-sorusu-287626"
+      },
+      "yayin": "2011-10-05T07:00:00+03:00",
+      "puan": 10,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2011-haber-287764",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Onur Öymen'den Başbakan Erdoğan'a uyarı",
+      "aciklama": "Emekli Büyükelçi Onur Öymen, Başbakan Recep Tayyip Erdoğan'ın Alman vakıflarının CHP'li ve BDP'li belediyelere sağladıkları yardımlara yönelik iddialarına ilişkin",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/onur-oymenden-basbakan-erdogana-uyari-287764"
+      },
+      "yayin": "2011-10-05T14:15:00+03:00",
+      "puan": 7,
+      "durum": "haber",
+      "konular": []
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }

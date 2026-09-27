@@ -12,12 +12,14 @@ const TURKIYE = /Türkiye|Türk(?!men|istan)|Osmanlı|Atatürk|Ankara|İstanbul|
  */
 // Canlı sitede kaynak metniyle duran (henüz kendi cümlelerimizle yazılmamış) haber yayınlanmaz;
 // yalnızca yerel önizlemede (npm run dev) tasarımı görmek için gösterilir.
+// 'yazildi' = yapay zekayla özgün başlık/özet üretilmiş VE Türkçe karakter kontrolünden geçmiş.
+// 'incele' (kalite şüpheli) ve boş özetli haberler PROD'da hiç yayınlanmaz; yalnızca yerel önizlemede görünür.
 const YAZILMAMIS_HABERI_GOSTER = !import.meta.env.PROD;
 
 function gosterilecekler(g) {
   return [...g.olaylar, ...(g.haberler ?? [])]
     .filter((o) => o.gorsel && o.metin && o.durum !== 'elendi')
-    .filter((o) => o.tur !== 'haber' || o.ozet || YAZILMAMIS_HABERI_GOSTER)
+    .filter((o) => o.tur !== 'haber' || (o.ozet && o.durum === 'yazildi') || YAZILMAMIS_HABERI_GOSTER)
     .map((o) => ({ ...o, bolge: o.bolge ?? (TURKIYE.test(o.metin) ? 'turkiye' : 'dunya') }))
     .sort((a, b) => b.yil - a.yil || (b.puan ?? 0) - (a.puan ?? 0));
 }
@@ -38,7 +40,9 @@ export function gunBul(ay, gun) {
 }
 
 export function yayindakiOlaylar(g) {
-  return g.olaylar.filter((o) => o.durum === 'yayinda' && o.ozet);
+  // Vikipedi olayları 'yayinda', haberler 'yazildi' durumunda yayına girer — ikisi de
+  // kendi sitemizde tam sayfaya sahip olur (haberlerde dışarıya sadece kaynak notu olarak bağlanılır).
+  return g.olaylar.filter((o) => (o.durum === 'yayinda' || o.durum === 'yazildi') && o.ozet);
 }
 
 export const TUM_YAYINDAKI_OLAYLAR = GUNLER.flatMap((g) =>
@@ -51,7 +55,7 @@ export function oneCikan(g) {
   const adaylar = g.olaylar.filter((o) => !AGIR.test(o.metin));
   if (!adaylar.length) return null;
   const puan = (o) =>
-    (o.durum === 'yayinda' && o.ozet ? 4 : 0) +
+    ((o.durum === 'yayinda' || o.durum === 'yazildi') && o.ozet ? 4 : 0) +
     (o.bolge === 'turkiye' ? 3 : 0) +
     (o.yil >= buYil - 30 ? 1 : 0) +
     (o.gorsel.yukseklik <= o.gorsel.genislik ? 1 : 0); // yatay görsel manşete daha iyi oturur

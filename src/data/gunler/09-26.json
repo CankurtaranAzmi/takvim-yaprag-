@@ -729,5 +729,440 @@
     "url": "https://tr.wikipedia.org/wiki/26_Eyl%C3%BCl",
     "revid": 38067575
   },
-  "guncelleme": "2026-09-27T10:43:51.687Z"
+  "guncelleme": "2026-09-27T10:43:51.687Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2438424",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP'li isim ortaya koydu: Cumhurbaşkanlığı günde 2 bin 25, yılda 739 bin 467 asgari ücret harcamış!",
+      "aciklama": "CHP Gaziantep Milletvekili Hasan Öztürkmen, Sayıştay'ın 2024 yılı Cumhurbaşkanlığı Denetim Raporu'na ilişkin,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/chp-li-isim-ortaya-koydu-cumhurbaskanligi-gunde-2-bin-25-yilda-739-bin-467-asgari-ucret-harcamis-2438424"
+      },
+      "yayin": "2025-09-26T11:26:00+03:00",
+      "puan": 12,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2025-haber-2438364",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan 'sağır duymaz uydurur' demişti... Tom Barrack Özgür Özel'i doğruladı: 'Boeing anlaşması tamam'",
+      "aciklama": "CHP lideri Özgür Özel, AKP'li Cumhurbaşkanı Erdoğan ile Donald Trump Jr. görüşmesinde",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/erdogan-sagir-duymaz-uydurur-demisti-tom-barrack-ozgur-ozel-i-dogruladi-boeing-anlasmasi-tamam-2438364"
+      },
+      "yayin": "2025-09-26T01:13:00+03:00",
+      "puan": 11,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2024-haber-2251482",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Meclis açıldıktan sonra Cumhur İttifakı’nın ilk maddesi yeni anayasa, CHP’liler ise ‘ekonomi’ diyor",
+      "aciklama": "Her partinin yeni anayasa beklentisi farklı. Muhalefet “Önce mevcuda uyun” diyor. Yurttaşın derdinin ise pahalılık olduğu vurgulanıyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/meclis-acildiktan-sonra-cumhur-ittifakinin-ilk-maddesi-yeni-anayasa-2251482"
+      },
+      "yayin": "2024-09-26T04:00:00+03:00",
+      "puan": 13,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2024-haber-2251620",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP, Vergi Paketi'nin iptali ve yürürlüğün durdurulması istemiyle Anayasa Mahkemesi'nde dava açtı",
+      "aciklama": "CHP, kamuoyunda",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/chp-vergi-paketinin-iptali-ve-yururlugun-durdurulmasi-istemiyle-2251620"
+      },
+      "yayin": "2024-09-26T12:32:00+03:00",
+      "puan": 9,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2023-haber-2123566",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Naci Görür 'olası İstanbul depremi' için 2 faya işaret etti: 'Minimum 7,2'lik deprem bekliyoruz'",
+      "aciklama": "Yaptıkları araştırmalarda Marmara fayına bağlı kolların stres biriktirdiğini gözlemlediklerini belirten Prof. Dr. Naci Görür,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/naci-gorur-olasi-istanbul-depremi-icin-2-faya-isaret-etti-minimum-72lik-deprem-bekliyoruz-2123566"
+      },
+      "yayin": "2023-09-26T13:25:00+03:00",
+      "puan": 11,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2023-haber-2123484",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Gözler 'Meclis'e çevrildi: Emekliye ara zam ve ikramiye var mı? SSK ve Bağ-Kur emeklisine, yeni yılda ne kadar zam yapılacak?",
+      "aciklama": "Hayat pahalılığı ile boğuşan, ayın sonunu getiremeyen emeklilerin gözü kulağı, maaş zammına, olası bir ara zamma ve 29 Ekim'de verileceği öne sürülen 5 bin TL ikramiyeye çevrildi. Peki, emekliye ara zam ve ikramiye var mı? SSK ve Bağ-Kur emeklisine, yeni yılda ne kadar zam yapıla",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/gozler-meclise-cevrildi-emekliye-ara-zam-ve-ikramiye-var-mi-ssk-ve-bag-kur-emeklisine-yeni-yilda-ne-kadar-zam-2123484"
+      },
+      "yayin": "2023-09-26T11:03:00+03:00",
+      "puan": 10,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2022-haber-1985275",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Kongre tarihi belli oldu: Zafer Partisi seçime girebilecek mi?",
+      "aciklama": "Zafer Partisi Genel Başkanı Ümit Özdağ, sosyal medya hesabından yaptığı paylaşımla 1. olağanüstü büyük kongrenin tarihini duyurdu. Buna göre, erken bir seçim olmazsa Zafer Partisi seçime girebilecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/kongre-tarihi-belli-oldu-zafer-partisi-secime-girebilecek-mi-1985275"
+      },
+      "yayin": "2022-09-26T09:58:00+03:00",
+      "puan": 13,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2022-haber-1985229",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Sterlin dolar karşısında rekor seviyede düşüyor",
+      "aciklama": "İngiliz Sterlini dolar karşısında erimeye devam ediyor. Sterlin dolar kuru Asya'da 1,0350 ile tarihi düşük seviyeyi gördü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/sterlin-dolar-karsisinda-rekor-seviyede-dusuyor-1985229"
+      },
+      "yayin": "2022-09-26T08:57:00+03:00",
+      "puan": 12,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2021-haber-1871941",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Kripto para piyasalarında Çin depremi! Huobi'den hesapları kapatma kararı",
+      "aciklama": "Çin'in en büyük kripto para borsası Huobi, Çinli kullanıcıların hesaplarını sene sonuna kadar kapatacağını açıkladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/kripto-para-piyasalarinda-cin-depremi-huobiden-hesaplari-kapatma-karari-1871941"
+      },
+      "yayin": "2021-09-26T13:09:00+03:00",
+      "puan": 12,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2021-haber-1872056",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Milli halterci Cansel Özkan, Gençler Avrupa Şampiyonası'nda üçüncü oldu",
+      "aciklama": "Finlandiya'da düzenlenen Gençler ve 23 Yaş Altı Avrupa Halter Şampiyonası'nda kadınlar 59 kiloda Cansel Özkan, Avrupa üçüncüsü oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/milli-halterci-cansel-ozkan-gencler-avrupa-sampiyonasinda-ucuncu-oldu-1872056"
+      },
+      "yayin": "2021-09-26T23:19:00+03:00",
+      "puan": 10,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2020-haber-1769090",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "20 Yaş Altı Erkek Milli Voleybol Takımı, Avrupa Şampiyonası'ndan çekildi",
+      "aciklama": "20 Yaş Altı Erkek Milli Voleybol Takımı, 2 oyuncunun koronavirüs testinin pozitif çıkmasından dolayı Avrupa Şampiyonası'ndan çekildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/20-yas-alti-erkek-milli-voleybol-takimi-avrupa-sampiyonasindan-cekildi-1769090"
+      },
+      "yayin": "2020-09-26T21:24:00+03:00",
+      "puan": 10,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2020-haber-1768943",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İBBSK: Atletizmi kapamadık, gençleşip şampiyon olduk!",
+      "aciklama": "Genel Erdem Aslanoğlu,  İBB Başkanı Ekrem İmamoğlu’nun atletizme büyük önem verdiğini belirterek “Bizden atletizmi güçlendirmemizi istedi. Kulübün tarihinde ilk kez kadın atletizm takımı kurduk. İlk senesinde 1. Lig’de şampiyon oldular ve Süper Lig’e terfi ettiler. Erkeklerde de ",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ibbsk-atletizmi-kapamadik-genclesip-sampiyon-olduk-1768943"
+      },
+      "yayin": "2020-09-26T08:55:00+03:00",
+      "puan": 8,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2018-haber-1095121",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Cumhurbaşkanı Erdoğan, Kosovalı mevkidaşıyla görüştü",
+      "aciklama": "Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan, New York'ta Kosova Cumhurbaşkanı Haşim Thaçi ile görüştü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/cumhurbaskani-erdogan-kosovali-mevkidasiyla-gorustu-1095121"
+      },
+      "yayin": "2018-09-26T23:56:00+03:00",
+      "puan": 9,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2018-haber-1095063",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Katar Emiri'nin Erdoğan'a hediye ettiği açıklanan uçağın deposu 1070 asgari ücrete dolacak",
+      "aciklama": "Katar Emiri'nin Cumhurbaşkanı Erdoğan'a hediye ettiği söylenen uçağın deposunun 25.486 litre yakıt aldığı bunun da anlık kurla yaklaşık 280 bin dolara tekabül ettiği belirtildi. 280 bin dolar, 1070 asgari ücrete karşılık geliyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/katar-emirinin-erdogana-hediye-ettigi-aciklanan-ucagin-deposu-1070-asgari-ucrete-dolacak-1095063"
+      },
+      "yayin": "2018-09-26T21:24:00+03:00",
+      "puan": 9,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2017-haber-832289",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP Sözcüsü: Kadir Topbaş'ın istifası kişisel bir karardır",
+      "aciklama": "AKP MYK toplantısı sona erdi. AKP Sözcüsü Mahir Ünal, toplantının ardından açıklamalarda bulundu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/akp-sozcusu-kadir-topbasin-istifasi-kisisel-bir-karardir-832289"
+      },
+      "yayin": "2017-09-26T18:23:00+03:00",
+      "puan": 11,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2017-haber-831680",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Seçimler bitti, tartışma başladı: Almanya’da Nazi kırılması",
+      "aciklama": "Almanya’da Merkel’in kazandığı genel seçimlerden\r\nsonra gündem aşırı sağcı AfD’nin üçüncü parti\r\nolarak meclise girmesi oldu. Berlin’de seçim sonuçları\r\n“tektonik kayma ve kırılma noktası” olarak yorumlanıyor.\r\nÖte yandan seçimlerde 14 Türkiye kökenli\r\naday milletvekili olarak Fe",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/secimler-bitti-tartisma-basladi-almanyada-nazi-kirilmasi-831680"
+      },
+      "yayin": "2017-09-26T05:43:00+03:00",
+      "puan": 11,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2016-haber-606270",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Meclis Başkanı: Gülen'le AK Parti arasında öteden beri beraberiyet olmadı",
+      "aciklama": "Bir yabancı gazetecinin AKP ile FETÖ arasında bir ilişki olup olmadığı yönündeki sorusu üzerine Kahraman,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/meclis-baskani-gulenle-ak-parti-arasinda-oteden-beri-beraberiyet-olmadi-606270"
+      },
+      "yayin": "2016-09-26T22:33:00+03:00",
+      "puan": 9,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2016-haber-605920",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "22 yaşındaki kadını benzin döküp yakarak öldürdü: 10 yıl sonra dava açıldı",
+      "aciklama": "Adana'da boğazını sıkarak bayılttığı 22 yaşındaki Hatun Figen'i yakarak öldürdüğü iddiasıyla 10 yıl sonra yakalanan 36 yaşındaki Murat Kaz hakkında, ağırlaştırılmış müebbet hapis cezası istemiyle dava açıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/22-yasindaki-kadini-benzin-dokup-yakarak-oldurdu-10-yil-sonra-dava-acildi-605920"
+      },
+      "yayin": "2016-09-26T12:58:00+03:00",
+      "puan": 9,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2015-haber-376275",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP seçim çalışmasına camiden başladı",
+      "aciklama": "Dini değerleri istismar ettiği gerekçesiyle seçim şarkısı Yüksek Seçim Kurulu (YSK) tarafından yasaklanan AKP, Çorum’daki seçim çalışmalarını türbelerin bulunduğu camiden başlattı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/akp-secim-calismasina-camiden-basladi-376275"
+      },
+      "yayin": "2015-09-26T11:34:00+03:00",
+      "puan": 13,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2015-haber-376279",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Skandal karar... Dayakçı polislere para cezası, dayak yiyene hapis",
+      "aciklama": "Antalya'da adliye karakolunda Halil Kara'yı darp eden iki polise 740'ar lira adil para cezası verilirken, darp edilen Kara ise polislere direnip hakaret etmekten 3 yıl 5 ay 7 gün hapis cezasına çarptırıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/skandal-karar-dayakci-polislere-para-cezasi-dayak-yiyene-hapis-376279"
+      },
+      "yayin": "2015-09-26T11:41:00+03:00",
+      "puan": 5,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2014-haber-124089",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Askerlerin üzerine ateş açıldı!",
+      "aciklama": "GENELKURMAY Başkanlığı, Suriye'den 20 kişilik bir grubun mazot yüklü 5 tankerle Türkiye sınırına yaklaştığını ve 'Dur' ikazında bulunan askerlere sınırın diğer tarafından 2-3 farklı noktadan ateş açıldığını bildirdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/askerlerin-uzerine-ates-acildi-124089"
+      },
+      "yayin": "2014-09-26T22:38:00+03:00",
+      "puan": 7,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2014-haber-124039",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Şampiyon Galatasaray Odeabank (26.09.2014)",
+      "aciklama": "Basketbolu Geliştirenler Derneği (BGD) Tuğrul Akas Kadınlar Basketbol Turnuvası'nda, Edirne Belediyesi Edirnespor'u 71-46 yenen Galatasaray Odeabank, şampiyon oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/sampiyon-galatasaray-odeabank-124039"
+      },
+      "yayin": "2014-09-26T20:26:00+03:00",
+      "puan": 7,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2012-haber-372656",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan açıkladı: Doğalgaza zam geliyor",
+      "aciklama": "Başbakan Recep Tayyip Erdoğan zam eleştirilerine yanıt verdi. Erdoğan, kış gelmeden doğalgaza zam yapılacağını söyledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-acikladi-dogalgaza-zam-geliyor-372656"
+      },
+      "yayin": "2012-09-26T19:57:00+03:00",
+      "puan": 9,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2012-haber-372496",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Depremi tahmin edemeyen uzmanlara 4 yıl hapis",
+      "aciklama": "İtalya'da savcılık, 2009'da meydana gelen depremi tahmin edemeyen 7 bilim insanı hakkında",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/depremi-tahmin-edemeyen-uzmanlara-4-yil-hapis-372496"
+      },
+      "yayin": "2012-09-26T06:06:00+03:00",
+      "puan": 8,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2011-haber-285182",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolardan yeni bir rekor daha",
+      "aciklama": "Serbest piyasada dolar 1,8560 liraya çıkarak Türk lirası karşısında tüm zamanların en yüksek seviyesine ulaştı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/dolardan-yeni-bir-rekor-daha-285182"
+      },
+      "yayin": "2011-09-26T10:30:00+03:00",
+      "puan": 11,
+      "durum": "haber",
+      "konular": []
+    },
+    {
+      "id": "2011-haber-285268",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "MHP'nin anayasa heyeti belli oldu",
+      "aciklama": "MHP, yeni Anayasa çalışmaları için partilerini ziyaret edecek AKP heyetini 5 kişilik bir heyetle karşılayacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/mhpnin-anayasa-heyeti-belli-oldu-285268"
+      },
+      "yayin": "2011-09-26T20:35:00+03:00",
+      "puan": 7,
+      "durum": "haber",
+      "konular": []
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }

@@ -63,11 +63,15 @@ const dikey = (o: any) => !!o?.gorsel && o.gorsel.yukseklik > o.gorsel.genislik 
           <div class="manset-yil">{yilYaz(vitrin.yil)}{vitrin.yil > 0 && <small>{buYil - vitrin.yil} yıl önce</small>}</div>
           {vitrin.tur === 'haber' ? (
             <>
-              <h2><a href={vitrin.haberKaynagi.url} target="_blank" rel="noopener nofollow">{vitrin.baslik ?? vitrin.metin}</a></h2>
-              {(vitrin.ozet ?? vitrin.aciklama) && <p>{vitrin.ozet ?? vitrin.aciklama}</p>}
+              {vitrin.durum === 'yazildi' && vitrin.ozet ? (
+                <h2><a href={`/olay/${vitrin.id}/`}>{vitrin.baslik}</a></h2>
+              ) : (
+                <h2>{vitrin.metin}</h2>
+              )}
+              {vitrin.ozet && <p>{ilkParagraf(vitrin.ozet)}</p>}
               <div class="manset-alt">
-                <a class="dugme" href={vitrin.haberKaynagi.url} target="_blank" rel="noopener nofollow"><span>{vitrin.haberKaynagi.ad}'te oku ↗</span></a>
-                <span class="manset-kredi">Haber ve görsel: {vitrin.haberKaynagi.ad}</span>
+                {vitrin.durum === 'yazildi' && vitrin.ozet && <a class="dugme" href={`/olay/${vitrin.id}/`}><span>Devamını oku →</span></a>}
+                <span class="manset-kredi">Haber kaynağı: <a href={vitrin.haberKaynagi.url} target="_blank" rel="noopener nofollow">{vitrin.haberKaynagi.ad}</a> · Görsel: <a href={vitrin.gorsel.kaynak} rel="noopener">{kisaYazar(vitrin.gorsel)}</a> · {vitrin.gorsel.lisans} · Wikimedia Commons</span>
               </div>
             </>
           ) : (

@@ -57,7 +57,7 @@ jobs:
           body: |
             Otomatik içerik güncellemesi.
 
-            - `durum: "yayinda"` olan özetler birleştirmeden sonra yayına girer.
-            - `durum: "incele"` olanlar modelin emin olmadığı kayıtlardır; düzeltip `yayinda` yapabilir ya da olduğu gibi bırakabilirsiniz (yayınlanmaz).
-            - Hatalı bir özeti silmek için `ozet` alanını `null` yapın.
+            - Vikipedi olayları: `durum: "yayinda"` olanlar yayına girer, `durum: "incele"` olanlar modelin emin olmadığı kayıtlardır (yayınlanmaz).
+            - Haberler: `durum: "yazildi"` olanlar yayına girer, `durum: "incele"` olanlar Türkçe karakter kontrolünden geçemedi (yayınlanmaz), `durum: "elendi"` olanlar önemsiz bulundu.
+            - Bir kaydı elle onaylamak için `durum` alanını uygun değere çevirin; kaldırmak için `ozet` alanını `null` yapın.
           labels: icerik

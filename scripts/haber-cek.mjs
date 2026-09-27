@@ -1,7 +1,8 @@
 // Geçmiş yılların aynı gününde Türkiye'de yayınlanmış haberleri Cumhuriyet gazetesinin arşivinden çeker.
 // Cumhuriyet'in aylık site haritaları (sitemaps/posts-YYYY-M.xml) geçmişe dönük tüm haber adreslerini verir;
 // o güne ait haberler başlıklarına göre önem puanıyla sıralanır, en önemlileri sayfasından okunur
-// (başlık, kısa açıklama, yayın tarihi, görsel). Metin çevrilmez, kopyalanmaz; başlık + kısa açıklama + bağlantı.
+// (başlık, kısa açıklama, yayın tarihi). Haberin fotoğrafı ALINMAZ (telif); görsel, ozet-yaz'ın bulduğu
+// konu maddelerinden serbest lisanslı olarak Wikimedia Commons'tan gelir. Metin ozet-yaz ile yeniden yazılır.
 //
 // Kullanım:
 //   node scripts/haber-cek.mjs                 -> pencere (10 gün önce / 10 gün sonra), son 15 yıl, eksik yıllar
@@ -9,7 +10,6 @@
 //   --yil-sayisi 20  --yil-basina 3
 
 import fs from 'node:fs/promises';
-import sharp from 'sharp';
 import path from 'node:path';
 import { gunAnahtar, gunAdi, gunPenceresi, istanbulBugun } from '../src/lib/tarih.mjs';
 
@@ -90,41 +90,14 @@ async function haberOku(url) {
   const baslik = coz(meta(html, 'og:title'));
   const yayin = meta(html, 'datePublished') ?? html.match(/"datePublished"\s*:\s*"([^"]+)"/)?.[1];
   if (!baslik || !yayin) return null;
-  const gorselUrl = meta(html, 'og:image');
   return {
     baslik: baslik.replace(/^son dakika\s*[.:!…-]*\s*/i, ''),
     aciklama: coz(meta(html, 'og:description') ?? meta(html, 'description') ?? '').slice(0, 280),
     yayin,
-    gorsel: gorselUrl
-      ? { url: gorselUrl, genislik: Number(meta(html, 'og:image:width')) || 1280, yukseklik: Number(meta(html, 'og:image:height')) || 720 }
-      : null,
   };
 }
 
 const bekle = (ms) => new Promise((r) => setTimeout(r, ms));
-
-// Cumhuriyet'in fotoğrafsız haberlerde kullandığı logolu kapak görseli (16x9 ortalama-parlaklık özeti)
-const LOGO_OZET = '000000000000001100000000000000100000000000000011011011111111111011111111111111100111111111111110000000000000000000000001100000000000000000000000';
-
-async function gorselOzeti(url) {
-  const res = await fetch(url, { headers: { 'User-Agent': UA } });
-  if (!res.ok) return null;
-  const px = await sharp(Buffer.from(await res.arrayBuffer())).resize(16, 9, { fit: 'fill' }).greyscale().raw().toBuffer();
-  const ort = px.reduce((a, b) => a + b, 0) / px.length;
-  return [...px].map((v) => (v > ort ? '1' : '0')).join('');
-}
-
-/** Gerçek fotoğraf mı, yoksa logolu yer tutucu mu? */
-async function gercekFotograf(url) {
-  try {
-    const ozet = await gorselOzeti(url);
-    if (!ozet) return false;
-    const fark = [...ozet].filter((c, i) => c !== LOGO_OZET[i]).length;
-    return fark > 20;
-  } catch {
-    return false;
-  }
-}
 
 /** Bir günün bir yılı için en önemli haberler */
 async function yilHaberleri(ay, gun, yil) {
@@ -149,8 +122,7 @@ async function yilHaberleri(ay, gun, yil) {
     if (secilen.some((s) => s.slug.split('-').filter((k) => kelimeler.has(k)).length >= 2)) continue;
     const h = await haberOku(a.url);
     await bekle(600);
-    if (!h || !h.yayin.startsWith(hedef) || !h.gorsel) continue;
-    if (!(await gercekFotograf(h.gorsel.url))) continue;
+    if (!h || !h.yayin.startsWith(hedef)) continue;
     secilen.push({ ...a, ...h });
   }
   return secilen.map((h) => ({
@@ -161,7 +133,7 @@ async function yilHaberleri(ay, gun, yil) {
     metin: h.baslik,
     aciklama: h.aciklama,
     haberKaynagi: { ad: KAYNAK.ad, url: h.url },
-    gorsel: { ...h.gorsel, kucukUrl: h.gorsel.url, kaynak: h.url, yazar: KAYNAK.ad, lisans: 'Kaynak sitede', haber: true },
+    konular: [],
     yayin: h.yayin,
     puan: h.puan,
     durum: 'haber',

@@ -11,6 +11,7 @@ export function getStaticPaths() {
 
 const { o } = Astro.props;
 const g = o.gunVeri;
+const haber = o.tur === 'haber';
 const paragraflar = o.ozet.split(/\n\s*\n/).map((p) => p.trim()).filter(Boolean);
 const aciklama = paragraflar[0].length > 155 ? paragraflar[0].slice(0, 152).replace(/\s+\S*$/, '') + '…' : paragraflar[0];
 const ayniGun = yayindakiOlaylar(g).filter((x) => x.id !== o.id).slice(0, 6);
@@ -20,7 +21,7 @@ const url = `${SITE.url}/olay/${o.id}/`;
 const jsonld = [
   {
     '@context': 'https://schema.org',
-    '@type': 'Article',
+    '@type': haber ? 'NewsArticle' : 'Article',
     headline: o.baslik,
     description: aciklama,
     inLanguage: 'tr',
@@ -72,8 +73,12 @@ const jsonld = [
         {paragraflar.map((p) => <p>{p}</p>)}
       </div>
       <p class="kaynak-kutu">
-        Olay kaydı: <a href={g.kaynak.url} rel="noopener">Vikipedi – {gunAdi(g.ay, g.gun)}</a> (CC BY-SA 4.0).
-        Bu özet {SITE.ad} editörlüğü tarafından hazırlanmıştır. Bir hata fark ederseniz <a href="/iletisim/">bize yazın</a>.
+        {haber ? (
+          <>Haber kaynağı: <a href={o.haberKaynagi.url} target="_blank" rel="noopener nofollow">{o.haberKaynagi.ad}</a> ({yilYaz(o.yil)}).</>
+        ) : (
+          <>Olay kaydı: <a href={g.kaynak.url} rel="noopener">Vikipedi – {gunAdi(g.ay, g.gun)}</a> (CC BY-SA 4.0).</>
+        )}
+        Bu {haber ? 'haber' : 'özet'} {SITE.ad} editörlüğü tarafından yeniden yazılmıştır. Bir hata fark ederseniz <a href="/iletisim/">bize yazın</a>.
       </p>
       <a class="dugme" href={`/${gunSlug(g.ay, g.gun)}/`}><span>← {gunAdi(g.ay, g.gun)} gününün tamamı</span></a>
     </article>

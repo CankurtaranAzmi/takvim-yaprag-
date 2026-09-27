@@ -14,12 +14,13 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { gunAnahtar, gunAdi, istanbulBugun, yilYaz } from '../src/lib/tarih.mjs';
 import { KATEGORILER } from '../src/lib/kategoriler.mjs';
+import { gorselleriBul } from './gorsel.mjs';
 
 const VERI_DIZINI = path.resolve('src/data/gunler');
 const MODEL = process.env.GEMINI_MODEL || 'gemini-flash-lite-latest';
 const API_KEY = process.env.GEMINI_API_KEY;
 const UA = 'TakvimYapragiBot/1.0 (https://takvimyapragi.com)';
-const BEKLEME_MS = Number(process.env.GEMINI_BEKLEME_MS || 4500); // ücretsiz planın dakika sınırına takılmamak için
+const BEKLEME_MS = Number(process.env.GEMINI_BEKLEME_MS || 1500); // ücretsiz planın dakika sınırına takılmamak için
 
 class KotaDoldu extends Error {}
 
@@ -48,9 +49,14 @@ const SEMA_HABER = {
     ozet: { type: 'STRING', description: 'Haberi kendi cümlelerinle anlatan 2-3 cümlelik (45-90 kelime) özgün özet. Kaynak metinden cümle kopyalama.' },
     kategori: { type: 'STRING', format: 'enum', enum: KATEGORILER },
     onemli: { type: 'BOOLEAN', description: 'Geniş kitleyi ilgilendiren, yıllar sonra anılmaya değer bir haber mi? Parti demeçleri, yerel asayiş, magazin, hizmet haberleri (fiyatlar, hava, maç saati) ise false.' },
+    konular: {
+      type: 'ARRAY',
+      items: { type: 'STRING' },
+      description: 'Haberin görselini bulmak için 1-3 Türkçe Vikipedi madde adı, en özelden genele: olayın kendisi (varsa), baş aktör kişi, kurum ya da yer. Ör: ["Karabağ Savaşı (2020)", "İlham Aliyev", "Azerbaycan"].',
+    },
   },
-  required: ['baslik', 'ozet', 'kategori', 'onemli'],
-  propertyOrdering: ['baslik', 'ozet', 'kategori', 'onemli'],
+  required: ['baslik', 'ozet', 'kategori', 'onemli', 'konular'],
+  propertyOrdering: ['baslik', 'ozet', 'kategori', 'onemli', 'konular'],
 };
 
 const SISTEM_HABER = `Sen "Takvim Yaprağı" adlı Türkçe "tarihte bugün" sitesinin editörüsün.
@@ -59,7 +65,8 @@ Bu haberi sitemiz için kendi cümlelerinle, tarafsız ve sade bir dille yeniden
 - Kaynak başlık ve açıklamadaki cümleleri kopyalama; aynı bilgiyi farklı kelime ve cümle yapısıyla anlat.
 - Yalnızca verilen bilgiyi kullan; tarih, sayı veya isim ekleme, uydurma.
 - Geçmiş zaman kullan ("açıkladı", "başladı"); haberin yılını cümle içinde tekrar etme.
-- Siyasi konularda yorum katma, taraf tutma. Markdown ve emoji kullanma.`;
+- Siyasi konularda yorum katma, taraf tutma. Markdown ve emoji kullanma.
+- Türkçe karakterleri (ı, İ, ş, ğ, ç, ö, ü) mutlaka doğru ve eksiksiz kullan; 'ı' harfini asla 'i' ile karıştırma.`;
 
 const SISTEM = `Sen "Takvim Yaprağı" adlı Türkçe "tarihte bugün" sitesinin editörüsün.
 Sana bir tarihte yaşanmış bir olayın tek satırlık kaydı (Türkçe ya da İngilizce) ve ilgili Vikipedi maddelerinin giriş paragrafları verilecek. Her zaman Türkçe yaz.
@@ -109,6 +116,7 @@ async function olayYaz(ay, gun, olay) {
 
   const c = await gemini(istek);
   if (!KATEGORILER.includes(c.kategori)) c.kategori = null;
+  if (c._turkceSupheli) c.guven = 'dusuk';
   return { ...c, secilenGorsel: adaylar[c.gorsel - 1] ?? null };
 }
 
@@ -121,6 +129,15 @@ async function haberYaz(ay, gun, h) {
   return gemini(istek, 0, SEMA_HABER, SISTEM_HABER);
 }
 
+// gemini-flash-lite-latest ara sıra Türkçe özel karakterleri (ı,ğ,ü,ş,ö,ç) hiç üretmeden
+// tamamen ASCII yazabiliyor (bilinen, seyrek bir model davranışı). 30+ karakterlik bir
+// başlık+özette hiç Türkçe harf yoksa çıktı şüpheli sayılır ve farklı sıcaklıkla yeniden denenir.
+const TR_KARAKTER = /[ığüşöçİĞÜŞÖÇ]/;
+function turkceGecerliMi(c) {
+  const metin = `${c.baslik ?? ''} ${c.ozet ?? ''}`;
+  return metin.length < 30 || TR_KARAKTER.test(metin);
+}
+
 async function gemini(istek, deneme = 0, sema = SEMA, sistem = SISTEM) {
   const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`, {
     method: 'POST',
@@ -128,7 +145,7 @@ async function gemini(istek, deneme = 0, sema = SEMA, sistem = SISTEM) {
     body: JSON.stringify({
       systemInstruction: { parts: [{ text: sistem }] },
       contents: [{ role: 'user', parts: [{ text: istek }] }],
-      generationConfig: { temperature: 0.5, responseMimeType: 'application/json', responseSchema: sema },
+      generationConfig: { temperature: deneme === 0 ? 0 : 0.6, responseMimeType: 'application/json', responseSchema: sema },
     }),
   });
   if (res.status === 429 || res.status === 503) {
@@ -143,7 +160,12 @@ async function gemini(istek, deneme = 0, sema = SEMA, sistem = SISTEM) {
   const aday = json.candidates?.[0];
   const metin = aday?.content?.parts?.map((p) => p.text ?? '').join('');
   if (!metin) throw new Error(`boş yanıt (${aday?.finishReason ?? json.promptFeedback?.blockReason ?? 'bilinmiyor'})`);
-  return JSON.parse(metin);
+  const sonuc = JSON.parse(metin);
+  if (!turkceGecerliMi(sonuc)) {
+    if (deneme < 2) return gemini(istek, deneme + 1, sema, sistem);
+    sonuc._turkceSupheli = true; // 3 denemede de düzelmedi; çağıran taraf otomatik yayınlamasın
+  }
+  return sonuc;
 }
 
 async function hedefGunler(args) {
@@ -180,18 +202,25 @@ for (const { ay, gun } of await hedefGunler(args)) {
 
   let degisti = false;
 
-  for (const h of (veri.haberler ?? []).filter((h) => !h.ozet && h.durum === 'haber')) {
+  for (const h of (veri.haberler ?? []).filter((h) => !h.ozet && h.durum === 'haber').sort((a, b) => b.yil - a.yil)) {
     if (kalan <= 0 || kotaDoldu) break;
     try {
       const c = await haberYaz(ay, gun, h);
       h.baslik = c.baslik;
       h.ozet = c.ozet;
       h.kategori = KATEGORILER.includes(c.kategori) ? c.kategori : null;
-      h.durum = c.onemli ? 'yazildi' : 'elendi';
+      h.durum = !c.onemli ? 'elendi' : c._turkceSupheli ? 'incele' : 'yazildi';
+      h.konular = (c.konular ?? []).slice(0, 3);
+      // Görsel: yalnızca serbest lisanslı Commons görseli (haber fotoğrafı kullanılmaz)
+      if (c.onemli) {
+        delete h.gorsel;
+        await gorselleriBul([h]);
+        delete h.gorselAdaylari;
+      }
       degisti = true;
       yazilan++;
       kalan--;
-      console.log(`${c.onemli ? '✓' : '-'} haber ${gunAdi(ay, gun)} ${h.yil}: ${c.baslik}`);
+      console.log(`${!c.onemli ? '-' : c._turkceSupheli ? '!' : h.gorsel ? '✓' : '○'} haber ${gunAdi(ay, gun)} ${h.yil}: ${c.baslik}${c.onemli && !h.gorsel ? ' (görsel yok)' : ''}${c._turkceSupheli ? ' (TÜRKÇE KARAKTER ŞÜPHELİ)' : ''}`);
     } catch (e) {
       if (e instanceof KotaDoldu) { kotaDoldu = true; console.warn('Günlük ücretsiz kota doldu.'); break; }
       hata++;

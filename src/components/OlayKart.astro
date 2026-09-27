@@ -5,37 +5,35 @@ import { altMetin, kisaYazar } from '../lib/gorsel.mjs';
 interface Props { o: any; buYil: number }
 const { o, buYil } = Astro.props;
 
-const yayinda = o.durum === 'yayinda' && o.ozet;
 const haber = o.tur === 'haber';
-const link = haber ? o.haberKaynagi.url : yayinda ? `/olay/${o.id}/` : null;
-const dis = haber ? { target: '_blank', rel: 'noopener nofollow' } : {};
+// Hem Vikipedi olayları hem haberler kendi sitemizde tam sayfaya sahip: tıklanınca hep /olay/ altına gider,
+// dışarıya (Cumhuriyet'e) yalnızca ayrı küçük bir "kaynak" notu bağlanır.
+const yazilmis = haber ? o.durum === 'yazildi' && o.ozet : o.durum === 'yayinda' && o.ozet;
+const link = yazilmis ? `/olay/${o.id}/` : null;
 const Kap = link ? 'a' : 'div';
 const ilkParagraf = (s: string) => (s.split(/\n\s*\n/)[0] ?? s).trim();
 const kisalt = (s: string, n: number) => (s.length > n ? s.slice(0, n - 2).replace(/\s+\S*$/, '') + '…' : s);
 ---
 <li class="kart">
-  <Kap class="kart-gorsel" href={link ?? undefined} tabindex={link ? -1 : undefined} aria-hidden={link ? 'true' : undefined} {...dis}>
+  <Kap class="kart-gorsel" href={link ?? undefined} tabindex={link ? -1 : undefined} aria-hidden={link ? 'true' : undefined}>
     <img src={o.gorsel.kucukUrl} alt={altMetin(o.gorsel)} width="500" height="313" loading="lazy" decoding="async" />
     <span class="kart-yil"><span>{yilYaz(o.yil)}</span></span>
   </Kap>
   <div class="kart-govde">
     <div class="kart-ust">
-      <span class="kat">{haber ? 'Haber' : yayinda && o.kategori ? o.kategori : o.bolge === 'turkiye' ? 'Türkiye' : 'Dünya'}</span>
+      <span class="kat">{haber ? 'Haber' : yazilmis && o.kategori ? o.kategori : o.bolge === 'turkiye' ? 'Türkiye' : 'Dünya'}</span>
       {o.yil > 0 && <span>{buYil - o.yil} yıl önce</span>}
     </div>
-    {haber ? (
+    {yazilmis ? (
       <>
-        <h3><a href={link} {...dis}>{o.baslik ?? o.metin}</a></h3>
-        {(o.ozet ?? o.aciklama) && <p>{kisalt(o.ozet ?? o.aciklama, 170)}</p>}
-        <a class="kart-devam" href={link} {...dis}>{o.haberKaynagi.ad}'te oku ↗</a>
+        <h3><a href={link}>{o.baslik}</a></h3>
+        <p>{kisalt(ilkParagraf(o.ozet), 170)}</p>
+        <a class="kart-devam" href={link}>Devamını oku →</a>
       </>
-    ) : yayinda ? (
-      <><h3><a href={link}>{o.baslik}</a></h3><p>{ilkParagraf(o.ozet).slice(0, 160)}…</p><a class="kart-devam" href={link}>Devamını oku →</a></>
     ) : <p>{o.metin}</p>}
     <span class="kart-kredi">
-      {haber
-        ? <>Haber ve görsel: <a href={link} {...dis}>{o.haberKaynagi.ad}</a></>
-        : <>Görsel: {kisaYazar(o.gorsel, 30)} · {o.gorsel.lisans}</>}
+      {haber && <>Haber kaynağı: <a href={o.haberKaynagi.url} target="_blank" rel="noopener nofollow">{o.haberKaynagi.ad}</a> · </>}
+      Görsel: {kisaYazar(o.gorsel, 30)} · {o.gorsel.lisans}
     </span>
   </div>
 </li>
