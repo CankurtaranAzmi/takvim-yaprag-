@@ -3,8 +3,9 @@ import Base from '../layouts/Base.astro';
 import { SITE } from '../site.config.mjs';
 ---
 <Base baslik="Çerez Politikası" aciklama={`${SITE.ad} çerez politikası: hangi çerezler kullanılır, nasıl yönetilir?`}>
+  <header class="sayfa-baslik"><div class="kap"><h1>Çerez Politikası</h1></div></header>
+  <div class="kap kap--dar">
   <article class="metin-sayfa">
-    <h1>Çerez Politikası</h1>
     <p>Çerezler, ziyaret ettiğiniz sitelerin tarayıcınıza kaydettiği küçük metin dosyalarıdır.</p>
 
     <h2>Kullandığımız çerezler</h2>
@@ -21,4 +22,5 @@ import { SITE } from '../site.config.mjs';
 
     <p>Sorularınız için: <a href={`mailto:${SITE.eposta}`}>{SITE.eposta}</a></p>
   </article>
+  </div>
 </Base>

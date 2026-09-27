@@ -1,8 +1,8 @@
 ---
 import { AYLAR, AY_GUN_SAYISI } from '../lib/tarih.mjs';
 ---
-<section class="gun-sec" aria-labelledby="gun-sec-baslik">
-  <h2 id="gun-sec-baslik">Başka bir gün seç</h2>
+<section class="kutu gun-sec" aria-labelledby="gun-sec-baslik">
+  <h2 id="gun-sec-baslik">Gün seç</h2>
   <p>Doğum gününde, yıl dönümünde ya da merak ettiğin bir tarihte neler olmuş?</p>
   <form id="gun-sec-form" action="/takvim/">
     <label class="gizli" for="gs-gun">Gün</label>
@@ -13,7 +13,7 @@ import { AYLAR, AY_GUN_SAYISI } from '../lib/tarih.mjs';
     <select id="gs-ay" name="ay">
       {AYLAR.map((a, i) => <option value={i + 1}>{a}</option>)}
     </select>
-    <button type="submit">Göster</button>
+    <button class="dugme" type="submit"><span>Göster</span></button>
   </form>
 </section>
 

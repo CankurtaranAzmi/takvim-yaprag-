@@ -16,12 +16,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Makedonimp.jpg/960px-Makedonimp.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Makedonimp.jpg/500px-Makedonimp.jpg",
         "genislik": 960,
         "yukseklik": 461,
+        "orijinalGenislik": 2000,
         "yazar": "The original uploader was Brecht at Turkish Wikipedia.",
         "lisans": "CC BY-SA 3.0",
         "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
@@ -35,6 +35,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Makedonimp.jpg/500px-Makedonimp.jpg",
           "genislik": 960,
           "yukseklik": 461,
+          "orijinalGenislik": 2000,
           "yazar": "The original uploader was Brecht at Turkish Wikipedia.",
           "lisans": "CC BY-SA 3.0",
           "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
@@ -47,6 +48,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Alexander_the_Great_mosaic_%28cropped%29.jpg",
           "genislik": 803,
           "yukseklik": 1074,
+          "orijinalGenislik": 803,
           "yazar": "Bilinmeyen yazar",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -59,6 +61,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Darius_III_mosaic.jpg/500px-Darius_III_mosaic.jpg",
           "genislik": 960,
           "yukseklik": 1026,
+          "orijinalGenislik": 1646,
           "yazar": "Carole Raddato from FRANKFURT, Germany",
           "lisans": "CC BY-SA 2.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -66,7 +69,8 @@
           "aciklama": "The Alexander Mosaic, dating from circa 100 BC, is a Roman floor mosaic originally from the House of the Faun in Pompeii. It depicts a battle between the armies of Alexander the Great and Darius III o",
           "konu": "III. Darius"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1795-fransa-belcikadaki-habsburg-egemenligine-son-vererek-bu",
@@ -80,8 +84,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1827-ivan-paskevic-komutasindaki-rus-ordusu-erivana-girdi",
@@ -96,12 +100,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%D0%98%D0%B2%D0%B0%D0%BD_%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9F%D0%B0%D1%81%D0%BA%D0%B5%D0%B2%D0%B8%D1%87.jpg/960px-%D0%98%D0%B2%D0%B0%D0%BD_%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9F%D0%B0%D1%81%D0%BA%D0%B5%D0%B2%D0%B8%D1%87.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%D0%98%D0%B2%D0%B0%D0%BD_%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9F%D0%B0%D1%81%D0%BA%D0%B5%D0%B2%D0%B8%D1%87.jpg/500px-%D0%98%D0%B2%D0%B0%D0%BD_%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9F%D0%B0%D1%81%D0%BA%D0%B5%D0%B2%D0%B8%D1%87.jpg",
         "genislik": 960,
         "yukseklik": 1104,
+        "orijinalGenislik": 1670,
         "yazar": "George Dawe",
         "lisans": "Public domain",
         "lisansUrl": null,
@@ -115,6 +119,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%D0%98%D0%B2%D0%B0%D0%BD_%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9F%D0%B0%D1%81%D0%BA%D0%B5%D0%B2%D0%B8%D1%87.jpg/500px-%D0%98%D0%B2%D0%B0%D0%BD_%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9F%D0%B0%D1%81%D0%BA%D0%B5%D0%B2%D0%B8%D1%87.jpg",
           "genislik": 960,
           "yukseklik": 1104,
+          "orijinalGenislik": 1670,
           "yazar": "George Dawe",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -127,6 +132,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Mount_Ararat_and_the_Yerevan_skyline_%28June_2018%29.jpg/500px-Mount_Ararat_and_the_Yerevan_skyline_%28June_2018%29.jpg",
           "genislik": 960,
           "yukseklik": 640,
+          "orijinalGenislik": 5184,
           "yazar": "Սէրուժ Ուրիշեան (Serouj Ourishian)",
           "lisans": "CC BY 4.0",
           "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
@@ -134,7 +140,8 @@
           "aciklama": "Mount Ararat and the Yerevan skyline in spring. The Yerevan Opera Theatre is visible in the center.",
           "konu": "Erivan"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1869-dunyada-ilk-kartpostal-avusturyada-basildi",
@@ -147,19 +154,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Burns_on_Ayr_Postcard_1899.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Burns_on_Ayr_Postcard_1899.jpg",
         "genislik": 637,
         "yukseklik": 480,
+        "orijinalGenislik": 637,
         "yazar": "Unknown author.",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:Burns_on_Ayr_Postcard_1899.jpg",
         "aciklama": "Vintage postcard dated 1899 showning Robert Burns with Burns Monument & Cottage",
         "konu": "kartpostal"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1880-ilk-elektrikli-ampul-fabrikasi-thomas-edison-tarafindan",
@@ -172,12 +180,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Gluehlampe_01_KMJ.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Gluehlampe_01_KMJ.jpg",
         "genislik": 768,
         "yukseklik": 1276,
+        "orijinalGenislik": 768,
         "yazar": "KMJ",
         "lisans": "CC BY-SA 3.0",
         "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
@@ -191,6 +199,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Gluehlampe_01_KMJ.jpg",
           "genislik": 768,
           "yukseklik": 1276,
+          "orijinalGenislik": 768,
           "yazar": "KMJ",
           "lisans": "CC BY-SA 3.0",
           "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
@@ -203,6 +212,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/500px-Thomas_Edison2.jpg",
           "genislik": 960,
           "yukseklik": 1229,
+          "orijinalGenislik": 2888,
           "yazar": "Louis Bachrach, Bachrach Studios, restored by Michel Vuijlsteke",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -210,7 +220,8 @@
           "aciklama": "\"Thomas Alva Edison, three-quarter length portrait, seated, facing front\". Photographic print.",
           "konu": "Thomas Edison"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1887-birlesik-krallik-belucistani-isgal-etti",
@@ -223,19 +234,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Quaid-e-Azam_Residancy_Ziarat_Balochistan_by_Balochlens.jpg/960px-Quaid-e-Azam_Residancy_Ziarat_Balochistan_by_Balochlens.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Quaid-e-Azam_Residancy_Ziarat_Balochistan_by_Balochlens.jpg/500px-Quaid-e-Azam_Residancy_Ziarat_Balochistan_by_Balochlens.jpg",
         "genislik": 960,
         "yukseklik": 638,
+        "orijinalGenislik": 3008,
         "yazar": "Balochlens",
         "lisans": "CC BY-SA 4.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Quaid-e-Azam_Residancy_Ziarat_Balochistan_by_Balochlens.jpg",
         "aciklama": "This is a photo of a monument in Pakistan identified as the",
         "konu": "Belucistan, Pakistan"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1891-abdnin-kaliforniya-eyaletinde-stanford-universitesi-kuruldu",
@@ -249,8 +261,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1898-car-ii-nikolay-yahudilerin-buyuk-rus-sehirlerinin",
@@ -264,19 +276,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Nicholas_II_by_Boissonnas_%26_Eggler_c1909.jpg/960px-Nicholas_II_by_Boissonnas_%26_Eggler_c1909.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Nicholas_II_by_Boissonnas_%26_Eggler_c1909.jpg/500px-Nicholas_II_by_Boissonnas_%26_Eggler_c1909.jpg",
         "genislik": 960,
         "yukseklik": 1459,
+        "orijinalGenislik": 987,
         "yazar": "Boissonnas & Eggler, photographer, active 1902-1923, St. Petersburg, Nevsky 24.",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:Nicholas_II_by_Boissonnas_%26_Eggler_c1909.jpg",
         "aciklama": "Gelatin silver print photograph of Nicholas II, Emperor of Russia. He is standing with his left hand resting on a bicorn hat on the decorative table beside him to the right. He is wearing an ornate na",
         "konu": "II. Nikolay (Rusya)"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1905-galatasaray-sk-kuruldu",
@@ -288,8 +301,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1908-ford-model-t-otomobilini-satisa-sundu",
@@ -303,12 +316,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Late_model_Ford_Model_T.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Late_model_Ford_Model_T.jpg",
         "genislik": 400,
         "yukseklik": 365,
+        "orijinalGenislik": 400,
         "yazar": "Rmhermen",
         "lisans": "CC BY-SA 3.0",
         "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
@@ -322,6 +335,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Late_model_Ford_Model_T.jpg",
           "genislik": 400,
           "yukseklik": 365,
+          "orijinalGenislik": 400,
           "yazar": "Rmhermen",
           "lisans": "CC BY-SA 3.0",
           "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
@@ -334,6 +348,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Patent-Motorwagen_Nr.1_Benz_2.jpg/500px-Patent-Motorwagen_Nr.1_Benz_2.jpg",
           "genislik": 960,
           "yukseklik": 647,
+          "orijinalGenislik": 1491,
           "yazar": "DaimlerChrysler AG",
           "lisans": "CC BY-SA 3.0",
           "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
@@ -341,7 +356,8 @@
           "aciklama": "كارل بنز باتينت موتورڤاگن",
           "konu": "otomobil"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1918-ingiliz-istihbarat-subayi-t-e-lawrence-yonetimindeki",
@@ -354,12 +370,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Te_lawrence.jpg/960px-Te_lawrence.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Te_lawrence.jpg/500px-Te_lawrence.jpg",
         "genislik": 960,
         "yukseklik": 1217,
+        "orijinalGenislik": 4072,
         "yazar": "Harris & Ewing",
         "lisans": "Public domain",
         "lisansUrl": null,
@@ -373,6 +389,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Te_lawrence.jpg/500px-Te_lawrence.jpg",
           "genislik": 960,
           "yukseklik": 1217,
+          "orijinalGenislik": 4072,
           "yazar": "Harris & Ewing",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -385,6 +402,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Damascus_coll.jpg/500px-Damascus_coll.jpg",
           "genislik": 960,
           "yukseklik": 1482,
+          "orijinalGenislik": 2874,
           "yazar": "See above.",
           "lisans": "CC BY-SA 3.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -392,7 +410,8 @@
           "aciklama": "Damascus landmarks",
           "konu": "Şam"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1928-sovyetler-birligi-ilk-bes-yillik-kalkinma-plani",
@@ -404,8 +423,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1936-general-franco-ispanya-milliyetci-hukumetinin-basina-gecti",
@@ -418,19 +437,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/RETRATO_DEL_GRAL._FRANCISCO_FRANCO_BAHAMONDE_%28adjusted_levels%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/RETRATO_DEL_GRAL._FRANCISCO_FRANCO_BAHAMONDE_%28adjusted_levels%29.jpg",
         "genislik": 950,
         "yukseklik": 1297,
+        "orijinalGenislik": 950,
         "yazar": "Bilinmeyen yazar",
         "lisans": "CC0",
         "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "kaynak": "https://commons.wikimedia.org/wiki/File:RETRATO_DEL_GRAL._FRANCISCO_FRANCO_BAHAMONDE_(adjusted_levels).jpg",
         "aciklama": "Portrait of Francisco Franco",
         "konu": "Francisco Franco"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1939-yaklasik-bir-ay-suren-kusatmanin-ardindan-nazi",
@@ -443,19 +463,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Skyline_of_Warsaw%2C_Poland_%28cropped%29.jpg/960px-Skyline_of_Warsaw%2C_Poland_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Skyline_of_Warsaw%2C_Poland_%28cropped%29.jpg/500px-Skyline_of_Warsaw%2C_Poland_%28cropped%29.jpg",
         "genislik": 960,
         "yukseklik": 576,
+        "orijinalGenislik": 7341,
         "yazar": "Quintin Soloviev",
         "lisans": "CC BY 4.0",
         "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Skyline_of_Warsaw,_Poland_(cropped).jpg",
         "aciklama": "Winter sunrise over central Warsaw, featuring the Palace of Culture and Science and surrounding skyline, photographed in 2025.",
         "konu": "Varşova"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1940-abdnin-ilk-otobani-sayilan-pensilvanya-parali-otoyolu",
@@ -469,19 +490,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Otoyol_1.JPG/960px-Otoyol_1.JPG",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Otoyol_1.JPG/500px-Otoyol_1.JPG",
         "genislik": 960,
         "yukseklik": 720,
+        "orijinalGenislik": 2816,
         "yazar": "Khutuck",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:Otoyol_1.JPG",
         "aciklama": "Otoyol 1, İstanbul Haliç Köprüsü Halıcıoğlu çıkışı / Otoyol 1, İstanbul Haliç Bridge Halıcıoğlu exit",
         "konu": "otoyol"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1940-einstein-amerikan-vatandasi-oldu",
@@ -494,19 +516,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/960px-Albert_Einstein_Head_cleaned.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/500px-Albert_Einstein_Head_cleaned.jpg",
         "genislik": 960,
         "yukseklik": 1188,
+        "orijinalGenislik": 4530,
         "yazar": "Oren Jack Turner",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg",
         "aciklama": "Albert Einstein",
         "konu": "Albert Einstein"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1942-turkiyede-bakanlar-kurulu-eglence-yerlerinin-saat-22",
@@ -519,19 +542,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg/960px-Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg/500px-Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg",
         "genislik": 960,
         "yukseklik": 710,
+        "orijinalGenislik": 1331,
         "yazar": "Ex13",
         "lisans": "CC BY-SA 4.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg",
         "aciklama": "New Presidential Compound in Ankara, AOÇ (Beştepe)",
         "konu": "Bakanlar Kurulu (Türkiye)"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1946-nazi-yetkililerinin-yargilandigi-nurnberg-mahkemesi-sona-erdi",
@@ -544,19 +568,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Color_photograph_of_judges%27_bench_at_IMT.jpg/960px-Color_photograph_of_judges%27_bench_at_IMT.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Color_photograph_of_judges%27_bench_at_IMT.jpg/500px-Color_photograph_of_judges%27_bench_at_IMT.jpg",
         "genislik": 960,
         "yukseklik": 732,
+        "orijinalGenislik": 2224,
         "yazar": "Raymond D'Addario",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:Color_photograph_of_judges%27_bench_at_IMT.jpg",
         "aciklama": "\"The judges at their bench (left) in Room 600 at the Palace of Justice, Nuremberg, during proceedings against leading Nazi figures for war crimes at the International Military Tribunal (IMT), Germany,",
         "konu": "Nürnberg Uluslararası Askerî Ceza Mahkemesi"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1949-ankara-devlet-tiyatrosu-kuruldu-kucuk-tiyatro-ve",
@@ -568,19 +593,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Ankara_asv2021-10_img58_Ankara_State_Theatre.jpg/960px-Ankara_asv2021-10_img58_Ankara_State_Theatre.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Ankara_asv2021-10_img58_Ankara_State_Theatre.jpg/500px-Ankara_asv2021-10_img58_Ankara_State_Theatre.jpg",
         "genislik": 960,
         "yukseklik": 720,
+        "orijinalGenislik": 4907,
         "yazar": "A.Savin",
         "lisans": "FAL",
         "lisansUrl": "http://artlibre.org/licence/lal/en",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img58_Ankara_State_Theatre.jpg",
         "aciklama": "Chamber Theater (Oda Tiyatrosu) in Ankara, Turkey",
         "konu": "Ankara Devlet Tiyatrosu"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1949-mao-zedong-onderliginde-cinin-kurulusu-ilan-edildi",
@@ -593,19 +619,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mao_Tse_Tung.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mao_Tse_Tung.jpg",
         "genislik": 740,
         "yukseklik": 1024,
+        "orijinalGenislik": 740,
         "yazar": "Chen Zhengqing (1917–1966)",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:Mao_Tse_Tung.jpg",
         "aciklama": "This is an official portrait of Mao Tse-Tung (aka Mao Zedong), chairman of the Chinese Communist Party, taken on November 10, 1950, in Beijing, China.",
         "konu": "Mao Zedong"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1951-turkiyede-hava-harp-okulu-acildi",
@@ -617,8 +644,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1952-amerikali-askerler-guney-korede-gosteri-yapan-esir",
@@ -630,8 +657,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1952-et-ve-balik-kurumu-genel-mudurlugu-kuruldu",
@@ -643,8 +670,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1956-yazar-eflatun-cem-guney-andersen-masal-odulunu",
@@ -656,8 +683,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1958-nasa-kuruldu",
@@ -669,8 +696,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1960-kibris-birlesik-kralliktan-bagimsizligini-kazandi",
@@ -683,8 +710,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1960-nijerya-bagimsizligini-ilan-etti",
@@ -696,8 +723,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1963-cezayir-devlet-baskani-ahmet-bin-bella-ulkede",
@@ -711,19 +738,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Pr%C3%A9sident_Ahmed_Ben_Bella.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Pr%C3%A9sident_Ahmed_Ben_Bella.jpg",
         "genislik": 677,
         "yukseklik": 829,
+        "orijinalGenislik": 677,
         "yazar": "République Algérienne",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:Pr%C3%A9sident_Ahmed_Ben_Bella.jpg",
         "aciklama": "Official picture of the first president of Algeria",
         "konu": "Ahmet Bin Bella"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1972-boksor-cemal-kamaci-63-5-kiloda-avrupa",
@@ -736,8 +764,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1977-brezilyali-futbol-yildizi-pele-futbolu-birakti",
@@ -750,8 +778,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1978-tuvalu-birlesik-kralliktan-bagimsizligini-ilan-etti",
@@ -764,8 +792,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1982-sony-son-kullaniciya-yonelik-ilk-cd-calari",
@@ -777,19 +805,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Sony_headquaters_2.jpg/960px-Sony_headquaters_2.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Sony_headquaters_2.jpg/500px-Sony_headquaters_2.jpg",
         "genislik": 960,
         "yukseklik": 1249,
+        "orijinalGenislik": 2051,
         "yazar": "Akonnchiroll",
         "lisans": "CC BY-SA 4.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Sony_headquaters_2.jpg",
         "aciklama": "Sony headquaters in 2023",
         "konu": "Sony"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1985-israil-guclerinin-tunustaki-filistin-kurtulus-orgutu-fko",
@@ -803,8 +832,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1988-mihail-gorbacov-sovyetler-birligi-devlet-baskanligini-ustlendi",
@@ -817,19 +846,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
         "genislik": 480,
         "yukseklik": 640,
+        "orijinalGenislik": 480,
         "yazar": "RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev.jpg: Vladimir Vyatkin / Владимир Вяткин derivative work: Jbarta",
         "lisans": "CC BY-SA 3.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_(crop).jpg",
         "aciklama": "“General Secretary of the CPSU CC M. Gorbachev”. General Secretary of the CPSU Central Committee Mikhail Gorbachev speaking at the 20th Congress of the VLKSM. Kremlin Palace of Congresses.",
         "konu": "Mihail Gorbaçov"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1992-bitlisin-merkeze-bagli-cevizdali-koyune-saldiran-pkkli",
@@ -843,19 +873,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Bitlis_view.jpg/960px-Bitlis_view.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Bitlis_view.jpg/500px-Bitlis_view.jpg",
         "genislik": 960,
         "yukseklik": 720,
+        "orijinalGenislik": 2560,
         "yazar": "Ahzaryamed",
         "lisans": "CC BY-SA 4.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Bitlis_view.jpg",
         "aciklama": "Bitlis, Turkey",
         "konu": "Bitlis"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1992-kadinlarin-da-harp-okullarina-alinmasina-iliskin-yasa",
@@ -867,8 +898,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1995-afyon-dinarda-6-1-buyuklugundeki-depremde-90",
@@ -882,12 +913,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Afyonkarahisar_Kalesi_9.jpg/960px-Afyonkarahisar_Kalesi_9.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Afyonkarahisar_Kalesi_9.jpg/500px-Afyonkarahisar_Kalesi_9.jpg",
         "genislik": 960,
         "yukseklik": 640,
+        "orijinalGenislik": 3000,
         "yazar": "Şenol zümrüt",
         "lisans": "CC BY-SA 4.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -901,6 +932,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Afyonkarahisar_Kalesi_9.jpg/500px-Afyonkarahisar_Kalesi_9.jpg",
           "genislik": 960,
           "yukseklik": 640,
+          "orijinalGenislik": 3000,
           "yazar": "Şenol zümrüt",
           "lisans": "CC BY-SA 4.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -913,6 +945,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
           "genislik": 800,
           "yukseklik": 420,
+          "orijinalGenislik": 800,
           "yazar": "NASA",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -920,7 +953,8 @@
           "aciklama": "Quake epicenters: Preliminary Determination of Epicenters, 358,214 Events, 1963 - 1998",
           "konu": "deprem"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1998-turk-devlet-yetkilileri-kara-kuvvetleri-komutani-org",
@@ -936,12 +970,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mesut_Yilmaz_as_Turkish_Prime_Minister.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mesut_Yilmaz_as_Turkish_Prime_Minister.jpg",
         "genislik": 479,
         "yukseklik": 644,
+        "orijinalGenislik": 479,
         "yazar": "European Communities",
         "lisans": "CC BY 4.0",
         "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
@@ -955,6 +989,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mesut_Yilmaz_as_Turkish_Prime_Minister.jpg",
           "genislik": 479,
           "yukseklik": 644,
+          "orijinalGenislik": 479,
           "yazar": "European Communities",
           "lisans": "CC BY 4.0",
           "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
@@ -967,6 +1002,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg",
           "genislik": 480,
           "yukseklik": 636,
+          "orijinalGenislik": 480,
           "yazar": "Bilinmeyen yazar",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -974,7 +1010,8 @@
           "aciklama": "Turkish President Süleyman Demirel in Ankara on November 6, 1998, during a visit of US Secretary of Defense William Cohen.",
           "konu": "Süleyman Demirel"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1999-ikinci-cecen-savasi-basladi-rusya-1997de-imzalanan",
@@ -988,19 +1025,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5_%D0%B1%D0%BE%D1%8F._%D0%91%D0%A2%D0%A0%2C_%D0%BF%D0%BE%D0%B4%D0%B1%D0%B8%D1%82%D1%8B%D0%B9_%D0%B1%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8.jpg/960px-%D0%9F%D0%BE%D1%81%D0%BB%D0%B5_%D0%B1%D0%BE%D1%8F._%D0%91%D0%A2%D0%A0%2C_%D0%BF%D0%BE%D0%B4%D0%B1%D0%B8%D1%82%D1%8B%D0%B9_%D0%B1%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5_%D0%B1%D0%BE%D1%8F._%D0%91%D0%A2%D0%A0%2C_%D0%BF%D0%BE%D0%B4%D0%B1%D0%B8%D1%82%D1%8B%D0%B9_%D0%B1%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8.jpg/500px-%D0%9F%D0%BE%D1%81%D0%BB%D0%B5_%D0%B1%D0%BE%D1%8F._%D0%91%D0%A2%D0%A0%2C_%D0%BF%D0%BE%D0%B4%D0%B1%D0%B8%D1%82%D1%8B%D0%B9_%D0%B1%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8.jpg",
         "genislik": 960,
         "yukseklik": 640,
+        "orijinalGenislik": 1400,
         "yazar": "Svm-1977",
         "lisans": "CC BY-SA 3.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5_%D0%B1%D0%BE%D1%8F._%D0%91%D0%A2%D0%A0,_%D0%BF%D0%BE%D0%B4%D0%B1%D0%B8%D1%82%D1%8B%D0%B9_%D0%B1%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8.jpg",
         "aciklama": "After battle. BTR-80, lined with militants.",
         "konu": "İkinci Çeçen Savaşı"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2004-ispanyada-escinsel-evlilik-hakkindaki-yasa-tasarisi-ispanya",
@@ -1013,8 +1051,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2012-alex-de-souza-fenerbahceden-ayrildi",
@@ -1027,19 +1065,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Alexsandro_de_Souza.jpg/960px-Alexsandro_de_Souza.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Alexsandro_de_Souza.jpg/500px-Alexsandro_de_Souza.jpg",
         "genislik": 960,
         "yukseklik": 1006,
+        "orijinalGenislik": 3059,
         "yazar": "Serkan YAKIN - antu.com",
         "lisans": "CC0",
         "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Alexsandro_de_Souza.jpg",
         "aciklama": "Alexsandro de Souza and Fenerbahçe jersey.",
         "konu": "Alex de Souza"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2017-las-vegas-strip-saldirisi-las-vegas-stripteki",
@@ -1052,19 +1091,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Las_Vegas_%2822096744189%29.jpg/960px-Las_Vegas_%2822096744189%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Las_Vegas_%2822096744189%29.jpg/500px-Las_Vegas_%2822096744189%29.jpg",
         "genislik": 960,
         "yukseklik": 600,
+        "orijinalGenislik": 1728,
         "yazar": "Stefan Wagener",
         "lisans": "CC BY 2.0",
         "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Las_Vegas_(22096744189).jpg",
         "aciklama": "Las Vegas",
         "konu": "Las Vegas Strip"
-      }
+      },
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -1607,5 +1647,5 @@
     "url": "https://tr.wikipedia.org/wiki/1_Ekim",
     "revid": 36214258
   },
-  "guncelleme": "2026-09-27T09:16:57.706Z"
+  "guncelleme": "2026-09-27T09:48:16.013Z"
 }

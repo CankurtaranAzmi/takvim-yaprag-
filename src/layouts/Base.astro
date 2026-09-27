@@ -1,8 +1,12 @@
 ---
-import '@fontsource-variable/fraunces';
-import '@fontsource-variable/inter';
+import '@fontsource/barlow-condensed/600.css';
+import '@fontsource/barlow-condensed/700.css';
+import '@fontsource/barlow-condensed/800.css';
+import '@fontsource-variable/manrope';
 import '../styles/global.css';
+import Logo from '../components/Logo.astro';
 import { SITE } from '../site.config.mjs';
+import { istanbulBugun, AYLAR, GUNLER_HAFTA } from '../lib/tarih.mjs';
 
 interface Props {
   baslik?: string;
@@ -19,6 +23,8 @@ const tamBaslik = baslik ? `${baslik} | ${SITE.ad}` : `${SITE.ad} – ${SITE.slo
 const kanonik = new URL(Astro.url.pathname, Astro.site).href;
 const yil = new Date().getFullYear();
 const ldListe = jsonld ? (Array.isArray(jsonld) ? jsonld : [jsonld]) : [];
+const b = istanbulBugun();
+const bugunYazi = `${b.gun} ${AYLAR[b.ay - 1]} · ${GUNLER_HAFTA[b.haftaGunu]}`;
 ---
 <!doctype html>
 <html lang="tr">
@@ -29,7 +35,7 @@ const ldListe = jsonld ? (Array.isArray(jsonld) ? jsonld : [jsonld]) : [];
   <meta name="description" content={aciklama} />
   <link rel="canonical" href={kanonik} />
   {noindex && <meta name="robots" content="noindex, follow" />}
-  <meta name="theme-color" content="#b3261e" />
+  <meta name="theme-color" content="#0f1115" />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   <link rel="sitemap" href="/sitemap-index.xml" />
 
@@ -54,39 +60,39 @@ const ldListe = jsonld ? (Array.isArray(jsonld) ? jsonld : [jsonld]) : [];
   <header class="ust">
     <div class="kap">
       <a class="logo" href="/" aria-label={`${SITE.ad} ana sayfa`}>
-        <svg class="logo-ikon" viewBox="0 0 32 32" aria-hidden="true">
-          <rect x="3" y="5" width="26" height="24" rx="5" fill="var(--kart)" stroke="var(--murekkep)" stroke-width="2" />
-          <path d="M3 10a5 5 0 0 1 5-5h16a5 5 0 0 1 5 5v2H3z" fill="var(--kirmizi)" />
-          <circle cx="11" cy="4" r="2" fill="var(--murekkep)" /><circle cx="21" cy="4" r="2" fill="var(--murekkep)" />
-          <path d="M11 17h10M11 22h7" stroke="var(--murekkep)" stroke-width="2" stroke-linecap="round" />
-        </svg>
-        <span>{SITE.ad}</span>
+        <Logo />
+        <span class="logo-yazi">Takvim<span>Yaprağı</span></span>
       </a>
       <nav class="menu" aria-label="Ana menü">
         <a href="/" aria-current={aktif === 'bugun' ? 'page' : undefined}>Bugün</a>
         <a href="/takvim/" aria-current={aktif === 'takvim' ? 'page' : undefined}>Takvim</a>
-        <a href="/hakkimizda/" aria-current={aktif === 'hakkimizda' ? 'page' : undefined}>Hakkımızda</a>
+        <a class="menu-ek" href="/hakkimizda/" aria-current={aktif === 'hakkimizda' ? 'page' : undefined}>Hakkımızda</a>
       </nav>
+      <div class="ust-tarih"><span>{bugunYazi}</span></div>
     </div>
   </header>
 
   <main id="icerik">
-    <div class="kap">
-      <slot />
-    </div>
+    <slot />
   </main>
 
   <footer class="alt">
     <div class="kap">
-      <nav aria-label="Alt menü">
-        <a href="/hakkimizda/">Hakkımızda</a>
-        <a href="/iletisim/">İletişim</a>
-        <a href="/gizlilik-politikasi/">Gizlilik Politikası</a>
-        <a href="/cerez-politikasi/">Çerez Politikası</a>
-        <a href="/takvim/">Tüm Günler</a>
-      </nav>
-      <p>Olay listeleri <a href="https://tr.wikipedia.org" rel="noopener">Vikipedi</a> kaynaklıdır ve <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.tr" rel="license noopener">CC BY-SA 4.0</a> lisansıyla kullanılır. Özet yazılar editörlerimize aittir.</p>
-      <p>© {yil} {SITE.ad}</p>
+      <div>
+        <a class="logo" href="/"><Logo /><span class="logo-yazi">Takvim<span>Yaprağı</span></span></a>
+        <p style="margin-top:12px">{SITE.aciklama}</p>
+      </div>
+      <div>
+        <nav aria-label="Alt menü">
+          <a href="/takvim/">Tüm Günler</a>
+          <a href="/hakkimizda/">Hakkımızda</a>
+          <a href="/iletisim/">İletişim</a>
+          <a href="/gizlilik-politikasi/">Gizlilik</a>
+          <a href="/cerez-politikasi/">Çerezler</a>
+        </nav>
+        <p>Olay listeleri <a href="https://tr.wikipedia.org" rel="noopener">Vikipedi</a> kaynaklıdır ve <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.tr" rel="license noopener">CC BY-SA 4.0</a> lisansıyla kullanılır. Görseller Wikimedia Commons'tan, her birinin altında belirtilen lisansla kullanılır. Özet yazılar editörlerimize aittir.</p>
+        <p>© {yil} {SITE.ad}</p>
+      </div>
     </div>
   </footer>
 </body>

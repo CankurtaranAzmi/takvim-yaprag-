@@ -1,0 +1,974 @@
+{
+  "ay": 9,
+  "gun": 22,
+  "olaylar": [
+    {
+      "id": "1792-fransada-cumhuriyet-ilan-edildi",
+      "yil": 1792,
+      "metin": "Fransa'da Cumhuriyet ilan edildi.",
+      "konular": [
+        "Fransa",
+        "Cumhuriyet"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1864-rus-birlikleri-cernyayev-komutasinda-cimkenti-ele-gecirdi",
+      "yil": 1864,
+      "metin": "Rus birlikleri Çernyayev komutasında Çimkent'i ele geçirdi",
+      "konular": [
+        "Mihail Çernyayev",
+        "Çimkent"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Tulip-Fountain-Shymkent-Kazakhstan.jpg/960px-Tulip-Fountain-Shymkent-Kazakhstan.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Tulip-Fountain-Shymkent-Kazakhstan.jpg/500px-Tulip-Fountain-Shymkent-Kazakhstan.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 5112,
+        "yazar": "TheGreatSteppe",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Tulip-Fountain-Shymkent-Kazakhstan.jpg",
+        "aciklama": "The Tulip fountain in Shymkent, Kazakhstan is a symbol to underline the origin and center of the wild tulps.",
+        "konu": "Çimkent"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1903-italo-marchioni-dondurma-kulahinin-kornet-patentini-aldi",
+      "yil": 1903,
+      "metin": "Italo Marchioni, dondurma külahının (kornet) patentini aldı.",
+      "konular": [
+        "Italo Marchioni",
+        "dondurma külahı"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1919-turkiye-isci-ve-ciftci-sosyalist-firkasi-kuruldu",
+      "yil": 1919,
+      "metin": "Türkiye İşçi ve Çiftçi Sosyalist Fırkası kuruldu.",
+      "konular": [
+        "Türkiye İşçi ve Çiftçi Sosyalist Fırkası"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1939-dikili-ve-cevresinde-deprem-100den-fazla-kisi",
+      "yil": 1939,
+      "metin": "Dikili ve çevresinde deprem: 100'den fazla kişi öldü. Dikili ve Karaburun tamamen yıkıldı.",
+      "konular": [
+        "Dikili",
+        "deprem",
+        "Karaburun"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Atarna%28Atarneus%29_Dikili_Turkey.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Atarna%28Atarneus%29_Dikili_Turkey.jpg",
+        "genislik": 797,
+        "yukseklik": 537,
+        "orijinalGenislik": 797,
+        "yazar": "Mr. Erkmen Senan, http://erkmensenan.blogspot.com",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Atarna(Atarneus)_Dikili_Turkey.jpg",
+        "aciklama": "Ancient site of en:Atarna (en:Atarneus) near en:Dikili, Turkey",
+        "konu": "Dikili"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Atarna%28Atarneus%29_Dikili_Turkey.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Atarna%28Atarneus%29_Dikili_Turkey.jpg",
+          "genislik": 797,
+          "yukseklik": 537,
+          "orijinalGenislik": 797,
+          "yazar": "Mr. Erkmen Senan, http://erkmensenan.blogspot.com",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Atarna(Atarneus)_Dikili_Turkey.jpg",
+          "aciklama": "Ancient site of en:Atarna (en:Atarneus) near en:Dikili, Turkey",
+          "konu": "Dikili"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
+          "genislik": 800,
+          "yukseklik": 420,
+          "orijinalGenislik": 800,
+          "yazar": "NASA",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Quake_epicenters_1963-98_notitle.png",
+          "aciklama": "Quake epicenters: Preliminary Determination of Epicenters, 358,214 Events, 1963 - 1998",
+          "konu": "deprem"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Faik_Sarikaya_Karaburun_Bodrum_Koyu.jpg/960px-Faik_Sarikaya_Karaburun_Bodrum_Koyu.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Faik_Sarikaya_Karaburun_Bodrum_Koyu.jpg/500px-Faik_Sarikaya_Karaburun_Bodrum_Koyu.jpg",
+          "genislik": 960,
+          "yukseklik": 720,
+          "orijinalGenislik": 1126,
+          "yazar": "Faik Sarıkaya",
+          "lisans": "Attribution",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Faik_Sarikaya_Karaburun_Bodrum_Koyu.jpg",
+          "aciklama": "Karaburun center, Bodrum Cove in İzmir Province, Turkey",
+          "konu": "Karaburun"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1940-bakanlar-kurulu-istanbulda-cikan-le-journal-dorient",
+      "yil": 1940,
+      "metin": "Bakanlar Kurulu, İstanbul'da çıkan Le Journal d'Orient gazetesini yedi gün süreyle kapattı. Gazetenin resmi dış politikaya aykırı yayın yaptığı ileri sürüldü.",
+      "konular": [
+        "Cumhurbaşkanlığı Kabinesi",
+        "İstanbul"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg/960px-Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg/500px-Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg",
+        "genislik": 960,
+        "yukseklik": 710,
+        "orijinalGenislik": 1331,
+        "yazar": "Ex13",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg",
+        "aciklama": "New Presidential Compound in Ankara, AOÇ (Beştepe)",
+        "konu": "Cumhurbaşkanlığı Kabinesi"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg/960px-Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg/500px-Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg",
+          "genislik": 960,
+          "yukseklik": 710,
+          "orijinalGenislik": 1331,
+          "yazar": "Ex13",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg",
+          "aciklama": "New Presidential Compound in Ankara, AOÇ (Beştepe)",
+          "konu": "Cumhurbaşkanlığı Kabinesi"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
+          "genislik": 960,
+          "yukseklik": 494,
+          "orijinalGenislik": 2048,
+          "yazar": "Alexxx Malev",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
+          "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
+          "konu": "İstanbul"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1950-yeni-bastan-gazetesinin-kurucusu-ve-yazari-aziz",
+      "yil": 1950,
+      "metin": "Yeni Baştan gazetesinin kurucusu ve yazarı Aziz Nesin hakkında gıyabi tutuklama kararı verildi. Nesin, \"Sosyal düzeni yıkmaya yönelik yayın\" yapmakla suçlanıyor.",
+      "konular": [
+        "Aziz Nesin"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1958-chp-genel-baskani-ismet-inonu-demokrasiye-paydos",
+      "yil": 1958,
+      "metin": "CHP Genel Başkanı İsmet İnönü, \"Demokrasiye paydos demeye Demokrat Parti Genel Başkanı'nın gücü yetmeyecektir\" dedi.",
+      "konular": [
+        "Cumhuriyet Halk Partisi",
+        "İsmet İnönü",
+        "Demokrat Parti (1946)"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
+        "genislik": 549,
+        "yukseklik": 724,
+        "orijinalGenislik": 549,
+        "yazar": "Unknown. Official photo of President.",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Inonu_Ismet_(cropped).jpg",
+        "aciklama": "President of Turkey 1938-1950 Ismet Inonu",
+        "konu": "İsmet İnönü"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1964-cumhurbaskani-cemal-gursel-yassiada-yargilamalari-hukumluleri-refik",
+      "yil": 1964,
+      "metin": "Cumhurbaşkanı Cemal Gürsel, \"Yassıada Yargılamaları\" hükümlüleri; Refik Koraltan, Rüştü Erdelhun, Selim Yatağan ve Nedim Ökmen'i hastalık nedeniyle affetti.",
+      "konular": [
+        "Cemal Gürsel",
+        "Yassıada Yargılamaları",
+        "Refik Koraltan",
+        "Rüştü Erdelhun",
+        "Selim Yatağan"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg/960px-Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg/500px-Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1286,
+        "orijinalGenislik": 1160,
+        "yazar": "THA",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Cemal_G%C3%BCrsel_(1960)_(cropped).jpg",
+        "aciklama": "Photograph of Cemal Gürsel, fourth President of Turkey.",
+        "konu": "Cemal Gürsel"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg/960px-Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg/500px-Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg",
+          "genislik": 960,
+          "yukseklik": 1286,
+          "orijinalGenislik": 1160,
+          "yazar": "THA",
+          "lisans": "CC0",
+          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Cemal_G%C3%BCrsel_(1960)_(cropped).jpg",
+          "aciklama": "Photograph of Cemal Gürsel, fourth President of Turkey.",
+          "konu": "Cemal Gürsel"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Refik_Koraltan.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Refik_Koraltan.jpg",
+          "genislik": 546,
+          "yukseklik": 691,
+          "orijinalGenislik": 546,
+          "yazar": "Bilinmeyen yazar",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Refik_Koraltan.jpg",
+          "aciklama": "Refik Koraltan",
+          "konu": "Refik Koraltan"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1980-iran-irak-savasi-basladi",
+      "yil": 1980,
+      "metin": "İran-Irak Savaşı başladı.",
+      "konular": [
+        "Irak-İran Savaşı"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Iran-Iraq_war-gallery.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Iran-Iraq_war-gallery.png",
+        "genislik": 572,
+        "yukseklik": 642,
+        "orijinalGenislik": 572,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Iran-Iraq_war-gallery.png",
+        "aciklama": "Child soldiers on Iranian front (top left); Iranian soldier wearing a gas mask (top right); Port quarter view of USS Stark listing to port after being mistakenly struck by an Iraqi warplane (middle le",
+        "konu": "Irak-İran Savaşı"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1984-gokova-korfezinde-termik-santral-kurulmasina-karsi-cikan",
+      "yil": 1984,
+      "metin": "Gökova Körfezi'nde termik santral kurulmasına karşı çıkan köy kadınları eylem yaptılar.",
+      "konular": [
+        "Gökova Körfezi",
+        "termik santral"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/TermoElectricaBulgaria.jpg/960px-TermoElectricaBulgaria.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/TermoElectricaBulgaria.jpg/500px-TermoElectricaBulgaria.jpg",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 1280,
+        "yazar": "—ArielR 23:29, 4 May 2006 (UTC)",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:TermoElectricaBulgaria.jpg",
+        "aciklama": "Republika Power Plant in Bulgaria",
+        "konu": "termik santral"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1986-12-eylul-darbesi-sonrasi-alparslan-turkes-ilk",
+      "yil": 1986,
+      "metin": "12 Eylül darbesi sonrası Alparslan Türkeş, ilk kez Milliyetçi Çalışma Partisi'nin (MÇP) İstanbul mitinginde konuştu.",
+      "konular": [
+        "12 Eylül Darbesi",
+        "Alparslan Türkeş",
+        "Milliyetçi Çalışma Partisi",
+        "İstanbul"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/MCP_aakgoz.png/960px-MCP_aakgoz.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/MCP_aakgoz.png/500px-MCP_aakgoz.png",
+        "genislik": 960,
+        "yukseklik": 960,
+        "orijinalGenislik": 1000,
+        "yazar": "Ahmetakgoz",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:MCP_aakgoz.png",
+        "aciklama": "Milliyetçi Çalışma Partisi",
+        "konu": "Milliyetçi Çalışma Partisi"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/MCP_aakgoz.png/960px-MCP_aakgoz.png",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/MCP_aakgoz.png/500px-MCP_aakgoz.png",
+          "genislik": 960,
+          "yukseklik": 960,
+          "orijinalGenislik": 1000,
+          "yazar": "Ahmetakgoz",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:MCP_aakgoz.png",
+          "aciklama": "Milliyetçi Çalışma Partisi",
+          "konu": "Milliyetçi Çalışma Partisi"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
+          "genislik": 960,
+          "yukseklik": 494,
+          "orijinalGenislik": 2048,
+          "yazar": "Alexxx Malev",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
+          "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
+          "konu": "İstanbul"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1993-new-york-metropolitan-muzesi-karun-hazinesi-ni",
+      "yil": 1993,
+      "metin": "New York Metropolitan Müzesi, \"Karun Hazinesi\"ni Türkiye'ye geri göndermeye karar verdi.",
+      "konular": [
+        "Metropolitan Müzesi",
+        "Karun Hazinesi",
+        "Türkiye"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Metropolitan_Museum_of_Art_entrance_NYC.JPG/960px-Metropolitan_Museum_of_Art_entrance_NYC.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Metropolitan_Museum_of_Art_entrance_NYC.JPG/500px-Metropolitan_Museum_of_Art_entrance_NYC.JPG",
+        "genislik": 960,
+        "yukseklik": 805,
+        "orijinalGenislik": 1812,
+        "yazar": "Arad",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Metropolitan_Museum_of_Art_entrance_NYC.JPG",
+        "aciklama": "Fifth Avenue entrance facade of the Metropolitan Museum of Art, NYC.",
+        "konu": "Metropolitan Müzesi"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Metropolitan_Museum_of_Art_entrance_NYC.JPG/960px-Metropolitan_Museum_of_Art_entrance_NYC.JPG",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Metropolitan_Museum_of_Art_entrance_NYC.JPG/500px-Metropolitan_Museum_of_Art_entrance_NYC.JPG",
+          "genislik": 960,
+          "yukseklik": 805,
+          "orijinalGenislik": 1812,
+          "yazar": "Arad",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Metropolitan_Museum_of_Art_entrance_NYC.JPG",
+          "aciklama": "Fifth Avenue entrance facade of the Metropolitan Museum of Art, NYC.",
+          "konu": "Metropolitan Müzesi"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Jug_from_Lydian_Treasure_Usak.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Jug_from_Lydian_Treasure_Usak.jpg",
+          "genislik": 447,
+          "yukseklik": 583,
+          "orijinalGenislik": 447,
+          "yazar": "Mr. Arif Solak",
+          "lisans": "CC BY 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Jug_from_Lydian_Treasure_Usak.jpg",
+          "aciklama": "Jug from en:Lydian Treasure found in en:Uşak, Turkey",
+          "konu": "Karun Hazinesi"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2000-bakanlar-kurulu-kopenhag-kriterleri-ile-paralel-olan",
+      "yil": 2000,
+      "metin": "Bakanlar Kurulu, Kopenhag Kriterleri ile paralel olan İnsan Hakları Raporunu kabul etti.",
+      "konular": [
+        "Cumhurbaşkanlığı Kabinesi",
+        "Kopenhag Kriterleri"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2018-irannin-ahvaz-sehrinde-bir-askeri-gecit-torenine",
+      "yil": 2018,
+      "metin": "İran'nın Ahvaz şehrinde bir askeri geçit törenine silahlı saldırı gerçekleşti. Saldırıda 25 kişi öldü, 70 kişi yaralandı.",
+      "konular": [
+        "İran",
+        "Ahvaz",
+        "2018 Ahvaz saldırısı"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF_%D8%A7%D9%87%D9%88%D8%A7%D8%B2_064.jpg/960px-%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF_%D8%A7%D9%87%D9%88%D8%A7%D8%B2_064.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF_%D8%A7%D9%87%D9%88%D8%A7%D8%B2_064.jpg/500px-%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF_%D8%A7%D9%87%D9%88%D8%A7%D8%B2_064.jpg",
+        "genislik": 960,
+        "yukseklik": 717,
+        "orijinalGenislik": 4608,
+        "yazar": "Pooryavali",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF_%D8%A7%D9%87%D9%88%D8%A7%D8%B2_064.jpg",
+        "aciklama": "This is a photo of a monument in Iran identified by the ID",
+        "konu": "Ahvaz"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF_%D8%A7%D9%87%D9%88%D8%A7%D8%B2_064.jpg/960px-%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF_%D8%A7%D9%87%D9%88%D8%A7%D8%B2_064.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF_%D8%A7%D9%87%D9%88%D8%A7%D8%B2_064.jpg/500px-%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF_%D8%A7%D9%87%D9%88%D8%A7%D8%B2_064.jpg",
+          "genislik": 960,
+          "yukseklik": 717,
+          "orijinalGenislik": 4608,
+          "yazar": "Pooryavali",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF_%D8%A7%D9%87%D9%88%D8%A7%D8%B2_064.jpg",
+          "aciklama": "This is a photo of a monument in Iran identified by the ID",
+          "konu": "Ahvaz"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2018_Ahvaz_military_parade_attack_10.jpg/960px-2018_Ahvaz_military_parade_attack_10.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2018_Ahvaz_military_parade_attack_10.jpg/500px-2018_Ahvaz_military_parade_attack_10.jpg",
+          "genislik": 960,
+          "yukseklik": 585,
+          "orijinalGenislik": 1050,
+          "yazar": "Fatemeh Rahimavian",
+          "lisans": "CC BY 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:2018_Ahvaz_military_parade_attack_10.jpg",
+          "aciklama": "همزمان با برگزاری مراسم رژه نیروهای مسلح در اهواز، صبح امروز شنبه ۳۱ شهریور ۱۳۹۷ یک تیم تروریستی به مردم و حاضران در مراسم رژه حمله مسلحانه کرد. پس از آغاز مراسم رژه نیروهای مسلح دو نفر از پارک شهید س",
+          "konu": "2018 Ahvaz saldırısı"
+        }
+      ],
+      "durum": "bekliyor"
+    }
+  ],
+  "dogumlar": [
+    {
+      "yil": 1211,
+      "metin": "İbn-i Hallikân, On üçüncü yüzyılda yaşamış olan tarihçi, fakih ve şair (ö. 1282)"
+    },
+    {
+      "yil": 1515,
+      "metin": "Clevesli Anne, VIII. Henry'nin dördüncü karısı (ö. 1557)"
+    },
+    {
+      "yil": 1552,
+      "metin": "IV. Vasili, Rus Çarı (ö. 1612)"
+    },
+    {
+      "yil": 1593,
+      "metin": "Matthäus Merian, İsviçreli yayıncı (ö. 1650)"
+    },
+    {
+      "yil": 1606,
+      "metin": "Li Zicheng, Çin'in kısa süreli Shun Hanedanı'nın kurucusu ve tek imparatoru (ö. 1645)"
+    },
+    {
+      "yil": 1715,
+      "metin": "Jean-Étienne Guettard, Fransız doğa bilimci, botanikçi ve mineralog (ö. 1786)"
+    },
+    {
+      "yil": 1741,
+      "metin": "Peter Simon Pallas, Prusyalı zoolog ve botanikçi (ö. 1811)"
+    },
+    {
+      "yil": 1750,
+      "metin": "Christian Konrad Sprengel, Alman doğa bilimci, teolog ve öğretmen (ö. 1816)"
+    },
+    {
+      "yil": 1759,
+      "metin": "William Playfair, İskoç mühendis ve siyasi ekonomist (ö. 1823)"
+    },
+    {
+      "yil": 1791,
+      "metin": "Michael Faraday, İngiliz fizikçi (ö. 1867)"
+    },
+    {
+      "yil": 1863,
+      "metin": "Ferenc Herczeg, Macar oyun yazarı (ö. 1954)"
+    },
+    {
+      "yil": 1875,
+      "metin": "Mikalojus Konstantinas Čiurlionis, Litvan ressam, besteci ve yazar (ö. 1911)"
+    },
+    {
+      "yil": 1878,
+      "metin": "Şigeru Yoşida, Japon siyaset adamı (ö. 1967)"
+    },
+    {
+      "yil": 1885,
+      "metin": "Paul Muni, Amerikalı aktör ve En İyi Erkek Oyuncu Akademi Ödülü sahibi (ö. 1967)"
+    },
+    {
+      "yil": 1901,
+      "metin": "Charles Brenton Huggins, Amerikalı hekim, fizyolog ve Nobel Fizyoloji veya Tıp Ödülü sahibi (ö. 1997)"
+    },
+    {
+      "yil": 1902,
+      "metin": "Ayetullah Humeyni, İran'ın dini lideri (ö. 1989)"
+    },
+    {
+      "yil": 1906,
+      "metin": "Ilse Koch, Nazi savaş suçlusu (ö. 1967)"
+    },
+    {
+      "yil": 1917,
+      "metin": "Türkan Aziz, İlk Kıbrıslı Türk başhemşire (ö. 2019)"
+    },
+    {
+      "yil": 1924,
+      "metin": "İlyas Hüseynov, Azerbaycanlı müzisyen (ö. 2017)"
+    },
+    {
+      "yil": 1931,
+      "metin": "Alain Bacquet, Fransız bürokrat ve Danıştay üyesi"
+    },
+    {
+      "yil": 1932,
+      "metin": "Josef Stoll, Avusturyalı eski futbol hakemi"
+    },
+    {
+      "yil": 1934,
+      "metin": "Ayla Erduran, Türk keman sanatçısı (ö. 2025)"
+    },
+    {
+      "yil": 1941,
+      "metin": "Anna Tomowa-Sintow, Bulgar soprano"
+    },
+    {
+      "yil": 1942,
+      "metin": "David J. Stern, Amerikalı spor (NBA patronu) adamı (ö. 2020)"
+    },
+    {
+      "yil": 1951,
+      "metin": "David Coverdale, İngiliz müzisyen ve Whitesnake kurucusu ve vokalisti"
+    },
+    {
+      "yil": 1952,
+      "metin": "Oliver Mtukudzi, Finlandiya Cumhuriyeti'nin ilk devlet başkanı (ö. 2019)"
+    },
+    {
+      "yil": 1954,
+      "metin": "Vedat Bilgin, Türk sosyolog, akademisyen, bürokrat, siyasetçi ve yazar"
+    },
+    {
+      "yil": 1958,
+      "metin": "Andrea Bocelli, İtalyan tenor, söz yazarı ve besteci"
+    },
+    {
+      "yil": 1960,
+      "metin": "Scott Baio, Amerikalı oyuncu ve televizyon yönetmeni"
+    },
+    {
+      "yil": 1964,
+      "metin": "Hasan Basri Güzeloğlu, Türk bürokrat"
+    },
+    {
+      "yil": 1967,
+      "metin": "Félix Savón, Kübalı boksör"
+    },
+    {
+      "yil": 1968,
+      "metin": "David Bisconti, Arjantinli eski futbolcu"
+    },
+    {
+      "yil": 1969,
+      "metin": "Yalçın Akdoğan, Türk siyasetçi"
+    },
+    {
+      "yil": 1972,
+      "metin": "Dana Vespoli, Amerikalı pornografik film oyuncusu ve yönetmeni"
+    },
+    {
+      "yil": 1973,
+      "metin": "François-Xavier Demaison, Fransız oyuncu"
+    },
+    {
+      "yil": 1975,
+      "metin": "Elif Güvendik, Türk yapımcı ve sunucu"
+    },
+    {
+      "yil": 1976,
+      "metin": "Martin Solveig, Fransız DJ ve prodüktör"
+    },
+    {
+      "yil": 1977,
+      "metin": "Ali Sunal, Türk tiyatro, sinema ve dizi oyuncusu"
+    },
+    {
+      "yil": 1978,
+      "metin": "Harry Kewell, Avustralyalı eski futbolcu ve teknik direktör"
+    },
+    {
+      "yil": 1991,
+      "metin": "Dmitro Hreçişkin, Ukraynalı futbolcu"
+    },
+    {
+      "yil": 1992,
+      "metin": "Emin Mehdiyev, Azeri futbolcu"
+    },
+    {
+      "yil": 1993,
+      "metin": "Sinan Tekerci, Türk futbolcu"
+    },
+    {
+      "yil": 1995,
+      "metin": "Nayeon, Güney Koreli şarkıcı ve dansçı"
+    },
+    {
+      "yil": 1996,
+      "metin": "Anthoine Hubert, Fransız otomobil yarışçısı (ö. 2019)"
+    },
+    {
+      "yil": 1999,
+      "metin": "Kim Yoo-jung, Güney Koreli oyuncu, model ve sunucu"
+    },
+    {
+      "yil": 2000,
+      "metin": "Seungmin, Güney Koreli şarkıcı, söz yazarı ve dansçı"
+    }
+  ],
+  "olumler": [
+    {
+      "yil": 1158,
+      "metin": "Otto von Freising, Alman papaz ve vakainüvis (d. 1114)"
+    },
+    {
+      "yil": 1253,
+      "metin": "Dōgen, Kyoto doğumlu Japon Zen hocası ve Japonya'daki Soto Zen okulunun kurucusu (d. 1200)"
+    },
+    {
+      "yil": 1408,
+      "metin": "VII. İoannis, İmparator IV. Andronikos ile Bulgar Çarı İvan Alexander ve Eflaklı Teodora'nin kızı olan Bulgar Keratsa'nın oğlu (d. 1370)"
+    },
+    {
+      "yil": 1520,
+      "metin": "Yavuz Sultan Selim, Osmanlı'nın 9. Padişahı (d. 1470)"
+    },
+    {
+      "yil": 1531,
+      "metin": "Louise de Savoie, Fransız soylu, Auvergne ve Bourbonnais naibesi, Nemours düşesi ve Fransa Kralı I. François'nın annesi (d. 1476)"
+    },
+    {
+      "yil": 1539,
+      "metin": "Guru Nanak, Sihlerin ilk gurusu (d. 1469)"
+    },
+    {
+      "yil": 1554,
+      "metin": "Francisco Vásquez de Coronado, İspanyol kâşif (d. 1510)"
+    },
+    {
+      "yil": 1703,
+      "metin": "Vincenzo Viviani, İtalyan matematikçi ve bilim insanı (d. 1622)"
+    },
+    {
+      "yil": 1756,
+      "metin": "Ebu'l Hasan Ali, Hüseyni Hanedanının ve Tunus Beyliğinin ikinci beyi (d. 1688)"
+    },
+    {
+      "yil": 1774,
+      "metin": "XIV. Clemens, 19 Mayıs 1769 ile 22 Eylül 1774 arasında papa (d. 1705)"
+    },
+    {
+      "yil": 1828,
+      "metin": "Shaka, Zulu kabilesinin en etkili lideri (d. 1787)"
+    },
+    {
+      "yil": 1872,
+      "metin": "Vladimir Dal, Rus Hekim, doğabilimci, sözlükbilimci ve dilbilimci (d. 1801)"
+    },
+    {
+      "yil": 1888,
+      "metin": "Gustave Boulanger, Fransız klasik figür ressamı ve doğa bilimci (d. 1824)"
+    },
+    {
+      "yil": 1895,
+      "metin": "Viktor Rydberg, İsveçli yazar (d. 1828)"
+    },
+    {
+      "yil": 1897,
+      "metin": "Antônio Conselheiro, Brezilya dini lider ve vaiz (d. 1830)"
+    },
+    {
+      "yil": 1914,
+      "metin": "Alain-Fournier (d. Henri Alban-Fournier), Fransız yazar (ö. 1886)"
+    },
+    {
+      "yil": 1943,
+      "metin": "Sedat Nuri İleri, Türk karikatürist (d. 1888)"
+    },
+    {
+      "yil": 1945,
+      "metin": "Galip Bahtiyar Göker, Türk siyasetçi (d. 1881)"
+    },
+    {
+      "yil": 1945,
+      "metin": "Mürsel Bakü, Türk asker ve siyasetçi (d. 1881)"
+    },
+    {
+      "yil": 1952,
+      "metin": "Kaarlo Juho Ståhlberg, Finlandiya Cumhuriyeti'nin ilk Devlet Başkanı (d. 1865)"
+    },
+    {
+      "yil": 1956,
+      "metin": "Frederick Soddy, İngiliz kimyager ve Nobel Kimya Ödülü sahibi (d. 1877)"
+    },
+    {
+      "yil": 1960,
+      "metin": "Melanie Klein, Britanyalı psikanalist (d. 1882)"
+    },
+    {
+      "yil": 1969,
+      "metin": "Adolfo López Mateos, Meksikalı siyasetçi (d. 1909)"
+    },
+    {
+      "yil": 1969,
+      "metin": "Aleksandras Stulginskis, Litvanya'nın ikinci Cumhurbaşkanı (d. 1885)"
+    },
+    {
+      "yil": 1973,
+      "metin": "Paul van Zeeland, Belçikalı avukat, ekonomist, Katolik politikacı ve devlet adamı (d. 1893)"
+    },
+    {
+      "yil": 1979,
+      "metin": "Ebu'l-A'lâ Mevdudî, Pakistanlı müfessir, İslam âlimi, gazeteci ve yazar (d. 1903)"
+    },
+    {
+      "yil": 1989,
+      "metin": "Irving Berlin, Amerikalı besteci ve şarkı sözü yazarı (d. 1888)"
+    },
+    {
+      "yil": 1994,
+      "metin": "Hedwig Potthast, Heinrich Himmler'in metresi (d. 1912)"
+    },
+    {
+      "yil": 1999,
+      "metin": "George C. Scott, Amerikalı oyuncu ve Oscar Ödülü sahibi (d. 1927)"
+    },
+    {
+      "yil": 2001,
+      "metin": "Fikret Kızılok, Türk besteci ve müzik yorumcusu (d. 1946)"
+    },
+    {
+      "yil": 2001,
+      "metin": "Isaac Stern, Rus asıllı Amerikalı kemancı (d. 1920)"
+    },
+    {
+      "yil": 2004,
+      "metin": "Big Boss Man, Amerikalı profesyonel güreşçi (d. 1963)"
+    },
+    {
+      "yil": 2008,
+      "metin": "Hadi Çaman, Türk tiyatro sanatçısı (d. 1943)"
+    },
+    {
+      "yil": 2008,
+      "metin": "Thomas Dörflein, Alman hayvanat bahçesi görevlisi (d. 1963)"
+    },
+    {
+      "yil": 2010,
+      "metin": "Jackie Burroughs, İngiliz-Kanadalı oyuncu (d. 1939)"
+    },
+    {
+      "yil": 2010,
+      "metin": "Eddie Fisher, Amerikalı şarkıcı (d. 1928)"
+    },
+    {
+      "yil": 2010,
+      "metin": "Jorge González, Arjantin asıllı Amerikalı profesyonel güreşçi ve basketbolcu (d. 1966)"
+    },
+    {
+      "yil": 2011,
+      "metin": "&nbsp;Cengiz Dağcı, Kırım Tatarı yazar ve şair (d. 1919)"
+    },
+    {
+      "yil": 2011,
+      "metin": "Aristides Pereira, Yeşil Burunlu siyasetçi (d. 1923)"
+    },
+    {
+      "yil": 2011,
+      "metin": "Knut Steen, Norveçli heykeltıraş (d. 1924)"
+    },
+    {
+      "yil": 2011,
+      "metin": "Vesta Williams, Amerikalı soul müzik şarkıcısı, söz yazarı ve aktris (d. 1957)"
+    },
+    {
+      "yil": 2013,
+      "metin": "David H. Hubel, Amerikalı nörofizyolog (d. 1926)"
+    },
+    {
+      "yil": 2013,
+      "metin": "Álvaro Mutis, Kolombiyalı yazar, şair, köşe yazarı, yayıncı ve film yapımcısı (d. 1923)"
+    },
+    {
+      "yil": 2013,
+      "metin": "Luciano Vincenzoni, İtalyan oyun yazarı (d. 1926)"
+    },
+    {
+      "yil": 2015,
+      "metin": "Yogi Berra, Amerikalı efsane beyzbol oyuncusu ve çalıştırıcısı (d. 1925)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Paavo Olavi Lonkila, Finlandiyalı kros kayakçısı (d. 1923)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Börje Vestlund, İsveçli siyasetçi (d. 1960)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Avi Duan, İsrailli siyasetçi (d. 1955)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Chas Hodges, İngiliz şarkıcı ve müzisyen (d. 1943)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Al Matthews, Amerikalı siyahi şarkıcı, oyuncu ve dublaj sanatçısı (d. 1942)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Edna Molewa, Güney Afrikalı siyasetçi ve bakan (d. 1957)"
+    },
+    {
+      "yil": 2019,
+      "metin": "Vytautas Briedis, Litvanyalı profesyonel kürek sporcusu (d. 1940)"
+    },
+    {
+      "yil": 2019,
+      "metin": "Sándor Sára, Macar film ve görüntü yönetmeni (d. 1933)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Michael Gwisdek, Alman aktör ve film yönetmeni (d. 1942)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Frie Leysen, Belçikalı festival organizatörü ve sanat yönetmeni (d. 1950)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Jacques Sénard, Fransız diplomat (d. 1919)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Road Warrior Animal, Amerikalı profesyonel güreşçi (d. 1960)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Agne Simonsson, İsveçli eski millî futbolcu (d. 1935)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Ashalata Wabgaonkar, Hint oyuncu (d. 1941)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Doğan Kuban, Türk mimar ve akademisyen (d. 1926)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Jorge Fons, Meksikalı film yönetmeni ve senarist (d. 1939)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Hilary Mantel, İngiliz roman yazarı ve eleştirmen (d. 1952)"
+    },
+    {
+      "yil": 2024,
+      "metin": "Fredric Jameson, ABD'li Marxist edebiyat kuramcısı, edebiyat eleştirmeni ve teorisyen (d. 1934)"
+    }
+  ],
+  "ozelGunler": [
+    "Dünya Otomobilsiz Yaşam Günü",
+    "Endüstri Mühendisleri Günü",
+    "Mali Cumhuriyeti'nin Bağımsızlık Günü"
+  ],
+  "kaynak": {
+    "ad": "Vikipedi",
+    "url": "https://tr.wikipedia.org/wiki/22_Eyl%C3%BCl",
+    "revid": 37885279
+  },
+  "guncelleme": "2026-09-27T09:47:59.763Z"
+}

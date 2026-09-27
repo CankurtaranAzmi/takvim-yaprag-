@@ -4,8 +4,9 @@ import { SITE } from '../site.config.mjs';
 const guncelleme = '27 Eylül 2026';
 ---
 <Base baslik="Gizlilik Politikası" aciklama={`${SITE.ad} gizlilik politikası ve KVKK aydınlatma metni.`}>
+  <header class="sayfa-baslik"><div class="kap"><h1>Gizlilik Politikası</h1></div></header>
+  <div class="kap kap--dar">
   <article class="metin-sayfa">
-    <h1>Gizlilik Politikası</h1>
     <p><em>Son güncelleme: {guncelleme}</em></p>
     <p>Bu metin, {SITE.url} adresindeki {SITE.ad} web sitesini ziyaret ettiğinizde hangi verilerin nasıl işlendiğini, 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) ve Avrupa Birliği Genel Veri Koruma Tüzüğü (GDPR) kapsamındaki haklarınızı açıklar.</p>
 
@@ -30,4 +31,5 @@ const guncelleme = '27 Eylül 2026';
     <h2>Değişiklikler</h2>
     <p>Bu politika gerektiğinde güncellenir. Güncel sürüm her zaman bu sayfada yayımlanır.</p>
   </article>
+  </div>
 </Base>

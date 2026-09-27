@@ -76,6 +76,7 @@ async function dosyaBilgileri(dosyalar) {
         kucukUrl: url.includes('/960px-') ? url.replace('/960px-', '/500px-') : url,
         genislik,
         yukseklik,
+        orijinalGenislik: ii.width,
         yazar: yazar.slice(0, 140),
         lisans: m.LicenseShortName.value,
         lisansUrl: m.LicenseUrl?.value ?? null,

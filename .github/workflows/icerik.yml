@@ -1,4 +1,5 @@
-# Her gün önümüzdeki 8 günün verisini Vikipedi'den çeker, eksik özetleri Claude ile yazar
+# Her gün önümüzdeki 8 günün verisini Vikipedi'den tazeler; eksik özetleri bugünden başlayarak
+# tüm yıl boyunca Gemini (ücretsiz, günde ~400) ile yazar
 # ve bir Pull Request açar. PR'ı inceleyip birleştirmek = editör onayı.
 name: Günlük içerik
 
@@ -14,7 +15,7 @@ on:
       limit:
         description: 'En fazla kaç özet yazılsın'
         required: false
-        default: '60'
+        default: '400'
 
 permissions:
   contents: write
@@ -36,9 +37,9 @@ jobs:
 
       - name: Eksik özetleri yaz
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
-        run: node scripts/ozet-yaz.mjs ${{ github.event.inputs.kapsam }} --limit ${{ github.event.inputs.limit || '60' }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+        run: node scripts/ozet-yaz.mjs ${{ github.event.inputs.kapsam || '--hepsi' }} --limit ${{ github.event.inputs.limit || '400' }}
 
       - name: Derlemeyi dene
         run: npm run build

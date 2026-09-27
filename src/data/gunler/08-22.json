@@ -1,0 +1,1262 @@
+{
+  "ay": 8,
+  "gun": 22,
+  "olaylar": [
+    {
+      "id": "1642-ingiliz-ic-savasi-basladi",
+      "yil": 1642,
+      "metin": "İngiliz İç Savaşı başladı.",
+      "konular": [
+        "İngiliz İç Savaşı"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1654-jacob-barsimson-gelecekte-new-york-olacak-new-amsterdama",
+      "yil": 1654,
+      "metin": "Jacob Barsimson, gelecekte New York olacak New-Amsterdam'a geldi. O gelecekteki adıyla \"ABD”ye yerleşen ilk Yahudi'ydi.",
+      "konular": [
+        "Jacob Barsimson",
+        "New York",
+        "Amerika Birleşik Devletleri",
+        "Yahudiler"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/500px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 540,
+        "orijinalGenislik": 8207,
+        "yazar": "Dllu",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg",
+        "aciklama": "View of the Empire State Building in New York City from the Top of the Rock at 30 Rockefeller Plaza during sunset. The tower was illuminated in green in honor of Climate Week NYC.[1]",
+        "konu": "New York"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1703-iii-ahmed-ii-mustafanin-yerine-tahta-cikarak",
+      "yil": 1703,
+      "metin": "III. Ahmed, II. Mustafa'nın yerine tahta çıkarak Osmanlı İmparatorluğu'nun yeni Padişahı oldu.",
+      "konular": [
+        "III. Ahmed",
+        "II. Mustafa",
+        "Osmanlı İmparatorluğu",
+        "Padişah"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Portrait_of_Sultan_Ahmed_III_%281673%E2%80%931736%29%2C_three-quarter-length%2C_standing%2C_with_a_view_onto_the_Bosphorus_and_the_Hagia_Sophia_by_Jean-Baptiste_Vanmour.jpg/960px-Portrait_of_Sultan_Ahmed_III_%281673%E2%80%931736%29%2C_three-quarter-length%2C_standing%2C_with_a_view_onto_the_Bosphorus_and_the_Hagia_Sophia_by_Jean-Baptiste_Vanmour.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Portrait_of_Sultan_Ahmed_III_%281673%E2%80%931736%29%2C_three-quarter-length%2C_standing%2C_with_a_view_onto_the_Bosphorus_and_the_Hagia_Sophia_by_Jean-Baptiste_Vanmour.jpg/500px-Portrait_of_Sultan_Ahmed_III_%281673%E2%80%931736%29%2C_three-quarter-length%2C_standing%2C_with_a_view_onto_the_Bosphorus_and_the_Hagia_Sophia_by_Jean-Baptiste_Vanmour.jpg",
+        "genislik": 960,
+        "yukseklik": 1194,
+        "orijinalGenislik": 2573,
+        "yazar": "Jean-Baptiste Vanmour",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sultan_Ahmed_III_(1673%E2%80%931736),_three-quarter-length,_standing,_with_a_view_onto_the_Bosphorus_and_the_Hagia_Sophia_by_Jean-Baptiste_Vanmour.jpg",
+        "aciklama": "Portrait of Sultan Ahmed III (1673–1736), three-quarter-length, standing, with a view onto the Bosphorus and the Hagia Sophia by Jean-Baptiste Vanmour",
+        "konu": "III. Ahmed"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Portrait_of_Sultan_Ahmed_III_%281673%E2%80%931736%29%2C_three-quarter-length%2C_standing%2C_with_a_view_onto_the_Bosphorus_and_the_Hagia_Sophia_by_Jean-Baptiste_Vanmour.jpg/960px-Portrait_of_Sultan_Ahmed_III_%281673%E2%80%931736%29%2C_three-quarter-length%2C_standing%2C_with_a_view_onto_the_Bosphorus_and_the_Hagia_Sophia_by_Jean-Baptiste_Vanmour.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Portrait_of_Sultan_Ahmed_III_%281673%E2%80%931736%29%2C_three-quarter-length%2C_standing%2C_with_a_view_onto_the_Bosphorus_and_the_Hagia_Sophia_by_Jean-Baptiste_Vanmour.jpg/500px-Portrait_of_Sultan_Ahmed_III_%281673%E2%80%931736%29%2C_three-quarter-length%2C_standing%2C_with_a_view_onto_the_Bosphorus_and_the_Hagia_Sophia_by_Jean-Baptiste_Vanmour.jpg",
+          "genislik": 960,
+          "yukseklik": 1194,
+          "orijinalGenislik": 2573,
+          "yazar": "Jean-Baptiste Vanmour",
+          "lisans": "CC0",
+          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sultan_Ahmed_III_(1673%E2%80%931736),_three-quarter-length,_standing,_with_a_view_onto_the_Bosphorus_and_the_Hagia_Sophia_by_Jean-Baptiste_Vanmour.jpg",
+          "aciklama": "Portrait of Sultan Ahmed III (1673–1736), three-quarter-length, standing, with a view onto the Bosphorus and the Hagia Sophia by Jean-Baptiste Vanmour",
+          "konu": "III. Ahmed"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/II._Mustafa.jpg/960px-II._Mustafa.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/II._Mustafa.jpg/500px-II._Mustafa.jpg",
+          "genislik": 960,
+          "yukseklik": 1354,
+          "orijinalGenislik": 1100,
+          "yazar": "Bilinmiyor",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:II._Mustafa.jpg",
+          "aciklama": "Mustafa II, 1695-1703 the Ottoman Sultan",
+          "konu": "II. Mustafa"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1780-buyuk-britanyali-james-cookun-gemisi-buyuk-britanyaya",
+      "yil": 1780,
+      "metin": "Büyük Britanyalı James Cook'un gemisi, Büyük Britanya'ya döndü.",
+      "konular": [
+        "Büyük Britanya",
+        "James Cook"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg/960px-Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg/500px-Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg",
+        "genislik": 960,
+        "yukseklik": 1399,
+        "orijinalGenislik": 2781,
+        "yazar": "Jacques Descloitres, MODIS Land Rapid Response Team, NASA/GSFC",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg",
+        "aciklama": "Satellite image of Great Britain and Northern Ireland in April 2002.",
+        "konu": "Büyük Britanya"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg/960px-Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg/500px-Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg",
+          "genislik": 960,
+          "yukseklik": 1399,
+          "orijinalGenislik": 2781,
+          "yazar": "Jacques Descloitres, MODIS Land Rapid Response Team, NASA/GSFC",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg",
+          "aciklama": "Satellite image of Great Britain and Northern Ireland in April 2002.",
+          "konu": "Büyük Britanya"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Captainjamescookportrait.jpg/960px-Captainjamescookportrait.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Captainjamescookportrait.jpg/500px-Captainjamescookportrait.jpg",
+          "genislik": 960,
+          "yukseklik": 1204,
+          "orijinalGenislik": 6131,
+          "yazar": "Nathaniel Dance-Holland",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Captainjamescookportrait.jpg",
+          "aciklama": "Official portrait of Captain James Cook",
+          "konu": "James Cook"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1791-haitide-kolelerin-ilk-ayaklanmasi",
+      "yil": 1791,
+      "metin": "Haiti'de kölelerin ilk ayaklanması.",
+      "konular": [
+        "Haiti"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1812-urdundeki-arkeolojik-sit-alani-petranin-kesfi",
+      "yil": 1812,
+      "metin": "Ürdün'deki arkeolojik sit alanı Petra'nın keşfi.",
+      "konular": [
+        "Ürdün",
+        "arkeoloji",
+        "Petra"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gizeh_Cheops_BW_1.jpg/960px-Gizeh_Cheops_BW_1.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gizeh_Cheops_BW_1.jpg/500px-Gizeh_Cheops_BW_1.jpg",
+        "genislik": 960,
+        "yukseklik": 639,
+        "orijinalGenislik": 3443,
+        "yazar": "Berthold Werner",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Gizeh_Cheops_BW_1.jpg",
+        "aciklama": "Great pyramid of Giza",
+        "konu": "arkeoloji"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gizeh_Cheops_BW_1.jpg/960px-Gizeh_Cheops_BW_1.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gizeh_Cheops_BW_1.jpg/500px-Gizeh_Cheops_BW_1.jpg",
+          "genislik": 960,
+          "yukseklik": 639,
+          "orijinalGenislik": 3443,
+          "yazar": "Berthold Werner",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Gizeh_Cheops_BW_1.jpg",
+          "aciklama": "Great pyramid of Giza",
+          "konu": "arkeoloji"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Petra_Jordan_BW_21.JPG/960px-Petra_Jordan_BW_21.JPG",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Petra_Jordan_BW_21.JPG/500px-Petra_Jordan_BW_21.JPG",
+          "genislik": 960,
+          "yukseklik": 1527,
+          "orijinalGenislik": 2112,
+          "yazar": "Berthold Werner",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Petra_Jordan_BW_21.JPG",
+          "aciklama": "Petra, Al Khazneh",
+          "konu": "Petra"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1848-abd-new-mexicoyu-ilhak-etti-topraklarina-katti",
+      "yil": 1848,
+      "metin": "ABD, New Mexico'yu ilhak etti (topraklarına kattı).",
+      "konular": [
+        "Amerika Birleşik Devletleri",
+        "New Mexico"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1849-tarihteki-ilk-askeri-hava-hucumu-gerceklesti-avusturya",
+      "yil": 1849,
+      "metin": "Tarihteki ilk askerî hava hücumu gerçekleşti. Avusturya, İtalya'nın Venedik kentine pilotsuz hava balonları yolladı.",
+      "konular": [
+        "Avusturya",
+        "İtalya",
+        "Venedik",
+        "Balon (hava taşıtı)"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Venezia_aerial_view.jpg/960px-Venezia_aerial_view.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Venezia_aerial_view.jpg/500px-Venezia_aerial_view.jpg",
+        "genislik": 960,
+        "yukseklik": 537,
+        "orijinalGenislik": 5666,
+        "yazar": "kallerna",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Venezia_aerial_view.jpg",
+        "aciklama": "Aerial view of Venice, railway station Santa Lucia and port, Canale della Giudecca, island Giudecca",
+        "konu": "Venedik"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Venezia_aerial_view.jpg/960px-Venezia_aerial_view.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Venezia_aerial_view.jpg/500px-Venezia_aerial_view.jpg",
+          "genislik": 960,
+          "yukseklik": 537,
+          "orijinalGenislik": 5666,
+          "yazar": "kallerna",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Venezia_aerial_view.jpg",
+          "aciklama": "Aerial view of Venice, railway station Santa Lucia and port, Canale della Giudecca, island Giudecca",
+          "konu": "Venedik"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Hotair_balloons_amk.jpg/960px-Hotair_balloons_amk.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Hotair_balloons_amk.jpg/500px-Hotair_balloons_amk.jpg",
+          "genislik": 960,
+          "yukseklik": 640,
+          "orijinalGenislik": 2500,
+          "yazar": "user:AngMoKio",
+          "lisans": "CC BY-SA 2.5",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Hotair_balloons_amk.jpg",
+          "aciklama": "Hot-air baloons",
+          "konu": "Balon (hava taşıtı)"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1864-12-devlet-ilk-cenevre-konvansiyonunu-imzaladi-kizilhacin",
+      "yil": 1864,
+      "metin": "12 devlet, ilk Cenevre Konvansiyonu'nu imzaladı: Kızılhaç'ın oluşturulması.",
+      "konular": [
+        "Cenevre Sözleşmeleri",
+        "Uluslararası Kızılhaç ve Kızılay Hareketi"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Original_Geneva_Conventions.jpg/960px-Original_Geneva_Conventions.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Original_Geneva_Conventions.jpg/500px-Original_Geneva_Conventions.jpg",
+        "genislik": 960,
+        "yukseklik": 784,
+        "orijinalGenislik": 1882,
+        "yazar": "Kevin Quinn, Ohio, US",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Original_Geneva_Conventions.jpg",
+        "aciklama": "Facsimile of the original first Geneva Convention from 1864, on loan to the International Red Cross and Red Crescent Museum in Geneva, Switzerland.",
+        "konu": "Cenevre Sözleşmeleri"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1901-cadillac-motor-sirketi-kuruldu",
+      "yil": 1901,
+      "metin": "Cadillac Motor Şirketi kuruldu.",
+      "konular": [
+        "Cadillac"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Cadillac%2C_AN_07130%2C_London_to_Brighton_Veteran_Car_Run_2010%2C_old_English_plate_AP_957%2C_1904_8.25_HP_tonneau.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Cadillac%2C_AN_07130%2C_London_to_Brighton_Veteran_Car_Run_2010%2C_old_English_plate_AP_957%2C_1904_8.25_HP_tonneau.jpg",
+        "genislik": 750,
+        "yukseklik": 600,
+        "orijinalGenislik": 750,
+        "yazar": "Krzysztof Marek Wlodarczyk",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Cadillac,_AN_07130,_London_to_Brighton_Veteran_Car_Run_2010,_old_English_plate_AP_957,_1904_8.25_HP_tonneau.jpg",
+        "aciklama": "Cadillac 8 1/2HP Tonneau 1904 MAKE/BODY : Cadillac Tonneau YEAR : 1904 CYL : 1 HP : 8 1/2 REG NO. : AN 07130 (German) in the entry list - but the old English plate AP 957 is visible OWNER : Baron Manf",
+        "konu": "Cadillac"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1910-japonya-koreyi-ilhak-etti",
+      "yil": 1910,
+      "metin": "Japonya, Kore'yi ilhak etti.",
+      "konular": [
+        "Japonya",
+        "Kore"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1919-sejny-ayaklanmasi-patlak-verdi",
+      "yil": 1919,
+      "metin": "Sejny Ayaklanması patlak verdi.",
+      "konular": [
+        "Sejny Ayaklanması"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Sejny_1919_rudnicki.JPG",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Sejny_1919_rudnicki.JPG",
+        "genislik": 878,
+        "yukseklik": 565,
+        "orijinalGenislik": 878,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Sejny_1919_rudnicki.JPG",
+        "aciklama": "Lt. Adam Rudnicki, leader of the Sejny Uprising, and his collegues. August 1919.",
+        "konu": "Sejny Ayaklanması"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1941-alman-ordusu-leningrada-ulasti-ve-kusatma-basladi",
+      "yil": 1941,
+      "metin": "Alman Ordusu, Leningrad'a ulaştı ve kuşatma başladı.",
+      "konular": [
+        "Wehrmacht",
+        "Sankt-Peterburg"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Peter_%26_Paul_fortress_in_SPB_03.jpg/960px-Peter_%26_Paul_fortress_in_SPB_03.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Peter_%26_Paul_fortress_in_SPB_03.jpg/500px-Peter_%26_Paul_fortress_in_SPB_03.jpg",
+        "genislik": 960,
+        "yukseklik": 636,
+        "orijinalGenislik": 3600,
+        "yazar": "Florstein (Telegram:WikiPhoto.Space)",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Peter_%26_Paul_fortress_in_SPB_03.jpg",
+        "aciklama": "Peter & Paul fortress in Saint Petersburg",
+        "konu": "Sankt-Peterburg"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1942-brezilya-almanya-ve-italyaya-savas-ilan-etti",
+      "yil": 1942,
+      "metin": "Brezilya, Almanya ve İtalya'ya savaş ilan etti.",
+      "konular": [
+        "Brezilya",
+        "Almanya",
+        "İtalya"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1952-henri-charrierenin-kelebek-romanina-ve-filmine-de",
+      "yil": 1952,
+      "metin": "Henri Charrière'nin Kelebek romanına ve filmine de konu olan Fransa'ya ait Fransız Guyanası'ndaki cezaevi tesisleri tamamen kapatıldı.",
+      "konular": [
+        "Henri Charrière",
+        "Kelebek (roman)",
+        "Kelebek (film)",
+        "Fransa",
+        "Fransız Guyanası"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Henri_Charriere_%281971%29_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Henri_Charriere_%281971%29_%28cropped%29.jpg",
+        "genislik": 866,
+        "yukseklik": 1154,
+        "orijinalGenislik": 866,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Henri_Charriere_(1971)_(cropped).jpg",
+        "aciklama": "Héctor Cabrera at the house of Henri Charriere (center) in Caracas. Original caption: MEETING: At Henri Charriere's house in Caracas, Héctor Cabrera was able to fulfill his dream of meeting the author",
+        "konu": "Henri Charrière"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Henri_Charriere_%281971%29_%28cropped%29.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Henri_Charriere_%281971%29_%28cropped%29.jpg",
+          "genislik": 866,
+          "yukseklik": 1154,
+          "orijinalGenislik": 866,
+          "yazar": "Bilinmeyen yazar",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Henri_Charriere_(1971)_(cropped).jpg",
+          "aciklama": "Héctor Cabrera at the house of Henri Charriere (center) in Caracas. Original caption: MEETING: At Henri Charriere's house in Caracas, Héctor Cabrera was able to fulfill his dream of meeting the author",
+          "konu": "Henri Charrière"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Novotelplage.JPG/960px-Novotelplage.JPG",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Novotelplage.JPG/500px-Novotelplage.JPG",
+          "genislik": 960,
+          "yukseklik": 508,
+          "orijinalGenislik": 2286,
+          "yazar": "Didwin973",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Novotelplage.JPG",
+          "aciklama": "VIEW OF NOVOTEL BEACH FROM A NEAR HILL",
+          "konu": "Fransız Guyanası"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1961-yuksekogrenim-kredi-ve-yurtlar-kurumu-kuruldu",
+      "yil": 1961,
+      "metin": "Yükseköğrenim Kredi ve Yurtlar Kurumu kuruldu.",
+      "konular": [
+        "Kredi ve Yurtlar Genel Müdürlüğü"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Yurtkurgenelmudurlugu.jpg/960px-Yurtkurgenelmudurlugu.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Yurtkurgenelmudurlugu.jpg/500px-Yurtkurgenelmudurlugu.jpg",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "orijinalGenislik": 2448,
+        "yazar": "Vikiçizer",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Yurtkurgenelmudurlugu.jpg",
+        "aciklama": "Ankara'da Kredi ve Yurtlar Genel Müdürlüğü binası.",
+        "konu": "Kredi ve Yurtlar Genel Müdürlüğü"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1962-fransa-cumhurbaskani-charles-de-gaullee-duzenlenen-bir",
+      "yil": 1962,
+      "metin": "Fransa Cumhurbaşkanı Charles de Gaulle'e düzenlenen bir suikast girişimi başarısızlıkla sonuçlandı.",
+      "konular": [
+        "Fransa",
+        "Charles de Gaulle"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/De_Gaulle-OWI.jpg/960px-De_Gaulle-OWI.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/De_Gaulle-OWI.jpg/500px-De_Gaulle-OWI.jpg",
+        "genislik": 960,
+        "yukseklik": 1418,
+        "orijinalGenislik": 2480,
+        "yazar": "Office of War Information, Overseas Picture Division. [1] The image prefix (LC-USW3) at the Library of Congress image page matches that of p",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:De_Gaulle-OWI.jpg",
+        "aciklama": "WWII French General Charles De Gaulle A WWII photo portrait of General Charles de Gaulle of the Free French Forces and first president of the Fifth Republic serving from 1959 to 1969.",
+        "konu": "Charles de Gaulle"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1962-nukleer-gucle-calisan-ilk-yuk-ve-yolcu",
+      "yil": 1962,
+      "metin": "Nükleer güçle çalışan ilk yük ve yolcu gemisi olan NS Savannah açılış yolculuğunu yaptı.",
+      "konular": [
+        "Nükleer enerji"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1965-sadun-boro-yelkenlisiyle-yapacagi-dunya-turuna-basladi",
+      "yil": 1965,
+      "metin": "Sadun Boro, yelkenlisiyle yapacağı dünya turuna başladı.",
+      "konular": [
+        "Sadun Boro",
+        "yelkenli"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2021_09_20_Sadun_Boro.jpg/960px-2021_09_20_Sadun_Boro.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2021_09_20_Sadun_Boro.jpg/500px-2021_09_20_Sadun_Boro.jpg",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "orijinalGenislik": 3672,
+        "yazar": "HalitBaris",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:2021_09_20_Sadun_Boro.jpg",
+        "aciklama": "Kadıköy Kalamış'ta Sadun Boro heykeli",
+        "konu": "Sadun Boro"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1989-neptun-gezegeninin-ilk-halkasinin-kesfi",
+      "yil": 1989,
+      "metin": "Neptün gezegeninin ilk halkasının keşfi.",
+      "konular": [
+        "Neptün",
+        "gezegen"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Neptune_Voyager2_color_calibrated.png/960px-Neptune_Voyager2_color_calibrated.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Neptune_Voyager2_color_calibrated.png/500px-Neptune_Voyager2_color_calibrated.png",
+        "genislik": 960,
+        "yukseklik": 960,
+        "orijinalGenislik": 1200,
+        "yazar": "NASA / Voyager 2 / PDS / OPUS / Ardenau4",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Neptune_Voyager2_color_calibrated.png",
+        "aciklama": "Neptune on 1989-08-17, taken by NASA's Voyager 2 probe. This color image was composed of three frames, orange, green, and blue, taken by Voyager 2's imaging system. This color image has been calibrate",
+        "konu": "Neptün"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Neptune_Voyager2_color_calibrated.png/960px-Neptune_Voyager2_color_calibrated.png",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Neptune_Voyager2_color_calibrated.png/500px-Neptune_Voyager2_color_calibrated.png",
+          "genislik": 960,
+          "yukseklik": 960,
+          "orijinalGenislik": 1200,
+          "yazar": "NASA / Voyager 2 / PDS / OPUS / Ardenau4",
+          "lisans": "CC0",
+          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Neptune_Voyager2_color_calibrated.png",
+          "aciklama": "Neptune on 1989-08-17, taken by NASA's Voyager 2 probe. This color image was composed of three frames, orange, green, and blue, taken by Voyager 2's imaging system. This color image has been calibrate",
+          "konu": "Neptün"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Planet_collage_to_scale.jpg/960px-Planet_collage_to_scale.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Planet_collage_to_scale.jpg/500px-Planet_collage_to_scale.jpg",
+          "genislik": 960,
+          "yukseklik": 960,
+          "orijinalGenislik": 2048,
+          "yazar": "CactiStaccingCrane",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Planet_collage_to_scale.jpg",
+          "aciklama": "Credits: User:MotloAstro (Sun); NASA (Mercury, Venus, Earth, Jupiter [with ESA], Saturn, Uranus, Neptune); Emirate Mission (Mars);",
+          "konu": "gezegen"
+        }
+      ],
+      "durum": "bekliyor"
+    }
+  ],
+  "dogumlar": [
+    {
+      "yil": 1647,
+      "metin": "Denis Papin, Fransız fizikçi ve kâşif (ö. 1713)"
+    },
+    {
+      "yil": 1760,
+      "metin": "XII. Leo, Katolik Kilisesi'nin 252. Papası (ö. 1829)"
+    },
+    {
+      "yil": 1764,
+      "metin": "Josef Abel, Avusturyalı ressam (ö. 1818)"
+    },
+    {
+      "yil": 1773,
+      "metin": "Aimé Bonpland, Fransız kaşif ve botanikçi (ö. 1858)"
+    },
+    {
+      "yil": 1811,
+      "metin": "Charles de Lalaisse, Fransız taş baskıcı, tasarımcı ve ressam (ö. 1892)"
+    },
+    {
+      "yil": 1844,
+      "metin": "George W. DeLong, Amerikalı deniz subayı ve kâşif (ö. 1881)"
+    },
+    {
+      "yil": 1860,
+      "metin": "Alfred Ploetz, Alman hekim, biyolog (ö. 1940)"
+    },
+    {
+      "yil": 1862,
+      "metin": "Claude Debussy, Fransız besteci (ö. 1918)"
+    },
+    {
+      "yil": 1873,
+      "metin": "Aleksandr Bogdanov, Rus bilim insanı, filozof ve bilimkurgu yazarı (ö. 1928)"
+    },
+    {
+      "yil": 1874,
+      "metin": "Max Ferdinand Scheler, Alman filozof (ö. 1928)"
+    },
+    {
+      "yil": 1882,
+      "metin": "Raymonde de Laroche, Fransız pilot (dünyanın ilk tayyare pilot lisansını alan kadın) (ö. 1919)"
+    },
+    {
+      "yil": 1887,
+      "metin": "Ludwig Schwerin von Krosigk, Alman maliyeci, siyasetçi ve Nazi Almanyası'nın son Şansölyesi (ö. 1977)"
+    },
+    {
+      "yil": 1890,
+      "metin": "Cecil Kellaway, İngiliz/Güney Afrikalı karakter oyuncusu (ö. 1973)"
+    },
+    {
+      "yil": 1891,
+      "metin": "Jacques Lipchitz, Yahudi asıllı Litvan-Amerikalı kübist heykeltıraş (ö. 1973)"
+    },
+    {
+      "yil": 1893,
+      "metin": "Dorothy Parker, Amerikalı şair, yazar, eleştirmen ve hicivci (ö. 1967)"
+    },
+    {
+      "yil": 1902,
+      "metin": "Leni Riefenstahl, Alman aktris, sinema yönetmeni ve yapımcı (ö. 2003)"
+    },
+    {
+      "yil": 1904,
+      "metin": "Deng Xiaoping, Çinli siyasetçi ve Çin Devlet Başkanı (ö. 1997)"
+    },
+    {
+      "yil": 1908,
+      "metin": "Henri Cartier-Bresson, Fransız fotoğrafçı (ö. 2004)"
+    },
+    {
+      "yil": 1909,
+      "metin": "Julius J. Epstein, Amerikalı senaryo yazarı (ö. 2000)"
+    },
+    {
+      "yil": 1910,
+      "metin": "Lucille Ricksen, Amerikalı oyuncu (ö. 1925)"
+    },
+    {
+      "yil": 1913,
+      "metin": "Bruno Pontecorvo, İtalyan nükleer fizikçi (ö. 1993)"
+    },
+    {
+      "yil": 1915,
+      "metin": "Edward Szczepanik, Polonyalı ekonomist ve Sürgündeki Polonya Hükûmeti'nin son Başbakanı (ö. 2005)"
+    },
+    {
+      "yil": 1917,
+      "metin": "John Lee Hooker, Amerikalı blues şarkıcısı, gitarist ve besteci (ö. 2001)"
+    },
+    {
+      "yil": 1920,
+      "metin": "Ray Bradbury, Amerikalı yazar (ö. 2012)"
+    },
+    {
+      "yil": 1925,
+      "metin": "Honor Blackman, İngiliz oyuncu (ö. 2020)"
+    },
+    {
+      "yil": 1926,
+      "metin": "Ümit Yaşar Oğuzcan, Türk şair (ö. 1984)"
+    },
+    {
+      "yil": 1928,
+      "metin": "Karlheinz Stockhausen, Alman klasik müzik ve opera bestecisi (ö. 2007)"
+    },
+    {
+      "yil": 1930,
+      "metin": "Gilmar, Brezilyalı millî futbolcu (ö. 2013)"
+    },
+    {
+      "yil": 1934,
+      "metin": "Norman Schwarzkopf, Amerikalı asker (ö. 2012)"
+    },
+    {
+      "yil": 1934,
+      "metin": "Ayla Erduran, Türk keman sanatçısı (ö. 2025)"
+    },
+    {
+      "yil": 1935,
+      "metin": "Longin Pastusiak, Polonyalı politikacı ve tarihçi (ö. 2025)"
+    },
+    {
+      "yil": 1935,
+      "metin": "E. Annie Proulx, Amerikalı romancı ve gazeteci"
+    },
+    {
+      "yil": 1939,
+      "metin": "Valerie Harper, Amerikalı oyuncu, komedyen, dansçı ve yazar (ö. 2019)"
+    },
+    {
+      "yil": 1942,
+      "metin": "Uğur Mumcu, Türk gazeteci ve yazar (ö. 1993)"
+    },
+    {
+      "yil": 1944,
+      "metin": "Ayşen Gruda, Türk tiyatro ve sinema oyuncusu (ö. 2019)"
+    },
+    {
+      "yil": 1954,
+      "metin": "Veysel Çolak, Türk şair ve romancı"
+    },
+    {
+      "yil": 1955,
+      "metin": "Arnold Palacios, Kuzey Marinalı siyasetçi (ö. 2025)"
+    },
+    {
+      "yil": 1957,
+      "metin": "Steve Davis, İngiliz profesyonel snooker oyuncusu"
+    },
+    {
+      "yil": 1958,
+      "metin": "Colm Feore, Amerikalı-Kanadalı sahne, film ve dizi oyuncusu"
+    },
+    {
+      "yil": 1958,
+      "metin": "Necdet Adalı, Türk devrimci (12 Eylül Darbesi'nden sonra idam edilen ilk devrimci) (ö. 1980)"
+    },
+    {
+      "yil": 1959,
+      "metin": "Mark Williams, İngiliz oyuncu ve komedyen"
+    },
+    {
+      "yil": 1963,
+      "metin": "Tori Amos, Amerikalı şarkıcı"
+    },
+    {
+      "yil": 1966,
+      "metin": "GZA, Amerikalı rapçi (Wu-Tang Clan üyesi)"
+    },
+    {
+      "yil": 1966,
+      "metin": "Rob Witschge, Hollandalı millî futbolcu ve teknik direktör"
+    },
+    {
+      "yil": 1967,
+      "metin": "Adewale Akinnuoye-Agbaje, İngiliz oyuncu"
+    },
+    {
+      "yil": 1967,
+      "metin": "Layne Staley, Amerikalı müzisyen (ö. 2002)"
+    },
+    {
+      "yil": 1967,
+      "metin": "Ty Burrell, Amerikalı oyuncu"
+    },
+    {
+      "yil": 1968,
+      "metin": "Aleksandr Mostovoy, Rus kökenli Sovyet millî futbolcu"
+    },
+    {
+      "yil": 1968,
+      "metin": "Anne Nurmi, Lacrimosa adlı müzik grubunun üyesi Fin şarkıcı, besteci, söz yazarı ve klavyeci"
+    },
+    {
+      "yil": 1970,
+      "metin": "Gianluca Ramazzotti, İtalyan oyuncu"
+    },
+    {
+      "yil": 1970,
+      "metin": "Tímea Nagy, Macar eskrimci ve spor yöneticisi"
+    },
+    {
+      "yil": 1973,
+      "metin": "Eurelijus Žukauskas, Litvan basketbolcu"
+    },
+    {
+      "yil": 1973,
+      "metin": "Kristen Wiig, Amerikalı oyuncu"
+    },
+    {
+      "yil": 1974,
+      "metin": "Serdar Kuzuloğlu, Türk gazeteci ve yazar"
+    },
+    {
+      "yil": 1975,
+      "metin": "Clint Bolton, Avustralyalı millî futbolcu"
+    },
+    {
+      "yil": 1975,
+      "metin": "Rodrigo Santoro, Brezilyalı oyuncu"
+    },
+    {
+      "yil": 1976,
+      "metin": "Aslıhan Yeltekin, Türk haberci ve sunucu"
+    },
+    {
+      "yil": 1977,
+      "metin": "Heiðar Helguson, İzlandalı millî futbolcu"
+    },
+    {
+      "yil": 1978,
+      "metin": "James Corden, İngiliz aktör, komedyen, şarkıcı, yazar, yapımcı ve televizyon sunucusu"
+    },
+    {
+      "yil": 1980,
+      "metin": "Ali Barışık, Şilili futbolcu"
+    },
+    {
+      "yil": 1983,
+      "metin": "Theo Bos, Hollandalı yol ve parkur bisikletçi"
+    },
+    {
+      "yil": 1984,
+      "metin": "Ekin Türkmen, Türk oyuncu ve model"
+    },
+    {
+      "yil": 1984,
+      "metin": "Lawrence Quaye, Gana asıllı Katarlı futbolcu"
+    },
+    {
+      "yil": 1984,
+      "metin": "Lee Camp, İngiliz futbolcu"
+    },
+    {
+      "yil": 1984,
+      "metin": "Jonathan Barry Gooch, sahne adı Feed Me olan prodüktör ve DJ"
+    },
+    {
+      "yil": 1985,
+      "metin": "Salih Yoluç, Türk otomobil yarışçısı"
+    },
+    {
+      "yil": 1986,
+      "metin": "Adrian Neville, İngiliz güreşçi"
+    },
+    {
+      "yil": 1986,
+      "metin": "Stephen Ireland, İrlandalı futbolcu"
+    },
+    {
+      "yil": 1986,
+      "metin": "Tokushōryū Makoto, Japon sumo güreşçisi"
+    },
+    {
+      "yil": 1987,
+      "metin": "Apollo Crews, Amerikalı güreşçi"
+    },
+    {
+      "yil": 1989,
+      "metin": "Giacomo Bonaventura, İtalyan millî futbolcu"
+    },
+    {
+      "yil": 1991,
+      "metin": "Federico Macheda, İtalyan futbolcu"
+    },
+    {
+      "yil": 1992,
+      "metin": "Elvin Yunuszade, Azeri futbolcu"
+    },
+    {
+      "yil": 1993,
+      "metin": "Laura Dahlmeier, Alman dağcı (ö. 2025)"
+    },
+    {
+      "yil": 1994,
+      "metin": "Astou Ndour, İspanyol basketbolcu"
+    },
+    {
+      "yil": 1995,
+      "metin": "Anna Slováčková, Çek şarkıcı ve aktris (ö. 2025)"
+    },
+    {
+      "yil": 1995,
+      "metin": "Dua Lipa, İngiliz şarkıcı, şarkı yazarı ve model"
+    },
+    {
+      "yil": 1996,
+      "metin": "Somin, Güney Koreli şarkıcı"
+    },
+    {
+      "yil": 1997,
+      "metin": "Lautaro Martínez, Arjantinli millî futbolcu"
+    },
+    {
+      "yil": 2001,
+      "metin": "LaMelo Ball, Amerikalı basketbolcu"
+    }
+  ],
+  "olumler": [
+    {
+      "yil": 408,
+      "metin": "Stilicho, Romalı general (Magister militum) (d. 359)"
+    },
+    {
+      "yil": 1155,
+      "metin": "Konoe, Japonya'nın geleneksel veraset düzenine göre 76. imparatoru (d. 1139)"
+    },
+    {
+      "yil": 1241,
+      "metin": "IX. Gregorius, Katolik Kilisesi'nin 178. Papası (d. 1170)"
+    },
+    {
+      "yil": 1280,
+      "metin": "III. Nicolaus, Katolik Kilise'nin 188. Papası (d. 1225)"
+    },
+    {
+      "yil": 1350,
+      "metin": "VI. Philippe, Fransa Kralı (d. 1293)"
+    },
+    {
+      "yil": 1358,
+      "metin": "Isabella, İngiltere Kralı II. Edward'ın eşi (d. 1295)"
+    },
+    {
+      "yil": 1456,
+      "metin": "II. Vladislav, Eflak Prensliği'nin Voyvodası (d. ?)"
+    },
+    {
+      "yil": 1485,
+      "metin": "III. Richard, İngiltere Kralı (d. 1452)"
+    },
+    {
+      "yil": 1545,
+      "metin": "Charles Brandon, İngiliz askeri lider (d. 1484)"
+    },
+    {
+      "yil": 1553,
+      "metin": "John Dudley, İngiliz siyasetçi ve asker (d. 1504)"
+    },
+    {
+      "yil": 1652,
+      "metin": "Jacob De la Gardie, İsveçli devlet adamı ve asker (d. 1583)"
+    },
+    {
+      "yil": 1791,
+      "metin": "Johann David Michaelis, Alman teolog (d. 1717)"
+    },
+    {
+      "yil": 1817,
+      "metin": "Nakşidil Sultan, Osmanlı Padişahı II. Mahmut'un annesi, Valide Sultan ve I. Abdülhamit'in eşi (d. 1768)"
+    },
+    {
+      "yil": 1860,
+      "metin": "Alexandre-Gabriel Decamps, Fransız ressamı (d. 1803)"
+    },
+    {
+      "yil": 1861,
+      "metin": "Xianfeng, Çin'in Qing Hanedanı'nın 9. imparatoru (d. 1831)"
+    },
+    {
+      "yil": 1891,
+      "metin": "Jan Neruda, Çek yazar (d. 1834)"
+    },
+    {
+      "yil": 1903,
+      "metin": "Robert Gascoyne-Cecil, Birleşik Krallık Başbakanı (d. 1830)"
+    },
+    {
+      "yil": 1904,
+      "metin": "Kate Chopin, Amerikalı kısa öykü yazarı (d. 1851)"
+    },
+    {
+      "yil": 1920,
+      "metin": "Anders Zorn, İsveçli ressam, oymacı, heykeltıraş ve fotoğrafçı (d. 1860)"
+    },
+    {
+      "yil": 1922,
+      "metin": "Michael Collins, İrlandalı siyasetçi ve İrlanda bağımsızlık mücadelesi lideri (d. 1890)"
+    },
+    {
+      "yil": 1929,
+      "metin": "Otto Liman von Sanders, Alman general ve Osmanlı Mareşali (d. 1855)"
+    },
+    {
+      "yil": 1942,
+      "metin": "Michel Fokine, Rus koreograf ve balet (d. 1880)"
+    },
+    {
+      "yil": 1946,
+      "metin": "Döme Sztójay, Macar asker, diplomat ve Macaristan Krallığı'nın Başbakanı (d. 1883)"
+    },
+    {
+      "yil": 1958,
+      "metin": "Roger Martin du Gard, Fransız yazar ve Nobel Edebiyat Ödülü sahibi (d. 1881)"
+    },
+    {
+      "yil": 1966,
+      "metin": "Erwin Komenda, Alman asıllı Avusturyalı otomobil tasarımcısı (d. 1904)"
+    },
+    {
+      "yil": 1972,
+      "metin": "Orhan Seyfi Orhon, Türk şair (Beş Hececiler topluluğu üyesi) (d. 1890)"
+    },
+    {
+      "yil": 1974,
+      "metin": "Jacob Bronowski, İngiliz matematikçi, biyolog, şair ve mucit (d. 1908)"
+    },
+    {
+      "yil": 1976,
+      "metin": "Juscelino Kubitschek, Brezilyalı siyasetçi ve Brezilya Devlet Başkanı (d. 1902)"
+    },
+    {
+      "yil": 1978,
+      "metin": "Ignazio Silone, İtalyan yazar (d. 1900)"
+    },
+    {
+      "yil": 1978,
+      "metin": "Jomo Kenyatta, Kenyalı siyasetçi ve Kenya'nın ilk başbakanı (d. 1889)"
+    },
+    {
+      "yil": 1985,
+      "metin": "Turgut Uyar, Türk şair (d. 1927)"
+    },
+    {
+      "yil": 1986,
+      "metin": "Celâl Bayar, Türk siyasetçi, devlet adamı ve cumhurbaşkanı (d. 1883)"
+    },
+    {
+      "yil": 1989,
+      "metin": "Huey P. Newton, Afrika-Amerikalı siyasi aktivist ve Kara Panter Partisi'nin kurucusu (d. 1942)"
+    },
+    {
+      "yil": 1991,
+      "metin": "Colleen Dewhurst, Kanada asıllı Amerikalı oyuncu (d. 1924)"
+    },
+    {
+      "yil": 1991,
+      "metin": "Boris Pugo, Leton asıllı Sovyet siyasetçi (d. 1937)"
+    },
+    {
+      "yil": 1993,
+      "metin": "Baki Erdoğan, DHKP-C üyesi olduğu iddia edilen işkence kurbanı"
+    },
+    {
+      "yil": 2000,
+      "metin": "Ebulfez Elçibey, Azeri siyasetçi (d. 1938)"
+    },
+    {
+      "yil": 2010,
+      "metin": "Stjepan Bobek, Yugoslav futbolcu ve teknik direktör (d. 1923)"
+    },
+    {
+      "yil": 2010,
+      "metin": "Michel Montignac, Fransız diyet geliştiricisi ve yazar (d. 1944)"
+    },
+    {
+      "yil": 2013,
+      "metin": "Jetty Paerl, Hollanda asıllı Alman şarkıcı (d. 1921)"
+    },
+    {
+      "yil": 2014,
+      "metin": "John S. Waugh, Amerikalı kimyager (d. 1929)"
+    },
+    {
+      "yil": 2015,
+      "metin": "Mariem Hassan, Batı Sahralı şarkıcı (d. 1958)"
+    },
+    {
+      "yil": 2015,
+      "metin": "Ieng Thirith, Kamboçyalı politikacı (Kızıl Kmerler'in Sosyal İşler Bakanı) (d. 1921)"
+    },
+    {
+      "yil": 2016,
+      "metin": "Farid Ali, Bangladeşli oyuncu (d. 1945)"
+    },
+    {
+      "yil": 2016,
+      "metin": "Michael Brooks, Amerikalı basketbolcu (d. 1958)"
+    },
+    {
+      "yil": 2016,
+      "metin": "Sellapan Ramanathan, Singapurlu siyasetçi ve Singapur Cumhuriyeti'nin 6. Cumhurbaşkanı (d. 1924)"
+    },
+    {
+      "yil": 2017,
+      "metin": "John Abercrombie, Amerikalı caz müzisyeni ve gitarist (d. 1944)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Alain Berbérian, Fransız film yönetmeni ve senarist (d. 1953)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Feyyaz Berker, Türk iş insanı ve Tekfen Holding'in kurucusu (d. 1925)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Tony deBrum, Marshall Adaları siyasetçisi ve aktivist (d. 1945)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Şükrü Kızılot, Türk akademisyen ve gazeteci (d. 1958)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Tom Prichard, Yeni Zelandalı kriketçi (d. 1917)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Bülent Uluer, Türk politik eylemci, politikacı ve eski Devrimci Gençlik (Dev-Genç) Genel Başkanı (d. 1952)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Tullio Ilomets, Eston kimyager, tarihçi, bilim adamı ve tarihçi (d. 1921)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Gurudas Kamat, Hint avukat, ekonomist ve siyasetçi (d. 1954)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Ed King, Amerikalı rock müzisyeni ve söz yazarı (d. 1949)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Lazy Lester, Amerikalı blues müzisyeni (d. 1933)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Jesus Torbado, İspanyol yazar (d. 1943)"
+    },
+    {
+      "yil": 2019,
+      "metin": "Junior Agogo, Ganalı futbolcu (d. 1979)"
+    },
+    {
+      "yil": 2019,
+      "metin": "Tim Fischer, Avustralyalı siyasetçi ve diplomat (d. 1946)"
+    },
+    {
+      "yil": 2020,
+      "metin": "John Bangsund, Avustralyalı bilimkurgu eleştirmeni (d. 1939)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Mrinal Haque, Bangladeşli heykeltıraş (d. 1958)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Emil Jula, Rumen futbolcu (d. 1980)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Karim Kamalov, Özbek siyasetçi (d. 1954)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Ulla Pia, Danimarkalı şarkıcı (d. 1945)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Alberto Bica, sağ kanat mevkiinde oynayan eski Uruguaylı profesyonel futbolcu (d. 1958)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Pierre Dumay, emekli Fransız otomobil yarışçısı (d. 1928)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Marilyn Eastman, Amerikalı oyuncu (d. 1927)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Edin Šaranović, Bosnalı eski futbolcu ve teknik direktör (d. 1976)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Eric Wagner, Amerikalı heavy metal şarkıcısı-söz yazarı (d. 1959)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Jerry Allison, Amerikalı rock şarkıcısı, söz yazarı ve müzisyen (d. 1939)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Adnan Çoker, Türk ressam ve akademisyen (d. 1927)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Theo Sommer, Alman gazete editörü ve entelektüel (d. 1930)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Margaret Urlich, Yeni Zelandalı şarkıcı (d. 1965)"
+    },
+    {
+      "yil": 2023,
+      "metin": "İbrahim Gülistan, İranlı yönetmen ve yazar (d. 1922)"
+    },
+    {
+      "yil": 2026,
+      "metin": "Siim Kallas, Eston siyasetçi ve eski Estonya başbakanı (d. 1948)"
+    }
+  ],
+  "ozelGunler": [],
+  "kaynak": {
+    "ad": "Vikipedi",
+    "url": "https://tr.wikipedia.org/wiki/22_A%C4%9Fustos",
+    "revid": 37817065
+  },
+  "guncelleme": "2026-09-27T09:46:59.549Z"
+}

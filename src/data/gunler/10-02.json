@@ -14,12 +14,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg/960px-thumbnail.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg/500px-thumbnail.jpg",
         "genislik": 960,
         "yukseklik": 903,
+        "orijinalGenislik": 1672,
         "yazar": "Classical Numismatic Group (CNG)",
         "lisans": "CC BY-SA 2.5",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.5",
@@ -33,6 +33,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg/500px-thumbnail.jpg",
           "genislik": 960,
           "yukseklik": 903,
+          "orijinalGenislik": 1672,
           "yazar": "Classical Numismatic Group (CNG)",
           "lisans": "CC BY-SA 2.5",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.5",
@@ -45,6 +46,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg/500px-Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg",
           "genislik": 960,
           "yukseklik": 486,
+          "orijinalGenislik": 3412,
           "yazar": "askii",
           "lisans": "CC BY-SA 2.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -57,6 +59,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/EroberungJerusalems2.jpg/500px-EroberungJerusalems2.jpg",
           "genislik": 960,
           "yukseklik": 909,
+          "orijinalGenislik": 1034,
           "yazar": "Bilinmeyen yazar",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -64,7 +67,8 @@
           "aciklama": "..",
           "konu": "Haçlı"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1552-korkunc-ivan-komutasindaki-ruslar-kazani-isgal-etti",
@@ -78,12 +82,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Ivan_the_Terrible_%28cropped%29.JPG",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Ivan_the_Terrible_%28cropped%29.JPG",
         "genislik": 957,
         "yukseklik": 1003,
+        "orijinalGenislik": 957,
         "yazar": "Viktor Vasnetsov",
         "lisans": "Public domain",
         "lisansUrl": null,
@@ -97,6 +101,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Ivan_the_Terrible_%28cropped%29.JPG",
           "genislik": 957,
           "yukseklik": 1003,
+          "orijinalGenislik": 957,
           "yazar": "Viktor Vasnetsov",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -109,6 +114,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Kazan_Kremlin_P8111944_2200.jpg/500px-Kazan_Kremlin_P8111944_2200.jpg",
           "genislik": 960,
           "yukseklik": 640,
+          "orijinalGenislik": 3300,
           "yazar": "Alexxx1979",
           "lisans": "CC BY-SA 4.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -116,7 +122,8 @@
           "aciklama": "Kazan Kremlin",
           "konu": "Kazan, Tataristan"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1608-modern-teleskopun-prototipi-hollandali-gozluk-ureticisi-hans",
@@ -129,12 +136,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/100inchHooker.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/100inchHooker.jpg",
         "genislik": 554,
         "yukseklik": 904,
+        "orijinalGenislik": 554,
         "yazar": "Andrew Dunn",
         "lisans": "CC BY-SA 2.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -148,6 +155,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/100inchHooker.jpg",
           "genislik": 554,
           "yukseklik": 904,
+          "orijinalGenislik": 554,
           "yazar": "Andrew Dunn",
           "lisans": "CC BY-SA 2.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -160,6 +168,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Hans_Lipperhey.jpg",
           "genislik": 952,
           "yukseklik": 1149,
+          "orijinalGenislik": 952,
           "yazar": "Jacob van Meurs",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -167,7 +176,8 @@
           "aciklama": "Portrait of Hans Lipperhey",
           "konu": "Hans Lippershey"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1836-charles-darwin-ingiliz-kraliyet-donanmasina-ait-hms",
@@ -183,12 +193,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/960px-Charles_Darwin_seated_crop.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/500px-Charles_Darwin_seated_crop.jpg",
         "genislik": 960,
         "yukseklik": 1263,
+        "orijinalGenislik": 2370,
         "yazar": "Charles_Darwin_seated.jpg: Henry Maull (1829–1914) and John Fox (1832–1907) (Maull & Fox) [3] derivative work: Beao",
         "lisans": "Public domain",
         "lisansUrl": null,
@@ -202,6 +212,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/500px-Charles_Darwin_seated_crop.jpg",
           "genislik": 960,
           "yukseklik": 1263,
+          "orijinalGenislik": 2370,
           "yazar": "Charles_Darwin_seated.jpg: Henry Maull (1829–1914) and John Fox (1832–1907) (Maull & Fox) [3] derivative work: Beao",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -214,6 +225,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/HMSBeagle.jpg/500px-HMSBeagle.jpg",
           "genislik": 960,
           "yukseklik": 610,
+          "orijinalGenislik": 2268,
           "yazar": "Owen Stanley",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -221,7 +233,8 @@
           "aciklama": "(centre) painted during the third voyage while surveying Australia.",
           "konu": "HMS Beagle"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1870-roma-italyanin-baskenti-oldu",
@@ -234,19 +247,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg/960px-Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg/500px-Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg",
         "genislik": 960,
         "yukseklik": 638,
+        "orijinalGenislik": 3500,
         "yazar": "Diliff",
         "lisans": "CC BY 3.0",
         "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Trevi_Fountain,_Rome,_Italy_2_-_May_2007.jpg",
         "aciklama": "A 5x5 segment panorama taken by myself with a Canon 5D and 24-105mm f/4L IS lens. Stitched with rectilinear projection to keep lines straight. This view is about 100 degrees horizontally, close to the",
         "konu": "Roma"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1895-trabzonda-ermeni-isyani-basladi",
@@ -259,19 +273,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Trabzon_Kalesi.jpeg/960px-Trabzon_Kalesi.jpeg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Trabzon_Kalesi.jpeg/500px-Trabzon_Kalesi.jpeg",
         "genislik": 960,
         "yukseklik": 639,
+        "orijinalGenislik": 1245,
         "yazar": "İlayda.tr",
         "lisans": "CC BY-SA 4.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Trabzon_Kalesi.jpeg",
         "aciklama": "kale",
         "konu": "Trabzon"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1919-abd-baskani-woodrow-wilson-felc-gecirdi",
@@ -283,19 +298,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg/960px-Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg/500px-Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg",
         "genislik": 960,
         "yukseklik": 1454,
+        "orijinalGenislik": 2484,
         "yazar": "Harris & Ewing",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:Thomas_Woodrow_Wilson,_Harris_%26_Ewing_bw_photo_portrait,_1919.jpg",
         "aciklama": "Вудра Вільсан, прэзідэнт Злучаных Штатаў Амерыкі.",
         "konu": "Woodrow Wilson"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1924-milletler-cemiyetinin-47-uyesi-zorunlu-tahkim-protokolunu",
@@ -307,8 +323,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1928-gizli-katolik-orgut-opus-dei-madridde-kuruldu",
@@ -322,12 +338,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg/960px-Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg/500px-Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg",
         "genislik": 960,
         "yukseklik": 639,
+        "orijinalGenislik": 4470,
         "yazar": "Jebulon",
         "lisans": "CC0",
         "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -341,6 +357,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg/500px-Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg",
           "genislik": 960,
           "yukseklik": 639,
+          "orijinalGenislik": 4470,
           "yazar": "Jebulon",
           "lisans": "CC0",
           "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -353,6 +370,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Plaza_Mayor_De_Madrid_%28215862629%29_edited.jpeg/500px-Plaza_Mayor_De_Madrid_%28215862629%29_edited.jpeg",
           "genislik": 960,
           "yukseklik": 640,
+          "orijinalGenislik": 1817,
           "yazar": "Francisco Anzola",
           "lisans": "CC BY 3.0",
           "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
@@ -360,7 +378,8 @@
           "aciklama": "500px provided description: Plaza Mayor De Madrid [#sky ,#city ,#street ,#travel ,#old ,#tourism ,#tourist ,#urban ,#architecture ,#building ,#square ,#town ,#castle ,#panoramic ,#outdoors ,#horizonta",
           "konu": "Madrid"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1935-italyan-ordusu-etiyopyaya-girdi",
@@ -373,8 +392,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1941-almanlar-sovyetler-birligine-karsi-tayfun-harekati-olarak",
@@ -388,19 +407,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/RIAN_archive_429_Fresh_forces_going_to_the_front.jpg/960px-RIAN_archive_429_Fresh_forces_going_to_the_front.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/RIAN_archive_429_Fresh_forces_going_to_the_front.jpg/500px-RIAN_archive_429_Fresh_forces_going_to_the_front.jpg",
         "genislik": 960,
         "yukseklik": 729,
+        "orijinalGenislik": 1024,
         "yazar": "Olga Ignatovich / Ольга Игнатович",
         "lisans": "CC BY-SA 3.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:RIAN_archive_429_Fresh_forces_going_to_the_front.jpg",
         "aciklama": "“Fresh forces going to the front”. Fresh forces going to the front from Moscow.",
         "konu": "Tayfun Harekâtı"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1950-charles-m-schulzun-cizdigi-snoopy-isimli-kopegin",
@@ -414,12 +434,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Charles_Schulz_NYWTS.jpg/960px-Charles_Schulz_NYWTS.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Charles_Schulz_NYWTS.jpg/500px-Charles_Schulz_NYWTS.jpg",
         "genislik": 960,
         "yukseklik": 632,
+        "orijinalGenislik": 2913,
         "yazar": "Roger Higgins, World Telegram staff photographer",
         "lisans": "Public domain",
         "lisansUrl": null,
@@ -433,6 +453,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Charles_Schulz_NYWTS.jpg/500px-Charles_Schulz_NYWTS.jpg",
           "genislik": 960,
           "yukseklik": 632,
+          "orijinalGenislik": 2913,
           "yazar": "Roger Higgins, World Telegram staff photographer",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -445,6 +466,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Graffiti_Snoopy_DSCN3128.jpg/500px-Graffiti_Snoopy_DSCN3128.jpg",
           "genislik": 960,
           "yukseklik": 1280,
+          "orijinalGenislik": 3456,
           "yazar": "Manuel C.",
           "lisans": "CC BY-SA 4.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -452,7 +474,8 @@
           "aciklama": "Grafit d'Snoopy ubicat a Sant Adrià de Besòs",
           "konu": "Snoopy"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1953-bati-almanya-natoya-kabul-edildi",
@@ -465,8 +488,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1957-odtunun-temeli-atildi",
@@ -478,8 +501,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1958-fransiz-kolonisi-gine-bagimsizligini-ilan-etti",
@@ -491,8 +514,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1966-vicente-calderon-stadyumu-acildi",
@@ -504,19 +527,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Aprobado_el_nuevo_%C3%A1mbito_Mahou-Calder%C3%B3n_%2801%29.jpg/960px-Aprobado_el_nuevo_%C3%A1mbito_Mahou-Calder%C3%B3n_%2801%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Aprobado_el_nuevo_%C3%A1mbito_Mahou-Calder%C3%B3n_%2801%29.jpg/500px-Aprobado_el_nuevo_%C3%A1mbito_Mahou-Calder%C3%B3n_%2801%29.jpg",
         "genislik": 960,
         "yukseklik": 638,
+        "orijinalGenislik": 3008,
         "yazar": "Diario de Madrid",
         "lisans": "CC BY 4.0",
         "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Aprobado_el_nuevo_%C3%A1mbito_Mahou-Calder%C3%B3n_(01).jpg",
         "aciklama": "Vista del estadio Vicente Calderón en fecha indeterminada. Se aprecian la M-30 y la fábrica de Mahou",
         "konu": "Vicente Calderón Stadyumu"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1968-meksikada-universite-isgali-meksika-guvenlik-guclerinin-mudahalesi",
@@ -528,8 +552,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1969-yargitay-6-ogrenci-orgutunu-siyasetle-ugrastiklari-gerekcesiyle",
@@ -541,19 +565,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Court_of_Cassation_in_Ankara.jpg/960px-Court_of_Cassation_in_Ankara.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Court_of_Cassation_in_Ankara.jpg/500px-Court_of_Cassation_in_Ankara.jpg",
         "genislik": 960,
         "yukseklik": 540,
+        "orijinalGenislik": 4032,
         "yazar": "Metuboy",
         "lisans": "CC BY-SA 4.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Court_of_Cassation_in_Ankara.jpg",
         "aciklama": "Court of Cassation in Ankara",
         "konu": "Yargıtay (Türkiye)"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1970-ankarada-merkezi-antlasma-orgutu-cento-binasina-bomba",
@@ -567,19 +592,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
         "genislik": 960,
         "yukseklik": 540,
+        "orijinalGenislik": 7735,
         "yazar": "A.Savin",
         "lisans": "FAL",
         "lisansUrl": "http://artlibre.org/licence/lal/en",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
         "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
         "konu": "Ankara"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1974-eski-milli-birlik-komitesi-uyesi-general-cemal",
@@ -592,8 +618,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1975-abd-turkiyeye-konulan-silah-ambargosunu-kismen-kaldirdi",
@@ -606,8 +632,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1978-milliyetci-hareket-partisi-sikiyonetim-ilan-edilmesini-istedi",
@@ -619,8 +645,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1979-10-temmuz-1977de-kahvehane-basip-2-kisiyi",
@@ -632,8 +658,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1980-devrimci-isci-sendikalari-konfederasyonu-disk-avukatlarindan-ahmet",
@@ -647,8 +673,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1980-devlet-baskani-orgeneral-kenan-evren-vanda-halka",
@@ -660,8 +686,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1984-12-eylul-darbesi-sonrasi-ilk-grev-tuzlada",
@@ -674,19 +700,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Tuzla_Sahil.jpg/960px-Tuzla_Sahil.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Tuzla_Sahil.jpg/500px-Tuzla_Sahil.jpg",
         "genislik": 960,
         "yukseklik": 540,
+        "orijinalGenislik": 1440,
         "yazar": "Tuzla Belediyesi",
         "lisans": "CC BY-SA 4.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Tuzla_Sahil.jpg",
         "aciklama": "An aerial view of the Tuzla district in the Asian side of Istanbul, on the Marmara Sea coast.",
         "konu": "Tuzla, İstanbul"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1989-trt-3-ve-gap-tv-resmen-yayina",
@@ -699,8 +726,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1990-cin-hava-yollarina-ait-bir-boeing-737",
@@ -714,12 +741,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg/960px-01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg/500px-01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg",
         "genislik": 960,
         "yukseklik": 540,
+        "orijinalGenislik": 2048,
         "yazar": "Nathan Coats from Seattle, WA, United States of America",
         "lisans": "CC BY-SA 2.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -733,6 +760,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg/500px-01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg",
           "genislik": 960,
           "yukseklik": 540,
+          "orijinalGenislik": 2048,
           "yazar": "Nathan Coats from Seattle, WA, United States of America",
           "lisans": "CC BY-SA 2.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -745,6 +773,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Canton_Tower_20220626_%28cropped%29.jpg/500px-Canton_Tower_20220626_%28cropped%29.jpg",
           "genislik": 960,
           "yukseklik": 640,
+          "orijinalGenislik": 2709,
           "yazar": "Tim Wu",
           "lisans": "CC BY-SA 4.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -752,7 +781,8 @@
           "aciklama": "Aerial photograph of Guangzhou Tower",
           "konu": "Guangzhou"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1992-ege-denizindeki-tatbikatlar-sirasinda-abdye-ait-ucak",
@@ -766,19 +796,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/USS_Gwin_%28DM-33%29_at_anchor_c1956.jpg/960px-USS_Gwin_%28DM-33%29_at_anchor_c1956.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/USS_Gwin_%28DM-33%29_at_anchor_c1956.jpg/500px-USS_Gwin_%28DM-33%29_at_anchor_c1956.jpg",
         "genislik": 960,
         "yukseklik": 390,
+        "orijinalGenislik": 1050,
         "yazar": "USN",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:USS_Gwin_(DM-33)_at_anchor_c1956.jpg",
         "aciklama": "The U.S. Navy light minelayer USS Gwin (DM-33) at anchor, circa 1956. Gwin was the last of the Robert H. Smith-class destroyers to be decommissioned on 3 April 1958. The Robert H. Smith-class destroye",
         "konu": "Muavenet Muhribi"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1996-peru-hava-yollarina-ait-bir-boeing-757",
@@ -793,12 +824,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Atlasjet_B757-200_TC-OGH.jpg/960px-Atlasjet_B757-200_TC-OGH.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Atlasjet_B757-200_TC-OGH.jpg/500px-Atlasjet_B757-200_TC-OGH.jpg",
         "genislik": 960,
         "yukseklik": 560,
+        "orijinalGenislik": 2000,
         "yazar": "No machine-readable author provided. Arcturus~commonswiki assumed (based on copyright claims).",
         "lisans": "CC BY-SA 3.0",
         "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
@@ -812,6 +843,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Atlasjet_B757-200_TC-OGH.jpg/500px-Atlasjet_B757-200_TC-OGH.jpg",
           "genislik": 960,
           "yukseklik": 560,
+          "orijinalGenislik": 2000,
           "yazar": "No machine-readable author provided. Arcturus~commonswiki assumed (based on copyright claims).",
           "lisans": "CC BY-SA 3.0",
           "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
@@ -824,6 +856,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg/500px-Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg",
           "genislik": 960,
           "yukseklik": 648,
+          "orijinalGenislik": 3439,
           "yazar": "David Felipe Ruiz Hoyos",
           "lisans": "CC BY-SA 4.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -831,7 +864,8 @@
           "aciklama": "El 11 de marzo de 1540, cinco años después de fundada la ciudad de Lima, se inauguró la primera iglesia levantada por Francisco Pizarro. El 14 de mayo de 1541 fue elegida en Catedral por Pablo III y e",
           "konu": "Lima"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1997-ab-uyesi-ulkeler-amsterdam-antlasmasini-imzaladi",
@@ -844,19 +878,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/%D0%90%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D1%96%D1%80.jpg/960px-%D0%90%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D1%96%D1%80.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/%D0%90%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D1%96%D1%80.jpg/500px-%D0%90%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D1%96%D1%80.jpg",
         "genislik": 960,
         "yukseklik": 653,
+        "orijinalGenislik": 1728,
         "yazar": "Рома",
         "lisans": "CC BY-SA 3.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:%D0%90%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D1%96%D1%80.jpg",
         "aciklama": "Treaty of Amsterdam",
         "konu": "Amsterdam Antlaşması"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2001-11-eylul-saldirilarinin-da-etkisiyle-swissair-hisseleri",
@@ -869,12 +904,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/September_11_Photo_Montage.jpg/960px-September_11_Photo_Montage.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/September_11_Photo_Montage.jpg/500px-September_11_Photo_Montage.jpg",
         "genislik": 960,
         "yukseklik": 1654,
+        "orijinalGenislik": 1057,
         "yazar": "UpstateNYer",
         "lisans": "CC BY-SA 3.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -888,6 +923,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/September_11_Photo_Montage.jpg/500px-September_11_Photo_Montage.jpg",
           "genislik": 960,
           "yukseklik": 1654,
+          "orijinalGenislik": 1057,
           "yazar": "UpstateNYer",
           "lisans": "CC BY-SA 3.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -900,6 +936,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Swissair_Boeing_747-357_and_McDonnell_Douglas_MD-11_at_Dock_A_in_Zurich-Kloten_%28LBS_SR04-000901%29.tif/lossy-page1-960px-Swissair_Boeing_747-357_and_McDonnell_Douglas_MD-11_at_Dock_A_in_Zurich-Kloten_%28LBS_SR04-000901%29.tif.jpg",
           "genislik": 960,
           "yukseklik": 632,
+          "orijinalGenislik": 3508,
           "yazar": "Swissair",
           "lisans": "CC BY 4.0",
           "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
@@ -907,7 +944,8 @@
           "aciklama": "Four different Swissair jumbo Boeing 747-357 and McDonnell Douglas MD-11, HB-IWK \"Fribourg\" at Dock A in Zurich-Kloten",
           "konu": "Swissair"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "2006-mujdat-gezen-tiyatrosu-semra-sezer-tarafindan-acildi",
@@ -920,8 +958,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2022-endonezyada-bir-futbol-macinda-131-kisinin-olumu",
@@ -934,19 +972,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Kanjuruhan_memorial_sumberpucung.png/960px-Kanjuruhan_memorial_sumberpucung.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Kanjuruhan_memorial_sumberpucung.png/500px-Kanjuruhan_memorial_sumberpucung.png",
         "genislik": 960,
         "yukseklik": 540,
+        "orijinalGenislik": 1280,
         "yazar": "B48E Channel",
         "lisans": "CC BY 3.0",
         "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Kanjuruhan_memorial_sumberpucung.png",
         "aciklama": "Memorial night in Sumberpucung, Malang, East Java for the victims of Kanjuruhan Disaster. Screenshotted form a video recorded on Oct 3rd, 2022.",
         "konu": "Kanjuruhan Faciası"
-      }
+      },
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -1438,5 +1477,5 @@
     "url": "https://tr.wikipedia.org/wiki/2_Ekim",
     "revid": 37817062
   },
-  "guncelleme": "2026-09-27T09:16:59.625Z"
+  "guncelleme": "2026-09-27T09:48:17.943Z"
 }

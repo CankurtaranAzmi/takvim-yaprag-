@@ -3,8 +3,9 @@ import Base from '../layouts/Base.astro';
 import { SITE } from '../site.config.mjs';
 ---
 <Base baslik="Hakkımızda" aciklama={`${SITE.ad} nedir, içerikler nasıl hazırlanır? Kaynaklarımız ve yayın ilkelerimiz.`} aktif="hakkimizda">
+  <header class="sayfa-baslik"><div class="kap"><h1>Hakkımızda</h1></div></header>
+  <div class="kap kap--dar">
   <article class="metin-sayfa">
-    <h1>Hakkımızda</h1>
     <p>{SITE.ad}, eski duvar takvimlerinin her sabah koparılan yapraklarından ilham alır. O yaprakların arkasında hep küçük bir not olurdu: "Bugün tarihte..." Biz bu notu dijitale taşıyoruz.</p>
     <p>Yılın 366 gününün her biri için ayrı bir sayfa hazırlıyoruz. Her sayfada o gün yaşanmış önemli olaylar, o gün doğan ve hayatını kaybeden kişiler ile o güne denk gelen anma ve kutlama günleri yer alıyor.</p>
 
@@ -18,4 +19,5 @@ import { SITE } from '../site.config.mjs';
     <h2>Hata mı buldunuz?</h2>
     <p>Tarih yazımı titizlik ister, yine de hata yapabiliriz. Yanlış bir tarih, isim veya bilgi fark ederseniz <a href="/iletisim/">iletişim sayfasından</a> bize bildirin; kontrol edip en kısa sürede düzeltiriz.</p>
   </article>
+  </div>
 </Base>

@@ -1,116 +1,170 @@
 ---
-// Bir günün tüm içeriği: yaprak, özel günler, olaylar, doğumlar, ölümler, gezinme.
+// Bir günün tüm içeriği: gün şeridi, manşet, istatistik bandı, olay kartları, yan sütun, gezinme.
 import { AYLAR, GUNLER_HAFTA, gunSlug, gunAdi, gunAdiDe, komsuGun, yilYaz, istanbulBugun } from '../lib/tarih.mjs';
 import { gunBul, oneCikan } from '../lib/veri.mjs';
+import { srcset, altMetin, kisaYazar } from '../lib/gorsel.mjs';
 import GunSec from './GunSec.astro';
 
-interface Props { g: any; baslikEtiketi?: 'h1' | 'h2'; bugunMu?: boolean }
+interface Props { g: any; bugunMu?: boolean }
 const { g, bugunMu = false } = Astro.props;
 
 const bugun = istanbulBugun();
 const buYil = bugun.yil;
 const haftaGunu = GUNLER_HAFTA[new Date(Date.UTC(buYil, g.ay - 1, g.gun)).getUTCDay()];
-const gecerliTarih = !(g.ay === 2 && g.gun === 29) || new Date(Date.UTC(buYil, 1, 29)).getUTCMonth() === 1;
 
 const onceki = komsuGun(g.ay, g.gun, -1);
 const sonraki = komsuGun(g.ay, g.gun, 1);
-const oncekiVar = !!gunBul(onceki.ay, onceki.gun);
-const sonrakiVar = !!gunBul(sonraki.ay, sonraki.gun);
+
+// Gün şeridi: seçili günün 7 gün öncesi ve sonrası
+const serit = [];
+for (let k = -7; k <= 7; k++) {
+  let d = { ay: g.ay, gun: g.gun };
+  for (let i = 0; i < Math.abs(k); i++) d = komsuGun(d.ay, d.gun, Math.sign(k));
+  serit.push({ ...d, var: !!gunBul(d.ay, d.gun), secili: k === 0 });
+}
 
 const yayinda = (o: any) => o.durum === 'yayinda' && o.ozet;
-const ilkCumle = (s: string) => (s.split(/\n\s*\n/)[0] ?? s).trim();
+const ilkParagraf = (s: string) => (s.split(/\n\s*\n/)[0] ?? s).trim();
 const vitrin = oneCikan(g);
-const liste = g.olaylar.filter((o: any) => o !== vitrin);
-const alt = (o: any) => o.gorsel.aciklama ?? o.gorsel.konu ?? '';
+const kartlar = [...g.olaylar.filter((o: any) => o !== vitrin)].reverse(); // yeniden eskiye
+const ayKisa = (ay: number) => AYLAR[ay - 1].slice(0, 3);
+const ILK = 10;
+const dikey = (o: any) => !!o?.gorsel && o.gorsel.yukseklik > o.gorsel.genislik * 0.95;
 ---
-<div class="yaprak" aria-hidden="true">
-  <div class="yaprak-ust">{bugunMu ? `${haftaGunu} · ${buYil}` : 'Tarihte bugün'}</div>
-  <div class="yaprak-gun">{g.gun}</div>
-  <div class="yaprak-ay">{AYLAR[g.ay - 1]}</div>
-  <div class="yaprak-alt">{g.olaylar.length} olay · {g.dogumlar.length} doğum · {g.olumler.length} ölüm</div>
-</div>
-
-<div class="giris">
-  <h1>{bugunMu ? `Bugün tarihte: ${gunAdi(g.ay, g.gun)}` : `${gunAdiDe(g.ay, g.gun)} tarihte ne oldu?`}</h1>
-  <p>
-    {gunAdi(g.ay, g.gun)} tarihinde dünyada ve Türkiye'de yaşanan önemli olaylar, bu günde doğan ve hayatını kaybeden ünlüler.
-    {gecerliTarih && !bugunMu && ` ${buYil} yılında ${haftaGunu.toLocaleLowerCase('tr')} gününe denk geliyor.`}
-  </p>
-</div>
-
-{g.ozelGunler.length > 0 && (
-  <ul class="etiketler" aria-label="Özel günler">
-    {g.ozelGunler.map((o: string) => <li class="etiket">{o}</li>)}
-  </ul>
-)}
-
-{vitrin && (
-  <article class:list={['vitrin', { 'vitrin--dikey': vitrin.gorsel.yukseklik > vitrin.gorsel.genislik * 0.9 }]}>
-    <figure class="vitrin-gorsel">
-      <img src={vitrin.gorsel.url} alt={alt(vitrin)} width={vitrin.gorsel.genislik} height={vitrin.gorsel.yukseklik} fetchpriority="high" decoding="async" />
-    </figure>
-    <div class="vitrin-metin">
-      <span class="vitrin-ust"><strong>{yilYaz(vitrin.yil)}</strong>{vitrin.yil > 0 && ` · ${buYil - vitrin.yil} yıl önce`}</span>
-      {yayinda(vitrin)
-        ? <h2><a href={`/olay/${vitrin.id}/`}>{vitrin.baslik}</a></h2>
-        : <h2>{vitrin.metin}</h2>}
-      {yayinda(vitrin) && <p>{ilkCumle(vitrin.ozet)}</p>}
-      <p class="gorsel-kredi">Görsel: <a href={vitrin.gorsel.kaynak} rel="noopener">{vitrin.gorsel.yazar}</a> · {vitrin.gorsel.lisans} · Wikimedia Commons</p>
-    </div>
-  </article>
-)}
-
-<section class="bolum" aria-labelledby="olaylar">
-  <div class="bolum-baslik"><h2 id="olaylar">Olaylar</h2><span>{g.olaylar.length} kayıt</span></div>
-  <ol class="olaylar">
-    {liste.map((o: any) => (
-      <li class:list={['olay', { 'olay--gorselli': o.gorsel }]}>
-        <div class:list={['olay-yil', { 'olay-yil--mo': o.yil < 0 }]}>{yilYaz(o.yil)}{o.yil > 0 && <small>{buYil - o.yil} yıl önce</small>}</div>
-        <div class="olay-metin">
-          {yayinda(o) && o.kategori && <span class="olay-kat">{o.kategori}</span>}
-          <p>{yayinda(o) ? ilkCumle(o.ozet) : o.metin}</p>
-          {yayinda(o) && <a class="devam" href={`/olay/${o.id}/`}>Devamını oku →</a>}
-        </div>
-        {o.gorsel && (
-          <a class="olay-gorsel" href={yayinda(o) ? `/olay/${o.id}/` : o.gorsel.kaynak} rel={yayinda(o) ? undefined : 'noopener'} title={`Görsel: ${o.gorsel.yazar} · ${o.gorsel.lisans}`}>
-            <img src={o.gorsel.kucukUrl} alt={alt(o)} width="96" height="96" loading="lazy" decoding="async" />
-          </a>
-        )}
+<nav class="serit" aria-label="Günler">
+  <ol>
+    {serit.map((d) => (
+      <li>
+        {d.var
+          ? <a href={`/${gunSlug(d.ay, d.gun)}/`} aria-current={d.secili ? 'page' : undefined}><b>{d.gun}</b><small>{ayKisa(d.ay)}</small></a>
+          : <a aria-disabled="true" style="opacity:.35;pointer-events:none"><b>{d.gun}</b><small>{ayKisa(d.ay)}</small></a>}
       </li>
     ))}
   </ol>
-</section>
-
-{g.dogumlar.length > 0 && (
-  <details class="bolum kisa">
-    <summary><div class="bolum-baslik"><h2>Doğumlar</h2><span>{g.dogumlar.length} kişi</span></div></summary>
-    <ol class="olaylar">
-      {g.dogumlar.map((o: any) => (
-        <li class="olay"><div class:list={['olay-yil', { 'olay-yil--mo': o.yil < 0 }]}>{yilYaz(o.yil)}</div><div class="olay-metin"><p>{o.metin}</p></div></li>
-      ))}
-    </ol>
-  </details>
-)}
-
-{g.olumler.length > 0 && (
-  <details class="bolum kisa">
-    <summary><div class="bolum-baslik"><h2>Ölümler</h2><span>{g.olumler.length} kişi</span></div></summary>
-    <ol class="olaylar">
-      {g.olumler.map((o: any) => (
-        <li class="olay"><div class:list={['olay-yil', { 'olay-yil--mo': o.yil < 0 }]}>{yilYaz(o.yil)}</div><div class="olay-metin"><p>{o.metin}</p></div></li>
-      ))}
-    </ol>
-  </details>
-)}
-
-<nav class="gezinme" aria-label="Günler arası gezinme">
-  {oncekiVar ? <a href={`/${gunSlug(onceki.ay, onceki.gun)}/`}><span>← Önceki gün</span><strong>{gunAdi(onceki.ay, onceki.gun)}</strong></a> : <span />}
-  {sonrakiVar ? <a href={`/${gunSlug(sonraki.ay, sonraki.gun)}/`}><span>Sonraki gün →</span><strong>{gunAdi(sonraki.ay, sonraki.gun)}</strong></a> : <span />}
 </nav>
 
-<p class="kaynak-kutu">
-  Kaynak: <a href={g.kaynak.url} rel="noopener">Vikipedi – {gunAdi(g.ay, g.gun)}</a> (CC BY-SA 4.0).
-  Son güncelleme: {new Date(g.guncelleme).toLocaleDateString('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' })}.
-</p>
+<section class:list={['manset', { 'manset--gorselsiz': !vitrin, 'manset--dikey': dikey(vitrin) }]}>
+  {vitrin && (
+    <figure class="manset-gorsel" style={`--arka:url('${vitrin.gorsel.kucukUrl}')`}>
+      <img src={vitrin.gorsel.url} srcset={srcset(vitrin.gorsel)} sizes="100vw" alt={altMetin(vitrin.gorsel)} fetchpriority="high" decoding="async" />
+    </figure>
+  )}
+  <div class="kap">
+    <div class="manset-panel">
+      <div class="manset-ust">
+        <div class="rozet" aria-hidden="true"><div class="rozet-ay">{ayKisa(g.ay)}</div><div class="rozet-gun">{g.gun}</div></div>
+        <h1>{bugunMu ? `Bugün tarihte · ${gunAdi(g.ay, g.gun)} ${haftaGunu}` : `${gunAdiDe(g.ay, g.gun)} tarihte ne oldu?`}</h1>
+      </div>
+      {vitrin ? (
+        <>
+          <div class="manset-yil">{yilYaz(vitrin.yil)}{vitrin.yil > 0 && <small>{buYil - vitrin.yil} yıl önce</small>}</div>
+          {yayinda(vitrin)
+            ? <h2><a href={`/olay/${vitrin.id}/`}>{vitrin.baslik}</a></h2>
+            : <h2>{vitrin.metin}</h2>}
+          {yayinda(vitrin) && <p>{ilkParagraf(vitrin.ozet)}</p>}
+          <div class="manset-alt">
+            {yayinda(vitrin) && <a class="dugme" href={`/olay/${vitrin.id}/`}><span>Devamını oku →</span></a>}
+            <span class="manset-kredi">Görsel: <a href={vitrin.gorsel.kaynak} rel="noopener">{kisaYazar(vitrin.gorsel)}</a> · {vitrin.gorsel.lisans} · Wikimedia Commons</span>
+          </div>
+        </>
+      ) : (
+        <h2>{g.olaylar.length} olay, {g.dogumlar.length} doğum, {g.olumler.length} ölüm</h2>
+      )}
+    </div>
+  </div>
+</section>
 
-<GunSec />
+<div class="bant">
+  <div class="kap">
+    <ul class="sayilar">
+      <li><b>{g.olaylar.length}</b> olay</li>
+      <li><b>{g.dogumlar.length}</b> doğum</li>
+      <li><b>{g.olumler.length}</b> ölüm</li>
+    </ul>
+    {g.ozelGunler.length > 0 && (
+      <ul class="etiketler" aria-label="Özel günler">
+        {g.ozelGunler.map((o: string) => <li class="etiket">{o}</li>)}
+      </ul>
+    )}
+  </div>
+</div>
+
+<div class="kap duzen">
+  <div>
+    <section aria-labelledby="olaylar">
+      <div class="bolum-baslik"><h2 id="olaylar">Olaylar</h2><span>Yeniden eskiye</span></div>
+      <ol class="kartlar">
+        {kartlar.map((o: any) => {
+          const link = yayinda(o) ? `/olay/${o.id}/` : null;
+          const Kap = link ? 'a' : 'div';
+          return (
+            <li class="kart">
+              <Kap class:list={['kart-gorsel', { 'kart-gorsel--bos': !o.gorsel }]} href={link ?? undefined} tabindex={link ? -1 : undefined} aria-hidden={link ? 'true' : undefined}>
+                {o.gorsel
+                  ? <img src={o.gorsel.kucukUrl} alt={altMetin(o.gorsel)} width="500" height="313" loading="lazy" decoding="async" />
+                  : <b aria-hidden="true">{yilYaz(o.yil)}</b>}
+                <span class="kart-yil"><span>{yilYaz(o.yil)}</span></span>
+              </Kap>
+              <div class="kart-govde">
+                <div class="kart-ust">
+                  <span class="kat">{yayinda(o) && o.kategori ? o.kategori : 'Olay'}</span>
+                  {o.yil > 0 && <span>{buYil - o.yil} yıl önce</span>}
+                </div>
+                {yayinda(o)
+                  ? <><h3><a href={link}>{o.baslik}</a></h3><p>{ilkParagraf(o.ozet).slice(0, 160)}…</p><a class="kart-devam" href={link}>Devamını oku →</a></>
+                  : <p>{o.metin}</p>}
+                {o.gorsel && !yayinda(o) && <span class="kart-ust" style="margin:10px 0 0;font-weight:500;text-transform:none;letter-spacing:0">Görsel: {kisaYazar(o.gorsel, 36)} · {o.gorsel.lisans}</span>}
+              </div>
+            </li>
+          );
+        })}
+      </ol>
+    </section>
+
+    <nav class="gezinme" aria-label="Günler arası gezinme">
+      <a href={`/${gunSlug(onceki.ay, onceki.gun)}/`}><span>← Önceki gün</span><strong>{gunAdi(onceki.ay, onceki.gun)}</strong></a>
+      <a href={`/${gunSlug(sonraki.ay, sonraki.gun)}/`}><span>Sonraki gün →</span><strong>{gunAdi(sonraki.ay, sonraki.gun)}</strong></a>
+    </nav>
+
+    <p class="kaynak-kutu">
+      Kaynak: <a href={g.kaynak.url} rel="noopener">Vikipedi – {gunAdi(g.ay, g.gun)}</a> (CC BY-SA 4.0).
+      Son güncelleme: {new Date(g.guncelleme).toLocaleDateString('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' })}.
+    </p>
+  </div>
+
+  <aside class="yan">
+    {g.dogumlar.length > 0 && (
+      <section class="kutu">
+        <h2>Bu gün doğanlar</h2>
+        <ol class="kisiler">
+          {[...g.dogumlar].reverse().slice(0, ILK).map((o: any) => <li><b>{yilYaz(o.yil)}</b><span>{o.metin}</span></li>)}
+        </ol>
+        {g.dogumlar.length > ILK && (
+          <details>
+            <summary>Tümünü göster ({g.dogumlar.length})</summary>
+            <ol class="kisiler">
+              {[...g.dogumlar].reverse().slice(ILK).map((o: any) => <li><b>{yilYaz(o.yil)}</b><span>{o.metin}</span></li>)}
+            </ol>
+          </details>
+        )}
+      </section>
+    )}
+    {g.olumler.length > 0 && (
+      <section class="kutu">
+        <h2>Bu gün ölenler</h2>
+        <ol class="kisiler">
+          {[...g.olumler].reverse().slice(0, ILK).map((o: any) => <li><b>{yilYaz(o.yil)}</b><span>{o.metin}</span></li>)}
+        </ol>
+        {g.olumler.length > ILK && (
+          <details>
+            <summary>Tümünü göster ({g.olumler.length})</summary>
+            <ol class="kisiler">
+              {[...g.olumler].reverse().slice(ILK).map((o: any) => <li><b>{yilYaz(o.yil)}</b><span>{o.metin}</span></li>)}
+            </ol>
+          </details>
+        )}
+      </section>
+    )}
+    <GunSec />
+  </aside>
+</div>

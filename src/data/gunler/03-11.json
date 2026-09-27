@@ -1,0 +1,1854 @@
+{
+  "ay": 3,
+  "gun": 11,
+  "olaylar": [
+    {
+      "id": "1702-ingilterenin-gunluk-olarak-yayimlanan-ilk-ulusal-gazetesi",
+      "yil": 1702,
+      "metin": "İngiltere'nin günlük olarak yayımlanan ilk ulusal gazetesi, Daily Courant çıkmaya başladı.",
+      "konular": [
+        "İngiltere",
+        "Daily Courant"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Daily_Courant.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Daily_Courant.png",
+        "genislik": 416,
+        "yukseklik": 640,
+        "orijinalGenislik": 416,
+        "yazar": "Edward Mallet from rooms above the White Hart pub in Fleet Street",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:The_Daily_Courant.png",
+        "aciklama": "The Daily Courant was the first daily newspaper to be published in the United Kingdom. It was established in 1702, but is no longer in existence.",
+        "konu": "Daily Courant"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1851-giuseppe-verdinin-rigoletto-operasi-ilk-kez-venedikte",
+      "yil": 1851,
+      "metin": "Giuseppe Verdi'nin Rigoletto operası, ilk kez Venedik'te sahnelendi.",
+      "konular": [
+        "Giuseppe Verdi",
+        "Rigoletto",
+        "Venedik"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Giuseppe_Verdi_by_Giovanni_Boldini.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Giuseppe_Verdi_by_Giovanni_Boldini.jpg",
+        "genislik": 900,
+        "yukseklik": 1234,
+        "orijinalGenislik": 900,
+        "yazar": "Giovanni Boldini",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Giuseppe_Verdi_by_Giovanni_Boldini.jpg",
+        "aciklama": "Portrait of Giuseppe Verdi in a Top Hat",
+        "konu": "Giuseppe Verdi"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Giuseppe_Verdi_by_Giovanni_Boldini.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Giuseppe_Verdi_by_Giovanni_Boldini.jpg",
+          "genislik": 900,
+          "yukseklik": 1234,
+          "orijinalGenislik": 900,
+          "yazar": "Giovanni Boldini",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Giuseppe_Verdi_by_Giovanni_Boldini.jpg",
+          "aciklama": "Portrait of Giuseppe Verdi in a Top Hat",
+          "konu": "Giuseppe Verdi"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Venezia_aerial_view.jpg/960px-Venezia_aerial_view.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Venezia_aerial_view.jpg/500px-Venezia_aerial_view.jpg",
+          "genislik": 960,
+          "yukseklik": 537,
+          "orijinalGenislik": 5666,
+          "yazar": "kallerna",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Venezia_aerial_view.jpg",
+          "aciklama": "Aerial view of Venice, railway station Santa Lucia and port, Canale della Giudecca, island Giudecca",
+          "konu": "Venedik"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1867-giuseppe-verdinin-don-carlos-operasi-ilk-kez",
+      "yil": 1867,
+      "metin": "Giuseppe Verdi'nin Don Carlos operası, ilk kez Paris'te Théâtre Impérial de l'Opérada sahnelendi.",
+      "konular": [
+        "Giuseppe Verdi",
+        "Don Carlos",
+        "Paris"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/960px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/500px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
+        "genislik": 960,
+        "yukseklik": 600,
+        "orijinalGenislik": 4592,
+        "yazar": "Yann Caradec from Paris, France",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
+        "aciklama": "La Tour Eiffel vue de la Tour Saint-Jacques, Paris.",
+        "konu": "Paris"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1902-ispanya-kral-kupasi-copa-del-rey-futbol",
+      "yil": 1902,
+      "metin": "İspanya Kral Kupası (Copa del Rey) futbol turnuvası oynanmaya başladı.",
+      "konular": [
+        "Copa del Rey"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1914-cemal-pasa-bahriye-nazirligina-getirildi",
+      "yil": 1914,
+      "metin": "Cemal Paşa, Bahriye Nazırlığına getirildi.",
+      "konular": [
+        "Cemal Paşa",
+        "Bahriye Nezâreti"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Cem%C3%A2l_Pa%C5%9Fa.jpg/960px-Cem%C3%A2l_Pa%C5%9Fa.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Cem%C3%A2l_Pa%C5%9Fa.jpg/500px-Cem%C3%A2l_Pa%C5%9Fa.jpg",
+        "genislik": 960,
+        "yukseklik": 1199,
+        "orijinalGenislik": 1372,
+        "yazar": "Template:Neifeless colorizations",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Cem%C3%A2l_Pa%C5%9Fa.jpg",
+        "aciklama": "Ahmed Cemâl Pasha.",
+        "konu": "Cemal Paşa"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Cem%C3%A2l_Pa%C5%9Fa.jpg/960px-Cem%C3%A2l_Pa%C5%9Fa.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Cem%C3%A2l_Pa%C5%9Fa.jpg/500px-Cem%C3%A2l_Pa%C5%9Fa.jpg",
+          "genislik": 960,
+          "yukseklik": 1199,
+          "orijinalGenislik": 1372,
+          "yazar": "Template:Neifeless colorizations",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Cem%C3%A2l_Pa%C5%9Fa.jpg",
+          "aciklama": "Ahmed Cemâl Pasha.",
+          "konu": "Cemal Paşa"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Abdullah_fr%C3%A8res_Ottoman_Dept_of_Navy_1880s.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Abdullah_fr%C3%A8res_Ottoman_Dept_of_Navy_1880s.jpg",
+          "genislik": 834,
+          "yukseklik": 647,
+          "orijinalGenislik": 834,
+          "yazar": "Abdullah frères",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Abdullah_fr%C3%A8res_Ottoman_Dept_of_Navy_1880s.jpg",
+          "aciklama": "Ottoman Department of the Navy Building in Kasımpaşa, İstanbul. Photo taken by Abdullah frères between 1880-1893",
+          "konu": "Bahriye Nezâreti"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1917-i-dunya-savasinda-ingilizler-bagdati-ele-gecirdiler",
+      "yil": 1917,
+      "metin": "I. Dünya Savaşı'nda İngilizler, Bağdat'ı ele geçirdiler.",
+      "konular": [
+        "I. Dünya Savaşı",
+        "Bağdat"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
+        "genislik": 960,
+        "yukseklik": 974,
+        "orijinalGenislik": 1300,
+        "yazar": "User:Hohum",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:WWImontage.jpg",
+        "aciklama": "Montage for WWI article. Top: Trenches - Image:The_badly_shelled_main_road_to_Bapaume.jpg (Trenches on the Western Front) Left Upper: Image:AlbatDIII.jpg (German Albatros D.III biplane fighters of Jas",
+        "konu": "I. Dünya Savaşı"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
+          "genislik": 960,
+          "yukseklik": 974,
+          "orijinalGenislik": 1300,
+          "yazar": "User:Hohum",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:WWImontage.jpg",
+          "aciklama": "Montage for WWI article. Top: Trenches - Image:The_badly_shelled_main_road_to_Bapaume.jpg (Trenches on the Western Front) Left Upper: Image:AlbatDIII.jpg (German Albatros D.III biplane fighters of Jas",
+          "konu": "I. Dünya Savaşı"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/5628442718_b10fc2c47f_o.jpg/960px-5628442718_b10fc2c47f_o.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/5628442718_b10fc2c47f_o.jpg/500px-5628442718_b10fc2c47f_o.jpg",
+          "genislik": 960,
+          "yukseklik": 630,
+          "orijinalGenislik": 2000,
+          "yazar": "USACE HQ , JIM GORDAN, CIV, USACE",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:5628442718_b10fc2c47f_o.jpg",
+          "aciklama": "This is an aerial view of the former Republican Palace (foreground), which served as both the prime ceremonial palace used by Saddam Hussein and the Headquarters for the now defunct Iraqi Republican G",
+          "konu": "Bağdat"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1918-bingolun-karliova-erzurumun-ilica-ve-rizenin-findikli",
+      "yil": 1918,
+      "metin": "Bingöl'ün Karlıova, Erzurum'un Ilıca ve Rize'nin Fındıklı ilçelerinden Rus İmparatorluğu ve Batı Ermenistan Yönetimi'nin Ordu birlikleri çekildi.",
+      "konular": [
+        "Bingöl",
+        "Karlıova",
+        "Erzurum",
+        "Aziziye",
+        "Rize"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Bingolcitycenter.jpg/960px-Bingolcitycenter.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Bingolcitycenter.jpg/500px-Bingolcitycenter.jpg",
+        "genislik": 960,
+        "yukseklik": 513,
+        "orijinalGenislik": 1924,
+        "yazar": "Bingolll",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bingolcitycenter.jpg",
+        "aciklama": "Bingöl şehir merkezinden bir görünüm",
+        "konu": "Bingöl"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Bingolcitycenter.jpg/960px-Bingolcitycenter.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Bingolcitycenter.jpg/500px-Bingolcitycenter.jpg",
+          "genislik": 960,
+          "yukseklik": 513,
+          "orijinalGenislik": 1924,
+          "yazar": "Bingolll",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Bingolcitycenter.jpg",
+          "aciklama": "Bingöl şehir merkezinden bir görünüm",
+          "konu": "Bingöl"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bing%C3%B6l_location_Karl%C4%B1ova.png",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bing%C3%B6l_location_Karl%C4%B1ova.png",
+          "genislik": 762,
+          "yukseklik": 800,
+          "orijinalGenislik": 762,
+          "yazar": "Batuhan duz",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Bing%C3%B6l_location_Karl%C4%B1ova.png",
+          "aciklama": "Karlıova ilçesinin konumu",
+          "konu": "Karlıova"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Erzurum_Citadel_-_Erzurum_Kalesi_01.jpg/960px-Erzurum_Citadel_-_Erzurum_Kalesi_01.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Erzurum_Citadel_-_Erzurum_Kalesi_01.jpg/500px-Erzurum_Citadel_-_Erzurum_Kalesi_01.jpg",
+          "genislik": 960,
+          "yukseklik": 497,
+          "orijinalGenislik": 3548,
+          "yazar": "Zeynel Cebeci",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Erzurum_Citadel_-_Erzurum_Kalesi_01.jpg",
+          "aciklama": "West side view of Erzurum Citadel in a rainy day. Erzurum, Turkey.",
+          "konu": "Erzurum"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1928-izmirde-bucaspor-kulubu-kuruldu",
+      "yil": 1928,
+      "metin": "İzmir'de Bucaspor kulübü kuruldu.",
+      "konular": [
+        "İzmir",
+        "Buca Geliştirmespor"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/960px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/500px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "orijinalGenislik": 3024,
+        "yazar": "BSRF",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0zmir_Clock_Tower,_December_2018.jpg",
+        "aciklama": "İzmir Clock Tower in Turkey.",
+        "konu": "İzmir"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/960px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/500px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
+          "genislik": 960,
+          "yukseklik": 1280,
+          "orijinalGenislik": 3024,
+          "yazar": "BSRF",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0zmir_Clock_Tower,_December_2018.jpg",
+          "aciklama": "İzmir Clock Tower in Turkey.",
+          "konu": "İzmir"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Bucastore.jpg/960px-Bucastore.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Bucastore.jpg/500px-Bucastore.jpg",
+          "genislik": 960,
+          "yukseklik": 1280,
+          "orijinalGenislik": 3000,
+          "yazar": "Lacin1912",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Bucastore.jpg",
+          "aciklama": "bucastore",
+          "konu": "Buca Geliştirmespor"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1938-avusturya-sansolyesi-kurt-schuschnigg-istifa-etti-yerine",
+      "yil": 1938,
+      "metin": "Avusturya Şansölyesi Kurt Schuschnigg, istifa etti; yerine Alman Birliklerini, Avusturya'ya girmek üzere davet eden Nazi yanlısı Arthur Seyss-Inquart geldi.",
+      "konular": [
+        "Avusturya",
+        "Kurt Schuschnigg",
+        "Almanya",
+        "Nasyonal sosyalizm",
+        "Arthur Seyss-Inquart"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/KurtVonSchuschnigg1936-3.jpg/960px-KurtVonSchuschnigg1936-3.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/KurtVonSchuschnigg1936-3.jpg/500px-KurtVonSchuschnigg1936-3.jpg",
+        "genislik": 960,
+        "yukseklik": 1188,
+        "orijinalGenislik": 2610,
+        "yazar": "KurtVonSchuschnigg1936.jpg: Not stated by seller, may be unknown derivative work: Mario Link2012-07-20 09:22 (UTC)",
+        "lisans": "Copyrighted free use",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:KurtVonSchuschnigg1936-3.jpg",
+        "aciklama": "Chancellor Schuschnigg at an Austrian Fatherland Front rally, probably the proclamation of Chancellor Schuschnigg as Front fuehrer on October 10th 1936.",
+        "konu": "Kurt Schuschnigg"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/KurtVonSchuschnigg1936-3.jpg/960px-KurtVonSchuschnigg1936-3.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/KurtVonSchuschnigg1936-3.jpg/500px-KurtVonSchuschnigg1936-3.jpg",
+          "genislik": 960,
+          "yukseklik": 1188,
+          "orijinalGenislik": 2610,
+          "yazar": "KurtVonSchuschnigg1936.jpg: Not stated by seller, may be unknown derivative work: Mario Link2012-07-20 09:22 (UTC)",
+          "lisans": "Copyrighted free use",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:KurtVonSchuschnigg1936-3.jpg",
+          "aciklama": "Chancellor Schuschnigg at an Austrian Fatherland Front rally, probably the proclamation of Chancellor Schuschnigg as Front fuehrer on October 10th 1936.",
+          "konu": "Kurt Schuschnigg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Arthur_Seyss-Inquart.jpg/960px-Arthur_Seyss-Inquart.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Arthur_Seyss-Inquart.jpg/500px-Arthur_Seyss-Inquart.jpg",
+          "genislik": 960,
+          "yukseklik": 1463,
+          "orijinalGenislik": 964,
+          "yazar": "Bilinmeyen yazar",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Arthur_Seyss-Inquart.jpg",
+          "aciklama": "Portret van Dr. Arthur Seyss-Inquart, Oostenrijker, door Hitler als Reichskommissar benoemd in Nederland. 1940-1945",
+          "konu": "Arthur Seyss-Inquart"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1941-lend-lease-yasasi-imzalandi",
+      "yil": 1941,
+      "metin": "Lend-Lease Yasası imzalandı.",
+      "konular": [
+        "Ödünç Verme ve Kiralama Kanunu"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Franklin_D._Roosevelt-1941.jpg/960px-President_Franklin_D._Roosevelt-1941.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Franklin_D._Roosevelt-1941.jpg/500px-President_Franklin_D._Roosevelt-1941.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 1024,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:President_Franklin_D._Roosevelt-1941.jpg",
+        "aciklama": "President Franklin D. Roosevelt, half-length portrait, seated at desk, looking down, signing H.R. 1776, the lend-lease bill to give aid to Great Britain, China and Greece.",
+        "konu": "Ödünç Verme ve Kiralama Kanunu"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1941-birlesik-krallikin-sofya-elcisi-rendella-istanbul-pera",
+      "yil": 1941,
+      "metin": "Birleşik Krallık'ın Sofya Elçisi Rendell'a, İstanbul Pera Palas Oteli'nde suikast girişiminde bulunuldu. Olayda dört kişi öldü, Rendell kurtuldu.",
+      "konular": [
+        "Birleşik Krallık",
+        "Sofya",
+        "İstanbul",
+        "Pera Palas"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg/960px-Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg/500px-Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg",
+        "genislik": 960,
+        "yukseklik": 766,
+        "orijinalGenislik": 3641,
+        "yazar": "Deensel",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg",
+        "aciklama": "central Sofia and the Vitosha Mountain, Bulgaria",
+        "konu": "Sofya"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg/960px-Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg/500px-Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg",
+          "genislik": 960,
+          "yukseklik": 766,
+          "orijinalGenislik": 3641,
+          "yazar": "Deensel",
+          "lisans": "CC BY 2.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg",
+          "aciklama": "central Sofia and the Vitosha Mountain, Bulgaria",
+          "konu": "Sofya"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
+          "genislik": 960,
+          "yukseklik": 494,
+          "orijinalGenislik": 2048,
+          "yazar": "Alexxx Malev",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
+          "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
+          "konu": "İstanbul"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Istanbul_asv2020-02_img39_Pera_Palace_Hotel.jpg/960px-Istanbul_asv2020-02_img39_Pera_Palace_Hotel.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Istanbul_asv2020-02_img39_Pera_Palace_Hotel.jpg/500px-Istanbul_asv2020-02_img39_Pera_Palace_Hotel.jpg",
+          "genislik": 960,
+          "yukseklik": 768,
+          "orijinalGenislik": 4956,
+          "yazar": "A.Savin",
+          "lisans": "FAL",
+          "lisansUrl": "http://artlibre.org/licence/lal/en",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Istanbul_asv2020-02_img39_Pera_Palace_Hotel.jpg",
+          "aciklama": "Pera Palace Hotel in Istanbul, Turkey",
+          "konu": "Pera Palas"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1947-turkiye-dunya-bankasi-ve-uluslararasi-para-fonuna",
+      "yil": 1947,
+      "metin": "Türkiye, Dünya Bankası ve Uluslararası Para Fonu'na (IMF) katıldı.",
+      "konular": [
+        "Türkiye",
+        "Dünya Bankası",
+        "Uluslararası Para Fonu"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/The_World_Bank_Group_%2853844804648%29.jpg/960px-The_World_Bank_Group_%2853844804648%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/The_World_Bank_Group_%2853844804648%29.jpg/500px-The_World_Bank_Group_%2853844804648%29.jpg",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 3427,
+        "yazar": "ajay_suresh",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:The_World_Bank_Group_(53844804648).jpg",
+        "aciklama": "Washington, DC",
+        "konu": "Dünya Bankası"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1949-israil-ve-urdun-rodosta-ateskes-antlasmasi-imzaladi",
+      "yil": 1949,
+      "metin": "İsrail ve Ürdün, Rodos'ta ateşkes antlaşması imzaladı.",
+      "konular": [
+        "İsrail",
+        "Ürdün",
+        "Rodos"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Aerial_view_of_Rhodes_Old_Town%2C_Greece_%2851698566526%29.jpg/960px-Aerial_view_of_Rhodes_Old_Town%2C_Greece_%2851698566526%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Aerial_view_of_Rhodes_Old_Town%2C_Greece_%2851698566526%29.jpg/500px-Aerial_view_of_Rhodes_Old_Town%2C_Greece_%2851698566526%29.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 5464,
+        "yazar": "dronepicr",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Rhodes_Old_Town,_Greece_(51698566526).jpg",
+        "aciklama": "Aerial view of Rhodes Old Town in Rhodos (city) on Rhodes island",
+        "konu": "Rodos"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1951-hindistan-yeni-delhide-duzenlenen-ilk-asya-oyunlari",
+      "yil": 1951,
+      "metin": "Hindistan Yeni Delhi'de düzenlenen ilk Asya Oyunları sona erdi.",
+      "konular": [
+        "Hindistan",
+        "Yeni Delhi",
+        "Asya Oyunları"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/960px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/500px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 5184,
+        "yazar": "Ronakshah1990",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Forecourt,_Rashtrapati_Bhavan_-_1.jpg",
+        "aciklama": "The Rashtrapati Bhavan, formerly called Viceroy's House, in Delhi.",
+        "konu": "Yeni Delhi"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1954-devlet-malzeme-ofisi-kuruldu",
+      "yil": 1954,
+      "metin": "Devlet Malzeme Ofisi kuruldu.",
+      "konular": [
+        "Devlet Malzeme Ofisi"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1958-turkiye-misir-suriye-ve-yemen-devletlerinin-olusturdugu",
+      "yil": 1958,
+      "metin": "Türkiye, \"Mısır, Suriye ve Yemen\" devletlerinin oluşturduğu Birleşik Arap Cumhuriyeti'ni tanıdı.",
+      "konular": [
+        "Mısır",
+        "Suriye",
+        "Yemen",
+        "Birleşik Arap Cumhuriyeti"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1959-4-eurovision-sarki-yarismasi-gerceklestirildi-hollanda-teddy",
+      "yil": 1959,
+      "metin": "4. Eurovision Şarkı Yarışması gerçekleştirildi. Hollanda, Teddy Scholten'ın seslendirdiği Een beetje şarkısı ile birinci oldu.",
+      "konular": [
+        "Eurovision Şarkı Yarışması",
+        "Hollanda",
+        "Teddy Scholten",
+        "'n Beetje"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Teddy_Scholten.jpg/960px-Teddy_Scholten.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Teddy_Scholten.jpg/500px-Teddy_Scholten.jpg",
+        "genislik": 960,
+        "yukseklik": 962,
+        "orijinalGenislik": 998,
+        "yazar": "TROS",
+        "lisans": "CC BY-SA 3.0 nl",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Teddy_Scholten.jpg",
+        "aciklama": "Teddy Scholten",
+        "konu": "Teddy Scholten"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Teddy_Scholten.jpg/960px-Teddy_Scholten.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Teddy_Scholten.jpg/500px-Teddy_Scholten.jpg",
+          "genislik": 960,
+          "yukseklik": 962,
+          "orijinalGenislik": 998,
+          "yazar": "TROS",
+          "lisans": "CC BY-SA 3.0 nl",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Teddy_Scholten.jpg",
+          "aciklama": "Teddy Scholten",
+          "konu": "Teddy Scholten"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Dam_tot_Dam_race%2C_Teddy_Scholten_in_aktie%2C_Bestanddeelnr_910-6304.jpg/960px-Dam_tot_Dam_race%2C_Teddy_Scholten_in_aktie%2C_Bestanddeelnr_910-6304.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Dam_tot_Dam_race%2C_Teddy_Scholten_in_aktie%2C_Bestanddeelnr_910-6304.jpg/500px-Dam_tot_Dam_race%2C_Teddy_Scholten_in_aktie%2C_Bestanddeelnr_910-6304.jpg",
+          "genislik": 960,
+          "yukseklik": 1358,
+          "orijinalGenislik": 2260,
+          "yazar": "Harry Pot / Anefo",
+          "lisans": "CC0",
+          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Dam_tot_Dam_race,_Teddy_Scholten_in_aktie,_Bestanddeelnr_910-6304.jpg",
+          "aciklama": "Collectie / Archief : Fotocollectie Anefo Reportage / Serie : [ onbekend ] Beschrijving : Dam tot Dam race , Teddy Scholten in aktie Datum : 27 augustus 1959 Locatie : Amsterdam, Noord-Holland Trefwoo",
+          "konu": "'n Beetje"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1970-saddam-huseyin-ve-mustafa-barzani-arasinda-yapilan",
+      "yil": 1970,
+      "metin": "Saddam Hüseyin ve Mustafa Barzani arasında yapılan anlaşma sonucunda, Irak Kürdistan Özerk Bölgesi kuruldu.",
+      "konular": [
+        "Saddam Hüseyin",
+        "Mustafa Barzani",
+        "Kürdistan Bölgesel Yönetimi"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Saddam_Hussein_in_1998.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Saddam_Hussein_in_1998.png",
+        "genislik": 900,
+        "yukseklik": 1188,
+        "orijinalGenislik": 900,
+        "yazar": "Iraqi News Agency",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Saddam_Hussein_in_1998.png",
+        "aciklama": "Iraqi President Saddam Hussein is about to deliver a speech on occasion of 10th anniversary of the end of Iran-Iraq War.",
+        "konu": "Saddam Hüseyin"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1976-eski-abd-baskani-richard-nixon-silideki-secimler",
+      "yil": 1976,
+      "metin": "Eski ABD Başkanı Richard Nixon, Şili'deki seçimler sırasında Salvador Allende'nin seçilmesini önlemek için CIA'ya emir verdiğini itiraf etti.",
+      "konular": [
+        "Amerika Birleşik Devletleri başkanları listesi",
+        "Richard Nixon",
+        "Şili",
+        "Salvador Allende",
+        "CIA"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/White_House_Washington.JPG/960px-White_House_Washington.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/White_House_Washington.JPG/500px-White_House_Washington.JPG",
+        "genislik": 960,
+        "yukseklik": 563,
+        "orijinalGenislik": 4163,
+        "yazar": "User:Cezary Piwowarczyk",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:White_House_Washington.JPG",
+        "aciklama": "The White House in Washington DC",
+        "konu": "Amerika Birleşik Devletleri başkanları listesi"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/White_House_Washington.JPG/960px-White_House_Washington.JPG",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/White_House_Washington.JPG/500px-White_House_Washington.JPG",
+          "genislik": 960,
+          "yukseklik": 563,
+          "orijinalGenislik": 4163,
+          "yazar": "User:Cezary Piwowarczyk",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:White_House_Washington.JPG",
+          "aciklama": "The White House in Washington DC",
+          "konu": "Amerika Birleşik Devletleri başkanları listesi"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/960px-Richard_Nixon_presidential_portrait_%281%29.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/500px-Richard_Nixon_presidential_portrait_%281%29.jpg",
+          "genislik": 960,
+          "yukseklik": 1280,
+          "orijinalGenislik": 2205,
+          "yazar": "Department of Defense. Department of the Army. Office of the Deputy Chief of Staff for Operations. U.S. Army Audiovisual Center. (ca. 1974 -",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Richard_Nixon_presidential_portrait_(1).jpg",
+          "aciklama": "Richard Nixon's presidential portrait. Retouch has not been completed yet.",
+          "konu": "Richard Nixon"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1980-turkiyede-12-eylul-1980-darbesine-giden-surec",
+      "yil": 1980,
+      "metin": "Türkiye'de 12 Eylül 1980 Darbesi'ne Giden Süreç (1979- 12 Eylül 1980): Yurt sathında 7'si kurşuna dizilerek olmak üzere toplam 13 kişi öldürüldü.",
+      "konular": [
+        "12 Eylül Darbesi'ne giden süreç"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1981-sili-cumhuriyetinin-baskanlik-sarayi-olan-ve-salvador",
+      "yil": 1981,
+      "metin": "Şili Cumhuriyeti'nin Başkanlık Saray'ı olan ve Salvador Allende'nin öldürüldüğü, Palacio de La Moneda olarak adlandırılan binanın restorasyonu tamamlandı.",
+      "konular": [
+        "Şili",
+        "Salvador Allende",
+        "Palacio de La Moneda"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Palacio_de_LaMoneda02.png/960px-Palacio_de_LaMoneda02.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Palacio_de_LaMoneda02.png/500px-Palacio_de_LaMoneda02.png",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 1600,
+        "yazar": "user:JorgeGG",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Palacio_de_LaMoneda02.png",
+        "aciklama": "Palacio de La Moneda (Santiago de Chile).",
+        "konu": "Palacio de La Moneda"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1981-kosova-protestolari-patlak-verdi",
+      "yil": 1981,
+      "metin": "Kosova protestoları patlak verdi.",
+      "konular": [
+        "1981 Kosova protestoları"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1985-konstantin-cernenkonun-olumunun-ardindan-mihail-gorbacov-sovyetler",
+      "yil": 1985,
+      "metin": "Konstantin Çernenko'nun ölümünün ardından Mihail Gorbaçov, Sovyetler Birliği Komünist Partisi Genel Sekreterliği'ne getirildi.",
+      "konular": [
+        "Konstantin Çernenko",
+        "Mihail Gorbaçov"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Konstantin_Ustinovi%C4%8D_%C4%8Cern%C4%9Bnko%2C_1973.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Konstantin_Ustinovi%C4%8D_%C4%8Cern%C4%9Bnko%2C_1973.jpg",
+        "genislik": 632,
+        "yukseklik": 745,
+        "orijinalGenislik": 632,
+        "yazar": "Communist Party of the Soviet Union",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Konstantin_Ustinovi%C4%8D_%C4%8Cern%C4%9Bnko,_1973.jpg",
+        "aciklama": "Konstantin Ustinovič Černěnko upravený výřez z fotografie na průkazu",
+        "konu": "Konstantin Çernenko"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Konstantin_Ustinovi%C4%8D_%C4%8Cern%C4%9Bnko%2C_1973.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Konstantin_Ustinovi%C4%8D_%C4%8Cern%C4%9Bnko%2C_1973.jpg",
+          "genislik": 632,
+          "yukseklik": 745,
+          "orijinalGenislik": 632,
+          "yazar": "Communist Party of the Soviet Union",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Konstantin_Ustinovi%C4%8D_%C4%8Cern%C4%9Bnko,_1973.jpg",
+          "aciklama": "Konstantin Ustinovič Černěnko upravený výřez z fotografie na průkazu",
+          "konu": "Konstantin Çernenko"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
+          "genislik": 480,
+          "yukseklik": 640,
+          "orijinalGenislik": 480,
+          "yazar": "RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev.jpg: Vladimir Vyatkin / Владимир Вяткин derivative work: Jbarta",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_(crop).jpg",
+          "aciklama": "“General Secretary of the CPSU CC M. Gorbachev”. General Secretary of the CPSU Central Committee Mikhail Gorbachev speaking at the 20th Congress of the VLKSM. Kremlin Palace of Congresses.",
+          "konu": "Mihail Gorbaçov"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1988-montajinin-tamami-turkiyede-yapilan-ilk-f-16-hava",
+      "yil": 1988,
+      "metin": "Montajının tamamı Türkiye'de yapılan ilk F-16, Hava Kuvvetleri Komutanlığı'na teslim edildi.",
+      "konular": [
+        "General Dynamics F-16 Fighting Falcon",
+        "Türk Hava Kuvvetleri"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/960px-F-16_June_2008.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/500px-F-16_June_2008.jpg",
+        "genislik": 960,
+        "yukseklik": 663,
+        "orijinalGenislik": 3842,
+        "yazar": "Master Sgt. Andy Dunaway",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:F-16_June_2008.jpg",
+        "aciklama": "A U.S. Air Force F-16 Fighting Falcon Block 40 aircraft after receiving fuel from a KC-135 Stratotanker aircraft during a mission over Iraq on 10 June 2008. This F-16 is assigned to the 34th EFS Balad",
+        "konu": "General Dynamics F-16 Fighting Falcon"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/960px-F-16_June_2008.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/500px-F-16_June_2008.jpg",
+          "genislik": 960,
+          "yukseklik": 663,
+          "orijinalGenislik": 3842,
+          "yazar": "Master Sgt. Andy Dunaway",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:F-16_June_2008.jpg",
+          "aciklama": "A U.S. Air Force F-16 Fighting Falcon Block 40 aircraft after receiving fuel from a KC-135 Stratotanker aircraft during a mission over Iraq on 10 June 2008. This F-16 is assigned to the 34th EFS Balad",
+          "konu": "General Dynamics F-16 Fighting Falcon"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Turkish_Air_Force_Document.jpg/960px-Turkish_Air_Force_Document.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Turkish_Air_Force_Document.jpg/500px-Turkish_Air_Force_Document.jpg",
+          "genislik": 960,
+          "yukseklik": 720,
+          "orijinalGenislik": 4032,
+          "yazar": "Aviation poseidon",
+          "lisans": "CC0",
+          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_Air_Force_Document.jpg",
+          "aciklama": "This is a Turkish Air Force document",
+          "konu": "Türk Hava Kuvvetleri"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1990-litvanya-sovyetler-birliginden-ayrilarak-bagimsizligini-ilan-etti",
+      "yil": 1990,
+      "metin": "Litvanya, Sovyetler Birliği'nden ayrılarak bağımsızlığını ilan etti.",
+      "konular": [
+        "Litvanya",
+        "Sovyetler Birliği"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1990-augusto-pinochetnin-sili-diktatorlugu-yikildi",
+      "yil": 1990,
+      "metin": "Augusto Pinochet'nin Şili diktatörlüğü yıkıldı.",
+      "konular": [
+        "Augusto Pinochet"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Augusto_Pinochet_foto_oficial_coloreada.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Augusto_Pinochet_foto_oficial_coloreada.jpg",
+        "genislik": 509,
+        "yukseklik": 708,
+        "orijinalGenislik": 509,
+        "yazar": "The author of the original file is: Ministerio de Relaciones Exteriores de ChileThe photo was colored by JanitoalevicThe original file was u",
+        "lisans": "CC BY 2.0 cl",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0/cl/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Augusto_Pinochet_foto_oficial_coloreada.jpg",
+        "aciklama": "Official portrait of Augusto Pinochet Ugarte (colored)",
+        "konu": "Augusto Pinochet"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1996-demokrasi-ve-baris-partisi-kuruldu",
+      "yil": 1996,
+      "metin": "Demokrasi ve Barış Partisi kuruldu.",
+      "konular": [
+        "Demokrasi ve Barış Partisi"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2003-uluslararasi-ceza-mahkemesi-gorevine-basladi",
+      "yil": 2003,
+      "metin": "Uluslararası Ceza Mahkemesi görevine başladı.",
+      "konular": [
+        "Uluslararası Ceza Mahkemesi"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2005-madrid-saldirisinda-olenlerin-anisina-olmuslerin-ormani-aniti",
+      "yil": 2005,
+      "metin": "Madrid saldırısında ölenlerin anısına, Ölmüşlerin Ormanı anıtı açıldı.",
+      "konular": [
+        "Ölmüşlerin Ormanı"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/20060320_-_Bosque_de_los_Ausentes_%28Madrid%29_08.jpg/960px-20060320_-_Bosque_de_los_Ausentes_%28Madrid%29_08.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/20060320_-_Bosque_de_los_Ausentes_%28Madrid%29_08.jpg/500px-20060320_-_Bosque_de_los_Ausentes_%28Madrid%29_08.jpg",
+        "genislik": 960,
+        "yukseklik": 629,
+        "orijinalGenislik": 2287,
+        "yazar": "Mr. Tickle",
+        "lisans": "CC BY 2.5",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.5",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:20060320_-_Bosque_de_los_Ausentes_(Madrid)_08.jpg",
+        "aciklama": "Bosque de los Ausentes (memorial for the victims of the 11-M terror blasts in Madrid), parque del Retiro, Madrid, Spain",
+        "konu": "Ölmüşlerin Ormanı"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2009-winnenden-okul-katliami-17-yasindaki-tim-krestchmer",
+      "yil": 2009,
+      "metin": "Winnenden okul katliamı: 17 Yaşındaki Tim Krestchmer okula girip kendisi dahil 16 kişiyi öldürdü ve birçok kişiyide yaraladı.",
+      "konular": [
+        "Winnenden okul katliamı"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Winnenden_2009_-Albertville-Realschule-_by-RaBoe_001.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Winnenden_2009_-Albertville-Realschule-_by-RaBoe_001.jpg",
+        "genislik": 600,
+        "yukseklik": 800,
+        "orijinalGenislik": 600,
+        "yazar": "Ra Boe",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Winnenden_2009_-Albertville-Realschule-_by-RaBoe_001.jpg",
+        "aciklama": "Bilder der Albertville-Realschule aus Winnenden",
+        "konu": "Winnenden okul katliamı"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2011-sendai-depremi-ve-tsunamisi-japonyada-yerel-saatle",
+      "yil": 2011,
+      "metin": "Sendai Depremi ve Tsunamisi: Japonya'da, yerel saatle 05.46'da 8.9 büyüklüğünde bir deprem meydana geldi. Japonya, kayıtlı tarihi boyunca yaşadığı en büyük deprem ve tsunami felaketiyle karşılaştı.",
+      "konular": [
+        "2011 Tōhoku depremi ve tsunamisi",
+        "Japonya",
+        "deprem",
+        "tsunami"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/SH-60B_helicopter_flies_over_Sendai.jpg/960px-SH-60B_helicopter_flies_over_Sendai.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/SH-60B_helicopter_flies_over_Sendai.jpg/500px-SH-60B_helicopter_flies_over_Sendai.jpg",
+        "genislik": 960,
+        "yukseklik": 641,
+        "orijinalGenislik": 2763,
+        "yazar": "U.S. Navy photo",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:SH-60B_helicopter_flies_over_Sendai.jpg",
+        "aciklama": "An SH-60F helicopter assigned to the Chargers of Helicopter Antisubmarine Squadron (HS) 14 from Naval Air Facility Atsugi flies over the port of Sendai to deliver more than 1,500 pounds of food to sur",
+        "konu": "2011 Tōhoku depremi ve tsunamisi"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/SH-60B_helicopter_flies_over_Sendai.jpg/960px-SH-60B_helicopter_flies_over_Sendai.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/SH-60B_helicopter_flies_over_Sendai.jpg/500px-SH-60B_helicopter_flies_over_Sendai.jpg",
+          "genislik": 960,
+          "yukseklik": 641,
+          "orijinalGenislik": 2763,
+          "yazar": "U.S. Navy photo",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:SH-60B_helicopter_flies_over_Sendai.jpg",
+          "aciklama": "An SH-60F helicopter assigned to the Chargers of Helicopter Antisubmarine Squadron (HS) 14 from Naval Air Facility Atsugi flies over the port of Sendai to deliver more than 1,500 pounds of food to sur",
+          "konu": "2011 Tōhoku depremi ve tsunamisi"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
+          "genislik": 800,
+          "yukseklik": 420,
+          "orijinalGenislik": 800,
+          "yazar": "NASA",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Quake_epicenters_1963-98_notitle.png",
+          "aciklama": "Quake epicenters: Preliminary Determination of Epicenters, 358,214 Events, 1963 - 1998",
+          "konu": "deprem"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/2004_Indian_Ocean_earthquake_Maldives_tsunami_wave.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/2004_Indian_Ocean_earthquake_Maldives_tsunami_wave.jpg",
+          "genislik": 400,
+          "yukseklik": 300,
+          "orijinalGenislik": 400,
+          "yazar": "Sofwathulla Mohamed",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:2004_Indian_Ocean_earthquake_Maldives_tsunami_wave.jpg",
+          "aciklama": "The tsunami that struck Malé in the Maldives on December 26, 2004 The photograph was taken by Sofwathulla Mohamed while standing on his doorstep. His apartment was entirely washed out damaging all his",
+          "konu": "tsunami"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2020-dunya-saglik-orgutu-covid-19-salginini-pandemi-ilan",
+      "yil": 2020,
+      "metin": "Dünya Sağlık Örgütü COVID-19 salgınını pandemi ilan etti. Aynı gün Sağlık Bakanı Fahrettin Koca, Türkiye'de ilk COVID-19 vakasının görüldüğünü açıkladı.",
+      "konular": [
+        "Dünya Sağlık Örgütü",
+        "COVID-19",
+        "pandemi",
+        "Sağlık Bakanlığı (Türkiye)",
+        "Fahrettin Koca"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg/960px-World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg/500px-World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg",
+        "genislik": 960,
+        "yukseklik": 659,
+        "orijinalGenislik": 2583,
+        "yazar": "Yann Forget",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:World_Health_Organisation_headquarters,_Geneva,_north_and_west_sides_2007.jpg",
+        "aciklama": "World Health Organisation headquarters, Geneva, north and west sides.",
+        "konu": "Dünya Sağlık Örgütü"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg/960px-World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg/500px-World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg",
+          "genislik": 960,
+          "yukseklik": 659,
+          "orijinalGenislik": 2583,
+          "yazar": "Yann Forget",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:World_Health_Organisation_headquarters,_Geneva,_north_and_west_sides_2007.jpg",
+          "aciklama": "World Health Organisation headquarters, Geneva, north and west sides.",
+          "konu": "Dünya Sağlık Örgütü"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1918FluVictimsStLouis.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1918FluVictimsStLouis.jpg",
+          "genislik": 900,
+          "yukseklik": 642,
+          "orijinalGenislik": 900,
+          "yazar": "Uncredited photographer for St. Louis Post Dispatch",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:1918FluVictimsStLouis.jpg",
+          "aciklama": "With masks over their faces, members of the American Red Cross remove a victim of the Spanish Flu from a house at Etzel and Page Avenues, St. Louis, Missouri.",
+          "konu": "pandemi"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Fahrettin_Koca_20200311_2.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Fahrettin_Koca_20200311_2.jpg",
+          "genislik": 495,
+          "yukseklik": 660,
+          "orijinalGenislik": 495,
+          "yazar": "YIldız Yazıcıoğlu",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Fahrettin_Koca_20200311_2.jpg",
+          "aciklama": "Fahrettin Koca",
+          "konu": "Fahrettin Koca"
+        }
+      ],
+      "durum": "bekliyor"
+    }
+  ],
+  "dogumlar": [
+    {
+      "yil": 1544,
+      "metin": "Torquato Tasso, İtalyan şair (ö. 1595)"
+    },
+    {
+      "yil": 1754,
+      "metin": "Juan Meléndez Valdés, İspanyol neoklasik şair (ö. 1817)"
+    },
+    {
+      "yil": 1811,
+      "metin": "Urbain Le Verrier, Fransız matematikçi (ö. 1877)"
+    },
+    {
+      "yil": 1818,
+      "metin": "Marius Petipa, Fransız balet, eğitimci ve koreograf (ö. 1910)"
+    },
+    {
+      "yil": 1838,
+      "metin": "Ōkuma Shigenobu, Japonya'nın sekizinci Başbakanı (ö. 1922)"
+    },
+    {
+      "yil": 1847,
+      "metin": "Sidney Sonnino, İtalya Başbakanı (ö. 1922)"
+    },
+    {
+      "yil": 1884,
+      "metin": "Ömer Seyfettin, Türk öykücü (ö. 1920)"
+    },
+    {
+      "yil": 1886,
+      "metin": "Kazım Orbay, Türk asker, Türk Kurtuluş Savaşı komutanlarından ve Genelkurmay Başkanlarından (ö. 1964)"
+    },
+    {
+      "yil": 1886,
+      "metin": "Edward Rydz-Śmigły, Polonya Silahlı Kuvvetleri Başkomutanı, siyasetçi, ressam ve şair (ö. 1941)"
+    },
+    {
+      "yil": 1887,
+      "metin": "Raoul Walsh, Amerikalı sinema yönetmeni (ö. 1980)"
+    },
+    {
+      "yil": 1890,
+      "metin": "Vannevar Bush, Amerikalı mühendis, mucit ve bilim yöneticisiydi (ö. 1974)"
+    },
+    {
+      "yil": 1891,
+      "metin": "Enis Behiç Koryürek, Türk şair (ö. 1949)"
+    },
+    {
+      "yil": 1891,
+      "metin": "Michael Polanyi, Macar felsefeci (ö. 1976)"
+    },
+    {
+      "yil": 1894,
+      "metin": "Otto Grotewohl, Alman siyasetçi (ö. 1964)"
+    },
+    {
+      "yil": 1898,
+      "metin": "Dorothy Gish, Amerikalı sinema ve tiyatro oyuncusu (ö. 1968)"
+    },
+    {
+      "yil": 1898,
+      "metin": "Yakup Satar, Türk asker (Türk Kurtuluş Savaşı ve I. Dünya Savaşı Irak Cephesi'nde savaşmış, kırmızı şeritli İstiklal Madalyası sahibi gazi) (ö. 2008)"
+    },
+    {
+      "yil": 1899,
+      "metin": "IX. Frederik, Danimarka Kralı (ö. 1972)"
+    },
+    {
+      "yil": 1903,
+      "metin": "Lawrence Welk, Amerikalı müzisyen ve Tv programcısı (ö. 1992)"
+    },
+    {
+      "yil": 1906,
+      "metin": "Hasan Ferit Alnar, Türk besteci ve orkestra şefi (ö. 1978)"
+    },
+    {
+      "yil": 1907,
+      "metin": "Helmuth James Graf von Moltke, Alman hukukçu (ö. 1945)"
+    },
+    {
+      "yil": 1908,
+      "metin": "Matti Sippala, Fin atlet (ö. 1997)"
+    },
+    {
+      "yil": 1910,
+      "metin": "Robert Havemann, Alman kimyacı (ö. 1982)"
+    },
+    {
+      "yil": 1916,
+      "metin": "Harold Wilson, İngiliz siyasetçi ve Başbakan (ö. 1995)"
+    },
+    {
+      "yil": 1920,
+      "metin": "Nicolaas Bloembergen, Amerikalı fizikçi ve Nobel Fizik Ödülü sahibi (ö. 2017)"
+    },
+    {
+      "yil": 1921,
+      "metin": "Astor Piazzolla, Arjantinli besteci ve bandoneon sanatçısı (ö. 1992)"
+    },
+    {
+      "yil": 1922,
+      "metin": "Cornelius Castoriadis, Yunan filozof (ö. 1997)"
+    },
+    {
+      "yil": 1925,
+      "metin": "Margaret Oakley Dayhoff, Amerikalı fiziksel kimyacı (ö. 1983)"
+    },
+    {
+      "yil": 1925,
+      "metin": "Güzin Özipek, Türk tiyatro sanatçısı (ö. 2000)"
+    },
+    {
+      "yil": 1925,
+      "metin": "İlhan Selçuk, Türk gazeteci ve yazar (ö. 2010)"
+    },
+    {
+      "yil": 1926,
+      "metin": "İlhan Mimaroğlu, Türk besteci ve yazar (ö. 2012)"
+    },
+    {
+      "yil": 1926,
+      "metin": "Ralph Abernathy, Amerikalı rahip ve Amerikan sivil haklar hareketi liderlerinden (ö. 1990)"
+    },
+    {
+      "yil": 1927,
+      "metin": "Metin Eloğlu, Türk şair (ö. 1985)"
+    },
+    {
+      "yil": 1927,
+      "metin": "Freda Meissner-Blau, Avusturyalı siyâsetçi (ö. 2015)"
+    },
+    {
+      "yil": 1928,
+      "metin": "Albert Salmi, Amerikalı tiyatro ve sinema oyuncusu (ö. 1990)"
+    },
+    {
+      "yil": 1930,
+      "metin": "Kemal Bayazıt, Türk hekim ve kalp cerrahı (ö. 2019)"
+    },
+    {
+      "yil": 1931,
+      "metin": "Ion Besoiu, Rumen aktör (ö. 2017)"
+    },
+    {
+      "yil": 1936,
+      "metin": "Harald zur Hausen, Alman virolog ve Nobel Fizyoloji veya Tıp Ödülü sahibi (ö. 2023)"
+    },
+    {
+      "yil": 1937,
+      "metin": "Aleksandra Zabelina, Sovyet eskrimci (ö. 2022)"
+    },
+    {
+      "yil": 1940,
+      "metin": "Alberto Cortez, Arjantinli şarkıcı ve söz yazarı (ö. 2019)"
+    },
+    {
+      "yil": 1947,
+      "metin": "Füsun Önal, Türk şarkıcı, yazar ve oyuncu"
+    },
+    {
+      "yil": 1949,
+      "metin": "Cezmi Baskın, Türk oyuncu ve yönetmen"
+    },
+    {
+      "yil": 1951,
+      "metin": "Dominique Sanda, Fransız oyuncu ve eski manken"
+    },
+    {
+      "yil": 1952,
+      "metin": "Douglas Adams, İngiliz yazar (ö. 2001)"
+    },
+    {
+      "yil": 1955,
+      "metin": "Frances Ginsberg, Amerikalı opera şarkıcısı (ö. 2010)"
+    },
+    {
+      "yil": 1957,
+      "metin": "Kasım Süleymani, İranlı asker (ö. 2020)"
+    },
+    {
+      "yil": 1958,
+      "metin": "Anissa Jones, Amerikalı çocuk oyuncudur (ö. 1976)"
+    },
+    {
+      "yil": 1959,
+      "metin": "Nina Hartley, Amerikalı pornografik film oyuncusu, pornografik film yönetmeni, feminist ve yazar"
+    },
+    {
+      "yil": 1961,
+      "metin": "Elias Koteas, Kanadalı sinema ve dizi oyuncusu"
+    },
+    {
+      "yil": 1961,
+      "metin": "Muhammed bin Zayid Âl-i Nehyan, Birleşik Arap Emirlikleri devlet başkanı ve Abu Dabi emiri"
+    },
+    {
+      "yil": 1963,
+      "metin": "Davis Guggenheim, Amerikalı yönetmen ve yapımcı"
+    },
+    {
+      "yil": 1963,
+      "metin": "Alex Kingston, İngiliz sinema ve dizi film oyuncusu"
+    },
+    {
+      "yil": 1963,
+      "metin": "Meral Konrat, Türk oyuncu, şarkıcı ve sunucu"
+    },
+    {
+      "yil": 1963,
+      "metin": "David LaChapelle, Amerikalı fotoğrafçı ve yönetmen"
+    },
+    {
+      "yil": 1963,
+      "metin": "Marcos Pontes, Brezilyalı ilk astronot"
+    },
+    {
+      "yil": 1964,
+      "metin": "Vinnie Paul, Amerikalı bir bateristtir (ö. 2018)"
+    },
+    {
+      "yil": 1967,
+      "metin": "John Barrowman, İskoçyalı oyuncu"
+    },
+    {
+      "yil": 1968,
+      "metin": "Lisa Loeb, Amerikalı söz yazarı ve aktris"
+    },
+    {
+      "yil": 1969,
+      "metin": "Terrence Howard, Amerikalı oyuncu"
+    },
+    {
+      "yil": 1971,
+      "metin": "Gülse Birsel, Türk gazeteci, oyuncu ve yazar"
+    },
+    {
+      "yil": 1971,
+      "metin": "Johnny Knoxville, Amerikalı aktör"
+    },
+    {
+      "yil": 1972,
+      "metin": "Emre Törün, Türk oyuncu ve seslendirme sanatçısı (ö. 2025)"
+    },
+    {
+      "yil": 1975,
+      "metin": "Buvaysar Saytiyev, Çeçen asıllı Rus güreşçi (ö. 2025)"
+    },
+    {
+      "yil": 1976,
+      "metin": "Thomas Gravesen, Danimarkalı eski millî futbolcu"
+    },
+    {
+      "yil": 1976,
+      "metin": "Mariana Díaz-Oliva, Arjantinli profesyonel tenis oyuncusu"
+    },
+    {
+      "yil": 1977,
+      "metin": "Becky Hammo, Amerikalı basketbol antrenörü ve eski basketbolcu"
+    },
+    {
+      "yil": 1978,
+      "metin": "Didier Drogba, Fildişili futbolcu"
+    },
+    {
+      "yil": 1978,
+      "metin": "Hayko Cepkin, Ermeni asıllı Türk besteci, şarkıcı ve piyanist"
+    },
+    {
+      "yil": 1978,
+      "metin": "Albert Luque, İspanyol millî futbolcu"
+    },
+    {
+      "yil": 1979,
+      "metin": "Elton Brand, Amerikalı basketbolcu"
+    },
+    {
+      "yil": 1979,
+      "metin": "Joel Madden, Amerikalı müzisyen"
+    },
+    {
+      "yil": 1980,
+      "metin": "Mark Rober, Amerikalı youtuber ve muhendis"
+    },
+    {
+      "yil": 1981,
+      "metin": "LeToya Luckett, Amerikalı R&B ve pop şarkıcısı, söz yazarı ve oyuncu"
+    },
+    {
+      "yil": 1983,
+      "metin": "Renato López, Meksikalı sunucu, aktör ve müzisyen (ö. 2016)"
+    },
+    {
+      "yil": 1985,
+      "metin": "Daniel Vázquez Evuy, Ekvator Gineli futbolcu"
+    },
+    {
+      "yil": 1985,
+      "metin": "Stelios Malezas, Yunan eski futbolcu"
+    },
+    {
+      "yil": 1988,
+      "metin": "Fábio Coentrão, Portekizli futbolcu"
+    },
+    {
+      "yil": 1989,
+      "metin": "Anton Yelchin, Rus asıllı Amerikalı oyuncu (ö. 2016)"
+    },
+    {
+      "yil": 1991,
+      "metin": "Cengiz Mustafayev, Azeri şarkıcı"
+    },
+    {
+      "yil": 1993,
+      "metin": "Jodie Comer, İngiliz oyuncu"
+    },
+    {
+      "yil": 1993,
+      "metin": "Anthony Davis, Amerikalı profesyonel basketbolcu"
+    },
+    {
+      "yil": 1994,
+      "metin": "Andrew Robertson, İskoç millî futbolcu"
+    },
+    {
+      "yil": 1995,
+      "metin": "Piakai Henkel, Amerikalı futbolcu"
+    }
+  ],
+  "olumler": [
+    {
+      "yil": 222,
+      "metin": "Elagabalus ya da Heliogabalus, 218 - 222 arası Roma İmparatoru (d. 203)"
+    },
+    {
+      "yil": 222,
+      "metin": "Julia Soaemias, Roma İmparatorluğu saltanat vekili (d. 180)"
+    },
+    {
+      "yil": 928,
+      "metin": "Tomislav, Hırvatistan'ın ilk kralı olmuştur"
+    },
+    {
+      "yil": 1514,
+      "metin": "Donato Bramante, (asıl adı: Donato di Pascuccio d'Antonio), İtalyan mimarı (d. 1444)"
+    },
+    {
+      "yil": 1570,
+      "metin": "Niccolò Franco, İtalyan yazar (d. 1515)"
+    },
+    {
+      "yil": 1646,
+      "metin": "Stanisław Koniecpolski, Polonyalı komutan (d. 1591)"
+    },
+    {
+      "yil": 1722,
+      "metin": "John Toland, İrlandalı akılcı filozof ve hicivciydi (d. 1670)"
+    },
+    {
+      "yil": 1803,
+      "metin": "Şah Sultan, III. Mustafa'nın kızı (d. 1761)"
+    },
+    {
+      "yil": 1846,
+      "metin": "Tekle, Gürcü kraliyet prensesi (batonishvili) ve şair (d. 1776)"
+    },
+    {
+      "yil": 1883,
+      "metin": "Aleksandr Gorçakov, Rus diplomat ve devlet adamı (d. 1798)"
+    },
+    {
+      "yil": 1898,
+      "metin": "Dikran Çuhacıyan, Ermeni asıllı Osmanlı besteci ve orkestra şefi (d. 1837)"
+    },
+    {
+      "yil": 1907,
+      "metin": "Jean Paul Pierre Casimir-Perier, Fransız siyasetçi ve iş insanı. Üçüncü Fransız Cumhuriyeti'nin altıncı devlet başkanıydı (d. 1847)"
+    },
+    {
+      "yil": 1908,
+      "metin": "Edmondo De Amicis, İtalyan yazar (d. 1846)"
+    },
+    {
+      "yil": 1914,
+      "metin": "Tayyareci Nuri Bey, Türk asker ve Osmanlı'nın ilk pilotlarından (d. 1891)"
+    },
+    {
+      "yil": 1931,
+      "metin": "F. W. Murnau, Alman sinema yönetmeni (d. 1888)"
+    },
+    {
+      "yil": 1935,
+      "metin": "Yusuf Akçura, Türk yazar ve siyasetçi (d. 1876)"
+    },
+    {
+      "yil": 1936,
+      "metin": "David Beatty, İngiliz Kraliyet Donanması amirali (d. 1871)"
+    },
+    {
+      "yil": 1945,
+      "metin": "Walter Hohmann, Alman fizikçi (d. 1880)"
+    },
+    {
+      "yil": 1947,
+      "metin": "Wilhelm Heye, Alman asker (d. 1869)"
+    },
+    {
+      "yil": 1949,
+      "metin": "Henri Giraud, Fransız general (d. 1879)"
+    },
+    {
+      "yil": 1950,
+      "metin": "Heinrich Mann, Alman yazar (d. 1871)"
+    },
+    {
+      "yil": 1955,
+      "metin": "Alexander Fleming, İskoç bilim insanı (d. 1881)"
+    },
+    {
+      "yil": 1957,
+      "metin": "Richard E. Byrd, Amerikalı amiral ve kâşif (d. 1888)"
+    },
+    {
+      "yil": 1958,
+      "metin": "Ole Kirk Christiansen, Lego şirketinin kurucusu (d. 1891)"
+    },
+    {
+      "yil": 1965,
+      "metin": "Malik Sayar, Türk jeolog ve akademisyen (d. 1892)"
+    },
+    {
+      "yil": 1967,
+      "metin": "Yusuf Ziya Ortaç, Türk gazeteci ve yazar (d. 1895)"
+    },
+    {
+      "yil": 1967,
+      "metin": "Geraldine Farrar, Amerikalı opera sanatçısı ve oyuncu (d. 1882)"
+    },
+    {
+      "yil": 1968,
+      "metin": "Haşim İşcan (Haşim Baba), Türk siyasetçi ve İstanbul Belediye Başkanı (d. 1898)"
+    },
+    {
+      "yil": 1969,
+      "metin": "Sadi Işılay, Türk besteci (d. 1899)"
+    },
+    {
+      "yil": 1970,
+      "metin": "Erle Stanley Gardner, Amerikalı dedektif öyküleri yazarı (d. 1889)"
+    },
+    {
+      "yil": 1971,
+      "metin": "Philo Farnsworth, Amerikalı mucit (d. 1906)"
+    },
+    {
+      "yil": 1976,
+      "metin": "Boris İofan, Sovyet mimar (d. 1891)"
+    },
+    {
+      "yil": 1978,
+      "metin": "Claude François, Fransız pop şarkıcısı ve söz yazarı (d. 1939)"
+    },
+    {
+      "yil": 1980,
+      "metin": "Zekeriya Sertel, Türk gazeteci ve yazar (d. 1890)"
+    },
+    {
+      "yil": 1983,
+      "metin": "Galip Balkar, Türk diplomat ve Belgrad Büyükelçisi (Belgrad Saldırısı kurbanı) (d. 1936)"
+    },
+    {
+      "yil": 1992,
+      "metin": "László Benedek, Macaristan doğumlu Amerikalı sinema yönetmeni (d. 1905)"
+    },
+    {
+      "yil": 1992,
+      "metin": "Richard Brooks, Amerikalı sinema yönetmeni (d. 1912)"
+    },
+    {
+      "yil": 1997,
+      "metin": "Lars Ahlin, İsveçli yazar (d. 1915)"
+    },
+    {
+      "yil": 1998,
+      "metin": "Ali Sururi, Türk tiyatro ve sinema oyuncusu (d. 1913)"
+    },
+    {
+      "yil": 1998,
+      "metin": "Manuel Piñeiro, Kübalı istihbaratçı ve politikacı (d. 1934)"
+    },
+    {
+      "yil": 2002,
+      "metin": "James Tobin, Amerikalı iktisatçı (d. 1918)"
+    },
+    {
+      "yil": 2002,
+      "metin": "Mustafa Karahasan, Türk yazar ve gazeteci (d. 1920)"
+    },
+    {
+      "yil": 2003,
+      "metin": "Hürrem Erman, Türk film yapımcısı (d. 1913)"
+    },
+    {
+      "yil": 2006,
+      "metin": "Slobodan Miloseviç, Yugoslav politikacı (d. 1941)"
+    },
+    {
+      "yil": 2010,
+      "metin": "Turhan Selçuk, Türk karikatürist (d. 1922)"
+    },
+    {
+      "yil": 2014,
+      "metin": "Berkin Elvan, Türk vatandaşı (d. 1999)"
+    },
+    {
+      "yil": 2015,
+      "metin": "Şadan Kalkavan, Türk armatör ve iş insanı (d. 1939)"
+    },
+    {
+      "yil": 2016,
+      "metin": "Iolanda Balaș, Rumen atlet, yüksek atlamacı (d. 1936)"
+    },
+    {
+      "yil": 2016,
+      "metin": "Keith Emerson, İngiliz klavyeci ve besteci (d. 1944)"
+    },
+    {
+      "yil": 2016,
+      "metin": "Doreen Massey, İngiliz coğrafyacı ve sosyal bilimler uzmanı (d. 1944)"
+    },
+    {
+      "yil": 2016,
+      "metin": "Louis Meyers, Amerikalı müzik organizatörü, yönetici ve iş insanı"
+    },
+    {
+      "yil": 2017,
+      "metin": "Kitty Courbois, Hollandalı bir aktrisir (d. 1937)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Muhammed Micarul Kayes, Bangladeşli bürokrat ve diplomat (d. 1960)"
+    },
+    {
+      "yil": 2017,
+      "metin": "András Kovács, Macar film yapımcısı, yönetmeni ve senaristtir (d. 1925)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Ángel Parra, Şilili şarkıcı ve söz yazarı (d. 1943)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Emre Saltık, Türk bağlama sanatçısı (d. 1960)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Ken Dodd, İngiliz komedyen, şarkıcı, söz yazarı ve oyuncu (d. 1927)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Siegfried Rauch, Alman sinema ve dizi oyuncusudur (d. 1932)"
+    },
+    {
+      "yil": 2019,
+      "metin": "Hal Blaine, Amerikalı rock and roll, pop-rock bateristi ve stüdyo müzisyeni (d. 1929)"
+    },
+    {
+      "yil": 2019,
+      "metin": "Martín Chirino, İspanyol heykeltıraş (d. 1925)"
+    },
+    {
+      "yil": 2019,
+      "metin": "Coutinho, Brezilyalı eski futbolcudur (d. 1943)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Didier Bezace, Fransız aktör (d. 1946)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Gerard du Prie, Hollandalı güreşçi, vücut geliştirme sporcusu ve halterci (d. 1937)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Burkhard Hirsch, Alman siyasetçi ve hukukçu (d. 1930)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Petar Fajfrić, Sırp hentbol antrenörü ve oyuncusu (d. 1942)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Florentín Giménez, Paraguaylı piyanist ve besteci (d. 1925)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Victor Lebedev, Sovyet-Rus besteci (d. 1935)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Isidore Mankofsky, Amerikalı görüntü yönetmeni (d. 1931)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Peter Patzak, Avusturyalı film yönetmeni ve senarist (d. 1945)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Rupiah Banda, 2008 - 2011 yılları arası Zambiyalı politikacı ve dördüncü Zambiya Cumhurbaşkanı (d. 1937)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Rüstem İbrahimbeyov, Azerbaycan ve Sovyet drama yazarı, senaryocusu ve film yönetmeni (d. 1939)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Yves Trudel, Kanadalı aktör, komedyen ve oyun yazarı (d. 1950)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Cora Faith Walker, Amerikalı siyasetçi (d. 1985)"
+    },
+    {
+      "yil": 2023,
+      "metin": "Erik Rud Brandt, Danimarkalı moda tasarımcısı (d. 1943)"
+    },
+    {
+      "yil": 2023,
+      "metin": "R. Dhruvanarayana, Hint siyasetçi (d. 1961)"
+    },
+    {
+      "yil": 2023,
+      "metin": "Amy Fuller, Amerikalı kürekçi (d. 1968)"
+    },
+    {
+      "yil": 2023,
+      "metin": "Karoline Käfer, Avusturyalı kısa mesafe koşucusu (d. 1954)"
+    },
+    {
+      "yil": 2023,
+      "metin": "Ignacio López Tarso, Meksikalı emektar tiyatro, sinema ve dizi oyuncusu (d. 1925)"
+    },
+    {
+      "yil": 2023,
+      "metin": "Ivonne Passada, Uruguaylı akademisyen, siyasetçi ve sendikacı (d. 1956)"
+    },
+    {
+      "yil": 2025,
+      "metin": "Ayumi Ishida, Japon sinema oyuncusu ve şarkıcı (d. 1948)"
+    },
+    {
+      "yil": 2025,
+      "metin": "Cocoa Tea, Jamaikalı şarkıcı, söz yazarı ve müzisyen (d. 1959)"
+    },
+    {
+      "yil": 2025,
+      "metin": "Dave Mallow, Amerikalı aktör ve seslendirme sanatçısı (d.1948)"
+    },
+    {
+      "yil": 2025,
+      "metin": "Clive Revill, Yeni Zelandalı karakter oyuncusu (d. 1930)"
+    },
+    {
+      "yil": 2026,
+      "metin": "Salih Müslim, Suriyeli politikacı (d. 1951)"
+    }
+  ],
+  "ozelGunler": [
+    "Bingöl'ün Karlıova ilçesinden Rus İmparatorluğu ve Batı Ermenistan Yönetimi ordu birliklerinin çekilişi (1918)",
+    "Erzurum'un Ilıca ilçesinden Rus İmparatorluğu ve Batı Ermenistan Yönetimi ordu birliklerinin çekilişi (1918)",
+    "Rize'nin Fındıklı ilçesinden Rus İmparatorluğu ve Batı Ermenistan Yönetimi ordu birliklerinin çekilişi (1918)"
+  ],
+  "kaynak": {
+    "ad": "Vikipedi",
+    "url": "https://tr.wikipedia.org/wiki/11_Mart",
+    "revid": 36893724
+  },
+  "guncelleme": "2026-09-27T09:41:35.380Z"
+}

@@ -1,0 +1,1432 @@
+{
+  "ay": 5,
+  "gun": 17,
+  "olaylar": [
+    {
+      "id": "1792-new-york-borsasi-kuruldu",
+      "yil": 1792,
+      "metin": "New York Borsası kuruldu.",
+      "konular": [
+        "New York Borsası"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/960px-New_York_Stock_Exchange_Facade_2015.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/500px-New_York_Stock_Exchange_Facade_2015.jpg",
+        "genislik": 960,
+        "yukseklik": 1440,
+        "orijinalGenislik": 4000,
+        "yazar": "Jeffrey Zeldman from Manhattan, USA",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_Facade_2015.jpg",
+        "aciklama": "New York Stock Exchange",
+        "konu": "New York Borsası"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1902-yunan-arkeologlar-antik-cagin-mekanik-analog-bir",
+      "yil": 1902,
+      "metin": "Yunan arkeologlar, Antik Çağ'ın mekanik analog bir bilgisayarı olarak kabul edilebilecek Antikythera düzeneğini toprak altından çıkardılar.",
+      "konular": [
+        "Yunanistan",
+        "arkeolog",
+        "Antik Çağ",
+        "Analog veri",
+        "bilgisayar"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gizeh_Cheops_BW_1.jpg/960px-Gizeh_Cheops_BW_1.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gizeh_Cheops_BW_1.jpg/500px-Gizeh_Cheops_BW_1.jpg",
+        "genislik": 960,
+        "yukseklik": 639,
+        "orijinalGenislik": 3443,
+        "yazar": "Berthold Werner",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Gizeh_Cheops_BW_1.jpg",
+        "aciklama": "Great pyramid of Giza",
+        "konu": "arkeolog"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gizeh_Cheops_BW_1.jpg/960px-Gizeh_Cheops_BW_1.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gizeh_Cheops_BW_1.jpg/500px-Gizeh_Cheops_BW_1.jpg",
+          "genislik": 960,
+          "yukseklik": 639,
+          "orijinalGenislik": 3443,
+          "yazar": "Berthold Werner",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Gizeh_Cheops_BW_1.jpg",
+          "aciklama": "Great pyramid of Giza",
+          "konu": "arkeolog"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Denis_Bourez_-_British_Museum%2C_London_%288747049029%29_%282%29.jpg/960px-Denis_Bourez_-_British_Museum%2C_London_%288747049029%29_%282%29.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Denis_Bourez_-_British_Museum%2C_London_%288747049029%29_%282%29.jpg/500px-Denis_Bourez_-_British_Museum%2C_London_%288747049029%29_%282%29.jpg",
+          "genislik": 960,
+          "yukseklik": 720,
+          "orijinalGenislik": 4288,
+          "yazar": "Denis Bourez from France",
+          "lisans": "CC BY 2.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Denis_Bourez_-_British_Museum,_London_(8747049029)_(2).jpg",
+          "aciklama": "Standard of Ur, British Museum, London.",
+          "konu": "Antik Çağ"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Babbage_Difference_Engine_%28Setting_the_input_parameters%29.jpg/960px-Babbage_Difference_Engine_%28Setting_the_input_parameters%29.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Babbage_Difference_Engine_%28Setting_the_input_parameters%29.jpg/500px-Babbage_Difference_Engine_%28Setting_the_input_parameters%29.jpg",
+          "genislik": 960,
+          "yukseklik": 815,
+          "orijinalGenislik": 3428,
+          "yazar": "Jitze Couperus from Los Altos Hills, California, USA",
+          "lisans": "CC BY 2.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Babbage_Difference_Engine_(Setting_the_input_parameters).jpg",
+          "aciklama": "The beginning state is set up in the counters for the desired series of computations, prior to the actual cycling through the computations via the crank-handle",
+          "konu": "bilgisayar"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1928-turkiye-cumhuriyeti-hifzisihha-muessesesi-kuruldu",
+      "yil": 1928,
+      "metin": "Türkiye Cumhuriyeti Hıfzısıhha Müessesesi kuruldu.",
+      "konular": [
+        "Türkiye Halk Sağlığı Kurumu"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1939-27-mayis-1938-tarihli-londra-kredi-antlasmasina",
+      "yil": 1939,
+      "metin": "27 Mayıs 1938 tarihli Londra Kredi Antlaşması'na ait onay belgelerinin karşılıklı teatisi yapıldı.",
+      "konular": [],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1939-altin-ticaretinin-yeniden-serbest-birakilmasina-ait-kararname",
+      "yil": 1939,
+      "metin": "Altın ticaretinin yeniden serbest bırakılmasına ait kararname çıktı.",
+      "konular": [],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1940-ii-dunya-savasi-alman-ordulari-belcikayi-isgal",
+      "yil": 1940,
+      "metin": "II. Dünya Savaşı: Alman Orduları Belçika'yı işgal ederek Brüksel'e girdi.",
+      "konular": [
+        "II. Dünya Savaşı",
+        "Almanya",
+        "Belçika",
+        "Brüksel"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
+        "genislik": 400,
+        "yukseklik": 286,
+        "orijinalGenislik": 400,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
+        "aciklama": "Pitched battle at Changde.",
+        "konu": "II. Dünya Savaşı"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
+          "genislik": 400,
+          "yukseklik": 286,
+          "orijinalGenislik": 400,
+          "yazar": "Bilinmeyen yazar",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
+          "aciklama": "Pitched battle at Changde.",
+          "konu": "II. Dünya Savaşı"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Grand_Place_Bruselas_2.jpg/960px-Grand_Place_Bruselas_2.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Grand_Place_Bruselas_2.jpg/500px-Grand_Place_Bruselas_2.jpg",
+          "genislik": 960,
+          "yukseklik": 576,
+          "orijinalGenislik": 3332,
+          "yazar": "Francisco Conde Sánchez",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Grand_Place_Bruselas_2.jpg",
+          "aciklama": "The largest begonia carpet in the world at an event that takes place in August every two years.",
+          "konu": "Brüksel"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1954-abdde-siyah-cocuklarin-beyaz-cocuklarla-ayni-okula",
+      "yil": 1954,
+      "metin": "ABD'de siyah çocukların, beyaz çocuklarla aynı okula gitmelerini önleyen yasa yürürlükten kaldırıldı.",
+      "konular": [
+        "Amerika Birleşik Devletleri"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1967-imam-hatip-okulu-mezunlarina-universitelere-girme-hakki",
+      "yil": 1967,
+      "metin": "İmam Hatip Okulu mezunlarına, üniversitelere girme hakkı tanındı.",
+      "konular": [
+        "İmam Hatip Okulu"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/K%C4%B1rklareli_5310.jpg/960px-K%C4%B1rklareli_5310.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/K%C4%B1rklareli_5310.jpg/500px-K%C4%B1rklareli_5310.jpg",
+        "genislik": 960,
+        "yukseklik": 708,
+        "orijinalGenislik": 2518,
+        "yazar": "User:Darwinek",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:K%C4%B1rklareli_5310.jpg",
+        "aciklama": "İmam-Hatip Lisesi in Kırklareli, Turkey",
+        "konu": "İmam Hatip Okulu"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1970-norvecli-antropolog-ve-kasif-thor-heyerdahl-papirusten",
+      "yil": 1970,
+      "metin": "Norveçli antropolog ve kâşif Thor Heyerdahl, papirüsten yapılmış olan \"Ra II\" teknesiyle Fas'tan Atlantik Okyanusu'na açıldı.",
+      "konular": [
+        "Norveç",
+        "antropolog",
+        "kâşif",
+        "Thor Heyerdahl",
+        "papirüs"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Landing_of_Columbus_%282%29.jpg/960px-Landing_of_Columbus_%282%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Landing_of_Columbus_%282%29.jpg/500px-Landing_of_Columbus_%282%29.jpg",
+        "genislik": 960,
+        "yukseklik": 631,
+        "orijinalGenislik": 3000,
+        "yazar": "John Vanderlyn",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Landing_of_Columbus_(2).jpg",
+        "aciklama": "Christopher Columbus is depicted landing in the West Indies, on an island that the natives called Guanahani and he named San Salvador, on October 12, 1492. He raises the royal banner, claiming the lan",
+        "konu": "kâşif"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Landing_of_Columbus_%282%29.jpg/960px-Landing_of_Columbus_%282%29.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Landing_of_Columbus_%282%29.jpg/500px-Landing_of_Columbus_%282%29.jpg",
+          "genislik": 960,
+          "yukseklik": 631,
+          "orijinalGenislik": 3000,
+          "yazar": "John Vanderlyn",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Landing_of_Columbus_(2).jpg",
+          "aciklama": "Christopher Columbus is depicted landing in the West Indies, on an island that the natives called Guanahani and he named San Salvador, on October 12, 1492. He raises the royal banner, claiming the lan",
+          "konu": "kâşif"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Papyrus.jpg/960px-Papyrus.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Papyrus.jpg/500px-Papyrus.jpg",
+          "genislik": 960,
+          "yukseklik": 594,
+          "orijinalGenislik": 1002,
+          "yazar": "Bilinmeyen yazar",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Papyrus.jpg",
+          "aciklama": null,
+          "konu": "papirüs"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1971-thkp-c-uyesi-dort-militan-israilin-istanbul-baskonsolosu",
+      "yil": 1971,
+      "metin": "THKP-C üyesi dört militan, İsrail'in İstanbul Başkonsolosu Ephraim Elrom'u kaçırdı. Militanlar, \"20 Mayıs'a kadar cezaevlerindeki bütün devrimcilerin serbest bırakılmasını\" istedi. Hükûmet, pazarlık yapmayacağını açıkladı.",
+      "konular": [
+        "Türkiye Halk Kurtuluş Partisi - Cephesi",
+        "İsrail",
+        "Ephraim Elrom"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1972-turkiye-cumhuriyeti-devlet-demiryollarinin-991-milyon-lirayla",
+      "yil": 1972,
+      "metin": "Türkiye Cumhuriyeti Devlet Demiryolları'nın 991 milyon lirayla, zarar rekoru kırdığı açıklandı.",
+      "konular": [
+        "Türkiye Cumhuriyeti Devlet Demiryolları"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1982-turk-silahli-kuvvetleri-mehmetcik-vakfi-kuruldu-vakif",
+      "yil": 1982,
+      "metin": "Türk Silahlı Kuvvetleri Mehmetçik Vakfı kuruldu. Vakıf, Devlet Başkanı Orgeneral Kenan Evren ve diğer Millî Güvenlik Konseyi üyesi komutanların aralarında topladıkları parayla kuruldu.",
+      "konular": [
+        "Mehmetçik Vakfı",
+        "Kenan Evren",
+        "Millî Güvenlik Konseyi"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1983-ankara-bahcelievlerde-8-ekim-1978-tarihinde-tip",
+      "yil": 1983,
+      "metin": "Ankara Bahçelievler'de 8 Ekim 1978 tarihinde, TİP üyesi yedi kişiyi öldürmekten yargılanan Haluk Kırcı ve Ahmet Ercüment Gedikli ölüm cezasına çaptırıldı.",
+      "konular": [
+        "Ankara",
+        "Bahçelievler, Çankaya",
+        "Türkiye İşçi Partisi (1961)",
+        "Haluk Kırcı",
+        "Ahmet Ercüment Gedikli"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
+        "genislik": 960,
+        "yukseklik": 540,
+        "orijinalGenislik": 7735,
+        "yazar": "A.Savin",
+        "lisans": "FAL",
+        "lisansUrl": "http://artlibre.org/licence/lal/en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
+        "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
+        "konu": "Ankara"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
+          "genislik": 960,
+          "yukseklik": 540,
+          "orijinalGenislik": 7735,
+          "yazar": "A.Savin",
+          "lisans": "FAL",
+          "lisansUrl": "http://artlibre.org/licence/lal/en",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
+          "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
+          "konu": "Ankara"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Bahcelievler.jpg/960px-Bahcelievler.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Bahcelievler.jpg/500px-Bahcelievler.jpg",
+          "genislik": 960,
+          "yukseklik": 720,
+          "orijinalGenislik": 2592,
+          "yazar": "Vikiçizer",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Bahcelievler.jpg",
+          "aciklama": "Bahçelievler, Ankara",
+          "konu": "Bahçelievler, Çankaya"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1983-israil-lubnan-ve-abd-arasinda-17-mayis",
+      "yil": 1983,
+      "metin": "İsrail, Lübnan ve ABD arasında, 17 Mayıs Antlaşması imzalandı.",
+      "konular": [
+        "İsrail",
+        "Lübnan",
+        "Amerika Birleşik Devletleri",
+        "17 Mayıs Antlaşması"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1989-cinde-1-milyondan-fazla-gosterici-baskent-pekindeki",
+      "yil": 1989,
+      "metin": "Çin'de 1 milyondan fazla gösterici, başkent Pekin'deki Tiananmen Meydanı'nda siyasal özgürlüklerin genişletilmesi için açlık grevi yapan öğrencileri desteklemek amacıyla yürüyüş yaptı.",
+      "konular": [
+        "Çin",
+        "Pekin",
+        "1989 Tiananmen Meydanı Olayları",
+        "açlık grevi"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Jianwai_SOHO_and_CCTV_Headquarters_2015.jpg/960px-Jianwai_SOHO_and_CCTV_Headquarters_2015.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Jianwai_SOHO_and_CCTV_Headquarters_2015.jpg/500px-Jianwai_SOHO_and_CCTV_Headquarters_2015.jpg",
+        "genislik": 960,
+        "yukseklik": 612,
+        "orijinalGenislik": 2847,
+        "yazar": "AsAuSo",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Jianwai_SOHO_and_CCTV_Headquarters_2015.jpg",
+        "aciklama": "Jianwai SOHO, designed by Riken Yamamoto.",
+        "konu": "Pekin"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Jianwai_SOHO_and_CCTV_Headquarters_2015.jpg/960px-Jianwai_SOHO_and_CCTV_Headquarters_2015.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Jianwai_SOHO_and_CCTV_Headquarters_2015.jpg/500px-Jianwai_SOHO_and_CCTV_Headquarters_2015.jpg",
+          "genislik": 960,
+          "yukseklik": 612,
+          "orijinalGenislik": 2847,
+          "yazar": "AsAuSo",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Jianwai_SOHO_and_CCTV_Headquarters_2015.jpg",
+          "aciklama": "Jianwai SOHO, designed by Riken Yamamoto.",
+          "konu": "Pekin"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/TiananmenGatePic1.jpg/960px-TiananmenGatePic1.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/TiananmenGatePic1.jpg/500px-TiananmenGatePic1.jpg",
+          "genislik": 960,
+          "yukseklik": 640,
+          "orijinalGenislik": 3456,
+          "yazar": "LuxTonnerre",
+          "lisans": "CC BY 2.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:TiananmenGatePic1.jpg",
+          "aciklama": "The Tiananmen in Beijing",
+          "konu": "1989 Tiananmen Meydanı Olayları"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bundesarchiv_Bild_183-1990-0408-009%2C_Erfurt%2C_nach_Hungerstreik_in_der_MfS-Zentrale.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bundesarchiv_Bild_183-1990-0408-009%2C_Erfurt%2C_nach_Hungerstreik_in_der_MfS-Zentrale.jpg",
+          "genislik": 800,
+          "yukseklik": 573,
+          "orijinalGenislik": 800,
+          "yazar": "Jürgen Ludwig",
+          "lisans": "CC BY-SA 3.0 de",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1990-0408-009,_Erfurt,_nach_Hungerstreik_in_der_MfS-Zentrale.jpg",
+          "aciklama": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. ADN- Ludwig 8.4.90-Erfurt: Die Hungerst",
+          "konu": "açlık grevi"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1989-cekoslovakyada-dort-aydir-hapiste-olan-yazar-vaclav",
+      "yil": 1989,
+      "metin": "Çekoslovakya'da dört aydır hapiste olan yazar Vaclav Havel serbest bırakıldı.",
+      "konular": [
+        "Çekoslovakya",
+        "Vaclav Havel"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Vaclav_Havel_cropped.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Vaclav_Havel_cropped.jpg",
+        "genislik": 840,
+        "yukseklik": 960,
+        "orijinalGenislik": 840,
+        "yazar": "original: Jiří Jiroutek derivative work: ThecentreCZ",
+        "lisans": "CC BY 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vaclav_Havel_cropped.jpg",
+        "aciklama": "Václav Havel",
+        "konu": "Vaclav Havel"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1990-dunya-saglik-orgutu-who-escinselligi-akil-hastaliklari",
+      "yil": 1990,
+      "metin": "Dünya Sağlık Örgütü (WHO), eşcinselliği akıl hastalıkları listesinden çıkardı. 17 Mayıs, bu tarihten itibaren Uluslararası Homofobi, Bifobi ve Transfobi Karşıtı Gün olarak kutlanmaktadır.",
+      "konular": [
+        "Dünya Sağlık Örgütü",
+        "WHO",
+        "Eşcinsellik"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg/960px-World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg/500px-World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg",
+        "genislik": 960,
+        "yukseklik": 659,
+        "orijinalGenislik": 2583,
+        "yazar": "Yann Forget",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:World_Health_Organisation_headquarters,_Geneva,_north_and_west_sides_2007.jpg",
+        "aciklama": "World Health Organisation headquarters, Geneva, north and west sides.",
+        "konu": "WHO"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1994-turkiye-ekonomisi-14-yil-aradan-sonra-yeniden",
+      "yil": 1994,
+      "metin": "Türkiye ekonomisi, 14 yıl aradan sonra yeniden IMF denetimine girdi.",
+      "konular": [
+        "Uluslararası Para Fonu"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "1995-nasuh-mahruki-everestin-zirvesine-cikan-ilk-turk",
+      "yil": 1995,
+      "metin": "Nasuh Mahruki, Everest'in zirvesine çıkan ilk Türk oldu. (Bazı kaynaklar 25 Mayıs olarak yazsa da bu tarih, Nasuh Mahruki tarafından teyit edilmiştir.)",
+      "konular": [
+        "Nasuh Mahruki",
+        "Everest"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Nasuh_Mahruki_in_2024_%28cropped%29.jpg/960px-Nasuh_Mahruki_in_2024_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Nasuh_Mahruki_in_2024_%28cropped%29.jpg/500px-Nasuh_Mahruki_in_2024_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1155,
+        "orijinalGenislik": 1381,
+        "yazar": "Umut Çolak (VOA)",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Nasuh_Mahruki_in_2024_(cropped).jpg",
+        "aciklama": "Nasuh Mahruki, Turkish professional mountain climber, writer, photographer",
+        "konu": "Nasuh Mahruki"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Nasuh_Mahruki_in_2024_%28cropped%29.jpg/960px-Nasuh_Mahruki_in_2024_%28cropped%29.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Nasuh_Mahruki_in_2024_%28cropped%29.jpg/500px-Nasuh_Mahruki_in_2024_%28cropped%29.jpg",
+          "genislik": 960,
+          "yukseklik": 1155,
+          "orijinalGenislik": 1381,
+          "yazar": "Umut Çolak (VOA)",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Nasuh_Mahruki_in_2024_(cropped).jpg",
+          "aciklama": "Nasuh Mahruki, Turkish professional mountain climber, writer, photographer",
+          "konu": "Nasuh Mahruki"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Everest_kalapatthar_crop.jpg/960px-Everest_kalapatthar_crop.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Everest_kalapatthar_crop.jpg/500px-Everest_kalapatthar_crop.jpg",
+          "genislik": 960,
+          "yukseklik": 1174,
+          "orijinalGenislik": 2299,
+          "yazar": "Photo by Pavel Novak",
+          "lisans": "CC BY-SA 2.5",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Everest_kalapatthar_crop.jpg",
+          "aciklama": "Mount Everest from Kalapatthar.",
+          "konu": "Everest"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2000-galatasaray-uefa-kupasini-kazanarak-avrupada-kupa-kazanan",
+      "yil": 2000,
+      "metin": "Galatasaray, UEFA Kupasını kazanarak Avrupa'da kupa kazanan ilk Türk futbol takımı unvanını aldı.",
+      "konular": [
+        "Galatasaray (futbol takımı)",
+        "UEFA Avrupa Ligi"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2006-danistaya-avukat-alparslan-arslan-tarafindan-duzenlenen-silahli",
+      "yil": 2006,
+      "metin": "Danıştay'a avukat Alparslan Arslan tarafından düzenlenen silahlı saldırıda, Danıştay İkinci Dairesi Üyesi Mustafa Yücel Özbilgin öldü ve dört üye de yaralandı.",
+      "konular": [
+        "Danıştay (Türkiye)",
+        "Alparslan Arslan",
+        "Danıştay Saldırısı",
+        "Mustafa Yücel Özbilgin"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Council_of_State_%28Turkey%29.jpg/960px-Council_of_State_%28Turkey%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Council_of_State_%28Turkey%29.jpg/500px-Council_of_State_%28Turkey%29.jpg",
+        "genislik": 960,
+        "yukseklik": 525,
+        "orijinalGenislik": 3503,
+        "yazar": "Metuboy",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Council_of_State_(Turkey).jpg",
+        "aciklama": "Council of State (Danıştay) in Ankara, Turkey",
+        "konu": "Danıştay (Türkiye)"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2010-chp-genel-baskani-deniz-baykalin-istifa-etmesinden",
+      "yil": 2010,
+      "metin": "CHP Genel Başkanı Deniz Baykal'ın istifa etmesinden sonra; CHP Grup Başkanvekili Kemal Kılıçdaroğlu görevinden istifa edip Genel Başkanlık için aday olacağını açıkladı.",
+      "konular": [
+        "Cumhuriyet Halk Partisi",
+        "Deniz Baykal",
+        "Kemal Kılıçdaroğlu"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Deniz_Baykal2.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Deniz_Baykal2.jpg",
+        "genislik": 559,
+        "yukseklik": 746,
+        "orijinalGenislik": 559,
+        "yazar": "Umit Bektas (VOA)",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Deniz_Baykal2.jpg",
+        "aciklama": "Deniz Baykal",
+        "konu": "Deniz Baykal"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Deniz_Baykal2.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Deniz_Baykal2.jpg",
+          "genislik": 559,
+          "yukseklik": 746,
+          "orijinalGenislik": 559,
+          "yazar": "Umit Bektas (VOA)",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Deniz_Baykal2.jpg",
+          "aciklama": "Deniz Baykal",
+          "konu": "Deniz Baykal"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Kemal_K%C4%B1l%C4%B1%C3%A7daro%C4%9Flu_in_2024_%28cropped%29.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Kemal_K%C4%B1l%C4%B1%C3%A7daro%C4%9Flu_in_2024_%28cropped%29.jpg",
+          "genislik": 492,
+          "yukseklik": 633,
+          "orijinalGenislik": 492,
+          "yazar": "Voice of America",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Kemal_K%C4%B1l%C4%B1%C3%A7daro%C4%9Flu_in_2024_(cropped).jpg",
+          "aciklama": "Kemal Kılıçdaroğlu in 2024",
+          "konu": "Kemal Kılıçdaroğlu"
+        }
+      ],
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2010-iranin-uranyum-takasina-iliskin-ortak-formulle-ilgili",
+      "yil": 2010,
+      "metin": "İran'ın uranyum takasına ilişkin ortak formülle ilgili anlaşma, Türkiye, Brezilya ve İran Dışişleri Bakanları tarafından imzalandı. Uranyum takasının Türkiye'de yapılacağı da, bu imza ile resmîleşmiş oldu. İran'ın 1200 kilogram düşük seviyede zenginleştirilmiş uranyumu, yüksek seviyede zenginleştirilmiş uranyumla takas edeceği kaydedildi.",
+      "konular": [
+        "İran",
+        "Türkiye",
+        "Brezilya",
+        "Uranyum"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": null,
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2010-zonguldaktaki-turkiye-taskomuru-kurumu-karadon-muessese-mudurlugu",
+      "yil": 2010,
+      "metin": "Zonguldak'taki Türkiye Taşkömürü Kurumu, Karadon Müessese Müdürlüğü maden ocağında patlama meydana geldi. 30 işçi göçük altında kaldı. 20 Mayıs 2010 tarihinde 28 işçinin cesedine ulaşıldı.",
+      "konular": [
+        "Zonguldak",
+        "Türkiye Taşkömürü Kurumu"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Zonguldak_51.jpg/960px-Zonguldak_51.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Zonguldak_51.jpg/500px-Zonguldak_51.jpg",
+        "genislik": 960,
+        "yukseklik": 540,
+        "orijinalGenislik": 5333,
+        "yazar": "İncelemeelemani",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Zonguldak_51.jpg",
+        "aciklama": "Zonguldak",
+        "konu": "Zonguldak"
+      },
+      "durum": "bekliyor"
+    },
+    {
+      "id": "2021-memleket-partisi-muharrem-ince-onderliginde-kuruldu",
+      "yil": 2021,
+      "metin": "Memleket Partisi, Muharrem İnce önderliğinde kuruldu.",
+      "konular": [
+        "Memleket Partisi",
+        "Muharrem İnce"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Muharrem_%C4%B0nce_in_2023_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Muharrem_%C4%B0nce_in_2023_%28cropped%29.jpg",
+        "genislik": 587,
+        "yukseklik": 755,
+        "orijinalGenislik": 587,
+        "yazar": "Yıldız Yazıcıoğlu (VOA)",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Muharrem_%C4%B0nce_in_2023_(cropped).jpg",
+        "aciklama": "Muharrem İnce, Turkish politician and leader of Homeland Party.",
+        "konu": "Muharrem İnce"
+      },
+      "durum": "bekliyor"
+    }
+  ],
+  "dogumlar": [
+    {
+      "yil": 1490,
+      "metin": "Albrecht, Töton Şövalyeleri'nin büyük üstadı ve Prusya'nın ilk hükümdarı (ö. 1568)"
+    },
+    {
+      "yil": 1749,
+      "metin": "Edward Jenner, İngiliz hekim (çiçek aşısını bulan) (ö. 1823)"
+    },
+    {
+      "yil": 1768,
+      "metin": "Brunswickli Caroline, Kral IV. George'un eşi olarak Birleşik Krallık ve Hanover Kraliçesiydi (ö. 1821)"
+    },
+    {
+      "yil": 1811,
+      "metin": "Ferdinand Piper, Alman kilise tarihçisi (ö. 1889)"
+    },
+    {
+      "yil": 1866,
+      "metin": "Erik Satie, Fransız besteci (ö. 1925)"
+    },
+    {
+      "yil": 1868,
+      "metin": "Horace Elgin Dodge, Amerikalı otomobil üreticisi (ö. 1920)"
+    },
+    {
+      "yil": 1873,
+      "metin": "Henri Barbusse, Fransız romancı ve gazeteci (ö. 1935)"
+    },
+    {
+      "yil": 1886,
+      "metin": "XIII. Alfonso, İspanya Kralı (ö. 1941)"
+    },
+    {
+      "yil": 1897,
+      "metin": "Odd Hassel, Norveçli kimyacı ve Nobel Kimya Ödülü sahibi (ö. 1981)"
+    },
+    {
+      "yil": 1904,
+      "metin": "Jean Gabin, Fransız oyuncu (ö. 1976)"
+    },
+    {
+      "yil": 1907,
+      "metin": "Ilona Elek, Macar eskrimci (ö. 1988)"
+    },
+    {
+      "yil": 1911,
+      "metin": "Maureen O'Sullivan, İrlandalı kadın oyuncu (Tarzan filmlerinde Jane'i canlandırmasıyla ünlü) (ö. 1998)"
+    },
+    {
+      "yil": 1925,
+      "metin": "Idi Amin, Ugandalı&nbsp;asker ve Uganda'nın 3. Devlet Başkanı (ö.&nbsp;2003)"
+    },
+    {
+      "yil": 1925,
+      "metin": "Michel de Certeau, Cizvit tarikatı mensubu olan bilim insanı, tarih, sosyoloji, felsefe, psikanaliz ve psikoloji üzerine çalışmalar yapmıştır (ö. 1986)"
+    },
+    {
+      "yil": 1926,
+      "metin": "Dietmar Schönherr, Avusturyalı tanınmış oyuncu (ö. 2014)"
+    },
+    {
+      "yil": 1927,
+      "metin": "Gülistan Güzey, Türk tiyatro ve sinema sanatçısı (ö. 1987)"
+    },
+    {
+      "yil": 1929,
+      "metin": "Branko Zebec, Yugoslav eski millî futbolcu ve teknik direktör (ö. 1988)"
+    },
+    {
+      "yil": 1936,
+      "metin": "Philippe Boesmans, Belçikalı klasik müzik bestecisi (ö. 2022)"
+    },
+    {
+      "yil": 1936,
+      "metin": "Dennis Hopper, Amerikalı oyuncu ve yönetmen (ö. 2010)"
+    },
+    {
+      "yil": 1936,
+      "metin": "Graham Barnett, İngiliz futbolcu (ö. 2019)"
+    },
+    {
+      "yil": 1940,
+      "metin": "Alan Kay, Amerikalı bilgisayar bilimcisi"
+    },
+    {
+      "yil": 1945,
+      "metin": "Esin Engin, Türk besteci ve müzisyen (ö. 1997)"
+    },
+    {
+      "yil": 1945,
+      "metin": "Renate Krößner, Alman oyuncu (ö. 2020)"
+    },
+    {
+      "yil": 1946,
+      "metin": "Udo Lindenberg, Alman rock müzisyeni, yazar ve ressam"
+    },
+    {
+      "yil": 1948,
+      "metin": "Horst Köppel, Alman millî futbolcu ve teknik direktör"
+    },
+    {
+      "yil": 1950,
+      "metin": "Valeriya Novodvorskaya, Rus yazar ve siyasetçi (ö. 2014)"
+    },
+    {
+      "yil": 1953,
+      "metin": "Kasım Cömert Tokayev, Kazak diplomat, siyasetçi ve Kazakistan Devlet Başkanı"
+    },
+    {
+      "yil": 1954,
+      "metin": "Belkıs Akkale, Türk halk müziği sanatçısı, söz yazarı ve besteci"
+    },
+    {
+      "yil": 1955,
+      "metin": "Bill Paxton, Amerikalı oyuncu ve yönetmen (ö. 2017)"
+    },
+    {
+      "yil": 1956,
+      "metin": "Bob Saget, Amerikalı oyuncu ve komedyen (ö. 2022)"
+    },
+    {
+      "yil": 1958,
+      "metin": "Paul Di'Anno, İngiliz şarkıcı (ö. 2024)"
+    },
+    {
+      "yil": 1959,
+      "metin": "Elena Ledda, Sardinyalı sanatçı"
+    },
+    {
+      "yil": 1960,
+      "metin": "Simon Fuller, İngiliz plak ve TV yapımcısı"
+    },
+    {
+      "yil": 1961,
+      "metin": "Enya, İrlandalı şarkıcı"
+    },
+    {
+      "yil": 1962,
+      "metin": "Craig Ferguson, Amerikalı komedyen"
+    },
+    {
+      "yil": 1965,
+      "metin": "Trent Reznor, Amerikalı şarkıcı"
+    },
+    {
+      "yil": 1966,
+      "metin": "Kusay Hüseyin, Saddam Hüseyin'in oğlu (ö. 2003)"
+    },
+    {
+      "yil": 1967,
+      "metin": "Joseph M. Acaba, Porto Riko asıllı eğitmen, hydrogeologist ve NASA astronotu"
+    },
+    {
+      "yil": 1969,
+      "metin": "José Chamot, Arjantinli millî futbolcu"
+    },
+    {
+      "yil": 1970,
+      "metin": "Anjalika Ahurbaş, Beyaz Rus şarkıcı, oyuncu ve eski model"
+    },
+    {
+      "yil": 1970,
+      "metin": "Giovanna Trillini, İtalyan eskrimci"
+    },
+    {
+      "yil": 1971,
+      "metin": "Máxima, Kral Willem-Alexander'ın eşi"
+    },
+    {
+      "yil": 1972,
+      "metin": "Ergün Penbe, Türk futbolcu ve teknik direktör"
+    },
+    {
+      "yil": 1972,
+      "metin": "Antoni Vadell Ferrer, İspanyol Roma Katolik piskopos (ö. 2022)"
+    },
+    {
+      "yil": 1973,
+      "metin": "Matthew McGrory, Amerikalı aktör (d. 2005)"
+    },
+    {
+      "yil": 1973,
+      "metin": "Josh Homme, Amerikalı rock müzisyeni, şarkıcısı, müzik yapımcısı ve oyuncu"
+    },
+    {
+      "yil": 1974,
+      "metin": "Eddie Lewis, Amerikalı millî futbolcudur"
+    },
+    {
+      "yil": 1974,
+      "metin": "Sendhil Ramamurthy, Amerikalı oyuncu"
+    },
+    {
+      "yil": 1975,
+      "metin": "Marcelo dos Santos, Brezilyalı eski futbolcudur"
+    },
+    {
+      "yil": 1975,
+      "metin": "Laura Voutilainen, Fin şarkıcı"
+    },
+    {
+      "yil": 1979,
+      "metin": "Ayda Field, Amerikalı televizyon oyuncusu"
+    },
+    {
+      "yil": 1979,
+      "metin": "David Jarolím, Çek futbolcudur"
+    },
+    {
+      "yil": 1980,
+      "metin": "Ilion Lika, Arnavutluk vatandaşı millî kaleci"
+    },
+    {
+      "yil": 1981,
+      "metin": "Cosma Shiva Hagen, Alman-Amerikalı oyuncu"
+    },
+    {
+      "yil": 1981,
+      "metin": "Şiri Meymon, İsrailli şarkıcı"
+    },
+    {
+      "yil": 1982,
+      "metin": "Clarence Goodson, Amerikan millî futbolcu"
+    },
+    {
+      "yil": 1982,
+      "metin": "Tony Parker, Fransız basketbol oyuncusu"
+    },
+    {
+      "yil": 1982,
+      "metin": "Vjosa Osmani, Kosova Cumhurbaşkanı"
+    },
+    {
+      "yil": 1983,
+      "metin": "Danko Lazović, Sırp forvet eski futbolcu"
+    },
+    {
+      "yil": 1983,
+      "metin": "Burak Alkaş, Türk oyuncu"
+    },
+    {
+      "yil": 1984,
+      "metin": "İgor Denisov, Rus eski millî futbolcu"
+    },
+    {
+      "yil": 1984,
+      "metin": "Michael David Rosenberg, İngiliz şarkıcı, söz yazarı ve müzisyen"
+    },
+    {
+      "yil": 1986,
+      "metin": "Bojan Jokić, Sloven futbolcu"
+    },
+    {
+      "yil": 1987,
+      "metin": "Ersan Gülüm, Türk futbolcu"
+    },
+    {
+      "yil": 1988,
+      "metin": "Nikki Reed, Amerikalı film oyuncusu ve senarist"
+    },
+    {
+      "yil": 1988,
+      "metin": "Martin Olsson, İsveçli millî futbolcu"
+    },
+    {
+      "yil": 1989,
+      "metin": "Michel Morganella, İsviçreli futbolcu"
+    },
+    {
+      "yil": 1989,
+      "metin": "Tessa Virtue, Kanadalı buz patenci"
+    },
+    {
+      "yil": 1990,
+      "metin": "Ross Butler, Amerikalı oyuncu"
+    },
+    {
+      "yil": 1990,
+      "metin": "Will Clyburn, Amerikan profesyonel basketbolcu"
+    },
+    {
+      "yil": 1990,
+      "metin": "Leven Alice Rambin, Amerikalı oyuncu"
+    },
+    {
+      "yil": 1991,
+      "metin": "Moran Mazor, İsrailli şarkıcı"
+    },
+    {
+      "yil": 1991,
+      "metin": "Iñigo Martínez, İspanyol futbolcu"
+    },
+    {
+      "yil": 1993,
+      "metin": "Rafa Silva, Portekizli futbolcu"
+    },
+    {
+      "yil": 1996,
+      "metin": "Ryan Ochoa, Amerikalı oyuncu"
+    },
+    {
+      "yil": 1998,
+      "metin": "Abdulrahman Akkad, Suriyeli blog yazarı ve insan hakları aktivisti"
+    }
+  ],
+  "olumler": [
+    {
+      "yil": 290,
+      "metin": "Sima Yan, Jin Hanedanı'nın ilk imparatoru (d. 236)"
+    },
+    {
+      "yil": 946,
+      "metin": "Ebu'l-Kasım Muhammed ibn Abdullah, İsmaili mezhebine göre 12. İmamdı (d. 893)"
+    },
+    {
+      "yil": 1304,
+      "metin": "Mahmud Gazan, Moğol İlhanlılar İmparatorluğu'nun 7. Hükümdarı (d. 1272)"
+    },
+    {
+      "yil": 1336,
+      "metin": "Go-Fushimi, Japonya'nın geleneksel veraset düzenine göre 93. imparatoru (d. 1288)"
+    },
+    {
+      "yil": 1395,
+      "metin": "Konstantin Dragaš, Osmanlı İmparatorluğu hükümdarlığı altında doğu Makedonya'da büyük bir vilayeti yönetmiş Dejanović Hanedanı'na mensup Sırp asildir (d. 1350)"
+    },
+    {
+      "yil": 1395,
+      "metin": "Marko, 1371-1395 arasında de jure Sırp kralı ve Osmanlı Vasalı (d. 1335)"
+    },
+    {
+      "yil": 1510,
+      "metin": "Sandro Botticelli, İtalyan ressam (d. 1445)"
+    },
+    {
+      "yil": 1536,
+      "metin": "George Boleyn, İngiltere Kralı VIII. Henry'nin ikinci karısı olan Anne Boleyn'in kardeşi (d. 1504)"
+    },
+    {
+      "yil": 1551,
+      "metin": "Shin Saimdang, Koreli filozof, sanatçı, ressam, yazar ve şair (d. 1504)"
+    },
+    {
+      "yil": 1606,
+      "metin": "I. Dmitri, Rusya Çarı (d. 1582)"
+    },
+    {
+      "yil": 1727,
+      "metin": "I. Katerina, Rus Çariçesi (d. 1684)"
+    },
+    {
+      "yil": 1729,
+      "metin": "Samuel Clarke, İngiliz filozof (d. 1675)"
+    },
+    {
+      "yil": 1750,
+      "metin": "Georg Engelhard Schröder, İsveçli portre ve tarih ressamı (d. 1684)"
+    },
+    {
+      "yil": 1765,
+      "metin": "Alexis Clairaut, Fransız matematikçi (d. 1713)"
+    },
+    {
+      "yil": 1829,
+      "metin": "John Jay, Amerikan devlet adamı, yurtsever ve diplomat (d. 1745)"
+    },
+    {
+      "yil": 1838,
+      "metin": "Rene Auguste Caillie, Fransız kaşif (d. 1799)"
+    },
+    {
+      "yil": 1838,
+      "metin": "Charles-Maurice de Talleyrand-Périgord, Fransız siyaset adamı (d. 1754)"
+    },
+    {
+      "yil": 1868,
+      "metin": "Kondō Isami, Japon kılıç ustası ve Shinsengumi'nin komutanı (d. 1834)"
+    },
+    {
+      "yil": 1875,
+      "metin": "John C. Breckinridge, Amerikalı siyasetçi, hukukçu, asker ve ABD'nin 14. başkan yardımcısı (d. 1821)"
+    },
+    {
+      "yil": 1880,
+      "metin": "Ziya Paşa, Türk şair ve siyaset adamı (d. 1826)"
+    },
+    {
+      "yil": 1886,
+      "metin": "John Deere, Amerikalı tarım makineleri üreticisi (d. 1804)"
+    },
+    {
+      "yil": 1919,
+      "metin": "Guido von List, Alman filozof, tarihçi ve yazar (d. 1848)"
+    },
+    {
+      "yil": 1935,
+      "metin": "Paul Dukas, Fransız besteci, müzisyen ve müzik eğitimcisi (d. 1865)"
+    },
+    {
+      "yil": 1936,
+      "metin": "Panayis Çaldaris, bir Yunan politikacı (d. 1868)"
+    },
+    {
+      "yil": 1936,
+      "metin": "Nahum Sokolow, Siyonist lider, yazar, çevirmen ve gazeteci (d. 1859)"
+    },
+    {
+      "yil": 1941,
+      "metin": "Wil van Gogh, Hollandalı hemşire ve erken feminist (d. 1862)"
+    },
+    {
+      "yil": 1944,
+      "metin": "Milena Jesenska, Çek gazeteci, yazar ve çevirmen (d. 1896)"
+    },
+    {
+      "yil": 1945,
+      "metin": "Robert Sterling Yard, Amerikalı gazeteci, yazar (d. 1861)"
+    },
+    {
+      "yil": 1947,
+      "metin": "George Forbes, Yeni Zelanda Başbakanı (d. 1869)"
+    },
+    {
+      "yil": 1951,
+      "metin": "William Birdwood, Britanya ordusu memuruydu (d. 1865)"
+    },
+    {
+      "yil": 1951,
+      "metin": "Ali Şefik Özdemir, Türk siyasetçi (d. 1885)"
+    },
+    {
+      "yil": 1957,
+      "metin": "Nurullah Ataç, Türk yazar ve eleştirmen (d. 1898)"
+    },
+    {
+      "yil": 1959,
+      "metin": "George Albert Smith, İngiliz Kraliyet Astronomi Derneği üyesi, mucit ve öncü film yönetmeni (d. 1864)"
+    },
+    {
+      "yil": 1964,
+      "metin": "Otto Wille Kuusinen, Fin-Sovyet siyasetçi, tarihçi ve şair (d. 1881)"
+    },
+    {
+      "yil": 1974,
+      "metin": "Refik Epikman, Türk ressam (d. 1902)"
+    },
+    {
+      "yil": 1980,
+      "metin": "Gündüz Kılıç, Türk futbolcu ve teknik direktör (d. 1918)"
+    },
+    {
+      "yil": 1986,
+      "metin": "Lyudmila Pahomova, Sovyet olimpiyat şampiyonu buz patenci (d. 1946)"
+    },
+    {
+      "yil": 1987,
+      "metin": "Gunnar Myrdal, İsveçli ekonomist ve politikacı (d. 1898)"
+    },
+    {
+      "yil": 1992,
+      "metin": "Lawrence Welk, Amerikalı müzisyen ve Tv programcısı (d. 1903)"
+    },
+    {
+      "yil": 1993,
+      "metin": "Handan Adalı, Türk sinema sanatçısı (d. 1922)"
+    },
+    {
+      "yil": 1999,
+      "metin": "João Carlos de Oliveira, Brezilyalı atlet (d. 1954)"
+    },
+    {
+      "yil": 2002,
+      "metin": "László Kubala, Macar eski futbolcudur (d. 1927)"
+    },
+    {
+      "yil": 2002,
+      "metin": "Mahzuni Şerif, Türk halk ozanı (d. 1938)"
+    },
+    {
+      "yil": 2004,
+      "metin": "Tony Randall, Amerikalı oyuncu (d. 1920)"
+    },
+    {
+      "yil": 2004,
+      "metin": "İzzeddin Salim, Iraklı politikacı, yazar, eğitimci, İslamcı teorisyen (d. 1941)"
+    },
+    {
+      "yil": 2005,
+      "metin": "Frank Gorshin, Amerikalı tiyatro, televizyon ve sinema oyuncusudur (d. 1933)"
+    },
+    {
+      "yil": 2005,
+      "metin": "Melahat Pars, Türk besteci (d. 1918)"
+    },
+    {
+      "yil": 2006,
+      "metin": "Mustafa Yücel Özbilgin, Türk hukukçu (d. 1942)"
+    },
+    {
+      "yil": 2009,
+      "metin": "Mario Benedetti, Uruguaylı gazeteci, yazar ve şair (d. 1920)"
+    },
+    {
+      "yil": 2009,
+      "metin": "Daniel Carasso, Fransız iş insanı (d. 1905)"
+    },
+    {
+      "yil": 2009,
+      "metin": "Muhammed Taki Behcet Fumeni, İranlı Taklit Mercii (d. 1913)"
+    },
+    {
+      "yil": 2010,
+      "metin": "Bobbejaan Schoepen, Belçikalı şarkıcı (d. 1925)"
+    },
+    {
+      "yil": 2011,
+      "metin": "Johann Sterr, Alman güreşçi (d. 1933)"
+    },
+    {
+      "yil": 2012,
+      "metin": "Warda Al-Jazairia, Cezayirli şarkıcı ve oyuncu (d. 1939)"
+    },
+    {
+      "yil": 2012,
+      "metin": "France Clidat, Fransız piyanist (d. 1932)"
+    },
+    {
+      "yil": 2012,
+      "metin": "Donna Summer, Amerikalı şarkıcı (d. 1948)"
+    },
+    {
+      "yil": 2013,
+      "metin": "Kenneth Venturi, Amerikalı golfçü (d. 1931)"
+    },
+    {
+      "yil": 2013,
+      "metin": "Jorge Rafael Videla, Arjantinli asker ve eski Devlet Başkanlarından (d. 1925)"
+    },
+    {
+      "yil": 2013,
+      "metin": "Atanas Zabaznoski, Makedon komünist aktivist, Yugoslavya Cephesi'nde savaşan asker, Halk Kahramanı Nişanı sahibi (d. 1926)"
+    },
+    {
+      "yil": 2014,
+      "metin": "Gerald Edelman, Amerikalı biyolog (d. 1929)"
+    },
+    {
+      "yil": 2015,
+      "metin": "Chinx, Amerikalı rapçi (d. 1983)"
+    },
+    {
+      "yil": 2016,
+      "metin": "Guy Clark, Amerikalı şarkıcı ve müzisyen (d. 1941)"
+    },
+    {
+      "yil": 2016,
+      "metin": "Paulo Emilio, Brezilyalı eski teknik direktör (d. 1936)"
+    },
+    {
+      "yil": 2016,
+      "metin": "Yūko Mizutani, Japon aktris, seslendirme sanatçısı ve şarkıcı (d. 1964)"
+    },
+    {
+      "yil": 2016,
+      "metin": "Xavier de Planhol, Fransız öğretmen (d. 1926)"
+    },
+    {
+      "yil": 2016,
+      "metin": "Müzahir Sille, Türk güreşçi (d. 1931)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Roxcy Bolton, Amerikalı feminist sivil ve kadın hakları aktivisti (d. 1926)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Viktor Gorbatko, Sovyet-Rus kozmonot (d. 1934)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Firuz Kazemzadeh, Rusya doğumlu Amerikalı tarihçi (d. 1924)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Payidar Tüfekçioğlu, Türk oyuncu ve seslendirme sanatçısı (d.&nbsp;1962)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Rhodri Morgan, Galli siyasetçi ve devlet adamı (d. 1939)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Moji Olaiya, Nijeryalı aktris (d. 1975)"
+    },
+    {
+      "yil": 2017,
+      "metin": "Todor Veselinović, Yugoslav futbolcu ve teknik direktör (d. 1930)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Nicole Fontaine, Fransız siyasetçi ve Avrupa Parlamentosu Başkanı (d. 1942)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Jürgen Marcus, Alman şarkıcı (d. 1948)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Mait Riisman, Eston-Sovyet sutopu oyuncusu (d. 1956)"
+    },
+    {
+      "yil": 2018,
+      "metin": "Mehdi Tebatebayi, İranlı Şii din adamı ve siyasetçi (d. 1936)"
+    },
+    {
+      "yil": 2019,
+      "metin": "Peter Dahl, Norveç doğumlu İsveçli ressam ve baskı sanatçısı (d. 1934)"
+    },
+    {
+      "yil": 2019,
+      "metin": "Rallapalli, Hint sinema, tiyatro ve dizi oyuncusu (d. 1945)"
+    },
+    {
+      "yil": 2019,
+      "metin": "Herman Wouk, Amerikalı romancı ve Pulitzer Ödülü sahibi (d. 1915)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Wilson Braga, Brezilyalı siyasetçi, hukukçu ve iş insanı (d. 1931)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Shad Gaspard, Amerikalı profesyonel güreşçi ve aktör (d. 1981)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Ratnakar Matkari, Hint yazar, film ve oyun yapımcısı ve yönetmen (d. 1938)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Monique Mercure, Kanadalı oyuncu (d. 1930)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Lucky Peterson, Amerikalı şarkıcı, söz yazarı ve müzisyen (d. 1964)"
+    },
+    {
+      "yil": 2020,
+      "metin": "Yuri Zisser, Rus iş insanı, girişimci ve blog yazarı (d. 1960)"
+    },
+    {
+      "yil": 2021,
+      "metin": "Magdeleine Willame-Boonen, Belçikalı siyasetçi (d. 1940)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Rolands Kalniņš, Leton film yapımcısı, yönetmeni ve senarist (d. 1922)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Marnie Schulenburg, Amerikalı aktris (d. 1984)"
+    },
+    {
+      "yil": 2022,
+      "metin": "Vangelis, Yunan besteci (d. 1943)"
+    }
+  ],
+  "ozelGunler": [],
+  "kaynak": {
+    "ad": "Vikipedi",
+    "url": "https://tr.wikipedia.org/wiki/17_May%C4%B1s",
+    "revid": 37181527
+  },
+  "guncelleme": "2026-09-27T09:43:44.593Z"
+}

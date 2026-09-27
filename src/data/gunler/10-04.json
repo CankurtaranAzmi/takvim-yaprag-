@@ -14,12 +14,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg/960px-City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg/500px-City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg",
         "genislik": 960,
         "yukseklik": 636,
+        "orijinalGenislik": 3000,
         "yazar": "xiquinhosilva",
         "lisans": "CC BY 2.0",
         "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
@@ -33,6 +33,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg/500px-City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg",
           "genislik": 960,
           "yukseklik": 636,
+          "orijinalGenislik": 3000,
           "yazar": "xiquinhosilva",
           "lisans": "CC BY 2.0",
           "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
@@ -45,6 +46,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/WUL-he21_01467_%E6%96%B0%E9%90%AB%E7%B9%AA%E5%83%8F%E6%9D%B1%E8%A5%BF%E6%BC%A2%E5%85%A8%E5%82%B3_01_%28%E7%8E%8B%E8%8E%BD%29.jpg/500px-WUL-he21_01467_%E6%96%B0%E9%90%AB%E7%B9%AA%E5%83%8F%E6%9D%B1%E8%A5%BF%E6%BC%A2%E5%85%A8%E5%82%B3_01_%28%E7%8E%8B%E8%8E%BD%29.jpg",
           "genislik": 960,
           "yukseklik": 1383,
+          "orijinalGenislik": 3773,
           "yazar": "鍾 惺, 1574-1624",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -52,7 +54,8 @@
           "aciklama": "[出版地不明] : 金閶書業堂, [出版年不明] kinshōshogyōdō 14冊 ; 26cm",
           "konu": "Wang Mang"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1227-endulus-hukumdari-abdullah-el-adil-suikasta-ugradi",
@@ -65,19 +68,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Empire_almohade.PNG",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Empire_almohade.PNG",
         "genislik": 882,
         "yukseklik": 648,
+        "orijinalGenislik": 882,
         "yazar": "Omar-Toons",
         "lisans": "CC BY-SA 3.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Empire_almohade.PNG",
         "aciklama": "Carte de l'Empire almohade. Selon: Qantara-Med.org [1] [2]",
         "konu": "Muvahhidler"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1535-incilin-ilk-eksiksiz-ingilizce-cevirisi-anvers-sehrinde",
@@ -91,12 +95,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/P46.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/P46.jpg",
         "genislik": 580,
         "yukseklik": 819,
+        "orijinalGenislik": 580,
         "yazar": "Bilinmeyen yazar",
         "lisans": "Public domain",
         "lisansUrl": null,
@@ -110,6 +114,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/P46.jpg",
           "genislik": 580,
           "yukseklik": 819,
+          "orijinalGenislik": 580,
           "yazar": "Bilinmeyen yazar",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -122,6 +127,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Stadsgezicht_van_Antwerpen_vanaf_het_MAS_30-05-2012_15-29-35.jpg/500px-Stadsgezicht_van_Antwerpen_vanaf_het_MAS_30-05-2012_15-29-35.jpg",
           "genislik": 960,
           "yukseklik": 540,
+          "orijinalGenislik": 4280,
           "yazar": "Paul Hermans",
           "lisans": "CC BY-SA 3.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -129,7 +135,8 @@
           "aciklama": "Stadsgezicht van Antwerpen vanaf het Museum aan de Stroom",
           "konu": "Anvers"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1582-papa-xiii-gregorius-gregoryen-takvimi-benimsedi-eski",
@@ -143,12 +150,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Ritratto_di_Gregorio_XIII_-_Passarotti.jpg/960px-Ritratto_di_Gregorio_XIII_-_Passarotti.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Ritratto_di_Gregorio_XIII_-_Passarotti.jpg/500px-Ritratto_di_Gregorio_XIII_-_Passarotti.jpg",
         "genislik": 960,
         "yukseklik": 1188,
+        "orijinalGenislik": 3296,
         "yazar": "Attributed to Bartolomeo Passarotti",
         "lisans": "Public domain",
         "lisansUrl": null,
@@ -162,6 +169,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Ritratto_di_Gregorio_XIII_-_Passarotti.jpg/500px-Ritratto_di_Gregorio_XIII_-_Passarotti.jpg",
           "genislik": 960,
           "yukseklik": 1188,
+          "orijinalGenislik": 3296,
           "yazar": "Attributed to Bartolomeo Passarotti",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -174,6 +182,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Christopher_Clavius.jpg/500px-Christopher_Clavius.jpg",
           "genislik": 960,
           "yukseklik": 1389,
+          "orijinalGenislik": 972,
           "yazar": "Francesco Villamena",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -181,7 +190,8 @@
           "aciklama": "Christopher Clavius (1538–1612), German mathematician and astronomer.",
           "konu": "Miladi takvim"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1675-hollandali-bilim-insani-christiaan-huygens-cep-saatinin",
@@ -195,12 +205,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Christiaan_Huygens-painting.jpeg/960px-Christiaan_Huygens-painting.jpeg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Christiaan_Huygens-painting.jpeg/500px-Christiaan_Huygens-painting.jpeg",
         "genislik": 960,
         "yukseklik": 1258,
+        "orijinalGenislik": 1682,
         "yazar": "Caspar Netscher",
         "lisans": "Public domain",
         "lisansUrl": null,
@@ -214,6 +224,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Christiaan_Huygens-painting.jpeg/500px-Christiaan_Huygens-painting.jpeg",
           "genislik": 960,
           "yukseklik": 1258,
+          "orijinalGenislik": 1682,
           "yazar": "Caspar Netscher",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -226,6 +237,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/MontreGousset001.jpg",
           "genislik": 800,
           "yukseklik": 697,
+          "orijinalGenislik": 800,
           "yazar": "Isabelle Grosjean ZA",
           "lisans": "CC BY-SA 3.0",
           "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
@@ -233,7 +245,8 @@
           "aciklama": "Pocket watch, savonette-type.",
           "konu": "cep saati"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1824-1821de-kazanilan-bagimsizligin-ardindan-meksikada-ilk-anayasa",
@@ -247,12 +260,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Collage_Independencia.jpg/960px-Collage_Independencia.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Collage_Independencia.jpg/500px-Collage_Independencia.jpg",
         "genislik": 960,
         "yukseklik": 1364,
+        "orijinalGenislik": 1132,
         "yazar": "Hpav7",
         "lisans": "Public domain",
         "lisansUrl": null,
@@ -266,6 +279,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Collage_Independencia.jpg/500px-Collage_Independencia.jpg",
           "genislik": 960,
           "yukseklik": 1364,
+          "orijinalGenislik": 1132,
           "yazar": "Hpav7",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -278,6 +292,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Constitucion_1824.PNG",
           "genislik": 441,
           "yukseklik": 609,
+          "orijinalGenislik": 441,
           "yazar": "Secretaria de Educacion Publica (Mexico) Material Educativo Gratuito",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -285,7 +300,8 @@
           "aciklama": "Portada de la Constitucion Mexicana de 1824",
           "konu": "1824 Meksika Anayasası"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1830-belcika-kralligi-hollanda-birlesik-kralligindan-ayrildi",
@@ -298,8 +314,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1853-osmanlinin-rusyaya-savas-ilan-etmesiyle-kirim-savasi",
@@ -313,19 +329,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Malakhov1.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Malakhov1.jpg",
         "genislik": 800,
         "yukseklik": 598,
+        "orijinalGenislik": 800,
         "yazar": "Bilinmeyen yazar",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:Malakhov1.jpg",
         "aciklama": null,
         "konu": "Kırım Savaşı"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1883-istanbulu-parise-baglayan-orient-express-ilk-seferine",
@@ -339,12 +356,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
         "genislik": 960,
         "yukseklik": 494,
+        "orijinalGenislik": 2048,
         "yazar": "Alexxx Malev",
         "lisans": "CC BY-SA 3.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -358,6 +375,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
           "genislik": 960,
           "yukseklik": 494,
+          "orijinalGenislik": 2048,
           "yazar": "Alexxx Malev",
           "lisans": "CC BY-SA 3.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -370,6 +388,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/500px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
           "genislik": 960,
           "yukseklik": 600,
+          "orijinalGenislik": 4592,
           "yazar": "Yann Caradec from Paris, France",
           "lisans": "CC BY-SA 2.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -377,7 +396,8 @@
           "aciklama": "La Tour Eiffel vue de la Tour Saint-Jacques, Paris.",
           "konu": "Paris"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1895-ilk-amerika-acik-golf-turnuvasi-rhode-island",
@@ -391,19 +411,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Newport_Rhode_Island_Aerial_View.jpg/960px-Newport_Rhode_Island_Aerial_View.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Newport_Rhode_Island_Aerial_View.jpg/500px-Newport_Rhode_Island_Aerial_View.jpg",
         "genislik": 960,
         "yukseklik": 720,
+        "orijinalGenislik": 4000,
         "yazar": "MVASCO",
         "lisans": "CC BY-SA 3.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Newport_Rhode_Island_Aerial_View.jpg",
         "aciklama": "Newport Rhode Island Aerial View",
         "konu": "Newport, Rhode Island"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1904-almanya-ile-osmanli-devleti-arasinda-telgraf-anlasmasi",
@@ -417,19 +438,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/L-Telegraph1.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/L-Telegraph1.png",
         "genislik": 605,
         "yukseklik": 400,
+        "orijinalGenislik": 605,
         "yazar": "Bilinmeyen yazar",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:L-Telegraph1.png",
         "aciklama": null,
         "konu": "telgraf"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1905-orville-wright-ucakla-33-dakika-havada-kalarak",
@@ -441,19 +463,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Wright_Brothers_in_1910.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Wright_Brothers_in_1910.jpg",
         "genislik": 565,
         "yukseklik": 699,
+        "orijinalGenislik": 565,
         "yazar": "Photoprint copyrighted by Cole & Co.",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:Wright_Brothers_in_1910.jpg",
         "aciklama": "The Wright brothers at the International Aviation Tournament, Belmont Park, Long Island, N.Y., Oct. 1910",
         "konu": "Orville Wright"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1911-ilk-halk-asansoru-londranin-earls-court-metro",
@@ -467,12 +490,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Interior_of_a_vintage_Montgomery_elevator_with_a_modified_controller.jpg/960px-Interior_of_a_vintage_Montgomery_elevator_with_a_modified_controller.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Interior_of_a_vintage_Montgomery_elevator_with_a_modified_controller.jpg/500px-Interior_of_a_vintage_Montgomery_elevator_with_a_modified_controller.jpg",
         "genislik": 960,
         "yukseklik": 540,
+        "orijinalGenislik": 4032,
         "yazar": "Baron Maddock",
         "lisans": "CC BY 4.0",
         "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
@@ -486,6 +509,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Interior_of_a_vintage_Montgomery_elevator_with_a_modified_controller.jpg/500px-Interior_of_a_vintage_Montgomery_elevator_with_a_modified_controller.jpg",
           "genislik": 960,
           "yukseklik": 540,
+          "orijinalGenislik": 4032,
           "yazar": "Baron Maddock",
           "lisans": "CC BY 4.0",
           "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
@@ -498,6 +522,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/500px-London_Skyline_%28125508655%29.jpeg",
           "genislik": 960,
           "yukseklik": 540,
+          "orijinalGenislik": 2048,
           "yazar": "Ilya Grigorik",
           "lisans": "CC BY-SA 3.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -505,7 +530,8 @@
           "aciklama": "500px provided description: London Skyline [#sunset ,#architecture ,#cityscape ,#london ,#uk ,#skyline ,#financial district ,#thames ,#london bridge ,#london shard]",
           "konu": "Londra"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1914-afyon-ve-burduru-etkisi-altina-alan-buyuk",
@@ -519,12 +545,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Afyonkarahisar_Kalesi_9.jpg/960px-Afyonkarahisar_Kalesi_9.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Afyonkarahisar_Kalesi_9.jpg/500px-Afyonkarahisar_Kalesi_9.jpg",
         "genislik": 960,
         "yukseklik": 640,
+        "orijinalGenislik": 3000,
         "yazar": "Şenol zümrüt",
         "lisans": "CC BY-SA 4.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -538,6 +564,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Afyonkarahisar_Kalesi_9.jpg/500px-Afyonkarahisar_Kalesi_9.jpg",
           "genislik": 960,
           "yukseklik": 640,
+          "orijinalGenislik": 3000,
           "yazar": "Şenol zümrüt",
           "lisans": "CC BY-SA 4.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -550,6 +577,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Burdur_manzara_-_panoramio.jpg/500px-Burdur_manzara_-_panoramio.jpg",
           "genislik": 960,
           "yukseklik": 720,
+          "orijinalGenislik": 2272,
           "yazar": "Nihat1988",
           "lisans": "CC BY 3.0",
           "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
@@ -557,7 +585,8 @@
           "aciklama": "Burdur manzara",
           "konu": "Burdur"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1922-himaye-i-hayvanat-cemiyeti-adiyla-turkiyedeki-hayvanlari-koruma",
@@ -569,8 +598,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1923-son-isgal-birlikleri-istanbuldan-ayrildi",
@@ -582,8 +611,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1923-turk-ortodoks-patrigi-papa-eftim-kuva-yi-milliye",
@@ -597,12 +626,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Archbishop_Papa_Eftim_I.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Archbishop_Papa_Eftim_I.jpg",
         "genislik": 426,
         "yukseklik": 490,
+        "orijinalGenislik": 426,
         "yazar": "Master4468",
         "lisans": "CC BY-SA 4.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -616,6 +645,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Archbishop_Papa_Eftim_I.jpg",
           "genislik": 426,
           "yukseklik": 490,
+          "orijinalGenislik": 426,
           "yazar": "Master4468",
           "lisans": "CC BY-SA 4.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -628,6 +658,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/May%C4%B1s_1920._Mustafa_Kemal%2C_Ethem_Bey_ve_sava%C5%9F%C3%A7%C4%B1lar%C4%B1n%C4%B1_Ankara_gar%C4%B1nda_kar%C5%9F%C4%B1larken.png/500px-May%C4%B1s_1920._Mustafa_Kemal%2C_Ethem_Bey_ve_sava%C5%9F%C3%A7%C4%B1lar%C4%B1n%C4%B1_Ankara_gar%C4%B1nda_kar%C5%9F%C4%B1larken.png",
           "genislik": 960,
           "yukseklik": 623,
+          "orijinalGenislik": 1110,
           "yazar": "Original photographer is unknown",
           "lisans": "CC BY-SA 4.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -635,7 +666,8 @@
           "aciklama": "Yozgat İsyanı’nı bastırmak üzere görevlendirilen Çerkez Ethem ve Çerkez adamları İstasyon’daki karargah binası önünde Mustafa Kemal Atatürk'le (Haziran 1920)",
           "konu": "Kuvâ-yi Milliye"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1926-turk-medeni-kanunu-yururluge-girdi",
@@ -647,8 +679,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1927-abdnin-guney-dakota-eyaletinde-rushmore-dagina-dort",
@@ -663,19 +695,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Dean_Franklin_-_06.04.03_Mount_Rushmore_Monument_%28by-sa%29-3_new.jpg/960px-Dean_Franklin_-_06.04.03_Mount_Rushmore_Monument_%28by-sa%29-3_new.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Dean_Franklin_-_06.04.03_Mount_Rushmore_Monument_%28by-sa%29-3_new.jpg/500px-Dean_Franklin_-_06.04.03_Mount_Rushmore_Monument_%28by-sa%29-3_new.jpg",
         "genislik": 960,
         "yukseklik": 640,
+        "orijinalGenislik": 3072,
         "yazar": "Dean Franklin",
         "lisans": "CC BY 2.0",
         "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Dean_Franklin_-_06.04.03_Mount_Rushmore_Monument_(by-sa)-3_new.jpg",
         "aciklama": "The Mount Rushmore Monument as seen from the viewing plaza.",
         "konu": "Rushmore Dağı"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1931-chester-gould-tarafindan-yaratilan-dick-tracy-komedi",
@@ -687,8 +720,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1940-adolf-hitler-ve-benito-mussolini-kuzey-italyadaki",
@@ -703,12 +736,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/960px-Hitler_portrait_crop.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/500px-Hitler_portrait_crop.jpg",
         "genislik": 960,
         "yukseklik": 1278,
+        "orijinalGenislik": 1384,
         "yazar": "Heinrich Hoffmann",
         "lisans": "CC BY-SA 3.0 de",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
@@ -722,6 +755,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/500px-Hitler_portrait_crop.jpg",
           "genislik": 960,
           "yukseklik": 1278,
+          "orijinalGenislik": 1384,
           "yazar": "Heinrich Hoffmann",
           "lisans": "CC BY-SA 3.0 de",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
@@ -734,6 +768,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
           "genislik": 958,
           "yukseklik": 1297,
+          "orijinalGenislik": 958,
           "yazar": "Bilinmeyen yazar",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -746,6 +781,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Brennerpass_nordrampe.jpg/500px-Brennerpass_nordrampe.jpg",
           "genislik": 960,
           "yukseklik": 640,
+          "orijinalGenislik": 1944,
           "yazar": "Sönke Kraft aka Arnulf zu Linden",
           "lisans": "CC BY-SA 3.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -753,7 +789,8 @@
           "aciklama": "Brenner Pass (German: Brennerpass), north ramp between village \"Gries am Brenner\" and top of the pass with Austrian motorway A13 (German: A13 aka \"Brenner Autobahn\"), river \"Sill\" and Austrian state r",
           "konu": "Brenner Geçidi"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1952-ii-dunya-savasinin-muttefik-genel-komutani-eisenhower",
@@ -769,12 +806,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
         "genislik": 400,
         "yukseklik": 286,
+        "orijinalGenislik": 400,
         "yazar": "Bilinmeyen yazar",
         "lisans": "Public domain",
         "lisansUrl": null,
@@ -788,6 +825,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
           "genislik": 400,
           "yukseklik": 286,
+          "orijinalGenislik": 400,
           "yazar": "Bilinmeyen yazar",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -800,6 +838,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Teheran_conference-1943.jpg/500px-Teheran_conference-1943.jpg",
           "genislik": 960,
           "yukseklik": 768,
+          "orijinalGenislik": 5680,
           "yazar": "U.S. Signal Corps photo.",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -812,6 +851,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/500px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg",
           "genislik": 960,
           "yukseklik": 1199,
+          "orijinalGenislik": 2782,
           "yazar": "White House",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -819,7 +859,8 @@
           "aciklama": "An official portrait of Dwight D. Eisenhower",
           "konu": "Dwight D. Eisenhower"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1957-sovyetler-birliginin-ilk-yapay-uydu-sputniki-firlatmasiyla",
@@ -833,8 +874,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1958-fransada-besinci-cumhuriyet-ilan-edildi",
@@ -847,8 +888,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1958-ilk-transatlantik-jet-servisi-londra-ve-new",
@@ -861,12 +902,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/500px-London_Skyline_%28125508655%29.jpeg",
         "genislik": 960,
         "yukseklik": 540,
+        "orijinalGenislik": 2048,
         "yazar": "Ilya Grigorik",
         "lisans": "CC BY-SA 3.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -880,6 +921,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/500px-London_Skyline_%28125508655%29.jpeg",
           "genislik": 960,
           "yukseklik": 540,
+          "orijinalGenislik": 2048,
           "yazar": "Ilya Grigorik",
           "lisans": "CC BY-SA 3.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -892,6 +934,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/500px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
           "genislik": 960,
           "yukseklik": 540,
+          "orijinalGenislik": 8207,
           "yazar": "Dllu",
           "lisans": "CC BY-SA 4.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -899,7 +942,8 @@
           "aciklama": "View of the Empire State Building in New York City from the Top of the Rock at 30 Rockefeller Plaza during sunset. The tower was illuminated in green in honor of Climate Week NYC.[1]",
           "konu": "New York"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1959-dunya-serbest-gures-sampiyonasi-tahranda-yapildi-turkiye",
@@ -911,19 +955,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/960px-North_of_Tehran_Skyline_view.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/500px-North_of_Tehran_Skyline_view.jpg",
         "genislik": 960,
         "yukseklik": 758,
+        "orijinalGenislik": 1709,
         "yazar": "Ninara from Helsinki, Finland",
         "lisans": "CC BY-SA 3.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:North_of_Tehran_Skyline_view.jpg",
         "aciklama": "North of Tehran Skyline view, Tehran, Iran",
         "konu": "Tahran"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1964-antalya-belediyesince-duzenlenen-ilk-antalya-altin-portakal",
@@ -935,8 +980,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1965-kuba-lideri-fidel-castro-che-guevaranin-emperyalizme",
@@ -950,12 +995,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Fidel_Castro_in_Washington.jpg/960px-Fidel_Castro_in_Washington.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Fidel_Castro_in_Washington.jpg/500px-Fidel_Castro_in_Washington.jpg",
         "genislik": 960,
         "yukseklik": 1280,
+        "orijinalGenislik": 1454,
         "yazar": "Fidel_Castro_-_MATS_Terminal_Washington_1959.png: Warren K. Leffler derivative work: Damiens.rf",
         "lisans": "Public domain",
         "lisansUrl": null,
@@ -969,6 +1014,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Fidel_Castro_in_Washington.jpg/500px-Fidel_Castro_in_Washington.jpg",
           "genislik": 960,
           "yukseklik": 1280,
+          "orijinalGenislik": 1454,
           "yazar": "Fidel_Castro_-_MATS_Terminal_Washington_1959.png: Warren K. Leffler derivative work: Damiens.rf",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -981,6 +1027,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg/500px-Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg",
           "genislik": 960,
           "yukseklik": 1112,
+          "orijinalGenislik": 2827,
           "yazar": "Alberto Korda, restored by Adam Cuerden",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -988,7 +1035,8 @@
           "aciklama": "Popularized cropped version of Guerrillero Heroico - Che Guevara at the funeral for the victims of the La Coubre explosion. Gelatin silver print from 1985, 23.9 x 17 cm (image 19.4 x 17 cm)",
           "konu": "Ernesto Che Guevara"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1966-afrikanin-guneyindeki-ingiliz-somurgesi-basutoland-bagimsizligini-ilan",
@@ -1002,19 +1050,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/LaGuerreAMadagascar.jpg/960px-LaGuerreAMadagascar.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/LaGuerreAMadagascar.jpg/500px-LaGuerreAMadagascar.jpg",
         "genislik": 960,
         "yukseklik": 1445,
+        "orijinalGenislik": 5300,
         "yazar": "Louis Bombled / Henri Galli",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:LaGuerreAMadagascar.jpg",
         "aciklama": "Depiction of the 1895 French war in Madagascar.",
         "konu": "Sömürgecilik"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1974-yunanistanda-albaylar-cuntasinin-sona-ermesinin-ardindan-merkez",
@@ -1028,8 +1077,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1978-ecevit-basbakanligindaki-turk-hukumeti-4-yeni-amerikan",
@@ -1042,8 +1091,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1984-misirin-halen-kullanimda-olan-bayragi-kabul-edildi",
@@ -1056,8 +1105,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1985-gnu-projesini-desteklemek-icin-abdde-ozgur-yazilim",
@@ -1070,8 +1119,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1992-kanal-6-yayina-basladi",
@@ -1083,8 +1132,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1993-rusyada-boris-yeltsine-bagli-ordu-birlikleri-komunistlerin",
@@ -1097,19 +1146,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD-1_%28cropped%29_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD-1_%28cropped%29_%28cropped%29.jpg",
         "genislik": 768,
         "yukseklik": 1024,
+        "orijinalGenislik": 768,
         "yazar": "Presidential Press and Information Office",
         "lisans": "CC BY 4.0",
         "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD-1_(cropped)_(cropped).jpg",
         "aciklama": "Official portrait of Boris Yeltsin (Борис Николаевич Ельцин).",
         "konu": "Boris Yeltsin"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2001-kuzey-atlantik-konseyi-11-eylul-saldirisinin-ardindan",
@@ -1124,19 +1174,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/September_11_Photo_Montage.jpg/960px-September_11_Photo_Montage.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/September_11_Photo_Montage.jpg/500px-September_11_Photo_Montage.jpg",
         "genislik": 960,
         "yukseklik": 1654,
+        "orijinalGenislik": 1057,
         "yazar": "UpstateNYer",
         "lisans": "CC BY-SA 3.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:September_11_Photo_Montage.jpg",
         "aciklama": "Collection of photos related to the September 11 attacks, meant to be used as the infobox image for that article on Wikipedia.",
         "konu": "11 Eylül saldırıları"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2002-39-altin-portakal-film-festivalinde-en-iyi",
@@ -1150,19 +1201,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Nuri_Bilge_Ceylan%2C_Cines_del_Sur.jpg/960px-Nuri_Bilge_Ceylan%2C_Cines_del_Sur.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Nuri_Bilge_Ceylan%2C_Cines_del_Sur.jpg/500px-Nuri_Bilge_Ceylan%2C_Cines_del_Sur.jpg",
         "genislik": 960,
         "yukseklik": 1529,
+        "orijinalGenislik": 1079,
         "yazar": "Cines del Sur Granada Film Festival from Spain",
         "lisans": "CC BY-SA 2.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:Nuri_Bilge_Ceylan,_Cines_del_Sur.jpg",
         "aciklama": "1SUR - 2007 El realizador y fotógrafo turco durante la inauguración de su exposición The turkish filmmaker and photographer during the opening of his exhibition",
         "konu": "Nuri Bilge Ceylan"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2012-turkiyenin-suriye-tezkeresi-320-kabul-120-ret",
@@ -1174,8 +1226,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2023-daglik-karabag-cumhuriyeti-coktu-ve-hankendi-sehri",
@@ -1189,19 +1241,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/StepanakertCollage.jpg/960px-StepanakertCollage.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/StepanakertCollage.jpg/500px-StepanakertCollage.jpg",
         "genislik": 960,
         "yukseklik": 955,
+        "orijinalGenislik": 1121,
         "yazar": "See above",
         "lisans": "CC BY-SA 4.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "kaynak": "https://commons.wikimedia.org/wiki/File:StepanakertCollage.jpg",
         "aciklama": "Stepanakert, Nagorno-Karabakh",
         "konu": "Hankendi"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2023-android-14-piyasaya-suruldu",
@@ -1213,8 +1266,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -1839,5 +1892,5 @@
     "url": "https://tr.wikipedia.org/wiki/4_Ekim",
     "revid": 36768161
   },
-  "guncelleme": "2026-09-27T09:17:03.467Z"
+  "guncelleme": "2026-09-27T09:48:22.203Z"
 }

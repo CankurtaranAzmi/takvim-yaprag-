@@ -1,7 +1,8 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { gunAdi, gunSlug, yilYaz, istanbulBugun } from '../../lib/tarih.mjs';
+import { AYLAR, gunAdi, gunSlug, yilYaz, istanbulBugun } from '../../lib/tarih.mjs';
 import { TUM_YAYINDAKI_OLAYLAR, yayindakiOlaylar } from '../../lib/veri.mjs';
+import { srcset, buyukUrl, altMetin, kisaYazar } from '../../lib/gorsel.mjs';
 import { SITE } from '../../site.config.mjs';
 
 export function getStaticPaths() {
@@ -10,10 +11,9 @@ export function getStaticPaths() {
 
 const { o } = Astro.props;
 const g = o.gunVeri;
-const tarih = `${gunAdi(g.ay, g.gun)} ${yilYaz(o.yil)}`;
 const paragraflar = o.ozet.split(/\n\s*\n/).map((p) => p.trim()).filter(Boolean);
 const aciklama = paragraflar[0].length > 155 ? paragraflar[0].slice(0, 152).replace(/\s+\S*$/, '') + '…' : paragraflar[0];
-const ayniGun = yayindakiOlaylar(g).filter((x) => x.id !== o.id).slice(0, 5);
+const ayniGun = yayindakiOlaylar(g).filter((x) => x.id !== o.id).slice(0, 6);
 const buYil = istanbulBugun().yil;
 const url = `${SITE.url}/olay/${o.id}/`;
 
@@ -29,7 +29,7 @@ const jsonld = [
     author: { '@type': 'Organization', name: `${SITE.ad} Editörlüğü`, url: `${SITE.url}/hakkimizda/` },
     publisher: { '@type': 'Organization', name: SITE.ad, url: SITE.url },
     about: { '@type': 'Event', name: o.baslik, description: o.metin },
-    ...(o.gorsel ? { image: o.gorsel.url } : {}),
+    ...(o.gorsel ? { image: buyukUrl(o.gorsel) } : {}),
   },
   {
     '@context': 'https://schema.org',
@@ -41,44 +41,61 @@ const jsonld = [
   },
 ];
 ---
-<Base baslik={`${o.baslik} (${yilYaz(o.yil)})`} aciklama={aciklama} tur="article" jsonld={jsonld} gorsel={o.gorsel?.url}>
-  <nav class="yol" aria-label="Konum"><a href="/">Anasayfa</a> / <a href={`/${g.slug}/`}>{gunAdi(g.ay, g.gun)}</a></nav>
-  <article>
-    <header class="makale-ust">
-      <div class="makale-tarih"><span>{tarih}</span>{o.kategori && <span class="etiket">{o.kategori}</span>}</div>
-      <h1>{o.baslik}</h1>
-      {o.yil > 0 && <p style="color:var(--soluk);margin:0">Bu olayın üzerinden {buYil - o.yil} yıl geçti.</p>}
-    </header>
+<Base baslik={`${o.baslik} (${yilYaz(o.yil)})`} aciklama={aciklama} tur="article" jsonld={jsonld} gorsel={o.gorsel ? buyukUrl(o.gorsel) : undefined}>
+  <section class:list={['manset', 'manset--olay', { 'manset--gorselsiz': !o.gorsel, 'manset--dikey': o.gorsel && o.gorsel.yukseklik > o.gorsel.genislik * 0.95 }]}>
     {o.gorsel && (
-      <figure class="makale-gorsel">
-        <img src={o.gorsel.url} alt={o.gorsel.aciklama ?? o.gorsel.konu ?? o.baslik} width={o.gorsel.genislik} height={o.gorsel.yukseklik} fetchpriority="high" decoding="async" />
-        <figcaption>
-          {o.gorsel.konu && <>{o.gorsel.konu}. </>}Görsel: <a href={o.gorsel.kaynak} rel="noopener">{o.gorsel.yazar}</a>,
-          {o.gorsel.lisansUrl ? <a href={o.gorsel.lisansUrl} rel="license noopener">{o.gorsel.lisans}</a> : o.gorsel.lisans}, Wikimedia Commons
-        </figcaption>
+      <figure class="manset-gorsel" style={`--arka:url('${o.gorsel.kucukUrl}')`}>
+        <img src={o.gorsel.url} srcset={srcset(o.gorsel)} sizes="100vw" alt={altMetin(o.gorsel, o.baslik)} fetchpriority="high" decoding="async" />
       </figure>
     )}
-    <div class="makale-govde">
-      {paragraflar.map((p) => <p>{p}</p>)}
+    <div class="kap">
+      <div class="manset-panel">
+        <nav class="yol" aria-label="Konum"><a href="/">Anasayfa</a> / <a href={`/${g.slug}/`}>{gunAdi(g.ay, g.gun)}</a>{o.kategori && <> / {o.kategori}</>}</nav>
+        <div class="manset-ust" style="margin-bottom:6px">
+          <div class="rozet" aria-hidden="true"><div class="rozet-ay">{AYLAR[g.ay - 1].slice(0, 3)}</div><div class="rozet-gun">{g.gun}</div></div>
+          <div class="manset-yil">{yilYaz(o.yil)}{o.yil > 0 && <small>{buYil - o.yil} yıl önce</small>}</div>
+        </div>
+        <h1>{o.baslik}</h1>
+        {o.gorsel && (
+          <p class="manset-kredi" style="margin:14px 0 0">
+            {o.gorsel.konu && <>{o.gorsel.konu}. </>}Görsel: <a href={o.gorsel.kaynak} rel="noopener">{kisaYazar(o.gorsel, 70)}</a>,
+            {o.gorsel.lisansUrl ? <a href={o.gorsel.lisansUrl} rel="license noopener">{o.gorsel.lisans}</a> : o.gorsel.lisans}, Wikimedia Commons
+          </p>
+        )}
+      </div>
     </div>
-    <p class="kaynak-kutu">
-      Olay kaydı: <a href={g.kaynak.url} rel="noopener">Vikipedi – {gunAdi(g.ay, g.gun)}</a> (CC BY-SA 4.0).
-      Bu özet {SITE.ad} editörlüğü tarafından hazırlanmıştır. Bir hata fark ederseniz <a href="/iletisim/">bize yazın</a>.
-    </p>
-  </article>
+  </section>
 
-  {ayniGun.length > 0 && (
-    <section class="bolum">
-      <div class="bolum-baslik"><h2>{gunAdi(g.ay, g.gun)} tarihinde başka neler oldu?</h2></div>
-      <ol class="olaylar">
-        {ayniGun.map((x) => (
-          <li class="olay">
-            <div class="olay-yil">{yilYaz(x.yil)}</div>
-            <div class="olay-metin"><a href={`/olay/${x.id}/`}>{x.baslik}</a></div>
-          </li>
-        ))}
-      </ol>
-    </section>
-  )}
-  <p><a href={`/${gunSlug(g.ay, g.gun)}/`}>← {gunAdi(g.ay, g.gun)} gününün tamamını gör</a></p>
+  <div class:list={['kap', 'duzen', { 'duzen--tek': !ayniGun.length }]}>
+    <article class="makale">
+      <div class="makale-govde">
+        {paragraflar.map((p) => <p>{p}</p>)}
+      </div>
+      <p class="kaynak-kutu">
+        Olay kaydı: <a href={g.kaynak.url} rel="noopener">Vikipedi – {gunAdi(g.ay, g.gun)}</a> (CC BY-SA 4.0).
+        Bu özet {SITE.ad} editörlüğü tarafından hazırlanmıştır. Bir hata fark ederseniz <a href="/iletisim/">bize yazın</a>.
+      </p>
+      <a class="dugme" href={`/${gunSlug(g.ay, g.gun)}/`}><span>← {gunAdi(g.ay, g.gun)} gününün tamamı</span></a>
+    </article>
+
+    {ayniGun.length > 0 && (
+    <aside class="yan">
+      {(
+        <section class="kutu">
+          <h2>Aynı gün</h2>
+          <ul class="mini-liste">
+            {ayniGun.map((x) => (
+              <li>
+                <a href={`/olay/${x.id}/`}>
+                  {x.gorsel ? <img src={x.gorsel.kucukUrl} alt="" width="64" height="64" loading="lazy" /> : <span class="mini-bos">{yilYaz(x.yil)}</span>}
+                  <span><small>{yilYaz(x.yil)}</small>{x.baslik}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+    </aside>
+    )}
+  </div>
 </Base>

@@ -12,19 +12,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/King_Henry_IV_from_NPG_%282%29.jpg/960px-King_Henry_IV_from_NPG_%282%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/King_Henry_IV_from_NPG_%282%29.jpg/500px-King_Henry_IV_from_NPG_%282%29.jpg",
         "genislik": 960,
         "yukseklik": 1254,
+        "orijinalGenislik": 2400,
         "yazar": "anonymous",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:King_Henry_IV_from_NPG_(2).jpg",
         "aciklama": "King Henry IV, by unknown artist. See source website for additional information. This set of images was gathered by User:Dcoetzee from the National Portrait Gallery, London website using a special too",
         "konu": "IV. Henry"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1517-oruc-reis-cezayir-zaferini-elde-etti",
@@ -37,19 +38,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Arudsch-barbarossa.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Arudsch-barbarossa.jpg",
         "genislik": 700,
         "yukseklik": 1040,
+        "orijinalGenislik": 700,
         "yazar": "Charles Étienne Pierre Motte / Achille Devéria",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:Arudsch-barbarossa.jpg",
         "aciklama": null,
         "konu": "Oruç Reis"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1520-kanuni-sultan-suleyman-10-osmanli-padisahi-olarak",
@@ -62,19 +64,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/960px-EmperorSuleiman.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/500px-EmperorSuleiman.jpg",
         "genislik": 960,
         "yukseklik": 1123,
+        "orijinalGenislik": 1810,
         "yazar": "Circle of Titian",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:EmperorSuleiman.jpg",
         "aciklama": "Delle tre versioni del ritratto di Solimano, ricordate dalle fonti come «di mano di Tiziano», ne sono giunte fino a noi solo due, iconograficamente diverse tra loro, ma entrambe riferibili alla botteg",
         "konu": "I. Süleyman"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1730-sultan-i-mahmut-tahta-cikti",
@@ -86,19 +89,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Sultan_Mahmud_I_%E2%80%93_Jean_Baptiste_Vanmour.jpg_%28cropped%29.jpg/960px-Sultan_Mahmud_I_%E2%80%93_Jean_Baptiste_Vanmour.jpg_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Sultan_Mahmud_I_%E2%80%93_Jean_Baptiste_Vanmour.jpg_%28cropped%29.jpg/500px-Sultan_Mahmud_I_%E2%80%93_Jean_Baptiste_Vanmour.jpg_%28cropped%29.jpg",
         "genislik": 960,
         "yukseklik": 1327,
+        "orijinalGenislik": 3685,
         "yazar": "Jean Baptiste Vanmour",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:Sultan_Mahmud_I_%E2%80%93_Jean_Baptiste_Vanmour.jpg_(cropped).jpg",
         "aciklama": "De sultan is geportretteerd in de open lucht vergezeld door twee dienaren. Op de achtergrond zien we enkele gebouwen. Mogelijk moet dit het haremgedeelte van het paleis van de sultan, het Topkapı Sara",
         "konu": "I. Mahmud"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1791-mozartin-son-operasi-sihirli-flutun-galasi-viyanada",
@@ -112,12 +116,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Wolfgang-amadeus-mozart_1.jpg/960px-Wolfgang-amadeus-mozart_1.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Wolfgang-amadeus-mozart_1.jpg/500px-Wolfgang-amadeus-mozart_1.jpg",
         "genislik": 960,
         "yukseklik": 1230,
+        "orijinalGenislik": 2996,
         "yazar": "Barbara Krafft",
         "lisans": "Public domain",
         "lisansUrl": null,
@@ -131,6 +135,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Wolfgang-amadeus-mozart_1.jpg/500px-Wolfgang-amadeus-mozart_1.jpg",
           "genislik": 960,
           "yukseklik": 1230,
+          "orijinalGenislik": 2996,
           "yazar": "Barbara Krafft",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -143,6 +148,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/20180109_Vienna_State_Opera_at_blue_hour_850_9387.jpg/500px-20180109_Vienna_State_Opera_at_blue_hour_850_9387.jpg",
           "genislik": 960,
           "yukseklik": 592,
+          "orijinalGenislik": 7520,
           "yazar": "Granada",
           "lisans": "CC BY-SA 4.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -150,7 +156,8 @@
           "aciklama": "Vienna State Opera at the blue hour",
           "konu": "Viyana"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1888-karindesen-jack-ucuncu-kurbani-olan-elizabeth-stridei",
@@ -162,19 +169,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/JacktheRipper1888.jpg/960px-JacktheRipper1888.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/JacktheRipper1888.jpg/500px-JacktheRipper1888.jpg",
         "genislik": 960,
         "yukseklik": 1017,
+        "orijinalGenislik": 1175,
         "yazar": "R. Taylor (R. & E. Taylor (Firm))",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:JacktheRipper1888.jpg",
         "aciklama": "One of a series of images from the Illustrated London News for October 13, 1888 carrying the overall caption, \"With the Vigilance Committee in the East End\". This specific image is entitled \"A Suspici",
         "konu": "Karındeşen Jack"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1930-ilk-turk-sivil-pilotlardan-vecihi-bey-kendi",
@@ -188,12 +196,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Hurkus.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Hurkus.jpg",
         "genislik": 835,
         "yukseklik": 1029,
+        "orijinalGenislik": 835,
         "yazar": "Bilinmeyen yazar",
         "lisans": "Public domain",
         "lisansUrl": null,
@@ -207,6 +215,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Hurkus.jpg",
           "genislik": 835,
           "yukseklik": 1029,
+          "orijinalGenislik": 835,
           "yazar": "Bilinmeyen yazar",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -219,6 +228,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/G%C3%B6ztepe_2024_03.jpg/500px-G%C3%B6ztepe_2024_03.jpg",
           "genislik": 960,
           "yukseklik": 1279,
+          "orijinalGenislik": 3472,
           "yazar": "Alessandro57",
           "lisans": "CC BY-SA 4.0",
           "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -231,6 +241,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/HouseOfSanStefanoTreaty.jpg/500px-HouseOfSanStefanoTreaty.jpg",
           "genislik": 960,
           "yukseklik": 720,
+          "orijinalGenislik": 2592,
           "yazar": "A. Fabbretti",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -238,7 +249,8 @@
           "aciklama": "House of the Simeonoglou family in Yeşilköy, where in 1878 the Treaty of San Stefano was signed.",
           "konu": "Yeşilköy"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1956-soprano-leyla-gencer-san-franciscoda-konser-verdi",
@@ -253,12 +265,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Range_soprano_voice.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Range_soprano_voice.png",
         "genislik": 507,
         "yukseklik": 340,
+        "orijinalGenislik": 507,
         "yazar": "PeteCS",
         "lisans": "CC BY-SA 3.0",
         "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
@@ -272,6 +284,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Range_soprano_voice.png",
           "genislik": 507,
           "yukseklik": 340,
+          "orijinalGenislik": 507,
           "yazar": "PeteCS",
           "lisans": "CC BY-SA 3.0",
           "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
@@ -284,6 +297,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Leyla_Gencer_An%C4%B1t%C4%B1.jpg",
           "genislik": 576,
           "yukseklik": 768,
+          "orijinalGenislik": 576,
           "yazar": "Nosferatü",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -296,6 +310,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/San_Francisco_skyline_from_Marin_Headlands.jpg/500px-San_Francisco_skyline_from_Marin_Headlands.jpg",
           "genislik": 960,
           "yukseklik": 493,
+          "orijinalGenislik": 3840,
           "yazar": "Ryan Schwark",
           "lisans": "CC0",
           "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
@@ -303,7 +318,8 @@
           "aciklama": "San Francisco skyline from Marin Headlands",
           "konu": "San Francisco"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1960-devlet-planlama-teskilati-kuruldu",
@@ -315,8 +331,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1966-botsvana-birlesik-kralliktan-bagimsizligini-kazandi",
@@ -329,8 +345,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1980-devlet-baskani-orgeneral-kenan-evren-kara-harp",
@@ -342,8 +358,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1991-istanbul-metrosunun-on-tunel-insaati-basladi-acilisi",
@@ -357,8 +373,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1993-6-2-mw-latur-depremi-hindistanin-maharashtra",
@@ -368,8 +384,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2005-danimarkada-jyllands-posten-isimli-gazetede-muhammed-peygamberi",
@@ -384,12 +400,12 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Calligraphic_representation_of_Muhammad%27s_name.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Calligraphic_representation_of_Muhammad%27s_name.jpg",
         "genislik": 521,
         "yukseklik": 524,
+        "orijinalGenislik": 521,
         "yazar": "Bakkouz at Arabic Wikipedia",
         "lisans": "Public domain",
         "lisansUrl": null,
@@ -403,6 +419,7 @@
           "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Calligraphic_representation_of_Muhammad%27s_name.jpg",
           "genislik": 521,
           "yukseklik": 524,
+          "orijinalGenislik": 521,
           "yazar": "Bakkouz at Arabic Wikipedia",
           "lisans": "Public domain",
           "lisansUrl": null,
@@ -415,6 +432,7 @@
           "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Paris_2006-02-11_anti-caricature_protest_bannieres_dsc07510.jpg/500px-Paris_2006-02-11_anti-caricature_protest_bannieres_dsc07510.jpg",
           "genislik": 960,
           "yukseklik": 717,
+          "orijinalGenislik": 2212,
           "yazar": "David Monniaux",
           "lisans": "CC BY-SA 3.0",
           "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
@@ -422,7 +440,8 @@
           "aciklama": "[February 11, 2006 Parisian protest against the publication of caricatures of Muhammad",
           "konu": "Danimarka Karikatür Krizi"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "2009-endonezyanin-sumatra-adasinda-gerceklesen-depremde-1115-kisi",
@@ -436,19 +455,20 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
         "genislik": 800,
         "yukseklik": 420,
+        "orijinalGenislik": 800,
         "yazar": "NASA",
         "lisans": "Public domain",
         "lisansUrl": null,
         "kaynak": "https://commons.wikimedia.org/wiki/File:Quake_epicenters_1963-98_notitle.png",
         "aciklama": "Quake epicenters: Preliminary Determination of Epicenters, 358,214 Events, 1963 - 1998",
         "konu": "deprem"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2016-matthew-kasirgasi-kategori-5-kasirgasi-haline-gelerek",
@@ -460,8 +480,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -950,5 +970,5 @@
     "url": "https://tr.wikipedia.org/wiki/30_Eyl%C3%BCl",
     "revid": 37907765
   },
-  "guncelleme": "2026-09-27T09:16:55.872Z"
+  "guncelleme": "2026-09-27T09:48:14.167Z"
 }

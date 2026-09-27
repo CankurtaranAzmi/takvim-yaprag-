@@ -1,33 +1,41 @@
-// Özeti olmayan olaylar için Claude ile özgün Türkçe özet, kısa başlık ve kategori yazar.
+// Özeti olmayan olaylar için Google Gemini (ücretsiz plan) ile özgün Türkçe özet, kısa başlık ve kategori yazar.
 // Vikipedi'deki ilgili maddelerin giriş paragrafları yalnızca BAĞLAM olarak verilir; metin kopyalanmaz.
 //
 // Kullanım:
 //   node scripts/ozet-yaz.mjs                  -> bugün + önümüzdeki 7 gün
 //   node scripts/ozet-yaz.mjs --gun 09-27      -> tek gün
-//   node scripts/ozet-yaz.mjs --hepsi --limit 200
+//   node scripts/ozet-yaz.mjs --hepsi --limit 400
 //
-// Gerekli: ANTHROPIC_API_KEY. Model: CLAUDE_MODEL (varsayılan claude-opus-5).
+// Gerekli: GEMINI_API_KEY (aistudio.google.com, kredi kartı gerekmez).
+// Model: GEMINI_MODEL (varsayılan gemini-flash-lite-latest; ücretsiz planda günde ~500 istek).
+// Günlük kota dolarsa script hata vermeden durur; kalan olaylar ertesi gün yazılır.
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import Anthropic from '@anthropic-ai/sdk';
-import { zodOutputFormat } from '@anthropic-ai/sdk/helpers/zod';
-import { z } from 'zod';
 import { gunAnahtar, gunAdi, tumGunler, istanbulBugun, komsuGun, yilYaz } from '../src/lib/tarih.mjs';
 import { KATEGORILER } from '../src/lib/kategoriler.mjs';
 
 const VERI_DIZINI = path.resolve('src/data/gunler');
-const MODEL = process.env.CLAUDE_MODEL || 'claude-opus-5';
+const MODEL = process.env.GEMINI_MODEL || 'gemini-flash-lite-latest';
+const API_KEY = process.env.GEMINI_API_KEY;
 const UA = 'TakvimYapragiBot/1.0 (https://takvimyapragi.com)';
-const client = new Anthropic();
+const BEKLEME_MS = Number(process.env.GEMINI_BEKLEME_MS || 4500); // ücretsiz planın dakika sınırına takılmamak için
 
-const Cikti = z.object({
-  baslik: z.string().describe('Olayı anlatan, 50-80 karakterlik doğal bir Türkçe başlık. Yıl içermesin.'),
-  ozet: z.string().describe('150-250 kelimelik, 2-3 paragraflık özgün özet. Paragraflar arasında boş satır.'),
-  kategori: z.enum(KATEGORILER),
-  guven: z.enum(['yuksek', 'dusuk']).describe('Olayın tarihi ve içeriğinden emin değilsen "dusuk".'),
-  gorsel: z.number().int().describe('Aday görsellerden olayı en iyi anlatanın numarası; hiçbiri uygun değilse 0.'),
-});
+class KotaDoldu extends Error {}
+
+// Gemini "responseSchema" (OpenAPI alt kümesi)
+const SEMA = {
+  type: 'OBJECT',
+  properties: {
+    baslik: { type: 'STRING', description: 'Olayı anlatan, 50-80 karakterlik doğal bir Türkçe başlık. Yıl içermesin.' },
+    ozet: { type: 'STRING', description: '150-250 kelimelik, 2-3 paragraflık özgün özet. Paragraflar arasında boş satır.' },
+    kategori: { type: 'STRING', format: 'enum', enum: KATEGORILER },
+    guven: { type: 'STRING', format: 'enum', enum: ['yuksek', 'dusuk'], description: 'Olayın tarihi ve içeriğinden emin değilsen "dusuk".' },
+    gorsel: { type: 'INTEGER', description: 'Aday görsellerden olayı en iyi anlatanın numarası; hiçbiri uygun değilse 0.' },
+  },
+  required: ['baslik', 'ozet', 'kategori', 'guven', 'gorsel'],
+  propertyOrdering: ['baslik', 'ozet', 'kategori', 'guven', 'gorsel'],
+};
 
 const SISTEM = `Sen "Takvim Yaprağı" adlı Türkçe "tarihte bugün" sitesinin editörüsün.
 Sana bir tarihte yaşanmış bir olayın tek satırlık kaydı ve ilgili Vikipedi maddelerinin giriş paragrafları verilecek.
@@ -74,22 +82,44 @@ async function olayYaz(ay, gun, olay) {
       : '(Bağlam metni yok.)',
   ].join('\n');
 
-  const yanit = await client.messages.parse({
-    model: MODEL,
-    max_tokens: 16000,
-    output_config: { effort: 'medium', format: zodOutputFormat(Cikti) },
-    system: SISTEM,
-    messages: [{ role: 'user', content: istek }],
-  });
-
-  if (yanit.stop_reason === 'refusal') throw new Error('model reddetti');
-  if (!yanit.parsed_output) throw new Error(`çıktı ayrıştırılamadı (${yanit.stop_reason})`);
-  const c = yanit.parsed_output;
+  const c = await gemini(istek);
+  if (!KATEGORILER.includes(c.kategori)) c.kategori = null;
   return { ...c, secilenGorsel: adaylar[c.gorsel - 1] ?? null };
 }
 
+async function gemini(istek, deneme = 0) {
+  const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', 'x-goog-api-key': API_KEY },
+    body: JSON.stringify({
+      systemInstruction: { parts: [{ text: SISTEM }] },
+      contents: [{ role: 'user', parts: [{ text: istek }] }],
+      generationConfig: { temperature: 0.4, responseMimeType: 'application/json', responseSchema: SEMA },
+    }),
+  });
+  if (res.status === 429 || res.status === 503) {
+    const govde = await res.text();
+    // Günlük kota bittiyse beklemenin anlamı yok
+    if (/per ?day|PerDay/i.test(govde) || deneme >= 3) throw new KotaDoldu(govde.slice(0, 300));
+    await new Promise((r) => setTimeout(r, 20000 * (deneme + 1)));
+    return gemini(istek, deneme + 1);
+  }
+  if (!res.ok) throw new Error(`Gemini HTTP ${res.status}: ${(await res.text()).slice(0, 300)}`);
+  const json = await res.json();
+  const aday = json.candidates?.[0];
+  const metin = aday?.content?.parts?.map((p) => p.text ?? '').join('');
+  if (!metin) throw new Error(`boş yanıt (${aday?.finishReason ?? json.promptFeedback?.blockReason ?? 'bilinmiyor'})`);
+  return JSON.parse(metin);
+}
+
 function hedefGunler(args) {
-  if (args.includes('--hepsi')) return tumGunler();
+  if (args.includes('--hepsi')) {
+    // Bugünden başlayarak yılı dolaş: yaklaşan günler önce dolsun
+    const liste = tumGunler();
+    const b = istanbulBugun();
+    const i = liste.findIndex((d) => d.ay === b.ay && d.gun === b.gun);
+    return [...liste.slice(i), ...liste.slice(0, i)];
+  }
   const i = args.indexOf('--gun');
   if (i >= 0) {
     const [ay, gun] = args[i + 1].split('-').map(Number);
@@ -101,21 +131,27 @@ function hedefGunler(args) {
   return liste;
 }
 
+if (!API_KEY) {
+  console.error('GEMINI_API_KEY tanımlı değil. https://aistudio.google.com/apikey adresinden ücretsiz alınabilir.');
+  process.exit(1);
+}
+
 const args = process.argv.slice(2);
 const limitIdx = args.indexOf('--limit');
 let kalan = limitIdx >= 0 ? Number(args[limitIdx + 1]) : Infinity;
 let yazilan = 0;
 let hata = 0;
 
+let kotaDoldu = false;
 for (const { ay, gun } of hedefGunler(args)) {
-  if (kalan <= 0) break;
+  if (kalan <= 0 || kotaDoldu) break;
   const dosya = path.join(VERI_DIZINI, `${gunAnahtar(ay, gun)}.json`);
   let veri;
   try { veri = JSON.parse(await fs.readFile(dosya, 'utf8')); } catch { continue; }
 
   let degisti = false;
   for (const olay of veri.olaylar) {
-    if (olay.ozet || olay.durum === 'incele' || kalan <= 0) continue;
+    if (olay.ozet || olay.durum === 'incele' || kalan <= 0 || kotaDoldu) continue;
     try {
       const c = await olayYaz(ay, gun, olay);
       olay.baslik = c.baslik;
@@ -130,16 +166,23 @@ for (const { ay, gun } of hedefGunler(args)) {
       kalan--;
       console.log(`${olay.durum === 'yayinda' ? '✓' : '?'} ${gunAdi(ay, gun)} ${olay.yil}: ${c.baslik}`);
     } catch (e) {
+      if (e instanceof KotaDoldu) {
+        kotaDoldu = true;
+        console.warn('Günlük ücretsiz kota doldu, kalanlar sonraki çalışmada yazılacak.');
+        break;
+      }
       hata++;
-      if (e instanceof Anthropic.AuthenticationError) {
-        console.error('ANTHROPIC_API_KEY geçersiz ya da tanımlı değil.');
+      if (/HTTP (400|401|403)/.test(e.message) && /API key|API_KEY|permission/i.test(e.message)) {
+        console.error('GEMINI_API_KEY geçersiz.');
         process.exit(1);
       }
       console.error(`✗ ${gunAdi(ay, gun)} ${olay.yil}: ${e.message}`);
     }
+    await new Promise((r) => setTimeout(r, BEKLEME_MS));
   }
   if (degisti) await fs.writeFile(dosya, JSON.stringify(veri, null, 2) + '\n');
 }
 
 console.log(`\n${yazilan} özet yazıldı, ${hata} hata.`);
-if (hata) process.exitCode = 1;
+// Tek tük hatalar PR'ı engellemesin; hepsi hatalıysa işi başarısız say
+if (hata && !yazilan) process.exitCode = 1;
