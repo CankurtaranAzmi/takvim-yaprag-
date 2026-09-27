@@ -40,6 +40,27 @@ const SEMA = {
   propertyOrdering: ['metin', 'baslik', 'ozet', 'kategori', 'bolge', 'onemli', 'guven', 'gorsel'],
 };
 
+// Haberler için: kaynak haberin başlığı/açıklaması kopyalanmaz, kendi cümlelerimizle yeniden yazılır
+const SEMA_HABER = {
+  type: 'OBJECT',
+  properties: {
+    baslik: { type: 'STRING', description: 'Haberi anlatan, kaynaktakinden farklı kelimelerle kurulmuş 45-80 karakterlik yeni bir Türkçe başlık. Tık tuzağı, soru, ünlem, "son dakika" yok.' },
+    ozet: { type: 'STRING', description: 'Haberi kendi cümlelerinle anlatan 2-3 cümlelik (45-90 kelime) özgün özet. Kaynak metinden cümle kopyalama.' },
+    kategori: { type: 'STRING', format: 'enum', enum: KATEGORILER },
+    onemli: { type: 'BOOLEAN', description: 'Geniş kitleyi ilgilendiren, yıllar sonra anılmaya değer bir haber mi? Parti demeçleri, yerel asayiş, magazin, hizmet haberleri (fiyatlar, hava, maç saati) ise false.' },
+  },
+  required: ['baslik', 'ozet', 'kategori', 'onemli'],
+  propertyOrdering: ['baslik', 'ozet', 'kategori', 'onemli'],
+};
+
+const SISTEM_HABER = `Sen "Takvim Yaprağı" adlı Türkçe "tarihte bugün" sitesinin editörüsün.
+Sana geçmiş bir yılda bu tarihte yayınlanmış bir haberin başlığı ve kısa açıklaması verilecek.
+Bu haberi sitemiz için kendi cümlelerinle, tarafsız ve sade bir dille yeniden yaz:
+- Kaynak başlık ve açıklamadaki cümleleri kopyalama; aynı bilgiyi farklı kelime ve cümle yapısıyla anlat.
+- Yalnızca verilen bilgiyi kullan; tarih, sayı veya isim ekleme, uydurma.
+- Geçmiş zaman kullan ("açıkladı", "başladı"); haberin yılını cümle içinde tekrar etme.
+- Siyasi konularda yorum katma, taraf tutma. Markdown ve emoji kullanma.`;
+
 const SISTEM = `Sen "Takvim Yaprağı" adlı Türkçe "tarihte bugün" sitesinin editörüsün.
 Sana bir tarihte yaşanmış bir olayın tek satırlık kaydı (Türkçe ya da İngilizce) ve ilgili Vikipedi maddelerinin giriş paragrafları verilecek. Her zaman Türkçe yaz.
 
@@ -91,14 +112,23 @@ async function olayYaz(ay, gun, olay) {
   return { ...c, secilenGorsel: adaylar[c.gorsel - 1] ?? null };
 }
 
-async function gemini(istek, deneme = 0) {
+async function haberYaz(ay, gun, h) {
+  const istek = [
+    `Tarih: ${gunAdi(ay, gun)} ${h.yil}`,
+    `Kaynak başlık: ${h.metin}`,
+    h.aciklama ? `Kaynak açıklama: ${h.aciklama}` : '',
+  ].join('\n');
+  return gemini(istek, 0, SEMA_HABER, SISTEM_HABER);
+}
+
+async function gemini(istek, deneme = 0, sema = SEMA, sistem = SISTEM) {
   const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', 'x-goog-api-key': API_KEY },
     body: JSON.stringify({
-      systemInstruction: { parts: [{ text: SISTEM }] },
+      systemInstruction: { parts: [{ text: sistem }] },
       contents: [{ role: 'user', parts: [{ text: istek }] }],
-      generationConfig: { temperature: 0.4, responseMimeType: 'application/json', responseSchema: SEMA },
+      generationConfig: { temperature: 0.5, responseMimeType: 'application/json', responseSchema: sema },
     }),
   });
   if (res.status === 429 || res.status === 503) {
@@ -106,7 +136,7 @@ async function gemini(istek, deneme = 0) {
     // Günlük kota bittiyse beklemenin anlamı yok
     if (/per ?day|PerDay/i.test(govde) || deneme >= 3) throw new KotaDoldu(govde.slice(0, 300));
     await new Promise((r) => setTimeout(r, 20000 * (deneme + 1)));
-    return gemini(istek, deneme + 1);
+    return gemini(istek, deneme + 1, sema, sistem);
   }
   if (!res.ok) throw new Error(`Gemini HTTP ${res.status}: ${(await res.text()).slice(0, 300)}`);
   const json = await res.json();
@@ -149,8 +179,29 @@ for (const { ay, gun } of await hedefGunler(args)) {
   try { veri = JSON.parse(await fs.readFile(dosya, 'utf8')); } catch { continue; }
 
   let degisti = false;
+
+  for (const h of (veri.haberler ?? []).filter((h) => !h.ozet && h.durum === 'haber')) {
+    if (kalan <= 0 || kotaDoldu) break;
+    try {
+      const c = await haberYaz(ay, gun, h);
+      h.baslik = c.baslik;
+      h.ozet = c.ozet;
+      h.kategori = KATEGORILER.includes(c.kategori) ? c.kategori : null;
+      h.durum = c.onemli ? 'yazildi' : 'elendi';
+      degisti = true;
+      yazilan++;
+      kalan--;
+      console.log(`${c.onemli ? '✓' : '-'} haber ${gunAdi(ay, gun)} ${h.yil}: ${c.baslik}`);
+    } catch (e) {
+      if (e instanceof KotaDoldu) { kotaDoldu = true; console.warn('Günlük ücretsiz kota doldu.'); break; }
+      hata++;
+      console.error(`✗ haber ${gunAdi(ay, gun)} ${h.yil}: ${e.message}`);
+    }
+    await new Promise((r) => setTimeout(r, BEKLEME_MS));
+  }
+
   const TR = /Türkiye|Türk(?!men|istan)|Osmanlı|Atatürk|Ankara|İstanbul|İzmir|TBMM|Kurtuluş Savaşı/;
-  const tumu = [...veri.olaylar, ...(veri.yakinOlaylar ?? [])]
+  const tumu = [...veri.olaylar]
     .filter((o) => o.gorsel && !o.ozet && o.durum === 'bekliyor')
     .sort((a, b) => {
       const trA = a.bolge === 'turkiye' || TR.test(a.metin ?? '') ? 1 : 0;

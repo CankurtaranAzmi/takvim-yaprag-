@@ -1210,246 +1210,623 @@
     "revid": 38046398
   },
   "guncelleme": "2026-09-27T10:43:49.625Z",
-  "yakinOlaylar": [
+  "haberler": [
     {
-      "id": "2025-tr-thirteen-people-are-arrested-as-part",
+      "id": "2025-haber-2437688",
       "yil": 2025,
       "bolge": "turkiye",
-      "metinEn": "Thirteen people are arrested as part of an investigation into alleged corruption over concerts organized by the Ankara municipal government.",
-      "konular": [
-        "Ankara"
-      ],
+      "tur": "haber",
+      "metin": "Altında kritik eşik aşılıyor: 2026’da rekorlar gelebilir!",
+      "aciklama": "Altın fiyatları yatırımcıların gündeminde kalmaya devam ediyor. FED’in faiz kararları, jeopolitik gelişmeler ve merkez bankalarının alımları, altının güvenli liman olarak öne çıkmasına neden oluyor. Uzmanlar, yükselişin devam edebileceğini ancak kısa süreli dalgalanmalar yaşanabi",
       "haberKaynagi": {
-        "ad": "AP News",
-        "url": "https://apnews.com/article/turkey-opposition-crackdown-ankara-municipality-probe-4082778aca3a519c81ecac37cee45c1b"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/altinda-kritik-esik-asiliyor-2026-da-rekorlar-gelebilir-2437688"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Ankara_from_bus_station.jpg/960px-Ankara_from_bus_station.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Ankara_from_bus_station.jpg/500px-Ankara_from_bus_station.jpg",
-        "genislik": 960,
-        "yukseklik": 620,
-        "orijinalGenislik": 3883,
-        "yazar": "Boubacar Amadou Cisse",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_from_bus_station.jpg",
-        "aciklama": "Ankara is the capital city of Turkey. This picture has been taken from the Central Bus Station.",
-        "konu": "Ankara"
-      },
-      "durum": "bekliyor"
-    },
-    {
-      "id": "2024-dn-the-deadliest-day-of-the-hezbollah",
-      "yil": 2024,
-      "bolge": "dunya",
-      "metinEn": "The deadliest day of the Hezbollah–Israel conflict since 2006 occurs, with 569 people killed and 1,835 wounded by Israeli airstrikes in Lebanon.",
-      "konular": [
-        "Hezbollah–Israel conflict",
-        "September 2024 Lebanon strikes"
-      ],
-      "haberKaynagi": {
-        "ad": "BBC News",
-        "url": "https://www.bbc.co.uk/news/live/c5y32qew9z2t"
-      },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Hezbollah_Headquarter_Airstrike_2024.jpg/960px-Hezbollah_Headquarter_Airstrike_2024.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Hezbollah_Headquarter_Airstrike_2024.jpg/500px-Hezbollah_Headquarter_Airstrike_2024.jpg",
-        "genislik": 960,
-        "yukseklik": 630,
-        "orijinalGenislik": 3191,
-        "yazar": "Jimmyp84",
-        "lisans": "CC0",
-        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Hezbollah_Headquarter_Airstrike_2024.jpg",
-        "aciklama": "Assassination of Hassan Nasrallah at the Hezbollah Headquarter airstrike by IDF on September 27, 2024 from my home view.",
-        "konu": "September 2024 Lebanon strikes"
-      },
-      "durum": "bekliyor"
-    },
-    {
-      "id": "2019-dn-one-of-the-largest-and-oldest",
-      "yil": 2019,
-      "bolge": "dunya",
-      "metinEn": "One of the largest and oldest travel firms, Thomas Cook, goes bankrupt as last-minute rescue negotiations fail, stranding 600,000 tourists worldwide.",
-      "konular": [
-        "Thomas Cook Group"
-      ],
-      "haberKaynagi": {
-        "ad": "The New York Times",
-        "url": "https://www.nytimes.com/2019/09/23/travel/why-thomas-cook-travel-collapsed.html"
-      },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": null,
-      "durum": "bekliyor"
-    },
-    {
-      "id": "2019-dn-russia-formally-adopts-the-paris-climate",
-      "yil": 2019,
-      "bolge": "dunya",
-      "metinEn": "Russia formally adopts the Paris climate agreement.",
-      "konular": [
-        "Paris Agreement"
-      ],
-      "haberKaynagi": {
-        "ad": "Euractiv",
-        "url": "https://www.euractiv.com/section/climate-environment/news/russia-formally-joins-paris-climate-pact/"
-      },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": null,
-      "durum": "bekliyor"
-    },
-    {
-      "id": "2009-dn-korba-chimney-collapse-at-least-45",
-      "yil": 2009,
-      "bolge": "dunya",
-      "metinEn": "Korba chimney collapse: At least 45 workers are killed when lightning strikes a chimney under construction in Korba, Chhattisgarh, India, causing it to collapse.",
-      "konular": [
-        "Korba chimney collapse",
-        "Korba, Chhattisgarh"
-      ],
-      "haberKaynagi": {
-        "ad": "Hindustan Times",
-        "url": "http://www.hindustantimes.com/3-Chinese-techies-held-for-Balco-mishap/H1-Article1-496274.aspx"
-      },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Shopping_mall_in_Korba%2C_Chhattisgarh.jpg/960px-Shopping_mall_in_Korba%2C_Chhattisgarh.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Shopping_mall_in_Korba%2C_Chhattisgarh.jpg/500px-Shopping_mall_in_Korba%2C_Chhattisgarh.jpg",
-        "genislik": 960,
-        "yukseklik": 660,
-        "orijinalGenislik": 2924,
-        "yazar": "Mettle30",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Shopping_mall_in_Korba,_Chhattisgarh.jpg",
-        "aciklama": "Image shows palm mall of korba in Chhattisgarh",
-        "konu": "Korba, Chhattisgarh"
-      },
-      "durum": "bekliyor"
-    },
-    {
-      "id": "2008-dn-htc-dream-the-first-smartphone-powered",
-      "yil": 2008,
-      "bolge": "dunya",
-      "metinEn": "HTC Dream, the first smartphone powered by Android, was launched.",
-      "konular": [
-        "HTC Dream",
-        "Android (operating system)"
-      ],
-      "haberKaynagi": {
-        "ad": "Ars Technica",
-        "url": "https://arstechnica.com/gadgets/2008/09/t-mobile-google-finally-unveil-the-first-android-phone/"
-      },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/HTC_Dream_Orange_FR.jpeg/960px-HTC_Dream_Orange_FR.jpeg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/HTC_Dream_Orange_FR.jpeg/500px-HTC_Dream_Orange_FR.jpeg",
-        "genislik": 960,
+        "url": "https://media.cumhuriyet.com.tr/Archive/1991911a-6645-4354-ae23-e77fd2b1f86c.jpg",
+        "genislik": 1280,
         "yukseklik": 720,
-        "orijinalGenislik": 2568,
-        "yazar": "Akela NDE",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:HTC_Dream_Orange_FR.jpeg",
-        "aciklama": "HTC Dream mobile phone with AZERTY keyboard for French market.",
-        "konu": "HTC Dream"
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive/1991911a-6645-4354-ae23-e77fd2b1f86c.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/ekonomi/altinda-kritik-esik-asiliyor-2026-da-rekorlar-gelebilir-2437688",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "durum": "bekliyor"
+      "yayin": "2025-09-23T17:05:00+03:00",
+      "puan": 10,
+      "durum": "haber"
     },
     {
-      "id": "2003-dn-the-ceasefire-in-the-first-ivorian",
-      "yil": 2003,
-      "bolge": "dunya",
-      "metinEn": "The ceasefire in the First Ivorian Civil War breaks down.",
-      "konular": [],
-      "haberKaynagi": null,
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": null,
-      "durum": "bekliyor"
-    },
-    {
-      "id": "2003-dn-amd-releases-the-athlon-64-the",
-      "yil": 2003,
-      "bolge": "dunya",
-      "metinEn": "AMD releases the Athlon 64, the first 64-bit processor to be released for consumer use.",
-      "konular": [
-        "AMD",
-        "Athlon 64",
-        "64-bit processor"
-      ],
+      "id": "2024-haber-2250594",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP’li Sarıbal, Karadağlı’nın söylemlerini Meclis gündemine taşıdı",
+      "aciklama": "CHP Bursa Milletvekili Orhan Sarıbal, Devlet Tiyatroları (DT) Genel Müdürü Tamer Karadağlı’nın “Çalışmayacaksanız istifa edin, Lale Devri bitti” söylemlerine ilişkin Meclis’e soru önergesi sundu.",
       "haberKaynagi": {
-        "ad": "NPR",
-        "url": "https://www.npr.org/2003/09/23/1440416/amd-rolls-out-64-bit-chips-for-desktop-pcs"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/kultur-sanat/chpli-saribal-karadaglinin-soylemlerini-meclis-gundemine-tasidi-2250594"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg/960px-2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg/500px-2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg",
-        "genislik": 960,
-        "yukseklik": 710,
-        "orijinalGenislik": 4312,
-        "yazar": "Coolcaesar",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:2485_Augustine_Drive_headquarters_in_Santa_Clara,_California.jpg",
-        "aciklama": "2485 Augustine Drive headquarters in Santa Clara, California. At the time this photo was taken, this office building was home to the headquarters of Advanced Micro Devices, Inc. Photographed on June 2",
-        "konu": "AMD"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2024/9/23/2250594/kapak_152432.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2024/9/23/2250594/kapak_152432.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/kultur-sanat/chpli-saribal-karadaglinin-soylemlerini-meclis-gundemine-tasidi-2250594",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg/960px-2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg/500px-2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg",
-          "genislik": 960,
-          "yukseklik": 710,
-          "orijinalGenislik": 4312,
-          "yazar": "Coolcaesar",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:2485_Augustine_Drive_headquarters_in_Santa_Clara,_California.jpg",
-          "aciklama": "2485 Augustine Drive headquarters in Santa Clara, California. At the time this photo was taken, this office building was home to the headquarters of Advanced Micro Devices, Inc. Photographed on June 2",
-          "konu": "AMD"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Hex_dump_of_the_Section_Table_in_a_64_bit_PE_File.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Hex_dump_of_the_Section_Table_in_a_64_bit_PE_File.jpg",
-          "genislik": 624,
-          "yukseklik": 222,
-          "orijinalGenislik": 624,
-          "yazar": "Cwilson2016",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Hex_dump_of_the_Section_Table_in_a_64_bit_PE_File.jpg",
-          "aciklama": "Hex dump of the Section Table in a 64 bit PE File. The outlined areas correlate to the Name member of three IMAGE_SECTION_HEADER structures",
-          "konu": "64-bit processor"
-        }
-      ],
-      "durum": "bekliyor"
+      "yayin": "2024-09-23T15:25:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2122639",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Selçuk Can kim, kaç yaşında, nereli? Dünya Güneş Şampiyonası üçüncüsü Selçuk Can'ın başarıları neler?",
+      "aciklama": "Selçuk Can, Sırbistan'ın başkenti Belgrad'da düzenlenen 2023 Dünya Güreş Şampiyonası'nda bronz madalyanın sahibi oldu. Peki, Selçuk Can kim, kaç yaşında, nereli? Dünya Güneş Şampiyonası üçüncüsü Selçuk Can'ın başarıları neler? İşte ayrıntılar...",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/selcuk-can-kim-kac-yasinda-nereli-dunya-gunes-sampiyonasi-ucuncusu-selcuk-canin-basarilari-neler-2122639"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2023/9/23/2122639/kapak_232703.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2023/9/23/2122639/kapak_232703.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/spor/selcuk-can-kim-kac-yasinda-nereli-dunya-gunes-sampiyonasi-ucuncusu-selcuk-canin-basarilari-neler-2122639",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2023-09-23T23:27:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2122482",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP’li Suiçmez, aile çalıştaylarını Meclis gündemine taşıdı: ‘Medeni Kanunu değiştirmek için dayanak mı?’",
+      "aciklama": "CHP Trabzon Milletvekili Sibel Suiçmez, Aile ve Sosyal Hizmetler Bakanlığı’nın 81 ilde düzenlediği Aile Çalıştaylarına ilişkin Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş’ın yanıtlaması istemiyle TBMM’ye soru önergesi verdi. Suiçmez, çalıştayların Medeni Yasa’nın değiş",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/chpli-suicmez-aile-calistaylarini-meclis-gundemine-tasidi-medeni-kanunu-degistirmek-icin-dayanak-mi-2122482"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2023/9/23/2122482/kapak_122533.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2023/9/23/2122482/kapak_122533.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/siyaset/chpli-suicmez-aile-calistaylarini-meclis-gundemine-tasidi-medeni-kanunu-degistirmek-icin-dayanak-mi-2122482",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2023-09-23T12:25:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-1984062",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Rusya Başbakanı Mişustin: Rusya’nın bütçesi 3 yıl boyunca açık verecek",
+      "aciklama": "Rusya Başbakanı Mihail Mişustin, ülkesindeki bütçenin gelecek 3 yıl boyunca açık vereceğini söyledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/rusya-basbakani-misustin-rusyanin-butcesi-3-yil-boyunca-acik-verecek-1984062"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2022/9/22/1984062/kapak_173734.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2022/9/22/1984062/kapak_173734.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/ekonomi/rusya-basbakani-misustin-rusyanin-butcesi-3-yil-boyunca-acik-verecek-1984062",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2022-09-23T07:00:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-1984225",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez Bankası'nın faiz indirimi dolarda yükselişi sürdürdü: Dolar ne kadar oldu? (23 Eylül 2022)",
+      "aciklama": "Dolar/TL, Merkez Bankası'nın (TCMB) yıl içinde dün ikinci defa 100 baz puan faiz indirimine gitmesinin ardından 18.40 ile yeni tarihi zirvesine yükseldi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasinin-faiz-indirimi-dolarda-yukselisi-surdurdu-dolar-ne-kadar-oldu-23-eylul-2022-1984225"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2022/9/23/1984225/kapak_094102.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2022/9/23/1984225/kapak_094102.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasinin-faiz-indirimi-dolarda-yukselisi-surdurdu-dolar-ne-kadar-oldu-23-eylul-2022-1984225",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2022-09-23T09:41:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1871205",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "UEFA, Avrupa Kadınlar Futbol Şampiyonası'nın ödülünü iki katına çıkardı",
+      "aciklama": "UEFA, Avrupa Kadınlar Futbol Şampiyonası'nın ödülünü iki katına çıkardığını açıkladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/uefa-avrupa-kadinlar-futbol-sampiyonasinin-odulunu-iki-katina-cikardi-1871205"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2021/9/23/1871205/kapak_141151.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2021/9/23/1871205/kapak_141151.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/spor/uefa-avrupa-kadinlar-futbol-sampiyonasinin-odulunu-iki-katina-cikardi-1871205",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2021-09-23T13:53:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1871261",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Meral Akşener'den, faiz kararı sonrası Erdoğan'ın",
+      "aciklama": "İYİ Parti Genel Başkanı Meral Akşener, Merkez Bankası'nın faiz kararı sonrası AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan'ın 'ben ekonomistim' açıklamasını sosyal medyadan paylaşarak tepki gösterdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/meral-aksenerden-faiz-karari-sonrasi-erdoganin-ben-ekonomistim-sozune-tepki-1871261"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2021/9/23/1871261/kapak_174816.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2021/9/23/1871261/kapak_174816.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/turkiye/meral-aksenerden-faiz-karari-sonrasi-erdoganin-ben-ekonomistim-sozune-tepki-1871261",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2021-09-23T17:36:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1768221",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Avro ve dolar rekor tazeledi",
+      "aciklama": "Avro, bugün 9 TL’yi aştı dolar/TL kuru ise 7,6856'dan işlem görüyor.  Dolar/TL kuru TSİ 17.00 civarında 7,70 seviyesini ilk defa aştı ve 7,7018 ile tüm zamanların rekorunu kırdı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/avro-ve-dolar-rekor-tazeledi-1768221"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2020/9/23/1768221/kapak_143116.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2020/9/23/1768221/kapak_143116.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/avro-ve-dolar-rekor-tazeledi-1768221",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2020-09-23T14:25:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1768047",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Döviz baş döndürüyor: Dolar 7.67 lirayı, Avro 9 lirayı geçerek rekorlarını tazelerken TL hızla eriyor",
+      "aciklama": "Covid-19 salgınında Türkiye ve dünyada artan vakalar, Doğu Akdeniz’deki gerilim, ödemeler dengesiyle ilgili endişeler gibi sorunlar döviz piyasasını vuruyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/doviz-bas-donduruyor-dolar-767-lirayi-avro-9-lirayi-gecerek-rekorlarini-tazelerken-tl-hizla-eriyor-1768047"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2020/9/22/1768047/kapak_200039.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2020/9/22/1768047/kapak_200039.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/doviz-bas-donduruyor-dolar-767-lirayi-avro-9-lirayi-gecerek-rekorlarini-tazelerken-tl-hizla-eriyor-1768047",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2020-09-23T02:00:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1090866",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İran’da milli yas ilan edildi",
+      "aciklama": "İran’da Ahvaz kentinde 25 kişinin hayatını kaybettiği, 60 kişinin de yaralandığı terör saldırısının ardından milli yas ilan edildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/iranda-milli-yas-ilan-edildi-1090866"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2018/9/23/1090866_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2018/9/23/1090866_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/iranda-milli-yas-ilan-edildi-1090866",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2018-09-23T10:10:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1091200",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan'ın ziyareti öncesi Almanya'da protestolar başladı",
+      "aciklama": "Cumhurbaşkanı Erdoğan Almanya ziyareti öncesinde Berlin, Hannover ve Düsseldorf'ta",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdoganin-ziyareti-oncesi-almanyada-protestolar-basladi-1091200"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2018/9/23/1091200_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2018/9/23/1091200_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/erdoganin-ziyareti-oncesi-almanyada-protestolar-basladi-1091200",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2018-09-23T15:56:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-830089",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP'li 'Yeliz' çok mutlu oldu: Meclis Başkanı papyonsuz ve fraksız başkanlık etti",
+      "aciklama": "Kuzey Irak tezkeresi için TBMM toplandı. Görüşmeler sırasında TBMM Başkanı ilk kez fraksız başkanlık etti. Durumu Tayyip Erdoğan'ın eski şoförü ve şu anda AKP milletvekili olan 'Yeliz' lakaplı Ahmet Hamdi Çamlı sosyal medya hesabından duyurdu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/akpli-yeliz-cok-mutlu-oldu-meclis-baskani-papyonsuz-ve-fraksiz-baskanlik-etti-830089"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2017/9/23/830089_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2017/9/23/830089_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/akpli-yeliz-cok-mutlu-oldu-meclis-baskani-papyonsuz-ve-fraksiz-baskanlik-etti-830089",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2017-09-23T16:38:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-829873",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Barzani'nin bağımsızlık referandumu resmen başladı: İlk oylar geldi",
+      "aciklama": "Iraklı Kürtlerin bağımsızlık referandumu resmen başladı. Referanduma ilk oy elektronik olarak Çin'den geldi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/barzaninin-bagimsizlik-referandumu-resmen-basladi-ilk-oylar-geldi-829873"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2017/9/23/829873_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2017/9/23/829873_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/barzaninin-bagimsizlik-referandumu-resmen-basladi-ilk-oylar-geldi-829873",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2017-09-23T11:55:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-604728",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Volkan: En değerlisi 2010-11 şampiyonluğu",
+      "aciklama": "F.Bahçe’nin file bekçisi 40 yaşına kadar oynamak istiyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/volkan-en-degerlisi-2010-11-sampiyonlugu-604728"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2016/9/23/604728_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2016/9/23/604728_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/volkan-en-degerlisi-2010-11-sampiyonlugu-604728",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2016-09-23T19:53:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-604764",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Kartta alışveriş rekoru yasaklılarda",
+      "aciklama": "Yılın ilk sekiz ayında kredi kartı harcamaları\r\nyüzde 15.7 artarken, harcamalar\r\niçinde taksit yasağı olanlar başı çekti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/kartta-alisveris-rekoru-yasaklilarda-604764"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2016/9/23/604764_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2016/9/23/604764_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/kartta-alisveris-rekoru-yasaklilarda-604764",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2016-09-23T21:03:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-374851",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bir parti daha seçime girmeme kararı aldı",
+      "aciklama": "Merkez Parti Genel Başkanı Prof.Dr. Abdurrahim Karslı, 1 Kasım 2015 seçimlerine katılmama kararı aldıklarını bildirdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bir-parti-daha-secime-girmeme-karari-aldi-374851"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2015/9/23/374851_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2015/9/23/374851_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/bir-parti-daha-secime-girmeme-karari-aldi-374851",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2015-09-23T09:36:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-375273",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan köprüler atılmasın çabasında",
+      "aciklama": "Cumhurbaşkanı Erdoğan, Rusya Devlet Başkanı Putin’le başbaşa görüştü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-kopruler-atilmasin-cabasinda-375273"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2015/9/23/375273_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2015/9/23/375273_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/erdogan-kopruler-atilmasin-cabasinda-375273",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2015-09-23T22:59:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-122617",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan'dan ABD operasyonuna destek: Askeri ya da siyasi olabilir!",
+      "aciklama": "Cumhurbaşkanı Erdoğan, ABD'nin Suriye IŞİD'ine yönelik başlattığı operasyonun ara verilmeden devam etmesi gerektiğini söyledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-abd-operasyonuna-destek-askeri-ya-da-siyasi-olabilir-122617"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2014/9/23/122617_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2014/9/23/122617_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/erdogandan-abd-operasyonuna-destek-askeri-ya-da-siyasi-olabilir-122617",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2014-09-23T18:59:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-122388",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Mozambik ilk kez boy gösterecek",
+      "aciklama": "Mozambik, 2014 FIBA Kadınlar Dünya Şampiyonası'nda B Grubu'nda evsahibi Türkiye, Fransa ve Kanada ile karşılaşacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/mozambik-ilk-kez-boy-gosterecek-122388"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2014/9/23/122388_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2014/9/23/122388_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/mozambik-ilk-kez-boy-gosterecek-122388",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2014-09-23T11:29:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-371942",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Milli motosikletçi şampiyonluğu garantiledi",
+      "aciklama": "Milli motosikletçi Kenan Sofuoğlu, Portekiz yarışını ikinci sırada bitirerek Dünya Supersport Şampiyonası'nda 2012 sezonunun tamamlanmasına bir yarış kala şampiyonluğu garantiledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/milli-motosikletci-sampiyonlugu-garantiledi-371942"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2012/9/23/371942_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2012/9/23/371942_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/milli-motosikletci-sampiyonlugu-garantiledi-371942",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2012-09-23T15:05:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-371938",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Demirtaş'tan, Erdoğan'a sert sözler",
+      "aciklama": "BDP Genel Başkanı Selahattin Demirtaş, akan kanın durması için müzakerelerin yapılmasını istediklerini söyledi. Başbakan Recep Tayyip Erdoğan'ın Kürtler konusunda hiçbir şey yapmadığını ifade eden Demirtaş,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/demirtastan-erdogana-sert-sozler-371938"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2012/9/23/371938_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2012/9/23/371938_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/demirtastan-erdogana-sert-sozler-371938",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2012-09-23T13:16:00+03:00",
+      "puan": 5,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-284532",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolar yine rekor kırdı!",
+      "aciklama": "Dolar sınırları aşmaya devam ediyor. Dün tarihi bir rekor kırarak 1.84 TL'yi gören dolar bugün de 1.8490'a kadar çıktı...",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/dolar-yine-rekor-kirdi-284532"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2011/9/23/284532_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2011/9/23/284532_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/dolar-yine-rekor-kirdi-284532",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2011-09-23T14:46:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-284380",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP, TRT yangınını meclise taşıdı",
+      "aciklama": "CHP Zonguldak Milletvekili Ali İhsan Köktürk, İstanbul Çamlıca'daki TRT Verici Kulesi'nde 21 Mayıs 2010'da çıkan yangını hatırlatarak, Başbakan Yardımcısı Bülent Arınç'a,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chp-trt-yanginini-meclise-tasidi-284380"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2011/9/23/284380_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2011/9/23/284380_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/chp-trt-yanginini-meclise-tasidi-284380",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2011-09-23T09:03:00+03:00",
+      "puan": 9,
+      "durum": "haber"
     }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
   ]
 }

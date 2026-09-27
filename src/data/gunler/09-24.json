@@ -1021,466 +1021,598 @@
     "revid": 38059595
   },
   "guncelleme": "2026-09-27T10:43:50.375Z",
-  "yakinOlaylar": [
+  "haberler": [
     {
-      "id": "2023-dn-2023-nigerien-crisis-french-president-emmanuel",
+      "id": "2025-haber-2437898",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Yüksek Seçim Kurulu'ndan 'CHP İstanbul İl Kongresi' için devam kararı!",
+      "aciklama": "Yüksek Seçim Kurulu, CHP Olağanüstü İstanbul İl Kongresi'nin iptalini talep eden mahkeme yazısı üzerine toplandı. YSK kongrenin devamına karar verdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/yuksek-secim-kurulu-ndan-chp-istanbul-il-kongresi-icin-devam-karari-2437898"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//d20928ef-7211-4be3-921f-40328d21ecac.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//d20928ef-7211-4be3-921f-40328d21ecac.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/siyaset/yuksek-secim-kurulu-ndan-chp-istanbul-il-kongresi-icin-devam-karari-2437898",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2025-09-24T13:38:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2025-haber-2437983",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "TBMM'de yemek ücretlerine zam: Çorba 23 liraya, etli yemekler 100 TL'ye yükseldi...",
+      "aciklama": "TBMM’de, Üyeler Lokantası ile Bahçe Restoran ve kafeteryada sunulan yiyeceklere yüzde 50-100 arasında zam yapıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/tbmm-de-yemek-ucretlerine-zam-corba-23-liraya-etli-yemekler-100-tl-ye-yukseldi-2437983"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive/ba748dec-63cd-4870-99e0-8a14e10e9b52.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive/ba748dec-63cd-4870-99e0-8a14e10e9b52.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/siyaset/tbmm-de-yemek-ucretlerine-zam-corba-23-liraya-etli-yemekler-100-tl-ye-yukseldi-2437983",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2025-09-24T17:31:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2250827",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Rekor serisi sürüyor: Altında yeni zirve!",
+      "aciklama": "Fed yetkililerinin faiz indirimine yönelik açıklamalarıyla birlikte spot altın rekor kırarak ons başına 2.635 dolara ulaştı. Gram altın da dolar/TL kuru ile hesaplandığında 2.894 TL'ye yükselerek tüm zamanların en yüksek seviyesini gördü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/rekor-serisi-suruyor-altinda-yeni-zirve-2250827"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2024/9/24/2250827/kapak_100858.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2024/9/24/2250827/kapak_100858.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/ekonomi/rekor-serisi-suruyor-altinda-yeni-zirve-2250827",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2024-09-24T10:08:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2251055",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bahçeli'den Erdoğan'a BM konuşması tebriği",
+      "aciklama": "MHP Genel Başkanı Devlet Bahçeli, AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan'ı, Birleşmiş Milletler (BM) 79. Genel Kurulu'ndaki konuşmasından dolayı tebrik etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/bahceliden-erdogana-bm-tebrigi-2251055"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2024/9/24/2251055/kapak_200157.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2024/9/24/2251055/kapak_200157.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/siyaset/bahceliden-erdogana-bm-tebrigi-2251055",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2024-09-24T20:02:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2122939",
       "yil": 2023,
-      "bolge": "dunya",
-      "metinEn": "2023 Nigerien crisis: French President Emmanuel Macron announces that France will end its military presence in Niger and will recall its ambassador from the country.",
-      "konular": [
-        "2023 Nigerien crisis",
-        "President of France",
-        "Emmanuel Macron",
-        "Sylvain Itté"
-      ],
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Milli sporcu Ali Cengiz, Dünya Güreş Şampiyonası'nda altın madalya kazandı",
+      "aciklama": "Sırbistan'da düzenlenen 2023 Dünya Güreş Şampiyonası'nda grekoromen stil 87 kiloda milli sporcu Ali Cengiz, Macar rakibi David Losonczi'yi finalde yenerek altın madalya elde etti.",
       "haberKaynagi": {
-        "ad": "Associated Press",
-        "url": "https://apnews.com/article/france-niger-military-ambassador-coup-0e866135cd49849ba4eb4426346bffd5"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/milli-sporcu-ali-cengiz-dunya-gures-sampiyonasinda-altin-madalya-kazandi-2122939"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/960px-Emmanuel_Macron_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/500px-Emmanuel_Macron_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1328,
-        "orijinalGenislik": 1515,
-        "yazar": "Nebojša Tejić",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_2025_(cropped).jpg",
-        "aciklama": "Foto: Nebojša Tejić / STA",
-        "konu": "Emmanuel Macron"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2023/9/24/2122939/kapak_213126.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2023/9/24/2122939/kapak_213126.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/spor/milli-sporcu-ali-cengiz-dunya-gures-sampiyonasinda-altin-madalya-kazandi-2122939",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/960px-Emmanuel_Macron_2025_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/500px-Emmanuel_Macron_2025_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1328,
-          "orijinalGenislik": 1515,
-          "yazar": "Nebojša Tejić",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_2025_(cropped).jpg",
-          "aciklama": "Foto: Nebojša Tejić / STA",
-          "konu": "Emmanuel Macron"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Cartas_Credenciales_-_Rep%C3%BAblica_francesa%2C_Sylvain_ITTE_02.jpg/960px-Cartas_Credenciales_-_Rep%C3%BAblica_francesa%2C_Sylvain_ITTE_02.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Cartas_Credenciales_-_Rep%C3%BAblica_francesa%2C_Sylvain_ITTE_02.jpg/500px-Cartas_Credenciales_-_Rep%C3%BAblica_francesa%2C_Sylvain_ITTE_02.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 2379,
-          "yazar": "REPÚBLICA DE COLOMBIA",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Cartas_Credenciales_-_Rep%C3%BAblica_francesa,_Sylvain_ITTE_02.jpg",
-          "aciklama": "Cartas Credenciales: República francesa, Sylvain ITTE",
-          "konu": "Sylvain Itté"
-        }
-      ],
-      "durum": "bekliyor"
+      "yayin": "2023-09-24T21:32:00+03:00",
+      "puan": 10,
+      "durum": "haber"
     },
     {
-      "id": "2022-dn-the-2022-nauruan-parliamentary-election-is",
+      "id": "2023-haber-2122640",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Depremin büyük hasar verdiği Hatay’da sağ kalan yurttaşlar ‘kurtulduğuna’ pişman",
+      "aciklama": "Kahramanmaraş merkezli depremlerin yıktığı illerden biri olan Hatay'da yurttaşlar, temel ihtiyaçlarını hala karşılayamıyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/depremin-buyuk-hasar-verdigi-hatayda-sag-kalan-yurttaslar-kurtulduguna-pisman-2122640"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2023/9/23/2122640/kapak_232818.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2023/9/23/2122640/kapak_232818.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/turkiye/depremin-buyuk-hasar-verdigi-hatayda-sag-kalan-yurttaslar-kurtulduguna-pisman-2122640",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2023-09-24T04:00:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-1984837",
       "yil": 2022,
-      "bolge": "dunya",
-      "metinEn": "The 2022 Nauruan parliamentary election is held, which is followed by Ubenide parliament member Russ Kun being elected president by parliament.",
-      "konular": [
-        "2022 Nauruan parliamentary election",
-        "Ubenide Constituency",
-        "Russ Kun",
-        "President of Nauru"
-      ],
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "S﻿atranç dünyası şampiyon oyuncu Magnus Carlsen'in hile imasını konuşuyor",
+      "aciklama": "Şampiyon Magnus Carlsen ve genç rakibi Hans Niemann bu ay başında karşı karşıya geldiğinde, satranç tahtasına hile gölgesinin düşeceği kimsenin aklına gelmezdi.",
       "haberKaynagi": {
-        "ad": "Radio New Zealand",
-        "url": "https://www.rnz.co.nz/international/pacific-news/475732/nauru-s-new-president-takes-oath"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/satranc-dunyasi-sampiyon-oyuncu-magnus-carlsenin-hile-imasini-konusuyor-1984837"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Locatie_Constituency_Ubenide.png/960px-Locatie_Constituency_Ubenide.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Locatie_Constituency_Ubenide.png/500px-Locatie_Constituency_Ubenide.png",
-        "genislik": 960,
-        "yukseklik": 979,
-        "orijinalGenislik": 1585,
-        "yazar": "Rémih",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Locatie_Constituency_Ubenide.png",
-        "aciklama": "Location map of Ubenide constituency, Nauru",
-        "konu": "Ubenide Constituency"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2022/9/24/1984837/kapak_192927.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2022/9/24/1984837/kapak_192927.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/spor/satranc-dunyasi-sampiyon-oyuncu-magnus-carlsenin-hile-imasini-konusuyor-1984837",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "durum": "bekliyor"
+      "yayin": "2022-09-24T19:00:00+03:00",
+      "puan": 10,
+      "durum": "haber"
     },
     {
-      "id": "2019-dn-the-supreme-court-of-the-united",
-      "yil": 2019,
-      "bolge": "dunya",
-      "metinEn": "The Supreme Court of the United Kingdom unanimously rules in R (Miller) v The Prime Minister that the September 2019 prorogation of Parliament is unlawful and void.",
-      "konular": [
-        "Supreme Court of the United Kingdom",
-        "R (Miller) v The Prime Minister",
-        "2019 British prorogation controversy"
-      ],
+      "id": "2022-haber-1984718",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "BIST 100, dolar, Euro, altın: Bu hafta yatırım araçları ne kadar kazandırdı? (24 Eylül 2022)",
+      "aciklama": "Bu hafta, yatırım araçlarından borsa ve altın kaybettirirken, dolar kazandırdı.",
       "haberKaynagi": {
-        "ad": "BBC News",
-        "url": "https://www.bbc.com/news/uk-politics-49810261"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/bist-100-dolar-euro-altin-bu-hafta-yatirim-araclari-ne-kadar-kazandirdi-1984718"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": null,
-      "durum": "bekliyor"
-    },
-    {
-      "id": "2019-dn-the-supreme-court-of-spain-unanimously",
-      "yil": 2019,
-      "bolge": "dunya",
-      "metinEn": "The Supreme Court of Spain unanimously rules in favour of the exhumation of the remains of Spanish dictator Francisco Franco from the Valle de los Caídos. He is finally exhumed on October 24, being re-inhumed in a private crypt with his wife.",
-      "konular": [
-        "Supreme Court of Spain",
-        "Francisco Franco",
-        "Valle de los Caídos"
-      ],
-      "haberKaynagi": {
-        "ad": "BBC News",
-        "url": "https://www.bbc.com/news/world-europe-49807372"
-      },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Francisco_Franco_posed_portrait_photograph.jpg/960px-Francisco_Franco_posed_portrait_photograph.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Francisco_Franco_posed_portrait_photograph.jpg/500px-Francisco_Franco_posed_portrait_photograph.jpg",
-        "genislik": 960,
-        "yukseklik": 1321,
-        "orijinalGenislik": 1949,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC0",
-        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Francisco_Franco_posed_portrait_photograph.jpg",
-        "aciklama": "Portrait of Francisco Franco",
-        "konu": "Francisco Franco"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2022/9/24/1984718/kapak_113708.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2022/9/24/1984718/kapak_113708.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/ekonomi/bist-100-dolar-euro-altin-bu-hafta-yatirim-araclari-ne-kadar-kazandirdi-1984718",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Francisco_Franco_posed_portrait_photograph.jpg/960px-Francisco_Franco_posed_portrait_photograph.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Francisco_Franco_posed_portrait_photograph.jpg/500px-Francisco_Franco_posed_portrait_photograph.jpg",
-          "genislik": 960,
-          "yukseklik": 1321,
-          "orijinalGenislik": 1949,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Francisco_Franco_posed_portrait_photograph.jpg",
-          "aciklama": "Portrait of Francisco Franco",
-          "konu": "Francisco Franco"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/SPA-2014-San_Lorenzo_de_El_Escorial-Valley_of_the_Fallen_%28Valle_de_los_Ca%C3%ADdos%29.jpg/960px-SPA-2014-San_Lorenzo_de_El_Escorial-Valley_of_the_Fallen_%28Valle_de_los_Ca%C3%ADdos%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/SPA-2014-San_Lorenzo_de_El_Escorial-Valley_of_the_Fallen_%28Valle_de_los_Ca%C3%ADdos%29.jpg/500px-SPA-2014-San_Lorenzo_de_El_Escorial-Valley_of_the_Fallen_%28Valle_de_los_Ca%C3%ADdos%29.jpg",
-          "genislik": 960,
-          "yukseklik": 821,
-          "orijinalGenislik": 6500,
-          "yazar": "Godot13",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:SPA-2014-San_Lorenzo_de_El_Escorial-Valley_of_the_Fallen_(Valle_de_los_Ca%C3%ADdos).jpg",
-          "aciklama": "Valle de los Caídos (Valley of the Fallen), located in the municipality of San Lorenzo de El Escorial, Spain, is both a memorial and basilica conceived by Franco, who was buried within the mountain un",
-          "konu": "Valle de los Caídos"
-        }
-      ],
-      "durum": "bekliyor"
+      "yayin": "2022-09-24T11:05:00+03:00",
+      "puan": 9,
+      "durum": "haber"
     },
     {
-      "id": "2019-dn-u-s-speaker-of-the-house",
-      "yil": 2019,
+      "id": "2021-haber-1871520",
+      "yil": 2021,
       "bolge": "dunya",
-      "metinEn": "U.S. Speaker of the House Nancy Pelosi announces the start of a formal impeachment inquiry against President Donald Trump.",
-      "konular": [
-        "Nancy Pelosi",
-        "Impeachment inquiry against Donald Trump",
-        "Donald Trump"
-      ],
+      "tur": "haber",
+      "metin": "Çin Merkez Bankası’ndan kripto para kararı: Tüm işlemleri ‘yasa dışı’ ilan etti",
+      "aciklama": "Çin Merkez Bankası, kripto paralarla ilgili kararını açıkladı. Kripto paralarla yapılan tüm işlemleri yasa dışı ilan etti.",
       "haberKaynagi": {
-        "ad": "NBC News",
-        "url": "https://www.nbcnews.com/politics/trump-impeachment-inquiry/pelosi-announce-formal-impeachment-inquiry-trump-n1058251"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/cin-merkez-bankasindan-kripto-para-karari-tum-islemleri-yasa-disi-ilan-etti-1871520"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg/960px-Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg/500px-Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg",
-        "genislik": 960,
-        "yukseklik": 1200,
-        "orijinalGenislik": 3000,
-        "yazar": "John Harrington",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg",
-        "aciklama": "52nd speaker of the United States House of Representatives",
-        "konu": "Nancy Pelosi"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2021/9/24/1871520/kapak_130809.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2021/9/24/1871520/kapak_130809.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/dunya/cin-merkez-bankasindan-kripto-para-karari-tum-islemleri-yasa-disi-ilan-etti-1871520",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg/960px-Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg/500px-Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg",
-          "genislik": 960,
-          "yukseklik": 1200,
-          "orijinalGenislik": 3000,
-          "yazar": "John Harrington",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg",
-          "aciklama": "52nd speaker of the United States House of Representatives",
-          "konu": "Nancy Pelosi"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/500px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1200,
-          "orijinalGenislik": 1638,
-          "yazar": "Daniel Torok",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
-          "aciklama": "Official Presidential Portrait of President Donald J. Trump in his second term",
-          "konu": "Donald Trump"
-        }
-      ],
-      "durum": "bekliyor"
+      "yayin": "2021-09-24T13:06:00+03:00",
+      "puan": 13,
+      "durum": "haber"
     },
     {
-      "id": "2015-dn-a-stampede-during-the-hajj-pilgrimage",
+      "id": "2021-haber-1871381",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez Bankası'nın kararının ardından uluslararası bankalardan 'Türkiye' tahminleri",
+      "aciklama": "Uluslararası yatırım bankaları TCMB'nin enflasyondaki yükselişe rağmen aldığı faiz indirim kararının ardından faiz tahminlerinde değişiklik yaptı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasinin-kararinin-ardindan-uluslararasi-bankalardan-turkiye-tahminleri-1871381"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2021/9/24/1871381/kapak_102238.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2021/9/24/1871381/kapak_102238.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasinin-kararinin-ardindan-uluslararasi-bankalardan-turkiye-tahminleri-1871381",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2021-09-24T08:44:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1768473",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP'li Bulut: Pandemide deprem sigortasına yapılan zam hangi vicdanla bağdaşıyor?",
+      "aciklama": "CHP Adana Milletvekili Burhanettin Bulut, zorunlu deprem sigortasının ücretinde geçen yıla göre yüzde 80'i bulan rekor artışı Meclis gündemine taşıdı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chpli-bulut-pandemide-deprem-sigortasina-yapilan-zam-hangi-vicdanla-bagdasiyor-1768473"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2020/9/24/1768473/kapak_124435.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2020/9/24/1768473/kapak_124435.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/chpli-bulut-pandemide-deprem-sigortasina-yapilan-zam-hangi-vicdanla-bagdasiyor-1768473",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2020-09-24T12:40:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1768527",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Koroanvirüs: İngiltere'de Covid-19 temas-takip uygulaması kullanıma açıldı",
+      "aciklama": "İngiltere'de hükümet koronavirüs salgınına karşı bugün yeni kullanıma sunulan temas takip uygulamasının İngiltere ve Galler'de yaşayan herkes tarafından akıllı telefonlarına indirilip kullanılmasını istedi. Öte yandan Sağlık Bakanı ülkede günde 10 bin kişiye virüs bulaştığını tah",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/koroanvirus-ingilterede-covid-19-temas-takip-uygulamasi-kullanima-acildi-1768527"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2020/9/24/1768527/kapak_154336.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2020/9/24/1768527/kapak_154336.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/koroanvirus-ingilterede-covid-19-temas-takip-uygulamasi-kullanima-acildi-1768527",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2020-09-24T15:14:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1092122",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "'Kedi Dede': Fotoğrafları sayesinde çalıştığı hayvan barınağına binlerce dolar kazandıran gönüllü",
+      "aciklama": "ABD'nin Wisconsin eyaletinde, emekli bir öğretmenin barınaktaki kedilerle şekerleme yaparken çekilen fotoğrafları internet üzerinde yayılıp, meşhur oldu ve gönüllü çalıştığı barınağa 40 bin dolar bağış yapıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/kedi-dede-fotograflari-sayesinde-calistigi-hayvan-barinagina-binlerce-dolar-kazandiran-gonullu-1092122"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2018/9/24/1092122_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2018/9/24/1092122_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/kedi-dede-fotograflari-sayesinde-calistigi-hayvan-barinagina-binlerce-dolar-kazandiran-gonullu-1092122",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2018-09-24T15:17:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-830765",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Almanya'da Merkel 4. kez kazandı, ‘Naziler’ Meclis'e girdi",
+      "aciklama": "Almanya seçiminde CDU, oy kaybına karşın birinci gelip Merkel’in başbakanlığını\nkorudu. Üçüncü gelen AfD, 1945’ten beri meclise giren ilk aşırı sağcı parti oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/almanyada-merkel-4-kez-kazandi-naziler-meclise-girdi-830765"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2017/9/24/830765_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2017/9/24/830765_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/almanyada-merkel-4-kez-kazandi-naziler-meclise-girdi-830765",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2017-09-24T19:05:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-830882",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Macron senato seçimlerinde 23 sandalye kaybetti",
+      "aciklama": "Fransa'da yapılan senato seçimlerinde Cumhuriyetçiler (LR) Partisi ve Merkezciler koltuk sayısını yükseltirken, Macron’un partisi 23 sandalye kaybederek, ilk oy kaybını gerçekleştirdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/macron-senato-secimlerinde-23-sandalye-kaybetti-830882"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2017/9/24/830882_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2017/9/24/830882_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/macron-senato-secimlerinde-23-sandalye-kaybetti-830882",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2017-09-24T22:54:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-605141",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Yusuf Erdoğan, Trabzonspor'a hayat verdi",
+      "aciklama": "Spor Toto Süper Lig’in 5’inci haftasında Trabzonspor, sahasında Atiker Konyaspor’u 1-0 mağlup etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/yusuf-erdogan-trabzonspora-hayat-verdi-605141"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2016/9/24/605141_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2016/9/24/605141_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/yusuf-erdogan-trabzonspora-hayat-verdi-605141",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2016-09-24T18:39:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-375425",
       "yil": 2015,
-      "bolge": "dunya",
-      "metinEn": "A stampede during the Hajj pilgrimage in Mecca kills at least 2,200 people and injures more than 900 others, with more than 650 missing.",
-      "konular": [
-        "2015 Mina stampede",
-        "Hajj",
-        "Mecca"
-      ],
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolardan bayram rekoru",
+      "aciklama": "Dolar, Fed Başkanı Janet Yellen`in konuşması öncesinde diğer para birimlerine karşı değer kazanırken, uluslararası piyasalarda dolar/TL rekor kırdı.",
       "haberKaynagi": {
-        "ad": "Associated Press",
-        "url": "http://bigstory.ap.org/article/a7713a35e7314dd7824326f3ee5638f1/iran-holds-funeral-diplomat-killed-saudi-hajj-crush"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/dolardan-bayram-rekoru-375425"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_way_to_Jamarat_Bridge_3.JPG/960px-The_way_to_Jamarat_Bridge_3.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_way_to_Jamarat_Bridge_3.JPG/500px-The_way_to_Jamarat_Bridge_3.JPG",
-        "genislik": 960,
+        "url": "https://media.cumhuriyet.com.tr/Archive//2015/9/24/375425_cover.jpeg",
+        "genislik": 1280,
         "yukseklik": 720,
-        "orijinalGenislik": 3072,
-        "yazar": "Aiman titi",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:The_way_to_Jamarat_Bridge_3.JPG",
-        "aciklama": "The way to Jamarat Bridge",
-        "konu": "2015 Mina stampede"
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2015/9/24/375425_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/dolardan-bayram-rekoru-375425",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_way_to_Jamarat_Bridge_3.JPG/960px-The_way_to_Jamarat_Bridge_3.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_way_to_Jamarat_Bridge_3.JPG/500px-The_way_to_Jamarat_Bridge_3.JPG",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 3072,
-          "yazar": "Aiman titi",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:The_way_to_Jamarat_Bridge_3.JPG",
-          "aciklama": "The way to Jamarat Bridge",
-          "konu": "2015 Mina stampede"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/The_Kaaba_during_Hajj.jpg/960px-The_Kaaba_during_Hajj.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/The_Kaaba_during_Hajj.jpg/500px-The_Kaaba_during_Hajj.jpg",
-          "genislik": 960,
-          "yukseklik": 641,
-          "orijinalGenislik": 4425,
-          "yazar": "Adli Wahid",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:The_Kaaba_during_Hajj.jpg",
-          "aciklama": "The Kaabah (Kaaba) is located in the Masjid Al-Haram in Makkah (Mecca, Saudi Arabia). This photo was taken during the 2018 Hajj Season. Performing hajj is one of the pillars of Islam and required once",
-          "konu": "Hajj"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Great_Mosque_of_Mecca1.jpg/960px-Great_Mosque_of_Mecca1.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Great_Mosque_of_Mecca1.jpg/500px-Great_Mosque_of_Mecca1.jpg",
-          "genislik": 960,
-          "yukseklik": 646,
-          "orijinalGenislik": 3891,
-          "yazar": "Saudipics.com",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Mecca1.jpg",
-          "aciklama": "Great Mosque of Mecca (Masjid al-Haram)",
-          "konu": "Mecca"
-        }
-      ],
-      "durum": "bekliyor"
+      "yayin": "2015-09-24T11:01:00+03:00",
+      "puan": 8,
+      "durum": "haber"
     },
     {
-      "id": "2014-dn-the-mars-orbiter-mission-popularly-known",
+      "id": "2015-haber-375435",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "ABD savaş uçakları lazer silahı kullanmaya başlıyor",
+      "aciklama": "Lazer silahlarının ışınlarıyla dolu savaş sahneleri bilim kurgu filmlerinin klasik sahneleri arasında yer alır. Ancak artık değil.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/abd-savas-ucaklari-lazer-silahi-kullanmaya-basliyor-375435"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2015/9/24/375435_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2015/9/24/375435_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/abd-savas-ucaklari-lazer-silahi-kullanmaya-basliyor-375435",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2015-09-24T11:07:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-122823",
       "yil": 2014,
-      "bolge": "dunya",
-      "metinEn": "The Mars Orbiter Mission, popularly known as Mangalyaan, which was launched on 5 November 2013 by the Indian Space Research Organisation, reached Martian orbit, making India the first Asian country to successfully reach Mars.",
-      "konular": [
-        "Mangalyaan",
-        "Indian Space Research Organisation",
-        "Mars",
-        "India"
-      ],
-      "haberKaynagi": null,
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg/960px-Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg/500px-Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg",
-        "genislik": 960,
-        "yukseklik": 908,
-        "orijinalGenislik": 3651,
-        "yazar": "Kevin Gill from Nashua, NH, United States",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Mars_Orbiter_Mission_Over_Mars_(15237158879).jpg",
-        "aciklama": "India's Mars Orbiter Mission spacecraft over Mars. Rendered using a combination of Blender 2.71 with Cycles (Background, Mars) and Autodesk Maya 2015 (spacecraft). Final processing in Adobe Photoshop.",
-        "konu": "Mangalyaan"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg/960px-Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg/500px-Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg",
-          "genislik": 960,
-          "yukseklik": 908,
-          "orijinalGenislik": 3651,
-          "yazar": "Kevin Gill from Nashua, NH, United States",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mars_Orbiter_Mission_Over_Mars_(15237158879).jpg",
-          "aciklama": "India's Mars Orbiter Mission spacecraft over Mars. Rendered using a combination of Blender 2.71 with Cycles (Background, Mars) and Autodesk Maya 2015 (spacecraft). Final processing in Adobe Photoshop.",
-          "konu": "Mangalyaan"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/960px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/500px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
-          "genislik": 960,
-          "yukseklik": 960,
-          "orijinalGenislik": 1558,
-          "yazar": "Kevin Gill from Los Angeles, CA, United States",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
-          "aciklama": "Filters: f635, f546, f437 CU/LASP EMM/EXI ITF/Kevin M. Gill",
-          "konu": "Mars"
-        }
-      ],
-      "durum": "bekliyor"
-    },
-    {
-      "id": "2003-dn-the-hubble-space-telescope-starts-the",
-      "yil": 2003,
-      "bolge": "dunya",
-      "metinEn": "The Hubble Space Telescope starts the Hubble Ultra-Deep Field, making 800 exposures, until January 16, 2004.",
-      "konular": [
-        "Hubble Space Telescope",
-        "Hubble Ultra-Deep Field"
-      ],
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Topal: ''Tek hedefimiz şampiyonluk''",
+      "aciklama": "Fenerbahçe'nin milli futbolcusu Mehmet Topal, Akhisar Belediyespor maçıyla seri yakalamak istediklerini belirterek, tek hedeflerinin şampiyonluk olduğunu söyledi.",
       "haberKaynagi": {
-        "ad": "hyperphysics.phy-astr.gsu.edu",
-        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/astro/deepfield.html"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/topal-tek-hedefimiz-sampiyonluk-122823"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubble_2009_close-up_2.jpg/960px-Hubble_2009_close-up_2.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubble_2009_close-up_2.jpg/500px-Hubble_2009_close-up_2.jpg",
-        "genislik": 960,
-        "yukseklik": 637,
-        "orijinalGenislik": 4288,
-        "yazar": "NASA",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Hubble_2009_close-up_2.jpg",
-        "aciklama": "An STS-125 crewmember aboard the Space Shuttle Atlantis captured this still image of the Hubble Space Telescope as the two spacecraft continue their relative separation on May 19, after having been li",
-        "konu": "Hubble Space Telescope"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2014/9/24/122823_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2014/9/24/122823_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/topal-tek-hedefimiz-sampiyonluk-122823",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubble_2009_close-up_2.jpg/960px-Hubble_2009_close-up_2.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubble_2009_close-up_2.jpg/500px-Hubble_2009_close-up_2.jpg",
-          "genislik": 960,
-          "yukseklik": 637,
-          "orijinalGenislik": 4288,
-          "yazar": "NASA",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Hubble_2009_close-up_2.jpg",
-          "aciklama": "An STS-125 crewmember aboard the Space Shuttle Atlantis captured this still image of the Hubble Space Telescope as the two spacecraft continue their relative separation on May 19, after having been li",
-          "konu": "Hubble Space Telescope"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Hubble_ultra_deep_field_high_rez_edit1.jpg/960px-Hubble_ultra_deep_field_high_rez_edit1.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Hubble_ultra_deep_field_high_rez_edit1.jpg/500px-Hubble_ultra_deep_field_high_rez_edit1.jpg",
-          "genislik": 960,
-          "yukseklik": 960,
-          "orijinalGenislik": 6200,
-          "yazar": "NASA and the European Space Agency. Edited by Noodle snacks",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Hubble_ultra_deep_field_high_rez_edit1.jpg",
-          "aciklama": "The Hubble Ultra Deep Field, is an image of a small region of space in the constellation Fornax, composited from Hubble Space Telescope data accumulated over a period from September 3, 2003 through Ja",
-          "konu": "Hubble Ultra-Deep Field"
-        }
-      ],
-      "durum": "bekliyor"
+      "yayin": "2014-09-24T11:22:00+03:00",
+      "puan": 8,
+      "durum": "haber"
     },
     {
-      "id": "2001-dn-a-tornado-outbreak-tears-through-the",
-      "yil": 2001,
-      "bolge": "dunya",
-      "metinEn": "A tornado outbreak tears through the eastern United States, causing two deaths and 57 injuries, and causing damages of $105 million.",
-      "konular": [
-        "Tornado outbreak of September 24, 2001"
-      ],
-      "haberKaynagi": null,
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/09-24-01_CollegeParkMD_tor.PNG/960px-09-24-01_CollegeParkMD_tor.PNG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/09-24-01_CollegeParkMD_tor.PNG/500px-09-24-01_CollegeParkMD_tor.PNG",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 1000,
-        "yazar": "WindRunner at English Wikipedia, using data from the NWS and software from GRS",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:09-24-01_CollegeParkMD_tor.PNG",
-        "aciklama": "A Doppler weather radar image of an F3 tornado over College Park, Maryland on 2001-09-24. The left half of the screen is the base reflectivity image of the storm cell and the right half is the base ve",
-        "konu": "Tornado outbreak of September 24, 2001"
+      "id": "2014-haber-122987",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Usain Bolt'un yeni rekor hedefi",
+      "aciklama": "Jamaikalı atlet Usain Bolt'un yeni rekor hedefi 200 metreyi 19 saniyenin altında koşan ilk atlet olmak",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/usain-boltun-yeni-rekor-hedefi-122987"
       },
-      "durum": "bekliyor"
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2014/9/24/122987_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2014/9/24/122987_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/usain-boltun-yeni-rekor-hedefi-122987",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2014-09-24T16:13:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-372128",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP'li vekilden zam uyarısı",
+      "aciklama": "CHP Genel Başkan Yardımcısı Erdoğan Toprak, zamların ve vergi artışlarının zincirleme zamları ve enflasyon artışını beraberinde getireceğini söyleyerek, yakında iğneden ipliğe, dolmuştan otobüse, elektrikten doğalgaza her şeye zam geleceğini öne sürdü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chpli-vekilden-zam-uyarisi-372128"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2012/9/24/372128_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2012/9/24/372128_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/chpli-vekilden-zam-uyarisi-372128",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2012-09-24T12:56:00+03:00",
+      "puan": 6,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-284696",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fransa'dan Türkiye'ye gelen turist sayısı rekor kırdı",
+      "aciklama": "Fransa'dan Türkiye'ye tatile giden turist sayısı, 2011 yılında rekor seviyeye ulaştı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fransadan-turkiyeye-gelen-turist-sayisi-rekor-kirdi-284696"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2011/9/24/284696_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2011/9/24/284696_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/fransadan-turkiyeye-gelen-turist-sayisi-rekor-kirdi-284696",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2011-09-24T08:16:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-284822",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Tel Aviv'de 'Katil Erdoğan' afişleri!",
+      "aciklama": "İsrail'in başkenti Tel Aviv sokaklarına Başbakan Erdoğan karşıtı afişler asıldı. Asılan pankartlardan birinde Erdoğan için",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/tel-avivde-katil-erdogan-afisleri-284822"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2011/9/24/284822_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2011/9/24/284822_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/tel-avivde-katil-erdogan-afisleri-284822",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2011-09-24T16:41:00+03:00",
+      "puan": 5,
+      "durum": "haber"
     }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
   ]
 }

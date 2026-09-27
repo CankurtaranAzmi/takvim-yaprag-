@@ -1061,451 +1061,648 @@
     "revid": 38036768
   },
   "guncelleme": "2026-09-27T10:43:48.285Z",
-  "yakinOlaylar": [
+  "haberler": [
     {
-      "id": "2025-tr-ozgur-ozel-is-reelected-as-leader",
+      "id": "2025-haber-2436927",
       "yil": 2025,
       "bolge": "turkiye",
-      "metinEn": "Özgür Özel is reelected as leader of the CHP following a special congress.",
-      "konular": [
-        "Özgür Özel",
-        "Republican People's Party"
-      ],
+      "tur": "haber",
+      "metin": "Sadettin Saran'dan Fenerbahçe taraftarına mektup! 'Her yerde birlikte şampiyonluklara...'",
+      "aciklama": "Fenerbahçe başkan adaylarından Sadettin Saran, sosyal medya hesabından sarı-lacivertli taraftarlara mesaj yolladı.",
       "haberKaynagi": {
-        "ad": "AP News",
-        "url": "https://apnews.com/article/turkey-opposition-chp-ozel-erdogan-fe61d4d33586cc8aa7935dce32fc588f"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/sadettin-saran-dan-fenerbahce-taraftarina-mektup-her-yerde-birlikte-sampiyonluklara-2436927"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": null,
-      "durum": "bekliyor"
-    },
-    {
-      "id": "2025-dn-the-uk-canada-and-australia-announce",
-      "yil": 2025,
-      "bolge": "dunya",
-      "metinEn": "The UK, Canada, and Australia announce their formal recognition of Palestine as a sovereign state, with France also doing so the next day.",
-      "konular": [
-        "United Kingdom",
-        "Canada",
-        "Australia",
-        "International recognition of Palestine",
-        "France"
-      ],
-      "haberKaynagi": {
-        "ad": "BBC News",
-        "url": "https://www.bbc.co.uk/news/live/cpw1qkyke4nt"
-      },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": null,
-      "durum": "bekliyor"
-    },
-    {
-      "id": "2025-dn-thousands-of-protesters-across-the-philippines",
-      "yil": 2025,
-      "bolge": "dunya",
-      "metinEn": "Thousands of protesters across the Philippines gather at the EDSA Shrine in Quezon City for the Trillion Peso March and at Luneta Park in Manila for the Baha sa Luneta demonstrations, demanding government accountability over alleged corruption in flood control and infrastructure projects.",
-      "konular": [
-        "2025–2026 Philippine anti-corruption protests",
-        "EDSA Shrine",
-        "Trillion Peso March",
-        "Rizal Park",
-        "Baha sa Luneta"
-      ],
-      "haberKaynagi": {
-        "ad": "Philippine Daily Inquirer",
-        "url": "https://www.philstar.com/headlines/2025/09/15/2473004/what-know-september-21-anti-corruption-rallies-luneta-edsa"
-      },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Rizal_Monument_%28Manila%2C_2024%29.jpg/960px-Rizal_Monument_%28Manila%2C_2024%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Rizal_Monument_%28Manila%2C_2024%29.jpg/500px-Rizal_Monument_%28Manila%2C_2024%29.jpg",
-        "genislik": 960,
-        "yukseklik": 646,
-        "orijinalGenislik": 4495,
-        "yazar": "Ernest Malsin",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Rizal_Monument_(Manila,_2024).jpg",
-        "aciklama": "The Rizal Monument in Manila, taken on a sunny afternoon.",
-        "konu": "Rizal Park"
+        "url": "https://media.cumhuriyet.com.tr/Archive/bf9ff398-e336-4740-a41f-52e5f0135aec.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive/bf9ff398-e336-4740-a41f-52e5f0135aec.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/spor/sadettin-saran-dan-fenerbahce-taraftarina-mektup-her-yerde-birlikte-sampiyonluklara-2436927",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Rizal_Monument_%28Manila%2C_2024%29.jpg/960px-Rizal_Monument_%28Manila%2C_2024%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Rizal_Monument_%28Manila%2C_2024%29.jpg/500px-Rizal_Monument_%28Manila%2C_2024%29.jpg",
-          "genislik": 960,
-          "yukseklik": 646,
-          "orijinalGenislik": 4495,
-          "yazar": "Ernest Malsin",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Rizal_Monument_(Manila,_2024).jpg",
-          "aciklama": "The Rizal Monument in Manila, taken on a sunny afternoon.",
-          "konu": "Rizal Park"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Trillion_Peso_March_-_EDSA.jpg/960px-Trillion_Peso_March_-_EDSA.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Trillion_Peso_March_-_EDSA.jpg/500px-Trillion_Peso_March_-_EDSA.jpg",
-          "genislik": 960,
-          "yukseklik": 669,
-          "orijinalGenislik": 2048,
-          "yazar": "Russco Gray",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Trillion_Peso_March_-_EDSA.jpg",
-          "aciklama": "Trillion Peso March - EDSA Shrine, Quezon City",
-          "konu": "Baha sa Luneta"
-        }
-      ],
-      "durum": "bekliyor"
+      "yayin": "2025-09-21T11:22:00+03:00",
+      "puan": 10,
+      "durum": "haber"
     },
     {
-      "id": "2024-dn-2024-sri-lankan-presidential-election-anura",
+      "id": "2025-haber-2436888",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fenerbahçe'de seçim günü: Tarihi kongrede yeni başkan belli oluyor",
+      "aciklama": "Fenerbahçe Kulübü, olağanüstü seçimli genel kurulunda yeni başkanını seçecek. Sarı-lacivertlilerde başkanlık için Ali Koç ve Sadettin Saran yarışacak. Fenerbahçe’nin yeni başkanının belli olacağı seçim gününde 10.00'da başlayan oy verme işlemi 17.00'de sona erdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/fenerbahce-de-secim-gunu-tarihi-kongrede-yeni-baskan-belli-oluyor-2436888"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive/f7c4a6e3-127a-4ab8-a467-0f902346407c.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive/f7c4a6e3-127a-4ab8-a467-0f902346407c.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/spor/fenerbahce-de-secim-gunu-tarihi-kongrede-yeni-baskan-belli-oluyor-2436888",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2025-09-21T09:12:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2250044",
       "yil": 2024,
-      "bolge": "dunya",
-      "metinEn": "2024 Sri Lankan presidential election: Anura Kumara Dissanayake is elected President of Sri Lanka, with a second round of vote counting held for the first time in Sri Lanka's history.thumb|[[Hurricane Helene made landfall in the United States on September 26|240px]]",
-      "konular": [
-        "2024 Sri Lankan presidential election",
-        "Anura Kumara Dissanayake",
-        "President of Sri Lanka"
-      ],
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Galatasaray, Kadıköy'de rekoru egale etti!",
+      "aciklama": "Galatasaray, Fenerbahçe'yi mağlup ederek deplasmanda üst üste 12. lig maçını kazandı ve Süper Lig'de ezeli rakibinin rekorunu egale etti.",
       "haberKaynagi": {
-        "ad": "BBC News",
-        "url": "https://www.bbc.com/news/articles/clyznjz3d78o"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-kadikoyde-rekoru-egale-etti-2250044"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Dissanayake_2026.jpg/960px-Dissanayake_2026.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Dissanayake_2026.jpg/500px-Dissanayake_2026.jpg",
-        "genislik": 960,
-        "yukseklik": 1278,
-        "orijinalGenislik": 1280,
-        "yazar": "Prime Minister's Office",
-        "lisans": "GODL-India",
-        "lisansUrl": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Dissanayake_2026.jpg",
-        "aciklama": "PM meeting with the President of the Democratic Republic of Sri Lanka, Mr. Anura Kumara Dissanayake at Hyderabad House, in New Delhi on February 20, 2026.",
-        "konu": "Anura Kumara Dissanayake"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2024/9/21/2250044/kapak_225237.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2024/9/21/2250044/kapak_225237.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/spor/galatasaray-kadikoyde-rekoru-egale-etti-2250044",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "durum": "bekliyor"
+      "yayin": "2024-09-21T22:53:00+03:00",
+      "puan": 9,
+      "durum": "haber"
     },
     {
-      "id": "2023-dn-rupert-murdoch-announces-his-retirement-and",
+      "id": "2024-haber-2250042",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Lucas Torreira: 'Golüm yok, şampiyonluklarım var!'",
+      "aciklama": "Galatasaray'ın Uruguaylı orta sahası Torreira, 3-1 kazandıkları Fenerbahçe maçının ardından konuştu. Torreira,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/lucas-torreira-golum-yok-sampiyonluklarim-var-2250042"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2024/9/21/2250042/kapak_224404.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2024/9/21/2250042/kapak_224404.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/spor/lucas-torreira-golum-yok-sampiyonluklarim-var-2250042",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2024-09-21T22:44:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2121981",
       "yil": 2023,
-      "bolge": "dunya",
-      "metinEn": "Rupert Murdoch announces his retirement and passes his businesses on to his son Lachlan. Murdoch led News Corp and Fox, and formerly Sky Group.",
-      "konular": [
-        "Rupert Murdoch",
-        "Lachlan Murdoch",
-        "News Corp",
-        "Fox Corporation",
-        "Sky Group"
-      ],
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Galatasaray, Balkan Şampiyonu oldu!",
+      "aciklama": "Galatasaray Daikin Kadın Voleybol Takımı, Balkan Kupası'ndaki üçüncü ve son maçında Kosova'nın KV Drita ekibini 3-0 mağlup etti ve şampiyon oldu.",
       "haberKaynagi": {
-        "ad": "BBC News",
-        "url": "https://www.bbc.com/news/uk-14078128"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-balkan-sampiyonu-oldu-2121981"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg/960px-Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg/500px-Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg",
-        "genislik": 960,
-        "yukseklik": 1280,
-        "orijinalGenislik": 1013,
-        "yazar": "Eva Rinaldi",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg",
-        "aciklama": "Rupert Murdoch at Les Misérables red carpet movie premiere, Sydney, Australia...",
-        "konu": "Rupert Murdoch"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2023/9/21/2121981/kapak_234228.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2023/9/21/2121981/kapak_234228.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/spor/galatasaray-balkan-sampiyonu-oldu-2121981",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg/960px-Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg/500px-Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 1013,
-          "yazar": "Eva Rinaldi",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg",
-          "aciklama": "Rupert Murdoch at Les Misérables red carpet movie premiere, Sydney, Australia...",
-          "konu": "Rupert Murdoch"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/1211_Avenue_of_the_Americas.jpg/960px-1211_Avenue_of_the_Americas.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/1211_Avenue_of_the_Americas.jpg/500px-1211_Avenue_of_the_Americas.jpg",
-          "genislik": 960,
-          "yukseklik": 1315,
-          "orijinalGenislik": 1474,
-          "yazar": "Coolcaesar at English Wikipedia",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:1211_Avenue_of_the_Americas.jpg",
-          "aciklama": "This skyscraper, 1211 Avenue of the Americas in New York City, is the home to the headquarters of Fox Corporation and News Corp. It was formerly known as the Celanese Building.",
-          "konu": "News Corp"
-        }
-      ],
-      "durum": "bekliyor"
+      "yayin": "2023-09-21T23:43:00+03:00",
+      "puan": 10,
+      "durum": "haber"
     },
     {
-      "id": "2022-dn-2022-russian-invasion-of-ukraine-following",
+      "id": "2023-haber-2121819",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez Bankası faiz kararını açıkladı: Dolar ve Euro'da son durum... (21 Eylül 2023)",
+      "aciklama": "Merkez Bankası faiz kararını açıkladı. Döviz kurunda hareketlilik yaşanıyor. İşte dolar ve Euro'da son durum...",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasi-faiz-kararini-acikladi-dolar-ve-euroda-son-durum-2121819"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2023/9/21/2121819/kapak_141530.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2023/9/21/2121819/kapak_141530.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasi-faiz-kararini-acikladi-dolar-ve-euroda-son-durum-2121819",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2023-09-21T14:15:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-1983388",
       "yil": 2022,
-      "bolge": "dunya",
-      "metinEn": "2022 Russian invasion of Ukraine: Following a major counteroffensive by Ukraine in the east of the country, Putin announces a partial mobilisation of Russia and threatens nuclear retaliation, saying \"this is not a bluff\".",
-      "konular": [
-        "2022 Russian invasion of Ukraine",
-        "2022 Kharkiv counteroffensive",
-        "2022 Russian mobilization",
-        "Nuclear threats during the Russian invasion of Ukraine"
-      ],
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Altılı masa, seçim sonrasında alacakları pozisyon için şimdiden görüşmelere başladı",
+      "aciklama": "6’lı masanın 2 Ekim’deki buluşmasından önce partiler arası görüşme trafiği hızlandı. Kulislere yansıyan bilgilere göre liderler, partilerin iktidar sonrası nasıl bir pozisyon alacağını şimdiden konuşmaya başladı. Özellikle ekonomide söz sahibinin İYİ Parti mi, DEVA Partisi mi ola",
       "haberKaynagi": {
-        "ad": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2022/sep/21/russia-ukraine-war-live-updates-blinken-calls-moscows-referendum-attempts-a-sham-zelenskiy-to-speak-at-un"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/altili-masa-secim-sonrasinda-alacaklari-pozisyon-icin-simdiden-gorusmelere-basladi-1983388"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Bucha_after_Russian_invasion_of_Ukraine%2C_President_Zelensky_2_crop.jpg/960px-Bucha_after_Russian_invasion_of_Ukraine%2C_President_Zelensky_2_crop.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Bucha_after_Russian_invasion_of_Ukraine%2C_President_Zelensky_2_crop.jpg/500px-Bucha_after_Russian_invasion_of_Ukraine%2C_President_Zelensky_2_crop.jpg",
-        "genislik": 960,
-        "yukseklik": 695,
-        "orijinalGenislik": 4344,
-        "yazar": "Oleksandr Ratushniak",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bucha_after_Russian_invasion_of_Ukraine,_President_Zelensky_2_crop.jpg",
-        "aciklama": "Bucha after Russian invasion of Ukraine, President Zelensky",
-        "konu": "2022 Russian invasion of Ukraine"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2022/9/21/1983388/kapak_064517.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2022/9/21/1983388/kapak_064517.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/siyaset/altili-masa-secim-sonrasinda-alacaklari-pozisyon-icin-simdiden-gorusmelere-basladi-1983388",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Bucha_after_Russian_invasion_of_Ukraine%2C_President_Zelensky_2_crop.jpg/960px-Bucha_after_Russian_invasion_of_Ukraine%2C_President_Zelensky_2_crop.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Bucha_after_Russian_invasion_of_Ukraine%2C_President_Zelensky_2_crop.jpg/500px-Bucha_after_Russian_invasion_of_Ukraine%2C_President_Zelensky_2_crop.jpg",
-          "genislik": 960,
-          "yukseklik": 695,
-          "orijinalGenislik": 4344,
-          "yazar": "Oleksandr Ratushniak",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bucha_after_Russian_invasion_of_Ukraine,_President_Zelensky_2_crop.jpg",
-          "aciklama": "Bucha after Russian invasion of Ukraine, President Zelensky",
-          "konu": "2022 Russian invasion of Ukraine"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D1%8B_%D0%BF%D1%80%D0%B8%D0%B7%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D1%80%D0%B0%D0%BC%D0%BA%D0%B0%D1%85_%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%B8_%D0%9D%D0%B0%D1%85%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%2C_2022%2C_02.jpg/960px-%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D1%8B_%D0%BF%D1%80%D0%B8%D0%B7%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D1%80%D0%B0%D0%BC%D0%BA%D0%B0%D1%85_%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%B8_%D0%9D%D0%B0%D1%85%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%2C_2022%2C_02.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D1%8B_%D0%BF%D1%80%D0%B8%D0%B7%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D1%80%D0%B0%D0%BC%D0%BA%D0%B0%D1%85_%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%B8_%D0%9D%D0%B0%D1%85%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%2C_2022%2C_02.jpg/500px-%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D1%8B_%D0%BF%D1%80%D0%B8%D0%B7%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D1%80%D0%B0%D0%BC%D0%BA%D0%B0%D1%85_%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%B8_%D0%9D%D0%B0%D1%85%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%2C_2022%2C_02.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 1280,
-          "yazar": "Управление информации и пресс-службы Главы Республики Крым",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D1%8B_%D0%BF%D1%80%D0%B8%D0%B7%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D1%80%D0%B0%D0%BC%D0%BA%D0%B0%D1%85_%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%B8_%D0%9D%D0%B0%D1%85%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0,_2022,_02.jpg",
-          "aciklama": "Глава Республики Крым Сергей Аксёнов принял участие в проводах военнослужащих из Республики Крым и города-героя Севастополя, призванных на военную службу в рамках частичной мобилизации.",
-          "konu": "2022 Russian mobilization"
-        }
-      ],
-      "durum": "bekliyor"
+      "yayin": "2022-09-21T04:00:00+03:00",
+      "puan": 12,
+      "durum": "haber"
     },
     {
-      "id": "2019-dn-u-s-president-donald-trump-approves",
-      "yil": 2019,
-      "bolge": "dunya",
-      "metinEn": "U.S. President Donald Trump approves deployment of several hundred troops and military equipment to Saudi Arabia and United Arab Emirates following the September 14 attack on Saudi oil refineries. Both Saudi Arabia and Iran vow to defend themselves.",
-      "konular": [
-        "Donald Trump",
-        "United Arab Emirates",
-        "2019 Abqaiq–Khurais attack",
-        "Iran"
-      ],
+      "id": "2021-haber-1870564",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez Bankası'nın faiz kararı öncesi dolar/TL zirveye yaklaştı",
+      "aciklama": "Dolar/TL, Eylül ayına 8.3 yakınlarında başladıktan sonra denge bulduğu 8.4-8.5 bandından Merkez Bankası'nın erken bir faiz indirimi yapacağına yönelik endişeler ve küresel satış baskısıyla yükselişini sürdürüyor.",
       "haberKaynagi": {
-        "ad": "Sky News",
-        "url": "https://news.sky.com/story/trump-approves-deployment-of-us-forces-in-saudi-arabia-11815482"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasinin-faiz-karari-oncesi-dolartl-zirveye-yaklasti-1870564"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/500px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1200,
-        "orijinalGenislik": 1638,
-        "yazar": "Daniel Torok",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
-        "aciklama": "Official Presidential Portrait of President Donald J. Trump in his second term",
-        "konu": "Donald Trump"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2021/9/21/1870564/kapak_091255.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2021/9/21/1870564/kapak_091255.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasinin-faiz-karari-oncesi-dolartl-zirveye-yaklasti-1870564",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/500px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1200,
-          "orijinalGenislik": 1638,
-          "yazar": "Daniel Torok",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
-          "aciklama": "Official Presidential Portrait of President Donald J. Trump in his second term",
-          "konu": "Donald Trump"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Khurais_oil_field_and_Buqyaq_Saudi_Arabia.png/960px-Khurais_oil_field_and_Buqyaq_Saudi_Arabia.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Khurais_oil_field_and_Buqyaq_Saudi_Arabia.png/500px-Khurais_oil_field_and_Buqyaq_Saudi_Arabia.png",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 1023,
-          "yazar": "VOA",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Khurais_oil_field_and_Buqyaq_Saudi_Arabia.png",
-          "aciklama": "Khurais oil field and Buqyaq Saudi Arabia",
-          "konu": "2019 Abqaiq–Khurais attack"
-        }
-      ],
-      "durum": "bekliyor"
+      "yayin": "2021-09-21T09:08:00+03:00",
+      "puan": 13,
+      "durum": "haber"
     },
     {
-      "id": "2014-dn-the-battle-of-sanaa-leads-to",
+      "id": "2021-haber-1870791",
+      "yil": 2021,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "Erdoğan:",
+      "aciklama": "BM'nin 76'ncı Genel Kurulu görüşmelerinde konuşan AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/erdogan-ben-yaptim-oldu-mantiginin-faturasini-tum-insanlik-odemektedir-1870791"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2021/9/21/1870791/kapak_221057.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2021/9/21/1870791/kapak_221057.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/dunya/erdogan-ben-yaptim-oldu-mantiginin-faturasini-tum-insanlik-odemektedir-1870791",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2021-09-21T22:08:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1767632",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Milli dalışçı Fatma Uruk, Meksika'da şampiyon oldu ve Türkiye rekorunu kırdı",
+      "aciklama": "Meksika'da dünya rekoru denemesi için hazırlıklarını sürdüren milli serbest dalışçı Fatma Uruk, hazırlık döneminde bu ülkede katıldığı uluslararası organizasyonda 60 metreye dalarak Türkiye rekoru kırdı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/milli-dalisci-fatma-uruk-meksikada-sampiyon-oldu-ve-turkiye-rekorunu-kirdi-1767632"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2020/9/21/1767632/kapak_103214.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2020/9/21/1767632/kapak_103214.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/milli-dalisci-fatma-uruk-meksikada-sampiyon-oldu-ve-turkiye-rekorunu-kirdi-1767632",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2020-09-21T10:14:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1767624",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolar ve Avro'dan yeni haftada ilk rekor",
+      "aciklama": "Dolar/TL yeni haftaya hızlı başladı. Kur 7.5985 ile rekor kırarken, Avro 9 TL'nin üzerine çıktı. Haftalardır rekor yolculuğunu sürdüren kur, zirve seviyesini 7,60'ın üzerine taşıdı. Euro/TL de 8,96 seviyelerinde seyrediyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/dolar-ve-avrodan-yeni-haftada-ilk-rekor-1767624"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2020/9/21/1767624/kapak_101417.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2020/9/21/1767624/kapak_101417.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/dolar-ve-avrodan-yeni-haftada-ilk-rekor-1767624",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2020-09-21T10:13:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1089506",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Sabah yazarı: Dolar 80 lira da olsa, Erdoğan 2023'e kadar bu ülkenin başında",
+      "aciklama": "İktidara yakınlığıyla bilinen Sabah gazetesi yazarı Engin Ardıç, döviz kurlarında yaşanan hareketliliğe ilişkin olarak",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/sabah-yazari-dolar-80-lira-da-olsa-erdogan-2023e-kadar-bu-ulkenin-basinda-1089506"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2018/9/21/1089506_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2018/9/21/1089506_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/sabah-yazari-dolar-80-lira-da-olsa-erdogan-2023e-kadar-bu-ulkenin-basinda-1089506",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2018-09-21T11:33:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1089951",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İngiltere Başbakanı May: Avrupa Birliği, Brexit müzakerelerinde saygılı olmalı",
+      "aciklama": "İngiltere Başbakanı Theresa May, Salzburg'daki AB Zirvesi dönüşü Başbakanlık Konutu'nda yaptığı açıklamada, Brexit'e yönelik Chequers Planı'nı reddeden birlik üyesi ülkelerin liderlerinin herhangi bir alternatif önermediklerini belirtti. May, AB'nin tavrı için",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ingiltere-basbakani-may-avrupa-birligi-brexit-muzakerelerinde-saygili-olmali-1089951"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2018/9/21/1089951_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2018/9/21/1089951_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/ingiltere-basbakani-may-avrupa-birligi-brexit-muzakerelerinde-saygili-olmali-1089951",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2018-09-21T16:36:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-828442",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Kanada Başbakanı konuşmasıyla değil çoraplarıyla gündem oldu",
+      "aciklama": "New York’ta düzenlenen ekonomi forumuna katılan Kanada Başbakanı Justin Trudeau, fikirlerinden çok Star Wars çoraplarıyla sosyal medyanın gündemine girdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/kanada-basbakani-konusmasiyla-degil-coraplariyla-gundem-oldu-828442"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2017/9/21/828442_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2017/9/21/828442_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/kanada-basbakani-konusmasiyla-degil-coraplariyla-gundem-oldu-828442",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2017-09-21T12:56:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-828785",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Milli Eğitim Bakanlığı TEOG taslağını yarın Bakanlar Kurulu'na sunacak",
+      "aciklama": "Milli Eğitim Bakanlığı,  TEOG'un yerine geçmesi planlanan yeni sistemi yarın yapılacak olan Bakanlar Kurulu'na sunacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/milli-egitim-bakanligi-teog-taslagini-yarin-bakanlar-kuruluna-sunacak-828785"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2017/9/21/828785_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2017/9/21/828785_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/milli-egitim-bakanligi-teog-taslagini-yarin-bakanlar-kuruluna-sunacak-828785",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2017-09-21T18:41:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-603514",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fed faiz kararını açıkladı (21.09.2016)",
+      "aciklama": "Fed bu yıl düzenlediği diğer toplantılarda olduğu gibi eylül ayı toplantısında da faizlerde değişikliğe gitmedi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fed-faiz-kararini-acikladi-603514"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2016/9/21/603514_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2016/9/21/603514_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/fed-faiz-kararini-acikladi-603514",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2016-09-21T21:06:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-603172",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Türk bilardosu Guinnes Rekorlar Kitabı'nda",
+      "aciklama": "Erkekler, Kadınlar ve Gençler Kategorilerinde 1170 sporcu katılımı ile 1-12 Mart 2016 tarihleri arasında Antalya'da gerçekleştirilen Türkiye 3 Bant Bilardo Şampiyonası, Dünya Rekoru olarak tescil edildi ve Guinnes Rekorlar Kitabı'na girdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/turk-bilardosu-guinnes-rekorlar-kitabinda-603172"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2016/9/21/603172_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2016/9/21/603172_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/turk-bilardosu-guinnes-rekorlar-kitabinda-603172",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2016-09-21T12:52:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-374095",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Yunan seçimlerinde soydaşlar rekor kırdı",
+      "aciklama": "Yunanistan’da 8 ayda bir kez referandum, 2 kez de erken genel seçim için sandık başına giden seçmen ülkede yaşanan ekonomik krizin aşılması için Radikal Sol Kaolisyon (Syriza) Lideri Aleksis Çipras’a bir kez daha destek verdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/yunan-secimlerinde-soydaslar-rekor-kirdi-374095"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2015/9/21/374095_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2015/9/21/374095_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/yunan-secimlerinde-soydaslar-rekor-kirdi-374095",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2015-09-21T17:27:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-373753",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Game of Thrones ödül rekoru kırdı",
+      "aciklama": "Pazar günü Los Angeles'daki Emmy ödüllerinde Game of Thrones havası esti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/game-of-thrones-odul-rekoru-kirdi-373753"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2015/9/21/373753_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2015/9/21/373753_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/game-of-thrones-odul-rekoru-kirdi-373753",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2015-09-21T11:35:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-121711",
       "yil": 2014,
-      "bolge": "dunya",
-      "metinEn": "The Battle of Sanaa leads to the start of the Yemeni Civil War, as Houthi forces capture the capital city Sanaa, followed by a rapid Houthi takeover of the government.",
-      "konular": [
-        "Battle of Sanaa (2014)",
-        "Yemeni Civil War (2014–present)"
-      ],
-      "haberKaynagi": null,
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/View_of_Old_Sana%27a%2C_Yemen%2C_Jan._2009.jpg/960px-View_of_Old_Sana%27a%2C_Yemen%2C_Jan._2009.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/View_of_Old_Sana%27a%2C_Yemen%2C_Jan._2009.jpg/500px-View_of_Old_Sana%27a%2C_Yemen%2C_Jan._2009.jpg",
-        "genislik": 960,
-        "yukseklik": 651,
-        "orijinalGenislik": 3096,
-        "yazar": "Ferdinand Reus from Arnhem, Holland",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:View_of_Old_Sana%27a,_Yemen,_Jan._2009.jpg",
-        "aciklama": "Sana'a",
-        "konu": "Battle of Sanaa (2014)"
-      },
-      "durum": "bekliyor"
-    },
-    {
-      "id": "2009-dn-china-becomes-the-first-country-to",
-      "yil": 2009,
-      "bolge": "dunya",
-      "metinEn": "China becomes the first country to succeed a completed clinical trial by a company for the 2009/H1N1 vaccine in the world during the swine flu pandemic.",
-      "konular": [
-        "2009 swine flu pandemic in Asia",
-        "2009 swine flu pandemic vaccine",
-        "2009 swine flu pandemic"
-      ],
-      "haberKaynagi": null,
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/H1N1_navbox.jpg/960px-H1N1_navbox.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/H1N1_navbox.jpg/500px-H1N1_navbox.jpg",
-        "genislik": 960,
-        "yukseklik": 629,
-        "orijinalGenislik": 1750,
-        "yazar": "Cybercobra (talk)",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:H1N1_navbox.jpg",
-        "aciklama": "Modified version of File:CDC-11214-swine-flu.jpg for landscape aspect.",
-        "konu": "2009 swine flu pandemic vaccine"
-      },
-      "durum": "bekliyor"
-    },
-    {
-      "id": "2003-dn-nasa-ends-the-galileo-probe-mission",
-      "yil": 2003,
-      "bolge": "dunya",
-      "metinEn": "NASA ends the Galileo probe mission after nearly 14 years by sending it into Jupiter's atmosphere.",
-      "konular": [
-        "Galileo (spacecraft)"
-      ],
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "9 aydır yüzde 215 artışla zam şampiyonu",
+      "aciklama": "Yılbaşından bu yana en çok zamlanan ürün olan limondaki fiyat artışı yüzde 216'yı buldu.",
       "haberKaynagi": {
-        "ad": "NASA",
-        "url": "https://science.nasa.gov/mission/galileo/"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/9-aydir-yuzde-215-artisla-zam-sampiyonu-121711"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Artwork_Galileo-Io-Jupiter.JPG/960px-Artwork_Galileo-Io-Jupiter.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Artwork_Galileo-Io-Jupiter.JPG/500px-Artwork_Galileo-Io-Jupiter.JPG",
-        "genislik": 960,
-        "yukseklik": 771,
-        "orijinalGenislik": 3014,
-        "yazar": "NASA",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Artwork_Galileo-Io-Jupiter.JPG",
-        "aciklama": "Artist's rendering of NASA's Galileo spacecraft flying past Jupiter's moon Io. Galileo made multiple close approaches to the volcanically active moon during its time at Jupiter, including a first pass",
-        "konu": "Galileo (spacecraft)"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2014/9/21/121711_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2014/9/21/121711_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/9-aydir-yuzde-215-artisla-zam-sampiyonu-121711",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "durum": "bekliyor"
+      "yayin": "2014-09-21T12:33:00+03:00",
+      "puan": 12,
+      "durum": "haber"
     },
     {
-      "id": "2002-dn-hurricane-lili-crosses-cuba-and-several",
-      "yil": 2002,
-      "bolge": "dunya",
-      "metinEn": "Hurricane Lili crosses Cuba and several other Caribbean islands before making landfall in Louisiana.",
-      "konular": [
-        "October 4",
-        "Hurricane Lili"
-      ],
-      "haberKaynagi": null,
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "id": "2014-haber-121835",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Zadar'da şampiyon Fenerbahçe Ülker",
+      "aciklama": "Zadar Turnuvası finalinde Cedevita Zagreb ile karşılaşan Fenerbahçe Ülker, mücadeleyi 75-67 kazandı ve şampiyon oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/zadarda-sampiyon-fenerbahce-ulker-121835"
+      },
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Lili_2002-10-02_1645Z_%28alternative_version%29.jpg/960px-Lili_2002-10-02_1645Z_%28alternative_version%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Lili_2002-10-02_1645Z_%28alternative_version%29.jpg/500px-Lili_2002-10-02_1645Z_%28alternative_version%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1305,
-        "orijinalGenislik": 2612,
-        "yazar": "NASA/Aqua-MODIS",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Lili_2002-10-02_1645Z_(alternative_version).jpg",
-        "aciklama": "Hurricane Lili near its peak intensity while over the Gulf of mexico on October 2, 2002",
-        "konu": "Hurricane Lili"
-      }
+        "url": "https://media.cumhuriyet.com.tr/Archive//2014/9/21/121835_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2014/9/21/121835_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/zadarda-sampiyon-fenerbahce-ulker-121835",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2014-09-21T23:42:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-371560",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İşkence, İçişleri Bakanı'nı istifa ettirdi",
+      "aciklama": "Gürcistan İçişleri Bakanı Baço Akhalaya istifa etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/iskence-icisleri-bakanini-istifa-ettirdi-371560"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2012/9/21/371560_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2012/9/21/371560_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/iskence-icisleri-bakanini-istifa-ettirdi-371560",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2012-09-21T09:24:00+03:00",
+      "puan": 6,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-371596",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan ABD gezisini iptal etti",
+      "aciklama": "Başbakan Recep Tayyip Erdoğan, AKP 4. Olağan Büyük Kongresi'yle ilgili çalışmalar ve program yoğunluğu nedeniyle BM Genel Kurulu'na katılmak üzere ABD'ye yapacağı ziyareti iptal etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-abd-gezisini-iptal-etti-371596"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2012/9/21/371596_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2012/9/21/371596_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/erdogan-abd-gezisini-iptal-etti-371596",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2012-09-21T10:35:00+03:00",
+      "puan": 5,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-283806",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Başbakan bayrak altında seks yapıyor!",
+      "aciklama": "Fragmanları yayınlanan bir dizide, Avustralya&#8217;nın ilk kadın başbakanı Julia Gillard&#8217;ın bayrak desenli bir battaniyenin altında seks yaptığı bir sahne de yer alıyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbakan-bayrak-altinda-seks-yapiyor-283806"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2011/9/21/283806_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2011/9/21/283806_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/basbakan-bayrak-altinda-seks-yapiyor-283806",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2011-09-21T07:51:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-283946",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Vural'dan Erdoğan'a 'yüzde 95 mutabakat' sorusu",
+      "aciklama": "MHP Grup Başkanvekili Oktay Vural, internete düşen MİT-PKK görüşmesi olduğu iddia edilen ses kayıtlarını Meclis gündemine taşıdı. Başbakan Recep Tayyip Erdoğan'a,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/vuraldan-erdogana-yuzde-95-mutabakat-sorusu-283946"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2011/9/21/283946_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2011/9/21/283946_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/vuraldan-erdogana-yuzde-95-mutabakat-sorusu-283946",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2011-09-21T15:00:00+03:00",
+      "puan": 5,
+      "durum": "haber"
     }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
   ]
 }

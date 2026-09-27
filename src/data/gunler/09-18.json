@@ -1106,177 +1106,548 @@
     "revid": 37991696
   },
   "guncelleme": "2026-09-27T10:43:46.190Z",
-  "yakinOlaylar": [
+  "haberler": [
     {
-      "id": "2025-tr-the-historic-keyvanlar-mansion-in-mudurnu",
+      "id": "2025-haber-2436166",
       "yil": 2025,
       "bolge": "turkiye",
-      "metinEn": "The historic Keyvanlar mansion in Mudurnu, Bolu Province, is destroyed in a fire.",
-      "konular": [
-        "Mudurnu",
-        "Bolu Province"
-      ],
+      "tur": "haber",
+      "metin": "Erdoğan 'Bu kardeşinize yetkiyi verin' demişti: AKP döneminde fiyatlar ve enflasyon rekor kırdı!",
+      "aciklama": "2018’den bu yana Türk ekonomisi yüksek enflasyon ve artan fiyatlarla şekillendi. Faiz politikaları ve ekonomik dalgalanmalar milyonlarca yurttaşın yaşamını etkiliyor. Temel ürünlerden otomobile kadar fiyat artışları günlük yaşamda hissediliyor.",
       "haberKaynagi": {
-        "ad": "Euronews",
-        "url": "https://www.euronews.com/video/2025/09/18/fire-destroys-historic-keyvanlar-mansion-in-bolus-mudurnu-district"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/erdogan-bu-kardesinize-yetkiyi-verin-demisti-akp-doneminde-fiyatlar-ve-enflasyon-rekor-kirdi-2436166"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Mudurnu062007_7391.jpg/960px-Mudurnu062007_7391.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Mudurnu062007_7391.jpg/500px-Mudurnu062007_7391.jpg",
-        "genislik": 960,
-        "yukseklik": 638,
-        "orijinalGenislik": 4288,
-        "yazar": "Dosseman",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Mudurnu062007_7391.jpg",
-        "aciklama": "A nice aspect of Mudurnu (and many other of Turkey's older areas) is that lots of buildings were largely made of wood, a meterial that lends itself to fine decoration. This is a somewhat older picture",
-        "konu": "Mudurnu"
+        "url": "https://media.cumhuriyet.com.tr/Archive/f404f62a-4d9a-4238-8436-0df3b1e49ec1.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive/f404f62a-4d9a-4238-8436-0df3b1e49ec1.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/ekonomi/erdogan-bu-kardesinize-yetkiyi-verin-demisti-akp-doneminde-fiyatlar-ve-enflasyon-rekor-kirdi-2436166",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Mudurnu062007_7391.jpg/960px-Mudurnu062007_7391.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Mudurnu062007_7391.jpg/500px-Mudurnu062007_7391.jpg",
-          "genislik": 960,
-          "yukseklik": 638,
-          "orijinalGenislik": 4288,
-          "yazar": "Dosseman",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mudurnu062007_7391.jpg",
-          "aciklama": "A nice aspect of Mudurnu (and many other of Turkey's older areas) is that lots of buildings were largely made of wood, a meterial that lends itself to fine decoration. This is a somewhat older picture",
-          "konu": "Mudurnu"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/TAB%C4%B0ATIN_KALB%C4%B0_BOLU_G%C3%96LC%C3%9CK_TAB%C4%B0AT_PARKI.jpg/960px-TAB%C4%B0ATIN_KALB%C4%B0_BOLU_G%C3%96LC%C3%9CK_TAB%C4%B0AT_PARKI.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/TAB%C4%B0ATIN_KALB%C4%B0_BOLU_G%C3%96LC%C3%9CK_TAB%C4%B0AT_PARKI.jpg/500px-TAB%C4%B0ATIN_KALB%C4%B0_BOLU_G%C3%96LC%C3%9CK_TAB%C4%B0AT_PARKI.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 5184,
-          "yazar": "Mehtapcelik",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:TAB%C4%B0ATIN_KALB%C4%B0_BOLU_G%C3%96LC%C3%9CK_TAB%C4%B0AT_PARKI.jpg",
-          "aciklama": "This picture is from Bolu, Turkey. Bolu is an awesome city. There are natural places in Bolu.",
-          "konu": "Bolu Province"
-        }
-      ],
-      "durum": "bekliyor"
+      "yayin": "2025-09-18T11:34:00+03:00",
+      "puan": 13,
+      "durum": "haber"
     },
     {
-      "id": "2015-dn-automaker-volkswagen-is-alleged-to-have",
+      "id": "2025-haber-2436316",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Almanya'da korkunç gece! Galatasaray'dan Şampiyonlar Ligi'ne kabus gibi başlangıç!",
+      "aciklama": "Şampiyonlar Ligi'nin ilk haftasında Galatasaray deplasmanda Frankfurt'a 5-1 yenildi. Sarı kırmızılıların tek golünü Yunus Akgün kaydetti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/canli-yayin-eintracht-frankfurt-galatasaray-canli-anlatim-uefa-sampiyonlar-ligi-1-haftasi-2436316"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//340d288e-ad63-41c1-8f14-807be9a0b7f6.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//340d288e-ad63-41c1-8f14-807be9a0b7f6.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/spor/canli-yayin-eintracht-frankfurt-galatasaray-canli-anlatim-uefa-sampiyonlar-ligi-1-haftasi-2436316",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2025-09-18T20:57:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2249019",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fed'in faiz kararı sonrası altında rekor!",
+      "aciklama": "Fed'in faiz indirimi kararı sonrası altının ons fiyatı yeni tarihi zirvesini gördü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/fedin-faiz-karari-sonrasi-altinda-rekor-2249019"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2024/9/18/2249019/kapak_213620.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2024/9/18/2249019/kapak_213620.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/ekonomi/fedin-faiz-karari-sonrasi-altinda-rekor-2249019",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2024-09-18T21:36:00+03:00",
+      "puan": 14,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2248840",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Artvin'de sel ve heyelanlarda kapanan köy yolları ulaşıma açıldı: Vali Ünsal'dan açıklama geldi",
+      "aciklama": "Artvin'de 2 gün etkili olan yağışta taşkın ve heyelanlar nedeniyle kapanan 32 köy yolu ulaşıma açıldı. Çalışmaları yerinde izleyen Vali Cengiz Ünsal,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/artvinde-sel-ve-heyelanlarda-kapanan-koy-yollari-ulasima-acildi-vali-2248840"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2024/9/18/2248840/kapak_124213.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2024/9/18/2248840/kapak_124213.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/turkiye/artvinde-sel-ve-heyelanlarda-kapanan-koy-yollari-ulasima-acildi-vali-2248840",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2024-09-18T12:42:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2120744",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "'Yaşlılık' nedeniyle istifası istenen başdanışman: Cumhurbaşkanımız çok genç değil",
+      "aciklama": "Cumhurbaşkanı Erdoğan'ın istifası istenen 15 başdanışmanından biri olan Mehmet Akarca",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/yaslilik-nedeniyle-istifasi-istenen-basdanisman-cumhurbaskanimiz-cok-genc-degil-2120744"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2023/9/18/2120744/kapak_210102.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2023/9/18/2120744/kapak_210102.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/siyaset/yaslilik-nedeniyle-istifasi-istenen-basdanisman-cumhurbaskanimiz-cok-genc-degil-2120744",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2023-09-18T21:01:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2120649",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Oppenheimer'dan yeni bir rekor: Tüm zamanların en çok kazanan biyografi filmi oldu!",
+      "aciklama": "Oppenheimer geçtiğimiz aylarda vizyona girdiğinden beri konuşulmaya devam ediyor. Bu sefer de yeni bir rekor kırdı. Oppenheimer, Bohemian Rhapsody'i geçerek tüm zamanların en çok kazanan biyografi filmi oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/kultur-sanat/oppenheimerdan-yeni-bir-rekor-tum-zamanlarin-en-cok-kazanan-biyografi-filmi-oldu-2120649"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2023/9/18/2120649/kapak_162154.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2023/9/18/2120649/kapak_162154.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/kultur-sanat/oppenheimerdan-yeni-bir-rekor-tum-zamanlarin-en-cok-kazanan-biyografi-filmi-oldu-2120649",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2023-09-18T16:22:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1869804",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP'li Cumhurbaşkanı Erdoğan, tartışılan isim Ali Erbaş’ı yeniden Diyanet’e atadı",
+      "aciklama": "Yaptığı açıklamalarla tepki çeken Ali Erbaş, Cumhurbaşkanı Recep Tayyip Erdoğan’ın kararıyla yeniden Diyanet İşleri Başkanlığı’na atandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/akpli-cumhurbaskani-erdogan-tartisilan-isim-ali-erbasi-yeniden-diyanete-atadi-1869804"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2021/9/18/1869804/kapak_042844.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2021/9/18/1869804/kapak_042844.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/turkiye/akpli-cumhurbaskani-erdogan-tartisilan-isim-ali-erbasi-yeniden-diyanete-atadi-1869804",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2021-09-18T04:00:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1869934",
+      "yil": 2021,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "Marmara Denizi öldü: Avrupa medyası, müsilajın döneceği tarihi açıkladı",
+      "aciklama": "Avrupa medyası, 'Marmara öldü' manşetleri attı ve müsilajın ekim ayında daha güçlü döneceğini yazdı. Uzmanlarla görüşen Alman haber ajansı DPA’nın haberi son dört günün çevre konusu. Gazeteler,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/marmara-denizi-oldu-avrupa-medyasi-musilajin-donecegi-tarihi-acikladi-1869934"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2021/9/18/1869934/kapak_133107.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2021/9/18/1869934/kapak_133107.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/dunya/marmara-denizi-oldu-avrupa-medyasi-musilajin-donecegi-tarihi-acikladi-1869934",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2021-09-18T13:24:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1767018",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dünya Ralli Şampiyonası'nda heyecan başladı",
+      "aciklama": "Cumhurbaşkanlığı himayesinde gerçekleştirilen 2020 FIA Dünya Ralli Şampiyonası 5'inci yarışı olan Türkiye Rallisi, shakedown (deneme sürüşü) etabıyla start aldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/dunya-ralli-sampiyonasinda-heyecan-basladi-1767018"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2020/9/18/1767018/kapak_135019.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2020/9/18/1767018/kapak_135019.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/dunya-ralli-sampiyonasinda-heyecan-basladi-1767018",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2020-09-18T12:44:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1766929",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Rusya'da 100 ton araba hurdasından üretilen eserlerin yer aldığı müze açıldı",
+      "aciklama": "Rusya'da yaklaşık 100 ton araba hurdasından oluşan eserlerin yer aldığı",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/rusyada-100-ton-araba-hurdasindan-uretilen-eserlerin-yer-aldigi-muze-acildi-1766929"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2020/9/18/1766929/kapak_093224.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2020/9/18/1766929/kapak_093224.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/rusyada-100-ton-araba-hurdasindan-uretilen-eserlerin-yer-aldigi-muze-acildi-1766929",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2020-09-18T09:29:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1086817",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Galatasaray'dan Şampiyonlar Ligi'nde ihtişamlı gala",
+      "aciklama": "UEFA Şampiyonlar Ligi D Grubu ilk maçında Galatasaray, evinde Lokomotiv Moskova'yı Rodrigues, Eren ve Selçuk'un golleriyle 3-0 mağlup ederek 3 sene sonra katıldığı Devler Ligi'ne 3 puanla başladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/galatasaraydan-sampiyonlar-liginde-ihtisamli-gala-1086817"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2018/9/18/1086817_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2018/9/18/1086817_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/galatasaraydan-sampiyonlar-liginde-ihtisamli-gala-1086817",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2018-09-18T23:17:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1086693",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Almanya istihbaratında 'aşırı sağ' depremi",
+      "aciklama": "Almanya İç İstihbarat Servisi Başkanı Hans-Georg Maassen görevden alındı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/almanya-istihbaratinda-asiri-sag-depremi-1086693"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2018/9/18/1086693_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2018/9/18/1086693_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/almanya-istihbaratinda-asiri-sag-depremi-1086693",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2018-09-18T19:16:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-826535",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "TBMM’de para cezası uygulaması başlıyor",
+      "aciklama": "İç tüzük değişikliğinin uygulamaya konulmasıyla para cezası uygulaması TBMM'ye de geliyor. Ancak para cezasına ilişkin tarife beli olsa da ödemenin şekline ilişkin belirsizlik dikkat çekiyor",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/tbmmde-para-cezasi-uygulamasi-basliyor-826535"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2017/9/18/826535_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2017/9/18/826535_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/tbmmde-para-cezasi-uygulamasi-basliyor-826535",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2017-09-18T20:31:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-372267",
       "yil": 2015,
-      "bolge": "dunya",
-      "metinEn": "Automaker Volkswagen is alleged to have been involved in worldwide rigging of diesel emissions tests, affecting an estimated 11&nbsp;million vehicles globally.",
-      "konular": [
-        "Volkswagen",
-        "Volkswagen emissions scandal"
-      ],
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Türkeş aday olduğu AKP'ye ve Erdoğan'a demediğini bırakmamış",
+      "aciklama": "Milliyetçi Hareket Partisi'nden istifa eden Tuğrul Türkeş, AKP'den  Ankara Milletvekili adayı oldu. Türkeş'in eski tweetleri, sosyal medyanın gündemine oturdu.",
       "haberKaynagi": {
-        "ad": "The Guardian",
-        "url": "https://www.theguardian.com/business/2015/sep/18/epa-california-investigate-volkswagen-clean-air-violations"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/turkes-aday-oldugu-akpye-ve-erdogana-demedigini-birakmamis-372267"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/VW_Golf_TDI_Clean_Diesel_WAS_2010_8983.JPG/960px-VW_Golf_TDI_Clean_Diesel_WAS_2010_8983.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/VW_Golf_TDI_Clean_Diesel_WAS_2010_8983.JPG/500px-VW_Golf_TDI_Clean_Diesel_WAS_2010_8983.JPG",
-        "genislik": 960,
-        "yukseklik": 553,
-        "orijinalGenislik": 1500,
-        "yazar": "Mariordo Mario Roberto Duran Ortiz",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:VW_Golf_TDI_Clean_Diesel_WAS_2010_8983.JPG",
-        "aciklama": "Lateral view VW Golf TDI clean diesel at the 2010 Washington Auto Show",
-        "konu": "Volkswagen emissions scandal"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2015/9/18/372267_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2015/9/18/372267_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/turkes-aday-oldugu-akpye-ve-erdogana-demedigini-birakmamis-372267",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "durum": "bekliyor"
+      "yayin": "2015-09-18T15:36:00+03:00",
+      "puan": 7,
+      "durum": "haber"
     },
     {
-      "id": "2014-dn-in-the-2014-scottish-independence-referendum",
+      "id": "2015-haber-372149",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "'Validebağ Direnişi' davasında karar",
+      "aciklama": "Üsküdar Validebağ'daki olaylarla ilgili 15 kişinin 7,5'ar yıla kadar hapis cezası istemiyle tutuksuz yargılandığı davanın karar duruşması görüldü.15 kişinin 7,5'ar yıla kadar hapis cezası istemiyle yargılandığı davada 14 sanık beraat etti.\nŞanlıurfa'nın Suruç ilçesinde saldırıda ",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/validebag-direnisi-davasinda-karar-372149"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2015/9/18/372149_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2015/9/18/372149_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/validebag-direnisi-davasinda-karar-372149",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2015-09-18T13:52:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-120883",
       "yil": 2014,
-      "bolge": "dunya",
-      "metinEn": "In the 2014 Scottish independence referendum, Scotland votes against independence from the United Kingdom.",
-      "konular": [
-        "2014 Scottish independence referendum"
-      ],
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fenerbahçe'de istifalar kabul edildi",
+      "aciklama": "Fenerbahçe'de Ahmet Özokur ve Abdullah Kiğılı'nın istifaları kabul edildi.",
       "haberKaynagi": {
-        "ad": "Council on Foreign Relations",
-        "url": "https://www.cfr.org/blog/ten-most-significant-world-events-2014"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fenerbahcede-istifalar-kabul-edildi-120883"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": null,
-      "durum": "bekliyor"
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2014/9/18/120883_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2014/9/18/120883_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/fenerbahcede-istifalar-kabul-edildi-120883",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2014-09-18T19:36:00+03:00",
+      "puan": 9,
+      "durum": "haber"
     },
     {
-      "id": "2003-dn-hurricane-isabel-makes-landfall-in-north",
-      "yil": 2003,
-      "bolge": "dunya",
-      "metinEn": "Hurricane Isabel makes landfall in North Carolina.",
-      "konular": [
-        "Hurricane Isabel",
-        "North Carolina"
-      ],
-      "haberKaynagi": null,
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Isabel_2003-09-11_1720Z.jpg/960px-Isabel_2003-09-11_1720Z.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Isabel_2003-09-11_1720Z.jpg/500px-Isabel_2003-09-11_1720Z.jpg",
-        "genislik": 960,
-        "yukseklik": 1280,
-        "orijinalGenislik": 4500,
-        "yazar": "NASA/Aqua-MODIS",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Isabel_2003-09-11_1720Z.jpg",
-        "aciklama": "Hurricane Isabel at peak intensity on September 11, 2003.",
-        "konu": "Hurricane Isabel"
+      "id": "2014-haber-120625",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "UEFA Şampiyonlar Ligi'nde olay: 2 kişi ağır yaralandı",
+      "aciklama": "Futbolda, UEFA Şampiyonlar Ligi E Grubu'nda oynanan AS Roma-CSKA Moskova maçı öncesi çıkan olaylarda iki Rus taraftar yaralandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/uefa-sampiyonlar-liginde-olay-2-kisi-agir-yaralandi-120625"
       },
-      "durum": "bekliyor"
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2014/9/18/120625_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2014/9/18/120625_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/uefa-sampiyonlar-liginde-olay-2-kisi-agir-yaralandi-120625",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2014-09-18T09:32:00+03:00",
+      "puan": 8,
+      "durum": "haber"
     },
     {
-      "id": "2001-dn-the-2001-anthrax-attacks-begin-in",
-      "yil": 2001,
-      "bolge": "dunya",
-      "metinEn": "The 2001 anthrax attacks begin in the United States, which cause five fatalities and 17 other infections.",
-      "konular": [
-        "2001 anthrax attacks"
-      ],
+      "id": "2012-haber-371052",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez Bankası'ndan kritik karar",
+      "aciklama": "Merkez Bankası Para Politikası Kurulu, faiz kararını açıkladı. Gösterge faizi olan haftalık borç verme oranını yüzde 5.75'te tutarken, faiz koridorunun üst bandını 150 baz puan azaltarak yüzde 11.5'ten yüzde 10'a çekti. Beklentiler indirimin 100 puan olması yönündeydi.",
       "haberKaynagi": {
-        "ad": "NPR",
-        "url": "https://www.npr.org/2011/02/15/93170200/timeline-how-the-anthrax-terror-unfolded"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/merkez-bankasindan-kritik-karar-371052"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Anthrax_letter_sent_to_Senator_Leahy.jpg/960px-Anthrax_letter_sent_to_Senator_Leahy.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Anthrax_letter_sent_to_Senator_Leahy.jpg/500px-Anthrax_letter_sent_to_Senator_Leahy.jpg",
-        "genislik": 960,
-        "yukseklik": 630,
-        "orijinalGenislik": 2000,
-        "yazar": "Federal Bureau of Investigation",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Anthrax_letter_sent_to_Senator_Leahy.jpg",
-        "aciklama": "Laboratory technician's hands shown holding an anthrax-laced letter, after safely opening it, addressed to Senator Leahy at the U.S. Army's Fort Detrick bio-medical research laboratory in December 200",
-        "konu": "2001 anthrax attacks"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2012/9/18/371052_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2012/9/18/371052_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/merkez-bankasindan-kritik-karar-371052",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "durum": "bekliyor"
+      "yayin": "2012-09-18T11:38:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-371032",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Meclis, yeni yasama yılına hazır",
+      "aciklama": "Meclis, 24. Dönem 3. Yasama Yılı'na 1 Ekim'de başlıyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/meclis-yeni-yasama-yilina-hazir-371032"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2012/9/18/371032_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2012/9/18/371032_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/meclis-yeni-yasama-yilina-hazir-371032",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2012-09-18T09:25:00+03:00",
+      "puan": 5,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-283080",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Yeni Anayasa çalışmaları başlıyor",
+      "aciklama": "TBMM Başkanı Cemil Çiçek, ''Yeni Anayasa'' için hukukçu akademisyenlerle bir araya gelecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/yeni-anayasa-calismalari-basliyor-283080"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2011/9/18/283080_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2011/9/18/283080_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/yeni-anayasa-calismalari-basliyor-283080",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2011-09-18T09:00:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-283102",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Mısır'da seçim tarihi belli oldu",
+      "aciklama": "Mısır'da parlamento seçimlerinin kasım ve ocak aylarında yapılacağı bildirildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/misirda-secim-tarihi-belli-oldu-283102"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2011/9/18/283102_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2011/9/18/283102_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/misirda-secim-tarihi-belli-oldu-283102",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2011-09-18T10:41:00+03:00",
+      "puan": 8,
+      "durum": "haber"
     }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
   ]
 }

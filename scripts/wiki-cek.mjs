@@ -2,7 +2,7 @@
 // ve src/data/gunler/MM-DD.json dosyalarına yazar. Daha önce yazılmış özet/kategori alanları korunur.
 //
 // Kullanım:
-//   node scripts/wiki-cek.mjs                 -> 20 gün öncesi ile 10 gün sonrası arası (her gün pencere kayar)
+//   node scripts/wiki-cek.mjs                 -> 10 gün öncesi ile 10 gün sonrası arası (her gün pencere kayar)
 //   node scripts/wiki-cek.mjs --once 5 --sonra 30   -> pencereyi değiştir
 //   node scripts/wiki-cek.mjs --gun 09-27     -> tek gün
 //   node scripts/wiki-cek.mjs --hepsi         -> 366 günün tamamı
@@ -153,7 +153,7 @@ function hedefGunler(args) {
     return [{ ay, gun }];
   }
   const sayi = (ad, v) => (args.includes(ad) ? Number(args[args.indexOf(ad) + 1]) : v);
-  return gunPenceresi(sayi('--once', 20), sayi('--sonra', 10));
+  return gunPenceresi(sayi('--once', 10), sayi('--sonra', 10));
 }
 
 await fs.mkdir(VERI_DIZINI, { recursive: true });

@@ -877,247 +877,623 @@
     "revid": 38059536
   },
   "guncelleme": "2026-09-27T10:43:51.005Z",
-  "yakinOlaylar": [
+  "haberler": [
     {
-      "id": "2023-dn-an-estimated-170-people-are-killed",
+      "id": "2025-haber-2438322",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Naci Görür’den Erzurum depremi sonrası uyarı: Depremin boyutu artabilir!",
+      "aciklama": "Erzurum’un Aşkale ilçesinde 4,4 büyüklüğünde deprem oldu. Prof. Dr. Naci Görür, “Kandilli Fayı büyük deprem üretmez ama Tezcan Fayı tetiklenirse depremin boyutu artar” uyarısında bulundu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/naci-gorur-den-erzurum-depremi-sonrasi-uyari-depremin-boyutu-artabilir-2438322"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//11fecc66-df7c-4f8a-b869-f925eca533ca.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//11fecc66-df7c-4f8a-b869-f925eca533ca.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/turkiye/naci-gorur-den-erzurum-depremi-sonrasi-uyari-depremin-boyutu-artabilir-2438322",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2025-09-25T22:40:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2025-haber-2438285",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan-Trump görüşmesi sona erdi... Trump'tan ilk açıklama: 'Harika bir görüşmeydi'",
+      "aciklama": "Cumhurbaşkanı Recep Tayyip Erdoğan ile ABD Başkanı Donald Trump'ın Beyaz Saray'daki görüşmesi başladı. Masada yaptırımlar, F-35, Boeing satışı, Suriye ve Gazze konularının olması bekleniyor. İki lider, basın toplantısında yaptıkları kısa açıklamaların ardından gazetecilerin sorul",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/kritik-gorusme-basladi-erdogan-trump-gorusmesinde-masada-neler-var-2438285"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//a0d60b04-53ec-4185-92ad-8f84b6fc53d6.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//a0d60b04-53ec-4185-92ad-8f84b6fc53d6.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/siyaset/kritik-gorusme-basladi-erdogan-trump-gorusmesinde-masada-neler-var-2438285",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2025-09-25T18:47:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2251135",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Mersin’de selden kapanan yollar ulaşıma açıldı",
+      "aciklama": "Mersin’in Mut ilçesinde şiddetli yağışlar sonrasında meydana gelen sel ve heyelan nedeniyle ulaşıma kapanan Gökcetaş Mahalle yolu ekiplerin çalışması sonucu ulaşıma açıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/mersinde-selden-kapanan-yollar-ulasima-acildi-2251135"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2024/9/25/2251135/kapak_080425.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2024/9/25/2251135/kapak_080425.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/turkiye/mersinde-selden-kapanan-yollar-ulasima-acildi-2251135",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2024-09-25T08:04:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2251287",
+      "yil": 2024,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "ABD'de seçim maratonu başladı... Hangi küresel şirket, hangi adayı destekliyor?",
+      "aciklama": "Dünya, ⁦5 Kasım 2024'te yapılacak ABD başkanlık seçimlerine kilitlenmişken, seçimin iki güçlü adayı olan Demokrat Kamala Harris ve Cumhuriyetçi Donald Trump'a eylül ayında en çok bağış yapan şirketler kamuoyuna açıklandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/abdde-secim-maratonu-basladi-hangi-kuresel-sirket-hangi-adayi-2251287"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2024/9/25/2251287/kapak_131155.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2024/9/25/2251287/kapak_131155.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/dunya/abdde-secim-maratonu-basladi-hangi-kuresel-sirket-hangi-adayi-2251287",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2024-09-25T13:12:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2123148",
       "yil": 2023,
-      "bolge": "dunya",
-      "metinEn": "An estimated 170 people are killed and over 300 are injured during an explosion at a gas station in Stepanakert, Nagorno-Karabakh.",
-      "konular": [
-        "Nagorno-Karabakh fuel depot explosion",
-        "Stepanakert",
-        "Nagorno-Karabakh"
-      ],
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Kabine toplantısı yarın: Emekli maaşına zam gelecek mi? Emeklilere ne kadar zam yapılacak?",
+      "aciklama": "Yeni dönemin 8'inci kabine toplantısı, yarın yapılacak. Enflasyonla mücadele, emekli maaşlarına yönelik düzenleme ve gençlere vergisiz cep telefonu desteği toplantının öncelikli gündem maddeleri olacak. Toplantıda, iç ve dış siyasetteki gelişmeler ele alınacak. İşte ayrıntılar...",
       "haberKaynagi": {
-        "ad": "BBC News",
-        "url": "https://www.bbc.com/news/world-europe-66958338"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/kabine-toplantisi-yarin-emekli-maasina-zam-gelecek-mi-emeklilere-ne-kadar-zam-yapilacak-2123148"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/StepanakertCollage.jpg/960px-StepanakertCollage.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/StepanakertCollage.jpg/500px-StepanakertCollage.jpg",
-        "genislik": 960,
-        "yukseklik": 955,
-        "orijinalGenislik": 1121,
-        "yazar": "See above",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:StepanakertCollage.jpg",
-        "aciklama": "Stepanakert, Nagorno-Karabakh",
-        "konu": "Stepanakert"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2023/9/25/2123148/kapak_123028.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2023/9/25/2123148/kapak_123028.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/turkiye/kabine-toplantisi-yarin-emekli-maasina-zam-gelecek-mi-emeklilere-ne-kadar-zam-yapilacak-2123148",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/StepanakertCollage.jpg/960px-StepanakertCollage.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/StepanakertCollage.jpg/500px-StepanakertCollage.jpg",
-          "genislik": 960,
-          "yukseklik": 955,
-          "orijinalGenislik": 1121,
-          "yazar": "See above",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:StepanakertCollage.jpg",
-          "aciklama": "Stepanakert, Nagorno-Karabakh",
-          "konu": "Stepanakert"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Location_Nagorno-Karabakh2.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Location_Nagorno-Karabakh2.png",
-          "genislik": 595,
-          "yukseklik": 387,
-          "orijinalGenislik": 595,
-          "yazar": "en:User:Aivazovsky",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Location_Nagorno-Karabakh2.png",
-          "aciklama": "Location of en:Azerbaijan. World inset added by en:User:Kmusser.",
-          "konu": "Nagorno-Karabakh"
-        }
-      ],
-      "durum": "bekliyor"
+      "yayin": "2023-09-25T12:30:00+03:00",
+      "puan": 12,
+      "durum": "haber"
     },
     {
-      "id": "2022-dn-the-2022-italian-general-election-is",
+      "id": "2023-haber-2123226",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Meclis gündemine taşındı: Turkovac'ın üretimini taşerona veren bakanlık şirketi batmak üzere",
+      "aciklama": "CHP Ankara Milletvekili Murat Emir, Sağlık Bakanlığına bağlı TÜSEB tarafından kurulan ve yerli aşı Turkovac’ın ticarileştirme haklarını üstlendikten sonra aşı üretimini başka bir şirkete devreden SBT firmasının batmak üzere olduğu uyarısında bulunarak, şirketin mali durumunu Mecl",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/meclis-gundemine-tasindi-turkovacin-uretimini-taserona-veren-bakanlik-sirketi-batmak-uzere-2123226"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2023/9/25/2123226/kapak_151407.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2023/9/25/2123226/kapak_151407.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/siyaset/meclis-gundemine-tasindi-turkovacin-uretimini-taserona-veren-bakanlik-sirketi-batmak-uzere-2123226",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2023-09-25T15:13:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-1985152",
       "yil": 2022,
-      "bolge": "dunya",
-      "metinEn": "The 2022 Italian general election is held to elect all 400 seats of the Chamber of Deputies and 200 seats of the Senate of the Republic (reduced from 630 and 215 respectively according to the outcome of the 2020 constitutional referendum). Observers commented that the results shifted the geopolitics of the European Union, following far-right gains in France, Spain, and Sweden. It was also noted that the election outcome would mark Italy's most right-wing government since 1945.",
-      "konular": [
-        "2022 Italian general election",
-        "Chamber of Deputies (Italy)",
-        "Senate of the Republic (Italy)",
-        "2020 Italian constitutional referendum",
-        "geopolitics"
-      ],
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "3 Bant Bilardo Gençler Dünya Şampiyonası'nda milli sporcu Burak Haşhaş şampiyon oldu",
+      "aciklama": "Milli sporcu Burak Haşhaş, Hollanda'da düzenlenen 3 Bant Bilardo Gençler Dünya Şampiyonası'nda altın madalya kazandı.",
       "haberKaynagi": {
-        "ad": "Euronews",
-        "url": "https://www.euronews.com/2022/07/21/italys-president-mattarella-dissolves-parliament-orders-new-election"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/3-bant-bilardo-gencler-dunya-sampiyonasinda-milli-sporcu-burak-hashas-sampiyon-oldu-1985152"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Giorgia_Meloni_Official_2023_crop.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Giorgia_Meloni_Official_2023_crop.jpg",
-        "genislik": 869,
-        "yukseklik": 1239,
-        "orijinalGenislik": 869,
-        "yazar": "Governo italiano",
-        "lisans": "CC BY 3.0 it",
-        "lisansUrl": "https://creativecommons.org/licenses/by/3.0/it/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2023_crop.jpg",
-        "aciklama": "Giorgia Meloni 2023",
-        "konu": "2022 Italian general election"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2022/9/25/1985152/kapak_204227.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2022/9/25/1985152/kapak_204227.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/spor/3-bant-bilardo-gencler-dunya-sampiyonasinda-milli-sporcu-burak-hashas-sampiyon-oldu-1985152",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Giorgia_Meloni_Official_2023_crop.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Giorgia_Meloni_Official_2023_crop.jpg",
-          "genislik": 869,
-          "yukseklik": 1239,
-          "orijinalGenislik": 869,
-          "yazar": "Governo italiano",
-          "lisans": "CC BY 3.0 it",
-          "lisansUrl": "https://creativecommons.org/licenses/by/3.0/it/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2023_crop.jpg",
-          "aciklama": "Giorgia Meloni 2023",
-          "konu": "2022 Italian general election"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Theatrum_Orbis_Terrarum%2C_by_Abraham_Ortelius%2C_World%2C_1572.jpg/960px-Theatrum_Orbis_Terrarum%2C_by_Abraham_Ortelius%2C_World%2C_1572.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Theatrum_Orbis_Terrarum%2C_by_Abraham_Ortelius%2C_World%2C_1572.jpg/500px-Theatrum_Orbis_Terrarum%2C_by_Abraham_Ortelius%2C_World%2C_1572.jpg",
-          "genislik": 960,
-          "yukseklik": 654,
-          "orijinalGenislik": 12136,
-          "yazar": "Abraham Ortelius",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Theatrum_Orbis_Terrarum,_by_Abraham_Ortelius,_World,_1572.jpg",
-          "aciklama": "Theatrum Orbis Terrarum, by Abraham Ortelius, Typus Orbis Terrarum, 1572.",
-          "konu": "geopolitics"
-        }
-      ],
-      "durum": "bekliyor"
+      "yayin": "2022-09-25T20:43:00+03:00",
+      "puan": 10,
+      "durum": "haber"
     },
     {
-      "id": "2021-dn-the-2021-icelandic-parliamentary-election-is",
+      "id": "2021-haber-1871707",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Galatasaray, Avrupa şampiyonu Ampute Milli Futbol Takımı'nı misafir edecek",
+      "aciklama": "Galatasaray, yarın Göztepe ile yapacakları maçta Avrupa şampiyonu Ampute Milli Futbol Takımı'nı misafir edecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-avrupa-sampiyonu-ampute-milli-futbol-takimini-misafir-edecek-1871707"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2021/9/25/1871707/kapak_105528.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2021/9/25/1871707/kapak_105528.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/spor/galatasaray-avrupa-sampiyonu-ampute-milli-futbol-takimini-misafir-edecek-1871707",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2021-09-25T10:26:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1871671",
       "yil": 2021,
       "bolge": "dunya",
-      "metinEn": "The 2021 Icelandic parliamentary election is held.",
-      "konular": [
-        "2021 Icelandic parliamentary election"
-      ],
+      "tur": "haber",
+      "metin": "ABD Temsilciler Meclisi 778 milyar dolarlık savunma harcamaları yetkilendirme tasarısını kabul etti",
+      "aciklama": "ABD Temsilciler Meclisi, 2022 mali yılına ait savunma harcamaları için 778 milyar dolarlık Ulusal Savunma Yetkilendirme Yasa Tasarısını onayladı.",
       "haberKaynagi": {
-        "ad": "[[Al Jazeera Arabic",
-        "url": "https://www.aljazeera.com/news/2021/9/25/iceland-votes-as-government-hangs-by-a-thread"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/abd-temsilciler-meclisi-778-milyar-dolarlik-savunma-harcamalari-yetkilendirme-tasarisini-kabul-etti-1871671"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": null,
-      "durum": "bekliyor"
-    },
-    {
-      "id": "2017-dn-the-kurdistan-region-votes-in-a",
-      "yil": 2017,
-      "bolge": "dunya",
-      "metinEn": "The Kurdistan Region votes in a referendum to become an independent state, in defiance of Iraq; by October 15, the crisis escalates into a short-lived armed conflict over disputed territories.",
-      "konular": [
-        "Kurdistan Region",
-        "2017 Kurdistan Region independence referendum",
-        "Iraq",
-        "2017 Iraqi–Kurdish conflict"
-      ],
-      "haberKaynagi": {
-        "ad": "Independent.co.uk",
-        "url": "https://www.independent.co.uk/news/world/middle-east/kurdistan-referendum-results-vote-yes-iraqi-kurds-independence-iran-syria-a7970241.html"
-      },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": null,
-      "durum": "bekliyor"
-    },
-    {
-      "id": "2007-dn-mount-ruapehu-in-tongariro-national-park",
-      "yil": 2007,
-      "bolge": "dunya",
-      "metinEn": "Mount Ruapehu in Tongariro National Park in New Zealand, erupts.",
-      "konular": [
-        "Mount Ruapehu",
-        "Tongariro National Park",
-        "New Zealand"
-      ],
-      "haberKaynagi": null,
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mount_Ruapehu_October_9%2C_2023_%28cropped%29.jpg/960px-Mount_Ruapehu_October_9%2C_2023_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mount_Ruapehu_October_9%2C_2023_%28cropped%29.jpg/500px-Mount_Ruapehu_October_9%2C_2023_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 413,
-        "orijinalGenislik": 6139,
-        "yazar": "Geoff McKay",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Mount_Ruapehu_October_9,_2023_(cropped).jpg",
-        "aciklama": "Taken on our return walk from the top of the Tama Ridge - in a valley across from the stream that flows past the Waihohonu Hut.",
-        "konu": "Mount Ruapehu"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2021/9/25/1871671/kapak_090730.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2021/9/25/1871671/kapak_090730.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/dunya/abd-temsilciler-meclisi-778-milyar-dolarlik-savunma-harcamalari-yetkilendirme-tasarisini-kabul-etti-1871671",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mount_Ruapehu_October_9%2C_2023_%28cropped%29.jpg/960px-Mount_Ruapehu_October_9%2C_2023_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mount_Ruapehu_October_9%2C_2023_%28cropped%29.jpg/500px-Mount_Ruapehu_October_9%2C_2023_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 413,
-          "orijinalGenislik": 6139,
-          "yazar": "Geoff McKay",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mount_Ruapehu_October_9,_2023_(cropped).jpg",
-          "aciklama": "Taken on our return walk from the top of the Tama Ridge - in a valley across from the stream that flows past the Waihohonu Hut.",
-          "konu": "Mount Ruapehu"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Tongariro_Mahuia_River_n.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Tongariro_Mahuia_River_n.jpg",
-          "genislik": 660,
-          "yukseklik": 993,
-          "orijinalGenislik": 660,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "CC BY 2.5",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.5",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Tongariro_Mahuia_River_n.jpg",
-          "aciklama": null,
-          "konu": "Tongariro National Park"
-        }
-      ],
-      "durum": "bekliyor"
+      "yayin": "2021-09-25T08:20:00+03:00",
+      "puan": 9,
+      "durum": "haber"
     },
     {
-      "id": "2003-dn-two-parties-in-the-second-sudanese",
-      "yil": 2003,
-      "bolge": "dunya",
-      "metinEn": "Two parties in the Second Sudanese Civil War, the National Islamic Front and the Sudan People's Liberation Movement, reach a peace agreement.",
-      "konular": [
-        "Second Sudanese Civil War",
-        "National Islamic Front",
-        "Sudan People's Liberation Movement"
-      ],
-      "haberKaynagi": null,
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": null,
-      "durum": "bekliyor"
+      "id": "2020-haber-1768707",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "BM raporu:",
+      "aciklama": "Birleşmiş Milletler (BM), yoksullukla mücadele için kullanılabilecek kaynakların, vergi kaçakçılığı, yolsuzluk ve mali suçlar nedeniyle tüketildiğini ve her yıl yaklaşık 1,6 trilyon dolar kara para aklandığını bildirdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bm-raporu-her-yil-yaklasik-16-trilyon-dolar-kara-para-aklaniyor-1768707"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2020/9/25/1768707/kapak_103324.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2020/9/25/1768707/kapak_103324.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/bm-raporu-her-yil-yaklasik-16-trilyon-dolar-kara-para-aklaniyor-1768707",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2020-09-25T10:31:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1768671",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Muğla Büyükşehir Belediye Başkanı: SİT alanları imara açıldı; Gökova Körfezi'ni parsel parsel satacaklar",
+      "aciklama": "Şehircilik Bakanlığı'nın hiçbir kural tanımadığını belirten Muğla Büyükşehir Belediye Başkanı Osman Gürün,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/mugla-buyuksehir-belediye-baskani-sit-alanlari-imara-acildi-gokova-korfezini-parsel-parsel-satacaklar-1768671"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2020/9/25/1768671/kapak_091130.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2020/9/25/1768671/kapak_091130.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/mugla-buyuksehir-belediye-baskani-sit-alanlari-imara-acildi-gokova-korfezini-parsel-parsel-satacaklar-1768671",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2020-09-25T09:09:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1093288",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İsveç'in sosyal demokrat başbakanı Stefan Lofven güven oylamasını kaybetti, istifası bekleniyor",
+      "aciklama": "Stefan Lofven, İsveç Parlamentosu'nda yapılan güvenoylamasını 142'ye karşı 204 oyla kaybetti. Lofven'in lideri olduğu Sosyal Demokrat Parti son genel seçimde parlamentodaki çoğunluğunu yitirmişti. Şimdi ise gözler milliyetçi İsveç Demokratlar Partisi'ne çevrildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/isvecin-sosyal-demokrat-basbakani-stefan-lofven-guven-oylamasini-kaybetti-istifasi-bekleniyor-1093288"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2018/9/25/1093288_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2018/9/25/1093288_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/isvecin-sosyal-demokrat-basbakani-stefan-lofven-guven-oylamasini-kaybetti-istifasi-bekleniyor-1093288",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2018-09-25T12:45:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1093779",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Arjantin Merkez Bankası Başkanı istifa etti",
+      "aciklama": "Arjantin Merkez Bankası Başkanı istifa etti 3 ay önce göreve getirilen Arjantin Merkez Bankası Başkanı Luis Caputo istifa etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/arjantin-merkez-bankasi-baskani-istifa-etti-1093779"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2018/9/25/1093779_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2018/9/25/1093779_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/arjantin-merkez-bankasi-baskani-istifa-etti-1093779",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2018-09-25T17:33:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-831487",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolar ve Borsada referandum etkisi",
+      "aciklama": "Dolar, Kuzey Irak referandumu ile 3.54 lirayı aştı, Borsa inişte.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/dolar-ve-borsada-referandum-etkisi-831487"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2017/9/25/831487_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2017/9/25/831487_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/dolar-ve-borsada-referandum-etkisi-831487",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2017-09-25T18:55:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-830981",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İstanbul'da seçimi Yeşiller kazandı",
+      "aciklama": "Almanya Federal Cumhuriyeti'nde genel seçimlerin yapıldığı 24 Eylül Pazar günü Almanya'nın İstanbul Başkonsolosluğu'nda da göstermelik bir seçim düzenlendi. 116 konuğun katıldığı oylamadan Sosyal Demokrat-Yeşiller koalisyonu çıktı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/istanbulda-secimi-yesiller-kazandi-830981"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2017/9/25/830981_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2017/9/25/830981_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/istanbulda-secimi-yesiller-kazandi-830981",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2017-09-25T09:45:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-605368",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Eski başbakanın cezası 1 milyar dolara indirildi",
+      "aciklama": "Tayland eski başbakanı Yingluch Shinawatra'nın döneminde başarısızlıkla sonuçlanın 'pirinç projesi' sebebiyle 8 milyar dolarlık tazminat cezası 1 milyar dolara indirildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/eski-basbakanin-cezasi-1-milyar-dolara-indirildi-605368"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2016/9/25/605368_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2016/9/25/605368_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/eski-basbakanin-cezasi-1-milyar-dolara-indirildi-605368",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2016-09-25T10:36:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-605523",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Başbakan Yıldırım TEM'de düğün konvoyunun önünü kesti",
+      "aciklama": "Başbakan Binali Yıldırım, Bağcılardaki düğün törenine giden konvoyu durdurdu. Başbakan Yıldırım, gelin ve damadı tebrik edip hediye verdi. Çevredeki vatandaşlarla da bir süre sohbet eden Başbakan Yıldırım, günün anısına selfi de çekildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbakan-yildirim-temde-dugun-konvoyunun-onunu-kesti-605523"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2016/9/25/605523_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2016/9/25/605523_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/basbakan-yildirim-temde-dugun-konvoyunun-onunu-kesti-605523",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2016-09-25T15:06:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-375907",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Şampiyon hentbol takımının sahası kantin oldu",
+      "aciklama": "Aydın'ın Nazilli İlçesi'nde 5 yıl üst üste il birinciliği kazanan ve Türkiye dereceleri de bulunan Turan Ortaokulu hentbol takımının okul bahçesindeki sahasına kantin yapılması, tepkilere neden oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/sampiyon-hentbol-takiminin-sahasi-kantin-oldu-375907"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2015/9/25/375907_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2015/9/25/375907_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/sampiyon-hentbol-takiminin-sahasi-kantin-oldu-375907",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2015-09-25T12:09:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-376077",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "2022 Dünya Kupası için tarihi takvim",
+      "aciklama": "FIFA İcra Kurulu toplantısında beklenen karar çıktı ve Katar'da düzenlenecek 2022 Dünya Kupası'nın oynanacağı tarihler açıklandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/2022-dunya-kupasi-icin-tarihi-takvim-376077"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2015/9/25/376077_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2015/9/25/376077_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/2022-dunya-kupasi-icin-tarihi-takvim-376077",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2015-09-25T17:01:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-123363",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez faiz kararını açıkladı, dolar 8 ayın zirvesine çıktı",
+      "aciklama": "Merkez Bankası Para Politikası Kurulu (PPK), politika faizi olan bir hafta vadeli repo ihale faizini yüzde 8.25 düzeyinde sabit tuttu. Kararın ardından yükselişe geçen dolar  2,26 seviyesini geçerek son 8 ayın en yükseğini gördü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/merkez-faiz-kararini-acikladi-dolar-8-ayin-zirvesine-cikti-123363"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2014/9/25/123363_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2014/9/25/123363_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/merkez-faiz-kararini-acikladi-dolar-8-ayin-zirvesine-cikti-123363",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2014-09-25T14:20:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-123481",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "La Liga'da şike depremi",
+      "aciklama": "La Liga'da 2010-11 sezonunda oynanan Levante-Real Zaragoza maçında şike yapıldığı iddiasıyla iki takımın futbolcuları ve Zaragoza'nın eski başkanı Agapito İglesias ifade verecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/la-ligada-sike-depremi-123481"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2014/9/25/123481_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2014/9/25/123481_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/la-ligada-sike-depremi-123481",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2014-09-25T17:44:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-372440",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Başbakan Erdoğan'dan Maliki'ye davet",
+      "aciklama": "Başbakan Erdoğan'ın Irak Başbakan'ı Maliki'yi Türkiye'ye davet ettiği belirtildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbakan-erdogandan-malikiye-davet-372440"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2012/9/25/372440_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2012/9/25/372440_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/basbakan-erdogandan-malikiye-davet-372440",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2012-09-25T17:50:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-372302",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Meclis açılıyor, CHP seçim yapıyor",
+      "aciklama": "TBMM'nin 1 Ekim'de açılmasının ardından CHP Meclis Grubu da 2 Ekim Salı günü toplanacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/meclis-aciliyor-chp-secim-yapiyor-372302"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2012/9/25/372302_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2012/9/25/372302_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/meclis-aciliyor-chp-secim-yapiyor-372302",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2012-09-25T09:21:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-284932",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Meclis'e",
+      "aciklama": "Son günlerde terör olaylarındaki artış dikkat çekerken TBMM'ye de adeta",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/meclise-teror-dilekcesi-yagdi-284932"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2011/9/25/284932_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2011/9/25/284932_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/meclise-teror-dilekcesi-yagdi-284932",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2011-09-25T07:08:00+03:00",
+      "puan": 5,
+      "durum": "haber"
     }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
   ]
 }

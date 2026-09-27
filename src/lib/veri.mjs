@@ -7,14 +7,19 @@ const AGIR = /öldür|öldü|ölü|katliam|saldırı|suikast|idam|asıl|patlama|
 const TURKIYE = /Türkiye|Türk(?!men|istan)|Osmanlı|Atatürk|Ankara|İstanbul|İzmir|TBMM|Kurtuluş Savaşı/;
 
 /**
- * Bir günün gösterilecek olayları: Vikipedi gün maddesi + yakın tarihli olaylar (Türkiye aramaları, yıl sayfaları).
- * Site görsel ağırlıklı: görseli olmayan, henüz Türkçeye çevrilmemiş ya da önemsiz bulunan olaylar gösterilmez.
+ * Bir günün gösterilecek olayları: Vikipedi gün maddesi + geçmiş yılların haberleri (Cumhuriyet arşivi).
+ * Site görsel ağırlıklı: görseli olmayan ya da önemsiz bulunan olaylar gösterilmez.
  */
+// Canlı sitede kaynak metniyle duran (henüz kendi cümlelerimizle yazılmamış) haber yayınlanmaz;
+// yalnızca yerel önizlemede (npm run dev) tasarımı görmek için gösterilir.
+const YAZILMAMIS_HABERI_GOSTER = !import.meta.env.PROD;
+
 function gosterilecekler(g) {
-  return [...g.olaylar, ...(g.yakinOlaylar ?? [])]
+  return [...g.olaylar, ...(g.haberler ?? [])]
     .filter((o) => o.gorsel && o.metin && o.durum !== 'elendi')
+    .filter((o) => o.tur !== 'haber' || o.ozet || YAZILMAMIS_HABERI_GOSTER)
     .map((o) => ({ ...o, bolge: o.bolge ?? (TURKIYE.test(o.metin) ? 'turkiye' : 'dunya') }))
-    .sort((a, b) => b.yil - a.yil);
+    .sort((a, b) => b.yil - a.yil || (b.puan ?? 0) - (a.puan ?? 0));
 }
 
 export const GUNLER = Object.values(dosyalar)

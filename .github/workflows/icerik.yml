@@ -1,5 +1,5 @@
-# Her gün 20 gün öncesi ile 10 gün sonrası arasını Vikipedi'den çeker (pencere her gün bir gün kayar,
-# eklenen günler kalır). Eksik özetleri Gemini (ücretsiz, günde ~400) ile yazar
+# Her gün 10 gün öncesi ile 10 gün sonrası arasını Vikipedi'den ve Cumhuriyet haber arşivinden çeker
+# (pencere her gün bir gün kayar, eklenen günler kalır). Eksik özetleri Gemini (ücretsiz) ile yazar
 # ve bir Pull Request açar. PR'ı inceleyip birleştirmek = editör onayı.
 name: Günlük içerik
 
@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
     inputs:
       kapsam:
-        description: 'Boş = 20 gün önce / 10 gün sonra, "--hepsi" = 366 gün, "--gun 09-27" = tek gün'
+        description: 'Boş = 10 gün önce / 10 gün sonra, "--hepsi" = 366 gün, "--gun 09-27" = tek gün'
         required: false
         default: ''
       limit:
@@ -35,15 +35,8 @@ jobs:
       - name: Vikipedi'den listeleri çek
         run: node scripts/wiki-cek.mjs ${{ github.event.inputs.kapsam }}
 
-      - name: Yakın tarihli dünya ve Türkiye olaylarını çek (Vikipedi yıl sayfaları)
-        run: node scripts/yakin-cek.mjs
-
-      - name: Türkiye olaylarını Google Arama ile bul (Gemini, ücretsiz)
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_ARAMA_MODEL: ${{ vars.GEMINI_ARAMA_MODEL }}
-        run: node scripts/turkiye-cek.mjs
-        continue-on-error: true
+      - name: Geçmiş yılların haberlerini çek (Cumhuriyet arşivi)
+        run: node scripts/haber-cek.mjs
 
       - name: Eksik özetleri yaz
         env:

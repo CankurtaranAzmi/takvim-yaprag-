@@ -84,7 +84,7 @@ export function gunAdiDe(ay, gun) {
 }
 
 /** Bugünden `once` gün öncesinden `sonra` gün sonrasına kadar olan günler (İstanbul saatine göre) */
-export function gunPenceresi(once = 20, sonra = 10) {
+export function gunPenceresi(once = 10, sonra = 10) {
   const b = istanbulBugun();
   let d = { ay: b.ay, gun: b.gun };
   for (let i = 0; i < once; i++) d = komsuGun(d.ay, d.gun, -1);

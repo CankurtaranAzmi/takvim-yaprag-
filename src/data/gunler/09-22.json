@@ -971,448 +971,623 @@
     "revid": 37885279
   },
   "guncelleme": "2026-09-27T10:43:49.019Z",
-  "yakinOlaylar": [
+  "haberler": [
     {
-      "id": "2023-tr-turkish-police-announces-that-they-have",
+      "id": "2025-haber-2437201",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ceza gelirlerinde rekor artış: Enflasyonun üç katı para cezası yolda!",
+      "aciklama": "2025 yılı Ocak-Ağustos döneminde kesilen para cezaları, geçen yılın tamamına göre yüzde 18 arttı. Yıl sonunda 1,5 trilyon liraya ulaşması beklenen cezalar, 2024 tahakkukunun yüzde 76’sını geçecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/ceza-gelirlerinde-rekor-artis-enflasyonun-uc-kati-para-cezasi-yolda-2437201"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive/1191c17e-bf05-4aa7-9922-07c848146825.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive/1191c17e-bf05-4aa7-9922-07c848146825.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/ekonomi/ceza-gelirlerinde-rekor-artis-enflasyonun-uc-kati-para-cezasi-yolda-2437201",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2025-09-22T11:16:00+03:00",
+      "puan": 14,
+      "durum": "haber"
+    },
+    {
+      "id": "2025-haber-2437179",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Yandaştan al haberi... AKP'de 5 aşamalı 'istifa' operasyonu: Noktayı Erdoğan koyacak!",
+      "aciklama": "3 günde 8 il başkanının istifa ettiği AKP'de son plan belli oldu. Parti kulislerine göre, tüm il başkanlıklarına yönelik kapsamlı bir çalışma başlatılırken 5 aşamada hazırlanacak bir rapor AKP'li Cumhurbaşkanı Erdoğan'a sunulacak. İşte tüm ayrıntılar...",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/yandastan-al-haberi-akp-de-5-asamali-istifa-operasyonu-noktayi-erdogan-koyacak-2437179"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive/6de2dc3e-cb48-4722-b89c-6a9fdbcaf3e1.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive/6de2dc3e-cb48-4722-b89c-6a9fdbcaf3e1.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/siyaset/yandastan-al-haberi-akp-de-5-asamali-istifa-operasyonu-noktayi-erdogan-koyacak-2437179",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2025-09-22T10:40:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2250178",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP'de kongre süreci başladı: Erdoğan 'A takımında' değişikliğe gidiyor",
+      "aciklama": "AKP'de 8. büyük olağan kongre süreci, mahalle delege seçimleriyle başladı. Mahalle delege seçimleriyle, belde ve ilçe kongreleri de tespit edilecek. 12 Ekim'de hem belde hem de ilçe kongrelerinin başlatılması planlanıyor. AKP'li Cumhurbaşkanı Erdoğan'ın A takımını yenileyeceği de",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/akpde-kongre-sureci-basladi-erdogan-a-takiminda-degisiklige-gidiyor-2250178"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2024/9/22/2250178/kapak_130200.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2024/9/22/2250178/kapak_130200.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/siyaset/akpde-kongre-sureci-basladi-erdogan-a-takiminda-degisiklige-gidiyor-2250178",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2024-09-22T13:01:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2250154",
+      "yil": 2024,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "Rekor sayıda aday yarışmıştı: O ülkede Marksist eğilimli isim seçimi kazandı!",
+      "aciklama": "Sri Lanka'daki devlet başkanı seçiminin resmi olmayan sonuçlarına göre Marksist eğilimli Milletvekili Anura Kumara Dissanayake, yarışı açık ara önde götürüyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/rekor-sayida-aday-yarismisti-o-ulkede-marksist-egilimli-isim-secimi-2250154"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2024/9/22/2250154/kapak_114117.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2024/9/22/2250154/kapak_114117.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/dunya/rekor-sayida-aday-yarismisti-o-ulkede-marksist-egilimli-isim-secimi-2250154",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2024-09-22T11:41:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2122294",
       "yil": 2023,
       "bolge": "turkiye",
-      "metinEn": "Turkish police announces that they have detained 10 people with links to the Islamic State in İzmir after intelligence revealed hidden explosives manufacturing supplies.",
-      "konular": [
-        "Law enforcement in Turkey",
-        "Islamic State",
-        "İzmir",
-        "Improvised explosive device"
-      ],
+      "tur": "haber",
+      "metin": "AKP'li 3 meclis üyesi istifa ederek Yeniden Refah Partisi'ne geçti",
+      "aciklama": "Ümraniye Belediyesi’nden AKP'li 3 meclis üyesi, partilerinden istifa ederek Yeniden Refah Partisi’ne katıldı.",
       "haberKaynagi": {
-        "ad": "english.aawsat.com",
-        "url": "https://english.aawsat.com/node/4562376"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/akpli-3-meclis-uyesi-istifa-ederek-yeniden-refah-partisine-gecti-2122294"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/FemaleRiotPoliceSquadTurkey_%282%29.JPG/960px-FemaleRiotPoliceSquadTurkey_%282%29.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/FemaleRiotPoliceSquadTurkey_%282%29.JPG/500px-FemaleRiotPoliceSquadTurkey_%282%29.JPG",
-        "genislik": 960,
-        "yukseklik": 1442,
-        "orijinalGenislik": 1848,
-        "yazar": "CeeGee",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:FemaleRiotPoliceSquadTurkey_(2).JPG",
-        "aciklama": "Female riot police squad (Çevik Kuvvet Polis) in Turkey",
-        "konu": "Law enforcement in Turkey"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/FemaleRiotPoliceSquadTurkey_%282%29.JPG/960px-FemaleRiotPoliceSquadTurkey_%282%29.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/FemaleRiotPoliceSquadTurkey_%282%29.JPG/500px-FemaleRiotPoliceSquadTurkey_%282%29.JPG",
-          "genislik": 960,
-          "yukseklik": 1442,
-          "orijinalGenislik": 1848,
-          "yazar": "CeeGee",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:FemaleRiotPoliceSquadTurkey_(2).JPG",
-          "aciklama": "Female riot police squad (Çevik Kuvvet Polis) in Turkey",
-          "konu": "Law enforcement in Turkey"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Cumhuriyet_Square.jpg/960px-Cumhuriyet_Square.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Cumhuriyet_Square.jpg/500px-Cumhuriyet_Square.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 2816,
-          "yazar": "Michael ksk",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Cumhuriyet_Square.jpg",
-          "aciklama": "View of Cumhuriyet Square in Konak",
-          "konu": "İzmir"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/IED_Baghdad_from_munitions.jpg/960px-IED_Baghdad_from_munitions.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/IED_Baghdad_from_munitions.jpg/500px-IED_Baghdad_from_munitions.jpg",
-          "genislik": 960,
-          "yukseklik": 535,
-          "orijinalGenislik": 2724,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:IED_Baghdad_from_munitions.jpg",
-          "aciklama": null,
-          "konu": "Improvised explosive device"
-        }
-      ],
-      "durum": "bekliyor"
-    },
-    {
-      "id": "2019-dn-nearly-three-weeks-after-hurricane-dorian",
-      "yil": 2019,
-      "bolge": "dunya",
-      "metinEn": "Nearly three weeks after Hurricane Dorian makes landfall on The Bahamas, the official death toll stands at 52 and 1,300 are reported missing. Rescuers report the widespread stench of rotting bodies in the rubble.",
-      "konular": [
-        "Effects of Hurricane Dorian in The Bahamas",
-        "The Bahamas"
-      ],
-      "haberKaynagi": {
-        "ad": "CNN",
-        "url": "https://edition.cnn.com/2019/09/22/americas/east-grand-bahama-us-medics-and-survivor/index.html"
-      },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Rep_DWS_visiting_the_Bahamas_after_Hurricane_Dorian_%283%29.jpg/960px-Rep_DWS_visiting_the_Bahamas_after_Hurricane_Dorian_%283%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Rep_DWS_visiting_the_Bahamas_after_Hurricane_Dorian_%283%29.jpg/500px-Rep_DWS_visiting_the_Bahamas_after_Hurricane_Dorian_%283%29.jpg",
-        "genislik": 960,
+        "url": "https://media.cumhuriyet.com.tr/Archive//2023/9/22/2122294/kapak_174047.jpg",
+        "genislik": 1280,
         "yukseklik": 720,
-        "orijinalGenislik": 1280,
-        "yazar": "Office of Rep Debbie Wasserman Schultz",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Rep_DWS_visiting_the_Bahamas_after_Hurricane_Dorian_(3).jpg",
-        "aciklama": "In South Florida the Bahamas is like extended family. Our delegation & USAID came to the Bahamas to send a message that we will stand by our Bahamian neighbors to help them fully recover. I have seen ",
-        "konu": "Effects of Hurricane Dorian in The Bahamas"
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2023/9/22/2122294/kapak_174047.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/siyaset/akpli-3-meclis-uyesi-istifa-ederek-yeniden-refah-partisine-gecti-2122294",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "durum": "bekliyor"
+      "yayin": "2023-09-22T17:40:00+03:00",
+      "puan": 12,
+      "durum": "haber"
     },
     {
-      "id": "2018-dn-an-attack-at-a-military-parade",
-      "yil": 2018,
-      "bolge": "dunya",
-      "metinEn": "An attack at a military parade kills 30 people (including 5 attackers) and injures 70 more in Ahvaz, Iran.",
-      "konular": [
-        "Ahvaz military parade attack",
-        "Ahvaz"
-      ],
+      "id": "2023-haber-2122166",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Özdere’de depremzedelerin çıkarılması Meclis gündeminde",
+      "aciklama": "CHP İzmir Milletvekili  Deniz Yücel, İzmir’de depremzedelerin kaldığı  duvarlarına “Depremzedelerin tahliyesi için son gün 22 Eylül” yazıldığı iddialarını Meclis gündemine taşıdı. Yücel, tesisin Katarlılara satılacağı yönündeki söylentileri de Milli Savunma Bakanı Yaşar Güler'e s",
       "haberKaynagi": {
-        "ad": "BBC News",
-        "url": "https://www.bbc.com/news/world-middle-east-45617800"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/ozderede-depremzedelerin-cikarilmasi-meclis-gundeminde-2122166"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2018_Ahvaz_military_parade_attack_10.jpg/960px-2018_Ahvaz_military_parade_attack_10.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2018_Ahvaz_military_parade_attack_10.jpg/500px-2018_Ahvaz_military_parade_attack_10.jpg",
-        "genislik": 960,
-        "yukseklik": 585,
-        "orijinalGenislik": 1050,
-        "yazar": "Fatemeh Rahimavian",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:2018_Ahvaz_military_parade_attack_10.jpg",
-        "aciklama": "همزمان با برگزاری مراسم رژه نیروهای مسلح در اهواز، صبح امروز شنبه ۳۱ شهریور ۱۳۹۷ یک تیم تروریستی به مردم و حاضران در مراسم رژه حمله مسلحانه کرد. پس از آغاز مراسم رژه نیروهای مسلح دو نفر از پارک شهید س",
-        "konu": "Ahvaz military parade attack"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2023/9/22/2122166/kapak_124410.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2023/9/22/2122166/kapak_124410.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/turkiye/ozderede-depremzedelerin-cikarilmasi-meclis-gundeminde-2122166",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2018_Ahvaz_military_parade_attack_10.jpg/960px-2018_Ahvaz_military_parade_attack_10.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2018_Ahvaz_military_parade_attack_10.jpg/500px-2018_Ahvaz_military_parade_attack_10.jpg",
-          "genislik": 960,
-          "yukseklik": 585,
-          "orijinalGenislik": 1050,
-          "yazar": "Fatemeh Rahimavian",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:2018_Ahvaz_military_parade_attack_10.jpg",
-          "aciklama": "همزمان با برگزاری مراسم رژه نیروهای مسلح در اهواز، صبح امروز شنبه ۳۱ شهریور ۱۳۹۷ یک تیم تروریستی به مردم و حاضران در مراسم رژه حمله مسلحانه کرد. پس از آغاز مراسم رژه نیروهای مسلح دو نفر از پارک شهید س",
-          "konu": "Ahvaz military parade attack"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/PoleSefid.jpg/960px-PoleSefid.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/PoleSefid.jpg/500px-PoleSefid.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 4128,
-          "yazar": "Eeehhssaannn2",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:PoleSefid.jpg",
-          "aciklama": "This is a photo of a monument in Iran identified by the ID",
-          "konu": "Ahvaz"
-        }
-      ],
-      "durum": "bekliyor"
+      "yayin": "2023-09-22T12:44:00+03:00",
+      "puan": 12,
+      "durum": "haber"
     },
     {
-      "id": "2017-tr-kadir-topbas-resigned-from-his-position",
+      "id": "2022-haber-1983790",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolar/TL'nin gözü Merkez Bankası'nın faiz kararında: Dolar ne kadar oldu? (9 Eylül 2022)",
+      "aciklama": "Dolar/TL 18.34'e kadar yükselerek 18.4'teki tarihi zirvesine neredeyse ulaşırken bugün piyasada Merkez Bankası'nın (TCMB) faiz kararı izlenecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/dolartlnin-gozu-merkez-bankasinin-faiz-kararinda-dolar-ne-kadar-oldu-9-eylul-2022-1983790"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2022/9/22/1983790/kapak_092204.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2022/9/22/1983790/kapak_092204.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/ekonomi/dolartlnin-gozu-merkez-bankasinin-faiz-kararinda-dolar-ne-kadar-oldu-9-eylul-2022-1983790",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2022-09-22T09:27:00+03:00",
+      "puan": 14,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-1984125",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "'FETÖ bizim zamanımızda güçlenmiş gibi anlatıyorlar' diyen AKP'li Mehmet Özhaseki, Erdoğan'ı yalanladı",
+      "aciklama": "AKP Genel Başkan Yardımcısı Mehmet Özhaseki, AKP iktidarları döneminde güçlenen 'FETÖ'yle ilgili 'Bizim zamanımızda güçlenmiş gibi anlatıyorlar' diye konuştu ama 2018 yılında AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan'ın",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/feto-bizim-zamanimizda-guclenmis-gibi-anlatiyorlar-diyen-akpli-mehmet-ozhaseki-erdogani-yalanladi-1984125"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2022/9/22/1984125/kapak_233005.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2022/9/22/1984125/kapak_233005.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/siyaset/feto-bizim-zamanimizda-guclenmis-gibi-anlatiyorlar-diyen-akpli-mehmet-ozhaseki-erdogani-yalanladi-1984125",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2022-09-22T23:30:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1870861",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez Bankası'nın kritik toplantısı bugün başlıyor! Dolar/TL kurunda gözler 'faiz' kararında",
+      "aciklama": "TCMB'nin faiz kararını vereceği kritik toplantısı bugün başlıyor. Faiz kararı yarın açıklanacak. Kritik karar öncesinde, dolar/TL kuru tarihi zirvenin hemen altında seyrediyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasinin-kritik-toplantisi-bugun-basliyor-dolartl-kurunda-gozler-faiz-kararinda-1870861"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2021/9/22/1870861/kapak_091320.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2021/9/22/1870861/kapak_091320.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasinin-kritik-toplantisi-bugun-basliyor-dolartl-kurunda-gozler-faiz-kararinda-1870861",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2021-09-22T09:08:00+03:00",
+      "puan": 14,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1871018",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP Grup Başkanı Naci Bostancı açıkladı:",
+      "aciklama": "AKP Grup Başkanı Naci Bostancı,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/akp-grup-baskani-naci-bostanci-acikladi-meclisin-ilk-isi-paris-anlasmasi-1871018"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2021/9/22/1871018/kapak_165430.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2021/9/22/1871018/kapak_165430.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/siyaset/akp-grup-baskani-naci-bostanci-acikladi-meclisin-ilk-isi-paris-anlasmasi-1871018",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2021-09-22T16:54:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1767961",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "TCMB rekor kıran kura müdahale etmek için faizleri yükseltir mi?",
+      "aciklama": "Dolar/TL kuru bu haftanın başında da yükselişine devam ederek 7,64 seviyesiyle rekor tazeledi. Bu yüzden Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) bu hafta düzenleyeceği Para Politikası Kurulu (PPK) toplantısında faizlere müdahale edip etmeyeceği merakla bekleniyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/tcmb-rekor-kiran-kura-mudahale-etmek-icin-faizleri-yukseltir-mi-1767961"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2020/9/22/1767961/kapak_143741.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2020/9/22/1767961/kapak_143741.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/tcmb-rekor-kiran-kura-mudahale-etmek-icin-faizleri-yukseltir-mi-1767961",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2020-09-22T06:17:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1768016",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Galatasaray'da UEFA ve derbi hazırlıkları başladı",
+      "aciklama": "Başakşehir karşılaşmasında sakatlanan Marcelo Saracchi’nin sağ adductor longus (kasık uzun) adalesinde orta düzeyde zorlanma, kanama ve kas hasarı tespit edildiği öğrenildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/galatasarayda-uefa-ve-derbi-hazirliklari-basladi-1768016"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2020/9/22/1768016/kapak_180433.jpg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2020/9/22/1768016/kapak_180433.jpg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/galatasarayda-uefa-ve-derbi-hazirliklari-basladi-1768016",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2020-09-22T16:38:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1090458",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fenerbahçe'yi derbilerde kimse yenemiyor",
+      "aciklama": "Spor Toto Süper Lig'in 6. haftasında 24 Eylül Pazartesi günü Ülker Stadı'nda Beşiktaş'ı ağırlayacak Fenerbahçe, rakibi karşısında 2005 yılından bu yana iç sahada yenilgi yüzü görmedi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fenerbahceyi-derbilerde-kimse-yenemiyor-1090458"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2018/9/22/1090458_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2018/9/22/1090458_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/fenerbahceyi-derbilerde-kimse-yenemiyor-1090458",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2018-09-22T12:14:00+03:00",
+      "puan": 6,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-829349",
       "yil": 2017,
       "bolge": "turkiye",
-      "metinEn": "Kadir Topbaş resigned from his position as the Mayor of Istanbul",
-      "konular": [
-        "Kadir Topbaş",
-        "List of mayors of Istanbul"
-      ],
-      "haberKaynagi": null,
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Kadir_Topbas_at_38th_Istanbul_Vodafone_Marathon_%282%29_cropped.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Kadir_Topbas_at_38th_Istanbul_Vodafone_Marathon_%282%29_cropped.jpg",
-        "genislik": 745,
-        "yukseklik": 1036,
-        "orijinalGenislik": 745,
-        "yazar": "Sakhalinio. Cropped by User:Andrew Dalby",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Kadir_Topbas_at_38th_Istanbul_Vodafone_Marathon_(2)_cropped.jpg",
-        "aciklama": "Kadir Topbas at 38th Istanbul Vodafone Marathon",
-        "konu": "Kadir Topbaş"
+      "tur": "haber",
+      "metin": "CHP'de 'Kürdistan referandumu' istifası",
+      "aciklama": "CHP Diyarbakır İl Başkanlığı'nda disiplin kurulu başkanı ve kurultay delegesi olan Selim Fidancı, CHP Genel Başkan Yardımcısı Öztürk Yılmaz'ın, Kuzey Irak Kürt Yönetimi'nde 25 Eylül'de yapılacak referandumla ilgili yaptığı açıklama üzerine partisinden istifa ettiğini açıkladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chpde-kurdistan-referandumu-istifasi-829349"
       },
-      "durum": "bekliyor"
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2017/9/22/829349_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2017/9/22/829349_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/chpde-kurdistan-referandumu-istifasi-829349",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2017-09-22T14:44:00+03:00",
+      "puan": 13,
+      "durum": "haber"
     },
     {
-      "id": "2014-dn-american-led-intervention-in-syria-the-united",
+      "id": "2017-haber-829314",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Trump-Erdoğan zirvesinden sonra 11 milyar dolarlık imza",
+      "aciklama": "ABD Başkanı Donald Trump'ın New York'ta Cumhurbaşkanı Recep Tayyip Erdoğan ile görüşmesinde, iki liderin birbirlerine",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/trump-erdogan-zirvesinden-sonra-11-milyar-dolarlik-imza-829314"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2017/9/22/829314_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2017/9/22/829314_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/trump-erdogan-zirvesinden-sonra-11-milyar-dolarlik-imza-829314",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2017-09-22T14:09:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-604130",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan: Normal zamanlarda yapamayacağımız şeyleri yapabilme gücüne sahip olduk (22.09.2016)",
+      "aciklama": "Cumhurbaşkanı Erdoğan, ABD'de de STK toplantısında konuştu. Erdoğan konuşmasında",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-normal-zamanlarda-yapamayacagimiz-seyleri-yapabilme-gucune-sahip-olduk-604130"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2016/9/22/604130_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2016/9/22/604130_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/erdogan-normal-zamanlarda-yapamayacagimiz-seyleri-yapabilme-gucune-sahip-olduk-604130",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2016-09-22T21:04:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-603903",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez Bankası'ndan faiz kararı (22.09.2016)",
+      "aciklama": "Merkez Bankası Para Politikası Kurulu (PPK), beklendiği gibi faiz koridorunun üst bandını 0.25 puan indirdi, politika faizine ise dokunmadı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/merkez-bankasindan-faiz-karari-603903"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2016/9/22/603903_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2016/9/22/603903_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/merkez-bankasindan-faiz-karari-603903",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2016-09-22T14:01:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-374509",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez bankası kararı sonrası dolar fırladı (22.09.2015)",
+      "aciklama": "Merkez Bankası`nın faizlerde değişikliğe gitmediğini açıklamasının ardından kararı sonrasında dolar/TL tırmanışa geçti. Kur 3,03`ün üzerine çıktı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/merkez-bankasi-karari-sonrasi-dolar-firladi-374509"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2015/9/22/374509_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2015/9/22/374509_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/merkez-bankasi-karari-sonrasi-dolar-firladi-374509",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2015-09-22T14:51:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-374473",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP'nin Seçim programı açıklandı",
+      "aciklama": "CHP Genel Başkanı Kemal Kılıçdaroğlu, 1 Kasım'da yapılacak Milletvekili Genel Seçimi kampanyası kapsamında, Avrupa'da yaşayan Türk vatandaşlarıyla buluşacak. Kılıçdaroğlu'nun 23 Eylül'de İsviçre'nin Bern kentinden başlayacak Avrupa turu, 27 Eylül'de Avusturya'nın başkenti Viyana'",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chpnin-secim-programi-aciklandi-374473"
+      },
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2015/9/22/374473_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2015/9/22/374473_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/chpnin-secim-programi-aciklandi-374473",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2015-09-22T13:24:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-121899",
       "yil": 2014,
-      "bolge": "dunya",
-      "metinEn": "American-led intervention in Syria: The United States and several Arab partners begin their airstrike campaign in Syria.",
-      "konular": [
-        "American-led intervention in Syria",
-        "Syria"
-      ],
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Murat Bardakçı'ya rekor Kim Kardashian cezası",
+      "aciklama": "Tarihin Arka Odası adlı programda Murat Bardakçı’nın “Kardashian’ın poposunu seyrediyorsunuz! O Ermeni, seyretmeyin” sözlerine RTÜK 600 bin TL ceza kesti.",
       "haberKaynagi": {
-        "ad": "The Independent",
-        "url": "https://www.independent.co.uk/news/world/middle-east/twitter-user-live-tweets-attack-before-pentagon-breaks-news-9749973.html"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/murat-bardakciya-rekor-kim-kardashian-cezasi-121899"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/U.S._Staging_area_in_Syria.jpg/960px-U.S._Staging_area_in_Syria.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/U.S._Staging_area_in_Syria.jpg/500px-U.S._Staging_area_in_Syria.jpg",
-        "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 6560,
-        "yazar": "Spc. DeAndre Pierce",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:U.S._Staging_area_in_Syria.jpg",
-        "aciklama": "U.S. Soldiers in the 4th Battalion, 118th Infantry Regiment, 30th Armored Brigade Combat Team, North Carolina Army National Guard, attached to the 218th Maneuver Enhancement Brigade, South Carolina Ar",
-        "konu": "American-led intervention in Syria"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2014/9/22/121899_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2014/9/22/121899_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/murat-bardakciya-rekor-kim-kardashian-cezasi-121899",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "durum": "bekliyor"
+      "yayin": "2014-09-22T09:44:00+03:00",
+      "puan": 9,
+      "durum": "haber"
     },
     {
-      "id": "2010-dn-anonymous-initiates-operation-payback-a-coordinated",
-      "yil": 2010,
-      "bolge": "dunya",
-      "metinEn": "Anonymous initiates Operation Payback, a coordinated cyberattack on multiple corporations, law firms, and politicians over the banning of file-sharing websites such as LimeWire and The Pirate Bay and also the politicians and financial institutions against WikiLeaks, a whistleblower website.",
-      "konular": [
-        "Anonymous (hacker group)",
-        "Operation Payback",
-        "Cyberattack",
-        "File sharing website",
-        "LimeWire"
-      ],
+      "id": "2014-haber-122147",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Şampiyon atletlerden Aziz Yıldırım'a ziyaret",
+      "aciklama": "Gençler Avrupa Atletizm Şampiyon Kulüpler Kupası'nda erkekler ve bayanlarda Avrupa Şampiyonu olan Fenerbahçe'nin atletizm takımları, kulüp başkanı Aziz Yıldırım'ı ziyaret etti.",
       "haberKaynagi": {
-        "ad": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/news/2010/09/operation-payback-attacks-continue-until-we-stop-being-angry.ars"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/sampiyon-atletlerden-aziz-yildirima-ziyaret-122147"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/You_call_it_piracy.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/You_call_it_piracy.jpg",
-        "genislik": 530,
-        "yukseklik": 681,
-        "orijinalGenislik": 530,
-        "yazar": "Anonymous",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:You_call_it_piracy.jpg",
-        "aciklama": "Operation Payback flyer",
-        "konu": "Operation Payback"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2014/9/22/122147_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2014/9/22/122147_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/sampiyon-atletlerden-aziz-yildirima-ziyaret-122147",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/You_call_it_piracy.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/You_call_it_piracy.jpg",
-          "genislik": 530,
-          "yukseklik": 681,
-          "orijinalGenislik": 530,
-          "yazar": "Anonymous",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:You_call_it_piracy.jpg",
-          "aciklama": "Operation Payback flyer",
-          "konu": "Operation Payback"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Limewire2008.PNG/960px-Limewire2008.PNG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Limewire2008.PNG/500px-Limewire2008.PNG",
-          "genislik": 960,
-          "yukseklik": 647,
-          "orijinalGenislik": 1170,
-          "yazar": "— Navy Blue formerly iDosh, en:User:Sanchmarc Original uploader was Navy Blue at en.wikipedia",
-          "lisans": "GPL",
-          "lisansUrl": "http://www.gnu.org/licenses/gpl.html",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Limewire2008.PNG",
-          "aciklama": "Screenshot of en:LimeWire 4.18.3 running under en:Windows Vista",
-          "konu": "LimeWire"
-        }
-      ],
-      "durum": "bekliyor"
+      "yayin": "2014-09-22T19:04:00+03:00",
+      "puan": 8,
+      "durum": "haber"
     },
     {
-      "id": "2009-dn-wikileaks-exposes-the-contents-of-kaupthing",
-      "yil": 2009,
-      "bolge": "dunya",
-      "metinEn": "WikiLeaks exposes the contents of Kaupthing Bank's internal documents prior to the Icelandic Financial Crisis. These documents showed suspicious amounts of money were loaned to bank owners, and debts being written off.",
-      "konular": [
-        "WikiLeaks",
-        "Kaupthing Bank",
-        "2008-2011 Icelandic financial crisis",
-        "loan",
-        "debts"
-      ],
+      "id": "2012-haber-371804",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bu görüntü Meclis gündeminde",
+      "aciklama": "Cumhuriyet Ankara&#8217;nın, Pursaklar&#8217;daki bir muhtarlık ofisine AKP&#8217;li yetkililerin fotoğraflarının asıldığı yönündeki haberi TBMM&#8217;ye yansıdı.",
       "haberKaynagi": {
-        "ad": "ruv.is",
-        "url": "http://www.ruv.is/frett/miklar-hreyfingar-rett-fyrir-hrun"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bu-goruntu-meclis-gundeminde-371804"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Geir_H._Haarde_statsminister_Island_pa_pressmote_under_Nordiska_radets_session_i_Helsingfors_2008-10-27_%281%29.jpg/960px-Geir_H._Haarde_statsminister_Island_pa_pressmote_under_Nordiska_radets_session_i_Helsingfors_2008-10-27_%281%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Geir_H._Haarde_statsminister_Island_pa_pressmote_under_Nordiska_radets_session_i_Helsingfors_2008-10-27_%281%29.jpg/500px-Geir_H._Haarde_statsminister_Island_pa_pressmote_under_Nordiska_radets_session_i_Helsingfors_2008-10-27_%281%29.jpg",
-        "genislik": 960,
-        "yukseklik": 639,
-        "orijinalGenislik": 4256,
-        "yazar": "Johannes Jansson",
-        "lisans": "CC BY 2.5 dk",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.5/dk/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Geir_H._Haarde_statsminister_Island_pa_pressmote_under_Nordiska_radets_session_i_Helsingfors_2008-10-27_(1).jpg",
-        "aciklama": "Icelandic prime Minister Geir H. Haarde speaks with reporters on 27 October 2008",
-        "konu": "2008-2011 Icelandic financial crisis"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2012/9/22/371804_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2012/9/22/371804_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/bu-goruntu-meclis-gundeminde-371804",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Geir_H._Haarde_statsminister_Island_pa_pressmote_under_Nordiska_radets_session_i_Helsingfors_2008-10-27_%281%29.jpg/960px-Geir_H._Haarde_statsminister_Island_pa_pressmote_under_Nordiska_radets_session_i_Helsingfors_2008-10-27_%281%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Geir_H._Haarde_statsminister_Island_pa_pressmote_under_Nordiska_radets_session_i_Helsingfors_2008-10-27_%281%29.jpg/500px-Geir_H._Haarde_statsminister_Island_pa_pressmote_under_Nordiska_radets_session_i_Helsingfors_2008-10-27_%281%29.jpg",
-          "genislik": 960,
-          "yukseklik": 639,
-          "orijinalGenislik": 4256,
-          "yazar": "Johannes Jansson",
-          "lisans": "CC BY 2.5 dk",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.5/dk/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Geir_H._Haarde_statsminister_Island_pa_pressmote_under_Nordiska_radets_session_i_Helsingfors_2008-10-27_(1).jpg",
-          "aciklama": "Icelandic prime Minister Geir H. Haarde speaks with reporters on 27 October 2008",
-          "konu": "2008-2011 Icelandic financial crisis"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Petrevene_18.jpg/960px-Petrevene_18.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Petrevene_18.jpg/500px-Petrevene_18.jpg",
-          "genislik": 960,
-          "yukseklik": 670,
-          "orijinalGenislik": 1696,
-          "yazar": "Ibovec",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Petrevene_18.jpg",
-          "aciklama": "Loan receipt by the Petrevene bank",
-          "konu": "loan"
-        }
-      ],
-      "durum": "bekliyor"
+      "yayin": "2012-09-22T15:25:00+03:00",
+      "puan": 5,
+      "durum": "haber"
     },
     {
-      "id": "2006-dn-annular-solar-eclipse-visible-in-guyana",
-      "yil": 2006,
-      "bolge": "dunya",
-      "metinEn": "Annular solar eclipse, visible in Guyana, Suriname, French Guiana, parts of Brazil, and the southern Atlantic.",
-      "konular": [
-        "Solar eclipse of September 22, 2006"
-      ],
-      "haberKaynagi": null,
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Helder_da_Rocha_-_Partial_solar_eclipse_%28by-sa%29.jpg/960px-Helder_da_Rocha_-_Partial_solar_eclipse_%28by-sa%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Helder_da_Rocha_-_Partial_solar_eclipse_%28by-sa%29.jpg/500px-Helder_da_Rocha_-_Partial_solar_eclipse_%28by-sa%29.jpg",
-        "genislik": 960,
-        "yukseklik": 800,
-        "orijinalGenislik": 1280,
-        "yazar": "Helder da Rocha",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Helder_da_Rocha_-_Partial_solar_eclipse_(by-sa).jpg",
-        "aciklama": "Partial solar eclipse",
-        "konu": "Solar eclipse of September 22, 2006"
+      "id": "2012-haber-371740",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "'Bizde Anayasa var mı?'",
+      "aciklama": "TBMM Başkanı Cemil Çiçek, ''Balyoz Planı'' davası kararına ilişkin değerlendirmesinin sorulmasına, ''Bizde Anayasa var mı? 138'i bir okuyuverin, ondan sonra soru sorun'' karşılığını verdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bizde-anayasa-var-mi-371740"
       },
-      "durum": "bekliyor"
+      "gorsel": {
+        "url": "https://media.cumhuriyet.com.tr/Archive//2012/9/22/371740_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2012/9/22/371740_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/bizde-anayasa-var-mi-371740",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
+      },
+      "yayin": "2012-09-22T09:40:00+03:00",
+      "puan": 5,
+      "durum": "haber"
     },
     {
-      "id": "2001-dn-american-spacecraft-deep-space-1-flies",
-      "yil": 2001,
-      "bolge": "dunya",
-      "metinEn": "American spacecraft Deep Space 1 flies within of Comet Borrelly.",
-      "konular": [
-        "Deep Space 1",
-        "19P/Borrelly"
-      ],
+      "id": "2011-haber-284200",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "'Başbakan üzerine düşeni yapmalı'",
+      "aciklama": "CHP Genel Başkan Yardımcısı Gürsel Tekin, ''Başbakan Recep Tayyip Erdoğan'ın terörü önleme konusunda üzerine düşeni yapması gerektiğini'' belirtti.",
       "haberKaynagi": {
-        "ad": "NASA",
-        "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1998-061A"
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbakan-uzerine-duseni-yapmali-284200"
       },
-      "metin": null,
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Deep_Space_1_clean_%28PIA04242%29.png/960px-Deep_Space_1_clean_%28PIA04242%29.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Deep_Space_1_clean_%28PIA04242%29.png/500px-Deep_Space_1_clean_%28PIA04242%29.png",
-        "genislik": 960,
-        "yukseklik": 704,
-        "orijinalGenislik": 1200,
-        "yazar": "NASA/JPL",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Deep_Space_1_clean_(PIA04242).png",
-        "aciklama": "Artist's concept of the Deep Space 1 spacecraft.",
-        "konu": "Deep Space 1"
+        "url": "https://media.cumhuriyet.com.tr/Archive//2011/9/22/284200_cover.jpeg",
+        "genislik": 1280,
+        "yukseklik": 720,
+        "kucukUrl": "https://media.cumhuriyet.com.tr/Archive//2011/9/22/284200_cover.jpeg",
+        "kaynak": "https://www.cumhuriyet.com.tr/haber/basbakan-uzerine-duseni-yapmali-284200",
+        "yazar": "Cumhuriyet",
+        "lisans": "Kaynak sitede",
+        "haber": true
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Deep_Space_1_clean_%28PIA04242%29.png/960px-Deep_Space_1_clean_%28PIA04242%29.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Deep_Space_1_clean_%28PIA04242%29.png/500px-Deep_Space_1_clean_%28PIA04242%29.png",
-          "genislik": 960,
-          "yukseklik": 704,
-          "orijinalGenislik": 1200,
-          "yazar": "NASA/JPL",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Deep_Space_1_clean_(PIA04242).png",
-          "aciklama": "Artist's concept of the Deep Space 1 spacecraft.",
-          "konu": "Deep Space 1"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Comet_Borrelly_Nucleus.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Comet_Borrelly_Nucleus.jpg",
-          "genislik": 500,
-          "yukseklik": 500,
-          "orijinalGenislik": 500,
-          "yazar": "NASA/JPL",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Comet_Borrelly_Nucleus.jpg",
-          "aciklama": "In this high resolution view of the icy, rocky nucleus of comet Borrelly, (about 45 meters or 150 feet per pixel) a variety of terrains and surface textures, mountains and fault structures, and darken",
-          "konu": "19P/Borrelly"
-        }
-      ],
-      "durum": "bekliyor"
+      "yayin": "2011-09-22T12:25:00+03:00",
+      "puan": 7,
+      "durum": "haber"
     }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
   ]
 }
