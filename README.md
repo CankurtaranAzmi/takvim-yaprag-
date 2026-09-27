@@ -8,10 +8,13 @@
 |---|---|
 | `src/data/gunler/MM-DD.json` | Her günün verisi (olaylar, doğumlar, ölümler, özel günler) |
 | `scripts/wiki-cek.mjs` | Vikipedi gün maddelerinden listeleri çeker (özetleri korur) |
+| `scripts/gorsel.mjs` | Olayın bağlantılı Vikipedi maddelerinden Commons görseli bulur (yalnızca serbest lisans; bayrak/logo/harita elenir), en fazla 3 aday saklar |
 | `scripts/ozet-yaz.mjs` | Özeti olmayan olaylara Claude ile özgün özet + başlık + kategori yazar |
 | `src/pages/[gun].astro` | `/27-eylul/` gün sayfaları |
 | `src/pages/olay/[slug].astro` | `/olay/.../` olay sayfaları (yalnızca `durum: "yayinda"` olanlar) |
 | `public/.htaccess` | HTTPS, eski WordPress adreslerinin yönlendirmesi, önbellek |
+
+Görseller Wikimedia sunucusundan gösterilir (hotlink), yazar + lisans her görselin altında yazar. `ozet-yaz` adaylardan olaya en uygununu seçer ya da hiçbiri uygun değilse `gorsel: null` yapar. Bir görseli elle kapatmak için `"gorsel": null` yazın.
 
 Olay `durum` alanı: `bekliyor` (özet yok, sadece listede görünür) · `yayinda` (olay sayfası üretilir) · `incele` (model emin değil, yayınlanmaz).
 

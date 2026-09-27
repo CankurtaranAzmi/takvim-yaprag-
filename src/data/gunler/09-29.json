@@ -16,7 +16,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Wappen_r%C3%B6m.kaiser.JPG",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Wappen_r%C3%B6m.kaiser.JPG",
+        "genislik": 920,
+        "yukseklik": 780,
+        "yazar": "Originally uploaded by de:Benutzer:Hansele",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Wappen_r%C3%B6m.kaiser.JPG",
+        "aciklama": "1605 coat of arms of Rudolf II, Holy Roman Emperor. The title reads Röm[isch] Kayserlicher und Kön[iglicher] May[estät] Wappen. Armorial from Siebmachers Wappenbuch, published in 1605, during the reig",
+        "konu": "Kutsal Roma imparatorları listesi"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Wappen_r%C3%B6m.kaiser.JPG",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Wappen_r%C3%B6m.kaiser.JPG",
+          "genislik": 920,
+          "yukseklik": 780,
+          "yazar": "Originally uploaded by de:Benutzer:Hansele",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Wappen_r%C3%B6m.kaiser.JPG",
+          "aciklama": "1605 coat of arms of Rudolf II, Holy Roman Emperor. The title reads Röm[isch] Kayserlicher und Kön[iglicher] May[estät] Wappen. Armorial from Siebmachers Wappenbuch, published in 1605, during the reig",
+          "konu": "Kutsal Roma imparatorları listesi"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/PopeGregoryIX.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/PopeGregoryIX.jpg",
+          "genislik": 412,
+          "yukseklik": 456,
+          "yazar": "Raphael",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:PopeGregoryIX.jpg",
+          "aciklama": "Detail from fresco of Pope Gregory IX approving the Decretals, 1511, Fresco Stanza della Segnatura, Palazzi Pontifici, Vatican, Vatican City State. Pope Julius II as Gregory IX",
+          "konu": "IX. Gregorius"
+        }
+      ]
     },
     {
       "id": "1555-damat-rustem-pasa-ikinci-kez-osmanli-sadrazami",
@@ -29,7 +67,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1808-sened-i-ittifak-imzalandi",
@@ -41,7 +80,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/London_news_c1877_-_scanned_constantinopole%281996%29-Opening_of_the_first_parlement.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/London_news_c1877_-_scanned_constantinopole%281996%29-Opening_of_the_first_parlement.png",
+        "genislik": 400,
+        "yukseklik": 395,
+        "yazar": "The Illustrated London News, 7 April 1877.",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:London_news_c1877_-_scanned_constantinopole(1996)-Opening_of_the_first_parlement.png",
+        "aciklama": "Opening of the first Ottoman Parliament (Meclis-i Umumî), 1877. Detail from Opening of the Turkish Parliament by the Sultan, at the Palace of Dolma-Bagtche, Constantinople. Illustration for The Illust",
+        "konu": "Sened-i İttifak"
+      }
     },
     {
       "id": "1885-dunyanin-ilk-elektrikli-tramvay-hatti-birlesik-kralliknin",
@@ -55,7 +106,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Istanbul_Istiklal_cad._tram_-_Galatasaray_Lisesi.JPG/960px-Istanbul_Istiklal_cad._tram_-_Galatasaray_Lisesi.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Istanbul_Istiklal_cad._tram_-_Galatasaray_Lisesi.JPG/500px-Istanbul_Istiklal_cad._tram_-_Galatasaray_Lisesi.JPG",
+        "genislik": 960,
+        "yukseklik": 814,
+        "yazar": "Ex13",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Istanbul_Istiklal_cad._tram_-_Galatasaray_Lisesi.JPG",
+        "aciklama": "Istanbul Istiklal cad. trams near Galatasaray Lisesi",
+        "konu": "tramvay"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Istanbul_Istiklal_cad._tram_-_Galatasaray_Lisesi.JPG/960px-Istanbul_Istiklal_cad._tram_-_Galatasaray_Lisesi.JPG",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Istanbul_Istiklal_cad._tram_-_Galatasaray_Lisesi.JPG/500px-Istanbul_Istiklal_cad._tram_-_Galatasaray_Lisesi.JPG",
+          "genislik": 960,
+          "yukseklik": 814,
+          "yazar": "Ex13",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Istanbul_Istiklal_cad._tram_-_Galatasaray_Lisesi.JPG",
+          "aciklama": "Istanbul Istiklal cad. trams near Galatasaray Lisesi",
+          "konu": "tramvay"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/500px-London_Skyline_%28125508655%29.jpeg",
+          "genislik": 960,
+          "yukseklik": 540,
+          "yazar": "Ilya Grigorik",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg",
+          "aciklama": "500px provided description: London Skyline [#sunset ,#architecture ,#cityscape ,#london ,#uk ,#skyline ,#financial district ,#thames ,#london bridge ,#london shard]",
+          "konu": "Londra"
+        }
+      ]
     },
     {
       "id": "1911-italya-kralligi-osmanli-imparatorluguna-savas-ilan-etti",
@@ -69,7 +158,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Italo-Turkish_war_collage.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Italo-Turkish_war_collage.jpg",
+        "genislik": 640,
+        "yukseklik": 628,
+        "yazar": "File:Turkish prisoners Rhodes 1912.jpg: L'Illustrazione italiana, 16 June 1912. File:Atatürk 1912.jpg: Bilinmiyor File:Italian battery near ",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Italo-Turkish_war_collage.jpg",
+        "aciklama": "Collage of the Italo-Turkish War",
+        "konu": "Trablusgarp Savaşı"
+      }
     },
     {
       "id": "1913-ii-balkan-savasi-sonunda-osmanli-ile-bulgaristan",
@@ -84,7 +185,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Second_Balkan_War.png/960px-Second_Balkan_War.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Second_Balkan_War.png/500px-Second_Balkan_War.png",
+        "genislik": 960,
+        "yukseklik": 770,
+        "yazar": "Kandi",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Second_Balkan_War.png",
+        "aciklama": "Map of the Second Balkan War",
+        "konu": "İkinci Balkan Savaşı"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Second_Balkan_War.png/960px-Second_Balkan_War.png",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Second_Balkan_War.png/500px-Second_Balkan_War.png",
+          "genislik": 960,
+          "yukseklik": 770,
+          "yazar": "Kandi",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Second_Balkan_War.png",
+          "aciklama": "Map of the Second Balkan War",
+          "konu": "İkinci Balkan Savaşı"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Balkan_Wars_Boundaries.jpg/960px-Balkan_Wars_Boundaries.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Balkan_Wars_Boundaries.jpg/500px-Balkan_Wars_Boundaries.jpg",
+          "genislik": 960,
+          "yukseklik": 1360,
+          "yazar": "Bilinmeyen yazar",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Balkan_Wars_Boundaries.jpg",
+          "aciklama": null,
+          "konu": "İstanbul Antlaşması (1913)"
+        }
+      ]
     },
     {
       "id": "1918-bulgaristan-kralligi-selanik-ateskes-antlasmasini-imzalayarak-i",
@@ -97,7 +236,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
+        "genislik": 960,
+        "yukseklik": 974,
+        "yazar": "User:Hohum",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:WWImontage.jpg",
+        "aciklama": "Montage for WWI article. Top: Trenches - Image:The_badly_shelled_main_road_to_Bapaume.jpg (Trenches on the Western Front) Left Upper: Image:AlbatDIII.jpg (German Albatros D.III biplane fighters of Jas",
+        "konu": "I. Dünya Savaşı"
+      }
     },
     {
       "id": "1920-kazim-karabekir-komutasindaki-turk-ordusu-ermenistan-ile",
@@ -112,7 +263,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Sarikamish-Atat%C3%BCrk_monument.JPG/960px-Sarikamish-Atat%C3%BCrk_monument.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Sarikamish-Atat%C3%BCrk_monument.JPG/500px-Sarikamish-Atat%C3%BCrk_monument.JPG",
+        "genislik": 960,
+        "yukseklik": 640,
+        "yazar": "Киликиец",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Sarikamish-Atat%C3%BCrk_monument.JPG",
+        "aciklama": "Турция, ил Карс, город Сарыкамыш, памятник Ататюрку",
+        "konu": "Sarıkamış"
+      }
     },
     {
       "id": "1923-birlesik-krallik-filistin-mandasi-olusturuldu",
@@ -124,7 +287,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1933-komunist-enternasyonal-genel-sekreteri-georgi-dimitrovun-suclandigi",
@@ -139,7 +303,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Georgi_Dimitrow.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Georgi_Dimitrow.png",
+        "genislik": 714,
+        "yukseklik": 998,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Georgi_Dimitrow.png",
+        "aciklama": "Georgi Mikhaylovich Dimitrov (1882-1949)",
+        "konu": "Georgi Dimitrov"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Georgi_Dimitrow.png",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Georgi_Dimitrow.png",
+          "genislik": 714,
+          "yukseklik": 998,
+          "yazar": "Bilinmeyen yazar",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Georgi_Dimitrow.png",
+          "aciklama": "Georgi Mikhaylovich Dimitrov (1882-1949)",
+          "konu": "Georgi Dimitrov"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Reichstagsbrand.jpg/960px-Reichstagsbrand.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Reichstagsbrand.jpg/500px-Reichstagsbrand.jpg",
+          "genislik": 960,
+          "yukseklik": 1183,
+          "yazar": "Bilinmeyen yazar",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Reichstagsbrand.jpg",
+          "aciklama": "Firemen work on the burning Reichstag",
+          "konu": "Reichstag Yangını"
+        }
+      ]
     },
     {
       "id": "1937-cin-cumhuriyetinde-japon-tehdidine-karsi-milliyetci-general",
@@ -155,7 +357,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Chiang_Kai-shek%EF%BC%88%E8%94%A3%E4%B8%AD%E6%AD%A3%EF%BC%89.jpg/960px-Chiang_Kai-shek%EF%BC%88%E8%94%A3%E4%B8%AD%E6%AD%A3%EF%BC%89.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Chiang_Kai-shek%EF%BC%88%E8%94%A3%E4%B8%AD%E6%AD%A3%EF%BC%89.jpg/500px-Chiang_Kai-shek%EF%BC%88%E8%94%A3%E4%B8%AD%E6%AD%A3%EF%BC%89.jpg",
+        "genislik": 960,
+        "yukseklik": 1270,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek%EF%BC%88%E8%94%A3%E4%B8%AD%E6%AD%A3%EF%BC%89.jpg",
+        "aciklama": "Chiang Kai-shek",
+        "konu": "Çan Kay Şek"
+      }
     },
     {
       "id": "1938-fransa-italya-kralligi-ve-birlesik-krallik-munih",
@@ -171,7 +385,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bundesarchiv_Bild_183-R69173%2C_M%C3%BCnchener_Abkommen%2C_Staatschefs.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bundesarchiv_Bild_183-R69173%2C_M%C3%BCnchener_Abkommen%2C_Staatschefs.jpg",
+        "genislik": 800,
+        "yukseklik": 548,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY-SA 3.0 de",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R69173,_M%C3%BCnchener_Abkommen,_Staatschefs.jpg",
+        "aciklama": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Münchener Abkommen, Staatschefs Zentral",
+        "konu": "Münih Antlaşması (1938)"
+      }
     },
     {
       "id": "1941-kievde-nazilerin-gerceklestirdigi-babi-yar-katliami-basladi",
@@ -186,7 +412,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/P1130119-1.JPG/960px-P1130119-1.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/P1130119-1.JPG/500px-P1130119-1.JPG",
+        "genislik": 960,
+        "yukseklik": 540,
+        "yazar": "Nick Grapsy",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:P1130119-1.JPG",
+        "aciklama": "Kyiv Pechersk Lavra complex",
+        "konu": "Kiev"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/P1130119-1.JPG/960px-P1130119-1.JPG",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/P1130119-1.JPG/500px-P1130119-1.JPG",
+          "genislik": 960,
+          "yukseklik": 540,
+          "yazar": "Nick Grapsy",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:P1130119-1.JPG",
+          "aciklama": "Kyiv Pechersk Lavra complex",
+          "konu": "Kiev"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Babi_Yar-06-194.jpg/960px-Babi_Yar-06-194.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Babi_Yar-06-194.jpg/500px-Babi_Yar-06-194.jpg",
+          "genislik": 960,
+          "yukseklik": 727,
+          "yazar": "Johannes Hähle",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Babi_Yar-06-194.jpg",
+          "aciklama": "Soviet POWs covering a mass grave after the Babi Yar massacre, October 1, 1941.",
+          "konu": "Babi Yar"
+        }
+      ]
     },
     {
       "id": "1960-turkiyede-demokrat-parti-kapatildi",
@@ -198,7 +462,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1971-umman-arap-birligine-katildi",
@@ -211,7 +476,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1974-ispartada-huseyin-cayli-adinda-bir-kisi-6",
@@ -224,7 +490,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1991-haitide-askeri-darbe-gerceklesti",
@@ -236,7 +503,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1992-pkk-hakkari-semdinlideki-jandarma-taburuna-saldirdi-2si-astsubay",
@@ -250,7 +518,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Hakkari.jpg/960px-Hakkari.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Hakkari.jpg/500px-Hakkari.jpg",
+        "genislik": 960,
+        "yukseklik": 540,
+        "yazar": "VOA",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Hakkari.jpg",
+        "aciklama": "Hakkari, Turkey.",
+        "konu": "Hakkâri"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Hakkari.jpg/960px-Hakkari.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Hakkari.jpg/500px-Hakkari.jpg",
+          "genislik": 960,
+          "yukseklik": 540,
+          "yazar": "VOA",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Hakkari.jpg",
+          "aciklama": "Hakkari, Turkey.",
+          "konu": "Hakkâri"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/%C5%9Eemzina.jpg/960px-%C5%9Eemzina.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/%C5%9Eemzina.jpg/500px-%C5%9Eemzina.jpg",
+          "genislik": 960,
+          "yukseklik": 640,
+          "yazar": "Mavlutt",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9Eemzina.jpg",
+          "aciklama": "Şemdinli'den genel bir görünüm",
+          "konu": "Şemdinli"
+        }
+      ]
     },
     {
       "id": "1994-turkiye-adalet-eski-bakani-anapli-mehmet-topac",
@@ -265,7 +571,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
+        "genislik": 960,
+        "yukseklik": 540,
+        "yazar": "A.Savin",
+        "lisans": "FAL",
+        "lisansUrl": "http://artlibre.org/licence/lal/en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
+        "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
+        "konu": "Ankara"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
+          "genislik": 960,
+          "yukseklik": 540,
+          "yazar": "A.Savin",
+          "lisans": "FAL",
+          "lisansUrl": "http://artlibre.org/licence/lal/en",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
+          "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
+          "konu": "Ankara"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg/960px-DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg/500px-DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg",
+          "genislik": 960,
+          "yukseklik": 649,
+          "yazar": "Agamemnon766",
+          "lisans": "CC0",
+          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg",
+          "aciklama": "Revolutionary Left",
+          "konu": "Devrimci Sol"
+        }
+      ]
     },
     {
       "id": "2008-lehman-brothers-gibi-onemli-sirketlerin-iflaslarinin-ardindan",
@@ -278,7 +622,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Prezzi_petrolio_down_jones_2000_2020_gaiamentesullaterra.jpg/960px-Prezzi_petrolio_down_jones_2000_2020_gaiamentesullaterra.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Prezzi_petrolio_down_jones_2000_2020_gaiamentesullaterra.jpg/500px-Prezzi_petrolio_down_jones_2000_2020_gaiamentesullaterra.jpg",
+        "genislik": 960,
+        "yukseklik": 540,
+        "yazar": "GaiaMente (name of signature of the post in the Blog \" Gaiamente sulla Terra \" )",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Prezzi_petrolio_down_jones_2000_2020_gaiamentesullaterra.jpg",
+        "aciklama": "Andamento cronologico dei prezzi del petrolio (Brent, WTI, Dubai Fateh) negli anni 2000 - 2020 , dell'indice Dow Jones e dei principali eventi geopolitici che l'hanno influenzato",
+        "konu": "Dow Jones Borsası endüstri endeksi"
+      }
     },
     {
       "id": "2019-afganistan-baskanlik-secimlerine-siddet-ve-dusuk-katilim",
@@ -290,7 +646,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     }
   ],
   "dogumlar": [
@@ -769,5 +1126,5 @@
     "url": "https://tr.wikipedia.org/wiki/29_Eyl%C3%BCl",
     "revid": 37937353
   },
-  "guncelleme": "2026-09-27T09:06:35.201Z"
+  "guncelleme": "2026-09-27T09:16:54.307Z"
 }

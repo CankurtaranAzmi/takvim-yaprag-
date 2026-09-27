@@ -1,7 +1,7 @@
 ---
 // Bir günün tüm içeriği: yaprak, özel günler, olaylar, doğumlar, ölümler, gezinme.
 import { AYLAR, GUNLER_HAFTA, gunSlug, gunAdi, gunAdiDe, komsuGun, yilYaz, istanbulBugun } from '../lib/tarih.mjs';
-import { gunBul } from '../lib/veri.mjs';
+import { gunBul, oneCikan } from '../lib/veri.mjs';
 import GunSec from './GunSec.astro';
 
 interface Props { g: any; baslikEtiketi?: 'h1' | 'h2'; bugunMu?: boolean }
@@ -19,6 +19,9 @@ const sonrakiVar = !!gunBul(sonraki.ay, sonraki.gun);
 
 const yayinda = (o: any) => o.durum === 'yayinda' && o.ozet;
 const ilkCumle = (s: string) => (s.split(/\n\s*\n/)[0] ?? s).trim();
+const vitrin = oneCikan(g);
+const liste = g.olaylar.filter((o: any) => o !== vitrin);
+const alt = (o: any) => o.gorsel.aciklama ?? o.gorsel.konu ?? '';
 ---
 <div class="yaprak" aria-hidden="true">
   <div class="yaprak-ust">{bugunMu ? `${haftaGunu} · ${buYil}` : 'Tarihte bugün'}</div>
@@ -41,17 +44,38 @@ const ilkCumle = (s: string) => (s.split(/\n\s*\n/)[0] ?? s).trim();
   </ul>
 )}
 
+{vitrin && (
+  <article class:list={['vitrin', { 'vitrin--dikey': vitrin.gorsel.yukseklik > vitrin.gorsel.genislik * 0.9 }]}>
+    <figure class="vitrin-gorsel">
+      <img src={vitrin.gorsel.url} alt={alt(vitrin)} width={vitrin.gorsel.genislik} height={vitrin.gorsel.yukseklik} fetchpriority="high" decoding="async" />
+    </figure>
+    <div class="vitrin-metin">
+      <span class="vitrin-ust"><strong>{yilYaz(vitrin.yil)}</strong>{vitrin.yil > 0 && ` · ${buYil - vitrin.yil} yıl önce`}</span>
+      {yayinda(vitrin)
+        ? <h2><a href={`/olay/${vitrin.id}/`}>{vitrin.baslik}</a></h2>
+        : <h2>{vitrin.metin}</h2>}
+      {yayinda(vitrin) && <p>{ilkCumle(vitrin.ozet)}</p>}
+      <p class="gorsel-kredi">Görsel: <a href={vitrin.gorsel.kaynak} rel="noopener">{vitrin.gorsel.yazar}</a> · {vitrin.gorsel.lisans} · Wikimedia Commons</p>
+    </div>
+  </article>
+)}
+
 <section class="bolum" aria-labelledby="olaylar">
   <div class="bolum-baslik"><h2 id="olaylar">Olaylar</h2><span>{g.olaylar.length} kayıt</span></div>
   <ol class="olaylar">
-    {g.olaylar.map((o: any) => (
-      <li class="olay">
-        <div class="olay-yil">{yilYaz(o.yil)}{o.yil > 0 && <small>{buYil - o.yil} yıl önce</small>}</div>
+    {liste.map((o: any) => (
+      <li class:list={['olay', { 'olay--gorselli': o.gorsel }]}>
+        <div class:list={['olay-yil', { 'olay-yil--mo': o.yil < 0 }]}>{yilYaz(o.yil)}{o.yil > 0 && <small>{buYil - o.yil} yıl önce</small>}</div>
         <div class="olay-metin">
           {yayinda(o) && o.kategori && <span class="olay-kat">{o.kategori}</span>}
           <p>{yayinda(o) ? ilkCumle(o.ozet) : o.metin}</p>
           {yayinda(o) && <a class="devam" href={`/olay/${o.id}/`}>Devamını oku →</a>}
         </div>
+        {o.gorsel && (
+          <a class="olay-gorsel" href={yayinda(o) ? `/olay/${o.id}/` : o.gorsel.kaynak} rel={yayinda(o) ? undefined : 'noopener'} title={`Görsel: ${o.gorsel.yazar} · ${o.gorsel.lisans}`}>
+            <img src={o.gorsel.kucukUrl} alt={alt(o)} width="96" height="96" loading="lazy" decoding="async" />
+          </a>
+        )}
       </li>
     ))}
   </ol>
@@ -62,7 +86,7 @@ const ilkCumle = (s: string) => (s.split(/\n\s*\n/)[0] ?? s).trim();
     <summary><div class="bolum-baslik"><h2>Doğumlar</h2><span>{g.dogumlar.length} kişi</span></div></summary>
     <ol class="olaylar">
       {g.dogumlar.map((o: any) => (
-        <li class="olay"><div class="olay-yil">{yilYaz(o.yil)}</div><div class="olay-metin"><p>{o.metin}</p></div></li>
+        <li class="olay"><div class:list={['olay-yil', { 'olay-yil--mo': o.yil < 0 }]}>{yilYaz(o.yil)}</div><div class="olay-metin"><p>{o.metin}</p></div></li>
       ))}
     </ol>
   </details>
@@ -73,7 +97,7 @@ const ilkCumle = (s: string) => (s.split(/\n\s*\n/)[0] ?? s).trim();
     <summary><div class="bolum-baslik"><h2>Ölümler</h2><span>{g.olumler.length} kişi</span></div></summary>
     <ol class="olaylar">
       {g.olumler.map((o: any) => (
-        <li class="olay"><div class="olay-yil">{yilYaz(o.yil)}</div><div class="olay-metin"><p>{o.metin}</p></div></li>
+        <li class="olay"><div class:list={['olay-yil', { 'olay-yil--mo': o.yil < 0 }]}>{yilYaz(o.yil)}</div><div class="olay-metin"><p>{o.metin}</p></div></li>
       ))}
     </ol>
   </details>

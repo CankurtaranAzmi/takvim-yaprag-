@@ -105,7 +105,7 @@ main { padding: 32px 0 64px; }
 
 /* Olay satırları */
 .olaylar { list-style: none; margin: 0; padding: 0; }
-.olay { display: grid; grid-template-columns: 72px 1fr; gap: 16px; padding: 16px 0; border-bottom: 1px solid var(--cizgi); }
+.olay { display: grid; grid-template-columns: 76px 1fr; gap: 16px; padding: 16px 0; border-bottom: 1px solid var(--cizgi); }
 .olay-yil { font-family: var(--serif); font-weight: 700; font-size: 1.25rem; color: var(--kirmizi); font-variant-numeric: tabular-nums; line-height: 1.4; }
 .olay-yil small { display: block; font-family: var(--sans); font-weight: 400; font-size: .75rem; color: var(--soluk); }
 .olay-metin p { margin: 0; }
@@ -174,4 +174,52 @@ details.bolum[open] > summary .bolum-baslik::after { content: '−'; }
   .yaprak-gun { font-size: 5.2rem; }
   .olay { grid-template-columns: 58px 1fr; gap: 12px; }
   .gezinme a strong { font-size: 1rem; }
+}
+
+/* Öne çıkan olay (vitrin) */
+.vitrin { background: var(--kart); border-radius: 16px; overflow: hidden; box-shadow: var(--golge); margin: 0 0 40px; }
+.vitrin-gorsel { margin: 0; aspect-ratio: 16 / 9; background: var(--cizgi); overflow: hidden; }
+.vitrin-gorsel img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 25%; display: block; }
+.vitrin-metin { padding: 20px 22px 18px; }
+.vitrin-ust { display: block; color: var(--kirmizi); font-size: .9rem; margin-bottom: 6px; }
+.vitrin-ust strong { font-family: var(--serif); font-size: 1.15rem; }
+.vitrin h2 { font-size: 1.35rem; line-height: 1.35; margin-bottom: 8px; }
+.vitrin h2 a { text-decoration: none; }
+.vitrin p { color: var(--soluk); }
+.gorsel-kredi { font-size: .75rem; color: var(--soluk); margin: 10px 0 0 !important; }
+.gorsel-kredi a { color: var(--soluk); }
+
+/* Liste satırındaki küçük görsel */
+.olay--gorselli { grid-template-columns: 76px 1fr 96px; }
+.olay-gorsel { display: block; width: 96px; height: 96px; border-radius: 10px; overflow: hidden; background: var(--cizgi); align-self: start; }
+.olay-gorsel img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 25%; display: block; transition: transform .3s; }
+.olay-gorsel:hover img { transform: scale(1.05); }
+
+/* Olay sayfası büyük görsel */
+.makale-gorsel { margin: 0 0 28px; }
+.makale-gorsel img { width: 100%; height: auto; max-height: 520px; object-fit: cover; object-position: 50% 25%; border-radius: 14px; display: block; background: var(--cizgi); }
+.makale-gorsel figcaption { font-size: .8rem; color: var(--soluk); margin-top: 8px; }
+.makale-gorsel figcaption a { color: var(--soluk); }
+
+@media (max-width: 560px) {
+  .olay--gorselli { grid-template-columns: 58px 1fr 64px; }
+  .olay-gorsel { width: 64px; height: 64px; }
+  .vitrin-metin { padding: 16px; }
+  .vitrin h2 { font-size: 1.15rem; }
+}
+
+/* Dikey (portre) görseller: yan yana düzen, yüz kırpılmasın */
+.vitrin--dikey { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 3fr); }
+.vitrin--dikey .vitrin-gorsel { aspect-ratio: 4 / 5; }
+.vitrin--dikey .vitrin-gorsel img { object-position: 50% 15%; }
+.vitrin--dikey .vitrin-metin { align-self: center; padding: 24px; }
+
+.olay-yil { white-space: nowrap; }
+.olay-yil--mo { font-size: 1rem; }
+
+@media (max-width: 560px) {
+  .vitrin--dikey { grid-template-columns: 1fr; }
+  .vitrin--dikey .vitrin-gorsel { aspect-ratio: 4 / 3; }
+  .vitrin--dikey .vitrin-metin { padding: 16px; }
+  .olay-yil--mo { font-size: .85rem; }
 }

@@ -14,7 +14,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/960px-EmperorSuleiman.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/500px-EmperorSuleiman.jpg",
+        "genislik": 960,
+        "yukseklik": 1123,
+        "yazar": "Circle of Titian",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:EmperorSuleiman.jpg",
+        "aciklama": "Delle tre versioni del ritratto di Solimano, ricordate dalle fonti come «di mano di Tiziano», ne sono giunte fino a noi solo due, iconograficamente diverse tra loro, ma entrambe riferibili alla botteg",
+        "konu": "I. Süleyman"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/960px-EmperorSuleiman.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/500px-EmperorSuleiman.jpg",
+          "genislik": 960,
+          "yukseklik": 1123,
+          "yazar": "Circle of Titian",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:EmperorSuleiman.jpg",
+          "aciklama": "Delle tre versioni del ritratto di Solimano, ricordate dalle fonti come «di mano di Tiziano», ne sono giunte fino a noi solo due, iconograficamente diverse tra loro, ma entrambe riferibili alla botteg",
+          "konu": "I. Süleyman"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/SiegeOfViennaByOttomanForces.jpg/960px-SiegeOfViennaByOttomanForces.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/SiegeOfViennaByOttomanForces.jpg/500px-SiegeOfViennaByOttomanForces.jpg",
+          "genislik": 960,
+          "yukseklik": 1656,
+          "yazar": "Bilinmeyen yazar",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:SiegeOfViennaByOttomanForces.jpg",
+          "aciklama": "Siege Of Buda By Suleyman",
+          "konu": "I. Viyana Kuşatması"
+        }
+      ]
     },
     {
       "id": "1540-isa-tarikati-cizvitler-papalik-tarafindan-resmen-tanindi",
@@ -27,7 +65,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1590-vii-urbanus-secilmesinden-13-gun-sonra-tac",
@@ -40,7 +79,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1669-21-yillik-kusatmanin-ardindan-kandiye-kalesinin-de",
@@ -54,7 +94,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Heraklion_Montage_L.png/960px-Heraklion_Montage_L.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Heraklion_Montage_L.png/500px-Heraklion_Montage_L.png",
+        "genislik": 960,
+        "yukseklik": 1165,
+        "yazar": "SilentResident (compilation, sources to attribute see above; if any of the sources used in the Montage are removed from Wikimedia Commons, o",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Heraklion_Montage_L.png",
+        "aciklama": "The city of Heraklion",
+        "konu": "Kandiye"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Heraklion_Montage_L.png/960px-Heraklion_Montage_L.png",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Heraklion_Montage_L.png/500px-Heraklion_Montage_L.png",
+          "genislik": 960,
+          "yukseklik": 1165,
+          "yazar": "SilentResident (compilation, sources to attribute see above; if any of the sources used in the Montage are removed from Wikimedia Commons, o",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Heraklion_Montage_L.png",
+          "aciklama": "The city of Heraklion",
+          "konu": "Kandiye"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Island_of_Crete%2C_Greece.JPG/960px-Island_of_Crete%2C_Greece.JPG",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Island_of_Crete%2C_Greece.JPG/500px-Island_of_Crete%2C_Greece.JPG",
+          "genislik": 960,
+          "yukseklik": 639,
+          "yazar": "ISS Expedition 28 crew",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Island_of_Crete,_Greece.JPG",
+          "aciklama": "The western and central parts of Crete appear surrounded by quicksilver in this astronaut photograph taken from the International Space Station. This phenomenon is known as sunglint, caused by light r",
+          "konu": "Girit"
+        }
+      ]
     },
     {
       "id": "1919-merzifonu-isgal-eden-ingilizler-sehri-terk-etti",
@@ -67,7 +145,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Merzifon-June2016_%281%29.jpg/960px-Merzifon-June2016_%281%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Merzifon-June2016_%281%29.jpg/500px-Merzifon-June2016_%281%29.jpg",
+        "genislik": 960,
+        "yukseklik": 720,
+        "yazar": "Rehman Abubakr",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Merzifon-June2016_(1).jpg",
+        "aciklama": "Aerial photograph of Merzifon, Turkey.",
+        "konu": "Merzifon"
+      }
     },
     {
       "id": "1922-yunan-krali-i-konstantin-anadolu-yenilgisi-sonrasi",
@@ -80,7 +170,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Constantine_I_of_Greece_%281914%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Constantine_I_of_Greece_%281914%29.jpg",
+        "genislik": 435,
+        "yukseklik": 611,
+        "yazar": "Philip de László",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Constantine_I_of_Greece_(1914).jpg",
+        "aciklama": "Constantine I of Greece.",
+        "konu": "I. Konstantin (Yunanistan)"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Constantine_I_of_Greece_%281914%29.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Constantine_I_of_Greece_%281914%29.jpg",
+          "genislik": 435,
+          "yukseklik": 611,
+          "yazar": "Philip de László",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Constantine_I_of_Greece_(1914).jpg",
+          "aciklama": "Constantine I of Greece.",
+          "konu": "I. Konstantin (Yunanistan)"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Greco-Turkish_War_of_1919-1922_collage.jpg/960px-Greco-Turkish_War_of_1919-1922_collage.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Greco-Turkish_War_of_1919-1922_collage.jpg/500px-Greco-Turkish_War_of_1919-1922_collage.jpg",
+          "genislik": 960,
+          "yukseklik": 960,
+          "yazar": "Crasyy",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Greco-Turkish_War_of_1919-1922_collage.jpg",
+          "aciklama": "Clockwise from top left: Mustafa Kemal at the end of the First Battle of İnönü; Greek soldiers retreat during the last stages; Turkish infantry in trench; Greek infantry charge in river Gediz.",
+          "konu": "Türk Kurtuluş Savaşı Batı Cephesi"
+        }
+      ]
     },
     {
       "id": "1928-cin-cumhuriyeti-amerika-birlesik-devletleri-tarafindan-tanindi",
@@ -92,7 +220,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1939-polonya-almanya-ve-sovyetler-birligi-isgaline-karsilik",
@@ -106,7 +235,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1940-nazi-almanyasi-italya-kralligi-ve-japon-imparatorlugu",
@@ -122,7 +252,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/960px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/500px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 560,
+        "yazar": "Kasa Fue",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Museumsinsel_Berlin_Juli_2021_1_(cropped).jpg",
+        "aciklama": "Museumsinsel in Berlin, im Hintergrund der Fernsehturm am Alexanderplatz, Juli 2021",
+        "konu": "Berlin"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/960px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/500px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
+          "genislik": 960,
+          "yukseklik": 560,
+          "yazar": "Kasa Fue",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Museumsinsel_Berlin_Juli_2021_1_(cropped).jpg",
+          "aciklama": "Museumsinsel in Berlin, im Hintergrund der Fernsehturm am Alexanderplatz, Juli 2021",
+          "konu": "Berlin"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Protokol-1.03.1941.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Protokol-1.03.1941.jpg",
+          "genislik": 574,
+          "yukseklik": 827,
+          "yazar": "Bogdan Filow, Ioachim Ribbentrop, Ciano, Hiroshi Oshima",
+          "lisans": "CC BY 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Protokol-1.03.1941.jpg",
+          "aciklama": "Official Protocol of Bulgaria's accession into the Axis Tripartite Pact. Vienna, 1. March 1941",
+          "konu": "Tripartite Paktı"
+        }
+      ]
     },
     {
       "id": "1962-yemen-arap-cumhuriyeti-kuzey-yemen-kuruldu-albay",
@@ -137,7 +305,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1970-arap-zirvesi-misirda-toplandi-urdun-krali-huseyin",
@@ -153,7 +322,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/HusseinJordanien.jpg/960px-HusseinJordanien.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/HusseinJordanien.jpg/500px-HusseinJordanien.jpg",
+        "genislik": 960,
+        "yukseklik": 1310,
+        "yazar": "Helene C. Stikkel - First uploader was Wikifreund at de.wikipedia",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:HusseinJordanien.jpg",
+        "aciklama": "King Hussein I , of the Hashemite Kingdom of Jordan, meets with Secretary of Defense William S. Cohen in the Pentagon on April 2, 1997. Helene C. Stikkel.",
+        "konu": "Hüseyin (Ürdün)"
+      }
     },
     {
       "id": "1996-sosyalist-afganistan-demokratik-cumhuriyetinin-son-devlet-baskani",
@@ -168,7 +349,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kabul%2C_Afghanistan_view.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kabul%2C_Afghanistan_view.jpg",
+        "genislik": 959,
+        "yukseklik": 640,
+        "yazar": "Weaveravel",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kabul,_Afghanistan_view.jpg",
+        "aciklama": "Kabul, Afghanistan view",
+        "konu": "Kabil"
+      }
     },
     {
       "id": "1998-google-web-sitesi-acildi",
@@ -180,7 +373,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "2000-irlandali-yazar-james-joyceun-romani-ulyssesten-uyarlanan",
@@ -193,7 +387,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Revolutionary_Joyce_Better_Contrast.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Revolutionary_Joyce_Better_Contrast.jpg",
+        "genislik": 570,
+        "yukseklik": 764,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Revolutionary_Joyce_Better_Contrast.jpg",
+        "aciklama": null,
+        "konu": "James Joyce"
+      }
     },
     {
       "id": "2019-dunya-capinda-2-400-noktada-iklim-degisikligini",
@@ -203,7 +409,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "2020-daglik-karabag-catismalari-basladi",
@@ -215,7 +422,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2020_Nagorno-Karabakh_war_Turkish.png/960px-2020_Nagorno-Karabakh_war_Turkish.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2020_Nagorno-Karabakh_war_Turkish.png/500px-2020_Nagorno-Karabakh_war_Turkish.png",
+        "genislik": 960,
+        "yukseklik": 759,
+        "yazar": "Modern primat, Kalj, based of File:2020 Nagorno-Karabakh war map.png by User:CuriousGolden",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:2020_Nagorno-Karabakh_war_Turkish.png",
+        "aciklama": "Bu harita belirtilmiş haritanın Türkiye Türkçesine uygun hâlidir. Yer isimlerini arama motorlarında çıkan sonuçlara, Vikipedideki hâllerine uygun olarak ve Türkiye Türkçesine yakın olmaya göre koydum.",
+        "konu": "2020 Dağlık Karabağ çatışmaları"
+      }
     }
   ],
   "dogumlar": [
@@ -696,5 +915,5 @@
     "url": "https://tr.wikipedia.org/wiki/27_Eyl%C3%BCl",
     "revid": 38073398
   },
-  "guncelleme": "2026-09-27T09:06:33.804Z"
+  "guncelleme": "2026-09-27T09:16:50.637Z"
 }

@@ -29,6 +29,7 @@ const jsonld = [
     author: { '@type': 'Organization', name: `${SITE.ad} Editörlüğü`, url: `${SITE.url}/hakkimizda/` },
     publisher: { '@type': 'Organization', name: SITE.ad, url: SITE.url },
     about: { '@type': 'Event', name: o.baslik, description: o.metin },
+    ...(o.gorsel ? { image: o.gorsel.url } : {}),
   },
   {
     '@context': 'https://schema.org',
@@ -40,7 +41,7 @@ const jsonld = [
   },
 ];
 ---
-<Base baslik={`${o.baslik} (${yilYaz(o.yil)})`} aciklama={aciklama} tur="article" jsonld={jsonld}>
+<Base baslik={`${o.baslik} (${yilYaz(o.yil)})`} aciklama={aciklama} tur="article" jsonld={jsonld} gorsel={o.gorsel?.url}>
   <nav class="yol" aria-label="Konum"><a href="/">Anasayfa</a> / <a href={`/${g.slug}/`}>{gunAdi(g.ay, g.gun)}</a></nav>
   <article>
     <header class="makale-ust">
@@ -48,6 +49,15 @@ const jsonld = [
       <h1>{o.baslik}</h1>
       {o.yil > 0 && <p style="color:var(--soluk);margin:0">Bu olayın üzerinden {buYil - o.yil} yıl geçti.</p>}
     </header>
+    {o.gorsel && (
+      <figure class="makale-gorsel">
+        <img src={o.gorsel.url} alt={o.gorsel.aciklama ?? o.gorsel.konu ?? o.baslik} width={o.gorsel.genislik} height={o.gorsel.yukseklik} fetchpriority="high" decoding="async" />
+        <figcaption>
+          {o.gorsel.konu && <>{o.gorsel.konu}. </>}Görsel: <a href={o.gorsel.kaynak} rel="noopener">{o.gorsel.yazar}</a>,
+          {o.gorsel.lisansUrl ? <a href={o.gorsel.lisansUrl} rel="license noopener">{o.gorsel.lisans}</a> : o.gorsel.lisans}, Wikimedia Commons
+        </figcaption>
+      </figure>
+    )}
     <div class="makale-govde">
       {paragraflar.map((p) => <p>{p}</p>)}
     </div>

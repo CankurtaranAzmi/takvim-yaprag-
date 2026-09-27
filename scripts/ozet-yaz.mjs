@@ -26,6 +26,7 @@ const Cikti = z.object({
   ozet: z.string().describe('150-250 kelimelik, 2-3 paragraflık özgün özet. Paragraflar arasında boş satır.'),
   kategori: z.enum(KATEGORILER),
   guven: z.enum(['yuksek', 'dusuk']).describe('Olayın tarihi ve içeriğinden emin değilsen "dusuk".'),
+  gorsel: z.number().int().describe('Aday görsellerden olayı en iyi anlatanın numarası; hiçbiri uygun değilse 0.'),
 });
 
 const SISTEM = `Sen "Takvim Yaprağı" adlı Türkçe "tarihte bugün" sitesinin editörüsün.
@@ -38,7 +39,10 @@ Görevin, okuyucunun "bu gün ne oldu, neden önemli?" sorusunu yanıtlayan özg
 - Bağlam metni olayla ilgisizse (ör. olay bir partinin kuruluşu, bağlam şehir tanıtımı) onu kullanma.
 - Emin olmadığın tarih, sayı veya isim uydurma. Bilgi yetersizse daha kısa yaz ve guven alanını "dusuk" yap.
 - Tarafsız, ansiklopedik ama akıcı bir dil kullan. Siyasi ve dini konularda yorum katma.
-- Markdown başlık, madde işareti veya emoji kullanma.`;
+- Markdown başlık, madde işareti veya emoji kullanma.
+
+Görsel seçimi: Aday görseller numaralı verilir. Olayın kendisini, baş aktörünü ya da doğrudan ilgili bir nesneyi/yeri gösteren görseli seç.
+Şunları seçme (0 ver): saldırı, katliam, afet ve ölüm olaylarında turistik şehir manzaraları; olayla ilgisi zayıf genel şehir veya bina fotoğrafları.`;
 
 async function vikiGirisleri(basliklar) {
   if (!basliklar?.length) return [];
@@ -56,9 +60,14 @@ async function vikiGirisleri(basliklar) {
 
 async function olayYaz(ay, gun, olay) {
   const baglam = await vikiGirisleri(olay.konular);
+  const adaylar = olay.gorselAdaylari ?? (olay.gorsel ? [olay.gorsel] : []);
   const istek = [
     `Tarih: ${gunAdi(ay, gun)} ${yilYaz(olay.yil)}`,
     `Kayıt: ${olay.metin}`,
+    '',
+    adaylar.length
+      ? 'Aday görseller:\n' + adaylar.map((g, i) => `${i + 1}. "${g.konu}" maddesinin görseli: ${g.aciklama ?? decodeURIComponent(g.kaynak.split('File:')[1])}`).join('\n')
+      : 'Aday görsel yok (gorsel alanına 0 ver).',
     '',
     baglam.length
       ? baglam.map((b) => `<baglam baslik="${b.baslik}">\n${b.metin}\n</baglam>`).join('\n\n')
@@ -75,7 +84,8 @@ async function olayYaz(ay, gun, olay) {
 
   if (yanit.stop_reason === 'refusal') throw new Error('model reddetti');
   if (!yanit.parsed_output) throw new Error(`çıktı ayrıştırılamadı (${yanit.stop_reason})`);
-  return yanit.parsed_output;
+  const c = yanit.parsed_output;
+  return { ...c, secilenGorsel: adaylar[c.gorsel - 1] ?? null };
 }
 
 function hedefGunler(args) {
@@ -111,6 +121,8 @@ for (const { ay, gun } of hedefGunler(args)) {
       olay.baslik = c.baslik;
       olay.ozet = c.ozet;
       olay.kategori = c.kategori;
+      olay.gorsel = c.secilenGorsel;
+      delete olay.gorselAdaylari;
       // Düşük güvenli yazılar yayınlanmaz, elle incelenir
       olay.durum = c.guven === 'yuksek' ? 'yayinda' : 'incele';
       degisti = true;

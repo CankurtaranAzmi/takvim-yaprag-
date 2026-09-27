@@ -15,7 +15,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bust_of_Gaius_Iulius_Caesar_in_Naples.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bust_of_Gaius_Iulius_Caesar_in_Naples.jpg",
+        "genislik": 800,
+        "yukseklik": 1450,
+        "yazar": "Andreas Wahra",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bust_of_Gaius_Iulius_Caesar_in_Naples.jpg",
+        "aciklama": "Bust of Gaius Julius Caesar in the National Archaeological Museum of Naples. Taken by Andreas Wahra in March 1997.",
+        "konu": "Jül Sezar"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bust_of_Gaius_Iulius_Caesar_in_Naples.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bust_of_Gaius_Iulius_Caesar_in_Naples.jpg",
+          "genislik": 800,
+          "yukseklik": 1450,
+          "yazar": "Andreas Wahra",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Bust_of_Gaius_Iulius_Caesar_in_Naples.jpg",
+          "aciklama": "Bust of Gaius Julius Caesar in the National Archaeological Museum of Naples. Taken by Andreas Wahra in March 1997.",
+          "konu": "Jül Sezar"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Gaul%2C_1st_century_BC.gif",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Gaul%2C_1st_century_BC.gif",
+          "genislik": 825,
+          "yukseklik": 769,
+          "yazar": "The Department of History, United States Military Academy",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Gaul,_1st_century_BC.gif",
+          "aciklama": "Gaul, 1st century BC",
+          "konu": "Galya"
+        }
+      ]
     },
     {
       "id": "1605-sadrazam-sokolluzade-lala-mehmed-pasa-komutasindaki-osmanli",
@@ -29,7 +67,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Esztergom.v%C3%A1ra.JPG/960px-Esztergom.v%C3%A1ra.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Esztergom.v%C3%A1ra.JPG/500px-Esztergom.v%C3%A1ra.JPG",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "yazar": "No machine-readable author provided. Villy assumed (based on copyright claims).",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Esztergom.v%C3%A1ra.JPG",
+        "aciklama": "Castle of Esztergom, Hungary",
+        "konu": "Estergon Kalesi"
+      }
     },
     {
       "id": "1716-nevsehirli-damat-ibrahim-pasa-sadaret-kaymakamligina-getirildi",
@@ -42,7 +92,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Nevsehirpanorama.jpg/960px-Nevsehirpanorama.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Nevsehirpanorama.jpg/500px-Nevsehirpanorama.jpg",
+        "genislik": 960,
+        "yukseklik": 411,
+        "yazar": "NuriCanY",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Nevsehirpanorama.jpg",
+        "aciklama": "Panoramic view of Nevşehir from Nevşehir Castle",
+        "konu": "Nevşehir"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Nevsehirpanorama.jpg/960px-Nevsehirpanorama.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Nevsehirpanorama.jpg/500px-Nevsehirpanorama.jpg",
+          "genislik": 960,
+          "yukseklik": 411,
+          "yazar": "NuriCanY",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Nevsehirpanorama.jpg",
+          "aciklama": "Panoramic view of Nevşehir from Nevşehir Castle",
+          "konu": "Nevşehir"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Giving_hilat_to_%C4%B0brahim_Pasha_%2895b%29._%C4%B0brahim_Pasha_detail._TSKM_B.200-89a_%281582%E2%80%931588%29.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Giving_hilat_to_%C4%B0brahim_Pasha_%2895b%29._%C4%B0brahim_Pasha_detail._TSKM_B.200-89a_%281582%E2%80%931588%29.jpg",
+          "genislik": 421,
+          "yukseklik": 678,
+          "yazar": "1581-1588 artist",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Giving_hilat_to_%C4%B0brahim_Pasha_(95b)._%C4%B0brahim_Pasha_detail._TSKM_B.200-89a_(1582%E2%80%931588).jpg",
+          "aciklama": "Giving hilat to İbrahim Pasha (95b). İbrahim Pasha detail. TSKM B.200-89a (1582–1588)",
+          "konu": "Damat İbrahim Paşa"
+        }
+      ]
     },
     {
       "id": "1739-osmanli-rus-avusturya-savasini-sona-erdiren-ve-osmanlinin-karli",
@@ -56,7 +144,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Siege_of_Ochakov_%281737%29.jpg/960px-Siege_of_Ochakov_%281737%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Siege_of_Ochakov_%281737%29.jpg/500px-Siege_of_Ochakov_%281737%29.jpg",
+        "genislik": 960,
+        "yukseklik": 496,
+        "yazar": "Anik Benoit",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Siege_of_Ochakov_(1737).jpg",
+        "aciklama": "The Taking of Ochakov on 13 July 1737 by the Russian Army",
+        "konu": "1735-1739 Osmanlı-Rus-Avusturya Savaşı"
+      }
     },
     {
       "id": "1849-amerikali-yazar-edgar-allan-poe-baltimore-sokaklarinda",
@@ -70,7 +170,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/960px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/500px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg",
+        "genislik": 960,
+        "yukseklik": 1350,
+        "yazar": "Unknown author; Restored by Yann Forget and Adam Cuerden",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Edgar_Allan_Poe,_circa_1849,_restored,_squared_off.jpg",
+        "aciklama": "Edgar Allan Poe, June 1849. Daguerreotype \"Annie\", given to Poe's friend Mrs. Annie L. Richmond; probably taken in June 1849 in Lowell, Massachusetts, photographer unknown.",
+        "konu": "Edgar Allan Poe"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/960px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/500px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg",
+          "genislik": 960,
+          "yukseklik": 1350,
+          "yazar": "Unknown author; Restored by Yann Forget and Adam Cuerden",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Edgar_Allan_Poe,_circa_1849,_restored,_squared_off.jpg",
+          "aciklama": "Edgar Allan Poe, June 1849. Daguerreotype \"Annie\", given to Poe's friend Mrs. Annie L. Richmond; probably taken in June 1849 in Lowell, Massachusetts, photographer unknown.",
+          "konu": "Edgar Allan Poe"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Fell%27s_Point_Aerial_2022.jpg/960px-Fell%27s_Point_Aerial_2022.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Fell%27s_Point_Aerial_2022.jpg/500px-Fell%27s_Point_Aerial_2022.jpg",
+          "genislik": 960,
+          "yukseklik": 639,
+          "yazar": "Matthew Binebrink",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Fell%27s_Point_Aerial_2022.jpg",
+          "aciklama": "An aerial photograph of the Fell's Point waterfront in Baltimore, in June 2022 at sunset.",
+          "konu": "Baltimore"
+        }
+      ]
     },
     {
       "id": "1852-damad-mehmed-ali-pasa-osmanli-sadrazami-oldu",
@@ -84,7 +222,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Damat_mehmed_ali_pasa.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Damat_mehmed_ali_pasa.jpg",
+        "genislik": 439,
+        "yukseklik": 537,
+        "yazar": "S.Seberger",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Damat_mehmed_ali_pasa.jpg",
+        "aciklama": "Portrait of Damat Mehmed Ali Pasha (1813–1868)",
+        "konu": "Damad Mehmed Ali Paşa"
+      }
     },
     {
       "id": "1912-sirbistan-karadag-yunanistan-ve-bulgaristan-osmanli-devletinden",
@@ -100,7 +250,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1922-mudanya-mutarekesinin-imzalanmasiyla-sonuclanan-mudanya-konferansi-basladi",
@@ -112,7 +263,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Mudanya_02.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Mudanya_02.jpg",
+        "genislik": 957,
+        "yukseklik": 751,
+        "yazar": "Chapultepec",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mudanya_02.jpg",
+        "aciklama": "Building where the Armistice of Mudanya was signed, Mudanya, Bursa, Turkey",
+        "konu": "Mudanya Mütarekesi"
+      }
     },
     {
       "id": "1926-ataturkun-ilk-heykeli-istanbul-sarayburnuna-dikildi",
@@ -126,7 +289,57 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
+        "genislik": 732,
+        "yukseklik": 987,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
+        "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
+        "konu": "Mustafa Kemal Atatürk"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
+          "genislik": 732,
+          "yukseklik": 987,
+          "yazar": "Bilinmeyen yazar",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
+          "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
+          "konu": "Mustafa Kemal Atatürk"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Sarayburnu_Atat%C3%BCrk.jpg/960px-Sarayburnu_Atat%C3%BCrk.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Sarayburnu_Atat%C3%BCrk.jpg/500px-Sarayburnu_Atat%C3%BCrk.jpg",
+          "genislik": 960,
+          "yukseklik": 1600,
+          "yazar": "Ail Subway",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Sarayburnu_Atat%C3%BCrk.jpg",
+          "aciklama": "Sarayburnu Atatürk Statue",
+          "konu": "Sarayburnu Atatürk Anıtı"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Topkapi_Palace_Bosphorus_002.JPG/960px-Topkapi_Palace_Bosphorus_002.JPG",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Topkapi_Palace_Bosphorus_002.JPG/500px-Topkapi_Palace_Bosphorus_002.JPG",
+          "genislik": 960,
+          "yukseklik": 720,
+          "yazar": "User:Talmoryair",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Topkapi_Palace_Bosphorus_002.JPG",
+          "aciklama": "View of Topkapı Palace from the Bosphorus.",
+          "konu": "Sarayburnu"
+        }
+      ]
     },
     {
       "id": "1929-sirp-hirvat-ve-sloven-kralligi-ismini-yugoslavya",
@@ -139,7 +352,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1931-turkiye-cumhuriyet-merkez-bankasi-faaliyete-gecti",
@@ -151,7 +365,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Finans_Merkezi.jpg/960px-Finans_Merkezi.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Finans_Merkezi.jpg/500px-Finans_Merkezi.jpg",
+        "genislik": 960,
+        "yukseklik": 960,
+        "yazar": "Ail Subway",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Finans_Merkezi.jpg",
+        "aciklama": "İstanbul Financial Centre",
+        "konu": "Türkiye Cumhuriyet Merkez Bankası"
+      }
     },
     {
       "id": "1932-birlesik-krallik-mandasi-irak-bagimsizligini-ilan-etti",
@@ -164,7 +390,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1935-italya-kralligi-etiyopyayi-isgal-harekatina-basladi",
@@ -177,7 +404,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1952-birlesik-krallik-ilk-atom-bombasi-denemesini-monte",
@@ -191,7 +419,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Little_Boy_bomb.jpg/960px-Little_Boy_bomb.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Little_Boy_bomb.jpg/500px-Little_Boy_bomb.jpg",
+        "genislik": 960,
+        "yukseklik": 635,
+        "yazar": "US Atomic Energy Commission (now US Department of Energy)",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Little_Boy_bomb.jpg",
+        "aciklama": "Photograph of a Little Boy nuclear bomb, the same type of weapon dropped on Hiroshima, Japan, in August 1945. This was the first photograph of a Little Boy bomb casing to ever be released by the U.S. ",
+        "konu": "atom bombası"
+      }
     },
     {
       "id": "1953-canakkale-aciklarinda-isvec-bandirali-naboland-gemisiyle-carpisarak",
@@ -206,7 +446,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Havadan_cnk.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Havadan_cnk.jpg",
+        "genislik": 900,
+        "yukseklik": 602,
+        "yazar": "Myamya",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Havadan_cnk.jpg",
+        "aciklama": "Canakkale from the Air - Murat",
+        "konu": "Çanakkale"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Havadan_cnk.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Havadan_cnk.jpg",
+          "genislik": 900,
+          "yukseklik": 602,
+          "yazar": "Myamya",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Havadan_cnk.jpg",
+          "aciklama": "Canakkale from the Air - Murat",
+          "konu": "Çanakkale"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/USS_Blower%3B0832501.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/USS_Blower%3B0832501.jpg",
+          "genislik": 655,
+          "yukseklik": 526,
+          "yazar": "Bilinmeyen yazar",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:USS_Blower;0832501.jpg",
+          "aciklama": "USS_Blower; https://www.navsource.net/archives/08/08325.htm Blower (SS-325), portside view underway, circa 1944-50, place unknown. US Navy photo.",
+          "konu": "TCG Dumlupınar (D-6)"
+        }
+      ]
     },
     {
       "id": "1965-kuba-lideri-fidel-castro-che-guevaranin-emperyalizme",
@@ -220,7 +498,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Fidel_Castro_in_Washington.jpg/960px-Fidel_Castro_in_Washington.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Fidel_Castro_in_Washington.jpg/500px-Fidel_Castro_in_Washington.jpg",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "yazar": "Fidel_Castro_-_MATS_Terminal_Washington_1959.png: Warren K. Leffler derivative work: Damiens.rf",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Fidel_Castro_in_Washington.jpg",
+        "aciklama": "Fidel Castro arrives MATS Terminal, Washington, D.C.",
+        "konu": "Fidel Castro"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Fidel_Castro_in_Washington.jpg/960px-Fidel_Castro_in_Washington.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Fidel_Castro_in_Washington.jpg/500px-Fidel_Castro_in_Washington.jpg",
+          "genislik": 960,
+          "yukseklik": 1280,
+          "yazar": "Fidel_Castro_-_MATS_Terminal_Washington_1959.png: Warren K. Leffler derivative work: Damiens.rf",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Fidel_Castro_in_Washington.jpg",
+          "aciklama": "Fidel Castro arrives MATS Terminal, Washington, D.C.",
+          "konu": "Fidel Castro"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg/960px-Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg/500px-Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg",
+          "genislik": 960,
+          "yukseklik": 1112,
+          "yazar": "Alberto Korda, restored by Adam Cuerden",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg",
+          "aciklama": "Popularized cropped version of Guerrillero Heroico - Che Guevara at the funeral for the victims of the La Coubre explosion. Gelatin silver print from 1985, 23.9 x 17 cm (image 19.4 x 17 cm)",
+          "konu": "Ernesto Che Guevara"
+        }
+      ]
     },
     {
       "id": "1966-istanbulun-anadolu-yakasindaki-son-tramvay-hatti-da",
@@ -233,7 +549,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
+        "genislik": 960,
+        "yukseklik": 494,
+        "yazar": "Alexxx Malev",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
+        "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
+        "konu": "İstanbul"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
+          "genislik": 960,
+          "yukseklik": 494,
+          "yazar": "Alexxx Malev",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
+          "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
+          "konu": "İstanbul"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Istanbul_Istiklal_cad._tram_-_Galatasaray_Lisesi.JPG/960px-Istanbul_Istiklal_cad._tram_-_Galatasaray_Lisesi.JPG",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Istanbul_Istiklal_cad._tram_-_Galatasaray_Lisesi.JPG/500px-Istanbul_Istiklal_cad._tram_-_Galatasaray_Lisesi.JPG",
+          "genislik": 960,
+          "yukseklik": 814,
+          "yazar": "Ex13",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Istanbul_Istiklal_cad._tram_-_Galatasaray_Lisesi.JPG",
+          "aciklama": "Istanbul Istiklal cad. trams near Galatasaray Lisesi",
+          "konu": "tramvay"
+        }
+      ]
     },
     {
       "id": "1967-kuzey-vietnam-amerika-birlesik-devletlerinin-baris-gorusmeleri",
@@ -246,7 +600,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1970-iskenderun-demir-ve-celik-a-s-kuruldu",
@@ -258,7 +613,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Y%C3%BCk_liman%C4%B1ndan_%C4%B0sdemir%27in_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC.png/960px-Y%C3%BCk_liman%C4%B1ndan_%C4%B0sdemir%27in_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Y%C3%BCk_liman%C4%B1ndan_%C4%B0sdemir%27in_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC.png/500px-Y%C3%BCk_liman%C4%B1ndan_%C4%B0sdemir%27in_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC.png",
+        "genislik": 960,
+        "yukseklik": 534,
+        "yazar": "Huunta",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Y%C3%BCk_liman%C4%B1ndan_%C4%B0sdemir%27in_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC.png",
+        "aciklama": "view of the port of loading İsdemir",
+        "konu": "İskenderun Demir ve Çelik A.Ş."
+      }
     },
     {
       "id": "1971-sscb-ile-abd-arasinda-kisa-adi-salt",
@@ -271,7 +638,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1973-75-yildan-beri-petrol-aranan-trakya-bolgesinde",
@@ -285,7 +653,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Petroleum_sample.jpg/960px-Petroleum_sample.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Petroleum_sample.jpg/500px-Petroleum_sample.jpg",
+        "genislik": 960,
+        "yukseklik": 960,
+        "yazar": "Nefronus",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Petroleum_sample.jpg",
+        "aciklama": "Crude oil = petroleum in a flask and a small beaker.",
+        "konu": "petrol"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Petroleum_sample.jpg/960px-Petroleum_sample.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Petroleum_sample.jpg/500px-Petroleum_sample.jpg",
+          "genislik": 960,
+          "yukseklik": 960,
+          "yazar": "Nefronus",
+          "lisans": "CC0",
+          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Petroleum_sample.jpg",
+          "aciklama": "Crude oil = petroleum in a flask and a small beaker.",
+          "konu": "petrol"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/L%C3%BCleburgazTrainStation_%287%29.jpg/960px-L%C3%BCleburgazTrainStation_%287%29.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/L%C3%BCleburgazTrainStation_%287%29.jpg/500px-L%C3%BCleburgazTrainStation_%287%29.jpg",
+          "genislik": 960,
+          "yukseklik": 636,
+          "yazar": "CeeGee",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:L%C3%BCleburgazTrainStation_(7).jpg",
+          "aciklama": "Lüleburgaz train station in Kırklareli Province, Turkey.",
+          "konu": "Lüleburgaz"
+        }
+      ]
     },
     {
       "id": "1981-belfastta-irlanda-cumhuriyet-ordusu-ira-tutuklularinin-yaptigi",
@@ -300,7 +706,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/StormontGeneral.jpg/960px-StormontGeneral.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/StormontGeneral.jpg/500px-StormontGeneral.jpg",
+        "genislik": 960,
+        "yukseklik": 720,
+        "yazar": "https://www.flickr.com/photos/robertpaulyoung/",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:StormontGeneral.jpg",
+        "aciklama": "General view of Parliament Buildings",
+        "konu": "Belfast"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/StormontGeneral.jpg/960px-StormontGeneral.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/StormontGeneral.jpg/500px-StormontGeneral.jpg",
+          "genislik": 960,
+          "yukseklik": 720,
+          "yazar": "https://www.flickr.com/photos/robertpaulyoung/",
+          "lisans": "CC BY 2.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:StormontGeneral.jpg",
+          "aciklama": "General view of Parliament Buildings",
+          "konu": "Belfast"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bundesarchiv_Bild_183-1990-0408-009%2C_Erfurt%2C_nach_Hungerstreik_in_der_MfS-Zentrale.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bundesarchiv_Bild_183-1990-0408-009%2C_Erfurt%2C_nach_Hungerstreik_in_der_MfS-Zentrale.jpg",
+          "genislik": 800,
+          "yukseklik": 573,
+          "yazar": "Jürgen Ludwig",
+          "lisans": "CC BY-SA 3.0 de",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1990-0408-009,_Erfurt,_nach_Hungerstreik_in_der_MfS-Zentrale.jpg",
+          "aciklama": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. ADN- Ludwig 8.4.90-Erfurt: Die Hungerst",
+          "konu": "açlık grevi#İrlandalı Cumhuriyetçiler"
+        }
+      ]
     },
     {
       "id": "1984-devrimci-yol-davasi-sonucu-idam-cezasina-carptirilan",
@@ -316,7 +760,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1990-dogu-ve-bati-almanya-birlesti",
@@ -330,7 +775,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1993-haydar-aliyev-azerbaycan-devlet-baskani-secildi",
@@ -343,7 +789,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Heydar_Aliyev_%28crop%29.jpg/960px-Heydar_Aliyev_%28crop%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Heydar_Aliyev_%28crop%29.jpg/500px-Heydar_Aliyev_%28crop%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1162,
+        "yazar": "Press Service of the President of the Republic of Azerbaijan",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Heydar_Aliyev_(crop).jpg",
+        "aciklama": "Heydar Aliyev, president of Azerbaijan (1993-2003)",
+        "konu": "Haydar Aliyev"
+      }
     },
     {
       "id": "1994-ii-nukleer-karsiti-kongre-istanbulda-toplandi",
@@ -355,7 +813,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "2005-avrupa-birligi-ile-turkiye-arasinda-uyelik-muzakereleri",
@@ -368,7 +827,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "2006-thynin-tiran-istanbul-seferini-yapan-boeing",
@@ -384,7 +844,57 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/TurkishAirlinesHQIstanbul.jpg/960px-TurkishAirlinesHQIstanbul.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/TurkishAirlinesHQIstanbul.jpg/500px-TurkishAirlinesHQIstanbul.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "yazar": "Judith (Sympatexter)",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:TurkishAirlinesHQIstanbul.jpg",
+        "aciklama": "Turkish Airlines General Management Building - Turkish Airlines head office - Yeşilköy, Istanbul",
+        "konu": "Türk Hava Yolları"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/TurkishAirlinesHQIstanbul.jpg/960px-TurkishAirlinesHQIstanbul.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/TurkishAirlinesHQIstanbul.jpg/500px-TurkishAirlinesHQIstanbul.jpg",
+          "genislik": 960,
+          "yukseklik": 640,
+          "yazar": "Judith (Sympatexter)",
+          "lisans": "CC BY-SA 2.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:TurkishAirlinesHQIstanbul.jpg",
+          "aciklama": "Turkish Airlines General Management Building - Turkish Airlines head office - Yeşilköy, Istanbul",
+          "konu": "Türk Hava Yolları"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Skanderbeg_square_tirana_2016.jpg/960px-Skanderbeg_square_tirana_2016.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Skanderbeg_square_tirana_2016.jpg/500px-Skanderbeg_square_tirana_2016.jpg",
+          "genislik": 960,
+          "yukseklik": 481,
+          "yazar": "Photo: Chris Walts",
+          "lisans": "CC BY-SA 2.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Skanderbeg_square_tirana_2016.jpg",
+          "aciklama": "Tirana Skanderbeg Square",
+          "konu": "Tiran, Arnavutluk"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Boeing_737-38J%2C_Tarom_-_Romanian_Air_Transport_JP7036950.jpg/960px-Boeing_737-38J%2C_Tarom_-_Romanian_Air_Transport_JP7036950.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Boeing_737-38J%2C_Tarom_-_Romanian_Air_Transport_JP7036950.jpg/500px-Boeing_737-38J%2C_Tarom_-_Romanian_Air_Transport_JP7036950.jpg",
+          "genislik": 960,
+          "yukseklik": 648,
+          "yazar": "Aldo Bidini",
+          "lisans": "GFDL 1.2",
+          "lisansUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Boeing_737-38J,_Tarom_-_Romanian_Air_Transport_JP7036950.jpg",
+          "aciklama": null,
+          "konu": "Boeing 737-400"
+        }
+      ]
     },
     {
       "id": "2008-pkk-militanlari-hakkarinin-semdinli-ilcesinde-aktutun-karakoluna",
@@ -399,7 +909,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%87em%C3%AA_Z%C3%AA.jpg/960px-%C3%87em%C3%AA_Z%C3%AA.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%87em%C3%AA_Z%C3%AA.jpg/500px-%C3%87em%C3%AA_Z%C3%AA.jpg",
+        "genislik": 960,
+        "yukseklik": 633,
+        "yazar": "Dûrzan Cîrano",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87em%C3%AA_Z%C3%AA.jpg",
+        "aciklama": "Çemê Zapê",
+        "konu": "Hakkâri (il)"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%87em%C3%AA_Z%C3%AA.jpg/960px-%C3%87em%C3%AA_Z%C3%AA.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%87em%C3%AA_Z%C3%AA.jpg/500px-%C3%87em%C3%AA_Z%C3%AA.jpg",
+          "genislik": 960,
+          "yukseklik": 633,
+          "yazar": "Dûrzan Cîrano",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87em%C3%AA_Z%C3%AA.jpg",
+          "aciklama": "Çemê Zapê",
+          "konu": "Hakkâri (il)"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/%C5%9Eemzina.jpg/960px-%C5%9Eemzina.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/%C5%9Eemzina.jpg/500px-%C5%9Eemzina.jpg",
+          "genislik": 960,
+          "yukseklik": 640,
+          "yazar": "Mavlutt",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9Eemzina.jpg",
+          "aciklama": "Şemdinli'den genel bir görünüm",
+          "konu": "Şemdinli"
+        }
+      ]
     },
     {
       "id": "2009-azerbaycan-kazakistan-kirgizistan-ve-turkiye-devlet-baskanlarinin",
@@ -415,7 +963,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "2010-almanya-versay-baris-antlasmasinda-kabul-ettigi-i",
@@ -429,7 +978,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Treaty_of_Versailles%2C_English_version.jpg/960px-Treaty_of_Versailles%2C_English_version.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Treaty_of_Versailles%2C_English_version.jpg/500px-Treaty_of_Versailles%2C_English_version.jpg",
+        "genislik": 960,
+        "yukseklik": 1461,
+        "yazar": "David Lloyd George, Woodrow Wilson and Georges Clemenceau",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Treaty_of_Versailles,_English_version.jpg",
+        "aciklama": "The cover of a publication of the Treaty of Versailles in EnglishThe text reads THETREATY OF PEACEBETWEENTHE ALLIED AND ASSOCIATED POWERSANDGERMANY,The protocol annexed thereto, the Agreement respecti",
+        "konu": "Versay Barış Antlaşması"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Treaty_of_Versailles%2C_English_version.jpg/960px-Treaty_of_Versailles%2C_English_version.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Treaty_of_Versailles%2C_English_version.jpg/500px-Treaty_of_Versailles%2C_English_version.jpg",
+          "genislik": 960,
+          "yukseklik": 1461,
+          "yazar": "David Lloyd George, Woodrow Wilson and Georges Clemenceau",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Treaty_of_Versailles,_English_version.jpg",
+          "aciklama": "The cover of a publication of the Treaty of Versailles in EnglishThe text reads THETREATY OF PEACEBETWEENTHE ALLIED AND ASSOCIATED POWERSANDGERMANY,The protocol annexed thereto, the Agreement respecti",
+          "konu": "Versay Barış Antlaşması"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
+          "genislik": 960,
+          "yukseklik": 974,
+          "yazar": "User:Hohum",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:WWImontage.jpg",
+          "aciklama": "Montage for WWI article. Top: Trenches - Image:The_badly_shelled_main_road_to_Bapaume.jpg (Trenches on the Western Front) Left Upper: Image:AlbatDIII.jpg (German Albatros D.III biplane fighters of Jas",
+          "konu": "I. Dünya Savaşı"
+        }
+      ]
     },
     {
       "id": "2012-suriyeden-gelen-top-mermileri-sonucu-sanliurfanin-akcakale",
@@ -444,7 +1031,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Balikli_G%C3%B6l_03.jpg/960px-Balikli_G%C3%B6l_03.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Balikli_G%C3%B6l_03.jpg/500px-Balikli_G%C3%B6l_03.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "yazar": "Bernard Gagnon",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Balikli_G%C3%B6l_03.jpg",
+        "aciklama": "Balikli Göl, Şanlıurfa, Turkey",
+        "konu": "Şanlıurfa"
+      }
     },
     {
       "id": "2013-gambiya-ingiliz-milletler-toplulugundan-ayrildigini-acikladi",
@@ -457,7 +1056,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     }
   ],
   "dogumlar": [
@@ -977,5 +1577,5 @@
     "url": "https://tr.wikipedia.org/wiki/3_Ekim",
     "revid": 37818751
   },
-  "guncelleme": "2026-09-27T09:06:37.959Z"
+  "guncelleme": "2026-09-27T09:17:01.567Z"
 }

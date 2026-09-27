@@ -20,3 +20,13 @@ export function yayindakiOlaylar(g) {
 export const TUM_YAYINDAKI_OLAYLAR = GUNLER.flatMap((g) =>
   yayindakiOlaylar(g).map((o) => ({ ...o, gunVeri: g })),
 );
+
+/** Günün görselli öne çıkan olayı: önce onaylı olanlar, sonra Türkiye ile ilgili olanlar */
+export function oneCikan(g) {
+  const gorselli = g.olaylar.filter((o) => o.gorsel);
+  if (!gorselli.length) return null;
+  const puan = (o) =>
+    (o.durum === 'yayinda' && o.ozet ? 2 : 0) +
+    (/Türk|Osmanlı|Atatürk|Ankara|İstanbul|TBMM|Cumhuriyet/.test(o.metin) ? 1 : 0);
+  return [...gorselli].sort((a, b) => puan(b) - puan(a) || b.yil - a.yil)[0];
+}

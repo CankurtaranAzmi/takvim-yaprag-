@@ -3,7 +3,7 @@
 import Base from '../layouts/Base.astro';
 import GunIcerik from '../components/GunIcerik.astro';
 import { istanbulBugun, gunAdi } from '../lib/tarih.mjs';
-import { gunBul, GUNLER } from '../lib/veri.mjs';
+import { gunBul, GUNLER, oneCikan } from '../lib/veri.mjs';
 import { SITE } from '../site.config.mjs';
 
 const b = istanbulBugun();
@@ -17,6 +17,6 @@ const jsonld = {
   description: SITE.aciklama,
 };
 ---
-<Base baslik={`Tarihte Bugün: ${gunAdi(g.ay, g.gun)}`} aciklama={`Bugün ${gunAdi(g.ay, g.gun)}: tarihte bugün yaşanan olaylar, doğanlar, ölenler ve özel günler.`} jsonld={jsonld} aktif="bugun">
+<Base gorsel={oneCikan(g)?.gorsel?.url} baslik={`Tarihte Bugün: ${gunAdi(g.ay, g.gun)}`} aciklama={`Bugün ${gunAdi(g.ay, g.gun)}: tarihte bugün yaşanan olaylar, doğanlar, ölenler ve özel günler.`} jsonld={jsonld} aktif="bugun">
   <GunIcerik g={g} bugunMu />
 </Base>

@@ -5,9 +5,11 @@
 //   node scripts/wiki-cek.mjs                 -> bugün + önümüzdeki 7 gün
 //   node scripts/wiki-cek.mjs --gun 09-27     -> tek gün
 //   node scripts/wiki-cek.mjs --hepsi         -> 366 günün tamamı
+//   --gorsel-yenile                           -> daha önce bulunmuş/bulunamamış görselleri yeniden ara
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { gorselleriBul } from './gorsel.mjs';
 import { AYLAR, gunAnahtar, gunAdi, slugla, tumGunler, istanbulBugun, komsuGun } from '../src/lib/tarih.mjs';
 
 const VERI_DIZINI = path.resolve('src/data/gunler');
@@ -95,7 +97,7 @@ async function mevcutOku(dosya) {
   try { return JSON.parse(await fs.readFile(dosya, 'utf8')); } catch { return null; }
 }
 
-async function gunCek(ay, gun) {
+async function gunCek(ay, gun, { gorselYenile = false } = {}) {
   const anahtar = gunAnahtar(ay, gun);
   const sayfa = gunAdi(ay, gun);
   const { metin, revid } = await wikitextGetir(sayfa);
@@ -119,12 +121,15 @@ async function gunCek(ay, gun) {
       baslik: onceki?.baslik ?? null,
       ozet: onceki?.ozet ?? null,
       kategori: onceki?.kategori ?? null,
+      ...(onceki && 'gorsel' in onceki ? { gorsel: onceki.gorsel } : {}),
+      ...(onceki?.gorselAdaylari ? { gorselAdaylari: onceki.gorselAdaylari } : {}),
       durum: onceki?.durum ?? 'bekliyor', // bekliyor | yayinda | incele
     };
   });
   // Vikipedi'den kalkmış ama bizde özeti yazılmış olayları kaybetme
   for (const [id, o] of eskiOlaylar) if (!kullanilan.has(id) && o.ozet) olaylar.push(o);
   olaylar.sort((a, b) => a.yil - b.yil);
+  const gorselSayisi = await gorselleriBul(olaylar, { yenile: gorselYenile });
 
   const veri = {
     ay, gun,
@@ -136,7 +141,7 @@ async function gunCek(ay, gun) {
     guncelleme: new Date().toISOString(),
   };
   await fs.writeFile(dosya, JSON.stringify(veri, null, 2) + '\n');
-  console.log(`✓ ${sayfa}: ${olaylar.length} olay, ${veri.dogumlar.length} doğum, ${veri.olumler.length} ölüm, ${veri.ozelGunler.length} özel gün`);
+  console.log(`✓ ${sayfa}: ${olaylar.length} olay, ${veri.dogumlar.length} doğum, ${veri.olumler.length} ölüm, ${veri.ozelGunler.length} özel gün, ${olaylar.filter((o) => o.gorsel).length} görsel (+${gorselSayisi} yeni)`);
 }
 
 function hedefGunler(args) {
@@ -156,7 +161,7 @@ await fs.mkdir(VERI_DIZINI, { recursive: true });
 let hata = 0;
 for (const { ay, gun } of hedefGunler(process.argv.slice(2))) {
   try {
-    await gunCek(ay, gun);
+    await gunCek(ay, gun, { gorselYenile: process.argv.includes('--gorsel-yenile') });
   } catch (e) {
     hata++;
     console.error(`✗ ${gunAdi(ay, gun)}: ${e.message}`);

@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import GunIcerik from '../components/GunIcerik.astro';
 import { gunAdi, gunAdiDe } from '../lib/tarih.mjs';
-import { GUNLER } from '../lib/veri.mjs';
+import { GUNLER, oneCikan } from '../lib/veri.mjs';
 import { SITE } from '../site.config.mjs';
 
 export function getStaticPaths() {
@@ -22,6 +22,7 @@ const jsonld = {
 };
 ---
 <Base
+  gorsel={oneCikan(g)?.gorsel?.url}
   baslik={`${ad} – Tarihte Bugün`}
   aciklama={`${gunAdiDe(g.ay, g.gun)} tarihte ne oldu? ${g.olaylar.length} önemli olay${ornek ? ` (${ornek}...)` : ''}, bu günde doğanlar ve ölenler.`}
   jsonld={jsonld}

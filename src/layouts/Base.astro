@@ -11,9 +11,10 @@ interface Props {
   tur?: 'website' | 'article';
   jsonld?: object | object[];
   aktif?: 'bugun' | 'takvim' | 'hakkimizda';
+  gorsel?: string;
 }
 
-const { baslik, aciklama = SITE.aciklama, noindex = false, tur = 'website', jsonld, aktif } = Astro.props;
+const { baslik, aciklama = SITE.aciklama, noindex = false, tur = 'website', jsonld, aktif, gorsel } = Astro.props;
 const tamBaslik = baslik ? `${baslik} | ${SITE.ad}` : `${SITE.ad} – ${SITE.slogan}`;
 const kanonik = new URL(Astro.url.pathname, Astro.site).href;
 const yil = new Date().getFullYear();
@@ -38,7 +39,10 @@ const ldListe = jsonld ? (Array.isArray(jsonld) ? jsonld : [jsonld]) : [];
   <meta property="og:title" content={baslik ?? SITE.ad} />
   <meta property="og:description" content={aciklama} />
   <meta property="og:url" content={kanonik} />
-  <meta name="twitter:card" content="summary" />
+  {gorsel && <meta property="og:image" content={gorsel} />}
+  <meta name="twitter:card" content={gorsel ? 'summary_large_image' : 'summary'} />
+  <link rel="preconnect" href="https://upload.wikimedia.org" />
+  <link rel="preconnect" href="https://thumb.wikimedia.org" />
 
 
   {ldListe.map((ld) => <script type="application/ld+json" set:html={JSON.stringify(ld)} />)}

@@ -14,7 +14,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Battle_of_Preveza_%281538%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Battle_of_Preveza_%281538%29.jpg",
+        "genislik": 800,
+        "yukseklik": 499,
+        "yazar": "Osman Nuri Pasha and Hovhannes Umed Behzad (1809–1874)",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Battle_of_Preveza_(1538).jpg",
+        "aciklama": "Barbarossa Hayreddin Pasha defeats the Holy League of Charles V under the command of Andrea Doria at the Battle of Preveza (1538)",
+        "konu": "Kutsal İttifak (1538)"
+      }
     },
     {
       "id": "1730-lale-devrini-sona-erdiren-patrona-halil-isyani",
@@ -27,7 +39,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Surname_174b.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Surname_174b.jpg",
+        "genislik": 459,
+        "yukseklik": 690,
+        "yazar": "Levni",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Surname_174b.jpg",
+        "aciklama": "Sultan Ahmed III scattering golden coins on the terrace of the Fourth Court in the Topkapi Palace. Ottoman miniature painting from the Surname-ı Vehbi (folio 174b), kept at Topkapı Sarayı Müzesi, Ista",
+        "konu": "Lâle Devri"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Surname_174b.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Surname_174b.jpg",
+          "genislik": 459,
+          "yukseklik": 690,
+          "yazar": "Levni",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Surname_174b.jpg",
+          "aciklama": "Sultan Ahmed III scattering golden coins on the terrace of the Fourth Court in the Topkapi Palace. Ottoman miniature painting from the Surname-ı Vehbi (folio 174b), kept at Topkapı Sarayı Müzesi, Ista",
+          "konu": "Lâle Devri"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Jean-Baptiste_van_Mour_003.jpg/960px-Jean-Baptiste_van_Mour_003.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Jean-Baptiste_van_Mour_003.jpg/500px-Jean-Baptiste_van_Mour_003.jpg",
+          "genislik": 960,
+          "yukseklik": 724,
+          "yazar": "Jean Baptiste Vanmour",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste_van_Mour_003.jpg",
+          "aciklama": null,
+          "konu": "Patrona Halil İsyanı"
+        }
+      ]
     },
     {
       "id": "1864-uluslararasi-emekciler-birligi-birinci-enternasyonal-londrada-kuruldu",
@@ -40,7 +90,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/500px-London_Skyline_%28125508655%29.jpeg",
+        "genislik": 960,
+        "yukseklik": 540,
+        "yazar": "Ilya Grigorik",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg",
+        "aciklama": "500px provided description: London Skyline [#sunset ,#architecture ,#cityscape ,#london ,#uk ,#skyline ,#financial district ,#thames ,#london bridge ,#london shard]",
+        "konu": "Londra"
+      }
     },
     {
       "id": "1889-metrik-sistemin-temel-birimleri-olan-kilogram-ve",
@@ -55,7 +117,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/FourMetricInstruments.JPG/960px-FourMetricInstruments.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/FourMetricInstruments.JPG/500px-FourMetricInstruments.JPG",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "yazar": "Martinvl",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:FourMetricInstruments.JPG",
+        "aciklama": "Four metric measuring devices - a tape measure, a thermometer, a one kilogram weight and an electrical multimeter. These instruments were selected to show some of the units of measure that part of the",
+        "konu": "Metrik sistem"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/FourMetricInstruments.JPG/960px-FourMetricInstruments.JPG",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/FourMetricInstruments.JPG/500px-FourMetricInstruments.JPG",
+          "genislik": 960,
+          "yukseklik": 1280,
+          "yazar": "Martinvl",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:FourMetricInstruments.JPG",
+          "aciklama": "Four metric measuring devices - a tape measure, a thermometer, a one kilogram weight and an electrical multimeter. These instruments were selected to show some of the units of measure that part of the",
+          "konu": "Metrik sistem"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Poids_fonte_5_kg_%C3%A0_2_hg_02.jpg/960px-Poids_fonte_5_kg_%C3%A0_2_hg_02.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Poids_fonte_5_kg_%C3%A0_2_hg_02.jpg/500px-Poids_fonte_5_kg_%C3%A0_2_hg_02.jpg",
+          "genislik": 960,
+          "yukseklik": 640,
+          "yazar": "Coyau",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Poids_fonte_5_kg_%C3%A0_2_hg_02.jpg",
+          "aciklama": "Set of cast iron metric weights. Since these weights have moveable handles, they are no longer valid for trade.",
+          "konu": "kilogram"
+        }
+      ]
     },
     {
       "id": "1920-kazim-karabekir-komutasindaki-turk-ordusu-15-kolordu",
@@ -68,7 +168,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Turkish-Armenian_War.png/960px-Turkish-Armenian_War.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Turkish-Armenian_War.png/500px-Turkish-Armenian_War.png",
+        "genislik": 960,
+        "yukseklik": 568,
+        "yazar": "User178198273998166172",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish-Armenian_War.png",
+        "aciklama": "Map of the 1920 Turkish-Armenian War.",
+        "konu": "Türk Kurtuluş Savaşı Doğu Cephesi"
+      }
     },
     {
       "id": "1928-alexander-fleming-penicillium-notatum-isimli-bir-kufun",
@@ -83,7 +195,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/960px-Synthetic_Production_of_Penicillin_TR1468.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/500px-Synthetic_Production_of_Penicillin_TR1468.jpg",
+        "genislik": 960,
+        "yukseklik": 1363,
+        "yazar": "Official photographer",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Synthetic_Production_of_Penicillin_TR1468.jpg",
+        "aciklama": "Synthetic Production of Penicillin Professor Alexander Fleming, holder of the Chair of Bacteriology at London University, who first discovered the mould Penicillin Notatum. Here in his laboratory at S",
+        "konu": "Alexander Fleming"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/960px-Synthetic_Production_of_Penicillin_TR1468.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/500px-Synthetic_Production_of_Penicillin_TR1468.jpg",
+          "genislik": 960,
+          "yukseklik": 1363,
+          "yazar": "Official photographer",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Synthetic_Production_of_Penicillin_TR1468.jpg",
+          "aciklama": "Synthetic Production of Penicillin Professor Alexander Fleming, holder of the Chair of Bacteriology at London University, who first discovered the mould Penicillin Notatum. Here in his laboratory at S",
+          "konu": "Alexander Fleming"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Staphylococcus_aureus_%28AB_Test%29.jpg/960px-Staphylococcus_aureus_%28AB_Test%29.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Staphylococcus_aureus_%28AB_Test%29.jpg/500px-Staphylococcus_aureus_%28AB_Test%29.jpg",
+          "genislik": 960,
+          "yukseklik": 870,
+          "yazar": "CDC / Provider: Don Stalons",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Staphylococcus_aureus_(AB_Test).jpg",
+          "aciklama": "Staphylococcus aureus - Antibiotics Test plate",
+          "konu": "antibiyotik"
+        }
+      ]
     },
     {
       "id": "1937-mussolini-ve-hitler-berlin-olimpiyat-stadyumunda-bir",
@@ -97,7 +247,57 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
+        "genislik": 958,
+        "yukseklik": 1297,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mussolini_mezzobusto.jpg",
+        "aciklama": "Portrait of Benito Mussolini from the second edition of Adolf Dresler's Mussolini als Journalist (1939).",
+        "konu": "Benito Mussolini"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
+          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
+          "genislik": 958,
+          "yukseklik": 1297,
+          "yazar": "Bilinmeyen yazar",
+          "lisans": "Public domain",
+          "lisansUrl": null,
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Mussolini_mezzobusto.jpg",
+          "aciklama": "Portrait of Benito Mussolini from the second edition of Adolf Dresler's Mussolini als Journalist (1939).",
+          "konu": "Benito Mussolini"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/960px-Hitler_portrait_crop.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/500px-Hitler_portrait_crop.jpg",
+          "genislik": 960,
+          "yukseklik": 1278,
+          "yazar": "Heinrich Hoffmann",
+          "lisans": "CC BY-SA 3.0 de",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Hitler_portrait_crop.jpg",
+          "aciklama": "1938 portrait photograph of Adolf Hitler",
+          "konu": "Adolf Hitler"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Olympiastadion_Berlin%2C_2023.jpg/960px-Olympiastadion_Berlin%2C_2023.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Olympiastadion_Berlin%2C_2023.jpg/500px-Olympiastadion_Berlin%2C_2023.jpg",
+          "genislik": 960,
+          "yukseklik": 720,
+          "yazar": "Minderbinder",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Olympiastadion_Berlin,_2023.jpg",
+          "aciklama": "Olympiastadion Berlin",
+          "konu": "Berlin Olimpiyat Stadyumu"
+        }
+      ]
     },
     {
       "id": "1939-nazi-almanyasi-ve-sscb-isgal-ettikleri-polonyayi",
@@ -112,7 +312,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Battle_of_Poland.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Battle_of_Poland.png",
+        "genislik": 746,
+        "yukseklik": 825,
+        "yazar": "Ai6z83xl3g",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Battle_of_Poland.png",
+        "aciklama": "​公共領域之照片合集，分別為： File:Spotkanie Sojuszników.jpg File:Bundesarchiv Bild 146-1976-071-36, Polen, an der Brahe, deutsche Panzer.jpg File:Płonąca_oblężona_Warszawa.jpg File:Schleswig Holstein firing Gdynia",
+        "konu": "Polonya Seferi"
+      }
     },
     {
       "id": "1954-turk-migros-istanbulda-hizmete-basladi",
@@ -125,7 +337,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Migros_t%C3%BCrk.jpg/960px-Migros_t%C3%BCrk.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Migros_t%C3%BCrk.jpg/500px-Migros_t%C3%BCrk.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "yazar": "de:Benutzer:Abracadabra",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Migros_t%C3%BCrk.jpg",
+        "aciklama": "Migros Türk, Manavgat",
+        "konu": "Migros (Türkiye)"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Migros_t%C3%BCrk.jpg/960px-Migros_t%C3%BCrk.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Migros_t%C3%BCrk.jpg/500px-Migros_t%C3%BCrk.jpg",
+          "genislik": 960,
+          "yukseklik": 640,
+          "yazar": "de:Benutzer:Abracadabra",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Migros_t%C3%BCrk.jpg",
+          "aciklama": "Migros Türk, Manavgat",
+          "konu": "Migros (Türkiye)"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
+          "genislik": 960,
+          "yukseklik": 494,
+          "yazar": "Alexxx Malev",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
+          "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
+          "konu": "İstanbul"
+        }
+      ]
     },
     {
       "id": "1961-cemal-abdunnasir-onderliginde-misir-ile-suriyenin-birlesmesiyle",
@@ -140,7 +390,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Nasser_in_1969.jpg/960px-Nasser_in_1969.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Nasser_in_1969.jpg/500px-Nasser_in_1969.jpg",
+        "genislik": 960,
+        "yukseklik": 1215,
+        "yazar": "Not credited",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Nasser_in_1969.jpg",
+        "aciklama": "President Gamal Abdel Nasser of Egypt in an official reception ceremony in Cairo Airport, 1969",
+        "konu": "Cemal Abdünnasır"
+      }
     },
     {
       "id": "1965-istanbul-kiz-kulesi-turkiye-cumhuriyeti-milli-savunma",
@@ -153,7 +415,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Istanbul_K%C4%B1z_Kulesi_%2854511155871%29_%28cropped%29.jpg/960px-Istanbul_K%C4%B1z_Kulesi_%2854511155871%29_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Istanbul_K%C4%B1z_Kulesi_%2854511155871%29_%28cropped%29.jpg/500px-Istanbul_K%C4%B1z_Kulesi_%2854511155871%29_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1078,
+        "yazar": "Jorge Franganillo",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Istanbul_K%C4%B1z_Kulesi_(54511155871)_(cropped).jpg",
+        "aciklama": "Istanbul (Turkey)",
+        "konu": "Kız Kulesi"
+      }
     },
     {
       "id": "1982-halk-arasinda-banker-kastelli-olarak-anilan-abidin",
@@ -167,7 +441,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Abidin_Cevher_%C3%96zden_grave1.jpg/960px-Abidin_Cevher_%C3%96zden_grave1.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Abidin_Cevher_%C3%96zden_grave1.jpg/500px-Abidin_Cevher_%C3%96zden_grave1.jpg",
+        "genislik": 960,
+        "yukseklik": 455,
+        "yazar": "Tarih",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Abidin_Cevher_%C3%96zden_grave1.jpg",
+        "aciklama": "Abidin Cevher Özden grave1",
+        "konu": "Abidin Cevher Özden"
+      }
     },
     {
       "id": "1986-bosalan-11-milletvekilligi-icin-ara-secim-yapildi",
@@ -179,7 +465,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1992-avrupa-birligi-kuruldu",
@@ -191,7 +478,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1994-modern-deniz-tarihinin-en-buyuk-kazasi-yasandi",
@@ -205,7 +493,57 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/MS_Estonia_model.jpg/960px-MS_Estonia_model.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/MS_Estonia_model.jpg/500px-MS_Estonia_model.jpg",
+        "genislik": 960,
+        "yukseklik": 506,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:MS_Estonia_model.jpg",
+        "aciklama": null,
+        "konu": "M/S Estonia"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/MS_Estonia_model.jpg/960px-MS_Estonia_model.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/MS_Estonia_model.jpg/500px-MS_Estonia_model.jpg",
+          "genislik": 960,
+          "yukseklik": 506,
+          "yazar": "Bilinmeyen yazar",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:MS_Estonia_model.jpg",
+          "aciklama": null,
+          "konu": "M/S Estonia"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Sultanahmet_ferry_on_the_Bosphorus_in_Istanbul%2C_Turkey_001.jpg/960px-Sultanahmet_ferry_on_the_Bosphorus_in_Istanbul%2C_Turkey_001.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Sultanahmet_ferry_on_the_Bosphorus_in_Istanbul%2C_Turkey_001.jpg/500px-Sultanahmet_ferry_on_the_Bosphorus_in_Istanbul%2C_Turkey_001.jpg",
+          "genislik": 960,
+          "yukseklik": 638,
+          "yazar": "Moonik",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Sultanahmet_ferry_on_the_Bosphorus_in_Istanbul,_Turkey_001.jpg",
+          "aciklama": "Sultanahmet ferry on the Bosphorus in Istanbul, Turkey.",
+          "konu": "feribot"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_Baltic_Sea.png/960px-The_Baltic_Sea.png",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_Baltic_Sea.png/500px-The_Baltic_Sea.png",
+          "genislik": 960,
+          "yukseklik": 1440,
+          "yazar": "Gabriel Ziegler",
+          "lisans": "CC BY-SA 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:The_Baltic_Sea.png",
+          "aciklama": "A map of the Baltic Sea Region with Political Borders, Rivers, Lakes, Cities, Another Seas, Referencial Map, Compass and Detailed.",
+          "konu": "Baltık Denizi"
+        }
+      ]
     },
     {
       "id": "1995-filistin-kurtulus-orgutu-fko-lideri-yaser-arafat",
@@ -221,7 +559,45 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg/960px-Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg/500px-Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg",
+        "genislik": 960,
+        "yukseklik": 1396,
+        "yazar": "Gideon Markowiz",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Leader_of_the_PLO,_Yasser_Arafat,_1996_Dan_Hadani_Archive.jpg",
+        "aciklama": "Photo shows: Leader of the PLO Yasser Arafat During a visit to Israeli President Ezer Weizman's residence in Caesarea, Israel. The first visit by Leader of the PLO, Arafat to Israel.",
+        "konu": "Yaser Arafat"
+      },
+      "gorselAdaylari": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg/960px-Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg/500px-Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg",
+          "genislik": 960,
+          "yukseklik": 1396,
+          "yazar": "Gideon Markowiz",
+          "lisans": "CC BY 4.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Leader_of_the_PLO,_Yasser_Arafat,_1996_Dan_Hadani_Archive.jpg",
+          "aciklama": "Photo shows: Leader of the PLO Yasser Arafat During a visit to Israeli President Ezer Weizman's residence in Caesarea, Israel. The first visit by Leader of the PLO, Arafat to Israel.",
+          "konu": "Yaser Arafat"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Flickr_-_Israel_Defense_Forces_-_Life_of_Lt._Gen._Yitzhak_Rabin%2C_7th_IDF_Chief_of_Staff_in_photos_%2811%29.jpg/960px-Flickr_-_Israel_Defense_Forces_-_Life_of_Lt._Gen._Yitzhak_Rabin%2C_7th_IDF_Chief_of_Staff_in_photos_%2811%29.jpg",
+          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Flickr_-_Israel_Defense_Forces_-_Life_of_Lt._Gen._Yitzhak_Rabin%2C_7th_IDF_Chief_of_Staff_in_photos_%2811%29.jpg/500px-Flickr_-_Israel_Defense_Forces_-_Life_of_Lt._Gen._Yitzhak_Rabin%2C_7th_IDF_Chief_of_Staff_in_photos_%2811%29.jpg",
+          "genislik": 960,
+          "yukseklik": 1370,
+          "yazar": "Yaakov Saar",
+          "lisans": "CC BY-SA 3.0",
+          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "kaynak": "https://commons.wikimedia.org/wiki/File:Flickr_-_Israel_Defense_Forces_-_Life_of_Lt._Gen._Yitzhak_Rabin,_7th_IDF_Chief_of_Staff_in_photos_(11).jpg",
+          "aciklama": "1992-1995: PM Yitzhak Rabin serving his second term as Prime Minister. Behind him is a bookshelf with a second edition Encyclopedia Judaica.",
+          "konu": "İzak Rabin"
+        }
+      ]
     },
     {
       "id": "2003-turkiye-kadin-milli-voleybol-takimi-tarihinde-ilk",
@@ -234,7 +610,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "2018-endonezyanin-sulawesi-adasindaki-palu-korfezinde-7-5",
@@ -249,7 +626,19 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
+        "genislik": 800,
+        "yukseklik": 420,
+        "yazar": "NASA",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Quake_epicenters_1963-98_notitle.png",
+        "aciklama": "Quake epicenters: Preliminary Determination of Epicenters, 358,214 Events, 1963 - 1998",
+        "konu": "deprem"
+      }
     },
     {
       "id": "2023-2023-rotterdam-silahli-saldirilari-meydana-geldi-ve",
@@ -259,7 +648,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     }
   ],
   "dogumlar": [
@@ -696,5 +1086,5 @@
     "url": "https://tr.wikipedia.org/wiki/28_Eyl%C3%BCl",
     "revid": 38072757
   },
-  "guncelleme": "2026-09-27T09:06:34.437Z"
+  "guncelleme": "2026-09-27T09:16:52.467Z"
 }
