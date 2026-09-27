@@ -12,51 +12,24 @@
         "Fransa",
         "Poitiers Muharebesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Poitiers Muharebesi ve Yüz Yıl Savaşı'nda İngiliz Zaferi",
+      "ozet": "Yüz Yıl Savaşı'nın en kritik çatışmalarından biri olan Poitiers Muharebesi, 19 Eylül 1356 tarihinde İngiltere ve Fransa krallıkları arasında yaşandı. İngiliz ordusuna komuta eden Kara Prens Edward, sayıca kendisinden üstün olan Fransız kuvvetlerine karşı stratejik bir zafer elde etti. Bu muharebe, savaşın gidişatını İngiltere lehine değiştiren ve Fransız monarşisini derinden sarsan bir olay olarak tarihe geçti. Muharebenin en dikkat çekici sonucu, Fransa Kralı II. Jean'ın İngilizler tarafından esir alınmasıydı. Kralın esir düşmesi, Fransa'da büyük bir siyasi krize ve otorite boşluğuna yol açtı. Bu durum, Fransız soyluları arasında iç çekişmeleri tetiklerken, İngiltere'nin Fransa toprakları üzerindeki baskısını artırmasına olanak tanıdı. Poitiers, İngiliz uzun yayının (longbow) savaş meydanlarındaki etkinliğini bir kez daha kanıtladığı ve feodal savaş yöntemlerinin değişmeye başladığı bir dönemi simgeler. Savaşın uzun vadeli etkileri, Fransa'nın iç istikrarını uzun süre bozmuş ve iki krallık arasındaki hanedan mücadelesini daha da derinleştirmiştir.",
+      "kategori": "Savaş",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Lenepveu%2C_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg/960px-Lenepveu%2C_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Lenepveu%2C_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg/500px-Lenepveu%2C_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Battle_poitiers.jpg/960px-Battle_poitiers.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Battle_poitiers.jpg/500px-Battle_poitiers.jpg",
         "genislik": 960,
-        "yukseklik": 1304,
-        "orijinalGenislik": 1508,
-        "yazar": "Eugène Lenepveu",
+        "yukseklik": 736,
+        "orijinalGenislik": 1600,
+        "yazar": "Eugène Delacroix",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Lenepveu,_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg",
-        "aciklama": "Jeanne d'Arc at the Siege of Orléans by Jules Eugène Lenepveu, painted 1886–1890. The painting is a highly romanticized representation. Jeanne did not wear plate mail; according to the testimony at he",
-        "konu": "Yüz Yıl Savaşı"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Battle_poitiers.jpg",
+        "aciklama": null,
+        "konu": "Poitiers Muharebesi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Lenepveu%2C_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg/960px-Lenepveu%2C_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Lenepveu%2C_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg/500px-Lenepveu%2C_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg",
-          "genislik": 960,
-          "yukseklik": 1304,
-          "orijinalGenislik": 1508,
-          "yazar": "Eugène Lenepveu",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Lenepveu,_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg",
-          "aciklama": "Jeanne d'Arc at the Siege of Orléans by Jules Eugène Lenepveu, painted 1886–1890. The painting is a highly romanticized representation. Jeanne did not wear plate mail; according to the testimony at he",
-          "konu": "Yüz Yıl Savaşı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Battle_poitiers.jpg/960px-Battle_poitiers.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Battle_poitiers.jpg/500px-Battle_poitiers.jpg",
-          "genislik": 960,
-          "yukseklik": 736,
-          "orijinalGenislik": 1600,
-          "yazar": "Eugène Delacroix",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Battle_poitiers.jpg",
-          "aciklama": null,
-          "konu": "Poitiers Muharebesi"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1575-padisah-iii-muratin-gorevlendirdigi-muneccimbasi-takiyuddin-efendinin",
@@ -69,64 +42,24 @@
         "Takiyüddin'in Rasathanesi",
         "Gözlemevi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Osmanlı Bilim Tarihinde Bir Dönüm Noktası: İstanbul Rasathanesi",
+      "ozet": "Osmanlı İmparatorluğu'nun bilimsel çalışmalarına büyük bir ivme kazandırmak amacıyla, Padişah III. Murat'ın fermanıyla İstanbul'da kapsamlı bir gözlemevi inşa edildi. Müneccimbaşı Takiyüddin Efendi'nin öncülüğünde kurulan bu merkez, dönemin en modern astronomi aletleriyle donatılmıştı. Takiyüddin, burada yaptığı gözlemlerle gezegenlerin hareketlerini incelemiş, sinüs ve tanjant tabloları hazırlayarak bilim dünyasına önemli katkılarda bulunmuştur. Çalışmaları, Avrupa'daki çağdaşı Tycho Brahe'nin gözlemleriyle benzer bir nitelik taşıyordu.\n\nAncak rasathanenin ömrü oldukça kısa sürdü. Kuruluşundan sadece beş yıl sonra, 1580 yılında, dönemin Şeyhülislamı'nın baskıları ve halk arasında yayılan olumsuz söylentiler nedeniyle Padişah III. Murat'ın emriyle yıktırıldı. Bu olay, Osmanlı'da modern astronomi çalışmalarının sekteye uğramasına ve bilimsel ilerlemenin uzun bir süre duraklamasına neden oldu. Rasathanenin yıkılması, bilimsel merakın toplumsal ve siyasi baskılarla nasıl engellenebileceğine dair tarihteki en çarpıcı örneklerden biri olarak kabul edilir.",
+      "kategori": "Bilim",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Sultan_Murad_III.jpg/960px-Sultan_Murad_III.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Sultan_Murad_III.jpg/500px-Sultan_Murad_III.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Taqi_al_din.jpg/960px-Taqi_al_din.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Taqi_al_din.jpg/500px-Taqi_al_din.jpg",
         "genislik": 960,
-        "yukseklik": 1366,
-        "orijinalGenislik": 2136,
-        "yazar": "Belli değil",
+        "yukseklik": 1399,
+        "orijinalGenislik": 1348,
+        "yazar": "Ala ad-Din Mansur-Shirazi",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Sultan_Murad_III.jpg",
-        "aciklama": "Mourad III. Anonymous, T.Ü.Y.B., t.y., Topkapı Sarayı Müzesi 17/39 [1] \"Another oil-on-canvas picture of the Sultan, is among the collections of Topkapı Palace Museum (Pic. 20). This, which is the las",
-        "konu": "III. Murad"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Taqi_al_din.jpg",
+        "aciklama": "Ottoman astronomers at work around Taqi ad-Din Muhammad ibn Ma'ruf at the Istanbul Observatory between 1575-1580 CE.",
+        "konu": "Takiyüddin"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Sultan_Murad_III.jpg/960px-Sultan_Murad_III.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Sultan_Murad_III.jpg/500px-Sultan_Murad_III.jpg",
-          "genislik": 960,
-          "yukseklik": 1366,
-          "orijinalGenislik": 2136,
-          "yazar": "Belli değil",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Sultan_Murad_III.jpg",
-          "aciklama": "Mourad III. Anonymous, T.Ü.Y.B., t.y., Topkapı Sarayı Müzesi 17/39 [1] \"Another oil-on-canvas picture of the Sultan, is among the collections of Topkapı Palace Museum (Pic. 20). This, which is the las",
-          "konu": "III. Murad"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Sextant_Takiy%C3%BCddinRasid_TopkapiPalaceMuseum.jpg/960px-Sextant_Takiy%C3%BCddinRasid_TopkapiPalaceMuseum.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Sextant_Takiy%C3%BCddinRasid_TopkapiPalaceMuseum.jpg/500px-Sextant_Takiy%C3%BCddinRasid_TopkapiPalaceMuseum.jpg",
-          "genislik": 960,
-          "yukseklik": 1569,
-          "orijinalGenislik": 2309,
-          "yazar": "From Al-âlât al rasadiya li-zij al-shahinshahiyya, by en: Taqi al-Din Muhammad ibn Ma'ruf, Library of the en:Topkapi Palace Museum, Hazine 4",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Sextant_Takiy%C3%BCddinRasid_TopkapiPalaceMuseum.jpg",
-          "aciklama": "Depiction of the en:sextant used in astronomy and astrology by the Ottoman Observatory in Istanbul and by the office of müneccimbaşı (chief astrologer) in the 16-17th centuries.",
-          "konu": "Müneccimbaşı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Taqi_al_din.jpg/960px-Taqi_al_din.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Taqi_al_din.jpg/500px-Taqi_al_din.jpg",
-          "genislik": 960,
-          "yukseklik": 1399,
-          "orijinalGenislik": 1348,
-          "yazar": "Ala ad-Din Mansur-Shirazi",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Taqi_al_din.jpg",
-          "aciklama": "Ottoman astronomers at work around Taqi ad-Din Muhammad ibn Ma'ruf at the Istanbul Observatory between 1575-1580 CE.",
-          "konu": "Takiyüddin"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1863-amerikan-ic-savasi-sirasinda-chickamauga-muharebesi-basladi",
@@ -136,51 +69,24 @@
         "Amerikan İç Savaşı",
         "Chickamauga Muharebesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Amerikan İç Savaşı'nda Chickamauga Muharebesi",
+      "ozet": "Amerikan İç Savaşı'nın Batı Cephesi'nde gerçekleşen Chickamauga Muharebesi, Birlik Ordusu ile Konfederasyon kuvvetlerini Georgia topraklarında karşı karşıya getirdi. Tümgeneral William Rosecrans komutasındaki Cumberland Birlik Ordusu ile General Braxton Bragg'ın yönettiği Konfederasyon ordusu arasındaki çatışmalar, iki gün boyunca şiddetli bir şekilde devam etti. Savaş, stratejik önemi ve tarafların birbirine karşı üstünlük kurma çabası nedeniyle dönemin en kritik askeri hamlelerinden biri olarak kabul edilir.\n\nİki gün süren yoğun çarpışmaların ardından zafer, Konfederasyon kuvvetlerinin oldu. Bu muharebe, Birlik Ordusu için Gettysburg'dan sonra en ağır kayıpların verildiği çatışma olarak tarihe geçti. Savaşın sonucu, bölgedeki askeri dengeleri geçici olarak değiştirirken, her iki taraf için de insan gücü ve lojistik açıdan büyük bir yıkım anlamına geliyordu. Chickamauga, Amerikan İç Savaşı'nın genel seyrinde, tarafların birbirine karşı ne kadar kararlı ve yıkıcı bir mücadele yürüttüğünü gösteren sembolik ve acı verici bir dönüm noktası olmuştur.",
+      "kategori": "Savaş",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/960px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/500px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Chickamauga.jpg/960px-Chickamauga.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Chickamauga.jpg/500px-Chickamauga.jpg",
         "genislik": 960,
-        "yukseklik": 614,
-        "orijinalGenislik": 1231,
-        "yazar": "Nathaniel Currier and James Merritt Ives",
+        "yukseklik": 688,
+        "orijinalGenislik": 7707,
+        "yazar": "Kurz and Allison",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Battle_of_Gettysburg,_by_Currier_and_Ives.png",
-        "aciklama": "The battle of Gettysburg, Pa. July 3d. 1863, depicting the Battle of Gettysburg, fought July 1–3, 1863. The battle was part of the American Civil War and was won by the North. Hand-colored lithograph ",
-        "konu": "Amerikan İç Savaşı"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Chickamauga.jpg",
+        "aciklama": "Battle of Chickamauga",
+        "konu": "Chickamauga Muharebesi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/960px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/500px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png",
-          "genislik": 960,
-          "yukseklik": 614,
-          "orijinalGenislik": 1231,
-          "yazar": "Nathaniel Currier and James Merritt Ives",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Battle_of_Gettysburg,_by_Currier_and_Ives.png",
-          "aciklama": "The battle of Gettysburg, Pa. July 3d. 1863, depicting the Battle of Gettysburg, fought July 1–3, 1863. The battle was part of the American Civil War and was won by the North. Hand-colored lithograph ",
-          "konu": "Amerikan İç Savaşı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Chickamauga.jpg/960px-Chickamauga.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Chickamauga.jpg/500px-Chickamauga.jpg",
-          "genislik": 960,
-          "yukseklik": 688,
-          "orijinalGenislik": 7707,
-          "yazar": "Kurz and Allison",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Chickamauga.jpg",
-          "aciklama": "Battle of Chickamauga",
-          "konu": "Chickamauga Muharebesi"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1893-yeni-zelanda-kolonisi-kadinlara-oy-hakki-taniyan",
@@ -190,9 +96,9 @@
         "Yeni Zelanda",
         "Kate Sheppard"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Kadınlara Seçme Hakkı Tanıyan İlk Ülke: Yeni Zelanda",
+      "ozet": "Yeni Zelanda, 1893 yılında kabul edilen yeni seçim yasasıyla birlikte kadınlara oy kullanma hakkı veren ilk ülke olarak tarihe geçti. Bu tarihi adım, uzun yıllar süren toplumsal mücadelelerin ve örgütlü çalışmaların bir sonucuydu. Ülkedeki kadın hakları hareketinin en önemli figürlerinden biri olan Kate Sheppard, bu sürecin öncülüğünü üstlenerek kadınların siyasi hayata katılımı için büyük bir kamuoyu oluşturdu. Sheppard'ın liderliğinde toplanan imzalar ve yürütülen kampanyalar, parlamentonun bu radikal kararı almasında belirleyici bir rol oynadı.\n\nBu gelişme, sadece Yeni Zelanda için değil, dünya genelindeki kadın hakları savunucuları için de büyük bir dönüm noktası kabul edilir. Yeni Zelanda'nın attığı bu cesur adım, diğer ülkelerdeki kadınların oy hakkı mücadelesine ilham kaynağı oldu ve demokratikleşme süreçlerinde kadınların temsil edilmesinin önemini küresel ölçekte vurguladı. Bugün Yeni Zelanda'nın bu kararı, modern demokrasilerin temel taşlarından biri olan evrensel oy hakkı ilkesinin yerleşmesinde öncü bir örnek olarak anılmaktadır.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Kate_Sheppard.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Kate_Sheppard.jpg",
@@ -206,7 +112,8 @@
         "aciklama": "Social reformer, suffragist, writer, and first president of National Council of Woman in New Zealand",
         "konu": "Kate Sheppard"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1921-tbmm-mustafa-kemal-pasaya-maresal-rutbesi-ile",
@@ -218,9 +125,9 @@
         "Mareşal (Türkiye)",
         "Gazi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Mustafa Kemal Paşa'ya Mareşallik Rütbesi ve Gazi Unvanı Verilmesi",
+      "ozet": "Sakarya Meydan Muharebesi'nin ardından Türkiye Büyük Millet Meclisi, ordunun başkomutanı Mustafa Kemal Paşa'yı onurlandırmak amacıyla tarihi bir karar aldı. 19 Eylül 1921 tarihinde kabul edilen kanunla, Mustafa Kemal Paşa'ya Türk ordusunun en yüksek askerî rütbesi olan mareşallik tevcih edildi ve aynı zamanda kendisine gazi unvanı verildi. Bu karar, Kurtuluş Savaşı'nın en kritik dönemeçlerinden biri olan Sakarya zaferinin millet nezdindeki karşılığını simgeliyordu.\n\nTürk askerî geleneğinde mareşallik rütbesi, kıdem veya bekleme süresiyle değil, savaş meydanında gösterilen olağanüstü başarılar neticesinde Meclis kararıyla verilen özel bir payedir. Mustafa Kemal Paşa'nın bu rütbeye layık görülmesi, hem cephedeki askerlerin moralini yükseltmiş hem de Ankara Hükûmeti'nin otoritesini pekiştirmiştir. Gazi unvanı ise, Türk milletinin bağımsızlık mücadelesindeki kararlılığını ve liderine olan bağlılığını ifade eden sembolik bir değer taşımaktadır. Bu olay, Türkiye Cumhuriyeti'nin kuruluşuna giden yolda askerî ve siyasi liderliğin birleştiği en önemli dönüm noktalarından biri olarak tarihe geçmiştir.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -234,35 +141,8 @@
         "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
         "konu": "Mustafa Kemal Atatürk"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-          "genislik": 732,
-          "yukseklik": 987,
-          "orijinalGenislik": 732,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
-          "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
-          "konu": "Mustafa Kemal Atatürk"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2013._%D0%94%D0%B5%D0%BD%D1%8C_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B_%D0%B2_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B5_093.jpg/960px-2013._%D0%94%D0%B5%D0%BD%D1%8C_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B_%D0%B2_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B5_093.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2013._%D0%94%D0%B5%D0%BD%D1%8C_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B_%D0%B2_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B5_093.jpg/500px-2013._%D0%94%D0%B5%D0%BD%D1%8C_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B_%D0%B2_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B5_093.jpg",
-          "genislik": 960,
-          "yukseklik": 636,
-          "orijinalGenislik": 4928,
-          "yazar": "Andrey Butko",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:2013._%D0%94%D0%B5%D0%BD%D1%8C_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B_%D0%B2_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B5_093.jpg",
-          "aciklama": "День Победы в Донецке",
-          "konu": "Gazi"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1935-almanyada-yahudilerin-kamu-sektorunde-calismasi-yasaklandi",
@@ -287,51 +167,12 @@
         "Nazi Almanyası",
         "Kiev"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "genislik": 400,
-        "yukseklik": 286,
-        "orijinalGenislik": 400,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
-        "aciklama": "Pitched battle at Changde.",
-        "konu": "II. Dünya Savaşı"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-          "genislik": 400,
-          "yukseklik": 286,
-          "orijinalGenislik": 400,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
-          "aciklama": "Pitched battle at Changde.",
-          "konu": "II. Dünya Savaşı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/P1130119-1.JPG/960px-P1130119-1.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/P1130119-1.JPG/500px-P1130119-1.JPG",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 4000,
-          "yazar": "Nick Grapsy",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:P1130119-1.JPG",
-          "aciklama": "Kyiv Pechersk Lavra complex",
-          "konu": "Kiev"
-        }
-      ],
-      "durum": "bekliyor"
+      "baslik": "Nazi Almanyası'nın Kiev'i İşgali",
+      "ozet": "II. Dünya Savaşı'nın Doğu Cephesi'nde yaşanan en kritik dönüm noktalarından biri, Alman ordularının Kiev'e girişiyle gerçekleşti. Barbarossa Harekâtı kapsamında ilerleyen Nazi güçleri, uzun süren kuşatma ve çatışmaların ardından şehri kontrol altına almayı başardı. Bu işgal, Sovyetler Birliği için hem stratejik hem de psikolojik açıdan büyük bir darbe niteliği taşıyordu. Kiev'in düşüşü, bölgedeki Sovyet savunma hatlarının çökmesine ve Almanların doğuya doğru ilerleyişinin hızlanmasına zemin hazırladı.\n\nKiev'in işgali, savaşın en karanlık sayfalarından biri olan sivil kayıpların ve insanlık dramlarının da başlangıcı oldu. Şehrin ele geçirilmesinin hemen ardından bölgedeki Yahudi nüfusuna ve diğer sivil gruplara yönelik sistematik baskılar ve katliamlar gerçekleştirildi. Savaşın genel seyri içerisinde Kiev'in kaybı, Mihver devletlerinin Sovyet topraklarındaki ilerleyişinin zirve noktalarından biri olarak kabul edilir. Ancak bu zafer, Alman ordusunun lojistik kapasitesini zorlayan ve savaşın ilerleyen yıllarında Sovyet karşı taarruzlarıyla geri çevrilecek olan genişleme sürecinin de bir parçasıydı.",
+      "kategori": "Savaş",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1944-finlandiya-ile-sovyetler-birligi-ateskes-imzaladi",
@@ -372,9 +213,9 @@
         "askerî darbe",
         "Paraguay"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Juan Peron'un Devrilmesi ve Sürgün Yılları",
+      "ozet": "Arjantin siyasetinde derin izler bırakan Juan Peron, 1955 yılında ordu tarafından gerçekleştirilen bir darbe ile iktidardan indirildi. Ülkedeki toplumsal kutuplaşmanın ve ekonomik sorunların tırmandığı bir dönemde gerçekleşen bu müdahale, Peron'un on yıla yakın süren ilk başkanlık dönemini sona erdirdi. Darbenin ardından iktidarı kaybeden Peron, ülkesini terk etmek zorunda kalarak Paraguay'a sığındı ve uzun sürecek bir sürgün hayatına başladı.\n\nPeron'un devrilmesi, Arjantin tarihinde askerî vesayetin ve siyasi istikrarsızlığın belirginleştiği bir dönüm noktası olarak kabul edilir. Peronist hareketin kurucusu olan lider, işçi sınıfı ve yoksul kesimler üzerinde kurduğu güçlü bağ sayesinde halkın önemli bir kısmının desteğini korumaya devam etti. Sürgündeyken bile Arjantin siyasetinde etkili bir figür olmayı sürdüren Peron, yıllar sonra ülkesine geri dönerek 1973 yılında tekrar başkanlık koltuğuna oturacaktı. Bu olay, Latin Amerika'daki askerî müdahalelerin ve popülist liderlik modellerinin tarihsel gelişimini anlamak açısından kritik bir öneme sahiptir.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Juan_Per%C3%B3n_1946.jpg/960px-Juan_Per%C3%B3n_1946.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Juan_Per%C3%B3n_1946.jpg/500px-Juan_Per%C3%B3n_1946.jpg",
@@ -388,35 +229,8 @@
         "aciklama": "Juan Perón speaks",
         "konu": "Juan Perón"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Juan_Per%C3%B3n_1946.jpg/960px-Juan_Per%C3%B3n_1946.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Juan_Per%C3%B3n_1946.jpg/500px-Juan_Per%C3%B3n_1946.jpg",
-          "genislik": 960,
-          "yukseklik": 1359,
-          "orijinalGenislik": 1300,
-          "yazar": "No dice",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Juan_Per%C3%B3n_1946.jpg",
-          "aciklama": "Juan Perón speaks",
-          "konu": "Juan Perón"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg/960px-Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg/500px-Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg",
-          "genislik": 960,
-          "yukseklik": 1023,
-          "orijinalGenislik": 1833,
-          "yazar": "François Bouchot",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg",
-          "aciklama": null,
-          "konu": "askerî darbe"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1976-thynin-istanbul-antalya-seferi-ile-452-sefer-sayili",
@@ -429,64 +243,12 @@
         "Türk Hava Yolları'nın 452 sefer sayılı uçuşu",
         "Isparta"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/TurkishAirlinesHQIstanbul.jpg/960px-TurkishAirlinesHQIstanbul.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/TurkishAirlinesHQIstanbul.jpg/500px-TurkishAirlinesHQIstanbul.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 3456,
-        "yazar": "Judith (Sympatexter)",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:TurkishAirlinesHQIstanbul.jpg",
-        "aciklama": "Turkish Airlines General Management Building - Turkish Airlines head office - Yeşilköy, Istanbul",
-        "konu": "Türk Hava Yolları"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/TurkishAirlinesHQIstanbul.jpg/960px-TurkishAirlinesHQIstanbul.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/TurkishAirlinesHQIstanbul.jpg/500px-TurkishAirlinesHQIstanbul.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 3456,
-          "yazar": "Judith (Sympatexter)",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:TurkishAirlinesHQIstanbul.jpg",
-          "aciklama": "Turkish Airlines General Management Building - Turkish Airlines head office - Yeşilköy, Istanbul",
-          "konu": "Türk Hava Yolları"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "genislik": 960,
-          "yukseklik": 494,
-          "orijinalGenislik": 2048,
-          "yazar": "Alexxx Malev",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-          "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-          "konu": "İstanbul"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg/960px-Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg/500px-Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 5312,
-          "yazar": "Esginmurat",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg",
-          "aciklama": "A view taken from the cliffs towards Antalya Konyaaltı Beach in February 2018. The snowy part in the middle is the Bey Mountains and the snowy mountain in the right is Tunç Mountain. The photo is in t",
-          "konu": "Antalya"
-        }
-      ],
-      "durum": "bekliyor"
+      "baslik": "Türk Havacılık Tarihinin En Acı Günlerinden Biri: Isparta Uçak Kazası",
+      "ozet": "Türk Hava Yolları'na ait Antalya isimli yolcu uçağı, 19 Eylül 1976 tarihinde İstanbul'dan Antalya'ya gitmek üzere havalandıktan kısa bir süre sonra Isparta yakınlarında Toros Dağları'na çarparak düştü. Kazanın ardından yapılan incelemeler, uçağın alçalma sırasında pilotaj hatası veya navigasyonel bir yanlışlık sonucu rotasından saptığını ve dağlık araziye çarptığını ortaya koydu. Bu elim olayda, uçakta bulunan 8 mürettebat ve 146 yolcu olmak üzere toplam 154 kişinin tamamı hayatını kaybetti. O dönem Türkiye'de yaşanan en büyük sivil havacılık facialarından biri olarak kayıtlara geçen bu kaza, havacılık güvenliği ve uçuş prosedürleri konusunda ülke genelinde büyük bir üzüntü ve tartışma yarattı. Kazanın gerçekleştiği bölgenin zorlu coğrafi yapısı, arama kurtarma çalışmalarının yürütülmesini oldukça güçleştirmişti. Bu trajedi, Türk sivil havacılığında uçuş emniyeti ve pilot eğitimlerinin öneminin bir kez daha acı bir şekilde hatırlanmasına neden oldu.",
+      "kategori": "Ulaşım",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1979-tmmob-tarafindan-54-ilde-736-is-yerinde",
@@ -550,51 +312,12 @@
         "Meksiko",
         "deprem"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/960px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/500px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 503,
-        "orijinalGenislik": 6405,
-        "yazar": "Gobierno CDMX",
-        "lisans": "CC0",
-        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Sobrevuelos_CDMX_HJ2A4913_(25514321687)_(cropped).jpg",
-        "aciklama": "Fotografías de la Ciudad de México desde el aire.",
-        "konu": "Meksiko"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/960px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/500px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 503,
-          "orijinalGenislik": 6405,
-          "yazar": "Gobierno CDMX",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Sobrevuelos_CDMX_HJ2A4913_(25514321687)_(cropped).jpg",
-          "aciklama": "Fotografías de la Ciudad de México desde el aire.",
-          "konu": "Meksiko"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
-          "genislik": 800,
-          "yukseklik": 420,
-          "orijinalGenislik": 800,
-          "yazar": "NASA",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Quake_epicenters_1963-98_notitle.png",
-          "aciklama": "Quake epicenters: Preliminary Determination of Epicenters, 358,214 Events, 1963 - 1998",
-          "konu": "deprem"
-        }
-      ],
-      "durum": "bekliyor"
+      "baslik": "Meksiko'yu Sarsan Büyük Deprem Felaketi",
+      "ozet": "Meksika'nın başkenti Meksiko, 19 Eylül 1985 sabahı yerel saatle 07.19'da meydana gelen 8,1 büyüklüğündeki yıkıcı bir depremle sarsıldı. Merkez üssü Pasifik kıyısı açıklarında olan bu sismik hareket, başkentte çok ağır bir yıkıma neden oldu. Depremin şiddeti ve şehrin jeolojik yapısı nedeniyle binlerce bina yerle bir olurken, ölü sayısı tahminlere göre 10 bin ile 40 bin arasında değişen devasa bir insani trajedi yaşandı. Bu olay, modern Meksika tarihinin en büyük doğal afetlerinden biri olarak kayıtlara geçti. Deprem, Meksiko'nun yoğun nüfuslu yapısı ve yüksek rakımlı vadi tabanında kurulu olması nedeniyle sarsıntının etkisini artırdı. Felaket sonrası arama kurtarma çalışmaları uzun süre devam etti ve şehirde büyük bir toplumsal seferberlik başlatıldı. Bu yıkım, Meksika'nın yapı denetim standartlarını ve deprem hazırlık politikalarını kökten değiştirmesine neden oldu. Bugün bile Meksiko'da her yıl deprem tatbikatları yapılarak 1985'te yaşanan bu acı tecrübenin unutulmaması ve benzer bir felaketin etkilerinin en aza indirilmesi hedeflenmektedir.",
+      "kategori": "Afet",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1987-10-akdeniz-oyunlarinda-turk-serbest-gures-milli",
@@ -616,9 +339,9 @@
       "konular": [
         "Ötzi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Avrupa'nın En Eski Doğal Mumyası Ötzi Bulundu",
+      "ozet": "Avusturya ile İtalya sınırındaki Ötztal Alpleri'nde yürüyüş yapan iki Alman turist, buzulların arasında oldukça iyi korunmuş bir insan bedeniyle karşılaştı. Buz Adam veya Ötzi olarak adlandırılan bu mumya, yapılan bilimsel incelemeler sonucunda MÖ 3400 ile 3100 yılları arasında yaşamış bir bireye ait olduğu anlaşıldı. Avrupa'nın bilinen en eski doğal mumyası olma özelliğini taşıyan bu keşif, arkeoloji dünyasında büyük bir heyecan yarattı.\n\nÖtzi'nin bedeni ve yanında bulunan eşyalar, Bakır Çağı insanının yaşam tarzı, beslenme alışkanlıkları ve kullandığı teknolojiler hakkında eşsiz veriler sundu. Buzulların koruyucu etkisi sayesinde binlerce yıl boyunca bozulmadan günümüze ulaşan mumya, modern bilimsel yöntemlerle incelenerek o dönemin insan anatomisi ve hastalıkları üzerine önemli bilgiler sağladı. Günümüzde İtalya'nın Bolzano kentindeki Güney Tirol Arkeoloji Müzesi'nde koruma altında tutulan Ötzi, tarih öncesi Avrupa'ya ışık tutan en önemli arkeolojik buluntulardan biri kabul edilmektedir.",
+      "kategori": "Bilim",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Otzi-Quinson.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Otzi-Quinson.jpg",
@@ -632,7 +355,8 @@
         "aciklama": "reconstruction of Ötzi mummy as shown in Prehistory Museum of Quinson, Alpes-de-Haute-Provence, France",
         "konu": "Ötzi"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1994-emlak-bankasi-genel-muduru-engin-civanin-vurulmasiyla",
@@ -659,64 +383,24 @@
         "Yaser Arafat",
         "Ramallah"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Tel Aviv Saldırısı ve Ramallah'ta Gerilim",
+      "ozet": "İsrail'in Tel Aviv kentinde bir yolcu otobüsünü hedef alan intihar saldırısı sonucunda 5 sivil yaşamını yitirdi. Bu şiddet eylemi, bölgedeki güvenlik gerilimini hızla tırmandıran bir dizi olayın parçası olarak kayıtlara geçti. Saldırının hemen ardından İsrail güvenlik güçleri, Filistin Devlet Başkanı Yaser Arafat'ın Ramallah'ta bulunan karargahı olan Mukataa'ya yönelik askeri bir operasyon başlattı.\n\nBu olay, İkinci İntifada döneminin en yoğun çatışmalı süreçlerinden birinde yaşandı. İsrail yönetimi, saldırıdan Filistinli grupları sorumlu tutarak Arafat'ı doğrudan hedef alan kuşatma ve baskı politikalarını sıkılaştırdı. Ramallah'taki karargahın tanklarla çevrilmesi ve binaların bir kısmının yıkılması, uluslararası kamuoyunda geniş yankı uyandırdı. Bu askeri müdahale, İsrail-Filistin çatışmasında diplomatik çözüm arayışlarının tıkandığı ve şiddet sarmalının derinleştiği bir dönemin sembolik anlarından biri haline geldi.",
+      "kategori": "Savaş",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Sarona_CBD_01.jpg/960px-Sarona_CBD_01.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Sarona_CBD_01.jpg/500px-Sarona_CBD_01.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg/960px-Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg/500px-Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg",
         "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 5472,
-        "yazar": "Ynhockey",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Sarona_CBD_01.jpg",
-        "aciklama": "Sarona CBD, Tel Aviv, Israel",
-        "konu": "Tel Aviv"
+        "yukseklik": 1396,
+        "orijinalGenislik": 1380,
+        "yazar": "Gideon Markowiz",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Leader_of_the_PLO,_Yasser_Arafat,_1996_Dan_Hadani_Archive.jpg",
+        "aciklama": "Photo shows: Leader of the PLO Yasser Arafat During a visit to Israeli President Ezer Weizman's residence in Caesarea, Israel. The first visit by Leader of the PLO, Arafat to Israel.",
+        "konu": "Yaser Arafat"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Sarona_CBD_01.jpg/960px-Sarona_CBD_01.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Sarona_CBD_01.jpg/500px-Sarona_CBD_01.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 5472,
-          "yazar": "Ynhockey",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Sarona_CBD_01.jpg",
-          "aciklama": "Sarona CBD, Tel Aviv, Israel",
-          "konu": "Tel Aviv"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg/960px-Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg/500px-Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg",
-          "genislik": 960,
-          "yukseklik": 1396,
-          "orijinalGenislik": 1380,
-          "yazar": "Gideon Markowiz",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Leader_of_the_PLO,_Yasser_Arafat,_1996_Dan_Hadani_Archive.jpg",
-          "aciklama": "Photo shows: Leader of the PLO Yasser Arafat During a visit to Israeli President Ezer Weizman's residence in Caesarea, Israel. The first visit by Leader of the PLO, Arafat to Israel.",
-          "konu": "Yaser Arafat"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Mausol%C3%A9e_de_Yasser_Arafat.jpg/960px-Mausol%C3%A9e_de_Yasser_Arafat.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Mausol%C3%A9e_de_Yasser_Arafat.jpg/500px-Mausol%C3%A9e_de_Yasser_Arafat.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 4608,
-          "yazar": "Djex93",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mausol%C3%A9e_de_Yasser_Arafat.jpg",
-          "aciklama": "Mausolée de Yasser Arafat et minaret vue depuis la Mouqata en 2017",
-          "konu": "Ramallah"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "2023-azerbaycan-daglik-karabag-bolgesindeki-daglik-karabag-cumhuriyetine",
@@ -728,9 +412,9 @@
         "Dağlık Karabağ Cumhuriyeti",
         "2023 Dağlık Karabağ çatışmaları"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Dağlık Karabağ'da Askeri Operasyon ve Bölgesel Değişim",
+      "ozet": "Azerbaycan, 19 Eylül 2023 tarihinde Dağlık Karabağ bölgesinde bulunan ve uluslararası toplum tarafından tanınmayan Dağlık Karabağ Cumhuriyeti'ne karşı geniş çaplı bir askeri operasyon başlattı. Azerbaycan yönetimi, bu hamleyi bölgedeki yasa dışı silahlı unsurları etkisiz hale getirmek ve anayasal düzeni yeniden tesis etmek amacıyla gerçekleştirdiğini duyurdu. Kısa süren çatışmaların ardından bölgedeki Ermeni yönetimi silah bırakmayı kabul etti.\n\nBu operasyon, bölgenin siyasi statüsünde köklü bir değişime yol açtı. Operasyonun ardından Dağlık Karabağ Cumhuriyeti'nin lağvedilmesi süreci başladı ve bölgede yaşayan Ermeni nüfusun büyük bir kısmı Ermenistan'a doğru göç etmeye başladı. Bu olay, 1990'ların başından beri süregelen ve 2020 yılındaki İkinci Dağlık Karabağ Savaşı ile yeni bir evreye giren çatışma sürecinin nihai noktası olarak kabul edildi. Böylece bölgenin tamamı, Azerbaycan'ın tam egemenliği altına girmiş oldu.",
+      "kategori": "Savaş",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Da%C4%9Fl%C4%B1k_Karaba%C4%9F.tif/lossless-page1-500px-Da%C4%9Fl%C4%B1k_Karaba%C4%9F.tif.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Da%C4%9Fl%C4%B1k_Karaba%C4%9F.tif/lossless-page1-500px-Da%C4%9Fl%C4%B1k_Karaba%C4%9F.tif.png",
@@ -744,7 +428,8 @@
         "aciklama": "Dağlık Karabağ ve çevresi",
         "konu": "Dağlık Karabağ"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     }
   ],
   "dogumlar": [
@@ -1196,8 +881,15 @@
       },
       "yayin": "2025-09-19T15:49:00+03:00",
       "puan": 12,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Basketbol Süper Ligi",
+        "Türkiye Basketbol Federasyonu",
+        "Digiturk"
+      ],
+      "baslik": "Basketbol Süper Ligi yayın hakları için yeni sözleşme yapıldı",
+      "ozet": "Türkiye Basketbol Federasyonu, ligin yayın haklarını kapsayan anlaşmayı yeniledi. Digiturk ile varılan mutabakat sonucunda müsabakaların dört yıl boyunca aynı platform üzerinden izleyicilerle buluşması kararlaştırıldı. Taraflar arasında imzalanan resmi sözleşme ile yayın sürecinin devamlılığı sağlandı.",
+      "kategori": "Spor"
     },
     {
       "id": "2025-haber-2436503",
@@ -1212,8 +904,14 @@
       },
       "yayin": "2025-09-19T14:29:00+03:00",
       "puan": 11,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Adalet ve Kalkınma Partisi",
+        "Siyaset"
+      ],
+      "baslik": "Adalet ve Kalkınma Partisi il başkanlıklarında görev değişimleri yaşandı",
+      "ozet": "Adalet ve Kalkınma Partisi bünyesinde çeşitli illerde görev yapan il başkanları istifa kararlarını kamuoyuyla paylaştı. Muğla, Elazığ, Adıyaman ve Niğde teşkilatlarının ardından Çanakkale il başkanı da görevinden ayrıldığını bildirdi. Söz konusu isimler, parti içindeki görevlerini bıraktıklarını resmi açıklamalarla duyurdu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2249064",
@@ -1228,8 +926,28 @@
       },
       "yayin": "2024-09-19T08:08:00+03:00",
       "puan": 11,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Ayaşi Zamal",
+        "Tunus",
+        "Seçim"
+      ],
+      "baslik": "Tunus'ta cumhurbaşkanı adayı Ayaşi Zamal'a hapis cezası verildi",
+      "ozet": "Tunus'ta gerçekleştirilecek cumhurbaşkanlığı seçimlerinde adaylığını koyan Ayaşi Zamal hakkında yargı kararı çıktı. Mahkeme, Zamal'ı bir yıl sekiz ay hapis cezasına çarptırdı. Söz konusu seçim süreci ekim ayının başında yapılacak.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/960px-Election_MG_3455.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/500px-Election_MG_3455.JPG",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 4368,
+        "yazar": "Rama",
+        "lisans": "CC BY-SA 2.0 fr",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Election_MG_3455.JPG",
+        "aciklama": "Second round of the French presidential election of 2007.",
+        "konu": "Seçim"
+      }
     },
     {
       "id": "2024-haber-2249263",
@@ -1244,8 +962,15 @@
       },
       "yayin": "2024-09-19T16:13:00+03:00",
       "puan": 10,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Kerem Aktürkoğlu",
+        "Benfica",
+        "UEFA Şampiyonlar Ligi"
+      ],
+      "baslik": "Benfica'nın Şampiyonlar Ligi kadrosunda Kerem Aktürkoğlu beklentisi",
+      "ozet": "UEFA Şampiyonlar Ligi ilk hafta mücadelesinde Kızılyıldız ile karşılaşacak olan Benfica'da hazırlıklar sürüyor. Portekiz temsilcisinin deplasmanda oynayacağı bu önemli karşılaşmada, milli futbolcu Kerem Aktürkoğlu'nun ilk 11'de sahaya çıkacağı öngörüldü. Teknik heyetin oyuncu hakkındaki kararı spor kamuoyunda dikkat çekti.",
+      "kategori": "Spor"
     },
     {
       "id": "2023-haber-2121012",
@@ -1260,8 +985,14 @@
       },
       "yayin": "2023-09-19T14:59:00+03:00",
       "puan": 11,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Gizem Uzuner"
+      ],
+      "baslik": "Merkez Bankası bünyesindeki görevinden ayrıldığını açıkladı",
+      "ozet": "Merkez Bankası yönetiminde gerçekleşen değişikliklerin ardından görevine son verilen Gizem Uzuner, kurumdan ayrılma kararı aldığını belirtti. Uzuner, bu gelişmeyi kişisel sosyal medya hesabı üzerinden kamuoyu ile paylaştı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2121185",
@@ -1276,8 +1007,28 @@
       },
       "yayin": "2023-09-19T23:31:00+03:00",
       "puan": 10,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Dünya Güreş Şampiyonası",
+        "Güreş",
+        "Türkiye"
+      ],
+      "baslik": "Dünya Güreş Şampiyonası'nda Türkiye'ye İki Madalya ve İki Kota",
+      "ozet": "Sırbistan'da gerçekleştirilen Dünya Güreş Şampiyonası'nda mücadele eden milli sporcular, organizasyonu iki bronz madalya kazanarak noktaladı. Başarılı performans sergileyen güreşçiler, aynı zamanda iki olimpiyat kotası elde etme başarısı gösterdi.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Pankratiasten_in_fight_copy_of_greek_statue_3_century_bC.jpg/960px-Pankratiasten_in_fight_copy_of_greek_statue_3_century_bC.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Pankratiasten_in_fight_copy_of_greek_statue_3_century_bC.jpg/500px-Pankratiasten_in_fight_copy_of_greek_statue_3_century_bC.jpg",
+        "genislik": 960,
+        "yukseklik": 702,
+        "orijinalGenislik": 3042,
+        "yazar": "MatthiasKabel",
+        "lisans": "CC BY 2.5",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.5",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pankratiasten_in_fight_copy_of_greek_statue_3_century_bC.jpg",
+        "aciklama": "Pankratiasten im Bodenkampf. Verkleinerte Nachbildung einer römischen Marmorplastik, die wiederum auf ein griechisches Vorbild des 3.Jhdts v.Chr. zurückgeht. Die Kopie ist von ca. 1900. Staatliche Ant",
+        "konu": "Güreş"
+      }
     },
     {
       "id": "2022-haber-1982807",
@@ -1292,8 +1043,15 @@
       },
       "yayin": "2022-09-19T16:36:00+03:00",
       "puan": 12,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Dolar",
+        "Türk lirası",
+        "Ekonomi"
+      ],
+      "baslik": "Dolar kuru piyasalarda yeni bir zirve seviyesine ulaştı",
+      "ozet": "Türk Lirası, döviz piyasalarındaki hareketlilik sonucunda dolar karşısında değer yitirmeyi sürdürdü. Gün içerisinde kaydedilen verilerle birlikte dolar kuru, yılın en yüksek seviyesine çıkarak yeni bir rekor kırdı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2022-haber-1982891",
@@ -1308,8 +1066,15 @@
       },
       "yayin": "2022-09-19T20:38:00+03:00",
       "puan": 11,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Birleşmiş Milletler",
+        "Eğitim politikası"
+      ],
+      "baslik": "Cumhurbaşkanı Erdoğan Birleşmiş Milletler Zirvesinde Konuştu",
+      "ozet": "Birleşmiş Milletler bünyesinde düzenlenen toplantıda kürsüye çıkan Cumhurbaşkanı Recep Tayyip Erdoğan, son yirmi yıllık süreçte eğitim alanında gerçekleştirilen çalışmalara değindi. Eğitimde fırsat eşitliğinin güçlendirilmesi, kalitenin artırılması ve hizmetin yaygınlaştırılması konularında önemli ilerlemeler kaydettiklerini ifade etti. Bu adımların eğitim sisteminin gelişimi açısından tarihi bir nitelik taşıdığını vurguladı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2021-haber-1870198",
@@ -1324,8 +1089,15 @@
       },
       "yayin": "2021-09-19T19:34:00+03:00",
       "puan": 10,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Ankara Barosu",
+        "Erinç Sağkan",
+        "Ankara"
+      ],
+      "baslik": "Ankara Barosu Genel Kurulu'nda Erinç Sağkan Güven Tazeledi",
+      "ozet": "Ankara Barosu tarafından düzenlenen 66. Olağan Genel Kurul süreci tamamlandı. Demokratik Sol Avukatlar Grubu adına yarışan Erinç Sağkan, delegelerin çoğunluğunun desteğini alarak ikinci kez baro başkanlığı görevine getirildi.",
+      "kategori": "Toplum"
     },
     {
       "id": "2021-haber-1870092",
@@ -1340,8 +1112,15 @@
       },
       "yayin": "2021-09-19T09:40:00+03:00",
       "puan": 10,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Beykoz",
+        "Anadoluhisarı",
+        "Ağaç"
+      ],
+      "baslik": "Beykoz'da devrilen tarihi çınar ağacı ulaşımı aksattı",
+      "ozet": "Anadoluhisarı sahil şeridinde yer alan iki asırlık çınar ağacı, şiddetli fırtınanın etkisiyle yola devrildi. Olay sonucunda sahil yolu her iki yönde de araç trafiğine kapatıldı. Ağacın yıkıldığı sırada çevrede bulunan bir vatandaşın son anda kurtulduğu anlar, bölgedeki bir iş yerinin güvenlik kamerasına yansıdı.",
+      "kategori": "Ulaşım"
     },
     {
       "id": "2020-haber-1767196",
@@ -1356,8 +1135,28 @@
       },
       "yayin": "2020-09-19T10:32:00+03:00",
       "puan": 11,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Abe Şinzo",
+        "Yasukuni Tapınağı",
+        "Japonya"
+      ],
+      "baslik": "Japonya Başbakanı Abe görevinden ayrılmadan önce tapınağı ziyaret etti",
+      "ozet": "Görevini bırakma kararı alan Japonya Başbakanı Abe Şinzo, istifasını bildirmek amacıyla Yasukuni Tapınağına gitti. Söz konusu tapınak, bölgedeki diplomatik ilişkilerde zaman zaman tartışmalara konu olmasıyla biliniyor. Abe, başbakanlık görevinden ayrılma sürecinde gerçekleştirdiği bu ziyareti kamuoyuyla paylaştı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Shinz%C5%8D_Abe_20200101.jpg/960px-Shinz%C5%8D_Abe_20200101.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Shinz%C5%8D_Abe_20200101.jpg/500px-Shinz%C5%8D_Abe_20200101.jpg",
+        "genislik": 960,
+        "yukseklik": 1330,
+        "orijinalGenislik": 2048,
+        "yazar": "首相官邸",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Shinz%C5%8D_Abe_20200101.jpg",
+        "aciklama": "安倍晋三 内閣総理大臣",
+        "konu": "Abe Şinzo"
+      }
     },
     {
       "id": "2020-haber-1767334",
@@ -1372,8 +1171,15 @@
       },
       "yayin": "2020-09-19T21:21:00+03:00",
       "puan": 10,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Hamza Dağ",
+        "Adalet ve Kalkınma Partisi",
+        "Türkiye'de seçimler"
+      ],
+      "baslik": "Hamza Dağ 2023 Seçimlerinin Çetin Geçeceğini İfade Etti",
+      "ozet": "Adalet ve Kalkınma Partisi Genel Başkan Yardımcısı Hamza Dağ, yaklaşan seçim sürecine dair değerlendirmelerde bulundu. Dağ, 2023 yılında yapılması planlanan seçimlerin ülke tarihindeki en zorlu ve sert rekabete sahne olacağını belirtti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2018-haber-1087530",
@@ -1388,8 +1194,28 @@
       },
       "yayin": "2018-09-19T15:12:00+03:00",
       "puan": 9,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Scott Morrison",
+        "Avustralya",
+        "Gıda güvenliği"
+      ],
+      "baslik": "Avustralya'da meyvelere iğne yerleştirenlere ağır hapis cezası getirildi",
+      "ozet": "Avustralya Başbakanı Scott Morrison, gıda ürünlerinin içine dikiş iğnesi yerleştirme eylemlerine karşı sert önlemler alındığını duyurdu. Bu tür tehlikeli girişimlerde bulunan kişilerin on beş yıla kadar hapis cezası ile yargılanabileceğini belirtti. Hükümet, halkın güvenliğini tehdit eden bu sabotaj olaylarını engellemek amacıyla yasal düzenlemeleri sıkılaştırma kararı aldı.",
+      "kategori": "Toplum",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Prime_Minister_of_Australia_Scott_Morrison.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Prime_Minister_of_Australia_Scott_Morrison.jpg",
+        "genislik": 442,
+        "yukseklik": 584,
+        "orijinalGenislik": 442,
+        "yazar": "The White House",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_Australia_Scott_Morrison.jpg",
+        "aciklama": "It was an honor to host the Prime Ministers of Australia, India, and Japan this afternoon for the first-ever in-person Quad Leaders Summit. We share a common vision for the future, and we’re coming to",
+        "konu": "Scott Morrison"
+      }
     },
     {
       "id": "2018-haber-1086907",
@@ -1404,8 +1230,28 @@
       },
       "yayin": "2018-09-19T08:13:00+03:00",
       "puan": 9,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Seddülbahir Kalesi",
+        "Çanakkale Savaşları",
+        "Eceabat"
+      ],
+      "baslik": "Seddülbahir Kalesi'nde tarihi top mermisi bulundu",
+      "ozet": "Çanakkale'nin Eceabat ilçesinde yer alan Seddülbahir Kalesi'ndeki yenileme faaliyetleri esnasında, Çanakkale Savaşları dönemine ait olduğu belirlenen patlamamış bir top mermisi ortaya çıkarıldı. Bölgeye intikal eden jandarma ekipleri, gerekli güvenlik önlemlerini alarak mühimmatı kontrollü bir biçimde etkisiz hale getirdi.",
+      "kategori": "Savaş",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sedd-el-Bahr_from_River_Clyde.jpg/960px-Sedd-el-Bahr_from_River_Clyde.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sedd-el-Bahr_from_River_Clyde.jpg/500px-Sedd-el-Bahr_from_River_Clyde.jpg",
+        "genislik": 960,
+        "yukseklik": 558,
+        "orijinalGenislik": 1035,
+        "yazar": "Lt. C.N. Graham",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Sedd-el-Bahr_from_River_Clyde.jpg",
+        "aciklama": "Sedd-el-Bahr fort and village seen from the SS River Clyde, 25 April 1915, during the landing at Cape Helles, Battle of Gallipoli. The lighter in the foreground contains dead from the Royal Munster Fu",
+        "konu": "Seddülbahir Kalesi"
+      }
     },
     {
       "id": "2017-haber-827354",
@@ -1420,8 +1266,15 @@
       },
       "yayin": "2017-09-19T23:10:00+03:00",
       "puan": 12,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Fenerbahçe (erkek voleybol takımı)",
+        "Halkbank (erkek voleybol takımı)",
+        "Voleybol"
+      ],
+      "baslik": "Fenerbahçe Voleybol Erkek Takımı Şampiyonlar Kupası'nı Müzesine Götürdü",
+      "ozet": "Voleybol erkekler kategorisinde lig ve kupa şampiyonlarını karşı karşıya getiren Spor Toto Şampiyonlar Kupası mücadelesi gerçekleşti. Rakibi Halkbank karşısında üstün bir oyun sergileyen Fenerbahçe, karşılaşmayı 3-1 skorla kazanarak kupanın sahibi oldu. Bu sonuçla birlikte sarı lacivertli ekip, sezonun ilk kupasını kazanma başarısı gösterdi.",
+      "kategori": "Spor"
     },
     {
       "id": "2017-haber-826762",
@@ -1436,8 +1289,16 @@
       },
       "yayin": "2017-09-19T10:54:00+03:00",
       "puan": 9,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "İltica",
+        "Almanya",
+        "Türkiye"
+      ],
+      "baslik": "Almanya diplomatik pasaportlu Türk vatandaşlarının iltica taleplerini onayladı",
+      "ozet": "Almanya makamları, diplomatik pasaport sahibi 196 Türk vatandaşının yaptığı sığınma başvurularını olumlu sonuçlandırdı. Eylül ayı içerisinde Almanya'ya iltica talebinde bulunan toplam Türk vatandaşı sayısı ise 962 seviyesine ulaştı. Bu gelişme iki ülke arasındaki diplomatik ilişkilerde yeni bir tartışma konusu haline geldi.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2016-haber-602116",
@@ -1452,8 +1313,15 @@
       },
       "yayin": "2016-09-19T16:17:00+03:00",
       "puan": 13,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Atatürk Havalimanı",
+        "Devlet Hava Meydanları İşletmesi",
+        "Sivil havacılık"
+      ],
+      "baslik": "Atatürk Havalimanı'nda günlük uçuş trafiğinde rekor seviyeye ulaşıldı",
+      "ozet": "Devlet Hava Meydanları İşletmesi Genel Müdürlüğü tarafından paylaşılan verilere göre, Atatürk Havalimanı'nda bir gün içerisinde bin 500 uçak iniş ve kalkış gerçekleştirdi. Bu yoğun hava trafiği ile havalimanı tarihinde daha önce görülmemiş bir sayıya ulaşılarak yeni bir rekor kaydedildi.",
+      "kategori": "Ulaşım"
     },
     {
       "id": "2016-haber-602219",
@@ -1468,8 +1336,15 @@
       },
       "yayin": "2016-09-19T18:57:00+03:00",
       "puan": 8,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Fenerbahçe (futbol takımı)",
+        "Kasımpaşa SK",
+        "Süper Lig"
+      ],
+      "baslik": "Fenerbahçe Kasımpaşa Karşılaşmasının Kadrosu Açıklandı",
+      "ozet": "Süper Lig sezonuna istediği başlangıcı yapamayan Fenerbahçe, Kasımpaşa deplasmanında ilk galibiyetini almak için sahaya çıkmaya hazırlandı. Teknik ekip tarafından belirlenen maç kadrosunda Robin van Persie ve Salih Uçan yer almadı. Sarı lacivertli takım bu mücadele ile ligdeki puan kaybına son vermeyi hedefledi.",
+      "kategori": "Spor"
     },
     {
       "id": "2015-haber-372729",
@@ -1484,8 +1359,14 @@
       },
       "yayin": "2015-09-19T12:21:00+03:00",
       "puan": 7,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Mardin",
+        "Mardin Valiliği"
+      ],
+      "baslik": "Mardin Valiliği güvenlik gerekçesiyle yasaklı bölge sayısını artırdı",
+      "ozet": "Mardin Valiliği tarafından yapılan açıklamada, kent genelinde sivillerin girişine kapalı olan alanların kapsamı genişletildi. Daha önce dört bölge için uygulanan giriş yasağı, alınan yeni kararla birlikte toplam yirmi bir bölgeyi kapsayacak şekilde güncellendi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2015-haber-372575",
@@ -1500,8 +1381,28 @@
       },
       "yayin": "2015-09-19T06:01:00+03:00",
       "puan": 7,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Kemal Kılıçdaroğlu",
+        "Frank-Walter Steinmeier",
+        "Siyaset"
+      ],
+      "baslik": "CHP Genel Başkanı Kılıçdaroğlu Almanya Dışişleri Bakanı ile Görüştü",
+      "ozet": "Cumhuriyet Halk Partisi Genel Başkanı Kemal Kılıçdaroğlu, Almanya Dışişleri Bakanı Frank-Walter Steinmeier ile bir araya geldi. Gerçekleşen görüşmede Steinmeier, Cumhurbaşkanı Recep Tayyip Erdoğan'ın yaklaşan seçim sürecinde güvenlik politikalarını ve terörle mücadele konusunu ön plana çıkararak siyasi bir avantaj elde etmeyi hedeflediğini ifade etti. Ayrıca görüşmede basına yönelik tutum ve güvenlik sorunlarının seçim stratejisi üzerindeki etkileri değerlendirildi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Kemal_K%C4%B1l%C4%B1%C3%A7daro%C4%9Flu_in_2024_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Kemal_K%C4%B1l%C4%B1%C3%A7daro%C4%9Flu_in_2024_%28cropped%29.jpg",
+        "genislik": 492,
+        "yukseklik": 633,
+        "orijinalGenislik": 492,
+        "yazar": "Voice of America",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kemal_K%C4%B1l%C4%B1%C3%A7daro%C4%9Flu_in_2024_(cropped).jpg",
+        "aciklama": "Kemal Kılıçdaroğlu in 2024",
+        "konu": "Kemal Kılıçdaroğlu"
+      }
     },
     {
       "id": "2014-haber-121257",
@@ -1516,8 +1417,28 @@
       },
       "yayin": "2014-09-19T18:45:00+03:00",
       "puan": 11,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "2014 İskoçya bağımsızlık referandumu",
+        "Alex Salmond",
+        "İskoçya"
+      ],
+      "baslik": "İskoçya Başbakanı Alex Salmond görevinden ayrıldı",
+      "ozet": "İskoçya genelinde gerçekleştirilen bağımsızlık referandumunun ardından Alex Salmond başbakanlık görevini bıraktığını duyurdu. Oylama sonuçlarının netleşmesiyle birlikte Salmond hem hükümet başkanlığı hem de parti liderliği görevlerinden çekilme kararı aldı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Alex_Salmond%2C_First_Minister_of_Scotland_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Alex_Salmond%2C_First_Minister_of_Scotland_%28cropped%29.jpg",
+        "genislik": 614,
+        "yukseklik": 877,
+        "orijinalGenislik": 614,
+        "yazar": "The Scottish Government",
+        "lisans": "OGL v1.0",
+        "lisansUrl": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Alex_Salmond,_First_Minister_of_Scotland_(cropped).jpg",
+        "aciklama": "Alex Salmond",
+        "konu": "Alex Salmond"
+      }
     },
     {
       "id": "2014-haber-121129",
@@ -1532,8 +1453,28 @@
       },
       "yayin": "2014-09-19T12:44:00+03:00",
       "puan": 7,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Yusuf Dikeç",
+        "Dünya Atıcılık Şampiyonası",
+        "Atıcılık"
+      ],
+      "baslik": "Yusuf Dikeç Dünya Atıcılık Şampiyonası'nda Altın Madalya Kazandı",
+      "ozet": "İspanya'nın ev sahipliğinde gerçekleştirilen Dünya Atıcılık Şampiyonası'nda Türkiye adına yarışan Yusuf Dikeç büyük bir başarıya imza attı. Milli sporcu, 25 metre merkez ateşlemeli tabanca kategorisinde rakiplerini geride bırakarak altın madalyanın sahibi oldu.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Yusuf_Dike%C3%A7_in_Yerevan_Airport.jpg/960px-Yusuf_Dike%C3%A7_in_Yerevan_Airport.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Yusuf_Dike%C3%A7_in_Yerevan_Airport.jpg/500px-Yusuf_Dike%C3%A7_in_Yerevan_Airport.jpg",
+        "genislik": 960,
+        "yukseklik": 1440,
+        "orijinalGenislik": 2016,
+        "yazar": "07",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Yusuf_Dike%C3%A7_in_Yerevan_Airport.jpg",
+        "aciklama": "Yusuf Dikeç in Zvartnots Airport before 2026 European 10 m Events Championships",
+        "konu": "Yusuf Dikeç"
+      }
     },
     {
       "id": "2012-haber-371304",
@@ -1548,8 +1489,15 @@
       },
       "yayin": "2012-09-19T19:17:00+03:00",
       "puan": 7,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Charlie Hebdo",
+        "Fransa"
+      ],
+      "baslik": "Charlie Hebdo dergisine karikatür yayını nedeniyle dava açıldı",
+      "ozet": "Fransa merkezli mizah dergisi Charlie Hebdo hakkında hukuki süreç başlatıldı. Söz konusu derginin Hz. Muhammed ile ilgili karikatürlere yer vermesi üzerine yargı yoluna gidildiği duyuruldu.",
+      "kategori": "Toplum",
+      "gorsel": null
     },
     {
       "id": "2012-haber-371246",
@@ -1564,8 +1512,14 @@
       },
       "yayin": "2012-09-19T15:06:00+03:00",
       "puan": 5,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Erdoğan Teziç",
+        "Yükseköğretim Kurulu"
+      ],
+      "baslik": "Eski YÖK Başkanı Teziç'e yönelik saldırı davasında karar açıklandı",
+      "ozet": "Eski Yükseköğretim Kurulu Başkanı Erdoğan Teziç'e karşı gerçekleştirilen silahlı saldırı girişimiyle ilgili görülen dava sonuçlandı. Mahkeme, davanın ana sanığı Nurullah İlgün hakkında kişiyi hürriyetinden yoksun kılma, ruhsatsız silah bulundurma, genel güvenliği tehlikeye atma ve görevli memura mukavemet suçlarından hüküm kurdu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2011-haber-283424",
@@ -1580,8 +1534,14 @@
       },
       "yayin": "2011-09-19T18:13:00+03:00",
       "puan": 9,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Fenerbahçe (futbol takımı)",
+        "2011 Türk futbolu şike davası"
+      ],
+      "baslik": "Fenerbahçe Kulübünde Forma Satışları Rekor Seviyeye Ulaştı",
+      "ozet": "Şike soruşturması nedeniyle zorlu bir dönemden geçen Fenerbahçe, yönetim tarafından alınan tedbirler ve taraftarların yoğun ilgisi sayesinde faaliyetlerini sürdürdü. Kulüp, bu süreçte sponsorlarından da önemli ölçüde destek gördü. Taraftarın gösterdiği bu dayanışma, forma satış rakamlarının rekor kırmasını sağladı.",
+      "kategori": "Spor"
     }
   ],
   "haberYillari": [

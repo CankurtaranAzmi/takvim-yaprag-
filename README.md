@@ -32,7 +32,7 @@ npm run build                     # dist/ klasörü = public_html içeriği
 ## GitHub kurulumu
 
 Secrets: `GEMINI_API_KEY` (aistudio.google.com/apikey, ücretsiz), `FTP_SERVER`, `FTP_USERNAME`, `FTP_PASSWORD`
-Variables (isteğe bağlı): `GEMINI_MODEL` (varsayılan `gemini-flash-lite-latest`), `FTP_DIZIN` (varsayılan `./` — FTP hesabı doğrudan public_html'i açıyorsa)
+Variables (isteğe bağlı): `GEMINI_MODEL` (varsayılan `gemini-3.1-flash-lite`), `FTP_DIZIN` (varsayılan `./` — FTP hesabı doğrudan public_html'i açıyorsa)
 
 - **Günlük içerik** (09:00): veri çeker, özet yazar, PR açar → PR'ı birleştirmek = onay.
 - **Yayınla**: main'e her birleştirmede + her gece 00:05'te derleyip FTP ile yükler.

@@ -7,7 +7,7 @@
 //   node scripts/ozet-yaz.mjs --hepsi --limit 400
 //
 // Gerekli: GEMINI_API_KEY (aistudio.google.com, kredi kartı gerekmez).
-// Model: GEMINI_MODEL (varsayılan gemini-flash-lite-latest; ücretsiz planda günde ~500 istek).
+// Model: GEMINI_MODEL (varsayılan gemini-3.1-flash-lite; ücretsiz planda günde ~500 istek).
 // Günlük kota dolarsa script hata vermeden durur; kalan olaylar ertesi gün yazılır.
 
 import fs from 'node:fs/promises';
@@ -17,7 +17,7 @@ import { KATEGORILER } from '../src/lib/kategoriler.mjs';
 import { gorselleriBul } from './gorsel.mjs';
 
 const VERI_DIZINI = path.resolve('src/data/gunler');
-const MODEL = process.env.GEMINI_MODEL || 'gemini-flash-lite-latest';
+const MODEL = process.env.GEMINI_MODEL || 'gemini-3.1-flash-lite';
 const API_KEY = process.env.GEMINI_API_KEY;
 const UA = 'TakvimYapragiBot/1.0 (https://takvimyapragi.com)';
 const BEKLEME_MS = Number(process.env.GEMINI_BEKLEME_MS || 1500); // ücretsiz planın dakika sınırına takılmamak için
@@ -129,7 +129,7 @@ async function haberYaz(ay, gun, h) {
   return gemini(istek, 0, SEMA_HABER, SISTEM_HABER);
 }
 
-// gemini-flash-lite-latest ara sıra Türkçe özel karakterleri (ı,ğ,ü,ş,ö,ç) hiç üretmeden
+// Ücretsiz Gemini modelleri ara sıra Türkçe özel karakterleri (ı,ğ,ü,ş,ö,ç) hiç üretmeden
 // tamamen ASCII yazabiliyor (bilinen, seyrek bir model davranışı). 30+ karakterlik bir
 // başlık+özette hiç Türkçe harf yoksa çıktı şüpheli sayılır ve farklı sıcaklıkla yeniden denenir.
 const TR_KARAKTER = /[ığüşöçİĞÜŞÖÇ]/;

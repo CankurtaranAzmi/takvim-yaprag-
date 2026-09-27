@@ -12,51 +12,24 @@
         "Medine",
         "hicret"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "İslam Tarihinde Bir Dönüm Noktası: Hicret",
+      "ozet": "İslam peygamberi Muhammed ve yakın arkadaşı Ebu Bekir, Mekke'deki baskıların artması üzerine 622 yılında Yesrib'e, yani bugünkü adıyla Medine'ye doğru yola çıktılar. Bu yolculuk, İslam tarihinde Hicret olarak adlandırılan ve Müslümanlar için yeni bir dönemin başlangıcını simgeleyen kritik bir olaydır. Muhammed ve Ebu Bekir'in bu göçü, sadece fiziksel bir yer değişikliği değil, aynı zamanda İslam'ın bir topluluk ve devlet düzeni olarak teşkilatlanmasının da ilk adımı olmuştur.\n\nHicret, İslam takviminin başlangıcı kabul edilerek Müslümanlar için zamanın yeni bir anlayışla ölçülmesine vesile olmuştur. Medine'ye varışla birlikte şehir, İslam medeniyetinin merkezi haline gelmiş ve burada inşa edilen Mescid-i Nebevî, inanç topluluğunun sosyal ve dini hayatının kalbi olmuştur. Ebu Bekir'in bu süreçteki sadakati ve Muhammed'e olan desteği, İslam geleneğinde büyük bir öneme sahiptir. Bu olay, İslam'ın Mekke'nin sınırlarını aşarak geniş bir coğrafyaya yayılmasının ve kurumsallaşmasının önünü açan en önemli tarihsel kırılmalardan biri olarak kabul edilir.",
+      "kategori": "Din",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Calligraphic_representation_of_Muhammad%27s_name.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Calligraphic_representation_of_Muhammad%27s_name.jpg",
-        "genislik": 521,
-        "yukseklik": 524,
-        "orijinalGenislik": 521,
-        "yazar": "Bakkouz at Arabic Wikipedia",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Calligraphic_representation_of_Muhammad%27s_name.jpg",
-        "aciklama": "The name of Muhammad in calligraphy",
-        "konu": "Muhammed"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg/960px-Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg/500px-Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 5472,
+        "yazar": "Konevi",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Al-Masjid_An-Nabawi_(Bird%27s_Eye_View).jpg",
+        "aciklama": "A bird's eye view of the Prophet's Mosque in Medina (Masjid al-Nabawi) from the southern side",
+        "konu": "Medine"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Calligraphic_representation_of_Muhammad%27s_name.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Calligraphic_representation_of_Muhammad%27s_name.jpg",
-          "genislik": 521,
-          "yukseklik": 524,
-          "orijinalGenislik": 521,
-          "yazar": "Bakkouz at Arabic Wikipedia",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Calligraphic_representation_of_Muhammad%27s_name.jpg",
-          "aciklama": "The name of Muhammad in calligraphy",
-          "konu": "Muhammed"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg/960px-Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg/500px-Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 5472,
-          "yazar": "Konevi",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Al-Masjid_An-Nabawi_(Bird%27s_Eye_View).jpg",
-          "aciklama": "A bird's eye view of the Prophet's Mosque in Medina (Masjid al-Nabawi) from the southern side",
-          "konu": "Medine"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1187-selahaddin-eyyubi-kudusu-kusatti",
@@ -66,9 +39,9 @@
         "Selahaddin Eyyubi",
         "Kudüs"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Selahaddin Eyyubi'nin Kudüs Kuşatması",
+      "ozet": "Eyyubi Devleti'nin kurucusu Selahaddin Eyyubi, 1187 yılının Eylül ayında Kudüs'ü kuşatarak bölgedeki Haçlı egemenliğine son vermeyi hedefleyen tarihi bir adım attı. Bu kuşatma, aynı yılın Temmuz ayında Hıttin Muharebesi'nde Haçlı ordusuna karşı kazanılan büyük zaferin ardından gelen stratejik bir hamleydi. Selahaddin, bölgedeki askeri üstünlüğünü kullanarak şehri teslim almaya yönelik kararlı bir tutum sergiledi.\n\nKuşatma süreci, yaklaşık 88 yıl süren Katolik hakimiyetinin sona ermesiyle sonuçlandı ve 2 Ekim 1187 tarihinde şehrin İslam dünyasına geri kazandırılmasıyla neticelendi. Bu olay, Orta Çağ tarihinin en önemli dönüm noktalarından biri olarak kabul edilir. Kudüs'ün el değiştirmesi, Avrupa'da büyük bir yankı uyandırarak Üçüncü Haçlı Seferi'nin başlamasına yol açtı. Selahaddin Eyyubi'nin bu başarısı, hem İslam dünyasında büyük bir prestij sağladı hem de bölgedeki siyasi dengeleri kökten değiştirdi.",
+      "kategori": "Savaş",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg/960px-thumbnail.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg/500px-thumbnail.jpg",
@@ -82,35 +55,8 @@
         "aciklama": "Al-Nasir I Salah al-Din Yusuf (Saladin). AH 564-589 (1169-1193 CE) Æ Dirham (30.1mm, 13.28 g, 6h). Without mint-name. Dated AH 586 (AD 1190-91). Sultan sitting facing, cross-legged, on high-backed thr",
         "konu": "Selahaddin Eyyubi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg/960px-thumbnail.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg/500px-thumbnail.jpg",
-          "genislik": 960,
-          "yukseklik": 903,
-          "orijinalGenislik": 1672,
-          "yazar": "Classical Numismatic Group (CNG)",
-          "lisans": "CC BY-SA 2.5",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Al-Nasir_I_Salah_al-Din_Yusuf_(Saladin)._AH_564-589_(1169-1193_CE)_%C3%86_Dirham_(30.1mm,_13.28_g,_6h)._Without_mint-name._Dated_AH_586_(AD_1190-91)._Sultan_sitting_facing,_cross-legged,_on_high-backed_throne_(obverse).jpg",
-          "aciklama": "Al-Nasir I Salah al-Din Yusuf (Saladin). AH 564-589 (1169-1193 CE) Æ Dirham (30.1mm, 13.28 g, 6h). Without mint-name. Dated AH 586 (AD 1190-91). Sultan sitting facing, cross-legged, on high-backed thr",
-          "konu": "Selahaddin Eyyubi"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg/960px-Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg/500px-Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 486,
-          "orijinalGenislik": 3412,
-          "yazar": "askii",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Dome_of_the_Rock_seen_from_the_Mount_of_Olives_(12395649153)_(cropped).jpg",
-          "aciklama": "Dome of the Rock seen from the Mount of Olives in Jerusalem Jerusalem",
-          "konu": "Kudüs"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1519-portekizli-kasif-ferdinand-magellan-270-kisi-ve",
@@ -121,9 +67,9 @@
         "Ferdinand Magellan",
         "İspanya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Ferdinand Macellan'ın Tarihi Dünya Turu Başlıyor",
+      "ozet": "Portekizli denizci Ferdinand Macellan, İspanyol İmparatorluğu'nun desteğini alarak 20 Eylül 1519 tarihinde beş gemilik bir filo ile İspanya'dan denize açıldı. Bu seferin temel amacı, batıya doğru giderek Baharat Adaları'na ulaşmak ve dünyanın çevresini dolaşarak yeni ticaret yolları keşfetmekti. Macellan'ın liderliğindeki bu keşif yolculuğu, denizcilik tarihinin en cesur ve zorlu girişimlerinden biri olarak kabul edilir.\n\nBu uzun ve meşakkatli yolculuk sırasında Macellan, Güney Amerika kıtasının güney ucunda bugün kendi adıyla anılan boğazı keşfetti ve Büyük Okyanus'a geçiş yaptı. Okyanusun durgunluğundan etkilenerek buraya 'Pasifik' ismini veren kâşif, yolculuğun ilerleyen aşamalarında Filipinler'de hayatını kaybetti. Macellan'ın ölümüne rağmen, seferi devralan Juan Sebastián Elcano ve hayatta kalan az sayıda denizci, 1522 yılında İspanya'ya geri dönerek dünyanın çevresini dolaşan ilk keşif grubunu oluşturdu. Bu tarihi başarı, dünyanın yuvarlak olduğunun pratik bir kanıtı olmasının yanı sıra, küresel ticaret ve coğrafi keşifler açısından da bir dönüm noktası teşkil etti.",
+      "kategori": "Keşif",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ferdinand_Magellan.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ferdinand_Magellan.jpg",
@@ -137,7 +83,8 @@
         "aciklama": "Half-length portrait of a bearded Ferdinand Magellan (circa 1480-1521) facing front.",
         "konu": "Ferdinand Magellan"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1633-galileo-galilei-dunyanin-gunesin-etrafinda-dondugunu-soyledigi",
@@ -149,9 +96,9 @@
         "Güneş",
         "Roma Engizisyonu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Galileo Galilei ve Engizisyon Mahkemesi",
+      "ozet": "Modern bilimin öncülerinden kabul edilen İtalyan astronom Galileo Galilei, 1633 yılında Roma Engizisyon Mahkemesi karşısına çıkarıldı. Galileo'nun yargılanmasının temel nedeni, Kopernik'in güneş merkezli evren modelini desteklemesi ve bu görüşü İki Büyük Dünya Sistemi Hakkında Diyalog adlı eserinde savunmasıydı. O dönemde kilise öğretileriyle çelişen bu fikirler, ciddi bir sapkınlık olarak değerlendiriliyordu. Mahkeme süreci, bilimsel gözlemlerin dini otoritelerle çatıştığı tarihin en önemli dönüm noktalarından biri haline geldi.\n\nGalileo, teleskopla yaptığı gözlemlerle Jüpiter'in uydularını ve Venüs'ün evrelerini keşfederek güneş merkezli sistemin doğruluğuna dair güçlü kanıtlar sunmuştu. Ancak bu bulgular, Dünya'nın evrenin merkezinde olduğu inancını sarsıyordu. Engizisyon baskısı altında görüşlerini geri çekmek zorunda bırakılan Galileo, hayatının geri kalanını ev hapsinde geçirdi. Bu olay, bilimsel düşüncenin özgürleşmesi ve gözleme dayalı bilimin otorite karşısındaki mücadelesinin sembolü olarak tarihe geçti.",
+      "kategori": "Bilim",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/960px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/500px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
@@ -165,48 +112,8 @@
         "aciklama": null,
         "konu": "Galileo Galilei"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/960px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/500px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
-          "genislik": 960,
-          "yukseklik": 1220,
-          "orijinalGenislik": 2500,
-          "yazar": "Justus Sustermans",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg",
-          "aciklama": null,
-          "konu": "Galileo Galilei"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/960px-The_Earth_seen_from_Apollo_17.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/500px-The_Earth_seen_from_Apollo_17.jpg",
-          "genislik": 960,
-          "yukseklik": 961,
-          "orijinalGenislik": 3000,
-          "yazar": "NASA/Apollo 17 crew; taken by either Harrison Schmitt or Ron Evans",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg",
-          "aciklama": "\"The Blue Marble\" is a famous photograph of the Earth taken on December 7, 1972, by the crew of the Apollo 17 spacecraft en route to the Moon at a distance of about 29,400 kilometres (18,300 mi). It s",
-          "konu": "Dünya"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_Sun_in_white_light.jpg/960px-The_Sun_in_white_light.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_Sun_in_white_light.jpg/500px-The_Sun_in_white_light.jpg",
-          "genislik": 960,
-          "yukseklik": 960,
-          "orijinalGenislik": 3648,
-          "yazar": "Matúš Motlo",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:The_Sun_in_white_light.jpg",
-          "aciklama": "The Sun photographed on the 8th of May, 2019 in white light (true color). Sunspots AR2740 (to the right) and AR2741 (to the left) visible. Some other interesting features include faculae, white spots ",
-          "konu": "Güneş"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1922-fransiz-ve-italyan-kuvvetleri-canakkaleden-cekildi",
@@ -217,23 +124,12 @@
         "İtalya Krallığı",
         "Çanakkale"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Havadan_cnk.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Havadan_cnk.jpg",
-        "genislik": 900,
-        "yukseklik": 602,
-        "orijinalGenislik": 900,
-        "yazar": "Myamya",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Havadan_cnk.jpg",
-        "aciklama": "Canakkale from the Air - Murat",
-        "konu": "Çanakkale"
-      },
-      "durum": "bekliyor"
+      "baslik": "Çanakkale'de İşgal Güçlerinin Geri Çekilmesi",
+      "ozet": "Kurtuluş Savaşı'nın son aşamasında, Türk ordusunun Büyük Taarruz ile elde ettiği kesin zaferin ardından diplomatik ve askeri dengeler hızla değişti. 20 Eylül 1922 tarihinde, bölgede bulunan Fransız ve İtalyan birlikleri, Çanakkale'deki işgal noktalarını terk ederek geri çekilme sürecini başlattı. Bu gelişme, Türk tarafının askeri başarısının uluslararası alandaki yansıması olarak kabul edildi.\n\nSöz konusu geri çekilme, İngiltere'nin bölgedeki yalnızlığını artırarak Mudanya Ateşkes Antlaşması'na giden yolu açan kritik bir dönemeç oldu. İtilaf Devletleri arasındaki görüş ayrılıkları ve Türk ordusunun kararlı ilerleyişi, işgalci güçlerin Anadolu'daki varlıklarını sürdürmelerini imkansız hale getirmişti. Bu olay, Türkiye'nin bağımsızlık mücadelesinde askeri zaferin diplomatik kazanımlara dönüştüğü önemli bir aşamayı temsil etmektedir.",
+      "kategori": "Savaş",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1928-italya-kralliginda-yuksek-fasist-konsey-en-yuksek",
@@ -258,9 +154,9 @@
         "Sofya",
         "Bulgaristan-Türkiye Tarafsızlık Antlaşması"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Türkiye ve Bulgaristan Arasında Tarafsızlık Antlaşması",
+      "ozet": "Türkiye Cumhuriyeti'nin kuruluş yıllarında bölgedeki barış ve istikrarı korumak amacıyla atılan diplomatik adımlardan biri, 20 Eylül 1933 tarihinde Sofya'da gerçekleştirildi. Başbakan İsmet İnönü ve Dışişleri Bakanı Tevfik Rüştü Aras, Bulgaristan'a yaptıkları resmi bir ziyaret sırasında, iki ülke arasında 1929 yılında imzalanmış olan Tarafsızlık Antlaşması'nın geçerlilik süresini uzatan bir protokolü imzaladılar. Bu hamle, genç Türkiye Cumhuriyeti'nin komşularıyla olan ilişkilerini sağlam temellere oturtma ve Balkanlar'da güven ortamını pekiştirme stratejisinin bir parçasıydı.\n\nSöz konusu antlaşma, iki ülke arasındaki diplomatik bağları güçlendirirken, olası bölgesel gerilimlerin önüne geçmeyi hedefliyordu. 1920'li yılların sonundan itibaren Türkiye'nin dış politikasında öncelik verdiği 'yurtta sulh, cihanda sulh' ilkesi doğrultusunda, Bulgaristan ile kurulan bu iş birliği, sınır güvenliği ve karşılıklı güvenin tesis edilmesi açısından kritik bir öneme sahipti. Bu ziyaret ve antlaşmanın yenilenmesi, Türkiye'nin Balkan devletleriyle olan ikili ilişkilerini geliştirmesi ve bölgedeki diplomatik nüfuzunu artırması bakımından dönemin dış politika vizyonunu yansıtan somut bir gelişme olarak tarihe geçti.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
@@ -274,35 +170,8 @@
         "aciklama": "President of Turkey 1938-1950 Ismet Inonu",
         "konu": "İsmet İnönü"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
-          "genislik": 549,
-          "yukseklik": 724,
-          "orijinalGenislik": 549,
-          "yazar": "Unknown. Official photo of President.",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Inonu_Ismet_(cropped).jpg",
-          "aciklama": "President of Turkey 1938-1950 Ismet Inonu",
-          "konu": "İsmet İnönü"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg/960px-Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg/500px-Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg",
-          "genislik": 960,
-          "yukseklik": 766,
-          "orijinalGenislik": 3641,
-          "yazar": "Deensel",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg",
-          "aciklama": "central Sofia and the Vitosha Mountain, Bulgaria",
-          "konu": "Sofya"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1937-dolmabahce-sarayi-veliaht-dairesinde-ataturkun-de-istegiyle",
@@ -313,51 +182,24 @@
         "Mustafa Kemal Atatürk",
         "Türkiye"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Türkiye'nin İlk Resim ve Heykel Müzesi Açılıyor",
+      "ozet": "Cumhuriyetin ilk yıllarında sanatın toplumsallaşması ve kültürel mirasın korunması amacıyla atılan en önemli adımlardan biri, İstanbul'da Resim ve Heykel Müzesi'nin kurulması olmuştur. Mustafa Kemal Atatürk'ün bizzat teşviki ve desteğiyle hayata geçirilen bu proje, Dolmabahçe Sarayı'nın Veliaht Dairesi'nin müze olarak düzenlenmesiyle vücut buldu. Müze, Türk resim ve heykel sanatının gelişimini belgeleyen eserleri bir araya getirerek, sanatseverlerin erişimine sunmayı hedefledi.\n\nBu müzenin açılışı, genç Cumhuriyetin modernleşme vizyonunun bir parçası olarak değerlendirilmektedir. Osmanlı döneminden Cumhuriyetin ilk yıllarına kadar uzanan geniş bir yelpazedeki sanat eserlerini bünyesinde barındıran kurum, Türk sanatçıların eserlerinin sergilendiği ilk resmi müze olma özelliğini taşır. Günümüzde de varlığını sürdüren müze, Türk sanat tarihinin en kıymetli koleksiyonlarından birine ev sahipliği yapmaya devam ederek, kültürel hafızanın korunmasında kritik bir rol oynamaktadır.",
+      "kategori": "Sanat",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Dolmabahce_Istanbul_Turkey.jpg/960px-Dolmabahce_Istanbul_Turkey.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Dolmabahce_Istanbul_Turkey.jpg/500px-Dolmabahce_Istanbul_Turkey.jpg",
-        "genislik": 960,
-        "yukseklik": 525,
-        "orijinalGenislik": 4365,
-        "yazar": "flowcomm",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Dolmabahce_Istanbul_Turkey.jpg",
-        "aciklama": "Dolmabahçe Palace seen from Bosphorus in Istanbul, Turkey",
-        "konu": "Dolmabahçe Sarayı"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
+        "genislik": 732,
+        "yukseklik": 987,
+        "orijinalGenislik": 732,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
+        "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
+        "konu": "Mustafa Kemal Atatürk"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Dolmabahce_Istanbul_Turkey.jpg/960px-Dolmabahce_Istanbul_Turkey.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Dolmabahce_Istanbul_Turkey.jpg/500px-Dolmabahce_Istanbul_Turkey.jpg",
-          "genislik": 960,
-          "yukseklik": 525,
-          "orijinalGenislik": 4365,
-          "yazar": "flowcomm",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Dolmabahce_Istanbul_Turkey.jpg",
-          "aciklama": "Dolmabahçe Palace seen from Bosphorus in Istanbul, Turkey",
-          "konu": "Dolmabahçe Sarayı"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-          "genislik": 732,
-          "yukseklik": 987,
-          "orijinalGenislik": 732,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
-          "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
-          "konu": "Mustafa Kemal Atatürk"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1942-ukraynanin-leticiv-kentinde-alman-ss-birlikleri-iki",
@@ -397,9 +239,9 @@
         "John Lennon",
         "The Beatles"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Müzik Dünyasında Bir Devrin Sonu: John Lennon Beatles'tan Ayrıldı",
+      "ozet": "Müzik tarihinin en etkili topluluklarından biri olan The Beatles'ın kurucusu ve solisti John Lennon, 20 Eylül 1969 tarihinde gerçekleşen bir grup toplantısında artık gruptan ayrılmak istediğini diğer üyelere bildirdi. Bu karar, grubun uzun süredir devam eden yaratıcı ve kişisel gerilimlerinin bir sonucu olarak ortaya çıktı. Lennon'ın bu hamlesi, popüler kültürde bir dönemin kapandığının en somut işareti olarak kabul edildi.\n\nBeatles, 1960'lı yıllar boyunca dünya çapında müzik listelerini domine etmiş, kültürel bir fenomen haline gelmişti. Ancak 1969 yılına gelindiğinde, grup üyeleri arasındaki sanatsal farklılıklar ve bireysel projelerin ağırlık kazanması, grubun bir arada kalmasını zorlaştırıyordu. Lennon'ın ayrılık kararı, grubun resmi olarak dağılmasına giden süreci hızlandırdı. Bu olay, sadece bir müzik grubunun sonu değil, aynı zamanda 1960'ların iyimser ruhunun ve müzikal devriminin de bir anlamda noktalanması olarak değerlendirilir. Lennon, bu tarihten sonra kendi solo kariyerine odaklanarak müzikal ve aktivist kimliğiyle farklı bir yolda ilerlemeyi tercih etti.",
+      "kategori": "Sanat",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/960px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/500px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg",
@@ -413,35 +255,8 @@
         "aciklama": "Press photo of John Lennon dated to 1974. It was a part of a press kit themed \"Listen to This __\" to promote his album Walls and Bridges. Bottom right reads \"Apple Records by Capitol Records\". No copy",
         "konu": "John Lennon"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/960px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/500px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 1381,
-          "yazar": "Bob Gruen; Distributed by Capitol Records",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_(color)_(cropped).jpg",
-          "aciklama": "Press photo of John Lennon dated to 1974. It was a part of a press kit themed \"Listen to This __\" to promote his album Walls and Bridges. Bottom right reads \"Apple Records by Capitol Records\". No copy",
-          "konu": "John Lennon"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/The_Beatles_members_at_New_York_City_in_1964.jpg/960px-The_Beatles_members_at_New_York_City_in_1964.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/The_Beatles_members_at_New_York_City_in_1964.jpg/500px-The_Beatles_members_at_New_York_City_in_1964.jpg",
-          "genislik": 960,
-          "yukseklik": 960,
-          "orijinalGenislik": 1110,
-          "yazar": "United Press International (UPI Telephoto) Cropping and retouching: User:Indopug and User:Misterweiss",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:The_Beatles_members_at_New_York_City_in_1964.jpg",
-          "aciklama": "Photograph of The Beatles as they arrive in New York City in 1964",
-          "konu": "The Beatles"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1974-hondurasta-kasirga-10-bin-kisi-oldu",
@@ -451,23 +266,12 @@
         "Honduras",
         "kasırga"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg/960px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg/500px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 5568,
-        "yazar": "NASA/Goddard Space Flight Center",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210).jpg",
-        "aciklama": "iss056e162175 (Sept. 12, 2018) --- Cameras outside the International Space Station captured a stark and sobering view of Hurricane Florence the morning of Sept. 12 as it churned across the Atlantic in",
-        "konu": "kasırga"
-      },
-      "durum": "bekliyor"
+      "baslik": "Honduras'ı Vuran Yıkıcı Fifi Kasırgası",
+      "ozet": "Orta Amerika ülkesi Honduras, 1974 yılının Eylül ayında Fifi Kasırgası'nın yıkıcı etkisiyle karşı karşıya kaldı. Karayipler üzerinden gelen ve şiddetli rüzgarlar ile yoğun yağışları beraberinde getiren bu tropikal siklon, ülkenin geniş bir kesiminde büyük bir yıkıma neden oldu. Felaket sonucunda yaklaşık 10 bin insan yaşamını yitirirken, binlerce kişi evsiz kaldı ve ülkenin tarım arazileri ile altyapısı ağır hasar gördü.\n\nCoğrafi konumu nedeniyle tropikal fırtınalara karşı oldukça savunmasız olan Honduras, bu olayla birlikte doğal afetlerin ekonomik ve sosyal kalkınma üzerindeki yıkıcı etkisini bir kez daha acı bir şekilde tecrübe etti. Fifi Kasırgası, sadece can kaybı açısından değil, aynı zamanda ülkenin zaten kırılgan olan ekonomisini uzun yıllar geriye götüren sonuçlarıyla da tarihe geçti. Bu felaket, bölgedeki afet yönetimi ve hazırlık süreçlerinin önemini uluslararası kamuoyunun gündemine taşıyan kritik bir dönüm noktası olmuştur.",
+      "kategori": "Afet",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1977-kuzey-vietnam-birlesmis-milletlere-kabul-edildi",
@@ -518,23 +322,12 @@
         "Beyrut",
         "Amerika Birleşik Devletleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Platinum_Tower_3_-_Beirut_-_Nabil_Gholam_Achitects.jpg/960px-Platinum_Tower_3_-_Beirut_-_Nabil_Gholam_Achitects.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Platinum_Tower_3_-_Beirut_-_Nabil_Gholam_Achitects.jpg/500px-Platinum_Tower_3_-_Beirut_-_Nabil_Gholam_Achitects.jpg",
-        "genislik": 960,
-        "yukseklik": 526,
-        "orijinalGenislik": 3000,
-        "yazar": "Richardsaad75",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Platinum_Tower_3_-_Beirut_-_Nabil_Gholam_Achitects.jpg",
-        "aciklama": "Platinum Tower - Beirut - Nabil Gholam Achitects",
-        "konu": "Beyrut"
-      },
-      "durum": "bekliyor"
+      "baslik": "Beyrut'taki ABD Büyükelçiliği'ne Yönelik İntihar Saldırısı",
+      "ozet": "Lübnan İç Savaşı'nın şiddetle devam ettiği bir dönemde, Beyrut'taki Amerika Birleşik Devletleri Büyükelçiliği'ne yönelik düzenlenen bombalı saldırı, bölgedeki güvenlik krizini derinleştiren önemli olaylardan biri olarak kayıtlara geçti. Patlayıcı yüklü bir kamyonun elçilik binasına girmesiyle gerçekleşen bu intihar eylemi sonucunda 22 kişi yaşamını yitirdi. Saldırı, o dönemde Orta Doğu'da yabancı diplomatik misyonlara yönelik artan şiddet eylemlerinin bir parçası olarak değerlendirildi.\n\nBu olay, Lübnan'ın 1975 ile 1991 yılları arasında yaşadığı iç savaşın en karanlık dönemlerinden birine denk gelmektedir. Beyrut, o yıllarda farklı gruplar arasındaki çatışmaların ve dış müdahalelerin merkezi haline gelmişti. Büyükelçiliğe yapılan bu saldırı, ABD'nin bölgedeki varlığına karşı gerçekleştirilen bir dizi eylemden biriydi ve uluslararası kamuoyunda büyük yankı uyandırdı. Saldırı sonrası bölgedeki diplomatik güvenlik önlemleri yeniden gözden geçirilirken, Lübnan'daki istikrarsızlığın uluslararası aktörler üzerindeki etkisi bir kez daha gözler önüne serildi.",
+      "kategori": "Savaş",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1988-naim-suleymanoglu-seul-olimpiyat-oyunlarinda-halter-dalinda",
@@ -545,9 +338,9 @@
         "1988 Yaz Olimpiyatları",
         "halter"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Cep Herkülü'nün Seul'de Tarihi Rekorları",
+      "ozet": "Güney Kore'nin başkenti Seul'de düzenlenen 1988 Yaz Olimpiyatları, Türk spor tarihinin en unutulmaz anlarından birine sahne oldu. Tüy sıklet kategorisinde podyuma çıkan Naim Süleymanoğlu, sergilediği olağanüstü performansla koparma, silkme ve toplamda kırdığı 6 dünya rekoruyla altın madalyaya uzandı. Bu başarısı, onu sadece bir şampiyon değil, aynı zamanda dünya spor tarihinin en ikonik figürlerinden biri haline getirdi.\n\nCep Herkülü lakabıyla tanınan Süleymanoğlu'nun bu zaferi, sadece bir madalya kazanımı değil, aynı zamanda fiziksel sınırların zorlandığı bir güç gösterisiydi. Olimpiyatlardaki bu ezici üstünlüğü, onu Time dergisinin kapağına taşıyarak uluslararası çapta büyük bir yankı uyandırdı. Kariyeri boyunca toplamda 46 dünya rekoruna imza atan Süleymanoğlu, bu başarısıyla halter sporunun efsaneleri arasına adını altın harflerle yazdırdı ve sonraki yıllarda kazandığı diğer olimpiyat madalyalarıyla başarısını perçinledi.",
+      "kategori": "Spor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Weightlifting.jpg/960px-Weightlifting.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Weightlifting.jpg/500px-Weightlifting.jpg",
@@ -561,7 +354,8 @@
         "aciklama": null,
         "konu": "halter"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1990-guney-osetya-gurcistandan-bagimsizligini-ilan-etti",
@@ -601,51 +395,12 @@
         "Pennzoil",
         "Lukoil"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Baku_Montage.jpg/960px-Baku_Montage.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Baku_Montage.jpg/500px-Baku_Montage.jpg",
-        "genislik": 960,
-        "yukseklik": 1317,
-        "orijinalGenislik": 1948,
-        "yazar": "See above. Compilation by Interfase",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Baku_Montage.jpg",
-        "aciklama": "Montage of pictures of Baku used for the specific article. Composition of these pictures:",
-        "konu": "Bakü"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Baku_Montage.jpg/960px-Baku_Montage.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Baku_Montage.jpg/500px-Baku_Montage.jpg",
-          "genislik": 960,
-          "yukseklik": 1317,
-          "orijinalGenislik": 1948,
-          "yazar": "See above. Compilation by Interfase",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Baku_Montage.jpg",
-          "aciklama": "Montage of pictures of Baku used for the specific article. Composition of these pictures:",
-          "konu": "Bakü"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/BP_petrol_station_1.jpg/960px-BP_petrol_station_1.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/BP_petrol_station_1.jpg/500px-BP_petrol_station_1.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 3648,
-          "yazar": "Oxyman",
-          "lisans": "CC BY 2.5",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.5",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:BP_petrol_station_1.jpg",
-          "aciklama": "BP Petrol filling station on Goods Way just north of London's Kings Cross Station",
-          "konu": "BP"
-        }
-      ],
-      "durum": "bekliyor"
+      "baslik": "Asrın Anlaşması: Hazar Petrolü İçin Dev Konsorsiyum",
+      "ozet": "Azerbaycan'ın bağımsızlığını kazanmasının ardından Hazar Denizi'ndeki zengin petrol kaynaklarını dünya pazarına açmak amacıyla 20 Eylül 1994 tarihinde Bakü'de tarihi bir anlaşma imzalandı. \"Asrın Anlaşması\" olarak da bilinen bu mutabakatla, İngiliz BP, Amerikan Amoco ve Pennzoil, Rus Lukoil ve Türkiye'den TPAO'nun da aralarında bulunduğu çok uluslu bir konsorsiyum oluşturuldu. Bu adım, Azerbaycan'ın enerji potansiyelini küresel ölçekte değerlendirmesi için atılan en kritik dönüm noktalarından biri kabul edilir.\n\nBu anlaşma, sadece Azerbaycan ekonomisi için değil, bölgenin jeopolitik dengeleri açısından da büyük önem taşıyordu. Konsorsiyumun kurulması, Hazar Denizi'ndeki kaynakların çıkarılması ve uluslararası pazarlara ulaştırılması için gerekli olan devasa altyapı yatırımlarının önünü açtı. Bu süreç, ilerleyen yıllarda Bakü-Tiflis-Ceyhan Petrol Boru Hattı gibi stratejik projelerin hayata geçirilmesine zemin hazırlayarak Türkiye'nin enerji koridoru olma rolünü pekiştirdi. Anlaşma, Azerbaycan'ın modernleşme sürecinde ve bölgedeki ekonomik istikrarın sağlanmasında temel bir yapı taşı haline geldi.",
+      "kategori": "Ekonomi",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1995-deniz-baykal-necdet-menzirin-gorevden-alinma-istegini",
@@ -658,9 +413,9 @@
         "Doğru Yol Partisi",
         "Cumhuriyet Halk Partisi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "DYP-CHP Koalisyonunun Sona Ermesi",
+      "ozet": "Türkiye siyasi tarihinde önemli bir kırılma noktası olan bu olay, 1995 yılının Eylül ayında yaşandı. Cumhuriyet Halk Partisi Genel Başkanı Deniz Baykal, İstanbul Emniyet Müdürü Necdet Menzir'in görevden alınması talebini reddeden Başbakan Tansu Çiller ile yürüttükleri koalisyon ortaklığını bitirme kararı aldı. Bu gelişme üzerine Başbakan Çiller, hükûmetin istifasını Cumhurbaşkanı Süleyman Demirel'e sundu. Söz konusu kriz, o dönemde DYP ve CHP arasında süregelen siyasi gerilimin bir yansıması olarak değerlendirildi.\n\nBu koalisyonun bozulması, Türkiye'nin erken seçime gitme sürecini tetikleyen kritik bir adım oldu. Tansu Çiller'in liderliğindeki Doğru Yol Partisi ile Deniz Baykal'ın genel başkanlığını yaptığı CHP arasındaki bu ayrılık, hükûmetin istikrarını tamamen ortadan kaldırdı. İstifanın ardından siyasi arenada yeni bir belirsizlik dönemi başlarken, bu olay Türk siyasi hayatında koalisyon hükûmetlerinin kırılgan yapısını gözler önüne seren örneklerden biri olarak kayıtlara geçti.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Deniz_Baykal2.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Deniz_Baykal2.jpg",
@@ -674,7 +429,8 @@
         "aciklama": "Deniz Baykal",
         "konu": "Deniz Baykal"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "2002-israil-askerleri-filistin-devlet-baskani-yaser-arafatin",
@@ -685,9 +441,9 @@
         "Filistin",
         "Yaser Arafat"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Yaser Arafat'ın Karargahına İsrail Operasyonu",
+      "ozet": "İsrail güçleri, 20 Eylül 2002 tarihinde Ramallah'ta bulunan Filistin Devlet Başkanı Yaser Arafat'ın karargah kompleksine yönelik geniş çaplı bir operasyon düzenledi. Operasyon kapsamında, Arafat'ın ofisinin de bulunduğu yerleşke içerisindeki üç bina kontrollü patlayıcılarla havaya uçuruldu. İsrail yönetimi, bu saldırının bölgedeki güvenlik gerekçeleriyle gerçekleştirildiğini savunurken, olay Filistin tarafında büyük bir tepkiyle karşılandı ve uluslararası kamuoyunda gerilimi tırmandıran bir gelişme olarak görüldü. Bu müdahale, İkinci İntifada döneminin en yoğun çatışmalarının yaşandığı bir süreçte gerçekleşti. Arafat, bu operasyon sırasında karargahın geri kalan kısmında kuşatma altında tutulmaya devam etti. Söz konusu olay, İsrail ile Filistin Ulusal Yönetimi arasındaki diplomatik kanalların tamamen tıkandığı ve askeri çatışmaların günlük yaşamın bir parçası haline geldiği dönemin sembolik anlarından biri oldu. Arafat'ın siyasi varlığını ve hareket alanını kısıtlamayı hedefleyen bu tür askeri baskılar, bölgedeki barış arayışlarını uzun süre sekteye uğratan temel unsurlar arasında yer aldı.",
+      "kategori": "Savaş",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg/960px-Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg/500px-Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg",
@@ -701,7 +457,8 @@
         "aciklama": "Photo shows: Leader of the PLO Yasser Arafat During a visit to Israeli President Ezer Weizman's residence in Caesarea, Israel. The first visit by Leader of the PLO, Arafat to Israel.",
         "konu": "Yaser Arafat"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "2019-cogunluktan-olusan-yaklasik-dort-milyon-kisi-iklim",
@@ -1154,8 +911,28 @@
       },
       "yayin": "2025-09-20T12:50:00+03:00",
       "puan": 13,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Türkiye erkek millî voleybol takımı",
+        "2025 FIVB Voleybol Erkekler Dünya Şampiyonası",
+        "Voleybol"
+      ],
+      "baslik": "A Milli Erkek Voleybol Takımı Dünya Şampiyonasında Çeyrek Finale Çıktı",
+      "ozet": "Dünya Şampiyonası son 16 turu mücadelesinde Hollanda ile karşılaşan A Milli Erkek Voleybol Takımı, rakibini 3-1 mağlup etmeyi başardı. Bu sonuçla birlikte milliler, organizasyon tarihinde ilk defa çeyrek finale yükselme başarısı gösterdi.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Europei_di_pallavolo_2005_-_Italia-Russia.jpg/960px-Europei_di_pallavolo_2005_-_Italia-Russia.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Europei_di_pallavolo_2005_-_Italia-Russia.jpg/500px-Europei_di_pallavolo_2005_-_Italia-Russia.jpg",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 2000,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Europei_di_pallavolo_2005_-_Italia-Russia.jpg",
+        "aciklama": null,
+        "konu": "Voleybol"
+      }
     },
     {
       "id": "2025-haber-2436810",
@@ -1170,8 +947,28 @@
       },
       "yayin": "2025-09-20T19:59:00+03:00",
       "puan": 11,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "2023 Kahramanmaraş depremleri",
+        "Hatay",
+        "Müteahhit"
+      ],
+      "baslik": "Hatay'daki apartman davasında müteahhit sorumluluğu reddetti",
+      "ozet": "Hatay ilinde elli bir kişinin hayatını kaybettiği Cemil Çapar Apartmanı ile ilgili görülen davada, binayı inşa eden Mehmet Özkan savunma yaptı. Yaşanan yıkımdan dolayı herhangi bir kusuru bulunmadığını öne süren müteahhit, depremin doğal bir afet olduğunu belirterek sorumluluk almaktan kaçındı. Sanığın bu ifadeleri, duruşma salonunda bulunan mağdur aileler ve avukatlar tarafından tepkiyle karşılandı.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Collage_of_2023_Turkey%E2%80%93Syria_earthquake.jpg/960px-Collage_of_2023_Turkey%E2%80%93Syria_earthquake.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Collage_of_2023_Turkey%E2%80%93Syria_earthquake.jpg/500px-Collage_of_2023_Turkey%E2%80%93Syria_earthquake.jpg",
+        "genislik": 960,
+        "yukseklik": 960,
+        "orijinalGenislik": 1400,
+        "yazar": "Adem",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Collage_of_2023_Turkey%E2%80%93Syria_earthquake.jpg",
+        "aciklama": "2023 Turkey–Syria earthquake",
+        "konu": "2023 Kahramanmaraş depremleri"
+      }
     },
     {
       "id": "2024-haber-2249463",
@@ -1186,8 +983,14 @@
       },
       "yayin": "2024-09-20T09:24:00+03:00",
       "puan": 11,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Stade Brestois 29",
+        "UEFA Şampiyonlar Ligi"
+      ],
+      "baslik": "Brest Şampiyonlar Ligi tarihindeki ilk galibiyetini elde etti",
+      "ozet": "Fransız temsilcisi Brest, Şampiyonlar Ligi'ndeki ilk hafta mücadelesinde sahasında Sturm Graz ile karşı karşıya geldi. Rakibini 2-1 mağlup eden Brest, turnuva tarihindeki ilk maçından galibiyetle ayrılmayı başardı.",
+      "kategori": "Spor"
     },
     {
       "id": "2024-haber-2249740",
@@ -1202,8 +1005,15 @@
       },
       "yayin": "2024-09-20T19:37:00+03:00",
       "puan": 10,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Cumhurbaşkanlığı Kupası (basketbol)",
+        "Fenerbahçe Beko",
+        "Anadolu Efes"
+      ],
+      "baslik": "Cumhurbaşkanlığı Kupası Finali İçin Maç Programı Açıklandı",
+      "ozet": "Fenerbahçe Beko ile Anadolu Efes takımları arasında oynanacak olan Cumhurbaşkanlığı Kupası mücadelesinin detayları netleşti. Basketbol Gelişim Merkezi ev sahipliğinde gerçekleşecek olan karşılaşmanın başlama saati 18.00 olarak belirlendi.",
+      "kategori": "Spor"
     },
     {
       "id": "2023-haber-2121189",
@@ -1218,8 +1028,15 @@
       },
       "yayin": "2023-09-20T04:00:00+03:00",
       "puan": 11,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "İhtiyaç kredisi",
+        "Enflasyon"
+      ],
+      "baslik": "İhtiyaç kredilerindeki faiz artışı ödeme güçlüğü endişesini beraberinde getirdi",
+      "ozet": "Merkez Bankasının uyguladığı yeni faiz politikası tüketici kredilerini doğrudan etkiledi. Mevduat faiz oranlarının yüzde 25 ile 40 bandında seyrettiği dönemde ihtiyaç kredilerindeki faizler yüzde 60 seviyelerine ulaştı. Ekonomistler, enflasyon karşısında borçlanarak ayakta kalmaya çalışan vatandaşların gelecek yıl ciddi bir ödeme kriziyle karşı karşıya kalabileceği uyarısında bulundu.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2121495",
@@ -1234,8 +1051,14 @@
       },
       "yayin": "2023-09-20T17:28:00+03:00",
       "puan": 10,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Sultangazi",
+        "İstanbul"
+      ],
+      "baslik": "Sultangazi'de silahlı saldırı sonucu bir genç yaşamını yitirdi",
+      "ozet": "İstanbul'un Sultangazi ilçesinde seyir halindeki bir otomobilden çevreye ateş açıldı. Gerçekleşen saldırı neticesinde on altı yaşındaki bir çocuk hayatını kaybetti. Olay sırasında yaralanan diğer üç kişinin ise hastanede tedavi altına alındığı bildirildi.",
+      "kategori": "Toplum"
     },
     {
       "id": "2022-haber-1983180",
@@ -1250,8 +1073,15 @@
       },
       "yayin": "2022-09-20T14:19:00+03:00",
       "puan": 13,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Faik Öztrak",
+        "Cumhuriyet Halk Partisi",
+        "Türkiye ekonomisi"
+      ],
+      "baslik": "Faik Öztrak'tan ekonomi yönetimine finansman girişi sorusu",
+      "ozet": "Cumhuriyet Halk Partisi Sözcüsü Faik Öztrak, Hazine ve Maliye Bakanlığı ile Merkez Bankası yetkililerine yönelik açıklamalarda bulundu. Öztrak, 2011 yılından itibaren Türkiye'ye giren kaynağı belirsiz finansman miktarındaki artışa dikkat çekerek, bu durumun nedenlerine dair kamuoyuna tatmin edici bir bilgilendirme yapılması gerektiğini ifade etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-1983360",
@@ -1266,8 +1096,28 @@
       },
       "yayin": "2022-09-20T21:40:00+03:00",
       "puan": 12,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Aleksandr Lukaşenko",
+        "Belarus Silahlı Kuvvetleri",
+        "Belarus"
+      ],
+      "baslik": "Belarus ordusuna savaş durumu alarmı talimatı verildi",
+      "ozet": "Belarus Cumhurbaşkanı Aleksandr Lukaşenko, ülkesindeki belirli askeri birliklerin savaş dönemi prosedürlerine uygun şekilde alarma geçirilmesini istedi. Söz konusu birimlerin operasyonel hazırlık seviyelerinin yükseltilmesi amacıyla bu yönde bir karar alındı.",
+      "kategori": "Savaş",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9B%D1%83%D0%BA%D0%B0%D1%88%D0%B5%D0%BD%D0%BA%D0%BE_-_08_%2814-03-2025%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9B%D1%83%D0%BA%D0%B0%D1%88%D0%B5%D0%BD%D0%BA%D0%BE_-_08_%2814-03-2025%29.jpg",
+        "genislik": 929,
+        "yukseklik": 1245,
+        "orijinalGenislik": 929,
+        "yazar": "Пресс-служба Совета Федерации РФ",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9B%D1%83%D0%BA%D0%B0%D1%88%D0%B5%D0%BD%D0%BA%D0%BE_-_08_(14-03-2025).jpg",
+        "aciklama": "Встреча Председателя Совета Федерации Валентины Матвиенко с Президентом Республики Беларусь Александром Лукашенко.",
+        "konu": "Aleksandr Lukaşenko"
+      }
     },
     {
       "id": "2021-haber-1870486",
@@ -1282,8 +1132,14 @@
       },
       "yayin": "2021-09-20T19:01:00+03:00",
       "puan": 13,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Triatlon",
+        "Bahadır Tama"
+      ],
+      "baslik": "Bahadır Tama Ironman Dünya Şampiyonasında Önemli Bir Derece Elde Etti",
+      "ozet": "Amerika Birleşik Devletleri sınırları içerisinde düzenlenen Ironman 70.3 Dünya Şampiyonası müsabakalarında milli sporcu Bahadır Tama yarıştı. Organizasyonu yedinci sırada tamamlayan Tama, bu sonuçla Türkiye adına şampiyona tarihindeki en başarılı performansı sergilemiş oldu.",
+      "kategori": "Spor"
     },
     {
       "id": "2021-haber-1870467",
@@ -1298,8 +1154,15 @@
       },
       "yayin": "2021-09-20T17:30:00+03:00",
       "puan": 12,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Ahmet Erozan",
+        "Emine Erdoğan",
+        "İYİ Parti"
+      ],
+      "baslik": "Ahmet Erozan Emine Erdogan'in Saat Tercihini Gündeme Getirdi",
+      "ozet": "İYİ Parti Genel Başkan Yardımcısı Ahmet Erozan, Emine Erdoğan'ın kullandığı kol saatinin fiyatına ilişkin açıklamalarda bulundu. Erozan, söz konusu saatin değerinin 30 bin Euro seviyesinden başladığını ifade etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2020-haber-1767595",
@@ -1314,8 +1177,15 @@
       },
       "yayin": "2020-09-20T23:44:00+03:00",
       "puan": 10,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Balkan Atletizm Şampiyonası",
+        "Atletizm",
+        "Türkiye"
+      ],
+      "baslik": "Türkiye Balkan Atletizm Şampiyonası'nı İkinci Sırada Tamamladı",
+      "ozet": "Balkan Büyükler Atletizm Şampiyonası'nda mücadele eden Türkiye, organizasyonu genel klasmanda ikinci olarak bitirdi. Sporcuların toplamda dokuz altın madalya kazandığı turnuvada, ülke hanesine yazılan toplam madalya sayısı yirmi bire ulaştı.",
+      "kategori": "Spor"
     },
     {
       "id": "2020-haber-1767541",
@@ -1330,8 +1200,15 @@
       },
       "yayin": "2020-09-20T18:55:00+03:00",
       "puan": 10,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Dünya Ralli Şampiyonası",
+        "Türkiye Rallisi",
+        "TOSFED"
+      ],
+      "baslik": "Dünya Ralli Şampiyonası Türkiye etabı tamamlandı",
+      "ozet": "Türkiye Otomobil Sporları Federasyonu tarafından Cumhurbaşkanlığı himayesinde düzenlenen Dünya Ralli Şampiyonası'nın beşinci yarışı nihayete erdi. Organizasyon kapsamında gerçekleştirilen Türkiye Rallisi, belirlenen takvimin ardından sona erdi.",
+      "kategori": "Spor"
     },
     {
       "id": "2018-haber-1089114",
@@ -1346,8 +1223,28 @@
       },
       "yayin": "2018-09-20T20:35:00+03:00",
       "puan": 9,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Enflasyon",
+        "Türkiye ekonomisi"
+      ],
+      "baslik": "Merkez Bankası enflasyonla mücadele için sıkı para politikasına devam edecek",
+      "ozet": "Türkiye Cumhuriyet Merkez Bankası Para Politikası Kurulu, yıllık enflasyon oranlarındaki artışın genel bir eğilim gösterdiğini belirtti. Kurul, fiyat artışlarının temel nedenleri arasında döviz kurlarındaki değişimlerin yanı sıra enerji ve temel mal gruplarının etkili olduğunu vurguladı. Bu doğrultuda kurum, enflasyonu kontrol altına almak amacıyla mevcut sıkı para politikası duruşunu kararlılıkla sürdüreceğini açıkladı.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Finans_Merkezi.jpg/960px-Finans_Merkezi.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Finans_Merkezi.jpg/500px-Finans_Merkezi.jpg",
+        "genislik": 960,
+        "yukseklik": 960,
+        "orijinalGenislik": 3000,
+        "yazar": "Ail Subway",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Finans_Merkezi.jpg",
+        "aciklama": "İstanbul Financial Centre",
+        "konu": "Türkiye Cumhuriyet Merkez Bankası"
+      }
     },
     {
       "id": "2018-haber-1089180",
@@ -1362,8 +1259,28 @@
       },
       "yayin": "2018-09-20T22:11:00+03:00",
       "puan": 8,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Almanya-Türkiye ilişkileri",
+        "Almanya"
+      ],
+      "baslik": "Cumhurbaşkanı Erdoğan'ın Almanya Ziyaretinde Konuşma Yapmayacağı Belirtildi",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın gerçekleştireceği Almanya ziyareti kapsamında, ülkede yaşayan Türk vatandaşlarına yönelik geniş katılımlı bir etkinlikte konuşma yapması planlanmadı. Yetkililer, ziyaret programında bu yönde bir hitap etkinliğinin yer almadığını ifade etti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2017-haber-827940",
@@ -1378,8 +1295,28 @@
       },
       "yayin": "2017-09-20T18:16:00+03:00",
       "puan": 8,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Bursa",
+        "Nilüfer",
+        "Deprem"
+      ],
+      "baslik": "Bursa'daki tarihsel deprem fayının kolları bilimsel çalışma ile belirlendi",
+      "ozet": "Nilüfer Belediyesi ve Anadolu Üniversitesi Yer ve Uzay Bilimleri Enstitüsü tarafından yürütülen ortak bir araştırma projesi tamamlandı. Bu çalışma kapsamında, geçmişte büyük bir sarsıntıya neden olan fay hattının Nilüfer ilçesi sınırları içerisindeki uzantıları tespit edildi. Elde edilen veriler, bölgedeki sismik hareketliliğin takibi ve gelecekteki olası risklerin değerlendirilmesi açısından önemli bir adım olarak değerlendirildi.",
+      "kategori": "Bilim",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Teleferik%2C_Uluda%C4%9F.jpg/960px-Teleferik%2C_Uluda%C4%9F.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Teleferik%2C_Uluda%C4%9F.jpg/500px-Teleferik%2C_Uluda%C4%9F.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 3888,
+        "yazar": "Ahmet Baris Isitan",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Teleferik,_Uluda%C4%9F.jpg",
+        "aciklama": "Bursa - Mt. Uludağ gondola lift",
+        "konu": "Bursa"
+      }
     },
     {
       "id": "2017-haber-828144",
@@ -1394,8 +1331,14 @@
       },
       "yayin": "2017-09-20T22:57:00+03:00",
       "puan": 7,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Fikret Orman",
+        "Beşiktaş JK"
+      ],
+      "baslik": "Fikret Orman görevden ayrılacağı zamanı duyurdu",
+      "ozet": "Beşiktaş Kulübü Başkanı Fikret Orman, başkanlık görevini bırakacağı dönemi kamuoyuyla paylaştı. Açıklamalarında kulüp hedeflerine de değinen Orman, en büyük hayalinin takımıyla birlikte UEFA Kupası şampiyonluğu yaşamak olduğunu ifade etti.",
+      "kategori": "Spor"
     },
     {
       "id": "2016-haber-602903",
@@ -1410,8 +1353,28 @@
       },
       "yayin": "2016-09-20T21:13:00+03:00",
       "puan": 8,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Birleşmiş Milletler Genel Kurulu",
+        "Recep Tayyip Erdoğan",
+        "FETÖ"
+      ],
+      "baslik": "Cumhurbaşkanı Erdoğan Birleşmiş Milletler Genel Kurulu'nda konuştu",
+      "ozet": "Birleşmiş Milletler Genel Kurulu toplantısında kürsüye çıkan Cumhurbaşkanı Recep Tayyip Erdoğan, uluslararası topluma seslendi. Konuşmasında FETÖ yapılanmasının küresel bir tehdit oluşturduğuna dikkat çeken Erdoğan, tüm ülkelerin bu yapıya karşı acil önlem alması gerektiğini vurguladı. Geç kalınması durumunda yaşanabilecek risklerin altını çizen Erdoğan, örgütle mücadele konusunda iş birliği çağrısında bulundu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/UN_General_Assembly_hall.jpg/960px-UN_General_Assembly_hall.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/UN_General_Assembly_hall.jpg/500px-UN_General_Assembly_hall.jpg",
+        "genislik": 960,
+        "yukseklik": 596,
+        "orijinalGenislik": 1920,
+        "yazar": "Patrick Gruban, cropped and downsampled by Pine",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:UN_General_Assembly_hall.jpg",
+        "aciklama": "United Nations General Assembly hall in New York City.",
+        "konu": "Birleşmiş Milletler Genel Kurulu"
+      }
     },
     {
       "id": "2016-haber-602711",
@@ -1426,8 +1389,15 @@
       },
       "yayin": "2016-09-20T15:38:00+03:00",
       "puan": 7,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Orta Doğu Teknik Üniversitesi",
+        "Göktürk-2",
+        "Recep Tayyip Erdoğan"
+      ],
+      "baslik": "ODTÜ'deki protesto eylemine katılan öğrencilere hapis cezası verildi",
+      "ozet": "Dönemin başbakanı olan Recep Tayyip Erdoğan'ın Göktürk-2 uydusunun fırlatılma töreni için Orta Doğu Teknik Üniversitesi'ne yaptığı ziyaret sırasında yaşanan protestolar yargıya taşındı. Mahkeme, olaylara karıştığı gerekçesiyle yargılanan 45 öğrenci hakkında onar ay hapis cezasına hükmetti. Söz konusu karar, üniversite yerleşkesinde gerçekleşen gösterilerin ardından hukuki süreç neticesinde alındı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2015-haber-373165",
@@ -1442,8 +1412,14 @@
       },
       "yayin": "2015-09-20T12:19:00+03:00",
       "puan": 7,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Karaman",
+        "Silahlı saldırı"
+      ],
+      "baslik": "Karaman'da seyir halindeki araca silahlı saldırı düzenlendi",
+      "ozet": "Karaman'da bir ziyaretten evlerine dönmekte olan ailenin bulunduğu otomobile, kimliği henüz tespit edilemeyen kişi veya kişilerce ateş açıldı. Gerçekleşen saldırı sonucunda araçta bulunan ikisi çocuk olmak üzere toplam dört kişi yaralandı. Olayın ardından bölgede inceleme başlatıldı.",
+      "kategori": "Toplum"
     },
     {
       "id": "2015-haber-373101",
@@ -1458,8 +1434,15 @@
       },
       "yayin": "2015-09-20T09:26:00+03:00",
       "puan": 6,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Yenişehir",
+        "Bursa",
+        "Siyaset"
+      ],
+      "baslik": "Bursa Yenişehir'de siyasi parti yöneticisine silahlı saldırı",
+      "ozet": "Bursa'nın Yenişehir ilçesinde görev yapan Adalet ve Kalkınma Partisi Yönetim Kurulu Üyesi Mustafa Atan, hayvanlarını otlattığı sırada kimliği belirsiz kişilerce düzenlenen silahlı saldırıya uğradı. Halkla İlişkiler Başkan Yardımcılığı görevini yürüten Atan, saldırı sonucunda yaşamını yitirdi.",
+      "kategori": "Toplum"
     },
     {
       "id": "2014-haber-121561",
@@ -1474,8 +1457,15 @@
       },
       "yayin": "2014-09-20T17:51:00+03:00",
       "puan": 6,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Emrehan Halıcı",
+        "Cumhuriyet Halk Partisi",
+        "Siyaset"
+      ],
+      "baslik": "Ankara Milletvekili Emrehan Halıcı Cumhuriyet Halk Partisi'nden ayrıldı",
+      "ozet": "Cumhuriyet Halk Partisi Ankara Milletvekili Emrehan Halıcı, görevinden ve partisinden ayrılma kararı aldığını duyurdu. Söz konusu istifa kararı kamuoyuna resmi bir açıklama ile bildirildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2014-haber-121487",
@@ -1490,8 +1480,15 @@
       },
       "yayin": "2014-09-20T13:35:00+03:00",
       "puan": 5,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "IŞİD",
+        "Türkiye"
+      ],
+      "baslik": "IŞİD tarafından rehin tutulan vatandaşlar serbest bırakıldı",
+      "ozet": "IŞİD örgütü tarafından 101 gün boyunca alıkonulan vatandaşlar özgürlüklerine kavuştu. Rehinelerin yakınları serbest bırakılma haberini memnuniyetle karşılarken, süreçle ilgili bazı eleştirilerde bulundu. Ailesinden üç kişiyi rehin olarak bekleyen Muammer Taşdelen, yaşanan gelişmelere dair tepkisini dile getirdi.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2012-haber-371402",
@@ -1506,8 +1503,28 @@
       },
       "yayin": "2012-09-20T11:45:00+03:00",
       "puan": 6,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Antalya Altın Portakal Film Festivali",
+        "Istvan Szabo",
+        "Antalya"
+      ],
+      "baslik": "49. Uluslararası Antalya Altın Portakal Film Festivali Hazırlıkları",
+      "ozet": "Antalya Büyükşehir Belediyesi ve Antalya Kültür Sanat Vakfı ortaklığıyla gerçekleştirilecek olan festivalin uluslararası uzun metraj film yarışması için süreç başlatıldı. Yarışmanın jüri başkanlığı görevini Macar yönetmen Istvan Szabo üstlendi. Ekim ayında düzenlenmesi planlanan etkinlik kapsamında sinema dünyasından önemli isimler bir araya gelecek.",
+      "kategori": "Sanat",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg/960px-Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg/500px-Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg",
+        "genislik": 960,
+        "yukseklik": 540,
+        "orijinalGenislik": 5312,
+        "yazar": "Esginmurat",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg",
+        "aciklama": "A view taken from the cliffs towards Antalya Konyaaltı Beach in February 2018. The snowy part in the middle is the Bey Mountains and the snowy mountain in the right is Tunç Mountain. The photo is in t",
+        "konu": "Antalya"
+      }
     },
     {
       "id": "2012-haber-371466",
@@ -1522,8 +1539,16 @@
       },
       "yayin": "2012-09-20T16:25:00+03:00",
       "puan": 3,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Osama Mustafa Hasan Nasr",
+        "CIA",
+        "İtalya"
+      ],
+      "baslik": "İtalya Yargıtayı CIA ajanları hakkındaki mahkumiyet kararını onayladı",
+      "ozet": "İtalya yüksek mahkemesi, 2003 yılında Milano imamı Osama Mustafa Hasan Nasr'ın kaçırılmasıyla ilgili davada nihai kararını verdi. Mahkeme, operasyonda görev alan 23 Amerikalı istihbarat görevlisinin suçlu bulunduğuna dair daha önceki hükmü onayladı. Söz konusu olay, CIA ve İtalyan gizli servisinin ortaklaşa yürüttüğü bir çalışma olarak kayıtlara geçmişti.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2011-haber-283640",
@@ -1538,8 +1563,27 @@
       },
       "yayin": "2011-09-20T14:46:00+03:00",
       "puan": 9,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Raila Odinga",
+        "Kenya"
+      ],
+      "baslik": "Kenya Başbakanlık binasında el bombası tespit edildi",
+      "ozet": "Kenya hükümet merkezinde yapılan incelemeler sırasında bir el bombası ele geçirildi. Söz konusu tehlikeli madde nedeniyle Başbakan Raila Odinga güvenlik önlemleri kapsamında çalışma ofisinden tahliye edildi. Olayın ardından bölgede geniş çaplı güvenlik tedbirleri alındı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Raila_Odinga_in_2017.jpg/960px-Raila_Odinga_in_2017.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Raila_Odinga_in_2017.jpg/500px-Raila_Odinga_in_2017.jpg",
+        "genislik": 960,
+        "yukseklik": 1111,
+        "orijinalGenislik": 1785,
+        "yazar": "Chatham House",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Raila_Odinga_in_2017.jpg",
+        "aciklama": "Raila Odinga at Chatham House, London",
+        "konu": "Raila Odinga"
+      }
     },
     {
       "id": "2011-haber-283688",
@@ -1554,8 +1598,27 @@
       },
       "yayin": "2011-09-20T16:49:00+03:00",
       "puan": 8,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "2009 L'Aquila depremi",
+        "İtalya"
+      ],
+      "baslik": "L'Aquila depremiyle ilgili uzmanların yargı süreci başladı",
+      "ozet": "İtalya'nın L'Aquila bölgesinde yaşanan ve yüzlerce kişinin hayatını kaybetmesine yol açan sarsıntının ardından hukuki süreç devreye girdi. Felaketle bağlantılı olarak ihmal şüphesiyle suçlanan yedi uzman hakim karşısına çıktı. Mahkeme heyeti, deprem öncesindeki uyarıların yeterliliği ve sorumluluklar üzerine incelemelerine başladı.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/20090406_013242_umbria_quake_intensity.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/20090406_013242_umbria_quake_intensity.jpg",
+        "genislik": 800,
+        "yukseklik": 927,
+        "orijinalGenislik": 800,
+        "yazar": "INGV",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:20090406_013242_umbria_quake_intensity.jpg",
+        "aciklama": "Intensity map of Central Italy Earthquake 2009-04-06 (L'Aquila)",
+        "konu": "2009 L'Aquila depremi"
+      }
     }
   ],
   "haberYillari": [

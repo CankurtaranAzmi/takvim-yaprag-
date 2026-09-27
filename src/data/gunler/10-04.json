@@ -1470,8 +1470,15 @@
       },
       "yayin": "2025-10-04T04:00:00+03:00",
       "puan": 12,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Adalet ve Kalkınma Partisi",
+        "Recep Tayyip Erdoğan",
+        "Siyaset"
+      ],
+      "baslik": "Adalet ve Kalkınma Partisi teşkilatlarında görev değişimi süreci",
+      "ozet": "Parti genel merkezinin talimatıyla başlatılan görevden alma işlemleri genişleyerek devam ediyor. Teşkilat yapısında yapılacak kapsamlı değişikliklerin birçok il başkanını etkileyeceği öngörülüyor. Bu süreçte parti içinde yaşanabilecek olası huzursuzluklar ve kırgınlıklar ise dikkat çekiyor.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2025-haber-2440544",
@@ -1486,8 +1493,14 @@
       },
       "yayin": "2025-10-04T04:00:00+03:00",
       "puan": 12,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Siyaset"
+      ],
+      "baslik": "Türkiye Büyük Millet Meclisi yeni dönemin ilk oturumlarını gerçekleştirdi",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu yeni yasama dönemine başladı. Oturumlar sırasında gündeme getirilen yoksullukla mücadele, adil yargılanma ve dış temasların detaylandırılmasına yönelik üç farklı önerge, Adalet ve Kalkınma Partisi ile Milliyetçi Hareket Partisi milletvekillerinin oylarıyla kabul edilmedi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2254466",
@@ -1502,8 +1515,28 @@
       },
       "yayin": "2024-10-04T13:41:00+03:00",
       "puan": 10,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Elektrikli araç",
+        "Avrupa Birliği",
+        "Çin ekonomisi"
+      ],
+      "baslik": "Avrupa Birliği Çin menşeli elektrikli araçlara ek vergi getirmeyi oyluyor",
+      "ozet": "Avrupa Birliği, Çin'de üretilen elektrikli otomobillere yönelik yüzde 45'e varan gümrük vergisi düzenlemesini oylamaya sundu. Fransa, İtalya, Yunanistan ve Polonya gibi ülkelerin desteklemesi beklenen bu karar, iki taraf arasındaki ekonomik ilişkilerde gerginliğe yol açtı. Çin yönetimi ise söz konusu vergi uygulamasına karşı çeşitli misilleme seçeneklerini değerlendirmeye aldı.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg/960px-Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg/500px-Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 2304,
+        "yazar": "Bontenbal",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg",
+        "aciklama": "Nissan Leaf recharging in Amsterdam, the Netherlands",
+        "konu": "Elektrikli araç"
+      }
     },
     {
       "id": "2024-haber-2254366",
@@ -1518,8 +1551,15 @@
       },
       "yayin": "2024-10-04T01:00:00+03:00",
       "puan": 9,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Resmi Gazete",
+        "Recep Tayyip Erdoğan",
+        "Türkiye"
+      ],
+      "baslik": "Resmi Gazete'de yeni atama kararları yayımlandı",
+      "ozet": "Cumhurbaşkanı tarafından imzalanan atama kararları yürürlüğe girdi. Bu kapsamda Adalet Bakanlığı Bakan Yardımcılığı görevine Mehmet Yılmaz getirilirken, Cumhurbaşkanlığı İdari İşler Başkanlığı Güvenlik İşleri Genel Müdürlüğü görevine ise Hasan Yıldırım atandı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2023-haber-2126521",
@@ -1534,8 +1574,15 @@
       },
       "yayin": "2023-10-04T15:57:00+03:00",
       "puan": 10,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Şeref Arpacı",
+        "Denizli",
+        "Türkiye Büyük Millet Meclisi"
+      ],
+      "baslik": "Denizli'deki trafik kazaları Türkiye Büyük Millet Meclisi gündemine taşındı",
+      "ozet": "Denizli milletvekili Şeref Arpacı, şehirde sıkça yaşanan trafik kazalarını ve tehlike arz eden yolları İçişleri Bakanlığına yönelttiği bir soru önergesiyle meclis gündemine getirdi. Söz konusu bölgelerde gerekli güvenlik önlemlerinin neden alınmadığını sorgulayan Arpacı, yaşanan kazalara karşı yetkililerin sessiz kalmasını eleştirdi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2023-haber-2126378",
@@ -1550,8 +1597,16 @@
       },
       "yayin": "2023-10-04T15:36:00+03:00",
       "puan": 10,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Galatasaray (futbol takımı)",
+        "Manchester United",
+        "UEFA Şampiyonlar Ligi"
+      ],
+      "baslik": "Galatasaray deplasmanda Manchester United engelini üç golle aştı",
+      "ozet": "UEFA Şampiyonlar Ligi A Grubu ikinci hafta mücadelesinde Galatasaray, İngiltere deplasmanında Manchester United ile karşı karşıya geldi. Rakibini 3-2 mağlup etmeyi başaran sarı-kırmızılı ekip, turnuvadaki uzun süreli galibiyet hasretine bu sonuçla nokta koydu.",
+      "kategori": "Spor",
+      "gorsel": null
     },
     {
       "id": "2022-haber-1988692",
@@ -1566,8 +1621,15 @@
       },
       "yayin": "2022-10-04T23:03:00+03:00",
       "puan": 15,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Basın Kanunu",
+        "Türkiye Büyük Millet Meclisi"
+      ],
+      "baslik": "Basın Kanunu ile ilgili düzenlemenin ilk maddeleri onaylandı",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu çatısı altında yürütülen yasal düzenleme görüşmelerinde önemli bir aşama kaydedildi. Kamuoyunda tartışmalara yol açan kanun teklifinin ilk iki maddesi, yapılan oylama sonucunda kabul edilerek yasalaşma sürecine dahil edildi. Söz konusu oturumda teklifin geneli üzerindeki müzakereler devam ederken, kabul edilen maddelerle birlikte yasal süreç resmen ilerlemeye başladı.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2022-haber-1988639",
@@ -1582,8 +1644,15 @@
       },
       "yayin": "2022-10-04T18:00:00+03:00",
       "puan": 12,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Carlo Ancelotti",
+        "Real Madrid",
+        "UEFA Şampiyonlar Ligi"
+      ],
+      "baslik": "Carlo Ancelotti Real Madridin Avrupa Hedeflerini Degerlendirdi",
+      "ozet": "Real Madrid teknik direktörü Carlo Ancelotti, UEFA Şampiyonlar Ligi kapsamında Shakhtar Donetsk ile oynanacak müsabaka öncesinde basın mensuplarının sorularını yanıtladı. Deneyimli çalıştırıcı, Avrupa futbolunun en prestijli turnuvasındaki temel amaçlarının her zaman şampiyonluk olduğunu vurguladı.",
+      "kategori": "Spor"
     },
     {
       "id": "2021-haber-1874061",
@@ -1598,8 +1667,15 @@
       },
       "yayin": "2021-10-04T10:56:00+03:00",
       "puan": 16,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Dünya Kadınlar Boks Şampiyonası",
+        "Boks",
+        "İstanbul"
+      ],
+      "baslik": "Dünya Kadınlar Boks Şampiyonası için belirlenen ödül miktarı açıklandı",
+      "ozet": "İstanbul ev sahipliğinde gerçekleştirilecek olan Dünya Kadınlar Boks Şampiyonası kapsamında sporculara verilecek toplam ödül tutarı duyuruldu. Organizasyon yönetimi, turnuvada dereceye giren boksörlere dağıtılacak toplam miktarın 2,4 milyon dolar seviyesinde olacağını belirtti.",
+      "kategori": "Spor"
     },
     {
       "id": "2021-haber-1873960",
@@ -1614,8 +1690,16 @@
       },
       "yayin": "2021-10-04T07:52:00+03:00",
       "puan": 11,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Kişida Fumio",
+        "Japonya",
+        "Liberal Demokrat Parti (Japonya)"
+      ],
+      "baslik": "Japonya'nın Yeni Başbakanı Kişida Fumio Oldu",
+      "ozet": "Japonya'da iktidar partisi olan Liberal Demokrat Parti'nin lideri Kişida Fumio, Temsilciler Meclisi'nde gerçekleştirilen özel oturumda yapılan oylama sonucunda ülkenin yeni başbakanı olarak belirlendi. Bu gelişmeyle birlikte Kişida Fumio, hükümetin başına geçerek görevine resmen başladı.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2020-haber-1771130",
@@ -1630,8 +1714,15 @@
       },
       "yayin": "2020-10-04T18:10:00+03:00",
       "puan": 8,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Kasımpaşa SK",
+        "Galatasaray SK",
+        "Süper Lig"
+      ],
+      "baslik": "Kasımpaşa Galatasaray karşısında sahadan galibiyetle ayrıldı",
+      "ozet": "Recep Tayyip Erdoğan Stadı'nda oynanan müsabakada Kasımpaşa ile Galatasaray karşı karşıya geldi. Ev sahibi ekip, rakibine karşı tek gol bularak karşılaşmayı kazandı ve üç puanın sahibi oldu.",
+      "kategori": "Spor"
     },
     {
       "id": "2020-haber-1771031",
@@ -1646,8 +1737,28 @@
       },
       "yayin": "2020-10-04T11:33:00+03:00",
       "puan": 7,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Yargıtay",
+        "Kıdem tazminatı",
+        "İş hukuku"
+      ],
+      "baslik": "Yargıtaydan evlilik nedeniyle istifa eden işçiler için emsal karar",
+      "ozet": "Yargıtay, evlilik gerekçesiyle işten ayrılan çalışanların haklarına dair önemli bir hüküm verdi. Yüksek Mahkeme, bu durumda istifa eden kişilere hem kıdem hem de ihbar tazminatı ödenmesi gerektiğini kararlaştırdı. Alınan bu kararla birlikte, evlilik sebebiyle iş akdini sonlandıran kadın çalışanların maddi mağduriyet yaşamalarının önüne geçilmesi hedeflendi.",
+      "kategori": "Toplum",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Marcha-obrera-Argentina-2005.JPG",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Marcha-obrera-Argentina-2005.JPG",
+        "genislik": 686,
+        "yukseklik": 514,
+        "orijinalGenislik": 686,
+        "yazar": "Pepe Robles",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Marcha-obrera-Argentina-2005.JPG",
+        "aciklama": "Marcha obrera en Argentina, Los derechos sindicales son derechos humanos. Lugar: Buenos Aires, Argentina. La foto es cargada por el autor.",
+        "konu": "İş hukuku"
+      }
     },
     {
       "id": "2018-haber-1102642",
@@ -1662,8 +1773,14 @@
       },
       "yayin": "2018-10-04T19:17:00+03:00",
       "puan": 12,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Anayasa Komisyonu"
+      ],
+      "baslik": "TBMM İç Tüzük Değişikliği Teklifi Komisyondan Geçti",
+      "ozet": "Türkiye Büyük Millet Meclisi çalışmalarını düzenleyen iç tüzükte değişiklik yapılmasına dair sunulan teklif, Anayasa Komisyonu tarafından görüşülerek onaylandı. Komisyon üyelerinin değerlendirmelerinin ardından kabul edilen düzenleme, meclis işleyişine dair yeni kurallar getirmeyi amaçlıyor.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2018-haber-1102201",
@@ -1678,8 +1795,14 @@
       },
       "yayin": "2018-10-04T13:53:00+03:00",
       "puan": 8,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "UEFA Şampiyonlar Ligi",
+        "Futbol"
+      ],
+      "baslik": "UEFA Şampiyonlar Ligi grup maçlarında İtalyan ekiplerinin başarısı",
+      "ozet": "UEFA Şampiyonlar Ligi grup aşamasının ikinci haftasında İtalyan temsilcileri aldıkları galibiyetlerle dikkatleri üzerine çekti. Aynı dönemde İngiliz kulüpleri ise beklenmedik sonuçlarla sahadan mağlup ayrıldı. Avrupa futbolunun en prestijli turnuvasında yaşanan bu sonuçlar haftanın öne çıkan gelişmeleri arasında yer aldı.",
+      "kategori": "Spor"
     },
     {
       "id": "2017-haber-838147",
@@ -1694,8 +1817,15 @@
       },
       "yayin": "2017-10-04T20:58:00+03:00",
       "puan": 9,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Cumhurbaşkanlığı Kupası (basketbol)",
+        "Fenerbahçe (basketbol takımı)",
+        "Banvit (basketbol takımı)"
+      ],
+      "baslik": "Cumhurbaşkanlığı Kupası Fenerbahçe Doğuş'un Oldu",
+      "ozet": "Basketbol sezonunun açılış mücadelesi olan 33. Cumhurbaşkanlığı Kupası finalinde Fenerbahçe Doğuş ile Banvit karşı karşıya geldi. Rakibini 75-64 skorla mağlup etmeyi başaran Fenerbahçe Doğuş, kupayı müzesine götürdü. Sarı lacivertli ekip bu sonuçla birlikte üst üste ikinci, toplamda ise yedinci kez bu prestijli kupanın sahibi oldu.",
+      "kategori": "Spor"
     },
     {
       "id": "2017-haber-837855",
@@ -1710,8 +1840,15 @@
       },
       "yayin": "2017-10-04T14:32:00+03:00",
       "puan": 9,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Melih Gökçek",
+        "Ankara Büyükşehir Belediyesi",
+        "Adalet ve Kalkınma Partisi"
+      ],
+      "baslik": "Ankara Büyükşehir Belediye Başkanı Melih Gökçek'in Görevden Ayrılacağı İddiası",
+      "ozet": "Adalet ve Kalkınma Partisi bünyesinde yaşanan istifa süreci kapsamında Ankara Büyükşehir Belediye Başkanı Melih Gökçek'in durumu gündeme geldi. Cumhurbaşkanı Recep Tayyip Erdoğan'ın İran'a gerçekleştirdiği resmi ziyaretin ardından Gökçek'in görevinden ayrılacağı yönünde iddialar ortaya atıldı. Söz konusu gelişme kamuoyunda geniş yer buldu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2016-haber-609629",
@@ -1726,8 +1863,14 @@
       },
       "yayin": "2016-10-04T10:16:00+03:00",
       "puan": 11,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Döviz kuru",
+        "Ekonomi"
+      ],
+      "baslik": "Döviz kurlarında yükseliş eğilimi devam etti",
+      "ozet": "Dolar kuru piyasalarda değer kazanarak iki ayın en yüksek seviyesi olan 3,04 lira düzeyine ulaştı. Aynı dönemde euro da yükselişini sürdürerek 3,3884 lira seviyesini gördü. Döviz piyasalarındaki bu hareketlilik gün boyu yatırımcıların takibinde yer aldı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2016-haber-609623",
@@ -1742,8 +1885,28 @@
       },
       "yayin": "2016-10-04T10:11:00+03:00",
       "puan": 11,
-      "durum": "haber",
-      "konular": []
+      "durum": "yazildi",
+      "konular": [
+        "Orta Vadeli Program",
+        "Binali Yıldırım",
+        "Türkiye ekonomisi"
+      ],
+      "baslik": "Orta Vadeli Program ve Eğitimde Yeni Dönem Hedefleri Açıklandı",
+      "ozet": "Hükümet kanadı tarafından kamuoyuyla paylaşılan Orta Vadeli Program kapsamında eğitim sisteminde tam zamanlı uygulamaya geçileceği duyuruldu. Ekonomik verilerin de güncellendiği açıklamada, yıl sonu büyüme beklentisi aşağı yönlü revize edildi. Ayrıca gelecek yıllara ait enflasyon hedefleri belirlenerek kamuoyu ile paylaşıldı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Binali_Y%C4%B1ld%C4%B1r%C4%B1m_%282018-08-18%29_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Binali_Y%C4%B1ld%C4%B1r%C4%B1m_%282018-08-18%29_%28cropped%29.jpg",
+        "genislik": 794,
+        "yukseklik": 1104,
+        "orijinalGenislik": 794,
+        "yazar": "duma.gov.ru",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Binali_Y%C4%B1ld%C4%B1r%C4%B1m_(2018-08-18)_(cropped).jpg",
+        "aciklama": "Председатель Великого национального собрания Турции Бинали Йылдырым",
+        "konu": "Binali Yıldırım"
+      }
     },
     {
       "id": "2015-haber-381261",

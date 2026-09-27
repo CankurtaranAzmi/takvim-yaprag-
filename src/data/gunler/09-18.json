@@ -1120,8 +1120,14 @@
       },
       "yayin": "2025-09-18T11:34:00+03:00",
       "puan": 13,
-      "durum": "haber",
-      "konular": []
+      "durum": "elendi",
+      "konular": [
+        "Türkiye ekonomisi",
+        "Enflasyon"
+      ],
+      "baslik": "Ekonomik süreçte fiyat artışları ve enflasyon verileri",
+      "ozet": "Ülke ekonomisinde son yıllarda yaşanan yüksek enflasyon süreci, temel ihtiyaç maddelerinden otomobil gibi dayanıklı tüketim ürünlerine kadar geniş bir yelpazede fiyatların yükselmesine yol açtı. Uygulanan faiz politikaları ve piyasalardaki dalgalanmalar, geniş kitlelerin günlük yaşam standartlarını doğrudan etkiledi. Söz konusu ekonomik değişimler, vatandaşların alım gücü üzerinde belirgin bir baskı oluşturdu.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2025-haber-2436316",
