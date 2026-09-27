@@ -120,6 +120,10 @@ p { margin: 0 0 1em; }
 .manset-alt { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px; }
 .manset-kredi { font-size: .72rem; color: rgb(255 255 255 / .6); }
 .manset-kredi a { color: rgb(255 255 255 / .6); }
+.manset-kredi summary { cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: 4px; color: rgb(255 255 255 / .55); }
+.manset-kredi summary::-webkit-details-marker { display: none; }
+.manset-kredi summary:hover { color: rgb(255 255 255 / .85); }
+.manset-kredi[open] summary { margin-bottom: 4px; }
 
 /* Küçük takvim rozeti */
 .rozet { width: 54px; flex: none; border-radius: 8px; overflow: hidden; background: #fff; color: #0f1115; text-align: center; box-shadow: 0 6px 16px -6px rgb(0 0 0 / .5); }
@@ -287,3 +291,7 @@ main { padding-bottom: 72px; }
 .olay-bolumu + .olay-bolumu { margin-top: 48px; }
 .kart-kredi { display: block; margin-top: 12px; font-size: .72rem; color: var(--soluk); line-height: 1.45; }
 .kart-kredi a { color: var(--soluk); }
+.kart-kredi summary { cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: 4px; color: var(--soluk); font-weight: 600; }
+.kart-kredi summary::-webkit-details-marker { display: none; }
+.kart-kredi summary:hover { color: var(--kirmizi); }
+.kart-kredi[open] summary { margin-bottom: 4px; }

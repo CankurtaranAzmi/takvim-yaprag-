@@ -71,7 +71,10 @@ const dikey = (o: any) => !!o?.gorsel && o.gorsel.yukseklik > o.gorsel.genislik 
               {vitrin.ozet && <p>{ilkParagraf(vitrin.ozet)}</p>}
               <div class="manset-alt">
                 {vitrin.durum === 'yazildi' && vitrin.ozet && <a class="dugme" href={`/olay/${vitrin.id}/`}><span>Devamını oku →</span></a>}
-                <span class="manset-kredi">Haber kaynağı: <a href={vitrin.haberKaynagi.url} target="_blank" rel="noopener nofollow">{vitrin.haberKaynagi.ad}</a> · Görsel: <a href={vitrin.gorsel.kaynak} rel="noopener">{kisaYazar(vitrin.gorsel)}</a> · {vitrin.gorsel.lisans} · Wikimedia Commons</span>
+                <details class="manset-kredi">
+                  <summary>ⓘ Kaynaklar</summary>
+                  Haber kaynağı: <a href={vitrin.haberKaynagi.url} target="_blank" rel="noopener nofollow">{vitrin.haberKaynagi.ad}</a> · Görsel: <a href={vitrin.gorsel.kaynak} rel="noopener">{kisaYazar(vitrin.gorsel)}</a> · {vitrin.gorsel.lisans} · Wikimedia Commons
+                </details>
               </div>
             </>
           ) : (
@@ -80,7 +83,10 @@ const dikey = (o: any) => !!o?.gorsel && o.gorsel.yukseklik > o.gorsel.genislik 
               {yayinda(vitrin) && <p>{ilkParagraf(vitrin.ozet)}</p>}
               <div class="manset-alt">
                 {yayinda(vitrin) && <a class="dugme" href={`/olay/${vitrin.id}/`}><span>Devamını oku →</span></a>}
-                <span class="manset-kredi">Görsel: <a href={vitrin.gorsel.kaynak} rel="noopener">{kisaYazar(vitrin.gorsel)}</a> · {vitrin.gorsel.lisans} · Wikimedia Commons</span>
+                <details class="manset-kredi">
+                  <summary>ⓘ Kaynaklar</summary>
+                  Görsel: <a href={vitrin.gorsel.kaynak} rel="noopener">{kisaYazar(vitrin.gorsel)}</a> · {vitrin.gorsel.lisans} · Wikimedia Commons
+                </details>
               </div>
             </>
           )}

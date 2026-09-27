@@ -58,10 +58,11 @@ const jsonld = [
         </div>
         <h1>{o.baslik}</h1>
         {o.gorsel && (
-          <p class="manset-kredi" style="margin:14px 0 0">
+          <details class="manset-kredi" style="margin:14px 0 0">
+            <summary>ⓘ Kaynaklar</summary>
             {o.gorsel.konu && <>{o.gorsel.konu}. </>}Görsel: <a href={o.gorsel.kaynak} rel="noopener">{kisaYazar(o.gorsel, 70)}</a>,
             {o.gorsel.lisansUrl ? <a href={o.gorsel.lisansUrl} rel="license noopener">{o.gorsel.lisans}</a> : o.gorsel.lisans}, Wikimedia Commons
-          </p>
+          </details>
         )}
       </div>
     </div>

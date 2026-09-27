@@ -31,9 +31,10 @@ const kisalt = (s: string, n: number) => (s.length > n ? s.slice(0, n - 2).repla
         <a class="kart-devam" href={link}>Devamını oku →</a>
       </>
     ) : <p>{o.metin}</p>}
-    <span class="kart-kredi">
+    <details class="kart-kredi">
+      <summary>ⓘ Kaynaklar</summary>
       {haber && <>Haber kaynağı: <a href={o.haberKaynagi.url} target="_blank" rel="noopener nofollow">{o.haberKaynagi.ad}</a> · </>}
       Görsel: {kisaYazar(o.gorsel, 30)} · {o.gorsel.lisans}
-    </span>
+    </details>
   </div>
 </li>
