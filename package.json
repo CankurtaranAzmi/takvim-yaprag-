@@ -7,6 +7,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "cek": "node scripts/wiki-cek.mjs",
+    "haber": "node scripts/haber-cek.mjs",
     "ozet": "node scripts/ozet-yaz.mjs"
   },
   "dependencies": {
