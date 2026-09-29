@@ -21,7 +21,7 @@ interface Props {
 const { baslik, aciklama = SITE.aciklama, noindex = false, tur = 'website', jsonld, aktif, gorsel } = Astro.props;
 const tamBaslik = baslik ? `${baslik} | ${SITE.ad}` : `${SITE.ad} – ${SITE.slogan}`;
 const kanonik = new URL(Astro.url.pathname, Astro.site).href;
-const yil = new Date().getFullYear();
+const yil = 2025;
 const ldListe = jsonld ? (Array.isArray(jsonld) ? jsonld : [jsonld]) : [];
 const b = istanbulBugun();
 const bugunYazi = `${b.gun} ${AYLAR[b.ay - 1]} · ${GUNLER_HAFTA[b.haftaGunu]}`;
