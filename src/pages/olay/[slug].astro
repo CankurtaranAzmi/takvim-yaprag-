@@ -29,7 +29,7 @@ const jsonld = [
     dateModified: g.guncelleme,
     author: { '@type': 'Organization', name: `${SITE.ad} Editörlüğü`, url: `${SITE.url}/hakkimizda/` },
     publisher: { '@type': 'Organization', name: SITE.ad, url: SITE.url },
-    about: { '@type': 'Event', name: o.baslik, description: o.metin },
+    about: { '@type': 'Thing', name: o.baslik },
     ...(o.gorsel ? { image: buyukUrl(o.gorsel) } : {}),
   },
   {
