@@ -26,8 +26,7 @@
         "aciklama": null,
         "konu": "Niğbolu savaşı"
       },
-      "durum": "yayinda",
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1561-sehzade-bayezid-idam-edildi",
@@ -52,8 +51,7 @@
         "aciklama": "Şehzâde Bâyezid, ağabeyi II. Selim'in kaldığı Konya'yı kuşatıyor (Tasvir, III. Murad devrindeki eserden alınmıştır).",
         "konu": "Şehzade Bayezid (I. Süleyman'ın oğlu)"
       },
-      "durum": "yayinda",
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1911-italya-kralligi-osmanli-devletine-savas-ilan-etti",
@@ -93,8 +91,7 @@
         "aciklama": "Leon Trotsky in 1918",
         "konu": "Lev Troçki"
       },
-      "durum": "yayinda",
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1950-birlesmis-milletler-askerleri-korede-seulu-ele-gecirdi",
@@ -122,8 +119,7 @@
         "aciklama": "Montage of images from the Korean War. Clockwise from top: U.S. Marines retreating during the Battle of the Chosin Resevoir, U.N. landing at Incheon, Korean refugees in front of an American M46 Patton",
         "konu": "Kore Savaşı"
       },
-      "durum": "yayinda",
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1974-bilim-adamlari-aerosol-spreylerin-ozon-tabakasini-tahrip",
@@ -149,8 +145,7 @@
         "aciklama": "Aerosol Spray Can",
         "konu": "aerosol sprey"
       },
-      "durum": "yayinda",
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1979-arjantin-devlet-baskani-juan-peronun-esi-eva",
@@ -179,8 +174,7 @@
         "aciklama": "Eva Perón (1919-1952)",
         "konu": "Eva Peron"
       },
-      "durum": "yayinda",
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1993-karun-hazinesi-abdden-turkiyeye-geri-getirildi",
@@ -205,8 +199,7 @@
         "aciklama": "Jug from en:Lydian Treasure found in en:Uşak, Turkey",
         "konu": "Karun Hazinesi"
       },
-      "durum": "yayinda",
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "2010-birlesik-krallikta-isci-partisinin-genel-baskanligina-ed",
@@ -233,8 +226,7 @@
         "aciklama": "05/07/2024. London, United Kingdom. Secretary of State for Energy Security and Net Zero, Ed Miliband poses for a photograph following his appointment to Cabinet by Prime Minister Sir Keir Starmer in 1",
         "konu": "Ed Miliband"
       },
-      "durum": "yayinda",
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "2017-kurdistan-bolgesel-yonetimi-bagimsizlik-referandumu-yapildi",
@@ -272,8 +264,7 @@
         "aciklama": ".mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:border-box;font-size:95%;text-align:start;color:inherit}.mw-parser-output .commons-creator-table>tbody>tr{vertical-align:to",
         "konu": "Bill Cosby"
       },
-      "durum": "yayinda",
-      "bolge": "dunya"
+      "durum": "yayinda"
     }
   ],
   "dogumlar": [
@@ -760,7 +751,7 @@
     "url": "https://tr.wikipedia.org/wiki/25_Eyl%C3%BCl",
     "revid": 38059536
   },
-  "guncelleme": "2026-09-27T10:43:51.005Z",
+  "guncelleme": "2026-09-30T12:06:31.389Z",
   "haberler": [
     {
       "id": "2025-haber-2438322",
@@ -773,29 +764,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/naci-gorur-den-erzurum-depremi-sonrasi-uyari-depremin-boyutu-artabilir-2438322"
       },
+      "konular": [
+        "Aşkale depremi",
+        "Naci Görür",
+        "Erzurum"
+      ],
       "yayin": "2025-09-25T22:40:00+03:00",
       "puan": 11,
       "durum": "yazildi",
-      "konular": [
-        "Aşkale",
-        "Naci Görür",
-        "Deprem"
-      ],
-      "baslik": "Naci Görür'den Erzurum'daki Deprem Sonrası Fay Hattı Uyarısı",
-      "ozet": "Erzurum'un Aşkale ilçesinde meydana gelen 4,4 büyüklüğündeki sarsıntının ardından Prof. Dr. Naci Görür değerlendirmelerde bulundu. Kandilli Fayı'nın büyük bir deprem üretme potansiyeli taşımadığını belirten Görür, Tezcan Fayı'nın tetiklenmesi durumunda bölgedeki sarsıntı şiddetinin artabileceği konusunda dikkatli olunması gerektiğini ifade etti.",
+      "baslik": "Naci Görür'den Erzurum'daki deprem hareketliliği üzerine uyarı",
+      "ozet": "Erzurum'un Aşkale ilçesinde meydana gelen 4,4 büyüklüğündeki sarsıntının ardından uzmanlar değerlendirmelerde bulundu. Prof. Dr. Naci Görür, Kandilli Fayı'nın büyük bir enerji üretme kapasitesinin bulunmadığını belirtti. Ancak Tezcan Fayı'nın bu sarsıntıyla tetiklenme ihtimaline karşı dikkatli olunması gerektiğini vurgulayarak, olası bir etkileşim durumunda depremin şiddetinin artabileceği konusunda uyarıda bulundu.",
       "kategori": "Bilim",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
-        "genislik": 800,
-        "yukseklik": 420,
-        "orijinalGenislik": 800,
-        "yazar": "NASA",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Quake_epicenters_1963-98_notitle.png",
-        "aciklama": "Quake epicenters: Preliminary Determination of Epicenters, 358,214 Events, 1963 - 1998",
-        "konu": "Deprem"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Erzurum_Citadel_-_Erzurum_Kalesi_01.jpg/960px-Erzurum_Citadel_-_Erzurum_Kalesi_01.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Erzurum_Citadel_-_Erzurum_Kalesi_01.jpg/500px-Erzurum_Citadel_-_Erzurum_Kalesi_01.jpg",
+        "genislik": 960,
+        "yukseklik": 497,
+        "orijinalGenislik": 3548,
+        "yazar": "Zeynel Cebeci",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Erzurum_Citadel_-_Erzurum_Kalesi_01.jpg",
+        "aciklama": "West side view of Erzurum Citadel in a rainy day. Erzurum, Turkey.",
+        "konu": "Erzurum"
       }
     },
     {
@@ -809,14 +800,14 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/kritik-gorusme-basladi-erdogan-trump-gorusmesinde-masada-neler-var-2438285"
       },
-      "yayin": "2025-09-25T18:47:00+03:00",
-      "puan": 10,
-      "durum": "yazildi",
       "konular": [
         "Recep Tayyip Erdoğan",
         "Donald Trump",
         "Türkiye-Amerika Birleşik Devletleri ilişkileri"
       ],
+      "yayin": "2025-09-25T18:47:00+03:00",
+      "puan": 10,
+      "durum": "yazildi",
       "baslik": "Recep Tayyip Erdoğan ve Donald Trump Beyaz Sarayda Bir Araya Geldi",
       "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ile Amerika Birleşik Devletleri Başkanı Donald Trump, Beyaz Saray çatısı altında ikili bir görüşme gerçekleştirdi. Görüşme gündeminde F-35 uçakları, yaptırım kararları, Boeing uçaklarının satışı ile Suriye ve Gazze bölgelerindeki güncel gelişmeler yer aldı. İki lider, basın mensuplarına yaptıkları kısa değerlendirmelerin ardından toplantıyı tamamladı ve Trump görüşmeyi olumlu olarak nitelendirdi.",
       "kategori": "Siyaset",
@@ -845,17 +836,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/mersinde-selden-kapanan-yollar-ulasima-acildi-2251135"
       },
+      "konular": [],
       "yayin": "2024-09-25T08:04:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "konular": [
-        "Mut",
-        "Mersin",
-        "Sel"
-      ],
-      "baslik": "Mersin Mut ilçesinde sel nedeniyle kapanan yol trafiğe açıldı",
-      "ozet": "Mersin ilinin Mut ilçesinde etkili olan yoğun yağışlar bölgede sel ve heyelan felaketine yol açtı. Bu doğal afet sebebiyle ulaşıma kapatılan Gökcetaş Mahallesi yolu, görevli ekiplerin yürüttüğü temizlik ve onarım çalışmaları neticesinde yeniden araç geçişine uygun hale getirildi.",
-      "kategori": "Ulaşım"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2251287",
@@ -868,30 +852,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/abdde-secim-maratonu-basladi-hangi-kuresel-sirket-hangi-adayi-2251287"
       },
+      "konular": [],
       "yayin": "2024-09-25T13:12:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "konular": [
-        "2024 Amerika Birleşik Devletleri başkanlık seçimleri",
-        "Kamala Harris",
-        "Donald Trump"
-      ],
-      "baslik": "ABD başkanlık seçimleri öncesinde şirketlerin bağış tercihleri belli oldu",
-      "ozet": "Kasım ayında gerçekleşecek başkanlık seçimi yaklaşırken, adaylara yönelik finansal destekler kamuoyuyla paylaşıldı. Demokrat Parti adayı Kamala Harris ile Cumhuriyetçi Parti adayı Donald Trump için eylül ayı içerisinde en fazla bağışta bulunan küresel şirketlerin listesi açıklandı. Seçim sürecindeki mali hareketlilik, iş dünyasının adaylara olan yaklaşımını gözler önüne serdi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/TrumpPortrait_%283x4a%29.jpg/960px-TrumpPortrait_%283x4a%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/TrumpPortrait_%283x4a%29.jpg/500px-TrumpPortrait_%283x4a%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1279,
-        "orijinalGenislik": 2476,
-        "yazar": "Daniel Torok",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:TrumpPortrait_(3x4a).jpg",
-        "aciklama": "Official Inaugural Portrait of Donald Trump by Daniel Torok. What is remarkable here is that Trump's facial expression is taken from his mugshot from Georgia. The direction of the light cast on the su",
-        "konu": "2024 Amerika Birleşik Devletleri başkanlık seçimleri"
-      }
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2123148",
@@ -904,17 +868,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/kabine-toplantisi-yarin-emekli-maasina-zam-gelecek-mi-emeklilere-ne-kadar-zam-yapilacak-2123148"
       },
+      "konular": [],
       "yayin": "2023-09-25T12:30:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "konular": [
-        "Türkiye Cumhuriyeti Cumhurbaşkanlığı Kabinesi",
-        "Emekli maaşı",
-        "Türkiye"
-      ],
-      "baslik": "Kabine toplantısında emekli maaşları ve gençlere destek görüşülecek",
-      "ozet": "Yeni dönemin sekizinci kabine toplantısı yarın gerçekleştirilecek. Toplantının ana gündem maddeleri arasında enflasyonla mücadele çalışmaları, emekli maaşlarına yönelik düzenlemeler ve gençlere sağlanacak vergisiz cep telefonu desteği yer alıyor. Ayrıca iç ve dış siyasetteki güncel gelişmelerin de değerlendirileceği toplantıda, ilgili bakanlıkların hazırladığı raporlar kabine üyeleriyle paylaşılacak.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2123226",
@@ -927,17 +884,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/meclis-gundemine-tasindi-turkovacin-uretimini-taserona-veren-bakanlik-sirketi-batmak-uzere-2123226"
       },
+      "konular": [],
       "yayin": "2023-09-25T15:13:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "konular": [
-        "Turkovac",
-        "Türkiye Sağlık Enstitüleri Başkanlığı",
-        "Murat Emir"
-      ],
-      "baslik": "Turkovac aşısının üretim sürecindeki mali sorunlar Meclis gündemine taşındı",
-      "ozet": "Sağlık Bakanlığı bünyesindeki TÜSEB tarafından kurulan ve yerli aşı Turkovac'ın ticarileştirme haklarını devralan SBT şirketinin mali açıdan zor durumda olduğu iddia edildi. Söz konusu firmanın aşı üretimini taşeron bir şirkete devretmesinin ardından yaşadığı ekonomik sıkıntılar, milletvekili Murat Emir tarafından Türkiye Büyük Millet Meclisi'ne taşındı. Konuyla ilgili olarak bakanlığın bilgilendirilmesi ve şirketin mevcut mali durumunun incelenmesi talep edildi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1985152",
@@ -950,30 +900,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/3-bant-bilardo-gencler-dunya-sampiyonasinda-milli-sporcu-burak-hashas-sampiyon-oldu-1985152"
       },
+      "konular": [],
       "yayin": "2022-09-25T20:43:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "konular": [
-        "3 Bant Bilardo Gençler Dünya Şampiyonası",
-        "Burak Haşhaş",
-        "Bilardo"
-      ],
-      "baslik": "Burak Haşhaş 3 Bant Bilardo Gençler Dünya Şampiyonu Oldu",
-      "ozet": "Hollanda ev sahipliğinde gerçekleştirilen 3 Bant Bilardo Gençler Dünya Şampiyonası finalinde milli sporcu Burak Haşhaş rakiplerini geride bıraktı. Başarılı performansıyla dikkat çeken Haşhaş, turnuvayı birincilikle tamamlayarak altın madalyanın sahibi oldu.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Young_people_playing_pool.jpg/960px-Young_people_playing_pool.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Young_people_playing_pool.jpg/500px-Young_people_playing_pool.jpg",
-        "genislik": 960,
-        "yukseklik": 960,
-        "orijinalGenislik": 3116,
-        "yazar": "Stougard",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Young_people_playing_pool.jpg",
-        "aciklama": "Young Chinese people are playing pool in the street of Nanjing. China.",
-        "konu": "Bilardo"
-      }
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1871707",
@@ -986,17 +916,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-avrupa-sampiyonu-ampute-milli-futbol-takimini-misafir-edecek-1871707"
       },
+      "konular": [],
       "yayin": "2021-09-25T10:26:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "konular": [
-        "Türkiye millî ampute futbol takımı",
-        "Galatasaray",
-        "Göztepe"
-      ],
-      "baslik": "Galatasaray Avrupa Şampiyonu Ampute Milli Takımını Ağırlayacak",
-      "ozet": "Galatasaray kulübü, Göztepe ile oynanacak müsabakada Avrupa şampiyonluğu kazanan Ampute Milli Futbol Takımı oyuncularını konuk etme kararı aldı. Söz konusu karşılaşma öncesinde gerçekleşecek bu buluşma ile şampiyon sporculara ev sahipliği yapıldı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1871671",
@@ -1009,18 +932,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/abd-temsilciler-meclisi-778-milyar-dolarlik-savunma-harcamalari-yetkilendirme-tasarisini-kabul-etti-1871671"
       },
+      "konular": [],
       "yayin": "2021-09-25T08:20:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "konular": [
-        "ABD Temsilciler Meclisi",
-        "Savunma bütçesi",
-        "Amerika Birleşik Devletleri"
-      ],
-      "baslik": "ABD Temsilciler Meclisi savunma bütçesi tasarısını onayladı",
-      "ozet": "Amerika Birleşik Devletleri Temsilciler Meclisi, 2022 mali dönemini kapsayan savunma harcamalarına ilişkin yasa teklifini kabul etti. Toplamda 778 milyar dolarlık bir kaynağın ayrılmasını öngören Ulusal Savunma Yetkilendirme Yasa Tasarısı, meclis üyelerinin oylarıyla kabul edilerek yasalaşma sürecinde önemli bir aşamayı geride bıraktı.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1768707",
@@ -1033,18 +948,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bm-raporu-her-yil-yaklasik-16-trilyon-dolar-kara-para-aklaniyor-1768707"
       },
+      "konular": [],
       "yayin": "2020-09-25T10:31:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "konular": [
-        "Kara para aklama",
-        "Yolsuzluk",
-        "Birleşmiş Milletler"
-      ],
-      "baslik": "Birleşmiş Milletler raporunda mali suçların küresel etkileri vurgulandı",
-      "ozet": "Birleşmiş Milletler tarafından yayımlanan raporda, yoksulluğu azaltmak için ayrılması gereken fonların yolsuzluk ve vergi kaçakçılığı gibi yasa dışı faaliyetler nedeniyle heba edildiği belirtildi. Kurum, dünya genelinde her yıl yaklaşık 1,6 trilyon dolar tutarında kara paranın aklandığını ifade etti. Bu durumun, küresel çapta yürütülen yoksullukla mücadele çalışmalarını ciddi şekilde sekteye uğrattığına dikkat çekildi.",
-      "kategori": "Ekonomi",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1768671",
@@ -1057,17 +964,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/mugla-buyuksehir-belediye-baskani-sit-alanlari-imara-acildi-gokova-korfezini-parsel-parsel-satacaklar-1768671"
       },
+      "konular": [],
       "yayin": "2020-09-25T09:09:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "konular": [
-        "Gökova Körfezi",
-        "Osman Gürün",
-        "Muğla"
-      ],
-      "baslik": "Muğla'daki SİT alanlarının imara açılması tepki topladı",
-      "ozet": "Muğla Büyükşehir Belediye Başkanı Osman Gürün, Çevre ve Şehircilik Bakanlığı tarafından alınan kararla SİT alanlarının yapılaşmaya açıldığını duyurdu. Gürün, bu düzenlemenin Gökova Körfezi'ndeki arazilerin satışına ve bölgenin doğal yapısının bozulmasına yol açacağını ifade ederek bakanlığın uygulamalarını eleştirdi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1093288",
@@ -1080,30 +980,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/isvecin-sosyal-demokrat-basbakani-stefan-lofven-guven-oylamasini-kaybetti-istifasi-bekleniyor-1093288"
       },
+      "konular": [],
       "yayin": "2018-09-25T12:45:00+03:00",
       "puan": 13,
-      "durum": "yazildi",
-      "konular": [
-        "Stefan Löfven",
-        "İsveç Parlamentosu",
-        "İsveç"
-      ],
-      "baslik": "İsveç Başbakanı Stefan Löfven Güven Oylamasında Çoğunluğu Kaybetti",
-      "ozet": "İsveç Parlamentosu bünyesinde gerçekleştirilen güven oylaması sonucunda Başbakan Stefan Löfven yeterli desteği alamadı. Yapılan oylamada 204 milletvekili ret oyu kullanırken, 142 milletvekili ise destek verdi. Genel seçimlerin ardından parlamentodaki çoğunluğunu kaybeden Sosyal Demokrat Parti liderinin görevinden ayrılması bekleniyor. Siyasi süreçte İsveç Demokratlar Partisi'nin alacağı tavır ise dikkatle takip ediliyor.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Stefan_L%C3%B6fven_efter_slutdebatten_i_SVT_2014_%28cropped%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Stefan_L%C3%B6fven_efter_slutdebatten_i_SVT_2014_%28cropped%29.jpg",
-        "genislik": 512,
-        "yukseklik": 640,
-        "orijinalGenislik": 512,
-        "yazar": "Frankie Fouganthin",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Stefan_L%C3%B6fven_efter_slutdebatten_i_SVT_2014_(cropped).jpg",
-        "aciklama": "Stefan Löfven efter slutdebatten i SVT 2014 den 12 september 2014.",
-        "konu": "Stefan Löfven"
-      }
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1093779",
@@ -1116,17 +996,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/arjantin-merkez-bankasi-baskani-istifa-etti-1093779"
       },
+      "konular": [],
       "yayin": "2018-09-25T17:33:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "konular": [
-        "Luis Caputo",
-        "Arjantin Merkez Bankası",
-        "Arjantin"
-      ],
-      "baslik": "Arjantin Merkez Bankası Başkanı Luis Caputo görevinden ayrıldı",
-      "ozet": "Arjantin Merkez Bankası bünyesinde üç ay önce göreve başlayan Luis Caputo istifa kararını duyurdu. Söz konusu gelişme ile birlikte bankanın yönetim kademesinde değişikliğe gidildi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-831487",
@@ -1139,17 +1012,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dolar-ve-borsada-referandum-etkisi-831487"
       },
+      "konular": [],
       "yayin": "2017-09-25T18:55:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "konular": [
-        "2017 Irak Kürdistanı bağımsızlık referandumu",
-        "Döviz kuru",
-        "Borsa İstanbul"
-      ],
-      "baslik": "Kuzey Irak referandumu piyasalarda dalgalanmaya yol açtı",
-      "ozet": "Bölgede gerçekleştirilen referandum kararı finansal piyasaları doğrudan etkiledi. Dolar kuru yükseliş eğilimi göstererek üç lira elli dört kuruş seviyesinin üzerine çıktı. Aynı süreçte borsa endekslerinde ise düşüş gözlemlendi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-830981",
@@ -1162,17 +1028,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/istanbulda-secimi-yesiller-kazandi-830981"
       },
+      "konular": [],
       "yayin": "2017-09-25T09:45:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "konular": [
-        "Almanya Federal Cumhuriyeti",
-        "Almanya İstanbul Başkonsolosluğu",
-        "Seçim"
-      ],
-      "baslik": "Almanya İstanbul Başkonsolosluğu'nda Temsili Seçim Yapıldı",
-      "ozet": "Almanya genel seçimleri kapsamında İstanbul'daki başkonsolosluk binasında sembolik bir oylama gerçekleştirildi. Toplamda 116 kişinin katılım gösterdiği bu özel seçim etkinliğinde, Sosyal Demokratlar ile Yeşiller partilerinin oluşturduğu koalisyon sandıktan birinci olarak çıktı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-605368",
@@ -1185,29 +1044,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/eski-basbakanin-cezasi-1-milyar-dolara-indirildi-605368"
       },
+      "konular": [],
       "yayin": "2016-09-25T10:36:00+03:00",
       "puan": 13,
-      "durum": "yazildi",
-      "konular": [
-        "Yingluck Shinawatra",
-        "Tayland"
-      ],
-      "baslik": "Tayland eski başbakanının pirinç projesi tazminatı düşürüldü",
-      "ozet": "Tayland eski başbakanı Yingluck Shinawatra hakkında yürütülen pirinç projesi soruşturması kapsamında verilen tazminat cezası yeniden değerlendirildi. Daha önce sekiz milyar dolar olarak belirlenen ceza miktarı, yapılan düzenleme ile bir milyar dolara çekildi. Söz konusu proje, eski başbakanın görevde bulunduğu dönemde başarısızlıkla sonuçlanması nedeniyle hukuki sürece konu olmuştu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/9153ri-Yingluck_Shinawatra.jpg/960px-9153ri-Yingluck_Shinawatra.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/9153ri-Yingluck_Shinawatra.jpg/500px-9153ri-Yingluck_Shinawatra.jpg",
-        "genislik": 960,
-        "yukseklik": 1308,
-        "orijinalGenislik": 2127,
-        "yazar": "Gerd Seidel (Rob Irgendwer)",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:9153ri-Yingluck_Shinawatra.jpg",
-        "aciklama": "Yingluck Shinawatra, Prime Minister of Thailand",
-        "konu": "Yingluck Shinawatra"
-      }
+      "durum": "haber"
     },
     {
       "id": "2016-haber-605523",
@@ -1220,17 +1060,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-yildirim-temde-dugun-konvoyunun-onunu-kesti-605523"
       },
+      "konular": [],
       "yayin": "2016-09-25T15:06:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "konular": [
-        "Binali Yıldırım",
-        "Bağcılar",
-        "Düğün"
-      ],
-      "baslik": "Binali Yıldırım düğün konvoyunu durdurarak çifti tebrik etti",
-      "ozet": "Başbakan Binali Yıldırım, Bağcılar bölgesinde seyir halindeki bir düğün konvoyunu durdurdu. Gelin ve damatla bir araya gelerek onları kutlayan Yıldırım, çifte çeşitli hediyeler takdim etti. Çevredeki vatandaşlarla da yakından ilgilenen Başbakan, vatandaşların talebi üzerine hatıra fotoğrafı çektirdi ve kısa bir süre sohbet etti.",
-      "kategori": "Toplum"
+      "durum": "haber"
     },
     {
       "id": "2015-haber-375907",
@@ -1243,17 +1076,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyon-hentbol-takiminin-sahasi-kantin-oldu-375907"
       },
+      "konular": [],
       "yayin": "2015-09-25T12:09:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "konular": [
-        "Hentbol",
-        "Nazilli",
-        "Aydın"
-      ],
-      "baslik": "Başarılı hentbol takımının sahası kantin inşaatı nedeniyle kapatıldı",
-      "ozet": "Aydın ilinin Nazilli ilçesinde faaliyet gösteren Turan Ortaokulu hentbol takımı, üst üste elde ettiği il birincilikleri ve ulusal başarılarla dikkat çekiyordu. Okul yönetiminin sporcuların antrenman yaptığı bahçedeki sahayı kantin alanına dönüştürme kararı, bölgede huzursuzluk yarattı. Sporcuların çalışma alanının elinden alınması, eğitim camiasında ve spor çevrelerinde eleştirilere yol açtı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2015-haber-376077",
@@ -1266,18 +1092,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/2022-dunya-kupasi-icin-tarihi-takvim-376077"
       },
+      "konular": [],
       "yayin": "2015-09-25T17:01:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "konular": [
-        "2022 FIFA Dünya Kupası",
-        "FIFA",
-        "Katar"
-      ],
-      "baslik": "Katar'da Düzenlenecek 2022 Dünya Kupası'nın Tarihleri Belirlendi",
-      "ozet": "FIFA İcra Kurulu tarafından gerçekleştirilen toplantı neticesinde, Katar'ın ev sahipliği yapacağı 2022 Dünya Kupası'nın takvimi resmen duyuruldu. Turnuvanın hangi tarihler arasında oynanacağına dair uzun süredir beklenen karar, yetkili kurulun değerlendirmeleri sonucunda kamuoyuyla paylaşıldı.",
-      "kategori": "Spor",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2014-haber-123363",
@@ -1290,17 +1108,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/merkez-faiz-kararini-acikladi-dolar-8-ayin-zirvesine-cikti-123363"
       },
+      "konular": [],
       "yayin": "2014-09-25T14:20:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "konular": [
-        "Türkiye Cumhuriyet Merkez Bankası",
-        "Dolar",
-        "Faiz"
-      ],
-      "baslik": "Merkez Bankası faiz oranlarında değişikliğe gitmedi",
-      "ozet": "Para Politikası Kurulu gerçekleştirdiği toplantı neticesinde bir hafta vadeli repo ihale faiz oranını yüzde 8,25 seviyesinde tutma kararı aldı. Bu gelişmenin ardından döviz piyasasında hareketlilik yaşandı ve dolar kuru 2,26 seviyesini aşarak yılın en yüksek değerine ulaştı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2014-haber-123481",
@@ -1313,17 +1124,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/la-ligada-sike-depremi-123481"
       },
+      "konular": [],
       "yayin": "2014-09-25T17:44:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "konular": [
-        "La Liga",
-        "Levante UD",
-        "Real Zaragoza"
-      ],
-      "baslik": "İspanya futbolunda şike iddiaları yargıya taşındı",
-      "ozet": "İspanya birinci futbol liginde geçmiş bir sezonda oynanan Levante ve Real Zaragoza karşılaşması hakkında şike şüphesi oluştu. Bu müsabakada usulsüzlük yapıldığına dair iddialar üzerine, o dönemde forma giyen oyuncular ile Zaragoza kulübünün eski başkanı Agapito Iglesias ifade vermek üzere çağrıldı. Yargı süreci, söz konusu maçtaki şüpheli durumların aydınlatılması amacıyla başlatıldı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-372440",
@@ -1336,17 +1140,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-erdogandan-malikiye-davet-372440"
       },
+      "konular": [],
       "yayin": "2012-09-25T17:50:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "konular": [
-        "Nuri el-Maliki",
-        "Recep Tayyip Erdoğan",
-        "Türkiye-Irak ilişkileri"
-      ],
-      "baslik": "Türkiye ile Irak Arasında Diplomatik Temas",
-      "ozet": "Türkiye Cumhuriyeti Başbakanı, Irak Başbakanı Nuri el-Maliki'ye resmi bir davette bulundu. İki ülke arasındaki ilişkilerin geliştirilmesi amacıyla yapılan bu çağrı, diplomatik kanallar üzerinden iletildi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-372302",
@@ -1359,16 +1156,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/meclis-aciliyor-chp-secim-yapiyor-372302"
       },
+      "konular": [],
       "yayin": "2012-09-25T09:21:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Cumhuriyet Halk Partisi"
-      ],
-      "baslik": "Türkiye Büyük Millet Meclisi Yeni Yasama Dönemine Hazırlanıyor",
-      "ozet": "Türkiye Büyük Millet Meclisi ekim ayının başında çalışmalarına yeniden başlayacak. Bu sürecin hemen ardından Cumhuriyet Halk Partisi Meclis Grubu da kendi içindeki seçim gündemiyle bir araya gelme kararı aldı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2011-haber-284932",
@@ -1381,18 +1172,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/meclise-teror-dilekcesi-yagdi-284932"
       },
+      "konular": [],
       "yayin": "2011-09-25T07:08:00+03:00",
       "puan": 5,
-      "durum": "yazildi",
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Terörizm",
-        "Türkiye"
-      ],
-      "baslik": "Terör olaylarındaki artış üzerine Meclis gündemi yoğunlaştı",
-      "ozet": "Ülke genelinde yaşanan terör saldırılarının yoğunlaşması üzerine Türkiye Büyük Millet Meclisi hareketli günler geçirdi. Artan güvenlik sorunları nedeniyle meclis çatısı altında konuyla ilgili değerlendirmeler yapıldı ve gündemdeki gelişmeler yakından takip edildi.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     }
   ],
   "haberYillari": [
