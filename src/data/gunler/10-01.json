@@ -969,7 +969,7 @@
     },
     {
       "yil": 1953,
-      "metin": "İsak Andiç Ermay, Seferad Yahudisi İspanyol iş insanı (ö. 2024)"
+      "metin": "İsak Andiç Ermay, Seferad Yahudisi İspanyol iş adamı (ö. 2024)"
     },
     {
       "yil": 1956,
@@ -1045,7 +1045,7 @@
     },
     {
       "yil": 1979,
-      "metin": "Walewska Moreira de Oliveira, Brezilyalı voleybolcu"
+      "metin": "Walewska Moreira de Oliveira, Brezilyalı voleybolcu (ö. 2023)"
     },
     {
       "yil": 1981,
@@ -1315,7 +1315,7 @@
     },
     {
       "yil": 2019,
-      "metin": "Joseph Bismuth, Tunuslu iş insanı ve siyasetçi (d. 1926)"
+      "metin": "Joseph Bismuth, Tunuslu iş adamı ve siyasetçi (d. 1926)"
     },
     {
       "yil": 2019,
@@ -1356,6 +1356,10 @@
     {
       "yil": 2025,
       "metin": "Jane Goodall, İngiliz primatolog, etolog ve antropolog (d. 1934)"
+    },
+    {
+      "yil": 2026,
+      "metin": "Bilyana Plavsiç, Bosna Hersekli politikacı (d. 1930)"
     }
   ],
   "ozelGunler": [
@@ -1364,9 +1368,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/1_Ekim",
-    "revid": 36214258
+    "revid": 38106747
   },
-  "guncelleme": "2026-09-30T12:06:35.280Z",
+  "guncelleme": "2026-10-03T11:16:20.166Z",
   "haberler": [
     {
       "id": "2025-haber-2439930",
@@ -1402,30 +1406,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-meclis-te-yeni-donem-chp-siz-basliyor-cumhurbaskani-erdogan-kursude-2439823"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Recep Tayyip Erdoğan",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2025-10-01T14:22:00+03:00",
       "puan": 12,
-      "durum": "yazildi",
-      "baslik": "Türkiye Büyük Millet Meclisi yeni yasama yılına başladı",
-      "ozet": "Türkiye Büyük Millet Meclisi yeni yasama yılı açılış töreni gerçekleştirildi. Bazı siyasi partilerin milletvekillerinin yer almadığı toplantıda Cumhurbaşkanı Recep Tayyip Erdoğan bir konuşma yaptı. Erdoğan konuşmasında Devlet Bahçeli ve DEM Parti temsilcilerine yeni süreçteki katkıları nedeniyle teşekkürlerini iletti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2253531",
@@ -1438,17 +1422,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/bu-sefer-de-tbmmnin-acildigi-gun-yapti-huda-par-genel-baskani-2253531"
       },
-      "konular": [
-        "Zekeriya Yapıcıoğlu",
-        "HÜDA PAR",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2024-10-01T21:21:00+03:00",
       "puan": 13,
-      "durum": "elendi",
-      "baslik": "Zekeriya Yapıcıoğlu Anayasa'nın Değiştirilemez Maddelerini Eleştirdi",
-      "ozet": "Türkiye Büyük Millet Meclisi'nin yeni yasama yılı açılışında konuşan HÜDA PAR Genel Başkanı Zekeriya Yapıcıoğlu, mevcut Anayasa'ya yönelik eleştirilerini yineledi. Yapıcıoğlu, anayasal metinlerde değiştirilmesi mümkün olmayan maddelerin bulunmaması gerektiğini ifade etti. Söz konusu açıklamalar, meclis açılışı sırasında kamuoyunun gündemine geldi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2253212",
@@ -1461,18 +1438,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/japonyada-basbakan-kisida-fumio-ve-kabinesi-istifa-etti-2253212"
       },
-      "konular": [
-        "Kişida Fumio",
-        "İşiba Şigeru",
-        "Japonya"
-      ],
+      "konular": [],
       "yayin": "2024-10-01T07:59:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Japonya Başbakanı Kişida Fumio ve Kabinesi Görevinden Ayrıldı",
-      "ozet": "Japonya'da Liberal Demokrat Parti liderliğine getirilen İşiba Şigeru'nun yeni başbakanlık görevini devralması beklenirken, mevcut Başbakan Kişida Fumio ve beraberindeki kabine üyeleri istifa kararı aldı. Bu gelişmeyle birlikte ülkede yeni bir yönetim sürecinin başlaması için gerekli resmi adımlar atılmış oldu.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2125155",
@@ -1485,30 +1454,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/kadina-siddette-rekor-artis-chpli-ilgezdi-cezasizligi-ovuyorlar-2125155"
       },
-      "konular": [
-        "Kadına yönelik şiddet",
-        "İstanbul Sözleşmesi",
-        "KADES"
-      ],
+      "konular": [],
       "yayin": "2023-10-01T03:00:00+03:00",
       "puan": 12,
-      "durum": "yazildi",
-      "baslik": "Kadına yönelik şiddet verilerinde ciddi yükseliş kaydedildi",
-      "ozet": "İstanbul Sözleşmesi'nin yürürlükten kaldırılmasının ardından kadına yönelik şiddet olaylarında artış yaşandı. KADES uygulaması üzerinden yapılan ihbarların sayısında büyük bir yükseliş gözlemlendi. Veriler, yaklaşık her iki dakikada bir kadının yardım talebinde bulunduğunu ortaya koydu.",
-      "kategori": "Toplum",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/20250411_Kad%C4%B1na_%C5%9Eiddete_Hay%C4%B1r.jpg/960px-20250411_Kad%C4%B1na_%C5%9Eiddete_Hay%C4%B1r.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/20250411_Kad%C4%B1na_%C5%9Eiddete_Hay%C4%B1r.jpg/500px-20250411_Kad%C4%B1na_%C5%9Eiddete_Hay%C4%B1r.jpg",
-        "genislik": 960,
-        "yukseklik": 960,
-        "orijinalGenislik": 3056,
-        "yazar": "Basak",
-        "lisans": "CC0",
-        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:20250411_Kad%C4%B1na_%C5%9Eiddete_Hay%C4%B1r.jpg",
-        "aciklama": "Okul duvarında \"Kadına Şiddete Hayır\" mesajı, Bursa Uludağ Üniversitesi, 20w5",
-        "konu": "Kadına yönelik şiddet"
-      }
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1987404",
@@ -1521,17 +1470,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika-istanbulun-enflasyonunda-yeni-rekor-1987404"
       },
-      "konular": [
-        "İstanbul Ticaret Odası",
-        "Enflasyon",
-        "İstanbul"
-      ],
+      "konular": [],
       "yayin": "2022-10-01T12:16:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "İstanbul piyasasında toptan fiyat artışında tarihi seviye",
-      "ozet": "İstanbul Ticaret Odası tarafından paylaşılan verilere göre şehirdeki toptan eşya fiyatları eylül ayında yıllık bazda yüzde 107.42 oranına ulaştı. Söz konusu artış oranı, 1997 yılının aralık ayında kaydedilen yüzde 102.83 seviyesini geride bırakarak yeni bir rekor oluşturdu.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1987370",
@@ -1544,30 +1486,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/fiba-kadinlar-dunya-kupasinda-sampiyon-abd-1987370"
       },
-      "konular": [
-        "FIBA Kadınlar Dünya Kupası",
-        "ABD kadın millî basketbol takımı",
-        "Basketbol"
-      ],
+      "konular": [],
       "yayin": "2022-10-01T10:52:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "FIBA Kadınlar Dünya Kupası'nda şampiyonluk ABD'nin oldu",
-      "ozet": "Avustralya'da düzenlenen FIBA Kadınlar Dünya Kupası final mücadelesinde ABD ile Çin karşı karşıya geldi. Rakibini 83-61'lik skorla mağlup etmeyi başaran ABD takımı, turnuvayı şampiyon olarak tamamladı. Final maçının ardından düzenlenen törenle kupa sahibini buldu.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Carter_vs_Gasol%2C_Lakers_vs_Magic.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Carter_vs_Gasol%2C_Lakers_vs_Magic.jpg",
-        "genislik": 758,
-        "yukseklik": 568,
-        "orijinalGenislik": 758,
-        "yazar": "Tim Wang",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Carter_vs_Gasol,_Lakers_vs_Magic.jpg",
-        "aciklama": "Vince Carter goes up for a layup against Pau Gasol",
-        "konu": "Basketbol"
-      }
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1873409",
@@ -1580,16 +1502,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/evren-devrim-zelyuttan-erdogan-dolarda-atesle-oynuyor-cikisi-1873409"
       },
-      "konular": [
-        "Ekonomi",
-        "Evren Devrim Zelyut"
-      ],
+      "konular": [],
       "yayin": "2021-10-01T16:21:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Ekonomist Zelyut ekonomi politikalarındaki gidişatı değerlendirdi",
-      "ozet": "Ekonomist Evren Devrim Zelyut, mevcut kredi ve faiz politikalarının hedeflenen sonuçları vermediğini belirtti. İktidarın oy kaybını önlemek amacıyla attığı adımların rezerv ve güven sorunlarının ötesinde bir yapıya sahip olduğunu ifade etti. Zelyut, uygulanan ekonomi stratejilerinin seçmen nezdindeki karşılığını yitirdiğini savundu.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1873369",
@@ -1602,30 +1518,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/tbmmde-27-donem-5-yasama-yili-basladi-1873369"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Recep Tayyip Erdoğan",
-        "Mustafa Şentop"
-      ],
+      "konular": [],
       "yayin": "2021-10-01T14:02:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Türkiye Büyük Millet Meclisi yeni yasama yılına başladı",
-      "ozet": "Türkiye Büyük Millet Meclisi, Mustafa Şentop yönetiminde gerçekleştirilen oturumla yeni çalışma dönemine giriş yaptı. Genel Kurulda kürsüye çıkan Cumhurbaşkanı Recep Tayyip Erdoğan, yeni yasama yılına dair değerlendirmelerde bulunarak yeni anayasa çalışmalarına ilişkin mesajlarını iletti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1770281",
@@ -1638,30 +1534,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yeni-zelanda-basbakani-jacinda-ardern-canli-tartisma-programinda-uzun-zaman-once-esrar-kullandim-dedi-1770281"
       },
-      "konular": [
-        "Jacinda Ardern",
-        "Yeni Zelanda",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2020-10-01T12:27:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Yeni Zelanda Başbakanı Ardern geçmişteki esrar kullanımını itiraf etti",
-      "ozet": "Yeni Zelanda Başbakanı Jacinda Ardern, yaklaşan genel seçimler öncesinde rakibi Judith Collins ile katıldığı televizyon programında geçmişte esrar kullandığını açıkladı. Ulusal Parti lideri ile canlı yayında bir araya gelen Ardern, kişisel geçmişine dair bu bilgiyi kamuoyuyla paylaştı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg/960px-New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg/500px-New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg",
-        "genislik": 960,
-        "yukseklik": 1200,
-        "orijinalGenislik": 1479,
-        "yazar": "Newzild",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg",
-        "aciklama": "New Zealand Prime Minister Jacinda Ardern, photographed in Tauranga, New Zealand, 29 August 2018.",
-        "konu": "Jacinda Ardern"
-      }
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1770178",
@@ -1674,17 +1550,266 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/neymarin-rekor-tutarda-vergi-borcu-var-1770178"
       },
-      "konular": [
-        "Neymar",
-        "Paris Saint-Germain",
-        "Vergi"
-      ],
+      "konular": [],
       "yayin": "2020-10-01T08:36:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Neymar'ın İspanya'ya Yüksek Miktarda Vergi Borcu Bulunduğu Belirtildi",
-      "ozet": "Paris Saint-Germain forması giyen Brezilyalı futbolcu Neymar'ın İspanyol vergi dairesine yüklü miktarda borcu olduğu duyuruldu. Yapılan resmi açıklamada sporcunun ödemesi gereken tutarın 34 milyon 624 bin 26 Avro 60 sent seviyesinde olduğu ifade edildi.",
-      "kategori": "Spor"
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1098841",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan'dan kriz itirafı: Toparlamaya başladık",
+      "aciklama": "Cumhurbaşkanı Erdoğan Almanya ziyaretinin sonunda gazetecilerin sorularını yanıtladı. Erdoğan,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-kriz-itirafi-toparlamaya-basladik-1098841"
+      },
+      "konular": [],
+      "yayin": "2018-10-01T05:28:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1099267",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bosphorus Cup’ta şampiyon belli oldu",
+      "aciklama": "Tukcell Platinum Bosphorus Cup’ta şampiyonluk İstanbul Cerrahi Cheese’in oldu",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bosphorus-cupta-sampiyon-belli-oldu-1099267"
+      },
+      "konular": [],
+      "yayin": "2018-10-01T14:36:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-835917",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "MTV zammı Bakanlar Kurulu'nda görüşülecek",
+      "aciklama": "Cumhurbaşkanı Erdoğan, MTV zammına ilişkin açıklamalarda bulundu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/mtv-zammi-bakanlar-kurulunda-gorusulecek-835917"
+      },
+      "konular": [],
+      "yayin": "2017-10-01T19:38:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-835554",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Katalonya'da referandum savaşı... Seçim merkezleri kapatıldı, sandıktan yüzde 90 'Evet' çıktı",
+      "aciklama": "İspanya'nın Katalonya özerk bölgesinde bağımsızlık referandumu için sandık başına gitti. İspanya İçişleri Bakanlığı oy sandığı ve pusulalarına el koydu. Polis ve jandarma çok sayıda kişiyi gözaltına alırken plastik merminin de kullanıldığı müdahalede en az 844 kişi yaralandı. Yar",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/katalonyada-referandum-savasi-secim-merkezleri-kapatildi-sandiktan-yuzde-90-evet-cikti-835554"
+      },
+      "konular": [],
+      "yayin": "2017-10-01T11:12:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-608663",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "HDP Eş Başkanları Demirtaş ve Yüksekdağ Meclis açılışına katılmadı",
+      "aciklama": "Halkların Demokratik Partisi (HDP) Eş Başkanları Selahattin Demirtaş ve Figen Yüksekdağ 26. Dönem İkinci Yasama Yılı açılış törenine katılmadı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/hdp-es-baskanlari-demirtas-ve-yuksekdag-meclis-acilisina-katilmadi-608663"
+      },
+      "konular": [],
+      "yayin": "2016-10-01T15:57:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-608662",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan kürsüde konuştuğu sırada HDP'li vekilden protesto paylaşımı",
+      "aciklama": "HDP Urfa Milletvekili İbrahim Ayhan, Meclis açılışında konuşan Cumhurbaşkanı Erdoğan'ı sosyal medyadan protesto etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-kursude-konustugu-sirada-hdpli-vekilden-protesto-paylasimi-608662"
+      },
+      "konular": [],
+      "yayin": "2016-10-01T15:54:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-379609",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan'lar şikâyetçi oldu, 25 Aralık’ta roller değişti",
+      "aciklama": "Erdoğan’ın oğlu Bilal Erdoğan’ın da\nşüphelileri arasında yer aldığı, kapatılan\n25 Aralık soruşturmasını yürüten\npolisler hakkında iddianame hazırlandı.\nİddianamenin mağdur ve müştekileri\narasında Recep Tayyip\nErdoğan, oğlu Bilal\nErdoğan ve Ahmet Davutoğlu\nda yer aldı. Fethullah\nG",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdoganlar-sikayetci-oldu-25-aralikta-roller-degisti-379609"
+      },
+      "konular": [],
+      "yayin": "2015-10-01T16:26:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-379529",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "TBMM açılışında da aynı... Erdoğan yine 'sinir' oldu",
+      "aciklama": "Erdoğan, yeni yasama yılının açılış konuşmasında Kürt sorununun çözümsüzlüğünden\nHDP ve PKK’yi, koalisyon kurulamamasından ise muhalefeti sorumlu tuttu",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/tbmm-acilisinda-da-ayni-erdogan-yine-sinir-oldu-379529"
+      },
+      "konular": [],
+      "yayin": "2015-10-01T15:05:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-125945",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Sümeyye Erdoğan istifa etti",
+      "aciklama": "Sümeyye Erdoğan, AKP Genel Başkan Danışmanlığı görevinden istifa etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/sumeyye-erdogan-istifa-etti-125945"
+      },
+      "konular": [],
+      "yayin": "2014-10-01T13:30:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-125991",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Orman: 'Şampiyonluğu Vodafone Arena'da kutlayacağız'",
+      "aciklama": "Beşiktaş Kulübü Başkanı Fikret Orman, hedeflerinin mücadele ettikleri her kulvarda en üst noktaya çıkmak olduğunu söyledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/orman-sampiyonlugu-vodafone-arenada-kutlayacagiz-125991"
+      },
+      "konular": [],
+      "yayin": "2014-10-01T14:55:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-3269",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Abdullah Gül'ün meclis açılış konuşmasının tam metni",
+      "aciklama": "Meclis açıldı",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/abdullah-gulun-meclis-acilis-konusmasinin-tam-metni-3269"
+      },
+      "konular": [],
+      "yayin": "2013-10-01T16:55:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-3258",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Başbakan Erdoğan Demokratikleşme Paketi'ni açıkladı",
+      "aciklama": "Başbakan Erdoğan, günlerdir merakla beklenen Demokratikleşme Paketi'ni açıkladı. Paketteki en önemli maddelerden biri özel okullarda farklı dil ve lehçelerde eğitimin önünün açılması... Pakette öne çıkan bir madde de kamuda türban serbestliği... TSK, yargı ve Emniyet hariç diğer ",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbakan-erdogan-demokratiklesme-paketini-acikladi-3258"
+      },
+      "konular": [],
+      "yayin": "2013-10-01T11:08:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-373562",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Avro bölgesinde işsizlik rekor seviyede",
+      "aciklama": "Avro bölgesinde işsizlerin sayısı Ağustos ayında rekor kırarak 18,2 milyona ulaştı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/avro-bolgesinde-issizlik-rekor-seviyede-373562"
+      },
+      "konular": [],
+      "yayin": "2012-10-01T17:31:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-373610",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan'a soruşturma talebi BDP değil CHP'den",
+      "aciklama": "CHP, Başbakan Recep Tayyip Erdoğan hakkında ''yargıya emir ve talimat vererek suç işlediği'' iddiasıyla Meclis Soruşturması açılmasını istedi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogana-sorusturma-talebi-bdp-degil-chpden-373610"
+      },
+      "konular": [],
+      "yayin": "2012-10-01T14:37:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-286630",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "'Bu yıl yeni bir ihracat rekoru kıracağız'",
+      "aciklama": "Ekonomi Bakanı Zafer Çağlayan, ''Eylül ayında ihracat 10 milyar 723 milyon dolar oldu. Geçen yılın aynı dönemine göre yüzde 16,4 oranında artış gerçekleşti. Bir önceki aya göre ise yüzde 3 azaldı. 1 Ocak-30 Eylül 2011 döneminde ise 99 milyar dolar oldu'' dedi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bu-yil-yeni-bir-ihracat-rekoru-kiracagiz-286630"
+      },
+      "konular": [],
+      "yayin": "2011-10-01T11:06:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-286610",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Londra'da sonbaharda rekor sıcaklık",
+      "aciklama": "Yağmurlu ve serin havasıyla bilinen İngiltere'nin başkenti Londra'da rekor sıcaklıklar yaşanıyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/londrada-sonbaharda-rekor-sicaklik-286610"
+      },
+      "konular": [],
+      "yayin": "2011-10-01T09:24:00+03:00",
+      "puan": 7,
+      "durum": "haber"
     }
   ],
   "haberYillari": [

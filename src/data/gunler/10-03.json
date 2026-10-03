@@ -844,7 +844,7 @@
     },
     {
       "yil": 1967,
-      "metin": "Erman Ilıcak, Türk iş insanı"
+      "metin": "Erman Ilıcak, Türk iş adamı"
     },
     {
       "yil": 1968,
@@ -1050,7 +1050,7 @@
     },
     {
       "yil": 1999,
-      "metin": "Akio Morita, Japon iş insanı ve Sony'nin kurucusu (d. 1921)"
+      "metin": "Akio Morita, Japon iş adamı ve Sony'nin kurucusu (d. 1921)"
     },
     {
       "yil": 2004,
@@ -1122,7 +1122,7 @@
     },
     {
       "yil": 2018,
-      "metin": "Roger Gibbs, İngiliz girişimci ve iş insanı (d. 1934)"
+      "metin": "Roger Gibbs, İngiliz girişimci ve iş adamı (d. 1934)"
     },
     {
       "yil": 2018,
@@ -1190,7 +1190,7 @@
     },
     {
       "yil": 2021,
-      "metin": "Bernard Tapie Fransız iş insanı, aktör, şarkıcı, sunucu ve siyasetçi (d. 1943)"
+      "metin": "Bernard Tapie Fransız iş adamı, aktör, şarkıcı, sunucu ve siyasetçi (d. 1943)"
     },
     {
       "yil": 2021,
@@ -1198,7 +1198,7 @@
     },
     {
       "yil": 2022,
-      "metin": "Ekow Blankson, Ganalı aktör ve iş insanı (d. 1972)"
+      "metin": "Ekow Blankson, Ganalı aktör ve iş adamı (d. 1972)"
     },
     {
       "yil": 2025,
@@ -1212,54 +1212,446 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/3_Ekim",
-    "revid": 37818751
+    "revid": 38114944
   },
-  "guncelleme": "2026-09-30T12:06:36.827Z",
+  "guncelleme": "2026-10-03T11:16:21.128Z",
   "haberler": [
     {
-      "id": "2014-haber-126709",
-      "yil": 2014,
+      "id": "2025-haber-2440504",
+      "yil": 2025,
       "bolge": "turkiye",
       "tur": "haber",
-      "metin": "Eller bu kez ranta açıldı",
-      "aciklama": "atv’de dini içerikli Dosta Doğru programını yapan Nihat Hatipoğlu'nun Sultanahmet'teki oteline kaçak kat çıkıp, bitişikteki kamu arazisini üstüne geçirdiği iddia edildi.",
+      "metin": "AKP Sözcüsü Çelik, CHP'yi hedef aldı: 'Meclis'i protesto eden kendi siyasi varlığını inkar etmiş olur'",
+      "aciklama": "AKP Sözcüsü Çelik, CHP'nin Meclis açılışına katılmamasını eleştirerek, 'Meclis'i protesto eden kendi siyasi varlığını inkar etmiş olur' ifadelerini kullandı. Çelik, açıklamasında 'vesayet odakları' vurgusu da yaptı.",
       "haberKaynagi": {
         "ad": "Cumhuriyet",
-        "url": "https://www.cumhuriyet.com.tr/haber/eller-bu-kez-ranta-acildi-126709"
+        "url": "https://www.cumhuriyet.com.tr/siyaset/akp-sozcusu-celik-chp-yi-hedef-aldi-meclis-i-protesto-eden-kendi-siyasi-varligini-inkar-etmis-olur-2440504"
       },
       "konular": [
-        "Nihat Hatipoğlu",
-        "Sultanahmet",
-        "İmar"
+        "Ömer Çelik",
+        "Adalet ve Kalkınma Partisi",
+        "Türkiye Büyük Millet Meclisi"
       ],
-      "yayin": "2014-10-03T10:50:00+03:00",
-      "puan": 7,
+      "yayin": "2025-10-03T17:46:00+03:00",
+      "puan": 10,
       "durum": "elendi",
-      "baslik": "Nihat Hatipoğlu'nun oteli hakkında imar iddiaları gündeme geldi",
-      "ozet": "Televizyon programcısı Nihat Hatipoğlu'nun Sultanahmet bölgesinde işlettiği otel binasına izinsiz kat eklendiği öne sürüldü. Ayrıca otelin yan tarafında bulunan kamuya ait arazinin de usulsüz bir şekilde mülkiyete dahil edildiği iddiaları kamuoyuna yansıdı.",
-      "kategori": "Toplum"
+      "baslik": "AKP Sözcüsü Çelikten Meclis Boykotuna İlişkin Açıklama",
+      "ozet": "AKP Sözcüsü Ömer Çelik, ana muhalefet partisinin Türkiye Büyük Millet Meclisi açılış oturumuna katılmama kararını eleştirdi. Meclis çatısı altında bulunmayı reddetmenin siyasi varlığı inkar etmek anlamına geldiğini savunan Çelik, açıklamasında vesayet odaklarına karşı durulması gerektiğini vurguladı.",
+      "kategori": "Siyaset"
     },
     {
-      "id": "2014-haber-126875",
+      "id": "2024-haber-2254089",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "TÜİK açıkladı: Eylül ayının zam şampiyonu öğrenci yurtları",
+      "aciklama": "TÜİK, tarafından açıklanan verilere göre eylül ayının zam şampiyonu yüzde 50,4 ile öğrenci yurtları oldu. ENAG'ın aylık bazda ürün alt-grup enflasyon oranlarına göre ise en yüksek fiyat artışı giyim ve ayakkabı ürünlerinde gözlemlendi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/tuik-acikladi-eylulun-zam-sampiyonu-ogrenci-yurtlari-2254089"
+      },
+      "konular": [
+        "Türkiye İstatistik Kurumu",
+        "Enflasyon",
+        "Türkiye"
+      ],
+      "yayin": "2024-10-03T11:51:00+03:00",
+      "puan": 13,
+      "durum": "elendi",
+      "baslik": "Eylül ayında en yüksek fiyat artışı öğrenci yurtlarında yaşandı",
+      "ozet": "Türkiye İstatistik Kurumu tarafından paylaşılan güncel verilere göre, eylül ayında fiyatı en fazla yükselen hizmet grubu yüzde 50,4 oranındaki artışla öğrenci yurtları oldu. Enflasyon Araştırma Grubu verileri ise aynı dönemde giyim ve ayakkabı sektörünün en yüksek fiyat artışına sahne olduğunu ortaya koydu.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "id": "2024-haber-2253972",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP lideri Özgür Özel’in Meclis açılışında Erdoğan ve Bahçeli’ye yönelik tavırlarına parti içinden eleştiri",
+      "aciklama": "Eleştirilere Meclis’in açılışı nedeniyle yapılan resepsiyonda yanıt veren CHP Genel Başkanı Özgür Özel, “Biz makamı saygıyla karşılıyoruz. Konuşması tarafsızca olsaydı giderken de uğurlardık. Hem müzakere hem mücadele” dedi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/chp-lideri-ozgur-ozelin-meclis-acilisinda-erdogan-ve-bahceliye-2253972"
+      },
+      "konular": [
+        "Özgür Özel",
+        "Cumhuriyet Halk Partisi",
+        "Türkiye Büyük Millet Meclisi"
+      ],
+      "yayin": "2024-10-03T04:00:00+03:00",
+      "puan": 11,
+      "durum": "elendi",
+      "baslik": "Özgür Özel Meclis açılışındaki tutumuna gelen eleştirileri değerlendirdi",
+      "ozet": "Cumhuriyet Halk Partisi Genel Başkanı Özgür Özel, Türkiye Büyük Millet Meclisi'nin yeni yasama yılı açılışında Cumhurbaşkanı Recep Tayyip Erdoğan ve Devlet Bahçeli'ye karşı sergilediği tavır nedeniyle parti içinden gelen tepkilere yanıt verdi. Meclis resepsiyonunda konuşan Özel, makama duyulan saygının baki olduğunu ancak konuşmanın tarafsız bir çizgide gerçekleşmemesi nedeniyle uğurlama törenine katılmadığını belirtti. Siyasetin hem müzakere hem de mücadele zemininde yürütülmesi gerektiğini vurguladı.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2023-haber-2126110",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez Bankası Başkanı Gaye Erkan, TBMM'de sunum yaptı: Zam ve enflasyon itirafı",
+      "aciklama": "Son dakika haberleri... Merkez Bankası Başkanı Hafize Gaye Erkan, TBMM'de sunum gerçekleştirdi. Erkan, enflasyonun ancak 2026'da tek haneye düşürülebileceğini ifade etti. Merkez Bankası Başkanı, ayrıca akaryakıt fiyatlarının enflasyonda risk unsuru olmayı sürdüreceği konusunda uy",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika-merkez-bankasi-baskani-gaye-erkan-tbmmde-sunum-yapti-zam-ve-enflasyon-itirafi-2126110"
+      },
+      "konular": [
+        "Hafize Gaye Erkan",
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Türkiye Büyük Millet Meclisi"
+      ],
+      "yayin": "2023-10-03T15:59:00+03:00",
+      "puan": 12,
+      "durum": "yazildi",
+      "baslik": "Merkez Bankası Başkanı Erkan TBMM'de Enflasyon Hedeflerini Paylaştı",
+      "ozet": "Türkiye Cumhuriyet Merkez Bankası Başkanı Hafize Gaye Erkan, Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu üyelerine yönelik bir sunum gerçekleştirdi. Yapılan değerlendirmelerde enflasyon oranlarının tek haneli seviyelere ulaşması için 2026 yılının beklendiği belirtildi. Ayrıca akaryakıt fiyatlarındaki değişimlerin enflasyon üzerinde risk oluşturmaya devam edeceği vurgulandı.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Finans_Merkezi.jpg/960px-Finans_Merkezi.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Finans_Merkezi.jpg/500px-Finans_Merkezi.jpg",
+        "genislik": 960,
+        "yukseklik": 960,
+        "orijinalGenislik": 3000,
+        "yazar": "Ail Subway",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Finans_Merkezi.jpg",
+        "aciklama": "İstanbul Financial Centre",
+        "konu": "Türkiye Cumhuriyet Merkez Bankası"
+      }
+    },
+    {
+      "id": "2023-haber-2126196",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Manchester United'da Jadon Sancho depremi yaklaşıyor! Ayrılık an meselesi...",
+      "aciklama": "Manchester United'da teknik direktör Erik ten Hag ile sorun yaşayan Jadon Sancho'nun, devre arasındaki transfer döneminde takımdan ayrılabileceği öne sürüldü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/manchester-unitedda-jadon-sancho-depremi-yaklasiyor-ayrilik-an-meselesi-2126196"
+      },
+      "konular": [
+        "Jadon Sancho",
+        "Manchester United",
+        "Erik ten Hag"
+      ],
+      "yayin": "2023-10-03T19:49:00+03:00",
+      "puan": 10,
+      "durum": "elendi",
+      "baslik": "Manchester United ve Jadon Sancho Arasındaki Gerilim Ayrılık Getirebilir",
+      "ozet": "Manchester United bünyesinde görev yapan teknik direktör Erik ten Hag ile yaşadığı fikir ayrılıkları nedeniyle gündeme gelen Jadon Sancho'nun takımdan ayrılacağı iddia edildi. İngiliz ekibinde forma giyen oyuncunun, kış transfer döneminde kulüpten ayrılarak başka bir takıma geçiş yapabileceği belirtildi.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2022-haber-1988071",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP'li Karahocagil: Cumhurbaşkanımız 'Enflasyon düşecek' diyorsa düşecektir",
+      "aciklama": "TÜİK'in açıkladığı enflasyon rakamlarına ilişkin AKP'den ilginç bir değerlendirme geldi. AKP Amasya Milletvekili Mustafa Levent Karahocagil,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/akpli-karahocagil-cumhurbaskanimiz-enflasyon-dusecek-diyorsa-dusecektir-1988071"
+      },
+      "konular": [
+        "Mustafa Levent Karahocagil",
+        "Adalet ve Kalkınma Partisi",
+        "Türkiye İstatistik Kurumu"
+      ],
+      "yayin": "2022-10-03T14:52:00+03:00",
+      "puan": 12,
+      "durum": "elendi",
+      "baslik": "Enflasyon verileri üzerine siyasi değerlendirme yapıldı",
+      "ozet": "Türkiye İstatistik Kurumu tarafından paylaşılan güncel enflasyon oranları hakkında siyasi kanattan bir açıklama geldi. Amasya milletvekili Mustafa Levent Karahocagil, ekonomi yönetimi tarafından dile getirilen enflasyonun düşeceği yönündeki beklentilerin gerçekleşeceğini ifade etti.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2021-haber-1873783",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Meclis açıldı gündem maddeleri belli oldu",
+      "aciklama": "Türkiye Büyük Millet Meclisi'nde 27'nci dönem 5'inci yasama yılı yoğun gündem ile başlayacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/meclis-acildi-gundem-maddeleri-belli-oldu-1873783"
+      },
+      "konular": [
+        "Türkiye Büyük Millet Meclisi"
+      ],
+      "yayin": "2021-10-03T11:00:00+03:00",
+      "puan": 13,
+      "durum": "elendi",
+      "baslik": "Türkiye Büyük Millet Meclisi yeni yasama yılına başladı",
+      "ozet": "Türkiye Büyük Millet Meclisi yirmi yedinci dönem beşinci yasama yılı çalışmalarına resmen giriş yaptı. Meclis genel kurulu yoğun bir gündem maddesi listesiyle yeni dönemin ilk oturumlarını gerçekleştirdi. Yasama faaliyetleri kapsamında ele alınacak konuların belirlenmesiyle birlikte meclis çalışmaları hız kazandı.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2020-haber-1770715",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "STK’ler ve meslek örgütlerinin etkinlikleri ertelendi. Yeni baroların önü açıldı",
+      "aciklama": "İçişleri Bakanlığı, koronavirüs önlemleri kapsamında, sivil toplum kuruluşu ve meslek örgütü etkinliklerini 1 Aralık’a kadar erteledi. YSK ise baroların genel kurul yapamayacağına ancak parti kongrelerinin toplanabileceğine karar verdi. Ertelemeyle, “çoklu baro” düzenlemesiyle ku",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/stkler-ve-meslek-orgutlerinin-etkinlikleri-ertelendi-yeni-barolarin-onu-acildi-1770715"
+      },
+      "konular": [
+        "Baro",
+        "İçişleri Bakanlığı",
+        "Türkiye"
+      ],
+      "yayin": "2020-10-03T06:00:00+03:00",
+      "puan": 7,
+      "durum": "yazildi",
+      "baslik": "Sivil toplum ve meslek örgütü etkinliklerine erteleme kararı",
+      "ozet": "İçişleri Bakanlığı tarafından alınan karar doğrultusunda, salgın tedbirleri gerekçe gösterilerek sivil toplum kuruluşları ile meslek örgütlerinin faaliyetleri aralık ayına kadar durduruldu. Yüksek Seçim Kurulu ise baroların genel kurul toplantılarını yapamayacağına hükmetti. Bu düzenleme ile birlikte çoklu baro sisteminin hayata geçirilmesi sürecinde yeni bir aşamaya geçildi.",
+      "kategori": "Siyaset",
+      "gorsel": null
+    },
+    {
+      "id": "2020-haber-1770902",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Türkiye'de yerli aşı çalışmalarında insan üzerinde denemelere başlandı",
+      "aciklama": "Sağlık Bakanı Koca, AKP'li Cumhurbaşkanı Erdoğan'a, Covid-19'a karşı yerli aşıda insan üzerinde deneme aşamasına geçildiği bilgisini verdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/yerli-asi-turkiyede-insan-uzerinde-denemelere-basladi-1770902"
+      },
+      "konular": [
+        "COVID-19 aşıları",
+        "Türkiye",
+        "Sağlık Bakanlığı"
+      ],
+      "yayin": "2020-10-03T18:57:00+03:00",
+      "puan": 6,
+      "durum": "yazildi",
+      "baslik": "Türkiye'de geliştirilen yerli aşıda klinik deneme süreci başladı",
+      "ozet": "Sağlık Bakanı, Covid-19 salgınına karşı yürütülen yerli aşı geliştirme faaliyetlerinde önemli bir aşamaya gelindiğini duyurdu. Bu kapsamda, hazırlanan aşının insanlar üzerinde uygulanacağı klinik deneme çalışmalarına resmen başlandığı bilgisi paylaşıldı. Söz konusu gelişme, devletin en üst kademesine aktarılarak süreç hakkında bilgilendirme yapıldı.",
+      "kategori": "Bilim",
+      "gorsel": null
+    },
+    {
+      "id": "2018-haber-1101092",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Daum'dan Fenerbahçe açıklaması: Şampiyon yaparım",
+      "aciklama": "TRT Spor'da yorumculuk yapan gazeteci Ferudun Niğdelioğlu, Fenerbahçe'nin eski teknik direktörü Daum ile röportaj yaptı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/daumdan-fenerbahce-aciklamasi-sampiyon-yaparim-1101092"
+      },
+      "konular": [
+        "Christoph Daum",
+        "Fenerbahçe (futbol takımı)"
+      ],
+      "yayin": "2018-10-03T13:30:00+03:00",
+      "puan": 8,
+      "durum": "elendi",
+      "baslik": "Christoph Daum Fenerbahçe hakkındaki düşüncelerini paylaştı",
+      "ozet": "Fenerbahçe'nin eski teknik direktörü Christoph Daum, bir spor programında yer alan gazeteci Ferudun Niğdelioğlu'na özel açıklamalarda bulundu. Deneyimli çalıştırıcı, sarı lacivertli ekibi yeniden şampiyonluğa taşıyabileceğini ifade etti. Söz konusu röportajda teknik adamın kulübe dair görüşleri ve hedefleri kamuoyuyla paylaşıldı.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2018-haber-1100689",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "UEFA Şampiyonlar Ligi'nde 8 maç oynandı",
+      "aciklama": "UEFA Şampiyonlar Ligi'nde grup aşamasının ikinci haftası, 4 grupta oynanan 8 maçla başladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/uefa-sampiyonlar-liginde-8-mac-oynandi-1100689"
+      },
+      "konular": [
+        "UEFA Şampiyonlar Ligi"
+      ],
+      "yayin": "2018-10-03T00:42:00+03:00",
+      "puan": 8,
+      "durum": "elendi",
+      "baslik": "UEFA Şampiyonlar Ligi grup aşamasında ikinci hafta heyecanı başladı",
+      "ozet": "Avrupa futbolunun kulüpler düzeyindeki en prestijli organizasyonu olan UEFA Şampiyonlar Ligi'nde grup maçlarına devam edildi. Turnuvanın ikinci haftası kapsamında dört farklı grupta toplam sekiz karşılaşma gerçekleştirildi.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2017-haber-836924",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP’li Faik Öztrak: Hükümet referandumdan ‘evet’ çıkarabilmek için bütçeyi hovardaca harcadı",
+      "aciklama": "Orta Vadeli Program'dan (OVP) çıkan vergi artışlarını değerlendiren CHP’li Faik Öztrak, “Millete ‘evet’ çıkarabilmek için hükümet her kesime bir şeyler dağıtmaya kalktı ve bütçeyi hovardaca harcadı. Hesapsız, kitapsız yapılan harcamaların ortaya çıkardığı sonuç bu” ifadelerini ku",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chpli-faik-oztrak-hukumet-referandumdan-evet-cikarabilmek-icin-butceyi-hovardaca-harcadi-836924"
+      },
+      "konular": [
+        "Faik Öztrak",
+        "Cumhuriyet Halk Partisi",
+        "Türkiye ekonomisi"
+      ],
+      "yayin": "2017-10-03T12:24:00+03:00",
+      "puan": 11,
+      "durum": "elendi",
+      "baslik": "Faik Öztrak'tan Orta Vadeli Program ve Bütçe Harcamalarına Eleştiri",
+      "ozet": "Cumhuriyet Halk Partisi milletvekili Faik Öztrak, Orta Vadeli Program kapsamında duyurulan vergi artışlarını değerlendirdi. Öztrak, hükümetin referandum sürecinde destek toplamak amacıyla bütçe kaynaklarını kontrolsüz bir şekilde kullandığını savundu. Yapılan harcamaların plansız olduğunu belirten Öztrak, mevcut vergi düzenlemelerinin bu hesapsız harcama politikasının bir sonucu olduğunu ifade etti.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2017-haber-836804",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP, TBMM’deki ödüllü camiyi yıkacak",
+      "aciklama": "Türkiye Büyük Millet Meclisi'ndeki Ağahan Mimarlık Ödüllü cami, AKP kararıyla yıkılacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/akp-tbmmdeki-odullu-camiyi-yikacak-836804"
+      },
+      "konular": [
+        "TBMM Camii",
+        "Türkiye Büyük Millet Meclisi",
+        "Ağa Han Mimarlık Ödülü"
+      ],
+      "yayin": "2017-10-03T10:36:00+03:00",
+      "puan": 9,
+      "durum": "elendi",
+      "baslik": "Türkiye Büyük Millet Meclisi Yerleşkesindeki Cami Yıkılıyor",
+      "ozet": "Türkiye Büyük Millet Meclisi bünyesinde bulunan ve daha önce Ağahan Mimarlık Ödülü almış olan caminin yıkılmasına karar verildi. Söz konusu yapının kaldırılmasına yönelik alınan bu karar, meclis yerleşkesindeki düzenlemeler kapsamında gündeme geldi.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2016-haber-608961",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolar haftaya yükselişle başladı",
+      "aciklama": "Küresel piyasalarda bankacılık endişeleri ve ABD'nin faiz artırımına yaklaştığına ilişkin baskıların yanında, petrol fiyatlarındaki yukarı yönlü gelişmelerin etkisiyle dolar yeni haftaya 3.0 liranın üzerinde başladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/dolar-haftaya-yukselisle-basladi-608961"
+      },
+      "konular": [
+        "Dolar",
+        "Döviz kuru",
+        "Ekonomi"
+      ],
+      "yayin": "2016-10-03T09:58:00+03:00",
+      "puan": 8,
+      "durum": "elendi",
+      "baslik": "Dolar kuru haftanın ilk gününde üç liranın üzerine çıktı",
+      "ozet": "Küresel piyasalarda yaşanan bankacılık sektörü kaynaklı tedirginlikler ve Amerika Birleşik Devletleri merkez bankasının faiz artırımına gideceği beklentisi döviz piyasalarını etkiledi. Petrol fiyatlarında gözlenen artış eğilimiyle birlikte dolar, haftaya üç liranın üzerinde bir değerle giriş yaptı. Piyasalar üzerindeki bu baskı unsurları haftanın başlangıcında kurun yükseliş eğilimi göstermesine neden oldu.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "id": "2015-haber-380645",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Rekoru kırdı, Fenerbahçe'ye transfer oldu",
+      "aciklama": "Yüksek atlamada 7 yıldır kırılamayan yıldızlar Türkiye rekorunu ele geçiren 17 yaşındaki milli sporcu Alperen Acet, bu başarısıyla Fenerbahçe'ye imza attı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/rekoru-kirdi-fenerbahceye-transfer-oldu-380645"
+      },
+      "konular": [
+        "Alperen Acet",
+        "Fenerbahçe (erkek voleybol takımı)",
+        "Yüksek atlama"
+      ],
+      "yayin": "2015-10-03T12:21:00+03:00",
+      "puan": 9,
+      "durum": "elendi",
+      "baslik": "Alperen Acet Türkiye rekorunu kırarak Fenerbahçe'ye transfer oldu",
+      "ozet": "Yedi yıldır geçilemeyen yıldızlar Türkiye rekorunu yüksek atlama branşında geliştiren on yedi yaşındaki milli sporcu Alperen Acet, gösterdiği bu performansın ardından Fenerbahçe kulübü ile sözleşme imzaladı. Genç atlet, elde ettiği derecesiyle dikkatleri üzerine çekerek kariyerine sarı lacivertli ekipte devam etme kararı aldı.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2015-haber-380717",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "6 bölgede sokağa çıkma yasağı ilan edildi",
+      "aciklama": "Söz konusu bölgelere dışardan sivillerin girişi ve yapılabilecek tüm eylemler de yasaklandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/6-bolgede-sokaga-cikma-yasagi-ilan-edildi-380717"
+      },
+      "konular": [
+        "Sokağa çıkma yasağı",
+        "Türkiye"
+      ],
+      "yayin": "2015-10-03T14:59:00+03:00",
+      "puan": 7,
+      "durum": "yazildi",
+      "baslik": "Altı farklı bölgede sokağa çıkma yasağı uygulaması başlatıldı",
+      "ozet": "Belirlenen altı ayrı bölge için sokağa çıkma yasağı kararı alındı. Alınan bu karar doğrultusunda söz konusu alanlara sivillerin girişi durduruldu ve bölge genelinde her türlü eylem yasak kapsamına alındı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Galatasaray_Square_and_Ist%C4%B1klal_Avenue_during_a_curfew.jpg/960px-Galatasaray_Square_and_Ist%C4%B1klal_Avenue_during_a_curfew.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Galatasaray_Square_and_Ist%C4%B1klal_Avenue_during_a_curfew.jpg/500px-Galatasaray_Square_and_Ist%C4%B1klal_Avenue_during_a_curfew.jpg",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 4000,
+        "yazar": "Myrat",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Galatasaray_Square_and_Ist%C4%B1klal_Avenue_during_a_curfew.jpg",
+        "aciklama": "Istiklal Avenue and Galatasaray Square during the curfew dated May 30, 2020.",
+        "konu": "Sokağa çıkma yasağı"
+      }
+    },
+    {
+      "id": "2014-haber-126879",
       "yil": 2014,
       "bolge": "turkiye",
       "tur": "haber",
-      "metin": "Faruk Süren:'Galatasaray'ın 60 milyon dolara ihtiyacı var'",
-      "aciklama": "Galatasaray'ın eski başkanlarından Faruk Süren, seçim öncesinde yaşananları ve düşüncelerini açıkladı.",
+      "metin": "Kritik karar öncesi dolar tavan yaptı",
+      "aciklama": "Kredi derecelendirme şirketi Fitch'in Türkiye'nin kredi notuna ilişkin açıklaması öncesinde dolar 2.30 liraya dayandı.",
       "haberKaynagi": {
         "ad": "Cumhuriyet",
-        "url": "https://www.cumhuriyet.com.tr/haber/faruk-surengalatasarayin-60-milyon-dolara-ihtiyaci-var-126875"
+        "url": "https://www.cumhuriyet.com.tr/haber/kritik-karar-oncesi-dolar-tavan-yapti-126879"
       },
       "konular": [
-        "Faruk Süren",
-        "Galatasaray SK"
+        "Fitch Ratings",
+        "Dolar",
+        "Türkiye ekonomisi"
       ],
-      "yayin": "2014-10-03T16:16:00+03:00",
-      "puan": 6,
+      "yayin": "2014-10-03T16:24:00+03:00",
+      "puan": 7,
       "durum": "elendi",
-      "baslik": "Faruk Süren Galatasaray'ın Finansal İhtiyacına Dikkat Çekti",
-      "ozet": "Galatasaray Kulübü'nün eski başkanlarından Faruk Süren, yaklaşan seçim süreci öncesinde kulübün içinde bulunduğu mali duruma dair değerlendirmelerde bulundu. Süren, sarı kırmızılı ekibin mevcut şartlarda 60 milyon dolarlık bir kaynağa gereksinim duyduğunu ifade etti. Deneyimli isim, kulüpteki seçim atmosferi ve geleceğe yönelik beklentileri hakkındaki görüşlerini kamuoyuyla paylaştı.",
-      "kategori": "Spor"
+      "baslik": "Dolar kurunda Fitch kararı öncesi hareketlilik yaşandı",
+      "ozet": "Uluslararası kredi derecelendirme kuruluşu Fitch tarafından Türkiye hakkında yapılacak değerlendirme öncesinde piyasalarda dalgalanma gözlendi. Beklenen açıklama öncesinde dolar kuru yükseliş eğilimi göstererek 2.30 lira seviyesine kadar yaklaştı.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "id": "2014-haber-126825",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İsveç kabinesine 2 Türk bakan",
+      "aciklama": "İsveç'te yeni hükümet 21 üyeli yeni kabineyi açıkladı. Türk asıllı Mehmet Kaplan Şehircilik ve İskan Bakanlığı'na getirilirken, Mardinli Süryani asıllı İbrahim Baylan Enerji Bakanı oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/isvec-kabinesine-2-turk-bakan-126825"
+      },
+      "konular": [
+        "Mehmet Kaplan",
+        "İbrahim Baylan",
+        "İsveç"
+      ],
+      "yayin": "2014-10-03T14:39:00+03:00",
+      "puan": 7,
+      "durum": "yazildi",
+      "baslik": "İsveç hükümetinde iki Türk kökenli isim görev aldı",
+      "ozet": "İsveçte kurulan yeni hükümetin yirmi bir üyeden oluşan kabinesi kamuoyuna duyuruldu. Açıklanan listede Mehmet Kaplan Şehircilik ve İskan Bakanı olarak görevlendirilirken, İbrahim Baylan ise Enerji Bakanlığı görevine getirildi. Böylece kabinede iki Türk kökenli siyasetçi yer almış oldu.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2013-haber-3353",

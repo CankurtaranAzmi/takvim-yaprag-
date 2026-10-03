@@ -649,10 +649,6 @@
     {
       "yil": 2004,
       "metin": "Isack Hadjar, Cezayir asıllı Fransız yarış pilotu"
-    },
-    {
-      "yil": 2026,
-      "metin": "Sinan Dağlar Şahin, Daglar isimli Rapçi oldu."
     }
   ],
   "olumler": [
@@ -769,10 +765,6 @@
       "metin": "Arthur Penn, Amerikalı yönetmen (d. 1922)"
     },
     {
-      "yil": 2011,
-      "metin": "Leyla Yılmaz, Leyla ile Mecnun kurgusal karakter (d.1985)"
-    },
-    {
       "yil": 2013,
       "metin": "Turgut Özakman, Türk bürokrat, yazar ve avukat (d. 1930)"
     },
@@ -881,9 +873,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/28_Eyl%C3%BCl",
-    "revid": 38072757
+    "revid": 38106830
   },
-  "guncelleme": "2026-09-30T12:06:33.855Z",
+  "guncelleme": "2026-10-03T11:16:19.011Z",
   "haberler": [
     {
       "id": "2025-haber-2438946",
@@ -896,17 +888,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/aysel-onder-dunya-sampiyonasi-nda-rekorla-zirveye-cikti-2438946"
       },
-      "konular": [
-        "Aysel Önder",
-        "Para atletizm"
-      ],
+      "konular": [],
       "yayin": "2025-09-28T14:55:00+03:00",
       "puan": 16,
-      "durum": "yazildi",
-      "baslik": "Aysel Önder dünya şampiyonasında altın madalya kazandı",
-      "ozet": "Milli para atlet Aysel Önder, katıldığı dünya şampiyonasında gösterdiği üstün performansla birinciliğe ulaştı. Yarışma sırasında yeni bir rekora imza atan sporcu, altın madalyanın sahibi oldu.",
-      "kategori": "Spor",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2439002",
@@ -919,17 +904,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/akp-de-izmir-depremi-5-ilce-baskani-istifa-etti-2439002"
       },
-      "konular": [
-        "Adalet ve Kalkınma Partisi",
-        "İzmir",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2025-09-28T18:22:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Adalet ve Kalkınma Partisi İzmir teşkilatında beş ilçe başkanı görev bıraktı",
-      "ozet": "Adalet ve Kalkınma Partisi bünyesinde ilçe başkanlıkları düzeyinde yaşanan değişimler İzmir teşkilatına yansıdı. Kentteki beş farklı ilçe başkanının görevlerinden ayrılma kararı aldığı kamuoyuna duyuruldu. Parti içerisinde bir süredir devam eden istifa ve görev değişimi süreci bu gelişmeyle birlikte yerel teşkilatları da içine aldı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2252284",
@@ -942,17 +920,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-kasimpasa-karsisina-rekor-icin-cikacak-2252284"
       },
-      "konular": [
-        "Galatasaray (futbol takımı)",
-        "Süper Lig",
-        "Kasımpaşa SK"
-      ],
+      "konular": [],
       "yayin": "2024-09-28T10:26:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Galatasaray ligde galibiyet serisini geliştirmeyi hedefliyor",
-      "ozet": "Süper Lig sezonuna altıda altı yaparak başlayan Galatasaray, lig tarihindeki en iyi başlangıç rekorunu egale etti. Sarı kırmızılı ekip, Kasımpaşa ile oynayacağı müsabakadan galibiyetle ayrılması halinde bu rekoru geliştirerek tarihe geçmeyi amaçlıyor.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2252255",
@@ -965,18 +936,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/abdde-kasirga-kabusu-30-kisi-hayatini-kaybetti-2252255"
       },
-      "konular": [
-        "Helene Kasırgası",
-        "Florida",
-        "Amerika Birleşik Devletleri"
-      ],
+      "konular": [],
       "yayin": "2024-09-28T09:21:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Helene Kasırgası Amerika Birleşik Devletleri'nde Can Kaybına Yol Açtı",
-      "ozet": "Florida kıyılarına dördüncü kategoride ulaşan Helene Kasırgası bölgede ciddi bir yıkıma sebep oldu. Şiddetli hava muhalefeti nedeniyle yaşanan felakette otuz kişi hayatını kaybetti. Yetkililer bölgedeki olumsuz etkilerin sürdüğünü belirtti.",
-      "kategori": "Afet",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2124524",
@@ -989,30 +952,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/fenerbahce-alagoz-holding-fiba-super-kupa-sampiyonu-2124524"
       },
-      "konular": [
-        "FIBA Kadınlar Süper Kupa",
-        "Fenerbahçe (kadın basketbol takımı)",
-        "Basketbol"
-      ],
+      "konular": [],
       "yayin": "2023-09-28T23:03:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Fenerbahçe Kadın Basketbol Takımı FIBA Süper Kupa Şampiyonu Oldu",
-      "ozet": "Fenerbahçe Alagöz Holding, FIBA Kadınlar Süper Kupa final mücadelesinde karşılaştığı rakibi LDLC Asvel karşısında üstün bir oyun sergiledi. Rakibini 109-52 gibi farklı bir skorla mağlup etmeyi başaran sarı-lacivertli ekip, kupanın sahibi oldu. Bu galibiyetle birlikte takım, Avrupa basketbolundaki başarısını bir kez daha tescilledi.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Carter_vs_Gasol%2C_Lakers_vs_Magic.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Carter_vs_Gasol%2C_Lakers_vs_Magic.jpg",
-        "genislik": 758,
-        "yukseklik": 568,
-        "orijinalGenislik": 758,
-        "yazar": "Tim Wang",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Carter_vs_Gasol,_Lakers_vs_Magic.jpg",
-        "aciklama": "Vince Carter goes up for a layup against Pau Gasol",
-        "konu": "Basketbol"
-      }
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2124246",
@@ -1025,17 +968,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasindan-iki-yeni-faaliyet-izni-karari-2124246"
       },
-      "konular": [
-        "Türkiye Cumhuriyet Merkez Bankası",
-        "Elektronik para",
-        "Finansal teknoloji"
-      ],
+      "konular": [],
       "yayin": "2023-09-28T10:15:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Merkez Bankası ödeme kuruluşlarına yönelik yeni izinlerini duyurdu",
-      "ozet": "Merkez Bankası tarafından alınan kararlar doğrultusunda finansal piyasalarda yeni düzenlemelere gidildi. Bu kapsamda İşte Pay Ödeme Kuruluşu AŞ'nin elektronik para kuruluşu olarak hizmet vermesine onay verildi. Ayrıca Papara Elektronik Para AŞ'nin mevcut faaliyet izninin kapsamı genişletilerek şirketin yetki alanı artırıldı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1986336",
@@ -1048,17 +984,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/sampiyonluk-arastirmasi-yayimlandi-kadinlar-galatasaray-erkekler-besiktas-diyor-1986336"
       },
-      "konular": [
-        "Süper Lig",
-        "Galatasaray",
-        "Beşiktaş"
-      ],
+      "konular": [],
       "yayin": "2022-09-28T15:34:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Süper Lig şampiyonluk beklentileri üzerine yapılan anket sonuçlandı",
-      "ozet": "Areda Survey tarafından gerçekleştirilen güncel bir araştırma, Süper Lig şampiyonluğu hakkındaki taraftar görüşlerini ortaya koydu. Elde edilen verilere göre katılımcıların yüzde 36,3'ü Galatasaray'ın sezonu zirvede tamamlayacağını öngördü. Araştırmada dikkat çeken bir diğer nokta ise Galatasaray'ı şampiyonluk adayı olarak görenlerin önemli bir kısmının kadınlardan oluşmasıydı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1986462",
@@ -1071,17 +1000,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/anadolu-efes-cumhurbaskanligi-kupasini-kazandi-1986462"
       },
-      "konular": [
-        "Anadolu Efes",
-        "Fenerbahçe Beko",
-        "Cumhurbaşkanlığı Kupası"
-      ],
+      "konular": [],
       "yayin": "2022-09-28T21:11:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Anadolu Efes Cumhurbaşkanlığı Kupası'nın sahibi oldu",
-      "ozet": "Ankara ev sahipliğinde düzenlenen 36. Erkekler Basketbol Cumhurbaşkanlığı Kupası final mücadelesi tamamlandı. Fenerbahçe Beko ile karşı karşıya gelen Anadolu Efes, rakibini 71-62 skorla mağlup ederek kupayı kazanan taraf oldu.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1872544",
@@ -1094,17 +1016,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/destici-hdpli-tbmm-baskanvekili-dahil-tum-gorevlilerin-askiya-alinmasini-istedi-1872544"
       },
-      "konular": [
-        "Mustafa Destici",
-        "Türkiye Büyük Millet Meclisi",
-        "Halkların Demokratik Partisi"
-      ],
+      "konular": [],
       "yayin": "2021-09-28T13:00:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "BBP Genel Başkanı Destici'den HDP'li Başkanvekili Hakkında Talep",
-      "ozet": "Büyük Birlik Partisi Genel Başkanı Mustafa Destici, Türkiye Büyük Millet Meclisi Başkanvekili olarak görev yapan HDP'li bir ismin yetkilerinin durdurulması gerektiğini ifade etti. Destici, söz konusu milletvekilinin üstlendiği görevlerin askıya alınması yönündeki beklentisini kamuoyuyla paylaştı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1872612",
@@ -1117,30 +1032,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/cumhurbaskani-erdogan-ve-abd-baskani-biden-g-20-zirvesinde-gorusecek-1872612"
       },
-      "konular": [
-        "G20",
-        "Recep Tayyip Erdoğan",
-        "Joe Biden"
-      ],
+      "konular": [],
       "yayin": "2021-09-28T17:11:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Cumhurbaşkanı Erdoğan ve ABD Başkanı Biden G-20 Zirvesi'nde Bir Araya Gelecek",
-      "ozet": "Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan ile Amerika Birleşik Devletleri Başkanı Joe Biden'ın G-20 Zirvesi kapsamında ikili bir görüşme gerçekleştireceği duyuruldu. İki liderin zirve programı dahilinde bir araya gelerek çeşitli konuları ele alması planlandı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Family_photo_G20_Italy_2021.jpg/960px-Family_photo_G20_Italy_2021.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Family_photo_G20_Italy_2021.jpg/500px-Family_photo_G20_Italy_2021.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 6720,
-        "yazar": "Government of Brazil - Planalto Palace",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Family_photo_G20_Italy_2021.jpg",
-        "aciklama": "(Roma - Itália, 30/10/2021) Fotografia Oficial com os Chefes de Delegação do G20.Foto: Alan Santos/PR",
-        "konu": "G20"
-      }
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1769469",
@@ -1153,18 +1048,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/anayasa-mahkemesinden-coklu-baro-duzenlemesiyle-ilgili-karar-cikti-1769469"
       },
-      "konular": [
-        "Çoklu baro sistemi",
-        "Anayasa Mahkemesi",
-        "Cumhuriyet Halk Partisi"
-      ],
+      "konular": [],
       "yayin": "2020-09-28T12:00:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "Anayasa Mahkemesi çoklu baro düzenlemesini esastan inceleme kararı aldı",
-      "ozet": "Anayasa Mahkemesi, kamuoyunda çoklu baro sistemi olarak bilinen yasal düzenlemeye yönelik incelemesini başlattı. Cumhuriyet Halk Partisi tarafından yapılan iptal talebini değerlendiren yüksek mahkeme, başvuruyu esastan görüşme kararı verdi. Bu gelişmeyle birlikte söz konusu kanun maddelerinin anayasaya uygunluğu yargı sürecine taşınmış oldu.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1097183",
@@ -1177,16 +1064,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/vergi-rekortmenleri-hala-aciklanmadi-1097183"
       },
-      "konular": [
-        "Hazine ve Maliye Bakanlığı",
-        "Vergi"
-      ],
+      "konular": [],
       "yayin": "2018-09-28T22:54:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Kurumlar ve gelir vergisi rekortmenleri listesi henüz yayımlanmadı",
-      "ozet": "Hazine ve Maliye Bakanlığı tarafından açıklanması beklenen 2018 yılı gelir ve kurumlar vergisi rekortmenleri listesi için süreç uzadı. Aradan geçen iki buçuk aylık süreye rağmen ilgili veriler kamuoyu ile paylaşılmadı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1096761",
@@ -1199,30 +1080,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/merkel-erdogan-basin-toplantisinda-can-dundar-ve-fethullah-gulen-anlasmazligi-1096761"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Angela Merkel",
-        "Türkiye-Almanya ilişkileri"
-      ],
+      "konular": [],
       "yayin": "2018-09-28T15:16:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Berlin'de Erdoğan ve Merkel Arasında Basın Toplantısı Düzenlendi",
-      "ozet": "Almanya'nın başkenti Berlin'de bir araya gelen Cumhurbaşkanı Recep Tayyip Erdoğan ve Almanya Başbakanı Angela Merkel, ikili görüşmelerinin ardından ortak bir basın toplantısı gerçekleştirdi. Toplantı sırasında iki lider, Can Dündar ve Fethullah Gülen ile ilgili konuları ele alarak görüş ayrılıklarını dile getirdi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2017-haber-834001",
@@ -1235,17 +1096,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/cimri-cihazlarla-buyume-rekoru-834001"
       },
-      "konular": [
-        "İklimlendirme",
-        "Enerji verimliliği",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2017-09-28T22:05:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "İklimlendirme Sektöründe Enerji Verimliliği Kaynaklı Büyüme",
-      "ozet": "İklimlendirme sektörü, teknoloji alanında yaptığı yatırımlar sayesinde satış rakamlarını önemli ölçüde yükseltti. Daha az enerji tüketen verimli cihazların üretimine odaklanan firmalar, bu stratejiyle pazar paylarını genişleterek büyüme ivmesini artırdı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-833427",
@@ -1258,16 +1112,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dolar-360a-yaklasti-avro-rekor-kirdi-833427"
       },
-      "konular": [
-        "Döviz kuru",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2017-09-28T11:09:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Döviz piyasalarında hareketli gün: Euro rekor tazeledi",
-      "ozet": "Küresel piyasalarda yaşanan değişimler ve jeopolitik gelişmelerin etkisiyle döviz kurlarında yükseliş gözlendi. Dolar kuru son iki haftalık süreçte değer kazanarak 3,59 seviyelerine ulaştı ve iki buçuk ayın en yüksek noktasına çıktı. Aynı dönemde Euro ise 4,21 sınırını aşarak kendi tarihi zirvesini gördü.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-607597",
@@ -1280,30 +1128,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/obamanin-veto-ettigi-11-eylul-yasasi-kabul-edildi-607597"
       },
-      "konular": [
-        "11 Eylül saldırıları",
-        "Barack Obama",
-        "ABD Kongresi"
-      ],
+      "konular": [],
       "yayin": "2016-09-28T22:09:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "ABD Kongresi 11 Eylül tasarısını veto yetkisini aşarak yasalaştırdı",
-      "ozet": "ABD Başkanı Barack Obama tarafından veto edilen 11 Eylül tasarısı, Temsilciler Meclisi ve Senato oturumlarında gerekli çoğunluğun sağlanmasıyla yürürlüğe girdi. Başkanın veto kararını geçersiz kılan bu yasal düzenleme, ilgili süreçlerin ardından resmiyet kazandı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/September_11_Photo_Montage.jpg/960px-September_11_Photo_Montage.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/September_11_Photo_Montage.jpg/500px-September_11_Photo_Montage.jpg",
-        "genislik": 960,
-        "yukseklik": 1654,
-        "orijinalGenislik": 1057,
-        "yazar": "UpstateNYer",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:September_11_Photo_Montage.jpg",
-        "aciklama": "Collection of photos related to the September 11 attacks, meant to be used as the infobox image for that article on Wikipedia.",
-        "konu": "11 Eylül saldırıları"
-      }
+      "durum": "haber"
     },
     {
       "id": "2016-haber-607172",
@@ -1316,15 +1144,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-liginde-2-hafta-heyecani-basladi-607172"
       },
-      "konular": [
-        "UEFA Sampiyonlar Ligi"
-      ],
+      "konular": [],
       "yayin": "2016-09-28T11:33:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "UEFA Sampiyonlar Ligi grup asamasinda ikinci hafta karsilasmalari basladi",
-      "ozet": "Avrupa futbolunun kulüpler düzeyindeki en prestijli organizasyonu olan UEFA Sampiyonlar Ligi'nde grup maçlari devam ediyor. Turnuvanin ikinci hafta heyecani, dün oynanan müsabakalarla birlikte basladi. Avrupa'nin farkli sehirlerinde gerçeklesen bu karsilasmalarla birlikte takimlar puan mücadelesine kaldigi yerden devam etti.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2015-haber-377375",
@@ -1337,17 +1160,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akpnin-haydi-bismillah-secim-sarkisi-icin-ysknin-gerekceli-karari-377375"
       },
-      "konular": [
-        "Yüksek Seçim Kurulu",
-        "Adalet ve Kalkınma Partisi",
-        "Türkiye'de seçimler"
-      ],
+      "konular": [],
       "yayin": "2015-09-28T13:25:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "YSK Haydi Bismillah şarkısının kullanımına dair kararını duyurdu",
-      "ozet": "Yüksek Seçim Kurulu, seçim döneminde kullanılan Haydi Bismillah isimli şarkının yasaklanmasına ilişkin aldığı kararın gerekçelerini kamuoyuyla paylaştı. Kurul, söz konusu parçanın seçim sürecindeki yayın ilkelerine uygun olmadığına dair hukuki dayanaklarını detaylı bir şekilde açıkladı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2015-haber-377313",
@@ -1360,30 +1176,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hdpli-bilgen-secimi-boykot-tartisilabilir-377313"
       },
-      "konular": [
-        "Halkların Demokratik Partisi",
-        "Ayhan Bilgen",
-        "Yüksek Seçim Kurulu"
-      ],
+      "konular": [],
       "yayin": "2015-09-28T12:15:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "HDP Sözcüsü Bilgen seçim boykotu ihtimalini değerlendirdi",
-      "ozet": "Yüksek Seçim Kurulu tarafından sandıkların taşınması konusunda yapılacak kritik toplantı öncesinde açıklamalarda bulunan Ayhan Bilgen, kurulun vereceği karara göre seçimleri boykot etme seçeneğinin gündeme gelebileceğini belirtti. HDP adına konuşan Bilgen, sürecin seyrine göre parti olarak farklı yöntemleri tartışabileceklerini ifade etti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Ayhan_Bilgen_%28cropped%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Ayhan_Bilgen_%28cropped%29.jpg",
-        "genislik": 508,
-        "yukseklik": 432,
-        "orijinalGenislik": 508,
-        "yazar": "VOA",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ayhan_Bilgen_(cropped).jpg",
-        "aciklama": "Ayhan Bilgen",
-        "konu": "Ayhan Bilgen"
-      }
+      "durum": "haber"
     },
     {
       "id": "2014-haber-124561",
@@ -1396,16 +1192,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ritmik-cimnastik-dunya-sampiyonasinda-zafer-rusyanin-124561"
       },
-      "konular": [
-        "Ritmik Cimnastik Dünya Şampiyonası",
-        "Rusya"
-      ],
+      "konular": [],
       "yayin": "2014-09-28T17:47:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Ritmik Cimnastik Dünya Şampiyonası'nda Rusya zirveye yerleşti",
-      "ozet": "Otuz üçüncü kez düzenlenen Ritmik Cimnastik Dünya Şampiyonası sona erdi. Organizasyon boyunca sergiledikleri performansla toplam on iki madalya elde eden Rusya, genel sıralamada en üst basamakta yer aldı. Rus sporcuların elde ettiği bu başarı, şampiyonanın genel klasmanında birinciliği getirdi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2014-haber-124631",
@@ -1418,30 +1208,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/iside-karsi-bir-sampiyon-124631"
       },
-      "konular": [
-        "Kobani",
-        "IŞİD",
-        "Suriye İç Savaşı"
-      ],
+      "konular": [],
       "yayin": "2014-09-28T23:38:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "Kobani bölgesinde insani ihtiyaçlara erişim zorlaşıyor",
-      "ozet": "IŞİD saldırıları altındaki Kobani kentinde yaşam koşulları giderek ağırlaştı. Bölge halkı temel ihtiyaç maddeleri olan elektrik, su ve ilaç temininde ciddi sorunlarla karşı karşıya kaldı.",
-      "kategori": "Savaş",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Coalition_Airstrike_on_ISIL_position_in_Kobane.jpg/960px-Coalition_Airstrike_on_ISIL_position_in_Kobane.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Coalition_Airstrike_on_ISIL_position_in_Kobane.jpg/500px-Coalition_Airstrike_on_ISIL_position_in_Kobane.jpg",
-        "genislik": 960,
-        "yukseklik": 539,
-        "orijinalGenislik": 1108,
-        "yazar": "Voice of America News: Scott Bobb reports from the Suruç, Turkey/ Kobane, Syrian border; \"Turkish Border Towns Hosting Thousands of Kobani R",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Coalition_Airstrike_on_ISIL_position_in_Kobane.jpg",
-        "aciklama": "Coalition airstrike on ISIL position in Kobane on 22 October 2014.",
-        "konu": "Kobani"
-      }
+      "durum": "haber"
     },
     {
       "id": "2012-haber-373086",
@@ -1454,17 +1224,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-asirlik-camiyi-yiktirdi-373086"
       },
-      "konular": [
-        "Güneysu",
-        "Rize",
-        "Cami"
-      ],
+      "konular": [],
       "yayin": "2012-09-28T15:37:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Güneysu ilçesindeki tarihi Ayane Camisi yıkıldı",
-      "ozet": "Rize ilinin Güneysu ilçesinde yer alan ve bölgenin simgelerinden biri kabul edilen yüz iki yıllık Ayane Camisi, verilen talimatlar doğrultusunda ortadan kaldırıldı. Kıbledağı üzerinde konumlanan ve ilçenin pek çok noktasından görülebilen tarihi yapının yıkım süreci tamamlandı.",
-      "kategori": "Toplum"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-373050",
@@ -1477,17 +1240,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/mimarlik-ve-kent-festivali-basliyor-373050"
       },
-      "konular": [
-        "Mimarlık",
-        "İstanbul",
-        "Film festivali"
-      ],
+      "konular": [],
       "yayin": "2012-09-28T13:50:00+03:00",
       "puan": 6,
-      "durum": "elendi",
-      "baslik": "İstanbul Mimarlık ve Kent Filmleri Festivali İçin Hazırlıklar Tamamlandı",
-      "ozet": "İstanbul sınırları içerisinde düzenlenecek olan Uluslararası Mimarlık ve Kent Filmleri Festivali etkinlik takvimi belli oldu. Mimari yapılar ve şehir yaşamı üzerine odaklanan yapımların izleyiciyle buluşacağı organizasyonun başlangıç tarihi ekim ayının ilk günü olarak belirlendi. Festival kapsamında çeşitli film gösterimleri gerçekleştirilecek.",
-      "kategori": "Sanat"
+      "durum": "haber"
     },
     {
       "id": "2011-haber-285876",
@@ -1500,30 +1256,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kita-sahanligi-anlasmasi-kktc-meclisinde-285876"
       },
-      "konular": [
-        "Kıta sahanlığı",
-        "Kuzey Kıbrıs Türk Cumhuriyeti",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2011-09-28T16:23:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Kıta Sahanlığı Sınırlandırma Anlaşması Meclis gündemine taşındı",
-      "ozet": "Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Kıta Sahanlığı Sınırlandırma Anlaşması ile ilgili yasal süreci başlattı. Söz konusu metin, gerekli onay işlemlerinin tamamlanmasının ardından görüşülmek üzere Cumhuriyet Meclisi'ne gönderildi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Southeastern_United_States_continental_shelf.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Southeastern_United_States_continental_shelf.jpg",
-        "genislik": 462,
-        "yukseklik": 374,
-        "orijinalGenislik": 462,
-        "yazar": "National Oceanic and Atmospheric Administration",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Southeastern_United_States_continental_shelf.jpg",
-        "aciklama": "Diagram of the continental shelf and slope of the southeastern United States leading down to the ocean floor.",
-        "konu": "Kıta sahanlığı"
-      }
+      "durum": "haber"
     },
     {
       "id": "2011-haber-285894",
@@ -1536,17 +1272,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/teroristlerin-kapattigi-yol-ulasima-acildi-285894"
       },
-      "konular": [
-        "Tunceli",
-        "Erzincan",
-        "Karayolu"
-      ],
+      "konular": [],
       "yayin": "2011-09-28T17:46:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Tunceli ile Erzincan arasındaki ulaşım yeniden sağlandı",
-      "ozet": "Tunceli bölgesinde gerçekleştirilen terör saldırısı sebebiyle bir süredir trafiğe kapalı tutulan Tunceli-Erzincan karayolu üzerindeki güvenlik önlemlerinin tamamlanmasının ardından tekrar araç geçişlerine açıldı. Bölgedeki ulaşım akışı normale döndü.",
-      "kategori": "Ulaşım"
+      "durum": "haber"
     }
   ],
   "haberYillari": [
