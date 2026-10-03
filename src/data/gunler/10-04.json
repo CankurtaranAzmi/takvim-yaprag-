@@ -967,7 +967,7 @@
     },
     {
       "yil": 1936,
-      "metin": "İoanna Kuçuradi, Türk filozof"
+      "metin": "İoanna Kuçuradi, Türk filozof (ö. 2026)"
     },
     {
       "yil": 1937,
@@ -1428,9 +1428,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/4_Ekim",
-    "revid": 36768161
+    "revid": 38114954
   },
-  "guncelleme": "2026-09-30T12:06:37.718Z",
+  "guncelleme": "2026-10-03T11:16:21.878Z",
   "haberler": [
     {
       "id": "2025-haber-2440545",
@@ -1578,8 +1578,8 @@
       "yayin": "2023-10-04T15:36:00+03:00",
       "puan": 10,
       "durum": "yazildi",
-      "baslik": "Galatasaray deplasmanda Manchester United engelini aştı",
-      "ozet": "UEFA Şampiyonlar Ligi A Grubu ikinci hafta mücadelesinde İngiliz rakibi Manchester United ile karşılaşan Galatasaray, sahadan 3-2 galip ayrıldı. Bu sonuçla birlikte sarı-kırmızılı ekip, turnuvada uzun süredir devam eden galibiyet hasretine son vermiş oldu.",
+      "baslik": "Galatasaray deplasmanda Manchester United engelini üç golle aştı",
+      "ozet": "UEFA Şampiyonlar Ligi A Grubu ikinci hafta mücadelesinde Galatasaray, İngiltere deplasmanında Manchester United ile karşı karşıya geldi. Rakibini 3-2 mağlup etmeyi başaran sarı-kırmızılı ekip, turnuvadaki uzun süreli galibiyet hasretine bu sonuçla nokta koydu.",
       "kategori": "Spor",
       "gorsel": null
     },
@@ -1696,7 +1696,7 @@
       "puan": 8,
       "durum": "elendi",
       "baslik": "Kasımpaşa Galatasaray karşısında sahadan galibiyetle ayrıldı",
-      "ozet": "Recep Tayyip Erdoğan Stadyumu ev sahipliğinde gerçekleşen müsabakada Kasımpaşa ve Galatasaray karşı karşıya geldi. Ev sahibi ekip, rakibi karşısında tek gol bularak karşılaşmayı kazandı ve üç puanın sahibi oldu.",
+      "ozet": "Recep Tayyip Erdoğan Stadı'nda oynanan müsabakada Kasımpaşa ile Galatasaray karşı karşıya geldi. Ev sahibi ekip, rakibine karşı tek gol bularak karşılaşmayı kazandı ve üç puanın sahibi oldu.",
       "kategori": "Spor"
     },
     {
@@ -1747,15 +1747,14 @@
         "url": "https://www.cumhuriyet.com.tr/haber/tbmm-ic-tuzuk-teklifi-anayasa-komisyonunda-kabul-edildi-1102642"
       },
       "konular": [
-        "Türkiye Büyük Millet Meclisi İç Tüzüğü",
-        "Türkiye Büyük Millet Meclisi Anayasa Komisyonu",
-        "Türkiye Büyük Millet Meclisi"
+        "Türkiye Büyük Millet Meclisi",
+        "Anayasa Komisyonu"
       ],
       "yayin": "2018-10-04T19:17:00+03:00",
       "puan": 12,
       "durum": "elendi",
-      "baslik": "Meclis İç Tüzük Değişikliği Teklifi Komisyondan Geçti",
-      "ozet": "Türkiye Büyük Millet Meclisi çalışma usullerini düzenleyen iç tüzük değişikliği teklifi, Anayasa Komisyonu tarafından yapılan görüşmelerin ardından onaylandı. Komisyon üyelerinin değerlendirmeleri sonucunda kabul edilen teklif, yasama sürecindeki ilerleyişini sürdürdü.",
+      "baslik": "TBMM İç Tüzük Değişikliği Teklifi Komisyondan Geçti",
+      "ozet": "Türkiye Büyük Millet Meclisi çalışmalarını düzenleyen iç tüzükte değişiklik yapılmasına dair sunulan teklif, Anayasa Komisyonu tarafından görüşülerek onaylandı. Komisyon üyelerinin değerlendirmelerinin ardından kabul edilen düzenleme, meclis işleyişine dair yeni kurallar getirmeyi amaçlıyor.",
       "kategori": "Siyaset"
     },
     {
@@ -2078,7 +2077,7 @@
       "puan": 7,
       "durum": "yazildi",
       "baslik": "Akçakale Belediye Başkanı bölgedeki çatışmalar hakkında konuştu",
-      "ozet": "Suriye sınırından atılan top mermilerinin isabet ettiği Akçakale ilçesinde yaşanan gergin durum hakkında Belediye Başkanı Abdülhekim Ayhan açıklamalarda bulundu. Bölgedeki güvenlik risklerine dikkat çeken Ayhan, yerleşim yerlerinin hedef alınmasıyla birlikte ilçede savaş benzeri bir atmosferin oluştuğunu ifade etti.",
+      "ozet": "Suriye topraklarından ateşlenen top mermilerinin isabet ettiği Akçakale ilçesinde yaşanan durum hakkında Belediye Başkanı Abdülhekim Ayhan değerlendirmelerde bulundu. Bölgedeki güvenlik endişelerini dile getiren Ayhan, yaşananları bir savaş ortamına benzetti. İlçede meydana gelen olayların ardından yerel yönetimin bakış açısını uluslararası bir yayın kuruluşuna aktardı.",
       "kategori": "Savaş",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",

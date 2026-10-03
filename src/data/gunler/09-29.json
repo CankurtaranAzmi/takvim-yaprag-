@@ -934,7 +934,7 @@
     "url": "https://tr.wikipedia.org/wiki/29_Eyl%C3%BCl",
     "revid": 38089248
   },
-  "guncelleme": "2026-09-30T12:06:34.318Z",
+  "guncelleme": "2026-10-03T11:16:19.397Z",
   "haberler": [
     {
       "id": "2025-haber-2439223",
@@ -947,17 +947,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/aksu-da-chp-li-6-meclis-uyesi-istifa-etti-2439223"
       },
-      "konular": [
-        "Aksu, Antalya",
-        "Cumhuriyet Halk Partisi",
-        "İsa Yıldırım"
-      ],
+      "konular": [],
       "yayin": "2025-09-29T14:59:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Antalya Aksu Belediyesinde altı meclis üyesi partisinden ayrıldı",
-      "ozet": "Antalya ilinin Aksu ilçesinde görev yapan altı meclis üyesi, Cumhuriyet Halk Partisi üyeliğinden ayrılma kararı aldı. Bu gelişme, kısa süre önce partisinden istifa eden Aksu Belediye Başkanı İsa Yıldırım'ın ardından gerçekleşti. Söz konusu meclis üyeleri, görevlerinden ayrıldıklarını kamuoyuna duyurdu.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2439184",
@@ -970,16 +963,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/trabzonspor-sampiyonluk-sonrasi-en-iyi-ilk-7-haftayi-geride-birakti-2439184"
       },
-      "konular": [
-        "Trabzonspor",
-        "Süper Lig"
-      ],
+      "konular": [],
       "yayin": "2025-09-29T13:00:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Trabzonspor son dört sezonun en iyi lig başlangıcına imza attı",
-      "ozet": "Bordo-mavili ekip, ligin ilk yedi haftalık bölümünde topladığı on dört puanla dikkat çekici bir performans sergiledi. Takım, şampiyonluk yaşadığı sezonun başlangıç verilerine oldukça yaklaşarak son dört yılın en başarılı dönemini geride bıraktı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2252719",
@@ -992,17 +979,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/ust-uste-4-kez-cumhurbaskanligi-kupasinda-sampiyon-anadolu-efes-2252719"
       },
-      "konular": [
-        "Cumhurbaşkanlığı Kupası (basketbol)",
-        "Anadolu Efes",
-        "Fenerbahçe (basketbol takımı)"
-      ],
+      "konular": [],
       "yayin": "2024-09-29T20:12:00+03:00",
       "puan": 15,
-      "durum": "elendi",
-      "baslik": "Anadolu Efes Cumhurbaşkanlığı Kupası'nı Dört Kez Üst Üste Kazandı",
-      "ozet": "Otuz yedinci kez düzenlenen Cumhurbaşkanlığı Kupası finalinde Anadolu Efes ile Fenerbahçe karşı karşıya geldi. Rakibini seksen üçe seksen iki skorla mağlup eden Anadolu Efes, kupayı on dördüncü defa kazanma başarısı gösterdi. Bu sonuçla birlikte Anadolu Efes, üst üste dördüncü kez bu kupanın sahibi oldu.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2252726",
@@ -1015,17 +995,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/akp-kulislerinde-konusulanlar-ortaya-cikti-erdoganin-cikisi-sonrasi-2252726"
       },
-      "konular": [
-        "Türk Silahlı Kuvvetleri",
-        "Recep Tayyip Erdoğan",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2024-09-29T20:56:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Türk Silahlı Kuvvetlerinde yeni ihraç süreci gündeme geldi",
-      "ozet": "Bir mezuniyet töreninde yaşanan gelişmelerin ardından Türk Silahlı Kuvvetleri bünyesinde yeni bir ihraç sürecinin başlayacağı iddiaları siyasi kulislerde yer buldu. Cumhurbaşkanı Erdoğan'ın konuyla ilgili yaptığı açıklamaların sonrasında kurum içerisinde disiplin süreçlerinin işletileceği ve bazı isimlerin görevden uzaklaştırılacağı öne sürüldü.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2124862",
@@ -1038,16 +1011,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/super-kupa-sampiyonu-fenerbahce-yurda-dondu-2124862"
       },
-      "konular": [
-        "Fenerbahçe (kadın basketbol takımı)",
-        "FIBA Kadınlar Süper Kupa"
-      ],
+      "konular": [],
       "yayin": "2023-09-29T22:28:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Fenerbahçe Kadın Basketbol Takımı Süper Kupa zaferiyle yurda döndü",
-      "ozet": "FIBA Kadınlar Süper Kupa mücadelesinde Fransa temsilcisi LDLC ASVEL Feminin ile karşılaşan Fenerbahçe Alagöz Holding, rakibini 109-52 gibi farklı bir skorla mağlup ederek kupanın sahibi oldu. Şampiyonluk sevincini yaşayan sarı-lacivertli kafile, maçın ardından Türkiye'ye geri dönüş yaptı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2124678",
@@ -1060,17 +1027,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/sampiyon-milliler-soyunma-odasinda-alkislarla-karsilandi-2124678"
       },
-      "konular": [
-        "Futsal",
-        "Fenerbahçe",
-        "Down sendromu"
-      ],
+      "konular": [],
       "yayin": "2023-09-29T12:46:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Özel Futsal Milli Takımı Fenerbahçe soyunma odasında ağırlandı",
-      "ozet": "İtalya'da düzenlenen Avrupa Şampiyonası'nda şampiyonluk elde eden Down Sendromlu Özel Futsal Milli Takımı oyuncuları, Fenerbahçe ile Başakşehir arasındaki müsabakayı tribünden izledi. Karşılaşmanın ardından sarı-lacivertli ekibin soyunma odasını ziyaret eden milli sporcular, futbolcular ve teknik heyet tarafından alkışlarla karşılandı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1986704",
@@ -1083,17 +1043,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/erdogan-konusurken-dolarda-yeni-rekor-geldi-1986704"
       },
-      "konular": [
-        "Dolar",
-        "Recep Tayyip Erdoğan",
-        "Türkiye ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2022-09-29T15:32:00+03:00",
       "puan": 17,
-      "durum": "elendi",
-      "baslik": "Döviz piyasasında yeni zirve seviyeler görüldü",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın yaptığı konuşma esnasında dolar kuru gün içerisinde ikinci defa rekor tazeledi. Erdoğan, konuşmasında faiz oranlarının düşürülmeye devam edilmesi gerektiği yönündeki görüşlerini yineledi. Yaşanan bu gelişmelerle birlikte döviz piyasasında hareketlilik gözlendi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1986796",
@@ -1106,16 +1059,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/serbest-dalis-dunya-kupasi-turkiye-rekoruyla-basladi-1986796"
       },
-      "konular": [
-        "Serbest dalış",
-        "Rüstem Derin"
-      ],
+      "konular": [],
       "yayin": "2022-09-29T19:29:00+03:00",
       "puan": 13,
-      "durum": "elendi",
-      "baslik": "Serbest Dalış Dünya Kupası'nda Türkiye rekoru kırıldı",
-      "ozet": "Dünya Kupası müsabakaları kapsamında gerçekleştirilen yarışmalarda milli sporcu Rüstem Derin önemli bir başarıya imza attı. Sabit ağırlık çift palet kategorisinde mücadele eden Derin, 94 metre derinliğe ulaşarak yeni Türkiye rekorunun sahibi oldu.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1872935",
@@ -1128,30 +1075,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/dolar-rekor-kirdi-yukselis-suruyor-1872935"
       },
-      "konular": [
-        "Dolar",
-        "Türk lirası",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2021-09-29T21:58:00+03:00",
       "puan": 12,
-      "durum": "yazildi",
-      "baslik": "Dolar kuru piyasalarda tarihi zirvesini yeniledi",
-      "ozet": "Dolar ve Türk Lirası paritesi gün sonu işlemlerinde yukarı yönlü hareketini sürdürdü. Piyasaların kapanış saatlerinin ardından değer kazanmaya devam eden dolar, 8,95 seviyesini aşarak kendi rekorunu tazeledi. Söz konusu yükselişle birlikte para birimi tarihindeki en yüksek noktaya ulaştı.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/USDnotes.png/960px-USDnotes.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/USDnotes.png/500px-USDnotes.png",
-        "genislik": 960,
-        "yukseklik": 837,
-        "orijinalGenislik": 2380,
-        "yazar": "derivative work: Hidro (talk) USDnotes.jpg: The original uploader was Andyhi18 at English Wikipedia.",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:USDnotes.png",
-        "aciklama": "Includes new banknotes",
-        "konu": "Dolar"
-      }
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1872862",
@@ -1164,30 +1091,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/tunusta-ilk-kadin-basbakan-atandi-1872862"
       },
-      "konular": [
-        "Necla Buden",
-        "Kays Said",
-        "Tunus"
-      ],
+      "konular": [],
       "yayin": "2021-09-29T15:24:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Tunus tarihinde bir ilk olarak kadın başbakan göreve getirildi",
-      "ozet": "Tunus Cumhurbaşkanı Kays Said, ülkede başbakanlık görevine Necla Buden Ramazan'ı atadı. Bu gelişme ile birlikte Tunus tarihinde ilk defa bir kadın siyasetçi başbakanlık koltuğuna oturmuş oldu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/President_Kais_Sa%C3%AFed_cropped.jpg/960px-President_Kais_Sa%C3%AFed_cropped.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/President_Kais_Sa%C3%AFed_cropped.jpg/500px-President_Kais_Sa%C3%AFed_cropped.jpg",
-        "genislik": 960,
-        "yukseklik": 1312,
-        "orijinalGenislik": 1257,
-        "yazar": "Houcemmzoughi",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:President_Kais_Sa%C3%AFed_cropped.jpg",
-        "aciklama": "Portrait of President Kais Saïed",
-        "konu": "Kays Said"
-      }
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1769830",
@@ -1200,30 +1107,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/koronavirus-ingiltere-basbakani-johnson-onlemler-hakkinda-yanlis-bilgi-verdigi-icin-ozur-diledi-1769830"
       },
-      "konular": [
-        "COVID-19 pandemisi",
-        "Boris Johnson",
-        "Birleşik Krallık"
-      ],
+      "konular": [],
       "yayin": "2020-09-29T16:31:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Boris Johnson yeni koronavirüs kısıtlamaları konusunda hata yaptı",
-      "ozet": "İngiltere Başbakanı Boris Johnson, ülkenin kuzeydoğu bölgesinde yürürlüğe girecek olan güncel koronavirüs tedbirleri hakkında kamuoyuna hatalı bilgiler aktardı. Yaşanan bu durumun ardından Başbakan, yanlış bilgilendirme yaptığı gerekçesiyle özür diledi. Söz konusu kısıtlamaların detaylarına dair açıklama yaparken zorlanan Johnson, hükümetin aldığı yeni kararların uygulanması sürecinde yaşanan karışıklığı kabul etti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg/960px-Boris_Johnson_official_portrait_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg/500px-Boris_Johnson_official_portrait_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1350,
-        "orijinalGenislik": 1122,
-        "yazar": "Ben Shread",
-        "lisans": "OGL 3",
-        "lisansUrl": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Boris_Johnson_official_portrait_(cropped).jpg",
-        "aciklama": "Depicted person: Boris Johnson – Prime Minister of the United Kingdom from 2019 to 2022",
-        "konu": "Boris Johnson"
-      }
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1769676",
@@ -1236,17 +1123,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fiba-sampiyonlar-liginde-8li-final-heyecani-yarin-basliyor-1769676"
       },
-      "konular": [
-        "FIBA Şampiyonlar Ligi",
-        "Türk Telekom (basketbol takımı)",
-        "Atina"
-      ],
+      "konular": [],
       "yayin": "2020-09-29T09:22:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "FIBA Şampiyonlar Ligi Sekizli Finali Atina'da Başlıyor",
-      "ozet": "Küresel salgın sebebiyle mart ayında durdurulan 2019-2020 sezonu FIBA Şampiyonlar Ligi müsabakaları, Atina'da düzenlenecek sekizli final organizasyonuyla kaldığı yerden devam etti. Türk Telekom'un da şampiyonluk mücadelesi vereceği bu özel turnuva sonunda sezonun kazananı belli oldu.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1097399",
@@ -1259,17 +1139,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/endonezyada-deprem-ve-tsunami-en-az-384-kisi-hayatini-kaybetti-1097399"
       },
-      "konular": [
-        "2018 Sulawesi depremi ve tsunamisi",
-        "Endonezya"
-      ],
+      "konular": [],
       "yayin": "2018-09-29T11:27:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "Endonezya'da Deprem ve Tsunami Felaketi Yaşandı",
-      "ozet": "Endonezya'da meydana gelen 7,5 büyüklüğündeki şiddetli sarsıntının ardından kıyıları vuran tsunami büyük bir yıkıma yol açtı. Yaşanan doğal afet sonucunda en az 384 kişi hayatını kaybederken, 350'den fazla kişinin de yaralandığı bildirildi. Bölgedeki yetkililer, arama kurtarma çalışmalarının devam ettiğini belirterek ölü sayısının yükselmesinden endişe duyduklarını ifade etti.",
-      "kategori": "Afet",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2017-haber-834192",
@@ -1282,30 +1155,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/cumhurbaskanina-suikast-girisimi-davasinda-kararin-aciklanacagi-tarih-belli-oldu-834192"
       },
-      "konular": [
-        "Cumhurbaşkanına suikast girişimi davası",
-        "Muğla",
-        "Yargı"
-      ],
+      "konular": [],
       "yayin": "2017-09-29T11:03:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Cumhurbaşkanına suikast girişimi davasında karar günü belirlendi",
-      "ozet": "Muğla 2. Ağır Ceza Mahkemesinde görülen suikast girişimi davasında sanıkların savunma süreçleri sona erdi. Mahkeme heyeti, yargılama sonucuna ilişkin nihai kararını 4 Ekim tarihinde açıklayacağını duyurdu. Dava dosyası üzerindeki incelemelerin tamamlanmasıyla birlikte süreç karara bağlanma aşamasına geldi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Melbourne_Federal_Court.JPG",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Melbourne_Federal_Court.JPG",
-        "genislik": 768,
-        "yukseklik": 576,
-        "orijinalGenislik": 768,
-        "yazar": "user:Adz",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Melbourne_Federal_Court.JPG",
-        "aciklama": "Melbourne Federal Court Building. Taken from Flagstaff Gardens 11 July 2005 by user:Adz",
-        "konu": "Yargı"
-      }
+      "durum": "haber"
     },
     {
       "id": "2017-haber-834826",
@@ -1318,16 +1171,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/semdinlide-sokaga-cikma-yasagi-ilan-edildi-834826"
       },
-      "konular": [
-        "Şemdinli",
-        "Hakkari"
-      ],
+      "konular": [],
       "yayin": "2017-09-29T23:32:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Hakkari Şemdinli'de Belirli Bölgelerde Sokağa Çıkma Yasağı Uygulaması",
-      "ozet": "Hakkari'nin Şemdinli ilçesine bağlı Altınsu Köyü ile çevresindeki bazı mahalle ve mezralarda sokağa çıkma yasağı kararı alındı. Söz konusu bölgelerde uygulanacak olan kısıtlamanın toplam on iki gün süreceği açıklandı. İlgili mülki sınırlar içerisinde yaşayan vatandaşların belirtilen süre boyunca dışarı çıkmaları yasaklandı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-607930",
@@ -1340,17 +1187,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hdpnin-erdogan-karari-yarin-belli-olacak-607930"
       },
-      "konular": [
-        "Halkların Demokratik Partisi",
-        "Recep Tayyip Erdoğan",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2016-09-29T13:41:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "HDP Meclis açılışındaki Erdoğan konuşmasına yönelik tavrını belirleyecek",
-      "ozet": "Halkların Demokratik Partisi, Türkiye Büyük Millet Meclisi Genel Kurulu'nun yeni yasama yılı açılışında Cumhurbaşkanı Recep Tayyip Erdoğan'ın yapacağı konuşmaya karşı nasıl bir tutum sergileyeceğini değerlendirdi. Parti yönetimi, bu konudaki nihai kararını gerçekleştireceği Meclis Grubu toplantısında ele alarak netleştirdi. Geçmiş dönemde benzer bir açılışta izlenen tavır göz önünde bulundurularak, bu yılki oturuma katılım durumu üzerinde duruldu.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-607708",
@@ -1363,17 +1203,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/petrol-karari-sonrasi-dolar-ve-avro-yukseliste-607708"
       },
-      "konular": [
-        "OPEC",
-        "Döviz kuru",
-        "Türkiye ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2016-09-29T09:49:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "OPEC üretim kısıtlama kararı Türk lirasını etkiledi",
-      "ozet": "Petrol İhraç Eden Ülkeler Örgütü, sekiz yıllık bir aranın ardından petrol üretimini sınırlandırma yönünde bir karara vardı. Enerji ihtiyacını büyük oranda dış kaynaklardan karşılayan Türkiye ekonomisinde, bu gelişmenin ardından dolar ve avro kurlarında artış gözlemlendi. Yaşanan bu durum piyasalarda dalgalanmaya neden oldu.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2015-haber-377769",
@@ -1386,30 +1219,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dolar-ic-piyasada-tarihi-zirveyi-gordu-377769"
       },
-      "konular": [
-        "Dolar",
-        "Ekonomi",
-        "Türkiye ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2015-09-29T09:33:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Dolar kuru yurt içi piyasalarda rekor seviyeye ulaştı",
-      "ozet": "Amerika Birleşik Devletleri merkezli faiz artırımı beklentileri finansal piyasaları etkilemeye devam etti. Ekim ayında faiz oranlarının yükseltileceğine dair oluşan genel kanı, doların Türk lirası karşısında değer kazanmasına ve tarihi bir zirve noktasına ulaşmasına yol açtı.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/USDnotes.png/960px-USDnotes.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/USDnotes.png/500px-USDnotes.png",
-        "genislik": 960,
-        "yukseklik": 837,
-        "orijinalGenislik": 2380,
-        "yazar": "derivative work: Hidro (talk) USDnotes.jpg: The original uploader was Andyhi18 at English Wikipedia.",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:USDnotes.png",
-        "aciklama": "Includes new banknotes",
-        "konu": "Dolar"
-      }
+      "durum": "haber"
     },
     {
       "id": "2015-haber-378287",
@@ -1422,29 +1235,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/skandallarin-markasi-volkswagenden-rekor-bakanliktan-ilk-aciklama-378287"
       },
-      "konular": [
-        "Volkswagen emisyon skandalı",
-        "Volkswagen"
-      ],
+      "konular": [],
       "yayin": "2015-09-29T17:44:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Volkswagen emisyon skandalı sonrası milyonlarca aracı geri çağırdı",
-      "ozet": "Egzoz emisyon testlerinde hileli yazılım kullandığı ortaya çıkan otomobil üreticisi Volkswagen, dünya genelinde 11 milyon aracı onarım işlemleri için geri çağırma kararı aldı. Şirket yönetimi, yaşanan usulsüzlüklerin ardından bozulan marka imajını yeniden inşa etmek amacıyla bu adımı attığını belirtti. Söz konusu araçların teknik incelemelerden geçirilerek gerekli düzenlemelerin yapılacağı ifade edildi.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/VW_Golf_TDI_Clean_Diesel_WAS_2010_8983.JPG/960px-VW_Golf_TDI_Clean_Diesel_WAS_2010_8983.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/VW_Golf_TDI_Clean_Diesel_WAS_2010_8983.JPG/500px-VW_Golf_TDI_Clean_Diesel_WAS_2010_8983.JPG",
-        "genislik": 960,
-        "yukseklik": 553,
-        "orijinalGenislik": 1500,
-        "yazar": "Mariordo Mario Roberto Duran Ortiz",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:VW_Golf_TDI_Clean_Diesel_WAS_2010_8983.JPG",
-        "aciklama": "Lateral view VW Golf TDI clean diesel at the 2010 Washington Auto Show",
-        "konu": "Volkswagen emisyon skandalı"
-      }
+      "durum": "haber"
     },
     {
       "id": "2014-haber-124694",
@@ -1457,17 +1251,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dunya-kadinlar-voleybol-sampiyonasinda-grup-maclari-tamamlandi-124694"
       },
-      "konular": [
-        "Dünya Kadınlar Voleybol Şampiyonası",
-        "Voleybol",
-        "İtalya"
-      ],
+      "konular": [],
       "yayin": "2014-09-29T09:25:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Dünya Kadınlar Voleybol Şampiyonası'nda ilk tur karşılaşmaları sona erdi",
-      "ozet": "İtalya'nın ev sahipliğinde düzenlenen Dünya Kadınlar Voleybol Şampiyonası'nda grup aşaması müsabakaları tamamlandı. Turnuvanın başlangıç evresindeki tüm karşılaşmaların bitmesiyle birlikte şampiyonada bir sonraki aşamaya geçildi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2014-haber-124857",
@@ -1480,17 +1267,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/point-blankin-son-sampiyonu-rusya-oldu-124857"
       },
-      "konular": [
-        "Point Blank",
-        "E-spor",
-        "İstanbul"
-      ],
+      "konular": [],
       "yayin": "2014-09-29T12:33:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Point Blank Dünya Şampiyonası'nda Birinciliği Rusya Kazandı",
-      "ozet": "İstanbul Lütfi Kırdar Uluslararası Kongre ve Sergi Sarayı'nda düzenlenen Point Blank turnuvası sona erdi. İki Türk ekibinin de mücadele ettiği organizasyonda şampiyonluk ipini Rusya göğüsledi. Turnuva boyunca sergilenen rekabetçi oyunlar izleyiciler tarafından takip edildi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-373254",
@@ -1503,17 +1283,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-nefret-soyleminde-inandirici-degil-373254"
       },
-      "konular": [
-        "Sezgin Tanrıkulu",
-        "Recep Tayyip Erdoğan",
-        "Cumhuriyet Halk Partisi"
-      ],
+      "konular": [],
       "yayin": "2012-09-29T13:38:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "CHP'den hükümetin nefret söylemi politikasına yönelik eleştiri",
-      "ozet": "Cumhuriyet Halk Partisi Genel Başkan Yardımcısı Sezgin Tanrıkulu, Başbakan Recep Tayyip Erdoğan'ın nefret söylemi konusundaki açıklamalarını samimi bulmadığını ifade etti. Tanrıkulu, hükümetin bu alandaki tutumunun inandırıcı olmadığını belirterek eleştirilerini dile getirdi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-373246",
@@ -1526,30 +1299,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-aklini-basina-almali-373246"
       },
-      "konular": [
-        "Kemal Kılıçdaroğlu",
-        "Çözüm süreci",
-        "Cumhuriyet Halk Partisi"
-      ],
+      "konular": [],
       "yayin": "2012-09-29T12:50:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Kılıçdaroğlu'ndan çözüm süreci ve akil insanlar önerisi",
-      "ozet": "Cumhuriyet Halk Partisi Genel Başkanı Kemal Kılıçdaroğlu, uzun yıllardır devam eden meselelerin çözümü için yeni bir yaklaşım önerdi. Devletin terör örgütleriyle doğrudan görüşme yapmasının hukuk devleti ilkeleriyle bağdaşmadığını belirten Kılıçdaroğlu, bu süreçte akil insanlardan oluşan bir heyetin devreye girmesi gerektiğini ifade etti. Sorunların meşru zeminlerde ve hukuk kuralları çerçevesinde ele alınması gerektiğini vurgulayan Kılıçdaroğlu, çözüm için masaya oturulması çağrısında bulundu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Kemal_K%C4%B1l%C4%B1%C3%A7daro%C4%9Flu_in_2024_%28cropped%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Kemal_K%C4%B1l%C4%B1%C3%A7daro%C4%9Flu_in_2024_%28cropped%29.jpg",
-        "genislik": 492,
-        "yukseklik": 633,
-        "orijinalGenislik": 492,
-        "yazar": "Voice of America",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Kemal_K%C4%B1l%C4%B1%C3%A7daro%C4%9Flu_in_2024_(cropped).jpg",
-        "aciklama": "Kemal Kılıçdaroğlu in 2024",
-        "konu": "Kemal Kılıçdaroğlu"
-      }
+      "durum": "haber"
     },
     {
       "id": "2011-haber-286144",
@@ -1562,30 +1315,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/eski-basbakan-aclik-grevinde-286144"
       },
-      "konular": [
-        "El Bağdadi Ali El Mahmudi",
-        "Libya İç Savaşı",
-        "Muammer Kaddafi"
-      ],
+      "konular": [],
       "yayin": "2011-09-29T15:23:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Libya eski başbakanı cezaevinde açlık grevi başlattı",
-      "ozet": "Kaddafi döneminin başbakanı El Bağdadi Ali El Mahmudi, tutuklu bulunduğu cezaevinde açlık grevine gitme kararı aldı. Söz konusu gelişme, devrik rejimin üst düzey yetkilileri arasında yaşanan süreçlerin bir parçası olarak kayıtlara geçti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Moamer_el_Gadafi_%28cropped%29.jpg/960px-Moamer_el_Gadafi_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Moamer_el_Gadafi_%28cropped%29.jpg/500px-Moamer_el_Gadafi_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1229,
-        "orijinalGenislik": 1948,
-        "yazar": "Stevan Kragujević",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Moamer_el_Gadafi_(cropped).jpg",
-        "aciklama": "Moamer el Gadafi u Beogradu. Foto: Stevan Kragujević (po odobrenju kćerke Tanje Kragujević.)",
-        "konu": "Muammer Kaddafi"
-      }
+      "durum": "haber"
     },
     {
       "id": "2011-haber-286146",
@@ -1598,17 +1331,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tarihte-uzlasma-anayasasi-yok-286146"
       },
-      "konular": [
-        "Doğu Perinçek",
-        "İşçi Partisi",
-        "Anayasa"
-      ],
+      "konular": [],
       "yayin": "2011-09-29T14:39:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Doğu Perinçek anayasa çalışmaları hakkında değerlendirmelerde bulundu",
-      "ozet": "İşçi Partisi Genel Başkanı Doğu Perinçek, Silivri'de bulunduğu sırada gündemdeki anayasa hazırlıklarına dair görüşlerini paylaştı. Perinçek, egemen güçlerin kendi hakimiyetlerini meşrulaştırmak amacıyla bu tür bir uzlaşma arayışına girdiklerini ifade etti. Tarihsel süreçte uzlaşma temelli bir anayasa yapımının mümkün olmadığını savunan Perinçek, mevcut çalışmaları bu çerçevede eleştirdi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     }
   ],
   "haberYillari": [

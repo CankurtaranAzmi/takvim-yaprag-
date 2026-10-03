@@ -751,7 +751,7 @@
     "url": "https://tr.wikipedia.org/wiki/25_Eyl%C3%BCl",
     "revid": 38059536
   },
-  "guncelleme": "2026-09-30T12:06:31.389Z",
+  "guncelleme": "2026-10-03T11:16:16.846Z",
   "haberler": [
     {
       "id": "2025-haber-2438322",
@@ -764,30 +764,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/naci-gorur-den-erzurum-depremi-sonrasi-uyari-depremin-boyutu-artabilir-2438322"
       },
-      "konular": [
-        "Aşkale depremi",
-        "Naci Görür",
-        "Erzurum"
-      ],
+      "konular": [],
       "yayin": "2025-09-25T22:40:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Naci Görür'den Erzurum'daki deprem hareketliliği üzerine uyarı",
-      "ozet": "Erzurum'un Aşkale ilçesinde meydana gelen 4,4 büyüklüğündeki sarsıntının ardından uzmanlar değerlendirmelerde bulundu. Prof. Dr. Naci Görür, Kandilli Fayı'nın büyük bir enerji üretme kapasitesinin bulunmadığını belirtti. Ancak Tezcan Fayı'nın bu sarsıntıyla tetiklenme ihtimaline karşı dikkatli olunması gerektiğini vurgulayarak, olası bir etkileşim durumunda depremin şiddetinin artabileceği konusunda uyarıda bulundu.",
-      "kategori": "Bilim",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Erzurum_Citadel_-_Erzurum_Kalesi_01.jpg/960px-Erzurum_Citadel_-_Erzurum_Kalesi_01.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Erzurum_Citadel_-_Erzurum_Kalesi_01.jpg/500px-Erzurum_Citadel_-_Erzurum_Kalesi_01.jpg",
-        "genislik": 960,
-        "yukseklik": 497,
-        "orijinalGenislik": 3548,
-        "yazar": "Zeynel Cebeci",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Erzurum_Citadel_-_Erzurum_Kalesi_01.jpg",
-        "aciklama": "West side view of Erzurum Citadel in a rainy day. Erzurum, Turkey.",
-        "konu": "Erzurum"
-      }
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2438285",
@@ -800,30 +780,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/kritik-gorusme-basladi-erdogan-trump-gorusmesinde-masada-neler-var-2438285"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Donald Trump",
-        "Türkiye-Amerika Birleşik Devletleri ilişkileri"
-      ],
+      "konular": [],
       "yayin": "2025-09-25T18:47:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Recep Tayyip Erdoğan ve Donald Trump Beyaz Sarayda Bir Araya Geldi",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ile Amerika Birleşik Devletleri Başkanı Donald Trump, Beyaz Saray çatısı altında ikili bir görüşme gerçekleştirdi. Görüşme gündeminde F-35 uçakları, yaptırım kararları, Boeing uçaklarının satışı ile Suriye ve Gazze bölgelerindeki güncel gelişmeler yer aldı. İki lider, basın mensuplarına yaptıkları kısa değerlendirmelerin ardından toplantıyı tamamladı ve Trump görüşmeyi olumlu olarak nitelendirdi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2251135",
