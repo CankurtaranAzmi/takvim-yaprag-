@@ -110,6 +110,33 @@
       "durum": "yayinda"
     },
     {
+      "id": "1675-hollandali-bilim-adami-christiaan-huygens-cep-saatinin",
+      "yil": 1675,
+      "metin": "Hollandalı bilim adamı Christiaan Huygens, cep saatinin patentini aldı.",
+      "konular": [
+        "Hollanda",
+        "Christiaan Huygens",
+        "cep saati"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/MontreGousset001.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/MontreGousset001.jpg",
+        "genislik": 800,
+        "yukseklik": 697,
+        "orijinalGenislik": 800,
+        "yazar": "Isabelle Grosjean ZA",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:MontreGousset001.jpg",
+        "aciklama": "Pocket watch, savonette-type.",
+        "konu": "cep saati"
+      }
+    },
+    {
       "id": "1675-hollandali-bilim-insani-christiaan-huygens-cep-saatinin",
       "yil": 1675,
       "metin": "Hollandalı bilim insanı Christiaan Huygens, cep saatinin patentini aldı.",
@@ -875,7 +902,7 @@
     },
     {
       "yil": 1876,
-      "metin": "Florence Eliza Allen, Amerikalı matematikçi ve Kadınlara oy hakkı aktivisti (ö. 1960)"
+      "metin": "Florence Eliza Allen, Amerikalı matematikçi ve aktivist (ö. 1960)"
     },
     {
       "yil": 1881,
@@ -939,7 +966,7 @@
     },
     {
       "yil": 1921,
-      "metin": "Aleksandr Kemurciyan, Sovyet bilim insanı (ö. 2003)"
+      "metin": "Aleksandr Kemurciyan, Sovyet bilim adamı (ö. 2003)"
     },
     {
       "yil": 1923,
@@ -967,7 +994,7 @@
     },
     {
       "yil": 1936,
-      "metin": "İoanna Kuçuradi, Türk filozof"
+      "metin": "İoanna Kuçuradi, Türk filozof (ö. 2026)"
     },
     {
       "yil": 1937,
@@ -1221,7 +1248,7 @@
     },
     {
       "yil": 1863,
-      "metin": "Gerrit Schimmelpenninck, Hollandalı iş insanı ve devlet adamı (d. 1794)"
+      "metin": "Gerrit Schimmelpenninck, Hollandalı iş adamı ve devlet adamı (d. 1794)"
     },
     {
       "yil": 1904,
@@ -1424,13 +1451,15 @@
       "metin": "Anatoliy Konkov, Ukrayna asıllı Sovyet millî futbolcu ve teknik direktör (d. 1949)"
     }
   ],
-  "ozelGunler": [],
+  "ozelGunler": [
+    "Dünya Uzay Haftası (4-10 Ekim)"
+  ],
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/4_Ekim",
-    "revid": 36768161
+    "revid": 38208609
   },
-  "guncelleme": "2026-09-30T12:06:37.718Z",
+  "guncelleme": "2026-10-10T12:05:06.842Z",
   "haberler": [
     {
       "id": "2025-haber-2440545",
@@ -1443,17 +1472,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/akp-de-gonulsuz-istifa-zinciri-buyuyor-erdogan-teskilatlardan-rahatsiz-2440545"
       },
-      "konular": [
-        "Adalet ve Kalkınma Partisi",
-        "Recep Tayyip Erdoğan",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2025-10-04T04:00:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Adalet ve Kalkınma Partisi teşkilatlarında görev değişimi süreci",
-      "ozet": "Parti genel merkezinin talimatıyla başlatılan görevden alma işlemleri genişleyerek devam ediyor. Teşkilat yapısında yapılacak kapsamlı değişikliklerin birçok il başkanını etkileyeceği öngörülüyor. Bu süreçte parti içinde yaşanabilecek olası huzursuzluklar ve kırgınlıklar ise dikkat çekiyor.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2440544",
@@ -1466,16 +1488,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/meclis-yeni-yasama-yilina-retlerle-basladi-akp-ve-mhp-den-uc-onergeye-ret-2440544"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2025-10-04T04:00:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Türkiye Büyük Millet Meclisi yeni dönemin ilk oturumlarını gerçekleştirdi",
-      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu yeni yasama dönemine başladı. Oturumlar sırasında gündeme getirilen yoksullukla mücadele, adil yargılanma ve dış temasların detaylandırılmasına yönelik üç farklı önerge, Adalet ve Kalkınma Partisi ile Milliyetçi Hareket Partisi milletvekillerinin oylarıyla kabul edilmedi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2254466",
@@ -1488,30 +1504,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/avrupa-birligi-cinde-uretilen-elektrikli-araclara-vergi-uygulamasini-2254466"
       },
-      "konular": [
-        "Elektrikli araç",
-        "Avrupa Birliği",
-        "Çin ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2024-10-04T13:41:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Avrupa Birliği Çin menşeli elektrikli araçlara ek vergi getirmeyi oyluyor",
-      "ozet": "Avrupa Birliği, Çin'de üretilen elektrikli otomobillere yönelik yüzde 45'e varan gümrük vergisi düzenlemesini oylamaya sundu. Fransa, İtalya, Yunanistan ve Polonya gibi ülkelerin desteklemesi beklenen bu karar, iki taraf arasındaki ekonomik ilişkilerde gerginliğe yol açtı. Çin yönetimi ise söz konusu vergi uygulamasına karşı çeşitli misilleme seçeneklerini değerlendirmeye aldı.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg/960px-Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg/500px-Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 2304,
-        "yazar": "Bontenbal",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg",
-        "aciklama": "Nissan Leaf recharging in Amsterdam, the Netherlands",
-        "konu": "Elektrikli araç"
-      }
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2254366",
@@ -1524,17 +1520,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/erdogan-imzaladi-atama-kararlari-resmi-gazetede-yayimlandi-2254366"
       },
-      "konular": [
-        "Resmi Gazete",
-        "Recep Tayyip Erdoğan",
-        "Türkiye"
-      ],
+      "konular": [],
       "yayin": "2024-10-04T01:00:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Resmi Gazete'de yeni atama kararları yayımlandı",
-      "ozet": "Cumhurbaşkanı tarafından imzalanan atama kararları yürürlüğe girdi. Bu kapsamda Adalet Bakanlığı Bakan Yardımcılığı görevine Mehmet Yılmaz getirilirken, Cumhurbaşkanlığı İdari İşler Başkanlığı Güvenlik İşleri Genel Müdürlüğü görevine ise Hasan Yıldırım atandı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2126521",
@@ -1547,17 +1536,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/chpli-arpaci-sabikali-yollari-meclis-tasidi-2126521"
       },
-      "konular": [
-        "Şeref Arpacı",
-        "Denizli",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2023-10-04T15:57:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Denizli'deki trafik kazaları Türkiye Büyük Millet Meclisi gündemine taşındı",
-      "ozet": "Denizli milletvekili Şeref Arpacı, şehirde sıkça yaşanan trafik kazalarını ve tehlike arz eden yolları İçişleri Bakanlığına yönelttiği bir soru önergesiyle meclis gündemine getirdi. Söz konusu bölgelerde gerekli güvenlik önlemlerinin neden alınmadığını sorgulayan Arpacı, yaşanan kazalara karşı yetkililerin sessiz kalmasını eleştirdi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2126378",
@@ -1570,18 +1552,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-sampiyonlar-ligindeki-serisine-son-verdi-2126378"
       },
-      "konular": [
-        "Galatasaray (futbol takımı)",
-        "Manchester United",
-        "UEFA Şampiyonlar Ligi"
-      ],
+      "konular": [],
       "yayin": "2023-10-04T15:36:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Galatasaray deplasmanda Manchester United engelini aştı",
-      "ozet": "UEFA Şampiyonlar Ligi A Grubu ikinci hafta mücadelesinde İngiliz rakibi Manchester United ile karşılaşan Galatasaray, sahadan 3-2 galip ayrıldı. Bu sonuçla birlikte sarı-kırmızılı ekip, turnuvada uzun süredir devam eden galibiyet hasretine son vermiş oldu.",
-      "kategori": "Spor",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1988692",
@@ -1594,17 +1568,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/sansur-yasasinin-ilk-iki-maddesi-tbmm-genel-kurulunda-kabul-edildi-1988692"
       },
-      "konular": [
-        "Basın Kanunu",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2022-10-04T23:03:00+03:00",
       "puan": 15,
-      "durum": "yazildi",
-      "baslik": "Basın Kanunu ile ilgili düzenlemenin ilk maddeleri onaylandı",
-      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu çatısı altında yürütülen yasal düzenleme görüşmelerinde önemli bir aşama kaydedildi. Kamuoyunda tartışmalara yol açan kanun teklifinin ilk iki maddesi, yapılan oylama sonucunda kabul edilerek yasalaşma sürecine dahil edildi. Söz konusu oturumda teklifin geneli üzerindeki müzakereler devam ederken, kabul edilen maddelerle birlikte yasal süreç resmen ilerlemeye başladı.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1988639",
@@ -1617,17 +1584,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/carlo-ancelotti-hedefim-her-zaman-sampiyonlar-ligi-1988639"
       },
-      "konular": [
-        "Carlo Ancelotti",
-        "Real Madrid",
-        "UEFA Şampiyonlar Ligi"
-      ],
+      "konular": [],
       "yayin": "2022-10-04T18:00:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Carlo Ancelotti Real Madridin Avrupa Hedeflerini Degerlendirdi",
-      "ozet": "Real Madrid teknik direktörü Carlo Ancelotti, UEFA Şampiyonlar Ligi kapsamında Shakhtar Donetsk ile oynanacak müsabaka öncesinde basın mensuplarının sorularını yanıtladı. Deneyimli çalıştırıcı, Avrupa futbolunun en prestijli turnuvasındaki temel amaçlarının her zaman şampiyonluk olduğunu vurguladı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1874061",
@@ -1640,17 +1600,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/2021-dunya-kadinlar-boks-sampiyonasinda-24-milyon-dolar-odul-dagitilacak-1874061"
       },
-      "konular": [
-        "Dünya Kadınlar Boks Şampiyonası",
-        "Boks",
-        "İstanbul"
-      ],
+      "konular": [],
       "yayin": "2021-10-04T10:56:00+03:00",
       "puan": 16,
-      "durum": "elendi",
-      "baslik": "Dünya Kadınlar Boks Şampiyonası için belirlenen ödül miktarı açıklandı",
-      "ozet": "İstanbul ev sahipliğinde gerçekleştirilecek olan Dünya Kadınlar Boks Şampiyonası kapsamında sporculara verilecek toplam ödül tutarı duyuruldu. Organizasyon yönetimi, turnuvada dereceye giren boksörlere dağıtılacak toplam miktarın 2,4 milyon dolar seviyesinde olacağını belirtti.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1873960",
@@ -1663,18 +1616,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/japonya-basbakanligina-kisida-fumio-secildi-1873960"
       },
-      "konular": [
-        "Kişida Fumio",
-        "Japonya",
-        "Liberal Demokrat Parti (Japonya)"
-      ],
+      "konular": [],
       "yayin": "2021-10-04T07:52:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Japonya'nın Yeni Başbakanı Kişida Fumio Oldu",
-      "ozet": "Japonya'da iktidar partisi olan Liberal Demokrat Parti'nin lideri Kişida Fumio, Temsilciler Meclisi'nde gerçekleştirilen özel oturumda yapılan oylama sonucunda ülkenin yeni başbakanı olarak belirlendi. Bu gelişmeyle birlikte Kişida Fumio, hükümetin başına geçerek görevine resmen başladı.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1771130",
@@ -1687,17 +1632,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kasimpasa-galatasaray-11ler-belli-oldu-falcao-yok-1771130"
       },
-      "konular": [
-        "Kasımpaşa SK",
-        "Galatasaray SK",
-        "Süper Lig"
-      ],
+      "konular": [],
       "yayin": "2020-10-04T18:10:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Kasımpaşa Galatasaray karşısında sahadan galibiyetle ayrıldı",
-      "ozet": "Recep Tayyip Erdoğan Stadyumu ev sahipliğinde gerçekleşen müsabakada Kasımpaşa ve Galatasaray karşı karşıya geldi. Ev sahibi ekip, rakibi karşısında tek gol bularak karşılaşmayı kazandı ve üç puanın sahibi oldu.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1771031",
@@ -1710,30 +1648,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/evlilik-sebebiyle-istifa-eden-iscinin-tazminat-hakki-icin-yargitay-karar-verdi-1771031"
       },
-      "konular": [
-        "Yargıtay",
-        "Kıdem tazminatı",
-        "İş hukuku"
-      ],
+      "konular": [],
       "yayin": "2020-10-04T11:33:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Yargıtaydan evlilik nedeniyle istifa eden işçiler için emsal karar",
-      "ozet": "Yargıtay, evlilik gerekçesiyle işten ayrılan çalışanların haklarına dair önemli bir hüküm verdi. Yüksek Mahkeme, bu durumda istifa eden kişilere hem kıdem hem de ihbar tazminatı ödenmesi gerektiğini kararlaştırdı. Alınan bu kararla birlikte, evlilik sebebiyle iş akdini sonlandıran kadın çalışanların maddi mağduriyet yaşamalarının önüne geçilmesi hedeflendi.",
-      "kategori": "Toplum",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Marcha-obrera-Argentina-2005.JPG",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Marcha-obrera-Argentina-2005.JPG",
-        "genislik": 686,
-        "yukseklik": 514,
-        "orijinalGenislik": 686,
-        "yazar": "Pepe Robles",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Marcha-obrera-Argentina-2005.JPG",
-        "aciklama": "Marcha obrera en Argentina, Los derechos sindicales son derechos humanos. Lugar: Buenos Aires, Argentina. La foto es cargada por el autor.",
-        "konu": "İş hukuku"
-      }
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1102642",
@@ -1746,17 +1664,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tbmm-ic-tuzuk-teklifi-anayasa-komisyonunda-kabul-edildi-1102642"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi İç Tüzüğü",
-        "Türkiye Büyük Millet Meclisi Anayasa Komisyonu",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2018-10-04T19:17:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Meclis İç Tüzük Değişikliği Teklifi Komisyondan Geçti",
-      "ozet": "Türkiye Büyük Millet Meclisi çalışma usullerini düzenleyen iç tüzük değişikliği teklifi, Anayasa Komisyonu tarafından yapılan görüşmelerin ardından onaylandı. Komisyon üyelerinin değerlendirmeleri sonucunda kabul edilen teklif, yasama sürecindeki ilerleyişini sürdürdü.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1102201",
@@ -1769,16 +1680,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-liginde-italyan-ruzgari-1102201"
       },
-      "konular": [
-        "UEFA Şampiyonlar Ligi",
-        "Futbol"
-      ],
+      "konular": [],
       "yayin": "2018-10-04T13:53:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "UEFA Şampiyonlar Ligi grup maçlarında İtalyan ekiplerinin başarısı",
-      "ozet": "UEFA Şampiyonlar Ligi grup aşamasının ikinci haftasında İtalyan temsilcileri aldıkları galibiyetlerle dikkatleri üzerine çekti. Aynı dönemde İngiliz kulüpleri ise beklenmedik sonuçlarla sahadan mağlup ayrıldı. Avrupa futbolunun en prestijli turnuvasında yaşanan bu sonuçlar haftanın öne çıkan gelişmeleri arasında yer aldı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-838147",
@@ -1791,17 +1696,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/cumhurbaskanligi-kupasi-fenerbahce-dogusun-838147"
       },
-      "konular": [
-        "Cumhurbaşkanlığı Kupası (basketbol)",
-        "Fenerbahçe (basketbol takımı)",
-        "Banvit (basketbol takımı)"
-      ],
+      "konular": [],
       "yayin": "2017-10-04T20:58:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Cumhurbaşkanlığı Kupası Fenerbahçe Doğuş'un Oldu",
-      "ozet": "Basketbol sezonunun açılış mücadelesi olan 33. Cumhurbaşkanlığı Kupası finalinde Fenerbahçe Doğuş ile Banvit karşı karşıya geldi. Rakibini 75-64 skorla mağlup etmeyi başaran Fenerbahçe Doğuş, kupayı müzesine götürdü. Sarı lacivertli ekip bu sonuçla birlikte üst üste ikinci, toplamda ise yedinci kez bu prestijli kupanın sahibi oldu.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-837855",
@@ -1814,17 +1712,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-gokceke-daha-fazla-uzatma-istifa-et-mesaji-837855"
       },
-      "konular": [
-        "Melih Gökçek",
-        "Ankara Büyükşehir Belediyesi",
-        "Adalet ve Kalkınma Partisi"
-      ],
+      "konular": [],
       "yayin": "2017-10-04T14:32:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Ankara Büyükşehir Belediye Başkanı Melih Gökçek'in Görevden Ayrılacağı İddiası",
-      "ozet": "Adalet ve Kalkınma Partisi bünyesinde yaşanan istifa süreci kapsamında Ankara Büyükşehir Belediye Başkanı Melih Gökçek'in durumu gündeme geldi. Cumhurbaşkanı Recep Tayyip Erdoğan'ın İran'a gerçekleştirdiği resmi ziyaretin ardından Gökçek'in görevinden ayrılacağı yönünde iddialar ortaya atıldı. Söz konusu gelişme kamuoyunda geniş yer buldu.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-609629",
@@ -1837,16 +1728,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bir-rekor-daha-geldi-dolar-ucusa-gecti-609629"
       },
-      "konular": [
-        "Döviz kuru",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2016-10-04T10:16:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Döviz kurlarında yükseliş eğilimi devam etti",
-      "ozet": "Dolar kuru piyasalarda değer kazanarak iki ayın en yüksek seviyesi olan 3,04 lira düzeyine ulaştı. Aynı dönemde euro da yükselişini sürdürerek 3,3884 lira seviyesini gördü. Döviz piyasalarındaki bu hareketlilik gün boyu yatırımcıların takibinde yer aldı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-609623",
@@ -1859,30 +1744,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-acikladi-tam-zamanli-egitim-geliyor-609623"
       },
-      "konular": [
-        "Orta Vadeli Program",
-        "Binali Yıldırım",
-        "Türkiye ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2016-10-04T10:11:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Orta Vadeli Program ve Eğitimde Yeni Dönem Hedefleri Açıklandı",
-      "ozet": "Hükümet kanadı tarafından kamuoyuyla paylaşılan Orta Vadeli Program kapsamında eğitim sisteminde tam zamanlı uygulamaya geçileceği duyuruldu. Ekonomik verilerin de güncellendiği açıklamada, yıl sonu büyüme beklentisi aşağı yönlü revize edildi. Ayrıca gelecek yıllara ait enflasyon hedefleri belirlenerek kamuoyu ile paylaşıldı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Binali_Y%C4%B1ld%C4%B1r%C4%B1m_%282018-08-18%29_%28cropped%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Binali_Y%C4%B1ld%C4%B1r%C4%B1m_%282018-08-18%29_%28cropped%29.jpg",
-        "genislik": 794,
-        "yukseklik": 1104,
-        "orijinalGenislik": 794,
-        "yazar": "duma.gov.ru",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Binali_Y%C4%B1ld%C4%B1r%C4%B1m_(2018-08-18)_(cropped).jpg",
-        "aciklama": "Председатель Великого национального собрания Турции Бинали Йылдырым",
-        "konu": "Binali Yıldırım"
-      }
+      "durum": "haber"
     },
     {
       "id": "2015-haber-381261",
@@ -1895,30 +1760,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kenan-oglu-icin-4-kez-dunya-sampiyonu-381261"
       },
-      "konular": [
-        "Kenan Sofuoğlu",
-        "Dünya Supersport Şampiyonası",
-        "Motosiklet yarışı"
-      ],
+      "konular": [],
       "yayin": "2015-10-04T15:13:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "Kenan Sofuoğlu dördüncü kez dünya şampiyonluğuna ulaştı",
-      "ozet": "Fransa'da gerçekleştirilen Dünya Supersport Şampiyonası'nın on birinci ayağında ikinci sırada yer alan Kenan Sofuoğlu, genel klasmandaki puan farkıyla şampiyonluğunu garantiledi. Kawasaki Puccetti takımı adına yarışan sporcu, sezonun tamamlanmasına bir yarış kala kariyerindeki dördüncü dünya şampiyonluğunu elde etmiş oldu.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Kenan.jpg/960px-Kenan.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Kenan.jpg/500px-Kenan.jpg",
-        "genislik": 960,
-        "yukseklik": 996,
-        "orijinalGenislik": 964,
-        "yazar": "Original uploader was Khutuck at tr.wikipedia",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Kenan.jpg",
-        "aciklama": "foto altı bilgisi 2007 Dünya tr:Süper Sport Motosiklet Şampiyonası'nda Hannspree Ten Kate tr:Honda takımıyla mücadele eden tr:Kenan Sofuoğlu, tr:Valencia Grand Prix'sindeki birinciliğinin ardından gaz",
-        "konu": "Kenan Sofuoğlu"
-      }
+      "durum": "haber"
     },
     {
       "id": "2015-haber-381347",
@@ -1931,17 +1776,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/roma-farkli-kazandi-salih-asist-yapti-381347"
       },
-      "konular": [
-        "AS Roma",
-        "US Palermo",
-        "Serie A"
-      ],
+      "konular": [],
       "yayin": "2015-10-04T18:14:00+03:00",
       "puan": 6,
-      "durum": "elendi",
-      "baslik": "Roma deplasmanda Palermo karşısında dört golle kazandı",
-      "ozet": "İtalya Serie A liginin yedinci haftasında oynanan müsabakada Roma, konuk olduğu Palermo karşısında sahadan dört iki galibiyetle ayrıldı. Karşılaşmada forma giyen Salih Uçan, takımının gollerinden birinde asist yaparak skora katkı sağladı. Roma, deplasmanda sergilediği etkili oyunla rakibini mağlup etmeyi başardı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2014-haber-127035",
@@ -1954,17 +1792,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ataturk-havalimaninda-yeni-rekor-127035"
       },
-      "konular": [
-        "Atatürk Havalimanı",
-        "Devlet Hava Meydanları İşletmesi",
-        "Sivil havacılık"
-      ],
+      "konular": [],
       "yayin": "2014-10-04T10:46:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Atatürk Havalimanı'nda günlük uçuş trafiğinde yeni zirve",
-      "ozet": "Devlet Hava Meydanları İşletmesi tarafından paylaşılan verilere göre havalimanında bir gün içerisinde gerçekleşen uçuş trafiği rekor seviyeye ulaştı. Belirtilen yirmi dört saatlik zaman dilimi içerisinde toplamda altı yüz altmış yedi uçak iniş yaparken altı yüz elli dokuz uçak ise havalimanından kalkış gerçekleştirdi.",
-      "kategori": "Ulaşım"
+      "durum": "haber"
     },
     {
       "id": "2014-haber-127173",
@@ -1977,17 +1808,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kartal-bir-galibiyetten-daha-fazlasini-kazandik-127173"
       },
-      "konular": [
-        "Fenerbahçe (futbol takımı)",
-        "İsmail Kartal",
-        "Süper Lig"
-      ],
+      "konular": [],
       "yayin": "2014-10-04T23:31:00+03:00",
       "puan": 6,
-      "durum": "elendi",
-      "baslik": "İsmail Kartal Konyaspor Maçı Sonrası Değerlendirmelerde Bulundu",
-      "ozet": "Fenerbahçe Teknik Direktörü İsmail Kartal, Torku Konyaspor karşısında elde edilen ikiye birlik galibiyetin ardından basın mensuplarına açıklama yaptı. Kartal, alınan bu sonucun sadece üç puandan ibaret olmadığını ve takım adına daha büyük bir anlam taşıdığını ifade etti.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2013-haber-3387",
@@ -2000,17 +1824,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/istanbul-ankara-karayolu-kapandi-3387"
       },
-      "konular": [
-        "Bolu Dağı",
-        "TEM Otoyolu",
-        "D-100 karayolu"
-      ],
+      "konular": [],
       "yayin": "2013-10-04T17:08:00+03:00",
       "puan": 4,
-      "durum": "elendi",
-      "baslik": "Bolu Dağı geçidinde kar yağışı ulaşımı olumsuz etkiledi",
-      "ozet": "Mevsimin ilk kar yağışı Bolu Dağı bölgesindeki TEM Otoyolu ve D-100 Karayolu üzerinde etkisini gösterdi. Karayolları görevlileri yolları açık tutmak için temizleme çalışmalarına başlarken, yolların kayganlaşması sebebiyle çok sayıda maddi hasarlı trafik kazası yaşandı. Ulaşımda aksamalar meydana geldi.",
-      "kategori": "Ulaşım"
+      "durum": "haber"
     },
     {
       "id": "2013-haber-3375",
@@ -2023,17 +1840,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/turklugumun-bir-faydasini-gormedim-3375"
       },
-      "konular": [
-        "Öğrenci Andı",
-        "Ahmet Aydoğmuş",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2013-10-04T15:31:00+03:00",
       "puan": 2,
-      "durum": "elendi",
-      "baslik": "Eski milletvekilinin andımız hakkındaki sosyal medya paylaşımı tepki çekti",
-      "ozet": "Çorum eski milletvekili Ahmet Aydoğmuş, sosyal medya hesabı üzerinden okullarda okunan andımızın kaldırılmasına ilişkin bir tartışmaya katıldı. Aydoğmuş, konuyla ilgili yaptığı yorumda kişisel görüşlerini ifade ederek tartışmalı bir açıklamada bulundu. Bu paylaşım, kısa süre içerisinde kamuoyunda ve sosyal medyada geniş yankı uyandırarak çeşitli eleştirilere konu oldu.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-374282",
@@ -2046,17 +1856,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bdp-meclis-arastirmasi-istedi-374282"
       },
-      "konular": [
-        "Barış ve Demokrasi Partisi",
-        "Akçakale",
-        "Şanlıurfa"
-      ],
+      "konular": [],
       "yayin": "2012-10-04T14:56:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Akçakale bölgesindeki riskler için meclis araştırması talebi",
-      "ozet": "Barış ve Demokrasi Partisi temsilcileri, Şanlıurfa ilinin Akçakale ilçesinde yaşanabilecek can kayıplarının önüne geçilmesi amacıyla Türkiye Büyük Millet Meclisi bünyesinde bir araştırma komisyonu kurulmasını talep etti. Söz konusu girişim, bölgedeki güvenlik endişelerini gidermek ve olası tehlikeleri önceden tespit ederek gerekli tedbirlerin alınmasını sağlamak hedefiyle gündeme getirildi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-374112",
@@ -2069,30 +1872,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akcakale-belediye-baskani-savasi-yasiyoruz-374112"
       },
-      "konular": [
-        "Akçakale",
-        "Suriye İç Savaşı",
-        "Abdülhekim Ayhan"
-      ],
+      "konular": [],
       "yayin": "2012-10-04T07:19:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Akçakale Belediye Başkanı bölgedeki çatışmalar hakkında konuştu",
-      "ozet": "Suriye sınırından atılan top mermilerinin isabet ettiği Akçakale ilçesinde yaşanan gergin durum hakkında Belediye Başkanı Abdülhekim Ayhan açıklamalarda bulundu. Bölgedeki güvenlik risklerine dikkat çeken Ayhan, yerleşim yerlerinin hedef alınmasıyla birlikte ilçede savaş benzeri bir atmosferin oluştuğunu ifade etti.",
-      "kategori": "Savaş",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
-        "genislik": 704,
-        "yukseklik": 499,
-        "orijinalGenislik": 704,
-        "yazar": "jan Sefti",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
-        "aciklama": "The phrase \"Down with Bashar\" (yaskut Baššār), during the Syrian Uprising 2011.",
-        "konu": "Suriye İç Savaşı"
-      }
+      "durum": "haber"
     },
     {
       "id": "2011-haber-287434",
@@ -2105,17 +1888,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-yardimcisi-da-vergilerden-sikayetci-287434"
       },
-      "konular": [
-        "Theodoros Pangalos",
-        "Yunanistan",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2011-10-04T13:18:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Yunanistan Başbakan Yardımcısı ek vergileri ödemekte zorlandığını belirtti",
-      "ozet": "Yunanistan Başbakan Yardımcısı Theodoros Pangalos, ülkede uygulanan yeni taşınmaz mal vergileri hakkında açıklamalarda bulundu. Söz konusu ek ödemeleri karşılamak için gereken maddi kaynağı bulmakta güçlük yaşadığını ifade etti. Bu durum, ülkede yürürlüğe giren mali düzenlemelerin yarattığı ekonomik baskıyı gözler önüne serdi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2011-haber-287374",
@@ -2128,17 +1904,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chp-hayvan-haklarini-meclise-tasiyacak-287374"
       },
-      "konular": [
-        "Hayvan hakları",
-        "Cumhuriyet Halk Partisi",
-        "Kemal Kılıçdaroğlu"
-      ],
+      "konular": [],
       "yayin": "2011-10-04T10:10:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Cumhuriyet Halk Partisi hayvan hakları için yasal düzenleme talep etti",
-      "ozet": "Cumhuriyet Halk Partisi Genel Başkanı Kemal Kılıçdaroğlu tarafından başlatılan bir girişimle hayvan hakları konusu Türkiye Büyük Millet Meclisi gündemine getirildi. Söz konusu çalışma kapsamında hayvanların korunmasına yönelik yasal eksikliklerin giderilmesi ve mevcut hakların iyileştirilmesi hedeflendi. Bu adım ile hayvanlara yönelik kötü muamelelerin önlenmesi ve yasal güvence altına alınması amaçlandı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     }
   ],
   "haberYillari": [

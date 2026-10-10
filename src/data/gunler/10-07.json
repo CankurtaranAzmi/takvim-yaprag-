@@ -171,6 +171,33 @@
       "durum": "yayinda"
     },
     {
+      "id": "1913-amerikali-is-adami-henry-ford-uretimde-yuruyen",
+      "yil": 1913,
+      "metin": "Amerikalı iş adamı Henry Ford, üretimde yürüyen bant tekniğini kullanmaya başladı.",
+      "konular": [
+        "Amerika Birleşik Devletleri",
+        "Henry Ford",
+        "yürüyen bant"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Metro_SPB_Line5_Sportivnaya_Travelator_Tunnel.jpg/960px-Metro_SPB_Line5_Sportivnaya_Travelator_Tunnel.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Metro_SPB_Line5_Sportivnaya_Travelator_Tunnel.jpg/500px-Metro_SPB_Line5_Sportivnaya_Travelator_Tunnel.jpg",
+        "genislik": 960,
+        "yukseklik": 636,
+        "orijinalGenislik": 3700,
+        "yazar": "Florstein (Telegram:WikiPhoto.Space)",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Metro_SPB_Line5_Sportivnaya_Travelator_Tunnel.jpg",
+        "aciklama": "Sportivnaya subway station in Saint Petersburg, Travelator Tunnel",
+        "konu": "yürüyen bant"
+      }
+    },
+    {
       "id": "1913-amerikali-is-insani-henry-ford-uretimde-yuruyen",
       "yil": 1913,
       "metin": "Amerikalı iş insanı Henry Ford, üretimde yürüyen bant tekniğini kullanmaya başladı.",
@@ -851,6 +878,35 @@
       "durum": "yayinda"
     },
     {
+      "id": "2002-nobel-tip-odulunu-ingiliz-bilim-adamlari-sydney",
+      "yil": 2002,
+      "metin": "Nobel Tıp Ödülü'nü, İngiliz bilim adamları Sydney Brenner ve John E. Sulston ile Amerikalı H. Robert Horvitz paylaştı.",
+      "konular": [
+        "Nobel Tıp Ödülü",
+        "İngilizler",
+        "Sydney Brenner",
+        "John E. Sulston",
+        "Amerikalılar"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/John_Sulston.jpg/960px-John_Sulston.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/John_Sulston.jpg/500px-John_Sulston.jpg",
+        "genislik": 960,
+        "yukseklik": 943,
+        "orijinalGenislik": 1102,
+        "yazar": "PLoS",
+        "lisans": "CC BY 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:John_Sulston.jpg",
+        "aciklama": "John Sulston",
+        "konu": "John E. Sulston"
+      }
+    },
+    {
       "id": "2002-nobel-tip-odulunu-ingiliz-bilim-insanlari-sydney",
       "yil": 2002,
       "metin": "Nobel Tıp Ödülü'nü, İngiliz bilim insanları Sydney Brenner ve John E. Sulston ile Amerikalı H. Robert Horvitz paylaştı.",
@@ -1073,7 +1129,7 @@
     },
     {
       "yil": 1925,
-      "metin": "Feyyaz Berker, Türk iş insanı (ö. 2017)"
+      "metin": "Feyyaz Berker, Türk iş adamı (ö. 2017)"
     },
     {
       "yil": 1927,
@@ -1130,6 +1186,14 @@
     {
       "yil": 1950,
       "metin": "Jakaya Kikwete, Tanzanyalı asker ve siyasetçi"
+    },
+    {
+      "yil": 1951,
+      "metin": "Natsuo Kirino, Japon yazar"
+    },
+    {
+      "yil": 1951,
+      "metin": "John Mellencamp, Amerikalı müzisyen, şarkıcı ve ressam"
     },
     {
       "yil": 1952,
@@ -1447,7 +1511,7 @@
     },
     {
       "yil": 2001,
-      "metin": "Roger Gaudry, Kanadalı bilim insanı (d. 1913)"
+      "metin": "Roger Gaudry, Kanadalı bilim adamı (d. 1913)"
     },
     {
       "yil": 2003,
@@ -1507,7 +1571,7 @@
     },
     {
       "yil": 2015,
-      "metin": "Gail Zappa, Amerikalı iş insanı ve şarkıcı Frank Zappa'nın eşi (d. 1945)"
+      "metin": "Gail Zappa, Amerikalı iş adamı ve şarkıcı Frank Zappa'nın eşi (d. 1945)"
     },
     {
       "yil": 2015,
@@ -1606,13 +1670,15 @@
       "metin": "John Gurdon, İngiliz biyolog (d. 1933)"
     }
   ],
-  "ozelGunler": [],
+  "ozelGunler": [
+    "Dünya Uzay Haftası (4-10 Ekim)"
+  ],
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/7_Ekim",
-    "revid": 36789113
+    "revid": 38208614
   },
-  "guncelleme": "2026-09-30T12:06:40.256Z",
+  "guncelleme": "2026-10-10T12:05:08.859Z",
   "haberler": [
     {
       "id": "2025-haber-2441658",
@@ -1625,17 +1691,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/merkez-bankasi-baskani-fatih-karahan-a-tbmm-de-protesto-2441658"
       },
-      "konular": [
-        "Türkiye Cumhuriyet Merkez Bankası",
-        "Fatih Karahan",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2025-10-07T19:28:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Merkez Bankası Başkanı'nın Meclis Sunumunda Protesto Yaşandı",
-      "ozet": "Türkiye Cumhuriyet Merkez Bankası Başkanı Fatih Karahan, kurumun çalışmaları ve uygulanan para politikaları hakkında bilgi vermek üzere Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu'na katıldı. Toplantının başlangıcında Cumhuriyet Halk Partisi milletvekilleri, bankanın yürüttüğü faiz ve enflasyon politikalarına karşı tepkilerini dile getirdi. Gerçekleşen protesto eyleminin ardından sunum süreci devam etti.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2441678",
@@ -1648,17 +1707,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-mct-technic-fiba-sampiyonlar-ligi-ne-iyi-basladi-2441678"
       },
-      "konular": [
-        "Galatasaray (basketbol takımı)",
-        "FIBA Şampiyonlar Ligi",
-        "Basketbol"
-      ],
+      "konular": [],
       "yayin": "2025-10-07T22:56:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Galatasaray FIBA Şampiyonlar Ligi mücadelesine galibiyetle giriş yaptı",
-      "ozet": "FIBA Şampiyonlar Ligi E grubu ilk hafta karşılaşmasında Galatasaray MCT Technic, kendi evinde Igokea m:tel takımıyla karşı karşıya geldi. Müsabakayı 94-82 skorla kazanan sarı kırmızılı ekip, turnuvaya başarılı bir başlangıç yapmış oldu.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2255426",
@@ -1671,30 +1723,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/eski-basbakan-ingiltereyi-hedef-aldi-savas-sucu-isleyen-bir-ulkeye-2255426"
       },
-      "konular": [
-        "Hamza Yusuf",
-        "İsrail-Filistin çatışması",
-        "Birleşik Krallık"
-      ],
+      "konular": [],
       "yayin": "2024-10-07T13:36:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Hamza Yusuf İngiltere'nin İsrail'e Silah Satışını Eleştirdi",
-      "ozet": "İskoçya'nın eski bölgesel başbakanı Hamza Yusuf, görevde bulunduğu dönemde İngiltere yönetiminden İsrail'e yönelik silah sevkiyatını sonlandırmasını talep ettiğini ifade etti. Yusuf, İngiltere'nin savaş suçu işlediğini öne sürdüğü bir ülkeye askeri malzeme sağlamaya devam etmesini sert bir dille eleştirdi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/First_Minister_of_Scotland_Humza_Yousaf_%28cropped_4%29.jpg/960px-First_Minister_of_Scotland_Humza_Yousaf_%28cropped_4%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/First_Minister_of_Scotland_Humza_Yousaf_%28cropped_4%29.jpg/500px-First_Minister_of_Scotland_Humza_Yousaf_%28cropped_4%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1240,
-        "orijinalGenislik": 2382,
-        "yazar": "Scottish Government",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:First_Minister_of_Scotland_Humza_Yousaf_(cropped_4).jpg",
-        "aciklama": "Official Portrait of First Minister of Scotland Humza Yousaf - November 2023",
-        "konu": "Hamza Yusuf"
-      }
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2255559",
@@ -1707,17 +1739,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/yavuz-agiralioglunun-partisinin-kurulus-tarihi-belli-oldu-meral-2255559"
       },
-      "konular": [
-        "Yavuz Ağıralioğlu",
-        "Meral Akşener",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2024-10-07T18:37:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Yavuz Ağıralioğlu Yeni Partisini Kurmak İçin Hazırlıklarını Tamamladı",
-      "ozet": "Eski İYİ Parti milletvekili Yavuz Ağıralioğlu, yeni siyasi oluşumunu resmileştirmek adına kuruluş dilekçesini sunacağı tarihi belirledi. Bu süreçte İYİ Parti'nin kurucu genel başkanı Meral Akşener, Ağıralioğlu'na yeni girişimi için iyi dileklerini ileten bir mesaj gönderdi. Hazırlıkların tamamlanmasıyla birlikte partinin kuruluş işlemleri için resmi takvim netleşmiş oldu.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2127445",
@@ -1730,17 +1755,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/fenerbahcenin-rakibinde-istifa-depremi-7-1lik-maglubiyetin-faturasi-2127445"
       },
-      "konular": [
-        "Ludogorets",
-        "Fenerbahçe",
-        "UEFA Avrupa Konferans Ligi"
-      ],
+      "konular": [],
       "yayin": "2023-10-07T09:45:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Ludogorets kulübünde büyük mağlubiyet sonrası toplu istifa kararı alındı",
-      "ozet": "Fenerbahçe'nin UEFA Avrupa Konferans Ligi H Grubu'ndaki rakiplerinden biri olan Ludogorets takımı, Nordsjaelland ile oynadığı maçta yediye bir gibi farklı bir skorla yenilgi yaşadı. Bu ağır sonucun ardından kulübün tüm teknik kadrosu ve yönetim kurulu görevlerinden ayrıldıklarını duyurdu. Yaşanan bu gelişme futbol camiasında geniş yankı uyandırdı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2127481",
@@ -1753,29 +1771,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/israil-cumhurbaskani-israil-zor-zamandan-geciyor-2127481"
       },
-      "konular": [
-        "Isaac Herzog",
-        "İsrail"
-      ],
+      "konular": [],
       "yayin": "2023-10-07T11:29:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Isaac Herzog İsrail'in İçinden Geçtiği Zorlu Süreci Değerlendirdi",
-      "ozet": "İsrail Cumhurbaşkanı Isaac Herzog, ülkesinin oldukça güç bir dönemden geçtiğini ifade etti. Sosyal medya üzerinden bir mesaj paylaşan Herzog, İsrail halkının kendilerine zarar vermeyi amaçlayan unsurlara karşı koyabilecek kapasiteye sahip olduğunu vurguladı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Isaac_Herzog%2C_July_2021_%28D1233-049%29.JPG/960px-Isaac_Herzog%2C_July_2021_%28D1233-049%29.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Isaac_Herzog%2C_July_2021_%28D1233-049%29.JPG/500px-Isaac_Herzog%2C_July_2021_%28D1233-049%29.JPG",
-        "genislik": 960,
-        "yukseklik": 1440,
-        "orijinalGenislik": 3301,
-        "yazar": "Avi Ohayon",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Isaac_Herzog,_July_2021_(D1233-049).JPG",
-        "aciklama": "Portrait, president Isaac Herzog.",
-        "konu": "Isaac Herzog"
-      }
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1989746",
@@ -1788,17 +1787,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/akpli-vedat-demiroz-acikladi-asgari-ucrete-iliskin-ilk-kez-rakam-paylasildi-1989746"
       },
-      "konular": [
-        "Asgari ücret",
-        "Vedat Demiröz",
-        "Türkiye ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2022-10-07T15:16:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Asgari ücret düzenlemesi için enflasyon vurgusu yapıldı",
-      "ozet": "Çorum'da bir konuşma gerçekleştiren Adalet ve Kalkınma Partisi Genel Başkan Yardımcısı Vedat Demiröz, asgari ücret belirleme süreci hakkında değerlendirmelerde bulundu. Demiröz, enflasyon farklarının dikkate alınacağını belirterek, yapılacak düzenlemenin beklentilerin üzerinde bir seviyede gerçekleşeceğini ifade etti. Yetkili isim, kendi hesaplamaları doğrultusunda yılın ikinci yarısındaki enflasyon oranlarının nihai rakam üzerinde belirleyici olacağını dile getirdi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1989570",
@@ -1811,16 +1803,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasi-para-politikasi-kurulu-uyesi-prof-dr-yusuf-tuna-hayatini-kaybetti-1989570"
       },
-      "konular": [
-        "Yusuf Tuna",
-        "Türkiye Cumhuriyet Merkez Bankası"
-      ],
+      "konular": [],
       "yayin": "2022-10-07T10:00:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Merkez Bankası Para Politikası Kurulu Üyesi Yusuf Tuna Vefat Etti",
-      "ozet": "Türkiye Cumhuriyet Merkez Bankası bünyesinde Para Politikası Kurulu üyesi olarak görev yapan Prof. Dr. Yusuf Tuna yaşamını yitirdi. Kurulun önemli isimlerinden biri olan Tuna'nın vefatı kurum tarafından duyuruldu.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1875048",
@@ -1833,17 +1819,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/ziraat-bankkart-2021-spor-toto-sampiyonlar-kupasini-kazandi-1875048"
       },
-      "konular": [
-        "Ziraat Bankkart (voleybol takımı)",
-        "Spor Toto Şampiyonlar Kupası",
-        "Voleybol"
-      ],
+      "konular": [],
       "yayin": "2021-10-07T22:14:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Ziraat Bankkart Voleybol Şampiyonlar Kupası'nın sahibi oldu",
-      "ozet": "Voleybol branşında düzenlenen Erkekler Spor Toto Şampiyonlar Kupası final mücadelesi tamamlandı. Rakibi Spor Toto ile karşı karşıya gelen Ziraat Bankkart, çekişmeli geçen müsabakayı 3-2 skorla kazanarak kupayı müzesine götürdü.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1875015",
@@ -1856,17 +1835,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/milli-guresci-burhan-akbudak-dunya-sampiyonasinda-finale-yukseldi-1875015"
       },
-      "konular": [
-        "Burhan Akbudak",
-        "Dünya Güreş Şampiyonası",
-        "Grekoromen güreş"
-      ],
+      "konular": [],
       "yayin": "2021-10-07T18:51:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Burhan Akbudak Dünya Güreş Şampiyonası finaline adını yazdırdı",
-      "ozet": "Grekoromen stil 82 kilogram kategorisinde mücadele eden milli sporcu Burhan Akbudak, yarı final karşılaşmasında İranlı rakibi Pejman Soltanmorad Poshtam ile karşılaştı. Rakibini 5-2 skorla mağlup etmeyi başaran Akbudak, turnuvada finale yükselerek altın madalya için yarışmaya hak kazandı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1771856",
@@ -1879,18 +1851,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/irak-ve-suriyeye-iliskin-tezkere-tbmmde-kabul-edildi-1771856"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Türk Silahlı Kuvvetleri",
-        "Sınır ötesi operasyon"
-      ],
+      "konular": [],
       "yayin": "2020-10-07T18:07:00+03:00",
       "puan": 12,
-      "durum": "yazildi",
-      "baslik": "Irak ve Suriye'ye Yönelik Sınır Ötesi Harekat Yetkisi Uzatıldı",
-      "ozet": "Türk Silahlı Kuvvetleri'nin Irak ve Suriye topraklarındaki görev süresini bir yıl daha artıran Cumhurbaşkanlığı Tezkeresi, Türkiye Büyük Millet Meclisi Genel Kurulu'nda oylandı. Yapılan görüşmelerin ardından kabul edilen tezkere ile ordunun sınır ötesi operasyon yetkisi resmi olarak uzatılmış oldu.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1105270",
@@ -1903,17 +1867,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akpde-suriyeli-tartismasi-erdogan-kizdi-1105270"
       },
-      "konular": [
-        "Adalet ve Kalkınma Partisi",
-        "Recep Tayyip Erdoğan",
-        "Suriyeli mülteciler"
-      ],
+      "konular": [],
       "yayin": "2018-10-07T23:33:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Adalet ve Kalkınma Partisi kampında Suriyeli sığınmacılar gündeme geldi",
-      "ozet": "Kızılcahamam'da düzenlenen parti toplantısında Suriyeli sığınmacıların durumu ele alındı. Görüşmeler sırasında konuyla ilgili farklı fikirlerin dile getirilmesi üzerine Cumhurbaşkanı Recep Tayyip Erdoğan tepkisini gösterdi. Toplantı kapsamında mültecilere yönelik yürütülen politikalar ve yaşanan gelişmeler değerlendirildi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1104837",
@@ -1926,17 +1883,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/eski-italya-basbakani-berlusconiden-putine-dogum-gunu-jesti-1104837"
       },
-      "konular": [
-        "Silvio Berlusconi",
-        "Vladimir Putin",
-        "Rusya"
-      ],
+      "konular": [],
       "yayin": "2018-10-07T13:28:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Silvio Berlusconi Rusya Devlet Başkanı Putin'i ziyaret edecek",
-      "ozet": "İtalya'nın eski Başbakanı Silvio Berlusconi, Rusya Devlet Başkanı Vladimir Putin'in doğum gününü kutlamak amacıyla Rusya'ya bir ziyaret gerçekleştireceğini belirtti. Berlusconi, bu özel gün vesilesiyle Putin ile bir araya geleceğini ifade etti.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-839831",
@@ -1949,30 +1899,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-idlibde-ciddi-bir-harekat-var-839831"
       },
-      "konular": [
-        "İdlib operasyonu",
-        "Recep Tayyip Erdoğan",
-        "Adalet ve Kalkınma Partisi"
-      ],
+      "konular": [],
       "yayin": "2017-10-07T11:05:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "Cumhurbaşkanı Erdoğan İdlib Operasyonu ve Belediye Başkanları Hakkında Konuştu",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, İdlib bölgesinde yürütülen kapsamlı bir askeri harekatın devam ettiğini belirtti. Aynı zamanda gündemdeki belediye başkanlarının görevden uzaklaştırılması konusuna da değinen Erdoğan, bu süreçle ilgili değerlendirmelerde bulundu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2017-haber-840151",
@@ -1985,30 +1915,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/asli-erdogan-ve-deniz-yucele-almanyadan-odul-840151"
       },
-      "konular": [
-        "Aslı Erdoğan",
-        "Deniz Yücel",
-        "Basın özgürlüğü"
-      ],
+      "konular": [],
       "yayin": "2017-10-07T19:38:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Aslı Erdoğan ve Deniz Yücel'e Leipzig Medya Özgürlüğü Ödülü verildi",
-      "ozet": "Almanya merkezli Leipzig Medya Özgürlüğü Ödülü, bu yıl yazar Aslı Erdoğan ile gazeteci Deniz Yücel'e takdim edildi. Türkiye'de tutuklu bulunan Die Welt temsilcisi Yücel ve yazar Erdoğan, basın ve ifade özgürlüğü alanındaki çalışmaları nedeniyle ödüle layık görüldü.",
-      "kategori": "Toplum",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Asli_Erdogan_by_CaroleParodi-6778.jpg/960px-Asli_Erdogan_by_CaroleParodi-6778.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Asli_Erdogan_by_CaroleParodi-6778.jpg/500px-Asli_Erdogan_by_CaroleParodi-6778.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 5337,
-        "yazar": "Carole Parodi",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Asli_Erdogan_by_CaroleParodi-6778.jpg",
-        "aciklama": "Aslı Erdoğan by the photographer Carole Parodi.",
-        "konu": "Aslı Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2016-haber-611825",
@@ -2021,17 +1931,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dunya-sampiyonu-atletten-ilginc-kokain-savunmasi-opusurken-bulasti-611825"
       },
-      "konular": [
-        "Shawn Barber",
-        "Sırıkla atlama",
-        "Doping"
-      ],
+      "konular": [],
       "yayin": "2016-10-07T14:06:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Dünya şampiyonu atletin doping testine ilişkin savunması",
-      "ozet": "Kanadalı sırıkla atlama sporcusu Shawn Barber, doping testinin pozitif sonuçlanması üzerine bir açıklama yaptı. Dünya şampiyonu atlet, vücudunda tespit edilen yasaklı maddenin bir öpüşme sırasında kendisine geçtiğini iddia etti. Sporcunun bu savunması kamuoyunda geniş yankı uyandırdı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-612015",
@@ -2044,17 +1947,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpli-yarkadas-asli-erdogana-hirka-iskencesi-yapiliyor-612015"
       },
-      "konular": [
-        "Aslı Erdoğan",
-        "Bakırköy Kadın Kapalı Cezaevi",
-        "Barış Yarkadaş"
-      ],
+      "konular": [],
       "yayin": "2016-10-07T18:59:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Bakırköy Cezaevi önünde Aslı Erdoğan için demokrasi nöbeti tutuldu",
-      "ozet": "Bakırköy Kadın Kapalı Cezaevi önünde bir araya gelen grup, Aslı Erdoğan'ın tutukluluk koşullarına dikkat çekmek amacıyla demokrasi nöbeti gerçekleştirdi. Etkinlikte söz alan milletvekili Barış Yarkadaş, cezaevindeki uygulamalarla ilgili iddialarını dile getirdi. Yarkadaş, yazarın cezaevi şartlarında yaşadığı zorluklara vurgu yaparak durumu kamuoyuyla paylaştı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2015-haber-383383",
@@ -2067,30 +1963,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/issizin-parasi-secim-rusveti-oldu-383383"
       },
-      "konular": [
-        "İşsizlik Sigortası Fonu",
-        "İşsizlik",
-        "Türkiye ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2015-10-07T22:52:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "İşsizlik Sigortası Fonu'ndaki birikim ve başvuru sayıları açıklandı",
-      "ozet": "Çalışanların maaşlarından kesilen primlerle meydana gelen İşsizlik Sigortası Fonu'nun toplam varlığı 90 milyar liraya ulaştı. Aynı dönem içerisinde işsizlik ödeneğinden yararlanmak isteyen 73 bin kişi resmi kurumlara müracaat etti. Fonun büyüklüğü ve işsizlik maaşı talebindeki artış dikkat çekti.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/UnemployedMarch.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/UnemployedMarch.jpg",
-        "genislik": 439,
-        "yukseklik": 580,
-        "orijinalGenislik": 439,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:UnemployedMarch.jpg",
-        "aciklama": "The Single Men's Unemployed Association parading to Bathurst Street United Church",
-        "konu": "İşsizlik"
-      }
+      "durum": "haber"
     },
     {
       "id": "2015-haber-383365",
@@ -2103,17 +1979,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/cumhurbaskanligi-kupasi-anadolu-efesin-383365"
       },
-      "konular": [
-        "Cumhurbaşkanlığı Kupası (basketbol)",
-        "Anadolu Efes",
-        "Pınar Karşıyaka"
-      ],
+      "konular": [],
       "yayin": "2015-10-07T21:31:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Cumhurbaşkanlığı Kupası Anadolu Efes takımının oldu",
-      "ozet": "Basketbol Erkekler Cumhurbaşkanlığı Kupası final mücadelesinde Anadolu Efes ile Pınar Karşıyaka karşı karşıya geldi. Rakibini 76-74 skorla mağlup etmeyi başaran Anadolu Efes, kupanın sahibi oldu.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2014-haber-127801",
@@ -2126,17 +1995,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ahmet-nur-cebihakemlerle-sampiyon-olacaksak-olmayalim-127801"
       },
-      "konular": [
-        "Beşiktaş JK",
-        "Ahmet Nur Çebi",
-        "Atatürk Olimpiyat Stadyumu"
-      ],
+      "konular": [],
       "yayin": "2014-10-07T13:08:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Beşiktaş Yönetiminden Stat Arayışına İlişkin Açıklama",
-      "ozet": "Beşiktaş İkinci Başkanı Ahmet Nur Çebi, Atatürk Olimpiyat Stadı'ndaki zemin sorunları nedeniyle iç saha maçlarını oynayacak yeni bir stat bulamamaktan duyduğu üzüntüyü dile getirdi. Kulübün yaşadığı bu duruma şaşırdığını belirten Çebi, hakem kararlarıyla şampiyonluk kazanmak yerine adil bir rekabet ortamını tercih ettiklerini ifade etti. Stat arayışındaki belirsizlik siyah-beyazlı camiada tepkiyle karşılandı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2014-haber-127935",
@@ -2149,17 +2011,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/diyarbakirda-polise-ates-acildi-1-yarali-127935"
       },
-      "konular": [
-        "Diyarbakır",
-        "Sur",
-        "Saldırı"
-      ],
+      "konular": [],
       "yayin": "2014-10-07T21:24:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Diyarbakır'da emniyet binasına yönelik silahlı saldırı gerçekleşti",
-      "ozet": "Diyarbakır'ın Sur ilçesinde bulunan ilçe emniyet müdürlüğü binası önünde görev yapan güvenlik güçlerine uzun namlulu silahlarla ateş açıldı. Bölgede iki gündür devam eden gerginlikler akşam saatlerinde de sürerken, ara sokaklardan açılan ateş sonucu bir polis memuru ayağından yaralandı. Yaralı memur hastaneye kaldırılarak tedavi altına alındı.",
-      "kategori": "Savaş"
+      "durum": "haber"
     },
     {
       "id": "2013-haber-3467",
@@ -2172,30 +2027,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/cinli-ressamin-tablosuna-rekor-fiyat-3467"
       },
-      "konular": [
-        "Zeng Fanzhi",
-        "Resim sanatı",
-        "Müzayede"
-      ],
+      "konular": [],
       "yayin": "2013-10-07T15:35:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Zeng Fanzhi'nin eseri müzayedede en yüksek fiyata satıldı",
-      "ozet": "Çinli sanatçı Zeng Fanzhi tarafından hazırlanan bir tablo, düzenlenen açık artırmada büyük ilgi gördü. Eser, sanat piyasasında ulaşılan en yüksek satış rakamlarından birine imza atarak yeni bir rekor belirledi.",
-      "kategori": "Sanat",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Afghanistan_oil_Paintings.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Afghanistan_oil_Paintings.jpg",
-        "genislik": 800,
-        "yukseklik": 588,
-        "orijinalGenislik": 800,
-        "yazar": "cea+",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Afghanistan_oil_Paintings.jpg",
-        "aciklama": "A detail of the buddhist paintings at Bamiyan, the oldest known oil paintings in the world.",
-        "konu": "Resim sanatı"
-      }
+      "durum": "haber"
     },
     {
       "id": "2012-haber-374810",
@@ -2208,30 +2043,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/srebrenitsada-durakovic-secimleri-kazandi-374810"
       },
-      "konular": [
-        "Srebrenitsa",
-        "Çamil Durakoviç",
-        "Bosna Hersek"
-      ],
+      "konular": [],
       "yayin": "2012-10-07T06:45:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Srebrenitsa Yerel Seçimlerinde Çamil Durakoviç Kazandı",
-      "ozet": "Bosna Hersek sınırları içerisinde yer alan ve geçmişte büyük acıların yaşandığı Srebrenitsa bölgesinde gerçekleştirilen yerel seçimler sonuçlandı. Boşnak siyasi partilerinin ortak adayı olarak sandığa giden Çamil Durakoviç, seçim sürecini başarıyla tamamladığını duyurdu. Bu sonuçla birlikte bölgedeki yerel yönetimde yeni bir dönem başlamış oldu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Srebrenica_2.jpg/960px-Srebrenica_2.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Srebrenica_2.jpg/500px-Srebrenica_2.jpg",
-        "genislik": 960,
-        "yukseklik": 638,
-        "orijinalGenislik": 4288,
-        "yazar": "Jelle Visser",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Srebrenica_2.jpg",
-        "aciklama": "Srebrenica",
-        "konu": "Srebrenitsa"
-      }
+      "durum": "haber"
     },
     {
       "id": "2012-haber-374872",
@@ -2244,16 +2059,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sirnakta-mayin-patlamasi-1-olu-1-yarali-374872"
       },
-      "konular": [
-        "Uludere",
-        "Şırnak"
-      ],
+      "konular": [],
       "yayin": "2012-10-07T16:34:00+03:00",
       "puan": 6,
-      "durum": "elendi",
-      "baslik": "Şırnak Uludere bölgesinde meydana gelen patlama sonucu can kaybı yaşandı",
-      "ozet": "Şırnak ilinin Uludere ilçesine bağlı Şenoba beldesinde bir mayın infilak etti. Yaşanan bu elim olay neticesinde bir kişi yaşamını yitirirken bir kişi de yaralandı. Yaralı şahıs bölgedeki sağlık ekiplerinin müdahalesinin ardından tedavi altına alındı.",
-      "kategori": "Savaş"
+      "durum": "haber"
     },
     {
       "id": "2011-haber-288296",
@@ -2266,16 +2075,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chp-ilce-yonetiminde-toplu-istifa-288296"
       },
-      "konular": [
-        "Cumhuriyet Halk Partisi",
-        "Hacıbektaş"
-      ],
+      "konular": [],
       "yayin": "2011-10-07T11:55:00+03:00",
       "puan": 6,
-      "durum": "elendi",
-      "baslik": "Hacıbektaş Cumhuriyet Halk Partisi yönetiminde istifa kararı",
-      "ozet": "Cumhuriyet Halk Partisi Hacıbektaş ilçe teşkilatında görev değişimi yaşandı. İlçe Başkanı Ali Eger ile birlikte yönetim kurulu üyelerinin tamamı görevlerinden ayrıldıklarını duyurdu. Söz konusu istifaların ardından ilçe yönetiminin durumuyla ilgili süreç başladı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2011-haber-288328",
@@ -2288,30 +2091,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/rumlar-erdogani-bmye-sikayet-etti-288328"
       },
-      "konular": [
-        "Kıbrıs sorunu",
-        "Recep Tayyip Erdoğan",
-        "Birleşmiş Milletler"
-      ],
+      "konular": [],
       "yayin": "2011-10-07T15:21:00+03:00",
       "puan": 5,
-      "durum": "yazildi",
-      "baslik": "Güney Kıbrıs yönetimi Birleşmiş Milletler nezdinde girişimde bulundu",
-      "ozet": "Güney Kıbrıs yönetimi, Recep Tayyip Erdoğan'ın Birleşmiş Milletler Genel Kurulu'nda yaptığı konuşmayı gerekçe göstererek resmi bir şikayet süreci başlattı. Söz konusu ifadelerin adaya yönelik bir tehdit oluşturduğunu savunan Rum yetkililer, konuyla ilgili rahatsızlıklarını Birleşmiş Milletler Genel Sekreteri Ban Ki-Moon'a ilettikleri mektupla dile getirdi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     }
   ],
   "haberYillari": [

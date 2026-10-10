@@ -1028,7 +1028,7 @@
     },
     {
       "yil": 1902,
-      "metin": "Ray Kroc, Amerikalı iş insanı (ö. 1984)"
+      "metin": "Ray Kroc, Amerikalı iş adamı (ö. 1984)"
     },
     {
       "yil": 1908,
@@ -1482,7 +1482,7 @@
     },
     {
       "yil": 2018,
-      "metin": "Víctor Pey, İspanya doğumlu Şilili mühendis, siyasetçi, akademisyen ve iş insanı (d. 1915)"
+      "metin": "Víctor Pey, İspanya doğumlu Şilili mühendis, siyasetçi, akademisyen ve iş adamı (d. 1915)"
     },
     {
       "yil": 2018,
@@ -1531,15 +1531,21 @@
     {
       "yil": 2021,
       "metin": "Nikos Çumanis, Yunan profesyonel futbolcu (d. 1990)"
+    },
+    {
+      "yil": 2026,
+      "metin": "Göksel Arsoy, Türk sinema ve tiyatro oyuncusu (d. 1936)"
     }
   ],
-  "ozelGunler": [],
+  "ozelGunler": [
+    "Dünya Uzay Haftası (4-10 Ekim)"
+  ],
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/5_Ekim",
-    "revid": 36713824
+    "revid": 38208611
   },
-  "guncelleme": "2026-09-30T12:06:38.684Z",
+  "guncelleme": "2026-10-10T12:05:07.623Z",
   "haberler": [
     {
       "id": "2025-haber-2440869",
@@ -1552,17 +1558,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/sayistay-a-uye-secimi-icin-surec-basliyor-komisyonun-toplanma-tarihi-belli-oldu-2440869"
       },
-      "konular": [
-        "Sayıştay",
-        "Türkiye Büyük Millet Meclisi",
-        "Plan ve Bütçe Komisyonu"
-      ],
+      "konular": [],
       "yayin": "2025-10-05T11:41:00+03:00",
       "puan": 13,
-      "durum": "elendi",
-      "baslik": "Sayıştay üyelikleri için aday belirleme süreci takvimi açıklandı",
-      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, Sayıştay bünyesindeki boş pozisyonlara yapılacak atamalar için bir araya geliyor. Komisyon üyeleri, başvuruda bulunan yirmi aday arasından on kişiyi belirlemek amacıyla çalışmalarına başlayacak. Seçim sürecinin devamında ise Genel Kurul, belirlenen bu adaylar arasından beş ismi Sayıştay üyesi olarak görevlendirecek.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2440822",
@@ -1575,17 +1574,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/tbmm-de-bu-hafta-merkez-bankasi-baskani-karahan-sunum-yapacak-2440822"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Türkiye Cumhuriyet Merkez Bankası",
-        "Fatih Karahan"
-      ],
+      "konular": [],
       "yayin": "2025-10-05T09:31:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Meclis gündeminde trafik düzenlemesi ve ekonomi sunumu yer alıyor",
-      "ozet": "Türkiye Büyük Millet Meclisi yeni çalışma döneminde yoğun bir gündemle toplanıyor. Genel Kurul oturumlarında Karayolları Trafik Kanunu üzerinde değişiklik yapılmasına yönelik görüşmeler gerçekleştirilecek. Ayrıca Merkez Bankası Başkanı Fatih Karahan, Plan ve Bütçe Komisyonu üyelerine ekonomi politikaları hakkında bilgilendirme sunumu yaptı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2254850",
@@ -1598,17 +1590,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/akpli-isim-erdoganin-masasindaki-son-anketi-acikladi-2254850"
       },
-      "konular": [
-        "Abdullah Güler",
-        "Adalet ve Kalkınma Partisi",
-        "Türkiye'de siyaset"
-      ],
+      "konular": [],
       "yayin": "2024-10-05T13:50:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Abdullah Güler son kamuoyu araştırmasının sonuçlarını değerlendirdi",
-      "ozet": "Adalet ve Kalkınma Partisi Grup Başkanı Abdullah Güler, partisi tarafından gerçekleştirilen güncel anket çalışmalarına dair bilgiler paylaştı. Güler, yapılan çeşitli araştırmalarda partilerinin ilk sırada yer aldığını ifade etti. Söz konusu verilerin genel durumu hakkında kamuoyuna açıklamalarda bulunan Güler, elde edilen sonuçların detaylarına değindi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2254711",
@@ -1621,17 +1606,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/erdoganin-atama-ve-gorevden-alma-kararlari-yayimlandi-2254711"
       },
-      "konular": [
-        "Büyükelçi",
-        "Türkiye Cumhuriyeti Dışişleri Bakanlığı",
-        "Resmi Gazete"
-      ],
+      "konular": [],
       "yayin": "2024-10-05T00:15:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Resmi Gazete ile yeni büyükelçi atamaları gerçekleştirildi",
-      "ozet": "Resmi Gazete aracılığıyla duyurulan atama kararları kapsamında bazı dış temsilciliklerde görev değişimi yaşandı. İrfan Neziroğlu Pakistan Büyükelçisi olarak görevlendirilirken, Lübnan Büyükelçiliği görevine ise Murat Lütem getirildi. Söz konusu atamalar kamuoyu ile paylaşıldı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2126730",
@@ -1644,16 +1622,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/dolartl-tarihi-zirvesine-yakin-dolar-ve-euro-ne-kadar-oldu-5-ekim-2126730"
       },
-      "konular": [
-        "Döviz kuru",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2023-10-05T10:10:00+03:00",
       "puan": 15,
-      "durum": "elendi",
-      "baslik": "Döviz piyasalarında hareketlilik ve güncel kur seviyeleri",
-      "ozet": "Dolar ve Euro kurları, ulaştıkları yüksek seviyelerin yakınında sınırlı bir artış eğilimi gösterdi. Piyasalar, açıklanacak ekonomik verileri ve uluslararası yatırımcı toplantılarından gelecek açıklamaları yakından izlemeye başladı. Döviz kurlarındaki bu seyir, yatırımcıların gündemindeki yerini korudu.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2126824",
@@ -1666,30 +1638,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/dunya-yuzme-sampiyonasinda-trans-yuzuculer-icin-karar-2126824"
       },
-      "konular": [
-        "World Aquatics",
-        "Yüzme",
-        "Transseksüellik"
-      ],
+      "konular": [],
       "yayin": "2023-10-05T13:26:00+03:00",
       "puan": 13,
-      "durum": "yazildi",
-      "baslik": "Dünya Yüzme Federasyonu Açık Kategori Uygulamasını Sonlandırdı",
-      "ozet": "Uluslararası yüzme yönetimi organı olan World Aquatics, daha önce trans sporcuların katılımı amacıyla oluşturulan Açık Kategori uygulamasını kaldırma kararı verdi. Federasyon tarafından alınan bu yeni kararla birlikte, söz konusu kategoride herhangi bir müsabaka düzenlenmeyeceği duyuruldu.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/DM_Freiwasserschwimmen_2009_Lindau.JPG/960px-DM_Freiwasserschwimmen_2009_Lindau.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/DM_Freiwasserschwimmen_2009_Lindau.JPG/500px-DM_Freiwasserschwimmen_2009_Lindau.JPG",
-        "genislik": 960,
-        "yukseklik": 1440,
-        "orijinalGenislik": 2048,
-        "yazar": "Giacomo1970",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:DM_Freiwasserschwimmen_2009_Lindau.JPG",
-        "aciklama": "DM Freiwasserschwimmen; 19. Juni 2009 in Lindau am Bodensee",
-        "konu": "Yüzme"
-      }
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1989065",
@@ -1702,18 +1654,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/tbmm-genel-kurulunda-anayasa-mahkemesi-uyeligine-eski-icisleri-bakan-yardimcisi-muhterem-ince-secildi-1989065"
       },
-      "konular": [
-        "Anayasa Mahkemesi",
-        "Muhterem İnce",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2022-10-05T21:50:00+03:00",
       "puan": 12,
-      "durum": "yazildi",
-      "baslik": "Anayasa Mahkemesi Üyeliğine Muhterem İnce Seçildi",
-      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu bünyesinde gerçekleştirilen gizli oylama neticesinde Anayasa Mahkemesi üyeliği için yeni bir isim belirlendi. Daha önce İçişleri Bakan Yardımcılığı ve Sayıştay üyeliği görevlerinde bulunan Muhterem İnce, yapılan seçim sonucunda bu göreve getirildi. Söz konusu oylama sürecine Cumhuriyet Halk Partisi ile Halkların Demokratik Partisi milletvekilleri iştirak etmedi.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1989035",
@@ -1726,17 +1670,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/son-dakika-katar-tezkeresi-tbmmde-kabul-edildi-1989035"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Katar",
-        "Türk Silahlı Kuvvetleri"
-      ],
+      "konular": [],
       "yayin": "2022-10-05T17:34:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Türk Silahlı Kuvvetlerinin Katar Görev Süresi Uzatıldı",
-      "ozet": "Türk Silahlı Kuvvetleri unsurlarının Katar topraklarındaki görev süresinin altı ay daha uzatılmasına yönelik hazırlanan Cumhurbaşkanlığı tezkeresi, Türkiye Büyük Millet Meclisi Genel Kurulunda görüşüldü. Yapılan oylama sonucunda tezkere kabul edilerek yasalaştı. Bu kararla birlikte bölgedeki askeri varlığın devamlılığı sağlandı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1874534",
@@ -1749,18 +1686,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/paris-iklim-anlasmasi-kabul-edildi-1874534"
       },
-      "konular": [
-        "Paris İklim Anlaşması",
-        "Türkiye Büyük Millet Meclisi",
-        "Dışişleri Komisyonu"
-      ],
+      "konular": [],
       "yayin": "2021-10-05T20:49:00+03:00",
       "puan": 13,
-      "durum": "yazildi",
-      "baslik": "Paris İklim Anlaşması Meclis Komisyonunda Onaylandı",
-      "ozet": "Küresel ısınma ile mücadeleyi hedefleyen Paris İklim Anlaşması'nın yürürlüğe girmesi için gerekli olan yasal süreçte önemli bir adım atıldı. Anlaşmanın onaylanmasını öngören kanun teklifi, Türkiye Büyük Millet Meclisi Dışişleri Komisyonu üyeleri tarafından görüşülerek kabul edildi. Bu gelişme, iklim değişikliğiyle mücadele kapsamında atılan resmi adımlardan biri olarak kayıtlara geçti.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1874316",
@@ -1773,18 +1702,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/japonyanin-100-basbakani-kisida-fumio-kabinesiyle-goreve-basladi-1874316"
       },
-      "konular": [
-        "Kişida Fumio",
-        "Japonya Başbakanı",
-        "Japonya"
-      ],
+      "konular": [],
       "yayin": "2021-10-05T08:04:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Japonya'da Kişida Fumio Başbakanlık Görevine Başladı",
-      "ozet": "Japonya meclisinde gerçekleştirilen oylama sonucunda ülkenin yüzüncü başbakanı olarak belirlenen Kişida Fumio, yeni kabinesini kurarak resmen görevine başladı. Ülke yönetimini devralan Kişida, ekonomi odaklı politikalarıyla dikkat çeken yeni çalışma ekibiyle birlikte mesaisine giriş yaptı.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1771461",
@@ -1797,17 +1718,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/milli-atletler-dunya-yari-maraton-sampiyonasina-takim-halinde-katilacak-1771461"
       },
-      "konular": [
-        "Dünya Yarı Maraton Şampiyonası",
-        "Atletizm",
-        "Türkiye"
-      ],
+      "konular": [],
       "yayin": "2020-10-05T23:36:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Milli atletler Dünya Yarı Maraton Şampiyonası'nda yer alacak",
-      "ozet": "Dünya Yarı Maraton Şampiyonası'na katılım sağlayacak olan Türkiye, organizasyonda hem kadınlar hem de erkekler kategorisinde takım halinde temsil edilecek. Toplamda altmış iki ülkeden iki yüz seksen üç sporcunun yer alacağı yarışlarda, Türkiye adına erkeklerde beş ve kadınlarda üç atlet parkura çıkacak.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1771359",
@@ -1820,17 +1734,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/putin-kameralar-onunde-ermenistan-basbakani-pasinyanin-yuzune-telefonu-kapatti-1771359"
       },
-      "konular": [
-        "Nikol Paşinyan",
-        "Vladimir Putin",
-        "Rusya-Ermenistan ilişkileri"
-      ],
+      "konular": [],
       "yayin": "2020-10-05T16:43:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Rusya ve Ermenistan liderleri arasında telefon görüşmesi gerçekleşti",
-      "ozet": "Rusya Devlet Başkanı Vladimir Putin, Ermenistan Başbakanı Nikol Paşinyan ile bir telefon görüşmesi yaptı. Görüşme sırasında yaşanan iletişim süreci kameralara yansıdı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1103571",
@@ -1843,16 +1750,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/galatasaraydan-sampiyonlar-ligi-aciklamasi-1103571"
       },
-      "konular": [
-        "Galatasaray (futbol takımı)",
-        "UEFA Şampiyonlar Ligi"
-      ],
+      "konular": [],
       "yayin": "2018-10-05T17:08:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Galatasaray Kulübünden UEFA Kararına İlişkin Resmi Yanıt",
-      "ozet": "UEFA tarafından Galatasaray hakkında yapılan değerlendirmelerin ardından kulüp yönetimi bir açıklama yayımladı. Sarı-kırmızılı ekip, Avrupa futbolunun çatı kuruluşunun paylaştığı bilgiler doğrultusunda kendi görüşlerini kamuoyuyla paylaştı. Söz konusu gelişme, kulübün Şampiyonlar Ligi sürecindeki durumuyla ilgili resmi bir bilgilendirme niteliği taşıdı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1103034",
@@ -1865,17 +1766,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basketbolda-sezon-derbiyle-basliyor-1103034"
       },
-      "konular": [
-        "Basketbol Süper Ligi",
-        "Fenerbahçe (basketbol takımı)",
-        "Beşiktaş (basketbol takımı)"
-      ],
+      "konular": [],
       "yayin": "2018-10-05T11:07:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Basketbol Süper Ligi yeni sezona derbi heyecanıyla giriş yapıyor",
-      "ozet": "Tahincioğlu Basketbol Süper Ligi 2018-2019 sezonu müsabakaları başlıyor. Ligin açılış haftasında Fenerbahçe ile Beşiktaş Sompo Japan takımları karşı karşıya gelecek. Basketbolseverlerin merakla beklediği bu önemli derbi mücadelesi yarın oynanacak.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-838911",
@@ -1888,18 +1782,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/abd-temsilciler-meclisi-butce-tasarisini-kabul-etti-838911"
       },
-      "konular": [
-        "ABD Temsilciler Meclisi",
-        "ABD bütçesi",
-        "Vergi reformu"
-      ],
+      "konular": [],
       "yayin": "2017-10-05T21:13:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "ABD Temsilciler Meclisi 2018 mali yılı bütçe tasarısını onayladı",
-      "ozet": "ABD Temsilciler Meclisi, Beyaz Saray tarafından hazırlanan 4,1 trilyon dolarlık bütçe planına onay verdi. Söz konusu tasarının kabul edilmesi, ülkede uzun süredir gündemde olan vergi reformu çalışmaları adına kritik bir aşama olarak görüldü.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2017-haber-838377",
@@ -1912,17 +1798,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-istifaya-direnen-baskanlara-makama-gelirken-iyi-bosalt-demek-neden-yadirganiyor-838377"
       },
-      "konular": [
-        "Adalet ve Kalkınma Partisi",
-        "Recep Tayyip Erdoğan",
-        "Belediye başkanı"
-      ],
+      "konular": [],
       "yayin": "2017-10-05T11:13:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Cumhurbaşkanı Erdoğan Belediye Başkanlarının İstifa Sürecini Değerlendirdi",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, partisindeki bazı belediye başkanlarından beklenen istifa taleplerine ilişkin açıklamalarda bulundu. Görevden ayrılma sürecinde parti içi disiplin mekanizmalarını veya ihraç yöntemlerini kullanmayı tercih etmediklerini belirten Erdoğan, belediye başkanlarının makama geliş süreçlerini hatırlatarak mevcut kararın neden tepkiyle karşılandığını sorguladı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-610819",
@@ -1935,17 +1814,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/cumhurbaskanligi-kupasi-fenerbahcenin-taraftardan-erdogana-protesto-610819"
       },
-      "konular": [
-        "Cumhurbaşkanlığı Kupası",
-        "Fenerbahçe",
-        "Anadolu Efes"
-      ],
+      "konular": [],
       "yayin": "2016-10-05T21:52:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Cumhurbaşkanlığı Kupası Fenerbahçe'nin Oldu",
-      "ozet": "Anadolu Efes ile karşı karşıya gelen Fenerbahçe, rakibini 77-69 mağlup ederek Cumhurbaşkanlığı Kupası'nı kazandı. Kupa takdimi için sahaya gelen Cumhurbaşkanı Recep Tayyip Erdoğan, müsabakayı izleyen taraftarlar tarafından ıslıklarla protesto edildi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-610847",
@@ -1958,17 +1830,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/abdde-4-eyalette-ohal-ilan-edildi-610847"
       },
-      "konular": [
-        "Matthew Kasırgası",
-        "Amerika Birleşik Devletleri"
-      ],
+      "konular": [],
       "yayin": "2016-10-05T22:49:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "ABD'nin dört eyaletinde Matthew Kasırgası nedeniyle olağanüstü hal kararı",
-      "ozet": "Matthew Kasırgası'nın bölgede yaratması beklenen olumsuz etkiler sebebiyle Amerika Birleşik Devletleri'nde önlemler alındı. Florida, Georgia, Güney Carolina ve Kuzey Carolina eyaletlerinin sahil kesimlerinde yaşayan vatandaşlar için olağanüstü hal uygulamasına geçildi. Yetkililer, yaklaşan şiddetli hava muhalefetine karşı hazırlıklı olunması gerektiğini belirtti.",
-      "kategori": "Afet",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2015-haber-381561",
@@ -1981,17 +1846,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakanlik-dogruladi-rus-ucagi-turk-hava-sahasina-girdi-381561"
       },
-      "konular": [
-        "Türkiye-Rusya ilişkileri",
-        "Hava sahası ihlali"
-      ],
+      "konular": [],
       "yayin": "2015-10-05T10:31:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Rus savaş uçağı Türk hava sahasını ihlal etti",
-      "ozet": "Dışişleri Bakanlığı tarafından yapılan resmi açıklamada, Rusya Federasyonu'na ait bir askeri uçağın Türkiye hava sahasına giriş yaptığı duyuruldu. Başbakanlık makamı da söz konusu hava sahası ihlalini doğrulayan bir bilgilendirme paylaştı.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2015-haber-381949",
@@ -2004,30 +1862,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/serena-rekora-kosuyor-tam-261-hafta-381949"
       },
-      "konular": [
-        "Serena Williams",
-        "Chris Evert",
-        "Tenis"
-      ],
+      "konular": [],
       "yayin": "2015-10-05T16:28:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Serena Williams tenis dünyasında yeni bir rekora imza attı",
-      "ozet": "Dünya klasmanında zirvede kaldığı süreyi iki yüz altmış bir haftaya çıkaran Amerikalı tenisçi Serena Williams, önemli bir başarıya ulaştı. Bu performansıyla Chris Evert'in elinde bulundurduğu rekoru geride bırakan sporcu, tenis tarihindeki yerini sağlamlaştırdı.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Guests_at_the_2026_Met_Gala_209_%28cropped%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Guests_at_the_2026_Met_Gala_209_%28cropped%29.jpg",
-        "genislik": 419,
-        "yukseklik": 691,
-        "orijinalGenislik": 419,
-        "yazar": "SWinxy",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Guests_at_the_2026_Met_Gala_209_(cropped).jpg",
-        "aciklama": "Serena Williams at the 2026 Met Gala, wearing fashion in theme of \"Costume Art\"",
-        "konu": "Serena Williams"
-      }
+      "durum": "haber"
     },
     {
       "id": "2014-haber-127389",
@@ -2040,30 +1878,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/abd-dunya-sampiyonu-oldu-127389"
       },
-      "konular": [
-        "2014 FIBA Kadınlar Dünya Şampiyonası",
-        "ABD kadın millî basketbol takımı",
-        "Basketbol"
-      ],
+      "konular": [],
       "yayin": "2014-10-05T22:55:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "2014 FIBA Kadınlar Dünya Şampiyonası'nda Şampiyon ABD Oldu",
-      "ozet": "Türkiye'nin ev sahipliğinde düzenlenen FIBA Kadınlar Dünya Şampiyonası final mücadelesinde İspanya ile karşı karşıya gelen Amerika Birleşik Devletleri, rakibini 77-64'lük skorla mağlup etti. Bu sonuçla birlikte turnuvayı galibiyetle tamamlayan Amerika Birleşik Devletleri, dünya şampiyonluğu unvanını kazandı.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Carter_vs_Gasol%2C_Lakers_vs_Magic.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Carter_vs_Gasol%2C_Lakers_vs_Magic.jpg",
-        "genislik": 758,
-        "yukseklik": 568,
-        "orijinalGenislik": 758,
-        "yazar": "Tim Wang",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Carter_vs_Gasol,_Lakers_vs_Magic.jpg",
-        "aciklama": "Vince Carter goes up for a layup against Pau Gasol",
-        "konu": "Basketbol"
-      }
+      "durum": "haber"
     },
     {
       "id": "2014-haber-127227",
@@ -2076,30 +1894,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-iktidari-icin-savas-cikarir-127227"
       },
-      "konular": [
-        "Suriye İç Savaşı",
-        "Recep Tayyip Erdoğan",
-        "Murat Belge"
-      ],
+      "konular": [],
       "yayin": "2014-10-05T09:25:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "Murat Belge'den Suriye ve Irak tezkeresine dair değerlendirme",
-      "ozet": "Murat Belge, Türkiye Büyük Millet Meclisi tarafından kabul edilen Irak ve Suriye'ye asker gönderilmesine olanak tanıyan tezkereyi ele aldı. Belge, bu kararın ardından ülkenin izleyeceği dış politika rotasına ve Cumhurbaşkanı Recep Tayyip Erdoğan'ın yönetim anlayışına dair görüşlerini paylaştı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
-        "genislik": 704,
-        "yukseklik": 499,
-        "orijinalGenislik": 704,
-        "yazar": "jan Sefti",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
-        "aciklama": "The phrase \"Down with Bashar\" (yaskut Baššār), during the Syrian Uprising 2011.",
-        "konu": "Suriye İç Savaşı"
-      }
+      "durum": "haber"
     },
     {
       "id": "2012-haber-374414",
@@ -2112,30 +1910,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-secilme-yasi-dussun-374414"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Türkiye Büyük Millet Meclisi",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2012-10-05T09:00:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Seçilme yaşının düşürülmesi için çalışma başlatıldı",
-      "ozet": "Dönemin Başbakanı Recep Tayyip Erdoğan, milletvekili seçilme yaşının aşağı çekilmesi gerektiğini ifade etti. Bu konuda gerekli yasal düzenlemelerin yapılması için bir çalışma süreci başlatıldı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2012-haber-374528",
@@ -2148,17 +1926,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/balkanlilar-halk-danslari-festivali-izmirde-basladi-374528"
       },
-      "konular": [
-        "Balkanlılar Halk Dansları Festivali",
-        "İzmir",
-        "Halk dansları"
-      ],
+      "konular": [],
       "yayin": "2012-10-05T15:27:00+03:00",
       "puan": 6,
-      "durum": "elendi",
-      "baslik": "İzmir'de Balkanlılar Halk Dansları Festivali Başladı",
-      "ozet": "Atatürk'ün girişimiyle ilk defa 1936 yılında düzenlenen Balkanlılar Halk Dansları Festivali, uzun bir aradan sonra tekrar hayata geçirildi. Bu yıl sekizincisi gerçekleştirilen etkinlik, İzmir'de düzenlenen gösterilerle başladı. Kültürel etkileşimi hedefleyen festival, bölge ülkelerinin geleneksel danslarını bir araya getirdi.",
-      "kategori": "Toplum"
+      "durum": "haber"
     },
     {
       "id": "2011-haber-287626",
@@ -2171,17 +1942,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpli-ozturkten-erdogana-bm-sorusu-287626"
       },
-      "konular": [
-        "Ali Rıza Öztürk",
-        "Recep Tayyip Erdoğan",
-        "Cumhuriyet Halk Partisi"
-      ],
+      "konular": [],
       "yayin": "2011-10-05T07:00:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Milletvekili Ali Rıza Öztürk'ten Başbakan Erdoğan'a Soru Önergesi",
-      "ozet": "Cumhuriyet Halk Partisi Mersin Milletvekili Ali Rıza Öztürk, Başbakan Recep Tayyip Erdoğan'ın yanıtlaması istemiyle bir soru önergesi sundu. Öztürk, hazırladığı metin aracılığıyla hükümet kanadından belirli konularda açıklama talep etti.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2011-haber-287764",
@@ -2194,17 +1958,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/onur-oymenden-basbakan-erdogana-uyari-287764"
       },
-      "konular": [
-        "Onur Öymen",
-        "Recep Tayyip Erdoğan",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2011-10-05T14:15:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Onur Öymen'den belediyelere yönelik vakıf yardımları açıklaması",
-      "ozet": "Emekli Büyükelçi Onur Öymen, Başbakan Recep Tayyip Erdoğan tarafından dile getirilen Alman vakıflarının bazı belediyelere yaptığı yardımlara dair iddialar üzerine değerlendirmelerde bulundu. Öymen, söz konusu iddialar kapsamında CHP ve BDP yönetimindeki belediyelere sağlanan desteklerle ilgili görüşlerini paylaştı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     }
   ],
   "haberYillari": [

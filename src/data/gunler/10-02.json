@@ -682,7 +682,7 @@
     },
     {
       "yil": 1568,
-      "metin": "Marino Ghetaldi, Ragusalı bilim insanı (ö. 1626)"
+      "metin": "Marino Ghetaldi, Ragusalı bilim adamı (ö. 1626)"
     },
     {
       "yil": 1616,
@@ -762,7 +762,7 @@
     },
     {
       "yil": 1948,
-      "metin": "Siim Kallas, Estonya Başbakanı (ö. 2026)"
+      "metin": "Siim Kallas, Estonya başbakanı (ö. 2026)"
     },
     {
       "yil": 1951,
@@ -919,6 +919,26 @@
     {
       "yil": 1997,
       "metin": "Übeyd Adıyaman, Türk futbolcu"
+    },
+    {
+      "yil": 1997,
+      "metin": "Tammy Abraham, Nijerya asıllı İngiliz millî futbolcu"
+    },
+    {
+      "yil": 2000,
+      "metin": "Tshepang Moremi, Güney Afrikalı profesyonel futbolcu"
+    },
+    {
+      "yil": 2003,
+      "metin": "Mario García, İspanyol futbolcu"
+    },
+    {
+      "yil": 2004,
+      "metin": "İllya Krupski, Ukraynalı futbolcu"
+    },
+    {
+      "yil": 2007,
+      "metin": "Ayyoub Bouaddi, Fransız asıllı Faslı millî futbolcu"
     }
   ],
   "olumler": [
@@ -936,7 +956,7 @@
     },
     {
       "yil": 1804,
-      "metin": "Nicolas Joseph Cugnot, Fransız mucit ve bilim insanı (d. 1725)"
+      "metin": "Nicolas Joseph Cugnot, Fransız mucit ve bilim adamı (d. 1725)"
     },
     {
       "yil": 1852,
@@ -1096,7 +1116,7 @@
     },
     {
       "yil": 2017,
-      "metin": "Paul Otellini, Amerikalı iş insanı (d. 1950)"
+      "metin": "Paul Otellini, Amerikalı iş adamı (d. 1950)"
     },
     {
       "yil": 2017,
@@ -1153,6 +1173,14 @@
     {
       "yil": 2020,
       "metin": "Zeki Ergezen, Türk siyasetçi (d. 1949)"
+    },
+    {
+      "yil": 2026,
+      "metin": "İoanna Kuçuradi, Türk filozof (d. 1936)"
+    },
+    {
+      "yil": 2026,
+      "metin": "Sudi Özkan, Türk iş adamı (d. 1939)"
     }
   ],
   "ozelGunler": [
@@ -1162,10 +1190,427 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/2_Ekim",
-    "revid": 37817062
+    "revid": 38142876
   },
-  "guncelleme": "2026-09-30T12:06:36.094Z",
-  "haberler": [],
+  "guncelleme": "2026-10-10T12:05:05.051Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2440053",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İTO Eylül verilerini açıkladı: İstanbul'da zam şampiyonu vakıf üniversiteleri",
+      "aciklama": "İTO İstanbul'un en çok zamlanan ve fiyatı düşen ürünlerine dair verileri paylaştı. Veriler, 2025 Eylül ayında İstanbul’da zam şampiyonunun vakıf üniversitelerindeki eğitim ücretleri olduğunu gösterdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/ito-eylul-verilerini-acikladi-istanbul-da-zam-sampiyonu-vakif-universiteleri-2440053"
+      },
+      "konular": [],
+      "yayin": "2025-10-02T11:13:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2025-haber-2440117",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Eylülde dış ticaret açığı 6.9 milyar dolar oldu: Sanayi ve Teknoloji Bakanı Kacır'dan 'Güçlü yürüyüşümüz devam edecek' açıklaması!",
+      "aciklama": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır eylül ayı dış ticaret verilerini değerlendirdi. Kacır, dış ticaret açığının eylül ayında 6.9 milyar dolar olmasına karşın ''Güçlü yürüyüşümüz devam edecek'' ifadelerini kullandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/eylulde-dis-ticaret-acigi-6-9-milyar-dolar-oldu-sanayi-ve-teknoloji-bakani-kacir-dan-guclu-yuruyusumuz-devam-edecek-aciklamasi-2440117"
+      },
+      "konular": [],
+      "yayin": "2025-10-02T13:28:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2253912",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İYİ Parti’de deprem: Topluca istifa ettiler!",
+      "aciklama": "Bilecik'in Gölpazarı ilçesinde geçtiğimiz aylarda istifa eden İYİ Parti ilçe başkanının ardından 6 kişi daha istifa etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/iyi-partide-deprem-topluca-istifa-ettiler-2253912"
+      },
+      "konular": [],
+      "yayin": "2024-10-02T19:01:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2253574",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "TBMM açılışında CHP lideri Özel, Erdoğan’ı ayakta karşıladı, Bahçeli DEM Parti ile el sıkıştı",
+      "aciklama": "TBMM Genel Kurulu, 28. döneminin üçüncü yasama yılı faaliyetlerine “ayağa kalkma ve tokalaşma” tartışmalarıyla başladı. CHP’lilerin çoğunluğu Erdoğan’ı ayakta karşıladı. Özel dün sert eleştirilerde bulunan Bahçeli ile tokalaştı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/tbmm-acilisinda-chp-lideri-ozel-erdogani-ayakta-karsiladi-bahceli-2253574"
+      },
+      "konular": [],
+      "yayin": "2024-10-02T04:00:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2125538",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İstanbul'da eylül ayının zam şampiyonu belli oldu",
+      "aciklama": "İTO’nun verilerine göre, eylül ayında fiyatı yüzde 98,94 artan defter en çok pahalanan ürün oldu. En çok ucuzlayan ürün ise fiyatı yüzde 16,46 azalan erik oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/istanbulda-eylul-ayinin-zam-sampiyonu-belli-oldu-2125538"
+      },
+      "konular": [],
+      "yayin": "2023-10-02T09:52:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2125678",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Borsa günün ilk yarısında rekor tazeledi: Altın, Euro ve dolarda son durum",
+      "aciklama": "Borsa İstanbul'da BIST 100 endeksi, günün ilk yarısında 8.456,16 puanla tüm zamanların en yüksek seviyesine çıktı. İstanbul serbest piyasada dolar 27,4740 liradan, Euro 29,0390 liradan satılıyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/borsa-gunun-ilk-yarisinda-rekor-tazeledi-altin-euro-ve-dolarda-son-durum-2125678"
+      },
+      "konular": [],
+      "yayin": "2023-10-02T13:23:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-1987765",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Muğla'daki depremin ardından Naci Görür'den dikkat çeken paylaşım",
+      "aciklama": "Muğla'nın Köyceğiz ilçesinde 4,6 büyüklüğündeki depremin ardından Jeoloji Mühendisi Profesör Doktor Naci Görür'den dikkat çekici bir paylaşım geldi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/mugladaki-depremin-ardindan-naci-gorurden-dikkat-ceken-paylasim-1987765"
+      },
+      "konular": [],
+      "yayin": "2022-10-02T16:46:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-1987696",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "En hızlı orta segment telefonlar belli oldu! Zirve şaşırtıyor",
+      "aciklama": "Akıllı telefon tarafında rekabet her geçen gün artıyor. AnTuTu tarafından yayımlanan yeni listeye göre en hızlı orta segment telefonlar belli oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/en-hizli-orta-segment-telefonlar-belli-oldu-zirve-sasirtiyor-1987696"
+      },
+      "konular": [],
+      "yayin": "2022-10-02T13:07:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1873551",
+      "yil": 2021,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "Katar'da ilk kez yapılan milletvekili seçimleri için oy verme işlemi başladı",
+      "aciklama": "Katar'da ilk kez yapılan milletvekili seçimleri için oy verme işlemi başladı",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/katarda-ilk-kez-yapilan-milletvekili-secimleri-icin-oy-verme-islemi-basladi-1873551"
+      },
+      "konular": [],
+      "yayin": "2021-10-02T09:15:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1873637",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Taha Akgül Dünya Güreş Şampiyonası'nda yarı finale çıktı",
+      "aciklama": "Taha Akgül, Dünya Güreş Şampiyonası'nda yarı finale yükselme başarısı gösterdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/taha-akgul-dunya-gures-sampiyonasinda-yari-finale-cikti-1873637"
+      },
+      "konular": [],
+      "yayin": "2021-10-02T15:54:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1770679",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "YSK'den baro seçimleri ve siyasi parti kongrelerine ilişkin karar",
+      "aciklama": "Yüksek Seçim Kurulu (YSK), baro seçimlerinin İl/İlçe Umumi Hıfzıssıhha Kurullarının karar alması durumunda yapılamayacağına, siyasi partilerin kongrelerinin gerçekleştirilmesinde ise sakınca bulunmadığına karar verdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/yskden-baro-secimleri-ve-siyasi-parti-kongrelerine-iliskin-karar-1770679"
+      },
+      "konular": [],
+      "yayin": "2020-10-02T18:18:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1770547",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Meclis'ten Tuma Çelik kararı (02.10.2020)",
+      "aciklama": "TBMM Anayasa ve Adalet Karma Komisyonu, oy çokluğu ile bağımsız Milletvekili Tuma Çelik'in dokunulmazlığının kaldırılmasına karar verdi",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/meclisten-tuma-celik-karari-1770547"
+      },
+      "konular": [],
+      "yayin": "2020-10-02T12:13:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1100224",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Endonezya'da deprem: 'Hayatı pahasına uçağı kaldıran' kule görevlisi ulusal kahraman ilan edildi",
+      "aciklama": "Endonezya'da meydana gelen deprem ve tsunamiden saniyeler sonra pistte bulunan bir uçağın havalandığına emin olmak için, kaçan arkadaşlarının tersine kulede kalmayı seçen ve daha sonra hayatını kaybeden hava trafik kontrolörü ulusal kahraman ilan edildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/endonezyada-deprem-hayati-pahasina-ucagi-kaldiran-kule-gorevlisi-ulusal-kahraman-ilan-edildi-1100224"
+      },
+      "konular": [],
+      "yayin": "2018-10-02T14:20:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1100364",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Cristiano Ronaldo hakkındaki tecavüz dosyası tekrar açıldı",
+      "aciklama": "ABD'nin Las Vegas kentindeki polis birimleri, 2009'da Cristiano Ronaldo'nun kendisine tecavüz ettiğini söyleyen bir kadının talebi üzerine soruşturma dosyasını tekrar açtı. Juventus'ta forma giyen 33 yaşındaki Ronaldo ise Alman Der Spiegel'in gündeme taşıdığı suçlama hakkında",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/cristiano-ronaldo-hakkindaki-tecavuz-dosyasi-tekrar-acildi-1100364"
+      },
+      "konular": [],
+      "yayin": "2018-10-02T15:55:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-836618",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "'Erdoğan, Gökçek dahil 6 belediye başkanının istifasını istedi' iddiası",
+      "aciklama": "Cumhurbaşkanı ve AKP Genel Başkanı Recep Tayyip Erdoğan'ın Ankara, Bursa, Balıkesir, Uşak, Niğde ve Nevşehir belediye başkanlarının istifasını istediği öne sürüldü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-gokcek-dahil-6-belediye-baskaninin-istifasini-istedi-iddiasi-836618"
+      },
+      "konular": [],
+      "yayin": "2017-10-02T20:18:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-836094",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Başbakan hala işin dalgasında...",
+      "aciklama": "Yıldırım, tepki çeken MTV’ye yapılan yüzde 40 zammın sorusunu Tİ'ye aldı, “MTV, müzik televizyonundan mı bahsediyorsunuz? Onunla bizim alakamız yok. Ben cevabını verdim” karşılığını verdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbakan-hala-isin-dalgasindamtv-muzik-kanalindan-mi-bahsediyorsunuz-836094"
+      },
+      "konular": [],
+      "yayin": "2017-10-02T09:19:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-608854",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Etiyopya'da göstericilere ateş açıldı: Çok sayıda ölü var",
+      "aciklama": "Etiyopya'da hükümet karşıtı protestolara polisin müdahale etmesi sonucu yaşanan izdihamda 300 kişinin hayatını kaybettiği iddia edildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/etiyopyada-gostericilere-ates-acildi-cok-sayida-olu-var-608854"
+      },
+      "konular": [],
+      "yayin": "2016-10-02T22:10:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-608851",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan'ın ziyareti öncesi Kazan Belediyesi trafik tabelasını değiştirdi",
+      "aciklama": "Ankara'da Kazan ilçesinin trafik tabelası 'Kahraman Kazan' olarak değiştirildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdoganin-ziyareti-oncesi-kazan-belediyesi-trafik-tabelasini-degistirdi-608851"
+      },
+      "konular": [],
+      "yayin": "2016-10-02T21:17:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-379928",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İstanbul'da zam şampiyonu patlıcan",
+      "aciklama": "İstanbul Ticaret Odası (İTO) verilerine göre, 2015 Eylül ayı itibarıyla ürün arzında yaşanan azalmaya bağlı olarak patlıcan yüzde 22,28 ile fiyatı en fazla artan ürün oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/istanbulda-zam-sampiyonu-patlican-379928"
+      },
+      "konular": [],
+      "yayin": "2015-10-02T10:08:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-379865",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Silvan'da sokağa çıkma yasağı ilan edildi",
+      "aciklama": "Diyarbakır' ın Silvan ilçesinde bu Sabah saat 06.00' dan itibaren ikinci bir emre kadar sokağa çıkma yasağı ilan edildi..",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/silvanda-sokaga-cikma-yasagi-ilan-edildi-379865"
+      },
+      "konular": [],
+      "yayin": "2015-10-02T09:16:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-126225",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Kadınlar Dünya Basketbol Şampiyonası'nda çeyrek final maçları yarın",
+      "aciklama": "2014 FIBA Kadınlar Dünya Basketbol Şampiyonası'nda çeyrek final maçları yarın oynanacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/kadinlar-dunya-basketbol-sampiyonasinda-ceyrek-final-maclari-yarin-126225"
+      },
+      "konular": [],
+      "yayin": "2014-10-02T10:18:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-126425",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Meclis tezkere kararını verdi",
+      "aciklama": "Irak ve Suriye'den Türkiye'ye yönelik terör tehdidine karşı TSK'nın yurt dışına gönderilmesi için hükümete izin verilmesini içeren Başbakanlık tezkeresi 298 oy ile kabul edildi. Oylamada 98 red oyu kullanıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/meclis-tezkere-kararini-verdi-126425"
+      },
+      "konular": [],
+      "yayin": "2014-10-02T15:03:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-373842",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İstanbul'un zam şampiyonu çocuk ayakkabısı",
+      "aciklama": "İstanbul'da eylül ayında fiyatı en fazla artan ürün, giyim harcamaları grubunda yer alan çocuk ayakkabısı oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/istanbulun-zam-sampiyonu-cocuk-ayakkabisi-373842"
+      },
+      "konular": [],
+      "yayin": "2012-10-02T17:20:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-373720",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "'Başbakan herşeyin başına kendisini koymuştur'",
+      "aciklama": "MHP Genel Başkanı Devlet Bahçeli,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbakan-herseyin-basina-kendisini-koymustur-373720"
+      },
+      "konular": [],
+      "yayin": "2012-10-02T08:20:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-286980",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Avrupa Kadınlar Voleybol Şampiyonası sona erdi",
+      "aciklama": "Avrupa Kadınlar Voleybol Şampiyonası, düzenlenen ödül töreniyle sona erdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/avrupa-kadinlar-voleybol-sampiyonasi-sona-erdi-286980"
+      },
+      "konular": [],
+      "yayin": "2011-10-02T20:04:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-286876",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Futbolda milli mesai başlıyor (02.10.2011)",
+      "aciklama": "2012 Avrupa Futbol Şampiyonası elemelerinde gruptaki son 2 maçında İstanbul'da 7 Ekim Cuma günü Almanya, 11 Ekim Salı günü de Azerbaycan ile karşılaşacak A Milli Takım, hazırlıklarına yarın start verecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/futbolda-milli-mesai-basliyor-286876"
+      },
+      "konular": [],
+      "yayin": "2011-10-02T08:11:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    }
+  ],
   "haberYillari": [
     2025,
     2024,

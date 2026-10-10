@@ -5,8 +5,11 @@
     {
       "id": "1553-kanuni-sultan-suleyman-oglu-sehzade-mustafayi-konyada",
       "yil": 1553,
-      "metin": "Kanuni Sultan Süleyman oğlu Şehzade Mustafa’yı Konya’da boğdurulmak suretiyle vefat etti",
-      "konular": [],
+      "metin": "Kanuni Sultan Süleyman, oğlu Şehzade Mustafa'yı Konya'da boğdurdu.",
+      "konular": [
+        "I. Süleyman",
+        "Şehzade Mustafa"
+      ],
       "baslik": null,
       "ozet": null,
       "kategori": null,
@@ -1283,14 +1286,15 @@
     }
   ],
   "ozelGunler": [
-    "İstanbul'un Kurtuluşu"
+    "İstanbul'un Kurtuluşu",
+    "Dünya Uzay Haftası (4-10 Ekim)"
   ],
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/6_Ekim",
-    "revid": 37999615
+    "revid": 38208612
   },
-  "guncelleme": "2026-09-30T12:06:39.439Z",
+  "guncelleme": "2026-10-10T12:05:08.055Z",
   "haberler": [
     {
       "id": "2025-haber-2441187",
@@ -1303,30 +1307,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/bitcoin-altin-ve-japon-hisse-senetleri-zirveye-cikti-siyasi-dalgalanmalar-rekor-getirdi-2441187"
       },
-      "konular": [
-        "Bitcoin",
-        "Altın",
-        "Nikkei 225"
-      ],
+      "konular": [],
       "yayin": "2025-10-06T12:11:00+03:00",
       "puan": 13,
-      "durum": "yazildi",
-      "baslik": "Küresel piyasalarda rekor seviyeler görüldü",
-      "ozet": "Siyasi belirsizliklerin etkisiyle finansal piyasalarda hareketli bir dönem yaşandı. Japonya borsasında hisse senetleri yüzde beşin üzerinde değer kazanırken ons altın fiyatı dört bin dolar sınırına yaklaştı. Aynı süreçte kripto para birimi bitcoin ise tarihinin en yüksek seviyesine ulaşarak piyasalardaki yükseliş trendine katıldı.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Au%2C79.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Au%2C79.jpg",
-        "genislik": 600,
-        "yukseklik": 317,
-        "orijinalGenislik": 600,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Au,79.jpg",
-        "aciklama": null,
-        "konu": "Altın"
-      }
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2441197",
@@ -1339,16 +1323,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/eski-dalaman-belediye-baskani-erdogan-karakus-hayatini-kaybetti-2441197"
       },
-      "konular": [
-        "Dalaman",
-        "Belediye başkanı"
-      ],
+      "konular": [],
       "yayin": "2025-10-06T12:23:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Eski Dalaman Belediye Başkanı Erdoğan Karakuş vefat etti",
-      "ozet": "Dalaman ilçesinde geçmiş dönemlerde belediye başkanlığı görevini yürüten Erdoğan Karakuş yaşamını yitirdi. Aynı zamanda Cumhuriyet Halk Partisi ilçe başkanlığı görevinde de bulunmuş olan Karakuş'un kaybı bölgede üzüntüyle karşılandı.",
-      "kategori": "Toplum"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2255236",
@@ -1361,17 +1339,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/maxim-besiktas-insallah-sampiyon-olur-2255236"
       },
-      "konular": [
-        "Alexandru Maxim",
-        "Beşiktaş (futbol takımı)",
-        "Süper Lig"
-      ],
+      "konular": [],
       "yayin": "2024-10-06T21:42:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Alexandru Maxim'den Beşiktaş maçı sonrası değerlendirme",
-      "ozet": "Beşiktaş ile oynanan müsabakanın son dakikalarında attığı golle takımına galibiyeti getiren Alexandru Maxim, karşılaşmanın ardından açıklamalarda bulundu. Başarılı futbolcu, maç sonundaki değerlendirmesinde rakip takımın şampiyonluk yolundaki temennilerini dile getirdi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2255192",
@@ -1384,16 +1355,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/yunus-nadi-parki-ve-aniti-acildi-2255192"
       },
-      "konular": [
-        "Yunus Nadi",
-        "Fethiye"
-      ],
+      "konular": [],
       "yayin": "2024-10-06T18:15:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Fethiye Cumhuriyet Mahallesinde Yunus Nadi Parkı hizmete girdi",
-      "ozet": "Fethiye sınırları içerisinde yer alan Cumhuriyet Mahallesinde Yunus Nadi anısına hazırlanan park düzenlenen bir törenle ziyarete açıldı. Park alanında Yunus Nadi isminin yaşatılacağı bir kültür merkezinin inşaat çalışmaları ise halen devam ediyor.",
-      "kategori": "Toplum"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2127046",
@@ -1406,17 +1371,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/akpnin-yeni-anayasa-takvimi-belli-oldu-400-vekil-hesabi-2127046"
       },
-      "konular": [
-        "Türkiye Cumhuriyeti Anayasası",
-        "Adalet ve Kalkınma Partisi",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2023-10-06T03:00:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Adalet ve Kalkınma Partisi yeni anayasa için görüşme planını hazırladı",
-      "ozet": "Adalet ve Kalkınma Partisi yönetimi, yeni anayasa çalışmaları kapsamında siyasi partilerle yapılacak görüşmelerin takvimini oluşturdu. Meclis bünyesinde grubu bulunan altı siyasi partiye öncelik verilmesi planlanan süreçte, Cumhuriyet Halk Partisi ile kurulabilecek olası bir mutabakat için parti içi kurultay süreci beklendi. Muhalefet kanadından gelen olumsuz açıklamalara rağmen iktidar partisi, anayasa değişikliği için gerekli olan çoğunluğu sağlamak adına temaslarını sürdürme kararı aldı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2127053",
@@ -1429,29 +1387,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/depremin-uzerinden-8-ay-gecti-yurttasa-degil-ranta-egilim-2127053"
       },
-      "konular": [
-        "2023 Kahramanmaraş depremleri",
-        "Türkiye"
-      ],
+      "konular": [],
       "yayin": "2023-10-06T03:00:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Deprem bölgesindeki yapılaşma süreçleri eleştirilerin odağında",
-      "ozet": "Kahramanmaraş merkezli depremlerin ardından sekiz ay geride kalırken bölgedeki iyileştirme çalışmalarının yetersiz kaldığı ifade edildi. On bir ilde gerçekleştirilen kıyı dolgusu, ormanlık alanlarda maden faaliyetleri ve yüksek katlı yapılaşma gibi uygulamalar kamuoyunda tartışmalara yol açtı. Ayrıca bölgedeki projelerin ihale yöntemi yerine pazarlık usulüyle belirlenmesi eleştirilen konular arasında yer aldı.",
-      "kategori": "Afet",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Collage_of_2023_Turkey%E2%80%93Syria_earthquake.jpg/960px-Collage_of_2023_Turkey%E2%80%93Syria_earthquake.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Collage_of_2023_Turkey%E2%80%93Syria_earthquake.jpg/500px-Collage_of_2023_Turkey%E2%80%93Syria_earthquake.jpg",
-        "genislik": 960,
-        "yukseklik": 960,
-        "orijinalGenislik": 1400,
-        "yazar": "Adem",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Collage_of_2023_Turkey%E2%80%93Syria_earthquake.jpg",
-        "aciklama": "2023 Turkey–Syria earthquake",
-        "konu": "2023 Kahramanmaraş depremleri"
-      }
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1989340",
@@ -1464,30 +1403,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasinin-net-rezervleri-rekor-dusuk-seviyeye-geriledi-1989340"
       },
-      "konular": [
-        "Türkiye Cumhuriyet Merkez Bankası",
-        "Döviz rezervi",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2022-10-06T15:13:00+03:00",
       "puan": 14,
-      "durum": "yazildi",
-      "baslik": "Merkez Bankası rezervlerinde tarihi düşük seviye kaydedildi",
-      "ozet": "Türkiye Cumhuriyet Merkez Bankası tarafından açıklanan verilere göre, swap işlemleri hariç tutulduğunda net rezervler eksi 59 milyar dolar seviyesine indi. Eylül ayının son haftasını kapsayan bu veriler, rezervlerin kaydedilen en düşük noktaya gerilediğini ortaya koydu.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Finans_Merkezi.jpg/960px-Finans_Merkezi.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Finans_Merkezi.jpg/500px-Finans_Merkezi.jpg",
-        "genislik": 960,
-        "yukseklik": 960,
-        "orijinalGenislik": 3000,
-        "yazar": "Ail Subway",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Finans_Merkezi.jpg",
-        "aciklama": "İstanbul Financial Centre",
-        "konu": "Türkiye Cumhuriyet Merkez Bankası"
-      }
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1989408",
@@ -1500,30 +1419,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-erdogan-macron-gorusmesi-basladi-1989408"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Emmanuel Macron",
-        "Türkiye-Fransa ilişkileri"
-      ],
+      "konular": [],
       "yayin": "2022-10-06T18:01:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Recep Tayyip Erdoğan ve Emmanuel Macron Prag'da bir araya geldi",
-      "ozet": "Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan ile Fransa Cumhurbaşkanı Emmanuel Macron ikili temaslarda bulunmak üzere bir görüşme gerçekleştirdi. İki liderin bir araya geldiği bu buluşma uluslararası ilişkiler çerçevesinde gerçekleşti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1874807",
@@ -1536,30 +1435,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/paris-anlasmasi-tbmm-genel-kurulunda-kabul-edildi-1874807"
       },
-      "konular": [
-        "Paris Anlaşması",
-        "Türkiye Büyük Millet Meclisi",
-        "İklim değişikliği"
-      ],
+      "konular": [],
       "yayin": "2021-10-06T23:21:00+03:00",
       "puan": 18,
-      "durum": "yazildi",
-      "baslik": "Paris İklim Anlaşması Türkiye Büyük Millet Meclisi Tarafından Onaylandı",
-      "ozet": "Küresel ısınma ile mücadele kapsamında hazırlanan Paris Anlaşması, Türkiye Büyük Millet Meclisi Genel Kurulu gündemine geldi. Yapılan görüşmelerin ardından anlaşmanın onaylanmasını öngören kanun teklifi milletvekillerinin oylarıyla kabul edildi. Böylece Türkiye, iklim değişikliğiyle mücadele konusunda uluslararası bir mutabakata resmen taraf oldu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bobcat_Fire%2C_Los_Angeles%2C_San_Gabriel_Mountains.jpg/960px-Bobcat_Fire%2C_Los_Angeles%2C_San_Gabriel_Mountains.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bobcat_Fire%2C_Los_Angeles%2C_San_Gabriel_Mountains.jpg/500px-Bobcat_Fire%2C_Los_Angeles%2C_San_Gabriel_Mountains.jpg",
-        "genislik": 960,
-        "yukseklik": 489,
-        "orijinalGenislik": 5014,
-        "yazar": "Eddiem360",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bobcat_Fire,_Los_Angeles,_San_Gabriel_Mountains.jpg",
-        "aciklama": "Bobcat Fire view from our kitchen window in Monrovia, CA, September 10, 2020",
-        "konu": "İklim değişikliği"
-      }
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1874726",
@@ -1572,30 +1451,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/paris-iklim-anlasmasinin-meclis-gorusmelerinde-ucak-ve-fon-tartismasi-1874726"
       },
-      "konular": [
-        "Paris İklim Anlaşması",
-        "Türkiye Büyük Millet Meclisi",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2021-10-06T14:48:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Paris İklim Anlaşması Meclis Komisyonu gündemine taşındı",
-      "ozet": "Paris İklim Anlaşması ile ilgili kanun teklifi Dışişleri Komisyonu bünyesinde ele alındı. Görüşmeler sırasında uçak kullanımı ve oluşturulacak fonların yönetimi gibi konular üzerinde fikir ayrılıkları yaşandı. Milletvekilleri anlaşmanın içeriğine dair çeşitli değerlendirmelerde bulundu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg/960px-24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg/500px-24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg",
-        "genislik": 960,
-        "yukseklik": 562,
-        "orijinalGenislik": 7320,
-        "yazar": "Lula Oficial",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_(54018866744).jpg",
-        "aciklama": "24.09.2024 - Presidente da República, Luiz Inácio Lula da Silva, durante a Abertura do Debate Geral da 79ª Sessão da Assembleia Geral das Nações Unidas, no Salão da Assembleia Geral, da Sede das Naçõe",
-        "konu": "Siyaset"
-      }
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1771683",
@@ -1608,18 +1467,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/mali-ve-orta-afrikaya-asker-gonderilmesine-iliskin-tezkere-tbmmde-kabul-edildi-1771683"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Mali",
-        "Orta Afrika Cumhuriyeti"
-      ],
+      "konular": [],
       "yayin": "2020-10-06T22:04:00+03:00",
       "puan": 12,
-      "durum": "yazildi",
-      "baslik": "Mali ve Orta Afrika için hazırlanan asker gönderme tezkeresi onaylandı",
-      "ozet": "Türkiye Büyük Millet Meclisi genel kurulunda yapılan oylama sonucunda, Mali ve Orta Afrika Cumhuriyeti'ne Türk askeri gönderilmesine dair Cumhurbaşkanlığı tezkeresi kabul edildi. Söz konusu karar ile bölgedeki uluslararası görevlere katılımın yasal zemini oluşturuldu.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1771660",
@@ -1632,30 +1483,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kirgizistanda-basbakan-ve-meclis-baskani-istifa-etti-1771660"
       },
-      "konular": [
-        "2020 Kırgızistan protestoları",
-        "Kubatbek Boronov",
-        "Kırgızistan"
-      ],
+      "konular": [],
       "yayin": "2020-10-06T20:49:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Kırgızistan'da üst düzey yetkililer görevlerinden ayrıldı",
-      "ozet": "Seçim sonuçlarına yönelik tepkilerin ardından ülkede hareketli saatler yaşandı. Muhalif grupların kamu binalarındaki eylemleri devam ederken, Başbakan Kubatbek Boronov ile Meclis Başkanı Dastanbek Cumabekov görevlerini bıraktıklarını duyurdu. Yaşanan siyasi belirsizlik ortamında gerçekleşen bu istifalar, ülkede dikkat çeken bir gelişme olarak kayıtlara geçti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D1%8B_%D0%B2_%D0%91%D0%B8%D1%88%D0%BA%D0%B5%D0%BA%D0%B5_2020.jpg/960px-%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D1%8B_%D0%B2_%D0%91%D0%B8%D1%88%D0%BA%D0%B5%D0%BA%D0%B5_2020.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D1%8B_%D0%B2_%D0%91%D0%B8%D1%88%D0%BA%D0%B5%D0%BA%D0%B5_2020.jpg/500px-%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D1%8B_%D0%B2_%D0%91%D0%B8%D1%88%D0%BA%D0%B5%D0%BA%D0%B5_2020.jpg",
-        "genislik": 960,
-        "yukseklik": 960,
-        "orijinalGenislik": 3066,
-        "yazar": "Isakov077",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D1%8B_%D0%B2_%D0%91%D0%B8%D1%88%D0%BA%D0%B5%D0%BA%D0%B5_2020.jpg",
-        "aciklama": "Бишкектеги 5—6 октябрда Жогорку Кеңешке шайлоонун жыйынтыктарына байланыштуу өткөн нааразычылык митинг милиция кызматкерлери менен кагылышуусу менен уланып «Ак үйдүн» басып алуусу менен жыйынтыкталган",
-        "konu": "2020 Kırgızistan protestoları"
-      }
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1104251",
@@ -1668,18 +1499,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/serbest-dalis-dunya-sampiyonasi-rekorlarla-tamamlandi-1104251"
       },
-      "konular": [
-        "Serbest dalış",
-        "Kaş",
-        "Türkiye Sualtı Sporları Federasyonu"
-      ],
+      "konular": [],
       "yayin": "2018-10-06T16:07:00+03:00",
       "puan": 13,
-      "durum": "yazildi",
-      "baslik": "Kaş kentinde düzenlenen serbest dalış şampiyonası rekorlarla sona erdi",
-      "ozet": "Antalya ilinin Kaş ilçesinde Türkiye Sualtı Sporları Federasyonu tarafından organize edilen CMAS 3. Serbest Dalış Outdoor Dünya Şampiyonası tamamlandı. Bir hafta süren organizasyonun kapanış gününde sporcular iki yeni dünya rekoruna imza attı. Şampiyona başarıyla nihayete erdi.",
-      "kategori": "Spor",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1104124",
@@ -1692,16 +1515,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ultra-maraton-turkiye-sampiyonasi-start-aldi-1104124"
       },
-      "konular": [
-        "Ultra maraton",
-        "Türkiye"
-      ],
+      "konular": [],
       "yayin": "2018-10-06T13:36:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Ultra Maraton Türkiye Şampiyonası ilk kez düzenlenmeye başlandı",
-      "ozet": "Ülkenin en zorlu ve en uzun mesafeli koşu yarışı, bu yıl ilk defa Ultra Maraton Türkiye Şampiyonası ismiyle gerçekleştirildi. Sporcuların dayanıklılığını sınayan bu organizasyon, zorlu parkur şartlarıyla dikkat çekti.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-839021",
@@ -1714,17 +1531,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dolar-son-3-ayin-zirvesinde-avro-tarihi-rekorunu-kirdi-839021"
       },
-      "konular": [
-        "Döviz kuru",
-        "ABD Merkez Bankası",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2017-10-06T09:41:00+03:00",
       "puan": 14,
-      "durum": "elendi",
-      "baslik": "Döviz piyasalarında dolar ve avro değer kazandı",
-      "ozet": "Amerika Birleşik Devletleri Merkez Bankası tarafından yılın son ayında faiz artırımına gidileceği yönündeki tahminlerin kuvvetlenmesi piyasalara yansıdı. Bu beklentilerin etkisiyle dolar kuru üç aylık dönemdeki en yüksek seviyesine ulaşarak üç lira altmış üç kuruşun üzerine çıktı. Aynı süreçte avro ise değerini artırarak dört lira yirmi dört kuruş seviyesini geçti ve kendi rekorunu tazeledi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-839640",
@@ -1737,17 +1547,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/aydinda-chpnin-delege-seciminde-oylarin-imzadan-fazla-cikmasi-sonucu-arbede-cikti-839640"
       },
-      "konular": [
-        "Cumhuriyet Halk Partisi",
-        "Aydın",
-        "Seçim"
-      ],
+      "konular": [],
       "yayin": "2017-10-06T19:13:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Aydın'daki delege seçimlerinde oy sayımı sırasında gerginlik yaşandı",
-      "ozet": "Cumhuriyet Halk Partisi'nin Aydın ilinde düzenlediği delege seçimlerinde sandık sonuçları ile seçmen sayısı arasında uyumsuzluk tespit edildi. Kullanılan oy miktarının kayıtlı seçmen sayısını aşması üzerine partililer arasında tartışma çıktı. Bölgeye intikal eden emniyet güçlerinin müdahalesiyle yaşanan gerginlik daha fazla büyümeden kontrol altına alındı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-611156",
@@ -1760,30 +1563,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-yildirimdan-basika-resti-irak-hukumetinin-haddi-degildir-611156"
       },
-      "konular": [
-        "Binali Yıldırım",
-        "Başika Kampı",
-        "Türkiye-Irak ilişkileri"
-      ],
+      "konular": [],
       "yayin": "2016-10-06T13:19:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Başbakan Yıldırım'dan Irak Parlamentosu'nun Askeri Varlık Kararına Tepki",
-      "ozet": "Başbakan Binali Yıldırım, Irak Parlamentosu tarafından Türk askerlerinin bölgeden çekilmesi yönünde alınan kararı değerlendirdi. Yıldırım, söz konusu kararın kabul edilemez olduğunu belirterek Irak hükümetinin bu konuda yetkili olmadığını ifade etti. Türkiye'nin bölgedeki askeri varlığına yönelik yapılan bu çağrıya karşı sert bir duruş sergiledi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Binali_Y%C4%B1ld%C4%B1r%C4%B1m_%282018-08-18%29_%28cropped%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Binali_Y%C4%B1ld%C4%B1r%C4%B1m_%282018-08-18%29_%28cropped%29.jpg",
-        "genislik": 794,
-        "yukseklik": 1104,
-        "orijinalGenislik": 794,
-        "yazar": "duma.gov.ru",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Binali_Y%C4%B1ld%C4%B1r%C4%B1m_(2018-08-18)_(cropped).jpg",
-        "aciklama": "Председатель Великого национального собрания Турции Бинали Йылдырым",
-        "konu": "Binali Yıldırım"
-      }
+      "durum": "haber"
     },
     {
       "id": "2016-haber-611416",
@@ -1796,17 +1579,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/deniz-akkaya-yilmaz-erdogana-hala-asigim-611416"
       },
-      "konular": [
-        "Deniz Akkaya",
-        "Yılmaz Erdoğan",
-        "Magazin"
-      ],
+      "konular": [],
       "yayin": "2016-10-06T20:30:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Deniz Akkaya'dan Yılmaz Erdoğan Hakkında Şaşırtan İtiraf",
-      "ozet": "Deniz Akkaya, Yılmaz Erdoğan ile Belçim Bilgin'in boşanma süreci üzerine değerlendirmelerde bulundu. Akkaya, yaptığı açıklamada Yılmaz Erdoğan'a karşı hala duygular beslediğini ifade etti. Bu sözler magazin basınında geniş yer buldu.",
-      "kategori": "Toplum"
+      "durum": "haber"
     },
     {
       "id": "2015-haber-382898",
@@ -1819,17 +1595,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yurt-disinda-1-kasim-secimleri-icin-sandiklar-kuruldu-382898"
       },
-      "konular": [
-        "Türkiye genel seçimleri",
-        "Yurt dışı seçmen kütüğü"
-      ],
+      "konular": [],
       "yayin": "2015-10-06T22:35:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Yurt dışındaki seçmenler için oy verme süreci başlıyor",
-      "ozet": "Türkiye genelinde gerçekleştirilecek olan 26. Dönem Milletvekili Genel Seçimleri kapsamında yurt dışında yaşayan vatandaşlar için sandıklar kuruldu. Yurt dışı seçmen kütüğünde kaydı bulunan vatandaşlar, belirlenen tarihten itibaren oylarını kullanmaya başladı.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2015-haber-382745",
@@ -1842,17 +1611,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogana-salon-vermeyen-belediye-baskani-konustu-382745"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Yvan Mayeur",
-        "Brüksel"
-      ],
+      "konular": [],
       "yayin": "2015-10-06T16:36:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Brüksel Belediye Başkanı miting talebini reddetme gerekçesini açıkladı",
-      "ozet": "Belçika ziyareti kapsamında bir miting düzenlemek isteyen Cumhurbaşkanı Recep Tayyip Erdoğan için talep edilen salon, Brüksel Belediye Başkanı Yvan Mayeur tarafından onaylanmadı. Mayeur, yerel bir televizyon kanalına verdiği demeçte, söz konusu etkinliğin resmi devlet ziyareti protokolüyle bağdaşmadığını ifade etti. Belediye başkanı, bu kararın gerekçesi olarak siyasi içerikli bir toplantının diplomatik kuralların dışında kaldığını belirtti.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2014-haber-127571",
@@ -1865,30 +1627,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ronaldodan-bir-rekor-daha-127571"
       },
-      "konular": [
-        "Cristiano Ronaldo",
-        "Real Madrid",
-        "La Liga"
-      ],
+      "konular": [],
       "yayin": "2014-10-06T15:13:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Cristiano Ronaldo lig kariyerindeki hat-trick sayısını yirmi ikiye çıkardı",
-      "ozet": "Real Madrid bünyesinde top koşturan Cristiano Ronaldo, Athletic Bilbao ile oynanan müsabakada gösterdiği performansla dikkatleri üzerine çekti. Başarılı futbolcu, bu karşılaşmada kaydettiği gollerle İspanya ligindeki kariyerinde toplamda yirmi ikinci kez hat-trick yapma başarısını gösterdi.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/960px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/500px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1439,
-        "orijinalGenislik": 2812,
-        "yazar": "Bryan Berlin",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg",
-        "aciklama": "Cristiano Ronaldo during Croatia v Portugal on 2 July 2026 at the 2026 FIFA World Cup",
-        "konu": "Cristiano Ronaldo"
-      }
+      "durum": "haber"
     },
     {
       "id": "2014-haber-127485",
@@ -1901,16 +1643,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/besiktasta-3-gunluk-izin-basladi-127485"
       },
-      "konular": [
-        "Beşiktaş (futbol takımı)",
-        "Süper Lig"
-      ],
+      "konular": [],
       "yayin": "2014-10-06T10:50:00+03:00",
       "puan": 6,
-      "durum": "elendi",
-      "baslik": "Beşiktaş futbol takımına üç günlük ara verildi",
-      "ozet": "Süper Lig'in beşinci haftasında Balıkesirspor karşısında deplasmanda galip gelen Beşiktaş, puan durumunda zirveye yerleşti. Bu başarının ardından teknik ekip, oyunculara üç gün sürecek bir dinlenme süresi tanıdı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-374612",
@@ -1923,17 +1659,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akp-kongresine-alinmayan-gazeteciler-ve-anayasa-374612"
       },
-      "konular": [
-        "Adalet ve Kalkınma Partisi",
-        "Basın özgürlüğü",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2012-10-06T06:38:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "İktidar Partisinin Kongresinde Basın Mensuplarına Uygulanan Kısıtlamalar",
-      "ozet": "İktidar partisi tarafından düzenlenen kongreye bazı basın mensuplarının alınmaması kamuoyunda tartışmalara yol açtı. Devlet desteğiyle faaliyet gösteren bir siyasi oluşumun, gazetecilere yönelik bu tutumu anayasal haklar ve basın özgürlüğü çerçevesinde eleştirildi. Söz konusu uygulama, siyasi partilerin şeffaflık ilkeleri ve medya ile olan ilişkileri açısından değerlendirildi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-374730",
@@ -1946,17 +1675,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ince-tezkere-anayasaya-aykiri-374730"
       },
-      "konular": [
-        "Muharrem İnce",
-        "Cumhuriyet Halk Partisi",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2012-10-06T14:42:00+03:00",
       "puan": 5,
-      "durum": "elendi",
-      "baslik": "Muharrem İnce'den Meclis'te Kabul Edilen Tezkereye Eleştiri",
-      "ozet": "Cumhuriyet Halk Partisi Grup Başkanvekili Muharrem İnce, Türkiye Büyük Millet Meclisi gündemine gelen ve onaylanan tezkere hakkında değerlendirmelerde bulundu. İnce, söz konusu metnin hem uluslararası hukuk normlarıyla hem de anayasal düzenlemelerle çeliştiğini ifade etti.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2011-haber-287944",
@@ -1969,16 +1691,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/filenin-sultanlari-odulde-sampiyon-287944"
       },
-      "konular": [
-        "Türkiye kadın millî voleybol takımı",
-        "Voleybol"
-      ],
+      "konular": [],
       "yayin": "2011-10-06T09:01:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Milli voleybolculara uluslararası başarıları için ödül verildi",
-      "ozet": "Türkiye, uluslararası spor müsabakalarında elde edilen dereceleri desteklemeye devam ediyor. Bu kapsamda, başarılı performans sergileyen kadın voleybol milli takımı oyuncuları ödüllendirildi. Ülke genelinde sporcuların uluslararası arenadaki başarılarının teşvik edilmesi amacıyla uygulanan ödül sistemi, sporculara sağlanan desteklerin bir parçası olarak öne çıktı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2011-haber-287976",
@@ -1991,16 +1707,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/merkez-bankasindan-banka-ekonomistlerine-sunum-287976"
       },
-      "konular": [
-        "Türkiye Cumhuriyet Merkez Bankası",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2011-10-06T11:30:00+03:00",
       "puan": 6,
-      "durum": "elendi",
-      "baslik": "Merkez Bankası banka ekonomistlerini bilgilendirdi",
-      "ozet": "Merkez Bankası yetkilileri, banka ekonomistlerine yönelik bir sunum gerçekleştirdi. Toplantıda, Türkiye'nin kredi notundaki yükselişin sağladığı avantajların fonlama maliyetlerine etkisi ele alındı. Ayrıca, Türk lirası mevduat dışındaki yükümlülüklerin vadelerinin uzatılmasına yönelik düzenlemelerin bankacılık sektörü için oluşturduğu imkanlar üzerinde duruldu.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     }
   ],
   "haberYillari": [
