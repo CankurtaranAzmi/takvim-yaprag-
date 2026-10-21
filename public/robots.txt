@@ -1,4 +1,26 @@
+# Takvim Yaprağı – tüm tarayıcılara ve yapay zekâ botlarına açıktır.
 User-agent: *
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
 Allow: /
 
 Sitemap: https://takvimyapragi.com/sitemap-index.xml

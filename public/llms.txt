@@ -1,0 +1,23 @@
+# Takvim Yaprağı
+
+> Takvim Yaprağı, "tarihte bugün" sitesidir: her gün için tarihte o gün yaşanan olayları, doğanları, hayatını kaybedenleri ve özel günleri Türkçe, görselli ve özgün anlatımla sunar. Türkiye'den olaylara ve geçmiş yılların haber arşivine ağırlık verilir. Site Ebiscube ürünüdür.
+
+İçerikler Türkçe Vikipedi gün maddelerinden (CC BY-SA 4.0) ve haber arşivlerinden derlenir, yapay zekâ yardımıyla özgün Türkçe cümlelerle yeniden yazılır, otomatik kalite kontrolünden geçer. Görseller Wikimedia Commons'tan, serbest lisansla kullanılır; her görselin kaynağı ve lisansı sayfada "Kaynaklar" bölümünde belirtilir. Hata bildirimleri için iletişim sayfasını kullanın.
+
+## Ana sayfalar
+- [Bugün](https://takvimyapragi.com/): Bugünün tarihinde yaşanan olaylar, doğumlar, ölümler, özel günler
+- [Takvim – Tüm Günler](https://takvimyapragi.com/takvim/): Yayındaki tüm günlerin listesi
+- [Hakkımızda](https://takvimyapragi.com/hakkimizda/): Site, içerik üretimi ve kaynaklar
+- [İletişim](https://takvimyapragi.com/iletisim/): bilgi@ebiscube.com
+
+## Sayfa yapısı
+- Gün sayfaları: `https://takvimyapragi.com/{gun}-{ay}/` (örnek: /22-ekim/)
+- Olay sayfaları: `https://takvimyapragi.com/olay/{yil}-{konu}/`
+
+## Teknik
+- [Site haritası](https://takvimyapragi.com/sitemap-index.xml)
+- [RSS](https://takvimyapragi.com/rss.xml)
+
+## Politikalar
+- [Gizlilik Politikası](https://takvimyapragi.com/gizlilik-politikasi/)
+- [Çerez Politikası](https://takvimyapragi.com/cerez-politikasi/)

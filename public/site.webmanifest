@@ -1,0 +1,11 @@
+{
+  "name": "Takvim Yaprağı",
+  "short_name": "Takvim Yaprağı",
+  "description": "Tarihte bugün: her gün için olaylar, doğumlar, ölümler ve özel günler.",
+  "lang": "tr",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#e11d2a",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

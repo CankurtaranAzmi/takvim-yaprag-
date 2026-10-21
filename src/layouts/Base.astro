@@ -35,14 +35,17 @@ const bugunYazi = `${b.gun} ${AYLAR[b.ay - 1]} · ${GUNLER_HAFTA[b.haftaGunu]}`;
   <meta name="description" content={aciklama} />
   <meta name="google-site-verification" content="fkkjgBL7Uk3m4ArIPkLIeCnoqhT9ZI1nK12ymu3EitA" />
   <link rel="canonical" href={kanonik} />
-  {noindex && <meta name="robots" content="noindex, follow" />}
   <meta name="theme-color" content="#ffffff" />
+  {noindex ? <meta name="robots" content="noindex, follow" /> : <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />}
+  <meta name="author" content="Takvim Yaprağı" />
   <script is:inline>
     // Tema: varsayılan beyaz; kullanıcının seçimi hatırlanır. Boyamadan önce uygulanır ki sayfa yanıp sönmesin.
     try { if (localStorage.getItem('tema') === 'koyu') document.documentElement.dataset.tema = 'koyu'; } catch (e) {}
   </script>
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   <link rel="sitemap" href="/sitemap-index.xml" />
+  <link rel="alternate" type="application/rss+xml" title="Takvim Yaprağı – Günlük" href="/rss.xml" />
+  <link rel="manifest" href="/site.webmanifest" />
 
   <meta property="og:site_name" content={SITE.ad} />
   <meta property="og:locale" content="tr_TR" />
@@ -51,6 +54,8 @@ const bugunYazi = `${b.gun} ${AYLAR[b.ay - 1]} · ${GUNLER_HAFTA[b.haftaGunu]}`;
   <meta property="og:description" content={aciklama} />
   <meta property="og:url" content={kanonik} />
   {gorsel && <meta property="og:image" content={gorsel} />}
+  <meta name="twitter:title" content={baslik ?? SITE.ad} />
+  <meta name="twitter:description" content={aciklama} />
   <meta name="twitter:card" content={gorsel ? 'summary_large_image' : 'summary'} />
   <link rel="preconnect" href="https://upload.wikimedia.org" />
   <link rel="preconnect" href="https://thumb.wikimedia.org" />
@@ -99,7 +104,7 @@ const bugunYazi = `${b.gun} ${AYLAR[b.ay - 1]} · ${GUNLER_HAFTA[b.haftaGunu]}`;
           <a href="/gizlilik-politikasi/">Gizlilik</a>
           <a href="/cerez-politikasi/">Çerezler</a>
         </nav>
-        <p>Olay listeleri <a href="https://tr.wikipedia.org" rel="noopener">Vikipedi</a> kaynaklıdır ve <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.tr" rel="license noopener">CC BY-SA 4.0</a> lisansıyla kullanılır. Görseller Wikimedia Commons'tan, her birinin altında belirtilen lisansla kullanılır. Özet yazılar editörlerimize aittir.</p>
+        <p>Olay listeleri <a href="https://tr.wikipedia.org" rel="noopener">Vikipedi</a> kaynaklıdır ve <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.tr" rel="license noopener">CC BY-SA 4.0</a> lisansıyla kullanılır. Görseller Wikimedia Commons'tan, her birinin altında belirtilen lisansla kullanılır. Özet yazılar yapay zekâ yardımıyla özgün olarak yeniden yazılır.</p>
         <p>© {yil} {SITE.ad}</p>
       </div>
     </div>
