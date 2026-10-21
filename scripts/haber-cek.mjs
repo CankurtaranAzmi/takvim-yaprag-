@@ -150,7 +150,23 @@ function ertesiGun(tarih) {
 const buYil = istanbulBugun().yil;
 const yillar = Array.from({ length: YIL_SAYISI }, (_, i) => buYil - 1 - i);
 const i = args.indexOf('--gun');
-const gunler = i >= 0 ? [{ ay: Number(args[i + 1].slice(0, 2)), gun: Number(args[i + 1].slice(3, 5)) }] : gunPenceresi(10, 10);
+let gunler = i >= 0 ? [{ ay: Number(args[i + 1].slice(0, 2)), gun: Number(args[i + 1].slice(3, 5)) }] : gunPenceresi(10, 10);
+// --eksikler N: haberi henüz çekilmemiş (ama Vikipedi verisi olan) en yakın N günü de ekle
+const ei = args.indexOf('--eksikler');
+if (ei >= 0 && i < 0) {
+  const b = istanbulBugun();
+  const bugun = gunAnahtar(b.ay, b.gun);
+  const anahtarlar = (await fs.readdir(VERI_DIZINI)).filter((f) => f.endsWith('.json')).map((f) => f.slice(0, 5)).sort();
+  const sirali = [...anahtarlar.filter((a) => a >= bugun), ...anahtarlar.filter((a) => a < bugun)];
+  const eksik = [];
+  for (const a of sirali) {
+    if (eksik.length >= Number(args[ei + 1] || 12)) break;
+    const v = JSON.parse(await fs.readFile(path.join(VERI_DIZINI, `${a}.json`), 'utf8'));
+    if ((v.haberYillari ?? []).length < yillar.length) eksik.push({ ay: Number(a.slice(0, 2)), gun: Number(a.slice(3, 5)) });
+  }
+  const var_ = new Set(gunler.map((g) => gunAnahtar(g.ay, g.gun)));
+  gunler = [...gunler, ...eksik.filter((g) => !var_.has(gunAnahtar(g.ay, g.gun)))];
+}
 const zorla = i >= 0;
 
 let toplam = 0;

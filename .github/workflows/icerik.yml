@@ -1,4 +1,4 @@
-# Her gün 10 gün öncesi ile 10 gün sonrası arasını Vikipedi'den ve Cumhuriyet haber arşivinden çeker
+# Her gün 10 gün öncesi ile 10 gün sonrası arasını (ve tüm yılı doldurmak için verisi olmayan en yakın 12 günü) Vikipedi'den ve Cumhuriyet haber arşivinden çeker
 # (pencere her gün bir gün kayar, eklenen günler kalır). Eksik özetleri Gemini (ücretsiz) ile yazar
 # ve bir Pull Request açar. PR otomatik birleştirilir ve site yayınlanır.
 name: Günlük içerik
@@ -34,10 +34,10 @@ jobs:
       - run: npm ci
 
       - name: Vikipedi'den listeleri çek
-        run: node scripts/wiki-cek.mjs ${{ github.event.inputs.kapsam }}
+        run: node scripts/wiki-cek.mjs ${{ github.event.inputs.kapsam || '--eksikler 12' }}
 
       - name: Geçmiş yılların haberlerini çek (Cumhuriyet arşivi)
-        run: node scripts/haber-cek.mjs
+        run: node scripts/haber-cek.mjs --eksikler 12
 
       - name: Eksik özetleri yaz
         env:

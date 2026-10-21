@@ -6,12 +6,14 @@
 //   node scripts/wiki-cek.mjs --once 5 --sonra 30   -> pencereyi değiştir
 //   node scripts/wiki-cek.mjs --gun 09-27     -> tek gün
 //   node scripts/wiki-cek.mjs --hepsi         -> 366 günün tamamı
+//   node scripts/wiki-cek.mjs --eksikler 12   -> pencere + verisi henüz olmayan en yakın 12 gün (tüm yılı kademeli doldurur)
 //   --gorsel-yenile                           -> daha önce bulunmuş/bulunamamış görselleri yeniden ara
 
 import fs from 'node:fs/promises';
+import fsSync from 'node:fs';
 import path from 'node:path';
 import { gorselleriBul } from './gorsel.mjs';
-import { AYLAR, gunAnahtar, gunAdi, slugla, tumGunler, gunPenceresi } from '../src/lib/tarih.mjs';
+import { istanbulBugun, AYLAR, gunAnahtar, gunAdi, slugla, tumGunler, gunPenceresi } from '../src/lib/tarih.mjs';
 
 const VERI_DIZINI = path.resolve('src/data/gunler');
 const UA = 'TakvimYapragiBot/1.0 (https://takvimyapragi.com; iletisim@takvimyapragi.com)';
@@ -153,7 +155,15 @@ function hedefGunler(args) {
     return [{ ay, gun }];
   }
   const sayi = (ad, v) => (args.includes(ad) ? Number(args[args.indexOf(ad) + 1]) : v);
-  return gunPenceresi(sayi('--once', 10), sayi('--sonra', 10));
+  const pencere = gunPenceresi(sayi('--once', 10), sayi('--sonra', 10));
+  if (!args.includes('--eksikler')) return pencere;
+  // Tüm yılı kademeli doldur: bugünden ileriye doğru, verisi olmayan en yakın N gün
+  const b = istanbulBugun();
+  const bugun = gunAnahtar(b.ay, b.gun);
+  const tum = tumGunler().sort((x, y) => gunAnahtar(x.ay, x.gun).localeCompare(gunAnahtar(y.ay, y.gun)));
+  const sirali = [...tum.filter((g) => gunAnahtar(g.ay, g.gun) >= bugun), ...tum.filter((g) => gunAnahtar(g.ay, g.gun) < bugun)];
+  const eksik = sirali.filter((g) => !fsSync.existsSync(path.join(VERI_DIZINI, `${gunAnahtar(g.ay, g.gun)}.json`))).slice(0, sayi('--eksikler', 12));
+  return [...pencere, ...eksik];
 }
 
 await fs.mkdir(VERI_DIZINI, { recursive: true });
