@@ -16,7 +16,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Arriv%C3%A9e_des_crois%C3%A9s_%C3%A0_Constantinople.jpg/960px-Arriv%C3%A9e_des_crois%C3%A9s_%C3%A0_Constantinople.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Arriv%C3%A9e_des_crois%C3%A9s_%C3%A0_Constantinople.jpg/500px-Arriv%C3%A9e_des_crois%C3%A9s_%C3%A0_Constantinople.jpg",
@@ -70,7 +69,8 @@
           "aciklama": "..",
           "konu": "Haçlı"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1760-iii-george-buyuk-britanya-krali-oldu",
@@ -83,7 +83,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg/960px-Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg/500px-Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg",
@@ -124,7 +123,8 @@
           "aciklama": "Satellite image of Great Britain and Northern Ireland in April 2002.",
           "konu": "Büyük Britanya"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1854-kirim-savasi-sirasinda-ruslar-ile-kirimin-akyar",
@@ -140,7 +140,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Malakhov1.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Malakhov1.jpg",
@@ -194,7 +193,8 @@
           "aciklama": "Monument to the Sunken Ships: Sevastopol Bay, Leninsky district, Sevastopol",
           "konu": "Sivastopol"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1875-peter-ilyic-caykovskinin-1-nolu-piyano-koncertosu",
@@ -208,7 +208,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_%281840-1893%29.jpg/960px-Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_%281840-1893%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_%281840-1893%29.jpg/500px-Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_%281840-1893%29.jpg",
@@ -249,7 +248,8 @@
           "aciklama": "Boston, Beacon Hill",
           "konu": "Boston"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1917-lenin-onderligindeki-bolsevikler-rusyada-yonetimi-tamamen-ele",
@@ -263,7 +263,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Lenin_in_1920_%28cropped%29.jpg/960px-Lenin_in_1920_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Lenin_in_1920_%28cropped%29.jpg/500px-Lenin_in_1920_%28cropped%29.jpg",
@@ -304,7 +303,8 @@
           "aciklama": "The presidium of the 9th Congress of the Russian Communist Party (Bolsheviks). 1920. Sitting (from left): Abel Yenukidze, Mikhail Kalinin, Nikolai Bukharin, Mikhail Tomsky, Mikhail Lashevich, Lev Kame",
           "konu": "Bolşevik"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1918-arca-ayaklanmalari-basladi",
@@ -316,8 +316,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1935-haitide-kasirga-2000den-fazla-kisi-oldu",
@@ -330,7 +330,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg/960px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg/500px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg",
@@ -343,7 +342,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210).jpg",
         "aciklama": "iss056e162175 (Sept. 12, 2018) --- Cameras outside the International Space Station captured a stark and sobering view of Hurricane Florence the morning of Sept. 12 as it churned across the Atlantic in",
         "konu": "kasırga"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1936-adolf-hitler-ve-benito-mussolini-roma-berlin-guc",
@@ -358,7 +358,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/960px-Hitler_portrait_crop.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/500px-Hitler_portrait_crop.jpg",
@@ -412,7 +411,8 @@
           "aciklama": "A 5x5 segment panorama taken by myself with a Canon 5D and 24-105mm f/4L IS lens. Stitched with rectilinear projection to keep lines straight. This view is about 100 degrees horizontally, close to the",
           "konu": "Roma"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1937-basbakan-ismet-inonu-istifa-etti-ayni-gun",
@@ -425,7 +425,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
@@ -466,7 +465,8 @@
           "aciklama": "Mahmut Celalettin Bayar (1883–1986) was a former Member of Turkish Parliament (TBMM) and the 3’rd President of the Republic of Turkey",
           "konu": "Celâl Bayar"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1946-serbest-gures-milli-takimi-isvecte-avrupa-sampiyonu",
@@ -480,8 +480,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1955-evlerde-kullanilan-mikrodalga-firinlarin-ilk-ornegi-tappan",
@@ -494,7 +494,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Magnetron.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Magnetron.jpg",
@@ -507,7 +506,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Magnetron.jpg",
         "aciklama": "Magnetron, gefabriceerd ca. 1988, eigen foto (je moet iets als Wikipedia met kerst plat ligt....)",
         "konu": "mikrodalga fırın"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1957-tatbiki-guzel-sanatlar-yuksek-okulu-istanbulda-acildi",
@@ -519,7 +519,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
@@ -532,7 +531,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
         "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
         "konu": "İstanbul"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1960-kuba-tum-amerikan-is-yerlerini-devletlestirdi",
@@ -545,8 +545,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1962-abd-buyukelcisi-adlai-e-stevenson-kubadaki-sovyet",
@@ -562,7 +562,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Adlai_Stevenson_close-up.jpg/960px-Adlai_Stevenson_close-up.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Adlai_Stevenson_close-up.jpg/500px-Adlai_Stevenson_close-up.jpg",
@@ -603,7 +602,8 @@
           "aciklama": "United Nations Security Council on the United Nations Headquarters in New York City",
           "konu": "BM Güvenlik Konseyi"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1970-nufus-sayimi-yapildi-turkiyenin-nufusu-35-605",
@@ -616,8 +616,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1971-cin-birlesmis-milletlere-alindi",
@@ -630,8 +630,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1980-13-temmuz-1979da-misirin-ankara-buyukelciligini-basan",
@@ -643,8 +643,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1980-12-eylul-darbesinin-3-idami-14-eylul",
@@ -657,8 +657,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1981-turkiyenin-roma-buyukelciliginde-gorevli-ikinci-katip-gokberk",
@@ -673,7 +673,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg/960px-Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg/500px-Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg",
@@ -686,7 +685,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Trevi_Fountain,_Rome,_Italy_2_-_May_2007.jpg",
         "aciklama": "A 5x5 segment panorama taken by myself with a Canon 5D and 24-105mm f/4L IS lens. Stitched with rectilinear projection to keep lines straight. This view is about 100 degrees horizontally, close to the",
         "konu": "Roma"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1984-hepatit-virusu-bulundu",
@@ -699,7 +699,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Alcoholic_hepatitis.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Alcoholic_hepatitis.jpg",
@@ -740,7 +739,8 @@
           "aciklama": "This illustration, created at the Centers for Disease Control and Prevention (CDC), reveals ultrastructural morphology exhibited by coronaviruses. Note the spikes that adorn the outer surface of the v",
           "konu": "virüs"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1984-turkiyede-son-kez-bir-olum-cezasi-infaz",
@@ -754,7 +754,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/960px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/500px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
@@ -767,7 +766,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0zmir_Clock_Tower,_December_2018.jpg",
         "aciklama": "İzmir Clock Tower in Turkey.",
         "konu": "İzmir"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1986-pkkya-bagli-milis-gucu-kurdistan-halk-kurtulus",
@@ -780,8 +780,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1998-cumhuriyetin-75-yil-donumu-kutlamalari-cercevesinde-80",
@@ -793,8 +793,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2001-microsoft-windows-xp-isletim-sistemini-piyasaya-surdu",
@@ -806,7 +806,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/960px-Aerial_Microsoft_West_Campus_August_2009.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/500px-Aerial_Microsoft_West_Campus_August_2009.jpg",
@@ -819,7 +818,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Aerial_Microsoft_West_Campus_August_2009.jpg",
         "aciklama": "The west campus of Microsoft, Redmond, Washington, taken from about 1,500'. The photo is looking south-east. The west campus is bounded on the west by 148th Ave, on the east by SR 520, and on the nort",
         "konu": "Microsoft"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2003-sedir-yangini-amerika-birlesik-devletlerinde-guney-kaliforniyadaki",
@@ -832,7 +832,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Cedar_Fire_crosses_Interstate_15.jpg/960px-Cedar_Fire_crosses_Interstate_15.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Cedar_Fire_crosses_Interstate_15.jpg/500px-Cedar_Fire_crosses_Interstate_15.jpg",
@@ -845,7 +844,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Cedar_Fire_crosses_Interstate_15.jpg",
         "aciklama": "Miramar, Calif. (Oct. 26, 2003) -- Cars scramble to exit the freeway by driving up the embankment to the on ramp, and moving against the flow of traffic in an effort to flee the flames as the Cedar fi",
         "konu": "Sedir Yangını"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2003-rektorler-ogretim-uyeleri-sivil-toplum-orgutlerinin-temsilcileri",
@@ -858,7 +858,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
@@ -899,7 +898,8 @@
           "aciklama": "Exterior of the mausoleum building of Anıtkabir complex",
           "konu": "Anıtkabir"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "2004-kuba-devlet-baskani-fidel-castro-8-kasimdan",
@@ -912,7 +912,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Fidel_Castro_in_Washington.jpg/960px-Fidel_Castro_in_Washington.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Fidel_Castro_in_Washington.jpg/500px-Fidel_Castro_in_Washington.jpg",
@@ -925,7 +924,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Fidel_Castro_in_Washington.jpg",
         "aciklama": "Fidel Castro arrives MATS Terminal, Washington, D.C.",
         "konu": "Fidel Castro"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2005-anadoluda-vakit-gazetesinin-almanya-sinirlari-icinde-basilmasi",
@@ -938,8 +938,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2017-iyi-parti-meral-aksener-tarafindan-kuruldu",
@@ -952,7 +952,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Meral_Ak%C5%9Fener%2C_November_2021_%282%29_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Meral_Ak%C5%9Fener%2C_November_2021_%282%29_%28cropped%29.jpg",
@@ -965,7 +964,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Meral_Ak%C5%9Fener,_November_2021_(2)_(cropped).jpg",
         "aciklama": "Meral Akşener, November 2021 (2)",
         "konu": "Meral Akşener"
-      }
+      },
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -1674,7 +1674,7 @@
     "url": "https://tr.wikipedia.org/wiki/25_Ekim",
     "revid": 38169034
   },
-  "guncelleme": "2026-10-21T11:21:58.761Z",
+  "guncelleme": "2026-10-21T21:27:05.275Z",
   "haberler": [
     {
       "id": "2025-haber-2446933",

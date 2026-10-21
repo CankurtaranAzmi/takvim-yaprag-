@@ -14,7 +14,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%D8%B5%D9%88%D8%B1%D8%A9_%D8%AA%D9%85%D8%AB%D8%A7%D9%84_%D8%B3%D9%8A%D9%81_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%82%D8%B7%D8%B2_crop.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%D8%B5%D9%88%D8%B1%D8%A9_%D8%AA%D9%85%D8%AB%D8%A7%D9%84_%D8%B3%D9%8A%D9%81_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%82%D8%B7%D8%B2_crop.jpg",
@@ -55,7 +54,8 @@
           "aciklama": "Baybars, Medallion IV, Baptistère de Saint-Louis",
           "konu": "Baybars"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1857-ilk-futbol-kulubu-sheffield-fc-kuruldu",
@@ -68,7 +68,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/960px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/500px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
@@ -81,7 +80,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1995.jpg",
         "aciklama": "Association football (soccer), Bloomington, Indiana. The offensive player (in red) is Chris Klein of the Indiana Hoosiers. He has sprinted past two defenders (in white) and is about to shoot the ball ",
         "konu": "futbol"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1882-alman-bilim-insani-robert-koch-verem-mikrobunu",
@@ -95,7 +95,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/RobertKoch_cropped.jpg/960px-RobertKoch_cropped.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/RobertKoch_cropped.jpg/500px-RobertKoch_cropped.jpg",
@@ -136,7 +135,8 @@
           "aciklama": "Under a high magnification of 15549x, this scanning electron micrograph (SEM) depicted some of the ultrastructural details seen in the cell-wall configuration of a number of Gram-positive Mycobacteriu",
           "konu": "verem"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1911-orville-wright-kuzey-carolinada-hava-araci-ile",
@@ -149,7 +149,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Wright_Brothers_in_1910.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Wright_Brothers_in_1910.jpg",
@@ -162,7 +161,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Wright_Brothers_in_1910.jpg",
         "aciklama": "The Wright brothers at the International Aviation Tournament, Belmont Park, Long Island, N.Y., Oct. 1910",
         "konu": "Orville Wright"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1912-birinci-balkan-savasinda-osmanli-ve-sirp-ordulari",
@@ -177,7 +177,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Occupied_territories_in_the_Balkans%2C_end_of_April_1913.png/960px-Occupied_territories_in_the_Balkans%2C_end_of_April_1913.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Occupied_territories_in_the_Balkans%2C_end_of_April_1913.png/500px-Occupied_territories_in_the_Balkans%2C_end_of_April_1913.png",
@@ -218,7 +217,8 @@
           "aciklama": "First Balkanic War. The Serbian Front (Serbia) The march os the armies before the battle of Kumanovo.",
           "konu": "Kumanova Muharebesi"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1914-i-dunya-savasi-osmanli-imparatorlugu-ile-rus",
@@ -233,7 +233,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
@@ -274,7 +273,8 @@
           "aciklama": "Montage for the en:Caucasus Campaign in Wikipedia",
           "konu": "Kafkasya Cephesi"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1926-unlu-illuzyonist-harry-houdini-detroit-michigandaki-garrick",
@@ -288,7 +288,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/HarryHoudini1899.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/HarryHoudini1899.jpg",
@@ -329,7 +328,8 @@
           "aciklama": "500px provided description: Detroit skyline, as viewed from Windsor, Canada [#ontario ,#canada ,#sky ,#city ,#sunset ,#river ,#blue ,#sun ,#clouds ,#architecture ,#cityscape ,#skyline ,#long exposure ",
           "konu": "Detroit"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1929-new-york-borsasinda-hisse-senetleri-dustu-bu",
@@ -341,7 +341,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/960px-New_York_Stock_Exchange_Facade_2015.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/500px-New_York_Stock_Exchange_Facade_2015.jpg",
@@ -354,7 +353,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_Facade_2015.jpg",
         "aciklama": "New York Stock Exchange",
         "konu": "New York Borsası"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1935-italya-etiyopyayi-isgal-etti",
@@ -367,8 +367,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1935-i-belediyeler-kongresi-basladi",
@@ -378,8 +378,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1939-naylon-coraplar-ilk-kez-wilmingtonda-satisa-sunuldu",
@@ -392,7 +392,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Nylonstockings.jpg/960px-Nylonstockings.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Nylonstockings.jpg/500px-Nylonstockings.jpg",
@@ -433,7 +432,8 @@
           "aciklama": "Redone Montage of Wilmington, North Carolina and environs",
           "konu": "Wilmington"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1944-tarihte-insa-edilmis-en-agir-savas-gemisi",
@@ -446,7 +446,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/USS_Princeton_%28CVL-23%29_burning_on_24_October_1944_%2880-G-287970%29.jpg/960px-USS_Princeton_%28CVL-23%29_burning_on_24_October_1944_%2880-G-287970%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/USS_Princeton_%28CVL-23%29_burning_on_24_October_1944_%2880-G-287970%29.jpg/500px-USS_Princeton_%28CVL-23%29_burning_on_24_October_1944_%2880-G-287970%29.jpg",
@@ -459,7 +458,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:USS_Princeton_(CVL-23)_burning_on_24_October_1944_(80-G-287970).jpg",
         "aciklama": "The U.S. Navy light aircraft carrier USS Princeton (CVL-23) burning soon after she was hit by a Japanese bomb while operating off the Philippines on 24 October 1944. This view, taken from the battlesh",
         "konu": "Leyte Körfezi Muharebesi"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1945-birlesmis-milletler-antlasmasi-yayinlandi-ve-bm-kuruldu",
@@ -471,8 +471,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1945-ii-dunya-savasi-sirasinda-nazilerin-norveci-isgal",
@@ -488,7 +488,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
@@ -542,7 +541,8 @@
           "aciklama": "Benito Mussolini and Adolf Hitler during Mussolini's visit in Munich.",
           "konu": "Faşist"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1947-walt-disney-amerikan-aleyhtari-faaliyetler-komitesi-huac",
@@ -555,7 +555,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Walt_Disney_1946.JPG",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Walt_Disney_1946.JPG",
@@ -568,7 +567,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Walt_Disney_1946.JPG",
         "aciklama": "Publicity photo of Walt Disney from the Boy Scouts of America. Disney was given an award by them in 1946.",
         "konu": "Walt Disney"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1949-minik-vali-olarak-taninan-ordinaryus-prof-dr",
@@ -581,7 +581,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/1952_01_25_Milliyet_Fahrettin_Kerim_Gokay.jpg/960px-1952_01_25_Milliyet_Fahrettin_Kerim_Gokay.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/1952_01_25_Milliyet_Fahrettin_Kerim_Gokay.jpg/500px-1952_01_25_Milliyet_Fahrettin_Kerim_Gokay.jpg",
@@ -622,7 +621,8 @@
           "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
           "konu": "İstanbul"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1956-gazeteci-bedii-faik-cumhurbaskanina-hakaretten-6-ay",
@@ -634,8 +634,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1964-amerikali-insan-haklari-savunucusu-martin-luther-kinge",
@@ -649,7 +649,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/960px-Martin_Luther_King%2C_Jr..jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/500px-Martin_Luther_King%2C_Jr..jpg",
@@ -690,7 +689,8 @@
           "aciklama": "1933 Nobel Peace Prize awarded to Norman Angell on exhibit to the public at the Imperial War Museum, London, England",
           "konu": "Nobel Barış Ödülü"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1965-nufus-sayimi-yapildi-turkiyenin-nufusu-31-391",
@@ -703,8 +703,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1975-turkiyenin-paris-buyukelcisi-ismail-erez-ve-makam",
@@ -720,7 +720,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/960px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/500px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
@@ -733,7 +732,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
         "aciklama": "La Tour Eiffel vue de la Tour Saint-Jacques, Paris.",
         "konu": "Paris"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1980-polonya-hukumeti-solidarnosc-dayanisma-sendikasi-adli-isci",
@@ -747,8 +747,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1991-kripto-davasinda-gazeteci-uluc-gurkan-ile-disisleri",
@@ -762,7 +762,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/James_Callaghan_and_Max_van_der_Stoel_%281975%29.jpg/960px-James_Callaghan_and_Max_van_der_Stoel_%281975%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/James_Callaghan_and_Max_van_der_Stoel_%281975%29.jpg/500px-James_Callaghan_and_Max_van_der_Stoel_%281975%29.jpg",
@@ -775,7 +774,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:James_Callaghan_and_Max_van_der_Stoel_(1975).jpg",
         "aciklama": "James Callaghan, British Secretary of State for Foreign and Commonwealth Affairs, on the left, and Max van der Stoel, Dutch Minister for Foreign Affairs",
         "konu": "Dışişleri Bakanlığı"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1992-turkiyenin-ilk-ozel-havaalani-olan-hezarfen-istanbul",
@@ -790,7 +790,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Airport_infrastructure.png/960px-Airport_infrastructure.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Airport_infrastructure.png/500px-Airport_infrastructure.png",
@@ -844,7 +843,8 @@
           "aciklama": "Büyükçekmece'den Gürpınar Beylikdüzü'ne Bakış, Ekim 2013",
           "konu": "Büyükçekmece"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1992-aachen-tebligi-ulum-el-hikme-okulu",
@@ -857,7 +857,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Aachen_BW_2016-07-09_11-56-24.jpg/960px-Aachen_BW_2016-07-09_11-56-24.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Aachen_BW_2016-07-09_11-56-24.jpg/500px-Aachen_BW_2016-07-09_11-56-24.jpg",
@@ -870,7 +869,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Aachen_BW_2016-07-09_11-56-24.jpg",
         "aciklama": "Germany, Aachen, town hall from south",
         "konu": "Aachen"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1996-i-avrasya-islam-surasi-turkiyede-toplandi",
@@ -882,8 +882,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1996-osmaniye-turkiyenin-80-ili-oldu",
@@ -895,7 +895,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Osmaniye_districts.png/960px-Osmaniye_districts.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Osmaniye_districts.png/500px-Osmaniye_districts.png",
@@ -908,7 +907,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Osmaniye_districts.png",
         "aciklama": "Map of the districts of Osmaniye province in Turkey. Created by Rarelibra 17:11, 4 December 2006 (UTC) for public domain use, using MapInfo Professional v8.5 and various mapping resources. Edited by O",
         "konu": "Osmaniye (il)"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2000-amerikali-rock-grubu-linkin-park-ilk-studyo",
@@ -923,7 +923,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Stones_members_montage2.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Stones_members_montage2.jpg",
@@ -936,7 +935,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Stones_members_montage2.jpg",
         "aciklama": "Mick Jagger, Keith Richards, Ronnie Wood and Charlie Watts montage/crop of 4 pictures - File:Jagger-early Stones.jpg, File:KeithR2.JPG, File:Ron-Wood in CA.jpg and File:Charlie Watts Hannover 19-07-20",
         "konu": "Rock müzik"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2003-concordeun-son-ucusu-new-york-ile-londra",
@@ -950,7 +950,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/British_Airways_Concorde_G-BOAC_03.jpg/960px-British_Airways_Concorde_G-BOAC_03.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/British_Airways_Concorde_G-BOAC_03.jpg/500px-British_Airways_Concorde_G-BOAC_03.jpg",
@@ -1004,7 +1003,8 @@
           "aciklama": "500px provided description: London Skyline [#sunset ,#architecture ,#cityscape ,#london ,#uk ,#skyline ,#financial district ,#thames ,#london bridge ,#london shard]",
           "konu": "Londra"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -1589,7 +1589,7 @@
     "url": "https://tr.wikipedia.org/wiki/24_Ekim",
     "revid": 38168157
   },
-  "guncelleme": "2026-10-21T11:21:58.059Z",
+  "guncelleme": "2026-10-21T21:27:04.916Z",
   "haberler": [
     {
       "id": "2025-haber-2446427",

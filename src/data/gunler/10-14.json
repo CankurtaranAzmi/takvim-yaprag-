@@ -13,7 +13,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Bayeux_Tapestry_scene57_Harold_death.jpg/960px-Bayeux_Tapestry_scene57_Harold_death.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Bayeux_Tapestry_scene57_Harold_death.jpg/500px-Bayeux_Tapestry_scene57_Harold_death.jpg",
@@ -54,7 +53,8 @@
           "aciklama": "Carpet by Bayeux",
           "konu": "İngiltere'nin Normanlar tarafından fethi"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1586-mary-stuart-kardesi-i-elizabethe-suikast-girisiminde",
@@ -67,7 +67,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg/960px-Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg/500px-Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg",
@@ -108,7 +107,8 @@
           "aciklama": "The \"Darnley Portrait\" of Elizabeth I of England. It was named after a previous owner. Probably painted from life, this portrait is the source of the face pattern called \"The Mask of Youth\" which woul",
           "konu": "I. Elizabeth"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1808-nizam-i-cedid-sekban-i-cedid-adiyla-yeniden-kuruldu",
@@ -121,7 +121,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Nizami-cedid-ordusu.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Nizami-cedid-ordusu.jpg",
@@ -134,7 +133,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Nizami-cedid-ordusu.jpg",
         "aciklama": "Nizam-i Djedid Army during a parade.",
         "konu": "Nizam-ı Cedid"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1882-pencap-universitesi-pakistan-kuruldu",
@@ -147,8 +147,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1912-eski-baskan-theodore-roosevelt-john-flammang-schrank",
@@ -160,7 +160,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Theodore_Roosevelt_by_the_Pach_Bros.jpg/960px-Theodore_Roosevelt_by_the_Pach_Bros.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Theodore_Roosevelt_by_the_Pach_Bros.jpg/500px-Theodore_Roosevelt_by_the_Pach_Bros.jpg",
@@ -173,7 +172,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt_by_the_Pach_Bros.jpg",
         "aciklama": "Photograph of Theodore Roosevelt showing head and shoulders, facing slightly left. No information on size of the photo given. Restoration notes Lots of scratches, which I carefully removed. Mainly jus",
         "konu": "Theodore Roosevelt"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1913-birlesik-krallikta-komur-madeni-kazasi-439-kisi",
@@ -186,8 +186,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1915-i-dunya-savasi-bulgaristan-kralligi-ittifak-devletlerine",
@@ -201,7 +201,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
@@ -214,7 +213,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:WWImontage.jpg",
         "aciklama": "Montage for WWI article. Top: Trenches - Image:The_badly_shelled_main_road_to_Bapaume.jpg (Trenches on the Western Front) Left Upper: Image:AlbatDIII.jpg (German Albatros D.III biplane fighters of Jas",
         "konu": "I.Dünya Savaşı"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1920-finlandiya-ve-sovyet-rusya-bazi-bolgeleri-degistirerek",
@@ -228,8 +228,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1925-turkiyede-ilk-betonarme-kopru-buyuk-menderes-nehri",
@@ -241,7 +241,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Maiandros.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Maiandros.jpg",
@@ -254,7 +253,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Maiandros.jpg",
         "aciklama": "Blick auf die Mäander-Ebene",
         "konu": "Büyük Menderes"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1926-turk-kanunu-medenisine-gore-ilk-medeni-nikah",
@@ -269,7 +269,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anavatan_1927.jpg/960px-Anavatan_1927.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anavatan_1927.jpg/500px-Anavatan_1927.jpg",
@@ -323,7 +322,8 @@
           "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
           "konu": "İstanbul"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1933-almanya-cenevre-silahsizlanma-konferansindan-ve-milletler-cemiyetinden",
@@ -337,8 +337,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1940-ii-dunya-savasi-the-blitz-adi-verilen",
@@ -354,7 +354,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
@@ -408,7 +407,8 @@
           "aciklama": "500px provided description: London Skyline [#sunset ,#architecture ,#cityscape ,#london ,#uk ,#skyline ,#financial district ,#thames ,#london bridge ,#london shard]",
           "konu": "Londra"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1944-generalfeldmarschall-erwin-rommel-oldu",
@@ -421,7 +421,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bundesarchiv_Bild_146-1973-012-43%2C_Erwin_Rommel.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bundesarchiv_Bild_146-1973-012-43%2C_Erwin_Rommel.jpg",
@@ -434,7 +433,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1973-012-43,_Erwin_Rommel.jpg",
         "aciklama": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Generalfeldmarschall Rommel",
         "konu": "Erwin Rommel"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1944-ii-dunya-savasi-britanya-ordusu-atinaya-girdi",
@@ -448,7 +448,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/La_fa%C3%A7ade_du_Zapp%C3%A9ion_%28Ath%C3%A8nes%29_%2830177808993%29.jpg/960px-La_fa%C3%A7ade_du_Zapp%C3%A9ion_%28Ath%C3%A8nes%29_%2830177808993%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/La_fa%C3%A7ade_du_Zapp%C3%A9ion_%28Ath%C3%A8nes%29_%2830177808993%29.jpg/500px-La_fa%C3%A7ade_du_Zapp%C3%A9ion_%28Ath%C3%A8nes%29_%2830177808993%29.jpg",
@@ -461,7 +460,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:La_fa%C3%A7ade_du_Zapp%C3%A9ion_(Ath%C3%A8nes)_(30177808993).jpg",
         "aciklama": "Le Zappéion est un édifice conçu par l'architecte danois Theophil Hansen et construit entre 1874 et 1888. Il est situé dans le jardin national à proximité du Parlement et de la présidence de la Républ",
         "konu": "Atina"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1947-amerikali-test-pilotu-chuck-yeager-ses-duvarini",
@@ -475,7 +475,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/ChuckYeager.jpg/960px-ChuckYeager.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/ChuckYeager.jpg/500px-ChuckYeager.jpg",
@@ -516,7 +515,8 @@
           "aciklama": "Off the coast of Pusan, South Korea: An F/A-18C Hornet assigned to Strike Fighter Squadron One Five One (VFA-151) breaks the sound barrier in the skies over the Pacific Ocean. VFA-151 is deployed aboa",
           "konu": "ses duvarı"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1950-koreye-turk-askeri-birligi-ulasti",
@@ -528,8 +528,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1956-hindistanda-dokunulmazlar-kastinin-lideri-bhimrao-ramji-ambedkar",
@@ -543,7 +543,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Dr._Bhimrao_Ambedkar.jpg/960px-Dr._Bhimrao_Ambedkar.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Dr._Bhimrao_Ambedkar.jpg/500px-Dr._Bhimrao_Ambedkar.jpg",
@@ -556,7 +555,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Dr._Bhimrao_Ambedkar.jpg",
         "aciklama": "B.R. Ambedkar, Former Minister of Law and Justice of the Republic of India",
         "konu": "Bhimrao Ramji Ambedkar"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1958-abd-nevadada-bir-yeralti-nukleer-deneme-yapti",
@@ -569,8 +569,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1960-yassiada-yargilamalari-basladi-ilk-dava-afgan-kralinin",
@@ -583,7 +583,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Celal_Bayar_%28Cropped%29.jpg/960px-Celal_Bayar_%28Cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Celal_Bayar_%28Cropped%29.jpg/500px-Celal_Bayar_%28Cropped%29.jpg",
@@ -596,7 +595,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Celal_Bayar_(Cropped).jpg",
         "aciklama": "Mahmut Celalettin Bayar (1883–1986) was a former Member of Turkish Parliament (TBMM) and the 3’rd President of the Republic of Turkey",
         "konu": "Celâl Bayar"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1964-martin-luther-king-siddetsizlik-yoluyla-irksal-esitsizlikle",
@@ -609,7 +609,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/960px-Martin_Luther_King%2C_Jr..jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/500px-Martin_Luther_King%2C_Jr..jpg",
@@ -650,7 +649,8 @@
           "aciklama": "1933 Nobel Peace Prize awarded to Norman Angell on exhibit to the public at the Imperial War Museum, London, England",
           "konu": "Nobel Barış Ödülü"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1964-sovyetler-birligi-lideri-nikita-kruscev-karadeniz-kiyisinda",
@@ -666,7 +666,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Nikita_Khrusjtsjov.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Nikita_Khrusjtsjov.jpg",
@@ -720,7 +719,8 @@
           "aciklama": "Collectie / Archief : Fotocollectie Anefo Reportage / Serie : Leonid Brezjnev, leider van de Sovjet-Unie Beschrijving : staatshoofden, portretten Datum : 9 juni 1972 Locatie : Sovjet-Unie Trefwoorden ",
           "konu": "Leonid Brejnev"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1964-tokyodaki-olimpiyat-oyunlarinda-turk-serbest-gures-milli",
@@ -733,7 +733,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/960px-Skyscrapers_of_Shinjuku_2009_January.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/500px-Skyscrapers_of_Shinjuku_2009_January.jpg",
@@ -746,7 +745,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Skyscrapers_of_Shinjuku_2009_January.jpg",
         "aciklama": "View of Shinjuku skyscrapers and Mount Fuji as seen from the Bunkyo Civic Center in Tokyo",
         "konu": "Tokyo"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1968-amerikali-astronotlarin-yorungedeki-ilk-canli-tv-yayini",
@@ -759,7 +759,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg/960px-Bruce_McCandless_II_during_EVA_in_1984.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg/500px-Bruce_McCandless_II_during_EVA_in_1984.jpg",
@@ -800,7 +799,8 @@
           "aciklama": "Astronauts Walter M. Schirra Jr. (on right), mission commander; and Donn F. Eisele, command module pilot; are seen in the first live television transmission from space. Schirra is holding a sign which",
           "konu": "Apollo 7"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1968-amerikali-jim-hines-meksikoda-duzenlenen-olimpiyat-oyunlarinda",
@@ -815,7 +815,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Jim_Hines_1968.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Jim_Hines_1968.jpg",
@@ -856,7 +855,8 @@
           "aciklama": "Fotografías de la Ciudad de México desde el aire.",
           "konu": "Meksiko"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1968-avustralyanin-meckering-kentinde-6-8-siddetinde-bir",
@@ -870,7 +870,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
@@ -883,7 +882,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Quake_epicenters_1963-98_notitle.png",
         "aciklama": "Quake epicenters: Preliminary Determination of Epicenters, 358,214 Events, 1963 - 1998",
         "konu": "deprem"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1969-olof-palme-isvec-basbakani-oldu",
@@ -896,8 +896,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1973-genel-secimler-sonuclandi-cumhuriyet-halk-partisi-185",
@@ -913,7 +913,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1973_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png/960px-1973_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1973_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png/500px-1973_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png",
@@ -926,7 +925,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:1973_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png",
         "aciklama": "1973 Turkish general election",
         "konu": "1973 Türkiye genel seçimleri"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1973-kutsal-yom-kippur-gununde-misir-ve-suriye",
@@ -941,7 +941,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Maurycy_Gottlieb_-_Jews_Praying_in_the_Synagogue_on_Yom_Kippur.jpg/960px-Maurycy_Gottlieb_-_Jews_Praying_in_the_Synagogue_on_Yom_Kippur.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Maurycy_Gottlieb_-_Jews_Praying_in_the_Synagogue_on_Yom_Kippur.jpg/500px-Maurycy_Gottlieb_-_Jews_Praying_in_the_Synagogue_on_Yom_Kippur.jpg",
@@ -954,7 +953,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Maurycy_Gottlieb_-_Jews_Praying_in_the_Synagogue_on_Yom_Kippur.jpg",
         "aciklama": null,
         "konu": "Yom Kippur"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1973-taylandda-universite-ogrencilerinin-demokratik-bir-hukumet-icin",
@@ -967,8 +967,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1980-diyarbakira-kacirilan-turk-hava-yollarina-ait-diyarbakir",
@@ -982,7 +982,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Diyarbak%C4%B1r_Surlar%C4%B1%2C_Diyarbak%C4%B1r_Turkey.jpg/960px-Diyarbak%C4%B1r_Surlar%C4%B1%2C_Diyarbak%C4%B1r_Turkey.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Diyarbak%C4%B1r_Surlar%C4%B1%2C_Diyarbak%C4%B1r_Turkey.jpg/500px-Diyarbak%C4%B1r_Surlar%C4%B1%2C_Diyarbak%C4%B1r_Turkey.jpg",
@@ -1036,7 +1035,8 @@
           "aciklama": "Hijacked LOT Antonov An-24B",
           "konu": "hava korsanı"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1981-husnu-mubarek-enver-sedatin-suikast-sonucu-oldurulmesinin",
@@ -1050,7 +1050,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Anwar_Sadat_cropped.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Anwar_Sadat_cropped.jpg",
@@ -1063,7 +1062,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Anwar_Sadat_cropped.jpg",
         "aciklama": "President Anwar Sadat of Egypt upon his arrival in the United States for a visit. Photograph taken at Andrews Air Force Base.",
         "konu": "Enver Sedat"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1982-yasar-kemal-fransada-uluslararasi-cino-del-duca",
@@ -1076,7 +1076,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Y%C4%B1lmaz_B%C3%BCy%C3%BCker%C5%9Fen_wax_Museum_%28Ya%C5%9Far_Kemal%29.jpg/960px-Y%C4%B1lmaz_B%C3%BCy%C3%BCker%C5%9Fen_wax_Museum_%28Ya%C5%9Far_Kemal%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Y%C4%B1lmaz_B%C3%BCy%C3%BCker%C5%9Fen_wax_Museum_%28Ya%C5%9Far_Kemal%29.jpg/500px-Y%C4%B1lmaz_B%C3%BCy%C3%BCker%C5%9Fen_wax_Museum_%28Ya%C5%9Far_Kemal%29.jpg",
@@ -1089,7 +1088,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Y%C4%B1lmaz_B%C3%BCy%C3%BCker%C5%9Fen_wax_Museum_(Ya%C5%9Far_Kemal).jpg",
         "aciklama": "Yılmaz Büyükerşen wax Museum, Eskişehir (Yaşar Kemal)",
         "konu": "Yaşar Kemal"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1987-ataturk-uluslararasi-baris-odulu-almanya-cumhurbaskani-richard",
@@ -1103,7 +1103,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Atat%C3%BCrk_Uluslararas%C4%B1_Bar%C4%B1%C5%9F_%C3%96d%C3%BCl%C3%BC_Sahiplerinin_%C3%9Clkelere_G%C3%B6re_Da%C4%9F%C4%B1l%C4%B1m%C4%B1.-_Distribution_of_Atat%C3%BCrk_International_Peace_Prize_Winners_by_Country.png/960px-Atat%C3%BCrk_Uluslararas%C4%B1_Bar%C4%B1%C5%9F_%C3%96d%C3%BCl%C3%BC_Sahiplerinin_%C3%9Clkelere_G%C3%B6re_Da%C4%9F%C4%B1l%C4%B1m%C4%B1.-_Distribution_of_Atat%C3%BCrk_International_Peace_Prize_Winners_by_Country.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Atat%C3%BCrk_Uluslararas%C4%B1_Bar%C4%B1%C5%9F_%C3%96d%C3%BCl%C3%BC_Sahiplerinin_%C3%9Clkelere_G%C3%B6re_Da%C4%9F%C4%B1l%C4%B1m%C4%B1.-_Distribution_of_Atat%C3%BCrk_International_Peace_Prize_Winners_by_Country.png/500px-Atat%C3%BCrk_Uluslararas%C4%B1_Bar%C4%B1%C5%9F_%C3%96d%C3%BCl%C3%BC_Sahiplerinin_%C3%9Clkelere_G%C3%B6re_Da%C4%9F%C4%B1l%C4%B1m%C4%B1.-_Distribution_of_Atat%C3%BCrk_International_Peace_Prize_Winners_by_Country.png",
@@ -1144,7 +1143,8 @@
           "aciklama": null,
           "konu": "Richard von Weizsaecker"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1987-yerli-uretim-ilk-f-16-savas-ucagi-sener",
@@ -1158,7 +1158,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/960px-F-16_June_2008.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/500px-F-16_June_2008.jpg",
@@ -1199,7 +1198,8 @@
           "aciklama": "This is a Turkish Air Force document",
           "konu": "Hava Kuvvetleri Komutanlığı"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1991-birmanya-muhalefet-lideri-aung-san-suu-kyi",
@@ -1212,7 +1212,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Aung_San_Suu_Kyi_at_the_Enthronement_of_Naruhito_%281%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Aung_San_Suu_Kyi_at_the_Enthronement_of_Naruhito_%281%29.jpg",
@@ -1253,7 +1252,8 @@
           "aciklama": "1933 Nobel Peace Prize awarded to Norman Angell on exhibit to the public at the Imperial War Museum, London, England",
           "konu": "Nobel Barış Ödülü"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1994-yaser-arafat-izak-rabin-ve-simon-perez",
@@ -1269,7 +1269,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg/960px-Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg/500px-Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg",
@@ -1323,7 +1322,8 @@
           "aciklama": "Peres' presidential portrait, in 2010.",
           "konu": "Şimon Perez"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "2003-chicagoda-oynanan-amerika-ulusal-beyzbol-ligi-macinda",
@@ -1338,7 +1338,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_River_ferry_b.jpg/960px-Chicago_River_ferry_b.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_River_ferry_b.jpg/500px-Chicago_River_ferry_b.jpg",
@@ -1379,7 +1378,8 @@
           "aciklama": "Steve Bartman seat, aisle 4, row 4, seat 113. In 2007, fans continue to flock to see and photograph this famous location.",
           "konu": "Steve Bartman Olayı"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "2012-felix-baumgartner-stratosferdeki-bir-balondan-dunyaya-basariyla",
@@ -1393,7 +1393,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Felix_Baumgartner_Internationale_Sportnacht_Davos_2014_%283x4_cropped%29.jpg/960px-Felix_Baumgartner_Internationale_Sportnacht_Davos_2014_%283x4_cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Felix_Baumgartner_Internationale_Sportnacht_Davos_2014_%283x4_cropped%29.jpg/500px-Felix_Baumgartner_Internationale_Sportnacht_Davos_2014_%283x4_cropped%29.jpg",
@@ -1434,7 +1433,8 @@
           "aciklama": "Hot-air baloons",
           "konu": "Balon (hava taşıtı)"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "2017-somalinin-baskenti-mogadisuda-toplu-tasima-araclarinin-kullandigi",
@@ -1449,7 +1449,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Mogacapital.jpg/960px-Mogacapital.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Mogacapital.jpg/500px-Mogacapital.jpg",
@@ -1503,7 +1502,8 @@
           "aciklama": "The African Union Mission in Somalia's Ugandan Contingent Commander, Brigadier General Kayanja Muhanga, visits the site of a VBIED attack conducted by the militant group al Shabaab in the Somali capit",
           "konu": "2017 Mogadişu saldırısı"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "2022-bartinin-amasra-ilcesinde-bir-madende-patlama-meydana",
@@ -1516,7 +1516,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Bartin_SehirMerkezi.jpg/960px-Bartin_SehirMerkezi.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Bartin_SehirMerkezi.jpg/500px-Bartin_SehirMerkezi.jpg",
@@ -1557,7 +1556,8 @@
           "aciklama": "Castle in Amasra, Turkey. Image taken from the island.",
           "konu": "Amasra"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -2129,7 +2129,7 @@
     "url": "https://tr.wikipedia.org/wiki/14_Ekim",
     "revid": 38256407
   },
-  "guncelleme": "2026-10-21T11:21:50.110Z",
+  "guncelleme": "2026-10-21T21:27:01.199Z",
   "haberler": [
     {
       "id": "2025-haber-2443462",

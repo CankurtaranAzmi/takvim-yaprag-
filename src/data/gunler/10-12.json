@@ -14,7 +14,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Cyrus_II_%28The_Great%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Cyrus_II_%28The_Great%29.jpg",
@@ -27,7 +26,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Cyrus_II_(The_Great).jpg",
         "aciklama": "Winged genius relief in Pasargadae",
         "konu": "II. Kiros"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1492-amerikanin-kesfi-kristof-kolomb-karayiplere-ulasti-fakat",
@@ -42,7 +42,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/960px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/500px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
@@ -83,7 +82,8 @@
           "aciklama": "East Indies Indies (Indian subcontinent and Myanmar) Western New Guinea West Indies Countries sometimes included in West Indies",
           "konu": "Doğu Hint Adaları"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1596-macaristandaki-egri-kalesi-osmanlilarin-eline-gecti",
@@ -97,7 +97,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/IMG_0368_-_Hungary%2C_Eger_-_Castle.JPG/960px-IMG_0368_-_Hungary%2C_Eger_-_Castle.JPG",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/IMG_0368_-_Hungary%2C_Eger_-_Castle.JPG/500px-IMG_0368_-_Hungary%2C_Eger_-_Castle.JPG",
@@ -110,7 +109,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:IMG_0368_-_Hungary,_Eger_-_Castle.JPG",
         "aciklama": "Castle, Eger, Hungary",
         "konu": "Eğri Kalesi"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1654-hollandanin-delft-kentinde-bir-barut-deposu-infilak",
@@ -124,7 +124,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Delft_Blick_von_der_Nieuwe_Kerk_auf_die_Oude_Kerk_1.jpg/960px-Delft_Blick_von_der_Nieuwe_Kerk_auf_die_Oude_Kerk_1.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Delft_Blick_von_der_Nieuwe_Kerk_auf_die_Oude_Kerk_1.jpg/500px-Delft_Blick_von_der_Nieuwe_Kerk_auf_die_Oude_Kerk_1.jpg",
@@ -165,7 +164,8 @@
           "aciklama": "A pile of Pyrodex black powder substitute in FFG size grains.",
           "konu": "barut"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1692-salem-cadi-mahkemeleri-massachusetts-valisi-william-phipsin",
@@ -178,7 +178,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/SalemWitchcraftTrial.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/SalemWitchcraftTrial.jpg",
@@ -191,7 +190,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:SalemWitchcraftTrial.jpg",
         "aciklama": "Pioneers in the Settlement of America",
         "konu": "Salem cadı mahkemeleri"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1822-i-pedro-kendini-brezilya-imparatoru-olarak-ilan",
@@ -204,7 +204,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/DpedroI-brasil-full.jpg/960px-DpedroI-brasil-full.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/DpedroI-brasil-full.jpg/500px-DpedroI-brasil-full.jpg",
@@ -245,7 +244,8 @@
           "aciklama": "Flag of the Second Empire of Brazil, with 20 stars, representing the new provincies of Rio Negro (1850, later Amazonas) and Paraná (1853), furthermore the loss of the province of Cisplatina (1828). Re",
           "konu": "Brezilya İmparatorluğu"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1847-alman-sanayici-werner-von-siemens-siemens-ag",
@@ -259,8 +259,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1856-giritte-7-7-mw-8239-ile-8",
@@ -273,7 +273,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Island_of_Crete%2C_Greece.JPG/960px-Island_of_Crete%2C_Greece.JPG",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Island_of_Crete%2C_Greece.JPG/500px-Island_of_Crete%2C_Greece.JPG",
@@ -286,7 +285,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Island_of_Crete,_Greece.JPG",
         "aciklama": "The western and central parts of Crete appear surrounded by quicksilver in this astronaut photograph taken from the International Space Station. This phenomenon is known as sunglint, caused by light r",
         "konu": "Girit"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1917-i-dunya-savasi-belcikanin-ypres-sehri-yakininda",
@@ -302,7 +302,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
@@ -356,7 +355,8 @@
           "aciklama": "Soldiers of an Australian 4th Division field artillery brigade on a duckboard track passing through Chateau Wood, near Hooge in the Ypres salient, 29 October 1917. The leading soldier is Gunner James ",
           "konu": "Passchendaele Muharebesi"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1925-mustafa-kemal-izmirde-manevralari-izledikten-sonra-ordunun",
@@ -370,7 +370,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -411,7 +410,8 @@
           "aciklama": "İzmir Clock Tower in Turkey.",
           "konu": "İzmir"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1928-suni-solunum-cihazi-ilk-kez-bostondaki-bir",
@@ -424,7 +424,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/ISH_WC_Boston4.jpg/960px-ISH_WC_Boston4.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/ISH_WC_Boston4.jpg/500px-ISH_WC_Boston4.jpg",
@@ -437,7 +436,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:ISH_WC_Boston4.jpg",
         "aciklama": "Boston, Beacon Hill",
         "konu": "Boston"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1937-seyit-rizanin-yargilanmasina-baslandi",
@@ -449,7 +449,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sey_Riza.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sey_Riza.jpg",
@@ -462,7 +461,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Sey_Riza.jpg",
         "aciklama": "Seyid Riza (Zazaki: Sey Riza) was the political leader of Dersim, a religious figure and the leader of the Dersim rebellion.",
         "konu": "Seyit Rıza"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1944-ii-dunya-savasi-atinadaki-alman-isgali-sona",
@@ -476,7 +476,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
@@ -517,7 +516,8 @@
           "aciklama": "Le Zappéion est un édifice conçu par l'architecte danois Theophil Hansen et construit entre 1874 et 1888. Il est situé dans le jardin national à proximité du Parlement et de la présidence de la Républ",
           "konu": "Atina"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1953-pancar-kooperatifleri-bankasi-sekerbank-eskisehirde-kuruldu",
@@ -530,7 +530,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Sekerbank.jpg/960px-Sekerbank.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Sekerbank.jpg/500px-Sekerbank.jpg",
@@ -571,7 +570,8 @@
           "aciklama": "Sazova Park in Eskişehir, Turkey.",
           "konu": "Eskişehir"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1958-basbakan-adnan-menderes-yurttaslardan-vatan-cephesi-kurmalarini",
@@ -584,7 +584,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Adnan_Menderes_VI._Yasama_D%C3%B6nemi_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Adnan_Menderes_VI._Yasama_D%C3%B6nemi_%28cropped%29.jpg",
@@ -597,7 +596,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Adnan_Menderes_VI._Yasama_D%C3%B6nemi_(cropped).jpg",
         "aciklama": "Adnan Menderes'in TBMM Albümü'ndeki fotoğrafı.",
         "konu": "Adnan Menderes"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1960-japonya-sosyal-demokrat-partisi-lideri-inejiro-asanuma",
@@ -610,8 +610,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1962-abdnin-kuzey-batisinda-kasirga-46-kisi-oldu",
@@ -623,7 +623,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg/960px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg/500px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg",
@@ -636,7 +635,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210).jpg",
         "aciklama": "iss056e162175 (Sept. 12, 2018) --- Cameras outside the International Space Station captured a stark and sobering view of Hurricane Florence the morning of Sept. 12 as it churned across the Atlantic in",
         "konu": "kasırga"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1968-19-yaz-olimpiyat-oyunlari-meksikoda-basladi",
@@ -649,7 +649,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/960px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/500px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg",
@@ -662,7 +661,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Sobrevuelos_CDMX_HJ2A4913_(25514321687)_(cropped).jpg",
         "aciklama": "Fotografías de la Ciudad de México desde el aire.",
         "konu": "Meksiko"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1968-ekvator-ginesi-ispanyadan-bagimsizligini-kazandi",
@@ -675,8 +675,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1969-genel-secimler-yapildi-adalet-partisi-256-milletvekiliyle",
@@ -692,7 +692,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/1969_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png/960px-1969_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/1969_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png/500px-1969_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png",
@@ -705,7 +704,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:1969_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png",
         "aciklama": "1969 Turkish general election",
         "konu": "1969 Türkiye genel seçimleri"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1974-izmirde-belediyeye-bagli-is-yerlerinde-baslatilan-grevin",
@@ -718,7 +718,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/960px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/500px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
@@ -759,7 +758,8 @@
           "aciklama": "Çöp yığını",
           "konu": "çöp"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1975-54-senator-ve-6-milletvekilligi-icin-yapilan",
@@ -775,8 +775,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1975-bursadaki-tofas-otomobil-fabrikasinda-100-000-murat",
@@ -790,7 +790,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Teleferik%2C_Uluda%C4%9F.jpg/960px-Teleferik%2C_Uluda%C4%9F.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Teleferik%2C_Uluda%C4%9F.jpg/500px-Teleferik%2C_Uluda%C4%9F.jpg",
@@ -844,7 +843,8 @@
           "aciklama": "1976 Tofaş Murat 124, on display in the Rahmi M. Koç Museum of Transportation. The 124, later renamed the Serçe (\"sparrow\"), was built by Tofaş from 1971 until 1994.",
           "konu": "Murat 124"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1980-devlet-baskani-orgeneral-kenan-evren-vehbi-kocu",
@@ -857,8 +857,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1980-11-genel-nufus-sayimi-yapildi-sokaga-cikma",
@@ -870,8 +870,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1983-japonyanin-eski-basbakanlarindan-kakuei-tanaka-lockheed-sirketinden",
@@ -885,7 +885,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lockheed_SR-71_Blackbird.jpg/960px-Lockheed_SR-71_Blackbird.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lockheed_SR-71_Blackbird.jpg/500px-Lockheed_SR-71_Blackbird.jpg",
@@ -898,7 +897,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Lockheed_SR-71_Blackbird.jpg",
         "aciklama": "The SR-71B Blackbird, flown by the Dryden Flight Research Center as NASA 831, slices across the snow-covered southern Sierra Nevada Mountains of California after being refueled by an Air Force tanker ",
         "konu": "Lockheed"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1984-ira-margaret-thatcherin-kaldigi-otele-bomba-atti",
@@ -911,7 +911,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg",
@@ -924,7 +923,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Margaret_Thatcher_stock_portrait_(cropped).jpg",
         "aciklama": "Portrait of Margaret Thatcher (1925–2013)",
         "konu": "Margaret Thatcher"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1991-sovyetler-birligi-devlet-baskani-gorbacov-ile-diger",
@@ -938,7 +938,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
@@ -951,7 +950,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_(crop).jpg",
         "aciklama": "“General Secretary of the CPSU CC M. Gorbachev”. General Secretary of the CPSU Central Committee Mikhail Gorbachev speaking at the 20th Congress of the VLKSM. Kremlin Palace of Congresses.",
         "konu": "Gorbaçov"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1999-pervez-muserref-pakistanda-kansiz-bir-darbe-ile",
@@ -964,7 +964,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Pervez_Musharraf_2004.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Pervez_Musharraf_2004.jpg",
@@ -977,7 +976,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Pervez_Musharraf_2004.jpg",
         "aciklama": "Pakistan president Pervez Musharraf.",
         "konu": "Pervez Müşerref"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2000-yemenin-aden-limaninda-bir-abd-destroyerinde-meydana",
@@ -991,7 +991,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Old_Town_Aden_Yemen.jpg/960px-Old_Town_Aden_Yemen.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Old_Town_Aden_Yemen.jpg/500px-Old_Town_Aden_Yemen.jpg",
@@ -1032,7 +1031,8 @@
           "aciklama": "Philippine Sea (Jun. 15, 2003) -- Aerial view of the guided missile destroyer USS Lassen (DDG 82) part of USS Carl Vinson (CVN 70) Carrier Strike Group. The Carl Vinson Carrier Strike Group will remai",
           "konu": "destroyer"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "2002-birlesmis-milletler-tarafindan-12-ekim-gunu-uluslararasi",
@@ -1045,8 +1045,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2002-endonezyanin-turistik-adasi-balide-kalabalik-bir-gece",
@@ -1059,7 +1059,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pura_Ulun_Danu_Bratan%2C_2022.jpg/960px-Pura_Ulun_Danu_Bratan%2C_2022.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pura_Ulun_Danu_Bratan%2C_2022.jpg/500px-Pura_Ulun_Danu_Bratan%2C_2022.jpg",
@@ -1072,7 +1071,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Pura_Ulun_Danu_Bratan,_2022.jpg",
         "aciklama": "Bratan, Bali, Indonesia: Pura Ulun Danu Bratan, a balinese hindu temple.",
         "konu": "Bali"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2003-belarustaki-bir-akil-hastanesi-yangininda-30-hasta",
@@ -1084,8 +1084,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2004-anadolu-federe-islam-devleti-isimli-yasa-disi",
@@ -1101,8 +1101,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2005-cinin-ikinci-insanli-uzay-araci-olan-shenzhou",
@@ -1114,8 +1114,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2006-fransada-sosyalist-partinin-sundugu-ve-ermeni-soykiriminin",
@@ -1130,8 +1130,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2006-israil-lubnan-savasinda-bm-baris-gucu-kapsaminda-gorev",
@@ -1146,7 +1146,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Tyre_air_strike.jpg/960px-Tyre_air_strike.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Tyre_air_strike.jpg/500px-Tyre_air_strike.jpg",
@@ -1159,7 +1158,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Tyre_air_strike.jpg",
         "aciklama": "Dust rises after the impact of two 500lb (230kg) laser guided bombs dropped during an IAF airstrike on Tyre, Lebanon.",
         "konu": "2006 İsrail-Lübnan Krizi"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2006-nobel-edebiyat-odulu-yazar-orhan-pamuka-verildi",
@@ -1172,7 +1172,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Nobel2008Literature_news_conference1.jpg/960px-Nobel2008Literature_news_conference1.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Nobel2008Literature_news_conference1.jpg/500px-Nobel2008Literature_news_conference1.jpg",
@@ -1213,7 +1212,8 @@
           "aciklama": "Nobel laureate and Turkish best-selling novelist Orhan Pamuk discussing his new book The Innocence Museum at Barnes & Noble Union Square, New York City.",
           "konu": "Orhan Pamuk"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -1798,7 +1798,7 @@
     "url": "https://tr.wikipedia.org/wiki/12_Ekim",
     "revid": 36437617
   },
-  "guncelleme": "2026-10-21T11:21:47.988Z",
+  "guncelleme": "2026-10-21T21:27:00.445Z",
   "haberler": [
     {
       "id": "2025-haber-2442986",

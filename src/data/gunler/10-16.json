@@ -13,7 +13,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/960px-EmperorSuleiman.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/500px-EmperorSuleiman.jpg",
@@ -54,7 +53,8 @@
           "aciklama": "Siege Of Buda By Suleyman",
           "konu": "I. Viyana Kuşatması"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1730-sadrazam-nevsehirli-ibrahim-pasa-patrona-halil-isyanini",
@@ -68,7 +68,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/De_grootvizier_Nev%C5%9Fehirli_Damat_%C4%ACbrahim_Pasa_Rijksmuseum_SK-A-2017.jpeg/960px-De_grootvizier_Nev%C5%9Fehirli_Damat_%C4%ACbrahim_Pasa_Rijksmuseum_SK-A-2017.jpeg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/De_grootvizier_Nev%C5%9Fehirli_Damat_%C4%ACbrahim_Pasa_Rijksmuseum_SK-A-2017.jpeg/500px-De_grootvizier_Nev%C5%9Fehirli_Damat_%C4%ACbrahim_Pasa_Rijksmuseum_SK-A-2017.jpeg",
@@ -122,7 +121,8 @@
           "aciklama": "Portrait of Sultan Ahmed III (1673–1736), three-quarter-length, standing, with a view onto the Bosphorus and the Hagia Sophia by Jean-Baptiste Vanmour",
           "konu": "III. Ahmed"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1793-fransiz-devriminde-vatan-hainligi-ile-suclanan-marie",
@@ -135,7 +135,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Prise_de_la_Bastille.jpg/960px-Prise_de_la_Bastille.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Prise_de_la_Bastille.jpg/500px-Prise_de_la_Bastille.jpg",
@@ -176,7 +175,8 @@
           "aciklama": null,
           "konu": "Marie Antoinette"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1889-ingilterenin-futbol-kulubu-olan-brentford-fc-kuruldu",
@@ -189,8 +189,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1916-margaret-sanger-ilk-dogum-kontrol-klinigini-new",
@@ -202,7 +202,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Margaret_Sanger_talks_about_birth_control%2C_Los_Angeles%2C_1936.jpg/960px-Margaret_Sanger_talks_about_birth_control%2C_Los_Angeles%2C_1936.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Margaret_Sanger_talks_about_birth_control%2C_Los_Angeles%2C_1936.jpg/500px-Margaret_Sanger_talks_about_birth_control%2C_Los_Angeles%2C_1936.jpg",
@@ -215,7 +214,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Margaret_Sanger_talks_about_birth_control,_Los_Angeles,_1936.jpg",
         "aciklama": "Black and white nitrate negative of Margaret Sanger. Photograph appears with the article, \"Birth Curb Friend Here,\" Los Angeles Times, 03 Apr 1936: A1. Text from newspaper caption (not neccessarily ac",
         "konu": "Margaret Sanger"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1924-topkapi-sarayi-muze-olarak-ziyarete-acildi",
@@ -227,7 +227,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Topkap%C4%B1_-_01.jpg/960px-Topkap%C4%B1_-_01.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Topkap%C4%B1_-_01.jpg/500px-Topkap%C4%B1_-_01.jpg",
@@ -240,7 +239,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Topkap%C4%B1_-_01.jpg",
         "aciklama": "Topkapı Palace, Istanbul, Turkey.",
         "konu": "Topkapı Sarayı"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1940-varsova-gettosu-nazi-ss-birlikleri-tarafindan-kuruldu",
@@ -254,7 +254,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bundesarchiv_N_1576_Bild-003%2C_Warschau%2C_Bettelnde_Kinder.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bundesarchiv_N_1576_Bild-003%2C_Warschau%2C_Bettelnde_Kinder.jpg",
@@ -267,7 +266,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_N_1576_Bild-003,_Warschau,_Bettelnde_Kinder.jpg",
         "aciklama": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Warschau",
         "konu": "Varşova Gettosu"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1945-tarihe-ankara-cinayeti-olarak-gecen-ust-duzey",
@@ -279,8 +279,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1949-yunan-ic-savasi-sona-erdi",
@@ -292,7 +292,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%CE%91%CE%BD%CF%84%CE%AC%CF%81%CF%84%CE%B5%CF%82_%CF%84%CE%BF%CF%85_%CE%95%CE%91%CE%9C-%CE%95%CE%9B%CE%91%CE%A3.jpg/960px-%CE%91%CE%BD%CF%84%CE%AC%CF%81%CF%84%CE%B5%CF%82_%CF%84%CE%BF%CF%85_%CE%95%CE%91%CE%9C-%CE%95%CE%9B%CE%91%CE%A3.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%CE%91%CE%BD%CF%84%CE%AC%CF%81%CF%84%CE%B5%CF%82_%CF%84%CE%BF%CF%85_%CE%95%CE%91%CE%9C-%CE%95%CE%9B%CE%91%CE%A3.jpg/500px-%CE%91%CE%BD%CF%84%CE%AC%CF%81%CF%84%CE%B5%CF%82_%CF%84%CE%BF%CF%85_%CE%95%CE%91%CE%9C-%CE%95%CE%9B%CE%91%CE%A3.jpg",
@@ -305,7 +304,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:%CE%91%CE%BD%CF%84%CE%AC%CF%81%CF%84%CE%B5%CF%82_%CF%84%CE%BF%CF%85_%CE%95%CE%91%CE%9C-%CE%95%CE%9B%CE%91%CE%A3.jpg",
         "aciklama": "Ανταρτοεπονίτες της υποδειγματικής ομάδας-διμοιρίας της ΙΙας Μεραρχίας του ΕΛΑΣ. Πάρνηθα. Δεύτερος από δεξιά ο Σαλβατώρ Μπακόλας, τελευταίος ο Γιώργος Δούσης. () Εκδήλωση και έκθεση στο ΥΠΕΞ για τα 70",
         "konu": "Yunan İç Savaşı"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1951-pakistanin-ilk-basbakani-liyakat-ali-han-ravalpindide",
@@ -319,7 +319,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Rawalpindi_railway_station_4.JPG/960px-Rawalpindi_railway_station_4.JPG",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Rawalpindi_railway_station_4.JPG/500px-Rawalpindi_railway_station_4.JPG",
@@ -332,7 +331,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Rawalpindi_railway_station_4.JPG",
         "aciklama": "This is a photo of a monument in Pakistan identified as the",
         "konu": "Ravalpindi"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1964-cin-ilk-atom-bombasini-patlatarak-dunyanin-4",
@@ -346,7 +346,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Little_Boy_bomb.jpg/960px-Little_Boy_bomb.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Little_Boy_bomb.jpg/500px-Little_Boy_bomb.jpg",
@@ -359,7 +358,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Little_Boy_bomb.jpg",
         "aciklama": "Photograph of a Little Boy nuclear bomb, the same type of weapon dropped on Hiroshima, Japan, in August 1945. This was the first photograph of a Little Boy bomb casing to ever be released by the U.S. ",
         "konu": "atom bombası"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1978-polonyali-kardinal-karol-wojtla-ii-jean-paul",
@@ -374,7 +374,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
@@ -387,7 +386,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_(cropped).jpg",
         "aciklama": "ADAMELLO - PAPA - Giovanni Paolo II -Papa Giovanni Paolo II celebra la Santa Messa davanti all'altare costruito sulle cime dell' Adamello, il 16 luglio 1988",
         "konu": "II. Ioannes Paulus"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1981-12-eylul-darbesi-milli-guvenlik-konseyi-tarafindan",
@@ -399,8 +399,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1986-nobel-edebiyat-odulunu-nijeryali-yazar-wole-soyinka",
@@ -413,7 +413,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Nobel2008Literature_news_conference1.jpg/960px-Nobel2008Literature_news_conference1.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Nobel2008Literature_news_conference1.jpg/500px-Nobel2008Literature_news_conference1.jpg",
@@ -454,7 +453,8 @@
           "aciklama": "1986 Nobel Prize winner in Literature Wole Soyinka during a lecture at Stockholm Public Library on October 4, 2018.",
           "konu": "Wole Soyinka"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1990-sovyetler-birligi-baskani-gorbacov-serbest-piyasa-ekonomisine",
@@ -468,7 +468,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
@@ -481,7 +480,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_(crop).jpg",
         "aciklama": "“General Secretary of the CPSU CC M. Gorbachev”. General Secretary of the CPSU Central Committee Mikhail Gorbachev speaking at the 20th Congress of the VLKSM. Kremlin Palace of Congresses.",
         "konu": "Mihail Gorbaçov"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1992-turk-silahli-kuvvetleri-irakin-kuzeyindeki-haftanin-bolgesinde",
@@ -495,8 +495,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1995-garry-kasparov-bir-ay-suren-satranc-turnuvasinda",
@@ -509,7 +509,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Viswanathan_Anand_%282016%29_%28cropped%29.jpeg/960px-Viswanathan_Anand_%282016%29_%28cropped%29.jpeg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Viswanathan_Anand_%282016%29_%28cropped%29.jpeg/500px-Viswanathan_Anand_%282016%29_%28cropped%29.jpeg",
@@ -522,7 +521,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Viswanathan_Anand_(2016)_(cropped).jpeg",
         "aciklama": "Viswanathan Anand 2016",
         "konu": "Viswanathan Anand"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2002-irak-devlet-baskani-saddam-huseyin-7-yillik",
@@ -535,7 +535,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Saddam_Hussein_in_1998.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Saddam_Hussein_in_1998.png",
@@ -548,7 +547,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Saddam_Hussein_in_1998.png",
         "aciklama": "Iraqi President Saddam Hussein is about to deliver a speech on occasion of 10th anniversary of the end of Iran-Iraq War.",
         "konu": "Saddam Hüseyin"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2002-amerika-birlesik-devletleri-baskani-george-w-bush",
@@ -562,7 +562,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif/lossy-page1-960px-President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif/lossy-page1-960px-President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif.jpg",
@@ -575,7 +574,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_(blue_tie).tif",
         "aciklama": "\"Official portrait of President George W. Bush\"",
         "konu": "George W. Bush"
-      }
+      },
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -1152,7 +1152,7 @@
     "url": "https://tr.wikipedia.org/wiki/16_Ekim",
     "revid": 38279934
   },
-  "guncelleme": "2026-10-21T11:21:51.449Z",
+  "guncelleme": "2026-10-21T21:27:01.936Z",
   "haberler": [
     {
       "id": "2025-haber-2444141",

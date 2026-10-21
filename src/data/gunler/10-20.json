@@ -16,7 +16,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Navarino.jpg/960px-Navarino.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Navarino.jpg/500px-Navarino.jpg",
@@ -29,7 +28,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Navarino.jpg",
         "aciklama": null,
         "konu": "Navarin Baskını"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1921-fransizlarin-anadoludan-cekilmesi-tbmm-ile-fransa-hukumeti",
@@ -45,7 +45,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Modern-day_Turkey_and_Europe_NASA_modified.png/960px-Modern-day_Turkey_and_Europe_NASA_modified.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Modern-day_Turkey_and_Europe_NASA_modified.png/500px-Modern-day_Turkey_and_Europe_NASA_modified.png",
@@ -86,7 +85,8 @@
           "aciklama": "Franco-Turkish Pact 1921 (Treaty of Ankara)",
           "konu": "Ankara Anlaşması (1921)"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1927-mustafa-kemal-ataturkun-turk-kurtulus-savasini-anlattigi",
@@ -100,7 +100,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -141,7 +140,8 @@
           "aciklama": "Türk Kurtuluş Savaşı'na ait görüntülerin yer aldığı savaş yıllarına ait kesit/resimlerle desteklenmiş kolaj çalışması.",
           "konu": "Türk Kurtuluş Savaşı"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1935-milliyetci-hukumete-karsi-mao-zedungun-baslattigi-ve",
@@ -154,7 +154,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mao_Tse_Tung.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mao_Tse_Tung.jpg",
@@ -195,7 +194,8 @@
           "aciklama": "City of Yan'an, Shaanxi Province, China",
           "konu": "Yan'an"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1940-nufus-sayimi-turkiyenin-nufusu-17-820-950",
@@ -207,8 +207,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1941-ii-dunya-savasi-alman-isgalindeki-sirbistanda-binlerce",
@@ -223,7 +223,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
@@ -264,7 +263,8 @@
           "aciklama": "Victims of Kragujevac massacre",
           "konu": "Kragujevac katliamı"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1942-ekmek-karneleri-dagitilmaya-basladi",
@@ -274,8 +274,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1944-sovyet-kizil-ordu-belgrada-girdi-ayni-gun",
@@ -291,7 +291,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Belgrade_Waterfront_%28%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B4%D0%B8%29.jpg/960px-Belgrade_Waterfront_%28%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B4%D0%B8%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Belgrade_Waterfront_%28%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B4%D0%B8%29.jpg/500px-Belgrade_Waterfront_%28%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B4%D0%B8%29.jpg",
@@ -332,7 +331,8 @@
           "aciklama": null,
           "konu": "Gestapo"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1945-misir-suriye-irak-ve-lubnan-filistin-topraklarinda",
@@ -348,8 +348,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1951-birinci-akdeniz-oyunlari-sona-erdi",
@@ -361,8 +361,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1954-dunya-bankasi-genel-sekreteri-turkiyeye-geldi-genel",
@@ -374,7 +374,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/The_World_Bank_Group_%2853844804648%29.jpg/960px-The_World_Bank_Group_%2853844804648%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/The_World_Bank_Group_%2853844804648%29.jpg/500px-The_World_Bank_Group_%2853844804648%29.jpg",
@@ -387,7 +386,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:The_World_Bank_Group_(53844804648).jpg",
         "aciklama": "Washington, DC",
         "konu": "Dünya Bankası"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1954-buyuk-britanyada-51-bin-liman-iscisi-greve",
@@ -399,7 +399,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg/960px-Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg/500px-Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg",
@@ -412,7 +411,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Great_Britain_and_Northern_Ireland_in_April_2002.jpg",
         "aciklama": "Satellite image of Great Britain and Northern Ireland in April 2002.",
         "konu": "Büyük Britanya"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1968-meksiko-olimpiyatlarinda-serbest-gureste-78-kiloda-mahmut",
@@ -427,8 +427,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1968-abdnin-oldurulen-baskanlarindan-john-f-kennedynin-esi",
@@ -444,7 +444,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/960px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/500px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
@@ -498,7 +497,8 @@
           "aciklama": "Greek shipowner Aristotle Onassis",
           "konu": "Aristotle Onassis"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1978-itu-elektrik-fakultesi-dekani-ord-prof-bedri",
@@ -511,7 +511,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Istanbul_asv2020-02_img69_Ma%C3%A7ka_Armory.jpg/960px-Istanbul_asv2020-02_img69_Ma%C3%A7ka_Armory.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Istanbul_asv2020-02_img69_Ma%C3%A7ka_Armory.jpg/500px-Istanbul_asv2020-02_img69_Ma%C3%A7ka_Armory.jpg",
@@ -552,7 +551,8 @@
           "aciklama": "Grave of Bedri Karafakıoğlu, Zincirlikuyu Cemetery",
           "konu": "Bedri Karafakioğlu"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1980-yunanistan-nato-askeri-kanadina-yeniden-girdi",
@@ -565,8 +565,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1984-bilkent-universitesi-kuruldu",
@@ -578,8 +578,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1992-bingolun-solhan-ilcesi-hazarsah-koyu-yakinlarinda-bir",
@@ -593,7 +593,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Bingolcitycenter.jpg/960px-Bingolcitycenter.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Bingolcitycenter.jpg/500px-Bingolcitycenter.jpg",
@@ -634,7 +633,8 @@
           "aciklama": "Bingöl-Solhan karayolunda 4.5 kilometre uzaklıktadır. Yüzen Ada tamamen doğal bir oluşumdur. Gölün üç tarafı dağlar ve tepelerle çevrilmiş düz arazi üzerinde bulunan krater gölü konumundadır. Gölün şi",
           "konu": "Solhan"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1998-turkiye-ile-suriye-arasinda-adana-mutabakati-imzalandi",
@@ -646,8 +646,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2002-sirbistan-ile-birlikte-yugoslavyayi-olusturan-karadagda-yapilan",
@@ -662,7 +662,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Milo_%C4%90ukanovi%C4%87_in_2010.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Milo_%C4%90ukanovi%C4%87_in_2010.jpg",
@@ -675,7 +674,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Milo_%C4%90ukanovi%C4%87_in_2010.jpg",
         "aciklama": "Danilo Türk and Milo Đukanović in 2010",
         "konu": "Milo Cukanoviç"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2008-ergenekon-davasinin-ilk-durusmasi-silivri-cezaevi-icindeki",
@@ -687,8 +687,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -1301,7 +1301,7 @@
     "url": "https://tr.wikipedia.org/wiki/20_Ekim",
     "revid": 38302719
   },
-  "guncelleme": "2026-10-21T11:21:55.147Z",
+  "guncelleme": "2026-10-21T21:27:03.384Z",
   "haberler": [
     {
       "id": "2025-haber-2445214",

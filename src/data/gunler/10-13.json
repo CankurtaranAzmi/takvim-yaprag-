@@ -13,7 +13,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Nero_Glyptothek_Munich_321.jpg/960px-Nero_Glyptothek_Munich_321.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Nero_Glyptothek_Munich_321.jpg/500px-Nero_Glyptothek_Munich_321.jpg",
@@ -54,7 +53,8 @@
           "aciklama": "The Roman Empire (red) and its clients (pink) in 117 AD during the reign of emperor Trajan.",
           "konu": "Roma İmparatorluğu"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1492-kristof-kolomb-bahamalarda-yerlilerce-guanahani-olarak-adlandirilan",
@@ -67,7 +67,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/960px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/500px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
@@ -80,7 +79,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_Man,_Said_to_be_Christopher_Columbus.jpg",
         "aciklama": null,
         "konu": "Kristof Kolomb"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1773-fransiz-astronom-charles-messier-girdap-gokadasini-kesfetti",
@@ -95,7 +95,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Justus_Sustermans_-_Portrait_of_Galileo_Galilei_%28Uffizi%29.jpg/960px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei_%28Uffizi%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Justus_Sustermans_-_Portrait_of_Galileo_Galilei_%28Uffizi%29.jpg/500px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei_%28Uffizi%29.jpg",
@@ -149,7 +148,8 @@
           "aciklama": "The Whirlpool Galaxy (Spiral Galaxy M51, NGC 5194), a classic spiral galaxy located in the Canes Venatici constellation, and its companion NGC 5195.",
           "konu": "Girdap gökadası"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1775-abd-deniz-kuvvetleri-kuruldu",
@@ -161,8 +161,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1792-amerika-birlesik-devletlerinde-beyaz-saray-olarak-bilinen",
@@ -175,7 +175,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/White_House_north_and_south_sides.jpg/960px-White_House_north_and_south_sides.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/White_House_north_and_south_sides.jpg/500px-White_House_north_and_south_sides.jpg",
@@ -188,7 +187,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:White_House_north_and_south_sides.jpg",
         "aciklama": "The north (top) and south (bottom) sides of the White House in Washington, D.C.",
         "konu": "Beyaz Saray"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1827-658-yilindan-beri-musluman-egemenliginde-olan-erivan",
@@ -201,7 +201,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Mount_Ararat_and_the_Yerevan_skyline_%28June_2018%29.jpg/960px-Mount_Ararat_and_the_Yerevan_skyline_%28June_2018%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Mount_Ararat_and_the_Yerevan_skyline_%28June_2018%29.jpg/500px-Mount_Ararat_and_the_Yerevan_skyline_%28June_2018%29.jpg",
@@ -214,7 +213,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Mount_Ararat_and_the_Yerevan_skyline_(June_2018).jpg",
         "aciklama": "Mount Ararat and the Yerevan skyline in spring. The Yerevan Opera Theatre is visible in the center.",
         "konu": "Erivan"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1843-bilinen-en-eski-yahudi-yardimlasma-orgutu-bnai",
@@ -228,7 +228,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/B%27nai_B%27rith_membership_certificate_1876.jpg/960px-B%27nai_B%27rith_membership_certificate_1876.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/B%27nai_B%27rith_membership_certificate_1876.jpg/500px-B%27nai_B%27rith_membership_certificate_1876.jpg",
@@ -269,7 +268,8 @@
           "aciklama": "View of the Empire State Building in New York City from the Top of the Rock at 30 Rockefeller Plaza during sunset. The tower was illuminated in green in honor of Climate Week NYC.[1]",
           "konu": "New York"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1845-teksasta-yapilan-referandumda-abdye-katilma-karari-alindi",
@@ -282,7 +282,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Referendum-2-giugno_scheda_elettorale.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Referendum-2-giugno_scheda_elettorale.jpg",
@@ -295,7 +294,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Referendum-2-giugno_scheda_elettorale.jpg",
         "aciklama": "scheda elettorale del referendum istituzionale del 2 giugno 1946",
         "konu": "referandum"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1884-greenwich-gozlemevinden-gecen-meridyen-0-derece-ve",
@@ -309,7 +309,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Royal_observatory_greenwich.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Royal_observatory_greenwich.jpg",
@@ -322,7 +321,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Royal_observatory_greenwich.jpg",
         "aciklama": null,
         "konu": "Greenwich Gözlemevi"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1886-amerikali-eczaci-pemberton-coca-colanin-formulunu-buldu",
@@ -335,7 +335,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/John_Pemberton.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/John_Pemberton.jpg",
@@ -376,7 +375,8 @@
           "aciklama": "Typische gekühlte Glasflasche Coca-Cola, 0,2 Liter, Kondenswasser, mit 21-Zacken-Kronenkork am Standard-Mundstück, 2 aufgeklebte Papieretiketten, am vorderen: Nährwertangabe \"360 kJ (in) 200 ml (...) ",
           "konu": "Coca-Cola"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1900-avusturyali-norolog-sigmund-freud-unlu-kitabi-duslerin",
@@ -389,7 +389,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/960px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/500px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg",
@@ -402,7 +401,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Sigmund_Freud,_by_Max_Halberstadt_(cropped).jpg",
         "aciklama": "Photographic portrait of Sigmund Freud, signed by the sitter (\"Prof. Sigmund Freud\")",
         "konu": "Sigmund Freud"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1911-italya-kralligi-derneyi-isgal-etti",
@@ -415,7 +415,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Derna_Valley.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Derna_Valley.jpg",
@@ -428,7 +427,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Derna_Valley.jpg",
         "aciklama": "Derna Valley, Libya .",
         "konu": "Derne"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1914-garrett-morgan-gaz-maskesini-icat-etti-ve",
@@ -441,7 +441,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Belgian_made_Finnish_civil_defence_L.702_mask.jpg/960px-Belgian_made_Finnish_civil_defence_L.702_mask.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Belgian_made_Finnish_civil_defence_L.702_mask.jpg/500px-Belgian_made_Finnish_civil_defence_L.702_mask.jpg",
@@ -454,7 +453,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Belgian_made_Finnish_civil_defence_L.702_mask.jpg",
         "aciklama": null,
         "konu": "gaz maskesi"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1918-talat-pasa-liderligindeki-ittihat-ve-terakki-hukumeti",
@@ -467,7 +467,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Mehmed_talat.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Mehmed_talat.jpg",
@@ -480,7 +479,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Mehmed_talat.jpg",
         "aciklama": "Mehmed Talat (cropped)",
         "konu": "Talat Paşa"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1921-tbmm-hukumeti-azerbaycan-ermenistan-ve-gurcistan-ile",
@@ -496,8 +496,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1923-tbmmde-ankaranin-hukumet-merkezi-ve-baskent-olmasi",
@@ -512,7 +512,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
@@ -553,7 +552,8 @@
           "aciklama": "View of Shinjuku skyscrapers and Mount Fuji as seen from the Bunkyo Civic Center in Tokyo",
           "konu": "başkent"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1935-turkiyede-faaliyet-gosteren-mason-localari-ataturk-tarafindan",
@@ -566,7 +566,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Masonic_Lodge_282_-_Masonic_Square_and_Compass%2C_Lake_Placid%2C_Florida.jpg/960px-Masonic_Lodge_282_-_Masonic_Square_and_Compass%2C_Lake_Placid%2C_Florida.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Masonic_Lodge_282_-_Masonic_Square_and_Compass%2C_Lake_Placid%2C_Florida.jpg/500px-Masonic_Lodge_282_-_Masonic_Square_and_Compass%2C_Lake_Placid%2C_Florida.jpg",
@@ -607,7 +606,8 @@
           "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
           "konu": "Mustafa Kemal Atatürk"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1943-ii-dunya-savasi-italyada-mussoliniyi-devirip-basa",
@@ -623,7 +623,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
@@ -677,7 +676,8 @@
           "aciklama": "From left to right: Joseph Stalin, Franklin D. Roosevelt, and Winston Churchill on the portico of the Soviet Embassy during the Tehran Conference.",
           "konu": "Müttefik Devletler"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1944-letonyanin-gunumuzdeki-baskenti-riga-sovyetler-birligi-kontrolune",
@@ -691,7 +691,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Old_Riga_Vecr%C4%ABga_Town_Hall.jpg/960px-Old_Riga_Vecr%C4%ABga_Town_Hall.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Old_Riga_Vecr%C4%ABga_Town_Hall.jpg/500px-Old_Riga_Vecr%C4%ABga_Town_Hall.jpg",
@@ -704,7 +703,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Old_Riga_Vecr%C4%ABga_Town_Hall.jpg",
         "aciklama": "Riga City Council Riga, Latvia. Lettonie",
         "konu": "Riga"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1946-fransada-dorduncu-cumhuriyetin-anayasasi-kabul-edildi",
@@ -717,8 +717,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1951-cumhuriyet-gazetesinin-duzenledigi-guzellik-yarismasinda-gunseli-basar",
@@ -732,7 +732,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/1931_T%C3%BCrkiye_G%C3%BCzeli_Na%C5%9Fide_Saffet_Han%C4%B1m.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/1931_T%C3%BCrkiye_G%C3%BCzeli_Na%C5%9Fide_Saffet_Han%C4%B1m.jpg",
@@ -773,7 +772,8 @@
           "aciklama": "Keriman Halis, Cumhuriyet.",
           "konu": "Miss Turkey"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1955-suna-kan-viotti-keman-yarismasi-nda-birinci",
@@ -787,7 +787,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/1953_09_21_Aksam_Suna_Kan_ve_Idil_Biret.jpg/960px-1953_09_21_Aksam_Suna_Kan_ve_Idil_Biret.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/1953_09_21_Aksam_Suna_Kan_ve_Idil_Biret.jpg/500px-1953_09_21_Aksam_Suna_Kan_ve_Idil_Biret.jpg",
@@ -800,7 +799,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:1953_09_21_Aksam_Suna_Kan_ve_Idil_Biret.jpg",
         "aciklama": "21 Eylül 1953 tarihli Akşam gazetesinde Suna Kan ve İdil Biret",
         "konu": "Suna Kan"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1968-avustralyaya-ilk-turk-isci-kafilesi-hareket-etti",
@@ -813,8 +813,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1970-fiji-birlesmis-milletlere-uye-oldu",
@@ -827,8 +827,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1972-bir-uruguay-askeri-ucagi-and-daglarinda-arjantin",
@@ -844,7 +844,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Andes_70.30345W_42.99203S.jpg/960px-Andes_70.30345W_42.99203S.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Andes_70.30345W_42.99203S.jpg/500px-Andes_70.30345W_42.99203S.jpg",
@@ -885,7 +884,8 @@
           "aciklama": "One of the Fairchild Hiller FH-227B aircraft used in the production of the 1993 film \"Alive\", painted to appear as the aircraft involved in the 1972 crash of Uruguayan Air Force Flight 571.",
           "konu": "Uruguay Hava Kuvvetleri'nin 571 sefer sayılı uçuşu"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1972-sovyetler-birligi-hava-yollari-aeroflota-ait-ilyusin",
@@ -901,7 +901,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/History_Aeroflot_Dobrolet.jpg/960px-History_Aeroflot_Dobrolet.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/History_Aeroflot_Dobrolet.jpg/500px-History_Aeroflot_Dobrolet.jpg",
@@ -955,7 +954,8 @@
           "aciklama": "A picture of the view in Red Square in Moscow, taken by the U.S. Department of State // Actually, only a small portion of the square can be seen (the blue stands in the center). Most of the square is ",
           "konu": "Moskova"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1976-bolivya-hava-yollarina-ait-bir-kargo-ucagi",
@@ -969,7 +969,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Edificios_en_Equipetrol%2C_Santa_Cruz_de_la_Sierra%2C_Bolivia.jpg/960px-Edificios_en_Equipetrol%2C_Santa_Cruz_de_la_Sierra%2C_Bolivia.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Edificios_en_Equipetrol%2C_Santa_Cruz_de_la_Sierra%2C_Bolivia.jpg/500px-Edificios_en_Equipetrol%2C_Santa_Cruz_de_la_Sierra%2C_Bolivia.jpg",
@@ -1010,7 +1009,8 @@
           "aciklama": "The original finding aid described this photograph as: Base: New York State: New York (NY) Country: United States Of America (USA) Scene Camera Operator: Emmett Francois Release Status: Released to Pu",
           "konu": "çocuk"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1977-dort-filistinli-bir-yolcu-ucagini-somaliye-kacirdi",
@@ -1024,7 +1024,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Peasant_Family_of_Ramallah_1900-1910.jpg/960px-Peasant_Family_of_Ramallah_1900-1910.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Peasant_Family_of_Ramallah_1900-1910.jpg/500px-Peasant_Family_of_Ramallah_1900-1910.jpg",
@@ -1037,7 +1036,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Peasant_Family_of_Ramallah_1900-1910.jpg",
         "aciklama": "Peasant family of Ramallah. Bauern-familie von Ramallah / American Colony, Jerusalem.",
         "konu": "Filistinliler"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1980-16-nisan-1980de-istanbulda-amerikali-bir-astsubay",
@@ -1049,8 +1049,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1986-buyuk-vatan-partisi-kendini-feshetti",
@@ -1062,8 +1062,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1990-1975ten-beri-devam-etmekte-olan-lubnan-ic",
@@ -1075,7 +1075,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/FatehMilitia.jpg/960px-FatehMilitia.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/FatehMilitia.jpg/500px-FatehMilitia.jpg",
@@ -1088,7 +1087,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:FatehMilitia.jpg",
         "aciklama": "Fedayeen from Fateh at a rally in Beirut, Lebanon",
         "konu": "Lübnan İç Savaşı"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1991-bulgaristanda-reel-sosyalizm-sonrasi-ilk-parlamento-secimleri",
@@ -1101,8 +1101,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1991-eski-milli-istihbarat-teskilati-mustesari-emekli-orgeneral",
@@ -1116,7 +1116,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg/960px-DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg/500px-DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg",
@@ -1129,7 +1128,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg",
         "aciklama": "Revolutionary Left",
         "konu": "Devrimci Sol"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1994-mali-polis-halil-bezmene-ait-trilyonlarca-lira",
@@ -1143,7 +1143,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Halil_Bezmen.png.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Halil_Bezmen.png.jpg",
@@ -1156,7 +1155,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Halil_Bezmen.png.jpg",
         "aciklama": "Halil Bezmen 2019",
         "konu": "Halil Bezmen"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1995-ingiliz-fizikci-joseph-rotblat-ve-icinde-bulundugu",
@@ -1171,7 +1171,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Joseph_Rotblat_Los_Alamos_identity_badge_photo.jpg/960px-Joseph_Rotblat_Los_Alamos_identity_badge_photo.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Joseph_Rotblat_Los_Alamos_identity_badge_photo.jpg/500px-Joseph_Rotblat_Los_Alamos_identity_badge_photo.jpg",
@@ -1212,7 +1211,8 @@
           "aciklama": "1933 Nobel Peace Prize awarded to Norman Angell on exhibit to the public at the Imperial War Museum, London, England",
           "konu": "Nobel Barış Ödülü"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1995-pragdaki-dunya-gures-sampiyonasinda-82-kiloda-hamza",
@@ -1226,7 +1226,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_%286365119737%29.jpg/960px-Prague_%286365119737%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_%286365119737%29.jpg/500px-Prague_%286365119737%29.jpg",
@@ -1239,7 +1238,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Prague_(6365119737).jpg",
         "aciklama": "Prague, panoramic view from Charles Bridge east tower",
         "konu": "Prag"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1996-radikal-gazetesi-yayin-hayatina-basladi",
@@ -1251,8 +1251,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1997-altin-koza-film-festivali-sonuclandi-zeki-demirkubuzun",
@@ -1266,8 +1266,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2002-sirbistanda-slobodan-milosevicin-devrilmesinden-sonra-duzenlenen-ilk",
@@ -1280,7 +1280,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Stevan_Kragujevic%2C_Slobodan_Milosevic%2C_portret_%28colorized%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Stevan_Kragujevic%2C_Slobodan_Milosevic%2C_portret_%28colorized%29.jpg",
@@ -1293,7 +1292,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Stevan_Kragujevic,_Slobodan_Milosevic,_portret_(colorized).jpg",
         "aciklama": "Bivši Predsednik Srbije i SR Jugoslavije Slobodan Milošević (1941−2006). Foto: Stevan Kragujević (po odobrenju kćerke Tanje Kragujević).",
         "konu": "Slobodan Milošević"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2002-yenicag-gazetesi-yayin-hayatina-basladi",
@@ -1305,8 +1305,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2006-birlesmis-milletler-genel-kurulu-guney-kore-dis",
@@ -1321,7 +1321,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Ban_Ki-moon_February_2016.jpg/960px-Ban_Ki-moon_February_2016.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Ban_Ki-moon_February_2016.jpg/500px-Ban_Ki-moon_February_2016.jpg",
@@ -1362,7 +1361,8 @@
           "aciklama": "Joint Special Envoy Kofi Annan spoke with the media at the United Nations Office at Geneva following the June 30, 2012 Meeting of the Action Group for Syria.",
           "konu": "Kofi Annan"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "2006-nobel-baris-odulu-bangladesli-muhammed-yunus-ve",
@@ -1377,7 +1377,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/1933_Nobel_Peace_Prize_awarded_to_Norman_Angell.JPG",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/1933_Nobel_Peace_Prize_awarded_to_Norman_Angell.JPG",
@@ -1431,7 +1430,8 @@
           "aciklama": "Grameen Bank Bhaban, Mirpur, Dhaka.",
           "konu": "Grameen Bank"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "2010-silideki-maden-kazasinda-yer-altinda-mahsur-kalan",
@@ -1443,8 +1443,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2020-microsoft-office-2010-icin-genisletilmis-destege-son",
@@ -1456,8 +1456,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2022-pekin-sitong-koprusu-protestosu",
@@ -1469,7 +1469,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Sitong_Bridge.JPG/960px-Sitong_Bridge.JPG",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Sitong_Bridge.JPG/500px-Sitong_Bridge.JPG",
@@ -1482,7 +1481,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Sitong_Bridge.JPG",
         "aciklama": "Sitong Bridge, Beijing",
         "konu": "Pekin Sitong Köprüsü protestosu"
-      }
+      },
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -2009,7 +2009,7 @@
     "url": "https://tr.wikipedia.org/wiki/13_Ekim",
     "revid": 38234296
   },
-  "guncelleme": "2026-10-21T11:21:48.984Z",
+  "guncelleme": "2026-10-21T21:27:00.804Z",
   "haberler": [
     {
       "id": "2025-haber-2443117",

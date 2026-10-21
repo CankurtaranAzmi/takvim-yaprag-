@@ -13,7 +13,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Wolfgang-amadeus-mozart_1.jpg/960px-Wolfgang-amadeus-mozart_1.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Wolfgang-amadeus-mozart_1.jpg/500px-Wolfgang-amadeus-mozart_1.jpg",
@@ -26,7 +25,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Wolfgang-amadeus-mozart_1.jpg",
         "aciklama": "This posthumous portrait of Wolfgang Amadeus Mozart was painted by Barbara Krafft at the request of Joseph Sonnleithner in 1819, long after Mozart died. Sonnleithner, who was making a \"collection of p",
         "konu": "Mozart"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1859-ispanya-fasa-savas-ilan-etti",
@@ -39,8 +39,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1863-cenevrede-toplanan-16-ulke-uluslararasi-kizilhacin-kurulmasina",
@@ -53,7 +53,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Views_of_Geneva.jpg/960px-Views_of_Geneva.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Views_of_Geneva.jpg/500px-Views_of_Geneva.jpg",
@@ -66,7 +65,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Views_of_Geneva.jpg",
         "aciklama": "Montage for the Geneva article on Wikipedia",
         "konu": "Cenevre"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1888-britanya-imparatorlugu-alman-imparatorlugu-avusturya-macaristan-imparatorlugu-ispanyol",
@@ -82,8 +82,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1901-amerika-birlesik-devletleri-baskani-william-mckinleyin-suikastcisi",
@@ -97,7 +97,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Mckinley.jpg/960px-Mckinley.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Mckinley.jpg/500px-Mckinley.jpg",
@@ -138,7 +137,8 @@
           "aciklama": "Portrait of Leon F. Czolgosz. It was found in his bag that he took to West Seneca, New York then to Buffalo.",
           "konu": "Leon Czolgosz"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1913-bati-trakya-bagimsiz-hukumeti-yikildi",
@@ -150,8 +150,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1914-amiral-souchon-liderligindeki-goeben-yavuz-breslau-midilli",
@@ -167,7 +167,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesarchiv_DVM_10_Bild-23-61-15%2C_Panzerkreuzer_%22SMS_Goeben%22.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesarchiv_DVM_10_Bild-23-61-15%2C_Panzerkreuzer_%22SMS_Goeben%22.jpg",
@@ -221,7 +220,8 @@
           "aciklama": "Montage for WWI article. Top: Trenches - Image:The_badly_shelled_main_road_to_Bapaume.jpg (Trenches on the Western Front) Left Upper: Image:AlbatDIII.jpg (German Albatros D.III biplane fighters of Jas",
           "konu": "I. Dünya Savaşı"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1919-britanya-birlikleri-antepi-fransizlara-teslim-edilerek-geri",
@@ -233,7 +233,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gaziantep_Archaeology_museum_Roman_Statues_Hall_4431.jpg/960px-Gaziantep_Archaeology_museum_Roman_Statues_Hall_4431.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gaziantep_Archaeology_museum_Roman_Statues_Hall_4431.jpg/500px-Gaziantep_Archaeology_museum_Roman_Statues_Hall_4431.jpg",
@@ -246,7 +245,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Gaziantep_Archaeology_museum_Roman_Statues_Hall_4431.jpg",
         "aciklama": "A room with many Roman statues.",
         "konu": "Antep"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1923-turkiyede-cumhuriyetin-ilani-mustafa-kemal-ataturk-ilk",
@@ -260,7 +260,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anavatan_1927.jpg/960px-Anavatan_1927.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anavatan_1927.jpg/500px-Anavatan_1927.jpg",
@@ -301,7 +300,8 @@
           "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
           "konu": "Mustafa Kemal Atatürk"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1924-milletler-cemiyeti-konseyinde-turkiye-irak-siniri-musulu-irakta",
@@ -315,7 +315,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84.jpg",
@@ -328,7 +327,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84.jpg",
         "aciklama": "The Old Bridge of Mosul, with the Mosul Grand Mosque in the background as seen from the south (Al Korneesh district on the western bank)",
         "konu": "Musul"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1927-irakta-yapilan-kazilarda-ur-kenti-yakinlarinda-5",
@@ -341,7 +341,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Ur-Nassiriyah.jpg/960px-Ur-Nassiriyah.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Ur-Nassiriyah.jpg/500px-Ur-Nassiriyah.jpg",
@@ -354,7 +353,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ur-Nassiriyah.jpg",
         "aciklama": "Ruins in the Town of Ur, Southern Iraq",
         "konu": "Ur (antik kent)"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1929-new-york-menkul-kiymetler-borsasi-coktu-amerika",
@@ -367,7 +367,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/960px-New_York_Stock_Exchange_Facade_2015.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/500px-New_York_Stock_Exchange_Facade_2015.jpg",
@@ -380,7 +379,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_Facade_2015.jpg",
         "aciklama": "New York Stock Exchange",
         "konu": "New York Menkul Kıymetler Borsası"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1930-ankaradaki-cumhuriyet-bayrami-torenlerine-yunanistan-basbakani-venizelos",
@@ -394,7 +394,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
@@ -435,7 +434,8 @@
           "aciklama": "Eleftherios Venizelos (1864-1936), one of the most significant politicians of modern Greece.",
           "konu": "Elefterios Venizelos"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1933-turkiye-cumhurbaskani-mustafa-kemal-cumhuriyetin-ilaninin-10",
@@ -448,7 +448,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -489,7 +488,8 @@
           "aciklama": "Atatürk speaks during the 10th anniversary celebrations of the Republic of Turkey.",
           "konu": "10. Yıl Nutku"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1954-dr-hikmet-kivilcimli-vatan-partisini-kurdu",
@@ -502,8 +502,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1956-israil-ordusu-misir-sinirini-gecerek-sina-yarimadasini",
@@ -517,8 +517,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1960-cassius-clay-daha-sonra-muhammet-ali-louisville",
@@ -532,7 +532,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Muhammad_Ali%2C_gtfy.00140_%28cropped%29.jpg/960px-Muhammad_Ali%2C_gtfy.00140_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Muhammad_Ali%2C_gtfy.00140_%28cropped%29.jpg/500px-Muhammad_Ali%2C_gtfy.00140_%28cropped%29.jpg",
@@ -573,7 +572,8 @@
           "aciklama": "The skyline of Louisville, Kentucky, lit up at night, featuring the KFC Yum! Center and 400 West Market, among other buildings. Taken in 2021. Modified (cropped further from File:Louisville Skyline 20",
           "konu": "Louisville, Kentucky"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1960-milli-birlik-komitesinin-147-ogretim-uyesini-gorevden",
@@ -587,8 +587,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1961-suriye-birlesik-arap-cumhuriyetinden-ayrildi",
@@ -601,8 +601,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1961-ilk-turk-yapimi-otomobil-devrim-cumhurbaskani-cemal",
@@ -615,7 +615,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Devrim_-_20.10.23.jpg/960px-Devrim_-_20.10.23.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Devrim_-_20.10.23.jpg/500px-Devrim_-_20.10.23.jpg",
@@ -656,7 +655,8 @@
           "aciklama": "Photograph of Cemal Gürsel, fourth President of Turkey.",
           "konu": "Cemal Gürsel"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1967-montrealdeki-expo-67-dunya-fuari-kapandi-fuari",
@@ -669,7 +669,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Montreal-canada-parc-urban.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Montreal-canada-parc-urban.jpg",
@@ -710,7 +709,8 @@
           "aciklama": "Expo67: USA Pavilion, geodesic sphere design by Buckminster Fuller, with minirail running through it. Original 35mm slide scanned jpg.",
           "konu": "Expo 67"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1969-iki-bilgisayar-arasindaki-ilk-baglanti-gerceklestirildi-bu",
@@ -723,7 +723,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Arpanet_logical_map%2C_march_1977.png/960px-Arpanet_logical_map%2C_march_1977.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Arpanet_logical_map%2C_march_1977.png/500px-Arpanet_logical_map%2C_march_1977.png",
@@ -736,7 +735,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Arpanet_logical_map,_march_1977.png",
         "aciklama": "ARPANET logical map circa 1977",
         "konu": "ARPANET"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1992-turkiye-ile-irakin-kuzeyi-arasinda-stratejik-oneme",
@@ -750,8 +750,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1992-kazakistan-ve-turkmenistan-ilk-buyuk-elciliklerini-ankarada",
@@ -765,8 +765,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1998-thynin-adana-ankara-seferini-yapan-boeing-737-tipi",
@@ -782,7 +782,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/TurkishAirlinesHQIstanbul.jpg/960px-TurkishAirlinesHQIstanbul.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/TurkishAirlinesHQIstanbul.jpg/500px-TurkishAirlinesHQIstanbul.jpg",
@@ -836,7 +835,8 @@
           "aciklama": "Boeing's offices in Arlington County, Virginia, the corporate headquarters of the company as of 2022.",
           "konu": "Boeing"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1998-azerbaycan-gurcistan-kazakistan-ozbekistan-ve-turkiye-hazar",
@@ -852,7 +852,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Central_Asia_Physical.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Central_Asia_Physical.jpg",
@@ -865,7 +864,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Central_Asia_Physical.jpg",
         "aciklama": null,
         "konu": "Orta Asya"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1998-amerikali-astronot-john-glenn-36-yil-aradan",
@@ -879,7 +879,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg/960px-Bruce_McCandless_II_during_EVA_in_1984.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg/500px-Bruce_McCandless_II_during_EVA_in_1984.jpg",
@@ -920,7 +919,8 @@
           "aciklama": "John Glenn official portrait.",
           "konu": "John Glenn"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "2006-nijeryanin-baskenti-abujada-boeing-737-tipi-bir",
@@ -934,7 +934,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/MosqueinAbuja.jpg/960px-MosqueinAbuja.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/MosqueinAbuja.jpg/500px-MosqueinAbuja.jpg",
@@ -975,7 +974,8 @@
           "aciklama": "01202019_American Airlines_B738M_N342RX_KBFI_NASEDIT",
           "konu": "Boeing 737"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "2013-marmaray-acildi-ve-ilk-sefer-uskudardan-yenikapiya",
@@ -989,7 +989,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg/960px-%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg/500px-%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg",
@@ -1030,7 +1029,8 @@
           "aciklama": "The center hall of the new Yenikapı Transfer complex.",
           "konu": "Yenikapı Aktarma Merkezi"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "2016-ankara-yuksek-hizli-tren-gari-hizmete-acildi",
@@ -1042,7 +1042,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ankara_Gar_2017.jpg/960px-Ankara_Gar_2017.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ankara_Gar_2017.jpg/500px-Ankara_Gar_2017.jpg",
@@ -1055,7 +1054,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_Gar_2017.jpg",
         "aciklama": "New Ankara Train Station, 2017",
         "konu": "Ankara Yüksek Hızlı Tren Garı"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2018-istanbul-havalimani-acildi",
@@ -1067,8 +1067,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2018-endonezyada-cakartadan-sumatra-adasindaki-pangkal-pinang-sehrine",
@@ -1084,7 +1084,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Bundaran_Hotel_Indonesia_%282025%29.jpg/960px-Bundaran_Hotel_Indonesia_%282025%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Bundaran_Hotel_Indonesia_%282025%29.jpg/500px-Bundaran_Hotel_Indonesia_%282025%29.jpg",
@@ -1138,7 +1137,8 @@
           "aciklama": "01202019_American Airlines_B738M_N342RX_KBFI_NASEDIT",
           "konu": "Boeing 737"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -1658,7 +1658,7 @@
     "url": "https://tr.wikipedia.org/wiki/29_Ekim",
     "revid": 37825932
   },
-  "guncelleme": "2026-10-21T11:22:01.825Z",
+  "guncelleme": "2026-10-21T21:27:06.761Z",
   "haberler": [
     {
       "id": "2025-haber-2447856",
