@@ -15,7 +15,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Wappen_r%C3%B6m.kaiser.JPG",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Wappen_r%C3%B6m.kaiser.JPG",
@@ -28,7 +27,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Wappen_r%C3%B6m.kaiser.JPG",
         "aciklama": "1605 coat of arms of Rudolf II, Holy Roman Emperor. The title reads Röm[isch] Kayserlicher und Kön[iglicher] May[estät] Wappen. Armorial from Siebmachers Wappenbuch, published in 1605, during the reig",
         "konu": "Kutsal Roma imparatorları listesi"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1512-tavan-resimleri-michelangelo-tarafindan-dort-yilda-yapilan",
@@ -41,7 +41,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/960px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/500px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg",
@@ -82,7 +81,8 @@
           "aciklama": "View of the Sistine Chapel from the dome of St. Peter's Basilica (2005, Maus-Trauden)",
           "konu": "Sistine Şapeli"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1604-shakespearein-othello-adli-eseri-ilk-kez-londrada",
@@ -96,7 +96,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/960px-Shakespeare.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/500px-Shakespeare.jpg",
@@ -150,7 +149,8 @@
           "aciklama": "500px provided description: London Skyline [#sunset ,#architecture ,#cityscape ,#london ,#uk ,#skyline ,#financial district ,#thames ,#london bridge ,#london shard]",
           "konu": "Londra"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1755-lizbon-depremi-portekizin-baskenti-olan-lizbonda-cok",
@@ -165,7 +165,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lisboa_-_Portugal_%2852597836992%29.jpg/960px-Lisboa_-_Portugal_%2852597836992%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lisboa_-_Portugal_%2852597836992%29.jpg/500px-Lisboa_-_Portugal_%2852597836992%29.jpg",
@@ -206,7 +205,8 @@
           "aciklama": "The tsunami that struck Malé in the Maldives on December 26, 2004 The photograph was taken by Sofwathulla Mohamed while standing on his doorstep. His apartment was entirely washed out damaging all his",
           "konu": "tsunami"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1896-national-geographic-dergisi-ilk-defa-bir-kadinin",
@@ -218,8 +218,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1897-italyan-profesyonel-futbol-takimi-juventus-fc-kuruldu",
@@ -231,8 +231,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1911-tarihteki-ilk-hava-saldirisi-gerceklesti-trablusgarp-savasi",
@@ -247,7 +247,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Korean_War_bombing_Wonsan.jpg/960px-Korean_War_bombing_Wonsan.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Korean_War_bombing_Wonsan.jpg/500px-Korean_War_bombing_Wonsan.jpg",
@@ -288,7 +287,8 @@
           "aciklama": "Collage of the Italo-Turkish War",
           "konu": "Trablusgarp Savaşı"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1912-izmirin-ilk-kulubu-karsiyaka-muaresei-bedeniye-kulubu",
@@ -301,7 +301,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/960px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/500px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
@@ -342,7 +341,8 @@
           "aciklama": "16 Nisan 1930 tarihli Politika gazetesinde Karşıyaka futbol takımı.",
           "konu": "Karşıyaka SK"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1918-ali-fethi-bey-okyar-minber-gazetesini-yayimlamaya",
@@ -355,7 +355,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Minber%2C_17_Kas%C4%B1m_1918.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Minber%2C_17_Kas%C4%B1m_1918.png",
@@ -368,7 +367,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Minber,_17_Kas%C4%B1m_1918.png",
         "aciklama": "17 Kasım 1918 tarihli Minber gazetesinin ilk sayfası. Sol sütunda Mustafa Kemal ile yayımlanan mülakat metni ve fotoğraf görülüyor.",
         "konu": "Minber (gazete)"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1918-ittihat-ve-terakki-firkasi-kendini-feshederek-teceddut",
@@ -381,8 +381,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1920-yunanistanda-venizelos-kabinesi-dustu",
@@ -395,7 +395,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82.jpg/960px-%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82.jpg/500px-%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82.jpg",
@@ -408,7 +407,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82.jpg",
         "aciklama": "Eleftherios Venizelos (1864-1936), one of the most significant politicians of modern Greece.",
         "konu": "Elefterios Venizelos"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1922-623-yil-suren-osmanogullari-saltanati-turkiye-buyuk",
@@ -422,7 +422,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anavatan_1927.jpg/960px-Anavatan_1927.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anavatan_1927.jpg/500px-Anavatan_1927.jpg",
@@ -435,7 +434,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Anavatan_1927.jpg",
         "aciklama": "1927 Map of Turkey",
         "konu": "Saltanatın kaldırılması"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1927-gazi-mustafa-kemal-2-kez-cumhurbaskanligina-secildi",
@@ -447,7 +447,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -460,7 +459,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
         "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
         "konu": "Mustafa Kemal Atatürk"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1928-yeni-turk-alfabesine-iliskin-kanun-turkiye-buyuk",
@@ -473,7 +473,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/1928_09_21_Hakimiyeti_Milliye.jpg/960px-1928_09_21_Hakimiyeti_Milliye.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/1928_09_21_Hakimiyeti_Milliye.jpg/500px-1928_09_21_Hakimiyeti_Milliye.jpg",
@@ -486,7 +485,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:1928_09_21_Hakimiyeti_Milliye.jpg",
         "aciklama": "21 Eylül 1928 tarihli Hâkimiyet-i Milliye gazetesinde eski ve yeni harfler bir arada.",
         "konu": "Harf Devrimi"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1934-cumhurbaskani-mustafa-kemal-pasa-bir-ulusun-yeni",
@@ -498,8 +498,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1939-suni-dollenme-yoluyla-dunyaya-gelen-ilk-tavsan",
@@ -511,8 +511,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1954-cezayirde-fransiz-isgaline-karsi-ulusal-kurtulus-cephesi",
@@ -527,7 +527,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Algerian_war_collage_wikipedia.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Algerian_war_collage_wikipedia.jpg",
@@ -540,7 +539,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Algerian_war_collage_wikipedia.jpg",
         "aciklama": "Collage made by me using screenshots from two Public Domain videos. Collage description: (first row) Muslim rebels army ALN; French Army M8 Greyhound patrol; French settlers take up arms after the Aug",
         "konu": "Cezayir Bağımsızlık Savaşı"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1955-abd-havayolu-sirketine-ait-dc-6-tipi-bir",
@@ -554,7 +554,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Douglas_DC-6B_vl.jpg/960px-Douglas_DC-6B_vl.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Douglas_DC-6B_vl.jpg/500px-Douglas_DC-6B_vl.jpg",
@@ -567,7 +566,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Douglas_DC-6B_vl.jpg",
         "aciklama": null,
         "konu": "DC-6"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1956-macaristan-varsova-paktindan-cekildigini-acikladi-basbakan-imre",
@@ -581,7 +581,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Nagy_Imre_retouched.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Nagy_Imre_retouched.jpg",
@@ -594,7 +593,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Nagy_Imre_retouched.jpg",
         "aciklama": "Imre Nagy Chairman of the Council of Ministers of the People's Republic of Hungary",
         "konu": "Imre Nagy"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1959-kongoda-beyaz-karsiti-ayaklanmalar-sonrasi-milliyetci-lider",
@@ -607,7 +607,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Anefo_910-9740_De_Congolese2.jpg/960px-Anefo_910-9740_De_Congolese2.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Anefo_910-9740_De_Congolese2.jpg/500px-Anefo_910-9740_De_Congolese2.jpg",
@@ -620,7 +619,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Anefo_910-9740_De_Congolese2.jpg",
         "aciklama": "Patrice Lumumba, during the round table conference in Brussels in January 1960",
         "konu": "Patrice Lumumba"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1962-sovyetler-marsa-ilk-roketi-firlatti",
@@ -632,7 +632,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/960px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/500px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
@@ -645,7 +644,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
         "aciklama": "Filters: f635, f546, f437 CU/LASP EMM/EXI ITF/Kevin M. Gill",
         "konu": "Mars"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1967-rum-polisi-kibris-turk-toplumu-liderlerinden-rauf",
@@ -658,7 +658,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Rauf_Denktash.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Rauf_Denktash.jpg",
@@ -699,7 +698,8 @@
           "aciklama": "The third largest island in the Mediterranean, Cyprus is about 240 km long and 100 km wide. It is located on the Anatolian plate and therefore belongs geologically to Asia, but politically it is a mem",
           "konu": "Kıbrıs"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1968-aydinlik-aylik-dergi-olarak-dogu-perincek-ve",
@@ -713,7 +713,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Do%C4%9Fu_Perin%C3%A7ek_in_Tasnim_News_Agency.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Do%C4%9Fu_Perin%C3%A7ek_in_Tasnim_News_Agency.jpg",
@@ -726,7 +725,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Do%C4%9Fu_Perin%C3%A7ek_in_Tasnim_News_Agency.jpg",
         "aciklama": "Doğu Perinçek",
         "konu": "Doğu Perinçek"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1970-fransada-bir-dans-salonunda-cikan-yangin-144",
@@ -739,7 +739,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Il_Ballo2.jpg/960px-Il_Ballo2.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Il_Ballo2.jpg/500px-Il_Ballo2.jpg",
@@ -752,7 +751,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Il_Ballo2.jpg",
         "aciklama": "\"Il Ballo\" (in English \"The Dance\"; caption \"A cheerful dance awakens love and feeds hope with lively joy.\") from Giuochi, Trattenimenti e Feste Annue Che si Costumano in Toscana e Specialmente in Fir",
         "konu": "dans"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1971-hindistanda-kasirga-5-bin-kisi-oldu-1500",
@@ -764,8 +764,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1981-antigua-ve-barbuda-birlesik-kralliktan-bagimsizligini-kazandi",
@@ -778,8 +778,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1982-ataol-behramoglu-asya-afrika-yazarlar-birliginin-lotus-edebiyat",
@@ -792,7 +792,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ataolbehramoglu.jpg/960px-Ataolbehramoglu.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ataolbehramoglu.jpg/500px-Ataolbehramoglu.jpg",
@@ -805,7 +804,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ataolbehramoglu.jpg",
         "aciklama": "kendi çekimim. 13. izmir kitap fuarı",
         "konu": "Ataol Behramoğlu"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1983-milli-istihbarat-teskilati-ile-ilgili-yeni-bir",
@@ -818,8 +818,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1993-maastricht-antlasmasi-yururluge-girdi-avrupa-birligi-resmen",
@@ -832,7 +832,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/GER_%E2%80%94_BY_%E2%80%94_Regensburg_-_Donaumarkt_1_%28Museum_der_Bayerischen_Geschichte%3B_Vertrag_von_Maastricht%29_%28cropped%29.JPG/960px-GER_%E2%80%94_BY_%E2%80%94_Regensburg_-_Donaumarkt_1_%28Museum_der_Bayerischen_Geschichte%3B_Vertrag_von_Maastricht%29_%28cropped%29.JPG",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/GER_%E2%80%94_BY_%E2%80%94_Regensburg_-_Donaumarkt_1_%28Museum_der_Bayerischen_Geschichte%3B_Vertrag_von_Maastricht%29_%28cropped%29.JPG/500px-GER_%E2%80%94_BY_%E2%80%94_Regensburg_-_Donaumarkt_1_%28Museum_der_Bayerischen_Geschichte%3B_Vertrag_von_Maastricht%29_%28cropped%29.JPG",
@@ -845,7 +844,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:GER_%E2%80%94_BY_%E2%80%94_Regensburg_-_Donaumarkt_1_(Museum_der_Bayerischen_Geschichte;_Vertrag_von_Maastricht)_(cropped).JPG",
         "aciklama": "Vertrag von Maastricht (Vertragswerk)",
         "konu": "Maastricht Antlaşması"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1996-ntv-televizyonu-kuruldu",
@@ -857,8 +857,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1998-avrupa-insan-haklari-mahkemesi-kuruldu",
@@ -870,8 +870,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2001-cinin-ukraynadan-satin-aldigi-varyag-gemisi-istanbul",
@@ -885,8 +885,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2007-birlesmis-milletlerin-genel-kurul-toplantisinda-alinan-bir",
@@ -899,7 +899,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Organizador_de_Autismo_en_La_Moneda.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Organizador_de_Autismo_en_La_Moneda.jpg",
@@ -912,7 +911,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Organizador_de_Autismo_en_La_Moneda.jpg",
         "aciklama": "Ministro Lavín y Directora Senadis junto a organizaciones en Día Mundial del Autismo.",
         "konu": "Dünya Otizm Farkındalık Günü"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2008-trt-cocuk-yayina-basladi",
@@ -924,8 +924,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2010-numan-kurtulmus-liderliginde-halkin-sesi-partisi-has",
@@ -938,7 +938,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Speaker_of_the_Grand_National_Assembly_of_Turkey_comes_to_the_M%C3%A4jilis_%2855498%29_%28cropped%29.jpg/960px-Speaker_of_the_Grand_National_Assembly_of_Turkey_comes_to_the_M%C3%A4jilis_%2855498%29_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Speaker_of_the_Grand_National_Assembly_of_Turkey_comes_to_the_M%C3%A4jilis_%2855498%29_%28cropped%29.jpg/500px-Speaker_of_the_Grand_National_Assembly_of_Turkey_comes_to_the_M%C3%A4jilis_%2855498%29_%28cropped%29.jpg",
@@ -951,7 +950,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Speaker_of_the_Grand_National_Assembly_of_Turkey_comes_to_the_M%C3%A4jilis_(55498)_(cropped).jpg",
         "aciklama": "Speaker of the Grand National Assembly of Turkey Numan Kurtulmuş visits the Kazakh Mäjilis, May 2024",
         "konu": "Numan Kurtulmuş"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2014-irak-sam-islam-devletine-isid-karsi-verdigi",
@@ -961,8 +961,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2015-turkiyede-26-donem-milletvekili-secimleri-yapildi-secim",
@@ -978,8 +978,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2024-sirbistanda-novi-sad-tren-istasyonunda-bir-beton",
@@ -992,7 +992,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Novi_Sad_railway_station_canopy_collapse.jpg/960px-Novi_Sad_railway_station_canopy_collapse.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Novi_Sad_railway_station_canopy_collapse.jpg/500px-Novi_Sad_railway_station_canopy_collapse.jpg",
@@ -1005,7 +1004,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Novi_Sad_railway_station_canopy_collapse.jpg",
         "aciklama": "On 1 November 2024, 35 m of canopy of the main railway station in Novi Sad, Serbia, collapsed onto people walking and sitting underneath.",
         "konu": "Novi Sad tren garı üst çatısının çökmesi"
-      }
+      },
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -1636,5 +1636,456 @@
     "url": "https://tr.wikipedia.org/wiki/1_Kas%C4%B1m",
     "revid": 38168255
   },
-  "guncelleme": "2026-10-21T21:26:30.270Z"
+  "guncelleme": "2026-10-21T21:27:07.884Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2448823",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "6.1'lik Sındırgı depreminin hasar tespiti tamamlandı: Bakan Murat Kurum 'bilançoyu' paylaştı",
+      "aciklama": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Sındırgı depreminin hasar tespit çalışmalarının tamamlandığını bildirdi. Bakan Kurum verileri paylaştı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/6-1-lik-sindirgi-depreminin-hasar-tespiti-tamamlandi-bakan-murat-kurum-bilancoyu-paylasti-2448823"
+      },
+      "konular": [],
+      "yayin": "2025-11-01T13:44:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2025-haber-2448791",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez Bankası'ndan yeni 'döviz' kararı: Tarih verildi",
+      "aciklama": "TCMB firmaların döviz dönüşüm desteğini uzattı. Kararla birlikte firmaların yurt dışı kaynaklı dövizlerinin Türk lirasına dönüşümünde sağlanan destek uygulaması 30 Nisan 2026'da sona erecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasi-ndan-yeni-doviz-karari-tarih-verildi-2448791"
+      },
+      "konular": [],
+      "yayin": "2025-11-01T11:37:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2264200",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ekim ayı gıda enflasyon verileri açıklandı: Zam şampiyonları belli oldu!",
+      "aciklama": "TEPAV verilerine göre, ekim ayında gıda enflasyonu yüzde 2,06 artarken, yıllık artış yüzde 45,67 oldu. Yıl başından bu yana gıda fiyatlarındaki yükseliş ise yüzde 32,14 olarak kaydedildi. Çarliston biber, sivri biber ve kabakta önemli fiyat artışları dikkat çekti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/ekim-ayi-gida-enflasyon-verileri-aciklandi-zam-sampiyonlari-belli-oldu-2264200"
+      },
+      "konular": [],
+      "yayin": "2024-11-01T16:47:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2264212",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Milli halterci Enes Çelik'ten Avrupa Şampiyonasında madalya",
+      "aciklama": "Gençler Avrupa Halter Şampiyonası'nda milli sporcu Enes Çelik, 96 kiloda 2 altın ve 1 gümüş madalya kazanarak Avrupa şampiyonu oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/milli-halterci-enes-celikten-avrupa-sampiyonasinda-madalya-2264212"
+      },
+      "konular": [],
+      "yayin": "2024-11-01T17:04:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2136458",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Talep kabul edildi: Erdoğan, Hrant Dink davasına müdahil oldu!",
+      "aciklama": "AGOS Gazetesi Genel Yayın Yönetmeni Hrant Dink'in öldürülmesine ilişkin kamu görevlilerinin yargılandığı 15 sanık yönünden kısmen bozularak Yargıtay'dan dönen davada, üst mahkemenin bozma kararına uyuldu. Davaya, Cumhurbaşkanlığı avukatının",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/talep-kabul-edildi-erdogan-hrant-dink-davasina-mudahil-oldu-2136458"
+      },
+      "konular": [],
+      "yayin": "2023-11-01T15:29:00+03:00",
+      "puan": 15,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2136559",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Şampiyonlar Kupası Ziraat Bankkart'ın!",
+      "aciklama": "Voleybolda Erkekler AXA Sigorta Şampiyonlar Kupası'nda Halkbank ile karşılaşan Ziraat Bankkart, rakibini 3-1 yenerek kupanın sahibi oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/sampiyonlar-kupasi-ziraat-bankkartin-2136559"
+      },
+      "konular": [],
+      "yayin": "2023-11-01T21:06:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-1998617",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Japonya'nın Dünya Kupası kadrosu belli oldu: Eski Galatasaraylı futbolcu da yer aldı",
+      "aciklama": "Japonya Futbol Milli Takımı, Katar'da düzenlenecek FIFA Dünya Kupası kadrosunu açıkladı. Japonya Milli Takımı Teknik Direktörü Hajime Moriyasu'nun açıkladığı kadroda bir dönem Galatasaray'da forma giyen Yuto Nagatomo da yer aldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/japonyanin-dunya-kupasi-kadrosu-belli-oldu-eski-galatasarayli-futbolcu-da-yer-aldi-1998617"
+      },
+      "konular": [],
+      "yayin": "2022-11-01T17:38:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-1998342",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolar/TL'de yatay seyir hakim: Dolar ne kadar oldu? (1 Kasım 2022)",
+      "aciklama": "Dolar/TL iki haftadan biraz uzun süredir 18.6 civarında tarihi zirvelerinde anlamlı bir değişim göstermeden yatay işlem görüyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/dolartlde-yatay-seyir-hakim-dolar-ne-kadar-oldu-1-kasim-2022-1998342"
+      },
+      "konular": [],
+      "yayin": "2022-11-01T09:31:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1881184",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ligin zirvesindeki Trabzonspor, borsada da rekorlara koşuyor",
+      "aciklama": "Geçen ay yüzde 65,8 ile yatırımcısına en fazla kazandıran spor şirketi olan Trabzonspor, böylece 18 ayın en iyi performansını sergiledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/ligin-zirvesindeki-trabzonspor-borsada-da-rekorlara-kosuyor-1881184"
+      },
+      "konular": [],
+      "yayin": "2021-11-01T11:04:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1881128",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Cumhurbaşkanlığı 2. Uluslararası Yat Yarışları tamamlandı",
+      "aciklama": "Cumhurbaşkanlığı 2. Uluslararası Yat Yarışları, İstanbul etabının üçüncü ve son gününde gerçekleştirilen Barbaros Hayreddin Paşa Kupası'yla tamamlandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/cumhurbaskanligi-2-uluslararasi-yat-yarislari-tamamlandi-1881128"
+      },
+      "konular": [],
+      "yayin": "2021-11-01T10:15:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1787625",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Judo Milli Takımı, Gençler Avrupa Şampiyonası'na hazır",
+      "aciklama": "Kemer ilçesinde kamp yapan Türkiye Judo Milli Takımı, 4 Kasım'da Hırvatistan'da yapılacak olan Gençler Avrupa Şampiyonası'na hazır.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/judo-milli-takimi-gencler-avrupa-sampiyonasina-hazir-1787625"
+      },
+      "konular": [],
+      "yayin": "2020-11-01T12:54:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1572876",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Robot, Sabiha Gökçen Uluslararası Havalimanı’nda göreve başladı",
+      "aciklama": "İstanbul Sabiha Gökçen Uluslararası Havalimanı’nda yolculara yardım etmesi, danışmanlık hizmeti vermesi için gidiş terminalinde 'Aerobot' adı verilen robot hizmete başladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/robot-sabiha-gokcen-uluslararasi-havalimaninda-goreve-basladi-1572876"
+      },
+      "konular": [],
+      "yayin": "2019-11-01T10:54:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1128639",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP'li Bekaroğlu: Yerel seçimlerden hemen sonraki gün IMF anlaşması yapacaklar",
+      "aciklama": "CHP İstanbul Milletvekili Mehmet Bekaroğlu,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chpli-bekaroglu-yerel-secimlerden-hemen-sonraki-gun-imf-anlasmasi-yapacaklar-1128639"
+      },
+      "konular": [],
+      "yayin": "2018-11-01T16:33:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-857640",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fed, faiz kararını açıkladı (01.11.2017)",
+      "aciklama": "ABD Merkez Bankası (Fed) kasım toplantısında politika faizini beklendiği gibi sabit tuttu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fed-faiz-kararini-acikladi-857640"
+      },
+      "konular": [],
+      "yayin": "2017-11-01T21:46:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-857615",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Borsa İstanbul'da yeni rekor",
+      "aciklama": "Borsa İstanbul günü rekor değerlerle kapadı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/borsa-istanbulda-yeni-rekor-857615"
+      },
+      "konular": [],
+      "yayin": "2017-11-01T18:22:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-624782",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "SK Telecom T1 üçüncü kez dünya şampiyonu oldu!",
+      "aciklama": "Dünyanın en çok oynanan online oyunları arasında yer alan League of Legends, bir diğer Dünya Şampiyonası’nı daha tamamladı. SKT yine zirveden düşmese de, rakibi kupayı  kolay teslim etmedi ve dünya şampiyonu oldu. Bu efsanevi turnuva ile ilgili detaylar haberimizde.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/sk-telecom-t1-ucuncu-kez-dunya-sampiyonu-oldu-624782"
+      },
+      "konular": [],
+      "yayin": "2016-11-01T21:10:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-624420",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Oğuz Gündoğdu: Depremi 48 saat öncesinden haber verecek sistem yok",
+      "aciklama": "Jeoloji mühendisi Yard. Doç. Dr. Oğuz Gündoğdu, depremleri 48 saat öncesinden belirleyebilen bir sistem olmadığını belirterek, İtalya?da 6.5 büyüklüğündeki depremden önceki sarsıntılar nedeniyle yöneticilerin tehlike oluşturan binalara girilmemesi uyarılarıyla can kaybının önüne ",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/oguz-gundogdu-depremi-48-saat-oncesinden-haber-verecek-sistem-yok-624420"
+      },
+      "konular": [],
+      "yayin": "2016-11-01T09:36:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-401823",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "7 Haziran seçimlerinde yüzde 10,8 ile açılan HDP bakın kaç ile açıldı",
+      "aciklama": "7 Haziran Genel Seçimleri'nde Anadolu Ajansı HDP'nin oy oranını ilk sonuçlarda 10,8 ile yansıtmıştı. Bu seçimlerde Anadolu Ajansı ilk sonuçlarında HDP'nin oy oranı değişiklik gösterdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/7-haziran-secimlerinde-yuzde-108-ile-acilan-hdp-bakin-kac-ile-acildi-401823"
+      },
+      "konular": [],
+      "yayin": "2015-11-01T18:10:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-402321",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP'li Özel'den ilk seçim değerlendirmesi",
+      "aciklama": "CHP Grup Başkanvekili Özgür Özel, 1 Kasım seçimleri ile ilgili olarak,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chpli-ozelden-ilk-secim-degerlendirmesi-402321"
+      },
+      "konular": [],
+      "yayin": "2015-11-01T23:31:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-136373",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Türkiye'ye iyi haber! Anlaşma imzalandı",
+      "aciklama": "Rusya, Ukrayna ve Avrupa Birliği, Brüksel’de 24 saat devam eden çetin görüşmelerin sonunda Rusya’dan Ukrayna’ya giden gaz vanasının açılması için anlaştılar.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/turkiyeye-iyi-haber-anlasma-imzalandi-136373"
+      },
+      "konular": [],
+      "yayin": "2014-11-01T12:22:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-136487",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Milli takıma seçildim ama kimseye söylemeyin",
+      "aciklama": "Ampute futbolu son günlerde artan televizyon yayınlarıyla daha çok insanın ilgisini çekiyor. Bu sporu saf bir sosyal sorumluluk projesi olarak görebilirsiniz ama maçlar kimi zaman fair-play havasından uzaklaşıyor. Bu da çok doğal çünkü sahada sırf engelli sporcular değil, onların",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/milli-takima-secildim-ama-kimseye-soylemeyin-136487"
+      },
+      "konular": [],
+      "yayin": "2014-11-01T21:29:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-5361",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolar 2 liranın üzerinde",
+      "aciklama": "Bankalararası piyasada dolar kuru 7 Ekim'den bu yana ilk kez 2 liranın üzerine yükseldi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/dolar-2-liranin-uzerinde-5361"
+      },
+      "konular": [],
+      "yayin": "2013-11-01T12:30:00+03:00",
+      "puan": 4,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-5353",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Gazze sınırındaki tünelde patlama",
+      "aciklama": "İsrail ordusu, sınırdaki bir tünelin imhası sırasında meydana gelen patlamada 5 İsrail askerinin yaralandığını açıkladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/gazze-sinirindaki-tunelde-patlama-5353"
+      },
+      "konular": [],
+      "yayin": "2013-11-01T12:22:00+03:00",
+      "puan": 4,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-380440",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "9. Cumhurbaşkanı Demirel 88 yaşında",
+      "aciklama": "Isparta'nın Atabey ilçesine bağlı İslamköy'de 1 Kasım 1924'te doğan 9. Cumhurbaşkanı Süleyman Demirel, 88. yaşını Güniz Sokak'taki evinde kutladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/9-cumhurbaskani-demirel-88-yasinda-380440"
+      },
+      "konular": [],
+      "yayin": "2012-11-01T21:43:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-380304",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İstanbul Autoshow 2012 açıldı",
+      "aciklama": "Türkiye ekonomisinin lokomotifi olan otomotiv sektörünün, en büyük şovu İstanbul Autoshow 2012 açıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/istanbul-autoshow-2012-acildi-380304"
+      },
+      "konular": [],
+      "yayin": "2012-11-01T10:41:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-294934",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "'Cumhurbaşkanımız, AKP'yle aynı havuza su taşıyor'",
+      "aciklama": "CHP İstanbul Milletvekili Aydın Ayaydın, Cumhurbaşkanının tüm cumhurun başı olup, din, dil, ırk, mezhep farkı gözetmeksizin 74 milyon vatandaşın devlet başkanı olduğuna işaret ederek, buna karşın Gül'ün kendisini AKP'lilerin Cumhurbaşkanı olarak gördüğünü ileri sürdü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/cumhurbaskanimiz-akpyle-ayni-havuza-su-tasiyor-294934"
+      },
+      "konular": [],
+      "yayin": "2011-11-01T12:12:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-294862",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez Bankası'nın zorunlu karşılık kararı",
+      "aciklama": "Merkez Bankası, 28 Ekim Cuma günü itibarıyla banka nezdinde 1,2 milyar ABD doları değerinde 21,6 ton altın tutulmaya başlandığını açıkladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/merkez-bankasinin-zorunlu-karsilik-karari-294862"
+      },
+      "konular": [],
+      "yayin": "2011-11-01T09:32:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }

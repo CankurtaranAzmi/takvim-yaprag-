@@ -16,7 +16,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2006-07_altaj_belucha.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2006-07_altaj_belucha.jpg",
@@ -29,7 +28,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:2006-07_altaj_belucha.jpg",
         "aciklama": "Altay mountains (Belukha), photo by Vít Hněvkovský, 2006 Pohoří Altaj (hora Bělucha)",
         "konu": "Altay Dağları"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1851-moby-dick-abdde-yayimlanmasindan-bir-ay-once",
@@ -41,7 +41,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Moby-Dick_FE_title_page.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Moby-Dick_FE_title_page.jpg",
@@ -54,7 +53,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Moby-Dick_FE_title_page.jpg",
         "aciklama": "Title page of the first edition of en:Moby-Dick, 1851. Source: Beinecke Library, en:Yale University URL: http://beinecke.library.yale.edu/dl_crosscollex/photoneg/oneITEM.asp?pid=39002036007103&iid=360",
         "konu": "Moby Dick"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1867-abd-alaskayi-rusyadan-7-2-milyon-dolar",
@@ -68,8 +68,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1892-chicago-ve-new-york-arasinda-ilk-uzun",
@@ -83,7 +83,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_River_ferry_b.jpg/960px-Chicago_River_ferry_b.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_River_ferry_b.jpg/500px-Chicago_River_ferry_b.jpg",
@@ -137,7 +136,8 @@
           "aciklama": "rotary dial telephone made out of bakelite",
           "konu": "telefon"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1898-abd-porto-rikonun-sahibi-oldu",
@@ -150,8 +150,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1912-trablusgarp-savasini-sona-erdiren-usi-antlasmasi-imzalandi",
@@ -164,7 +164,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Italo-Turkish_war_collage.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Italo-Turkish_war_collage.jpg",
@@ -205,7 +204,8 @@
           "aciklama": "Turkish and Italian delegations at Lausanne for the Treaty of Ouchy, also known as the 1912 Treaty of Lausanne. From Right to left : Giuseppe Volpi, Roumbeyoglou Fahreddin, Guido Fusinato, Mèhemmed Na",
           "konu": "Uşi Antlaşması"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1920-turkiye-komunist-firkasi-ankarada-resmen-kuruldu",
@@ -218,7 +218,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
@@ -231,7 +230,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
         "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
         "konu": "Ankara"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1920-saimbeylinin-kurtulusu",
@@ -243,7 +243,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Saimbeyli%2C_Adana_07.JPG/960px-Saimbeyli%2C_Adana_07.JPG",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Saimbeyli%2C_Adana_07.JPG/500px-Saimbeyli%2C_Adana_07.JPG",
@@ -256,7 +255,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Saimbeyli,_Adana_07.JPG",
         "aciklama": "A partial view of Saimbeyli town from Kalesekisi Road. Saimbeyli - Adana, Turkey.",
         "konu": "Saimbeyli"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1922-ingiliz-yayin-kurulusu-bbc-british-broadcasting-company",
@@ -269,8 +269,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1924-tbmmnin-yeni-binasi-hizmete-acildi",
@@ -283,7 +283,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Ankara_asv2021-10_img71_Republic_Museum.jpg/960px-Ankara_asv2021-10_img71_Republic_Museum.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Ankara_asv2021-10_img71_Republic_Museum.jpg/500px-Ankara_asv2021-10_img71_Republic_Museum.jpg",
@@ -296,7 +295,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img71_Republic_Museum.jpg",
         "aciklama": "Exterior view of Museum of the Republic in Ankara, Turkey",
         "konu": "II. TBMM Binası"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1936-ataturk-ankara-hipodromunda-at-yarislarini-izledi",
@@ -309,7 +309,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -350,7 +349,8 @@
           "aciklama": "Atatürk speaks during the 10th anniversary celebrations of the Republic of Turkey.",
           "konu": "Ankara Hipodromu"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1943-ulvi-cemal-erkin-ve-necil-kazim-akses",
@@ -364,7 +364,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/960px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/500px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
@@ -377,7 +376,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Museumsinsel_Berlin_Juli_2021_1_(cropped).jpg",
         "aciklama": "Museumsinsel in Berlin, im Hintergrund der Fernsehturm am Alexanderplatz, Juli 2021",
         "konu": "Berlin"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1944-sovyetler-birligi-cekoslovakyayi-isgal-etti",
@@ -390,8 +390,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1954-texas-instruments-sirketi-ilk-transistorlu-radyoyu-uretti",
@@ -403,7 +403,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/TexasInstruments.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/TexasInstruments.png",
@@ -416,7 +415,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:TexasInstruments.png",
         "aciklama": "This photograph was taken by Alan Mak on September 5th, 2005 at a branch office of Texas Instrumemt at Goleta, California, USA.",
         "konu": "Texas Instruments"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1967-sovyetler-birliginin-firlattigi-venera-4-uzay-araci",
@@ -430,7 +430,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg/960px-PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg/500px-PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg",
@@ -443,7 +442,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:PIA23791-Venus-RealAndEnhancedContrastViews-20200608_(cropped).jpg",
         "aciklama": "PIA23791: Venus from Mariner 10 https://photojournal.jpl.nasa.gov/catalog/PIA23791 Click here for the combined view for PIA23791 Click on an individual image below for the larger versions: Click here ",
         "konu": "Venüs (gezegen)"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1968-dunya-olimpiyat-komitesi-iki-zenci-atleti-tommie",
@@ -457,8 +457,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1976-basbakan-suleyman-demirel-firat-nehri-uzerindeki-karakaya",
@@ -472,7 +472,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg",
@@ -513,7 +512,8 @@
           "aciklama": "The Euphrates River in Turkey, Rumkale",
           "konu": "Fırat"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1977-filistinli-gerillalarin-somalinin-mogadisu-havaalanina-kacirdigi-lufthansa",
@@ -529,7 +529,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Mogacapital.jpg/960px-Mogacapital.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Mogacapital.jpg/500px-Mogacapital.jpg",
@@ -570,7 +569,8 @@
           "aciklama": "Airbus A340 en colores de Star Alliance: de la compañía aérea Lufthansa despegando del aeropuerto de Zúrich.",
           "konu": "Lufthansa"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1979-balgat-katliaminin-iki-sanigi-sag-goruslu-militanlar",
@@ -584,8 +584,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1982-574-sanikli-ankara-dev-yol-davasi-basladi-186",
@@ -597,8 +597,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1988-tuzlada-7-ekimde-turkiye-isci-koylu-kurtulus",
@@ -611,7 +611,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Tuzla_Sahil.jpg/960px-Tuzla_Sahil.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Tuzla_Sahil.jpg/500px-Tuzla_Sahil.jpg",
@@ -624,7 +623,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Tuzla_Sahil.jpg",
         "aciklama": "An aerial view of the Tuzla district in the Asian side of Istanbul, on the Marmara Sea coast.",
         "konu": "Tuzla, İstanbul"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1989-dogu-almanya-lideri-erich-honecker-istifa-etti",
@@ -637,7 +637,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bundesarchiv_Bild_183-R0518-182%2C_Erich_Honecker.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bundesarchiv_Bild_183-R0518-182%2C_Erich_Honecker.jpg",
@@ -650,7 +649,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R0518-182,_Erich_Honecker.jpg",
         "aciklama": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Erich Honecker ADN-ZB / DEWAG 29.10.197",
         "konu": "Erich Honecker"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1991-azerbaycan-sovyetler-birliginden-bagimsizligini-ilan-etti-ilk",
@@ -663,8 +663,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1993-yunanistanda-andreas-papandreounun-ikinci-basbakanlik-donemi-basladi",
@@ -677,7 +677,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Andreas_Papandreou_%281968%29_2.jpg/960px-Andreas_Papandreou_%281968%29_2.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Andreas_Papandreou_%281968%29_2.jpg/500px-Andreas_Papandreou_%281968%29_2.jpg",
@@ -690,7 +689,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Andreas_Papandreou_(1968)_2.jpg",
         "aciklama": "Andreas Papandreou (Griekenland) houdt persconferentie in Poort van Cleve, Amsterdam 24 april 1968",
         "konu": "Andreas Papandreou"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1996-gazeteci-metin-goktepenin-gozaltinda-dovulerek-oldurulmesiyle-ilgili",
@@ -703,7 +703,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Metin_G%C3%B6ktepe_mezar_ba%C5%9F%C4%B1_anmas%C4%B1_2020.jpg/960px-Metin_G%C3%B6ktepe_mezar_ba%C5%9F%C4%B1_anmas%C4%B1_2020.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Metin_G%C3%B6ktepe_mezar_ba%C5%9F%C4%B1_anmas%C4%B1_2020.jpg/500px-Metin_G%C3%B6ktepe_mezar_ba%C5%9F%C4%B1_anmas%C4%B1_2020.jpg",
@@ -744,7 +743,8 @@
           "aciklama": "Monument to Turkish War of Independence in Aydın, Turkey",
           "konu": "Aydın"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1996-yargitay-yasar-kemale-verilen-1-yil-8",
@@ -757,7 +757,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Court_of_Cassation_in_Ankara.jpg/960px-Court_of_Cassation_in_Ankara.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Court_of_Cassation_in_Ankara.jpg/500px-Court_of_Cassation_in_Ankara.jpg",
@@ -798,7 +797,8 @@
           "aciklama": "Yılmaz Büyükerşen wax Museum, Eskişehir (Yaşar Kemal)",
           "konu": "Yaşar Kemal"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "2002-fildisi-sahilinde-bir-ay-suren-catismalarin-ardindan",
@@ -810,8 +810,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2007-eski-pakistan-basbakani-benazir-butto-8-yillik",
@@ -824,7 +824,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Oliver_Mark_-_Benazir_Bhutto%2C_Dubai_2006_%28cropped%29.jpg/960px-Oliver_Mark_-_Benazir_Bhutto%2C_Dubai_2006_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Oliver_Mark_-_Benazir_Bhutto%2C_Dubai_2006_%28cropped%29.jpg/500px-Oliver_Mark_-_Benazir_Bhutto%2C_Dubai_2006_%28cropped%29.jpg",
@@ -837,7 +836,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Oliver_Mark_-_Benazir_Bhutto,_Dubai_2006_(cropped).jpg",
         "aciklama": null,
         "konu": "Benazir Butto"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2020-koronavirus-salgini-onaylanmis-covid-19-vakalarinin-sayisi-dunya",
@@ -850,8 +850,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -1500,6 +1500,10 @@
     {
       "yil": 2025,
       "metin": "Nabil Shaban, İngiliz oyuncu (d. 1953)"
+    },
+    {
+      "yil": 2026,
+      "metin": "Lua Blanco, Brezilyalı oyuncu ve şarkıcı (d. 1987)"
     }
   ],
   "ozelGunler": [
@@ -1509,9 +1513,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/18_Ekim",
-    "revid": 38293014
+    "revid": 38307460
   },
-  "guncelleme": "2026-10-21T11:21:53.566Z",
+  "guncelleme": "2026-10-21T21:27:02.663Z",
   "haberler": [
     {
       "id": "2025-haber-2444783",

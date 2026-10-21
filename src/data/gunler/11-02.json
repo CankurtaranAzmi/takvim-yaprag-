@@ -1374,5 +1374,424 @@
     "url": "https://tr.wikipedia.org/wiki/2_Kas%C4%B1m",
     "revid": 38168530
   },
-  "guncelleme": "2026-10-21T21:26:32.325Z"
+  "guncelleme": "2026-10-21T21:26:32.325Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2448972",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Meclis’in geçen seneye göre bütçe artışı MHP’nin bile dikkatini çekti: Kaynağı kendine buldu",
+      "aciklama": "Toplum geçim sıkıntısıyla boğuşurken Meclis’in 2026 bütçesindeki yüksek artış oranları MHP’nin bile dikkatini çekti. Hizmet alımlarından sermaye giderlerine kadar kalemlerde yüzde 500’e varan artışlar tartışma yarattı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/meclis-in-gecen-seneye-gore-butce-artisi-mhp-nin-bile-dikkatini-cekti-kaynagi-kendine-buldu-2448972"
+      },
+      "konular": [],
+      "yayin": "2025-11-02T04:00:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2025-haber-2449180",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Beşiktaş-Fenerbahçe derbisi olaylı başladı: İki kırmızı kart birden!",
+      "aciklama": "Süper Lig'în 11. haftasında oynanan Beşiktaş - Fenerbahçe derbisinde Orkun Kökçü ile Sergen Yalçın kırmızı kart gördü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/besiktas-fenerbahce-derbisi-olayli-basladi-iki-kirmizi-kart-birden-2449180"
+      },
+      "konular": [],
+      "yayin": "2025-11-02T20:48:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2264382",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Küresel piyasalar Fed'in faiz kararı ve ABD Başkanlık seçimlerine odaklandı",
+      "aciklama": "Geri sayımın sürdüğü ABD'de 5 Kasım'da yapılacak seçimlerin muhtemel sonuçları, küresel piyasalara olan etkisi sebebiyle yatırımcılar tarafından yakından takip ediliyor",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/kuresel-piyasalar-fedin-faiz-karari-ve-abd-baskanlik-secimlerine-2264382"
+      },
+      "konular": [],
+      "yayin": "2024-11-02T11:13:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2264345",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Son depremler! Deprem mi oldu? 2 Kasım 2024 nerede, ne zaman deprem oldu?",
+      "aciklama": "Son depremler! Az önce deprem mi oldu? Sarsıntı hisseden yurttaşlar, 32 Ekim 2024 son depremlerin nerede ve kaç büyüklüğünde olduğunu merak ediyor. Deprem mi oldu? Nerede, ne zaman deprem oldu? 2 Kasım 2024 Türkiye'deki depremler...",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/son-depremler-deprem-mi-oldu-2-kasim-2024-nerede-ne-zaman-deprem-2264345"
+      },
+      "konular": [],
+      "yayin": "2024-11-02T09:23:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2136718",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Sberbank’tan 4.4 milyar dolarlık rekor net kâr",
+      "aciklama": "Rusya’nın en büyük bankası Sberbank’ın yılın üçüncü çeyreğinde 411,4 milyar ruble (yaklaşık 4,4 milyar dolar) ile rekor seviyede kâr elde ettiği bildirildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/sberbanktan-44-milyar-dolarlik-rekor-net-kar-2136718"
+      },
+      "konular": [],
+      "yayin": "2023-11-02T11:59:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2136822",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Şampiyonlar Ligi'ndeki büst krizinde hükmen mağlup kararı!",
+      "aciklama": "Sepahan ile EI-İttihad takımları arasında oynanan Asya Şampiyonlar Ligi mücadelesi, stadyumda bulunan Kasım Süleymani büstü nedeniyle iptal edilmişti. Karşılaşmaya çıkmayı reddeden İran ekibi Sepahan, hükmen mağlup ilan edildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/sampiyonlar-ligindeki-bust-krizinde-hukmen-maglup-karari-2136822"
+      },
+      "konular": [],
+      "yayin": "2023-11-02T15:52:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-1998842",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ankara kulisleri kaynıyor: 'Erdoğan, AKP'yi artık bir yük olarak görmeye başladı'",
+      "aciklama": "AKP'deki istifalar ve çatlakların ardından Ankara kulislerinde AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan’ın AKP’yi artık bir yük olarak görmeye başladığı iddia edildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/ankara-kulisleri-kayniyor-erdogan-akpyi-artik-bir-yuk-olarak-gormeye-basladi-1998842"
+      },
+      "konular": [],
+      "yayin": "2022-11-02T11:55:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-1998691",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan'dan milletvekilleri ve bakanlara 'seçime kadar enflasyon ve fahiş fiyatla mücadele edilmesi' talimatı",
+      "aciklama": "AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan tarafından",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/erdogandan-milletvekilleri-ve-bakanlara-secime-kadar-enflasyon-ve-fahis-fiyatla-mucadele-edilmesi-talimati-1998691"
+      },
+      "konular": [],
+      "yayin": "2022-11-02T00:25:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1881441",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İstanbul'da ekim ayı zam şampiyonu açıklandı",
+      "aciklama": "Ekim ayında İstanbul’da yüzde 33,33 ile en fazla mektup gönderim ücreti arttı. Bu ayda limon ise en çok ucuzlayan ürün oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/istanbulda-ekim-ayi-zam-sampiyonu-aciklandi-1881441"
+      },
+      "konular": [],
+      "yayin": "2021-11-02T10:31:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1881456",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Seçimlere dikkat çekildi: AKP hükümeti, EYT’liler ve asgari ücret için harekete geçti",
+      "aciklama": "AKP hükümeti, asgari ücret ve emeklilikte yaşa takılanlara yönelik düzenlemeler için harekete geçti. Reuters haber ajansı haberinde, AKP hükümetinin söz konusu adımının seçimler öncesinde geldiğine dikkat çekti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/secimlere-dikkat-cekildi-akp-hukumeti-eytliler-ve-asgari-ucret-icin-harekete-gecti-1881456"
+      },
+      "konular": [],
+      "yayin": "2021-11-02T11:05:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1787802",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Milli judocu Vedat: Avrupa Şampiyonası ve olimpiyatlarda da devam",
+      "aciklama": "İBBSK judocusu Vedat Albayrak’ın gözü kürsüde.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/milli-judocu-vedat-avrupa-sampiyonasi-ve-olimpiyatlarda-da-devam-1787802"
+      },
+      "konular": [],
+      "yayin": "2020-11-02T10:17:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1787886",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Yeni Zelanda'da ilk kez yerli halktan bir kadın dışişleri bakanlığına atandı",
+      "aciklama": "Geçen ay yapılan genel seçimlerden tarihi zaferle çıkan Başbakan Jacinda Ardern, kabinesini açıkladı. Ardern, Dışişleri Bakanlığı'na ülkenin yerli halkı Maorilerden Nanaia Mahut'u atadı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/yeni-zelandada-ilk-kez-yerli-halktan-bir-kadin-disisleri-bakanligina-atandi-1787886"
+      },
+      "konular": [],
+      "yayin": "2020-11-02T14:12:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1573014",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Yapay zekâda şampiyon ‘makine’",
+      "aciklama": "Yapay zekâ, hem sektör hem de bilimsel gelişmeler açısından altın çağını yaşıyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/yapay-zekada-sampiyon-makine-1573014"
+      },
+      "konular": [],
+      "yayin": "2019-11-02T10:29:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1572995",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Rukiye Yıldırım Avrupa şampiyonu",
+      "aciklama": "Tekvandoda Rukiye Yıldırım, rakibini yendi altın madalya kazandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/rukiye-yildirim-avrupa-sampiyonu-1572995"
+      },
+      "konular": [],
+      "yayin": "2019-11-02T00:02:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1129965",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fenerbahçeli taraftar derbide hayatını kaybetti",
+      "aciklama": "Fenerbahçe Kulübü, Galatasaray derbisini izlemeye gelen bir taraftarının, geçirdiği kalp krizi sonucu hayatını kaybettiğini açıkladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fenerbahceli-taraftar-derbide-hayatini-kaybetti-1129965"
+      },
+      "konular": [],
+      "yayin": "2018-11-02T21:59:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1129258",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Galatasaray - Fenerbahçe derbisi sahadan önce sosyal medyada başladı",
+      "aciklama": "Spor Toto Süper Lig'in iki ezeli rakibi Galatasaray ile Fenerbahçe ligin 11. haftasında bu akşam karşı karşıya geliyor. Karşılaşma öncesi iki kulübün resmi Twitter hesaplarından karşılıklı paylaşımlar geldi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/galatasaray-fenerbahce-derbisi-sahadan-once-sosyal-medyada-basladi-1129258"
+      },
+      "konular": [],
+      "yayin": "2018-11-02T11:59:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-625268",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fed faiz kararını açıkladı (02.11.2016)",
+      "aciklama": "Amerikan Merkez Bankası (Fed), beklenen faiz kararını açıkladı ve beklendiği gibi faizlerde bir değişikliğe gitmedi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fed-faiz-kararini-acikladi-625268"
+      },
+      "konular": [],
+      "yayin": "2016-11-02T21:06:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-624905",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Avrupa Birliği'nden 'Cumhuriyet' açıklaması: Erdoğan'ın hatası olur",
+      "aciklama": "Avrupa Birliği yetkililerine göre, Cumhuriyet gazetesi ve basına yönelik operasyonlar 2017’de başlaması öngörülen vize serbestisini olumsuz etkileyecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/avrupa-birliginden-cumhuriyet-aciklamasi-erdoganin-hatasi-olur-624905"
+      },
+      "konular": [],
+      "yayin": "2016-11-02T09:47:00+03:00",
+      "puan": 6,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-403677",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "MHP'de seçim çatlağı büyüyor.. Bir istifa daha",
+      "aciklama": "MHP'de çatlak büyüyor. Çanakkale İl Başkanı ve Balıkesir İlçe Başkanı'nın görevlerini bırakmalarının ardından bir istifa da Erzurum'dan geldi. Narman İlçe Başkanı Seyfullah Kılıç, seçim sonuçlarından dolayı görevinden istifa ettiğini bildirdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/mhpde-secim-catlagi-buyuyor-bir-istifa-daha-403677"
+      },
+      "konular": [],
+      "yayin": "2015-11-02T22:19:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-136559",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Başbakan Pirlo böyle istedi",
+      "aciklama": "İtalya Ligi Serie A'nın 10 haftasında Empoli ile Juventus karşı karşıya geldi. Carlo Castellani Stadı'nda oynanan mücadeleyi 2-0 kazanan Juventus, liderliğini devam ettirdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbakan-pirlo-boyle-istedi-136559"
+      },
+      "konular": [],
+      "yayin": "2014-11-02T10:02:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-5605",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fenerbahçe'de",
+      "aciklama": "Fenerbahçe'de üç yöneticinin geleceğine dair son sözü genel kurul üyeleri söyledi ve üç isimin yöneticilikleri önündek tüm engeller kalktı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fenerbahcede-kotu-sohret-oylamasi-5605"
+      },
+      "konular": [],
+      "yayin": "2013-11-02T13:50:00+03:00",
+      "puan": 4,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-380624",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Başbakan Erdoğan'dan Önkibar'a tazminat davası",
+      "aciklama": "Başbakan Recep Tayyip Erdoğan, Aydınlık Gazetesi'ndeki bir köşe yazısında kişilik haklarına saldırıda bulunduğu gerekçesiyle yazıyı kaleme alan Sabahattin Önkibar, gazetenin Yönetim Kurulu Başkanı Mehmet Sabuncu ve gazeteye 100 bin liralık manevi tazminat davası açtı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbakan-erdogandan-onkibara-tazminat-davasi-380624"
+      },
+      "konular": [],
+      "yayin": "2012-11-02T15:40:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-380522",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "ABD başkanlık seçimlerinde ''ateşkes'' sona erdi",
+      "aciklama": "ABD Başkanı Barack Obama ve Cumhuriyetçi Parti'nin başkan adayı Mitt Romney, Sandy kasırgası nedeniyle seçim kampanyasını ''ateşkesle'' geçirdikleri son birkaç günün ardından, birbirlerine karşı tekrar sert eleştiriler yönelttikleri seçim turlarına geri döndüler.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/abd-baskanlik-secimlerinde-ateskes-sona-erdi-380522"
+      },
+      "konular": [],
+      "yayin": "2012-11-02T10:03:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-295192",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Meclis N.Ç kararını tartışıyor",
+      "aciklama": "TBMM Kadın Erkek Fırsat Eşitliği Komisyonu Başkanvekili ve CHP İstanbul Milletvekili Binnaz Toprak, 13 yaşındaki N.Ç'ye tecavüz davasında Yargıtay'ın verdiği kararın kabul edilebilir olmadığını belirterek, ''Toplumun vicdanının sesinin yükselmesi lazım'' dedi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/meclis-nc-kararini-tartisiyor-295192"
+      },
+      "konular": [],
+      "yayin": "2011-11-02T13:09:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-295180",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "12. Antalya Piyano Festivali Kasım'da başlıyor",
+      "aciklama": "Antalya Büyükşehir Belediyesince düzenlenen, sanat yönetmenliğini Fazıl Say'ın yaptığı 12. Uluslararası Antalya Piyano Festivali, 25 Kasım-17 Aralıkta yapılacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/12-antalya-piyano-festivali-kasimda-basliyor-295180"
+      },
+      "konular": [],
+      "yayin": "2011-11-02T12:20:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }

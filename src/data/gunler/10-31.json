@@ -13,8 +13,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "644-omer-bin-hattab-kendisinden-alinan-verginin-azaltilmasini",
@@ -28,7 +28,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Hagia_Sopia_6163502494_%28cropped%29.jpg/960px-Hagia_Sopia_6163502494_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Hagia_Sopia_6163502494_%28cropped%29.jpg/500px-Hagia_Sopia_6163502494_%28cropped%29.jpg",
@@ -82,7 +81,8 @@
           "aciklama": "A bird's eye view of the Prophet's Mosque in Medina (Masjid al-Nabawi) from the southern side",
           "konu": "Medine"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1517-martin-luther-wittenbergde-95-tezini-kilise-kapisina",
@@ -95,7 +95,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Martin_Luther%2C_1529.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Martin_Luther%2C_1529.jpg",
@@ -108,7 +107,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Martin_Luther,_1529.jpg",
         "aciklama": null,
         "konu": "Martin Luther"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1831-takvim-i-vekayi-yayina-basladi",
@@ -120,8 +120,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1864-nevada-abdnin-36-eyaleti-oldu",
@@ -134,8 +134,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1876-hindistanda-dev-kasirga-200-binden-fazla-kisi",
@@ -148,7 +148,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg/960px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg/500px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg",
@@ -161,7 +160,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210).jpg",
         "aciklama": "iss056e162175 (Sept. 12, 2018) --- Cameras outside the International Space Station captured a stark and sobering view of Hurricane Florence the morning of Sept. 12 as it churned across the Atlantic in",
         "konu": "kasırga"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1892-sir-arthur-conan-doyle-sherlock-holmesun-maceralarini",
@@ -174,7 +174,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Conan_doyle.jpg/960px-Conan_doyle.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Conan_doyle.jpg/500px-Conan_doyle.jpg",
@@ -187,7 +186,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Conan_doyle.jpg",
         "aciklama": "Arthur Conan Doyle",
         "konu": "Sir Arthur Conan Doyle"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1918-guneydogu-avrupada-banat-bolgesinde-kisa-omurlu-banat",
@@ -200,8 +200,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1919-sutcu-imam-kahramanmarasta-fransiz-isgalcilere-ilk-kursunu",
@@ -214,7 +214,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Imamsutcu1.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Imamsutcu1.jpg",
@@ -255,7 +254,8 @@
           "aciklama": "Kahramanmaraş'ın genel bir görünümü",
           "konu": "Kahramanmaraş"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1922-mussolini-italya-basbakani-oldu",
@@ -268,7 +268,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
@@ -281,7 +280,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Mussolini_mezzobusto.jpg",
         "aciklama": "Portrait of Benito Mussolini from the second edition of Adolf Dresler's Mussolini als Journalist (1939).",
         "konu": "Benito Mussolini"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1924-mustafa-kemal-pasa-cumhuriyetin-1-yil-donumunde",
@@ -294,7 +294,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -307,7 +306,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
         "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
         "konu": "Mustafa Kemal Atatürk"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1951-yaya-gecidi-cizgileri-ilk-kez-birlesik-krallikin",
@@ -320,8 +320,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1952-abd-ilk-hidrojen-bombasi-denemesini-marshall-adalarinda",
@@ -335,7 +335,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Operation_Castle_-_Romeo_001.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Operation_Castle_-_Romeo_001.jpg",
@@ -348,7 +347,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Operation_Castle_-_Romeo_001.jpg",
         "aciklama": "Castle Romeo nuclear test (yield 11 Mt) on Bikini Atoll. It was the first nuclear test conducted on a barge. The barge was located in the Castle Bravo crater.",
         "konu": "hidrojen bombası"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1956-suveys-krizi-birlesik-krallik-ve-fransa-suveys",
@@ -364,7 +364,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/1956_Suez_war_-_conquest_of_Sinai.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/1956_Suez_war_-_conquest_of_Sinai.jpg",
@@ -405,7 +404,8 @@
           "aciklama": null,
           "konu": "Süveyş Kanalı"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1961-sovyetler-birligi-komunist-partisi-25-kongresinde-gecmisteki",
@@ -421,7 +421,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/StalinCropped1943.jpg/960px-StalinCropped1943.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/StalinCropped1943.jpg/500px-StalinCropped1943.jpg",
@@ -475,7 +474,8 @@
           "aciklama": "Red square Moscow cityscape",
           "konu": "Kızıl Meydan"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1963-askeri-yargitay-talat-aydemir-fethi-gurcan-osman",
@@ -491,7 +491,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Talat_Aydemir_ve_Fethi_G%C3%BCrcan.jpg/960px-Talat_Aydemir_ve_Fethi_G%C3%BCrcan.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Talat_Aydemir_ve_Fethi_G%C3%BCrcan.jpg/500px-Talat_Aydemir_ve_Fethi_G%C3%BCrcan.jpg",
@@ -504,7 +503,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Talat_Aydemir_ve_Fethi_G%C3%BCrcan.jpg",
         "aciklama": "Talat Aydemir ve Fethi Gürcan'ın mezarları",
         "konu": "Fethi Gürcan"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1963-50-kez-milli-formayi-giyen-fenerbahceli-futbolcu",
@@ -517,7 +517,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Lefter_K%C3%BC%C3%A7%C3%BCkandonyadis.jpg/960px-Lefter_K%C3%BC%C3%A7%C3%BCkandonyadis.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Lefter_K%C3%BC%C3%A7%C3%BCkandonyadis.jpg/500px-Lefter_K%C3%BC%C3%A7%C3%BCkandonyadis.jpg",
@@ -530,7 +529,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Lefter_K%C3%BC%C3%A7%C3%BCkandonyadis.jpg",
         "aciklama": "Lefter Küçükandonyadis in Büyükada.",
         "konu": "Lefter Küçükandonyadis"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1967-kibris-turklerinin-rum-cetelerinin-saldirilarina-maruz-kaldigi",
@@ -544,7 +544,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Children_in_North_Nicosia_3.jpg/960px-Children_in_North_Nicosia_3.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Children_in_North_Nicosia_3.jpg/500px-Children_in_North_Nicosia_3.jpg",
@@ -598,7 +597,8 @@
           "aciklama": "The third largest island in the Mediterranean, Cyprus is about 240 km long and 100 km wide. It is located on the Anatolian plate and therefore belongs geologically to Asia, but politically it is a mem",
           "konu": "Kıbrıs"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1970-turkiye-isci-partisi-buyuk-kongresi-behice-borani",
@@ -611,8 +611,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1972-eskisehir-yakinlarinda-bir-yolcu-treni-ile-bir",
@@ -624,7 +624,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Sazova_Park_2.jpg/960px-Sazova_Park_2.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Sazova_Park_2.jpg/500px-Sazova_Park_2.jpg",
@@ -637,7 +636,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Sazova_Park_2.jpg",
         "aciklama": "Sazova Park in Eskişehir, Turkey.",
         "konu": "Eskişehir"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1984-hindistan-basbakani-indira-gandhi-iki-sih-guvenlik",
@@ -651,7 +651,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/IndiraGandhi.png/960px-IndiraGandhi.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/IndiraGandhi.png/500px-IndiraGandhi.png",
@@ -692,7 +691,8 @@
           "aciklama": "Maharaja Ranjit Singh listening to Granth Sahib being recited near the Golden Temple. Description of this painting from Jean-Marie Lafont's book Maharaja Ranjit Singh: Lord of the Five Rivers: [108] \"",
           "konu": "sih"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1989-turgut-ozal-263-oyla-turkiyenin-8-cumhurbaskani",
@@ -704,7 +704,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
@@ -717,7 +716,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
         "aciklama": "Turgut Özal, Turkish Prime Minister",
         "konu": "Turgut Özal"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1992-turk-silahli-kuvvetleri-irakin-kuzeyindeki-pkk-ussu",
@@ -731,8 +731,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1992-vatikan-dunyanin-gunesin-cevresinde-dondugunu-soyleyen-galileonun",
@@ -745,7 +745,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/960px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/500px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
@@ -758,7 +757,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg",
         "aciklama": null,
         "konu": "Galileo Galilei"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1994-bir-amerikan-yolcu-ucagi-indianada-dustu-68",
@@ -771,8 +771,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1996-bir-brezilya-yolcu-ucagi-sao-pauloda-brezilya",
@@ -785,7 +785,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Itaim_Bibi_%28232990015%29_%28cropped%29.jpeg/960px-Itaim_Bibi_%28232990015%29_%28cropped%29.jpeg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Itaim_Bibi_%28232990015%29_%28cropped%29.jpeg/500px-Itaim_Bibi_%28232990015%29_%28cropped%29.jpeg",
@@ -798,7 +797,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Itaim_Bibi_(232990015)_(cropped).jpeg",
         "aciklama": "500px provided description: Itaim Bibi [#city ,#buildings ,#architecture ,#Brasil ,#Brazil ,#Sao Paulo]",
         "konu": "Sao Paulo"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1997-milli-guvenlik-kurulu-toplantisinda-18-kasim-1992",
@@ -810,7 +810,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Milli_G%C3%BCvenlik_Kurulu_Sekreterli%C4%9Fi_Binas%C4%B1.jpg/960px-Milli_G%C3%BCvenlik_Kurulu_Sekreterli%C4%9Fi_Binas%C4%B1.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Milli_G%C3%BCvenlik_Kurulu_Sekreterli%C4%9Fi_Binas%C4%B1.jpg/500px-Milli_G%C3%BCvenlik_Kurulu_Sekreterli%C4%9Fi_Binas%C4%B1.jpg",
@@ -823,7 +822,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Milli_G%C3%BCvenlik_Kurulu_Sekreterli%C4%9Fi_Binas%C4%B1.jpg",
         "aciklama": "National Security Council (Turkey)",
         "konu": "Millî Güvenlik Kurulu (Türkiye)"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1998-irak-bm-silah-denetleyicileri-ile-is-birligi",
@@ -836,8 +836,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1999-new-yorktan-kahireye-giden-misir-hava-yollarina",
@@ -852,7 +852,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/500px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
@@ -893,7 +892,8 @@
           "aciklama": "Zamalek (Egyptian Arabic: الزمالك pronounced [ez.zæˈmæːlek]) is an affluent district of western Cairo encompassing the northern portion of Gezira Island in the Nile River. The island is connected with",
           "konu": "Kahire"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "2000-singapur-hava-yollarina-ait-boeing-747-tipi",
@@ -906,7 +906,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Air_New_Zealand_B747-400_ZK-SUI_at_LHR.jpg/960px-Air_New_Zealand_B747-400_ZK-SUI_at_LHR.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Air_New_Zealand_B747-400_ZK-SUI_at_LHR.jpg/500px-Air_New_Zealand_B747-400_ZK-SUI_at_LHR.jpg",
@@ -919,7 +918,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Air_New_Zealand_B747-400_ZK-SUI_at_LHR.jpg",
         "aciklama": "heathrow 10th feb 2008",
         "konu": "Boeing 747"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2000-antonov-tipi-bir-yolcu-ucagi-kalkistan-hemen",
@@ -932,7 +932,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/%D0%9A%D0%B8%D0%B5%D0%B2%2C_2020_%D0%B3%D0%BE%D0%B4%2C_06.jpg/960px-%D0%9A%D0%B8%D0%B5%D0%B2%2C_2020_%D0%B3%D0%BE%D0%B4%2C_06.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/%D0%9A%D0%B8%D0%B5%D0%B2%2C_2020_%D0%B3%D0%BE%D0%B4%2C_06.jpg/500px-%D0%9A%D0%B8%D0%B5%D0%B2%2C_2020_%D0%B3%D0%BE%D0%B4%2C_06.jpg",
@@ -945,7 +944,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B8%D0%B5%D0%B2,_2020_%D0%B3%D0%BE%D0%B4,_06.jpg",
         "aciklama": "Киев в 2020 году",
         "konu": "Antonov"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2000-yatagan-termik-santrali-cevresinde-hava-kirliligi-sinir",
@@ -958,7 +958,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Yata%C4%9Fan_Thermal_Power_Plant_-_2.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Yata%C4%9Fan_Thermal_Power_Plant_-_2.jpg",
@@ -999,7 +998,8 @@
           "aciklama": "Smokestacks from a wartime production plant, World War II.",
           "konu": "hava kirliliği"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "2010-taksimde-bomba-patladi-taksim-meydaninda-surekli-gorev",
@@ -1011,7 +1011,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Istanbul_Taksim_Square_%2854515155507%29.jpg/960px-Istanbul_Taksim_Square_%2854515155507%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Istanbul_Taksim_Square_%2854515155507%29.jpg/500px-Istanbul_Taksim_Square_%2854515155507%29.jpg",
@@ -1024,7 +1023,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Istanbul_Taksim_Square_(54515155507).jpg",
         "aciklama": "Istanbul (Turkey)",
         "konu": "Taksim Meydanı"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2011-sembolik-olarak-dunyanin-7-milyarinci-insaninin-dogumu",
@@ -1034,8 +1034,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2012-taksim-yayalastirma-projesi-insaati-basladi",
@@ -1047,7 +1047,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Taksim_Meydan_-_Taksim_Square.jpg/960px-Taksim_Meydan_-_Taksim_Square.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Taksim_Meydan_-_Taksim_Square.jpg/500px-Taksim_Meydan_-_Taksim_Square.jpg",
@@ -1060,7 +1059,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Taksim_Meydan_-_Taksim_Square.jpg",
         "aciklama": "Yayalaştırma Projesi sonrası The Marmara Oteli'nden Taksim Meydanı Taksim Square after Pedestrianization Project",
         "konu": "Taksim Yayalaştırma Projesi"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2015-rus-metrojet-havayollarina-ait-yolcu-ucagi-misirdan",
@@ -1075,8 +1075,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2020-quebecte-meydana-gelen-bicakli-saldirida-2-kisi",
@@ -1089,7 +1089,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Quebec_City_Rue_St-Louis_2010.jpg/960px-Quebec_City_Rue_St-Louis_2010.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Quebec_City_Rue_St-Louis_2010.jpg/500px-Quebec_City_Rue_St-Louis_2010.jpg",
@@ -1102,7 +1101,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Quebec_City_Rue_St-Louis_2010.jpg",
         "aciklama": "Quebec City Rue St Louis Upper Town winter 2010.",
         "konu": "Québec (şehir)"
-      }
+      },
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -1742,7 +1742,7 @@
     "url": "https://tr.wikipedia.org/wiki/31_Ekim",
     "revid": 38168248
   },
-  "guncelleme": "2026-10-21T11:22:03.401Z",
+  "guncelleme": "2026-10-21T21:27:07.526Z",
   "haberler": [
     {
       "id": "2025-haber-2448582",

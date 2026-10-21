@@ -14,7 +14,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/960px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/500px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
@@ -27,7 +26,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_Man,_Said_to_be_Christopher_Columbus.jpg",
         "aciklama": null,
         "konu": "Kristof Kolomb"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1516-sadrazam-hadim-sinan-pasa-yonetimindeki-osmanli-ordusu",
@@ -42,7 +42,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Ottoman_Mamluk_horseman_circa_1550.jpg/960px-Ottoman_Mamluk_horseman_circa_1550.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Ottoman_Mamluk_horseman_circa_1550.jpg/500px-Ottoman_Mamluk_horseman_circa_1550.jpg",
@@ -83,7 +82,8 @@
           "aciklama": "Omar Mukhtar Street in Gaza City, showing damage from Israeli bombing, February 23, 2025.",
           "konu": "Gazze"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1538-yeni-dunyanin-ilk-universitesi-olan-universidad-santo",
@@ -95,7 +95,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/CartedAmerique.jpeg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/CartedAmerique.jpeg",
@@ -108,7 +107,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:CartedAmerique.jpeg",
         "aciklama": null,
         "konu": "Yeni Dünya"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1636-ilk-amerikan-universitesi-harvard-kuruldu",
@@ -121,8 +121,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1848-ispanyada-ilk-demiryolu-barselona-mataro-arasinda-hizmete-girdi",
@@ -136,7 +136,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Aerial_view_of_Barcelona%2C_Spain_%2851227309370%29_edited.jpg/960px-Aerial_view_of_Barcelona%2C_Spain_%2851227309370%29_edited.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Aerial_view_of_Barcelona%2C_Spain_%2851227309370%29_edited.jpg/500px-Aerial_view_of_Barcelona%2C_Spain_%2851227309370%29_edited.jpg",
@@ -177,7 +176,8 @@
           "aciklama": "Platja del Callao, a Mataró, comarca del Maresme, Catalunya.",
           "konu": "Mataró"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1886-ozgurluk-heykeli-fransizlarin-hediyesi-olarak-new-yorka",
@@ -191,7 +191,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg/960px-Front_view_of_Statue_of_Liberty_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg/500px-Front_view_of_Statue_of_Liberty_%28cropped%29.jpg",
@@ -232,7 +231,8 @@
           "aciklama": "View of the Empire State Building in New York City from the Top of the Rock at 30 Rockefeller Plaza during sunset. The tower was illuminated in green in honor of Climate Week NYC.[1]",
           "konu": "New York"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1893-caykovskinin-6-nolu-pathetique-senfonisinin-galasi-sankt-peterburgda",
@@ -245,7 +245,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_%281840-1893%29.jpg/960px-Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_%281840-1893%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_%281840-1893%29.jpg/500px-Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_%281840-1893%29.jpg",
@@ -286,7 +285,8 @@
           "aciklama": "Peter & Paul fortress in Saint Petersburg",
           "konu": "Sankt-Peterburg"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1908-istanbulda-ermenice-jamanak-gazetesi-yayimlanmaya-basladi",
@@ -299,7 +299,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
@@ -312,7 +311,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
         "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
         "konu": "İstanbul"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1918-cekoslovakya-avusturya-macaristan-imparatorlugu-imparatorlugundan-bagimsizligini-kazandi",
@@ -325,8 +325,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1918-i-dunya-savasi-osmanli-imparatorlugu-ile-britanya",
@@ -341,7 +341,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
@@ -382,7 +381,8 @@
           "aciklama": "Turkish heavies at Harcira, 1917. LC-DIG-ppmsca-13709-00121. The gun is the German 10.5cm leichte Feldhaubitze 98/09 (105 mm light field howitzer M98/09).",
           "konu": "Suriye-Filistin Cephesi"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1923-mustafa-kemal-pasa-cankaya-koskunde-verdigi-aksam",
@@ -395,7 +395,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -436,7 +435,8 @@
           "aciklama": "This photograph is a colourised version of another file uploaded to Commons. Because the process was completed by using artificial intelligence technology, the colours may not reflect the real.",
           "konu": "Çankaya Köşkü"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1927-turkiyede-ilk-nufus-sayimi-yapildi",
@@ -450,7 +450,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anavatan_1927.jpg/960px-Anavatan_1927.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anavatan_1927.jpg/500px-Anavatan_1927.jpg",
@@ -463,7 +462,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Anavatan_1927.jpg",
         "aciklama": "1927 Map of Turkey",
         "konu": "1927 Türkiye nüfus sayımı"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1937-basbakan-ismet-inonu-ankarada-parasut-kulesinin-acilisini",
@@ -477,7 +477,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
@@ -531,7 +530,8 @@
           "aciklama": "Leonardo da Vinci sketched a parachute while he was living in Milan around 1480-1483.",
           "konu": "paraşüt"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1938-ankara-radyosu-hizmete-girdi",
@@ -543,8 +543,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1940-ii-dunya-savasi-italya-arnavutluk-uzerinden-yunanistani",
@@ -559,7 +559,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
@@ -572,7 +571,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
         "aciklama": "Pitched battle at Changde.",
         "konu": "II. Dünya Savaşı"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1941-litvanyada-alman-ss-birlikleri-9000den-fazla-yahudiyi",
@@ -588,7 +588,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Kaunas_montage.jpg/960px-Kaunas_montage.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Kaunas_montage.jpg/500px-Kaunas_montage.jpg",
@@ -601,7 +600,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Kaunas_montage.jpg",
         "aciklama": "Montage of Kaunas pictures on Commons.",
         "konu": "Kaunas"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1943-philadelphia-deneyi-amerikan-donanmasinin-pensilvanya-eyaletine-bagli",
@@ -615,7 +615,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/USS_Eldridge_%28DE-173%29_underway%2C_circa_in_1944.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/USS_Eldridge_%28DE-173%29_underway%2C_circa_in_1944.jpg",
@@ -656,7 +655,8 @@
           "aciklama": "Liberty Bell, Independence National Historical Park",
           "konu": "Philadelphia"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1948-isvicreli-kimyaci-paul-hermann-muller-ddtnin-bocek",
@@ -671,8 +671,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1960-milli-birlik-komitesinin-147-ogretim-uyesini-gorevden",
@@ -688,7 +688,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Istanbul_asv2020-02_img69_Ma%C3%A7ka_Armory.jpg/960px-Istanbul_asv2020-02_img69_Ma%C3%A7ka_Armory.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Istanbul_asv2020-02_img69_Ma%C3%A7ka_Armory.jpg/500px-Istanbul_asv2020-02_img69_Ma%C3%A7ka_Armory.jpg",
@@ -701,7 +700,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Istanbul_asv2020-02_img69_Ma%C3%A7ka_Armory.jpg",
         "aciklama": "ITU Maçka Campus (Maçka Armory) in Istanbul, Turkey",
         "konu": "İstanbul Teknik Üniversitesi"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1961-zeki-muren-behiye-aksoy-gonul-yazar-secil",
@@ -717,7 +717,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Maxim_Night_Club%2C_%C4%B0stanbul_%2812966915284%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Maxim_Night_Club%2C_%C4%B0stanbul_%2812966915284%29.jpg",
@@ -730,7 +729,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Maxim_Night_Club,_%C4%B0stanbul_(12966915284).jpg",
         "aciklama": "www.archives.saltresearch.org/R/S2LFDILBVDCSE6HK2CXBDXLT9... Maxim night club, 1970-1980s SALT Research, Hayati Tabanlıoğlu Archive Maksim Gazinosu, 1970-1980’ler SALT Araştırma, Hayati Tabanlıoğlu Ar",
         "konu": "Maksim Gazinosu"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1962-kuba-fuze-krizi-sovyetler-birligi-lideri-nikita",
@@ -745,7 +745,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Soviet-R-12-nuclear-ballistic_missile.jpg/960px-Soviet-R-12-nuclear-ballistic_missile.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Soviet-R-12-nuclear-ballistic_missile.jpg/500px-Soviet-R-12-nuclear-ballistic_missile.jpg",
@@ -786,7 +785,8 @@
           "aciklama": "Soviet Premier Nikita Khruchchev in Vienna. depicted person: Nikita Khrushchev (age: 67)",
           "konu": "Nikita Kruşçev"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1981-heavy-metal-muzik-grubu-metallica-san-franciscoda",
@@ -801,7 +801,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/The_Sounds_of_Earth_-_GPN-2000-001976.jpg/960px-The_Sounds_of_Earth_-_GPN-2000-001976.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/The_Sounds_of_Earth_-_GPN-2000-001976.jpg/500px-The_Sounds_of_Earth_-_GPN-2000-001976.jpg",
@@ -855,7 +854,8 @@
           "aciklama": "San Francisco skyline from Marin Headlands",
           "konu": "San Francisco"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1982-felipe-gonzalez-liderligindeki-sosyalistler-ispanya-secimlerinde-buyuk",
@@ -868,7 +868,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Felipe_Gonz%C3%A1lez_par_Claude_Truong-Ngoc_juillet_2013.jpg/960px-Felipe_Gonz%C3%A1lez_par_Claude_Truong-Ngoc_juillet_2013.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Felipe_Gonz%C3%A1lez_par_Claude_Truong-Ngoc_juillet_2013.jpg/500px-Felipe_Gonz%C3%A1lez_par_Claude_Truong-Ngoc_juillet_2013.jpg",
@@ -881,7 +880,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Felipe_Gonz%C3%A1lez_par_Claude_Truong-Ngoc_juillet_2013.jpg",
         "aciklama": "Felipe González Márquez, né à Dos Hermanas (province de Séville, Andalousie) le 5 mars 1942, est un homme politique espagnol. Il a été président du Gouvernement espagnol entre 1982 et 1996.",
         "konu": "Felipe González"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1984-cin-komunist-partisi-ekonomik-durumu-duzeltmek-amaciyla",
@@ -893,8 +893,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1986-23-altin-portakal-film-festivalinin-sonuclari-aciklandi",
@@ -908,8 +908,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1991-islami-cihad-orgutu-ankarada-iki-bombali-saldiri",
@@ -923,8 +923,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1993-hakkari-uzumlu-jandarma-sinir-bolugune-saldiran-silahli",
@@ -937,7 +937,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Hakkari.jpg/960px-Hakkari.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Hakkari.jpg/500px-Hakkari.jpg",
@@ -950,7 +949,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Hakkari.jpg",
         "aciklama": "Hakkari, Turkey.",
         "konu": "Hakkâri"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1995-bakude-dunyanin-en-olumcul-metro-kazasi-yasandi",
@@ -960,8 +960,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1998-esenboga-havalimani-tarihinde-ilk-kez-ayni-gun",
@@ -975,7 +975,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
@@ -988,7 +987,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
         "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
         "konu": "Ankara"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2009-pakistanin-pesaver-kentindeki-bir-pazar-yerinde-araca",
@@ -1001,7 +1001,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Islamia_College_Peshawar_%28Public_Sector_University%29%2C_Khyber_Pakhtunkhwa%2C_Pakistan_cropped.jpg/960px-Islamia_College_Peshawar_%28Public_Sector_University%29%2C_Khyber_Pakhtunkhwa%2C_Pakistan_cropped.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Islamia_College_Peshawar_%28Public_Sector_University%29%2C_Khyber_Pakhtunkhwa%2C_Pakistan_cropped.jpg/500px-Islamia_College_Peshawar_%28Public_Sector_University%29%2C_Khyber_Pakhtunkhwa%2C_Pakistan_cropped.jpg",
@@ -1014,7 +1013,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Islamia_College_Peshawar_(Public_Sector_University),_Khyber_Pakhtunkhwa,_Pakistan_cropped.jpg",
         "aciklama": "Islamia College Peshawar (Public Sector University), Khyber Pakhtunkhwa, Pakistan",
         "konu": "Peşaver"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2010-gebze-izmir-otoyolu-projesinin-temeli-atildi",
@@ -1026,8 +1026,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2012-kanadanin-britanya-kolumbiyasi-eyaletinde-7-7-siddetinde",
@@ -1040,8 +1040,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2020-turkiyenin-ikinci-surucusuz-metro-hatti-olan-m7",
@@ -1056,7 +1056,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Lancaster_Gate_tube.jpg/960px-Lancaster_Gate_tube.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Lancaster_Gate_tube.jpg/500px-Lancaster_Gate_tube.jpg",
@@ -1110,7 +1109,8 @@
           "aciklama": "Mahmutbey Metro İstasyonu",
           "konu": "Mahmutbey (İstanbul Metrosu)"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -1671,7 +1671,7 @@
     "url": "https://tr.wikipedia.org/wiki/28_Ekim",
     "revid": 38168216
   },
-  "guncelleme": "2026-10-21T11:22:01.013Z",
+  "guncelleme": "2026-10-21T21:27:06.403Z",
   "haberler": [
     {
       "id": "2025-haber-2447691",

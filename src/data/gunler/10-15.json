@@ -13,7 +13,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Christopher_Clavius.jpg/960px-Christopher_Clavius.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Christopher_Clavius.jpg/500px-Christopher_Clavius.jpg",
@@ -26,7 +25,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Christopher_Clavius.jpg",
         "aciklama": "Christopher Clavius (1538–1612), German mathematician and astronomer.",
         "konu": "Milâdî takvim"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1878-edison-edison-electric-light-co-adli-sirketi",
@@ -38,7 +38,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/960px-Thomas_Edison2.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/500px-Thomas_Edison2.jpg",
@@ -51,7 +50,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Thomas_Edison2.jpg",
         "aciklama": "\"Thomas Alva Edison, three-quarter length portrait, seated, facing front\". Photographic print.",
         "konu": "Thomas Edison"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1917-fransizlarca-tutuklanan-ve-alman-gizli-servisine-bazi",
@@ -66,7 +66,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mata_Hari_13.jpg/960px-Mata_Hari_13.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mata_Hari_13.jpg/500px-Mata_Hari_13.jpg",
@@ -79,7 +78,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Mata_Hari_13.jpg",
         "aciklama": "Mata Hari in 1906, soon after the Dutchwoman reinvented herself as an exotic dancer. Inspired by dances she had seen in the Dutch East Indies, she took a stage name that means “eye of the day” or \"sun",
         "konu": "Mata Hari"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1927-gazi-mustafa-kemal-pasa-chp-kurultayinda-buyuk",
@@ -93,7 +93,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -134,7 +133,8 @@
           "aciklama": "Mustafa Kemal Atatürk TBMM'DE nutuk'u sunduğu konuşma sırasında",
           "konu": "Nutuk (Mustafa Kemal Atatürk)"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1928-yusuf-ziya-ortac-mesale-dergisini-kapatti-boylece",
@@ -147,8 +147,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1928-almanyadan-hareket-eden-dunyanin-en-buyuk-hava",
@@ -163,7 +163,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Bildnis_Ferdinand_von_Zeppelin.png/960px-Bildnis_Ferdinand_von_Zeppelin.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Bildnis_Ferdinand_von_Zeppelin.png/500px-Bildnis_Ferdinand_von_Zeppelin.png",
@@ -176,7 +175,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Bildnis_Ferdinand_von_Zeppelin.png",
         "aciklama": "Ferdinand von Zeppelin (1917)",
         "konu": "Ferdinand von Zeppelin"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1934-mao-zedunga-bagli-100-bin-kisilik-birlik",
@@ -189,7 +189,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mao_Tse_Tung.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mao_Tse_Tung.jpg",
@@ -202,7 +201,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Mao_Tse_Tung.jpg",
         "aciklama": "This is an official portrait of Mao Tse-Tung (aka Mao Zedong), chairman of the Chinese Communist Party, taken on November 10, 1950, in Beijing, China.",
         "konu": "Mao Zedong"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1937-yeni-harflerle-basilan-ilk-kagit-paralar-tedavule",
@@ -216,7 +216,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Euro_coins_and_banknotes_%28cropped%29.jpg/960px-Euro_coins_and_banknotes_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Euro_coins_and_banknotes_%28cropped%29.jpg/500px-Euro_coins_and_banknotes_%28cropped%29.jpg",
@@ -257,7 +256,8 @@
           "aciklama": "plusieurs billets de 5000, de différentes monnaies : franc, yen, lire, dollar",
           "konu": "banknot"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1944-ii-dunya-savasi-kraliyet-hava-kuvvetleri-almanyanin",
@@ -273,7 +273,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
@@ -327,7 +326,8 @@
           "aciklama": "A view of Braunschweig on fire during the October 1944 bombing",
           "konu": "Braunschweig bombardımanı (15 Ekim 1944)"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1945-gecici-fransiz-hukumeti-basbakani-pierre-laval-kursuna",
@@ -340,7 +340,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Pierre_Laval_a_Meurisse_1931.jpg/960px-Pierre_Laval_a_Meurisse_1931.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Pierre_Laval_a_Meurisse_1931.jpg/500px-Pierre_Laval_a_Meurisse_1931.jpg",
@@ -353,7 +352,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Pierre_Laval_a_Meurisse_1931.jpg",
         "aciklama": "Pierre laval (1883–1945). A French politician, he was several times Prime Minister of France during the Third Republic and, notably, during the Second World War. Executed by firing squad for high trea",
         "konu": "Pierre Laval"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1946-nazi-savas-suclusu-hermann-goring-idam-edilmesine",
@@ -368,7 +368,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Hermann_Goering_-_Nuremberg_2_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Hermann_Goering_-_Nuremberg_2_%28cropped%29.jpg",
@@ -409,7 +408,8 @@
           "aciklama": null,
           "konu": "intihar"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1961-uluslararasi-af-orgutu-londrada-kuruldu",
@@ -422,7 +422,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/500px-London_Skyline_%28125508655%29.jpeg",
@@ -435,7 +434,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg",
         "aciklama": "500px provided description: London Skyline [#sunset ,#architecture ,#cityscape ,#london ,#uk ,#skyline ,#financial district ,#thames ,#london bridge ,#london shard]",
         "konu": "Londra"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1961-kisitli-secim-kampanyasinin-ardindan-genel-secimler-yapildi",
@@ -451,7 +451,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/1961_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png/960px-1961_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/1961_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png/500px-1961_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png",
@@ -464,7 +463,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:1961_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png",
         "aciklama": "1961 Turkish general election",
         "konu": "1961 Türkiye genel seçimleri"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1970-enver-sedat-misir-devlet-baskani-oldu",
@@ -477,7 +477,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Anwar_Sadat_cropped.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Anwar_Sadat_cropped.jpg",
@@ -490,7 +489,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Anwar_Sadat_cropped.jpg",
         "aciklama": "President Anwar Sadat of Egypt upon his arrival in the United States for a visit. Photograph taken at Andrews Air Force Base.",
         "konu": "Enver Sedat"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1970-istanbulda-kolera-salgini-oldugu-aciklandi",
@@ -502,7 +502,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
@@ -515,7 +514,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
         "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
         "konu": "İstanbul"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1978-cuval-cinayeti-ankarada-sag-goruslu-militanlar-fikri",
@@ -527,8 +527,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1990-sovyetler-birligi-baskani-mihail-gorbacov-nobel-baris",
@@ -542,7 +542,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
@@ -583,7 +582,8 @@
           "aciklama": "1933 Nobel Peace Prize awarded to Norman Angell on exhibit to the public at the Imperial War Museum, London, England",
           "konu": "Nobel Barış Ödülü"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1993-nobel-baris-odulu-guney-afrika-devlet-baskani",
@@ -599,7 +599,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/1933_Nobel_Peace_Prize_awarded_to_Norman_Angell.JPG",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/1933_Nobel_Peace_Prize_awarded_to_Norman_Angell.JPG",
@@ -653,7 +652,8 @@
           "aciklama": "Nelson Mandela at LSE on 6 April 2000 to deliver a lecture titled 'Africa and Its Position in the World' at the Peacock Theatre.",
           "konu": "Nelson Mandela"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1999-sinir-tanimayan-doktorlar-orgutu-nobel-baris-odulunu",
@@ -666,8 +666,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2003-ilham-aliyev-babasi-haydar-aliyevin-yerine-gecerek",
@@ -681,7 +681,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ilham_Aliyev%2C_December_2025_%28cropped%29.jpg/960px-Ilham_Aliyev%2C_December_2025_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ilham_Aliyev%2C_December_2025_%28cropped%29.jpg/500px-Ilham_Aliyev%2C_December_2025_%28cropped%29.jpg",
@@ -694,7 +693,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ilham_Aliyev,_December_2025_(cropped).jpg",
         "aciklama": "Ilham Aliyev in December 2025",
         "konu": "İlham Aliyev"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2013-filipinlerde-7-2-siddetinde-deprem",
@@ -706,8 +706,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2022-bartinda-maden-faciasi-41-isci-hayatini-kaybetti",
@@ -719,7 +719,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Bartin_SehirMerkezi.jpg/960px-Bartin_SehirMerkezi.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Bartin_SehirMerkezi.jpg/500px-Bartin_SehirMerkezi.jpg",
@@ -732,7 +731,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Bartin_SehirMerkezi.jpg",
         "aciklama": "BartinSehirMerkeziTepeGoruntusu",
         "konu": "Bartın"
-      }
+      },
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -1303,7 +1303,7 @@
     "url": "https://tr.wikipedia.org/wiki/15_Ekim",
     "revid": 38266766
   },
-  "guncelleme": "2026-10-21T11:21:50.843Z",
+  "guncelleme": "2026-10-21T21:27:01.574Z",
   "haberler": [
     {
       "id": "2025-haber-2443980",

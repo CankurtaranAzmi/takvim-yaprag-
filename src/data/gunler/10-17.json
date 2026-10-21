@@ -16,7 +16,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Sueleymanname_akinci.png/960px-Sueleymanname_akinci.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Sueleymanname_akinci.png/500px-Sueleymanname_akinci.png",
@@ -57,7 +56,8 @@
           "aciklama": null,
           "konu": "II. Murat"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1514-bayburt-kusatmasi-osmanli-imparatorlugu-kaleyi-ele-gecirdi",
@@ -69,7 +69,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Bayburt_kalesi.JPG/960px-Bayburt_kalesi.JPG",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Bayburt_kalesi.JPG/500px-Bayburt_kalesi.JPG",
@@ -82,7 +81,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Bayburt_kalesi.JPG",
         "aciklama": "Bayburt kalesinden bir görüntü.",
         "konu": "Bayburt Kuşatması"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1777-amerikali-kuvvetleri-ingilizleri-saratoga-muharebesinde-yendi",
@@ -96,7 +96,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Downtown_Saratoga_Springs.jpg/960px-Downtown_Saratoga_Springs.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Downtown_Saratoga_Springs.jpg/500px-Downtown_Saratoga_Springs.jpg",
@@ -109,7 +108,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Downtown_Saratoga_Springs.jpg",
         "aciklama": "Downtown Saratoga Springs, New York, United States",
         "konu": "Saratoga"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1912-bulgaristan-sirbistan-ve-yunanistan-osmanli-imparatorluguna-savas",
@@ -124,8 +124,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1918-sirp-hirvat-ve-sloven-kralligi-kuruldu-daha",
@@ -138,8 +138,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1919-bati-trakyadaki-iskece-kasabasi-yunanlar-tarafindan-isgal",
@@ -153,7 +153,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/%CE%9E%CE%91%CE%9D%CE%98%CE%97_%CE%A0%CE%91%CE%9B%CE%99%CE%91_%CE%A0%CE%9F%CE%9B%CE%97.jpg/960px-%CE%9E%CE%91%CE%9D%CE%98%CE%97_%CE%A0%CE%91%CE%9B%CE%99%CE%91_%CE%A0%CE%9F%CE%9B%CE%97.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/%CE%9E%CE%91%CE%9D%CE%98%CE%97_%CE%A0%CE%91%CE%9B%CE%99%CE%91_%CE%A0%CE%9F%CE%9B%CE%97.jpg/500px-%CE%9E%CE%91%CE%9D%CE%98%CE%97_%CE%A0%CE%91%CE%9B%CE%99%CE%91_%CE%A0%CE%9F%CE%9B%CE%97.jpg",
@@ -166,7 +165,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:%CE%9E%CE%91%CE%9D%CE%98%CE%97_%CE%A0%CE%91%CE%9B%CE%99%CE%91_%CE%A0%CE%9F%CE%9B%CE%97.jpg",
         "aciklama": "Παλαιά Πόλη Ξάνθης",
         "konu": "İskeçe"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1922-gokceadanin-kurtulusu",
@@ -178,7 +178,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/G%C3%B6k%C3%A7eada_manzaras%C4%B1_%28Ara%C5%9Fa_da%C4%9F%C4%B1ndan%29.jpg/960px-G%C3%B6k%C3%A7eada_manzaras%C4%B1_%28Ara%C5%9Fa_da%C4%9F%C4%B1ndan%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/G%C3%B6k%C3%A7eada_manzaras%C4%B1_%28Ara%C5%9Fa_da%C4%9F%C4%B1ndan%29.jpg/500px-G%C3%B6k%C3%A7eada_manzaras%C4%B1_%28Ara%C5%9Fa_da%C4%9F%C4%B1ndan%29.jpg",
@@ -191,7 +190,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:G%C3%B6k%C3%A7eada_manzaras%C4%B1_(Ara%C5%9Fa_da%C4%9F%C4%B1ndan).jpg",
         "aciklama": "Gökçeada manzarası Araşa dağı üzerinden çekilmiştir.",
         "konu": "Gökçeada"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1929-nadir-han-afganistan-krali-oldu",
@@ -204,8 +204,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1933-albert-einstein-almanyadan-amerikaya-kacti",
@@ -219,7 +219,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/960px-Albert_Einstein_Head_cleaned.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/500px-Albert_Einstein_Head_cleaned.jpg",
@@ -232,7 +231,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg",
         "aciklama": "Albert Einstein",
         "konu": "Albert Einstein"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1938-ataturk-ilk-agir-komaya-girdi",
@@ -244,7 +244,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -257,7 +256,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
         "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
         "konu": "Mustafa Kemal Atatürk"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1945-juan-peron-arjantin-devlet-baskani-oldu",
@@ -270,7 +270,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Juan_Per%C3%B3n_1946.jpg/960px-Juan_Per%C3%B3n_1946.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Juan_Per%C3%B3n_1946.jpg/500px-Juan_Per%C3%B3n_1946.jpg",
@@ -283,7 +282,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Juan_Per%C3%B3n_1946.jpg",
         "aciklama": "Juan Perón speaks",
         "konu": "Juan Peron"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1950-turkiyenin-de-kore-savasina-katilmasiyla-500-kisilik",
@@ -298,7 +298,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Korean_War_Montage_2.png/960px-Korean_War_Montage_2.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Korean_War_Montage_2.png/500px-Korean_War_Montage_2.png",
@@ -339,7 +338,8 @@
           "aciklama": "The second-largest bridge in South Korea is the Gwangandaegyo or Diamond Bridge in Busan. It connects Haeundae-gu to Suyeong-gu.",
           "konu": "Pusan"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1951-turkiyenin-natoya-katilmasiyla-ilgili-protokol-londrada-imzalandi",
@@ -352,7 +352,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/500px-London_Skyline_%28125508655%29.jpeg",
@@ -365,7 +364,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg",
         "aciklama": "500px provided description: London Skyline [#sunset ,#architecture ,#cityscape ,#london ,#uk ,#skyline ,#financial district ,#thames ,#london bridge ,#london shard]",
         "konu": "Londra"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1957-fransiz-yazar-albert-camus-edebiyat-alaninda-nobel",
@@ -378,7 +378,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg",
@@ -419,7 +418,8 @@
           "aciklama": "Announcement of the Laureate of the Nobel Prize in Literature 2008 at the Swedish Academy in Stockholm by Horace Engdahl",
           "konu": "Nobel Edebiyat Ödülü"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1961-yaklasik-200-bazilarina-gore-400-cezayirli-gosterici",
@@ -433,7 +433,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/960px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/500px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
@@ -474,7 +473,8 @@
           "aciklama": "1+Plaque commémorative du massacre des algériens lors de la manifestation du 17 octobre 1961 sous les ordres du Préfet de Police Maurice Papon, implantée sur la Passerelle de la Fraternité à Aubervill",
           "konu": "1961 Paris katliamı"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1962-cumhurbaskani-cemal-gursel-siyasi-af-kanununu-imzaladi",
@@ -487,7 +487,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg/960px-Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg/500px-Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg",
@@ -528,7 +527,8 @@
           "aciklama": "Ostansicht der Insel Yassıada im Marmarameer vor Istanbul.",
           "konu": "Yassıada"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1966-birlik-partisi-kuruldu-parti-genel-baskanligina-hasan",
@@ -542,7 +542,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Istanbul_-_Santa_Sofia_-_Medall%C3%B3_%28cropped%29.JPG/960px-Istanbul_-_Santa_Sofia_-_Medall%C3%B3_%28cropped%29.JPG",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Istanbul_-_Santa_Sofia_-_Medall%C3%B3_%28cropped%29.JPG/500px-Istanbul_-_Santa_Sofia_-_Medall%C3%B3_%28cropped%29.JPG",
@@ -555,7 +554,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Istanbul_-_Santa_Sofia_-_Medall%C3%B3_(cropped).JPG",
         "aciklama": "Istanbul - Santa Sofia - Medalló",
         "konu": "Ali (halife)"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1966-peruda-8-1-siddetinde-deprem-meydana-geldi",
@@ -568,8 +568,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1967-hair-muzikali-new-yorkta-sahnelenmeye-baslandi",
@@ -581,7 +581,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/500px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
@@ -594,7 +593,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg",
         "aciklama": "View of the Empire State Building in New York City from the Top of the Rock at 30 Rockefeller Plaza during sunset. The tower was illuminated in green in honor of Climate Week NYC.[1]",
         "konu": "New York"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1970-quebec-calisma-bakani-pierre-laporte-quebec-kurtulus",
@@ -608,8 +608,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1973-opec-bazi-batili-ulkelere-suriye-ile-olan",
@@ -624,7 +624,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Petroleum_sample.jpg/960px-Petroleum_sample.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Petroleum_sample.jpg/500px-Petroleum_sample.jpg",
@@ -637,7 +636,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Petroleum_sample.jpg",
         "aciklama": "Crude oil = petroleum in a flask and a small beaker.",
         "konu": "petrol"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1979-rahibe-teresaya-nobel-baris-odulu-verildi",
@@ -650,7 +650,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Mother_Teresa_1.jpg/960px-Mother_Teresa_1.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Mother_Teresa_1.jpg/500px-Mother_Teresa_1.jpg",
@@ -691,7 +690,8 @@
           "aciklama": "1933 Nobel Peace Prize awarded to Norman Angell on exhibit to the public at the Imperial War Museum, London, England",
           "konu": "Nobel Barış Ödülü"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1987-eski-cumhurbaskani-fahri-koruturk-devlet-toreninden-sonra",
@@ -704,7 +704,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/20240425_132441_Fahri_Koruturk.jpg/960px-20240425_132441_Fahri_Koruturk.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/20240425_132441_Fahri_Koruturk.jpg/500px-20240425_132441_Fahri_Koruturk.jpg",
@@ -745,7 +744,8 @@
           "aciklama": "Devlet Mezarlığı",
           "konu": "Devlet Mezarlığı"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "1989-basbakan-turgut-ozal-cumhurbaskanligina-aday-oldugunu-acikladi",
@@ -757,7 +757,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
@@ -770,7 +769,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
         "aciklama": "Turgut Özal, Turkish Prime Minister",
         "konu": "Turgut Özal"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1989-san-franciscoda-7-1-siddetinde-deprem",
@@ -783,7 +783,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/San_Francisco_skyline_from_Marin_Headlands.jpg/960px-San_Francisco_skyline_from_Marin_Headlands.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/San_Francisco_skyline_from_Marin_Headlands.jpg/500px-San_Francisco_skyline_from_Marin_Headlands.jpg",
@@ -824,7 +823,8 @@
           "aciklama": "Quake epicenters: Preliminary Determination of Epicenters, 358,214 Events, 1963 - 1998",
           "konu": "deprem"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "2001-israil-filistin-baris-anlasmalarina-karsi-cikan-ulusal-birlik",
@@ -839,8 +839,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2003-taipeideki-101-katli-gokdelen-kuala-lumpurdakini-50",
@@ -853,7 +853,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Taipei_Skyline_2022.06.29.jpg/960px-Taipei_Skyline_2022.06.29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Taipei_Skyline_2022.06.29.jpg/500px-Taipei_Skyline_2022.06.29.jpg",
@@ -894,7 +893,8 @@
           "aciklama": "Bukit Bintang junction in 2024",
           "konu": "Kuala Lumpur"
         }
-      ]
+      ],
+      "durum": "bekliyor"
     },
     {
       "id": "2008-turkiye-2009-2010-birlesmis-milletler-guvenlik",
@@ -907,7 +907,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/UN-Sicherheitsrat_-_UN_Security_Council_-_New_York_City_-_2014_01_06.jpg/960px-UN-Sicherheitsrat_-_UN_Security_Council_-_New_York_City_-_2014_01_06.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/UN-Sicherheitsrat_-_UN_Security_Council_-_New_York_City_-_2014_01_06.jpg/500px-UN-Sicherheitsrat_-_UN_Security_Council_-_New_York_City_-_2014_01_06.jpg",
@@ -920,7 +919,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:UN-Sicherheitsrat_-_UN_Security_Council_-_New_York_City_-_2014_01_06.jpg",
         "aciklama": "United Nations Security Council on the United Nations Headquarters in New York City",
         "konu": "Birleşmiş Milletler Güvenlik Konseyi"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "2010-necmettin-erbakan-saadet-partisi-genel-baskanligina-secildi",
@@ -933,7 +933,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Necmettin_Erbakan.jpg/960px-Necmettin_Erbakan.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Necmettin_Erbakan.jpg/500px-Necmettin_Erbakan.jpg",
@@ -946,7 +945,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Necmettin_Erbakan.jpg",
         "aciklama": "Necmettin Erbakan 2006-ban",
         "konu": "Necmettin Erbakan"
-      }
+      },
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -1533,7 +1533,7 @@
     "url": "https://tr.wikipedia.org/wiki/17_Ekim",
     "revid": 38286549
   },
-  "guncelleme": "2026-10-21T11:21:52.531Z",
+  "guncelleme": "2026-10-21T21:27:02.300Z",
   "haberler": [
     {
       "id": "2025-haber-2444533",
