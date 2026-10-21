@@ -1,6 +1,6 @@
 # Her gün 10 gün öncesi ile 10 gün sonrası arasını Vikipedi'den ve Cumhuriyet haber arşivinden çeker
 # (pencere her gün bir gün kayar, eklenen günler kalır). Eksik özetleri Gemini (ücretsiz) ile yazar
-# ve bir Pull Request açar. PR'ı inceleyip birleştirmek = editör onayı.
+# ve bir Pull Request açar. PR otomatik birleştirilir ve site yayınlanır.
 name: Günlük içerik
 
 on:
@@ -20,6 +20,7 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  actions: write
 
 jobs:
   icerik:
@@ -48,6 +49,7 @@ jobs:
         run: npm run build
 
       - name: Pull Request aç
+        id: pr
         uses: peter-evans/create-pull-request@v7
         with:
           branch: icerik/gunluk
@@ -61,3 +63,13 @@ jobs:
             - Haberler: `durum: "yazildi"` olanlar yayına girer, `durum: "incele"` olanlar Türkçe karakter kontrolünden geçemedi (yayınlanmaz), `durum: "elendi"` olanlar önemsiz bulundu.
             - Bir kaydı elle onaylamak için `durum` alanını uygun değere çevirin; kaldırmak için `ozet` alanını `null` yapın.
           labels: icerik
+
+      # Derleme yukarıda geçti; PR otomatik birleştirilir ve yayın başlatılır
+      # (GITHUB_TOKEN ile yapılan birleştirme push tetiklemediği için Yayınla elle çağrılır).
+      - name: PR'ı birleştir ve yayınla
+        if: steps.pr.outputs.pull-request-number
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh pr merge "${{ steps.pr.outputs.pull-request-number }}" --merge
+          gh workflow run yayinla.yml
