@@ -1428,5 +1428,488 @@
     "url": "https://tr.wikipedia.org/wiki/4_Kas%C4%B1m",
     "revid": 36875543
   },
-  "guncelleme": "2026-10-21T21:27:09.347Z"
+  "guncelleme": "2026-10-21T21:27:09.347Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2449801",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP’li Barut, gazetemizin dayanışma kampanyasını Meclis gündemine taşıdı: ‘Cumhuriyet Gazetesi sadece bir gazete değil ülkemizin vicdanıdır’",
+      "aciklama": "CHP Adana Milletvekili Ayhan Barut, Meclis’te yaptığı konuşmada gazetemiz Cumhuriyet’i yaşatmak için yapılan dayanışma kampanyasına destek vererek “Cumhuriyet Gazetesi sadece bir gazete değil ülkemizin vicdanıdır” dedi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/chp-li-barut-gazetemizin-dayanisma-kampanyasini-meclis-gundemine-tasidi-cumhuriyet-gazetesi-sadece-bir-gazete-degil-ulkemizin-vicdanidir-2449801"
+      },
+      "konular": [],
+      "yayin": "2025-11-04T18:04:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2265115",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Trabzonspor'da seçim tarihi belli oldu!",
+      "aciklama": "Trabzonspor Kulübünde olağan seçimli genel kurul toplantısının 21-22 Kasım'da, çoğunluk sağlanamadığı takdirde 30 Kasım-1 Aralık'ta yapılacağı açıkladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/trabzonsporda-secim-tarihi-belli-oldu-2265115"
+      },
+      "konular": [],
+      "yayin": "2024-11-04T17:34:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2264988",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "ABD seçimleri öncesi piyasalarda son durum: Dolar değer kaybetti, hisse senetleri yatay seyirde",
+      "aciklama": "ABD başkanlık seçimleri öncesinde yatırımcıların temkinli hareket etmesi dikkat çekti. Hafta içinde ABD Merkez Bankası'nın olası faiz indirimine gitmesi beklenirken, pazartesi günü doların değer kaybetmesi ve hisse senetlerinin zorlanması gündeme geldi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/abd-secimleri-oncesi-piyasalarda-son-durum-dolar-deger-kaybetti-hisse-2264988"
+      },
+      "konular": [],
+      "yayin": "2024-11-04T13:11:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2137363",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Son depremler! Deprem mi oldu? 4 Kasım 2023 nerede, ne zaman deprem oldu?",
+      "aciklama": "Sarsıntı hisseden yurttaşlar, 4 Kasım 2023 son depremlerin nerede ve kaç büyüklüğünde olduğunu merak ediyor. Deprem mi oldu? Nerede, ne zaman deprem oldu? 3 Kasım 2023 Türkiye'deki depremler…",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/son-depremler-deprem-mi-oldu-4-kasim-2023-nerede-ne-zaman-deprem-2137363"
+      },
+      "konular": [],
+      "yayin": "2023-11-04T11:50:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2137330",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Galatasaray kendi rekorunu kırdı! Tarihte ilk kez...",
+      "aciklama": "Galatasaray, ligin ilk 11 haftası itibarıyla Süper Lig'deki en iyi başlangıcını yaptı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-kendi-rekorunu-kirdi-tarihte-ilk-kez-2137330"
+      },
+      "konular": [],
+      "yayin": "2023-11-04T09:43:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-1999519",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İzmir depremi hangi fayda, kaç büyüklüğünde meydana geldi? Deprem sonrası kaç artçı oldu?",
+      "aciklama": "",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/galeri-izmir-depremi-hangi-fayda-kac-buyuklugunde-meydana-geldi-deprem-sonrasi-kac-artci-oldu-1999519"
+      },
+      "konular": [],
+      "yayin": "2022-11-04T10:37:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-1999493",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Euro dolar paritesinde sınırlı yükseliş: Euro ne kadar oldu? (4 Kasım 2022)",
+      "aciklama": "Euro’da dikkat çeken dalgalanmalar sürüyor. Euro/dolar paritesi 0.9785 ile sınırlı seviyede yükselişe geçti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/euro-dolar-paritesinde-sinirli-yukselis-euro-ne-kadar-oldu-4-kasim-2022-1999493"
+      },
+      "konular": [],
+      "yayin": "2022-11-04T09:44:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1882005",
+      "yil": 2021,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "FT: Enflasyon tartışması Erdoğan'ın kaderini belirleyebilir",
+      "aciklama": "Financial Times tarafından yayınlanan",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/ft-enflasyon-tartismasi-erdoganin-kaderini-belirleyebilir-1882005"
+      },
+      "konular": [],
+      "yayin": "2021-11-04T10:32:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1882155",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Kerem Özmen Dünya Boks Şampiyonası'nda finale yükseldi",
+      "aciklama": "Milli sporcu Kerem Özmen gümüş madalyayı garantiledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/kerem-ozmen-dunya-boks-sampiyonasinda-finale-yukseldi-1882155"
+      },
+      "konular": [],
+      "yayin": "2021-11-04T21:27:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1788442",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Slovakya Başbakanı Jansa, tarihi seçimin galibini Trump ilan etti",
+      "aciklama": "ABD'de 7 kritik eyalette oy sayım devam ederken,  Slovakya Başbakanı Janez Jansa ABD başkanlık seçimin sonucunu şimdiden ilan etti. Jansa, sosyal medyadan yayınladığı mesajında, “Amerikan halkının Donald Trump ve Mike Pence'i dört yıl daha seçtiği oldukça açık” diyerek, Trump'ı k",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/slovakya-basbakani-jansa-tarihi-secimin-galibini-trump-ilan-etti-1788442"
+      },
+      "konular": [],
+      "yayin": "2020-11-04T14:30:00+03:00",
+      "puan": 14,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1788477",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "ABD seçiminde ölü aday kazandı",
+      "aciklama": "Washington Post’ta yer alan habere göre Covid-19 sebebiyle 5 Ekim’de hayatını kaybeden Cumhuriyetçi aday David Andahl, Kuzey Dakota eyaletinde seçildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/abd-sasirilan-sonuc-secimlerinde-olu-aday-kazandi-1788477"
+      },
+      "konular": [],
+      "yayin": "2020-11-04T17:22:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1700118",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Suriye Anayasa Komitesi toplantılarının ikinci turu başladı",
+      "aciklama": "Birleşmiş Milletler (BM) Cenevre Ofisi'nde Suriye Anayasa Komitesi toplantılarının ikinci turu, 45 kişilik yazım kurulunun ilk toplantısıyla başladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/suriye-anayasa-komitesi-toplantilarinin-ikinci-turu-basladi-1700118"
+      },
+      "konular": [],
+      "yayin": "2019-11-04T19:44:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1573316",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Hamilton ABD Grand Prix'sinde 6. kez şampiyon",
+      "aciklama": "Mercedes'in 34 yaşındaki pilotu Lewis Hamilton, 2019 Formula 1 Dünya Şampiyonası'nın 19. yarışı ABD Grand Prix'sinde 2. olsa da şampiyonluğu garantiledi. Kariyerinin 6. şampiyonluğunu ilan eden Hamilton, gelmiş geçmiş en iyi 2. F1 pilotu ünvanını aldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/hamilton-abd-grand-prixsinde-6-kez-sampiyon-1573316"
+      },
+      "konular": [],
+      "yayin": "2019-11-04T03:06:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1131363",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "2018 Golf Turnuvası şampiyonu İngiliz Rose oldu",
+      "aciklama": "Türk Hava Yolları (THY) sponsorluğunda Avrupa Turu Rolex Serisi’ndeki 8 turnuvadan birisi olan Turkish Airlines Open 2018’in galibi İngiliz Justin Rose oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/2018-golf-turnuvasi-sampiyonu-ingiliz-rose-oldu-1131363"
+      },
+      "konular": [],
+      "yayin": "2018-11-04T19:00:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1131307",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Neslihan Yiğit badmintonda yine şampiyon",
+      "aciklama": "Neslihan Yiğit, finalde Bulgar rakibi Mariye Mıtsova'yı 2-0 mağlup ederek şampiyon oldu ve altın madalyanın sahibi oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/neslihan-yigit-badmintonda-yine-sampiyon-1131307"
+      },
+      "konular": [],
+      "yayin": "2018-11-04T17:21:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-859602",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Lübnan Başbakanı Hariri istifa etti...",
+      "aciklama": "Lübnan Başbakanı Saad el Hariri, suikast tehdidi altında olduğunu söyleyerek istifa etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/lubnan-basbakani-hariri-istifa-etti-suikast-tehdidi-var-859602"
+      },
+      "konular": [],
+      "yayin": "2017-11-04T15:02:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-859440",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "TBMM Başkanı Kahraman: Abdülhamid indirilmemiş olsaydı, 1. Dünya Savaşı çıkmayacaktı",
+      "aciklama": "TBMM Başkanı İsmail Kahraman, “",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/tbmm-baskani-kahraman-abdulhamid-indirilmemis-olsaydi-1-dunya-savasi-cikmayacakti-859440"
+      },
+      "konular": [],
+      "yayin": "2017-11-04T11:30:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-625895",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "HDP'li vekillere gece yarısı operasyonu dünya basınında: Erdoğan karşıtları gözaltında",
+      "aciklama": "HDP Eş Genel Başkanları Selahattin Demirtaş ve Figen Yüksekdağ ile 9 HDP'li milletvekilinin gözaltına alınması dünya basınında geniş yer buldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/hdpli-vekillere-gece-yarisi-operasyonu-dunya-basininda-erdogan-karsitlari-gozaltinda-625895"
+      },
+      "konular": [],
+      "yayin": "2016-11-04T10:04:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-625847",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Başbakanlık'tan ilk... HDP operasyonunu uluslararası basına böyle duyurdular",
+      "aciklama": "Başbakanlık Basın Yayın Enformasyon Genel Müdürlüğü, HDP eş başkanları ve milletvekillerine yönelik operasyonla ilgili uluslararası basına yönelik bir duyuru yayınladı. Duyuruda, gözaltıların HDP'li vekillerin ifade vermeye gitmemeleri nedeniyle gerçekleştirildiği belirtildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbakanliktan-ilk-hdp-operasyonunu-uluslararasi-basina-boyle-duyurdular-625847"
+      },
+      "konular": [],
+      "yayin": "2016-11-04T08:09:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-405641",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Gece kulübünde 32 kişi ölünce Başbakan Ponta istifa etti",
+      "aciklama": "Romanya Başbakanı Victor Ponta, başkent Bükreş'teki bir gece kulübünde geçen Cuma günü çıkan yangında 32 kişinin ölmesinin ardından başlayan sokak protestoları sonrası istifa etti. Yangından hükümeti sorumlu tutan binlerce kişi Salı günü düzenlenen gösterilerde kabineyi istifaya ",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/gece-kulubunde-32-kisi-olunce-basbakan-ponta-istifa-etti-405641"
+      },
+      "konular": [],
+      "yayin": "2015-11-04T12:33:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-405629",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "F.Bahçe'ye Şampiyonlar Ligi'nden davet var",
+      "aciklama": "Avrupa Ligi'ni gelecek sezondan itibaren 'Basketbol Şampiyonlar Ligi' adıyla yeni bir formata kavuşturma kararı alan FIBA, Fenerbahçe, Maccabi Tel Aviv, Olympiakos ve Real Madrid kulüplerine ortaklık teklifinde bulundu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fbahceye-sampiyonlar-liginden-davet-var-405629"
+      },
+      "konular": [],
+      "yayin": "2015-11-04T12:27:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-137088",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "ABD'den Erdoğan'a yalanlama: Hiçbir zaman özür dilemedim",
+      "aciklama": "ABD Başkan Yardımcısı Joe Biden, 17 Kasım'daki Türkiye ziyaretinin hemen öncesinde çok konuşulacak bir çıkışta bulundu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/abdden-erdogana-yalanlama-hicbir-zaman-ozur-dilemedim-137088"
+      },
+      "konular": [],
+      "yayin": "2014-11-04T08:09:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-137238",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Kaplan: HDP'nin kapatılması kararı alındı",
+      "aciklama": "HDP'li Hasip Kaplan,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/kaplan-hdpnin-kapatilmasi-karari-alindi-137238"
+      },
+      "konular": [],
+      "yayin": "2014-11-04T13:02:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-5903",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Polis aracına ateş açıldı!",
+      "aciklama": "Niğde'de devriye trafik uygulaması yapan polis otosuna pompalı tüfekle ateş açıldı. Açılan ateş sonucu bir polis memuru yüzüne isabet eden saçmalarla yaralandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/polis-aracina-ates-acildi-5903"
+      },
+      "konular": [],
+      "yayin": "2013-11-04T08:17:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-5899",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Van'da vali depremi!",
+      "aciklama": "Van Valisi Aydın Nezih Doğan'ın kendilerine hakaret ettiğini ileri süren 5 vali yardımcısının, İçişleri Bakanlığı'na dileçe vererek başka yere tayinlerini istemesi, kentte geniş yankı uyandırdı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/vanda-vali-depremi-5899"
+      },
+      "konular": [],
+      "yayin": "2013-11-04T08:04:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-380990",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ahmedinejad hakkındaki soru önergesi kabul edildi",
+      "aciklama": "İran Meclisi, Cumhurbaşkanı Mahmud Ahmedinejad hakkında verilen soru önergesini kabul etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ahmedinejad-hakkindaki-soru-onergesi-kabul-edildi-380990"
+      },
+      "konular": [],
+      "yayin": "2012-11-04T10:15:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-380978",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fransa Cumhurbaşkanı Hollande, Beyrut'ta",
+      "aciklama": "Lübnan'ın başkenti Beyrut'a gelen Fransa Cumhurbaşkanı François Hollande, Lübnanlı mevkidaşı Mişel Süleyman ile görüştü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fransa-cumhurbaskani-hollande-beyrutta-380978"
+      },
+      "konular": [],
+      "yayin": "2012-11-04T09:11:00+03:00",
+      "puan": 5,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-295780",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Karbondioksit salınımında rekor düzeyde artış",
+      "aciklama": "ABD Enerji Bakanlığı, küresel karbondioksit salınımının şimdiye kadarki en yüksek seviyesine ulaştığını açıkladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/karbondioksit-saliniminda-rekor-duzeyde-artis-295780"
+      },
+      "konular": [],
+      "yayin": "2011-11-04T14:40:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-295774",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "N.Ç davası Meclis'e taşındı",
+      "aciklama": "CHP Ankara Milletvekili Aylin Nazlıaka, TBMM Başkanlığı'na, Milli Eğitim Bakanı Ömer Dinçer'in yanıtlaması istemiyle verdiği önergede, N.Ç. davasında suça karışan kamu görevlilerine yönelik idari soruşturma açılıp açılmadığını sordu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/nc-davasi-meclise-tasindi-295774"
+      },
+      "konular": [],
+      "yayin": "2011-11-04T13:02:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }
