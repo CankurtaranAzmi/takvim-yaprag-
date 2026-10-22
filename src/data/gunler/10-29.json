@@ -164,9 +164,9 @@
         "Osmanlı İmparatorluğu",
         "I. Dünya Savaşı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Osmanlı Devleti'nin I. Dünya Savaşı'na Girişi",
+      "ozet": "Osmanlı Devleti'nin I. Dünya Savaşı'na fiilen katılması, 29 Ekim 1914 tarihinde Karadeniz'de gerçekleşen ani bir askeri harekatla başladı. Alman Amiral Wilhelm Souchon komutasındaki Yavuz (eski adıyla Goeben) ve Midilli (eski adıyla Breslau) isimli savaş gemileri, diğer Osmanlı gemileriyle birlikte Rusya'nın Sivastopol, Odessa ve Novorossiysk gibi önemli limanlarını ve gemilerini hedef alarak bombaladı. Bu saldırılar, uzun süredir tarafsızlığını korumaya çalışan imparatorluğun kaderini belirleyen kritik bir dönüm noktası oldu.\n\nSöz konusu gemiler, savaşın başında İngiliz donanmasından kaçarak İstanbul'a sığınmış ve kısa süre sonra Osmanlı donanmasına dahil edilmişlerdi. Bu baskın, Rusya'nın Osmanlı Devleti'ne resmen savaş ilan etmesine ve devletin İttifak Devletleri safında çatışmalara dahil olmasına neden oldu. Karadeniz'de başlayan bu askeri hareketlilik, Osmanlı İmparatorluğu'nun Kafkasya'dan Çanakkale'ye kadar uzanan geniş bir coğrafyada, oldukça ağır kayıplara yol açacak olan dört yıllık bir dünya savaşı sürecine girmesinin doğrudan tetikleyicisi oldu.",
+      "kategori": "Savaş",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesarchiv_DVM_10_Bild-23-61-15%2C_Panzerkreuzer_%22SMS_Goeben%22.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesarchiv_DVM_10_Bild-23-61-15%2C_Panzerkreuzer_%22SMS_Goeben%22.jpg",
@@ -180,48 +180,8 @@
         "aciklama": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Panzerkreuzer \"SMS Goeben\" Panzerkreuze",
         "konu": "Yavuz Kruvazörü"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesarchiv_DVM_10_Bild-23-61-15%2C_Panzerkreuzer_%22SMS_Goeben%22.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesarchiv_DVM_10_Bild-23-61-15%2C_Panzerkreuzer_%22SMS_Goeben%22.jpg",
-          "genislik": 800,
-          "yukseklik": 458,
-          "orijinalGenislik": 800,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "CC BY-SA 3.0 de",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_DVM_10_Bild-23-61-15,_Panzerkreuzer_%22SMS_Goeben%22.jpg",
-          "aciklama": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Panzerkreuzer \"SMS Goeben\" Panzerkreuze",
-          "konu": "Yavuz Kruvazörü"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bundesarchiv_DVM_10_Bild-23-61-22%2C_Kleiner_Kreuzer_%22SMS_Breslau%22.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bundesarchiv_DVM_10_Bild-23-61-22%2C_Kleiner_Kreuzer_%22SMS_Breslau%22.jpg",
-          "genislik": 769,
-          "yukseklik": 488,
-          "orijinalGenislik": 769,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "CC BY-SA 3.0 de",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_DVM_10_Bild-23-61-22,_Kleiner_Kreuzer_%22SMS_Breslau%22.jpg",
-          "aciklama": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Kleiner Kreuzer \"SMS Breslau\" Kleiner K",
-          "konu": "Midilli Kruvazörü"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
-          "genislik": 960,
-          "yukseklik": 974,
-          "orijinalGenislik": 1300,
-          "yazar": "User:Hohum",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:WWImontage.jpg",
-          "aciklama": "Montage for WWI article. Top: Trenches - Image:The_badly_shelled_main_road_to_Bapaume.jpg (Trenches on the Western Front) Left Upper: Image:AlbatDIII.jpg (German Albatros D.III biplane fighters of Jas",
-          "konu": "I. Dünya Savaşı"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1919-britanya-birlikleri-antepi-fransizlara-teslim-edilerek-geri",
@@ -257,51 +217,24 @@
         "Mustafa Kemal Atatürk",
         "Türkiye cumhurbaşkanı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Türkiye Cumhuriyeti'nin İlanı",
+      "ozet": "Türkiye Büyük Millet Meclisi, 29 Ekim 1923 tarihinde gerçekleştirdiği oturumda, devletin yönetim biçimini cumhuriyet olarak belirleyen anayasa değişikliği teklifini kabul etti. Bu tarihi kararla birlikte, egemenliğin kayıtsız şartsız millete ait olduğu ilkesi anayasal güvence altına alındı ve Türkiye Devleti'nin yeni yönetim şekli resmen ilan edildi. Aynı oturumda yapılan oylama sonucunda, Kurtuluş Savaşı'nın lideri Mustafa Kemal Atatürk, Türkiye Cumhuriyeti'nin ilk cumhurbaşkanı olarak seçildi.\n\nCumhuriyetin ilanı, sadece bir yönetim değişikliği değil, aynı zamanda Türk toplumunu çağdaşlaştırmayı hedefleyen kapsamlı Atatürk Devrimleri'nin en önemli halkalarından biridir. Bu siyasal inkılap, devletin idari yapısını kökten değiştirerek meclis hükümeti sisteminden cumhurbaşkanlığı makamının bulunduğu yeni bir sisteme geçişi sağladı. Bu adım, ilerleyen yıllarda gerçekleştirilecek olan sosyal, hukuki ve kültürel reformların da önünü açan temel bir dönüm noktası olmuştur. Türkiye'nin modernleşme sürecinde bir milat kabul edilen bu olay, ulusal egemenliğin kurumsallaşması ve devletin demokratik bir temele oturtulması açısından büyük bir önem taşımaktadır.",
+      "kategori": "Siyaset",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anavatan_1927.jpg/960px-Anavatan_1927.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anavatan_1927.jpg/500px-Anavatan_1927.jpg",
-        "genislik": 960,
-        "yukseklik": 617,
-        "orijinalGenislik": 9999,
-        "yazar": "Alaaddin Matbaası",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
+        "genislik": 732,
+        "yukseklik": 987,
+        "orijinalGenislik": 732,
+        "yazar": "Bilinmeyen yazar",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Anavatan_1927.jpg",
-        "aciklama": "1927 Map of Turkey",
-        "konu": "Türkiye'de cumhuriyetin ilanı"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
+        "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
+        "konu": "Mustafa Kemal Atatürk"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anavatan_1927.jpg/960px-Anavatan_1927.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anavatan_1927.jpg/500px-Anavatan_1927.jpg",
-          "genislik": 960,
-          "yukseklik": 617,
-          "orijinalGenislik": 9999,
-          "yazar": "Alaaddin Matbaası",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Anavatan_1927.jpg",
-          "aciklama": "1927 Map of Turkey",
-          "konu": "Türkiye'de cumhuriyetin ilanı"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-          "genislik": 732,
-          "yukseklik": 987,
-          "orijinalGenislik": 732,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
-          "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
-          "konu": "Mustafa Kemal Atatürk"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1924-milletler-cemiyeti-konseyinde-turkiye-irak-siniri-musulu-irakta",
@@ -312,9 +245,9 @@
         "Musul",
         "Irak"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Milletler Cemiyeti ve Musul Sınırı Kararı",
+      "ozet": "Milletler Cemiyeti Konseyi, I. Dünya Savaşı sonrasında Türkiye ile İngiliz mandası altındaki Irak arasında uzun süredir devam eden sınır anlaşmazlığını çözmek amacıyla bir karar açıkladı. 29 Ekim 1924 tarihinde alınan bu kararla, stratejik öneme sahip Musul bölgesinin Irak sınırları içerisinde kalması kararlaştırıldı. Bu gelişme, Türkiye'nin bölgedeki hak iddiaları ile İngiltere'nin bölge üzerindeki nüfuz mücadelesinin en kritik aşamalarından birini oluşturdu.\n\nSöz konusu karar, dönemin uluslararası diplomasisinde Milletler Cemiyeti'nin arabuluculuk rolünü yansıtması bakımından dikkat çekicidir. Ancak cemiyetin bu kararı, Türkiye ile İngiltere arasındaki gerilimi doğrudan sonlandırmamış, bölgedeki diplomatik ve siyasi tartışmaların bir süre daha devam etmesine yol açmıştır. Musul'un statüsü, hem tarihsel ve kültürel derinliği hem de bölgedeki jeopolitik dengeler açısından Türkiye için büyük bir önem taşımaktaydı. Bu olay, genç Türkiye Cumhuriyeti'nin dış politikasında sınırların belirlenmesi ve egemenlik haklarının korunması sürecindeki zorlu diplomatik süreçlerin bir parçası olarak tarihe geçti.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84.jpg",
@@ -328,7 +261,8 @@
         "aciklama": "The Old Bridge of Mosul, with the Mosul Grand Mosque in the background as seen from the south (Al Korneesh district on the western bank)",
         "konu": "Musul"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1927-irakta-yapilan-kazilarda-ur-kenti-yakinlarinda-5",
@@ -391,51 +325,24 @@
         "Yunanistan başbakanı",
         "Elefterios Venizelos"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Venizelos'un Ankara Ziyareti ve Türk-Yunan Dostluğu",
+      "ozet": "Türkiye Cumhuriyeti'nin kuruluşunun yedinci yıl dönümü olan 29 Ekim 1930'da Ankara'da düzenlenen Cumhuriyet Bayramı törenleri, oldukça önemli bir diplomatik misafiri ağırladı. Yunanistan Başbakanı Elefterios Venizelos, Türkiye'ye gerçekleştirdiği resmi ziyaret kapsamında başkentteki kutlamalara katılarak iki ülke arasındaki ilişkilerde yeni bir dönemin kapılarını araladı. Bu ziyaret, Kurtuluş Savaşı'nın ardından yaşanan gerginliklerin geride bırakılması ve iki komşu ülke arasında barışçıl bir iş birliği sürecinin başlatılması adına atılan en somut adımlardan biri olarak kabul edildi.\n\nVenizelos'un ziyareti, sadece bir nezaket gösterisi değil, aynı zamanda Türk-Yunan dostluk antlaşmalarının temelini oluşturan stratejik bir hamleydi. Modern Yunanistan'ın mimarı olarak bilinen ve Megali İdea'nın savunucusu olan Venizelos'un, Türkiye'nin başkentinde Cumhuriyet coşkusuna ortak olması, bölgedeki siyasi dengelerin değiştiğini ve iki ülkenin ortak bir gelecek vizyonunda buluşabileceğini gösterdi. Bu ziyaret, ilerleyen yıllarda imzalanacak olan dostluk ve tarafsızlık antlaşmalarının öncüsü olmuş, Balkanlar'da barışın tesis edilmesine katkı sağlamıştır.",
+      "kategori": "Siyaset",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82.jpg/960px-%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82.jpg/500px-%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82.jpg",
         "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 7735,
-        "yazar": "A.Savin",
-        "lisans": "FAL",
-        "lisansUrl": "http://artlibre.org/licence/lal/en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-        "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
-        "konu": "Ankara"
+        "yukseklik": 1421,
+        "orijinalGenislik": 973,
+        "yazar": "Photoprint copyrighted by Harris & Ewing (No known restrictions on publication)",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82.jpg",
+        "aciklama": "Eleftherios Venizelos (1864-1936), one of the most significant politicians of modern Greece.",
+        "konu": "Elefterios Venizelos"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 7735,
-          "yazar": "A.Savin",
-          "lisans": "FAL",
-          "lisansUrl": "http://artlibre.org/licence/lal/en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
-          "konu": "Ankara"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82.jpg/960px-%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82.jpg/500px-%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82.jpg",
-          "genislik": 960,
-          "yukseklik": 1421,
-          "orijinalGenislik": 973,
-          "yazar": "Photoprint copyrighted by Harris & Ewing (No known restrictions on publication)",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82.jpg",
-          "aciklama": "Eleftherios Venizelos (1864-1936), one of the most significant politicians of modern Greece.",
-          "konu": "Elefterios Venizelos"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1933-turkiye-cumhurbaskani-mustafa-kemal-cumhuriyetin-ilaninin-10",
@@ -445,51 +352,24 @@
         "Mustafa Kemal Atatürk",
         "10. Yıl Nutku"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Cumhuriyetin Onuncu Yılında Tarihi Bir Sesleniş",
+      "ozet": "Türkiye Cumhuriyeti'nin ilanının onuncu yıl dönümü olan 29 Ekim 1933 tarihinde, Ankara Hipodromu'nda düzenlenen büyük törenlerde Cumhurbaşkanı Mustafa Kemal Atatürk, tarihe Onuncu Yıl Nutku olarak geçen konuşmasını gerçekleştirdi. Yaklaşık altı dakika süren bu konuşma, genç Cumhuriyetin ilk on yılına dair bir değerlendirme niteliği taşıyordu. Atatürk, kendi el yazısıyla hazırladığı ve üzerinde titizlikle çalıştığı bu metinde, Millî Mücadele yıllarının zorluklarını ve kazanılan zaferin anlamını vurguladı.\n\nNutuk, sadece geçmişin bir muhasebesi değil, aynı zamanda Türkiye'nin gelecekteki hedeflerine dair bir yol haritasıydı. Konuşma, Türk milletine duyulan güveni ifade eden güçlü bir hitapla başlayıp, bugün hala büyük bir coşkuyla hatırlanan \"Ne mutlu Türk'üm diyene\" ifadesiyle sona erdi. Bu konuşma, Cumhuriyetin ilk on yılındaki toplumsal ve siyasal dönüşümün bir özeti olarak kabul edilirken, aynı zamanda ulusal birliğin ve bağımsızlık idealinin pekiştirilmesinde sembolik bir öneme sahip olmuştur.",
+      "kategori": "Siyaset",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-        "genislik": 732,
-        "yukseklik": 987,
-        "orijinalGenislik": 732,
-        "yazar": "Bilinmeyen yazar",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Atat%C3%BCrk_during_the_10th_Anniversary_Speech.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Atat%C3%BCrk_during_the_10th_Anniversary_Speech.jpg",
+        "genislik": 941,
+        "yukseklik": 560,
+        "orijinalGenislik": 941,
+        "yazar": "TSK",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
-        "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
-        "konu": "Mustafa Kemal Atatürk"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Atat%C3%BCrk_during_the_10th_Anniversary_Speech.jpg",
+        "aciklama": "Atatürk speaks during the 10th anniversary celebrations of the Republic of Turkey.",
+        "konu": "10. Yıl Nutku"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-          "genislik": 732,
-          "yukseklik": 987,
-          "orijinalGenislik": 732,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
-          "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
-          "konu": "Mustafa Kemal Atatürk"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Atat%C3%BCrk_during_the_10th_Anniversary_Speech.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Atat%C3%BCrk_during_the_10th_Anniversary_Speech.jpg",
-          "genislik": 941,
-          "yukseklik": 560,
-          "orijinalGenislik": 941,
-          "yazar": "TSK",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Atat%C3%BCrk_during_the_10th_Anniversary_Speech.jpg",
-          "aciklama": "Atatürk speaks during the 10th anniversary celebrations of the Republic of Turkey.",
-          "konu": "10. Yıl Nutku"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1954-dr-hikmet-kivilcimli-vatan-partisini-kurdu",
@@ -612,9 +492,9 @@
         "Devrim (otomobil)",
         "Cemal Gürsel"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Türkiye'nin İlk Yerli Otomobili Devrim Yollara Çıktı",
+      "ozet": "Türkiye'nin sanayi tarihinde bir dönüm noktası olan Devrim otomobili, Cumhurbaşkanı Cemal Gürsel'in bizzat verdiği talimatla Eskişehir Demiryolu Fabrikası'nda üretildi. Türk mühendis ve işçilerinin büyük bir özveriyle çalıştığı proje, sadece 129 gün gibi oldukça kısa bir sürede tamamlanarak Cumhuriyet Bayramı kutlamalarına yetiştirildi. Bu girişim, Türkiye'nin kendi otomobilini tasarlayıp üretebilecek teknik kapasiteye sahip olduğunu kanıtlamayı amaçlayan sembolik ve stratejik bir adımdı.\n\nDevrim'in üretimi, Türkiye'nin yerli sanayi hamleleri açısından büyük bir heyecan yaratsa da seri üretime geçiş süreci çeşitli zorluklarla karşılaştı. Projenin kısıtlı zaman diliminde tamamlanması ve dönemin ekonomik koşulları, aracın geniş kitlelere ulaşmasını engelledi. Yine de Devrim, Türk mühendislik tarihinin en önemli girişimlerinden biri olarak kabul edilmekte ve yerli otomobil üretimi konusundaki ilk ciddi deneyim olarak hafızalardaki yerini korumaktadır.",
+      "kategori": "Teknoloji",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Devrim_-_20.10.23.jpg/960px-Devrim_-_20.10.23.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Devrim_-_20.10.23.jpg/500px-Devrim_-_20.10.23.jpg",
@@ -628,35 +508,8 @@
         "aciklama": "Kepez Belediyesi'nin düzenlediği Antalya Bilimfest'te sergilenen Devrim aracı.",
         "konu": "Devrim (otomobil)"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Devrim_-_20.10.23.jpg/960px-Devrim_-_20.10.23.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Devrim_-_20.10.23.jpg/500px-Devrim_-_20.10.23.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 3456,
-          "yazar": "Onur",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Devrim_-_20.10.23.jpg",
-          "aciklama": "Kepez Belediyesi'nin düzenlediği Antalya Bilimfest'te sergilenen Devrim aracı.",
-          "konu": "Devrim (otomobil)"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg/960px-Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg/500px-Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1286,
-          "orijinalGenislik": 1160,
-          "yazar": "THA",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Cemal_G%C3%BCrsel_(1960)_(cropped).jpg",
-          "aciklama": "Photograph of Cemal Gürsel, fourth President of Turkey.",
-          "konu": "Cemal Gürsel"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1967-montrealdeki-expo-67-dunya-fuari-kapandi-fuari",
@@ -666,51 +519,24 @@
         "Montreal",
         "Expo 67"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Montreal'de Düzenlenen Expo 67 Fuarı Sona Erdi",
+      "ozet": "Kanada'nın Montreal kentinde 27 Nisan 1967 tarihinde başlayan ve altı ay boyunca devam eden Expo 67, 29 Ekim'de düzenlenen kapanış töreniyle faaliyetlerini noktaladı. İnsanlığın geleceğine ve teknolojik gelişmelere odaklanan bu devasa organizasyon, 60'tan fazla ülkenin katılımıyla gerçekleşti. Etkinlik süresince 50 milyonu aşkın ziyaretçiyi ağırlayan fuar, modern mimarinin ve uluslararası iş birliğinin sergilendiği bir vitrin görevi gördü. Fuar, özellikle üçüncü gününde ulaştığı 569 bin kişilik günlük ziyaretçi sayısıyla o dönem için kırılması güç bir rekora imza atmıştı. Expo 67, hem Kanada'nın uluslararası alandaki prestijini artırması hem de mimarlık dünyasına kazandırdığı özgün yapılarla tarihteki en başarılı dünya fuarlarından biri olarak kabul edilmektedir. Özellikle Buckminster Fuller tarafından tasarlanan jeodezik kubbe gibi fütüristik yapılar, fuarın sembolü haline gelerek organizasyonun kültürel mirasını günümüze kadar taşımıştır. Toplam 50 milyonun üzerindeki ziyaretçi sayısı, fuarın sadece Kanada için değil, dünya çapında ne kadar büyük bir ilgi odağı olduğunu kanıtlar niteliktedir.",
+      "kategori": "Toplum",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Montreal-canada-parc-urban.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Montreal-canada-parc-urban.jpg",
-        "genislik": 874,
-        "yukseklik": 461,
-        "orijinalGenislik": 874,
-        "yazar": "https://www.pxfuel.com/",
-        "lisans": "CC0",
-        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Montreal-canada-parc-urban.jpg",
-        "aciklama": "Downtown Montreal as seen from Mount Royal.",
-        "konu": "Montreal"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Expo67_USA_Pavilion_2_minirail.jpg/960px-Expo67_USA_Pavilion_2_minirail.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Expo67_USA_Pavilion_2_minirail.jpg/500px-Expo67_USA_Pavilion_2_minirail.jpg",
+        "genislik": 960,
+        "yukseklik": 650,
+        "orijinalGenislik": 3216,
+        "yazar": "CA2MI",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Expo67_USA_Pavilion_2_minirail.jpg",
+        "aciklama": "Expo67: USA Pavilion, geodesic sphere design by Buckminster Fuller, with minirail running through it. Original 35mm slide scanned jpg.",
+        "konu": "Expo 67"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Montreal-canada-parc-urban.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Montreal-canada-parc-urban.jpg",
-          "genislik": 874,
-          "yukseklik": 461,
-          "orijinalGenislik": 874,
-          "yazar": "https://www.pxfuel.com/",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Montreal-canada-parc-urban.jpg",
-          "aciklama": "Downtown Montreal as seen from Mount Royal.",
-          "konu": "Montreal"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Expo67_USA_Pavilion_2_minirail.jpg/960px-Expo67_USA_Pavilion_2_minirail.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Expo67_USA_Pavilion_2_minirail.jpg/500px-Expo67_USA_Pavilion_2_minirail.jpg",
-          "genislik": 960,
-          "yukseklik": 650,
-          "orijinalGenislik": 3216,
-          "yazar": "CA2MI",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Expo67_USA_Pavilion_2_minirail.jpg",
-          "aciklama": "Expo67: USA Pavilion, geodesic sphere design by Buckminster Fuller, with minirail running through it. Original 35mm slide scanned jpg.",
-          "konu": "Expo 67"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1969-iki-bilgisayar-arasindaki-ilk-baglanti-gerceklestirildi-bu",
@@ -720,9 +546,9 @@
         "İnternet",
         "ARPANET"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "İnternetin Doğuşu: İlk Bilgisayar Bağlantısı",
+      "ozet": "İnsanlık tarihinin dijital dönüşümünde bir dönüm noktası olan ilk bilgisayar bağlantısı, 1969 yılının Ekim ayında Amerika Birleşik Devletleri'nde kuruldu. ARPANET projesi kapsamında gerçekleştirilen bu denemede, iki farklı bilgisayar sistemi arasında veri aktarımı sağlanarak modern internetin temelleri atılmış oldu. Bu gelişme, o güne kadar kullanılan geleneksel devre anahtarlamalı iletişim yöntemlerinin yerini alacak olan paket anahtarlamalı ağ teknolojisinin ilk somut uygulamasıydı.\n\nARPANET, ABD Savunma Bakanlığı bünyesindeki araştırmacılar tarafından, hataya dayanıklı ve merkeziyetsiz bir iletişim ağı oluşturmak amacıyla geliştirilmişti. Verilerin küçük parçalara bölünerek iletilmesini sağlayan bu yenilikçi yöntem, tek bir hattın aynı anda birden fazla makineyle haberleşmesine olanak tanıdı. Bu teknolojik atılım, zamanla akademik ve ticari ağların birleşmesiyle genişleyerek günümüzdeki küresel internet ağının oluşmasına giden yolu açtı. Bugün kullandığımız dijital dünyanın altyapısı, işte bu ilk başarılı bağlantı deneyiyle başlamıştır.",
+      "kategori": "Teknoloji",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Arpanet_logical_map%2C_march_1977.png/960px-Arpanet_logical_map%2C_march_1977.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Arpanet_logical_map%2C_march_1977.png/500px-Arpanet_logical_map%2C_march_1977.png",
@@ -736,7 +562,8 @@
         "aciklama": "ARPANET logical map circa 1977",
         "konu": "ARPANET"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1992-turkiye-ile-irakin-kuzeyi-arasinda-stratejik-oneme",
@@ -779,9 +606,9 @@
         "Boeing",
         "Diyarbakır"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Türk Hava Yolları Uçağının Kaçırılması",
+      "ozet": "Cumhuriyetin 75. yıl dönümünün kutlandığı 29 Ekim 1998 tarihinde, Türk Hava Yolları'na ait Adana-Ankara seferini gerçekleştiren Boeing 737 tipi yolcu uçağı, havada kaçırılma girişimiyle sarsıldı. Toplam 33 yolcu ve 6 kişilik mürettebatın bulunduğu uçakta, Erdal Aksu isimli şahıs uçağı ele geçirmeye çalıştı. Güvenlik güçlerinin ve mürettebatın müdahalesiyle sonuçlanan olayda, uçağı kaçıran kişi etkisiz hale getirilerek öldürüldü. Yolcular ve mürettebat için büyük bir korku dolu anların yaşandığı olayda, herhangi bir can kaybı yaşanmaması teselli kaynağı oldu.\n\nOlayın ardından yapılan kimlik tespit çalışmalarında, uçağı kaçıran Erdal Aksu'nun Diyarbakır'da dört öğretmenin katledilmesiyle ilgili aranan bir şüpheli olduğu ortaya çıktı. Bu durum, olayın sadece bir hava korsanlığı vakası olmadığını, aynı zamanda aranan bir suçlunun yakalanmasıyla sonuçlanan bir süreci de beraberinde getirdiğini gösterdi. Türkiye'nin önemli bir bayram gününde gerçekleşen bu olay, havacılık güvenliği ve terörle mücadele konularında o dönemde kamuoyunda geniş yankı uyandırdı.",
+      "kategori": "Ulaşım",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/TurkishAirlinesHQIstanbul.jpg/960px-TurkishAirlinesHQIstanbul.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/TurkishAirlinesHQIstanbul.jpg/500px-TurkishAirlinesHQIstanbul.jpg",
@@ -795,48 +622,8 @@
         "aciklama": "Turkish Airlines General Management Building - Turkish Airlines head office - Yeşilköy, Istanbul",
         "konu": "Türk Hava Yolları"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/TurkishAirlinesHQIstanbul.jpg/960px-TurkishAirlinesHQIstanbul.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/TurkishAirlinesHQIstanbul.jpg/500px-TurkishAirlinesHQIstanbul.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 3456,
-          "yazar": "Judith (Sympatexter)",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:TurkishAirlinesHQIstanbul.jpg",
-          "aciklama": "Turkish Airlines General Management Building - Turkish Airlines head office - Yeşilköy, Istanbul",
-          "konu": "Türk Hava Yolları"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Varda_Demiryolu_Koprusu.jpg/960px-Varda_Demiryolu_Koprusu.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Varda_Demiryolu_Koprusu.jpg/500px-Varda_Demiryolu_Koprusu.jpg",
-          "genislik": 960,
-          "yukseklik": 493,
-          "orijinalGenislik": 3318,
-          "yazar": "MUSTAFA TOR",
-          "lisans": "CC BY-SA 2.5",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Varda_Demiryolu_Koprusu.jpg",
-          "aciklama": "Varda Demiryolu Köprüsü; railway viaduct on Baghdad Railway in Taurus Mountains, Adana Province, Turkey",
-          "konu": "Adana"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Boeing_Virginia_Headquarters_%28cropped_and_brighter%29.jpg/960px-Boeing_Virginia_Headquarters_%28cropped_and_brighter%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Boeing_Virginia_Headquarters_%28cropped_and_brighter%29.jpg/500px-Boeing_Virginia_Headquarters_%28cropped_and_brighter%29.jpg",
-          "genislik": 960,
-          "yukseklik": 480,
-          "orijinalGenislik": 5472,
-          "yazar": "mr_t_77",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Boeing_Virginia_Headquarters_(cropped_and_brighter).jpg",
-          "aciklama": "Boeing's offices in Arlington County, Virginia, the corporate headquarters of the company as of 2022.",
-          "konu": "Boeing"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1998-azerbaycan-gurcistan-kazakistan-ozbekistan-ve-turkiye-hazar",
@@ -849,23 +636,12 @@
         "Özbekistan",
         "Orta Asya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Central_Asia_Physical.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Central_Asia_Physical.jpg",
-        "genislik": 604,
-        "yukseklik": 391,
-        "orijinalGenislik": 604,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Copyrighted free use",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Central_Asia_Physical.jpg",
-        "aciklama": null,
-        "konu": "Orta Asya"
-      },
-      "durum": "bekliyor"
+      "baslik": "Bakü-Tiflis-Ceyhan Boru Hattı İçin Tarihi Ankara Deklarasyonu",
+      "ozet": "Türkiye, Azerbaycan, Gürcistan, Kazakistan ve Özbekistan temsilcileri, 29 Ekim 1998 tarihinde Ankara'da bir araya gelerek Hazar ve Orta Asya enerji kaynaklarının dünya pazarlarına güvenli bir şekilde taşınmasını hedefleyen stratejik bir iş birliği belgesi olan Ankara Deklarasyonu'nu imzaladılar. Bu imza, bölgedeki enerji kaynaklarının jeopolitik önemini vurgulayan ve enerji koridoru oluşturma vizyonunu somutlaştıran kritik bir adım olarak tarihe geçti.\n\nSöz konusu deklarasyon, Bakü-Tiflis-Ceyhan (BTC) Petrol Boru Hattı projesinin hayata geçirilmesi yolunda atılan en önemli siyasi temellerden birini oluşturdu. Bu proje, sadece bölge ülkelerinin ekonomik kalkınmasını desteklemekle kalmayıp, aynı zamanda enerji arz güvenliği açısından Avrupa ve dünya piyasaları için stratejik bir alternatif sundu. Hazar Denizi'nin zengin hidrokarbon kaynaklarının, Rusya ve İran güzergahları dışında, Türkiye üzerinden Akdeniz'e ulaştırılmasını hedefleyen bu girişim, bölgedeki ülkelerin birbirleriyle olan ekonomik entegrasyonunu güçlendirdi ve Türkiye'nin enerji koridoru olma rolünü pekiştirdi.",
+      "kategori": "Ekonomi",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1998-amerikali-astronot-john-glenn-36-yil-aradan",
@@ -876,51 +652,24 @@
         "John Glenn",
         "Discovery Uzay Mekiği"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "John Glenn'in Uzaydaki İkinci Yolculuğu",
+      "ozet": "Amerikalı astronot ve senatör John Glenn, 29 Ekim 1998 tarihinde Discovery uzay mekiği ile gerçekleştirilen STS-95 görevi kapsamında yeniden uzaya adım attı. Bu uçuş, Glenn'in 1962 yılında Friendship 7 göreviyle Dünya yörüngesinde dönen ilk Amerikalı olmasından tam 36 yıl sonra gerçekleşti. 77 yaşındaki Glenn, bu göreviyle uzaya giden en yaşlı insan unvanını kazanarak havacılık ve uzay araştırmaları tarihinde unutulmaz bir başarıya imza attı. Glenn'in bu uçuşu, sadece kişisel bir başarı değil, aynı zamanda yaşlılığın uzay araştırmalarındaki etkilerini incelemek adına bilim dünyası için de önemli bir veri kaynağı oldu. Uzayda geçirdiği süre boyunca vücudunun yerçekimsiz ortama verdiği tepkiler, yaşlanma süreci ve uzay uçuşlarının insan fizyolojisi üzerindeki etkileri üzerine kapsamlı araştırmalar yapıldı. Bu görev, uzay keşiflerinin sadece genç ve aktif astronotlarla sınırlı kalmayabileceğini göstererek, insan ömrünün uzay ortamındaki sınırlarını test eden tarihi bir deneyim olarak kayıtlara geçti.",
+      "kategori": "Bilim",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg/960px-Bruce_McCandless_II_during_EVA_in_1984.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg/500px-Bruce_McCandless_II_during_EVA_in_1984.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/John_Glenn_Low_Res.jpg/960px-John_Glenn_Low_Res.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/John_Glenn_Low_Res.jpg/500px-John_Glenn_Low_Res.jpg",
         "genislik": 960,
-        "yukseklik": 960,
-        "orijinalGenislik": 3072,
-        "yazar": "NASA",
+        "yukseklik": 1219,
+        "orijinalGenislik": 1654,
+        "yazar": "U.S. Senate Historical Office",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bruce_McCandless_II_during_EVA_in_1984.jpg",
-        "aciklama": "Mission: STS-41-B Film Type: 70 mm Title: Views of the extravehicular activity during STS 41-B Description: Astronaut Bruce McCandless II, mission specialist, participates in a extra-vehicular activit",
-        "konu": "astronot"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:John_Glenn_Low_Res.jpg",
+        "aciklama": "John Glenn official portrait.",
+        "konu": "John Glenn"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg/960px-Bruce_McCandless_II_during_EVA_in_1984.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg/500px-Bruce_McCandless_II_during_EVA_in_1984.jpg",
-          "genislik": 960,
-          "yukseklik": 960,
-          "orijinalGenislik": 3072,
-          "yazar": "NASA",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bruce_McCandless_II_during_EVA_in_1984.jpg",
-          "aciklama": "Mission: STS-41-B Film Type: 70 mm Title: Views of the extravehicular activity during STS 41-B Description: Astronaut Bruce McCandless II, mission specialist, participates in a extra-vehicular activit",
-          "konu": "astronot"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/John_Glenn_Low_Res.jpg/960px-John_Glenn_Low_Res.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/John_Glenn_Low_Res.jpg/500px-John_Glenn_Low_Res.jpg",
-          "genislik": 960,
-          "yukseklik": 1219,
-          "orijinalGenislik": 1654,
-          "yazar": "U.S. Senate Historical Office",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:John_Glenn_Low_Res.jpg",
-          "aciklama": "John Glenn official portrait.",
-          "konu": "John Glenn"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "2006-nijeryanin-baskenti-abujada-boeing-737-tipi-bir",
@@ -931,51 +680,24 @@
         "Abuja",
         "Boeing 737"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Abuja'da Trajik Uçak Kazası",
+      "ozet": "Nijerya'nın başkenti Abuja'da 29 Ekim 2006 tarihinde meydana gelen elim bir uçak kazası, ülkeyi ve havacılık dünyasını yasa boğdu. Nnamdi Azikiwe Uluslararası Havaalanı'ndan havalanan Boeing 737 tipi yolcu uçağı, kalkışından kısa bir süre sonra henüz belirlenemeyen bir nedenle irtifa kaybederek yere çakıldı. Uçakta bulunan 104 yolcu ve mürettebattan sadece 6 kişi kazadan sağ kurtulmayı başardı.\n\nBu kaza, Nijerya'nın havacılık güvenliği konusundaki tartışmaları yeniden alevlendirdi. O dönemde bölgedeki hava yolu taşımacılığında yaşanan teknik yetersizlikler ve denetim eksiklikleri, kamuoyunda geniş yankı uyandıran bir konu haline gelmişti. Kazanın ardından başlatılan soruşturmalar, havacılık standartlarının iyileştirilmesi ve uçuş güvenliğinin artırılması yönünde uluslararası düzeyde çağrıların yapılmasına neden oldu. Olay, Nijerya'nın modern tarihinde yaşanan en üzücü sivil havacılık kazalarından biri olarak kayıtlara geçti.",
+      "kategori": "Ulaşım",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/MosqueinAbuja.jpg/960px-MosqueinAbuja.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/MosqueinAbuja.jpg/500px-MosqueinAbuja.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg/960px-01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg/500px-01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg",
         "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 3072,
-        "yazar": "Kipp Jones from Atlanta, US",
+        "yukseklik": 540,
+        "orijinalGenislik": 2048,
+        "yazar": "Nathan Coats from Seattle, WA, United States of America",
         "lisans": "CC BY-SA 2.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:MosqueinAbuja.jpg",
-        "aciklama": "The sand/dust from the harmattan coming from the Sahara gives the Nigeria's National Mosque in Abuja, a nice glow.",
-        "konu": "Abuja"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_(47193748641).jpg",
+        "aciklama": "01202019_American Airlines_B738M_N342RX_KBFI_NASEDIT",
+        "konu": "Boeing 737"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/MosqueinAbuja.jpg/960px-MosqueinAbuja.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/MosqueinAbuja.jpg/500px-MosqueinAbuja.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 3072,
-          "yazar": "Kipp Jones from Atlanta, US",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:MosqueinAbuja.jpg",
-          "aciklama": "The sand/dust from the harmattan coming from the Sahara gives the Nigeria's National Mosque in Abuja, a nice glow.",
-          "konu": "Abuja"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg/960px-01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg/500px-01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 2048,
-          "yazar": "Nathan Coats from Seattle, WA, United States of America",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_(47193748641).jpg",
-          "aciklama": "01202019_American Airlines_B738M_N342RX_KBFI_NASEDIT",
-          "konu": "Boeing 737"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "2013-marmaray-acildi-ve-ilk-sefer-uskudardan-yenikapiya",
@@ -986,51 +708,24 @@
         "Üsküdar (İstanbul Metrosu)",
         "Yenikapı Aktarma Merkezi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "İstanbul'un İki Yakasını Birleştiren Dev Proje: Marmaray",
+      "ozet": "Asya ve Avrupa kıtalarını İstanbul Boğazı'nın altından demiryolu ile birbirine bağlayan Marmaray, 29 Ekim 2013 tarihinde Cumhuriyet'in 90. yıl dönümünde büyük bir törenle resmen hizmete girdi. Projenin ilk yolculu seferi, Anadolu Yakası'ndaki Üsküdar istasyonundan Avrupa Yakası'ndaki Yenikapı istasyonuna doğru gerçekleştirilerek tarihi bir ana tanıklık edildi. Bu hat, İstanbul'un ulaşım altyapısında devrim niteliğinde bir adım olarak kabul edilmektedir.\n\nİstanbul'un şehir içi ulaşımını kökten değiştiren bu devasa mühendislik projesi, batırma tüp tünel, delme tüneller ve aç-kapa tünellerden oluşan geniş bir ağa sahiptir. Boğaz geçişinin yanı sıra, hattın modernizasyonu kapsamında çok sayıda istasyon yenilenmiş ve yeni yer altı istasyonları inşa edilmiştir. Marmaray, bugün Halkalı ile Gebze arasındaki uzun mesafeli banliyö hattıyla milyonlarca yolcuya hizmet vererek, iki kıta arasındaki ulaşım süresini ciddi oranda kısaltmış ve şehir trafiğine önemli bir alternatif oluşturmuştur.",
+      "kategori": "Ulaşım",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg/960px-%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg/500px-%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Yenikap%C4%B1_center_hall.jpg/960px-Yenikap%C4%B1_center_hall.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Yenikap%C4%B1_center_hall.jpg/500px-Yenikap%C4%B1_center_hall.jpg",
         "genislik": 960,
         "yukseklik": 720,
-        "orijinalGenislik": 4032,
-        "yazar": "Kayra",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg",
-        "aciklama": "Üsküdar Metro İstasyonu",
-        "konu": "Üsküdar (İstanbul Metrosu)"
+        "orijinalGenislik": 4608,
+        "yazar": "B'Tian D. P. Dorsam",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Yenikap%C4%B1_center_hall.jpg",
+        "aciklama": "The center hall of the new Yenikapı Transfer complex.",
+        "konu": "Yenikapı Aktarma Merkezi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg/960px-%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg/500px-%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 4032,
-          "yazar": "Kayra",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg",
-          "aciklama": "Üsküdar Metro İstasyonu",
-          "konu": "Üsküdar (İstanbul Metrosu)"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Yenikap%C4%B1_center_hall.jpg/960px-Yenikap%C4%B1_center_hall.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Yenikap%C4%B1_center_hall.jpg/500px-Yenikap%C4%B1_center_hall.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 4608,
-          "yazar": "B'Tian D. P. Dorsam",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Yenikap%C4%B1_center_hall.jpg",
-          "aciklama": "The center hall of the new Yenikapı Transfer complex.",
-          "konu": "Yenikapı Aktarma Merkezi"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "2016-ankara-yuksek-hizli-tren-gari-hizmete-acildi",
@@ -1039,9 +734,9 @@
       "konular": [
         "Ankara Yüksek Hızlı Tren Garı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Ankara Yüksek Hızlı Tren Garı Hizmete Girdi",
+      "ozet": "Ankara'nın Altındağ ilçesinde inşa edilen Ankara Yüksek Hızlı Tren Garı, 29 Ekim 2016 tarihinde resmen hizmete açıldı. TCDD bünyesinde faaliyet gösteren bu modern istasyon, sadece bir ulaşım noktası değil, aynı zamanda alışveriş merkezi, otel ve sosyal alanları bünyesinde barındıran kapsamlı bir ticari kompleks olarak tasarlandı. Yap-İşlet-Devret modeliyle hayata geçirilen proje, başkentin demiryolu ulaşım kapasitesini artırmayı hedefleyen önemli bir altyapı yatırımı olarak öne çıktı.\n\nİstasyon, Ankara'yı İstanbul, Konya ve Sivas gibi Türkiye'nin pek çok önemli merkezine bağlayan yüksek hızlı tren hatlarının ana başlangıç noktası konumundadır. Üç ada peronu ve 400 metrelik uzunluğuyla geniş bir yolcu trafiğini yönetebilecek kapasiteye sahip olan gar, geleneksel Ankara Garı'nın hemen yanında yer alarak şehrin ulaşım ağını modernize etmiştir. Günümüzde pek çok farklı güzergaha hizmet veren bu tesis, Türkiye'nin hızlı tren ağının merkezindeki stratejik rolünü sürdürmektedir.",
+      "kategori": "Ulaşım",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ankara_Gar_2017.jpg/960px-Ankara_Gar_2017.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ankara_Gar_2017.jpg/500px-Ankara_Gar_2017.jpg",
@@ -1055,7 +750,8 @@
         "aciklama": "New Ankara Train Station, 2017",
         "konu": "Ankara Yüksek Hızlı Tren Garı"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "2018-istanbul-havalimani-acildi",
@@ -1081,64 +777,24 @@
         "Pangkal Pinang",
         "Boeing 737"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Lion Air Uçağının Cava Denizi'ne Düşüşü",
+      "ozet": "Endonezya'nın başkenti Cakarta'dan Sumatra Adası'ndaki Pangkal Pinang şehrine gitmek üzere havalanan Lion Air'e ait Boeing 737 MAX 8 tipi yolcu uçağı, kalkıştan kısa bir süre sonra Cava Denizi'ne çakıldı. Uçakta bulunan 189 yolcu ve mürettebattan kurtulan olmadı. Bu trajik kaza, havacılık tarihine son yılların en büyük sivil havacılık felaketlerinden biri olarak geçti.\n\nKazanın ardından yapılan teknik incelemeler, uçağın yeni nesil uçuş kontrol sistemindeki bir hatanın pilotların kontrolü kaybetmesine neden olduğunu ortaya koydu. Söz konusu modelin tasarımındaki bu kritik eksiklik, dünya genelinde büyük bir tartışma başlattı ve Boeing 737 MAX uçaklarının uzun süre uçuşlardan men edilmesine yol açan sürecin başlangıcı oldu. Olay, havacılık güvenliği standartlarının yeniden gözden geçirilmesi ve uçak üreticilerinin denetim süreçlerinin sıkılaştırılması konusunda küresel bir dönüm noktası teşkil etti.",
+      "kategori": "Ulaşım",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Bundaran_Hotel_Indonesia_%282025%29.jpg/960px-Bundaran_Hotel_Indonesia_%282025%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Bundaran_Hotel_Indonesia_%282025%29.jpg/500px-Bundaran_Hotel_Indonesia_%282025%29.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg/960px-01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg/500px-01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg",
         "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 4000,
-        "yazar": "Medelam",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bundaran_Hotel_Indonesia_(2025).jpg",
-        "aciklama": "Bundaran Hotel Indonesia dari Halte Transjakarta Bundaran HI Astra pada Maret 2025",
-        "konu": "Cakarta"
+        "yukseklik": 540,
+        "orijinalGenislik": 2048,
+        "yazar": "Nathan Coats from Seattle, WA, United States of America",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_(47193748641).jpg",
+        "aciklama": "01202019_American Airlines_B738M_N342RX_KBFI_NASEDIT",
+        "konu": "Boeing 737"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Bundaran_Hotel_Indonesia_%282025%29.jpg/960px-Bundaran_Hotel_Indonesia_%282025%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Bundaran_Hotel_Indonesia_%282025%29.jpg/500px-Bundaran_Hotel_Indonesia_%282025%29.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 4000,
-          "yazar": "Medelam",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bundaran_Hotel_Indonesia_(2025).jpg",
-          "aciklama": "Bundaran Hotel Indonesia dari Halte Transjakarta Bundaran HI Astra pada Maret 2025",
-          "konu": "Cakarta"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Pangkalpinang-Bangka_Island.jpg/960px-Pangkalpinang-Bangka_Island.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Pangkalpinang-Bangka_Island.jpg/500px-Pangkalpinang-Bangka_Island.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 3264,
-          "yazar": "Taman Renyah",
-          "lisans": "CC BY 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Pangkalpinang-Bangka_Island.jpg",
-          "aciklama": "Jendral Sudirman Street, Pangkalpinang, Bangka Island. Bahasa Indonesia: Jalan Jendral Sudirman, Pangkalpinang, Bangka.",
-          "konu": "Pangkal Pinang"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg/960px-01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg/500px-01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_%2847193748641%29.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 2048,
-          "yazar": "Nathan Coats from Seattle, WA, United States of America",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:01202019_American_Airlines_B738M_N342RX_KBFI_NASEDIT_(47193748641).jpg",
-          "aciklama": "01202019_American Airlines_B738M_N342RX_KBFI_NASEDIT",
-          "konu": "Boeing 737"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     }
   ],
   "dogumlar": [
@@ -1658,7 +1314,7 @@
     "url": "https://tr.wikipedia.org/wiki/29_Ekim",
     "revid": 37825932
   },
-  "guncelleme": "2026-10-21T21:27:06.761Z",
+  "guncelleme": "2026-10-22T08:16:24.866Z",
   "haberler": [
     {
       "id": "2025-haber-2447856",
@@ -1671,10 +1327,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/ticaret-bakani-bolat-a-gore-turkiye-ihracatta-tarihi-rekora-ulasti-ihracat-artiyor-ama-nitelik-yok-2447856"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye ekonomisi",
+        "İhracat",
+        "Ömer Bolat"
+      ],
       "yayin": "2025-10-29T04:00:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Türkiye ihracat verilerinde yeni bir rekor seviyeye ulaştı",
+      "ozet": "Ticaret Bakanı Bolat, ülkenin ihracat alanında önemli bir başarı yakaladığını duyurdu. Turizm ve hizmet sektörlerinin de dahil edildiği toplam ihracat rakamı 390 milyar dolar olarak belirlendi. Uzmanlar ise bu artışa rağmen üretilen malların katma değerinin düşük kaldığına dikkat çekerek, gerçek başarının dış ticaret fazlası verilmesiyle mümkün olabileceğini ifade etti.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/IFM_G%C3%B6rsel_%28cropped%29.jpg/960px-IFM_G%C3%B6rsel_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/IFM_G%C3%B6rsel_%28cropped%29.jpg/500px-IFM_G%C3%B6rsel_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 637,
+        "orijinalGenislik": 4437,
+        "yazar": "Acode37",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:IFM_G%C3%B6rsel_(cropped).jpg",
+        "aciklama": "default",
+        "konu": "Türkiye ekonomisi"
+      }
     },
     {
       "id": "2025-haber-2447880",
@@ -1687,10 +1363,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/akp-de-istifa-depremi-bir-istifa-daha-geldi-2447880"
       },
-      "konular": [],
+      "konular": [
+        "Adalet ve Kalkınma Partisi",
+        "Küçükçekmece"
+      ],
       "yayin": "2025-10-29T00:11:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Küçükçekmece İlçe Başkanlığı görevinde istifa kararı",
+      "ozet": "Adalet ve Kalkınma Partisi Küçükçekmece İlçe Başkanı Nejat Öztürk, görevinden ayrıldığını kamuoyuna bildirdi. Öztürk, bu kararını kendisine ait sosyal medya hesabı üzerinden yaptığı paylaşımla duyurdu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2263009",
@@ -1703,10 +1385,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/bitcoin-abd-secimleri-oncesi-70-bin-dolari-asti-eft-girisleri-rekor-2263009"
       },
-      "konular": [],
+      "konular": [
+        "Bitcoin",
+        "Borsa yatırım fonu",
+        "Kripto para"
+      ],
       "yayin": "2024-10-29T13:13:00+03:00",
       "puan": 17,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Bitcoin fiyatı 70 bin dolar seviyesinin üzerine çıktı",
+      "ozet": "Amerika Birleşik Devletleri'ndeki spot Bitcoin borsa yatırım fonlarına yönelik yoğun talep, kripto para piyasasında hareketliliğe yol açtı. Söz konusu fonlara gerçekleşen yüksek miktarlı girişlerin etkisiyle Bitcoin'in değeri 70 bin dolar sınırını aştı. Yılın başından itibaren bu fonlara toplamda 25,4 milyar dolarlık yatırım yapıldığı belirtildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2024-haber-2263150",
@@ -1719,10 +1408,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/galeri-altinin-ons-fiyati-ilk-kez-2-bin-770-dolarin-uzerine-cikarak-rekor-2263150"
       },
-      "konular": [],
+      "konular": [
+        "Altın",
+        "Ekonomi"
+      ],
       "yayin": "2024-10-29T18:03:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Altın fiyatlarında ons bazında yeni zirve seviyeleri görüldü",
+      "ozet": "Piyasalarda değerli metallere yönelik ilgi sürerken altın fiyatları yükseliş eğilimini korudu. Ons altın değeri, küresel piyasalarda ilk kez 2 bin 770 dolar sınırını aşarak tarihi bir seviyeye ulaştı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2135359",
@@ -1735,10 +1430,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/erling-haaland-rekor-kirdi-manchester-city-derbiyi-3-golle-kazandi-2135359"
       },
-      "konular": [],
+      "konular": [
+        "Manchester City",
+        "Manchester United",
+        "Premier League"
+      ],
       "yayin": "2023-10-29T21:17:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Manchester City derbi mücadelesinde Manchester United'ı üç golle geçti",
+      "ozet": "İngiltere Premier Lig kapsamında oynanan derbi karşılaşmasında Manchester City, rakibi Manchester United karşısında sahadan üç farklı galibiyetle ayrıldı. Müsabaka boyunca üstün bir oyun sergileyen Manchester City, rakip fileleri üç kez havalandırarak önemli bir başarıya imza attı.",
+      "kategori": "Spor"
     },
     {
       "id": "2023-haber-2135180",
@@ -1751,10 +1453,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/galatasarayda-okan-buruktan-rekor-2135180"
       },
-      "konular": [],
+      "konular": [
+        "Okan Buruk",
+        "Galatasaray (futbol takımı)",
+        "Süper Lig"
+      ],
       "yayin": "2023-10-29T09:37:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Okan Buruk Süper Lig tarihinde galibiyet yüzdesi rekorunu kırdı",
+      "ozet": "Galatasaray teknik direktörü Okan Buruk, lig tarihinde bir takımın başında en yüksek galibiyet oranına ulaşan isim unvanını kazandı. Sarı kırmızılı ekipte görev yaptığı kırk altı karşılaşmada otuz yedi kez sahadan galibiyetle ayrılan Buruk, yüzde seksenin üzerinde bir başarı yüzdesi yakaladı.",
+      "kategori": "Spor"
     },
     {
       "id": "2022-haber-1997551",
@@ -1767,10 +1476,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-togg-gemlik-kampusu-acilis-toreni-basladi-1997551"
       },
-      "konular": [],
+      "konular": [
+        "Togg",
+        "Recep Tayyip Erdoğan",
+        "Gemlik"
+      ],
       "yayin": "2022-10-29T19:20:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Yerli otomobil markası TOGG ilk aracını üretim bandından indirdi",
+      "ozet": "Türkiye'nin yerli otomobil projesi kapsamında üretilen ilk model, Gemlik'teki tesislerde düzenlenen törenle banttan indirildi. Cumhurbaşkanı Recep Tayyip Erdoğan, açılış etkinliğinde yaptığı konuşmada aracın ön sipariş süreci ve fiyatlandırmasına dair bilgilendirmelerde bulundu.",
+      "kategori": "Teknoloji",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Togg_Showroom.jpg/960px-Togg_Showroom.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Togg_Showroom.jpg/500px-Togg_Showroom.jpg",
+        "genislik": 960,
+        "yukseklik": 540,
+        "orijinalGenislik": 4032,
+        "yazar": "Metuboy",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Togg_Showroom.jpg",
+        "aciklama": "Togg Showroom",
+        "konu": "Togg"
+      }
     },
     {
       "id": "2022-haber-1997520",
@@ -1783,10 +1512,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/ali-koc-fenerbahce-opetin-sampiyonlugunu-degerlendirdi-1997520"
       },
-      "konular": [],
+      "konular": [
+        "Fenerbahçe Opet",
+        "Ali Koç",
+        "Voleybol"
+      ],
       "yayin": "2022-10-29T17:18:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Fenerbahçe Opet Kadın Voleybol Takımı Şampiyonlar Kupası'nı Kazandı",
+      "ozet": "Kadınlar Spor Toto Şampiyonlar Kupası final karşılaşmasında Vakıfbank ile karşı karşıya gelen Fenerbahçe Opet, rakibini set vermeden üç sıfırlık skorla mağlup etti. Elde edilen bu galibiyetin ardından kulüp başkanı Ali Koç, müsabaka sonrasında bir değerlendirme yaparak takımın başarısını yorumladı.",
+      "kategori": "Spor"
     },
     {
       "id": "2021-haber-1880651",
@@ -1799,10 +1535,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-akm-cumhurbaskani-erdoganin-katilimiyla-acildi-1880651"
       },
-      "konular": [],
+      "konular": [
+        "Atatürk Kültür Merkezi",
+        "Recep Tayyip Erdoğan",
+        "İstanbul"
+      ],
       "yayin": "2021-10-29T19:03:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Atatürk Kültür Merkezi yeniden hizmete açıldı",
+      "ozet": "İstanbul'da yapımı tamamlanan Atatürk Kültür Merkezi düzenlenen törenle kapılarını ziyaretçilere açtı. Cumhurbaşkanı Recep Tayyip Erdoğan, açılış konuşmasında geçmiş dönemde yaşanan protestolara değinerek değerlendirmelerde bulundu. Yenilenen yapının kültürel faaliyetlere ev sahipliği yapacağı belirtildi.",
+      "kategori": "Sanat",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2021-haber-1880590",
@@ -1815,10 +1571,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/rekor-kirdi-14-ayda-8-bin-dolari-57-milyar-dolar-oldu-1880590"
       },
-      "konular": [],
+      "konular": [
+        "Shiba Inu (kripto para)",
+        "Kripto para"
+      ],
       "yayin": "2021-10-29T14:01:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Kripto para yatırımında yüksek kazanç sağlayan bir hesap dikkat çekti",
+      "ozet": "Ağustos 2020 tarihinde Shiba Inu isimli kripto para birimine yaklaşık 8 bin dolar tutarında yatırım yapan bir kişi, varlıklarının değerinin 5,7 milyar dolara ulaştığını gördü. Söz konusu yatırımcının on dört aylık süreçte elde ettiği bu büyük kazanç, piyasalarda geniş yankı uyandırdı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2020-haber-1786905",
@@ -1831,10 +1593,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sut-urunleri-zam-rekoru-kiriyor-1786905"
       },
-      "konular": [],
+      "konular": [
+        "Süt ürünleri",
+        "Gıda fiyatları",
+        "Enflasyon"
+      ],
       "yayin": "2020-10-29T11:31:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Süt ve süt ürünlerinde fiyat artışı gözlemlendi",
+      "ozet": "Temel gıda maddeleri arasında yer alan süt ürünlerinin fiyatlarında geçen yıla kıyasla belirgin bir yükseliş yaşandı. Yapılan incelemelerde en yüksek fiyat artışının yüzde 44 ile hellim peynirinde gerçekleştiği görüldü. Organik yoğurt ve süt çeşitlerinde ise fiyatlar yüzde 23 oranında artış gösterdi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2020-haber-1787004",
@@ -1847,10 +1616,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-en-buyuk-gucumuz-tarihi-mirasimizdir-1787004"
       },
-      "konular": [],
+      "konular": [
+        "29 Ekim Cumhuriyet Bayramı",
+        "Recep Tayyip Erdoğan",
+        "Türkiye"
+      ],
       "yayin": "2020-10-29T17:08:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanı Erdoğan Cumhuriyet Bayramı mesajını paylaştı",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, 29 Ekim Cumhuriyet Bayramı dolayısıyla bir açıklama yaptı. Erdoğan, Türkiye'nin sahip olduğu köklü tarihi mirasın ülkenin en önemli kuvvet kaynağı olduğunu vurguladı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/10th_Anniversary_Speech.jpg/960px-10th_Anniversary_Speech.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/10th_Anniversary_Speech.jpg/500px-10th_Anniversary_Speech.jpg",
+        "genislik": 960,
+        "yukseklik": 679,
+        "orijinalGenislik": 1500,
+        "yazar": "Republic of Turkey",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:10th_Anniversary_Speech.jpg",
+        "aciklama": "Mustafa Kemal's 1933 Speech at the 10th Anniversary of the Republic of Turkey left to right: Chief of General Staff Mareşal Fevzi (Çakmak), President Gazi Mustafa Kemal (Atatürk), Speaker of the Grand",
+        "konu": "29 Ekim Cumhuriyet Bayramı"
+      }
     },
     {
       "id": "2019-haber-1572369",
@@ -1863,10 +1652,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/lubnan-basbakani-hariri-istifa-etti-1572369"
       },
-      "konular": [],
+      "konular": [
+        "Saad Hariri",
+        "2019 Lübnan protestoları",
+        "Lübnan"
+      ],
       "yayin": "2019-10-29T21:22:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Lübnan Başbakanı Saad Hariri görevinden ayrıldığını duyurdu",
+      "ozet": "Ülke genelinde günlerdir devam eden hükümet karşıtı gösterilerin on üçüncü gününde Başbakan Saad Hariri istifa kararını kamuoyuna açıkladı. Protestoların etkisiyle yönetimi bırakma yoluna giden Hariri, görevinden ayrıldığını resmen bildirdi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Saad_Hariri_in_Sochi%2C_13_September_2017.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Saad_Hariri_in_Sochi%2C_13_September_2017.jpg",
+        "genislik": 756,
+        "yukseklik": 1036,
+        "orijinalGenislik": 756,
+        "yazar": "This image has been extracted from another file",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Saad_Hariri_in_Sochi,_13_September_2017.jpg",
+        "aciklama": "President of Russia Vladimir Putin & Prime Minister Lebanon Saad Hariri in Sochi, 13 September 2017 (3) (Cropped)",
+        "konu": "Saad Hariri"
+      }
     },
     {
       "id": "2019-haber-1572326",
@@ -1879,10 +1688,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/new-york-borsasi-karisik-seyirle-acildi-1572326"
       },
-      "konular": [],
+      "konular": [
+        "New York Menkul Kıymetler Borsası",
+        "Borsa"
+      ],
       "yayin": "2019-10-29T18:40:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "New York borsasında günün başlangıcı dalgalı oldu",
+      "ozet": "New York borsası işlem gününe belirsiz bir seyirle giriş yaptı. Piyasalar açılış saatlerinde yön arayışını sürdürürken endeksler karışık bir tablo sergiledi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2018-haber-1124919",
@@ -1895,10 +1710,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/grekoromen-milli-takimi-dunya-3uncusu-oldu-1124919"
       },
-      "konular": [],
+      "konular": [
+        "Dünya Güreş Şampiyonası",
+        "Grekoromen güreş",
+        "Türkiye millî güreş takımı"
+      ],
       "yayin": "2018-10-29T03:51:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Grekoromen Güreş Milli Takımı dünya üçüncülüğünü elde etti",
+      "ozet": "Dünya Güreş Şampiyonası kapsamında gerçekleştirilen grekoromen stil müsabakaları tamamlandı. Türkiye, takım halinde yapılan genel puanlama sonucunda dünya üçüncüsü olarak kürsüde yer aldı.",
+      "kategori": "Spor",
+      "gorsel": null
     },
     {
       "id": "2018-haber-1125080",
@@ -1911,10 +1734,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/mlbde-boston-red-sox-9-kez-sampiyon-1125080"
       },
-      "konular": [],
+      "konular": [
+        "Boston Red Sox",
+        "Los Angeles Dodgers",
+        "Major League Baseball"
+      ],
       "yayin": "2018-10-29T11:24:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Boston Red Sox Amerikan Beyzbol Ligi şampiyonu oldu",
+      "ozet": "Amerikan Beyzbol Ligi final serisinde Los Angeles Dodgers ile karşılaşan Boston Red Sox, rakibini deplasmanda beş bir skorla mağlup etti. Seriyi dört bir üstünlükle tamamlayan Boston ekibi, kulüp tarihindeki dokuzuncu şampiyonluk kupasını kaldırmayı başardı.",
+      "kategori": "Spor",
+      "gorsel": null
     },
     {
       "id": "2017-haber-855515",
@@ -1927,10 +1758,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/besiktasta-demokrasi-ve-cumhuriyet-aniti-acildi-855515"
       },
-      "konular": [],
+      "konular": [
+        "Beşiktaş",
+        "İstanbul",
+        "Cumhuriyet Bayramı"
+      ],
       "yayin": "2017-10-29T19:11:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Beşiktaş'ta Cumhuriyet ve Demokrasi Anıtı Ziyarete Açıldı",
+      "ozet": "Beşiktaş Belediyesi tarafından yapımına başlanan Cumhuriyet ve Demokrasi Anıtı, Cumhuriyet Bayramı kutlamaları kapsamında düzenlenen törenle hizmete sunuldu. On beş Temmuz darbe girişimi sırasında hayatını kaybeden iki yüz kırk dokuz vatandaşın anısını yaşatmak amacıyla inşa edilen eserin boyu bin dokuz yüz yirmi üç santimetre olarak belirlendi.",
+      "kategori": "Toplum",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
+        "genislik": 960,
+        "yukseklik": 494,
+        "orijinalGenislik": 2048,
+        "yazar": "Alexxx Malev",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
+        "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
+        "konu": "İstanbul"
+      }
     },
     {
       "id": "2017-haber-855544",
@@ -1943,10 +1794,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-balikesir-belediye-baskani-icin-istifa-aciklamasi-855544"
       },
-      "konular": [],
+      "konular": [
+        "Ahmet Edip Uğur",
+        "Balıkesir",
+        "Adalet ve Kalkınma Partisi"
+      ],
       "yayin": "2017-10-29T20:20:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Balıkesir Belediye Başkanı Ahmet Edip Uğur'un İstifa Süreci",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Merkez Karar ve Yönetim Kurulu toplantısı sırasında Balıkesir Belediye Başkanı Ahmet Edip Uğur'un görevinden ayrılmasına ilişkin değerlendirmelerde bulundu. Erdoğan, söz konusu belediye başkanının istifa kararını pazartesi günü gerçekleştirmesini beklediklerini ifade etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2016-haber-623453",
@@ -1959,10 +1817,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/turkiye-ralli-sampiyonasi-finali-sona-erdi-623453"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Ralli Şampiyonası",
+        "Hitit Rallisi",
+        "Ralli"
+      ],
       "yayin": "2016-10-29T18:52:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türkiye Ralli Şampiyonası Hitit Rallisi ile tamamlandı",
+      "ozet": "Türkiye Ralli Şampiyonası kapsamında düzenlenen 43. Hitit Rallisi, gerçekleştirilen final yarışlarının ardından sona erdi. Organizasyonun son etabı ile birlikte şampiyona takvimindeki mücadeleler noktalandı.",
+      "kategori": "Spor"
     },
     {
       "id": "2016-haber-623466",
@@ -1975,10 +1840,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-turkmenistan-disisleri-bakanini-kabul-etti-623466"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Raşid Meredov",
+        "Türkmenistan"
+      ],
       "yayin": "2016-10-29T19:29:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhurbaşkanı Erdoğan Türkmenistan Dışişleri Bakanı ile görüştü",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkmenistan Bakanlar Kurulu Başkan Yardımcısı ve Dışişleri Bakanı Raşid Meredov ile bir araya geldi. Cumhurbaşkanlığı Sarayı'nda gerçekleşen bu kabulde iki ülke arasındaki diplomatik temaslar ele alındı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2015-haber-399215",
@@ -1991,10 +1863,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/cumhurbaskanligi-sinema-odulu-munir-ozkula-399215"
       },
-      "konular": [],
+      "konular": [
+        "Münir Özkul",
+        "Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri"
+      ],
       "yayin": "2015-10-29T22:25:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülü Sahiplerini Buldu",
+      "ozet": "Cumhurbaşkanlığı tarafından her yıl verilen Kültür ve Sanat Büyük Ödülleri için kazanan isimler açıklandı. Bu kapsamda sinema dalındaki ödülün sahibi usta oyuncu Münir Özkul oldu. Ödül sahiplerinin belirlenmesiyle birlikte sanat dünyasındaki önemli isimler onurlandırıldı.",
+      "kategori": "Sanat",
+      "gorsel": null
     },
     {
       "id": "2015-haber-398841",
@@ -2007,10 +1886,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-kacak-sarayda-balkon-konusmasi-398841"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Cumhurbaşkanlığı Külliyesi",
+        "Türkiye siyaseti"
+      ],
       "yayin": "2015-10-29T15:29:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanlığı Külliyesi'nde balkon konuşması gerçekleştirildi",
+      "ozet": "Daha önceki seçim dönemlerinde parti genel merkezinde halka hitap eden Cumhurbaşkanı, bu kez konuşmasını Cumhurbaşkanlığı Külliyesi'nin balkonundan yaptı. Söz konusu etkinlik, geçmişteki seçim sonrası gelenekselleşen balkon konuşmalarının yeni bir mekanda devamı niteliğinde gerçekleşti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2014-haber-135283",
@@ -2023,10 +1922,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ismail-kartal-sampiyonluk-sozu-verdi-135283"
       },
-      "konular": [],
+      "konular": [
+        "İsmail Kartal",
+        "Fenerbahçe (futbol takımı)",
+        "Süper Lig"
+      ],
       "yayin": "2014-10-29T07:36:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İsmail Kartal'dan şampiyonluk hedefi açıklaması",
+      "ozet": "Fenerbahçe Teknik Direktörü İsmail Kartal, Ereğli ziyareti sırasında taraftarların yoğun ilgisiyle karşılaştı. Gösterilen destekten dolayı duygulandığını ifade eden Kartal, sezon sonunda şampiyonluğa ulaşmak adına takım olarak tüm gayretlerini ortaya koyacaklarını belirtti.",
+      "kategori": "Spor"
     },
     {
       "id": "2014-haber-135289",
@@ -2039,10 +1945,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/omer-asik-firtina-gibi-basladi-double-double-135289"
       },
-      "konular": [],
+      "konular": [
+        "Ömer Aşık",
+        "New Orleans Pelicans",
+        "NBA"
+      ],
       "yayin": "2014-10-29T07:51:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ömer Aşık NBA Sezonuna Başarılı Bir Başlangıç Yaptı",
+      "ozet": "NBA basketbol liginde yeni sezonun başlangıç karşılaşmasında New Orleans Pelicans, Orlando Magic ile karşı karşıya geldi. Ömer Aşık'ın da formasını giydiği ekip, rakibini 101-84 gibi net bir skorla mağlup ederek sezona galibiyetle giriş yaptı. Başarılı oyuncu sergilediği performansla dikkatleri üzerine çekti.",
+      "kategori": "Spor"
     },
     {
       "id": "2013-haber-4734",
@@ -2055,10 +1968,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/parasutculerden-cumhuriyet-bayrami-rekoru-4734"
       },
-      "konular": [],
+      "konular": [
+        "Türk Hava Kurumu",
+        "Paraşüt",
+        "Selçuk"
+      ],
       "yayin": "2013-10-29T15:05:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhuriyet Bayramı kutlamalarında yeni paraşüt atlayış rekoru kırıldı",
+      "ozet": "Selçuk kentinde bulunan Türk Hava Kurumu Gökçen Havacılık Atlayış Merkezi bünyesinde bir araya gelen sporcular, Cumhuriyet Bayramı etkinlikleri kapsamında özel bir gösteri gerçekleştirdi. Daha önce on dokuz kişiyle ulaşılan çoklu tutuşma rekoru, bu etkinlikte yirmi dört paraşütçünün katılımıyla geliştirildi. Başarıyla tamamlanan bu atlayış, havacılık alanında yeni bir başarı olarak kayıtlara geçti.",
+      "kategori": "Spor"
     },
     {
       "id": "2013-haber-4668",
@@ -2071,10 +1991,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/cinli-piyanist-bm-baris-elcisi-secildi-4668"
       },
-      "konular": [],
+      "konular": [
+        "Lang Lang",
+        "Birleşmiş Milletler",
+        "Piyano"
+      ],
       "yayin": "2013-10-29T09:47:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Piyanist Lang Lang Birleşmiş Milletler Barış Elçisi Oldu",
+      "ozet": "Çinli piyanist Lang Lang, Birleşmiş Milletler Genel Sekreteri Ban Ki-mun tarafından barış elçisi olarak görevlendirildi. Sanatçı, bu unvanla birlikte uluslararası platformda barışın teşvik edilmesi amacıyla yürütülen çalışmalara destek verecek.",
+      "kategori": "Sanat",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Lang_Lang_-_World_Economic_Forum_Annual_Meeting_2010_Davos_cropped.jpg/960px-Lang_Lang_-_World_Economic_Forum_Annual_Meeting_2010_Davos_cropped.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Lang_Lang_-_World_Economic_Forum_Annual_Meeting_2010_Davos_cropped.jpg/500px-Lang_Lang_-_World_Economic_Forum_Annual_Meeting_2010_Davos_cropped.jpg",
+        "genislik": 960,
+        "yukseklik": 1329,
+        "orijinalGenislik": 1395,
+        "yazar": "Lang_Lang_-_World_Economic_Forum_Annual_Meeting_2010_Davos.jpg: World Economic Forum from Cologny, Switzerland derivative work: January",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Lang_Lang_-_World_Economic_Forum_Annual_Meeting_2010_Davos_cropped.jpg",
+        "aciklama": "DAVOS/SWITZERLAND, 27JAN10 - Lang Lang, Pianist, People's Republic of China acknowledges the applause after playing the grand piano during the 'Presentation of the Crystal Awards' at the congress cent",
+        "konu": "Lang Lang"
+      }
     },
     {
       "id": "2012-haber-379760",
@@ -2087,10 +2027,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-o-emri-ben-vermedim-379760"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "29 Ekim Cumhuriyet Bayramı",
+        "Türkiye siyaseti"
+      ],
       "yayin": "2012-10-29T18:44:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhuriyet Bayramı kutlamalarındaki barikat tartışması",
+      "ozet": "Dönemin Başbakanı Recep Tayyip Erdoğan, 29 Ekim kutlamaları sırasında yaşanan barikat gerginliği hakkında değerlendirmelerde bulundu. Söz konusu müdahale emrinin kendisi tarafından verilmediğini belirten Erdoğan, yaşanan olaylara dair açıklama yaptı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2012-haber-379592",
@@ -2103,10 +2050,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/israilin-erken-secim-telasi-379592"
       },
-      "konular": [],
+      "konular": [
+        "İsrail'de erken seçim",
+        "Türkiye-İsrail ilişkileri",
+        "İsrail"
+      ],
       "yayin": "2012-10-29T08:30:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İsrail hükümetinin erken seçim kararı ve dış politika arayışları",
+      "ozet": "İsrail yönetimi erken seçim kararı alarak siyasi gündemini değiştirdi. Bu kararın alınmasında, ülkenin son dört aydır Türkiye ile diplomatik ilişkileri düzeltmek adına yürüttüğü çalışmaların etkili olduğu değerlendirildi. Söz konusu süreç, bölgedeki dış politika dengelerinin yeniden kurulması açısından dikkat çekti.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2011-haber-294232",
@@ -2119,10 +2074,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-ve-kilicdaroglu-tokalasmadi-294232"
       },
-      "konular": [],
+      "konular": [
+        "29 Ekim Cumhuriyet Bayramı",
+        "Türkiye Büyük Millet Meclisi",
+        "Siyaset"
+      ],
       "yayin": "2011-10-29T08:49:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhuriyet Bayramı resepsiyonunda devlet erkanı bir araya geldi",
+      "ozet": "Türkiye Büyük Millet Meclisi bünyesinde düzenlenen Cumhuriyet Bayramı kutlamaları kapsamında devletin üst düzey isimleri bir araya geldi. Cumhurbaşkanı Abdullah Gül'ün ev sahipliği yaptığı törene Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli katılım sağlamadı. Etkinlik sırasında Başbakan Recep Tayyip Erdoğan ile Cumhuriyet Halk Partisi Genel Başkanı Kemal Kılıçdaroğlu arasında bir tokalaşma gerçekleşmedi.",
+      "kategori": "Siyaset"
     }
   ],
   "haberYillari": [

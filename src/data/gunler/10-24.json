@@ -11,9 +11,9 @@
         "Seyfeddin Kutuz",
         "Baybars"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Memlük Sultanı Seyfeddin Kutuz'un Suikastı",
+      "ozet": "Memlük Devleti'nin en kritik dönemlerinden birinde sultanlık koltuğunda oturan Seyfeddin Kutuz, Ayn Calut Muharebesi'nde Moğol ordusuna karşı kazandığı büyük zaferden kısa bir süre sonra, kendi komutanlarından biri olan Baybars tarafından öldürüldü. Moğol tehdidinin İslam dünyası üzerindeki baskısını kıran ve Mısır'ı koruyan bu zaferin ardından yaşanan iktidar mücadelesi, devletin geleceğini şekillendiren bir dönüm noktası oldu. Kutuz, Moğol ilerleyişini durdurarak İslam medeniyetinin merkezini korumuş olsa da, bu başarısı onun tahtta kalmasına yetmedi.\n\nSuikastın ardından yönetimi devralan Baybars, Memlük Devleti'nin gerçek anlamda kurucusu olarak kabul edilen bir figür haline geldi. Baybars, hem Haçlı kalelerine karşı yürüttüğü başarılı seferlerle hem de İlhanlılar'a karşı aldığı askeri önlemlerle devletin sınırlarını genişletti ve otoritesini pekiştirdi. Kutuz'un ölümüyle sonuçlanan bu olay, Memlük yönetimindeki güç dengelerinin değiştiğini ve devletin daha merkeziyetçi, askeri disiplini yüksek bir yapıya evrildiğini göstermektedir. Baybars'ın iktidarı, Memlüklerin bölgedeki hakimiyetini uzun yıllar boyunca sürdürecek olan istikrarlı bir dönemin başlangıcı olarak tarihe geçmiştir.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%D8%B5%D9%88%D8%B1%D8%A9_%D8%AA%D9%85%D8%AB%D8%A7%D9%84_%D8%B3%D9%8A%D9%81_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%82%D8%B7%D8%B2_crop.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%D8%B5%D9%88%D8%B1%D8%A9_%D8%AA%D9%85%D8%AB%D8%A7%D9%84_%D8%B3%D9%8A%D9%81_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%82%D8%B7%D8%B2_crop.jpg",
@@ -27,35 +27,8 @@
         "aciklama": "صورة لتمثال سيف الدين قطز من قلعة صلاح الدين في القاهرة",
         "konu": "Seyfeddin Kutuz"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%D8%B5%D9%88%D8%B1%D8%A9_%D8%AA%D9%85%D8%AB%D8%A7%D9%84_%D8%B3%D9%8A%D9%81_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%82%D8%B7%D8%B2_crop.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%D8%B5%D9%88%D8%B1%D8%A9_%D8%AA%D9%85%D8%AB%D8%A7%D9%84_%D8%B3%D9%8A%D9%81_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%82%D8%B7%D8%B2_crop.jpg",
-          "genislik": 800,
-          "yukseklik": 1067,
-          "orijinalGenislik": 800,
-          "yazar": "User:SoultanOmar",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:%D8%B5%D9%88%D8%B1%D8%A9_%D8%AA%D9%85%D8%AB%D8%A7%D9%84_%D8%B3%D9%8A%D9%81_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%82%D8%B7%D8%B2_crop.jpg",
-          "aciklama": "صورة لتمثال سيف الدين قطز من قلعة صلاح الدين في القاهرة",
-          "konu": "Seyfeddin Kutuz"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Baybars%2C_Medallion_IV%2C_Baptist%C3%A8re_de_Saint-Louis.jpg/960px-Baybars%2C_Medallion_IV%2C_Baptist%C3%A8re_de_Saint-Louis.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Baybars%2C_Medallion_IV%2C_Baptist%C3%A8re_de_Saint-Louis.jpg/500px-Baybars%2C_Medallion_IV%2C_Baptist%C3%A8re_de_Saint-Louis.jpg",
-          "genislik": 960,
-          "yukseklik": 884,
-          "orijinalGenislik": 2044,
-          "yazar": "14th century artist",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Baybars,_Medallion_IV,_Baptist%C3%A8re_de_Saint-Louis.jpg",
-          "aciklama": "Baybars, Medallion IV, Baptistère de Saint-Louis",
-          "konu": "Baybars"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1857-ilk-futbol-kulubu-sheffield-fc-kuruldu",
@@ -65,23 +38,12 @@
         "futbol",
         "Sheffield FC"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/960px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/500px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
-        "genislik": 960,
-        "yukseklik": 653,
-        "orijinalGenislik": 3420,
-        "yazar": "Rick Dikeman",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1995.jpg",
-        "aciklama": "Association football (soccer), Bloomington, Indiana. The offensive player (in red) is Chris Klein of the Indiana Hoosiers. He has sprinted past two defenders (in white) and is about to shoot the ball ",
-        "konu": "futbol"
-      },
-      "durum": "bekliyor"
+      "baslik": "Dünyanın En Eski Futbol Kulübü: Sheffield FC",
+      "ozet": "İngiltere'nin Sheffield şehrinde Nathaniel Creswick ve William Prest tarafından kurulan Sheffield FC, FIFA tarafından günümüzde hala aktif olan dünyanın en eski futbol kulübü olarak tescillenmiştir. Kulübün kuruluşu, futbolun kuralsız ve dağınık bir şekilde oynandığı bir dönemde, sporun organize bir yapıya kavuşması adına atılmış en önemli adımlardan biri olmuştur. O dönemde herhangi bir okul veya üniversiteye bağlı olmayan ilk bağımsız kulüp olma özelliğini taşıyan Sheffield FC, kendi kurallarını oluşturarak modern futbolun temellerinin atılmasına öncülük etmiştir.\n\nKulüp, 1878 yılına kadar İngiliz Futbol Birliği'nin kurallarını benimsemeyerek kendi geliştirdikleri Sheffield Kuralları ile maçlarını oynamıştır. Bu süreçte futbolun yaygınlaşmasında büyük rol oynayan kulüp, 1861 yılından itibaren Hallam FC ile yaptığı maçlarla dünyanın en eski yerel derbisini başlatmıştır. Bugün amatör bir statüde faaliyetlerini sürdüren Sheffield FC, futbol tarihinin yaşayan bir müzesi olarak kabul edilmekte ve sporun kökenlerine dair önemli bir kültürel miras temsil etmektedir.",
+      "kategori": "Spor",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1882-alman-bilim-insani-robert-koch-verem-mikrobunu",
@@ -92,9 +54,9 @@
         "Robert Koch",
         "verem"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Robert Koch ve Verem Basilinin Keşfi",
+      "ozet": "Alman bilim insanı Robert Koch, 19. yüzyılın en ölümcül hastalıklarından biri olan veremin nedenini ortaya çıkararak tıp tarihinde çığır açan bir gelişmeye imza attı. Koch, uzun süren titiz çalışmaları sonucunda verem hastalığının bulaşıcı bir bakteri olan Mycobacterium tuberculosis kaynaklı olduğunu kanıtladı. Bu keşif, o dönemde halk arasında ince hastalık olarak bilinen ve büyük kayıplara yol açan bu enfeksiyonun teşhis ve tedavi süreçlerinde dönüm noktası oldu. \n\nKoch'un başarısı, modern bakteriyolojinin temel taşlarından biri olarak kabul edilir. Hastalığın etkenini tanımlayarak, enfeksiyonun yayılma yollarını ve mikrobiyolojik yapısını anlamamızın önünü açtı. Bu çalışmaları sayesinde bilim dünyasında büyük bir saygınlık kazanan Koch, 1905 yılında Nobel Tıp veya Fizyoloji Ödülü'ne layık görüldü. Keşfi, sadece tüberkülozla mücadelede değil, aynı zamanda bulaşıcı hastalıkların bilimsel yöntemlerle incelenmesi ve kontrol altına alınması konusunda da tıp bilimine büyük katkılar sağladı.",
+      "kategori": "Bilim",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/RobertKoch_cropped.jpg/960px-RobertKoch_cropped.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/RobertKoch_cropped.jpg/500px-RobertKoch_cropped.jpg",
@@ -108,35 +70,8 @@
         "aciklama": "Portrait of Robert Koch (1843—1910).",
         "konu": "Robert Koch"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/RobertKoch_cropped.jpg/960px-RobertKoch_cropped.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/RobertKoch_cropped.jpg/500px-RobertKoch_cropped.jpg",
-          "genislik": 960,
-          "yukseklik": 1347,
-          "orijinalGenislik": 1462,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:RobertKoch_cropped.jpg",
-          "aciklama": "Portrait of Robert Koch (1843—1910).",
-          "konu": "Robert Koch"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Mycobacterium_tuberculosis_8438_lores.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Mycobacterium_tuberculosis_8438_lores.jpg",
-          "genislik": 700,
-          "yukseklik": 475,
-          "orijinalGenislik": 700,
-          "yazar": "Photo Credit: Janice Carr Content Providers(s): CDC/ Dr. Ray Butler; Janice Carr",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mycobacterium_tuberculosis_8438_lores.jpg",
-          "aciklama": "Under a high magnification of 15549x, this scanning electron micrograph (SEM) depicted some of the ultrastructural details seen in the cell-wall configuration of a number of Gram-positive Mycobacteriu",
-          "konu": "verem"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1911-orville-wright-kuzey-carolinada-hava-araci-ile",
@@ -146,9 +81,9 @@
         "Orville Wright",
         "Kuzey Carolina"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Orville Wright'tan Havacılıkta Yeni Dünya Rekoru",
+      "ozet": "Havacılık tarihinin öncü isimlerinden Orville Wright, 24 Ekim 1911 tarihinde Kuzey Carolina'da gerçekleştirdiği deneme uçuşuyla gökyüzünde 9 dakika 45 saniye kalarak önemli bir başarıya ulaştı. Bu süre, o dönem için havacılık teknolojisinin sınırlarını zorlayan ve insanlı uçuşların dayanıklılık kapasitesini kanıtlayan bir gelişme olarak kayıtlara geçti. Wright'ın bu uçuşu, havacılık dünyasında uzun süre kırılamayan bir dünya rekoru olarak kabul edildi ve tam on yıl boyunca geçilemedi.\n\nWright kardeşlerin havacılık alanındaki çalışmaları, motorlu uçuşun henüz emekleme aşamasında olduğu bir dönemde gerçekleşti. Bisiklet tamirciliğinden gelen teknik birikimlerini aerodinamik prensiplerle birleştiren kardeşler, kuşların uçuş mekanizmalarını inceleyerek kendi tasarladıkları hava araçlarını geliştirdiler. Bu rekor denemesi, sadece bir süre başarısı değil, aynı zamanda Wright kardeşlerin geliştirdiği uçuş kontrol sistemlerinin ve motor teknolojisinin güvenilirliğini de ortaya koyan bir dönüm noktasıydı. Elde edilen bu sonuç, havacılığın sadece kısa süreli sıçramalardan ibaret olmadığını, kontrollü ve uzun süreli bir ulaşım aracı haline gelebileceğini tüm dünyaya gösterdi.",
+      "kategori": "Teknoloji",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Wright_Brothers_in_1910.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Wright_Brothers_in_1910.jpg",
@@ -162,7 +97,8 @@
         "aciklama": "The Wright brothers at the International Aviation Tournament, Belmont Park, Long Island, N.Y., Oct. 1910",
         "konu": "Orville Wright"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1912-birinci-balkan-savasinda-osmanli-ve-sirp-ordulari",
@@ -174,51 +110,24 @@
         "Sırplar",
         "Kumanova Muharebesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Kumanova Muharebesi ve Osmanlı Ordusunun Yenilgisi",
+      "ozet": "Birinci Balkan Savaşı'nın en kritik çatışmalarından biri olan Kumanova Muharebesi, 24 Ekim 1912 tarihinde Osmanlı Devleti ile Sırbistan Krallığı arasında gerçekleşti. Bölgedeki stratejik üstünlüğü ele geçirmek isteyen Sırp ordusu, Osmanlı birliklerine karşı kesin bir zafer elde etti. Bu muharebe, Osmanlı Devleti'nin Balkanlar'daki askeri varlığının zayıfladığını gösteren önemli bir dönüm noktası oldu.\n\nKumanova'da alınan bu yenilgi, Osmanlı ordusunun bölgedeki savunma hatlarını ciddi biçimde sarstı ve Vardar Makedonyası'nın büyük bir kısmının kaybedilmesine yol açtı. Savaşın genel seyrini değiştiren bu gelişme, Balkan Birliği'nin Osmanlı topraklarına yönelik ilerleyişini hızlandırdı. Nihayetinde Osmanlı Devleti, savaş sonunda Midye-Enez hattının batısındaki neredeyse tüm Balkan topraklarını bırakmak zorunda kalarak bölgedeki yüzyıllara dayanan hakimiyetini büyük ölçüde yitirdi.",
+      "kategori": "Savaş",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Occupied_territories_in_the_Balkans%2C_end_of_April_1913.png/960px-Occupied_territories_in_the_Balkans%2C_end_of_April_1913.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Occupied_territories_in_the_Balkans%2C_end_of_April_1913.png/500px-Occupied_territories_in_the_Balkans%2C_end_of_April_1913.png",
-        "genislik": 960,
-        "yukseklik": 959,
-        "orijinalGenislik": 1015,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Occupied_territories_in_the_Balkans,_end_of_April_1913.png",
-        "aciklama": "Occupied territories in the Balkans, end of April 1913",
-        "konu": "Birinci Balkan Savaşı"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Kumanovo1912_marcossouza.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Kumanovo1912_marcossouza.jpg",
+        "genislik": 528,
+        "yukseklik": 627,
+        "orijinalGenislik": 528,
+        "yazar": "Marcos Souza",
+        "lisans": "CC BY 2.5 br",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.5/br/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kumanovo1912_marcossouza.jpg",
+        "aciklama": "First Balkanic War. The Serbian Front (Serbia) The march os the armies before the battle of Kumanovo.",
+        "konu": "Kumanova Muharebesi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Occupied_territories_in_the_Balkans%2C_end_of_April_1913.png/960px-Occupied_territories_in_the_Balkans%2C_end_of_April_1913.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Occupied_territories_in_the_Balkans%2C_end_of_April_1913.png/500px-Occupied_territories_in_the_Balkans%2C_end_of_April_1913.png",
-          "genislik": 960,
-          "yukseklik": 959,
-          "orijinalGenislik": 1015,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Occupied_territories_in_the_Balkans,_end_of_April_1913.png",
-          "aciklama": "Occupied territories in the Balkans, end of April 1913",
-          "konu": "Birinci Balkan Savaşı"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Kumanovo1912_marcossouza.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Kumanovo1912_marcossouza.jpg",
-          "genislik": 528,
-          "yukseklik": 627,
-          "orijinalGenislik": 528,
-          "yazar": "Marcos Souza",
-          "lisans": "CC BY 2.5 br",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.5/br/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Kumanovo1912_marcossouza.jpg",
-          "aciklama": "First Balkanic War. The Serbian Front (Serbia) The march os the armies before the battle of Kumanovo.",
-          "konu": "Kumanova Muharebesi"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1914-i-dunya-savasi-osmanli-imparatorlugu-ile-rus",
@@ -230,51 +139,24 @@
         "Rus İmparatorluğu",
         "Kafkasya Cephesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Kafkasya Cephesi'nin Açılışı",
+      "ozet": "I. Dünya Savaşı'nın küresel ölçekteki etkileri, Osmanlı İmparatorluğu'nun İttifak Devletleri safında savaşa dahil olmasıyla birlikte geniş bir coğrafyaya yayıldı. Bu sürecin en kritik aşamalarından biri, 24 Ekim 1914 tarihinde Osmanlı ve Rus İmparatorlukları arasında Kafkasya Cephesi'nin açılmasıyla gerçekleşti. Doğu Anadolu ve Kafkasya coğrafyasını içine alan bu cephe, iki imparatorluğun tarihsel rekabetinin savaş meydanlarına taşındığı zorlu bir mücadele alanı haline geldi.\n\nKafkasya Cephesi, Osmanlı Devleti için hem stratejik hem de jeopolitik açıdan büyük önem taşıyordu. Rusya'nın güneye inme politikası ve Osmanlı'nın doğu sınırlarını koruma çabası, bölgeyi savaşın en çetin geçtiği yerlerden biri kıldı. İklim koşullarının ağırlığı ve coğrafi zorluklar, askeri operasyonların seyrini doğrudan etkiledi. Bu cephe, sadece iki devlet arasındaki bir çatışma olmanın ötesinde, I. Dünya Savaşı'nın genel stratejisi içerisinde İtilaf ve İttifak bloklarının birbirini dengeleme çabalarının bir parçası olarak tarihe geçti.",
+      "kategori": "Savaş",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/WW1_TitlePicture_For_Caucasus_Campaign.png/960px-WW1_TitlePicture_For_Caucasus_Campaign.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/WW1_TitlePicture_For_Caucasus_Campaign.png/500px-WW1_TitlePicture_For_Caucasus_Campaign.png",
         "genislik": 960,
-        "yukseklik": 974,
-        "orijinalGenislik": 1300,
-        "yazar": "User:Hohum",
+        "yukseklik": 966,
+        "orijinalGenislik": 1000,
+        "yazar": "User:Sergia Sarpian",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:WWImontage.jpg",
-        "aciklama": "Montage for WWI article. Top: Trenches - Image:The_badly_shelled_main_road_to_Bapaume.jpg (Trenches on the Western Front) Left Upper: Image:AlbatDIII.jpg (German Albatros D.III biplane fighters of Jas",
-        "konu": "I. Dünya Savaşı"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:WW1_TitlePicture_For_Caucasus_Campaign.png",
+        "aciklama": "Montage for the en:Caucasus Campaign in Wikipedia",
+        "konu": "Kafkasya Cephesi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
-          "genislik": 960,
-          "yukseklik": 974,
-          "orijinalGenislik": 1300,
-          "yazar": "User:Hohum",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:WWImontage.jpg",
-          "aciklama": "Montage for WWI article. Top: Trenches - Image:The_badly_shelled_main_road_to_Bapaume.jpg (Trenches on the Western Front) Left Upper: Image:AlbatDIII.jpg (German Albatros D.III biplane fighters of Jas",
-          "konu": "I. Dünya Savaşı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/WW1_TitlePicture_For_Caucasus_Campaign.png/960px-WW1_TitlePicture_For_Caucasus_Campaign.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/WW1_TitlePicture_For_Caucasus_Campaign.png/500px-WW1_TitlePicture_For_Caucasus_Campaign.png",
-          "genislik": 960,
-          "yukseklik": 966,
-          "orijinalGenislik": 1000,
-          "yazar": "User:Sergia Sarpian",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:WW1_TitlePicture_For_Caucasus_Campaign.png",
-          "aciklama": "Montage for the en:Caucasus Campaign in Wikipedia",
-          "konu": "Kafkasya Cephesi"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1926-unlu-illuzyonist-harry-houdini-detroit-michigandaki-garrick",
@@ -285,9 +167,9 @@
         "Detroit",
         "Michigan"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Harry Houdini'nin Son Sahne Performansı",
+      "ozet": "Macar asıllı Amerikalı illüzyonist Harry Houdini, 20. yüzyılın başlarında gerçekleştirdiği tehlikeli kaçış numaraları ve kilitli sandıklardan kurtulma gösterileriyle dünya çapında bir üne kavuşmuştu. 24 Ekim 1926 tarihinde Detroit'teki Garrick Tiyatrosu'nda sahneye çıktığında, izleyiciler bunun efsanevi sanatçının son performansı olacağından habersizdi. Houdini, bu gösteri sırasında ciddi sağlık sorunları yaşamasına rağmen profesyonelliğini koruyarak sahnesini tamamlamayı başardı. Gösteri sonrası durumu hızla kötüleşen sanatçı, kısa bir süre sonra hastaneye kaldırıldı. Sahne hayatı boyunca fiziksel sınırları zorlayan ve izleyicileri hayrete düşüren Houdini, bu son performansından sadece bir hafta sonra, 31 Ekim 1926'da hayata veda etti. Onun ölümü, illüzyon dünyasında bir devrin kapanması olarak kabul edilirken, geride bıraktığı teknikler ve sahne şovları günümüzde hala modern sihirbazlık sanatının temel taşları arasında gösterilmektedir. Houdini, sadece bir illüzyonist değil, aynı zamanda kendi döneminin en büyük şovmenlerinden biri olarak tarihe geçmiştir.",
+      "kategori": "Sanat",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/HarryHoudini1899.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/HarryHoudini1899.jpg",
@@ -301,35 +183,8 @@
         "aciklama": "Harry Houdini, full-length portrait, standing, facing front, in chains",
         "konu": "Harry Houdini"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/HarryHoudini1899.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/HarryHoudini1899.jpg",
-          "genislik": 646,
-          "yukseklik": 1093,
-          "orijinalGenislik": 646,
-          "yazar": "McManus-Young Collection",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:HarryHoudini1899.jpg",
-          "aciklama": "Harry Houdini, full-length portrait, standing, facing front, in chains",
-          "konu": "Harry Houdini"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Detroit_Skyline_%28123143197%29.jpeg/960px-Detroit_Skyline_%28123143197%29.jpeg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Detroit_Skyline_%28123143197%29.jpeg/500px-Detroit_Skyline_%28123143197%29.jpeg",
-          "genislik": 960,
-          "yukseklik": 506,
-          "orijinalGenislik": 2048,
-          "yazar": "Michael Tighe",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Detroit_Skyline_(123143197).jpeg",
-          "aciklama": "500px provided description: Detroit skyline, as viewed from Windsor, Canada [#ontario ,#canada ,#sky ,#city ,#sunset ,#river ,#blue ,#sun ,#clouds ,#architecture ,#cityscape ,#skyline ,#long exposure ",
-          "konu": "Detroit"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1929-new-york-borsasinda-hisse-senetleri-dustu-bu",
@@ -338,9 +193,9 @@
       "konular": [
         "New York Borsası"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Dünya Ekonomisini Sarsan Büyük Borsa Çöküşü",
+      "ozet": "New York Borsası'nda 24 Ekim 1929 tarihinde yaşanan ani ve sert düşüş, finans tarihine Kara Perşembe olarak geçen büyük bir ekonomik krizin başlangıcı oldu. Borsadaki hisse senetlerinin değerinin bir anda erimesi, sadece Amerika Birleşik Devletleri'ni değil, küresel finans sistemini de derinden sarstı. Yatırımcıların panik içinde satış yapmasıyla başlayan bu çöküş, kısa sürede bankacılık sistemine ve reel sektöre sıçrayarak geniş çaplı bir güven kaybına yol açtı.\n\nBu olay, 1930'lu yıllar boyunca etkisini sürdürecek olan Büyük Buhran'ın tetikleyicisi olarak kabul edilir. Yaşanan ekonomik daralma, dünya genelinde dış ticaretin ciddi oranda azalmasına, işsizliğin rekor seviyelere çıkmasına ve birçok ülkenin ekonomik yapısının bozulmasına neden oldu. Küresel ticaretin durma noktasına geldiği bu dönem, devletlerin ekonomi politikalarını kökten değiştirmelerine ve müdahaleci bir anlayışın benimsenmesine zemin hazırladı. Yaşanan bu sarsıntı, modern ekonomi tarihinin en önemli dönüm noktalarından biri olarak kabul edilmektedir.",
+      "kategori": "Ekonomi",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/960px-New_York_Stock_Exchange_Facade_2015.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/500px-New_York_Stock_Exchange_Facade_2015.jpg",
@@ -354,7 +209,8 @@
         "aciklama": "New York Stock Exchange",
         "konu": "New York Borsası"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1935-italya-etiyopyayi-isgal-etti",
@@ -389,51 +245,12 @@
         "Naylon çorap",
         "Wilmington"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Nylonstockings.jpg/960px-Nylonstockings.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Nylonstockings.jpg/500px-Nylonstockings.jpg",
-        "genislik": 960,
-        "yukseklik": 1272,
-        "orijinalGenislik": 1232,
-        "yazar": "Antique Rose at English Wikipedia",
-        "lisans": "CC BY 2.5",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.5",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Nylonstockings.jpg",
-        "aciklama": "0",
-        "konu": "Naylon çorap"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Nylonstockings.jpg/960px-Nylonstockings.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Nylonstockings.jpg/500px-Nylonstockings.jpg",
-          "genislik": 960,
-          "yukseklik": 1272,
-          "orijinalGenislik": 1232,
-          "yazar": "Antique Rose at English Wikipedia",
-          "lisans": "CC BY 2.5",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.5",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Nylonstockings.jpg",
-          "aciklama": "0",
-          "konu": "Naylon çorap"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/WilmingtonMontage2.jpg/960px-WilmingtonMontage2.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/WilmingtonMontage2.jpg/500px-WilmingtonMontage2.jpg",
-          "genislik": 960,
-          "yukseklik": 627,
-          "orijinalGenislik": 3999,
-          "yazar": "Tyler Newman (user:tnewman39) - Creator of the Montage // James Willamor - (Copyright License Creative Commons Attribution ShareAlike 2.0)",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:WilmingtonMontage2.jpg",
-          "aciklama": "Redone Montage of Wilmington, North Carolina and environs",
-          "konu": "Wilmington"
-        }
-      ],
-      "durum": "bekliyor"
+      "baslik": "Moda Dünyasında Naylon Çorap Devrimi",
+      "ozet": "DuPont şirketinin kimyageri Wallace Hume Carothers tarafından geliştirilen poliamid bazlı sentetik lif, 24 Ekim 1939 tarihinde Wilmington'da ilk kez tüketicilerle buluştu. İpeğe benzer yapısı ve dayanıklılığı ile dikkat çeken bu yeni ürün, kısa sürede moda dünyasında büyük bir ilgi odağı haline geldi. Naylonun tekstil alanındaki bu ilk büyük başarısı, kadın giyiminde estetik anlayışını kökten değiştiren bir dönüm noktası oldu.\n\nNaylon çorapların piyasaya sürülmesinin ardından yaşanan talep patlaması, ürünün ne kadar popüler olduğunu kanıtladı. Öyle ki, 1940 yılının Mayıs ayında sadece dört gün içinde milyonlarca çift çorap satıldı. Ancak bu yükseliş, II. Dünya Savaşı'nın başlamasıyla farklı bir boyuta taşındı. Savaş döneminde naylonun stratejik bir hammadde olarak paraşüt, çadır ve ip yapımında kullanılması, çorap üretiminin kısıtlanmasına yol açtı. Bu kıtlık döneminde kadınlar, dikişli çorap görünümünü elde etmek için bacaklarına kalemle dikiş çizgisi çizmek gibi yaratıcı yöntemlere başvurdular. Naylon çorap, savaş sonrası dönemde de popülerliğini koruyarak modern giyim kültürünün vazgeçilmez bir parçası haline geldi.",
+      "kategori": "Teknoloji",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1944-tarihte-insa-edilmis-en-agir-savas-gemisi",
@@ -443,23 +260,12 @@
         "Musashi",
         "Leyte Körfezi Muharebesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/USS_Princeton_%28CVL-23%29_burning_on_24_October_1944_%2880-G-287970%29.jpg/960px-USS_Princeton_%28CVL-23%29_burning_on_24_October_1944_%2880-G-287970%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/USS_Princeton_%28CVL-23%29_burning_on_24_October_1944_%2880-G-287970%29.jpg/500px-USS_Princeton_%28CVL-23%29_burning_on_24_October_1944_%2880-G-287970%29.jpg",
-        "genislik": 960,
-        "yukseklik": 768,
-        "orijinalGenislik": 5600,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:USS_Princeton_(CVL-23)_burning_on_24_October_1944_(80-G-287970).jpg",
-        "aciklama": "The U.S. Navy light aircraft carrier USS Princeton (CVL-23) burning soon after she was hit by a Japanese bomb while operating off the Philippines on 24 October 1944. This view, taken from the battlesh",
-        "konu": "Leyte Körfezi Muharebesi"
-      },
-      "durum": "bekliyor"
+      "baslik": "Dev Savaş Gemisi Musashi'nin Leyte Körfezi'nde Batırılması",
+      "ozet": "İkinci Dünya Savaşı'nın en kritik deniz çatışmalarından biri olan Leyte Körfezi Muharebesi sırasında, Japon İmparatorluk Donanması'nın gururu kabul edilen Musashi zırhlısı, Amerikan uçak gemilerinden havalanan uçakların hedefi oldu. 71.000 tonluk devasa gövdesiyle tarihin en ağır savaş gemisi unvanına sahip olan Musashi, aldığı ağır darbeler sonucunda sulara gömüldü. Bu trajik olayda gemide bulunan 2399 kişilik mürettebattan 1076'sı hayatını kaybetti.\n\nMusashi'nin batışı, Japonya'nın Pasifik'teki deniz gücünün kırılma noktalarından birini temsil eder. Leyte Körfezi Muharebesi, Müttefik kuvvetlerin bölgedeki ilerleyişini durdurmak isteyen Japonya'nın elindeki tüm imkanları seferber ettiği son büyük deniz saldırısıydı. Ancak Japon donanması, Amerikan ve Avustralya kuvvetlerinin sayısal ve teknolojik üstünlüğü karşısında ağır bir yenilgi aldı. Bu muharebe, Japonya'nın Güneydoğu Asya'daki stratejik kaynaklarını koruma çabasının başarısızlıkla sonuçlandığını ve savaşın gidişatının Müttefikler lehine kesinleştiğini gösteren sembolik bir dönüm noktası olmuştur.",
+      "kategori": "Savaş",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1945-birlesmis-milletler-antlasmasi-yayinlandi-ve-bm-kuruldu",
@@ -485,64 +291,12 @@
         "Adolf Hitler",
         "Faşist"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "genislik": 400,
-        "yukseklik": 286,
-        "orijinalGenislik": 400,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
-        "aciklama": "Pitched battle at Changde.",
-        "konu": "II. Dünya Savaşı"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-          "genislik": 400,
-          "yukseklik": 286,
-          "orijinalGenislik": 400,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
-          "aciklama": "Pitched battle at Changde.",
-          "konu": "II. Dünya Savaşı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/960px-Hitler_portrait_crop.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/500px-Hitler_portrait_crop.jpg",
-          "genislik": 960,
-          "yukseklik": 1278,
-          "orijinalGenislik": 1384,
-          "yazar": "Heinrich Hoffmann",
-          "lisans": "CC BY-SA 3.0 de",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Hitler_portrait_crop.jpg",
-          "aciklama": "1938 portrait photograph of Adolf Hitler",
-          "konu": "Adolf Hitler"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Mussolini_and_Hitler_1940_%28retouched%29.jpg/960px-Mussolini_and_Hitler_1940_%28retouched%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Mussolini_and_Hitler_1940_%28retouched%29.jpg/500px-Mussolini_and_Hitler_1940_%28retouched%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1391,
-          "orijinalGenislik": 2415,
-          "yazar": "Unidentified photographer",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mussolini_and_Hitler_1940_(retouched).jpg",
-          "aciklama": "Benito Mussolini and Adolf Hitler during Mussolini's visit in Munich.",
-          "konu": "Faşist"
-        }
-      ],
-      "durum": "bekliyor"
+      "baslik": "Norveçli İşbirlikçi Vidkun Quisling İdam Edildi",
+      "ozet": "II. Dünya Savaşı'nın sona ermesinin ardından, Nazi Almanyası'nın Norveç'i işgaline destek veren ve işgal yönetimi altında başbakanlık görevini üstlenen Vidkun Quisling, 24 Ekim 1945 tarihinde Oslo'da kurşuna dizilerek idam edildi. Quisling, savaş boyunca kendi ülkesine karşı yürüttüğü faaliyetler ve Nazi ideolojisine olan bağlılığı nedeniyle Norveç halkı tarafından büyük bir tepkiyle karşılanmıştı. Savaşın bitişiyle birlikte tutuklanan Quisling, vatana ihanet ve cinayet gibi ağır suçlardan yargılandı.\n\nQuisling ismi, tarihe kendi ülkesine ihanet eden ve düşmanla iş birliği yapan kişileri tanımlamak için kullanılan bir terim haline gelmiştir. Norveç'in bağımsızlığını hiçe sayarak Nazi Almanyası'nın kukla bir hükümet kurmasına öncülük etmesi, onu savaş sonrası Avrupa'da en çok nefret edilen figürlerden biri yapmıştır. İdamı, Norveç'in Nazi işgalinden kurtuluşunun ve savaş suçlularından hesap sorulmasının sembolik bir adımı olarak kabul edilir.",
+      "kategori": "Siyaset",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1947-walt-disney-amerikan-aleyhtari-faaliyetler-komitesi-huac",
@@ -552,9 +306,9 @@
         "Walt Disney",
         "Amerikan Aleyhtarı Faaliyetler Komitesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Walt Disney'in Amerikan Aleyhtarı Faaliyetler Komitesi'ndeki İfadesi",
+      "ozet": "Walt Disney, 1947 yılında Amerika Birleşik Devletleri'nde yürütülen Amerikan Aleyhtarı Faaliyetler Komitesi (HUAC) soruşturmaları kapsamında ifade vererek, stüdyosunda çalışan bazı animatörleri ve sendika üyelerini komünizmle bağlantılı olmakla suçladı. Soğuk Savaş'ın başlangıç döneminde gerçekleşen bu olay, Hollywood dünyasında büyük bir kırılmaya yol açan cadı avı sürecinin önemli bir parçası olarak kabul edilir. Disney, verdiği isimlerle stüdyosundaki sendikal faaliyetleri komünist bir sızma olarak nitelendirmiş ve bu tutumuyla sektördeki birçok ismin kara listeye alınmasına zemin hazırlamıştır.\n\nBu ifade, Disney'in kariyerindeki en tartışmalı anlardan biri olarak tarihe geçmiştir. O dönemde Hollywood'da yayılan komünizm korkusu, sinema dünyasında derin bir kutuplaşmaya neden olmuş ve ifade veren sanatçılar ile bu sürece maruz kalanlar arasında uzun süreli bir gerilim yaratmıştır. Disney'in bu adımı, hem stüdyosundaki işçi hareketlerini baskı altına almak hem de siyasi otoriteyle uyumlu bir profil çizmek amacıyla atılmış bir hamle olarak değerlendirilir. Bu süreç, Amerika'daki McCarthy dönemi olarak bilinen toplumsal baskı ve sansür ikliminin sinema sektöründeki en belirgin yansımalarından biri haline gelmiştir.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Walt_Disney_1946.JPG",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Walt_Disney_1946.JPG",
@@ -568,7 +322,8 @@
         "aciklama": "Publicity photo of Walt Disney from the Boy Scouts of America. Disney was given an award by them in 1946.",
         "konu": "Walt Disney"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1949-minik-vali-olarak-taninan-ordinaryus-prof-dr",
@@ -578,9 +333,9 @@
         "Fahrettin Kerim Gökay",
         "İstanbul"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Fahrettin Kerim Gökay İstanbul Valisi Oldu",
+      "ozet": "Tıp profesörü ve bürokrat Fahrettin Kerim Gökay, 1949 yılında İstanbul Valisi ve Belediye Başkanı olarak göreve başladı. Halk arasında Minik Vali lakabıyla tanınan Gökay, şehre getirdiği kendine has yönetim tarzı ve halkla kurduğu yakın iletişimle döneminin en çok konuşulan isimlerinden biri haline geldi. Görev süresi boyunca İstanbul'un kentsel sorunlarına yönelik pratik çözümler üretmeye çalışması ve sosyal faaliyetlerdeki aktif rolü, onu şehir hafızasında unutulmaz kıldı.\n\nGökay'ın göreve gelişi, İstanbul'un hızlı bir değişim ve büyüme sürecine girdiği bir döneme denk gelmektedir. Hem valilik hem de belediye başkanlığı görevlerini bir arada yürüten Gökay, şehrin idari yapısında merkezi bir figür olarak öne çıktı. Özellikle halkın arasına karışan, sorunları yerinde inceleyen ve renkli kişiliğiyle dikkat çeken tavrı, bürokrasi anlayışında farklı bir yaklaşımı temsil ediyordu. Onun bu dönemi, İstanbul'un modernleşme çabalarının ve yerel yönetim pratiklerinin önemli bir parçası olarak kabul edilir.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/1952_01_25_Milliyet_Fahrettin_Kerim_Gokay.jpg/960px-1952_01_25_Milliyet_Fahrettin_Kerim_Gokay.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/1952_01_25_Milliyet_Fahrettin_Kerim_Gokay.jpg/500px-1952_01_25_Milliyet_Fahrettin_Kerim_Gokay.jpg",
@@ -594,35 +349,8 @@
         "aciklama": "25 Ocak 1952 tarihli Milliyet gazetesinde Fahrettin Kerim Gökay",
         "konu": "Fahrettin Kerim Gökay"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/1952_01_25_Milliyet_Fahrettin_Kerim_Gokay.jpg/960px-1952_01_25_Milliyet_Fahrettin_Kerim_Gokay.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/1952_01_25_Milliyet_Fahrettin_Kerim_Gokay.jpg/500px-1952_01_25_Milliyet_Fahrettin_Kerim_Gokay.jpg",
-          "genislik": 960,
-          "yukseklik": 619,
-          "orijinalGenislik": 1046,
-          "yazar": "Milliyet Gazetesi",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:1952_01_25_Milliyet_Fahrettin_Kerim_Gokay.jpg",
-          "aciklama": "25 Ocak 1952 tarihli Milliyet gazetesinde Fahrettin Kerim Gökay",
-          "konu": "Fahrettin Kerim Gökay"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "genislik": 960,
-          "yukseklik": 494,
-          "orijinalGenislik": 2048,
-          "yazar": "Alexxx Malev",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-          "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-          "konu": "İstanbul"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1956-gazeteci-bedii-faik-cumhurbaskanina-hakaretten-6-ay",
@@ -646,9 +374,9 @@
         "Martin Luther King",
         "Nobel Barış Ödülü"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Martin Luther King Jr.'a Nobel Barış Ödülü Verildi",
+      "ozet": "Amerikalı Baptist papaz ve sivil haklar hareketi lideri Martin Luther King Jr., 1964 yılında Nobel Barış Ödülü ile onurlandırıldı. King, Amerika Birleşik Devletleri'nde ırk ayrımcılığına karşı yürüttüğü şiddet içermeyen direniş mücadelesi ve eşitlik arayışındaki kararlı duruşu nedeniyle bu prestijli ödüle layık görüldü. Ödül, onun toplumsal adalet ve insan hakları konusundaki küresel etkisini tescilleyen önemli bir dönüm noktası oldu.\n\nKing, 1950'li yıllardan itibaren Jim Crow yasaları gibi kurumsallaşmış ayrımcılık biçimlerine karşı barışçıl sivil itaatsizlik yöntemlerini benimseyerek geniş kitleleri harekete geçirdi. Montgomery Otobüs Eylemi'nden 1963'teki tarihi Washington Yürüyüşü'ne kadar pek çok eyleme öncülük eden King, \"Bir Hayalim Var\" konuşmasıyla dünya çapında bir sembol haline geldi. Nobel Barış Ödülü, onun sadece Amerika'daki sivil haklar mücadelesini değil, aynı zamanda evrensel barış ve kardeşlik ideallerine olan bağlılığını da uluslararası düzeyde taçlandırdı.",
+      "kategori": "Toplum",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/960px-Martin_Luther_King%2C_Jr..jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/500px-Martin_Luther_King%2C_Jr..jpg",
@@ -662,35 +390,8 @@
         "aciklama": "Martin Luther King, 1964",
         "konu": "Martin Luther King"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/960px-Martin_Luther_King%2C_Jr..jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/500px-Martin_Luther_King%2C_Jr..jpg",
-          "genislik": 960,
-          "yukseklik": 1440,
-          "orijinalGenislik": 992,
-          "yazar": "Bernie Faingold",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Martin_Luther_King,_Jr..jpg",
-          "aciklama": "Martin Luther King, 1964",
-          "konu": "Martin Luther King"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/1933_Nobel_Peace_Prize_awarded_to_Norman_Angell.JPG",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/1933_Nobel_Peace_Prize_awarded_to_Norman_Angell.JPG",
-          "genislik": 845,
-          "yukseklik": 840,
-          "orijinalGenislik": 845,
-          "yazar": "Photograph: en:User:Anubis3 Medal: Gustav Vigeland",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:1933_Nobel_Peace_Prize_awarded_to_Norman_Angell.JPG",
-          "aciklama": "1933 Nobel Peace Prize awarded to Norman Angell on exhibit to the public at the Imperial War Museum, London, England",
-          "konu": "Nobel Barış Ödülü"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1965-nufus-sayimi-yapildi-turkiyenin-nufusu-31-391",
@@ -717,23 +418,12 @@
         "Talip Yener",
         "Ermeni Soykırımı Adalet Komandoları"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/960px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/500px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-        "genislik": 960,
-        "yukseklik": 600,
-        "orijinalGenislik": 4592,
-        "yazar": "Yann Caradec from Paris, France",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
-        "aciklama": "La Tour Eiffel vue de la Tour Saint-Jacques, Paris.",
-        "konu": "Paris"
-      },
-      "durum": "bekliyor"
+      "baslik": "Paris'te Türk Diplomatlara Yönelik Suikast",
+      "ozet": "Türkiye'nin Paris Büyükelçisi İsmail Erez, 24 Ekim 1975 tarihinde görevli olduğu Fransa'nın başkenti Paris'te makam aracıyla ilerlediği sırada silahlı bir saldırıya uğradı. Büyükelçi Erez ile birlikte araçta bulunan makam şoförü Talip Yener de saldırı sonucunda olay yerinde yaşamını yitirdi. Saldırıyı üstlenen grup, Ermeni Soykırımı Adalet Komandoları (JCAG) olarak bilinen örgüt oldu. Bu olay, Türk diplomatlarına yönelik yurt dışında gerçekleştirilen sistemli saldırıların en erken ve dikkat çekici örneklerinden biri olarak tarihe geçti.\n\nSöz konusu suikast, 1970'li yıllarda Türk diplomatik temsilciliklerini hedef alan şiddet dalgasının bir parçasıydı. Büyükelçi İsmail Erez'in hedef alınması, uluslararası kamuoyunda büyük yankı uyandırdı ve Türkiye ile Fransa arasındaki diplomatik ilişkilerde güvenlik eksenli yeni bir dönemin başlamasına neden oldu. Bu saldırı, Türk dışişleri mensuplarının görevlerini yerine getirirken karşı karşıya kaldıkları hayati riskleri gözler önüne sererken, aynı zamanda Türkiye'nin terörle mücadelesinde diplomatik misyonların korunması konusundaki hassasiyetini de artırdı.",
+      "kategori": "Siyaset",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1980-polonya-hukumeti-solidarnosc-dayanisma-sendikasi-adli-isci",
@@ -759,23 +449,12 @@
         "Dışişleri Bakanlığı",
         "Hande Mumcu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/James_Callaghan_and_Max_van_der_Stoel_%281975%29.jpg/960px-James_Callaghan_and_Max_van_der_Stoel_%281975%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/James_Callaghan_and_Max_van_der_Stoel_%281975%29.jpg/500px-James_Callaghan_and_Max_van_der_Stoel_%281975%29.jpg",
-        "genislik": 960,
-        "yukseklik": 701,
-        "orijinalGenislik": 2756,
-        "yazar": "Christian Lambiotte",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:James_Callaghan_and_Max_van_der_Stoel_(1975).jpg",
-        "aciklama": "James Callaghan, British Secretary of State for Foreign and Commonwealth Affairs, on the left, and Max van der Stoel, Dutch Minister for Foreign Affairs",
-        "konu": "Dışişleri Bakanlığı"
-      },
-      "durum": "bekliyor"
+      "baslik": "Kripto Davasında Gazeteci Uluç Gürkan ve Hande Mumcu Beraat Etti",
+      "ozet": "Gazeteci Uluç Gürkan ve Dışişleri Bakanlığı memuru Hande Mumcu, 1991 yılında kamuoyunda 'kripto davası' olarak bilinen yargılama sürecinde haklarındaki iddialardan aklanarak beraat ettiler. Dava, devletin gizli yazışmalarının ve diplomatik belgelerin basına sızdırılması iddiaları üzerine şekillenmiş ve dönemin basın özgürlüğü ile devlet sırrı kavramları arasındaki hassas dengeleri tartışmaya açmıştı.\n\nBu dava, özellikle gazetecilik faaliyetlerinin sınırlarının ve devlet kurumlarındaki bilgi güvenliği süreçlerinin sorgulandığı önemli bir hukuksal süreç olarak tarihe geçti. Uluç Gürkan'ın gazetecilik kimliği ile Hande Mumcu'nun bakanlık bünyesindeki görevi, olayın hem siyasi hem de mesleki açıdan geniş yankı uyandırmasına neden oldu. Beraat kararı, basın mensuplarının haber kaynaklarına ulaşma özgürlüğü ve devletin şeffaflık ilkeleri arasındaki çatışmanın hukuki bir zeminde çözüme kavuşturulması açısından dönemin Türkiye'sinde dikkat çeken bir gelişme olarak kaydedildi.",
+      "kategori": "Siyaset",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1992-turkiyenin-ilk-ozel-havaalani-olan-hezarfen-istanbul",
@@ -787,64 +466,24 @@
         "İstanbul Hezarfen Havaalanı",
         "Büyükçekmece"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Türkiye'nin İlk Özel Havalimanı: Hezarfen",
+      "ozet": "İstanbul'un Çatalca ilçesinde, Büyükçekmece Gölü'nün kuzeyinde yer alan Hezarfen Havaalanı, 1992 yılında Türkiye'nin uluslararası tescilli ilk özel havalimanı olarak faaliyetlerine başladı. İsmini, 17. yüzyılda Galata Kulesi'nden Üsküdar'a uçtuğu rivayet edilen Osmanlı bilgini Hezarfen Ahmet Çelebi'den alan tesis, yaklaşık 500 dönümlük geniş bir arazi üzerine kurulmuştur. Havalimanı, özellikle genel havacılık faaliyetleri ve pilot eğitimleri için kritik bir merkez olarak tasarlanmıştır.\n\nBeş yüz otuz beş metre uzunluğunda asfalt bir piste sahip olan tesis, bünyesinde barındırdığı helikopter pisti ve model uçak alanı ile havacılık tutkunlarına çok yönlü bir hizmet sunmaktadır. Pistine, Mustafa Kemal Atatürk'ün manevi kızı Ülkü Adatepe'ye ithafen Küçük Ülkü Pisti adı verilmiştir. Hezarfen Havaalanı, sadece havacılık faaliyetleriyle sınırlı kalmayıp, zaman içerisinde çeşitli büyük organizasyonlara ve kültürel etkinliklere de ev sahipliği yaparak bölgenin sosyal yaşamında önemli bir yer edinmiştir. Sivil havacılığın Türkiye'deki gelişimine özel sektör eliyle katkı sunan öncü bir girişim olarak dikkat çekmektedir.",
+      "kategori": "Ulaşım",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Airport_infrastructure.png/960px-Airport_infrastructure.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Airport_infrastructure.png/500px-Airport_infrastructure.png",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Istanbul_Hezarfen.JPG/960px-Istanbul_Hezarfen.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Istanbul_Hezarfen.JPG/500px-Istanbul_Hezarfen.JPG",
         "genislik": 960,
-        "yukseklik": 471,
-        "orijinalGenislik": 5000,
-        "yazar": "CellarDoor85 (Robert Aehnelt).",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Airport_infrastructure.png",
-        "aciklama": "A diagram showing the infrastructure of an airport.",
-        "konu": "havaalanı"
+        "yukseklik": 720,
+        "orijinalGenislik": 1600,
+        "yazar": "Math34",
+        "lisans": "CC BY 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Istanbul_Hezarfen.JPG",
+        "aciklama": "Istanbul Hezarfen Airport",
+        "konu": "İstanbul Hezarfen Havaalanı"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Airport_infrastructure.png/960px-Airport_infrastructure.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Airport_infrastructure.png/500px-Airport_infrastructure.png",
-          "genislik": 960,
-          "yukseklik": 471,
-          "orijinalGenislik": 5000,
-          "yazar": "CellarDoor85 (Robert Aehnelt).",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Airport_infrastructure.png",
-          "aciklama": "A diagram showing the infrastructure of an airport.",
-          "konu": "havaalanı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Istanbul_Hezarfen.JPG/960px-Istanbul_Hezarfen.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Istanbul_Hezarfen.JPG/500px-Istanbul_Hezarfen.JPG",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 1600,
-          "yazar": "Math34",
-          "lisans": "CC BY 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Istanbul_Hezarfen.JPG",
-          "aciklama": "Istanbul Hezarfen Airport",
-          "konu": "İstanbul Hezarfen Havaalanı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/B%C3%BCy%C3%BCk%C3%A7ekmece%27den_G%C3%BCrp%C4%B1nar_Beylikd%C3%BCz%C3%BC%27ne_Bak%C4%B1%C5%9F%2C_Ekim_2013_-_panoramio_%281%29.jpg/960px-B%C3%BCy%C3%BCk%C3%A7ekmece%27den_G%C3%BCrp%C4%B1nar_Beylikd%C3%BCz%C3%BC%27ne_Bak%C4%B1%C5%9F%2C_Ekim_2013_-_panoramio_%281%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/B%C3%BCy%C3%BCk%C3%A7ekmece%27den_G%C3%BCrp%C4%B1nar_Beylikd%C3%BCz%C3%BC%27ne_Bak%C4%B1%C5%9F%2C_Ekim_2013_-_panoramio_%281%29.jpg/500px-B%C3%BCy%C3%BCk%C3%A7ekmece%27den_G%C3%BCrp%C4%B1nar_Beylikd%C3%BCz%C3%BC%27ne_Bak%C4%B1%C5%9F%2C_Ekim_2013_-_panoramio_%281%29.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 3264,
-          "yazar": "buzkozan",
-          "lisans": "CC BY 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:B%C3%BCy%C3%BCk%C3%A7ekmece%27den_G%C3%BCrp%C4%B1nar_Beylikd%C3%BCz%C3%BC%27ne_Bak%C4%B1%C5%9F,_Ekim_2013_-_panoramio_(1).jpg",
-          "aciklama": "Büyükçekmece'den Gürpınar Beylikdüzü'ne Bakış, Ekim 2013",
-          "konu": "Büyükçekmece"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1992-aachen-tebligi-ulum-el-hikme-okulu",
@@ -854,23 +493,12 @@
         "Aachen",
         "Ulum el-hikme okulu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Aachen_BW_2016-07-09_11-56-24.jpg/960px-Aachen_BW_2016-07-09_11-56-24.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Aachen_BW_2016-07-09_11-56-24.jpg/500px-Aachen_BW_2016-07-09_11-56-24.jpg",
-        "genislik": 960,
-        "yukseklik": 682,
-        "orijinalGenislik": 5520,
-        "yazar": "Berthold Werner",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Aachen_BW_2016-07-09_11-56-24.jpg",
-        "aciklama": "Germany, Aachen, town hall from south",
-        "konu": "Aachen"
-      },
-      "durum": "bekliyor"
+      "baslik": "Ulum el-Hikme Okulu ve Aachen Tebliği",
+      "ozet": "Almanya'nın Aachen kentinde 24 Ekim 1992 tarihinde yayımlanan Aachen Tebliği ile Ulum el-Hikme okulu resmen kurulmuştur. Bu girişim, İslam düşüncesi ve felsefesi üzerine akademik çalışmalar yürütmeyi amaçlayan bir eğitim ve araştırma merkezi oluşturma hedefiyle hayata geçirilmiştir. Okul, İslam medeniyetinin klasik dönemindeki ilim anlayışını modern bir perspektifle yeniden yorumlamayı ve bu alandaki entelektüel birikimi günümüz dünyasına taşımayı hedeflemiştir. Aachen Tebliği, okulun temel felsefesini ve eğitim vizyonunu belirleyen kurucu bir metin niteliği taşımaktadır. Bu metin, İslam ilim geleneğinin evrensel değerlerini vurgulayarak, farklı kültürler arasında bir köprü kurma ve akademik düzeyde derinlikli araştırmalar yapma çağrısında bulunmuştur. Ulum el-Hikme okulu, bu tebliğ doğrultusunda İslam felsefesi, kelam ve bilim tarihi gibi alanlarda çalışmalar yaparak, geleneksel bilginin modern dünyadaki karşılığını arayan bir platform olarak faaliyet göstermiştir. Söz konusu okulun kuruluşu, Avrupa'daki İslam araştırmaları açısından özgün bir girişim olarak kabul edilmektedir.",
+      "kategori": "Edebiyat",
+      "gorsel": null,
+      "durum": "elendi",
+      "bolge": "dunya"
     },
     {
       "id": "1996-i-avrasya-islam-surasi-turkiyede-toplandi",
@@ -892,9 +520,9 @@
       "konular": [
         "Osmaniye (il)"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Osmaniye'nin Yeniden İl Statüsü Kazanması",
+      "ozet": "Akdeniz Bölgesi'nin doğusunda, Çukurova'nın uç noktasında yer alan Osmaniye, 24 Ekim 1996 tarihinde gerçekleştirilen yasal bir düzenleme ile Türkiye Cumhuriyeti'nin 80. ili olma hakkını elde etti. Tarihsel olarak idari statüsü zaman içerisinde değişiklik gösteren bu yerleşim yeri, 1933 yılına kadar il statüsünde kalmış, daha sonra Adana iline bağlı bir ilçe konumuna dönüştürülmüştü. Yaklaşık altmış yılı aşkın bir sürenin ardından tekrar il statüsüne kavuşması, bölgenin idari yapısında önemli bir dönüm noktası oluşturdu.\n\nOsmaniye'nin yeniden il olması, bölgenin idari ve ekonomik kalkınması adına atılmış stratejik bir adım olarak kabul edilmektedir. Günümüzde geniş tarım arazileri ve ormanlık alanları ile dikkat çeken il, yedi ilçeden oluşan idari yapısıyla hizmet vermektedir. 1996 yılındaki bu yasal düzenleme, Osmaniye'nin yerel yönetim mekanizmalarının güçlenmesine ve kendi kaynaklarını daha etkin bir şekilde yönetmesine olanak tanımıştır. Bugün sahip olduğu 80 plaka koduyla da bu statüsünü tescilleyen şehir, bölgenin tarımsal ve sosyal hayatında merkezi bir rol oynamaya devam etmektedir.",
+      "kategori": "Toplum",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Osmaniye_districts.png/960px-Osmaniye_districts.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Osmaniye_districts.png/500px-Osmaniye_districts.png",
@@ -908,7 +536,8 @@
         "aciklama": "Map of the districts of Osmaniye province in Turkey. Created by Rarelibra 17:11, 4 December 2006 (UTC) for public domain use, using MapInfo Professional v8.5 and various mapping resources. Edited by O",
         "konu": "Osmaniye (il)"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "2000-amerikali-rock-grubu-linkin-park-ilk-studyo",
@@ -920,23 +549,12 @@
         "Linkin Park",
         "Hybrid Theory (albüm)"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Stones_members_montage2.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Stones_members_montage2.jpg",
-        "genislik": 822,
-        "yukseklik": 755,
-        "orijinalGenislik": 822,
-        "yazar": "Larry Rogers (1972 Jagger photo from File:Jagger-early Stones.jpg); User:Machocarioca (1995 Keith Richards photo from File:KeithR2.JPG); Cat",
-        "lisans": "CC BY 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Stones_members_montage2.jpg",
-        "aciklama": "Mick Jagger, Keith Richards, Ronnie Wood and Charlie Watts montage/crop of 4 pictures - File:Jagger-early Stones.jpg, File:KeithR2.JPG, File:Ron-Wood in CA.jpg and File:Charlie Watts Hannover 19-07-20",
-        "konu": "Rock müzik"
-      },
-      "durum": "bekliyor"
+      "baslik": "Linkin Park'ın Efsanevi İlk Albümü Hybrid Theory",
+      "ozet": "Amerikalı rock grubu Linkin Park, müzik dünyasında çığır açan ilk stüdyo albümleri Hybrid Theory'yi 2000 yılının Ekim ayında dinleyicilerle buluşturdu. Grup, bu albümle birlikte kısa sürede geniş kitlelere ulaşarak modern rock müziğin en önemli temsilcilerinden biri haline geldi. Albüm, özellikle nu-metal ve alternatif rock unsurlarını harmanlayan özgün tarzıyla dikkat çekti.\n\nHybrid Theory, ticari açıdan da inanılmaz bir başarıya imza atarak dünya genelinde 25 milyondan fazla satış rakamına ulaştı. Albümden çıkan One Step Closer, Crawling ve In The End gibi parçalar, grubun sadece Amerika'da değil, küresel ölçekte büyük bir hayran kitlesi edinmesini sağladı. Özellikle In The End şarkısı, grubun ana akım müzik listelerinde zirveye yerleşmesini sağlarken, Crawling parçası ise gruba Grammy ödülü kazandırdı. ABD'de 10 milyonun üzerinde satarak elmas plak ödülüne layık görülen bu çalışma, Linkin Park'ın kariyerindeki en belirleyici dönüm noktalarından biri olarak kabul edilmektedir.",
+      "kategori": "Sanat",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "2003-concordeun-son-ucusu-new-york-ile-londra",
@@ -947,9 +565,9 @@
         "New York",
         "Londra"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Havacılıkta Bir Devrin Sonu: Concorde'un Son Uçuşu",
+      "ozet": "Havacılık tarihinin en ikonik uçaklarından biri olan Concorde, 2003 yılının Ekim ayında New York'tan Londra'ya gerçekleştirdiği son uçuşla ticari seferlerini resmen tamamladı. British Airways filosuna ait olan bu özel uçak, ses hızının iki katına çıkabilen yapısıyla havacılık teknolojisinde devrim yaratmış ve yolcularına sıra dışı bir hız deneyimi sunmuştu. Concorde'un emekliye ayrılması, havacılık dünyasında süpersonik yolcu taşımacılığının sona erdiği bir dönemi simgeledi.\n\nAir France ve British Airways tarafından işletilen Concorde uçakları, üretildikleri günden itibaren prestijin ve mühendislik başarısının sembolü oldular. Ancak yüksek işletme maliyetleri, yakıt tüketimi ve 2000 yılında yaşanan trajik kaza gibi faktörler, uçağın ekonomik ömrünü zorlaştırdı. 27 yıllık operasyonel geçmişin ardından gelen bu veda, sadece bir uçağın değil, havacılıkta hızın sınırlarını zorlayan bir vizyonun da sonunu getirdi. Bugün müze ve sergilerde korunan bu uçaklar, havacılık meraklıları için modern teknoloji tarihinin en önemli parçalarından biri olarak kabul edilmektedir.",
+      "kategori": "Ulaşım",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/British_Airways_Concorde_G-BOAC_03.jpg/960px-British_Airways_Concorde_G-BOAC_03.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/British_Airways_Concorde_G-BOAC_03.jpg/500px-British_Airways_Concorde_G-BOAC_03.jpg",
@@ -963,48 +581,8 @@
         "aciklama": "British Airways Concorde G-BOAC",
         "konu": "Concorde"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/British_Airways_Concorde_G-BOAC_03.jpg/960px-British_Airways_Concorde_G-BOAC_03.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/British_Airways_Concorde_G-BOAC_03.jpg/500px-British_Airways_Concorde_G-BOAC_03.jpg",
-          "genislik": 960,
-          "yukseklik": 637,
-          "orijinalGenislik": 1024,
-          "yazar": "Eduard Marmet",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:British_Airways_Concorde_G-BOAC_03.jpg",
-          "aciklama": "British Airways Concorde G-BOAC",
-          "konu": "Concorde"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/500px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 8207,
-          "yazar": "Dllu",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg",
-          "aciklama": "View of the Empire State Building in New York City from the Top of the Rock at 30 Rockefeller Plaza during sunset. The tower was illuminated in green in honor of Climate Week NYC.[1]",
-          "konu": "New York"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/500px-London_Skyline_%28125508655%29.jpeg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 2048,
-          "yazar": "Ilya Grigorik",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg",
-          "aciklama": "500px provided description: London Skyline [#sunset ,#architecture ,#cityscape ,#london ,#uk ,#skyline ,#financial district ,#thames ,#london bridge ,#london shard]",
-          "konu": "Londra"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     }
   ],
   "dogumlar": [
@@ -1589,7 +1167,7 @@
     "url": "https://tr.wikipedia.org/wiki/24_Ekim",
     "revid": 38168157
   },
-  "guncelleme": "2026-10-21T21:27:04.916Z",
+  "guncelleme": "2026-10-22T08:16:22.486Z",
   "haberler": [
     {
       "id": "2025-haber-2446427",
@@ -1602,10 +1180,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/akp-nin-vergi-ve-harclarda-duzenleme-yapan-teklifi-komisyonda-kabul-edildi-itirazlara-kulak-tikadilar-2446427"
       },
-      "konular": [],
+      "konular": [
+        "TBMM Plan ve Bütçe Komisyonu",
+        "Vergi",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2025-10-24T04:00:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Vergi ve harç düzenlemesi TBMM Plan ve Bütçe Komisyonu'nda onaylandı",
+      "ozet": "Vergi ve harçlarda değişiklik öngören yasal düzenleme teklifi, TBMM Plan ve Bütçe Komisyonu'nda gerçekleştirilen uzun süreli görüşmelerin ardından kabul edildi. Muhalefet milletvekilleri, kamuoyunda tartışmalara yol açan bazı maddelerin metinden çıkarılması amacıyla çeşitli önergeler sundu. Ancak sunulan bu önergeler komisyon tarafından kabul görmedi ve teklif mevcut haliyle onaylanarak yasalaşma sürecinde bir aşamayı daha geride bıraktı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2025-haber-2446623",
@@ -1618,10 +1203,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/chp-nin-39-uncu-olagan-kurultayi-28-30-kasim-da-yapilacak-kurultayin-gundemi-ilan-edildi-2446623"
       },
-      "konular": [],
+      "konular": [
+        "Cumhuriyet Halk Partisi",
+        "Siyaset"
+      ],
       "yayin": "2025-10-24T17:08:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhuriyet Halk Partisi 39. Olağan Kurultayı İçin Tarih Belirlendi",
+      "ozet": "Cumhuriyet Halk Partisi Parti Meclisi tarafından yapılan toplantıda, 39. Olağan Kurultay sürecinin takvimi netleştirildi. Söz konusu kurultayın 28 ile 30 Kasım tarihleri arasında Ankara Arena Spor Salonu'nda düzenlenmesi kararlaştırıldı. Toplantı kapsamında kurultayın gündem maddeleri de kamuoyuyla paylaşıldı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2261448",
@@ -1634,10 +1225,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/tbmm-baskanliginin-tusas-saldirisina-yonelik-tezkeresi-kabul-edildi-2261448"
       },
-      "konular": [],
+      "konular": [
+        "TUSAŞ saldırısı",
+        "Türkiye Büyük Millet Meclisi",
+        "Türkiye"
+      ],
       "yayin": "2024-10-24T19:21:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "TUSAŞ saldırısına yönelik tezkere Meclis genel kurulunda kabul edildi",
+      "ozet": "Ankara'da bulunan Türk Havacılık ve Uzay Sanayii Anonim Şirketi tesislerine yönelik gerçekleştirilen saldırının ardından hazırlanan tezkere, Türkiye Büyük Millet Meclisi Başkanlığı tarafından oylamaya sunuldu. Yapılan görüşmeler neticesinde söz konusu tezkere kabul edilerek onaylandı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Turkish_Aerospace_Industries_headquarters_attack_perpetrators.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Turkish_Aerospace_Industries_headquarters_attack_perpetrators.jpg",
+        "genislik": 640,
+        "yukseklik": 524,
+        "orijinalGenislik": 640,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_Aerospace_Industries_headquarters_attack_perpetrators.jpg",
+        "aciklama": "A photo from CCTV footage of the perpetrators of the 2024 Turkish Aerospace Industries headquarters attack",
+        "konu": "TUSAŞ saldırısı"
+      }
     },
     {
       "id": "2024-haber-2261346",
@@ -1650,10 +1261,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/linkedin-rekor-tazminata-mahkum-oldu-356-milyon-dolar-2261346"
       },
-      "konular": [],
+      "konular": [
+        "LinkedIn",
+        "Sosyal medya",
+        "Tazminat"
+      ],
       "yayin": "2024-10-24T15:47:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "LinkedIn platformuna rekor düzeyde tazminat cezası verildi",
+      "ozet": "İş dünyasına yönelik sosyal medya platformu LinkedIn, hukuki bir süreç sonucunda yüksek miktarda tazminat ödemeye mahkum edildi. Şirketin 356 milyon dolar ödemesine hükmedilen bu karar, platformun yaşadığı zorlu dönemi gözler önüne serdi. Söz konusu gelişme, sosyal medya devinin karşı karşıya kaldığı ciddi bir yaptırım olarak kayıtlara geçti.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/LinkedIn_Headquarters_Sunnyvale.jpg/960px-LinkedIn_Headquarters_Sunnyvale.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/LinkedIn_Headquarters_Sunnyvale.jpg/500px-LinkedIn_Headquarters_Sunnyvale.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 4344,
+        "yazar": "LPS.1",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:LinkedIn_Headquarters_Sunnyvale.jpg",
+        "aciklama": "LinkedIn Headquarters in Sunnyvale, California",
+        "konu": "LinkedIn"
+      }
     },
     {
       "id": "2023-haber-2133662",
@@ -1666,10 +1297,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/erdogandan-birlesmis-milletler-gununde-gazze-mesaji-uluslararasi-2133662"
       },
-      "konular": [],
+      "konular": [
+        "Gazze Şeridi",
+        "Recep Tayyip Erdoğan",
+        "Birleşmiş Milletler"
+      ],
       "yayin": "2023-10-24T18:06:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanı Erdoğan'dan Birleşmiş Milletler Günü'nde Gazze Mesajı",
+      "ozet": "Birleşmiş Milletler Teşkilatı'nın kuruluş yıl dönümü vesilesiyle bir açıklama yayımlayan Cumhurbaşkanı Recep Tayyip Erdoğan, İsrail'in Gazze'ye yönelik saldırıları karşısında uluslararası kurumların sergilediği tutumu eleştirdi. Erdoğan, Birleşmiş Milletler Güvenlik Konseyi'nin mevcut krizdeki etkisizliğine dikkat çekerek uluslararası toplumun bu süreçte başarılı bir sınav veremediğini ifade etti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2023-haber-2133474",
@@ -1682,10 +1333,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/erdoganin-sesiyle-spk-baskanindan-1-milyon-dolar-istemis-operasyon-2133474"
       },
-      "konular": [],
+      "konular": [
+        "Yapay zeka",
+        "Dolandırıcılık",
+        "Sermaye Piyasası Kurulu"
+      ],
       "yayin": "2023-10-24T11:20:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Yapay zeka ile ses taklidi yaparak dolandırıcılık girişimi",
+      "ozet": "Fatih Emre Hülagü isimli bir kişi, yapay zeka teknolojisini kullanarak Cumhurbaşkanı Recep Tayyip Erdoğan'ın sesini taklit etti. Bu yöntemle Sermaye Piyasası Kurulu Başkanı İbrahim Ömer Gönül dahil olmak üzere çeşitli isimleri arayan şahıs, Suriye'deki bir operasyon gerekçesiyle para talebinde bulundu. Söz konusu dolandırıcılık girişimi güvenlik birimlerinin müdahalesiyle ortaya çıkarıldı.",
+      "kategori": "Toplum"
     },
     {
       "id": "2022-haber-1995677",
@@ -1698,10 +1356,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/asgari-ucrete-zam-tarihi-yaklasirken-tartismalar-hiz-kazandi-1995677"
       },
-      "konular": [],
+      "konular": [
+        "Asgari ücret",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2022-10-24T13:38:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Asgari ücret belirleme süreci öncesinde beklentiler yoğunlaştı",
+      "ozet": "Yıl sonuna doğru asgari ücretin yeniden belirlenmesi için yürütülen çalışmalar hız kazandı. Aralık ayında netleşecek olan yeni maaş tutarı için farklı senaryolar üzerinde duruluyor. Kamuoyunda ücret artışının ne oranda gerçekleşeceğine dair çeşitli görüşler dile getiriliyor.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2022-haber-1995737",
@@ -1714,10 +1378,15 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/borsa-istanbul-rekor-uzerine-rekor-kirarken-tarihi-zirveyi-yenileyerek-1995737"
       },
-      "konular": [],
+      "konular": [
+        "Borsa İstanbul"
+      ],
       "yayin": "2022-10-24T16:07:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Borsa İstanbul endeksinde yeni bir rekor seviye kaydedildi",
+      "ozet": "Haftanın ilk işlem gününe yükseliş eğilimiyle giriş yapan Borsa İstanbul, gün içerisinde değer kazanmaya devam etti. Endeks 4001 puan seviyesine ulaşarak kendi tarihinin en yüksek noktasına erişti ve yeni bir zirve belirledi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2020-haber-1775769",
@@ -1730,10 +1399,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ali-koc-fenerbahce-sampiyon-tuzagina-dusmeyecegiz-1775769"
       },
-      "konular": [],
+      "konular": [
+        "Ali Koç",
+        "Fenerbahçe (futbol takımı)"
+      ],
       "yayin": "2020-10-24T13:29:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Fenerbahçe Başkanı Ali Koç Yüksek Divan Kurulu Toplantısında Konuştu",
+      "ozet": "Fenerbahçe Spor Kulübü Başkanı Ali Koç, çevrim içi ortamda gerçekleştirilen Yüksek Divan Kurulu Toplantısı'na katıldı. Toplantı sırasında kulübün gündemine dair değerlendirmelerde bulunan Koç, şampiyonluk hedefleri ve kulübün genel durumu hakkında açıklamalarda bulundu.",
+      "kategori": "Spor"
     },
     {
       "id": "2020-haber-1775720",
@@ -1746,10 +1421,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpli-yavuzyilmaz-cumhurbaskani-karari-8-yillik-kamu-zararinin-ispati-1775720"
       },
-      "konular": [],
+      "konular": [
+        "Zafer Havalimanı",
+        "Deniz Yavuzyılmaz",
+        "Kütahya"
+      ],
       "yayin": "2020-10-24T10:31:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Zafer Havalimanı için alınan yeni karar kamu zararı tartışması yarattı",
+      "ozet": "Kütahya Zafer Havalimanı'nda uluslararası yolcular için taahhüt edilen garanti rakamlarının çok küçük bir kısmına ulaşılabildiği belirtildi. Konuyla ilgili açıklama yapan milletvekili Deniz Yavuzyılmaz, havalimanı için yayımlanan Cumhurbaşkanı kararının sekiz yıllık süreçteki kamu zararını gözler önüne serdiğini ifade etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2018-haber-1120993",
@@ -1762,10 +1444,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/uc-ulkeden-suriye-anayasa-komitesi-anlasmasi-1120993"
       },
-      "konular": [],
+      "konular": [
+        "Suriye İç Savaşı",
+        "Astana süreci",
+        "Birleşmiş Milletler"
+      ],
       "yayin": "2018-10-24T22:01:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Suriye anayasa komitesi için üçlü mutabakat sağlandı",
+      "ozet": "Türkiye, Rusya ve İran temsilcileri, Suriye'de yeni bir anayasa komitesi oluşturulması amacıyla yürütülen faaliyetleri hızlandırma kararı aldı. Söz konusu çalışma, Birleşmiş Milletler Suriye Özel Temsilciliği ile eşgüdüm içerisinde gerçekleştirilecek. Taraflar, bu sürecin ilerletilmesi konusunda uzlaşmaya vardı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "genislik": 704,
+        "yukseklik": 499,
+        "orijinalGenislik": 704,
+        "yazar": "jan Sefti",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "aciklama": "The phrase \"Down with Bashar\" (yaskut Baššār), during the Syrian Uprising 2011.",
+        "konu": "Suriye İç Savaşı"
+      }
     },
     {
       "id": "2018-haber-1121040",
@@ -1778,10 +1480,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tbmmde-chp-ve-mhp-milletvekilleri-arasinda-arbede-yasandi-1121040"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Türk Silahlı Kuvvetlerini Güçlendirme Vakfı"
+      ],
       "yayin": "2018-10-24T23:04:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Meclis oturumunda milletvekilleri arasında gerginlik yaşandı",
+      "ozet": "Türk Silahlı Kuvvetlerini Güçlendirme Vakfı Kanunu ile ilgili teklifin görüşüldüğü sırada Cumhuriyet Halk Partisi ve Milliyetçi Hareket Partisi milletvekilleri arasında tartışma çıktı. Yaşanan anlaşmazlık kısa sürede arbedeye dönüştü. Gergin geçen oturumun ardından söz konusu kanun teklifi meclis genel kurulunda onaylanarak kabul edildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2017-haber-851643",
@@ -1794,10 +1502,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/mardinde-catisma-sokaga-cikma-yasagi-ilan-edildi-851643"
       },
-      "konular": [],
+      "konular": [
+        "Ömerli",
+        "Mardin",
+        "PKK"
+      ],
       "yayin": "2017-10-24T13:55:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Mardin Ömerli kırsalında operasyon ve sokağa çıkma yasağı",
+      "ozet": "Mardin ilinin Ömerli ilçesi kırsalında güvenlik güçleri ile PKK mensupları arasında yaşanan çatışma sonucunda iki asker yaralandı. Bölgede yürütülen operasyonların güvenli bir şekilde sürdürülebilmesi amacıyla valilik tarafından on iki mahallede sokağa çıkma yasağı kararı alındı.",
+      "kategori": "Savaş"
     },
     {
       "id": "2016-haber-620397",
@@ -1810,10 +1525,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/melek-hu-avrupa-sampiyonu-oldu-620397"
       },
-      "konular": [],
+      "konular": [
+        "Melek Hu",
+        "Avrupa Masa Tenisi Şampiyonası",
+        "Masa tenisi"
+      ],
       "yayin": "2016-10-24T09:43:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Melek Hu Avrupa Masa Tenisi Şampiyonası'nda altın madalya kazandı",
+      "ozet": "Avrupa Masa Tenisi Şampiyonası tek kadınlar kategorisinde final mücadelesi gerçekleşti. Milli sporcu Melek Hu, Portekizli rakibi Yu Fu ile karşılaştığı final maçını kazanarak şampiyonluk unvanına ulaştı. Bu başarıyla birlikte milli sporcu turnuvayı zirvede tamamladı.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Mondial_Ping_-Women%27s_Singles_-_Quarterfinal_-_Melek_Hu-Liu_Shiwen_-_26_%28cropped%29.jpg/960px-Mondial_Ping_-Women%27s_Singles_-_Quarterfinal_-_Melek_Hu-Liu_Shiwen_-_26_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Mondial_Ping_-Women%27s_Singles_-_Quarterfinal_-_Melek_Hu-Liu_Shiwen_-_26_%28cropped%29.jpg/500px-Mondial_Ping_-Women%27s_Singles_-_Quarterfinal_-_Melek_Hu-Liu_Shiwen_-_26_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1056,
+        "orijinalGenislik": 1295,
+        "yazar": "Pierre-Yves Beaudouin",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mondial_Ping_-Women%27s_Singles_-_Quarterfinal_-_Melek_Hu-Liu_Shiwen_-_26_(cropped).jpg",
+        "aciklama": "2013 World Table Tennis Championships, Paris. Women's Singles Quarterfinal. Melek Hu vs Liu Shiwen.",
+        "konu": "Melek Hu"
+      }
     },
     {
       "id": "2016-haber-620817",
@@ -1826,10 +1561,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ceza-yargilamasinda-degisiklik-tasarisi-meclise-sunuldu-620817"
       },
-      "konular": [],
+      "konular": [
+        "Türk Ceza Kanunu",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2016-10-24T21:45:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Ceza kanunlarında değişiklik öngören tasarı Meclis gündemine taşındı",
+      "ozet": "Türk Ceza Kanunu ile Ceza Muhakemeleri Kanunu üzerinde düzenlemeler yapılması amacıyla hazırlanan kanun tasarısı Türkiye Büyük Millet Meclisi'ne iletildi. Söz konusu tasarı kapsamında çocuğa yönelik cinsel istismar, vücut dokunulmazlığının ihlali, nitelikli dolandırıcılık ve patlayıcı madde bulundurma gibi suçlar için öngörülen cezaların alt sınırlarının artırılması hedeflendi. Yapılan bu yasal girişimle mevcut ceza sistemindeki yaptırımların ağırlaştırılması amaçlandı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/T%C3%BCrk_Ceza_Kanunu.pdf/page1-960px-T%C3%BCrk_Ceza_Kanunu.pdf.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/T%C3%BCrk_Ceza_Kanunu.pdf/page1-960px-T%C3%BCrk_Ceza_Kanunu.pdf.jpg",
+        "genislik": 960,
+        "yukseklik": 1357,
+        "orijinalGenislik": 1239,
+        "yazar": "Türkiye Cumhuriyeti Cumhurbaşkanlığı",
+        "lisans": "Copyrighted free use",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:T%C3%BCrk_Ceza_Kanunu.pdf",
+        "aciklama": "Türk Ceza Kanunu",
+        "konu": "Türk Ceza Kanunu"
+      }
     },
     {
       "id": "2015-haber-393963",
@@ -1842,10 +1596,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tarihin-en-buyuk-kasirgasi-321-kilometre-hiza-ulasti-393963"
       },
-      "konular": [],
+      "konular": [
+        "Patricia Kasırgası",
+        "Meksika",
+        "Kasırga"
+      ],
       "yayin": "2015-10-24T11:42:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Patricia Kasırgası Meksika Kıyılarına Ulaştı",
+      "ozet": "Kayıtlara geçen en şiddetli fırtına olarak tanımlanan Patricia Kasırgası, saatte 321 kilometre hıza ulaşarak Meksika'nın Pasifik kıyılarına yaklaştı. Bölgeyi etkisi altına alması beklenen bu doğa olayı, hızıyla tarihteki en güçlü kasırgalar arasında yerini aldı.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg/960px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg/500px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 5568,
+        "yazar": "NASA/Goddard Space Flight Center",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210).jpg",
+        "aciklama": "iss056e162175 (Sept. 12, 2018) --- Cameras outside the International Space Station captured a stark and sobering view of Hurricane Florence the morning of Sept. 12 as it churned across the Atlantic in",
+        "konu": "Kasırga"
+      }
     },
     {
       "id": "2015-haber-393959",
@@ -1858,10 +1632,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-yardimcisini-tasiyan-ucak-corluya-zorunlu-inis-yapti-393959"
       },
-      "konular": [],
+      "konular": [
+        "Soraya Sáenz de Santamaría",
+        "Çorlu Havalimanı",
+        "Tekirdağ"
+      ],
       "yayin": "2015-10-24T11:41:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İspanya Başbakan Yardımcısını taşıyan uçak Çorlu'ya acil iniş gerçekleştirdi",
+      "ozet": "İspanya Başbakan Yardımcısı ve Hükümet Sözcüsü Soraya Saenz de Santamaria'yı taşıyan hava aracı, uçuş sırasında meydana gelen motor arızası sebebiyle rotasını değiştirdi. Uçak, Tekirdağ'da bulunan Çorlu Havalimanı'na güvenli bir şekilde zorunlu iniş yaptı.",
+      "kategori": "Ulaşım"
     },
     {
       "id": "2014-haber-133771",
@@ -1874,10 +1655,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/besiktas-galatasarayin-rekorunu-elinden-aldi-133771"
       },
-      "konular": [],
+      "konular": [
+        "Beşiktaş (futbol takımı)",
+        "UEFA Avrupa Ligi",
+        "FK Partizan"
+      ],
       "yayin": "2014-10-24T12:35:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Beşiktaş Avrupa kupalarında farklı galibiyet rekorunu geliştirdi",
+      "ozet": "UEFA Avrupa Ligi mücadelesinde Partizan ile karşılaşan Beşiktaş, rakibini dört golle mağlup ederek sahadan galibiyetle ayrıldı. Bu sonuçla birlikte siyah beyazlı ekip, daha önce Galatasaray'a ait olan Avrupa kupalarındaki en farklı skorla kazanma rekorunu kendi hanesine yazdırdı.",
+      "kategori": "Spor"
     },
     {
       "id": "2014-haber-133707",
@@ -1890,10 +1678,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/cumhurbaskanligi-ve-basbakanlik-arasinda-ilk-kriz-133707"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyeti Cumhurbaşkanlığı",
+        "Türkiye Cumhuriyeti Başbakanlığı"
+      ],
       "yayin": "2014-10-24T09:57:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanlığı ve Başbakanlık Arasında İlk Anlaşmazlık Yaşandı",
+      "ozet": "Cumhurbaşkanlığı makamı ile Başbakanlık kurumu arasında ilk kez bir fikir ayrılığı meydana geldi. Söz konusu gerginliğin temelinde ise danışmanlar arasında yaşanan köstebek tartışması yer aldı. İki kurum arasındaki bu gelişme, dönemin idari gündeminde öne çıkan konular arasında yer buldu.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2013-haber-4215",
@@ -1906,10 +1701,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/mujdat-gezen-bu-karar-fasizmin-acik-sekli-4215"
       },
-      "konular": [],
+      "konular": [
+        "Müjdat Gezen",
+        "Tiyatro",
+        "Kadıköy"
+      ],
       "yayin": "2013-10-24T11:29:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Müjdat Gezen Kadıköy'deki Tiyatrosunda Gündemi Değerlendirdi",
+      "ozet": "Tiyatro ve sinema sanatçısı Müjdat Gezen, Kadıköy'de bulunan kültür merkezinde güncel gelişmelere dair açıklamalarda bulundu. Sanatçı, mevcut durumu eleştirerek kendi dünya görüşü ve tiyatro çalışmaları hakkında bilgiler paylaştı.",
+      "kategori": "Sanat"
     },
     {
       "id": "2013-haber-4245",
@@ -1922,10 +1724,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/aziz-yildirim-ali-koctan-baskasini-desteklemem-4245"
       },
-      "konular": [],
+      "konular": [
+        "Aziz Yıldırım",
+        "Ali Koç",
+        "Fenerbahçe"
+      ],
       "yayin": "2013-10-24T17:40:00+03:00",
       "puan": 2,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Aziz Yıldırım Seçimli Genel Kurul Hakkında Açıklamalarda Bulundu",
+      "ozet": "Fenerbahçe Kulübü Başkanı Aziz Yıldırım, yaklaşan seçimli genel kurul süreciyle ilgili değerlendirmeler yaptı. Yıldırım, adaylık sürecinde kendisi dışında yalnızca Ali Koç ismine destek verebileceğini ifade etti. Ayrıca kulüp başkanı, devam eden hukuki süreç ve Yargıtay kararı ile ilgili görüşlerini de kamuoyuyla paylaştı.",
+      "kategori": "Spor"
     },
     {
       "id": "2012-haber-378856",
@@ -1938,10 +1747,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/savcilik-basbakanliktan-izin-istedi-378856"
       },
-      "konular": [],
+      "konular": [
+        "Milli İstihbarat Teşkilatı",
+        "İstanbul Cumhuriyet Başsavcılığı",
+        "Soruşturma"
+      ],
       "yayin": "2012-10-24T15:45:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "MİT görevlileri hakkında soruşturma talebi",
+      "ozet": "İstanbul Cumhuriyet Başsavcılığı, bazı gazetecilerin de bulunduğu dokuz kişinin sahte kimlik bilgileriyle mahkeme kararı alınarak dinlendiği iddiası üzerine harekete geçti. Söz konusu dinleme faaliyetlerinde yer aldığı öne sürülen MİT mensupları hakkında yasal süreç başlatmak isteyen savcılık, bu amaçla Başbakanlık makamına başvuruda bulundu.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2012-haber-378838",
@@ -1954,10 +1771,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ozalin-mezari-yeniden-ziyarete-acildi-378838"
       },
-      "konular": [],
+      "konular": [
+        "Turgut Özal",
+        "Anıt Kabir"
+      ],
       "yayin": "2012-10-24T14:43:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Turgut Özal'ın Anıt Mezarı Ziyaretçilerini Kabul Etmeye Başladı",
+      "ozet": "Sekizinci Cumhurbaşkanı Turgut Özal'ın ebedi istirahatgahında gerçekleştirilen yenileme çalışmaları tamamlandı. Yapılan düzenlemelerin ardından anıt mezar, Kurban Bayramı öncesinde vatandaşların ziyaretine tekrar açıldı.",
+      "kategori": "Toplum",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
+        "genislik": 511,
+        "yukseklik": 659,
+        "orijinalGenislik": 511,
+        "yazar": "European Communities / Christian Lambiotte",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
+        "aciklama": "Turgut Özal, Turkish Prime Minister",
+        "konu": "Turgut Özal"
+      }
     },
     {
       "id": "2011-haber-293080",
@@ -1970,10 +1806,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kapsalin-istifasi-kabul-edildi-293080"
       },
-      "konular": [],
+      "konular": [
+        "Karşıyaka SK",
+        "Reha Kapsal",
+        "1. Lig"
+      ],
       "yayin": "2011-10-24T20:29:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Karşıyaka teknik direktörü Reha Kapsal görevinden ayrıldı",
+      "ozet": "Bank Asya 1. Lig takımlarından Karşıyaka bünyesinde görev yapan teknik direktör Reha Kapsal, kulüp yönetimine sunduğu istifa dilekçesiyle görevini bıraktı. Yönetim kurulu tarafından yapılan değerlendirme sonucunda deneyimli çalıştırıcının ayrılma talebi uygun görülerek kabul edildi.",
+      "kategori": "Spor"
     },
     {
       "id": "2011-haber-293050",
@@ -1986,10 +1829,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/deprem-yarin-tbmm-gundemine-geliyor-293050"
       },
-      "konular": [],
+      "konular": [
+        "2011 Van depremi",
+        "Türkiye Büyük Millet Meclisi",
+        "Van"
+      ],
       "yayin": "2011-10-24T17:04:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Van depremi Türkiye Büyük Millet Meclisi gündemine taşınıyor",
+      "ozet": "Van ilinde meydana gelen şiddetli sarsıntının ardından konu Türkiye Büyük Millet Meclisi Genel Kurulu'nda görüşülmeye başlandı. Milletvekilleri bölgedeki durumu ve atılacak adımları değerlendirmek üzere bir araya geldi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/960px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/500px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 2560,
+        "yazar": "Mevlüt Kılıç",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ho%C5%9Fap_Kalesi_(Van,_T%C3%BCrkiye).JPG",
+        "aciklama": "Hoşap Kalesi (Van, Türkiye)",
+        "konu": "Van"
+      }
     }
   ],
   "haberYillari": [

@@ -9,9 +9,9 @@
       "konular": [
         "Posta ve Telgraf Nezâreti"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Osmanlı'da Modern Posta Hizmetlerinin Başlangıcı",
+      "ozet": "Osmanlı İmparatorluğu'nda haberleşme ağını düzenli bir yapıya kavuşturmak amacıyla 23 Ekim 1840 tarihinde Posta Nezareti kuruldu. Bu adım, imparatorluğun modernleşme çabalarının bir parçası olarak posta hizmetlerinin merkezi bir otorite tarafından yönetilmesini sağladı. Başlangıçta sadece posta hizmetlerine odaklanan bu kurum, ilerleyen yıllarda telgraf teknolojisinin gelişmesiyle birlikte kapsamını genişletti. 1855 yılında Telgraf Nezareti'nin kurulmasının ardından, 1871 yılında her iki birim birleştirilerek Posta ve Telgraf Nazırlığı adını aldı.\n\nKurum, zaman içerisinde imparatorluğun haberleşme altyapısının temel taşı haline geldi. Özellikle II. Abdülhamid döneminde kurumun işleyişi, siyasi sansür ve denetim mekanizmalarıyla da anılır hale gelmiş, Avrupa'dan gelen yayınların kontrolü gibi görevler üstlenmiştir. 1909 yılında mimar Vedat Tek tarafından tasarlanan ve günümüzde Büyük Postane olarak bilinen görkemli binasına taşınan kurum, Osmanlı'nın son dönemlerinde Talat Paşa gibi önemli isimlerin yönetimine girmiştir. 1908'de II. Meşrutiyet'in ilanıyla birlikte idari yapısında değişiklikler yaşayan teşkilat, modern Türkiye'nin posta ve haberleşme sisteminin de tarihsel temelini oluşturmuştur.",
+      "kategori": "Toplum",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/%C4%B0stanbul_Sirkeci_B%C3%BCy%C3%BCk_Postane.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/%C4%B0stanbul_Sirkeci_B%C3%BCy%C3%BCk_Postane.jpg",
@@ -25,7 +25,8 @@
         "aciklama": "Büyük Postane, Sirkeci PTT Merkezi İstanbul'un Fatih ilçesindeki Sirkeci semtinde yer alan Türkiye'nin en büyük postane binasıdır.",
         "konu": "Posta ve Telgraf Nezâreti"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1853-kirim-savasi-basladi",
@@ -34,9 +35,9 @@
       "konular": [
         "Kırım Savaşı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Kırım Savaşı'nın Başlaması ve Avrupa'daki Etkileri",
+      "ozet": "Osmanlı Devleti ile Rusya İmparatorluğu arasında 1853 yılının Ekim ayında başlayan Kırım Savaşı, dönemin küresel güç dengelerini kökten değiştiren önemli bir çatışma süreci olmuştur. Savaşın temelinde, Osmanlı topraklarında yaşayan Hristiyan toplulukların hakları üzerinden yürütülen diplomatik gerilimler ve özellikle Kutsal Yerler Meselesi yatmaktaydı. Rusya'nın bölgedeki nüfuzunu artırma çabaları, Osmanlı Devleti'nin egemenlik haklarını doğrudan tehdit eder hale gelmişti. Bu durum, bölgedeki statükonun bozulmasından endişe eden diğer Avrupa devletlerini de harekete geçirdi. Savaşın ilerleyen aşamalarında Birleşik Krallık, Fransa ve Piyemonte-Sardinya'nın Osmanlı Devleti'nin yanında yer almasıyla çatışma, yerel bir meseleden çıkıp uluslararası bir boyut kazandı. Avrupalı müttefiklerin temel amacı, Rusya'nın Akdeniz ve Avrupa üzerindeki genişleme stratejilerini durdurmak ve imparatorluğun gücünü dengelemekti. Yaklaşık üç yıl süren ve büyük yıkımlara yol açan bu savaş, müttefik güçlerin zaferiyle sonuçlanarak Rusya'nın bölgedeki yayılmacı politikalarına geçici bir süreliğine set çekmiş oldu. Kırım Savaşı, modern savaş tekniklerinin ve lojistik yöntemlerin kullanıldığı ilk büyük çatışmalardan biri olarak tarihe geçti.",
+      "kategori": "Savaş",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Malakhov1.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Malakhov1.jpg",
@@ -50,7 +51,8 @@
         "aciklama": null,
         "konu": "Kırım Savaşı"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1911-trablusgarp-savasinda-italyan-yuzbasi-carlo-piazza-bingazideki",
@@ -61,9 +63,9 @@
         "Carlo Piazza",
         "Osmanlı İmparatorluğu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Havacılık Tarihinde Bir İlk: Askeri Keşif Uçuşu",
+      "ozet": "Trablusgarp Savaşı'nın devam ettiği 23 Ekim 1911 tarihinde, İtalyan Yüzbaşı Carlo Piazza, Osmanlı İmparatorluğu'na ait Bingazi mevzileri üzerinde bir uçuş gerçekleştirerek havacılık tarihinde yeni bir dönemi başlattı. Bu uçuş, bir uçağın askeri amaçlarla keşif faaliyetinde kullanıldığı ilk örnek olarak kayıtlara geçti. Piazza, bu görevi sırasında sadece gözlem yapmakla kalmadı, aynı zamanda tarihteki ilk askeri hava fotoğrafını da çekerek modern savaş teknolojisinin temellerinden birini attı.\n\nBu olay, hava araçlarının sadece ulaşım veya gösteri amaçlı değil, stratejik birer askeri enstrüman olarak kullanılabileceğini kanıtladı. Trablusgarp Savaşı, Osmanlı Devleti ile İtalya Krallığı arasında Kuzey Afrika'nın kontrolü için yürütülen bir çatışma olmasının yanı sıra, askeri teknolojilerin sahada ilk kez denendiği bir laboratuvar işlevi de gördü. Piazza'nın gerçekleştirdiği bu keşif uçuşu, ilerleyen yıllarda tüm dünya ordularının hava kuvvetlerini yapılandırma biçimini kökten değiştirecek olan hava istihbaratının başlangıcı kabul edilir.",
+      "kategori": "Savaş",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Italo-Turkish_war_collage.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Italo-Turkish_war_collage.jpg",
@@ -77,7 +79,8 @@
         "aciklama": "Collage of the Italo-Turkish War",
         "konu": "Trablusgarp Savaşı"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1912-birinci-balkan-savasinda-osmanli-ve-sirp-ordulari",
@@ -88,23 +91,12 @@
         "Osmanlı İmparatorluğu",
         "Sırplar"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Occupied_territories_in_the_Balkans%2C_end_of_April_1913.png/960px-Occupied_territories_in_the_Balkans%2C_end_of_April_1913.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Occupied_territories_in_the_Balkans%2C_end_of_April_1913.png/500px-Occupied_territories_in_the_Balkans%2C_end_of_April_1913.png",
-        "genislik": 960,
-        "yukseklik": 959,
-        "orijinalGenislik": 1015,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Occupied_territories_in_the_Balkans,_end_of_April_1913.png",
-        "aciklama": "Occupied territories in the Balkans, end of April 1913",
-        "konu": "Birinci Balkan Savaşı"
-      },
-      "durum": "bekliyor"
+      "baslik": "Balkan Savaşları'nın Dönüm Noktası: Kumanova Muharebesi",
+      "ozet": "Birinci Balkan Savaşı'nın ilk günlerinde, Osmanlı İmparatorluğu ile Sırbistan Krallığı kuvvetleri arasında Kumanova yakınlarında şiddetli bir muharebe patlak verdi. Balkan Birliği'nin Osmanlı Devleti'ne karşı başlattığı bu geniş çaplı saldırıların bir parçası olan çatışma, bölgedeki askeri dengelerin değişmesinde önemli bir rol oynadı. Osmanlı ordusu, stratejik bir noktada gerçekleşen bu muharebede Sırp güçlerine karşı koymaya çalıştı.\n\nKumanova Muharebesi, Osmanlı Devleti'nin Balkanlar'daki varlığını sarsan ve bölgedeki toprak kayıplarını hızlandıran bir dönüm noktası olarak kabul edilir. Savaşın sonucunda Osmanlı ordusunun geri çekilmek zorunda kalması, Balkan devletlerinin ilerleyişini kolaylaştırdı ve Midye-Enez hattına kadar olan geniş bir coğrafyanın kaybedilmesine giden süreci tetikledi. Bu muharebe, imparatorluğun Balkanlar'daki hakimiyetinin sona ermesinde ve bölgenin siyasi haritasının yeniden çizilmesinde belirleyici bir askeri gelişme olmuştur.",
+      "kategori": "Savaş",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1915-new-yorkta-25-30-000-kadin-oy-haklari",
@@ -113,23 +105,12 @@
       "konular": [
         "New York"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/500px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 8207,
-        "yazar": "Dllu",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg",
-        "aciklama": "View of the Empire State Building in New York City from the Top of the Rock at 30 Rockefeller Plaza during sunset. The tower was illuminated in green in honor of Climate Week NYC.[1]",
-        "konu": "New York"
-      },
-      "durum": "bekliyor"
+      "baslik": "New York'ta Kadınların Büyük Oy Hakkı Yürüyüşü",
+      "ozet": "Amerika Birleşik Devletleri'nde kadınların siyasi haklarına kavuşması için yürütülen mücadelenin en önemli dönemeçlerinden biri, 23 Ekim 1915 tarihinde New York sokaklarında yaşandı. Yaklaşık 30 bin kadının katılımıyla gerçekleşen bu görkemli yürüyüş, kadınların seçme ve seçilme hakkına yönelik toplumsal talebin ne kadar güçlü olduğunu gözler önüne serdi. Beşinci Cadde boyunca ilerleyen kalabalık, sadece bir protesto gerçekleştirmekle kalmadı, aynı zamanda kadınların toplumsal ve siyasi hayattaki görünürlüğünü de artırdı.\n\nBu eylem, o dönemde Amerika genelinde ivme kazanan kadın hakları hareketinin en somut örneklerinden biri olarak tarihe geçti. Kadınların siyasi sistemin bir parçası olma konusundaki kararlılıkları, yerel yönetimler üzerindeki baskıyı artırırken, ulusal düzeyde yürütülen anayasal değişim taleplerini de besledi. Bu tür büyük ölçekli gösteriler, dönemin siyasi iklimini değiştirerek kadınların oy hakkını elde etme sürecinde kritik bir rol oynadı ve sonraki yıllarda kazanılacak olan yasal hakların temelini oluşturdu.",
+      "kategori": "Toplum",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1926-sovyetler-birliginde-leon-trocki-ve-grigoriy-zinoviyev",
@@ -139,9 +120,9 @@
         "Sovyetler Birliği",
         "Leon Troçki"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Sovyet Yönetiminde Büyük Tasfiye ve Troçki'nin Düşüşü",
+      "ozet": "Sovyetler Birliği'nde 1926 yılının Ekim ayında yaşanan bu gelişme, Bolşevik Devrimi'nin mimarlarından olan Leon Troçki ve Grigoriy Zinoviyev'in iktidar üzerindeki etkilerinin sistematik olarak kırılmaya başlandığı kritik bir dönüm noktasıydı. Komünist Partisi Merkez Komitesi'nden ihraç edilmeleri, Stalin'in parti içindeki rakiplerini tasfiye etme stratejisinin bir parçası olarak değerlendirildi. Bu karar, Sovyet siyasetinde tek adam yönetiminin güçlenmesine ve muhalif seslerin yönetim kademelerinden tamamen uzaklaştırılmasına giden sürecin önünü açtı.\n\nEkim Devrimi ve Rus İç Savaşı'ndaki rolleriyle Sovyet devletinin kuruluşunda temel taşlardan biri olan Troçki, Lenin'in 1924'teki ölümünün ardından parti içindeki ideolojik ayrılıkların merkezinde yer alıyordu. Zinoviyev ile birlikte oluşturdukları Sol Muhalefet, Stalin'in izlediği politikalara karşı çıkıyordu. Ancak bu ihraç kararı, Troçki'nin siyasi kariyerindeki çöküşün başlangıcı oldu. Takip eden yıllarda partiden tamamen dışlanan Troçki, önce ülke içinde sürgüne gönderilecek, ardından 1929'da Sovyetler Birliği'nden tamamen sınır dışı edilecekti.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg/960px-Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg/500px-Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg",
@@ -155,7 +136,8 @@
         "aciklama": "Leon Trotsky in 1918",
         "konu": "Leon Troçki"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1929-new-york-borsasinda-hisse-senetlerinin-degerindeki-surekli",
@@ -165,23 +147,12 @@
         "New York",
         "1929 Dünya Ekonomik Bunalımı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Lange-MigrantMother02.jpg/960px-Lange-MigrantMother02.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Lange-MigrantMother02.jpg/500px-Lange-MigrantMother02.jpg",
-        "genislik": 960,
-        "yukseklik": 1248,
-        "orijinalGenislik": 6205,
-        "yazar": "Dorothea Lange",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Lange-MigrantMother02.jpg",
-        "aciklama": "Portrait shows Florence Thompson with several of her children in a photograph known as \"Migrant Mother\". The Library of Congress caption reads: \"Destitute pea pickers in California. Mother of seven ch",
-        "konu": "1929 Dünya Ekonomik Bunalımı"
-      },
-      "durum": "bekliyor"
+      "baslik": "Büyük Buhran'ın Başlangıcı: New York Borsası'nda Panik",
+      "ozet": "1929 yılının Ekim ayında New York Borsası'nda yaşanan sert düşüşler, sadece Amerika Birleşik Devletleri'ni değil, tüm dünyayı derinden sarsacak olan Büyük Buhran'ın fitilini ateşledi. Borsadaki bu ani değer kaybı, yatırımcıların güvenini sarsarak finansal piyasalarda büyük bir panik havası yarattı. Bu olay, yıllar sürecek olan ve küresel ekonomiyi felç eden ekonomik çöküşün başlangıç noktası olarak kabul edilmektedir.\n\nBüyük Buhran, sanayileşmiş ülkeler başta olmak üzere dünya genelinde yıkıcı sonuçlar doğurdu. İşsizlik oranları hızla yükselirken, dünya ticareti ve toplam üretim kapasitesi ciddi oranda azaldı. Milyonlarca insan işsiz kalarak yoksulluğa sürüklendi; inşaat ve madencilik gibi temel sektörler durma noktasına geldi. Tarım ürünlerindeki fiyat düşüşleri ise kırsal kesimi ve çiftçileri ağır bir ekonomik çıkmaza soktu. 1930'lu yıllar boyunca etkisini sürdüren bu kriz, modern dünya tarihinin en büyük ekonomik felaketlerinden biri olarak kayıtlara geçti.",
+      "kategori": "Ekonomi",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1946-birlesmis-milletler-ilk-genel-toplantisini-new-yorkta",
@@ -204,9 +175,9 @@
       "konular": [
         "Macar Devrimi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Macaristan'da Sovyet Yönetimine Karşı Büyük Halk Ayaklanması",
+      "ozet": "Macaristan'da 23 Ekim 1956 tarihinde Budapeşte'de öğrencilerin öncülüğünde başlayan gösteriler, kısa sürede tüm ülkeye yayılarak Sovyetler Birliği destekli stalinist yönetime karşı bir halk devrimine dönüştü. Halk, ülkede daha fazla özgürlük, bağımsızlık ve Sovyet birliklerinin Macaristan topraklarından çekilmesini talep ediyordu. Bu hareket, uzun süredir devam eden siyasi baskılara ve ekonomik sıkıntılara karşı biriken toplumsal tepkinin bir dışavurumu niteliğindeydi.\n\nAyaklanmanın arka planında, Stalin'in ölümünün ardından SSCB içinde yaşanan değişim rüzgarları ve Macaristan'daki yönetim istikrarsızlığı etkili oldu. Daha önce reformist adımlar atan İmre Nagy'nin görevden uzaklaştırılması ve yerine katı tutumlu isimlerin getirilmesi, halktaki değişim beklentisini daha da körüklemişti. Polonya'daki benzer hareketlenmelerden de cesaret alan Macar halkı, Sovyet etkisinden kurtulma arzusuyla sokaklara döküldü. Bu olay, Soğuk Savaş döneminde Doğu Bloku içindeki otoriteye karşı gerçekleştirilen en önemli başkaldırılardan biri olarak tarihe geçti.",
+      "kategori": "Savaş",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Sz%C3%A9tl%C5%91tt_harckocsi_a_M%C3%B3ricz_Zsigmond_k%C3%B6rt%C3%A9ren.jpg/960px-Sz%C3%A9tl%C5%91tt_harckocsi_a_M%C3%B3ricz_Zsigmond_k%C3%B6rt%C3%A9ren.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Sz%C3%A9tl%C5%91tt_harckocsi_a_M%C3%B3ricz_Zsigmond_k%C3%B6rt%C3%A9ren.jpg/500px-Sz%C3%A9tl%C5%91tt_harckocsi_a_M%C3%B3ricz_Zsigmond_k%C3%B6rt%C3%A9ren.jpg",
@@ -220,7 +191,8 @@
         "aciklama": "A destroyed T-34-85 tank at the Móricz Zsigmond Square",
         "konu": "Macar Devrimi"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1959-beyrutta-yapilan-iii-akdeniz-oyunlari-sona-erdi",
@@ -231,23 +203,12 @@
         "1959 Akdeniz Oyunları",
         "Türkiye"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Platinum_Tower_3_-_Beirut_-_Nabil_Gholam_Achitects.jpg/960px-Platinum_Tower_3_-_Beirut_-_Nabil_Gholam_Achitects.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Platinum_Tower_3_-_Beirut_-_Nabil_Gholam_Achitects.jpg/500px-Platinum_Tower_3_-_Beirut_-_Nabil_Gholam_Achitects.jpg",
-        "genislik": 960,
-        "yukseklik": 526,
-        "orijinalGenislik": 3000,
-        "yazar": "Richardsaad75",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Platinum_Tower_3_-_Beirut_-_Nabil_Gholam_Achitects.jpg",
-        "aciklama": "Platinum Tower - Beirut - Nabil Gholam Achitects",
-        "konu": "Beyrut"
-      },
-      "durum": "bekliyor"
+      "baslik": "Beyrut'ta Düzenlenen III. Akdeniz Oyunları Sona Erdi",
+      "ozet": "Lübnan'ın başkenti Beyrut'ta 11 Ekim'de başlayan III. Akdeniz Oyunları, 23 Ekim 1959 tarihinde düzenlenen kapanış töreniyle resmen tamamlandı. Akdeniz havzasındaki ülkeleri spor çatısı altında bir araya getiren bu organizasyon, Avrupa ve Afrika'nın ardından Asya kıtasında düzenlenen ilk oyun olma özelliğini taşıyordu. Toplam 11 ülkeden yaklaşık 800 sporcunun katılımıyla gerçekleşen etkinlik, bölgedeki spor diplomasisi açısından önemli bir dönüm noktası olarak kabul edildi.\n\nTürkiye, oyunlarda özellikle güreş branşındaki üstün performansıyla dikkat çekti. Serbest güreş millî takımı, katıldığı 8 sıkletin tamamında birincilik elde ederek büyük bir başarıya imza attı. Genel klasmanda ise Türkiye; 13 altın, 8 gümüş ve 1 bronz madalya kazanarak oyunları başarıyla tamamladı. Madalya sıralamasında Fransa zirvede yer alırken, Birleşik Arap Cumhuriyeti ikinci, Türkiye ise üçüncü sırada yer aldı. Bu sonuçlar, Türk sporunun o dönemdeki uluslararası rekabet gücünü ve özellikle güreş alanındaki köklü geleneğini bir kez daha kanıtlamış oldu.",
+      "kategori": "Spor",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1960-genel-nufus-sayimi-turkiyenin-nufusu-27-754",
@@ -271,51 +232,24 @@
         "Adalet Partisi (1961-1981)",
         "Süleyman Demirel"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Süleyman Demirel'in İlk Başbakanlık Görevi",
+      "ozet": "1965 genel seçimlerinde Adalet Partisi'nin büyük bir başarı elde etmesiyle birlikte, Türk siyasetinde yeni bir dönem başladı. Cumhurbaşkanı Cemal Gürsel, seçimlerden birinci parti olarak çıkan Adalet Partisi'nin Genel Başkanı Süleyman Demirel'i Çankaya Köşkü'ne davet ederek kendisine hükûmeti kurma görevini tevdi etti. Bu gelişme, 1964 yılında genel başkanlık koltuğuna oturan Demirel'in, siyasi kariyerindeki en önemli dönüm noktalarından biri oldu.\n\nSüleyman Demirel, bu görevlendirme sonucunda henüz 41 yaşındayken Türkiye'nin en genç başbakanı olarak tarihe geçti. Adalet Partisi'nin iktidara gelişi, Demokrat Parti geleneğinin devamı olarak görülmüş ve geniş halk kitlelerinde büyük bir karşılık bulmuştu. Liberal muhafazakâr çizgideki parti, kalkınmacı ve piyasa odaklı ekonomi politikalarıyla sonraki yıllarda Türk siyasi hayatına damgasını vuracak olan uzun soluklu bir dönemin kapılarını araladı. Demirel'in bu ilk başbakanlığı, aynı zamanda Türk siyasetinde çok partili sistemin yerleştiği ve rekabetin arttığı bir sürecin başlangıcı olarak kabul edilir.",
+      "kategori": "Siyaset",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg/960px-Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg/500px-Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1286,
-        "orijinalGenislik": 1160,
-        "yazar": "THA",
-        "lisans": "CC0",
-        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Cemal_G%C3%BCrsel_(1960)_(cropped).jpg",
-        "aciklama": "Photograph of Cemal Gürsel, fourth President of Turkey.",
-        "konu": "Cemal Gürsel"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg",
+        "genislik": 480,
+        "yukseklik": 636,
+        "orijinalGenislik": 480,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Suleyman_Demirel_1998.jpg",
+        "aciklama": "Turkish President Süleyman Demirel in Ankara on November 6, 1998, during a visit of US Secretary of Defense William Cohen.",
+        "konu": "Süleyman Demirel"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg/960px-Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg/500px-Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1286,
-          "orijinalGenislik": 1160,
-          "yazar": "THA",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Cemal_G%C3%BCrsel_(1960)_(cropped).jpg",
-          "aciklama": "Photograph of Cemal Gürsel, fourth President of Turkey.",
-          "konu": "Cemal Gürsel"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg",
-          "genislik": 480,
-          "yukseklik": 636,
-          "orijinalGenislik": 480,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Suleyman_Demirel_1998.jpg",
-          "aciklama": "Turkish President Süleyman Demirel in Ankara on November 6, 1998, during a visit of US Secretary of Defense William Cohen.",
-          "konu": "Süleyman Demirel"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1972-zonguldakta-iki-ayri-komur-ocaginda-grizu-patlamasinda",
@@ -324,23 +258,12 @@
       "konular": [
         "Zonguldak"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Zonguldak_51.jpg/960px-Zonguldak_51.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Zonguldak_51.jpg/500px-Zonguldak_51.jpg",
-        "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 5333,
-        "yazar": "İncelemeelemani",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Zonguldak_51.jpg",
-        "aciklama": "Zonguldak",
-        "konu": "Zonguldak"
-      },
-      "durum": "bekliyor"
+      "baslik": "Zonguldak Maden Ocaklarında Grizu Faciası",
+      "ozet": "Zonguldak'taki kömür ocaklarında yaşanan bu elim olay, Türkiye'nin madencilik tarihindeki acı kayıtlardan biri olarak yerini aldı. İki farklı ocakta eş zamanlıya yakın bir şekilde meydana gelen grizu patlamaları, yerin altında çalışan işçiler için büyük bir tehlike oluşturdu. Patlamaların şiddetiyle ocaklarda göçükler oluşurken, bölgeye sevk edilen kurtarma ekipleri mahsur kalan işçilere ulaşmak için yoğun bir çaba sarf etti. Olayın ardından yapılan ilk tespitlerde 20 işçinin yaşamını yitirdiği, çok sayıda işçinin ise yaralandığı açıklandı.\n\nTürkiye'nin en zengin taşkömürü yataklarına ev sahipliği yapan Zonguldak, uzun yıllardır madencilik faaliyetlerinin merkezi konumundadır. Ancak yer altındaki zorlu çalışma koşulları ve grizu gibi patlayıcı gazların varlığı, bölgedeki maden ocaklarını her zaman yüksek riskli alanlar haline getirmiştir. Bu facia, madenlerdeki iş güvenliği önlemlerinin ve denetim mekanizmalarının hayati önemini bir kez daha gözler önüne serdi. Yaşanan bu kayıplar, madencilik sektöründe güvenlik standartlarının iyileştirilmesi ve teknolojik altyapının geliştirilmesi gerekliliğini kamuoyunun gündemine taşıyan önemli bir dönüm noktası oldu.",
+      "kategori": "Afet",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1973-abd-baskani-richard-m-nixon-watergate-skandali",
@@ -351,9 +274,9 @@
         "Richard M. Nixon",
         "Watergate skandalı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Watergate Skandalında Dönüm Noktası: Oval Ofis Kayıtları",
+      "ozet": "Amerika Birleşik Devletleri Başkanı Richard Nixon, 1972 yılında Demokratik Ulusal Komite merkezine yapılan baskınla başlayan ve yönetimini derinden sarsan Watergate skandalı sürecinde kritik bir geri adım attı. Nixon, uzun süredir devam eden direncinin ardından, Oval Ofis'te tutulan ve skandalın perde arkasını aydınlatabilecek nitelikteki gizli ses kayıtlarını mahkemeye teslim etmeyi kabul etti. Bu karar, başkanlık yetkilerinin sınırları ve şeffaflık tartışmalarının zirveye ulaştığı bir dönemde alındı.\n\nWatergate skandalı, Nixon yönetiminin yasa dışı dinleme ve baskın olaylarını örtbas etme çabalarıyla büyüyerek anayasal bir krize dönüşmüştü. Ses kayıtlarının varlığının ortaya çıkması, soruşturmanın seyrini tamamen değiştirdi. Kayıtların teslim edilmesi, başkanın olaylardaki doğrudan sorumluluğuna dair somut kanıtların gün yüzüne çıkmasına zemin hazırladı. Bu gelişme, Nixon'ın siyasi geleceğini belirleyen ve nihayetinde istifasına giden sürecin en önemli dönüm noktalarından biri olarak tarihe geçti.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/960px-Richard_Nixon_presidential_portrait_%281%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/500px-Richard_Nixon_presidential_portrait_%281%29.jpg",
@@ -367,35 +290,8 @@
         "aciklama": "Richard Nixon's presidential portrait. Retouch has not been completed yet.",
         "konu": "Richard M. Nixon"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/960px-Richard_Nixon_presidential_portrait_%281%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/500px-Richard_Nixon_presidential_portrait_%281%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 2205,
-          "yazar": "Department of Defense. Department of the Army. Office of the Deputy Chief of Staff for Operations. U.S. Army Audiovisual Center. (ca. 1974 -",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Richard_Nixon_presidential_portrait_(1).jpg",
-          "aciklama": "Richard Nixon's presidential portrait. Retouch has not been completed yet.",
-          "konu": "Richard M. Nixon"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/WatergateFromAir.JPG/960px-WatergateFromAir.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/WatergateFromAir.JPG/500px-WatergateFromAir.JPG",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 1600,
-          "yazar": "Indutiomarus at English Wikipedia",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:WatergateFromAir.JPG",
-          "aciklama": "A photo of the Watergate Complex taken from a DC-9-80 inbound to Washington National Airport on January 8, 2006.",
-          "konu": "Watergate skandalı"
-        }
-      ],
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1981-danisma-meclisi-ilk-toplantisini-yapti",
@@ -430,9 +326,9 @@
       "konular": [
         "Karun Hazinesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
+      "baslik": "Karun Hazinesi'nin Türkiye'ye Dönüşü",
+      "ozet": "MÖ 6. yüzyılda Lidya Kralı Kroisos dönemine ait olan ve paha biçilemez tarihi değer taşıyan Karun Hazinesi, 1960'lı yıllarda Uşak yakınlarındaki tümülüslerden yasa dışı yollarla çıkarılarak yurt dışına kaçırılmıştı. Uzun yıllar boyunca Amerika Birleşik Devletleri'nde bulunan eserlerin Türkiye'ye iadesi için başlatılan hukuki süreç, 1993 yılında olumlu sonuçlandı. Yaklaşık 450 parçadan oluşan bu eşsiz koleksiyon, 23 Ekim 1993 tarihinde Türkiye'ye getirilerek ait olduğu topraklara geri döndü.\n\nLidya uygarlığının zenginliğini ve sanat anlayışını yansıtan bu eserler, Anadolu arkeolojisi açısından büyük bir öneme sahiptir. Hazinenin geri alınması, Türkiye'nin kültürel mirasına sahip çıkma konusundaki kararlılığının bir simgesi haline gelmiştir. Günümüzde Uşak Arkeoloji Müzesi'nde sergilenen bu eserler, hem yerli hem de yabancı ziyaretçiler için Lidya tarihini anlamak adına en önemli kaynaklardan biri olma özelliğini korumaktadır.",
+      "kategori": "Sanat",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Jug_from_Lydian_Treasure_Usak.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Jug_from_Lydian_Treasure_Usak.jpg",
@@ -446,7 +342,8 @@
         "aciklama": "Jug from en:Lydian Treasure found in en:Uşak, Turkey",
         "konu": "Karun Hazinesi"
       },
-      "durum": "bekliyor"
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "2011-vanda-7-2-buyuklugunde-bir-deprem-meydana",
@@ -456,23 +353,12 @@
         "Van",
         "Ekim 2011 Van depremi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/960px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/500px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 2560,
-        "yazar": "Mevlüt Kılıç",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ho%C5%9Fap_Kalesi_(Van,_T%C3%BCrkiye).JPG",
-        "aciklama": "Hoşap Kalesi (Van, Türkiye)",
-        "konu": "Van"
-      },
-      "durum": "bekliyor"
+      "baslik": "Van Depremi: 2011 Yılında Bölgeyi Sarsan Büyük Felaket",
+      "ozet": "23 Ekim 2011 günü öğle saatlerinde Van'da meydana gelen 7.2 büyüklüğündeki deprem, bölge tarihinin en sarsıcı doğal afetlerinden biri olarak kayıtlara geçti. Merkez üssü Van şehir merkezine yaklaşık 17 kilometre uzaklıktaki Tabanlı köyü olan sarsıntı, sadece Van'da değil; Hakkâri, Ağrı, Erzurum ve çevre illerin yanı sıra İran ile Kuzey Irak gibi geniş bir coğrafyada da kuvvetli bir şekilde hissedildi. Yaklaşık 25 saniye süren bu şiddetli sarsıntı, bölgedeki altyapıyı ciddi şekilde etkileyerek çok sayıda binanın yıkılmasına, elektrik ve iletişim hatlarının kesilmesine neden oldu. Deprem, yerleşim yerlerinde büyük bir panik ve yıkıma yol açarken, Türkiye'nin afet yönetimi ve arama kurtarma kapasitesinin sınırlarını zorlayan bir sınav haline geldi. Yaşanan bu felaket, bölgedeki yapı stokunun depreme dayanıklılığı konusunu yeniden gündeme getirirken, devlet kurumlarının ve sivil toplumun bölgeye yönelik geniş çaplı yardım seferberliği başlatmasına vesile oldu. Depremin ardından bölgede uzun süreli bir iyileştirme ve yeniden inşa süreci yürütüldü.",
+      "kategori": "Afet",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "turkiye"
     }
   ],
   "dogumlar": [
@@ -1056,7 +942,7 @@
     "url": "https://tr.wikipedia.org/wiki/23_Ekim",
     "revid": 38306899
   },
-  "guncelleme": "2026-10-21T21:27:04.527Z",
+  "guncelleme": "2026-10-22T08:16:22.014Z",
   "haberler": [
     {
       "id": "2025-haber-2446328",
@@ -1069,10 +955,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/chp-iki-kez-kazandi-secim-iptal-edildi-bayrampasa-secimlerinin-tarihi-belli-oldu-2446328"
       },
-      "konular": [],
+      "konular": [
+        "Bayrampaşa",
+        "İstanbul",
+        "Yerel seçimler"
+      ],
       "yayin": "2025-10-23T17:15:00+03:00",
       "puan": 15,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Bayrampaşa Yerel Seçimleri İçin Yenileme Kararı Alındı",
+      "ozet": "Bayrampaşa bölgesinde gerçekleştirilen ve Cumhuriyet Halk Partisi adayının iki defa kazandığı seçimler, Adalet ve Kalkınma Partisi tarafından yapılan itirazlar neticesinde iptal edildi. Yaşanan bu hukuki sürecin ardından İstanbul Valiliği, bölgede sandıkların tekrar kurulacağı tarihi duyurdu. Seçimlerin yenilenmesiyle birlikte bölgedeki siyasi süreç yeniden işleyecek.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2025-haber-2446140",
@@ -1085,10 +978,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/chp-secime-katilmadi-sayistay-a-5-yeni-uye-secildi-2446140"
       },
-      "konular": [],
+      "konular": [
+        "Sayıştay",
+        "Türkiye Büyük Millet Meclisi",
+        "Siyaset"
+      ],
       "yayin": "2025-10-23T09:07:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Sayıştay üyeliği için beş yeni isim belirlendi",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu'nda gerçekleştirilen oylama sonucunda Sayıştay bünyesinde görev yapacak beş yeni üye belirlendi. Eşref Edip Çiçekli, Necati Küçükaydın, Coşkun Çekiciler, İsmail Çobanoğlu ve Adnan Güran yeni üyeler olarak seçildi. Cumhuriyet Halk Partisi milletvekilleri ise oylamaya katılmama kararı aldı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2260880",
@@ -1101,10 +1001,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/abd-secimleri-oncesi-hisse-senetleri-duserken-dolar-ve-altin-rekor-2260880"
       },
-      "konular": [],
+      "konular": [
+        "ABD başkanlık seçimleri",
+        "Altın",
+        "Dolar"
+      ],
       "yayin": "2024-10-23T11:55:00+03:00",
       "puan": 17,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "ABD seçimleri yaklaşırken küresel piyasalarda hareketlilik yaşanıyor",
+      "ozet": "Amerika Birleşik Devletleri'nde gerçekleşecek seçimler öncesinde yatırımcılar temkinli bir duruş sergiledi. Bu süreçte altın fiyatları zirveye ulaşırken dolar değer kazandı ve Asya borsalarında dalgalı bir seyir izlendi. Ayrıca ABD Merkez Bankası'nın faiz politikalarına dair belirsizlikler piyasalardaki risk algısını doğrudan etkiledi.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Au%2C79.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Au%2C79.jpg",
+        "genislik": 600,
+        "yukseklik": 317,
+        "orijinalGenislik": 600,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Au,79.jpg",
+        "aciklama": null,
+        "konu": "Altın"
+      }
     },
     {
       "id": "2024-haber-2260897",
@@ -1117,10 +1037,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/van-depreminde-hayatini-kaybedenler-kabirleri-basinda-anildi-2260897"
       },
-      "konular": [],
+      "konular": [
+        "2011 Van depremi",
+        "Van"
+      ],
       "yayin": "2024-10-23T12:33:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Van depreminin yıl dönümünde kayıplar dualarla anıldı",
+      "ozet": "Van ilinde yaşanan büyük sarsıntıda yaşamını yitiren vatandaşlar, felaketin yıl dönümünde mezarları başında ziyaret edildi. Yakınları ve bölge halkı, hayatını kaybedenlerin kabirlerine giderek anma gerçekleştirdi.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/960px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/500px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 2560,
+        "yazar": "Mevlüt Kılıç",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ho%C5%9Fap_Kalesi_(Van,_T%C3%BCrkiye).JPG",
+        "aciklama": "Hoşap Kalesi (Van, Türkiye)",
+        "konu": "Van"
+      }
     },
     {
       "id": "2023-haber-2133174",
@@ -1133,10 +1072,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/filistin-basbakani-istiyye-soykirim-savasi-2133174"
       },
-      "konular": [],
+      "konular": [
+        "Muhammed Iştiyye",
+        "İsrail-Filistin çatışması",
+        "Filistin"
+      ],
       "yayin": "2023-10-23T15:12:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Filistin Başbakanı Iştiyye İsrail'in Saldırılarını Değerlendirdi",
+      "ozet": "Filistin Başbakanı Muhammed Iştiyye, İsrail tarafından Filistin halkına yönelik yürütülen askeri operasyonları tanımlamak için sert ifadeler kullandı. Iştiyye, bölgede yaşanan çatışmaları bir soykırım savaşı olarak nitelendirdi. Yetkili isim, yaşanan insani durumun ciddiyetine dikkat çekerek uluslararası kamuoyuna mesaj verdi.",
+      "kategori": "Savaş",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Mohammad_Shtayyeh_01_%28cropped%29.jpg/960px-Mohammad_Shtayyeh_01_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Mohammad_Shtayyeh_01_%28cropped%29.jpg/500px-Mohammad_Shtayyeh_01_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1038,
+        "orijinalGenislik": 2231,
+        "yazar": "UNCTAD",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mohammad_Shtayyeh_01_(cropped).jpg",
+        "aciklama": "With the prime minister of Palestine, Mohammad Shtayyeh, at the Palais des Nations in Geneva, Switerland, on 13 June 2019. Photo: Tim Sullivan (UNCTAD)",
+        "konu": "Muhammed Iştiyye"
+      }
     },
     {
       "id": "2023-haber-2133061",
@@ -1149,10 +1108,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/aksener-depremzede-yurttasi-affetmedi-erdogan-kadar-buyukluk-2133061"
       },
-      "konular": [],
+      "konular": [
+        "Meral Akşener",
+        "İYİ Parti",
+        "Siyaset"
+      ],
       "yayin": "2023-10-23T11:25:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Meral Akşener ve bir depremzede arasındaki dava süreci",
+      "ozet": "İYİ Parti Genel Başkanı Meral Akşener, seçim sürecinde sosyal medya üzerinden yapılan bir paylaşım gerekçesiyle bir depremzedeye dava açtı. Uzlaşma şartı olarak talep edilen 30 bin liralık ödemeyi karşılayamayacağını belirten vatandaş, deprem felaketi sonrası bu durumun hoşgörüyle karşılanmasını beklediğini ifade etti. Söz konusu hukuki süreç kamuoyunda tartışmalara yol açtı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-1995300",
@@ -1165,10 +1131,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/ingilterede-basbakanlik-yarisi-tekrar-basladi-boris-johnson-geri-doner-mi-1995300"
       },
-      "konular": [],
+      "konular": [
+        "Liz Truss",
+        "Muhafazakar Parti (Birleşik Krallık)",
+        "Birleşik Krallık"
+      ],
       "yayin": "2022-10-23T11:56:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İngiltere Muhafazakar Partisi liderlik süreci yeniden başladı",
+      "ozet": "İngiltere Başbakanı Liz Truss'ın sadece kırk beş gün süren görevinden ayrıldığını duyurması üzerine ülkede yeni bir siyasi süreç başlatıldı. İktidardaki Muhafazakar Parti, boşalan liderlik koltuğu için yeni bir seçim dönemine girdi. Yaşanan bu istifa kararı sonrasında Boris Johnson'ın adaylık durumu kamuoyunda tartışılmaya başlandı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Official_portrait_of_Liz_Truss_%28cropped%29.jpg/960px-Official_portrait_of_Liz_Truss_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Official_portrait_of_Liz_Truss_%28cropped%29.jpg/500px-Official_portrait_of_Liz_Truss_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1361,
+        "orijinalGenislik": 2175,
+        "yazar": "Prime Minister's Office",
+        "lisans": "OGL 3",
+        "lisansUrl": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Liz_Truss_(cropped).jpg",
+        "aciklama": "22/09/2022. London, United Kingdom. Official Portrait of Prime Minister Liz Truss in No10 Downing Street. 10 Downing Street. Picture by Simon Dawson / No 10 Downing Street",
+        "konu": "Liz Truss"
+      }
     },
     {
       "id": "2022-haber-1995221",
@@ -1181,10 +1167,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/dunya-bilek-guresi-sampiyonasinda-turk-sporcular-108-madalya-kazandi-1995221"
       },
-      "konular": [],
+      "konular": [
+        "Bilek güreşi",
+        "Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu",
+        "Niyazi Kurt"
+      ],
       "yayin": "2022-10-23T09:11:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Dünya Bilek Güreşi Şampiyonası'nda Türk sporcuların büyük başarısı",
+      "ozet": "Dünya Bilek Güreşi Şampiyonası'na katılan Türk sporcular, organizasyon boyunca gösterdikleri üstün performansla toplam 108 madalyanın sahibi oldu. Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu Başkanı Niyazi Kurt, şampiyona süresince elde edilen bu önemli başarıyı kamuoyuyla paylaştı.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Armwrestle.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Armwrestle.jpg",
+        "genislik": 899,
+        "yukseklik": 599,
+        "orijinalGenislik": 899,
+        "yazar": "No machine-readable author provided. Bombadil77 assumed (based on copyright claims).",
+        "lisans": "CC BY 2.5",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.5",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Armwrestle.jpg",
+        "aciklama": "ng",
+        "konu": "Bilek güreşi"
+      }
     },
     {
       "id": "2021-haber-1879029",
@@ -1197,10 +1203,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasindan-bir-faiz-karari-daha-1879029"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Zorunlu karşılık",
+        "Faiz"
+      ],
       "yayin": "2021-10-23T12:25:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Merkez Bankası zorunlu karşılık faiz oranlarında değişikliğe gitti",
+      "ozet": "Merkez Bankası, politika faizinde gerçekleştirdiği indirimin ardından yeni bir düzenleme daha yaptı. Kurum, Türk lirası cinsinden tutulan zorunlu karşılıklara uygulanan faiz oranını 2 puan aşağı çekerek yüzde 10,5 seviyesine düşürdü.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2021-haber-1878996",
@@ -1213,10 +1226,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/milli-sporcu-ahmet-onder-artistik-cimnastik-dunya-sampiyonasinda-besinci-oldu-1878996"
       },
-      "konular": [],
+      "konular": [
+        "Artistik Cimnastik Dünya Şampiyonası",
+        "Ahmet Önder"
+      ],
       "yayin": "2021-10-23T10:44:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ahmet Önder Dünya Cimnastik Şampiyonası'nda Beşinci Sırada Yer Aldı",
+      "ozet": "Artistik Cimnastik Dünya Şampiyonası kapsamında düzenlenen erkekler genel tasnif final müsabakaları gerçekleştirildi. Milli sporcu Ahmet Önder, sergilediği performans sonucunda organizasyonu beşinci sırada bitirdi.",
+      "kategori": "Spor"
     },
     {
       "id": "2020-haber-1775704",
@@ -1229,10 +1248,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/2020-dunya-dag-bisikleti-maraton-sampiyonasi-acilis-seremonisi-1775704"
       },
-      "konular": [],
+      "konular": [
+        "Dağ bisikleti",
+        "Sakarya",
+        "Dünya Dağ Bisikleti Maraton Şampiyonası"
+      ],
       "yayin": "2020-10-23T23:43:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Dünya Dağ Bisikleti Maraton Şampiyonası Sakarya'da Başladı",
+      "ozet": "Sakarya'da düzenlenen 2020 Dünya Dağ Bisikleti Maraton Şampiyonası için Ayçiçeği Bisiklet Vadisi'nde bir açılış töreni düzenlendi. Otuz farklı ülkeden gelen yüz dört sporcunun katılımıyla gerçekleşen organizasyon, resmi başlangıcını yaptı. Şampiyona kapsamında sporcular zorlu parkurlarda mücadele etmek üzere bir araya geldi.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Hardtail-mountain-bike.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Hardtail-mountain-bike.jpg",
+        "genislik": 907,
+        "yukseklik": 600,
+        "orijinalGenislik": 907,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY-SA 2.5",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Hardtail-mountain-bike.jpg",
+        "aciklama": null,
+        "konu": "Dağ bisikleti"
+      }
     },
     {
       "id": "2020-haber-1775648",
@@ -1245,10 +1284,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fransada-tum-zamanlarin-rekor-vaka-artisi-1775648"
       },
-      "konular": [],
+      "konular": [
+        "COVID-19 pandemisi",
+        "Fransa"
+      ],
       "yayin": "2020-10-23T22:20:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Fransa'da günlük koronavirüs vaka sayısında en yüksek seviye görüldü",
+      "ozet": "Fransa genelinde bir gün içerisinde tespit edilen yeni koronavirüs vaka sayısı 42 bin 32 kişiye ulaştı. Bu rakam, ülkede salgının başlangıcından bu yana kaydedilen en yüksek günlük artış olarak kayıtlara geçti.",
+      "kategori": "Toplum",
+      "gorsel": null
     },
     {
       "id": "2018-haber-1119738",
@@ -1261,10 +1307,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dyo-usta-ligi-2019-turkiye-sampiyonasi-1119738"
       },
-      "konular": [],
+      "konular": [
+        "DYO",
+        "Futbol",
+        "Türkiye"
+      ],
       "yayin": "2018-10-23T17:25:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Boya Ustaları İçin Düzenlenen Futbol Turnuvası Başladı",
+      "ozet": "DYO tarafından organize edilen ve boya ustalarının katılımıyla gerçekleşen futbol şampiyonası kapsamında iki haftalık bir etkinlik süreci başlatıldı. A Milli Futbol Takımı destekçisi olan kuruluş, bu turnuva aracılığıyla usta isimlere futbol odaklı bir sosyal ortam sundu.",
+      "kategori": "Spor"
     },
     {
       "id": "2017-haber-850763",
@@ -1277,10 +1330,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akpli-hayati-yazici-secimle-gelen-secimle-giderin-istisnasi-olabilir-850763"
       },
-      "konular": [],
+      "konular": [
+        "Hayati Yazıcı",
+        "Adalet ve Kalkınma Partisi",
+        "Belediye başkanı"
+      ],
       "yayin": "2017-10-23T10:16:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Hayati Yazıcı'dan belediye başkanlarının istifasına dair açıklama",
+      "ozet": "Adalet ve Kalkınma Partisi Genel Başkan Yardımcısı Hayati Yazıcı, belediye başkanlarının görevden ayrılma süreçlerine ilişkin değerlendirmelerde bulundu. Seçimle göreve gelen isimlerin yine seçimle gitmesi gerektiği yönündeki genel ilkenin bazı durumlarda istisnaları olabileceğini ifade etti. Yazıcı ayrıca, mevcut durumda istifası talep edilen başka bir belediye başkanı bulunmadığını belirtti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2017-haber-851266",
@@ -1293,10 +1353,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/gokcekin-istifa-kararinin-ardindan-erdogandan-jet-aciklama-851266"
       },
-      "konular": [],
+      "konular": [
+        "Melih Gökçek",
+        "Recep Tayyip Erdoğan",
+        "Ankara Büyükşehir Belediyesi"
+      ],
       "yayin": "2017-10-23T19:54:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Melih Gökçek'in İstifa Kararı Sonrası Cumhurbaşkanı Erdoğan'dan Mesaj",
+      "ozet": "Ankara Büyükşehir Belediye Başkanı Melih Gökçek'in görevinden ayrılma kararını açıklamasının ardından Cumhurbaşkanı Recep Tayyip Erdoğan sosyal medya hesabı üzerinden konuya dair değerlendirmelerde bulundu. Erdoğan paylaşımlarında istifa sürecine ilişkin görüşlerini ifade etti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2016-haber-620179",
@@ -1309,10 +1389,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/eczacibasi-vitra-dunya-sampiyonu-620179"
       },
-      "konular": [],
+      "konular": [
+        "Eczacıbaşı (kadın voleybol takımı)",
+        "FIVB Kadınlar Dünya Kulüpler Şampiyonası",
+        "Voleybol"
+      ],
       "yayin": "2016-10-23T16:13:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Eczacıbaşı Vitra Kadınlar Dünya Şampiyonu Oldu",
+      "ozet": "Voleybol Kadınlar Kulüpler Dünya Şampiyonası final müsabakasında Eczacıbaşı Vitra ile Pomi Cassalmaggiore karşı karşıya geldi. Rakibini 3-2 mağlup etmeyi başaran temsilcimiz, turnuvayı şampiyonlukla tamamladı. Bu sonuçla birlikte kulüp dünya genelindeki başarısını bir kez daha tescillemiş oldu.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Europei_di_pallavolo_2005_-_Italia-Russia.jpg/960px-Europei_di_pallavolo_2005_-_Italia-Russia.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Europei_di_pallavolo_2005_-_Italia-Russia.jpg/500px-Europei_di_pallavolo_2005_-_Italia-Russia.jpg",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 2000,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Europei_di_pallavolo_2005_-_Italia-Russia.jpg",
+        "aciklama": null,
+        "konu": "Voleybol"
+      }
     },
     {
       "id": "2016-haber-620220",
@@ -1325,10 +1425,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hdp-grup-baskanvekili-baluken-hakkinda-sorusturma-acildi-620220"
       },
-      "konular": [],
+      "konular": [
+        "İdris Baluken",
+        "Nursel Aydoğan",
+        "Halkların Demokratik Partisi"
+      ],
       "yayin": "2016-10-23T17:51:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İdris Baluken ve Nursel Aydoğan Hakkında Yasal Soruşturma Başlatıldı",
+      "ozet": "Diyarbakır Cumhuriyet Başsavcılığı tarafından yürütülen hukuki işlemler kapsamında Halkların Demokratik Partisi Grup Başkanvekili İdris Baluken ile milletvekili Nursel Aydoğan hakkında soruşturma başlatılmasına karar verildi. Söz konusu yasal süreç, savcılığın ilgili milletvekilleriyle ilgili yürüttüğü incelemelerin bir sonucu olarak kamuoyuna duyuruldu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2015-haber-393215",
@@ -1341,10 +1448,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hdpnin-secim-calismasina-izin-verilmedi-393215"
       },
-      "konular": [],
+      "konular": [
+        "Halkların Demokratik Partisi",
+        "Yüksekova",
+        "Hakkari"
+      ],
       "yayin": "2015-10-23T10:07:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Hakkari'de seçim çalışması yapılmasına güvenlik gerekçesiyle engel olundu",
+      "ozet": "Hakkari'nin Yüksekova ilçesinde bulunan Dağlıca bölgesine seçim faaliyetleri yürütmek amacıyla gitmek isteyen Halkların Demokratik Partisi üyelerinin geçişine güvenlik güçleri tarafından müsaade edilmedi. Askeri birlikler bölgedeki güvenlik durumunu gerekçe göstererek grubun ilerleyişini durdurdu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2014-haber-133389",
@@ -1357,10 +1471,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/alman-spiker-galatasaray-fenerbahceye-kurulan-komplodan-dolayi-sampiyonar-liginde-133389"
       },
-      "konular": [],
+      "konular": [
+        "Galatasaray",
+        "Fenerbahçe",
+        "UEFA Şampiyonlar Ligi"
+      ],
       "yayin": "2014-10-23T11:09:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Alman televizyonunda Galatasaray ve Fenerbahçe hakkındaki tartışmalı yorum",
+      "ozet": "Alman ZDF kanalı spikeri, Borussia Dortmund ile yapılan karşılaşmanın ardından Galatasaray hakkında dikkat çeken bir değerlendirmede bulundu. Spiker, sarı kırmızılı ekibin Şampiyonlar Ligi'ne katılımının Fenerbahçe'ye yönelik gerçekleştirilen bir komplonun sonucu olduğunu iddia etti. Bu sözler spor kamuoyunda geniş yankı uyandırdı.",
+      "kategori": "Spor"
     },
     {
       "id": "2014-haber-133475",
@@ -1373,10 +1494,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/merkez-bankasindan-faiz-karari-133475"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Faiz"
+      ],
       "yayin": "2014-10-23T14:14:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Merkez Bankası politika faizini değiştirmeme kararı aldı",
+      "ozet": "Türkiye Cumhuriyet Merkez Bankası Para Politikası Kurulu gerçekleştirdiği toplantı neticesinde faiz oranlarında herhangi bir değişikliğe gitmedi. Kurul, bir hafta vadeli repo ihale faiz oranını yüzde 8,25 seviyesinde tutmayı uygun buldu. Banka yönetimi mevcut para politikası duruşunu koruyarak kararı kamuoyu ile paylaştı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2013-haber-4137",
@@ -1389,10 +1516,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/abli-diplomat-erdogan-gozden-cikartildi-4137"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Avrupa Birliği",
+        "Siyaset"
+      ],
       "yayin": "2013-10-23T11:01:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Avrupalı bir diplomattan Recep Tayyip Erdoğan hakkında iddia",
+      "ozet": "Avrupa Birliği bünyesinde görev yapan bir diplomat, istihbarat çevrelerinde konuşulan bir iddiayı gündeme getirdi. Söz konusu diplomat, Recep Tayyip Erdoğan'ın uluslararası arenada gözden çıkarıldığını öne sürdü.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2013-haber-4166",
@@ -1405,10 +1552,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yildiz-teknik-universitesinde-patlama-4166"
       },
-      "konular": [],
+      "konular": [
+        "Yıldız Teknik Üniversitesi",
+        "Davutpaşa Kampüsü",
+        "Teknokent"
+      ],
       "yayin": "2013-10-23T14:11:00+03:00",
       "puan": 4,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Yıldız Teknik Üniversitesi Teknokent binasında patlama yaşandı",
+      "ozet": "Yıldız Teknik Üniversitesi Davutpaşa Kampüsü sınırları içerisinde yer alan Teknokent tesislerinde sabahın erken saatlerinde bir patlama gerçekleşti. Olayın ardından bölgede incelemeler başlatıldı.",
+      "kategori": "Afet"
     },
     {
       "id": "2012-haber-378554",
@@ -1421,10 +1575,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kpss-cevap-anahtarlari-erisime-acildi-378554"
       },
-      "konular": [],
+      "konular": [
+        "Kamu Personel Seçme Sınavı",
+        "ÖSYM"
+      ],
       "yayin": "2012-10-23T15:17:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "KPSS ortaöğretim ve önlisans sınav kitapçıkları erişime sunuldu",
+      "ozet": "Ölçme, Seçme ve Yerleştirme Merkezi, Kamu Personel Seçme Sınavı kapsamında gerçekleştirilen ortaöğretim ve önlisans oturumlarına ait soru kitapçıklarını ve cevap anahtarlarını yayımladı. Adaylar, sınavda karşılaştıkları soruları ve doğru yanıtları kurumun resmi internet sayfası üzerinden inceleyebilecekler.",
+      "kategori": "Toplum"
     },
     {
       "id": "2012-haber-378664",
@@ -1437,10 +1597,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/askeri-casusluk-davasinda-gerekceli-karar-378664"
       },
-      "konular": [],
+      "konular": [
+        "Askeri casusluk davası",
+        "Türkiye Cumhuriyeti Adalet Bakanlığı"
+      ],
       "yayin": "2012-10-23T14:59:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Askeri casusluk davasında gerekçeli karar açıklandı",
+      "ozet": "Şantaj ve askeri casusluk davasına ilişkin hazırlanan gerekçeli kararda, Türkiye'de devlet sırrı niteliğindeki bilgilerin korunması ve bu bilgilerin gizlilik sürelerine dair yasal bir boşluk bulunduğu vurgulandı. Mahkeme, devlet sırrı kavramının tanımlanması ve bu konuda yetkili makamların belirlenmesi hususunda mevzuat eksikliği olduğunu belirtti. Kararda, bir belgenin devlet sırrı sayılabilmesi için gerekli olan yasal altyapının henüz oluşturulmadığı ifade edildi.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2011-haber-292834",
@@ -1453,10 +1620,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-erdogan-deprem-bolgesinde-292834"
       },
-      "konular": [],
+      "konular": [
+        "2011 Van depremi",
+        "Recep Tayyip Erdoğan",
+        "Van"
+      ],
       "yayin": "2011-10-23T15:00:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Van depreminin ardından bölgede incelemeler yapıldı",
+      "ozet": "Dönemin Başbakanı Recep Tayyip Erdoğan, meydana gelen şiddetli depremin etkilerini yerinde görmek ve yürütülen çalışmaları takip etmek amacıyla bölgeye gitti. Afet bölgesindeki durumu inceleyen yetkililer, yaşanan yıkım ve kurtarma faaliyetleri hakkında bilgi aldı.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2011-haber-292816",
@@ -1469,10 +1656,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/depremin-hissedilen-siddeti-10-292816"
       },
-      "konular": [],
+      "konular": [
+        "2011 Van depremi",
+        "Ahmet Mete Işıkara",
+        "Van"
+      ],
       "yayin": "2011-10-23T13:25:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Van merkezli depremin şiddeti uzmanlar tarafından değerlendirildi",
+      "ozet": "Van ilinin merkez ilçesine bağlı Tabanlı köyü civarında meydana gelen 7,2 büyüklüğündeki sarsıntı bilim insanları tarafından incelendi. Ahmet Mete Işıkara, bölgede yaşanan bu doğal afetin hissedilen şiddet derecesinin 10 olduğunu ifade etti.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/960px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/500px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 2560,
+        "yazar": "Mevlüt Kılıç",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ho%C5%9Fap_Kalesi_(Van,_T%C3%BCrkiye).JPG",
+        "aciklama": "Hoşap Kalesi (Van, Türkiye)",
+        "konu": "Van"
+      }
     }
   ],
   "haberYillari": [

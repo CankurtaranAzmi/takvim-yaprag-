@@ -1975,5 +1975,504 @@
     "url": "https://tr.wikipedia.org/wiki/3_Kas%C4%B1m",
     "revid": 38168809
   },
-  "guncelleme": "2026-10-21T21:27:08.680Z"
+  "guncelleme": "2026-10-21T21:27:08.680Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2449294",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Depremin 1000. günü geçti: Kahramanmaraş’taki Saray Apartmanı sanıkları ilk kez hakim karşısına çıkacak",
+      "aciklama": "Kahramanmaraş'ta 6 Şubat 2023'teki depremlerde yıkılan ve 2 kişinin hayatını kaybettiği Saray Apartmanı'na ilişkin, 4 sanık hakkında dava açıldı. İddianamede, sanıklar ifadelerinde binayı fen ve mevzuata uygun, sağlam şekilde inşa ettiklerini savundu, belediyenin gerekli kontroll",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/depremin-1000-gunu-gecti-kahramanmaras-taki-saray-apartmani-saniklari-ilk-kez-hakim-karsisina-cikacak-2449294"
+      },
+      "konular": [],
+      "yayin": "2025-11-03T10:41:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2025-haber-2449390",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Borsanın şampiyonu belli oldu: Dört büyükler arasında yatırımcısına en çok kazandıran kulüp hangisi?",
+      "aciklama": "Ekim ayı sonu itibarıyla Trendyol Süper Lig’in başlamasının üzerinden 11 hafta geçti. Geçen haftaların ardından borsa liginde kazanan belli oldu. Spor hisselerinde zirve yarışı hız kazandı. Peki borsada hangi takım yatırımcısına en çok kazandırdı? Süper Lig’de geride kalan 11 haf",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/borsanin-sampiyonu-belli-oldu-dort-buyukler-arasinda-yatirimcisina-en-cok-kazandiran-kulup-hangisi-2449390"
+      },
+      "konular": [],
+      "yayin": "2025-11-03T14:30:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2264820",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İstanbul Maratonu'nda tüm zamanların rekoru kırıldı!",
+      "aciklama": "İstanbul Maratonu'nda 4 bin 156 kişinin bitiriş çizgisini görerek tüm zamanların rekorunun kırıldığı açıklandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/istanbul-maratonunda-tum-zamanlarin-rekoru-kirildi-2264820"
+      },
+      "konular": [],
+      "yayin": "2024-11-03T23:54:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2264771",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Mustafa Destici asgari ücret için rakam, erken seçim için tarih verdi",
+      "aciklama": "Cumhur İttifakı'nın 'küçük ortağı' BBP'nin Genel Başkanı Mustafa Destici, 2025 yılında belirlenecek asgari ücret tutarına ilişkin,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/mustafa-destici-asgari-ucret-icin-rakam-erken-secim-icin-tarih-verdi-2264771"
+      },
+      "konular": [],
+      "yayin": "2024-11-03T19:42:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2136963",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan söz vermişti: Vergisiz cep telefonu aldatmacası",
+      "aciklama": "İktidar seçim öncesi gençlere vaat ettiği vergisiz telefon satışının 1 Kasım’da başlatıldığını duyurdu. Ancak usul ve esaslar halen yayımlanmadığı için teknoloji mağazaları satışa başlayamadı. Mali müşavirler vergi iadesinin uzun süreceğini belirtti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/erdogan-soz-vermisti-vergisiz-cep-telefonu-aldatmacasi-2136963"
+      },
+      "konular": [],
+      "yayin": "2023-11-03T03:00:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2137051",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP’li Arpacı tekstil sektöründeki krizi Meclis’e taşıdı",
+      "aciklama": "CHP Denizli Milletvekili Şeref Arpacı, Ticaret Bakanlığı bütçesinin görüşüldüğü TBMM Plan ve Bütçe Komisyonu’nda tekstil sektöründe yaşanan krize dikkati çekerek “Yılın ilk üç ayında, ilk çeyreğinde özellikle tekstil sektöründe EYT'liler düştüğünde işten çıkarılan kişi sayısı tüm",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/chpli-arpaci-tekstil-sektorundeki-krizi-meclise-tasidi-2137051"
+      },
+      "konular": [],
+      "yayin": "2023-11-03T11:07:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-1999187",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ekim ayının zam şampiyonu sebze",
+      "aciklama": "TÜİK verilerine göre, ekim ayında fiyatı en çok artan ürün yüzde 26.23 ile sebze oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/ekim-ayinin-zam-sampiyonu-sebze-1999187"
+      },
+      "konular": [],
+      "yayin": "2022-11-03T11:43:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-1999078",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP seçim öncesi yine ‘din kartını’ açtı, kamu olanaklarını kullanmaya başladı",
+      "aciklama": "Erdoğan’ın müftülere “Anayasa değişikliğini anlatın” talimatı sonrası bu kez İçişleri Bakanı Soylu, polislere “Operasyona abdestsiz gitmemelisiniz” diye seslendi. Muhalefet, “Devleti parti devletine çevirdiler. Yapılan anayasaya aykırı” eleştirisinde bulundu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/akp-secim-oncesi-yine-din-kartini-acti-kamu-olanaklarini-kullanmaya-basladi-1999078"
+      },
+      "konular": [],
+      "yayin": "2022-11-03T04:00:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1881755",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Türk atletizmi Avrupa Kros Şampiyonası'nda gözünü",
+      "aciklama": "Türkiye Atletizm Federasyonu Başkanı Fatih Çintimar, Avrupa Şampiyonası'nda hedef şampiyonluk. Hem ferdi hem takım branşlarında şampiyonluklar bekliyoruz",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/turk-atletizmi-avrupa-kros-sampiyonasinda-gozunu-zirveye-dikti-1881755"
+      },
+      "konular": [],
+      "yayin": "2021-11-03T11:04:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1881831",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Yiğit Bulut'tan 'Erdoğan' paylaşımı: Havalimanı görüntüleri",
+      "aciklama": "Cumhurbaşkanı Başdanışmanı Yiğit Bulut, AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan'ın Ankara'da havalimanında karşılandığı anların görüntüsünü paylaştı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/yigit-buluttan-erdogan-paylasimi-havalimani-goruntuleri-1881831"
+      },
+      "konular": [],
+      "yayin": "2021-11-03T14:47:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1788170",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolar ve Avro rekor kırarken Berat Albayrak bu mesajı verdi",
+      "aciklama": "3 Kasım Salı günü dolar kuru 8.53 lirayı aştı. Avro 10 lira, İngiliz Sterlini ise 11 liradan işlem görürken Hazine ve Maliye Berat Albayrak'tan dikkat çeken bir paylaşım geldi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/dolar-ve-avro-rekor-kirarken-berat-albayrak-bu-mesaji-verdi-1788170"
+      },
+      "konular": [],
+      "yayin": "2020-11-03T17:06:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1788175",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erkan Baş'tan AKP'ye deprem vergileri çıkışı",
+      "aciklama": "TİP Genel Başkanı Erkan Baş TBMM'de haftalık basın toplantısında konuştu. Baş konuşmasında",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erkan-bastan-akpye-deprem-vergileri-cikisi-1788175"
+      },
+      "konular": [],
+      "yayin": "2020-11-03T17:27:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1573190",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "TBMM'de bütçe maratonu başlıyor",
+      "aciklama": "Türkiye Büyük Millet Meclisi'nin (TBMM) 2020 Mali Yılı Bütçe görüşmeleri, bu hafta Plan ve Bütçe Komisyonu'nda başlıyor. Bu hafta ayrıca Genel Kurul'da, av yasağına uymayanlara ağır yaptırımların getirildiği, 'Su Ürünleri Kanunu'nda' değişiklik öngören yasa teklifinin görüşmeleri",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/tbmmde-butce-maratonu-basliyor-1573190"
+      },
+      "konular": [],
+      "yayin": "2019-11-03T12:22:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1573181",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Yonex Macaristan Uluslararası Badminton Şampiyonası'nda 2 madalya",
+      "aciklama": "Tokyo'da düzenlenecek Olimpiyat Oyunları için 251 sporcunun kota mücadelesi verdiği 44. Yonex Macaristan Uluslararası Badminton Şampiyonası sona erdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/yonex-macaristan-uluslararasi-badminton-sampiyonasinda-2-madalya-1573181"
+      },
+      "konular": [],
+      "yayin": "2019-11-03T12:02:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1130546",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Grekoromen güreşçiler Balkan şampiyonu",
+      "aciklama": "Türkiye Grekoromen Milli Takımı, Gençler Balkan Güreş Şampiyonası'nda, 7 altın ve 3 gümüş madalyayla şampiyon oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/grekoromen-guresciler-balkan-sampiyonu-1130546"
+      },
+      "konular": [],
+      "yayin": "2018-11-03T16:09:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1130797",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Beşiktaş Teknik Direktörü Şenol Güneş: Şampiyonluk yarışı net değil",
+      "aciklama": "Spor Toto Süper Lig'in 11. haftasında Medipol Başakşehir'e 1-0 mağlup olan Beşiktaş'ın teknik direktörü Şenol Güneş, rakiplerine karşı oyunda üstünlük kurmalarına rağmen maçı kazanamadıklarını söyledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/besiktas-teknik-direktoru-senol-gunes-sampiyonluk-yarisi-net-degil-1130797"
+      },
+      "konular": [],
+      "yayin": "2018-11-03T22:31:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-858852",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Başbakan Yıldırım: Enflasyonun artmasının sebeplerini biliyoruz",
+      "aciklama": "Başbakan Binali Yıldırım Erzincan ziyaretinde gazetecilere açıklamalarda bulundu. Yıldırım, yıllık enflasyonun yüzde 11.9'a çıkması hakkındaki soruya",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbakan-yildirim-enflasyonun-artmasinin-sebeplerini-biliyoruz-858852"
+      },
+      "konular": [],
+      "yayin": "2017-11-03T13:29:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-859247",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Hakkında tutuklama kararı çıkan Katalan lider: Seçimde aday olmaya hazırım",
+      "aciklama": "Katalan lider Charles Puigdemont,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/hakkinda-tutuklama-karari-cikan-katalan-lider-secimde-aday-olmaya-hazirim-859247"
+      },
+      "konular": [],
+      "yayin": "2017-11-03T21:32:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-625595",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan - Bahçeli zirvesi sona erdi... Ver Öcalan'ı al başkanlığı",
+      "aciklama": "Cumhurbaşkanı Recep Tayyip Erdoğan ile MHP Genel Başkanı Devlet Bahçeli arasındaki 'başkanlık' ve 'idam' zirvesi yaklaşık bir saat sürdü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-bahceli-zirvesi-sona-erdi-ver-ocalani-al-baskanligi-625595"
+      },
+      "konular": [],
+      "yayin": "2016-11-03T15:24:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-625412",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Şampiyonlar Ligi'nde süpriz gece",
+      "aciklama": "UEFA Şampiyonlar Ligi'ndeki 4. hafta karşılaşmalarının 2. gününde 3 sürpriz birden yaşandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-liginde-supriz-gece-625412"
+      },
+      "konular": [],
+      "yayin": "2016-11-03T10:34:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-404833",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Chahechouhe şampiyon takıma gidecek mi?",
+      "aciklama": "Spor Toto Süper Lig ekiplerinden Medicana Sivasspor'un gole dönük orta saha oyuncusu Aatif Chahechouhe, Bursaspor'dan kendisine ve menajerine transfer teklifi gelmediğini belirterek,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chahechouhe-sampiyon-takima-gidecek-mi-404833"
+      },
+      "konular": [],
+      "yayin": "2015-11-03T19:08:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-404813",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP yeniden tek başına... İcraatlar başladı",
+      "aciklama": "AKP'nin tek başına iktidar çıktığı 1 Kasım seçimlerinin üzerinden 2 gün geçmesinin ardından iktidar icraatlarına başladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/akp-yeniden-tek-basina-icraatlar-basladi-404813"
+      },
+      "konular": [],
+      "yayin": "2015-11-03T18:31:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-136841",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ekimde zam şampiyonu domates",
+      "aciklama": "Tüketici fiyatları bazında ekim ayında en yüksek fiyat artışı yüzde 43,03 ile domateste görüldü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ekimde-zam-sampiyonu-domates-136841"
+      },
+      "konular": [],
+      "yayin": "2014-11-03T10:36:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-136970",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Emine Ülker Tarhan istifasının ardından ilk kez konuştu",
+      "aciklama": "Bağımsız Ankara Milletvekili Emine Ülker Tarhan, kendisiyle aynı tıkanıklık hissini yaşayan ancak ses çıkartmayan pek çok iyi insanı geride bırakmak pahasına CHP'den ayrıldığını belirterek,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/emine-ulker-tarhan-istifasinin-ardindan-ilk-kez-konustu-136970"
+      },
+      "konular": [],
+      "yayin": "2014-11-03T15:37:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-5759",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "'Anayasa Mahkemesi iktidar yönünde karar alıyor'",
+      "aciklama": "Anayasa hukuku uzmanı Prof. Dr. İbrahim Kaboğlu, 2010 referandumdan sonra Anayasa Mahkemesi'nin içler acısı halini irdeledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/anayasa-mahkemesi-iktidar-yonunde-karar-aliyor-5759"
+      },
+      "konular": [],
+      "yayin": "2013-11-03T11:51:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-5833",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Aziz Yıldırım'dan büyük rekor",
+      "aciklama": "Fenerbahçe Kulübü'nün olağanüstü genel kurulunda Mehmet Ali Aydınlar karşısında başkanlık yarışını kazanan Yıldırım, 11. kongresinde de koltuğu bırakmadı .Başkanlığı döneminde geçen 16 yıllık sürede, 7 kez tek aday olan Yıldırım, karşısına rakip çıkan 4. kongreyi de kazandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/aziz-yildirimdan-buyuk-rekor-5833"
+      },
+      "konular": [],
+      "yayin": "2013-11-03T19:49:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-380864",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Off-Road Şampiyonası'nda 5. ayak başladı",
+      "aciklama": "Türkiye Otomobil Sporları Federasyonu'nun 2012 faaliyet takviminde yer alan Türkiye Off-Road Şampiyonası'nın sezon finali olan 5. ayak yarışı, Urla Cumhuriyet Meydanı'ndan başladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/off-road-sampiyonasinda-5-ayak-basladi-380864"
+      },
+      "konular": [],
+      "yayin": "2012-11-03T15:30:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-380790",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan: Kamuoyu idamı geri istiyor",
+      "aciklama": "Başbakan Erdoğan 'Kamuoyu araştırmalarında birçok insan idamı geri istiyor. Çünkü öldürülenlerin canı yanıyor, diğeri kebap partilerine gidiyor' diyerek idam tartışmasını yeniden açtı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-kamuoyu-idami-geri-istiyor-380790"
+      },
+      "konular": [],
+      "yayin": "2012-11-03T10:09:00+03:00",
+      "puan": 5,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-295462",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ekim ayının zam şampiyonu kabak",
+      "aciklama": "Ekim ayının zam şampiyonu kabak oldu. Ekim ayında tüketici fiyatlarında en yüksek artış yüzde 40.32 ile kabakta yaşanırken, üretici fiyatlarında en yüksek fiyat artışı yüzde 34.48'le taze soğanda görüldü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ekim-ayinin-zam-sampiyonu-kabak-295462"
+      },
+      "konular": [],
+      "yayin": "2011-11-03T13:02:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-295450",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Referandum da istifa da yok!",
+      "aciklama": "Yunanistan'da hükümet çökmenin eşiğine geldi. Başbakan Yorgo Papandreu, beş milletvekilinin yarın yapılacak güvenoyu oylamasında hükümete oy vermeyeceğini açıkça belirtmesiyle parlamentodaki çoğunluğu kaybetti. Papandreu, AB mali yardımını referanduma götürme tutumunu yumuşatarak",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/referandum-da-istifa-da-yok-295450"
+      },
+      "konular": [],
+      "yayin": "2011-11-03T11:29:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }
