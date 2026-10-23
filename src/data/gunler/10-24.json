@@ -1146,7 +1146,7 @@
     "url": "https://tr.wikipedia.org/wiki/24_Ekim",
     "revid": 38168157
   },
-  "guncelleme": "2026-10-22T11:21:29.069Z",
+  "guncelleme": "2026-10-23T11:11:57.800Z",
   "haberler": [
     {
       "id": "2025-haber-2446427",
@@ -1159,10 +1159,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/akp-nin-vergi-ve-harclarda-duzenleme-yapan-teklifi-komisyonda-kabul-edildi-itirazlara-kulak-tikadilar-2446427"
       },
-      "konular": [],
+      "konular": [
+        "TBMM Plan ve Bütçe Komisyonu",
+        "Vergi",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2025-10-24T04:00:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Vergi ve harç düzenlemesi TBMM Plan ve Bütçe Komisyonu'nda onaylandı",
+      "ozet": "Vergi ve harçlarda değişiklik öngören yasal düzenleme teklifi, TBMM Plan ve Bütçe Komisyonu'nda gerçekleştirilen uzun süreli görüşmelerin ardından kabul edildi. Muhalefet milletvekilleri, kamuoyunda tartışmalara yol açan bazı maddelerin metinden çıkarılması amacıyla çeşitli önergeler sundu. Ancak sunulan bu önergeler komisyon tarafından kabul görmedi ve teklif mevcut haliyle onaylanarak yasalaşma sürecinde bir aşamayı daha geride bıraktı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2025-haber-2446623",
@@ -1175,10 +1182,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/chp-nin-39-uncu-olagan-kurultayi-28-30-kasim-da-yapilacak-kurultayin-gundemi-ilan-edildi-2446623"
       },
-      "konular": [],
+      "konular": [
+        "Cumhuriyet Halk Partisi",
+        "Siyaset"
+      ],
       "yayin": "2025-10-24T17:08:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhuriyet Halk Partisi 39. Olağan Kurultayı İçin Tarih Belirlendi",
+      "ozet": "Cumhuriyet Halk Partisi Parti Meclisi tarafından yapılan toplantıda, 39. Olağan Kurultay sürecinin takvimi netleştirildi. Söz konusu kurultayın 28 ile 30 Kasım tarihleri arasında Ankara Arena Spor Salonu'nda düzenlenmesi kararlaştırıldı. Toplantı kapsamında kurultayın gündem maddeleri de kamuoyuyla paylaşıldı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2261448",
@@ -1191,10 +1204,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/tbmm-baskanliginin-tusas-saldirisina-yonelik-tezkeresi-kabul-edildi-2261448"
       },
-      "konular": [],
+      "konular": [
+        "TUSAŞ saldırısı",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2024-10-24T19:21:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "TUSAŞ saldırısına ilişkin Meclis tezkeresi onaylandı",
+      "ozet": "Türkiye Büyük Millet Meclisi Başkanlığı tarafından sunulan ve TUSAŞ tesislerine gerçekleştirilen saldırıyı konu alan tezkere oylamaya sunuldu. Yapılan görüşmelerin ardından söz konusu metin kabul edilerek yasalaştı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Turkish_Aerospace_Industries_headquarters_attack_perpetrators.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Turkish_Aerospace_Industries_headquarters_attack_perpetrators.jpg",
+        "genislik": 640,
+        "yukseklik": 524,
+        "orijinalGenislik": 640,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_Aerospace_Industries_headquarters_attack_perpetrators.jpg",
+        "aciklama": "A photo from CCTV footage of the perpetrators of the 2024 Turkish Aerospace Industries headquarters attack",
+        "konu": "TUSAŞ saldırısı"
+      }
     },
     {
       "id": "2024-haber-2261346",
@@ -1207,10 +1239,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/linkedin-rekor-tazminata-mahkum-oldu-356-milyon-dolar-2261346"
       },
-      "konular": [],
+      "konular": [
+        "LinkedIn",
+        "Sosyal medya",
+        "Tazminat"
+      ],
       "yayin": "2024-10-24T15:47:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "LinkedIn platformuna rekor düzeyde tazminat cezası verildi",
+      "ozet": "İş dünyasına yönelik sosyal medya platformu LinkedIn, hukuki bir süreç sonucunda yüksek miktarda tazminat ödemeye mahkum edildi. Şirketin 356 milyon dolar ödemesine hükmedilen bu karar, platformun yaşadığı zorlu dönemi gözler önüne serdi. Söz konusu gelişme, sosyal medya devinin karşı karşıya kaldığı ciddi bir yaptırım olarak kayıtlara geçti.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/LinkedIn_Headquarters_Sunnyvale.jpg/960px-LinkedIn_Headquarters_Sunnyvale.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/LinkedIn_Headquarters_Sunnyvale.jpg/500px-LinkedIn_Headquarters_Sunnyvale.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 4344,
+        "yazar": "LPS.1",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:LinkedIn_Headquarters_Sunnyvale.jpg",
+        "aciklama": "LinkedIn Headquarters in Sunnyvale, California",
+        "konu": "LinkedIn"
+      }
     },
     {
       "id": "2023-haber-2133662",
@@ -1223,10 +1275,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/erdogandan-birlesmis-milletler-gununde-gazze-mesaji-uluslararasi-2133662"
       },
-      "konular": [],
+      "konular": [
+        "Gazze",
+        "Birleşmiş Milletler",
+        "Recep Tayyip Erdoğan"
+      ],
       "yayin": "2023-10-24T18:06:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanı Erdoğan'dan Birleşmiş Milletler Günü'nde Gazze Eleştirisi",
+      "ozet": "Birleşmiş Milletler Teşkilatı'nın kuruluşunun yetmiş sekizinci yıl dönümü vesilesiyle bir açıklama yapan Cumhurbaşkanı Recep Tayyip Erdoğan, Gazze'de yaşanan saldırılara değindi. Erdoğan, uluslararası toplumun ve Birleşmiş Milletler Güvenlik Konseyi'nin mevcut kriz karşısında etkili bir duruş sergileyemediğini ifade etti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Images_of_war_23-25_from_Gaza%2C_by_Jaber_Badwen%2C_IMG_6315.jpg/960px-Images_of_war_23-25_from_Gaza%2C_by_Jaber_Badwen%2C_IMG_6315.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Images_of_war_23-25_from_Gaza%2C_by_Jaber_Badwen%2C_IMG_6315.jpg/500px-Images_of_war_23-25_from_Gaza%2C_by_Jaber_Badwen%2C_IMG_6315.jpg",
+        "genislik": 960,
+        "yukseklik": 540,
+        "orijinalGenislik": 4032,
+        "yazar": "Jaber Jehad Badwan",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Images_of_war_23-25_from_Gaza,_by_Jaber_Badwen,_IMG_6315.jpg",
+        "aciklama": "Omar Mukhtar Street in Gaza City, showing damage from Israeli bombing, February 23, 2025.",
+        "konu": "Gazze"
+      }
     },
     {
       "id": "2023-haber-2133474",
@@ -1239,10 +1311,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/erdoganin-sesiyle-spk-baskanindan-1-milyon-dolar-istemis-operasyon-2133474"
       },
-      "konular": [],
+      "konular": [
+        "Yapay zeka",
+        "Dolandırıcılık",
+        "Sermaye Piyasası Kurulu"
+      ],
       "yayin": "2023-10-24T11:20:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Yapay zeka ile ses taklidi yaparak dolandırıcılık girişimi",
+      "ozet": "Fatih Emre Hülagü isimli bir kişi, yapay zeka teknolojisini kullanarak Cumhurbaşkanı Recep Tayyip Erdoğan'ın sesini taklit etti. Bu yöntemle Sermaye Piyasası Kurulu Başkanı İbrahim Ömer Gönül dahil olmak üzere çeşitli isimleri arayan şahıs, Suriye'deki bir operasyon gerekçesiyle para talebinde bulundu. Söz konusu dolandırıcılık girişimi güvenlik birimlerinin müdahalesiyle ortaya çıkarıldı.",
+      "kategori": "Toplum"
     },
     {
       "id": "2022-haber-1995677",
@@ -1255,10 +1334,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/asgari-ucrete-zam-tarihi-yaklasirken-tartismalar-hiz-kazandi-1995677"
       },
-      "konular": [],
+      "konular": [
+        "Asgari ücret",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2022-10-24T13:38:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Asgari ücret belirleme süreci öncesinde beklentiler yoğunlaştı",
+      "ozet": "Yıl sonuna doğru asgari ücretin yeniden belirlenmesi için yürütülen çalışmalar hız kazandı. Aralık ayında netleşecek olan yeni maaş tutarı için farklı senaryolar üzerinde duruluyor. Kamuoyunda ücret artışının ne oranda gerçekleşeceğine dair çeşitli görüşler dile getiriliyor.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2022-haber-1995737",
@@ -1271,10 +1356,15 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/borsa-istanbul-rekor-uzerine-rekor-kirarken-tarihi-zirveyi-yenileyerek-1995737"
       },
-      "konular": [],
+      "konular": [
+        "Borsa İstanbul"
+      ],
       "yayin": "2022-10-24T16:07:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Borsa İstanbul endeksinde yeni bir rekor seviye kaydedildi",
+      "ozet": "Haftanın ilk işlem gününe yükseliş eğilimiyle giriş yapan Borsa İstanbul, gün içerisinde değer kazanmaya devam etti. Endeks 4001 puan seviyesine ulaşarak kendi tarihinin en yüksek noktasına erişti ve yeni bir zirve belirledi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2020-haber-1775769",
@@ -1287,10 +1377,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ali-koc-fenerbahce-sampiyon-tuzagina-dusmeyecegiz-1775769"
       },
-      "konular": [],
+      "konular": [
+        "Ali Koç",
+        "Fenerbahçe (futbol takımı)"
+      ],
       "yayin": "2020-10-24T13:29:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Fenerbahçe Başkanı Ali Koç Yüksek Divan Kurulu Toplantısında Konuştu",
+      "ozet": "Fenerbahçe Spor Kulübü Başkanı Ali Koç, çevrim içi ortamda gerçekleştirilen Yüksek Divan Kurulu Toplantısı'na katıldı. Toplantı sırasında kulübün gündemine dair değerlendirmelerde bulunan Koç, şampiyonluk hedefleri ve kulübün genel durumu hakkında açıklamalarda bulundu.",
+      "kategori": "Spor"
     },
     {
       "id": "2020-haber-1775720",
@@ -1303,10 +1399,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpli-yavuzyilmaz-cumhurbaskani-karari-8-yillik-kamu-zararinin-ispati-1775720"
       },
-      "konular": [],
+      "konular": [
+        "Zafer Havalimanı",
+        "Deniz Yavuzyılmaz",
+        "Kütahya"
+      ],
       "yayin": "2020-10-24T10:31:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Zafer Havalimanı için alınan yeni karar kamu zararı tartışması yarattı",
+      "ozet": "Kütahya Zafer Havalimanı'nda uluslararası yolcular için taahhüt edilen garanti rakamlarının çok küçük bir kısmına ulaşılabildiği belirtildi. Konuyla ilgili açıklama yapan milletvekili Deniz Yavuzyılmaz, havalimanı için yayımlanan Cumhurbaşkanı kararının sekiz yıllık süreçteki kamu zararını gözler önüne serdiğini ifade etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2018-haber-1120993",
@@ -1319,10 +1422,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/uc-ulkeden-suriye-anayasa-komitesi-anlasmasi-1120993"
       },
-      "konular": [],
+      "konular": [
+        "Suriye İç Savaşı",
+        "Astana süreci",
+        "Birleşmiş Milletler"
+      ],
       "yayin": "2018-10-24T22:01:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Suriye anayasa komitesi için üçlü mutabakat sağlandı",
+      "ozet": "Türkiye, Rusya ve İran temsilcileri, Suriye'de yeni bir anayasa komitesi oluşturulması amacıyla yürütülen faaliyetleri hızlandırma kararı aldı. Söz konusu çalışma, Birleşmiş Milletler Suriye Özel Temsilciliği ile eşgüdüm içerisinde gerçekleştirilecek. Taraflar, bu sürecin ilerletilmesi konusunda uzlaşmaya vardı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "genislik": 704,
+        "yukseklik": 499,
+        "orijinalGenislik": 704,
+        "yazar": "jan Sefti",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "aciklama": "The phrase \"Down with Bashar\" (yaskut Baššār), during the Syrian Uprising 2011.",
+        "konu": "Suriye İç Savaşı"
+      }
     },
     {
       "id": "2018-haber-1121040",
@@ -1335,10 +1458,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tbmmde-chp-ve-mhp-milletvekilleri-arasinda-arbede-yasandi-1121040"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Türk Silahlı Kuvvetlerini Güçlendirme Vakfı"
+      ],
       "yayin": "2018-10-24T23:04:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Meclis Genel Kurulunda Kanun Teklifi Görüşmeleri Sırasında Gerginlik",
+      "ozet": "Türk Silahlı Kuvvetlerini Güçlendirme Vakfı ile ilgili kanun teklifinin görüşüldüğü sırada Cumhuriyet Halk Partisi ve Milliyetçi Hareket Partisi milletvekilleri arasında tartışma çıktı. Yaşanan gerginlik kısa süreli bir arbedeye dönüştü. Tartışmaların ardından söz konusu kanun teklifi Genel Kurulda kabul edilerek yasalaştı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2017-haber-851643",
@@ -1351,10 +1480,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/mardinde-catisma-sokaga-cikma-yasagi-ilan-edildi-851643"
       },
-      "konular": [],
+      "konular": [
+        "Ömerli",
+        "Mardin",
+        "PKK"
+      ],
       "yayin": "2017-10-24T13:55:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Mardin Ömerli kırsalında operasyon ve sokağa çıkma yasağı",
+      "ozet": "Mardin ilinin Ömerli ilçesi kırsalında güvenlik güçleri ile PKK mensupları arasında yaşanan çatışma sonucunda iki asker yaralandı. Bölgede yürütülen operasyonların güvenli bir şekilde sürdürülebilmesi amacıyla valilik tarafından on iki mahallede sokağa çıkma yasağı kararı alındı.",
+      "kategori": "Savaş"
     },
     {
       "id": "2016-haber-620397",
@@ -1367,10 +1503,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/melek-hu-avrupa-sampiyonu-oldu-620397"
       },
-      "konular": [],
+      "konular": [
+        "Melek Hu",
+        "Avrupa Masa Tenisi Şampiyonası",
+        "Masa tenisi"
+      ],
       "yayin": "2016-10-24T09:43:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Melek Hu Avrupa Masa Tenisi Şampiyonası'nda altın madalya kazandı",
+      "ozet": "Avrupa Masa Tenisi Şampiyonası tek kadınlar kategorisinde final mücadelesi gerçekleşti. Milli sporcu Melek Hu, Portekizli rakibi Yu Fu ile karşılaştığı final maçını kazanarak şampiyonluk unvanına ulaştı. Bu başarıyla birlikte milli sporcu turnuvayı zirvede tamamladı.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Mondial_Ping_-Women%27s_Singles_-_Quarterfinal_-_Melek_Hu-Liu_Shiwen_-_26_%28cropped%29.jpg/960px-Mondial_Ping_-Women%27s_Singles_-_Quarterfinal_-_Melek_Hu-Liu_Shiwen_-_26_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Mondial_Ping_-Women%27s_Singles_-_Quarterfinal_-_Melek_Hu-Liu_Shiwen_-_26_%28cropped%29.jpg/500px-Mondial_Ping_-Women%27s_Singles_-_Quarterfinal_-_Melek_Hu-Liu_Shiwen_-_26_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1056,
+        "orijinalGenislik": 1295,
+        "yazar": "Pierre-Yves Beaudouin",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mondial_Ping_-Women%27s_Singles_-_Quarterfinal_-_Melek_Hu-Liu_Shiwen_-_26_(cropped).jpg",
+        "aciklama": "2013 World Table Tennis Championships, Paris. Women's Singles Quarterfinal. Melek Hu vs Liu Shiwen.",
+        "konu": "Melek Hu"
+      }
     },
     {
       "id": "2016-haber-620817",
@@ -1383,10 +1539,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ceza-yargilamasinda-degisiklik-tasarisi-meclise-sunuldu-620817"
       },
-      "konular": [],
+      "konular": [
+        "Türk Ceza Kanunu",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2016-10-24T21:45:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Ceza kanunlarında değişiklik öngören tasarı Meclis gündemine taşındı",
+      "ozet": "Türk Ceza Kanunu ile Ceza Muhakemeleri Kanunu üzerinde düzenlemeler yapılması amacıyla hazırlanan kanun tasarısı Türkiye Büyük Millet Meclisi'ne iletildi. Söz konusu tasarı kapsamında çocuğa yönelik cinsel istismar, vücut dokunulmazlığının ihlali, nitelikli dolandırıcılık ve patlayıcı madde bulundurma gibi suçlar için öngörülen cezaların alt sınırlarının artırılması hedeflendi. Yapılan bu yasal girişimle mevcut ceza sistemindeki yaptırımların ağırlaştırılması amaçlandı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/T%C3%BCrk_Ceza_Kanunu.pdf/page1-960px-T%C3%BCrk_Ceza_Kanunu.pdf.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/T%C3%BCrk_Ceza_Kanunu.pdf/page1-960px-T%C3%BCrk_Ceza_Kanunu.pdf.jpg",
+        "genislik": 960,
+        "yukseklik": 1357,
+        "orijinalGenislik": 1239,
+        "yazar": "Türkiye Cumhuriyeti Cumhurbaşkanlığı",
+        "lisans": "Copyrighted free use",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:T%C3%BCrk_Ceza_Kanunu.pdf",
+        "aciklama": "Türk Ceza Kanunu",
+        "konu": "Türk Ceza Kanunu"
+      }
     },
     {
       "id": "2015-haber-393963",
@@ -1399,10 +1574,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tarihin-en-buyuk-kasirgasi-321-kilometre-hiza-ulasti-393963"
       },
-      "konular": [],
+      "konular": [
+        "Patricia Kasırgası",
+        "Meksika",
+        "Kasırga"
+      ],
       "yayin": "2015-10-24T11:42:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Patricia Kasırgası Meksika Kıyılarına Ulaştı",
+      "ozet": "Kayıtlara geçen en şiddetli fırtına olarak tanımlanan Patricia Kasırgası, saatte 321 kilometre hıza ulaşarak Meksika'nın Pasifik kıyılarına yaklaştı. Bölgeyi etkisi altına alması beklenen bu doğa olayı, hızıyla tarihteki en güçlü kasırgalar arasında yerini aldı.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg/960px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg/500px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 5568,
+        "yazar": "NASA/Goddard Space Flight Center",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210).jpg",
+        "aciklama": "iss056e162175 (Sept. 12, 2018) --- Cameras outside the International Space Station captured a stark and sobering view of Hurricane Florence the morning of Sept. 12 as it churned across the Atlantic in",
+        "konu": "Kasırga"
+      }
     },
     {
       "id": "2015-haber-393959",
@@ -1415,10 +1610,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-yardimcisini-tasiyan-ucak-corluya-zorunlu-inis-yapti-393959"
       },
-      "konular": [],
+      "konular": [
+        "Soraya Sáenz de Santamaría",
+        "Çorlu Havalimanı",
+        "Tekirdağ"
+      ],
       "yayin": "2015-10-24T11:41:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İspanya Başbakan Yardımcısını taşıyan uçak Çorlu'ya acil iniş gerçekleştirdi",
+      "ozet": "İspanya Başbakan Yardımcısı ve Hükümet Sözcüsü Soraya Saenz de Santamaria'yı taşıyan hava aracı, uçuş sırasında meydana gelen motor arızası sebebiyle rotasını değiştirdi. Uçak, Tekirdağ'da bulunan Çorlu Havalimanı'na güvenli bir şekilde zorunlu iniş yaptı.",
+      "kategori": "Ulaşım"
     },
     {
       "id": "2014-haber-133771",
@@ -1431,10 +1633,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/besiktas-galatasarayin-rekorunu-elinden-aldi-133771"
       },
-      "konular": [],
+      "konular": [
+        "Beşiktaş (futbol takımı)",
+        "UEFA Avrupa Ligi",
+        "FK Partizan"
+      ],
       "yayin": "2014-10-24T12:35:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Beşiktaş Avrupa kupalarında farklı galibiyet rekorunu geliştirdi",
+      "ozet": "UEFA Avrupa Ligi mücadelesinde Partizan ile karşılaşan Beşiktaş, rakibini dört golle mağlup ederek sahadan galibiyetle ayrıldı. Bu sonuçla birlikte siyah beyazlı ekip, daha önce Galatasaray'a ait olan Avrupa kupalarındaki en farklı skorla kazanma rekorunu kendi hanesine yazdırdı.",
+      "kategori": "Spor"
     },
     {
       "id": "2014-haber-133707",
@@ -1447,10 +1656,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/cumhurbaskanligi-ve-basbakanlik-arasinda-ilk-kriz-133707"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyeti Cumhurbaşkanlığı",
+        "Türkiye Cumhuriyeti Başbakanlığı"
+      ],
       "yayin": "2014-10-24T09:57:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanlığı ve Başbakanlık Arasında Danışman Gerginliği",
+      "ozet": "Cumhurbaşkanlığı makamı ile Başbakanlık kurumu arasında ilk defa bir anlaşmazlık yaşandı. Söz konusu gerginlik, danışman kadrosunda yer alan bir kişi hakkındaki köstebek iddiaları nedeniyle ortaya çıktı. İki kurum arasındaki bu tartışma, kamuoyunda dikkat çeken bir gelişme olarak kayıtlara geçti.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2013-haber-4215",
@@ -1463,10 +1679,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/mujdat-gezen-bu-karar-fasizmin-acik-sekli-4215"
       },
-      "konular": [],
+      "konular": [
+        "Müjdat Gezen",
+        "Tiyatro",
+        "Kadıköy"
+      ],
       "yayin": "2013-10-24T11:29:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Müjdat Gezen Kadıköy'deki Tiyatrosunda Gündemi Değerlendirdi",
+      "ozet": "Tiyatro ve sinema sanatçısı Müjdat Gezen, Kadıköy'de bulunan kültür merkezinde güncel gelişmelere dair açıklamalarda bulundu. Sanatçı, mevcut durumu eleştirerek kendi dünya görüşü ve tiyatro çalışmaları hakkında bilgiler paylaştı.",
+      "kategori": "Sanat"
     },
     {
       "id": "2013-haber-4245",
@@ -1479,10 +1702,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/aziz-yildirim-ali-koctan-baskasini-desteklemem-4245"
       },
-      "konular": [],
+      "konular": [
+        "Aziz Yıldırım",
+        "Ali Koç",
+        "Fenerbahçe"
+      ],
       "yayin": "2013-10-24T17:40:00+03:00",
       "puan": 2,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Aziz Yıldırım Seçimli Genel Kurul Hakkında Açıklamalarda Bulundu",
+      "ozet": "Fenerbahçe Kulübü Başkanı Aziz Yıldırım, yaklaşan seçimli genel kurul süreciyle ilgili değerlendirmeler yaptı. Yıldırım, adaylık sürecinde kendisi dışında yalnızca Ali Koç ismine destek verebileceğini ifade etti. Ayrıca kulüp başkanı, devam eden hukuki süreç ve Yargıtay kararı ile ilgili görüşlerini de kamuoyuyla paylaştı.",
+      "kategori": "Spor"
     },
     {
       "id": "2012-haber-378856",
@@ -1495,10 +1725,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/savcilik-basbakanliktan-izin-istedi-378856"
       },
-      "konular": [],
+      "konular": [
+        "Millî İstihbarat Teşkilatı",
+        "İstanbul Cumhuriyet Başsavcılığı",
+        "Soruşturma"
+      ],
       "yayin": "2012-10-24T15:45:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "MİT görevlileri hakkında soruşturma izni talebi",
+      "ozet": "İstanbul Cumhuriyet Başsavcılığı, bazı gazetecilerin de yer aldığı dokuz kişiyi sahte kimlik bilgileri kullanarak dinledikleri öne sürülen MİT personeli hakkında yasal süreç başlatmak için harekete geçti. Savcılık makamı, söz konusu iddiaların araştırılması amacıyla Başbakanlık kurumuna resmi başvuruda bulunarak soruşturma izni talep etti.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2012-haber-378838",
@@ -1511,10 +1749,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ozalin-mezari-yeniden-ziyarete-acildi-378838"
       },
-      "konular": [],
+      "konular": [
+        "Turgut Özal",
+        "Anıt Kabir"
+      ],
       "yayin": "2012-10-24T14:43:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Turgut Özal'ın Anıt Mezarı Ziyaretçilerini Kabul Etmeye Başladı",
+      "ozet": "Sekizinci Cumhurbaşkanı Turgut Özal'ın ebedi istirahatgahında gerçekleştirilen yenileme çalışmaları tamamlandı. Yapılan düzenlemelerin ardından anıt mezar, Kurban Bayramı öncesinde vatandaşların ziyaretine tekrar açıldı.",
+      "kategori": "Toplum",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
+        "genislik": 511,
+        "yukseklik": 659,
+        "orijinalGenislik": 511,
+        "yazar": "European Communities / Christian Lambiotte",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
+        "aciklama": "Turgut Özal, Turkish Prime Minister",
+        "konu": "Turgut Özal"
+      }
     },
     {
       "id": "2011-haber-293080",
@@ -1527,10 +1784,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kapsalin-istifasi-kabul-edildi-293080"
       },
-      "konular": [],
+      "konular": [
+        "Karşıyaka SK",
+        "Reha Kapsal",
+        "1. Lig"
+      ],
       "yayin": "2011-10-24T20:29:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Karşıyaka teknik direktörü Reha Kapsal görevinden ayrıldı",
+      "ozet": "Bank Asya 1. Lig takımlarından Karşıyaka bünyesinde görev yapan teknik direktör Reha Kapsal, kulüp yönetimine sunduğu istifa dilekçesiyle görevini bıraktı. Yönetim kurulu tarafından yapılan değerlendirme sonucunda deneyimli çalıştırıcının ayrılma talebi uygun görülerek kabul edildi.",
+      "kategori": "Spor"
     },
     {
       "id": "2011-haber-293050",
@@ -1543,10 +1807,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/deprem-yarin-tbmm-gundemine-geliyor-293050"
       },
-      "konular": [],
+      "konular": [
+        "2011 Van depremi",
+        "Türkiye Büyük Millet Meclisi",
+        "Van"
+      ],
       "yayin": "2011-10-24T17:04:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Van depremi Türkiye Büyük Millet Meclisi gündemine taşınıyor",
+      "ozet": "Van ilinde meydana gelen şiddetli sarsıntının ardından konu Türkiye Büyük Millet Meclisi Genel Kurulu'nda görüşülmeye başlandı. Milletvekilleri bölgedeki durumu ve atılacak adımları değerlendirmek üzere bir araya geldi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/960px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/500px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 2560,
+        "yazar": "Mevlüt Kılıç",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ho%C5%9Fap_Kalesi_(Van,_T%C3%BCrkiye).JPG",
+        "aciklama": "Hoşap Kalesi (Van, Türkiye)",
+        "konu": "Van"
+      }
     }
   ],
   "haberYillari": [

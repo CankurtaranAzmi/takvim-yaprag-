@@ -1988,10 +1988,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/depremin-1000-gunu-gecti-kahramanmaras-taki-saray-apartmani-saniklari-ilk-kez-hakim-karsisina-cikacak-2449294"
       },
-      "konular": [],
+      "konular": [
+        "Kahramanmaraş depremleri",
+        "Saray Apartmanı",
+        "Kahramanmaraş"
+      ],
       "yayin": "2025-11-03T10:41:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Saray Apartmanı davasında yargılama süreci başlıyor",
+      "ozet": "Kahramanmaraş merkezli depremlerde yıkılan ve iki kişinin yaşamını yitirdiği Saray Apartmanı ile ilgili hukuki süreç başladı. Dört sanığın yargılanacağı davada, hazırlanan iddianame kapsamında şüpheliler binanın inşaat aşamasında tüm yasal düzenlemelere ve teknik standartlara uyduklarını öne sürdü. Sanıklar, yapının sağlam bir şekilde inşa edildiğini savunarak belediyenin denetim süreçlerine dair iddiaları reddetti.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Kahramanmara%C5%9F_city_center.jpg/960px-Kahramanmara%C5%9F_city_center.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Kahramanmara%C5%9F_city_center.jpg/500px-Kahramanmara%C5%9F_city_center.jpg",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 6016,
+        "yazar": "Myrat",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kahramanmara%C5%9F_city_center.jpg",
+        "aciklama": "Kahramanmaraş'ın genel bir görünümü",
+        "konu": "Kahramanmaraş"
+      }
     },
     {
       "id": "2025-haber-2449390",
@@ -2004,10 +2024,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/borsanin-sampiyonu-belli-oldu-dort-buyukler-arasinda-yatirimcisina-en-cok-kazandiran-kulup-hangisi-2449390"
       },
-      "konular": [],
+      "konular": [
+        "Borsa İstanbul",
+        "Süper Lig",
+        "Spor ekonomisi"
+      ],
       "yayin": "2025-11-03T14:30:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Borsa İstanbul'da spor kulüplerinin yatırım performansı değerlendirildi",
+      "ozet": "Süper Lig'de geride kalan on bir haftalık süreçte spor kulüplerinin borsa performansları incelendi. Yatırımcıların yakından takip ettiği dört büyük kulübün hisse senetleri arasındaki rekabet netleşti. Yapılan analizler sonucunda, borsa liginde en yüksek getiriyi sağlayan spor kulübü belirlendi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2024-haber-2264820",
@@ -2020,10 +2047,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/istanbul-maratonunda-tum-zamanlarin-rekoru-kirildi-2264820"
       },
-      "konular": [],
+      "konular": [
+        "İstanbul Maratonu",
+        "Maraton",
+        "İstanbul"
+      ],
       "yayin": "2024-11-03T23:54:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İstanbul Maratonu'nda Katılım Sayısında Yeni Rekor Kaydedildi",
+      "ozet": "İstanbul Maratonu'na katılan sporcuların yarışı tamamlama oranında tarihi bir seviyeye ulaşıldı. Organizasyon yetkilileri, toplam 4 bin 156 kişinin bitiş çizgisine ulaşmasıyla birlikte etkinlik tarihindeki en yüksek katılım rekorunun kırıldığını duyurdu.",
+      "kategori": "Spor"
     },
     {
       "id": "2024-haber-2264771",
@@ -2036,10 +2070,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/mustafa-destici-asgari-ucret-icin-rakam-erken-secim-icin-tarih-verdi-2264771"
       },
-      "konular": [],
+      "konular": [
+        "Mustafa Destici",
+        "Büyük Birlik Partisi",
+        "Asgari ücret"
+      ],
       "yayin": "2024-11-03T19:42:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "BBP Genel Başkanı Destici asgari ücret ve seçim konusundaki görüşlerini paylaştı",
+      "ozet": "Büyük Birlik Partisi Genel Başkanı Mustafa Destici, önümüzdeki yıl uygulanacak asgari ücret miktarına dair beklentilerini dile getirdi. Aynı zamanda erken seçim tartışmalarına da değinen Destici, konuyla ilgili kendi öngördüğü takvimi kamuoyuyla paylaştı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2023-haber-2136963",
@@ -2052,10 +2093,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/erdogan-soz-vermisti-vergisiz-cep-telefonu-aldatmacasi-2136963"
       },
-      "konular": [],
+      "konular": [
+        "Akıllı telefon",
+        "Vergi",
+        "Türkiye"
+      ],
       "yayin": "2023-11-03T03:00:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Gençlere vergisiz telefon uygulamasında teknik aksaklıklar yaşandı",
+      "ozet": "Seçim döneminde gençlere yönelik duyurulan vergisiz telefon satışı uygulaması için belirlenen başlangıç tarihi geçmesine rağmen süreçte belirsizlikler ortaya çıktı. Uygulamanın usul ve esaslarına dair resmi düzenlemelerin henüz yayımlanmaması nedeniyle teknoloji mağazaları satış işlemlerini gerçekleştiremedi. Mali müşavirler ise vergi iadesi sürecinin uzun bir zaman alabileceği konusunda değerlendirmelerde bulundu.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2137051",
@@ -2068,10 +2116,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/chpli-arpaci-tekstil-sektorundeki-krizi-meclise-tasidi-2137051"
       },
-      "konular": [],
+      "konular": [
+        "Tekstil",
+        "Şeref Arpacı",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2023-11-03T11:07:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Tekstil sektöründeki sorunlar Türkiye Büyük Millet Meclisi gündemine taşındı",
+      "ozet": "Denizli Milletvekili Şeref Arpacı, Ticaret Bakanlığı bütçe görüşmeleri sırasında tekstil alanında yaşanan sıkıntıları dile getirdi. Arpacı, yılın ilk çeyreğinde emeklilikte yaşa takılanlar düzenlemesinin ardından sektörde işten ayrılanların sayısındaki artışa vurgu yaptı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-1999187",
@@ -2084,10 +2139,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/ekim-ayinin-zam-sampiyonu-sebze-1999187"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye İstatistik Kurumu",
+        "Enflasyon",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2022-11-03T11:43:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ekim ayında en yüksek fiyat artışı sebze grubunda görüldü",
+      "ozet": "Türkiye İstatistik Kurumu tarafından paylaşılan güncel verilere göre, yılın onuncu ayında fiyatı en fazla yükselen ürün grubu sebzeler olarak belirlendi. Söz konusu dönemde sebze fiyatlarında yüzde 26,23 oranında bir artış yaşandığı açıklandı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2022-haber-1999078",
@@ -2100,10 +2162,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/akp-secim-oncesi-yine-din-kartini-acti-kamu-olanaklarini-kullanmaya-basladi-1999078"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye siyaseti",
+        "Recep Tayyip Erdoğan",
+        "Süleyman Soylu"
+      ],
       "yayin": "2022-11-03T04:00:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Siyasi yetkililerin dini söylemleri kamuoyunda tartışma yarattı",
+      "ozet": "İktidar kanadından gelen bazı açıklamalar ve talimatlar muhalefet tarafından tepkiyle karşılandı. Cumhurbaşkanının müftülere anayasa değişikliği konusunda görev vermesinin ardından İçişleri Bakanı da emniyet mensuplarına yönelik dini içerikli ifadeler kullandı. Muhalefet temsilcileri bu durumu devletin tarafsızlığına aykırı bularak eleştirdi ve kamu imkanlarının siyasi amaçlarla kullanıldığını savundu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2021-haber-1881755",
@@ -2116,10 +2185,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/turk-atletizmi-avrupa-kros-sampiyonasinda-gozunu-zirveye-dikti-1881755"
       },
-      "konular": [],
+      "konular": [
+        "Avrupa Kros Şampiyonası",
+        "Türkiye Atletizm Federasyonu",
+        "Fatih Çintimar"
+      ],
       "yayin": "2021-11-03T11:04:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Avrupa Kros Şampiyonası için Türkiye'nin hedefi zirve",
+      "ozet": "Türkiye Atletizm Federasyonu Başkanı Fatih Çintimar, yaklaşan Avrupa Kros Şampiyonası'na dair beklentilerini paylaştı. Hem bireysel kategorilerde hem de takım halinde altın madalyalar kazanmayı hedeflediklerini ifade etti. Sporcuların şampiyonluk parolasıyla hazırlıklarını sürdürdüğünü belirtti.",
+      "kategori": "Spor"
     },
     {
       "id": "2021-haber-1881831",
@@ -2132,10 +2208,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/yigit-buluttan-erdogan-paylasimi-havalimani-goruntuleri-1881831"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Yiğit Bulut",
+        "Ankara"
+      ],
       "yayin": "2021-11-03T14:47:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhurbaşkanı Erdoğan'ın Ankara'daki Karşılanma Görüntüleri Paylaşıldı",
+      "ozet": "Cumhurbaşkanı Başdanışmanı Yiğit Bulut, Recep Tayyip Erdoğan'ın Ankara'ya gelişi sırasında havalimanında gerçekleşen karşılama törenine ait görüntüleri kamuoyuyla paylaştı. Söz konusu görüntülerde, havalimanındaki karşılama anları yer aldı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2020-haber-1788170",
@@ -2148,10 +2231,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dolar-ve-avro-rekor-kirarken-berat-albayrak-bu-mesaji-verdi-1788170"
       },
-      "konular": [],
+      "konular": [
+        "Berat Albayrak",
+        "Türkiye ekonomisi",
+        "Döviz"
+      ],
       "yayin": "2020-11-03T17:06:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Döviz kurlarında yaşanan yükselişin ardından ekonomi yönetiminden açıklama",
+      "ozet": "Doların 8.53 seviyesini aşarak rekor tazelediği günde avro 10 lira, İngiliz sterlini ise 11 lira sınırına ulaştı. Piyasalardaki bu hareketliliğin yaşandığı süreçte Hazine ve Maliye Bakanı Berat Albayrak konuyla ilgili bir değerlendirme paylaştı.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Berat_Albayrak.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Berat_Albayrak.jpg",
+        "genislik": 613,
+        "yukseklik": 802,
+        "orijinalGenislik": 613,
+        "yazar": "Yasin Akgül",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Berat_Albayrak.jpg",
+        "aciklama": "Turkish Treasury and Finance Minister Berat Albayrak at a press conference after the EU-Turkey High Level Economic Dialogue Meeting in Istanbul, Turkey",
+        "konu": "Berat Albayrak"
+      }
     },
     {
       "id": "2020-haber-1788175",
@@ -2164,10 +2267,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erkan-bastan-akpye-deprem-vergileri-cikisi-1788175"
       },
-      "konular": [],
+      "konular": [
+        "Erkan Baş",
+        "Türkiye İşçi Partisi",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2020-11-03T17:27:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Erkan Baş deprem vergilerinin kullanımını meclis gündemine taşıdı",
+      "ozet": "Türkiye İşçi Partisi Genel Başkanı Erkan Baş, Türkiye Büyük Millet Meclisi bünyesinde düzenlediği haftalık basın toplantısında açıklamalarda bulundu. Baş, konuşmasında deprem vergilerinin akıbetine ilişkin eleştirilerini dile getirerek konunun takipçisi olacaklarını belirtti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2019-haber-1573190",
@@ -2180,10 +2290,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tbmmde-butce-maratonu-basliyor-1573190"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Bütçe",
+        "Su Ürünleri Kanunu"
+      ],
       "yayin": "2019-11-03T12:22:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Meclis gündeminde bütçe görüşmeleri ve su ürünleri düzenlemesi yer alıyor",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, 2020 mali yılı bütçesini değerlendirmek üzere çalışmalarına başladı. Aynı süreçte Genel Kurul gündemine gelen Su Ürünleri Kanunu değişikliği ile avlanma kurallarını ihlal edenlere yönelik daha sert cezai yaptırımların uygulanması hedeflendi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2019-haber-1573181",
@@ -2196,10 +2313,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yonex-macaristan-uluslararasi-badminton-sampiyonasinda-2-madalya-1573181"
       },
-      "konular": [],
+      "konular": [
+        "Badminton",
+        "Macaristan"
+      ],
       "yayin": "2019-11-03T12:02:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Macaristan Badminton Şampiyonası'nda Milli Sporcular İki Madalya Kazandı",
+      "ozet": "Tokyo Olimpiyatları'na katılım hakkı kazanmak isteyen sporcuların yarıştığı 44. Yonex Macaristan Uluslararası Badminton Şampiyonası tamamlandı. Toplamda 251 sporcunun kota alabilmek için mücadele ettiği turnuvada milli sporcular iki madalya elde ederek organizasyonu noktaladı.",
+      "kategori": "Spor"
     },
     {
       "id": "2018-haber-1130546",
@@ -2212,10 +2335,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/grekoromen-guresciler-balkan-sampiyonu-1130546"
       },
-      "konular": [],
+      "konular": [
+        "Grekoromen güreş",
+        "Türkiye millî güreş takımı"
+      ],
       "yayin": "2018-11-03T16:09:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Gençler Balkan Güreş Şampiyonası'nda Türkiye Birinci Oldu",
+      "ozet": "Türkiye Grekoromen Milli Takımı, katıldığı Gençler Balkan Güreş Şampiyonası'nı zirvede tamamladı. Organizasyon boyunca başarılı bir performans sergileyen milli sporcular, toplamda yedi altın ve üç gümüş madalya kazanarak takım halinde şampiyonluk kupasını kaldırdı.",
+      "kategori": "Spor"
     },
     {
       "id": "2018-haber-1130797",
