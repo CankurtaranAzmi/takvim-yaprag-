@@ -1027,7 +1027,7 @@
     "url": "https://tr.wikipedia.org/wiki/26_Ekim",
     "revid": 38168165
   },
-  "guncelleme": "2026-10-22T11:21:29.838Z",
+  "guncelleme": "2026-10-23T11:11:58.756Z",
   "haberler": [
     {
       "id": "2025-haber-2447147",
@@ -1040,10 +1040,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/zirvede-fark-acildi-el-clasico-da-zafer-real-madrid-in-2447147"
       },
-      "konular": [],
+      "konular": [
+        "El Clasico",
+        "Real Madrid",
+        "Barcelona"
+      ],
       "yayin": "2025-10-26T20:30:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Real Madrid evinde oynanan El Clasico mücadelesini kazandı",
+      "ozet": "İspanya La Liga liginin onuncu haftasında Real Madrid ve Barcelona takımları karşı karşıya geldi. Santiago Bernabeu Stadyumu'nda gerçekleşen müsabakayı ev sahibi ekip ikiye bir skorla galip tamamladı. Bu sonuçla birlikte Real Madrid puan farkını açarak zirvedeki yerini sağlamlaştırdı.",
+      "kategori": "Spor"
     },
     {
       "id": "2025-haber-2446998",
@@ -1056,10 +1063,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/tbmm-de-bu-hafta-butce-gorusmeleri-disisleri-ve-adalet-bakanlari-sunum-yapacak-2446998"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Hakan Fidan",
+        "Yılmaz Tunç"
+      ],
       "yayin": "2025-10-26T10:34:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Mecliste bütçe mesaisi ve bakanların sunumları başlıyor",
+      "ozet": "Türkiye Büyük Millet Meclisi bünyesindeki Plan ve Bütçe Komisyonu, kamu kurumlarının gelecek yılki bütçe tekliflerini değerlendirmek üzere çalışmalarına başladı. Bu süreç kapsamında Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu da bir araya geldi. Toplantıda Dışişleri Bakanı Hakan Fidan ile Adalet Bakanı Yılmaz Tunç, kendi bakanlıklarının faaliyetlerine ilişkin bilgilendirmelerde bulundu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2262121",
@@ -1072,10 +1086,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/mhpde-deprem-8-ilce-baskani-istifa-etti-2262121"
       },
-      "konular": [],
+      "konular": [
+        "Milliyetçi Hareket Partisi",
+        "Burdur",
+        "Siyaset"
+      ],
       "yayin": "2024-10-26T22:32:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Burdur ilçe teşkilatlarında toplu istifa kararı alındı",
+      "ozet": "Milliyetçi Hareket Partisi Burdur teşkilatında yaşanan il başkanlığı değişikliği sonrasında yeni bir gelişme yaşandı. Bu görev değişiminin ardından sekiz farklı ilçenin başkanları görevlerinden ayrıldıklarını duyurdu. Söz konusu istifalar parti içindeki yönetim değişikliği sürecinin bir yansıması olarak gerçekleşti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2261978",
@@ -1088,10 +1109,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/besiktas-derbisi-oncesi-galatasaraydan-prim-karari-2261978"
       },
-      "konular": [],
+      "konular": [
+        "Galatasaray (futbol takımı)",
+        "Beşiktaş (futbol takımı)",
+        "Süper Lig"
+      ],
       "yayin": "2024-10-26T11:56:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Galatasaray yönetiminden derbi öncesi oyunculara moral ziyareti",
+      "ozet": "Galatasaraylı yöneticilerin Beşiktaş ile oynanacak karşılaşma öncesinde Florya Metin Oktay Tesisleri'ne bir ziyaret gerçekleştireceği belirtildi. Söz konusu ziyarette yönetimin oyunculara derbi galibiyeti için prim sözü vereceği ifade edildi.",
+      "kategori": "Spor"
     },
     {
       "id": "2023-haber-2134362",
@@ -1104,10 +1132,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/merkezi-bankasi-faiz-karari-ne-oldu-tcmb-2023-ekim-ayi-faiz-karari-2134362"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Faiz",
+        "Ekonomi"
+      ],
       "yayin": "2023-10-26T14:10:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türkiye Cumhuriyet Merkez Bankası Ekim Ayı Faiz Kararını Açıkladı",
+      "ozet": "Türkiye Cumhuriyet Merkez Bankası Para Politikası Kurulu, ekim ayına ilişkin faiz oranlarını belirleyerek kamuoyuyla paylaştı. Ekonomi çevreleri tarafından yakından takip edilen toplantı sonucunda alınan karar, bankanın resmi kanalları üzerinden duyuruldu. Böylece kurumun ekim dönemi için uygulayacağı yeni faiz politikası netleşmiş oldu.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2134196",
@@ -1120,10 +1155,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/dolarda-yeni-rekor-dolar-ve-euro-ne-kadar-oldu-26-ekim-2023-doviz-2134196"
       },
-      "konular": [],
+      "konular": [
+        "Döviz kuru",
+        "Borsa İstanbul",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2023-10-26T09:42:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Döviz piyasalarında yeni zirve seviyeleri görüldü",
+      "ozet": "Bölgesel gerilimlerin etkisiyle finansal piyasalarda hareketlilik yaşandı. Borsa İstanbul'da kaydedilen düşüşün ardından dolar kuru, 28.32 seviyesine ulaşarak yeni bir rekor kırdı. Döviz kurlarındaki bu değişim, jeopolitik gelişmelerin piyasalar üzerindeki yansıması olarak değerlendirildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2022-haber-1996566",
@@ -1136,10 +1178,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/ahmet-esref-fakibabanin-milletvekilliginden-istifasi-tbmm-genel-kurulunda-kabul-edildi-1996566"
       },
-      "konular": [],
+      "konular": [
+        "Ahmet Eşref Fakıbaba",
+        "Türkiye Büyük Millet Meclisi",
+        "Siyaset"
+      ],
       "yayin": "2022-10-26T20:14:00+03:00",
       "puan": 15,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ahmet Eşref Fakıbaba'nın Milletvekilliği İstifası Meclis'te Onaylandı",
+      "ozet": "Daha önce Adalet ve Kalkınma Partisi üyeliğinden ayrılan ve İYİ Parti bünyesine dahil olan Ahmet Eşref Fakıbaba'nın milletvekilliğinden çekilme talebi Türkiye Büyük Millet Meclisi Genel Kurulu'nda görüşüldü. Yapılan oylama sonucunda Fakıbaba'nın istifası kabul edildi. Bu kararla birlikte kendisinin milletvekilliği görevi resmen sona erdi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-1996259",
@@ -1152,10 +1201,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/cokesliligin-yasal-oldugu-katarla-koruma-anlasmasi-imzalandi-1996259"
       },
-      "konular": [],
+      "konular": [
+        "Katar",
+        "Türkiye",
+        "Aile"
+      ],
       "yayin": "2022-10-26T04:00:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Katar ile aile değerlerinin korunması üzerine iş birliği anlaşması yapıldı",
+      "ozet": "Türkiye ve Katar arasında aile yapısının güçlendirilmesi ve toplumsal değerlerin muhafaza edilmesi amacıyla bir mutabakat metni imzalandı. Söz konusu anlaşma, Katar hukukunda yer alan çok eşlilik uygulaması nedeniyle kamuoyunda çeşitli tartışmalara konu oldu. İki ülke, aile kurumunu desteklemeye yönelik ortak politikalar geliştirme konusunda uzlaştı.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2021-haber-1879910",
@@ -1168,10 +1225,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-lubnan-tezkeresi-tbmmde-kabul-edildi-1879910"
       },
-      "konular": [],
+      "konular": [
+        "Lübnan",
+        "Birleşmiş Milletler Geçici Görev Gücü",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2021-10-26T20:54:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Lübnan'daki Birleşmiş Milletler Görev Süresi Uzatıldı",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, Türk Silahlı Kuvvetleri unsurlarının Lübnan'da bulunan Birleşmiş Milletler Geçici Görev Gücü bünyesindeki faaliyet süresini bir yıl daha uzatan Cumhurbaşkanlığı tezkeresini onayladı. Bu kararla birlikte Türkiye'nin bölgedeki barış gücü desteğinin devam etmesi kararlaştırıldı.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2021-haber-1879785",
@@ -1184,10 +1249,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/polonya-basbakani-ab-3-dunya-savasini-cikarirsa-biz-ulkemizin-haklarini-savunacagiz-1879785"
       },
-      "konular": [],
+      "konular": [
+        "Mateusz Morawiecki",
+        "Polonya",
+        "Avrupa Birliği"
+      ],
       "yayin": "2021-10-26T12:29:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Polonya Başbakanı Avrupa Birliği ile Yaşanan Gerilime Değindi",
+      "ozet": "Polonya Başbakanı Mateusz Morawiecki, ülkesine ayrılan fonların kısıtlanması nedeniyle Avrupa Birliği yönetimine tepki gösterdi. Birlik ile yaşanan anlaşmazlıkların olası bir küresel çatışmaya yol açması durumunda ülkesinin çıkarlarını korumak için gereken adımları atacaklarını ifade etti. Hükümetin haklarını savunma konusundaki kararlılığını vurgulayan Morawiecki, diplomatik süreçteki sert tutumunu sürdürdü.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Mateusz_Morawiecki_Prezes_Rady_Ministr%C3%B3w_%28cropped%29.jpg/960px-Mateusz_Morawiecki_Prezes_Rady_Ministr%C3%B3w_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Mateusz_Morawiecki_Prezes_Rady_Ministr%C3%B3w_%28cropped%29.jpg/500px-Mateusz_Morawiecki_Prezes_Rady_Ministr%C3%B3w_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1278,
+        "orijinalGenislik": 1899,
+        "yazar": "Kancelaria Premiera",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mateusz_Morawiecki_Prezes_Rady_Ministr%C3%B3w_(cropped).jpg",
+        "aciklama": "Mateusz Morawiecki Prezes Rady Ministrów",
+        "konu": "Mateusz Morawiecki"
+      }
     },
     {
       "id": "2020-haber-1776094",
@@ -1200,10 +1285,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dolartl-kuru-haftaya-rekorla-basladi-798-1776094"
       },
-      "konular": [],
+      "konular": [
+        "Döviz kuru",
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Ekonomi"
+      ],
       "yayin": "2020-10-26T05:17:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Döviz kurlarında haftanın ilk gününde yeni zirveler görüldü",
+      "ozet": "Merkez Bankasının faiz oranlarını sabit tutma kararının ardından döviz piyasalarında hareketlilik yaşandı. Haftanın başlangıcında Asya piyasalarında dolar 7,98 seviyesini aşarak tarihi bir noktaya ulaştı. Aynı süreçte euro kuru da 9,46 değerini geçerek kendi rekorunu yeniledi.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/South_East_Asia_Exchange_Rates_%286031878489%29.jpg/960px-South_East_Asia_Exchange_Rates_%286031878489%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/South_East_Asia_Exchange_Rates_%286031878489%29.jpg/500px-South_East_Asia_Exchange_Rates_%286031878489%29.jpg",
+        "genislik": 960,
+        "yukseklik": 957,
+        "orijinalGenislik": 1027,
+        "yazar": "Nick Hubbard",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:South_East_Asia_Exchange_Rates_(6031878489).jpg",
+        "aciklama": "Next time I will bring in sterling, and not be ripped of by those money changers back home. Thai baht.",
+        "konu": "Döviz kuru"
+      }
     },
     {
       "id": "2020-haber-1776283",
@@ -1216,10 +1321,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kritik-zirve-sonrasi-onemli-aciklama-bu-yol-sampiyonluk-yolu-1776283"
       },
-      "konular": [],
+      "konular": [
+        "Galatasaray (futbol takımı)",
+        "Mustafa Cengiz",
+        "Fatih Terim"
+      ],
       "yayin": "2020-10-26T18:21:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Galatasaray kulübünde yönetim ve teknik heyet bir araya geldi",
+      "ozet": "Galatasaray Başkanı Mustafa Cengiz ve Teknik Direktör Fatih Terim, Türk Telekom Stadyumu bünyesinde bir görüşme gerçekleştirdi. Toplantının ardından kulüp yönetimi tarafından konuyla ilgili resmi bir bilgilendirme yapıldı.",
+      "kategori": "Spor"
     },
     {
       "id": "2018-haber-1123115",
@@ -1232,10 +1344,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tusiad-sorun-kur-ve-faiz-degil-secimlerimiz-1123115"
       },
-      "konular": [],
+      "konular": [
+        "TÜSİAD",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2018-10-26T21:42:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "TÜSİAD Başkanı Türkiye ekonomisindeki temel soruna dair değerlendirme yaptı",
+      "ozet": "TÜSİAD Başkanı, ülkenin yaşadığı ekonomik sıkıntıların temelinde döviz kuru, faiz oranları, borçluluk durumu veya cari açık gibi unsurların bulunmadığını belirtti. Mevcut ekonomik tablonun asıl sebebinin atılan adımlar ve yapılan tercihler olduğunu ifade etti. Bu açıklamalarla birlikte ekonomik gidişata dair farklı bir bakış açısı ortaya koydu.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/IFM_G%C3%B6rsel_%28cropped%29.jpg/960px-IFM_G%C3%B6rsel_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/IFM_G%C3%B6rsel_%28cropped%29.jpg/500px-IFM_G%C3%B6rsel_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 637,
+        "orijinalGenislik": 4437,
+        "yazar": "Acode37",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:IFM_G%C3%B6rsel_(cropped).jpg",
+        "aciklama": "default",
+        "konu": "Türkiye ekonomisi"
+      }
     },
     {
       "id": "2018-haber-1122523",
@@ -1248,10 +1379,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyon-belli-ikinci-kim-1122523"
       },
-      "konular": [],
+      "konular": [
+        "MotoGP",
+        "Avustralya Grand Prix"
+      ],
       "yayin": "2018-10-26T11:59:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "MotoGP Avustralya Grand Prix heyecani basliyor",
+      "ozet": "MotoGP Dünya Sampiyonasi kapsaminda sezonun on yedinci yarisi Avustralya topraklarinda gerçeklestirilecek. Sampiyonun önceden belli oldugu organizasyonda, pilotlar bu kez ikincilik mücadelesi için pistte yer alacak. Pazar günü düzenlenecek olan yaris, motor sporlari tutkunlari tarafindan takip edilecek.",
+      "kategori": "Spor"
     },
     {
       "id": "2017-haber-853171",
@@ -1264,10 +1401,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/eski-pakistan-basbakani-navaz-serif-hakkinda-tutuklama-karari-853171"
       },
-      "konular": [],
+      "konular": [
+        "Navaz Şerif",
+        "Pakistan"
+      ],
       "yayin": "2017-10-26T13:22:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Pakistan'da Eski Başbakan Navaz Şerif Hakkında Tutuklama Kararı Çıktı",
+      "ozet": "Pakistan Ulusal Yolsuzlukla Mücadele Mahkemesi, eski Başbakan Navaz Şerif ile ilgili hukuki bir süreç başlattı. Mahkeme, yürütülen yolsuzluk soruşturması kapsamında Şerif hakkında tutuklama kararı verilmesine hükmetti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/PrimeMinisterNawazSharif.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/PrimeMinisterNawazSharif.jpg",
+        "genislik": 570,
+        "yukseklik": 720,
+        "orijinalGenislik": 570,
+        "yazar": "Z A Balti",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:PrimeMinisterNawazSharif.jpg",
+        "aciklama": "Official Photograph of Nawaz Sharif, Prime Minister of the Islamic Republic of Pakistan taken by his personal photographer Z A Balti, released for public domain.",
+        "konu": "Navaz Şerif"
+      }
     },
     {
       "id": "2017-haber-853515",
@@ -1280,10 +1436,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/merkez-bankasinin-faiz-karari-sonrasi-dolar-382-lirayi-asti-853515"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Döviz kuru",
+        "Ekonomi"
+      ],
       "yayin": "2017-10-26T19:02:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Merkez Bankası faiz kararı sonrasında döviz kurlarında hareketlilik yaşandı",
+      "ozet": "Merkez Bankası kısa vadeli faiz oranlarında herhangi bir değişikliğe gitmeme kararı aldı. Bu gelişmenin ardından piyasalarda doların değeri yükseliş göstererek 3,82 lira seviyesinin üzerine çıktı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2016-haber-621957",
@@ -1296,10 +1459,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/asgari-ucretlilere-vergi-destegi-tbmmde-kabul-edildi-621957"
       },
-      "konular": [],
+      "konular": [
+        "Asgari ücret",
+        "Türkiye Büyük Millet Meclisi",
+        "Gelir vergisi"
+      ],
       "yayin": "2016-10-26T21:12:00+03:00",
       "puan": 16,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Asgari ücretliler için vergi düzenlemesi meclisten geçti",
+      "ozet": "Gelir Vergisi Kanunu üzerinde yapılan değişiklik teklifi Türkiye Büyük Millet Meclisi Genel Kurulu tarafından onaylandı. Bu düzenleme, vergi dilimi kesintileri sebebiyle maaşları bin üç yüz liranın altına gerileyen çalışanların gelir kaybını gidermeyi amaçlıyor. Kabul edilen yasa ile asgari ücretlilerin yaşadığı maddi farkın telafi edilmesi hedeflendi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2016-haber-621683",
@@ -1312,10 +1482,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/anayasa-mahkemesi-game-of-thrones-izleten-yuzbasi-icin-kararini-verdi-621683"
       },
-      "konular": [],
+      "konular": [
+        "Anayasa Mahkemesi",
+        "Maltepe Askeri Lisesi",
+        "Türkiye"
+      ],
       "yayin": "2016-10-26T13:38:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Anayasa Mahkemesinden Askeri Personel İçin Hak İhlali Kararı",
+      "ozet": "İzmir Maltepe Askeri Lisesi bünyesinde görevliyken öğrencilere televizyon dizisi izlettiği gerekçesiyle Türk Silahlı Kuvvetleri ile ilişiği kesilen yüzbaşı, konuyu yargıya taşıdı. Anayasa Mahkemesi, yapılan başvuruyu değerlendirerek ilgili kişinin adil yargılanma hakkının ihlal edildiğine hükmetti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2015-haber-395595",
@@ -1328,10 +1505,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akpli-mehmet-ali-sahinden-1-kasim-sonrasi-secim-sinyali-395595"
       },
-      "konular": [],
+      "konular": [
+        "Mehmet Ali Şahin",
+        "Adalet ve Kalkınma Partisi",
+        "Türkiye'de seçimler"
+      ],
       "yayin": "2015-10-26T21:25:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Mehmet Ali Şahin'den Kasım Seçimleri Sonrasına Dair Değerlendirme",
+      "ozet": "Adalet ve Kalkınma Partisi Genel Başkan Yardımcısı Mehmet Ali Şahin, yaklaşan seçimlerin ardından oluşabilecek siyasi tabloya ilişkin açıklamalarda bulundu. Şahin, seçim sonuçlarının ardından izlenecek sürece dair görüşlerini kamuoyuyla paylaştı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2015-haber-395517",
@@ -1344,10 +1528,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sinan-samil-sama-sampiyon-destek-395517"
       },
-      "konular": [],
+      "konular": [
+        "Sinan Şamil Sam",
+        "Boks"
+      ],
       "yayin": "2015-10-26T17:52:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Eski Boks Şampiyonu Sinan Şamil Sam İçin Destek Ziyareti",
+      "ozet": "Karaciğer yetmezliği teşhisiyle tedavi gören eski Dünya Kıtalararası Ağır Sıklet Boks Şampiyonu Sinan Şamil Sam'a moral vermek amacıyla bir grup eski şampiyon sporcu bir araya geldi. Milli boksörün sağlık durumunu yakından takip eden meslektaşları, tedavi sürecinde kendisine desteklerini göstermek için ziyarette bulundu.",
+      "kategori": "Spor"
     },
     {
       "id": "2014-haber-134383",
@@ -1360,10 +1550,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sebastien-ogier-ust-uste-2-kez-sampiyon-134383"
       },
-      "konular": [],
+      "konular": [
+        "Dünya Ralli Şampiyonası",
+        "Sebastien Ogier",
+        "Ralli"
+      ],
       "yayin": "2014-10-26T15:54:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Sebastien Ogier Dünya Ralli Şampiyonası'nda ikinci kez zirveye ulaştı",
+      "ozet": "İspanya Rallisi'nde elde ettiği birincilikle genel klasmandaki yerini sağlamlaştıran Volkswagen pilotu Sebastien Ogier, sezonun tamamlanmasına bir etap kala şampiyonluğunu ilan etti. Başarılı sürücü, böylece kariyerinde üst üste ikinci kez dünya şampiyonluğu sevinci yaşamış oldu.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Peugeot_206_WRC.jpg/960px-Peugeot_206_WRC.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Peugeot_206_WRC.jpg/500px-Peugeot_206_WRC.jpg",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 1024,
+        "yazar": "Christopher Batt",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Peugeot_206_WRC.jpg",
+        "aciklama": "Juuso Pykälistö (FIN) in his Peugeot 206 WRC during the 2003 Swedish Rally.",
+        "konu": "Ralli"
+      }
     },
     {
       "id": "2014-haber-134301",
@@ -1376,10 +1586,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/apple-1-acik-artirmayla-rekor-bir-fiyata-satildi-134301"
       },
-      "konular": [],
+      "konular": [
+        "Apple-1",
+        "Apple",
+        "Kişisel bilgisayar"
+      ],
       "yayin": "2014-10-26T10:03:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Nadir Bir Apple-1 Bilgisayar Açık Artırmada Yüksek Fiyata Satıldı",
+      "ozet": "New York kentindeki Bonhams müzayede evinde gerçekleştirilen açık artırmada, 1976 yılında üretilen ilk elli cihaz arasında yer alan Apple-1 bilgisayar satışa sunuldu. Beklentilerin üzerinde ilgi gören tarihi bilgisayar, öngörülen değerinin iki katına ulaştı. Koleksiyon değeri taşıyan bu teknolojik ürün, dokuz yüz beş bin dolarlık bedelle yeni sahibine ulaştı.",
+      "kategori": "Teknoloji",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/960px-Aerial_view_of_Apple_Park_dllu.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/500px-Aerial_view_of_Apple_Park_dllu.jpg",
+        "genislik": 960,
+        "yukseklik": 641,
+        "orijinalGenislik": 7729,
+        "yazar": "Daniel L. Lu (user:dllu)",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Apple_Park_dllu.jpg",
+        "aciklama": "Aerial view of Apple Park, the corporate headquarters of Apple Inc., located in Cupertino, California. The roof is covered in solar panels with an output of 17 MWp, making it one of the biggest solar ",
+        "konu": "Apple"
+      }
     },
     {
       "id": "2013-haber-4337",
@@ -1392,10 +1622,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/depremin-ardindan-tsunami-uyarisi-4337"
       },
-      "konular": [],
+      "konular": [
+        "Fukuşima Nükleer Santrali",
+        "Deprem",
+        "Japonya"
+      ],
       "yayin": "2013-10-26T11:11:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Japonya kıyılarında şiddetli deprem ve tsunami uyarısı",
+      "ozet": "Fukuşima Nükleer Santrali civarında gerçekleşen sarsıntı bölge genelinde endişeye yol açtı. Amerikan Jeolojik Araştırma Merkezi depremin büyüklüğünü 7.3 olarak ölçerken, Japon Meteoroloji Ajansı bu değeri 7.1 şeklinde açıkladı. Sarsıntının ardından yetkililer tarafından tsunami uyarısı yapıldı.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
+        "genislik": 800,
+        "yukseklik": 420,
+        "orijinalGenislik": 800,
+        "yazar": "NASA",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Quake_epicenters_1963-98_notitle.png",
+        "aciklama": "Quake epicenters: Preliminary Determination of Epicenters, 358,214 Events, 1963 - 1998",
+        "konu": "Deprem"
+      }
     },
     {
       "id": "2013-haber-4328",
@@ -1408,10 +1658,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/frankfurt-turk-filmleri-festivali-basladi-4328"
       },
-      "konular": [],
+      "konular": [
+        "Frankfurt Türk Filmleri Festivali",
+        "Frankfurt",
+        "Almanya"
+      ],
       "yayin": "2013-10-26T10:40:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Frankfurt Türk Filmleri Festivali on üçüncü kez düzenleniyor",
+      "ozet": "Almanya'nın Frankfurt kentinde Türk sinemasının seçkin örneklerini bir araya getiren festivalin on üçüncüsü gerçekleştirildi. Etkinlik kapsamında çeşitli yapımlar izleyiciyle buluşurken sinema dünyasından isimler de programda yer aldı.",
+      "kategori": "Sanat"
     },
     {
       "id": "2012-haber-379138",
@@ -1424,10 +1681,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ispanyada-issiz-sayisinda-yeni-rekor-379138"
       },
-      "konular": [],
+      "konular": [
+        "İspanya ekonomisi",
+        "İşsizlik"
+      ],
       "yayin": "2012-10-26T12:19:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İspanya genelinde işsizlik oranı tarihi bir seviyeye ulaştı",
+      "ozet": "İspanya Ulusal İstatistik Enstitüsü bünyesindeki EPA tarafından paylaşılan veriler, ülkede işsiz kalan vatandaşların sayısının 5 milyon 778 bin 100 kişiye yükseldiğini gösterdi. Bu rakamlar, İspanya tarihinde kaydedilen en yüksek işsizlik seviyesi olarak kayıtlara geçti.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Madrid_Cuatro_Torres_Business_Area.jpg/960px-Madrid_Cuatro_Torres_Business_Area.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Madrid_Cuatro_Torres_Business_Area.jpg/500px-Madrid_Cuatro_Torres_Business_Area.jpg",
+        "genislik": 960,
+        "yukseklik": 540,
+        "orijinalGenislik": 4000,
+        "yazar": "Xauxa Håkan Svensson",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Madrid_Cuatro_Torres_Business_Area.jpg",
+        "aciklama": "Madrid, Spain. Cuatro Torres Business Area.",
+        "konu": "İspanya ekonomisi"
+      }
     },
     {
       "id": "2012-haber-379150",
@@ -1440,10 +1716,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/isvecte-yabanci-karsiti-partiye-rekor-destek-379150"
       },
-      "konular": [],
+      "konular": [
+        "İsveç Demokratları",
+        "İsveç siyaseti",
+        "İsveç"
+      ],
       "yayin": "2012-10-26T11:55:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İsveç Demokrat Partisi oy oranını artırarak üçüncü sıraya yerleşti",
+      "ozet": "İsveç siyasetinde göçmen karşıtı söylemleriyle tanınan İsveç Demokrat Partisi, gerçekleştirdiği oy artışıyla dikkat çekti. Yapılan değerlendirmeler sonucunda partinin ülke genelindeki desteğini rekor seviyeye taşıdığı ve parlamentoda üçüncü büyük siyasi güç haline geldiği ifade edildi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Jimmie_%C3%85kesson_inf%C3%B6r_partiledardebatt_i_SVT.jpg/960px-Jimmie_%C3%85kesson_inf%C3%B6r_partiledardebatt_i_SVT.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Jimmie_%C3%85kesson_inf%C3%B6r_partiledardebatt_i_SVT.jpg/500px-Jimmie_%C3%85kesson_inf%C3%B6r_partiledardebatt_i_SVT.jpg",
+        "genislik": 960,
+        "yukseklik": 770,
+        "orijinalGenislik": 1280,
+        "yazar": "Frankie Fouganthin",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Jimmie_%C3%85kesson_inf%C3%B6r_partiledardebatt_i_SVT.jpg",
+        "aciklama": "The leader of the Sweden Democrats, Jimmie Åkesson, on the way to the party leader debate on SVT May 4, 2014.",
+        "konu": "İsveç Demokratları"
+      }
     },
     {
       "id": "2011-haber-293476",
@@ -1456,10 +1752,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/depremin-ilk-bebekleri-dunyaya-geldi-293476"
       },
-      "konular": [],
+      "konular": [
+        "2011 Van depremi",
+        "Erciş",
+        "Van"
+      ],
       "yayin": "2011-10-26T08:40:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Van depreminin ardından sahra hastanesinde doğum gerçekleşti",
+      "ozet": "Van ilinin Erciş ilçesinde yaşanan deprem felaketinden üç gün sonra kurulan sahra hastanesinde iki bebek dünyaya geldi. Sağlıklı bir şekilde gerçekleşen normal doğumlar sonucunda biri kız diğeri erkek olan iki çocuk hayata gözlerini açtı. Bölgedeki zorlu koşullara rağmen yaşanan bu doğumlar umut verici bir gelişme olarak kaydedildi.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Van_location_districts.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Van_location_districts.png",
+        "genislik": 533,
+        "yukseklik": 600,
+        "orijinalGenislik": 533,
+        "yazar": "Batuhan duz",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Van_location_districts.png",
+        "aciklama": "Van'ın ilçelerini gösteren harita",
+        "konu": "Erciş"
+      }
     },
     {
       "id": "2011-haber-293562",
@@ -1472,10 +1788,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/derbi-oncesi-sok-karar-deplasman-yasagi-293562"
       },
-      "konular": [],
+      "konular": [
+        "Beşiktaş-Fenerbahçe derbisi",
+        "Süper Lig",
+        "Futbol"
+      ],
       "yayin": "2011-10-26T13:37:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Beşiktaş ve Fenerbahçe Derbisinde Deplasman Yasağı Kararı",
+      "ozet": "Spor Toto Süper Lig kapsamında oynanacak Beşiktaş ve Fenerbahçe karşılaşması öncesinde önemli bir karar alındı. Alınan karara göre müsabakaya konuk takımın taraftarlarının girişine izin verilmeyeceği açıklandı. Bu uygulama ile derbi maçında deplasman seyircisi tribünlerde yer alamadı.",
+      "kategori": "Spor"
     }
   ],
   "haberYillari": [

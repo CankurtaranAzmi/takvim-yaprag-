@@ -946,7 +946,7 @@
     "url": "https://tr.wikipedia.org/wiki/27_Ekim",
     "revid": 37836856
   },
-  "guncelleme": "2026-10-22T11:21:30.218Z",
+  "guncelleme": "2026-10-23T11:11:59.220Z",
   "haberler": [
     {
       "id": "2025-haber-2447381",
@@ -959,10 +959,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/imamoglu-na-casusluk-suclamasi-sonrasi-ingiltere-basbakani-starmer-ilk-turkiye-ziyareti-icin-ankara-da-milli-savunma-bakani-guler-karsiladi-2447381"
       },
-      "konular": [],
+      "konular": [
+        "Keir Starmer",
+        "Yaşar Güler",
+        "Türkiye-Birleşik Krallık ilişkileri"
+      ],
       "yayin": "2025-10-27T15:20:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İngiltere Başbakanı Starmer Ankara'da Temaslarda Bulundu",
+      "ozet": "İngiltere Başbakanı Keir Starmer, resmi temaslarda bulunmak üzere Türkiye'ye geldi. Ankara'da Milli Savunma Bakanı Yaşar Güler tarafından karşılanan Starmer, Cumhurbaşkanı Recep Tayyip Erdoğan ile bir araya gelerek Eurofighter Typhoon savaş uçaklarının tedarik sürecine dair güncel gelişmeleri değerlendirdi. Ziyaret kapsamında iki ülke arasındaki savunma sanayii iş birliği ve mevcut görüşmelerin seyri ele alındı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Prime_Minister_Sir_Keir_Starmer_Official_Portrait_%28cropped%29.jpg/960px-Prime_Minister_Sir_Keir_Starmer_Official_Portrait_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Prime_Minister_Sir_Keir_Starmer_Official_Portrait_%28cropped%29.jpg/500px-Prime_Minister_Sir_Keir_Starmer_Official_Portrait_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "orijinalGenislik": 1541,
+        "yazar": "Simon Dawson / No10 Downing Street",
+        "lisans": "OGL 3",
+        "lisansUrl": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Sir_Keir_Starmer_Official_Portrait_(cropped).jpg",
+        "aciklama": "05/07/2024. London, United Kingdom. The Prime Minister Sir Keir Starmer's official portraits upon his official appointment by His Majesty The King. Picture by Simon Dawson/ No 10 Downing Street",
+        "konu": "Keir Starmer"
+      }
     },
     {
       "id": "2025-haber-2447525",
@@ -975,10 +995,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-den-balikesir-depremi-sonrasi-gecmis-olsun-mesaji-2447525"
       },
-      "konular": [],
+      "konular": [
+        "Sındırgı",
+        "Balıkesir",
+        "Özgür Özel"
+      ],
       "yayin": "2025-10-27T23:12:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Sındırgı merkezli deprem sonrası geçmiş olsun mesajları",
+      "ozet": "Balıkesir'in Sındırgı ilçesinde gerçekleşen ve çevre illerde de hissedilen sarsıntının ardından Cumhuriyet Halk Partisi Genel Başkanı Özgür Özel bir açıklama yaptı. Özel, sosyal medya hesabı üzerinden bölge halkına geçmiş olsun dileklerini iletti.",
+      "kategori": "Afet"
     },
     {
       "id": "2024-haber-2262340",
@@ -991,10 +1018,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/istanbulda-bulgaristan-secimleri-icin-sandik-kuruldu-2262340"
       },
-      "konular": [],
+      "konular": [
+        "Bulgaristan genel seçimleri",
+        "Avcılar",
+        "İstanbul"
+      ],
       "yayin": "2024-10-27T17:09:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Bulgaristan Genel Seçimleri İçin İstanbul'da Oy Kullanıldı",
+      "ozet": "Bulgaristan'da devam eden siyasi belirsizlik ve hükümet kurulamaması nedeniyle iki yıllık süreçte yedinci kez erken seçime gidildi. Bu kapsamda çifte vatandaşlık sahibi olan ve İstanbul Avcılar bölgesinde ikamet eden Bulgaristan vatandaşlarının oy verebilmesi amacıyla belirlenen iki okulda sandıklar hazırlandı. Seçmenler oylarını kullanmak üzere sandık başına gitti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2262261",
@@ -1007,10 +1041,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/secim-zaferi-sonrasi-ilk-kez-konustu-zaferimiz-cok-etkileyici-2262261"
       },
-      "konular": [],
+      "konular": [
+        "Gürcistan parlamento seçimleri",
+        "İrakli Kobakhidze",
+        "Gürcistan"
+      ],
       "yayin": "2024-10-27T12:54:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Gürcistan Başbakanı seçim sonuçlarını değerlendirdi",
+      "ozet": "Gürcistan Başbakanı İrakli Kobakhidze, ülkede gerçekleştirilen parlamento seçimlerinin ardından açıklamalarda bulundu. İktidar partisinin seçim sürecinden başarıyla çıktığını belirten Kobakhidze, elde edilen sonucu etkileyici olarak nitelendirdi.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2023-haber-2134590",
@@ -1023,10 +1065,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/eski-cin-basbakani-li-keqiang-hayatini-kaybetti-2134590"
       },
-      "konular": [],
+      "konular": [
+        "Li Keqiang",
+        "Çin"
+      ],
       "yayin": "2023-10-27T08:12:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Çin Halk Cumhuriyeti Eski Başbakanı Li Keqiang Vefat Etti",
+      "ozet": "Çin yönetiminde uzun yıllar başbakanlık görevini üstlenen Li Keqiang, altmış sekiz yaşında hayata gözlerini yumdu. Yetkililer, eski başbakanın geçirdiği ani bir kalp krizi neticesinde yaşamını yitirdiğini duyurdu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Shinz%C5%8D_Abe_Li_Keqiang_20191225_%281%29_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Shinz%C5%8D_Abe_Li_Keqiang_20191225_%281%29_%28cropped%29.jpg",
+        "genislik": 581,
+        "yukseklik": 775,
+        "orijinalGenislik": 581,
+        "yazar": "内閣官房広報室",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Shinz%C5%8D_Abe_Li_Keqiang_20191225_(1)_(cropped).jpg",
+        "aciklama": "Prime Minister Abe, who is visiting Chengdu in the People's Republic of China to attend the Japan-China-Korea Summit on December 25, 2019 (local time), meets with Prime Minister Li Keqiang of the Peop",
+        "konu": "Li Keqiang"
+      }
     },
     {
       "id": "2023-haber-2134617",
@@ -1039,10 +1100,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/faiz-karari-sonrasi-asgari-ucrette-yeni-zam-tahmini-2134617"
       },
-      "konular": [],
+      "konular": [
+        "Asgari ücret",
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Ahmet Kurtuluş"
+      ],
       "yayin": "2023-10-27T10:08:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Merkez Bankası faiz artışı sonrası asgari ücret beklentileri",
+      "ozet": "Merkez Bankası tarafından açıklanan son kararla birlikte politika faizi yüzde 35 oranına yükseltildi. Bu gelişmenin ardından Yeminli Mali Müşavir Ahmet Kurtuluş, asgari ücret düzenlemesine dair öngörülerini paylaştı. Ekonomik verilerdeki değişimler ışığında yapılan bu değerlendirmeler, kamuoyunda ücret artışlarına yönelik beklentileri gündeme getirdi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2022-haber-1996640",
@@ -1055,10 +1123,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/euroda-gozler-ambnin-faiz-kararinda-euro-ne-kadar-oldu--27-ekim-2022-1996640"
       },
-      "konular": [],
+      "konular": [
+        "Avrupa Merkez Bankası",
+        "Euro",
+        "Ekonomi"
+      ],
       "yayin": "2022-10-27T09:31:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Avrupa Merkez Bankası faiz kararı öncesi Euro piyasası",
+      "ozet": "Avrupa Merkez Bankası tarafından açıklanacak olan faiz kararı, Euro'nun gelecekteki seyri açısından belirleyici bir rol oynadı. Dolar ile Euro arasındaki değer eşitliğinin yaşandığı bu dönemde, piyasalar bankanın atacağı adımları yakından takip etti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2022-haber-1996873",
@@ -1071,10 +1146,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/cumhurbaskani-erdogandan-nato-diplomasisi-1996873"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "NATO",
+        "İsveç"
+      ],
       "yayin": "2022-10-27T19:00:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanı Erdoğan NATO ve İsveç ile Görüşmeler Yapacak",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, NATO Genel Sekreteri Jens Stoltenberg ile İstanbul'da bir araya gelme kararı aldı. Ayrıca İsveç Başbakanı Ulf Kristersson ile gerçekleştirdiği telefon görüşmesinin ardından, konuğunu Ankara'da ağırlayacağını duyurdu. Bu diplomatik temaslar kapsamında uluslararası ilişkiler ve ittifak süreçleri ele alınacak.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2021-haber-1880205",
@@ -1087,10 +1182,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/faiz-kararinin-ardindan-merkez-bankasi-baskanindan-ilk-toplanti-1880205"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Şahap Kavcıoğlu",
+        "Enflasyon"
+      ],
       "yayin": "2021-10-27T21:54:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Merkez Bankası Başkanı Kavcıoğlu ekonomistler ile bir araya gelecek",
+      "ozet": "Türkiye Cumhuriyet Merkez Bankası Başkanı Şahap Kavcıoğlu, alınan faiz indirimi kararının sonrasında basın mensupları ve ekonomistlerle buluşacağını duyurdu. Söz konusu toplantıda yılın son enflasyon raporuna dair detayların paylaşılması bekleniyor. Piyasa temsilcileri ve kamuoyu, yapılacak açıklamaları yakından takip ediyor.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2021-haber-1880114",
@@ -1103,10 +1205,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/demokrat-partili-enginyurt-turkiye-zaman-kaybetmeden-erken-secime-gitmelidir-1880114"
       },
-      "konular": [],
+      "konular": [
+        "Cemal Enginyurt",
+        "Demokrat Parti",
+        "Millet İttifakı"
+      ],
       "yayin": "2021-10-27T15:28:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cemal Enginyurt erken seçim çağrısında bulundu",
+      "ozet": "Demokrat Parti Ordu Milletvekili Cemal Enginyurt, ülkenin vakit kaybetmeden erken seçime gitmesi gerektiğini ifade etti. Enginyurt, bu süreçte Millet İttifakı'nın tutumuna dair değerlendirmelerde bulundu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2020-haber-1786440",
@@ -1119,10 +1228,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ermenistanin-eski-basbakanindan-pasinyana-uyari-istifa-et-yoksa-her-seyi-kaybedebiliriz-1786440"
       },
-      "konular": [],
+      "konular": [
+        "Vazgen Manukyan",
+        "Nikol Paşinyan",
+        "Ermenistan"
+      ],
       "yayin": "2020-10-27T15:18:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Ermenistan eski başbakanından Paşinyan yönetimine istifa çağrısı",
+      "ozet": "Ermenistan'ın ilk başbakanı Vazgen Mikaeli Manukyan, mevcut hükümetin uygulamalarına yönelik eleştirilerini dile getirdi. Manukyan, Başbakan Nikol Paşinyan'ı görevinden ayrılmaya davet etti. Ülke siyasetinde yaşanan bu gelişme, hükümetin izlediği politikaların eski devlet yetkilileri tarafından sorgulanmasına neden oldu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/K%C3%A4tlemine_Armeenia_peaminister_Pashinyan%27iga_%28552477480461%29.jpg/960px-K%C3%A4tlemine_Armeenia_peaminister_Pashinyan%27iga_%28552477480461%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/K%C3%A4tlemine_Armeenia_peaminister_Pashinyan%27iga_%28552477480461%29.jpg/500px-K%C3%A4tlemine_Armeenia_peaminister_Pashinyan%27iga_%28552477480461%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "orijinalGenislik": 1170,
+        "yazar": "Stenbocki maja",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:K%C3%A4tlemine_Armeenia_peaminister_Pashinyan%27iga_(552477480461).jpg",
+        "aciklama": "Armenian PM Nikol Pashinyan in a meeting with French President Emmanuel Macron, 2026",
+        "konu": "Nikol Paşinyan"
+      }
     },
     {
       "id": "2020-haber-1786385",
@@ -1135,10 +1264,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tbmmde-butce-gorusmelerinde-tartisma-seffaf-degil-1786385"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Bütçe",
+        "Siyaset"
+      ],
       "yayin": "2020-10-27T14:14:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Bütçe görüşmelerinde canlı yayın tartışması yaşandı",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu bünyesinde gerçekleştirilen 2021 yılı bütçe kanun teklifi görüşmeleri, yayın kriziyle açıldı. Muhalefet partisi milletvekilleri, oturumların Meclis televizyonu aracılığıyla kamuoyuna canlı aktarılmasını talep etti. Ancak bu istek kabul görmeyince toplantıda gergin anlar yaşandı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2018-haber-1123966",
@@ -1151,10 +1287,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dunya-gures-sampiyonasinda-metehan-basardan-altin-madalya-1123966"
       },
-      "konular": [],
+      "konular": [
+        "Metehan Başar",
+        "Dünya Güreş Şampiyonası",
+        "Grekoromen güreş"
+      ],
       "yayin": "2018-10-27T21:00:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Metehan Başar Dünya Güreş Şampiyonası'nda altın madalya kazandı",
+      "ozet": "Macaristan'da düzenlenen Dünya Güreş Şampiyonası'nda mindere çıkan milli sporcu Metehan Başar, grekoromen stil 87 kilogram kategorisinde rakiplerini geride bıraktı. Başarılı performansıyla final müsabakasını kazanan güreşçi, altın madalyanın sahibi oldu.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Metehan_Ba%C5%9Far_2.JPG/960px-Metehan_Ba%C5%9Far_2.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Metehan_Ba%C5%9Far_2.JPG/500px-Metehan_Ba%C5%9Far_2.JPG",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "orijinalGenislik": 3024,
+        "yazar": "Jørgen Løken (User:Løken)",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Metehan_Ba%C5%9Far_2.JPG",
+        "aciklama": "Picture from the 2021 World Wrestling Championships in Oslo, Norway – Day 8",
+        "konu": "Metehan Başar"
+      }
     },
     {
       "id": "2018-haber-1123901",
@@ -1167,10 +1323,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dortlu-liderler-zirvesinde-anayasa-komitesi-vurgusu-1123901"
       },
-      "konular": [],
+      "konular": [
+        "Suriye İç Savaşı",
+        "İstanbul",
+        "Dış politika"
+      ],
       "yayin": "2018-10-27T19:03:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Suriye konulu dörtlü zirve İstanbul'da toplandı",
+      "ozet": "İstanbul Vahdettin Köşkü'nde düzenlenen Suriye konulu dörtlü zirveye katılan liderler, bölgedeki gelişmeleri değerlendirdi. Toplantı sonrasında yapılan ortak açıklamada, Suriye'de anayasa komitesinin yıl sonuna kadar faaliyete geçmesi gerektiği vurgulandı. Görüşmelerde siyasi çözüm süreçlerinin hızlandırılması çağrısı yapıldı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "genislik": 704,
+        "yukseklik": 499,
+        "orijinalGenislik": 704,
+        "yazar": "jan Sefti",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "aciklama": "The phrase \"Down with Bashar\" (yaskut Baššār), during the Syrian Uprising 2011.",
+        "konu": "Suriye İç Savaşı"
+      }
     },
     {
       "id": "2017-haber-854243",
@@ -1183,10 +1359,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akp-sozcusu-unal-belediye-baskanlari-istifa-etmezlerse-yeni-kararlar-verilir-854243"
       },
-      "konular": [],
+      "konular": [
+        "Mahir Ünal",
+        "Adalet ve Kalkınma Partisi",
+        "Belediye başkanı"
+      ],
       "yayin": "2017-10-27T18:28:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Belediye başkanlarının istifa sürecine dair açıklama yapıldı",
+      "ozet": "Adalet ve Kalkınma Partisi Merkez Karar ve Yönetim Kurulu toplantısının ardından konuşan parti sözcüsü Mahir Ünal, görevden ayrılmaları talep edilen belediye başkanları hakkında değerlendirmelerde bulundu. Ünal, söz konusu başkanların istifa etmemesi durumunda parti yönetiminin yeni yaptırımlar uygulayacağını belirtti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2017-haber-853638",
@@ -1199,10 +1382,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-yeni-istifa-talimati-853638"
       },
-      "konular": [],
+      "konular": [
+        "Adalet ve Kalkınma Partisi",
+        "Recep Tayyip Erdoğan",
+        "Türkiye'de yerel yönetimler"
+      ],
       "yayin": "2017-10-27T08:50:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Belediye başkanlarının istifa süreçleri teşkilata anlatıldı",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, gerçekleştirdiği toplantıda parti üyelerine önemli açıklamalarda bulundu. İstanbul, Ankara, Bursa, Düzce ve Niğde gibi şehirlerde yaşanan belediye başkanı istifalarının ve teşkilat içerisindeki değişimlerin nedenlerinin seçmenlere doğru bir şekilde aktarılması talimatını verdi. Bu süreçte yaşanan gelişmelerin kamuoyuna şeffaf bir biçimde açıklanması gerektiği vurgulandı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2016-haber-622075",
@@ -1215,10 +1405,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogana-2-bin-652-tl-zam-bakin-maasi-ne-kadar-oluyor-622075"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Cumhurbaşkanı"
+      ],
       "yayin": "2016-10-27T10:04:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhurbaşkanı Erdoğan'ın 2017 yılı maaş düzenlemesi belli oldu",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın maaşında gelecek yıl için artış yapılması kararlaştırıldı. Yapılan düzenleme ile birlikte Cumhurbaşkanının aylık kazancı 35 bin 295 liraya yükseldi. Aynı dönemde memur emeklilerinin maaşlarında ise 55 liralık bir iyileştirme gerçekleştirildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2016-haber-622169",
@@ -1231,10 +1427,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-yildirim-ekonomimiz-de-demokrasimiz-gibi-saglam-temellere-oturuyor-622169"
       },
-      "konular": [],
+      "konular": [
+        "Binali Yıldırım",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2016-10-27T11:39:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Başbakan Yıldırım Yatırım Danışma Konseyi Toplantısında Konuştu",
+      "ozet": "Türkiye Yatırım Danışma Konseyi dokuzuncu kez düzenlenen toplantıda bir araya geldi. Toplantıda söz alan Başbakan Binali Yıldırım, ülkenin ekonomik yapısının demokratik süreçler gibi güçlü bir zemine dayandığını ifade etti. Yatırım ortamının değerlendirildiği bu buluşmada ekonomi politikalarına dair mesajlar verildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2015-haber-396709",
@@ -1247,10 +1449,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/is-dunyasindan-basbakana-tatil-isyani-396709"
       },
-      "konular": [],
+      "konular": [
+        "Ahmet Davutoğlu",
+        "Türkiye ekonomisi",
+        "Siyaset"
+      ],
       "yayin": "2015-10-27T21:21:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İş dünyası temsilcileri Başbakan ile bir araya geldi",
+      "ozet": "Seçim sürecinin yaklaşmasıyla birlikte Başbakan Ahmet Davutoğlu, ülkenin önde gelen iş örgütlerinin yöneticileri ve iş dünyasından isimlerle buluştu. Gerçekleştirilen bu toplantıda iş dünyasının temsilcileri, seçim öncesindeki dönemle ilgili beklentilerini ve tatil düzenlemelerine yönelik görüşlerini dile getirdi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2015-haber-395973",
@@ -1263,10 +1472,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/pakistanda-depremin-bilancosu-243-olu-2-bine-yakin-yarali-395973"
       },
-      "konular": [],
+      "konular": [
+        "2015 Hindukuş depremi",
+        "Pakistan",
+        "Afganistan"
+      ],
       "yayin": "2015-10-27T12:02:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Pakistan ve Afganistan sınırında şiddetli deprem felaketi",
+      "ozet": "Afganistan merkezli meydana gelen 7.5 büyüklüğündeki sarsıntı Pakistan topraklarında da ciddi yıkıma yol açtı. Ülkenin kuzey kesimlerinde binlerce konutun zarar gördüğü afette hayatını kaybedenlerin sayısı 243 kişiye ulaştı. Pakistan Ulusal Afet Yönetim Kurumu tarafından yapılan açıklamada yaralı sayısının bin 600'ü geçtiği belirtildi.",
+      "kategori": "Afet",
+      "gorsel": null
     },
     {
       "id": "2014-haber-134779",
@@ -1279,10 +1496,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpli-guler-erdogan-cumhurbaskanimiz-degil-134779"
       },
-      "konular": [],
+      "konular": [
+        "Birgül Ayman Güler",
+        "Recep Tayyip Erdoğan",
+        "Cumhuriyet Halk Partisi"
+      ],
       "yayin": "2014-10-27T17:23:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Birgül Ayman Güler'den Cumhurbaşkanı Erdoğan Hakkında Açıklama",
+      "ozet": "Cumhuriyet Halk Partisi İzmir Milletvekili Birgül Ayman Güler, Cumhurbaşkanı Recep Tayyip Erdoğan'ın meşruiyetine ilişkin tartışmalı bir değerlendirmede bulundu. Güler, yaptığı konuşmada Erdoğan'ı cumhurbaşkanı olarak tanımadığını ifade etti. Bu çıkış, siyasi çevrelerde geniş yankı uyandıran bir tartışmayı beraberinde getirdi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2014-haber-134771",
@@ -1295,10 +1519,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/zekeriya-oze-erdogan-davasi-134771"
       },
-      "konular": [],
+      "konular": [
+        "Zekeriya Öz",
+        "Recep Tayyip Erdoğan",
+        "Türkiye"
+      ],
       "yayin": "2014-10-27T17:11:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Zekeriya Öz Hakkında Kamu Davası Açıldı",
+      "ozet": "Bolu Cumhuriyet Savcısı olarak görev yapan Zekeriya Öz hakkında hukuki bir süreç başlatıldı. Söz konusu gelişme kapsamında savcıya yönelik kamu davası açılmasına karar verildi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2013-haber-4397",
@@ -1311,10 +1555,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/vettel-ust-uste-dorduncu-kez-sampiyon-4397"
       },
-      "konular": [],
+      "konular": [
+        "Sebastian Vettel",
+        "Formula 1"
+      ],
       "yayin": "2013-10-27T13:18:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Sebastian Vettel Formula 1 Dünya Şampiyonluğunu Garantiledi",
+      "ozet": "Sebastian Vettel, üst üste dördüncü defa dünya şampiyonu olma başarısını gösterdi. Yarış kariyerindeki bu önemli zaferle birlikte şampiyonluk serisini sürdüren pilot, sezonun bitimine kala zirvedeki yerini kesinleştirdi.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sebastian_Vettel_-_2022236172324_2022-08-24_Champions_for_Charity_-_Sven_-_1D_X_MK_II_-_0418_-_B70I2428.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sebastian_Vettel_-_2022236172324_2022-08-24_Champions_for_Charity_-_Sven_-_1D_X_MK_II_-_0418_-_B70I2428.jpg",
+        "genislik": 929,
+        "yukseklik": 1394,
+        "orijinalGenislik": 929,
+        "yazar": "Sven Mandel",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Sebastian_Vettel_-_2022236172324_2022-08-24_Champions_for_Charity_-_Sven_-_1D_X_MK_II_-_0418_-_B70I2428.jpg",
+        "aciklama": "during Champions for Charity at Waldstadion, Frankfurt, Hessen, Germany on 2022-08-24, Photo: Sven Mandel",
+        "konu": "Sebastian Vettel"
+      }
     },
     {
       "id": "2013-haber-4475",
@@ -1327,10 +1590,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/multeci-sayisinda-rekor-artis-4475"
       },
-      "konular": [],
+      "konular": [
+        "Birleşmiş Milletler Mülteciler Yüksek Komiserliği",
+        "Mülteci"
+      ],
       "yayin": "2013-10-27T18:48:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Dünya genelinde sığınmacı sayısı son yılların zirvesine ulaştı",
+      "ozet": "Birleşmiş Milletler Mülteciler Yüksek Komiserliği tarafından paylaşılan veriler, küresel çapta yerinden edilen kişilerin sayısında ciddi bir yükseliş yaşandığını gösterdi. Kurum, mevcut sığınmacı oranının son on dokuz yıllık dönem içerisindeki en yüksek seviyeye ulaştığını duyurdu.",
+      "kategori": "Toplum",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/UNHCR-geneveNov2013.jpg/960px-UNHCR-geneveNov2013.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/UNHCR-geneveNov2013.jpg/500px-UNHCR-geneveNov2013.jpg",
+        "genislik": 960,
+        "yukseklik": 694,
+        "orijinalGenislik": 2304,
+        "yazar": "Milliped",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:UNHCR-geneveNov2013.jpg",
+        "aciklama": "UNHCR building in Geneva, November 2013",
+        "konu": "Birleşmiş Milletler Mülteciler Yüksek Komiserliği"
+      }
     },
     {
       "id": "2012-haber-379294",
@@ -1343,10 +1625,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/borsanin-sampiyonu-sari-kanarya-379294"
       },
-      "konular": [],
+      "konular": [
+        "Fenerbahçe (futbol takımı)",
+        "Borsa İstanbul",
+        "Spor ekonomisi"
+      ],
       "yayin": "2012-10-27T09:18:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Borsa İstanbul'da spor kulüplerinin piyasa değeri geriledi",
+      "ozet": "Yılın ilk dokuz ayında spor kulüplerinin borsadaki toplam piyasa değeri düşüş gösterdi. Eylül ayı sonu itibarıyla yılbaşına kıyasla yüzde 18 oranında azalan bu değer, toplamda 1,6 milyar liraya kadar indi. Fenerbahçe ise bu dönemde borsada en yüksek değere sahip spor şirketi olarak öne çıktı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2012-haber-379398",
@@ -1359,10 +1648,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fransada-sel-felaketi-2-universite-ogrencisi-oldu-379398"
       },
-      "konular": [],
+      "konular": [
+        "Sel",
+        "Var (il)",
+        "Fransa"
+      ],
       "yayin": "2012-10-27T19:05:00+03:00",
       "puan": 4,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Fransa'nın güneyinde sel felaketi: İki öğrenci yaşamını yitirdi",
+      "ozet": "Fransa'nın güney kesiminde yer alan Var bölgesinde etkili olan yoğun yağışlar, bölgede sel baskınlarına neden oldu. Yaşanan doğal afet sonucunda iki üniversite öğrencisi hayatını kaybetti. Yetkililer bölgedeki olumsuz hava koşullarının ardından incelemelerini sürdürdü.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Urban_flood_cropped.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Urban_flood_cropped.jpg",
+        "genislik": 427,
+        "yukseklik": 525,
+        "orijinalGenislik": 427,
+        "yazar": "johndal",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Urban_flood_cropped.jpg",
+        "aciklama": "Flooding in the street during the Sept 2008 flood in Morpeth, Northumberland, north-east England. The ink cartridge store at 53 Bridge St, Morpeth, was replaced in 2010 by a funeral directors' company",
+        "konu": "Sel"
+      }
     },
     {
       "id": "2011-haber-293808",
@@ -1375,10 +1684,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/deprem-vergileri-duble-yollara-gitti-293808"
       },
-      "konular": [],
+      "konular": [
+        "Deprem vergisi",
+        "Mehmet Şimşek",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2011-10-27T11:12:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Deprem vergilerinin kullanım alanlarına dair açıklama yapıldı",
+      "ozet": "Maliye Bakanı Mehmet Şimşek, deprem vergisi adı altında toplanan kaynakların harcama kalemleri hakkında bilgi verdi. Söz konusu gelirlerin eğitim, sağlık, tarım ve ulaşım gibi çeşitli kamu hizmetlerine aktarıldığını ifade etti. Bakan, bu fonların duble yollar, demir yolları ve hava yolları gibi altyapı projelerinin finansmanında kullanıldığını belirtti.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Handshake_between_Mehmet_%C5%9Eim%C5%9Fek%2C_on_the_left_and_Valdis_Dombrovskis_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Handshake_between_Mehmet_%C5%9Eim%C5%9Fek%2C_on_the_left_and_Valdis_Dombrovskis_%28cropped%29.jpg",
+        "genislik": 810,
+        "yukseklik": 990,
+        "orijinalGenislik": 810,
+        "yazar": "Xavier Lejeune",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Handshake_between_Mehmet_%C5%9Eim%C5%9Fek,_on_the_left_and_Valdis_Dombrovskis_(cropped).jpg",
+        "aciklama": "Mehmet Şimşek, on the left, and Valdis Dombrovskis",
+        "konu": "Mehmet Şimşek"
+      }
     },
     {
       "id": "2011-haber-293918",
@@ -1391,10 +1720,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/galatasaray-iyi-basladi-kotu-bitirdi-293918"
       },
-      "konular": [],
+      "konular": [
+        "Galatasaray (erkek basketbol takımı)",
+        "Unics Kazan",
+        "EuroLeague"
+      ],
       "yayin": "2011-10-27T19:46:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Galatasaray Basketbol Takımı Rusya deplasmanından mağlup döndü",
+      "ozet": "Galatasaray Medical Park Erkek Basketbol Takımı, THY Avrupa Ligi D Grubu kapsamındaki ikinci karşılaşmasında Rus temsilcisi Unics Kazan ile karşı karşıya geldi. Müsabakaya etkili bir giriş yapan sarı kırmızılı ekip, maçın ilerleyen bölümlerinde üstünlüğünü koruyamadı. Karşılaşma sonunda rakibine 68-64 skorla boyun eğen Galatasaray, gruptaki ikinci maçından mağlubiyetle ayrıldı.",
+      "kategori": "Spor"
     }
   ],
   "haberYillari": [

@@ -1742,5 +1742,504 @@
     "url": "https://tr.wikipedia.org/wiki/5_Kas%C4%B1m",
     "revid": 38168818
   },
-  "guncelleme": "2026-10-21T21:27:10.032Z"
+  "guncelleme": "2026-10-21T21:27:10.032Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2449968",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolar rekor seviyeye yakın: Gözler Bakan Şimşek ve Merkez Bankası’nda",
+      "aciklama": "Dolar kuru güne sınırlı yükselişle başladı. Piyasalar, Hazine ve Maliye Bakanı Mehmet Şimşek’in yapacağı açıklamalara ve Merkez Bankası’nın yıl sonu mesajlarına odaklandı. Küresel piyasalarda ise Fed’in faiz politikası belirsizliğini koruyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/dolar-rekor-seviyeye-yakin-gozler-bakan-simsek-ve-merkez-bankasi-nda-2449968"
+      },
+      "konular": [],
+      "yayin": "2025-11-05T10:39:00+03:00",
+      "puan": 16,
+      "durum": "haber"
+    },
+    {
+      "id": "2025-haber-2450151",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Hollanda'da unutulmaz gece! Galatasaray'dan Avrupa'da bir destan daha!",
+      "aciklama": "UEFA Şampiyonlar Ligi'nin 4. haftasında Galatasaray, deplasmanda Ajax'ı 3-0 mağlup etti. Sarı-Kırmızılılar'ın 3 golü de Victor Osimhen'den geldi. Galatasaray, Ajax'ı deplasmanda yenen ilk Türk takımı oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/canli-yayin-ajax-galatasaray-canli-anlatim-uefa-sampiyonlar-ligi-4-haftasi-2450151"
+      },
+      "konular": [],
+      "yayin": "2025-11-05T22:32:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2265467",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Türk Lirası reel döviz kuru 43 ayın zirvesine ulaştı: TL değer kazandı",
+      "aciklama": "Türk Lirası reel döviz kuru ekim ayında artarak 43 ayın en yüksek seviyesine ulaştı; TL’nin değer kazandığına işaret ediliyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/turk-lirasi-reel-doviz-kuru-43-ayin-zirvesine-ulasti-tl-deger-kazandi-2265467"
+      },
+      "konular": [],
+      "yayin": "2024-11-05T15:55:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2265270",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Borsa güne yükselişle başladı: Gözler ABD başkanlık seçimlerinde",
+      "aciklama": "Borsa İstanbul'da BIST 100 endeksi, güne 0,59 yükselişle 8.714,65 puandan başladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/borsa-gune-yukselisle-basladi-gozler-abd-baskanlik-secimlerinde-2265270"
+      },
+      "konular": [],
+      "yayin": "2024-11-05T10:11:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2137530",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP'nin yeni başkanı seçildi: Seçimin galibi Özgür Özel!",
+      "aciklama": "Son dakika haberi... CHP 38. Olağan Kurultayı'nda yapılan seçimin sonucunda partinin yeni başkanı Özgür Özel oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-chpnin-yeni-baskani-secildi-secimin-galibi-ozgur-ozel-2137530"
+      },
+      "konular": [],
+      "yayin": "2023-11-05T02:50:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2137560",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Son depremler! Deprem mi oldu? 5 Kasım 2023 nerede, ne zaman deprem oldu?",
+      "aciklama": "Sarsıntı hisseden yurttaşlar, 5 Kasım 2023 son depremlerin nerede ve kaç büyüklüğünde olduğunu merak ediyor. Deprem mi oldu? Nerede, ne zaman deprem oldu? 5 Kasım 2023 Türkiye'deki depremler…",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/son-depremler-deprem-mi-oldu-5-kasim-2023-nerede-ne-zaman-deprem-2137560"
+      },
+      "konular": [],
+      "yayin": "2023-11-05T09:10:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-2000011",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Milli sporcu Adem Asil dünya şampiyonu oldu",
+      "aciklama": "Milli jimnastikçi Adem Asil, İngiltere'de düzenlenen Artistik jimnastik Dünya Şampiyonası'nda altın madalya kazandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/milli-sporcu-adem-asil-dunya-sampiyonu-oldu-2000011"
+      },
+      "konular": [],
+      "yayin": "2022-11-05T21:55:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-1999996",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP'li Oğuz Kaan Salıcı'dan Erdoğan'a: Millet masası burnunuzdan fitil fitil getirene kadar çalışmaya devam edecek",
+      "aciklama": "Ankara'nın Keçiören ilçesinde CHP'ye üye olan yurttaşların rozetlerini takan CHP Genel Başkan Yardımcısı Oğuz Kaan Salıcı,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/chpli-oguz-kaan-salicidan-erdogana-millet-masasi-burnunuzdan-fitil-fitil-getirene-kadar-calismaya-devam-edecek-1999996"
+      },
+      "konular": [],
+      "yayin": "2022-11-05T19:19:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1882345",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan'ın 'Adalar' kararı İBB'nin yetkisi Çevre, Şehircilik ve İklim Değişikliği Bakanlığı’na verildi",
+      "aciklama": "İstanbul Büyükşehir Belediyesi (İBB), İmar ve Şehircilik Daire Başkanı Gürkan Akgün, Cumhurbaşkanı Kararı ile ‘Marmara Denizi ve Adalar Özel Çevre Koruma Alanı ilan edilmesine ilişkin dikkat çeken bir açıklama yaptı. Akgün, karar ile birlikte, “ Adalar’da imar planı yapma ve onay",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/erdoganin-adalar-karari-ibbnin-yetkisi-cevre-sehircilik-ve-iklim-degisikligi-bakanligina-verildi-1882345"
+      },
+      "konular": [],
+      "yayin": "2021-11-05T14:38:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1882227",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Piyasalarda son durum: Dolar ne kadar oldu? (5 Kasım 2021)",
+      "aciklama": "Dolar/TL 9.85 rekorun hemen altında dalgalanmayı sürdürürken piyasalarda bugün küresel piyasalarda doların seyri ve ABD'de açıklanacak önemli veriler takip edilecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika-piyasalarda-son-durum-dolar-ne-kadar-oldu-5-kasim-2021-1882227"
+      },
+      "konular": [],
+      "yayin": "2021-11-05T09:12:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1788672",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan, '1939 depremi' üzerinden CHP'yi hedef aldı!",
+      "aciklama": "AKP’li Cumhurbaşkanı Recep Tayyip Erdoğan, partisinin genel merkezinde AKP Genişletilmiş İl Başkanları Toplantısı'nda konuştu. 1939 Erzincan depremi üzerinden CHP'yi hedef alan Erdoğan,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-izmir-depremi-aciklamasi-1788672"
+      },
+      "konular": [],
+      "yayin": "2020-11-05T12:27:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1788533",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Biden'dan seçim konuşması: Kazandığımızı ilan etmek için değil, sayımlar bittiğinde kazanan olacağımıza inandığımızı bildirmek için buradayım",
+      "aciklama": "ABD'de başkanlık seçimleri devam ediyor. Tüm dünya merakla ABD'nin 46. başkanını bekliyor. Demokratların başkan adayı Joe Biden açıklamalarda bulundu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bidendan-secim-konusmasi-kazandigimizi-ilan-etmek-icin-degil-sayimlar-bittiginde-kazanan-olacagimiza-inandigimizi-1788533"
+      },
+      "konular": [],
+      "yayin": "2020-11-05T00:26:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1700186",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "16 yaşındaki Seher'in hedefi Türkiye şampiyonluğu",
+      "aciklama": "Antalya'da bir yıl önce başladığı halterde Türkiye şampiyonasına hazırlanan Seher Nur Polat (16), antrenmandan kalan zamanda ise pazarda sebze satan babasına yardım ediyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/16-yasindaki-seherin-hedefi-turkiye-sampiyonlugu-1700186"
+      },
+      "konular": [],
+      "yayin": "2019-11-05T09:52:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1700206",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Depremle battı! İstanbul’un kayıp adası ilk kez havadan görüntülendi",
+      "aciklama": "Maltepe açıklarında yer alan ve İstanbul'un onuncu adası olarak bilinen, yaklaşık bin yıl önce yaşanan deprem sonrası sular altında kalan İstanbul'un pek bilinmeyen adası Vordonisi havadan fotoğraflandı. Prof. Dr. Şener Üşümezsoy adanın 6,5 büyüklüğündeki birkaç depremle batmış o",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/depremle-batti-istanbulun-kayip-adasi-ilk-kez-havadan-goruntulendi-1700206"
+      },
+      "konular": [],
+      "yayin": "2019-11-05T11:14:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1132173",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "ABD'nin yaptırım kararı sonrası dolarda son durum",
+      "aciklama": "Türkiye'nin ABD'nin İran yaptırımlarından muaf tutulduğunun açıklanmasının ardından, dövizler geriledi, dolar 5.35 liraya, Avro 6.11 ve sterlin de 6.98 liraya kadar geriledi, Borsa İstanbul Endeksi yüzde 1.94 artışla 95 bin 947 puandan kapandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/abdnin-yaptirim-karari-sonrasi-dolarda-son-durum-1132173"
+      },
+      "konular": [],
+      "yayin": "2018-11-05T17:51:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1132164",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fikret Orman: Bu sene şampiyon olacağız",
+      "aciklama": "Beşiktaş Kulübü Başkanı Fikret Orman Nevzat Demir Tesisleri'nde açıklamalarda bulundu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fikret-orman-bu-sene-sampiyon-olacagiz-1132164"
+      },
+      "konular": [],
+      "yayin": "2018-11-05T17:43:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-860097",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP'li belediyeden referandum kararı",
+      "aciklama": "Avcılar Merkez Mahallesi’nde uzun süredir çarşamba günleri kurulan semt pazarının taşınması yönündeki tartışmalar sonunda belediye referandum kararı aldı. Mahalle sakinleri kurulan sandıklarda pazarın akıbetini belirlemek için oy kullandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chpli-belediyeden-referandum-karari-860097"
+      },
+      "konular": [],
+      "yayin": "2017-11-05T14:35:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-860050",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "'Marmara'da depremin tsunamiye sebep olma ihtimali yüzde 10 civarında'",
+      "aciklama": "Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü Müdürü Prof. Dr. Haluk Özener, “Akdeniz'de ve Marmara Denizi'nde oluşabilecek 7 büyüklüğünün üzerindeki bir depremin tsunamiye sebep olma ihtimali % 10 civarındadır” dedi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/marmarada-depremin-tsunamiye-sebep-olma-ihtimali-yuzde-10-civarinda-860050"
+      },
+      "konular": [],
+      "yayin": "2017-11-05T12:54:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-626552",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Halkın şampiyonu... Fakirlere 200 milyon Dolar bağışladı",
+      "aciklama": "Dünyanın en ünlü ve zengin boksörleri arasında yer alan Filipinli Manny Pacquiao, bugüne dek fakirlere 200 milyon Dolar bağışladığını açıkladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/halkin-sampiyonu-fakirlere-200-milyon-dolar-bagisladi-626552"
+      },
+      "konular": [],
+      "yayin": "2016-11-05T15:19:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-626669",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Adana'da kepenk kapatan esnafa soruşturma açıldı",
+      "aciklama": "Adana'da, HDP'lilere yönelik operasyon nedeniyle",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/adanada-kepenk-kapatan-esnafa-sorusturma-acildi-626669"
+      },
+      "konular": [],
+      "yayin": "2016-11-05T20:12:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-406885",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "TBF'de Ekrem Memnun depremi... İstifa etti",
+      "aciklama": "A Milli Kadın Basketbol Takımı Başantrenörü Ekrem Memnun görevinden istifa etti",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/tbfde-ekrem-memnun-depremi-istifa-etti-406885"
+      },
+      "konular": [],
+      "yayin": "2015-11-05T12:49:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-407453",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "HDP'nin seçim sonucu itirazı reddedildi",
+      "aciklama": "1 Kasım Milletvekili Genel Seçimi'nin ardından HDP'nin, Kars'taki seçim sonuçlarına ilişkin yaptığı itiraz reddedildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/hdpnin-secim-sonucu-itirazi-reddedildi-407453"
+      },
+      "konular": [],
+      "yayin": "2015-11-05T19:18:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-137595",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP Genel Merkez binasına mescid açıldı",
+      "aciklama": "CHP Genel Merkezi'nde yapılması kararlaştırılan mescid hizmete açıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chp-genel-merkez-binasina-mescid-acildi-137595"
+      },
+      "konular": [],
+      "yayin": "2014-11-05T13:24:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-137747",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fenerbahçe, İtalya şampiyonunu yıktı",
+      "aciklama": "Fenerbahçe Erkek Voleybol Takımı, CEV Erkekler Denizbank Şampiyonlar Ligi E Grubu ilk maçında İtalya'nın Cucine Lube takımını 3-2 yendi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fenerbahce-italya-sampiyonunu-yikti-137747"
+      },
+      "konular": [],
+      "yayin": "2014-11-05T23:41:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-6419",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Toyota Corolla modeliyle Türkiye'de rekor peşinde",
+      "aciklama": "Toyota, Türkiye'de üretilen Corolla modeli ile 40 binlik satış rekoru peşinde.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/toyota-corolla-modeliyle-turkiyede-rekor-pesinde-6419"
+      },
+      "konular": [],
+      "yayin": "2013-11-05T14:29:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-6561",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "YSK binası önünde patlama (05.11.2013)",
+      "aciklama": "Ankara’da Yüksek Seçim Kurulu (YSK) binasının önünde akşam saatlerinde meydana gelen patlama Ankara polisini alarma geçirdi. Yapılan ilk incelemelere göre patlamanın, olay yerinde küçük bir yangının çıkması, etrafta bulunan çift katlı camların ısınma neticesinde genleşmesi sonucu",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ysk-binasi-onunde-patlama-6561"
+      },
+      "konular": [],
+      "yayin": "2013-11-05T22:16:00+03:00",
+      "puan": 6,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-381174",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ekim ayının zam şampiyonu kazak",
+      "aciklama": "Tüketici fiyatları bazında Ekim ayında en yüksek fiyat artışı görülen ürün yüzde 22,96 ile kadın kazağı oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ekim-ayinin-zam-sampiyonu-kazak-381174"
+      },
+      "konular": [],
+      "yayin": "2012-11-05T10:42:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-381274",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İMKB, Fitch'le rekorları yeniledi",
+      "aciklama": "İMKB 100 Endeksi, Fitch'in Türkiye'nin notunu ''yatırım yapılabilir'' seviye olan ''BBB-''ye yükseltmesinin ardından hem gördüğü en yüksek seviye ulaştı hem de kapanış rekorunu kırdı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/imkb-fitchle-rekorlari-yeniledi-381274"
+      },
+      "konular": [],
+      "yayin": "2012-11-05T16:21:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-296022",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "'Başbakan'ın açılım politikasını destekliyoruz'",
+      "aciklama": "Irak'ın kuzeyindeki bölgesel yönetimin başkanı Mesud Barzani, Başbakan Recep Tayyip Erdoğan'ın, açılım ve iyileştirme politikalarını desteklediklerini söyledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbakanin-acilim-politikasini-destekliyoruz-296022"
+      },
+      "konular": [],
+      "yayin": "2011-11-05T12:30:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-295988",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Futbolda milli mesai başlıyor (05.11.2011)",
+      "aciklama": "2012 Avrupa Futbol Şampiyonası elemeleri play-off turunda 11 ve 15 Kasım'da Hırvatistan ile karşılaşacak A Milli Takım yarın akşam İstanbul'da kampa girecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/futbolda-milli-mesai-basliyor-295988"
+      },
+      "konular": [],
+      "yayin": "2011-11-05T11:37:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }

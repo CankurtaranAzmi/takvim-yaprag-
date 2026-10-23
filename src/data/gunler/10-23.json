@@ -282,15 +282,18 @@
       "durum": "yayinda"
     },
     {
-      "id": "1981-danisma-meclisi-ilk-toplantisini-yapti",
+      "id": "1981-turkiyede-12-eylul-darbesi-sonrasi-danisma-meclisi",
       "yil": 1981,
-      "metin": "Danışma Meclisi ilk toplantısını yaptı.",
-      "konular": [],
+      "metin": "Türkiye'de 12 Eylül Darbesi sonrası Danışma Meclisi ilk toplantısını yaptı.",
+      "konular": [
+        "12 Eylül Darbesi",
+        "TBMM 1981 Danışma Meclisi"
+      ],
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "gorsel": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1983-beyrutta-amerikali-ve-fransiz-baris-gucu-karargahlarina",
@@ -426,7 +429,7 @@
     },
     {
       "yil": 1915,
-      "metin": "Bedri Karafakioğlu, Türk akademisyen, bilim insanı ve eski İTÜ rektörü (ö. 1978)"
+      "metin": "Bedri Karafakioğlu, Türk akademisyen, bilim adamı ve eski İTÜ rektörü (ö. 1978)"
     },
     {
       "yil": 1920,
@@ -678,7 +681,7 @@
     },
     {
       "yil": 1993,
-      "metin": "Fabinho, Namibyalı millî futbolcu"
+      "metin": "Fabinho, Brezilyalı millî futbolcu"
     },
     {
       "yil": 1993,
@@ -708,7 +711,7 @@
     },
     {
       "yil": 1134,
-      "metin": "Dânî, Endülüslü bilim insanı (d. 1068)"
+      "metin": "Dânî, Endülüslü bilim adamı (d. 1068)"
     },
     {
       "yil": 1590,
@@ -900,7 +903,7 @@
     },
     {
       "yil": 2022,
-      "metin": "Dietrich Mateschitz, Avusturyalı milyarder iş insanı (d. 1944)"
+      "metin": "Dietrich Mateschitz, Avusturyalı milyarder iş adamı (d. 1944)"
     },
     {
       "yil": 2022,
@@ -926,9 +929,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/23_Ekim",
-    "revid": 38306899
+    "revid": 38313121
   },
-  "guncelleme": "2026-10-22T11:21:28.689Z",
+  "guncelleme": "2026-10-23T11:11:57.334Z",
   "haberler": [
     {
       "id": "2025-haber-2446328",
@@ -941,10 +944,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/chp-iki-kez-kazandi-secim-iptal-edildi-bayrampasa-secimlerinin-tarihi-belli-oldu-2446328"
       },
-      "konular": [],
+      "konular": [
+        "Bayrampaşa",
+        "İstanbul",
+        "Yerel seçimler"
+      ],
       "yayin": "2025-10-23T17:15:00+03:00",
       "puan": 15,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Bayrampaşa Yerel Seçimleri İçin Yenileme Kararı Alındı",
+      "ozet": "Bayrampaşa bölgesinde gerçekleştirilen ve Cumhuriyet Halk Partisi adayının iki defa kazandığı seçimler, Adalet ve Kalkınma Partisi tarafından yapılan itirazlar neticesinde iptal edildi. Yaşanan bu hukuki sürecin ardından İstanbul Valiliği, bölgede sandıkların tekrar kurulacağı tarihi duyurdu. Seçimlerin yenilenmesiyle birlikte bölgedeki siyasi süreç yeniden işleyecek.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2025-haber-2446140",
@@ -957,10 +967,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/chp-secime-katilmadi-sayistay-a-5-yeni-uye-secildi-2446140"
       },
-      "konular": [],
+      "konular": [
+        "Sayıştay",
+        "Türkiye Büyük Millet Meclisi",
+        "Siyaset"
+      ],
       "yayin": "2025-10-23T09:07:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Sayıştay üyeliği için beş yeni isim belirlendi",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu'nda gerçekleştirilen oylama sonucunda Sayıştay bünyesinde görev yapacak beş yeni üye belirlendi. Eşref Edip Çiçekli, Necati Küçükaydın, Coşkun Çekiciler, İsmail Çobanoğlu ve Adnan Güran yeni üyeler olarak seçildi. Cumhuriyet Halk Partisi milletvekilleri ise oylamaya katılmama kararı aldı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2260880",
@@ -973,10 +990,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/abd-secimleri-oncesi-hisse-senetleri-duserken-dolar-ve-altin-rekor-2260880"
       },
-      "konular": [],
+      "konular": [
+        "ABD başkanlık seçimleri",
+        "Altın",
+        "Dolar"
+      ],
       "yayin": "2024-10-23T11:55:00+03:00",
       "puan": 17,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "ABD seçimleri yaklaşırken küresel piyasalarda hareketlilik yaşanıyor",
+      "ozet": "Amerika Birleşik Devletleri'nde gerçekleşecek seçimler öncesinde yatırımcılar temkinli bir duruş sergiledi. Bu süreçte altın fiyatları zirveye ulaşırken dolar değer kazandı ve Asya borsalarında dalgalı bir seyir izlendi. Ayrıca ABD Merkez Bankası'nın faiz politikalarına dair belirsizlikler piyasalardaki risk algısını doğrudan etkiledi.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Au%2C79.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Au%2C79.jpg",
+        "genislik": 600,
+        "yukseklik": 317,
+        "orijinalGenislik": 600,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Au,79.jpg",
+        "aciklama": null,
+        "konu": "Altın"
+      }
     },
     {
       "id": "2024-haber-2260897",
@@ -989,10 +1026,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/van-depreminde-hayatini-kaybedenler-kabirleri-basinda-anildi-2260897"
       },
-      "konular": [],
+      "konular": [
+        "2011 Van depremi",
+        "Van"
+      ],
       "yayin": "2024-10-23T12:33:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Van depreminin yıl dönümünde kayıplar dualarla anıldı",
+      "ozet": "Van ilinde yaşanan büyük sarsıntıda yaşamını yitiren vatandaşlar, felaketin yıl dönümünde mezarları başında ziyaret edildi. Yakınları ve bölge halkı, hayatını kaybedenlerin kabirlerine giderek anma gerçekleştirdi.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/960px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/500px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 2560,
+        "yazar": "Mevlüt Kılıç",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ho%C5%9Fap_Kalesi_(Van,_T%C3%BCrkiye).JPG",
+        "aciklama": "Hoşap Kalesi (Van, Türkiye)",
+        "konu": "Van"
+      }
     },
     {
       "id": "2023-haber-2133174",
@@ -1005,10 +1061,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/filistin-basbakani-istiyye-soykirim-savasi-2133174"
       },
-      "konular": [],
+      "konular": [
+        "Muhammed Iştiyye",
+        "İsrail-Filistin çatışması",
+        "Filistin"
+      ],
       "yayin": "2023-10-23T15:12:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Filistin Başbakanı Iştiyye İsrail'in Saldırılarını Değerlendirdi",
+      "ozet": "Filistin Başbakanı Muhammed Iştiyye, İsrail tarafından Filistin halkına yönelik yürütülen askeri operasyonları tanımlamak için sert ifadeler kullandı. Iştiyye, bölgede yaşanan çatışmaları bir soykırım savaşı olarak nitelendirdi. Yetkili isim, yaşanan insani durumun ciddiyetine dikkat çekerek uluslararası kamuoyuna mesaj verdi.",
+      "kategori": "Savaş",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Mohammad_Shtayyeh_01_%28cropped%29.jpg/960px-Mohammad_Shtayyeh_01_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Mohammad_Shtayyeh_01_%28cropped%29.jpg/500px-Mohammad_Shtayyeh_01_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1038,
+        "orijinalGenislik": 2231,
+        "yazar": "UNCTAD",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mohammad_Shtayyeh_01_(cropped).jpg",
+        "aciklama": "With the prime minister of Palestine, Mohammad Shtayyeh, at the Palais des Nations in Geneva, Switerland, on 13 June 2019. Photo: Tim Sullivan (UNCTAD)",
+        "konu": "Muhammed Iştiyye"
+      }
     },
     {
       "id": "2023-haber-2133061",
@@ -1021,10 +1097,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/aksener-depremzede-yurttasi-affetmedi-erdogan-kadar-buyukluk-2133061"
       },
-      "konular": [],
+      "konular": [
+        "Meral Akşener",
+        "İYİ Parti",
+        "Siyaset"
+      ],
       "yayin": "2023-10-23T11:25:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Meral Akşener ve bir depremzede arasındaki dava süreci",
+      "ozet": "İYİ Parti Genel Başkanı Meral Akşener, seçim sürecinde sosyal medya üzerinden yapılan bir paylaşım gerekçesiyle bir depremzedeye dava açtı. Uzlaşma şartı olarak talep edilen 30 bin liralık ödemeyi karşılayamayacağını belirten vatandaş, deprem felaketi sonrası bu durumun hoşgörüyle karşılanmasını beklediğini ifade etti. Söz konusu hukuki süreç kamuoyunda tartışmalara yol açtı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-1995300",
@@ -1037,10 +1120,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/ingilterede-basbakanlik-yarisi-tekrar-basladi-boris-johnson-geri-doner-mi-1995300"
       },
-      "konular": [],
+      "konular": [
+        "Liz Truss",
+        "Muhafazakar Parti (Birleşik Krallık)",
+        "Birleşik Krallık"
+      ],
       "yayin": "2022-10-23T11:56:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İngiltere Muhafazakar Partisi yeni liderini belirlemek için süreci başlattı",
+      "ozet": "İngiltere Başbakanı Liz Truss, görev süresinin kırk beşinci gününde istifa kararı aldı. Bu gelişmenin ardından Muhafazakar Parti içerisinde yeni genel başkanın ve başbakanın belirlenmesi amacıyla parti içi seçim süreci yeniden başlatıldı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Official_portrait_of_Liz_Truss_%28cropped%29.jpg/960px-Official_portrait_of_Liz_Truss_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Official_portrait_of_Liz_Truss_%28cropped%29.jpg/500px-Official_portrait_of_Liz_Truss_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1361,
+        "orijinalGenislik": 2175,
+        "yazar": "Prime Minister's Office",
+        "lisans": "OGL 3",
+        "lisansUrl": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Liz_Truss_(cropped).jpg",
+        "aciklama": "22/09/2022. London, United Kingdom. Official Portrait of Prime Minister Liz Truss in No10 Downing Street. 10 Downing Street. Picture by Simon Dawson / No 10 Downing Street",
+        "konu": "Liz Truss"
+      }
     },
     {
       "id": "2022-haber-1995221",
@@ -1053,10 +1156,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/dunya-bilek-guresi-sampiyonasinda-turk-sporcular-108-madalya-kazandi-1995221"
       },
-      "konular": [],
+      "konular": [
+        "Bilek güreşi",
+        "Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu"
+      ],
       "yayin": "2022-10-23T09:11:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Dünya Bilek Güreşi Şampiyonası'nda Türk sporcuların büyük başarısı",
+      "ozet": "Dünya Bilek Güreşi Şampiyonası'na katılan milli sporcularımız toplamda 108 madalya elde ederek önemli bir başarıya imza attı. Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu Başkanı Niyazi Kurt, sporcuların gösterdiği bu üstün performansın ardından açıklamalarda bulundu.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Armwrestle.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Armwrestle.jpg",
+        "genislik": 899,
+        "yukseklik": 599,
+        "orijinalGenislik": 899,
+        "yazar": "No machine-readable author provided. Bombadil77 assumed (based on copyright claims).",
+        "lisans": "CC BY 2.5",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.5",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Armwrestle.jpg",
+        "aciklama": "ng",
+        "konu": "Bilek güreşi"
+      }
     },
     {
       "id": "2021-haber-1879029",
@@ -1069,10 +1191,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasindan-bir-faiz-karari-daha-1879029"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Zorunlu karşılık",
+        "Faiz"
+      ],
       "yayin": "2021-10-23T12:25:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Merkez Bankası zorunlu karşılık faiz oranlarında değişikliğe gitti",
+      "ozet": "Merkez Bankası, politika faizinde gerçekleştirdiği indirimin ardından yeni bir düzenleme daha yaptı. Kurum, Türk lirası cinsinden tutulan zorunlu karşılıklara uygulanan faiz oranını 2 puan aşağı çekerek yüzde 10,5 seviyesine düşürdü.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2021-haber-1878996",
@@ -1085,10 +1214,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/milli-sporcu-ahmet-onder-artistik-cimnastik-dunya-sampiyonasinda-besinci-oldu-1878996"
       },
-      "konular": [],
+      "konular": [
+        "Artistik Cimnastik Dünya Şampiyonası",
+        "Ahmet Önder"
+      ],
       "yayin": "2021-10-23T10:44:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ahmet Önder Dünya Cimnastik Şampiyonası'nda Beşinci Sırada Yer Aldı",
+      "ozet": "Artistik Cimnastik Dünya Şampiyonası kapsamında düzenlenen erkekler genel tasnif final müsabakaları gerçekleştirildi. Milli sporcu Ahmet Önder, sergilediği performans sonucunda organizasyonu beşinci sırada bitirdi.",
+      "kategori": "Spor"
     },
     {
       "id": "2020-haber-1775704",
@@ -1101,10 +1236,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/2020-dunya-dag-bisikleti-maraton-sampiyonasi-acilis-seremonisi-1775704"
       },
-      "konular": [],
+      "konular": [
+        "Dağ bisikleti",
+        "Sakarya",
+        "Dünya Dağ Bisikleti Maraton Şampiyonası"
+      ],
       "yayin": "2020-10-23T23:43:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Dünya Dağ Bisikleti Maraton Şampiyonası Sakarya'da Başladı",
+      "ozet": "Sakarya'da düzenlenen 2020 Dünya Dağ Bisikleti Maraton Şampiyonası için Ayçiçeği Bisiklet Vadisi'nde bir açılış töreni düzenlendi. Otuz farklı ülkeden gelen yüz dört sporcunun katılımıyla gerçekleşen organizasyon, resmi başlangıcını yaptı. Şampiyona kapsamında sporcular zorlu parkurlarda mücadele etmek üzere bir araya geldi.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Hardtail-mountain-bike.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Hardtail-mountain-bike.jpg",
+        "genislik": 907,
+        "yukseklik": 600,
+        "orijinalGenislik": 907,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY-SA 2.5",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Hardtail-mountain-bike.jpg",
+        "aciklama": null,
+        "konu": "Dağ bisikleti"
+      }
     },
     {
       "id": "2020-haber-1775648",
@@ -1117,10 +1272,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fransada-tum-zamanlarin-rekor-vaka-artisi-1775648"
       },
-      "konular": [],
+      "konular": [
+        "COVID-19 pandemisi",
+        "Fransa"
+      ],
       "yayin": "2020-10-23T22:20:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Fransa'da günlük koronavirüs vaka sayısında en yüksek seviye görüldü",
+      "ozet": "Fransa genelinde bir gün içerisinde tespit edilen yeni koronavirüs vaka sayısı 42 bin 32 kişiye ulaştı. Bu rakam, ülkede salgının başlangıcından bu yana kaydedilen en yüksek günlük artış olarak kayıtlara geçti.",
+      "kategori": "Toplum",
+      "gorsel": null
     },
     {
       "id": "2018-haber-1119738",
@@ -1133,10 +1295,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dyo-usta-ligi-2019-turkiye-sampiyonasi-1119738"
       },
-      "konular": [],
+      "konular": [
+        "DYO",
+        "Futbol"
+      ],
       "yayin": "2018-10-23T17:25:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "DYO Boya Ustaları İçin Futbol Turnuvası Düzenledi",
+      "ozet": "Boya markası DYO, bünyesinde çalışan ustalar için özel bir futbol organizasyonu başlattı. Türkiye genelindeki boya ustalarının katılımıyla gerçekleşen bu etkinlik, katılımcılara iki hafta boyunca spor dolu bir süreç yaşattı. Milli takımın destekçisi olan firma, bu turnuva ile meslek grupları arasında sosyal bir etkileşim ortamı oluşturmayı hedefledi.",
+      "kategori": "Spor"
     },
     {
       "id": "2017-haber-850763",
@@ -1149,10 +1317,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akpli-hayati-yazici-secimle-gelen-secimle-giderin-istisnasi-olabilir-850763"
       },
-      "konular": [],
+      "konular": [
+        "Hayati Yazıcı",
+        "Adalet ve Kalkınma Partisi",
+        "Belediye başkanı"
+      ],
       "yayin": "2017-10-23T10:16:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Hayati Yazıcı'dan belediye başkanlarının istifasına dair açıklama",
+      "ozet": "Adalet ve Kalkınma Partisi Genel Başkan Yardımcısı Hayati Yazıcı, belediye başkanlarının görevden ayrılma süreçlerine ilişkin değerlendirmelerde bulundu. Seçimle göreve gelen isimlerin yine seçimle gitmesi gerektiği yönündeki genel ilkenin bazı durumlarda istisnaları olabileceğini ifade etti. Yazıcı ayrıca, mevcut durumda istifası talep edilen başka bir belediye başkanı bulunmadığını belirtti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2017-haber-851266",
@@ -1165,10 +1340,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/gokcekin-istifa-kararinin-ardindan-erdogandan-jet-aciklama-851266"
       },
-      "konular": [],
+      "konular": [
+        "Melih Gökçek",
+        "Recep Tayyip Erdoğan",
+        "Ankara Büyükşehir Belediyesi"
+      ],
       "yayin": "2017-10-23T19:54:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Melih Gökçek'in istifa kararı sonrası Cumhurbaşkanı'ndan açıklama",
+      "ozet": "Ankara Büyükşehir Belediye Başkanı Melih Gökçek'in görevinden ayrılacağını duyurmasının ardından Cumhurbaşkanı Recep Tayyip Erdoğan sosyal medya üzerinden değerlendirmelerde bulundu. Erdoğan, Gökçek'in istifa kararıyla ilgili süreci takip ettiğini belirten paylaşımlar yaptı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2016-haber-620179",
@@ -1181,10 +1376,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/eczacibasi-vitra-dunya-sampiyonu-620179"
       },
-      "konular": [],
+      "konular": [
+        "FIVB Kadınlar Dünya Kulüpler Voleybol Şampiyonası",
+        "Eczacıbaşı (kadın voleybol takımı)"
+      ],
       "yayin": "2016-10-23T16:13:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Eczacıbaşı Vitra Dünya Kulüpler Şampiyonu Oldu",
+      "ozet": "Voleybol Kadınlar Kulüpler Dünya Şampiyonası final mücadelesinde Eczacıbaşı Vitra ile Pomi Cassalmaggiore karşı karşıya geldi. Rakibini 3-2'lik set sonucuyla mağlup etmeyi başaran Eczacıbaşı Vitra, turnuvayı şampiyonlukla tamamladı.",
+      "kategori": "Spor",
+      "gorsel": null
     },
     {
       "id": "2016-haber-620220",
@@ -1197,10 +1399,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hdp-grup-baskanvekili-baluken-hakkinda-sorusturma-acildi-620220"
       },
-      "konular": [],
+      "konular": [
+        "İdris Baluken",
+        "Nursel Aydoğan",
+        "Halkların Demokratik Partisi"
+      ],
       "yayin": "2016-10-23T17:51:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İki HDP milletvekili hakkında hukuki soruşturma başlatıldı",
+      "ozet": "Diyarbakır Cumhuriyet Başsavcılığı, Halkların Demokratik Partisi Grup Başkanvekili İdris Baluken ile milletvekili Nursel Aydoğan hakkında yasal inceleme başlattı. Söz konusu soruşturma süreci, savcılığın yürüttüğü çalışmalar kapsamında resmiyet kazandı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2015-haber-393215",
@@ -1213,10 +1422,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hdpnin-secim-calismasina-izin-verilmedi-393215"
       },
-      "konular": [],
+      "konular": [
+        "Halkların Demokratik Partisi",
+        "Yüksekova",
+        "Hakkari"
+      ],
       "yayin": "2015-10-23T10:07:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Hakkari'de seçim çalışması yapılmasına güvenlik gerekçesiyle engel olundu",
+      "ozet": "Hakkari'nin Yüksekova ilçesinde bulunan Dağlıca bölgesine seçim faaliyetleri yürütmek amacıyla gitmek isteyen Halkların Demokratik Partisi üyelerinin geçişine güvenlik güçleri tarafından müsaade edilmedi. Askeri birlikler bölgedeki güvenlik durumunu gerekçe göstererek grubun ilerleyişini durdurdu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2014-haber-133389",
@@ -1229,10 +1445,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/alman-spiker-galatasaray-fenerbahceye-kurulan-komplodan-dolayi-sampiyonar-liginde-133389"
       },
-      "konular": [],
+      "konular": [
+        "Galatasaray",
+        "Fenerbahçe",
+        "UEFA Şampiyonlar Ligi"
+      ],
       "yayin": "2014-10-23T11:09:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Alman televizyonunda Galatasaray ve Fenerbahçe hakkında tartışmalı iddia",
+      "ozet": "Alman ZDF kanalında görev yapan bir spor spikeri, Dortmund ile oynanan karşılaşmanın ardından Galatasaray'ın Şampiyonlar Ligi'ne katılım süreciyle ilgili açıklamalarda bulundu. Spiker, sarı kırmızılı ekibin turnuvada yer almasını Fenerbahçe'ye yönelik gerçekleştirilen bir kumpas ile ilişkilendirdi. Bu ifadeler spor kamuoyunda geniş yankı uyandırdı.",
+      "kategori": "Spor"
     },
     {
       "id": "2014-haber-133475",
@@ -1245,10 +1468,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/merkez-bankasindan-faiz-karari-133475"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Faiz"
+      ],
       "yayin": "2014-10-23T14:14:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Merkez Bankası faiz oranlarında değişikliğe gitmedi",
+      "ozet": "Türkiye Cumhuriyet Merkez Bankası Para Politikası Kurulu gerçekleştirdiği toplantı sonucunda faiz oranlarını koruma kararı aldı. Kurul, bir hafta vadeli repo ihale faiz oranını yüzde 8,25 seviyesinde tutarak herhangi bir artış veya indirim yapmadı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2013-haber-4137",
@@ -1261,10 +1490,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/abli-diplomat-erdogan-gozden-cikartildi-4137"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Avrupa Birliği",
+        "Siyaset"
+      ],
       "yayin": "2013-10-23T11:01:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Avrupalı bir diplomattan Recep Tayyip Erdoğan hakkında iddia",
+      "ozet": "Avrupa Birliği bünyesinde görev yapan bir diplomat, istihbarat çevrelerinde konuşulan bir iddiayı gündeme getirdi. Söz konusu diplomat, Recep Tayyip Erdoğan'ın uluslararası arenada gözden çıkarıldığını öne sürdü.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2013-haber-4166",
@@ -1277,10 +1526,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yildiz-teknik-universitesinde-patlama-4166"
       },
-      "konular": [],
+      "konular": [
+        "Yıldız Teknik Üniversitesi",
+        "Davutpaşa Kampüsü",
+        "Teknokent"
+      ],
       "yayin": "2013-10-23T14:11:00+03:00",
       "puan": 4,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Yıldız Teknik Üniversitesi Teknokent binasında patlama yaşandı",
+      "ozet": "Yıldız Teknik Üniversitesi Davutpaşa Kampüsü sınırları içerisinde yer alan Teknokent tesislerinde sabahın erken saatlerinde bir patlama gerçekleşti. Olayın ardından bölgede incelemeler başlatıldı.",
+      "kategori": "Afet"
     },
     {
       "id": "2012-haber-378554",
@@ -1293,10 +1549,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kpss-cevap-anahtarlari-erisime-acildi-378554"
       },
-      "konular": [],
+      "konular": [
+        "Kamu Personel Seçme Sınavı",
+        "ÖSYM"
+      ],
       "yayin": "2012-10-23T15:17:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "KPSS ortaöğretim ve önlisans sınav kitapçıkları erişime sunuldu",
+      "ozet": "Ölçme, Seçme ve Yerleştirme Merkezi, Kamu Personel Seçme Sınavı kapsamında gerçekleştirilen ortaöğretim ve önlisans oturumlarına ait soru kitapçıklarını ve cevap anahtarlarını yayımladı. Adaylar, sınavda karşılaştıkları soruları ve doğru yanıtları kurumun resmi internet sayfası üzerinden inceleyebilecekler.",
+      "kategori": "Toplum"
     },
     {
       "id": "2012-haber-378664",
@@ -1309,10 +1571,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/askeri-casusluk-davasinda-gerekceli-karar-378664"
       },
-      "konular": [],
+      "konular": [
+        "Askeri casusluk davası",
+        "Türkiye Cumhuriyeti Adalet Bakanlığı"
+      ],
       "yayin": "2012-10-23T14:59:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Askeri casusluk davasında gerekçeli karar açıklandı",
+      "ozet": "Şantaj ve askeri casusluk davasına ilişkin hazırlanan gerekçeli kararda, Türkiye'de devlet sırrı niteliğindeki bilgilerin korunması ve bu bilgilerin gizlilik sürelerine dair yasal bir boşluk bulunduğu vurgulandı. Mahkeme, devlet sırrı kavramının tanımlanması ve bu konuda yetkili makamların belirlenmesi hususunda mevzuat eksikliği olduğunu belirtti. Kararda, bir belgenin devlet sırrı sayılabilmesi için gerekli olan yasal altyapının henüz oluşturulmadığı ifade edildi.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2011-haber-292834",
@@ -1325,10 +1594,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-erdogan-deprem-bolgesinde-292834"
       },
-      "konular": [],
+      "konular": [
+        "2011 Van depremi",
+        "Recep Tayyip Erdoğan",
+        "Van"
+      ],
       "yayin": "2011-10-23T15:00:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Van depreminin ardından bölgede incelemeler yapıldı",
+      "ozet": "Dönemin Başbakanı Recep Tayyip Erdoğan, meydana gelen şiddetli depremin etkilerini yerinde görmek ve yürütülen çalışmaları takip etmek amacıyla bölgeye gitti. Afet bölgesindeki durumu inceleyen yetkililer, yaşanan yıkım ve kurtarma faaliyetleri hakkında bilgi aldı.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2011-haber-292816",
@@ -1341,10 +1630,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/depremin-hissedilen-siddeti-10-292816"
       },
-      "konular": [],
+      "konular": [
+        "2011 Van depremi",
+        "Ahmet Mete Işıkara",
+        "Van"
+      ],
       "yayin": "2011-10-23T13:25:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Van merkezli depremin şiddeti uzmanlar tarafından değerlendirildi",
+      "ozet": "Van ilinin merkez ilçesine bağlı Tabanlı köyü civarında meydana gelen 7,2 büyüklüğündeki sarsıntı bilim insanları tarafından incelendi. Ahmet Mete Işıkara, bölgede yaşanan bu doğal afetin hissedilen şiddet derecesinin 10 olduğunu ifade etti.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/960px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/500px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 2560,
+        "yazar": "Mevlüt Kılıç",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ho%C5%9Fap_Kalesi_(Van,_T%C3%BCrkiye).JPG",
+        "aciklama": "Hoşap Kalesi (Van, Türkiye)",
+        "konu": "Van"
+      }
     }
   ],
   "haberYillari": [

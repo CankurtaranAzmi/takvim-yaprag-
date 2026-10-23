@@ -14,8 +14,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1914-rusya-osmanli-imparatorluguna-savas-ilan-etti",
@@ -28,8 +28,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1917-filistinde-yahudilere-yurt-verilmesini-ongoren-balfour-deklarasyonu",
@@ -39,51 +39,24 @@
         "Filistin (bölge)",
         "Balfour Deklarasyonu (1917)"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Balfour Deklarasyonu ve Orta Doğu'nun Geleceği",
+      "ozet": "İngiltere Dışişleri Bakanı Arthur Balfour, 2 Kasım 1917 tarihinde Siyonist hareketin önde gelen isimlerinden Lord Rothschild'e hitaben kaleme aldığı mektupla, İngiliz hükümetinin Filistin topraklarında bir Yahudi yurdu oluşturulması fikrine olumlu baktığını resmen duyurdu. Tarihe Balfour Deklarasyonu olarak geçen bu belge, bölgenin siyasi kaderini kökten değiştirecek bir sürecin başlangıcı kabul edilir. Deklarasyon, bölgedeki mevcut Arap nüfusunun medeni ve dini haklarına zarar verilmemesi şartını içerse de, bu adım Orta Doğu'da uzun yıllar sürecek olan milliyetçi çatışmaların ve diplomatik gerilimlerin temelini oluşturmuştur.\n\nBu deklarasyon, Osmanlı Devleti'nin Orta Doğu topraklarının paylaşımını öngören Sykes-Picot Antlaşması ve İngiltere'nin bölgedeki Arap liderlerle yürüttüğü gizli görüşmelerin gölgesinde gerçekleşmiştir. İngiltere'nin aynı dönemde hem Araplara hem de Yahudi hareketine verdiği çelişkili taahhütler, bölgedeki güç dengelerini karmaşık bir hale getirmiştir. Balfour Deklarasyonu, sadece bir devletin kuruluşuna giden yolu açmakla kalmamış, aynı zamanda bölgenin demografik ve siyasi yapısını yeniden şekillendiren, günümüze kadar etkileri süren uluslararası bir tartışmanın da merkezine yerleşmiştir.",
+      "kategori": "Siyaset",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/MiddleEast.A2003031.0820.250m.jpg/960px-MiddleEast.A2003031.0820.250m.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/MiddleEast.A2003031.0820.250m.jpg/500px-MiddleEast.A2003031.0820.250m.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/A.J._Balfour_LCCN2014682753_%28cropped%29.jpg/960px-A.J._Balfour_LCCN2014682753_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/A.J._Balfour_LCCN2014682753_%28cropped%29.jpg/500px-A.J._Balfour_LCCN2014682753_%28cropped%29.jpg",
         "genislik": 960,
-        "yukseklik": 1222,
-        "orijinalGenislik": 2200,
-        "yazar": "Jacques Descloitres, MODIS Rapid Response Team, NASA/GSFC",
+        "yukseklik": 1218,
+        "orijinalGenislik": 3852,
+        "yazar": "Bain News Service, publisher",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:MiddleEast.A2003031.0820.250m.jpg",
-        "aciklama": "This Moderate Resolution Imaging Spectroradiometer (MODIS) image from the Terra satellite shows the Mediterranean Sea (left) and portions of the Middle East. Countries pictured are (clockwise from top",
-        "konu": "Filistin (bölge)"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:A.J._Balfour_LCCN2014682753_(cropped).jpg",
+        "aciklama": "Title: A.J. Balfour Abstract/medium: 1 negative : glass ; 5 x 7 in. or smaller.",
+        "konu": "Balfour Deklarasyonu (1917)"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/MiddleEast.A2003031.0820.250m.jpg/960px-MiddleEast.A2003031.0820.250m.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/MiddleEast.A2003031.0820.250m.jpg/500px-MiddleEast.A2003031.0820.250m.jpg",
-          "genislik": 960,
-          "yukseklik": 1222,
-          "orijinalGenislik": 2200,
-          "yazar": "Jacques Descloitres, MODIS Rapid Response Team, NASA/GSFC",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:MiddleEast.A2003031.0820.250m.jpg",
-          "aciklama": "This Moderate Resolution Imaging Spectroradiometer (MODIS) image from the Terra satellite shows the Mediterranean Sea (left) and portions of the Middle East. Countries pictured are (clockwise from top",
-          "konu": "Filistin (bölge)"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/A.J._Balfour_LCCN2014682753_%28cropped%29.jpg/960px-A.J._Balfour_LCCN2014682753_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/A.J._Balfour_LCCN2014682753_%28cropped%29.jpg/500px-A.J._Balfour_LCCN2014682753_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1218,
-          "orijinalGenislik": 3852,
-          "yazar": "Bain News Service, publisher",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:A.J._Balfour_LCCN2014682753_(cropped).jpg",
-          "aciklama": "Title: A.J. Balfour Abstract/medium: 1 negative : glass ; 5 x 7 in. or smaller.",
-          "konu": "Balfour Deklarasyonu (1917)"
-        }
-      ]
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1918-enver-talat-ve-cemal-pasalar-beraberindekilerle-bir",
@@ -94,64 +67,12 @@
         "Talat Paşa",
         "Cemal Paşa"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/ENPER_PASHA_WARMINISTER.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/ENPER_PASHA_WARMINISTER.jpg",
-        "genislik": 800,
-        "yukseklik": 1108,
-        "orijinalGenislik": 800,
-        "yazar": "Nicola Perscheid",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:ENPER_PASHA_WARMINISTER.jpg",
-        "aciklama": "Enver-Pascha, Osmanischer General",
-        "konu": "Enver Paşa"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/ENPER_PASHA_WARMINISTER.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/ENPER_PASHA_WARMINISTER.jpg",
-          "genislik": 800,
-          "yukseklik": 1108,
-          "orijinalGenislik": 800,
-          "yazar": "Nicola Perscheid",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:ENPER_PASHA_WARMINISTER.jpg",
-          "aciklama": "Enver-Pascha, Osmanischer General",
-          "konu": "Enver Paşa"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Mehmed_talat.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Mehmed_talat.jpg",
-          "genislik": 917,
-          "yukseklik": 1101,
-          "orijinalGenislik": 917,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mehmed_talat.jpg",
-          "aciklama": "Mehmed Talat (cropped)",
-          "konu": "Talat Paşa"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Cem%C3%A2l_Pa%C5%9Fa.jpg/960px-Cem%C3%A2l_Pa%C5%9Fa.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Cem%C3%A2l_Pa%C5%9Fa.jpg/500px-Cem%C3%A2l_Pa%C5%9Fa.jpg",
-          "genislik": 960,
-          "yukseklik": 1199,
-          "orijinalGenislik": 1372,
-          "yazar": "Template:Neifeless colorizations",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Cem%C3%A2l_Pa%C5%9Fa.jpg",
-          "aciklama": "Ahmed Cemâl Pasha.",
-          "konu": "Cemal Paşa"
-        }
-      ]
+      "baslik": "Üç Paşalar'ın İstanbul'dan Ayrılışı",
+      "ozet": "Osmanlı İmparatorluğu'nun I. Dünya Savaşı'ndan yenilgiyle çıkması, devlet yönetiminde uzun süredir söz sahibi olan İttihat ve Terakki Cemiyeti liderleri için yolun sonunu getirdi. Enver, Talat ve Cemal Paşalar, savaşın sorumluluğu ve yaklaşan siyasi tasfiye süreci nedeniyle İstanbul'da kalmanın tehlikeli olacağını öngördüler. Bu üç isim, beraberlerindeki bazı yakın çalışma arkadaşlarıyla birlikte 2 Kasım 1918 gecesi gizlice bir Alman gemisine binerek ülkeyi terk ettiler. Bu olay, Osmanlı siyasetinde yaklaşık on yıl süren İttihatçı iktidarın fiilen sona erdiğinin en somut göstergesi oldu.\n\nÜç Paşalar olarak bilinen bu liderler, 1913 yılındaki Bâb-ı Âli Baskını'ndan itibaren devletin iç ve dış siyasetinde belirleyici bir rol oynamışlardı. Savaşın kaybedilmesiyle birlikte hem iç siyasetteki güçlerini kaybettiler hem de uluslararası arenada ağır suçlamalarla karşı karşıya kaldılar. Ülkeyi terk etmelerinin ardından İttihat ve Terakki Cemiyeti resmen feshedildi. Yurt dışına çıkan paşalar, sonraki yıllarda farklı ülkelerde yaşamlarını sürdürdüler ancak Talat ve Cemal Paşalar suikastlar sonucu, Enver Paşa ise Orta Asya'daki askerî faaliyetleri sırasında hayatını kaybetti.",
+      "kategori": "Siyaset",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1920-ilk-radyo-naklen-yayini-abdnin-pittsburgh-sehrinde",
@@ -160,23 +81,12 @@
       "konular": [
         "Pittsburgh"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Ascending_the_Duquesne_Incline.jpg/960px-Ascending_the_Duquesne_Incline.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Ascending_the_Duquesne_Incline.jpg/500px-Ascending_the_Duquesne_Incline.jpg",
-        "genislik": 960,
-        "yukseklik": 641,
-        "orijinalGenislik": 7360,
-        "yazar": "Dllu",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ascending_the_Duquesne_Incline.jpg",
-        "aciklama": "Ascending the Duquesne Incline on Mount Washington.",
-        "konu": "Pittsburgh"
-      }
+      "baslik": "Radyo Yayıncılığında Yeni Bir Dönem: İlk Naklen Yayın",
+      "ozet": "Amerika Birleşik Devletleri'nin Pittsburgh şehrinde bulunan KDKA radyo istasyonu, 1920 yılında başkanlık seçim sonuçlarını canlı olarak aktararak tarihteki ilk planlı radyo naklen yayınını gerçekleştirdi. Bu yayın, o güne kadar sadece telgraf veya gazete aracılığıyla öğrenilebilen haberlerin, sesli bir şekilde evlere ulaşmasını sağlayarak kitle iletişiminde devrim niteliğinde bir adım attı. KDKA'nın bu girişimi, radyo yayıncılığının ticari ve toplumsal bir güç haline gelmesinin önünü açtı.\n\nBu tarihi yayın, insanların haber alma alışkanlıklarını kökten değiştirdi. Radyonun bir eğlence ve bilgi kaynağı olarak evlerin başköşesine yerleşmesi, kısa sürede dünya genelinde bir yayıncılık furyasının başlamasına neden oldu. Pittsburgh'da atılan bu adım, sadece teknik bir başarı değil, aynı zamanda modern medyanın temellerinin atıldığı bir dönüm noktası olarak kabul edilir. Radyo, ilerleyen yıllarda siyasetten spora, müzikten eğlenceye kadar geniş bir yelpazede toplumları birbirine bağlayan en etkili araç haline geldi.",
+      "kategori": "Teknoloji",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1922-tbmmnin-gizli-oturumunda-lozan-konferansina-katilacak-heyetin",
@@ -186,10 +96,9 @@
         "Türkiye Büyük Millet Meclisi",
         "Lozan Barış Konferansı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Lozan Konferansı Heyetinin Belirlenmesi",
+      "ozet": "Kurtuluş Savaşı'nın askeri zaferle sonuçlanmasının ardından, Türkiye'nin uluslararası alanda tanınmasını sağlayacak barış görüşmeleri için hazırlıklar başladı. 2 Kasım 1922 tarihinde Türkiye Büyük Millet Meclisi'nde yapılan gizli oturumda, İsviçre'nin Lozan şehrinde düzenlenecek olan konferansa katılacak Türk heyetinin kimlerden oluşacağı ve bu heyetin hükümet tarafından belirlenmesi konusu karara bağlandı. Bu adım, yeni Türk devletinin diplomatik arenada tek bir sesle ve güçlü bir iradeyle temsil edilmesini amaçlıyordu.\n\nLozan Barış Konferansı, Sevr Antlaşması'nın geçersizliğini tescil etmek ve Türkiye'nin bağımsızlığını uluslararası hukuk nezdinde kesinleştirmek adına kritik bir öneme sahipti. Meclis'in bu kararı, İsmet İnönü başkanlığındaki heyetin Misak-ı Milli sınırları ve tam bağımsızlık ilkeleri doğrultusunda hareket etmesi için gerekli siyasi meşruiyeti sağladı. Konferans süreci, Türk diplomasisi için oldukça zorlu geçse de, bu kararla başlayan süreç sonunda imzalanan Lozan Antlaşması, Türkiye Cumhuriyeti'nin tapusu niteliğinde bir belge olarak tarihe geçti.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Turkey-Greece-Bulgaria_on_Treaty_of_Lausanne.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Turkey-Greece-Bulgaria_on_Treaty_of_Lausanne.png",
@@ -202,7 +111,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Turkey-Greece-Bulgaria_on_Treaty_of_Lausanne.png",
         "aciklama": null,
         "konu": "Lozan Barış Konferansı"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1930-haile-selassie-etiyopya-imparatoru-olarak-tac-giydi",
@@ -212,10 +123,9 @@
         "Haile Selassie",
         "Etiyopya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Haile Selassie'nin Etiyopya İmparatoru Olarak Taç Giymesi",
+      "ozet": "Haile Selassie, 1930 yılının Kasım ayında Addis Ababa'da gerçekleştirilen törenle Etiyopya İmparatoru unvanını resmen aldı. Uzun süredir ülkenin yönetiminde söz sahibi olan Selassie, bu taç giyme töreniyle birlikte imparatorluk otoritesini pekiştirerek Etiyopya'nın modernleşme sürecinde merkezi bir figür haline geldi. Tören, dönemin dünya liderlerinin ve diplomatik temsilcilerin katılımıyla büyük bir uluslararası ilgiyle takip edildi.\n\nSelassie'nin hükümdarlığı, Etiyopya'nın küresel siyasetteki yerini belirleyen kritik bir döneme denk geldi. Özellikle Milletler Cemiyeti'nde sergilediği duruş ve İtalya'nın saldırgan politikalarına karşı yürüttüğü diplomatik mücadele, onu uluslararası arenada tanınan bir lider yaptı. Ancak içerideki yönetim tarzı, asillerle olan ilişkileri ve modernleşme çabaları tarihçiler arasında farklı yorumlara konu oldu. Bugün ise Selassie, sadece siyasi bir lider olarak değil, aynı zamanda Rastafaryanizm inancının takipçileri tarafından kutsal bir figür olarak kabul edilmesiyle de dünya tarihinde özgün bir yere sahiptir.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Haile_Selassie_in_full_dress_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Haile_Selassie_in_full_dress_%28cropped%29.jpg",
@@ -228,7 +138,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Haile_Selassie_in_full_dress_(cropped).jpg",
         "aciklama": "His Imperial Majesty Emperor Haile Selassie I",
         "konu": "Haile Selassie"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1934-icisleri-bakani-sukru-kaya-radyo-programlarindan-alaturka",
@@ -237,10 +149,9 @@
       "konular": [
         "Şükrü Kaya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Radyo Yayınlarında Alaturka Müzik Yasağı",
+      "ozet": "Cumhuriyetin ilk yıllarında gerçekleştirilen kültürel reformlar kapsamında, 2 Kasım 1934 tarihinde İçişleri Bakanı Şükrü Kaya tarafından radyo yayınlarında alaturka müziğin yasaklanmasına karar verildi. Bu uygulama, dönemin modernleşme politikaları doğrultusunda Türk müziğinin Batı normlarına göre yeniden yapılandırılması hedefinin bir parçası olarak hayata geçirildi. Dönemin yöneticileri, alaturka müziğin toplumsal ilerlemeyi yavaşlattığına ve çağdaşlaşma hedefleriyle uyumsuz olduğuna inanıyordu.\n\nBu yasak, Türk müziğinin geleneksel formlarından uzaklaştırılarak çok sesli Batı müziği teknikleriyle harmanlanması sürecini hızlandırdı. Radyo yayınlarının devletin ideolojik hedeflerini halka ulaştırmada en etkili araçlardan biri olarak görülmesi, bu kararın önemini artırdı. Söz konusu kısıtlama, Türk müzik tarihinde uzun süren tartışmalara yol açmış ve geleneksel müzik anlayışının kamusal alandaki varlığını geçici bir süreliğine de olsa sınırlandırmıştır. Uygulama, dönemin kültürel dönüşüm çabalarının en somut ve tartışmalı örneklerinden biri olarak tarihe geçmiştir.",
+      "kategori": "Sanat",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%C5%9E%C3%BCkr%C3%BC_Kaya%2C_Minister_of_Interior.jpg/960px-%C5%9E%C3%BCkr%C3%BC_Kaya%2C_Minister_of_Interior.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%C5%9E%C3%BCkr%C3%BC_Kaya%2C_Minister_of_Interior.jpg/500px-%C5%9E%C3%BCkr%C3%BC_Kaya%2C_Minister_of_Interior.jpg",
@@ -253,7 +164,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9E%C3%BCkr%C3%BC_Kaya,_Minister_of_Interior.jpg",
         "aciklama": "Şükrü Kaya (1883 - 1959)",
         "konu": "Şükrü Kaya"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1936-italyan-diktator-benito-mussolini-roma-berlin-anlasmasini-ilan",
@@ -266,10 +179,9 @@
         "Berlin",
         "Mihver Devletleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Mihver Devletleri'nin Doğuşu: Roma-Berlin Anlaşması",
+      "ozet": "İtalya'nın faşist lideri Benito Mussolini, 2 Kasım 1936 tarihinde yaptığı bir konuşmada Roma-Berlin anlaşmasını duyurarak Avrupa siyasetinde yeni bir dönemin kapılarını araladı. Bu diplomatik hamle, İtalya ve Nazi Almanyası arasında kurulan stratejik iş birliğinin resmi başlangıcı kabul edilir. İki ülke arasındaki bu yakınlaşma, kısa süre sonra Mihver Devletleri olarak adlandırılacak olan askeri ve siyasi ittifakın temelini oluşturdu.\n\nBu anlaşma, her iki ülkenin de uluslararası arenada yalnızlaşması ve benzer ideolojik hedeflere sahip olmaları sonucunda ortaya çıktı. Mussolini'nin bu adımı, Avrupa'daki güç dengelerini kökten değiştirerek İkinci Dünya Savaşı'na giden süreçte tarafların netleşmesine neden oldu. İtalya ve Almanya arasındaki bu eksen, sadece askeri bir dayanışma değil, aynı zamanda faşist ideolojinin yayılması ve Avrupa'daki mevcut düzenin sarsılması anlamına geliyordu. Bu ittifak, ilerleyen yıllarda Japonya'nın da katılımıyla genişleyerek küresel çapta büyük bir çatışmanın ana bloklarından birini meydana getirdi.",
+      "kategori": "Savaş",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
@@ -283,47 +195,8 @@
         "aciklama": "Portrait of Benito Mussolini from the second edition of Adolf Dresler's Mussolini als Journalist (1939).",
         "konu": "Benito Mussolini"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
-          "genislik": 958,
-          "yukseklik": 1297,
-          "orijinalGenislik": 958,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mussolini_mezzobusto.jpg",
-          "aciklama": "Portrait of Benito Mussolini from the second edition of Adolf Dresler's Mussolini als Journalist (1939).",
-          "konu": "Benito Mussolini"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg/960px-Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg/500px-Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg",
-          "genislik": 960,
-          "yukseklik": 638,
-          "orijinalGenislik": 3500,
-          "yazar": "Diliff",
-          "lisans": "CC BY 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Trevi_Fountain,_Rome,_Italy_2_-_May_2007.jpg",
-          "aciklama": "A 5x5 segment panorama taken by myself with a Canon 5D and 24-105mm f/4L IS lens. Stitched with rectilinear projection to keep lines straight. This view is about 100 degrees horizontally, close to the",
-          "konu": "Roma"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/960px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/500px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 560,
-          "orijinalGenislik": 5464,
-          "yazar": "Kasa Fue",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Museumsinsel_Berlin_Juli_2021_1_(cropped).jpg",
-          "aciklama": "Museumsinsel in Berlin, im Hintergrund der Fernsehturm am Alexanderplatz, Juli 2021",
-          "konu": "Berlin"
-        }
-      ]
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1940-ankara-erkek-teknik-ogretmen-okulu-kuruldu",
@@ -333,8 +206,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1944-pasta-imali-yasagi-ve-hava-saldirilarina-karsi",
@@ -344,8 +217,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1947-kaliforniyada-havaci-ve-is-insani-howard-hughes",
@@ -356,51 +229,24 @@
         "Howard Hughes",
         "Hughes H-4 Hercules"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Devasa Uçak Spruce Goose İlk ve Son Kez Havalandı",
+      "ozet": "Havacılık tarihinin en iddialı projelerinden biri olan Hughes H-4 Hercules, 2 Kasım 1947 tarihinde Kaliforniya'da gökyüzüyle buluştu. Howard Hughes tarafından geliştirilen bu devasa uçak, 97,5 metrelik kanat açıklığıyla döneminin mühendislik sınırlarını zorlayan bir yapıya sahipti. II. Dünya Savaşı sırasında alüminyum kullanımına getirilen kısıtlamalar nedeniyle büyük oranda huş ağacından inşa edilen uçak, bu özelliği nedeniyle halk arasında ladin ağacına atıfla Spruce Goose yani Ladin Kaz olarak anılmaya başlandı.\n\nProje, savaş döneminde ağır nakliye ihtiyacını karşılamak amacıyla tasarlanmış olsa da, uçağın tamamlanması savaşın bitişine yetişemedi. Bu durum, uçağın stratejik önemini yitirmesine ve yalnızca tek bir prototip üretilerek projenin sonlandırılmasına yol açtı. İlk uçuşunu gerçekleştirdiği gün, aynı zamanda uçağın gökyüzündeki tek deneyimi oldu. Günümüzde havacılık tarihinin en ikonik ve sıra dışı tasarımlarından biri olarak kabul edilen bu devasa deniz uçağı, günümüzde Oregon'daki bir müzede korunarak sergilenmeye devam etmektedir.",
+      "kategori": "Teknoloji",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Howard_Hughes.jpg/960px-Howard_Hughes.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Howard_Hughes.jpg/500px-Howard_Hughes.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/H-4_Hercules_2.jpg/960px-H-4_Hercules_2.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/H-4_Hercules_2.jpg/500px-H-4_Hercules_2.jpg",
         "genislik": 960,
-        "yukseklik": 1263,
-        "orijinalGenislik": 1092,
-        "yazar": "Bilinmeyen yazar",
+        "yukseklik": 767,
+        "orijinalGenislik": 1840,
+        "yazar": "SDASM Archives",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Howard_Hughes.jpg",
-        "aciklama": "Howard Hughes \"standing in front of his new Boeing Army Pursuit Plane\" (Boeing 100A) in Inglewood, California in the 1940s. The black \"halo\" is presumably intended to make the head stand out better. (",
-        "konu": "Howard Hughes"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:H-4_Hercules_2.jpg",
+        "aciklama": "H-4 Hercules \"Spruce Goose\"",
+        "konu": "Hughes H-4 Hercules"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Howard_Hughes.jpg/960px-Howard_Hughes.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Howard_Hughes.jpg/500px-Howard_Hughes.jpg",
-          "genislik": 960,
-          "yukseklik": 1263,
-          "orijinalGenislik": 1092,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Howard_Hughes.jpg",
-          "aciklama": "Howard Hughes \"standing in front of his new Boeing Army Pursuit Plane\" (Boeing 100A) in Inglewood, California in the 1940s. The black \"halo\" is presumably intended to make the head stand out better. (",
-          "konu": "Howard Hughes"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/H-4_Hercules_2.jpg/960px-H-4_Hercules_2.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/H-4_Hercules_2.jpg/500px-H-4_Hercules_2.jpg",
-          "genislik": 960,
-          "yukseklik": 767,
-          "orijinalGenislik": 1840,
-          "yazar": "SDASM Archives",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:H-4_Hercules_2.jpg",
-          "aciklama": "H-4 Hercules \"Spruce Goose\"",
-          "konu": "Hughes H-4 Hercules"
-        }
-      ]
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1948-abd-baskanlik-secimini-demokrat-harry-truman-kazandi",
@@ -412,51 +258,24 @@
         "Demokrat Parti (Amerika Birleşik Devletleri)",
         "Harry S. Truman"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Harry S. Truman'ın Beklenmedik Seçim Zaferi",
+      "ozet": "1948 Amerika Birleşik Devletleri başkanlık seçimleri, Amerikan siyasi tarihinin en şaşırtıcı sonuçlarından birine sahne oldu. Görevdeki Demokrat Başkan Harry S. Truman, Cumhuriyetçi Parti'nin güçlü adayı Thomas E. Dewey karşısında seçimi kazanarak Beyaz Saray'daki görevini sürdürdü. Seçim öncesindeki kamuoyu yoklamaları ve medya tahminleri, Dewey'in rahat bir zafer kazanacağını öngörüyordu; ancak Truman'ın ülke genelinde yürüttüğü yoğun kampanya süreci bu beklentileri boşa çıkardı.\n\nBu seçim, sadece Truman'ın kişisel başarısı olarak değil, aynı zamanda Demokrat Parti'nin İkinci Dünya Savaşı sonrası dönemdeki siyasi stratejisinin bir testi olarak da görülmektedir. Seçim sonuçları, Truman'ın halk nezdindeki desteğini koruduğunu ve izlediği politikaların seçmen tarafından onaylandığını ortaya koydu. Bu zafer, Amerikan siyasetinde anketlerin yanılma payını ve seçmen davranışlarının tahmin edilemezliğini gösteren klasik bir örnek olarak tarihe geçti.",
+      "kategori": "Siyaset",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Truman_initiating_Korean_involvement.jpg/960px-Truman_initiating_Korean_involvement.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Truman_initiating_Korean_involvement.jpg/500px-Truman_initiating_Korean_involvement.jpg",
-        "genislik": 960,
-        "yukseklik": 1223,
-        "orijinalGenislik": 2264,
-        "yazar": "Bilinmeyen yazar",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg",
+        "genislik": 900,
+        "yukseklik": 1215,
+        "orijinalGenislik": 900,
+        "yazar": "National Archives and Records Administration. Office of Presidential Libraries. Harry S. Truman Library.",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Truman_initiating_Korean_involvement.jpg",
-        "aciklama": "President Harry S. Truman is shown at his desk at the White House signing a proclamation declaring a national emergency.",
-        "konu": "1948 Amerika Birleşik Devletleri başkanlık seçimleri"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:TRUMAN_58-766-06_(cropped).jpg",
+        "aciklama": "Portrait of President Harry S. Truman (ca. 1947).",
+        "konu": "Harry S. Truman"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Truman_initiating_Korean_involvement.jpg/960px-Truman_initiating_Korean_involvement.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Truman_initiating_Korean_involvement.jpg/500px-Truman_initiating_Korean_involvement.jpg",
-          "genislik": 960,
-          "yukseklik": 1223,
-          "orijinalGenislik": 2264,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Truman_initiating_Korean_involvement.jpg",
-          "aciklama": "President Harry S. Truman is shown at his desk at the White House signing a proclamation declaring a national emergency.",
-          "konu": "1948 Amerika Birleşik Devletleri başkanlık seçimleri"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg",
-          "genislik": 900,
-          "yukseklik": 1215,
-          "orijinalGenislik": 900,
-          "yazar": "National Archives and Records Administration. Office of Presidential Libraries. Harry S. Truman Library.",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:TRUMAN_58-766-06_(cropped).jpg",
-          "aciklama": "Portrait of President Harry S. Truman (ca. 1947).",
-          "konu": "Harry S. Truman"
-        }
-      ]
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1953-pakistan-kurucu-meclisi-aldigi-bir-kararla-ulkenin",
@@ -468,8 +287,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1958-merzifon-yeni-celtek-linyit-isletmesinde-grizu-patlamasi",
@@ -479,51 +298,24 @@
         "Merzifon",
         "grizu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Merzifon Yeni Çeltek Maden Ocağında Grizu Faciası",
+      "ozet": "Amasya'nın Merzifon ilçesinde bulunan Yeni Çeltek Linyit İşletmesi'nde 1958 yılının Kasım ayında yaşanan grizu patlaması, Türkiye'nin madencilik tarihindeki acı olaylardan biri olarak kayıtlara geçti. Yeraltında çalışan 10 işçinin yaşamını yitirmesine neden olan bu kaza, kömür madenciliğinin doğasında var olan en büyük tehlikelerden biri olan metan gazı birikiminin yıkıcı etkisini bir kez daha gözler önüne serdi. Patlama, maden galerilerindeki güvenlik önlemlerinin ve gaz denetiminin hayati önemini hatırlatan trajik bir gelişme oldu.\n\nKömür madenlerinde metan gazının hava ile belirli oranlarda karışmasıyla oluşan grizu, en ufak bir kıvılcım veya ısınma ile tetiklenebilen, yüksek tahrip gücüne sahip bir patlayıcıdır. Maden ocaklarında metan oranının hacimce yüzde birin üzerine çıkması, yasal olarak acil tahliye gerektiren kritik bir eşik kabul edilmektedir. Yeni Çeltek'te yaşanan bu olay, maden derinliği, jeolojik yapı ve havalandırma sistemlerinin kusursuz işlemesinin işçi sağlığı ve güvenliği açısından ne kadar vazgeçilmez olduğunu kanıtlamıştır. Bu tür kazalar, Türkiye'de madencilik mevzuatının ve denetim mekanizmalarının geliştirilmesi sürecinde önemli birer uyarı niteliği taşımıştır.",
+      "kategori": "Afet",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Merzifon-June2016_%281%29.jpg/960px-Merzifon-June2016_%281%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Merzifon-June2016_%281%29.jpg/500px-Merzifon-June2016_%281%29.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Scintillatore%2C_grisumetro_e_anemometro_-_MUSE.jpg/960px-Scintillatore%2C_grisumetro_e_anemometro_-_MUSE.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Scintillatore%2C_grisumetro_e_anemometro_-_MUSE.jpg/500px-Scintillatore%2C_grisumetro_e_anemometro_-_MUSE.jpg",
         "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 4608,
-        "yazar": "Rehman Abubakr",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Merzifon-June2016_(1).jpg",
-        "aciklama": "Aerial photograph of Merzifon, Turkey.",
-        "konu": "Merzifon"
+        "yukseklik": 540,
+        "orijinalGenislik": 2500,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Scintillatore,_grisumetro_e_anemometro_-_MUSE.jpg",
+        "aciklama": "Scintillator. Radioactivity detector. 1950s.Firedamp detector. Mine gas detector.Anemometer. Tool used to evaluate the mine aeration condition.",
+        "konu": "grizu"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Merzifon-June2016_%281%29.jpg/960px-Merzifon-June2016_%281%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Merzifon-June2016_%281%29.jpg/500px-Merzifon-June2016_%281%29.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 4608,
-          "yazar": "Rehman Abubakr",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Merzifon-June2016_(1).jpg",
-          "aciklama": "Aerial photograph of Merzifon, Turkey.",
-          "konu": "Merzifon"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Scintillatore%2C_grisumetro_e_anemometro_-_MUSE.jpg/960px-Scintillatore%2C_grisumetro_e_anemometro_-_MUSE.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Scintillatore%2C_grisumetro_e_anemometro_-_MUSE.jpg/500px-Scintillatore%2C_grisumetro_e_anemometro_-_MUSE.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 2500,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Scintillatore,_grisumetro_e_anemometro_-_MUSE.jpg",
-          "aciklama": "Scintillator. Radioactivity detector. 1950s.Firedamp detector. Mine gas detector.Anemometer. Tool used to evaluate the mine aeration condition.",
-          "konu": "grizu"
-        }
-      ]
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1960-ihracati-gelistirme-etud-merkezi-igeme-kuruldu",
@@ -535,8 +327,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1960-penguin-books-yayinevi-basmis-oldugu-lady-chatterleyin",
@@ -545,10 +337,9 @@
       "konular": [
         "Penguin Books"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Lady Chatterley Davası ve Yayıncılıkta İfade Özgürlüğü",
+      "ozet": "İngiliz yayınevi Penguin Books, D.H. Lawrence'ın tartışmalı eseri Lady Chatterley'in Sevgilisi'ni yayımladığı için açılan müstehcenlik davasından 2 Kasım 1960 tarihinde zaferle ayrıldı. Mahkeme, kitabın edebi değerinin müstehcenlik suçlamasının önüne geçtiğine hükmederek yayınevinin beraatine karar verdi. Bu karar, İngiliz hukuk tarihinde ifade özgürlüğü ve sansür tartışmaları açısından bir dönüm noktası olarak kabul edilmektedir.\n\n1935 yılında Allen Lane tarafından kurulan Penguin Books, ucuz cep kitapları formatıyla edebiyatı geniş kitlelere ulaştırarak yayıncılık dünyasında devrim yaratmıştı. Ancak bu dava, yayınevinin sadece ticari başarısını değil, aynı zamanda entelektüel duruşunu da test eden bir süreç oldu. Davanın kazanılması, Birleşik Krallık'ta edebi eserler üzerindeki katı ahlaki denetimlerin gevşemesine ve yayıncılık sektöründe daha özgür bir dönemin başlamasına zemin hazırladı. Penguin Books, bu süreçten güçlenerek çıkarak ciddi edebiyatın halk kitleleri tarafından okunabileceğini kanıtlamış oldu.",
+      "kategori": "Edebiyat",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Allen_Lane_Penguin_plaque_8_Vigo_Street.jpg/960px-Allen_Lane_Penguin_plaque_8_Vigo_Street.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Allen_Lane_Penguin_plaque_8_Vigo_Street.jpg/500px-Allen_Lane_Penguin_plaque_8_Vigo_Street.jpg",
@@ -561,7 +352,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Allen_Lane_Penguin_plaque_8_Vigo_Street.jpg",
         "aciklama": "Allen Lane Penguin plaque 8 Vigo Street.",
         "konu": "Penguin Books"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1964-suudi-arabistan-krali-suud-bin-abdulaziz-el-suud",
@@ -572,51 +365,24 @@
         "Suud bin Abdülaziz Âl-i Suud",
         "Faysal bin Abdülaziz Âl-i Suud"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Suudi Arabistan'da Kraliyet Değişimi",
+      "ozet": "Suudi Arabistan'da 2 Kasım 1964 tarihinde gerçekleşen yönetim değişikliği, ülkenin modernleşme sürecinde önemli bir dönüm noktası olmuştur. Kral Suud bin Abdülaziz el-Suud, uzun süredir devam eden ekonomik istikrarsızlık ve yönetimdeki yetersizlik iddiaları nedeniyle aile meclisinin ve dini liderlerin desteğini kaybederek tahttan çekilmek zorunda kalmıştır. Bu süreçte, daha önce veliaht prens olarak görev yapan ve devlet işlerinde tecrübesiyle öne çıkan kardeşi Faysal bin Abdülaziz el-Suud, ülkenin yeni kralı olarak ilan edilmiştir.\n\nFaysal'ın tahta geçişi, Suudi Arabistan'ın dış politikasında ve iç idari yapısında yeni bir dönemi başlatmıştır. Kral Faysal, göreve gelir gelmez devlet bütçesini disipline etmeye yönelik adımlar atmış ve ülkenin modernleşmesi için çeşitli reformlar gerçekleştirmiştir. Özellikle köleliğin yasaklanması gibi sosyal alandaki düzenlemeleriyle dikkat çeken Faysal, babası Kral Abdülaziz'in kurduğu krallığı daha merkezi ve istikrarlı bir yapıya kavuşturmayı hedeflemiştir. Bu değişim, Suudi Arabistan'ın bölgesel bir güç olarak konumunu pekiştiren ve devlet kurumlarının kurumsallaşmasını hızlandıran bir süreç olarak tarihe geçmiştir.",
+      "kategori": "Siyaset",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Saud_IV_of_Saudi_Arabia_portrait.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Saud_IV_of_Saudi_Arabia_portrait.jpg",
-        "genislik": 819,
-        "yukseklik": 1024,
-        "orijinalGenislik": 819,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/King_Faisal_bin_Abdulaziz.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/King_Faisal_bin_Abdulaziz.jpg",
+        "genislik": 768,
+        "yukseklik": 945,
+        "orijinalGenislik": 768,
         "yazar": "Bilinmeyen yazar",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Saud_IV_of_Saudi_Arabia_portrait.jpg",
-        "aciklama": "Official portrait of King Saud IV of Saudi Arabia",
-        "konu": "Suud bin Abdülaziz Âl-i Suud"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:King_Faisal_bin_Abdulaziz.jpg",
+        "aciklama": "Portrait of King Faisal bin Abdulaziz",
+        "konu": "Faysal bin Abdülaziz Âl-i Suud"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Saud_IV_of_Saudi_Arabia_portrait.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Saud_IV_of_Saudi_Arabia_portrait.jpg",
-          "genislik": 819,
-          "yukseklik": 1024,
-          "orijinalGenislik": 819,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Saud_IV_of_Saudi_Arabia_portrait.jpg",
-          "aciklama": "Official portrait of King Saud IV of Saudi Arabia",
-          "konu": "Suud bin Abdülaziz Âl-i Suud"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/King_Faisal_bin_Abdulaziz.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/King_Faisal_bin_Abdulaziz.jpg",
-          "genislik": 768,
-          "yukseklik": 945,
-          "orijinalGenislik": 768,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:King_Faisal_bin_Abdulaziz.jpg",
-          "aciklama": "Portrait of King Faisal bin Abdulaziz",
-          "konu": "Faysal bin Abdülaziz Âl-i Suud"
-        }
-      ]
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1965-norman-morrison-isimli-abd-vatandasi-vietnam-savasini",
@@ -626,23 +392,12 @@
         "Norman Morrison",
         "Vietnam Savaşı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/VietnamMural.jpg/960px-VietnamMural.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/VietnamMural.jpg/500px-VietnamMural.jpg",
-        "genislik": 960,
-        "yukseklik": 787,
-        "orijinalGenislik": 1188,
-        "yazar": "Department of Defense. Department of the Navy. U.S. Marine Corps. James K. F. Dung, SFC, Photographer Ronald L. Haeberle U.S. National Archi",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:VietnamMural.jpg",
-        "aciklama": "Top left: Battle of Hamo Village During the Tet Offensive. US Marines and ARVN troops defend a position against enemy attack. Top right: UH-1D helicopters airlift members of the 2nd Battalion, 14th In",
-        "konu": "Vietnam Savaşı"
-      }
+      "baslik": "Vietnam Savaşı'na Karşı Bir Protesto: Norman Morrison'ın Eylemi",
+      "ozet": "Vietnam Savaşı'nın şiddetinin arttığı ve Amerikan kamuoyunda savaş karşıtı hareketlerin güçlenmeye başladığı bir dönemde, 31 yaşındaki Quaker inancına sahip Norman Morrison, Washington'da bulunan Pentagon binasının önünde kendini ateşe vererek yaşamına son verdi. Morrison'ın bu radikal protestosu, savaşın insani maliyetine dikkat çekmek ve Amerikan yönetiminin Vietnam'daki askeri politikalarını sorgulatmak amacıyla gerçekleştirildi. Eylemi sırasında kucağında küçük kızı da bulunan Morrison, son anda çocuğunu güvenli bir yere bırakarak kendini feda etti.\n\nBu olay, Amerika Birleşik Devletleri'nde savaş karşıtı hareketin sembollerinden biri haline geldi. Morrison'ın eylemi, özellikle savaşın ahlaki boyutunu tartışmaya açan geniş kitleler üzerinde derin bir etki bıraktı. Kuzey Vietnam yönetimi tarafından da bir kahraman olarak anılan Morrison, savaşın sona ermesi için yapılan barışçıl çağrıların en uç ve sarsıcı örneklerinden biri olarak tarihe geçti. Onun bu fedakarlığı, Vietnam Savaşı'nın Amerikan toplumu üzerindeki psikolojik ve vicdani etkilerini gözler önüne seren trajik bir dönüm noktası olarak kabul edilir.",
+      "kategori": "Savaş",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1973-beyhan-kiral-turkiye-guzellik-kralicesi-secildi",
@@ -654,8 +409,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1976-istanbul-teknik-universitesine-ates-acildi-1-kisi",
@@ -664,10 +419,9 @@
       "konular": [
         "İstanbul Teknik Üniversitesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İstanbul Teknik Üniversitesi'nde Silahlı Saldırı",
+      "ozet": "Türkiye'nin siyasi açıdan oldukça çalkantılı olduğu 1970'li yılların ortalarında, İstanbul Teknik Üniversitesi'nde meydana gelen silahlı saldırı, dönemin artan şiddet olaylarının bir yansıması olarak kayıtlara geçti. Üniversite yerleşkesine yönelik gerçekleştirilen bu saldırı sonucunda bir öğrenci yaşamını yitirirken, üç kişi de çeşitli yerlerinden yaralandı. Olay, eğitim kurumlarının dahi siyasi kutuplaşmanın ve şiddet sarmalının hedefi haline geldiği o günlerin gergin atmosferini gözler önüne serdi.\n\nBu tür saldırılar, 1970'lerin Türkiye'sinde üniversitelerin ideolojik çatışmaların merkez üssü haline gelmesinin bir sonucuydu. Eğitim hayatını kesintiye uğratan ve toplumsal huzuru tehdit eden bu tür eylemler, o dönemde sıkça yaşanan siyasi cinayetlerin ve çatışmaların bir parçasıydı. İstanbul Teknik Üniversitesi gibi köklü bir kurumun hedef alınması, kamuoyunda büyük bir infial yaratmış ve üniversite güvenliğinin nasıl sağlanması gerektiği konusundaki tartışmaları derinleştirmişti. Bu olay, Türkiye'nin yakın siyasi tarihinde üniversite gençliğinin maruz kaldığı şiddet olaylarının acı bir örneği olarak hatırlanmaktadır.",
+      "kategori": "Toplum",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Istanbul_asv2020-02_img69_Ma%C3%A7ka_Armory.jpg/960px-Istanbul_asv2020-02_img69_Ma%C3%A7ka_Armory.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Istanbul_asv2020-02_img69_Ma%C3%A7ka_Armory.jpg/500px-Istanbul_asv2020-02_img69_Ma%C3%A7ka_Armory.jpg",
@@ -680,7 +434,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Istanbul_asv2020-02_img69_Ma%C3%A7ka_Armory.jpg",
         "aciklama": "ITU Maçka Campus (Maçka Armory) in Istanbul, Turkey",
         "konu": "İstanbul Teknik Üniversitesi"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1978-aralarinda-ferhat-tuysuz-ve-veli-can-oduncunun",
@@ -694,8 +450,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1981-ikinci-turkiye-iktisat-kongeresi-acildi",
@@ -707,8 +463,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1982-turkiye-cumhuriyeti-milli-egitim-bakanligi-yatili-ogrencilerin",
@@ -720,8 +476,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1988-erzurum-ataturk-universitesinde-derse-alinmayan-bas-ortulu",
@@ -734,8 +490,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1989-kadinlar-cinsel-tacize-dikkat-cekmek-icin-bedenimiz",
@@ -747,8 +503,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1991-shp-genel-baskani-erdal-inonu-tuncelide-aranizda",
@@ -761,23 +517,12 @@
         "Kürtçe",
         "Türkçe"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/D%C3%AArsim.jpg/960px-D%C3%AArsim.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/D%C3%AArsim.jpg/500px-D%C3%AArsim.jpg",
-        "genislik": 960,
-        "yukseklik": 588,
-        "orijinalGenislik": 1888,
-        "yazar": "Dûrzan Cîrano",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:D%C3%AArsim.jpg",
-        "aciklama": "Dêrsim û Mûnzûr",
-        "konu": "Tunceli"
-      }
+      "baslik": "Erdal İnönü'nün Tunceli'deki Kürtçe ve Anadil Konuşması",
+      "ozet": "Sosyaldemokrat Halkçı Parti (SHP) Genel Başkanı Erdal İnönü, 2 Kasım 1991 tarihinde Tunceli'de gerçekleştirdiği bir miting sırasında, o dönem Türkiye siyasetinde oldukça hassas kabul edilen anadil konusuna dair dikkat çekici açıklamalarda bulundu. İnönü, vatandaşların kendi aralarında Kürtçe konuşmalarının veya anadillerinde müzik dinlemelerinin gayet doğal olduğunu ve buna kimsenin engel olamayacağını ifade etti. Aynı konuşmasında, devletin resmi dilinin Türkçe olduğunu da belirterek iki hususu birbirinden ayıran bir çerçeve çizdi.\n\nİnönü'nün bu sözleri, Türkiye'nin demokratikleşme süreçleri ve kültürel haklar tartışmalarının yoğunlaştığı bir dönemde, bir ana muhalefet lideri tarafından dile getirilmesi bakımından dönemin siyasi atmosferinde önemli bir yere sahiptir. O yıllarda devletin resmi politikalarıyla kültürel kimliklerin ifade edilmesi arasındaki gerilim yüksekken, İnönü'nün bu yaklaşımı toplumsal taleplere ve kültürel çeşitliliğe yönelik daha esnek bir bakış açısını temsil ediyordu. Bu açıklama, Türkiye'nin kendi iç dinamikleriyle hesaplaştığı ve kimlik siyasetinin daha görünür hale geldiği 1990'ların başında, siyasi söylemde bir dönüm noktası olarak değerlendirilmektedir.",
+      "kategori": "Siyaset",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1991-fener-rum-ortodoks-patrigi-i-bartholomeos-goreve",
@@ -787,10 +532,9 @@
         "İstanbul Rum Ortodoks Patrikhanesi",
         "I. Bartholomeos"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "I. Bartholomeos'un Patrikliğe Başlaması",
+      "ozet": "Dimitris Arhondonis, dini adıyla I. Bartholomeos, 2 Kasım 1991 tarihinde İstanbul Rum Ortodoks Patrikhanesi'nin yeni lideri olarak tahta çıktı. Gökçeada doğumlu bir Türkiye Cumhuriyeti vatandaşı olan Bartholomeos, bu göreve gelerek Doğu Ortodoks Kilisesi hiyerarşisinde eşitler arasında birinci anlamına gelen primus inter pares unvanını üstlendi. Böylece dünya genelindeki milyonlarca Ortodoks Hristiyanın manevi lideri konumuna geldi.\n\nPatrik I. Bartholomeos, görev süresi boyunca sadece dini bir lider olarak değil, aynı zamanda uluslararası arenada aktif bir figür olarak öne çıktı. Dinler ve mezhepler arası diyalog süreçlerine büyük önem veren Bartholomeos, insan hakları ve dini özgürlükler gibi konularda yürüttüğü çalışmalarla tanındı. Özellikle çevre sorunlarına gösterdiği duyarlılık ve ekolojik krizlere karşı geliştirdiği söylemler nedeniyle dünya kamuoyunda Yeşil Patrik olarak anılmaya başlandı. Çok dilli yapısı ve uzlaşmacı kişiliğiyle, kurumunun tarihsel mirasını modern dünyanın sorunlarıyla birleştiren bir liderlik profili çizdi.",
+      "kategori": "Din",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%85_%D0%92%D0%B0%D1%80%D1%84%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%B9_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%85_%D0%92%D0%B0%D1%80%D1%84%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%B9_%28cropped%29.jpg",
@@ -803,7 +547,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%85_%D0%92%D0%B0%D1%80%D1%84%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%B9_(cropped).jpg",
         "aciklama": "Επίσκεψη ΥΠΕΞ Ν. Δένδια στην Κων/πολη -Πατριαρχική και Αρχιερατική Θ. Λειτουργία για την Κυριακή της Ορθοδοξίας- Επιμνημόσυνη δέηση για τα θύματα του σιδηρ/κού δυστυχήματος των Τεμπών, και για τα θύμα",
         "konu": "I. Bartholomeos"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "2000-dunya-satranc-sampiyonasinda-garry-kasparov-yurttasi-vladimir",
@@ -814,10 +560,9 @@
         "Garri Kasparov",
         "Vladimir Kramnik"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Satrançta Yeni Bir Dönem: Kasparov'un Yenilgisi",
+      "ozet": "Londra'da düzenlenen Dünya Satranç Şampiyonası, satranç tarihinin en önemli kırılma anlarından birine sahne oldu. 1985 yılından beri dünya şampiyonu unvanını elinde bulunduran ve pek çok otorite tarafından gelmiş geçmiş en güçlü oyuncu kabul edilen Garry Kasparov, genç rakibi Vladimir Kramnik'e karşı oynadığı 16 oyunluk maç serisini kaybetti. Bu sonuçla birlikte Kasparov'un 15 yıllık sarsılmaz saltanatı sona ererken, Kramnik yeni dünya şampiyonu olarak satranç dünyasının zirvesine yerleşti.\n\nBu karşılaşma, satranç dünyasındaki kurumsal bölünmelerin yaşandığı bir döneme denk gelmesi bakımından da dikkat çekicidir. Kramnik'in zaferi, o dönemde iki ayrı kuruluş tarafından verilen şampiyonluk unvanları arasında birleşme arayışlarının olduğu bir ortamda gerçekleşti. Kasparov'un yenilgisi, sadece bir unvan değişimi değil, aynı zamanda satrançta yeni bir neslin yükselişinin ve oyunun standartlarının yeniden tanımlandığı bir sürecin başlangıcı olarak kabul edilir. Maçın ardından Kasparov, sonraki yıllarda satrancı bırakarak politikaya odaklanmış, Kramnik ise dünya şampiyonu unvanını 2007 yılına kadar başarıyla korumuştur.",
+      "kategori": "Spor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg",
@@ -830,7 +575,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:ChessSet.jpg",
         "aciklama": "Chess pieces – left to right: king, rook, queen, pawn, knight and bishop.",
         "konu": "Satranç"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "dunya"
     }
   ],
   "dogumlar": [
@@ -1374,7 +1121,7 @@
     "url": "https://tr.wikipedia.org/wiki/2_Kas%C4%B1m",
     "revid": 38168530
   },
-  "guncelleme": "2026-10-21T21:26:32.325Z",
+  "guncelleme": "2026-10-23T11:12:02.316Z",
   "haberler": [
     {
       "id": "2025-haber-2448972",
@@ -1387,10 +1134,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/meclis-in-gecen-seneye-gore-butce-artisi-mhp-nin-bile-dikkatini-cekti-kaynagi-kendine-buldu-2448972"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Milliyetçi Hareket Partisi",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2025-11-02T04:00:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Meclis bütçesindeki yüksek artış oranları siyasi tartışmalara yol açtı",
+      "ozet": "Türkiye Büyük Millet Meclisi için hazırlanan 2026 bütçesindeki ciddi artışlar kamuoyunda gündeme geldi. Hizmet alımı ve sermaye giderleri gibi kalemlerde görülen yüzde 500 seviyesindeki yükselişler, Milliyetçi Hareket Partisi dahil olmak üzere çeşitli kesimlerin dikkatini çekti. Vatandaşların ekonomik zorluklar yaşadığı bir dönemde bütçedeki bu değişimler meclis çatısı altında eleştirilere konu oldu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2025-haber-2449180",
@@ -1403,10 +1157,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/besiktas-fenerbahce-derbisi-olayli-basladi-iki-kirmizi-kart-birden-2449180"
       },
-      "konular": [],
+      "konular": [
+        "Beşiktaş-Fenerbahçe derbisi",
+        "Süper Lig",
+        "Futbol"
+      ],
       "yayin": "2025-11-02T20:48:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Beşiktaş ve Fenerbahçe derbisinde iki oyuncu oyun dışı kaldı",
+      "ozet": "Süper Lig'in on birinci haftasında gerçekleşen Beşiktaş ve Fenerbahçe karşılaşması gergin anlara sahne oldu. Müsabaka sırasında Orkun Kökçü ve Sergen Yalçın hakem tarafından kırmızı kartla cezalandırılarak oyun alanından gönderildi. Derbi mücadelesi yaşanan bu ihraçlar nedeniyle dikkat çeken bir başlangıç yaptı.",
+      "kategori": "Spor"
     },
     {
       "id": "2024-haber-2264382",
@@ -1419,10 +1180,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/kuresel-piyasalar-fedin-faiz-karari-ve-abd-baskanlik-secimlerine-2264382"
       },
-      "konular": [],
+      "konular": [
+        "ABD başkanlık seçimleri",
+        "Federal Rezerv Sistemi",
+        "Küresel ekonomi"
+      ],
       "yayin": "2024-11-02T11:13:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Küresel piyasalarda ABD seçimleri ve Fed beklentisi öne çıktı",
+      "ozet": "Dünya genelindeki finansal piyasalar, Amerika Birleşik Devletleri'nde gerçekleştirilecek seçim sürecine ve merkez bankasının alacağı faiz kararlarına kilitlendi. Yatırımcılar, seçim sonuçlarının ekonomi üzerindeki olası yansımalarını dikkatle izlemeye devam etti.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/20_Largest_economies_pie_chart.pdf/page1-960px-20_Largest_economies_pie_chart.pdf.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/20_Largest_economies_pie_chart.pdf/page1-960px-20_Largest_economies_pie_chart.pdf.jpg",
+        "genislik": 960,
+        "yukseklik": 922,
+        "orijinalGenislik": 1368,
+        "yazar": "Wikideas1",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:20_Largest_economies_pie_chart.pdf",
+        "aciklama": "20 Largest economies pie chart",
+        "konu": "Küresel ekonomi"
+      }
     },
     {
       "id": "2024-haber-2264345",
@@ -1435,10 +1216,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-depremler-deprem-mi-oldu-2-kasim-2024-nerede-ne-zaman-deprem-2264345"
       },
-      "konular": [],
+      "konular": [
+        "Deprem",
+        "Türkiye"
+      ],
       "yayin": "2024-11-02T09:23:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türkiye genelinde meydana gelen sarsıntılar takip ediliyor",
+      "ozet": "Ülke genelinde hissedilen sarsıntılar sonrasında vatandaşlar deprem verilerini araştırmaya başladı. İlgili kurumlar tarafından paylaşılan güncel bilgiler ışığında, meydana gelen sarsıntıların merkez üssü ve büyüklük değerleri hakkında detaylı incelemeler yapıldı. Yaşanan doğa olaylarına dair resmi kaynaklardan sağlanan veriler, sarsıntıyı hisseden kişiler tarafından yakından takip edildi.",
+      "kategori": "Afet"
     },
     {
       "id": "2023-haber-2136718",
@@ -1451,10 +1238,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/sberbanktan-44-milyar-dolarlik-rekor-net-kar-2136718"
       },
-      "konular": [],
+      "konular": [
+        "Sberbank",
+        "Rusya ekonomisi",
+        "Bankacılık"
+      ],
       "yayin": "2023-11-02T11:59:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Sberbank üçüncü çeyrekte rekor düzeyde kâr açıkladı",
+      "ozet": "Rusya merkezli finans kuruluşu Sberbank, yılın üçüncü çeyreğine dair mali verilerini paylaştı. Banka, söz konusu dönemde 411,4 milyar ruble seviyesine ulaşarak tarihinin en yüksek çeyrek kârını elde ettiğini duyurdu. Bu miktar yaklaşık 4,4 milyar dolara karşılık geldi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2136822",
@@ -1467,10 +1261,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/sampiyonlar-ligindeki-bust-krizinde-hukmen-maglup-karari-2136822"
       },
-      "konular": [],
+      "konular": [
+        "AFC Şampiyonlar Ligi",
+        "Sepahan",
+        "El-İttihad"
+      ],
       "yayin": "2023-11-02T15:52:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Asya Şampiyonlar Ligi karşılaşmasında hükmen mağlubiyet kararı",
+      "ozet": "Sepahan ile El-İttihad arasında oynanması planlanan Asya Şampiyonlar Ligi müsabakası, stadyumdaki Kasım Süleymani büstü sebebiyle gerçekleşemedi. Sahaya çıkmama kararı alan İran temsilcisi Sepahan, yaşanan bu durumun ardından hükmen mağlup sayıldı.",
+      "kategori": "Spor"
     },
     {
       "id": "2022-haber-1998842",
@@ -1483,10 +1284,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/ankara-kulisleri-kayniyor-erdogan-akpyi-artik-bir-yuk-olarak-gormeye-basladi-1998842"
       },
-      "konular": [],
+      "konular": [
+        "Adalet ve Kalkınma Partisi",
+        "Recep Tayyip Erdoğan",
+        "Türkiye siyaseti"
+      ],
       "yayin": "2022-11-02T11:55:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ankara siyasetinde iktidar partisi üzerine yeni iddialar gündeme geldi",
+      "ozet": "Siyasi çevrelerde iktidar partisi içerisinde yaşanan ayrılıklar ve istifalar üzerine çeşitli değerlendirmeler yapıldı. Bu gelişmelerin ardından Cumhurbaşkanı Recep Tayyip Erdoğan'ın partisini bir sorumluluk olarak değerlendirmeye başladığına dair görüşler öne sürüldü. Başkentteki siyasi kulislerde konuşulan bu iddialar, parti içi dengelerin değiştiği yönünde yorumlandı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-1998691",
@@ -1499,10 +1307,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/erdogandan-milletvekilleri-ve-bakanlara-secime-kadar-enflasyon-ve-fahis-fiyatla-mucadele-edilmesi-talimati-1998691"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Türkiye ekonomisi",
+        "Enflasyon"
+      ],
       "yayin": "2022-11-02T00:25:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Hükümetten enflasyon ve yüksek fiyatlarla mücadele kararı",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, milletvekilleri ve bakanlarla bir araya geldiği toplantıda önemli bir talimat verdi. Seçim sürecine kadar enflasyonun düşürülmesi ve fahiş fiyat artışlarının engellenmesi için yoğun bir çalışma yürütülmesi gerektiğini vurguladı. Bu doğrultuda ilgili birimlerin piyasa denetimlerini ve ekonomik tedbirleri artırması istendi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2021-haber-1881441",
@@ -1515,10 +1330,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/istanbulda-ekim-ayi-zam-sampiyonu-aciklandi-1881441"
       },
-      "konular": [],
+      "konular": [
+        "İstanbul",
+        "Enflasyon",
+        "Ekonomi"
+      ],
       "yayin": "2021-11-02T10:31:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İstanbul piyasasında ekim ayının fiyat değişimleri belli oldu",
+      "ozet": "İstanbul genelinde tüketici fiyatları üzerinde yapılan incelemeler sonucunda ekim ayında en yüksek fiyat artışının mektup gönderim ücretlerinde yaşandığı belirlendi. Söz konusu hizmetin maliyeti yüzde 33,33 oranında yükseldi. Aynı dönem içerisinde fiyatı en çok düşüş gösteren ürün ise limon olarak kaydedildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2021-haber-1881456",
@@ -1531,10 +1353,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/secimlere-dikkat-cekildi-akp-hukumeti-eytliler-ve-asgari-ucret-icin-harekete-gecti-1881456"
       },
-      "konular": [],
+      "konular": [
+        "Emeklilikte Yaşa Takılanlar",
+        "Asgari ücret",
+        "Adalet ve Kalkınma Partisi"
+      ],
       "yayin": "2021-11-02T11:05:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Hükümetten asgari ücret ve emeklilik düzenlemesi için yeni çalışma",
+      "ozet": "İktidar kanadı, asgari ücret seviyesinin belirlenmesi ve emeklilikte yaşa takılanların durumuna ilişkin yasal düzenlemeler üzerinde çalışma başlattı. Uluslararası haber kaynakları, bu girişimlerin yaklaşan seçim süreciyle bağlantılı olduğunu vurguladı. Söz konusu adımlar, ekonomik beklentiler ve sosyal haklar çerçevesinde kamuoyunun gündemine taşındı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2020-haber-1787802",
@@ -1547,10 +1376,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/milli-judocu-vedat-avrupa-sampiyonasi-ve-olimpiyatlarda-da-devam-1787802"
       },
-      "konular": [],
+      "konular": [
+        "Vedat Albayrak",
+        "Judo"
+      ],
       "yayin": "2020-11-02T10:17:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Milli judocu Vedat Albayrak yeni hedeflerini açıkladı",
+      "ozet": "İstanbul Büyükşehir Belediyespor bünyesinde yer alan milli judocu Vedat Albayrak, kariyerindeki başarı çıtasını yükseltmeyi hedeflediğini belirtti. Sporcu, önümüzdeki dönemde düzenlenecek Avrupa Şampiyonası ve olimpiyat oyunlarında madalya kazanmak için çalışmalarını sürdüreceğini ifade etti.",
+      "kategori": "Spor"
     },
     {
       "id": "2020-haber-1787886",
@@ -1563,10 +1398,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yeni-zelandada-ilk-kez-yerli-halktan-bir-kadin-disisleri-bakanligina-atandi-1787886"
       },
-      "konular": [],
+      "konular": [
+        "Nanaia Mahuta",
+        "Jacinda Ardern",
+        "Yeni Zelanda"
+      ],
       "yayin": "2020-11-02T14:12:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Yeni Zelanda Dışişleri Bakanlığına Nanaia Mahuta Getirildi",
+      "ozet": "Genel seçimlerin ardından yeni kabinesini duyuran Başbakan Jacinda Ardern, dışişleri bakanlığı görevine Nanaia Mahuta'yı atadı. Bu atama ile birlikte Yeni Zelanda tarihinde ilk defa yerli Maori halkından bir kadın dışişleri bakanı olarak görev yapmaya başladı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg/960px-New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg/500px-New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg",
+        "genislik": 960,
+        "yukseklik": 1200,
+        "orijinalGenislik": 1479,
+        "yazar": "Newzild",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg",
+        "aciklama": "New Zealand Prime Minister Jacinda Ardern, photographed in Tauranga, New Zealand, 29 August 2018.",
+        "konu": "Jacinda Ardern"
+      }
     },
     {
       "id": "2019-haber-1573014",
@@ -1579,10 +1434,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yapay-zekada-sampiyon-makine-1573014"
       },
-      "konular": [],
+      "konular": [
+        "Yapay zeka"
+      ],
       "yayin": "2019-11-02T10:29:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Yapay zeka teknolojilerinde yeni dönem",
+      "ozet": "Yapay zeka alanı hem endüstriyel uygulamalar hem de akademik çalışmalar bakımından oldukça verimli bir süreçten geçiyor. Söz konusu teknoloji, bilimsel ilerlemelerin hız kazandığı ve sektörün gelişim gösterdiği bir evrede bulunuyor.",
+      "kategori": "Teknoloji",
+      "gorsel": null
     },
     {
       "id": "2019-haber-1572995",
@@ -1595,10 +1456,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/rukiye-yildirim-avrupa-sampiyonu-1572995"
       },
-      "konular": [],
+      "konular": [
+        "Rukiye Yıldırım",
+        "Tekvando",
+        "Avrupa Tekvando Şampiyonası"
+      ],
       "yayin": "2019-11-02T00:02:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Rukiye Yıldırım Avrupa Tekvando Şampiyonası'nda altın madalya kazandı",
+      "ozet": "Milli tekvandocu Rukiye Yıldırım, Avrupa Şampiyonası kapsamında çıktığı final müsabakasında rakibine üstünlük sağladı. Başarılı sporcu, karşılaşmayı kazanarak altın madalyanın sahibi oldu.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Rukiye_Y%C4%B1ld%C4%B1r%C4%B1m_-_2018_Europeans.jpg/960px-Rukiye_Y%C4%B1ld%C4%B1r%C4%B1m_-_2018_Europeans.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Rukiye_Y%C4%B1ld%C4%B1r%C4%B1m_-_2018_Europeans.jpg/500px-Rukiye_Y%C4%B1ld%C4%B1r%C4%B1m_-_2018_Europeans.jpg",
+        "genislik": 960,
+        "yukseklik": 1440,
+        "orijinalGenislik": 1828,
+        "yazar": "Министерство спорта Республики Татарстан",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Rukiye_Y%C4%B1ld%C4%B1r%C4%B1m_-_2018_Europeans.jpg",
+        "aciklama": "Rukiye Yıldırım - 2018 European Taekwondo Championships",
+        "konu": "Rukiye Yıldırım"
+      }
     },
     {
       "id": "2018-haber-1129965",
@@ -1611,10 +1492,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fenerbahceli-taraftar-derbide-hayatini-kaybetti-1129965"
       },
-      "konular": [],
+      "konular": [
+        "Fenerbahçe (futbol takımı)",
+        "Galatasaray (futbol takımı)",
+        "Süper Lig"
+      ],
       "yayin": "2018-11-02T21:59:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Fenerbahçe ve Galatasaray derbisinde taraftar vefat etti",
+      "ozet": "Fenerbahçe Spor Kulübü, Galatasaray ile oynanan müsabakayı takip etmek üzere stadyuma gelen bir taraftarın kalp krizi geçirdiğini duyurdu. Yapılan açıklamada, sağlık sorunu yaşayan taraftarın tüm müdahalelere rağmen kurtarılamadığı belirtildi.",
+      "kategori": "Spor"
     },
     {
       "id": "2018-haber-1129258",
@@ -1627,10 +1515,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/galatasaray-fenerbahce-derbisi-sahadan-once-sosyal-medyada-basladi-1129258"
       },
-      "konular": [],
+      "konular": [
+        "Galatasaray-Fenerbahçe derbisi",
+        "Süper Lig",
+        "Sosyal medya"
+      ],
       "yayin": "2018-11-02T11:59:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Galatasaray ve Fenerbahçe derbisi öncesi sosyal medya hareketliliği",
+      "ozet": "Süper Lig'in on birinci haftasında oynanacak Galatasaray ve Fenerbahçe karşılaşması öncesinde iki kulüp arasında dijital ortamda etkileşim yaşandı. Takımların resmi sosyal medya hesapları üzerinden yaptıkları paylaşımlar, akşam saatlerinde gerçekleşecek derbi mücadelesi öncesinde taraftarların dikkatini çekti.",
+      "kategori": "Spor"
     },
     {
       "id": "2016-haber-625268",
@@ -1643,10 +1538,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fed-faiz-kararini-acikladi-625268"
       },
-      "konular": [],
+      "konular": [
+        "Federal Rezerv",
+        "Faiz oranı",
+        "Ekonomi"
+      ],
       "yayin": "2016-11-02T21:06:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Amerikan Merkez Bankası faiz oranlarını sabit tuttu",
+      "ozet": "Amerikan Merkez Bankası, merakla beklenen faiz toplantısını tamamladı. Kurum, piyasa beklentileriyle uyumlu bir şekilde faiz oranlarında herhangi bir değişikliğe gitmeme kararı aldı.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Malawi_interest_rates.JPG",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Malawi_interest_rates.JPG",
+        "genislik": 648,
+        "yukseklik": 486,
+        "orijinalGenislik": 648,
+        "yazar": "Brian Dell Bdell555",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Malawi_interest_rates.JPG",
+        "aciklama": "Advertised interest rates inside the Malawi Savings Bank branch in Ncahlo, Malawi on 30 Sept 2008.",
+        "konu": "Faiz oranı"
+      }
     },
     {
       "id": "2016-haber-624905",
@@ -1659,10 +1574,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/avrupa-birliginden-cumhuriyet-aciklamasi-erdoganin-hatasi-olur-624905"
       },
-      "konular": [],
+      "konular": [
+        "Cumhuriyet (gazete)",
+        "Avrupa Birliği",
+        "Türkiye-Avrupa Birliği ilişkileri"
+      ],
       "yayin": "2016-11-02T09:47:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Avrupa Birliği'nden Cumhuriyet gazetesi operasyonuna ilişkin uyarı",
+      "ozet": "Avrupa Birliği temsilcileri, Cumhuriyet gazetesine ve basın kuruluşlarına yönelik gerçekleştirilen müdahalelerin Türkiye ile yürütülen vize serbestisi sürecini olumsuz etkileyebileceğini belirtti. Yetkililer, bu tür uygulamaların gelecek yıl hayata geçirilmesi planlanan vize muafiyeti takvimine zarar verebileceği konusunda görüş bildirdi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/1931_T%C3%BCrkiye_G%C3%BCzeli_Na%C5%9Fide_Saffet_Han%C4%B1m.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/1931_T%C3%BCrkiye_G%C3%BCzeli_Na%C5%9Fide_Saffet_Han%C4%B1m.jpg",
+        "genislik": 629,
+        "yukseklik": 883,
+        "orijinalGenislik": 629,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:1931_T%C3%BCrkiye_G%C3%BCzeli_Na%C5%9Fide_Saffet_Han%C4%B1m.jpg",
+        "aciklama": "Miss Turkey 1931 Naşide Saffet Hanım, newsreport at Cumhuriyet newspaper",
+        "konu": "Cumhuriyet (gazete)"
+      }
     },
     {
       "id": "2015-haber-403677",
@@ -1675,10 +1610,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/mhpde-secim-catlagi-buyuyor-bir-istifa-daha-403677"
       },
-      "konular": [],
+      "konular": [
+        "Milliyetçi Hareket Partisi",
+        "Erzurum",
+        "Siyaset"
+      ],
       "yayin": "2015-11-02T22:19:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Milliyetçi Hareket Partisi teşkilatlarında istifa süreci devam ediyor",
+      "ozet": "Seçim sonuçlarının ardından Milliyetçi Hareket Partisi bünyesinde yaşanan ayrılıklar sürüyor. Daha önce Çanakkale ve Balıkesir'deki il ve ilçe başkanlarının görevlerini bırakmasının ardından Erzurum'dan da benzer bir haber geldi. Narman İlçe Başkanı Seyfullah Kılıç, seçim neticelerini gerekçe göstererek görevinden ayrıldığını duyurdu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2014-haber-136559",
@@ -1691,10 +1633,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-pirlo-boyle-istedi-136559"
       },
-      "konular": [],
+      "konular": [
+        "Serie A",
+        "Juventus FC",
+        "Empoli FC"
+      ],
       "yayin": "2014-11-02T10:02:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Juventus Empoli deplasmanında galibiyete ulaştı",
+      "ozet": "İtalya Serie A liginin onuncu haftasında Juventus, Carlo Castellani Stadyumu'nda Empoli ile karşı karşıya geldi. Müsabakayı iki golle kazanan Juventus, puan durumundaki liderlik konumunu korumayı başardı.",
+      "kategori": "Spor"
     },
     {
       "id": "2013-haber-5605",
@@ -1707,10 +1656,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fenerbahcede-kotu-sohret-oylamasi-5605"
       },
-      "konular": [],
+      "konular": [
+        "Fenerbahçe (futbol takımı)",
+        "Fenerbahçe Spor Kulübü"
+      ],
       "yayin": "2013-11-02T13:50:00+03:00",
       "puan": 4,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Fenerbahçe Yönetiminde Üyelerin Kararı Belirleyici Oldu",
+      "ozet": "Fenerbahçe bünyesinde görev yapan üç yöneticinin geleceği hakkında nihai kararı genel kurul üyeleri verdi. Yapılan oylama sonucunda söz konusu isimlerin görevlerine devam etmelerinin önündeki tüm engeller kaldırıldı.",
+      "kategori": "Spor"
     },
     {
       "id": "2012-haber-380624",
@@ -1723,10 +1678,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-erdogandan-onkibara-tazminat-davasi-380624"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Aydınlık (gazete)",
+        "Sabahattin Önkibar"
+      ],
       "yayin": "2012-11-02T15:40:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Başbakan Erdoğan'dan Aydınlık Gazetesi'ne tazminat davası",
+      "ozet": "Başbakan Recep Tayyip Erdoğan, Aydınlık Gazetesi'nde yayımlanan bir köşe yazısı nedeniyle yasal yollara başvurdu. Yazıda kişilik haklarının ihlal edildiğini belirten Erdoğan, yazar Sabahattin Önkibar, gazetenin yönetim kurulu başkanı Mehmet Sabuncu ve gazete tüzel kişiliğine yönelik 100 bin liralık manevi tazminat davası açtı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2012-haber-380522",
@@ -1739,10 +1701,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/abd-baskanlik-secimlerinde-ateskes-sona-erdi-380522"
       },
-      "konular": [],
+      "konular": [
+        "2012 Amerika Birleşik Devletleri başkanlık seçimleri",
+        "Barack Obama",
+        "Mitt Romney"
+      ],
       "yayin": "2012-11-02T10:03:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "ABD seçimlerinde kampanya süreci yeniden hız kazandı",
+      "ozet": "Sandy kasırgasının yarattığı olumsuz etkiler nedeniyle başkanlık yarışı için verilen kısa süreli ara sona erdi. Barack Obama ve rakibi Mitt Romney, çalışmalarına kaldıkları yerden devam ederek birbirlerine yönelik sert eleştirilerini sürdürdükleri seçim turlarına geri döndü. Adaylar, kasırga sonrası normalleşen süreçle birlikte yeniden yoğun bir kampanya dönemine girdi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Barack_Obama_2012_%284x5%29.png/960px-Barack_Obama_2012_%284x5%29.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Barack_Obama_2012_%284x5%29.png/500px-Barack_Obama_2012_%284x5%29.png",
+        "genislik": 960,
+        "yukseklik": 1200,
+        "orijinalGenislik": 2400,
+        "yazar": "Official White House Photo by Pete Souza",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Barack_Obama_2012_(4x5).png",
+        "aciklama": "U.S. President Barack Obama's official photograph in the Oval Office on 6 December 2012.",
+        "konu": "2012 Amerika Birleşik Devletleri başkanlık seçimleri"
+      }
     },
     {
       "id": "2011-haber-295192",
@@ -1755,10 +1737,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/meclis-nc-kararini-tartisiyor-295192"
       },
-      "konular": [],
+      "konular": [
+        "N.Ç. davası",
+        "Binnaz Toprak",
+        "TBMM"
+      ],
       "yayin": "2011-11-02T13:09:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "N.Ç davasındaki Yargıtay kararı Meclis gündemine taşındı",
+      "ozet": "TBMM Kadın Erkek Fırsat Eşitliği Komisyonu Başkanvekili Binnaz Toprak, on üç yaşındaki bir çocuğun mağdur olduğu davada Yargıtay tarafından alınan kararı eleştirdi. Söz konusu hükmün vicdani açıdan kabul edilemez olduğunu vurgulayan Toprak, kamuoyunun bu duruma karşı daha duyarlı olması gerektiğini ifade etti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Binnaz_Toprak_%28cropped%29.jpg/960px-Binnaz_Toprak_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Binnaz_Toprak_%28cropped%29.jpg/500px-Binnaz_Toprak_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1235,
+        "orijinalGenislik": 1236,
+        "yazar": "Heinrich-Böll-Stiftung from Berlin, Deutschland",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Binnaz_Toprak_(cropped).jpg",
+        "aciklama": "Außenpolitische Jahrestagung: Demokratie und Sicherheit im Nahen Osten Wie antworten Deutschland und die EU auf die Umwälzungen im arabischen Raum? 13. Außenpolitische Jahrestagung 08. November: 16.30",
+        "konu": "Binnaz Toprak"
+      }
     },
     {
       "id": "2011-haber-295180",
@@ -1771,10 +1773,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/12-antalya-piyano-festivali-kasimda-basliyor-295180"
       },
-      "konular": [],
+      "konular": [
+        "Antalya Piyano Festivali",
+        "Fazıl Say",
+        "Antalya"
+      ],
       "yayin": "2011-11-02T12:20:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "12. Uluslararası Antalya Piyano Festivali İçin Hazırlıklar Tamamlandı",
+      "ozet": "Antalya Büyükşehir Belediyesi tarafından organize edilen ve sanat yönetmenliği görevini Fazıl Say'ın üstlendiği 12. Uluslararası Antalya Piyano Festivali'nin tarihleri belli oldu. Etkinlik, 25 Kasım ile 17 Aralık tarihleri arasında sanatseverlerle buluşacak.",
+      "kategori": "Sanat",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Faz%C4%B1l_Say_recording_at_Mozarteum_Salzburg_in_2019.jpg/960px-Faz%C4%B1l_Say_recording_at_Mozarteum_Salzburg_in_2019.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Faz%C4%B1l_Say_recording_at_Mozarteum_Salzburg_in_2019.jpg/500px-Faz%C4%B1l_Say_recording_at_Mozarteum_Salzburg_in_2019.jpg",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "orijinalGenislik": 3024,
+        "yazar": "Eren Yagmuroglu",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Faz%C4%B1l_Say_recording_at_Mozarteum_Salzburg_in_2019.jpg",
+        "aciklama": "Fazıl Say recording at Mozarteum Salzburg in 2019",
+        "konu": "Fazıl Say"
+      }
     }
   ],
   "haberYillari": [
