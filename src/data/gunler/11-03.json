@@ -10,10 +10,9 @@
         "Kristof Kolomb",
         "Karayipler"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Kristof Kolomb'un İkinci Amerika Seferi ve Karayipler",
+      "ozet": "Cenevizli kâşif Kristof Kolomb, 1493 yılında gerçekleştirdiği ikinci büyük okyanus aşırı seferi sırasında Karayip Adaları'na ulaştı. İspanyol hükümdarlarının desteğiyle çıktığı bu yolculuk, Avrupa'nın Amerika kıtasıyla olan etkileşimini derinleştiren ve bölgedeki kolonizasyon sürecini başlatan kritik bir adım oldu. Kolomb, bu seferinde daha geniş bir filo ve mürettebatla hareket ederek bölgenin coğrafi yapısını daha yakından tanıma fırsatı buldu.\n\nBu keşif, sadece yeni toprakların bulunması değil, aynı zamanda Avrupa'nın ticaret yollarını ve dünya görüşünü değiştiren bir dönemin başlangıcıydı. Karayipler'in keşfi, bölgenin yerli halkları ile Avrupalılar arasında uzun sürecek bir temasın kapısını araladı. Kolomb'un bu seyahati, Amerika kıtasının haritalanması ve Avrupa devletlerinin bölge üzerindeki nüfuz mücadelesinin ilk aşamalarını oluşturması bakımından dünya tarihinde önemli bir yere sahiptir.",
+      "kategori": "Keşif",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/960px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/500px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
@@ -26,7 +25,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_Man,_Said_to_be_Christopher_Columbus.jpg",
         "aciklama": null,
         "konu": "Kristof Kolomb"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1507-leonardo-da-vinciye-lisa-gherardininin-mona-lisa",
@@ -37,64 +38,24 @@
         "Lisa del Giocondo",
         "Mona Lisa"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Sanat Tarihinin En Ünlü Portresi: Mona Lisa'nın Siparişi",
+      "ozet": "İtalyan Rönesansı'nın en önemli figürlerinden Leonardo da Vinci, 1507 yılının Kasım ayında Floransalı tüccar Francesco del Giocondo'nun eşi Lisa Gherardini'nin portresini yapmak üzere bir anlaşma yaptı. Bu sipariş, zamanla dünyanın en çok tanınan ve üzerine en çok araştırma yapılan sanat eserlerinden biri haline gelecek olan Mona Lisa tablosunun ortaya çıkış sürecini başlattı. Eser, o dönemde Floransa'da yaşayan Gherardini ailesinin bir üyesi olan Lisa'nın anısına, eşinin özel isteği üzerine hazırlanmaya başlandı.\n\nLeonardo da Vinci'nin kavak bir pano üzerine sfumato tekniğini kullanarak resmettiği bu çalışma, sadece teknik ustalığıyla değil, aynı zamanda modelin yüzündeki gizemli ifadeyle de sanat dünyasında derin izler bıraktı. Tablonun kime ait olduğu ve üzerindeki belirsizlikler yüzyıllar boyunca tartışılsa da, eser bugün Paris'teki Louvre Müzesi'nin en değerli parçası olarak kabul edilmektedir. Lisa del Giocondo'nun yaşamı, bu ikonik tablo sayesinde sanat tarihinin ayrılmaz bir parçası haline gelmiş ve Rönesans döneminin estetik anlayışını günümüze taşıyan en güçlü sembollerden biri olmuştur.",
+      "kategori": "Sanat",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/960px-Francesco_Melzi_-_Portrait_of_Leonardo.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/500px-Francesco_Melzi_-_Portrait_of_Leonardo.png",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/960px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/500px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
         "genislik": 960,
-        "yukseklik": 1375,
-        "orijinalGenislik": 1286,
-        "yazar": "Attributed to Francesco Melzi",
+        "yukseklik": 1431,
+        "orijinalGenislik": 7479,
+        "yazar": "Leonardo da Vinci",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Francesco_Melzi_-_Portrait_of_Leonardo.png",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
         "aciklama": null,
-        "konu": "Leonardo da Vinci"
+        "konu": "Mona Lisa"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/960px-Francesco_Melzi_-_Portrait_of_Leonardo.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/500px-Francesco_Melzi_-_Portrait_of_Leonardo.png",
-          "genislik": 960,
-          "yukseklik": 1375,
-          "orijinalGenislik": 1286,
-          "yazar": "Attributed to Francesco Melzi",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Francesco_Melzi_-_Portrait_of_Leonardo.png",
-          "aciklama": null,
-          "konu": "Leonardo da Vinci"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Leonardo_da_Vinci_043-mod.jpg/960px-Leonardo_da_Vinci_043-mod.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Leonardo_da_Vinci_043-mod.jpg/500px-Leonardo_da_Vinci_043-mod.jpg",
-          "genislik": 960,
-          "yukseklik": 1156,
-          "orijinalGenislik": 4479,
-          "yazar": "Leonardo da Vinci",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_043-mod.jpg",
-          "aciklama": "Mona Lisa, detail",
-          "konu": "Lisa del Giocondo"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/960px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/500px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
-          "genislik": 960,
-          "yukseklik": 1431,
-          "orijinalGenislik": 7479,
-          "yazar": "Leonardo da Vinci",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
-          "aciklama": null,
-          "konu": "Mona Lisa"
-        }
-      ]
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1793-fransiz-oyun-yazari-gazeteci-ve-feminist-olympe",
@@ -107,51 +68,24 @@
         "feminist",
         "Olympe de Gouges"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Kadın Hakları Öncüsü Olympe de Gouges'un İdamı",
+      "ozet": "Fransız Devrimi'nin çalkantılı döneminde önemli bir entelektüel figür olan Olympe de Gouges, 3 Kasım 1793 tarihinde Paris'te giyotinle idam edildi. Bir oyun yazarı ve gazeteci olarak tanınan Gouges, özellikle kadınların siyasi ve sosyal haklarını savunan cesur çıkışlarıyla döneminin ötesinde bir duruş sergilemişti. En bilinen eseri olan Kadın ve Kadın Yurttaş Hakları Bildirgesi ile devrim sonrası kurulan yeni düzende kadınların dışlanmasına karşı çıkmış ve eşitlik talebini yüksek sesle dile getirmişti.\n\nGouges'un idamı, Fransız Devrimi'nin Terör Dönemi olarak bilinen ve muhalif seslerin susturulduğu baskıcı bir sürecin parçasıydı. Siyasi olarak Jirondenlere yakın durması ve dönemin güçlü figürlerinden Maximilien Robespierre'i eleştiren yazılar kaleme alması, onun sonunu hazırlayan temel etkenler oldu. Ölümü, sadece bir yazarın kaybı değil, aynı zamanda devrim ideallerinin evrenselliği üzerine yürütülen tartışmaların da trajik bir sembolü haline geldi. Bugün Olympe de Gouges, modern feminizmin öncülerinden biri olarak kabul edilmekte ve insan hakları mücadelesindeki kararlı duruşuyla anılmaktadır.",
+      "kategori": "Siyaset",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Phoenix_Heinz_Abel_1.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Phoenix_Heinz_Abel_1.jpg",
-        "genislik": 800,
-        "yukseklik": 533,
-        "orijinalGenislik": 800,
-        "yazar": "André Zahn",
-        "lisans": "CC BY-SA 2.0 de",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Phoenix_Heinz_Abel_1.jpg",
-        "aciklama": "Reporter Heinz Abel (PHOENIX) im Gespräch mit Peter Fahrenholz (Süddeutsche Zeitung, im Bild rechts) für die Live-Sendung „Wahl '05“",
-        "konu": "gazeteci"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Olympe_de_Gouges.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Olympe_de_Gouges.png",
+        "genislik": 816,
+        "yukseklik": 1090,
+        "orijinalGenislik": 816,
+        "yazar": "Alexander Kucharsky",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Olympe_de_Gouges.png",
+        "aciklama": "Portrait of Olympes de Gouges (1748–1793)",
+        "konu": "Olympe de Gouges"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Phoenix_Heinz_Abel_1.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Phoenix_Heinz_Abel_1.jpg",
-          "genislik": 800,
-          "yukseklik": 533,
-          "orijinalGenislik": 800,
-          "yazar": "André Zahn",
-          "lisans": "CC BY-SA 2.0 de",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Phoenix_Heinz_Abel_1.jpg",
-          "aciklama": "Reporter Heinz Abel (PHOENIX) im Gespräch mit Peter Fahrenholz (Süddeutsche Zeitung, im Bild rechts) für die Live-Sendung „Wahl '05“",
-          "konu": "gazeteci"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Olympe_de_Gouges.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Olympe_de_Gouges.png",
-          "genislik": 816,
-          "yukseklik": 1090,
-          "orijinalGenislik": 816,
-          "yazar": "Alexander Kucharsky",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Olympe_de_Gouges.png",
-          "aciklama": "Portrait of Olympes de Gouges (1748–1793)",
-          "konu": "Olympe de Gouges"
-        }
-      ]
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1839-gulhane-hatti-humayununun-aciklanmasiyla-tanzimat-devri-basladi",
@@ -161,23 +95,12 @@
         "Tanzimat Fermanı",
         "Tanzimat"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/London_news_c1877_-_scanned_constantinopole%281996%29-Opening_of_the_first_parlement.png",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/London_news_c1877_-_scanned_constantinopole%281996%29-Opening_of_the_first_parlement.png",
-        "genislik": 400,
-        "yukseklik": 395,
-        "orijinalGenislik": 400,
-        "yazar": "The Illustrated London News, 7 April 1877.",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:London_news_c1877_-_scanned_constantinopole(1996)-Opening_of_the_first_parlement.png",
-        "aciklama": "Opening of the first Ottoman Parliament (Meclis-i Umumî), 1877. Detail from Opening of the Turkish Parliament by the Sultan, at the Palace of Dolma-Bagtche, Constantinople. Illustration for The Illust",
-        "konu": "Tanzimat Fermanı"
-      }
+      "baslik": "Osmanlı'da Modernleşmenin Dönüm Noktası: Tanzimat Fermanı",
+      "ozet": "Sultan Abdülmecid döneminde, Hariciye Nazırı Mustafa Reşid Paşa tarafından Gülhane Parkı'nda halka ve devlet erkanına okunan Gülhane Hatt-ı Hümayunu, Osmanlı İmparatorluğu'nda köklü bir değişim sürecinin kapılarını araladı. Tanzimat-ı Hayriye olarak da bilinen bu ferman, devletin bozulan kurumlarını yeniden düzenleme ve Batılılaşma yolunda atılan ilk somut adım olma özelliğini taşır. Ferman, sadece idari bir düzenleme değil, aynı zamanda hukuk, askerlik ve mülki alanlarda devletin kendini yenileme iradesini ortaya koyan bir belge niteliğindeydi.\n\nTanzimat dönemi, Fransız İhtilali'nin getirdiği milliyetçilik akımlarının imparatorluk üzerindeki etkilerini dengelemek ve devletin ömrünü uzatmak amacıyla başlatılan reform hareketlerinin merkezinde yer alır. Bu süreç, Osmanlı toplumunda aydınlanma fikirlerinin yayılmasına ve meşrutiyet düşüncesinin gelişmesine zemin hazırlamıştır. 1876 yılına kadar süren bu dönem, Türk düşünce sisteminde Batılılaşma eksenli köklü bir dönüşümün başlangıcı kabul edilir. Mustafa Reşid Paşa, Mehmed Emin Âli Paşa ve Keçecizade Fuat Paşa gibi devlet adamlarının öncülüğünde yürütülen bu reformlar, Osmanlı modernleşmesinin temel taşlarını oluşturmuştur.",
+      "kategori": "Siyaset",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1856-ingiliz-donanmasi-cinin-kanton-sehrini-topa-tuttu",
@@ -188,23 +111,12 @@
         "Çin",
         "Guangzhou"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Canton_Tower_20220626_%28cropped%29.jpg/960px-Canton_Tower_20220626_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Canton_Tower_20220626_%28cropped%29.jpg/500px-Canton_Tower_20220626_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 2709,
-        "yazar": "Tim Wu",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Canton_Tower_20220626_(cropped).jpg",
-        "aciklama": "Aerial photograph of Guangzhou Tower",
-        "konu": "Guangzhou"
-      }
+      "baslik": "İngiliz Donanması'nın Kanton Bombardımanı",
+      "ozet": "İngiliz donanması, 3 Kasım 1856 tarihinde Çin'in önemli liman kentlerinden biri olan Kanton'u (Guangzhou) top ateşine tuttu. Bu askeri harekat, İkinci Afyon Savaşı olarak bilinen ve İngiltere ile Çin arasındaki gerilimin tırmandığı sürecin kritik bir aşamasını oluşturdu. Olay, iki devlet arasındaki ticari ve diplomatik anlaşmazlıkların silahlı bir çatışmaya dönüştüğü dönemin bir yansımasıydı.\n\nSöz konusu saldırı, bölgedeki İngiliz çıkarlarını koruma ve Çin üzerindeki ticari baskıyı artırma amacı taşıyordu. Kanton'un stratejik konumu, bu çatışmanın şiddetini artıran temel unsurlardan biriydi. Bu bombardıman, Çin'in dış dünyaya karşı yürüttüğü politikaların ve Batılı güçlerin bölgedeki emperyalist genişleme çabalarının bir sonucu olarak tarihe geçti. Olay, Çin'in egemenlik haklarının zedelendiği ve Batılı devletlerin bölgedeki nüfuzunu zorla kabul ettirmeye çalıştığı bir dönemin sembolik bir örneği olarak kabul edilir.",
+      "kategori": "Savaş",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1868-abd-baskanlik-secimlerini-cumhuriyetci-ulysses-s-grant",
@@ -215,10 +127,9 @@
         "Cumhuriyetçi Parti (Amerika Birleşik Devletleri)",
         "Ulysses S. Grant"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Ulysses S. Grant Amerika Birleşik Devletleri Başkanı Seçildi",
+      "ozet": "Amerikan İç Savaşı'nda Birlik ordularının başkomutanı olarak gösterdiği başarılarla ulusal bir kahraman haline gelen Ulysses S. Grant, 1868 yılındaki başkanlık seçimlerinde Cumhuriyetçi Parti'nin adayı olarak yarıştı. Seçim sonuçlarına göre rakibi Horatio Seymour'u geride bırakan Grant, ülkenin 18. başkanı olmaya hak kazandı. Bu zafer, Cumhuriyetçi Parti'nin İç Savaş sonrasındaki yeniden yapılanma sürecinde siyasi otoritesini pekiştirdiği önemli bir dönüm noktası olarak kabul edilir.\n\nGrant'in başkanlığı, Amerikan İç Savaşı'nın yaralarının sarılmaya çalışıldığı ve köleliğin kaldırılmasının ardından toplumsal düzenin yeniden tesis edilmeye uğraşıldığı bir döneme denk geldi. Savaş meydanındaki askeri disiplini ve kararlılığıyla tanınan Grant, başkanlık koltuğuna oturduğunda ülkenin birliğini koruma ve iç çatışmaların etkilerini azaltma hedefiyle hareket etti. Onun seçilmesi, savaşın galibi olan Kuzey'in siyasi vizyonunun ve Cumhuriyetçi Parti'nin kölelik karşıtı politikalarının Amerikan yönetimi üzerindeki hakimiyetini tescilleyen bir gelişme oldu.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ulysses_S._Grant_1870-1880.jpg/960px-Ulysses_S._Grant_1870-1880.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ulysses_S._Grant_1870-1880.jpg/500px-Ulysses_S._Grant_1870-1880.jpg",
@@ -231,7 +142,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ulysses_S._Grant_1870-1880.jpg",
         "aciklama": "Photograph of President Ulysses S. Grant, by Mathew Brady, c. 1870-80",
         "konu": "Ulysses S. Grant"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1888-londrada-karindesen-jack-son-kurbanini-oldurdu-2002",
@@ -243,64 +156,24 @@
         "Patricia Cornwell",
         "Walter Sickert"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Karındeşen Jack'in Son Kurbanı ve Gizemli Kimliği",
+      "ozet": "1888 yılının sonbaharında Londra'nın Whitechapel semtinde işlenen bir dizi vahşi cinayet, şehri korku dolu bir atmosfere sürükledi. Karındeşen Jack olarak bilinen ve kimliği hiçbir zaman kesin olarak tespit edilemeyen bu katil, özellikle bölgedeki savunmasız kadınları hedef alması ve kurbanlarına uyguladığı cerrahi yöntemlerle tarihin en meşhur suçlularından biri haline geldi. 3 Kasım 1888 tarihinde gerçekleşen son cinayet, dönemin emniyet güçleri ve kamuoyu üzerinde büyük bir baskı oluşturmuş, ancak katil izini kaybettirmeyi başarmıştır. Olay, dönemin basınında geniş yer bulmuş ve katilin gönderdiği iddia edilen mektuplarla gizemini daha da artırmıştır.\n\nCinayetlerin üzerinden geçen bir asrı aşkın süre boyunca katilin kim olduğuna dair sayısız teori ortaya atılmıştır. 2002 yılında ünlü polisiye yazarı Patricia Cornwell, kendi araştırmaları ve adli tıp bilgisi ışığında, Alman asıllı İngiliz ressam Walter Sickert'in Karındeşen Jack olabileceğine dair iddialarını içeren bir çalışma yayımladı. Cornwell'in bu tezi, katilin anatomik bilgiye sahip olduğu yönündeki eski şüpheleri desteklemek amacıyla ortaya atılmış olsa da, tarihçiler ve araştırmacılar arasında kesin bir kanıt olarak kabul görmemiştir. Karındeşen Jack vakası, günümüzde hala kriminoloji tarihinin en büyük çözülememiş gizemlerinden biri olarak popüler kültürdeki yerini korumaktadır.",
+      "kategori": "Toplum",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/500px-London_Skyline_%28125508655%29.jpeg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/JacktheRipper1888.jpg/960px-JacktheRipper1888.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/JacktheRipper1888.jpg/500px-JacktheRipper1888.jpg",
         "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 2048,
-        "yazar": "Ilya Grigorik",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg",
-        "aciklama": "500px provided description: London Skyline [#sunset ,#architecture ,#cityscape ,#london ,#uk ,#skyline ,#financial district ,#thames ,#london bridge ,#london shard]",
-        "konu": "Londra"
+        "yukseklik": 1017,
+        "orijinalGenislik": 1175,
+        "yazar": "R. Taylor (R. & E. Taylor (Firm))",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:JacktheRipper1888.jpg",
+        "aciklama": "One of a series of images from the Illustrated London News for October 13, 1888 carrying the overall caption, \"With the Vigilance Committee in the East End\". This specific image is entitled \"A Suspici",
+        "konu": "Karındeşen Jack"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/500px-London_Skyline_%28125508655%29.jpeg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 2048,
-          "yazar": "Ilya Grigorik",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg",
-          "aciklama": "500px provided description: London Skyline [#sunset ,#architecture ,#cityscape ,#london ,#uk ,#skyline ,#financial district ,#thames ,#london bridge ,#london shard]",
-          "konu": "Londra"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/JacktheRipper1888.jpg/960px-JacktheRipper1888.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/JacktheRipper1888.jpg/500px-JacktheRipper1888.jpg",
-          "genislik": 960,
-          "yukseklik": 1017,
-          "orijinalGenislik": 1175,
-          "yazar": "R. Taylor (R. & E. Taylor (Firm))",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:JacktheRipper1888.jpg",
-          "aciklama": "One of a series of images from the Illustrated London News for October 13, 1888 carrying the overall caption, \"With the Vigilance Committee in the East End\". This specific image is entitled \"A Suspici",
-          "konu": "Karındeşen Jack"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Patricia_Cornwell_2011_b.jpg/960px-Patricia_Cornwell_2011_b.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Patricia_Cornwell_2011_b.jpg/500px-Patricia_Cornwell_2011_b.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 3000,
-          "yazar": "Siren-Com",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Patricia_Cornwell_2011_b.jpg",
-          "aciklama": "Patricia Cornwell lors d'une dédicace de son livre Havre des morts, à la FNAC des Ternes (Paris 17e arrond.), le 1er avril 2011.",
-          "konu": "Patricia Cornwell"
-        }
-      ]
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1890-istanbulda-sirkeci-garinin-acilisi-yapildi",
@@ -310,51 +183,24 @@
         "İstanbul",
         "Sirkeci Garı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İstanbul'un Tarihi Kapısı: Sirkeci Garı Açıldı",
+      "ozet": "İstanbul'un Fatih ilçesinde yer alan Sirkeci Garı, Osmanlı İmparatorluğu'nun Avrupa'ya açılan kapısı olarak 3 Kasım 1890 tarihinde resmen hizmete girdi. Daha önce aynı bölgede bulunan ve artan demiryolu trafiğini karşılamakta yetersiz kalan ilk istasyon binasının yerine inşa edilen bu yeni yapı, dönemin ünlü Alman mimarı August Jasmund tarafından tasarlandı. Oryantalist mimari üslubuyla dikkat çeken gar, hem işlevsel hem de estetik açıdan şehrin simge yapılarından biri haline geldi.\n\nSirkeci Garı, sadece bir ulaşım noktası olmanın ötesinde, Rumeli Demiryolu'nun başlangıç noktası olarak stratejik bir öneme sahipti. Uzun yıllar boyunca Avrupa ile İstanbul arasında köprü vazifesi gören istasyon, ünlü Şark Ekspresi'nin de son durağı olmasıyla tarihsel bir kimlik kazandı. 20. yüzyıl boyunca şehrin banliyö ulaşımında kritik bir rol oynayan gar, Marmaray projesi gibi modern ulaşım hamlelerinin ardından farklı dönemlerde restorasyon süreçlerinden geçerek günümüze ulaştı. Günümüzde ise hem ulaşım hizmetlerine devam etmekte hem de kültürel bir merkez olarak kentin tarihsel mirasını yaşatmaktadır.",
+      "kategori": "Ulaşım",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bahnhofsfront-Istanbul-Sirkeci_retouched.jpg/960px-Bahnhofsfront-Istanbul-Sirkeci_retouched.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bahnhofsfront-Istanbul-Sirkeci_retouched.jpg/500px-Bahnhofsfront-Istanbul-Sirkeci_retouched.jpg",
         "genislik": 960,
-        "yukseklik": 494,
-        "orijinalGenislik": 2048,
-        "yazar": "Alexxx Malev",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-        "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-        "konu": "İstanbul"
+        "yukseklik": 353,
+        "orijinalGenislik": 2712,
+        "yazar": "Bahnhofsfront-Istanbul-Sirkeci.jpg: Martin Dürrschnabel derivative work: Dha (talk)",
+        "lisans": "CC BY-SA 2.5",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bahnhofsfront-Istanbul-Sirkeci_retouched.jpg",
+        "aciklama": "Die Frontansicht des alten Istanbuler Bahnhofs. Das Bild wurde aus drei Einzelbilder zusammengesetzt. Es stellt die alte Front des Bahnhofs dar. Hinter dem alten Gebäude befindet sich der neue Bahnhof",
+        "konu": "Sirkeci Garı"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "genislik": 960,
-          "yukseklik": 494,
-          "orijinalGenislik": 2048,
-          "yazar": "Alexxx Malev",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-          "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-          "konu": "İstanbul"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bahnhofsfront-Istanbul-Sirkeci_retouched.jpg/960px-Bahnhofsfront-Istanbul-Sirkeci_retouched.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bahnhofsfront-Istanbul-Sirkeci_retouched.jpg/500px-Bahnhofsfront-Istanbul-Sirkeci_retouched.jpg",
-          "genislik": 960,
-          "yukseklik": 353,
-          "orijinalGenislik": 2712,
-          "yazar": "Bahnhofsfront-Istanbul-Sirkeci.jpg: Martin Dürrschnabel derivative work: Dha (talk)",
-          "lisans": "CC BY-SA 2.5",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bahnhofsfront-Istanbul-Sirkeci_retouched.jpg",
-          "aciklama": "Die Frontansicht des alten Istanbuler Bahnhofs. Das Bild wurde aus drei Einzelbilder zusammengesetzt. Es stellt die alte Front des Bahnhofs dar. Hinter dem alten Gebäude befindet sich der neue Bahnhof",
-          "konu": "Sirkeci Garı"
-        }
-      ]
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1896-abd-baskanlik-secimlerini-cumhuriyetci-william-mckinley-kazandi",
@@ -365,10 +211,9 @@
         "Cumhuriyetçi Parti (Amerika Birleşik Devletleri)",
         "William McKinley"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "William McKinley Amerika Birleşik Devletleri Başkanı Seçildi",
+      "ozet": "1896 yılında düzenlenen Amerika Birleşik Devletleri başkanlık seçimlerinde, Cumhuriyetçi Parti'nin adayı William McKinley, Demokrat rakibi William Jennings Bryan'ı geride bırakarak ülkenin 25. başkanı seçildi. Bu seçim, Amerikan siyasi tarihinde önemli bir dönüm noktası olarak kabul edilir; zira McKinley'nin zaferi, Cumhuriyetçi Parti'nin sanayi eyaletlerinde ve ülke genelinde uzun yıllar sürecek olan siyasi hakimiyetinin başlangıcını simgeledi. Seçim süreci, özellikle ekonomik politikalar ve para birimi tartışmaları üzerinden şekillenmişti. McKinley, altın standardını savunarak ve korumacı gümrük vergilerini destekleyerek, ülkeyi o dönemde yaşanan derin ekonomik buhrandan çıkarmayı vaat etti. Bu yaklaşımı, sanayileşmiş bölgelerdeki seçmenlerden büyük destek gördü. McKinley'nin başkanlığı, Amerika'nın küresel bir güç olma yolunda ilerlediği bir döneme denk geldi. Görev süresi boyunca İspanya-Amerika Savaşı'ndaki zaferle birlikte Porto Riko, Guam ve Filipinler gibi bölgelerin kontrolü ABD'ye geçti. Ayrıca, Amerikan İç Savaşı'nda görev almış son başkan olma özelliğini taşıyan McKinley, uyguladığı ekonomik reformlarla ülkenin refah seviyesini yükseltmeyi hedefledi. 1901 yılındaki suikastına kadar görevde kalan McKinley, Amerikan dış politikasında ve iç ekonomik düzenlemelerinde kalıcı izler bırakan bir lider olarak tarihe geçti.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Mckinley.jpg/960px-Mckinley.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Mckinley.jpg/500px-Mckinley.jpg",
@@ -381,7 +226,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Mckinley.jpg",
         "aciklama": "William McKinley, President of the United States.",
         "konu": "William McKinley"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1903-panama-kolombiyadan-bagimsizligini-ilan-etti",
@@ -394,8 +241,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1906-sos-tehlike-sinyali-olarak-berlindeki-uluslararasi-radyotelegraf",
@@ -407,8 +254,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1908-abd-baskanlik-secimlerini-cumhuriyetci-william-howard-taft",
@@ -419,10 +266,9 @@
         "Cumhuriyetçi Parti (Amerika Birleşik Devletleri)",
         "William Howard Taft"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "William Howard Taft Amerika Birleşik Devletleri Başkanı Seçildi",
+      "ozet": "1908 yılındaki Amerika Birleşik Devletleri başkanlık seçimlerinde, Cumhuriyetçi Parti'nin adayı William Howard Taft, Demokrat rakibi William Jennings Bryan'ı geride bırakarak ülkenin 27. başkanı seçildi. Bu zafer, Taft'ın siyasi kariyerindeki en önemli dönüm noktalarından biri oldu ve kendisini Beyaz Saray'a taşıyan süreci resmileştirdi. Seçim sonuçları, Cumhuriyetçi Parti'nin o dönemdeki güçlü konumunu ve seçmen nezdindeki etkisini bir kez daha gözler önüne serdi.\n\nTaft, başkanlık görevinden sonra Amerika Birleşik Devletleri Yüksek Mahkemesi'nin 10. başkanı olarak da görev yaparak tarihe geçti. ABD tarihinde hem yürütme hem de yargı organlarının en üst düzey makamlarına ulaşan tek kişi olma unvanını kazanan Taft, hukukçu kimliğiyle de tanınan bir figürdü. Başkanlığı süresince izlediği politikalar ve yargıdaki çalışmaları, Amerikan devlet yapısının gelişiminde önemli bir yer tutar.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-_Cropped_to_image.jpg/960px-Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-_Cropped_to_image.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-_Cropped_to_image.jpg/500px-Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-_Cropped_to_image.jpg",
@@ -435,7 +281,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-_Cropped_to_image.jpg",
         "aciklama": "Cabinet card of William Howard Taft. Gelatin silver print. Dimensions Image/Sheet: 14.5 × 10.2 cm (5 11/16 × 4\") Mount: 16.5 × 10.8 cm (6 1/2 × 4 1/4\") Mat: 45.7 × 35.6 cm (18 × 14\")",
         "konu": "William Howard Taft"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1911-chevrolet-otomobil-pazarina-resmen-girdi",
@@ -444,10 +292,9 @@
       "konular": [
         "Chevrolet"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Otomotiv Devlerinden Chevrolet'nin Kuruluşu",
+      "ozet": "İsviçreli yarış pilotu Louis Chevrolet ve General Motors'un kurucusu William C. Durant tarafından temelleri atılan Chevrolet, 1911 yılında resmen faaliyete geçti. Şirket, adını kurucularından biri olan Louis Chevrolet'den alarak kısa sürede Amerikan otomobil endüstrisinin en önemli aktörlerinden biri haline geldi. Kuruluşundan sadece yedi yıl sonra, 1918 yılında General Motors bünyesine katılan marka, bu ortaklık sayesinde küresel bir güç olma yolunda büyük bir adım attı.\n\nChevrolet, kurulduğu günden bu yana sadece binek otomobillerle değil, aynı zamanda kamyon ve kamyonet gibi ticari araç segmentlerinde de geniş bir ürün yelpazesi sundu. 1914 yılında tanıttığı ikonik papyon şeklindeki logosuyla dünya genelinde tanınan bir marka haline gelen şirket, General Motors'un amiral gemisi konumuna yükseldi. Yüzyılı aşkın süredir otomotiv sektöründe varlığını sürdüren Chevrolet, bugün dünyanın pek çok farklı bölgesinde geniş bir kullanıcı kitlesine hitap etmeye devam etmektedir.",
+      "kategori": "Ekonomi",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Chevy_%2814467564735%29.jpg/960px-Chevy_%2814467564735%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Chevy_%2814467564735%29.jpg/500px-Chevy_%2814467564735%29.jpg",
@@ -460,7 +307,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Chevy_(14467564735).jpg",
         "aciklama": "Chevrolet Car Dealership 6/2014 Valenti Chevrolet Wallingford CT. Sign logo Pics by Mike Mozart of TheToyChannel and JeepersMedia on YouTube.",
         "konu": "Chevrolet"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1912-tamami-metalden-yapilmis-ilk-ucak-fransada-pilotlar",
@@ -472,8 +321,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1914-amerikali-caresse-crosby-mary-phelps-jacob-tarafindan",
@@ -484,23 +333,12 @@
         "Caresse Crosby",
         "sütyen"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Japanese_girl_in_a_white_E70_bra_IX.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Japanese_girl_in_a_white_E70_bra_IX.jpg",
-        "genislik": 489,
-        "yukseklik": 615,
-        "orijinalGenislik": 489,
-        "yazar": "かずやぎう (Triminged by User:Gulfox)",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Japanese_girl_in_a_white_E70_bra_IX.jpg",
-        "aciklama": "japaneese girl wearing a white E70 -2",
-        "konu": "sütyen"
-      }
+      "baslik": "Modern Sütyenin Patentlenmesi",
+      "ozet": "Mary Phelps Jacob, 1914 yılında geliştirdiği hafif ve pratik göğüs destekleyici tasarımıyla modern sütyenin patentini alarak giyim tarihinde önemli bir değişimin öncüsü oldu. Caresse Crosby takma adıyla da tanınan Jacob, o dönemde kadınların günlük yaşamını kısıtlayan ağır ve hantal korselere bir alternatif arayışındaydı. İki ipek mendil ve pembe kurdele kullanarak hazırladığı bu ilk tasarım, vücut hatlarını daha doğal bir şekilde desteklemeyi amaçlıyordu. Bu buluş, kadınların hareket özgürlüğünü kısıtlayan geleneksel giyim alışkanlıklarının terk edilmesinde kritik bir dönüm noktası oluşturdu.\n\nSütyenin icadı, 20. yüzyılın başlarında kadınların sosyal hayata daha aktif katılımıyla paralel bir gelişim gösterdi. Korselerin yerini alan bu yeni iç çamaşırı, zamanla farklı ihtiyaçlara göre çeşitlenerek spor sütyenleri gibi işlevsel tasarımlara evrildi. Bugün dünyanın hemen her yerinde temel bir giyim parçası haline gelen sütyen, sadece estetik bir tercih değil, aynı zamanda kadınların fiziksel konforunu ve günlük aktivitelerini destekleyen bir gereksinim olarak kabul edilmektedir. Jacob'ın aldığı bu patent, moda dünyasında endüstriyel bir standart oluştururken, kadın giyiminde daha rahat ve işlevsel bir dönemin kapılarını araladı.",
+      "kategori": "Teknoloji",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1914-canakkale-deniz-savaslarinin-ilk-taarruzu-olarak-iki",
@@ -510,51 +348,12 @@
         "Çanakkale Savaşı deniz harekâtları",
         "Seddülbahir Kalesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/HMS_Irresistible_abandoned_18_March_1915.jpg/960px-HMS_Irresistible_abandoned_18_March_1915.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/HMS_Irresistible_abandoned_18_March_1915.jpg/500px-HMS_Irresistible_abandoned_18_March_1915.jpg",
-        "genislik": 960,
-        "yukseklik": 661,
-        "orijinalGenislik": 3696,
-        "yazar": "Royal Navy",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:HMS_Irresistible_abandoned_18_March_1915.jpg",
-        "aciklama": "British battleship HMS Irresistible abandoned and sinking, 18 March 1915, during the Battle of Gallipoli. The caption reads:THE LAST MOMENTS OF THE IRRESISTIBLE.This impressive photograph, replete wit",
-        "konu": "Çanakkale Savaşı deniz harekâtları"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/HMS_Irresistible_abandoned_18_March_1915.jpg/960px-HMS_Irresistible_abandoned_18_March_1915.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/HMS_Irresistible_abandoned_18_March_1915.jpg/500px-HMS_Irresistible_abandoned_18_March_1915.jpg",
-          "genislik": 960,
-          "yukseklik": 661,
-          "orijinalGenislik": 3696,
-          "yazar": "Royal Navy",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:HMS_Irresistible_abandoned_18_March_1915.jpg",
-          "aciklama": "British battleship HMS Irresistible abandoned and sinking, 18 March 1915, during the Battle of Gallipoli. The caption reads:THE LAST MOMENTS OF THE IRRESISTIBLE.This impressive photograph, replete wit",
-          "konu": "Çanakkale Savaşı deniz harekâtları"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sedd-el-Bahr_from_River_Clyde.jpg/960px-Sedd-el-Bahr_from_River_Clyde.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sedd-el-Bahr_from_River_Clyde.jpg/500px-Sedd-el-Bahr_from_River_Clyde.jpg",
-          "genislik": 960,
-          "yukseklik": 558,
-          "orijinalGenislik": 1035,
-          "yazar": "Lt. C.N. Graham",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Sedd-el-Bahr_from_River_Clyde.jpg",
-          "aciklama": "Sedd-el-Bahr fort and village seen from the SS River Clyde, 25 April 1915, during the landing at Cape Helles, Battle of Gallipoli. The lighter in the foreground contains dead from the Royal Munster Fu",
-          "konu": "Seddülbahir Kalesi"
-        }
-      ]
+      "baslik": "Çanakkale Boğazı'na İlk Deniz Saldırısı",
+      "ozet": "I. Dünya Savaşı'nın başlarında, İtilaf Devletleri'nin Osmanlı İmparatorluğu'nu savaş dışı bırakma stratejisinin bir parçası olarak Çanakkale Boğazı'na yönelik ilk ciddi askeri hamle 3 Kasım 1914'te yapıldı. İngiliz ve Fransız donanmasına ait dört zırhlı, Boğaz'ın girişini koruyan tabyaları hedef alarak yoğun bir bombardıman başlattı. Bu saldırı, ilerleyen aylarda şiddetlenecek olan Çanakkale deniz harekâtlarının ilk somut adımı olarak tarihe geçti.\n\nBu bombardıman, İtilaf Devletleri'nin sadece donanma gücüyle Boğaz'ı geçip İstanbul'a ulaşma planının bir ön hazırlığı niteliğindeydi. Ancak bu ilk taarruz, Osmanlı savunma hatlarının gücünü test etme amacı taşısa da, Boğaz'ın sadece deniz gücüyle geçilemeyeceğinin anlaşılmasına giden sürecin başlangıcı oldu. İlerleyen aylarda yaşanan başarısızlıklar ve ağır kayıplar, İtilaf Devletleri'ni kara harekâtına zorlayacak ve tarihin en kanlı muharebelerinden birine zemin hazırlayacaktı.",
+      "kategori": "Savaş",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1918-polonya-rusyadan-bagimsizligini-ilan-etti",
@@ -567,8 +366,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1918-ingilizler-musulu-isgal-etti",
@@ -578,23 +377,12 @@
         "İngilizler",
         "Musul"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84.jpg",
-        "genislik": 714,
-        "yukseklik": 357,
-        "orijinalGenislik": 714,
-        "yazar": "Copyright © 2013 Younus Alhamdani",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84.jpg",
-        "aciklama": "The Old Bridge of Mosul, with the Mosul Grand Mosque in the background as seen from the south (Al Korneesh district on the western bank)",
-        "konu": "Musul"
-      }
+      "baslik": "İngiliz Kuvvetlerinin Musul'u İşgali",
+      "ozet": "Birinci Dünya Savaşı'nın sonlarına doğru, 3 Kasım 1918 tarihinde İngiliz ordusu Musul şehrine girerek bölgedeki kontrolü ele geçirdi. Bu gelişme, Osmanlı İmparatorluğu'nun savaşın son aşamasında yaşadığı toprak kayıplarının en kritik halkalarından biri olarak tarihe geçti. Mondros Mütarekesi'nin imzalanmasından sadece birkaç gün sonra gerçekleşen bu işgal, bölgenin geleceği üzerinde uzun yıllar sürecek siyasi tartışmaların da fitilini ateşledi. Musul, stratejik konumu ve zengin yeraltı kaynaklarıyla hem İngilizlerin hem de bölgedeki diğer güçlerin dikkatini çeken bir merkezdi. Şehrin işgali, Osmanlı Devleti'nin bölgedeki hakimiyetinin fiilen sona erdiğini gösteren önemli bir dönüm noktası oldu. Savaş sonrası dönemde Musul'un statüsü, Türkiye ile İngiltere arasında uzun süren diplomatik gerilimlere ve sınır anlaşmazlıklarına konu oldu. Bu olay, sadece askeri bir hamle değil, aynı zamanda Orta Doğu'nun yeniden şekillendiği bir sürecin başlangıcı olarak kabul edilmektedir.",
+      "kategori": "Savaş",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1918-avusturya-komunist-partisi-kuruldu",
@@ -606,8 +394,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1921-new-yorkta-sut-tasiyicilari-greve-gitti-ve",
@@ -616,23 +404,12 @@
       "konular": [
         "New York"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/500px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 8207,
-        "yazar": "Dllu",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg",
-        "aciklama": "View of the Empire State Building in New York City from the Top of the Rock at 30 Rockefeller Plaza during sunset. The tower was illuminated in green in honor of Climate Week NYC.[1]",
-        "konu": "New York"
-      }
+      "baslik": "New York Süt Grevi ve Sokaklara Dökülen Sütler",
+      "ozet": "1921 yılının Kasım ayında New York şehrinde süt dağıtımı yapan işçiler, çalışma koşullarının iyileştirilmesi ve ücret artışı talebiyle büyük bir grev başlattı. Şehrin temel gıda ihtiyaçlarından biri olan sütün tedarik zincirinde yaşanan bu kesinti, kısa sürede ciddi bir krize dönüştü. Grev süresince dağıtılamayan binlerce litre süt, protestonun bir parçası olarak veya lojistik imkansızlıklar nedeniyle New York caddelerine döküldü. Bu olay, dönemin endüstriyel ilişkilerindeki gerilimi ve gıda arzının kent yaşamı üzerindeki kritik etkisini gözler önüne serdi.\n\nSöz konusu grev, o dönemde Amerika Birleşik Devletleri'nde işçi hakları mücadelesinin yoğunlaştığı bir sürece denk geliyordu. Süt gibi bozulabilir ürünlerin taşınmasında yaşanan aksaklıklar, hem tüketiciler hem de üreticiler üzerinde büyük bir baskı oluşturdu. Sokaklara dökülen süt görüntüleri, kamuoyunda geniş yankı uyandırarak işçi sınıfının taleplerinin görünürlüğünü artırdı. Bu olay, şehir ekonomisinin ne kadar kırılgan bir yapıya sahip olduğunu ve temel hizmetlerin aksamasının toplumsal yaşamı nasıl doğrudan etkilediğini gösteren tarihi bir örnek olarak kayıtlara geçti.",
+      "kategori": "Ekonomi",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1926-rustu-pasa-cumhurbaskani-gazi-mustafa-kemal-ataturk",
@@ -643,51 +420,24 @@
         "Mustafa Kemal Atatürk",
         "İzmir Suikastı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İzmir Suikastı Davası ve Rüştü Paşa'nın İdamı",
+      "ozet": "Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Paşa'ya karşı 1926 yılında İzmir'de düzenlenmesi planlanan suikast girişimi, genç cumhuriyetin siyasi tarihinde önemli bir dönüm noktası oluşturmuştur. Aralarında eski bakanlar ve milletvekillerinin de bulunduğu bir grup tarafından organize edilen bu eylem, Paşa'nın İzmir ziyaretini ertelemesi ve planın bir itirafçı tarafından deşifre edilmesiyle engellenmiştir. Olayın ardından başlatılan geniş çaplı soruşturmalar, İstiklal Mahkemeleri'nin devreye girmesiyle derinleşmiş ve dönemin siyasi figürlerinin yargılanmasına yol açmıştır.\n\nBu süreçte yargılanan isimlerden biri olan Rüştü Paşa, suikast planına dahil olduğu gerekçesiyle suçlu bulunarak idam cezasına çarptırılmıştır. İzmir Suikastı girişimi, sadece bir suikast teşebbüsü olarak kalmamış, aynı zamanda yeni kurulan cumhuriyet rejiminin kendisine yönelik muhalefeti tasfiye etme ve otoritesini pekiştirme sürecinde kritik bir araç haline gelmiştir. Olay, dönemin siyasi atmosferini yansıtması ve cumhuriyetin ilk yıllarındaki iç çekişmeleri gözler önüne sermesi bakımından tarihsel bir öneme sahiptir.",
+      "kategori": "Siyaset",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-        "genislik": 732,
-        "yukseklik": 987,
-        "orijinalGenislik": 732,
-        "yazar": "Bilinmeyen yazar",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/The_letter_of_%C5%9Eevki_of_Crete.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/The_letter_of_%C5%9Eevki_of_Crete.jpg",
+        "genislik": 412,
+        "yukseklik": 513,
+        "orijinalGenislik": 412,
+        "yazar": "Izmir Vilayeti",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
-        "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
-        "konu": "Mustafa Kemal Atatürk"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:The_letter_of_%C5%9Eevki_of_Crete.jpg",
+        "aciklama": "The letter of Şevki of Crete, 1926.",
+        "konu": "İzmir Suikastı"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-          "genislik": 732,
-          "yukseklik": 987,
-          "orijinalGenislik": 732,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
-          "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
-          "konu": "Mustafa Kemal Atatürk"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/The_letter_of_%C5%9Eevki_of_Crete.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/The_letter_of_%C5%9Eevki_of_Crete.jpg",
-          "genislik": 412,
-          "yukseklik": 513,
-          "orijinalGenislik": 412,
-          "yazar": "Izmir Vilayeti",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:The_letter_of_%C5%9Eevki_of_Crete.jpg",
-          "aciklama": "The letter of Şevki of Crete, 1926.",
-          "konu": "İzmir Suikastı"
-        }
-      ]
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1930-brezilyada-ordu-iktidari-ele-gecirdi-ve-getulio",
@@ -697,10 +447,9 @@
         "Brezilya",
         "Getúlio Vargas"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Brezilya'da 1930 Devrimi ve Vargas Dönemi",
+      "ozet": "Brezilya'da 3 Kasım 1930 tarihinde gerçekleşen askeri müdahale, ülkenin siyasi tarihinde bir dönüm noktası oldu. Seçimlerde beklediği sonucu alamayan Getúlio Vargas, destekçilerinin başlattığı devrim hareketinin başına geçerek yönetimi devraldı. Ordu tarafından geçici başkan olarak atanan Vargas, bu hamleyle ülkedeki eski siyasi düzeni sonlandırarak mutlak iktidarı elinde topladı. Bu olay, Brezilya'da uzun yıllar sürecek olan Vargas döneminin başlangıcını temsil etmektedir.\n\nVargas'ın iktidara gelişi, Brezilya'nın toplumsal ve ekonomik yapısında köklü değişimlerin habercisiydi. Kendisini destekleyenler tarafından yoksulların savunucusu olarak görülse de, muhalifleri tarafından otoriter bir lider olarak eleştirildi. 1930'da başlayan bu süreç, ilerleyen yıllarda anayasal düzenin askıya alınması ve Estado Novo olarak bilinen totaliter bir yapının kurulmasıyla devam etti. Vargas, 1945 yılına kadar süren ilk iktidar döneminde hem büyük toprak sahiplerine karşı yürüttüğü politikalarla hem de işçi sınıfına yönelik reformlarıyla Brezilya siyasetinde derin izler bıraktı.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Getulio_Vargas_%281930%29.jpg/960px-Getulio_Vargas_%281930%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Getulio_Vargas_%281930%29.jpg/500px-Getulio_Vargas_%281930%29.jpg",
@@ -713,7 +462,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Getulio_Vargas_(1930).jpg",
         "aciklama": "Foto oficial de Getúlio Vargas, presidente do Brasil entre 1930 e 1945 e entre 1951 e 1954.",
         "konu": "Getúlio Vargas"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1936-ankarada-basbakan-ismet-inonunun-katilimiyla-cubuk-baraji",
@@ -724,64 +475,24 @@
         "İsmet İnönü",
         "Çubuk-1 Barajı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türkiye'nin İlk Betonarme Barajı: Çubuk-1",
+      "ozet": "Ankara'nın su ihtiyacını karşılamak ve taşkınları önlemek amacıyla inşa edilen Çubuk-1 Barajı, 1936 yılında resmen faaliyete geçti. Başbakan İsmet İnönü'nün katılımıyla gerçekleştirilen açılış töreni, genç Türkiye Cumhuriyeti'nin modernleşme ve altyapı hamlelerinin önemli bir simgesi olarak kayıtlara geçti. 1929 yılında yapımına başlanan baraj, mühendislik açısından ülkenin ilk betonarme barajı olma özelliğini taşıyordu.\n\nCumhuriyetin ilk yıllarında başkent Ankara'nın hızla artan nüfusu ve gelişen şehir yapısı, su kaynaklarının verimli kullanılmasını zorunlu kılıyordu. Çubuk Çayı üzerinde kurulan bu tesis, sadece bir su depolama alanı değil, aynı zamanda dönemin teknik kapasitesini ve kalkınma vizyonunu yansıtan bir mühendislik başarısıydı. Baraj, Ankara'nın su sorununa çözüm getirmesinin yanı sıra, bölgedeki tarımsal faaliyetlerin desteklenmesi ve taşkın kontrolü gibi kritik konularda da uzun yıllar boyunca kentin en önemli altyapı unsurlarından biri olarak hizmet verdi.",
+      "kategori": "Teknoloji",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/%C3%87ubuk-1_Baraj%C4%B1.jpg/960px-%C3%87ubuk-1_Baraj%C4%B1.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/%C3%87ubuk-1_Baraj%C4%B1.jpg/500px-%C3%87ubuk-1_Baraj%C4%B1.jpg",
         "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 7735,
-        "yazar": "A.Savin",
-        "lisans": "FAL",
-        "lisansUrl": "http://artlibre.org/licence/lal/en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-        "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
-        "konu": "Ankara"
+        "yukseklik": 720,
+        "orijinalGenislik": 4000,
+        "yazar": "Modern primat",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87ubuk-1_Baraj%C4%B1.jpg",
+        "aciklama": "Çubuk-1 Barajı, 1965'teki fotonun - https://commons.wikimedia.org/wiki/File:Cubuk_dam_of_the_Ankara,_Turkey_water_supply_system.jpg - çekildiği yerden çekmeye çalıştım.",
+        "konu": "Çubuk-1 Barajı"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 7735,
-          "yazar": "A.Savin",
-          "lisans": "FAL",
-          "lisansUrl": "http://artlibre.org/licence/lal/en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
-          "konu": "Ankara"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
-          "genislik": 549,
-          "yukseklik": 724,
-          "orijinalGenislik": 549,
-          "yazar": "Unknown. Official photo of President.",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Inonu_Ismet_(cropped).jpg",
-          "aciklama": "President of Turkey 1938-1950 Ismet Inonu",
-          "konu": "İsmet İnönü"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/%C3%87ubuk-1_Baraj%C4%B1.jpg/960px-%C3%87ubuk-1_Baraj%C4%B1.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/%C3%87ubuk-1_Baraj%C4%B1.jpg/500px-%C3%87ubuk-1_Baraj%C4%B1.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 4000,
-          "yazar": "Modern primat",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87ubuk-1_Baraj%C4%B1.jpg",
-          "aciklama": "Çubuk-1 Barajı, 1965'teki fotonun - https://commons.wikimedia.org/wiki/File:Cubuk_dam_of_the_Ankara,_Turkey_water_supply_system.jpg - çekildiği yerden çekmeye çalıştım.",
-          "konu": "Çubuk-1 Barajı"
-        }
-      ]
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1936-abd-baskanlik-secimlerini-demokrat-franklin-delano-roosevelt",
@@ -793,10 +504,9 @@
         "Demokrat Parti (Amerika Birleşik Devletleri)",
         "Franklin D. Roosevelt"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Franklin D. Roosevelt'in Tarihi Seçim Zaferi",
+      "ozet": "Amerika Birleşik Devletleri'nde 3 Kasım 1936 tarihinde gerçekleştirilen başkanlık seçimleri, görevdeki Demokrat Başkan Franklin D. Roosevelt'in Cumhuriyetçi aday Alf Landon'a karşı elde ettiği büyük başarıyla sonuçlandı. Büyük Buhran'ın etkilerinin derinden hissedildiği bir dönemde yapılan bu seçim, Roosevelt'in uyguladığı Yeni Düzen politikalarının halk nezdindeki geniş desteğini gözler önüne serdi. Roosevelt, seçmenlerin %60,8'inin oyunu alarak 1820'den bu yana görülen en yüksek halk oyu oranına ulaştı ve seçim kurulunda eyaletlerin neredeyse tamamını kazanarak tarihi bir başarıya imza attı.\n\nBu seçim zaferi, Roosevelt'in Yeni Düzen Koalisyonu'nu pekiştirmesi açısından kritik bir dönüm noktası oldu. Sosyal güvenlik sistemleri ve işsizlik yardımları gibi ekonomik reformlar, halkın büyük çoğunluğu tarafından benimsenmişti. Seçim sonuçları, Roosevelt'in izlediği ekonomik rotanın Amerikan toplumu tarafından onaylandığını ve siyasi otoritesinin güçlendiğini kanıtladı. Maine ve Vermont dışındaki tüm eyaletleri kazanan Roosevelt, bu sonuçla birlikte ikinci dönemine çok güçlü bir halk desteğiyle başlamış oldu.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/FDR_in_1933.jpg/960px-FDR_in_1933.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/FDR_in_1933.jpg/500px-FDR_in_1933.jpg",
@@ -810,34 +520,8 @@
         "aciklama": "Franklin Delano Roosevelt, 1933",
         "konu": "1936 Amerika Birleşik Devletleri başkanlık seçimleri"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/FDR_in_1933.jpg/960px-FDR_in_1933.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/FDR_in_1933.jpg/500px-FDR_in_1933.jpg",
-          "genislik": 960,
-          "yukseklik": 1130,
-          "orijinalGenislik": 2488,
-          "yazar": "Elias Goldensky",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:FDR_in_1933.jpg",
-          "aciklama": "Franklin Delano Roosevelt, 1933",
-          "konu": "1936 Amerika Birleşik Devletleri başkanlık seçimleri"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/960px-FDR_1944_Color_Portrait.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/500px-FDR_1944_Color_Portrait.jpg",
-          "genislik": 960,
-          "yukseklik": 1384,
-          "orijinalGenislik": 2754,
-          "yazar": "Leon Perskie",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:FDR_1944_Color_Portrait.jpg",
-          "aciklama": "Original color transparency of FDR taken at 1944 Official Campaign Portrait session by Leon A. Perskie, Hyde Park, New York, August 22, 1944. Gift of Beatrice Perskie Foxman and Dr. Stanley B. Foxman.",
-          "konu": "Franklin D. Roosevelt"
-        }
-      ]
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1942-ii-dunya-savasi-kuzey-afrikadaki-ii-el",
@@ -850,64 +534,24 @@
         "Erwin Rommel",
         "Almanya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Kuzey Afrika'da Dönüm Noktası: II. El Alameyn Muharebesi",
+      "ozet": "II. Dünya Savaşı'nın Kuzey Afrika Cephesi'nde gerçekleşen II. El Alameyn Muharebesi, 23 Ekim 1942 tarihinde başlamış ve yaklaşık iki hafta süren şiddetli çatışmaların ardından 3 Kasım'da Alman kuvvetlerinin geri çekilmesiyle yeni bir evreye girmiştir. General Erwin Rommel komutasındaki Mihver güçleri, İngiliz General Bernard Montgomery liderliğindeki Müttefik ordularının baskısı karşısında daha fazla dayanamayarak savunma hatlarını terk etmek zorunda kalmıştır. Bu geri çekilme, Kuzey Afrika'daki güç dengesini Müttefikler lehine kesin olarak değiştirmiştir.\n\nEl Alameyn, savaşın genel seyri açısından stratejik bir öneme sahipti. Mısır'ın kontrolü ve Süveyş Kanalı'nın güvenliği için kritik olan bu bölgedeki zafer, Müttefiklerin bölgedeki varlığını pekiştirirken Mihver devletlerinin Orta Doğu'ya ulaşma hayallerini de büyük ölçüde sona erdirmiştir. Savaşın en yoğun çatışmalarından birine sahne olan bu muharebe, aynı zamanda Müttefiklerin Kuzey Afrika'dan Avrupa'ya doğru ilerleyişini başlatan süreçte önemli bir basamak teşkil etmiştir. Bu yenilgi, Rommel'in 'Çöl Tilkisi' olarak bilinen askeri dehasının bölgedeki etkisini kırmış ve savaşın ilerleyen yıllarında Mihver güçlerinin savunma pozisyonuna geçmesine neden olmuştur.",
+      "kategori": "Savaş",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "genislik": 400,
-        "yukseklik": 286,
-        "orijinalGenislik": 400,
-        "yazar": "Bilinmeyen yazar",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/El_Alamein_1942_-_British_infantry.jpg/960px-El_Alamein_1942_-_British_infantry.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/El_Alamein_1942_-_British_infantry.jpg/500px-El_Alamein_1942_-_British_infantry.jpg",
+        "genislik": 960,
+        "yukseklik": 952,
+        "orijinalGenislik": 2500,
+        "yazar": "Len Chetwyn",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
-        "aciklama": "Pitched battle at Changde.",
-        "konu": "II. Dünya Savaşı"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:El_Alamein_1942_-_British_infantry.jpg",
+        "aciklama": "El Alamein 1942: British infantry advances through the dust and smoke of the battle. Sergeant Len Chetwyn had a focus on creating and recording re-enactments of military scenes behind the front lines ",
+        "konu": "II. El-Alameyn Muharebesi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-          "genislik": 400,
-          "yukseklik": 286,
-          "orijinalGenislik": 400,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
-          "aciklama": "Pitched battle at Changde.",
-          "konu": "II. Dünya Savaşı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/El_Alamein_1942_-_British_infantry.jpg/960px-El_Alamein_1942_-_British_infantry.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/El_Alamein_1942_-_British_infantry.jpg/500px-El_Alamein_1942_-_British_infantry.jpg",
-          "genislik": 960,
-          "yukseklik": 952,
-          "orijinalGenislik": 2500,
-          "yazar": "Len Chetwyn",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:El_Alamein_1942_-_British_infantry.jpg",
-          "aciklama": "El Alamein 1942: British infantry advances through the dust and smoke of the battle. Sergeant Len Chetwyn had a focus on creating and recording re-enactments of military scenes behind the front lines ",
-          "konu": "II. El-Alameyn Muharebesi"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bundesarchiv_Bild_146-1973-012-43%2C_Erwin_Rommel.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bundesarchiv_Bild_146-1973-012-43%2C_Erwin_Rommel.jpg",
-          "genislik": 491,
-          "yukseklik": 797,
-          "orijinalGenislik": 491,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "CC BY-SA 3.0 de",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1973-012-43,_Erwin_Rommel.jpg",
-          "aciklama": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Generalfeldmarschall Rommel",
-          "konu": "Erwin Rommel"
-        }
-      ]
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1957-sovyetler-birligi-ikinci-yapay-uydu-sputnik-2yi",
@@ -918,51 +562,24 @@
         "Sputnik 2",
         "Layka"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Uzayın İlk Yolcusu: Layka ve Sputnik 2",
+      "ozet": "Sovyetler Birliği, Sputnik 1'in başarısının ardından uzay yarışında elini güçlendirmek amacıyla 3 Kasım 1957 tarihinde Sputnik 2 uydusunu uzaya gönderdi. Bu tarihi görev, Dünya yörüngesine çıkan ilk canlı olan Layka adlı bir sokak köpeğinin uzay aracına yerleştirilmesiyle bilim dünyasında bir dönüm noktası oldu. Moskova sokaklarından seçilen Layka, uzay uçuşlarının canlılar üzerindeki etkilerini anlamak ve ileride gerçekleştirilecek insanlı uçuşların fizyolojik sınırlarını belirlemek için kritik bir görev üstlendi.\n\nO dönemde uzay aracını yörüngeden güvenli bir şekilde geri getirecek teknoloji henüz geliştirilmemişti. Bu nedenle Layka'nın geri dönmesi planlanmamıştı ve bilim insanları köpeğin uçuş sırasında hayatını kaybedeceğini biliyordu. Uzun yıllar boyunca Layka'nın görev sırasında oksijen yetersizliğinden öldüğü açıklanmış olsa da, 2002 yılında yapılan açıklamalar, köpeğin fırlatmadan sonraki ilk saatlerde aşırı ısınma nedeniyle hayatını kaybettiğini ortaya çıkardı. Yaşanan bu acı kayba rağmen Sputnik 2 görevi, canlı organizmaların yer çekimsiz ortamda hayatta kalabileceğini kanıtlayarak uzay araştırmalarında devrim niteliğinde veriler sağladı ve insanlı uzay yolculuklarının önünü açan en önemli adımlardan biri oldu.",
+      "kategori": "Bilim",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Laika_ac_Sputnik_2_Replica_%286995685051%29.jpg/960px-Laika_ac_Sputnik_2_Replica_%286995685051%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Laika_ac_Sputnik_2_Replica_%286995685051%29.jpg/500px-Laika_ac_Sputnik_2_Replica_%286995685051%29.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Laika_in_1957.jpg/960px-Laika_in_1957.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Laika_in_1957.jpg/500px-Laika_in_1957.jpg",
         "genislik": 960,
-        "yukseklik": 1440,
-        "orijinalGenislik": 3456,
-        "yazar": "Laika ac from USA",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Laika_ac_Sputnik_2_Replica_(6995685051).jpg",
-        "aciklama": "Laika's spacecraft.",
-        "konu": "Sputnik 2"
+        "yukseklik": 664,
+        "orijinalGenislik": 1600,
+        "yazar": "Музей космонавтики / Главархив Москвы",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Laika_in_1957.jpg",
+        "aciklama": "Собака Лайка перед орбитальным полетом. Из фондов Музея космонавтики",
+        "konu": "Layka"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Laika_ac_Sputnik_2_Replica_%286995685051%29.jpg/960px-Laika_ac_Sputnik_2_Replica_%286995685051%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Laika_ac_Sputnik_2_Replica_%286995685051%29.jpg/500px-Laika_ac_Sputnik_2_Replica_%286995685051%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1440,
-          "orijinalGenislik": 3456,
-          "yazar": "Laika ac from USA",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Laika_ac_Sputnik_2_Replica_(6995685051).jpg",
-          "aciklama": "Laika's spacecraft.",
-          "konu": "Sputnik 2"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Laika_in_1957.jpg/960px-Laika_in_1957.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Laika_in_1957.jpg/500px-Laika_in_1957.jpg",
-          "genislik": 960,
-          "yukseklik": 664,
-          "orijinalGenislik": 1600,
-          "yazar": "Музей космонавтики / Главархив Москвы",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Laika_in_1957.jpg",
-          "aciklama": "Собака Лайка перед орбитальным полетом. Из фондов Музея космонавтики",
-          "konu": "Layka"
-        }
-      ]
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1959-israilde-secimleri-david-ben-gurionun-isci-partisi",
@@ -973,10 +590,9 @@
         "David Ben-Gurion",
         "İşçi Partisi (İsrail)"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İsrail Genel Seçimlerinde Ben-Gurion Zaferi",
+      "ozet": "İsrail'in kurucu lideri David Ben-Gurion, 1959 yılında yapılan genel seçimlerde partisi Mapai ile sandıktan birinci çıkarak başbakanlık görevini sürdürdü. Bu seçimler, İsrail'in kuruluşundan sonraki ilk on yılın ardından ülkenin siyasi istikrarını ve Ben-Gurion'un liderliğindeki sosyal demokrat çizgiyi pekiştiren önemli bir dönüm noktası oldu. Seçim sonuçları, genç devletin hem iç politikada kurumsallaşma çabalarını hem de dış politikadaki pragmatik yaklaşımlarını devam ettirmesine olanak tanıdı.\n\nDavid Ben-Gurion, İsrail Devleti'nin ilanından itibaren ülkenin en etkili siyasi figürü olarak öne çıkmıştır. 1959 seçim zaferi, onun devletin temellerini atma ve toplumsal yapıyı şekillendirme sürecindeki otoritesini bir kez daha tescilledi. O dönemde Mapai çatısı altında yürütülen siyaset, İsrail'in sonraki yıllarda şekillenecek olan sosyal demokrat ve Siyonist kimliğinin temelini oluşturmuştur. Bu seçim, İsrail'in parlamenter sistemi olan Knesset'teki güç dengelerini belirlemesi açısından da tarihsel bir öneme sahiptir.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/David_Ben-Gurion_%28D597-087%29.jpg/960px-David_Ben-Gurion_%28D597-087%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/David_Ben-Gurion_%28D597-087%29.jpg/500px-David_Ben-Gurion_%28D597-087%29.jpg",
@@ -989,7 +605,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:David_Ben-Gurion_(D597-087).jpg",
         "aciklama": "Prime minister David Ben Gurion.",
         "konu": "David Ben-Gurion"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1961-burmali-diplomat-u-thant-birlesmis-milletler-genel",
@@ -1000,10 +618,9 @@
         "U Thant",
         "Birleşmiş Milletler"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Birleşmiş Milletler'in Üçüncü Genel Sekreteri: U Thant",
+      "ozet": "Birleşmiş Milletler Genel Sekreteri Dag Hammarskjöld'ün trajik bir uçak kazasında hayatını kaybetmesinin ardından, boşalan koltuk için arayışlar hız kazandı. 3 Kasım 1961 tarihinde yapılan seçimlerde, Myanmarlı diplomat U Thant, Birleşmiş Milletler'in üçüncü genel sekreteri olarak göreve getirildi. Bu seçim, Soğuk Savaş'ın en gergin dönemlerinden birinde, küresel diplomasinin tarafsız bir isme emanet edilmesi açısından büyük önem taşıyordu. U Thant, başlangıçta vekaleten yürüttüğü bu görevi, 1962 yılında daimi olarak üstlendi ve 1971 yılına kadar sürdürdü. Eğitimci kimliği ve diplomatik tecrübesiyle tanınan Thant, özellikle dekolonizasyon süreci ve uluslararası krizlerin çözümünde aktif bir rol oynadı. Asya kıtasından bu göreve seçilen ilk isim olan U Thant, Birleşmiş Milletler'in küresel barış ve kalkınma hedefleri doğrultusunda yürüttüğü çalışmalarıyla uluslararası arenada saygın bir yer edindi. Görev süresi boyunca dünya genelindeki çatışmaların yatıştırılması ve üye devletler arasındaki işbirliğinin artırılması için yoğun çaba sarf etti.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/U_Thant_%281963%29.jpg/960px-U_Thant_%281963%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/U_Thant_%281963%29.jpg/500px-U_Thant_%281963%29.jpg",
@@ -1016,7 +633,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:U_Thant_(1963).jpg",
         "aciklama": "Oe Thant op doorreis op Schiphol tijdens persconferentie, Oe Thant 1 juli 1963",
         "konu": "U Thant"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1964-abd-baskanlik-secimlerini-demokrat-lyndon-b-johnson",
@@ -1028,10 +647,9 @@
         "Demokrat Parti (Amerika Birleşik Devletleri)",
         "Lyndon B. Johnson"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Lyndon B. Johnson'ın Seçim Zaferi",
+      "ozet": "1964 Amerika Birleşik Devletleri başkanlık seçimleri, görevdeki Demokrat Başkan Lyndon B. Johnson ile Cumhuriyetçi Parti'nin Arizona senatörü Barry Goldwater arasında gerçekleşti. Seçim süreci, Johnson'ın John F. Kennedy'nin suikast sonucu hayatını kaybetmesinin ardından devraldığı başkanlık görevini halkın onayıyla sürdürme çabası olarak öne çıktı. Johnson, rakibi Goldwater'a karşı ezici bir üstünlük sağlayarak seçimi kazandı ve başkanlık koltuğundaki yerini sağlamlaştırdı. Bu zafer, Johnson'ın kendi dönemine ait politikalarını uygulama konusunda geniş bir halk desteğine sahip olduğunu gösterdi. Seçim sonuçları, Amerikan siyasi tarihinde Demokrat Parti'nin o dönemdeki güçlü konumunu pekiştiren önemli bir dönüm noktası olarak kabul edilir. Johnson'ın zaferi, özellikle sosyal reformlar ve iç politika hedefleri doğrultusunda atacağı adımlar için kendisine güçlü bir meşruiyet zemini oluşturdu.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/37_Lyndon_Johnson_3x4.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/37_Lyndon_Johnson_3x4.jpg",
@@ -1044,7 +662,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:37_Lyndon_Johnson_3x4.jpg",
         "aciklama": "Photo portrait of President Lyndon B. Johnson in the Oval Office, leaning on a chair.",
         "konu": "1964 Amerika Birleşik Devletleri başkanlık seçimleri"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1971-tarihi-tepebasi-tiyatrosu-yangin-sonucu-harap-oldu",
@@ -1053,10 +673,9 @@
       "konular": [
         "Tepebaşı Tiyatrosu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İstanbul Kültür Tarihinde Bir Kayıp: Tepebaşı Tiyatrosu Yangını",
+      "ozet": "İstanbul'un tiyatro tarihinde çok özel bir yere sahip olan Tepebaşı Tiyatrosu, 19. yüzyılın sonlarında inşa edilmiş ve uzun yıllar boyunca şehrin kültürel yaşamının merkezlerinden biri olmuştur. Özellikle Cumhuriyet döneminde altın çağını yaşayan bu tarihi yapı, sadece bir sahne değil, aynı zamanda İstanbul Şehir Tiyatroları'nın yönetim merkezi olarak da hizmet vererek sanat dünyasına yön vermiştir. Barok mimari özelliklerini taşıyan bina, dönemin entelektüel buluşma noktalarından biri olarak kabul ediliyordu.\n\n3 Kasım 1971 tarihinde meydana gelen yangın, bu tarihi yapının sonunu hazırlayan en önemli olaylardan biri oldu. Yangın sonucunda bina büyük ölçüde harap olmuş ve tiyatro faaliyetlerini sürdüremez hale gelmiştir. Bu trajik olay, İstanbul'un mimari ve kültürel mirası açısından büyük bir kayıp olarak değerlendirilmektedir. Günümüzde tiyatronun bulunduğu alanda TRT'nin Tepebaşı stüdyoları yer almaktadır. Yapının yok olması, İstanbul'un tiyatro geleneğinde bir dönemin kapanmasına ve şehrin kültürel hafızasında derin bir iz bırakılmasına neden olmuştur.",
+      "kategori": "Sanat",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/1929_09_21_Milliyet.jpg/960px-1929_09_21_Milliyet.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/1929_09_21_Milliyet.jpg/500px-1929_09_21_Milliyet.jpg",
@@ -1069,7 +688,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:1929_09_21_Milliyet.jpg",
         "aciklama": "21 Eylül 1929 tarihli Milliyet gazetesinde Tepebaşı Bahçesi ve sahnesi.",
         "konu": "Tepebaşı Tiyatrosu"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1978-dominika-birlesik-kralliktan-bagimsizligini-elde-etti",
@@ -1082,8 +703,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1981-eski-cumhuriyet-halk-partisi-genel-baskani-bulent",
@@ -1096,8 +717,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1982-afganistanda-salang-tuneli-yangininda-2000den-fazla-kisi",
@@ -1107,10 +728,9 @@
         "Afganistan",
         "Sâlânk Tüneli"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Salang Tüneli'nde Büyük Yangın Felaketi",
+      "ozet": "Afganistan'ın kuzeyini başkent Kabil'e bağlayan stratejik öneme sahip Salang Tüneli'nde 1982 yılının Kasım ayında tarihin en büyük karayolu facialarından biri yaşandı. Tünel içerisinde meydana gelen yangın, bölgedeki ulaşım ağını felç ederken, içeride mahsur kalan çok sayıda sivil ve askeri personelin hayatını kaybetmesine yol açtı. Olayın ardından yapılan resmi açıklamalarda ölü sayısının 2000'i aştığı belirtildi. Bu trajedi, tünelin hem lojistik hem de stratejik açıdan ne kadar kritik bir noktada bulunduğunu bir kez daha gözler önüne serdi.\n\nHindukuş Dağları'nın zorlu coğrafyasını aşarak ülkenin kuzeyi ile güneyini birbirine bağlayan Salang Tüneli, inşa edildiği günden bu yana Afganistan'ın en önemli ulaşım arterlerinden biri olmuştur. Ancak tünelin yüksek rakımı ve havalandırma sistemlerinin yetersizliği, bu tür kazaların etkisini katbekat artırmıştır. 1982 yılındaki bu büyük yangın, sadece bir ulaşım kazası olarak değil, aynı zamanda ülkenin o dönemde içinde bulunduğu siyasi ve askeri istikrarsızlığın da bir yansıması olarak tarihe geçmiştir. Felaket, bölgedeki altyapı güvenliği tartışmalarını uzun yıllar boyunca gündemde tutmuştur.",
+      "kategori": "Afet",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Salang_tunnel_entrance.jpg/960px-Salang_tunnel_entrance.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Salang_tunnel_entrance.jpg/500px-Salang_tunnel_entrance.jpg",
@@ -1123,7 +743,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Salang_tunnel_entrance.jpg",
         "aciklama": "entrance to Salang Pass, Afganistan",
         "konu": "Sâlânk Tüneli"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1983-ataturk-baraji-ve-hidroelektrik-santralinin-temeli-atildi",
@@ -1132,10 +754,9 @@
       "konular": [
         "Atatürk Barajı ve Hidroelektrik Santrali"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türkiye'nin Enerji Devinin Temelleri Atıldı",
+      "ozet": "Güneydoğu Anadolu Projesi'nin en önemli halkalarından biri olan Atatürk Barajı'nın temeli, 1983 yılında düzenlenen törenle atıldı. Fırat Nehri üzerinde inşa edilen bu devasa yapı, hem sulama hem de elektrik üretimi açısından Türkiye'nin enerji bağımsızlığı yolunda attığı en kritik adımlardan biri olarak kabul edildi. Projenin fikirsel temelleri Cumhuriyet'in ilk yıllarına, bizzat Mustafa Kemal Atatürk'ün nehirlerin potansiyelini değerlendirme vizyonuna kadar uzanmaktadır.\n\nBarajın inşası, mühendislik ve finansman açısından Türkiye'nin kendi öz kaynaklarını kullanma konusundaki kararlılığını simgelemektedir. Uluslararası kuruluşların kredi desteği sağlamayı reddettiği bir dönemde, tamamen yerli imkanlarla hayata geçirilmesi projeyi bir milli gurur kaynağı haline getirmiştir. Tamamlandığında gövde hacmi ve elektrik üretim kapasitesiyle yalnızca Türkiye'nin değil, Avrupa'nın da en büyük hidroelektrik santrallerinden biri olan bu tesis, bölge tarımı için hayati bir sulama kaynağı oluştururken ülkenin elektrik ihtiyacının karşılanmasında da stratejik bir rol üstlenmiştir.",
+      "kategori": "Teknoloji",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/63850_Eskin-Bozova-%C5%9Eanl%C4%B1urfa%2C_Turkey_-_panoramio_%281%29.jpg/960px-63850_Eskin-Bozova-%C5%9Eanl%C4%B1urfa%2C_Turkey_-_panoramio_%281%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/63850_Eskin-Bozova-%C5%9Eanl%C4%B1urfa%2C_Turkey_-_panoramio_%281%29.jpg/500px-63850_Eskin-Bozova-%C5%9Eanl%C4%B1urfa%2C_Turkey_-_panoramio_%281%29.jpg",
@@ -1148,7 +769,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:63850_Eskin-Bozova-%C5%9Eanl%C4%B1urfa,_Turkey_-_panoramio_(1).jpg",
         "aciklama": "63850 Eskin/Bozova/Şanlıurfa, Turkey",
         "konu": "Atatürk Barajı ve Hidroelektrik Santrali"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1985-iki-fransiz-dgse-ajani-yeni-zelandada-greenpeace",
@@ -1161,51 +784,24 @@
         "Greenpeace",
         "Rainbow Warrior (1955)"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Rainbow Warrior Saldırısı ve İstihbarat Skandalı",
+      "ozet": "Fransa'nın dış istihbarat teşkilatı DGSE'nin iki ajanı, 1985 yılında Yeni Zelanda'nın Auckland limanında demirli bulunan Greenpeace gemisi Rainbow Warrior'a yönelik bombalı saldırıyı gerçekleştirdikleri gerekçesiyle yargılandıkları mahkemede suçlu bulundu. Olay, uluslararası kamuoyunda büyük yankı uyandıran ve Fransa ile Yeni Zelanda arasında ciddi bir diplomatik krize yol açan bir casusluk skandalı olarak tarihe geçti.\n\nRainbow Warrior gemisi, o dönemde Fransa'nın Pasifik Okyanusu'ndaki Mururoa Atolü'nde gerçekleştirmeyi planladığı nükleer denemeleri protesto etmek amacıyla bölgeye gitmeye hazırlanıyordu. Fransız istihbaratı, geminin bu protesto eylemini engellemek amacıyla bir operasyon düzenledi. Gemiye yerleştirilen patlayıcılar sonucunda bir mürettebat üyesi hayatını kaybetti ve gemi sulara gömüldü. Olayın ardından yakalanan ajanların yargılanması, devlet destekli bir sabotajın açığa çıkması açısından dönüm noktası oldu. Bu olay, çevreci hareketlerin küresel ölçekte daha fazla görünürlük kazanmasına ve Fransa'nın nükleer deneme politikalarının uluslararası alanda sert bir şekilde eleştirilmesine neden oldu.",
+      "kategori": "Siyaset",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Gp-esso.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Gp-esso.jpg",
-        "genislik": 400,
-        "yukseklik": 501,
-        "orijinalGenislik": 400,
-        "yazar": "Jonathan Happ",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Gp-esso.jpg",
-        "aciklama": "Greenpeace demonstrating against Esso. March, 6. 2003",
-        "konu": "Greenpeace"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Schip_Rainbow_Warrior_van_Greenpeace_in_Scheveningen%2C_Bestanddeelnr_930-2632.jpg/960px-Schip_Rainbow_Warrior_van_Greenpeace_in_Scheveningen%2C_Bestanddeelnr_930-2632.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Schip_Rainbow_Warrior_van_Greenpeace_in_Scheveningen%2C_Bestanddeelnr_930-2632.jpg/500px-Schip_Rainbow_Warrior_van_Greenpeace_in_Scheveningen%2C_Bestanddeelnr_930-2632.jpg",
+        "genislik": 960,
+        "yukseklik": 637,
+        "orijinalGenislik": 3680,
+        "yazar": "Koen Suyk / Anefo",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Schip_Rainbow_Warrior_van_Greenpeace_in_Scheveningen,_Bestanddeelnr_930-2632.jpg",
+        "aciklama": "Collectie / Archief : Fotocollectie Anefo Reportage / Serie : [ onbekend ] Beschrijving : Schip \"Rainbow Warrior\" van Greenpeace in Scheveningen Datum : 11 mei 1979 Locatie : Scheveningen, Zuid-Hollan",
+        "konu": "Rainbow Warrior (1955)"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Gp-esso.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Gp-esso.jpg",
-          "genislik": 400,
-          "yukseklik": 501,
-          "orijinalGenislik": 400,
-          "yazar": "Jonathan Happ",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Gp-esso.jpg",
-          "aciklama": "Greenpeace demonstrating against Esso. March, 6. 2003",
-          "konu": "Greenpeace"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Schip_Rainbow_Warrior_van_Greenpeace_in_Scheveningen%2C_Bestanddeelnr_930-2632.jpg/960px-Schip_Rainbow_Warrior_van_Greenpeace_in_Scheveningen%2C_Bestanddeelnr_930-2632.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Schip_Rainbow_Warrior_van_Greenpeace_in_Scheveningen%2C_Bestanddeelnr_930-2632.jpg/500px-Schip_Rainbow_Warrior_van_Greenpeace_in_Scheveningen%2C_Bestanddeelnr_930-2632.jpg",
-          "genislik": 960,
-          "yukseklik": 637,
-          "orijinalGenislik": 3680,
-          "yazar": "Koen Suyk / Anefo",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Schip_Rainbow_Warrior_van_Greenpeace_in_Scheveningen,_Bestanddeelnr_930-2632.jpg",
-          "aciklama": "Collectie / Archief : Fotocollectie Anefo Reportage / Serie : [ onbekend ] Beschrijving : Schip \"Rainbow Warrior\" van Greenpeace in Scheveningen Datum : 11 mei 1979 Locatie : Scheveningen, Zuid-Hollan",
-          "konu": "Rainbow Warrior (1955)"
-        }
-      ]
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1985-sosyal-demokrasi-partisi-sodep-ve-halkci-partinin",
@@ -1220,8 +816,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1986-zaman-gazetesi-yayin-hayatina-basladi",
@@ -1230,23 +826,12 @@
       "konular": [
         "Zaman"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/MontreGousset001.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/MontreGousset001.jpg",
-        "genislik": 800,
-        "yukseklik": 697,
-        "orijinalGenislik": 800,
-        "yazar": "Isabelle Grosjean ZA",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:MontreGousset001.jpg",
-        "aciklama": "Pocket watch, savonette-type.",
-        "konu": "Zaman"
-      }
+      "baslik": "Türkiye'nin Medya Tarihinde Zaman Gazetesi'nin Kuruluşu",
+      "ozet": "Zaman gazetesi, 3 Kasım 1986 tarihinde İstanbul merkezli olarak yayın hayatına adım attı. Türkiye'nin medya dünyasında uzun yıllar boyunca faaliyet gösteren gazete, kurulduğu dönemden itibaren geniş bir okuyucu kitlesine ulaşmayı hedefleyen bir yayın politikası izledi. Gazete, yayınlandığı süre boyunca Türkiye'nin siyasi ve toplumsal gündeminde önemli bir yer tuttu. Zaman, özellikle haber bültenleri, köşe yazıları ve ek yayınlarıyla Türk basın tarihinde kendine özgü bir konum edindi. Gazetenin yayın çizgisi, kurulduğu günden itibaren çeşitli dönemlerde farklı tartışmaların odağında yer alsa da, Türkiye'nin medya ekosisteminde uzun süreli bir varlık göstermesiyle dikkat çekti. 2016 yılına kadar faaliyetlerini sürdüren gazete, Türk basın tarihinin en uzun soluklu yayın organlarından biri olarak kayıtlara geçti.",
+      "kategori": "Toplum",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "1991-israil-ve-filistin-yetkilileri-arasindaki-ilk-yuz",
@@ -1257,23 +842,12 @@
         "Filistin",
         "Madrid"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Plaza_Mayor_De_Madrid_%28215862629%29_edited.jpeg/960px-Plaza_Mayor_De_Madrid_%28215862629%29_edited.jpeg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Plaza_Mayor_De_Madrid_%28215862629%29_edited.jpeg/500px-Plaza_Mayor_De_Madrid_%28215862629%29_edited.jpeg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 1817,
-        "yazar": "Francisco Anzola",
-        "lisans": "CC BY 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Plaza_Mayor_De_Madrid_(215862629)_edited.jpeg",
-        "aciklama": "500px provided description: Plaza Mayor De Madrid [#sky ,#city ,#street ,#travel ,#old ,#tourism ,#tourist ,#urban ,#architecture ,#building ,#square ,#town ,#castle ,#panoramic ,#outdoors ,#horizonta",
-        "konu": "Madrid"
-      }
+      "baslik": "İsrail ve Filistin Arasında Tarihi Madrid Görüşmeleri",
+      "ozet": "İsrail ile Filistinli temsilciler arasında doğrudan diplomatik temasların kurulmasını sağlayan Madrid Konferansı, 1991 yılının Kasım ayında İspanya'nın başkentinde gerçekleştirildi. On yıllardır süregelen Arap-İsrail çatışmalarına barışçıl bir çözüm bulma hedefiyle düzenlenen bu zirve, tarafların aynı masada bir araya gelmesi bakımından bölge tarihinde bir dönüm noktası olarak kabul edilir. Görüşmeler, Orta Doğu'daki gerilimi azaltmak ve taraflar arasında güven inşa etmek adına atılan en somut adımlardan biri olmuştur.\n\nKonferansın temel amacı, bölgedeki toprak anlaşmazlıkları ve siyasi statü sorunlarını müzakere yoluyla çözüme kavuşturmaktı. Madrid'de atılan bu ilk adımlar, daha sonraki yıllarda gerçekleşecek olan Oslo Görüşmeleri gibi daha kapsamlı barış süreçlerinin de önünü açmıştır. Her ne kadar konferansın ardından kalıcı bir barışa ulaşmak uzun ve zorlu bir süreç olsa da, tarafların doğrudan diyalog kurma iradesini göstermesi uluslararası toplum tarafından önemli bir diplomatik başarı olarak değerlendirilmiştir.",
+      "kategori": "Siyaset",
+      "gorsel": null,
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1992-illinoiste-demokrat-carol-moseley-braun-abd-senatosuna",
@@ -1287,8 +861,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1992-abd-baskanlik-secimlerini-demokrat-bill-clinton-kazandi",
@@ -1300,10 +874,9 @@
         "Demokrat Parti (Amerika Birleşik Devletleri)",
         "Bill Clinton"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Bill Clinton'ın Amerika Birleşik Devletleri Başkanlığına Seçilmesi",
+      "ozet": "1992 yılında düzenlenen Amerika Birleşik Devletleri başkanlık seçimleri, dönemin Cumhuriyetçi Başkanı George H. W. Bush ile Demokrat Parti adayı Bill Clinton ve bağımsız aday Ross Perot arasında gerçekleşen kıyasıya bir rekabete sahne oldu. Seçim sonuçları, Arkansas Valisi olan Bill Clinton'ın zaferiyle neticelendi ve böylece Amerikan siyasetinde yeni bir dönem başladı. Seçmenlerin mevcut yönetimin politikalarına yönelik memnuniyetsizliği, Clinton'ın Beyaz Saray'a taşınmasında belirleyici bir rol oynadı.\n\nBu seçim, özellikle ekonomik kaygıların ön planda olduğu bir atmosferde gerçekleşti. Clinton, değişim vaadiyle seçmenlerin dikkatini çekmeyi başarırken, Bush'un görev süresi boyunca izlediği politikalar halk nezdinde yeterli desteği bulamadı. Demokrat Parti'nin bu zaferi, uzun süredir devam eden Cumhuriyetçi iktidar dönemini sona erdirerek Amerikan iç ve dış politikasında önemli bir kırılma noktası oluşturdu. Clinton'ın başkanlığı, takip eden yıllarda ülkenin ekonomik ve sosyal politikalarında köklü değişimlerin yaşanacağı bir sürecin başlangıcı olarak tarihe geçti.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/960px-Bill_Clinton.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/500px-Bill_Clinton.jpg",
@@ -1316,7 +889,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Bill_Clinton.jpg",
         "aciklama": "Official White House photo of President Bill Clinton, President of the United States.",
         "konu": "1992 Amerika Birleşik Devletleri başkanlık seçimleri"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "dunya"
     },
     {
       "id": "1994-turkiye-ile-israil-arasinda-terore-karsi-is",
@@ -1329,8 +904,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1996-susurlukta-meydana-gelen-trafik-kazasinda-eski-istanbul",
@@ -1346,8 +921,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2002-adalet-ve-kalkinma-partisi-erken-genel-secimlerden",
@@ -1357,10 +932,9 @@
         "Adalet ve Kalkınma Partisi",
         "2002 Türkiye genel seçimleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türk Siyasetinde Yeni Bir Dönem: 2002 Seçimleri",
+      "ozet": "Türkiye'de 3 Kasım 2002 tarihinde düzenlenen erken genel seçimler, ülkenin siyasi yapısında köklü bir değişimin başlangıcı oldu. Recep Tayyip Erdoğan liderliğinde kurulan Adalet ve Kalkınma Partisi, seçimlerden yüzde 34,3 oranında oy alarak büyük bir başarı elde etti. Bu sonuçla birlikte parti, parlamentoda elde ettiği 363 milletvekilliği ile 1950'li yıllardan bu yana görülen en güçlü temsil oranına ulaşarak tek başına iktidara geldi.\n\nSeçim sonuçları, Türk siyaseti açısından oldukça sarsıcı bir tablo ortaya koydu. Uygulanan yüzde 10 seçim barajı nedeniyle, seçime katılan 18 siyasi partiden yalnızca AK Parti ve Cumhuriyet Halk Partisi meclise girebildi. Önceki dönemde iktidarda bulunan Demokratik Sol Parti, Milliyetçi Hareket Partisi ve Anavatan Partisi gibi köklü partiler ile diğer muhalefet grupları barajı aşamayarak parlamento dışında kaldı. Bu durum, 2002 seçimlerini modern Türkiye siyasi tarihinin en kritik dönüm noktalarından biri haline getirdi.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Recep_Tayyip_Erdo%C4%9Fan%2C_Turkish_Prime_Minister%2C_in_Brussels_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Recep_Tayyip_Erdo%C4%9Fan%2C_Turkish_Prime_Minister%2C_in_Brussels_%28cropped%29.jpg",
@@ -1373,7 +947,9 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan,_Turkish_Prime_Minister,_in_Brussels_(cropped).jpg",
         "aciklama": "Jan Peter Balkenende, Dutch Prime Minister and President in office of the Council, Recep Tayyip Erdoğan, Turkish Prime Minister, and Abdullah Gül, Turkish Minister for Foreign Affairs",
         "konu": "2002 Türkiye genel seçimleri"
-      }
+      },
+      "durum": "yayinda",
+      "bolge": "turkiye"
     },
     {
       "id": "2020-amerika-birlesik-devletleri-baskanlik-secimleri-gerceklestirildi-ve",
@@ -1384,10 +960,9 @@
         "Demokrat Parti (Amerika Birleşik Devletleri)",
         "Joe Biden"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Amerika Birleşik Devletleri'nde Joe Biden Dönemi Başlıyor",
+      "ozet": "Amerika Birleşik Devletleri'nde 3 Kasım 2020 tarihinde gerçekleştirilen 59. başkanlık seçimleri, küresel COVID-19 pandemisinin gölgesinde ve oldukça yüksek bir seçmen katılımıyla yapıldı. Demokrat Parti adayı Joe Biden ve başkan yardımcısı adayı Kamala Harris, mevcut Cumhuriyetçi başkan Donald Trump ve başkan yardımcısı Mike Pence'e karşı yarıştı. Seçim sonuçlarına göre Joe Biden, 81 milyonun üzerinde oy alarak Amerikan seçim tarihinde bir adaya verilen en yüksek oy sayısına ulaştı ve ülkenin 46. başkanı olarak seçildi.\n\nBu seçim, Kamala Harris'in büyük bir partinin biletinde yer alan ilk Afrikalı-Amerikalı, ilk Asyalı-Amerikalı ve üçüncü kadın başkan yardımcısı adayı olmasıyla da tarihe geçti. 1900 yılından bu yana görülen en yüksek seçmen katılım oranına sahne olan bu süreç, hem pandemi koşullarının getirdiği zorluklar hem de ülkedeki siyasi kutuplaşmanın yoğunluğu nedeniyle modern Amerikan tarihinin en kritik dönemeçlerinden biri olarak kabul edildi. Biden'ın zaferi, uzun yıllar süren senatörlük ve başkan yardımcılığı kariyerinin ardından Beyaz Saray'a taşınmasını sağladı.",
+      "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Joe_Biden_2021_%284x5%29.png/960px-Joe_Biden_2021_%284x5%29.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Joe_Biden_2021_%284x5%29.png/500px-Joe_Biden_2021_%284x5%29.png",
@@ -1401,34 +976,8 @@
         "aciklama": "U.S. President Joe Biden's official portrait, 2021",
         "konu": "2020 Amerika Birleşik Devletleri başkanlık seçimleri"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Joe_Biden_2021_%284x5%29.png/960px-Joe_Biden_2021_%284x5%29.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Joe_Biden_2021_%284x5%29.png/500px-Joe_Biden_2021_%284x5%29.png",
-          "genislik": 960,
-          "yukseklik": 1200,
-          "orijinalGenislik": 2400,
-          "yazar": "Adam Schultz",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Joe_Biden_2021_(4x5).png",
-          "aciklama": "U.S. President Joe Biden's official portrait, 2021",
-          "konu": "2020 Amerika Birleşik Devletleri başkanlık seçimleri"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/960px-Joe_Biden_presidential_portrait.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/500px-Joe_Biden_presidential_portrait.jpg",
-          "genislik": 960,
-          "yukseklik": 1200,
-          "orijinalGenislik": 2400,
-          "yazar": "Adam Schultz",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg",
-          "aciklama": "U.S. President Joe Biden's official portrait, 2021",
-          "konu": "Joe Biden"
-        }
-      ]
+      "durum": "yayinda",
+      "bolge": "dunya"
     }
   ],
   "dogumlar": [
@@ -1975,7 +1524,7 @@
     "url": "https://tr.wikipedia.org/wiki/3_Kas%C4%B1m",
     "revid": 38168809
   },
-  "guncelleme": "2026-10-21T21:27:08.680Z",
+  "guncelleme": "2026-10-24T10:30:10.335Z",
   "haberler": [
     {
       "id": "2025-haber-2449294",
@@ -2357,10 +1906,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/besiktas-teknik-direktoru-senol-gunes-sampiyonluk-yarisi-net-degil-1130797"
       },
-      "konular": [],
+      "konular": [
+        "Beşiktaş (futbol takımı)",
+        "Şenol Güneş",
+        "Süper Lig"
+      ],
       "yayin": "2018-11-03T22:31:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Şenol Güneş Başakşehir Mağlubiyetini Değerlendirdi",
+      "ozet": "Beşiktaş teknik direktörü Şenol Güneş, ligin on birinci haftasında Medipol Başakşehir karşısında alınan bir sıfırlık mağlubiyetin ardından açıklamalarda bulundu. Sahada rakiplerine oranla daha etkili bir oyun sergilediklerini belirten Güneş, buna rağmen istedikleri sonucu alamadıklarını ifade etti. Deneyimli çalıştırıcı, şampiyonluk yarışının henüz netleşmediğini vurguladı.",
+      "kategori": "Spor"
     },
     {
       "id": "2017-haber-858852",
@@ -2373,10 +1929,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-yildirim-enflasyonun-artmasinin-sebeplerini-biliyoruz-858852"
       },
-      "konular": [],
+      "konular": [
+        "Binali Yıldırım",
+        "Enflasyon",
+        "Erzincan"
+      ],
       "yayin": "2017-11-03T13:29:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Binali Yıldırım enflasyon oranlarındaki yükselişi değerlendirdi",
+      "ozet": "Erzincan ziyareti sırasında basın mensuplarının sorularını yanıtlayan Binali Yıldırım, ülkede kaydedilen enflasyon artışına değindi. Yıldırım, fiyat artışlarına neden olan faktörlerin farkında olduklarını ve bu durumun gerekçelerini bildiklerini ifade etti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2017-haber-859247",
@@ -2389,10 +1952,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hakkinda-tutuklama-karari-cikan-katalan-lider-secimde-aday-olmaya-hazirim-859247"
       },
-      "konular": [],
+      "konular": [
+        "Carles Puigdemont",
+        "Katalonya bağımsızlık referandumu",
+        "İspanya"
+      ],
       "yayin": "2017-11-03T21:32:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Katalonya eski lideri Puigdemont seçimlere katılacağını duyurdu",
+      "ozet": "Hakkında tutuklama kararı bulunan Katalonya eski lideri Charles Puigdemont, yaklaşan seçimlerde aday olmaya hazır olduğunu belirtti. Söz konusu karar sonrası yaptığı açıklamada siyasi sürecin içinde yer alacağını ifade etti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Retrat_oficial_del_President_Carles_Puigdemont_cropped.jpg/960px-Retrat_oficial_del_President_Carles_Puigdemont_cropped.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Retrat_oficial_del_President_Carles_Puigdemont_cropped.jpg/500px-Retrat_oficial_del_President_Carles_Puigdemont_cropped.jpg",
+        "genislik": 960,
+        "yukseklik": 1395,
+        "orijinalGenislik": 2569,
+        "yazar": "Generalitat de Catalunya",
+        "lisans": "Attribution",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Retrat_oficial_del_President_Carles_Puigdemont_cropped.jpg",
+        "aciklama": "Official portrait of the President of the Generalitat of Catalonia, Carles Puigdemont i Casamajó.",
+        "konu": "Carles Puigdemont"
+      }
     },
     {
       "id": "2016-haber-625595",
@@ -2405,10 +1988,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-bahceli-zirvesi-sona-erdi-ver-ocalani-al-baskanligi-625595"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Devlet Bahçeli",
+        "Türkiye siyaseti"
+      ],
       "yayin": "2016-11-03T15:24:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanı Erdoğan ve Devlet Bahçeli Beştepe'de bir araya geldi",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ile Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli, başkentte gerçekleşen görüşmede bir araya geldi. İki liderin yaklaşık bir saat süren toplantısında başkanlık sistemi ve idam cezası gibi gündemdeki önemli konu başlıkları ele alındı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2016-haber-625412",
@@ -2421,10 +2024,15 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-liginde-supriz-gece-625412"
       },
-      "konular": [],
+      "konular": [
+        "UEFA Sampiyonlar Ligi"
+      ],
       "yayin": "2016-11-03T10:34:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "UEFA Sampiyonlar Ligi dördüncü haftasında beklenmedik sonuçlar alındı",
+      "ozet": "Avrupa futbolunun kulüpler düzeyindeki en prestijli organizasyonu olan UEFA Sampiyonlar Ligi grup aşamasında dördüncü hafta maçları tamamlandı. Turnuvanın ikinci gününde oynanan müsabakalarda favori takımların beklemediği üç farklı sonuç ortaya çıktı. Bu durum futbol kamuoyunda sürpriz olarak değerlendirildi.",
+      "kategori": "Spor"
     },
     {
       "id": "2015-haber-404833",
@@ -2437,10 +2045,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chahechouhe-sampiyon-takima-gidecek-mi-404833"
       },
-      "konular": [],
+      "konular": [
+        "Aatif Chahechouhe",
+        "Sivasspor",
+        "Bursaspor"
+      ],
       "yayin": "2015-11-03T19:08:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Aatif Chahechouhe transfer iddialarına yanıt verdi",
+      "ozet": "Medicana Sivasspor forması giyen orta saha oyuncusu Aatif Chahechouhe, Bursaspor ile ilgili transfer dedikodularına açıklık getirdi. Başarılı futbolcu, hem kendisine hem de temsilcisine Bursaspor cephesinden herhangi bir teklif ulaşmadığını ifade etti.",
+      "kategori": "Spor"
     },
     {
       "id": "2015-haber-404813",
@@ -2453,10 +2068,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akp-yeniden-tek-basina-icraatlar-basladi-404813"
       },
-      "konular": [],
+      "konular": [
+        "Kasım 2015 Türkiye genel seçimleri",
+        "Adalet ve Kalkınma Partisi",
+        "Türkiye siyaseti"
+      ],
       "yayin": "2015-11-03T18:31:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Genel seçimlerin ardından yeni hükümet çalışmalarına hız verdi",
+      "ozet": "Kasım ayında gerçekleşen genel seçimlerin neticelenmesiyle birlikte tek başına iktidar olan parti, yönetim faaliyetlerine resmen başladı. Seçim sürecinin tamamlanmasının üzerinden kısa bir süre geçmesine rağmen hükümet kanadı, planlanan icraatları hayata geçirmek üzere ilk adımlarını attı.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2014-haber-136841",
@@ -2469,10 +2092,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ekimde-zam-sampiyonu-domates-136841"
       },
-      "konular": [],
+      "konular": [
+        "Tüketici fiyat endeksi",
+        "Domates",
+        "Enflasyon"
+      ],
       "yayin": "2014-11-03T10:36:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ekim ayında fiyatı en çok artan ürün domates oldu",
+      "ozet": "Tüketici fiyat endeksi verilerine göre yılın onuncu ayında piyasadaki en yüksek fiyat artışı domateste yaşandı. Söz konusu ürünün fiyatı yüzde 43,03 oranında yükselerek listede ilk sırada yer aldı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2014-haber-136970",
@@ -2485,10 +2115,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/emine-ulker-tarhan-istifasinin-ardindan-ilk-kez-konustu-136970"
       },
-      "konular": [],
+      "konular": [
+        "Emine Ülker Tarhan",
+        "Cumhuriyet Halk Partisi",
+        "Siyaset"
+      ],
       "yayin": "2014-11-03T15:37:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Emine Ülker Tarhan Cumhuriyet Halk Partisi'nden ayrılışını değerlendirdi",
+      "ozet": "Bağımsız Ankara Milletvekili Emine Ülker Tarhan, partisinden istifa etme kararının ardından açıklamalarda bulundu. Tarhan, benzer bir tıkanmışlık hissi taşıyan ancak sessiz kalmayı tercih eden birçok kişiyi geride bırakmak zorunda kaldığını ifade etti. Bu ayrılık kararının kendisi için zorlu bir süreç olduğunu belirten milletvekili, parti içindeki durumuna dair görüşlerini paylaştı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Emine_%C3%9Clker_Tarhan%2C_Anatolia_Party_-_Kocaeli_%2816%29_%28cropped%29.JPG/960px-Emine_%C3%9Clker_Tarhan%2C_Anatolia_Party_-_Kocaeli_%2816%29_%28cropped%29.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Emine_%C3%9Clker_Tarhan%2C_Anatolia_Party_-_Kocaeli_%2816%29_%28cropped%29.JPG/500px-Emine_%C3%9Clker_Tarhan%2C_Anatolia_Party_-_Kocaeli_%2816%29_%28cropped%29.JPG",
+        "genislik": 960,
+        "yukseklik": 1547,
+        "orijinalGenislik": 2172,
+        "yazar": "Fenerli1978",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Emine_%C3%9Clker_Tarhan,_Anatolia_Party_-_Kocaeli_(16)_(cropped).JPG",
+        "aciklama": "Emine Ülker Tarhan, Anatolia Party 2015 general election campaign in Kocaeli",
+        "konu": "Emine Ülker Tarhan"
+      }
     },
     {
       "id": "2013-haber-5759",
@@ -2501,10 +2151,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/anayasa-mahkemesi-iktidar-yonunde-karar-aliyor-5759"
       },
-      "konular": [],
+      "konular": [
+        "Anayasa Mahkemesi (Türkiye)",
+        "İbrahim Kaboğlu",
+        "2010 Türkiye anayasa değişikliği referandumu"
+      ],
       "yayin": "2013-11-03T11:51:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Anayasa Hukuku Uzmanından Yüksek Mahkeme Değerlendirmesi",
+      "ozet": "Anayasa hukuku alanında çalışmalar yürüten Prof. Dr. İbrahim Kaboğlu, 2010 yılında gerçekleştirilen anayasa değişikliği referandumunun ardından Anayasa Mahkemesi'nin mevcut durumuna ilişkin eleştirilerde bulundu. Kaboğlu, mahkemenin işleyişinde yaşanan değişimleri ve gelinen noktayı değerlendirerek konu hakkındaki görüşlerini kamuoyuyla paylaştı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Constitutional_Court_of_Turkey.jpg/960px-Constitutional_Court_of_Turkey.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Constitutional_Court_of_Turkey.jpg/500px-Constitutional_Court_of_Turkey.jpg",
+        "genislik": 960,
+        "yukseklik": 540,
+        "orijinalGenislik": 1920,
+        "yazar": "Murat Karabulut (VOA)",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Constitutional_Court_of_Turkey.jpg",
+        "aciklama": "Türkiye Cumhuriyeti Anayasa Mahkemesi",
+        "konu": "Anayasa Mahkemesi (Türkiye)"
+      }
     },
     {
       "id": "2013-haber-5833",
@@ -2517,10 +2187,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/aziz-yildirimdan-buyuk-rekor-5833"
       },
-      "konular": [],
+      "konular": [
+        "Aziz Yıldırım",
+        "Fenerbahçe (futbol takımı)"
+      ],
       "yayin": "2013-11-03T19:49:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Fenerbahçe Kulübünde Aziz Yıldırım Dönemi Yeniden Başladı",
+      "ozet": "Fenerbahçe tarafından düzenlenen olağanüstü genel kurul toplantısında başkanlık seçimi yapıldı. Rakibi Mehmet Ali Aydınlar ile girdiği yarışı kazanan Aziz Yıldırım, görevini sürdürmeye hak kazandı. On altı yıllık başkanlık süreci boyunca katıldığı on bir kongrenin tamamından zaferle ayrılan Yıldırım, bu seçimle birlikte karşısına rakip çıkan dördüncü kongresini de başarıyla tamamlamış oldu.",
+      "kategori": "Spor"
     },
     {
       "id": "2012-haber-380864",
@@ -2533,10 +2209,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/off-road-sampiyonasinda-5-ayak-basladi-380864"
       },
-      "konular": [],
+      "konular": [
+        "Off-road",
+        "Urla",
+        "Türkiye Otomobil Sporları Federasyonu"
+      ],
       "yayin": "2012-11-03T15:30:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türkiye Off-Road Şampiyonası'nın final etabı Urla'da start aldı",
+      "ozet": "Türkiye Otomobil Sporları Federasyonu tarafından düzenlenen şampiyonanın sezon finali niteliğindeki beşinci ayak yarışları başladı. Organizasyonun başlangıcı Urla Cumhuriyet Meydanı'nda gerçekleştirilen törenle yapıldı.",
+      "kategori": "Spor"
     },
     {
       "id": "2012-haber-380790",
@@ -2549,10 +2232,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-kamuoyu-idami-geri-istiyor-380790"
       },
-      "konular": [],
+      "konular": [
+        "İdam cezası",
+        "Recep Tayyip Erdoğan",
+        "Türkiye siyaseti"
+      ],
       "yayin": "2012-11-03T10:09:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İdam cezası tartışmaları yeniden gündeme geldi",
+      "ozet": "Dönemin Başbakanı Recep Tayyip Erdoğan, toplumun geniş bir kesiminin idam cezasının tekrar yürürlüğe girmesini talep ettiğini belirtti. Yapılan kamuoyu araştırmalarına değinen Erdoğan, suç mağdurlarının yaşadığı acılara dikkat çekerek idam konusundaki tartışmaları siyasi gündeme taşıdı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2011-haber-295462",
@@ -2565,10 +2268,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ekim-ayinin-zam-sampiyonu-kabak-295462"
       },
-      "konular": [],
+      "konular": [
+        "Enflasyon",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2011-11-03T13:02:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ekim ayında fiyatı en çok artan ürünler belirlendi",
+      "ozet": "Tüketici fiyatları baz alındığında ekim ayında en yüksek fiyat artışı yüzde 40,32 oranıyla kabakta gerçekleşti. Üretici fiyatları tarafında ise en büyük yükseliş yüzde 34,48 ile taze soğanda gözlemlendi. Söz konusu veriler, ay içerisindeki piyasa hareketliliğini ortaya koydu.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2011-haber-295450",
@@ -2581,10 +2290,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/referandum-da-istifa-da-yok-295450"
       },
-      "konular": [],
+      "konular": [
+        "Yorgo Papandreu",
+        "Yunanistan",
+        "Avrupa Birliği"
+      ],
       "yayin": "2011-11-03T11:29:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Yunanistan hükümetinde güvenoyu krizi yaşandı",
+      "ozet": "Yunanistan Başbakanı Yorgo Papandreu, parlamentodaki bazı milletvekillerinin güvenoyu oylamasında destek vermeyeceklerini açıklaması üzerine çoğunluğu kaybetti. Hükümetin düşme tehlikesiyle karşı karşıya kaldığı bu süreçte, Papandreu Avrupa Birliği mali yardım paketini referanduma sunma konusundaki kararını gözden geçirdi. Yaşanan siyasi belirsizlik nedeniyle yönetim zor bir döneme girdi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Papandreou_handover_cropped.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Papandreou_handover_cropped.jpg",
+        "genislik": 404,
+        "yukseklik": 523,
+        "orijinalGenislik": 404,
+        "yazar": "Papandreou_Papademos_-_Ceremony_for_the_official_handover_-_11_November_2011_(2).jpg: Λουκάς Παπαδήμος Πρωθυπουργός της Ελλάδας derivative w",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Papandreou_handover_cropped.jpg",
+        "aciklama": "Τελετή παράδοσης-παραλαβής στο Μέγαρο Μαξίμου Μέγαρο Μαξίμου 11 Νοεμβρίου, 2011",
+        "konu": "Yorgo Papandreu"
+      }
     }
   ],
   "haberYillari": [

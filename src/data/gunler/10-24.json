@@ -288,6 +288,20 @@
       "durum": "yayinda"
     },
     {
+      "id": "1945-turkiye-birlesmis-milletlere-katildi",
+      "yil": 1945,
+      "metin": "Türkiye Birleşmiş Milletlere katıldı.",
+      "konular": [
+        "Türkiye",
+        "Birleşmiş Milletler"
+      ],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor",
+      "gorsel": null
+    },
+    {
       "id": "1947-walt-disney-amerikan-aleyhtari-faaliyetler-komitesi-huac",
       "yil": 1947,
       "metin": "Walt Disney, Amerikan Aleyhtarı Faaliyetler Komitesi (HUAC)'nde ifade vererek Komünist olduklarına inandığı bazı çalışanlarının isimlerini komiteye verdi.",
@@ -1144,9 +1158,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/24_Ekim",
-    "revid": 38168157
+    "revid": 38319131
   },
-  "guncelleme": "2026-10-23T11:11:57.800Z",
+  "guncelleme": "2026-10-24T10:30:05.401Z",
   "haberler": [
     {
       "id": "2025-haber-2446427",
@@ -1505,14 +1519,13 @@
       },
       "konular": [
         "Melek Hu",
-        "Avrupa Masa Tenisi Şampiyonası",
-        "Masa tenisi"
+        "Avrupa Masa Tenisi Şampiyonası"
       ],
       "yayin": "2016-10-24T09:43:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "Melek Hu Avrupa Masa Tenisi Şampiyonası'nda altın madalya kazandı",
-      "ozet": "Avrupa Masa Tenisi Şampiyonası tek kadınlar kategorisinde final mücadelesi gerçekleşti. Milli sporcu Melek Hu, Portekizli rakibi Yu Fu ile karşılaştığı final maçını kazanarak şampiyonluk unvanına ulaştı. Bu başarıyla birlikte milli sporcu turnuvayı zirvede tamamladı.",
+      "baslik": "Milli sporcu Melek Hu Avrupa Masa Tenisi Şampiyonu oldu",
+      "ozet": "Avrupa Masa Tenisi Şampiyonası kapsamında düzenlenen tek kadınlar final müsabakasında milli sporcu Melek Hu sahaya çıktı. Portekizli rakibi Yu Fu ile gerçekleştirdiği mücadeleyi kazanan Hu, turnuvayı şampiyonlukla tamamladı.",
       "kategori": "Spor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Mondial_Ping_-Women%27s_Singles_-_Quarterfinal_-_Melek_Hu-Liu_Shiwen_-_26_%28cropped%29.jpg/960px-Mondial_Ping_-Women%27s_Singles_-_Quarterfinal_-_Melek_Hu-Liu_Shiwen_-_26_%28cropped%29.jpg",
@@ -1815,9 +1828,9 @@
       "yayin": "2011-10-24T17:04:00+03:00",
       "puan": 9,
       "durum": "yazildi",
-      "baslik": "Van depremi Türkiye Büyük Millet Meclisi gündemine taşınıyor",
-      "ozet": "Van ilinde meydana gelen şiddetli sarsıntının ardından konu Türkiye Büyük Millet Meclisi Genel Kurulu'nda görüşülmeye başlandı. Milletvekilleri bölgedeki durumu ve atılacak adımları değerlendirmek üzere bir araya geldi.",
-      "kategori": "Siyaset",
+      "baslik": "Van merkezli deprem felaketi Türkiye Büyük Millet Meclisi gündeminde",
+      "ozet": "Van ilinde meydana gelen sarsıntının ardından yaşanan gelişmeler Türkiye Büyük Millet Meclisi Genel Kurulu tarafından ele alınmaya başlandı. Depremin etkileri ve bölgedeki durum milletvekilleri tarafından değerlendirildi. Meclis çatısı altında konuyla ilgili görüşmeler gerçekleştirildi.",
+      "kategori": "Afet",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/960px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/500px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",

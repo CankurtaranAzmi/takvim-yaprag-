@@ -1755,10 +1755,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/dolar-rekor-seviyeye-yakin-gozler-bakan-simsek-ve-merkez-bankasi-nda-2449968"
       },
-      "konular": [],
+      "konular": [
+        "Dolar",
+        "Mehmet Şimşek",
+        "Türkiye Cumhuriyet Merkez Bankası"
+      ],
       "yayin": "2025-11-05T10:39:00+03:00",
       "puan": 16,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Döviz piyasasında gözler ekonomi yönetimine çevrildi",
+      "ozet": "Dolar kuru güne hafif bir artışla giriş yaptı. Yatırımcılar Hazine ve Maliye Bakanı Mehmet Şimşek tarafından yapılacak değerlendirmeleri ve Merkez Bankası'nın yıl sonuna dair vereceği mesajları beklemeye başladı. Aynı zamanda küresel piyasalarda Amerikan Merkez Bankası'nın faiz politikasına ilişkin belirsizlikler devam ediyor.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2025-haber-2450151",
@@ -1771,10 +1778,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/canli-yayin-ajax-galatasaray-canli-anlatim-uefa-sampiyonlar-ligi-4-haftasi-2450151"
       },
-      "konular": [],
+      "konular": [
+        "Galatasaray (futbol takımı)",
+        "Ajax",
+        "UEFA Şampiyonlar Ligi"
+      ],
       "yayin": "2025-11-05T22:32:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Galatasaray Hollanda deplasmanında Ajax'ı üç golle mağlup etti",
+      "ozet": "UEFA Şampiyonlar Ligi dördüncü hafta mücadelesinde Galatasaray, deplasmanda karşılaştığı Ajax'ı üç sıfırlık skorla geçti. Müsabakadaki tüm golleri kaydeden Victor Osimhen galibiyette başrol oynadı. Bu sonuçla birlikte Galatasaray, Hollanda temsilcisini kendi sahasında yenmeyi başaran ilk Türk takımı olarak kayıtlara geçti.",
+      "kategori": "Spor",
+      "gorsel": null
     },
     {
       "id": "2024-haber-2265467",
@@ -1787,10 +1802,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/turk-lirasi-reel-doviz-kuru-43-ayin-zirvesine-ulasti-tl-deger-kazandi-2265467"
       },
-      "konular": [],
+      "konular": [
+        "Türk lirası",
+        "Reel efektif döviz kuru",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2024-11-05T15:55:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Türk Lirası reel döviz kuru son kırk üç ayın en yüksek seviyesine çıktı",
+      "ozet": "Ekim ayı verilerine göre Türk Lirası reel döviz kuru yükseliş gösterdi. Bu artışla birlikte para birimi son kırk üç ayın zirvesine ulaştı. Söz konusu değişim Türk Lirası'nın değer kazandığına dair bir gösterge olarak değerlendirildi.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/9._Emisyon_T%C3%BCrk_banknotlar%C4%B1.gif",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/9._Emisyon_T%C3%BCrk_banknotlar%C4%B1.gif",
+        "genislik": 728,
+        "yukseklik": 356,
+        "orijinalGenislik": 728,
+        "yazar": "Türkiye Cumhuriyet Merkez Bankası",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:9._Emisyon_T%C3%BCrk_banknotlar%C4%B1.gif",
+        "aciklama": "9. Series of Turkish Lira banknotes",
+        "konu": "Türk lirası"
+      }
     },
     {
       "id": "2024-haber-2265270",
@@ -1803,10 +1838,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/borsa-gune-yukselisle-basladi-gozler-abd-baskanlik-secimlerinde-2265270"
       },
-      "konular": [],
+      "konular": [
+        "Borsa İstanbul",
+        "BIST 100",
+        "ABD başkanlık seçimleri"
+      ],
       "yayin": "2024-11-05T10:11:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Borsa İstanbul güne değer kazanarak giriş yaptı",
+      "ozet": "Borsa İstanbul bünyesindeki BIST 100 endeksi, günün ilk işlemlerinde yüzde 0,59 oranında bir artış kaydetti. Endeks, güne 8.714,65 puan seviyesinden başlangıç yaptı. Yatırımcılar ise piyasalardaki hareketliliği takip ederken dikkatlerini Amerika Birleşik Devletleri'nde gerçekleşen başkanlık seçimlerine çevirdi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2137530",
@@ -1819,10 +1861,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-chpnin-yeni-baskani-secildi-secimin-galibi-ozgur-ozel-2137530"
       },
-      "konular": [],
+      "konular": [
+        "Özgür Özel",
+        "Cumhuriyet Halk Partisi",
+        "Siyaset"
+      ],
       "yayin": "2023-11-05T02:50:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhuriyet Halk Partisi Genel Başkanlığına Özgür Özel Seçildi",
+      "ozet": "Cumhuriyet Halk Partisi 38. Olağan Kurultayı kapsamında gerçekleştirilen genel başkanlık seçimleri tamamlandı. Oylama sonucunda Özgür Özel, partinin yeni genel başkanı olarak belirlendi. Kurultay sürecinin ardından parti yönetimi el değiştirdi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/%C3%96zg%C3%BCr_%C3%96zel_rally_in_%C4%B0zmir%2C_May_2026_37_%28cropped%29.jpg/960px-%C3%96zg%C3%BCr_%C3%96zel_rally_in_%C4%B0zmir%2C_May_2026_37_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/%C3%96zg%C3%BCr_%C3%96zel_rally_in_%C4%B0zmir%2C_May_2026_37_%28cropped%29.jpg/500px-%C3%96zg%C3%BCr_%C3%96zel_rally_in_%C4%B0zmir%2C_May_2026_37_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1327,
+        "orijinalGenislik": 1836,
+        "yazar": "Koray",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%96zg%C3%BCr_%C3%96zel_rally_in_%C4%B0zmir,_May_2026_37_(cropped).jpg",
+        "aciklama": "Mutlak butlan kararı sonrası Özgür Özel'in İzmir'deki ilk mitingi",
+        "konu": "Özgür Özel"
+      }
     },
     {
       "id": "2023-haber-2137560",
@@ -1835,10 +1897,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-depremler-deprem-mi-oldu-5-kasim-2023-nerede-ne-zaman-deprem-2137560"
       },
-      "konular": [],
+      "konular": [
+        "Deprem",
+        "Türkiye"
+      ],
       "yayin": "2023-11-05T09:10:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türkiye genelinde kaydedilen güncel sarsıntılar",
+      "ozet": "Ülke genelinde meydana gelen sarsıntıları hisseden vatandaşlar, depremlerin merkez üssü ve şiddeti hakkında bilgi edinmek için arayışa geçti. İlgili kurumlar tarafından paylaşılan veriler, gün içerisinde gerçekleşen sarsıntıların konumlarını ve büyüklüklerini ortaya koydu. Yaşanan hareketlilikler, bölge halkı tarafından yakından takip edildi.",
+      "kategori": "Afet"
     },
     {
       "id": "2022-haber-2000011",
@@ -1851,10 +1919,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/milli-sporcu-adem-asil-dunya-sampiyonu-oldu-2000011"
       },
-      "konular": [],
+      "konular": [
+        "Adem Asil",
+        "Artistik jimnastik",
+        "Dünya Artistik Jimnastik Şampiyonası"
+      ],
       "yayin": "2022-11-05T21:55:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Adem Asil Artistik Jimnastik Dünya Şampiyonası'nda altın madalya kazandı",
+      "ozet": "İngiltere'de gerçekleştirilen Artistik Jimnastik Dünya Şampiyonası'nda milli sporcu Adem Asil büyük bir başarıya imza attı. Başarılı jimnastikçi, sergilediği performansla dünya şampiyonluğuna ulaşarak altın madalyanın sahibi oldu.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/5._Islamic_Solidarity_Games_2021_Konya_Men_Gymnastics_Individual_all-around_Medal_Ceremony_Adem_Asil_20220810_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/5._Islamic_Solidarity_Games_2021_Konya_Men_Gymnastics_Individual_all-around_Medal_Ceremony_Adem_Asil_20220810_%28cropped%29.jpg",
+        "genislik": 904,
+        "yukseklik": 908,
+        "orijinalGenislik": 904,
+        "yazar": "Astro medya Org. Ltd. ŞTİ.",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:5._Islamic_Solidarity_Games_2021_Konya_Men_Gymnastics_Individual_all-around_Medal_Ceremony_Adem_Asil_20220810_(cropped).jpg",
+        "aciklama": "CİMNASTİK ERKEKLER BİREYSEL",
+        "konu": "Adem Asil"
+      }
     },
     {
       "id": "2022-haber-1999996",
@@ -1867,10 +1955,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/chpli-oguz-kaan-salicidan-erdogana-millet-masasi-burnunuzdan-fitil-fitil-getirene-kadar-calismaya-devam-edecek-1999996"
       },
-      "konular": [],
+      "konular": [
+        "Oğuz Kaan Salıcı",
+        "Cumhuriyet Halk Partisi",
+        "Keçiören"
+      ],
       "yayin": "2022-11-05T19:19:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Oğuz Kaan Salıcı Keçiören'de Yeni Üyelerle Bir Araya Geldi",
+      "ozet": "Cumhuriyet Halk Partisi Genel Başkan Yardımcısı Oğuz Kaan Salıcı, Ankara'nın Keçiören ilçesinde düzenlenen etkinlikte partiye katılan yeni üyelerin rozetlerini taktı. Salıcı, burada yaptığı konuşmada iktidara yönelik eleştirilerde bulunarak çalışmalarını sürdüreceklerini ifade etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2021-haber-1882345",
@@ -1883,10 +1978,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/erdoganin-adalar-karari-ibbnin-yetkisi-cevre-sehircilik-ve-iklim-degisikligi-bakanligina-verildi-1882345"
       },
-      "konular": [],
+      "konular": [
+        "Adalar, İstanbul",
+        "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+        "İstanbul Büyükşehir Belediyesi"
+      ],
       "yayin": "2021-11-05T14:38:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Adalar bölgesindeki imar yetkisi bakanlığa devredildi",
+      "ozet": "Cumhurbaşkanı kararıyla Marmara Denizi ve Adalar bölgesi özel çevre koruma alanı olarak belirlendi. Bu düzenleme neticesinde Adalar ilçesindeki imar planlarını hazırlama ve onaylama yetkisi İstanbul Büyükşehir Belediyesi'nden alınarak Çevre, Şehircilik ve İklim Değişikliği Bakanlığı'na aktarıldı. Konuyla ilgili açıklama yapan İstanbul Büyükşehir Belediyesi İmar ve Şehircilik Daire Başkanı Gürkan Akgün, kararın bölgedeki planlama süreçlerinde değişikliğe yol açtığını ifade etti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Princes_islands.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Princes_islands.jpg",
+        "genislik": 780,
+        "yukseklik": 390,
+        "orijinalGenislik": 780,
+        "yazar": "Bulent Özden & Museum of the Princes' Islands",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Princes_islands.jpg",
+        "aciklama": "A photograph from the exhibition \"Aerial Islands\" by the Museum of the Princes' Islands",
+        "konu": "Adalar, İstanbul"
+      }
     },
     {
       "id": "2021-haber-1882227",
@@ -1899,10 +2014,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika-piyasalarda-son-durum-dolar-ne-kadar-oldu-5-kasim-2021-1882227"
       },
-      "konular": [],
+      "konular": [
+        "Dolar",
+        "Döviz kuru",
+        "Ekonomi"
+      ],
       "yayin": "2021-11-05T09:12:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Dolar kurunda hareketlilik ve küresel piyasa beklentileri",
+      "ozet": "Dolar ve Türk lirası paritesi 9.85 seviyesine yakın bir noktada dalgalı bir seyir izledi. Yatırımcılar gün içerisinde Amerika Birleşik Devletleri kaynaklı ekonomik verileri ve küresel piyasalardaki dolar hareketlerini yakından takip etti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2020-haber-1788672",
@@ -1915,10 +2037,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-izmir-depremi-aciklamasi-1788672"
       },
-      "konular": [],
+      "konular": [
+        "1939 Erzincan depremi",
+        "Recep Tayyip Erdoğan",
+        "Cumhuriyet Halk Partisi"
+      ],
       "yayin": "2020-11-05T12:27:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhurbaşkanı Erdoğan'dan Erzincan Depremi Üzerinden Eleştiri",
+      "ozet": "Adalet ve Kalkınma Partisi Genel Merkezi'nde düzenlenen Genişletilmiş İl Başkanları Toplantısı'nda konuşan Recep Tayyip Erdoğan, 1939 yılında yaşanan Erzincan depremini gündeme getirdi. Erdoğan, söz konusu dönemdeki uygulamalar üzerinden Cumhuriyet Halk Partisi'ne yönelik eleştirilerde bulundu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2020-haber-1788533",
@@ -1931,10 +2060,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bidendan-secim-konusmasi-kazandigimizi-ilan-etmek-icin-degil-sayimlar-bittiginde-kazanan-olacagimiza-inandigimizi-1788533"
       },
-      "konular": [],
+      "konular": [
+        "2020 Amerika Birleşik Devletleri başkanlık seçimleri",
+        "Joe Biden",
+        "Amerika Birleşik Devletleri"
+      ],
       "yayin": "2020-11-05T00:26:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Joe Biden seçim sonuçlarına ilişkin değerlendirmelerde bulundu",
+      "ozet": "Amerika Birleşik Devletleri başkanlık seçimlerinde oy sayım süreci devam ederken Demokrat Parti adayı Joe Biden bir açıklama yaptı. Biden konuşmasında henüz zaferini ilan etmediğini ancak oy sayım işlemleri tamamlandığında seçimi kazanacağına dair inancının tam olduğunu ifade etti. Tüm dünyanın yakından takip ettiği seçimlerin sonucu merakla bekleniyor.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Joe_Biden_2021_%284x5%29.png/960px-Joe_Biden_2021_%284x5%29.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Joe_Biden_2021_%284x5%29.png/500px-Joe_Biden_2021_%284x5%29.png",
+        "genislik": 960,
+        "yukseklik": 1200,
+        "orijinalGenislik": 2400,
+        "yazar": "Adam Schultz",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Joe_Biden_2021_(4x5).png",
+        "aciklama": "U.S. President Joe Biden's official portrait, 2021",
+        "konu": "2020 Amerika Birleşik Devletleri başkanlık seçimleri"
+      }
     },
     {
       "id": "2019-haber-1700186",
@@ -1947,10 +2096,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/16-yasindaki-seherin-hedefi-turkiye-sampiyonlugu-1700186"
       },
-      "konular": [],
+      "konular": [
+        "Halter",
+        "Antalya"
+      ],
       "yayin": "2019-11-05T09:52:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Genç halterci Seher Nur Polat şampiyonluk için ter döküyor",
+      "ozet": "Antalya'da yaşayan on altı yaşındaki Seher Nur Polat, bir yıl önce adım attığı halter sporunda Türkiye şampiyonasına katılmak için çalışmalarını sürdürüyor. Genç sporcu, yoğun antrenman programının dışında kalan vakitlerinde ise pazarcılık yapan babasına tezgahta destek veriyor.",
+      "kategori": "Spor"
     },
     {
       "id": "2019-haber-1700206",
@@ -1963,10 +2118,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/depremle-batti-istanbulun-kayip-adasi-ilk-kez-havadan-goruntulendi-1700206"
       },
-      "konular": [],
+      "konular": [
+        "Vordonisi",
+        "Maltepe",
+        "İstanbul"
+      ],
       "yayin": "2019-11-05T11:14:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İstanbul'un sular altında kalan adası Vordonisi görüntülendi",
+      "ozet": "Maltepe açıklarında bulunan ve yaklaşık bin yıl önce meydana gelen depremler sonucunda sulara gömülen Vordonisi Adası havadan kaydedildi. İstanbul'un onuncu adası olarak kabul edilen bu bölge, Prof. Dr. Şener Üşümezsoy'un açıklamalarına göre 6,5 büyüklüğündeki sarsıntılar neticesinde batmıştı. Uzun süredir gözlerden uzak kalan bu tarihi kalıntı, gerçekleştirilen çekimlerle ilk kez bu şekilde belgelenmiş oldu.",
+      "kategori": "Keşif",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%C4%B0dealtepe%2C_Kadir_%C3%87avu%C5%9F_Sk._No-1%2C_34841_Maltepe-%C4%B0stanbul%2C_Turkey_-_panoramio.jpg/960px-%C4%B0dealtepe%2C_Kadir_%C3%87avu%C5%9F_Sk._No-1%2C_34841_Maltepe-%C4%B0stanbul%2C_Turkey_-_panoramio.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%C4%B0dealtepe%2C_Kadir_%C3%87avu%C5%9F_Sk._No-1%2C_34841_Maltepe-%C4%B0stanbul%2C_Turkey_-_panoramio.jpg/500px-%C4%B0dealtepe%2C_Kadir_%C3%87avu%C5%9F_Sk._No-1%2C_34841_Maltepe-%C4%B0stanbul%2C_Turkey_-_panoramio.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 5015,
+        "yazar": "Alexey Komarov",
+        "lisans": "CC BY 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0dealtepe,_Kadir_%C3%87avu%C5%9F_Sk._No-1,_34841_Maltepe-%C4%B0stanbul,_Turkey_-_panoramio.jpg",
+        "aciklama": "İdealtepe, Kadir Çavuş Sk. No:1, 34841 Maltepe/İstanbul, Turkey",
+        "konu": "Maltepe"
+      }
     },
     {
       "id": "2018-haber-1132173",
@@ -1979,10 +2154,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/abdnin-yaptirim-karari-sonrasi-dolarda-son-durum-1132173"
       },
-      "konular": [],
+      "konular": [
+        "Döviz kuru",
+        "Borsa İstanbul",
+        "İran yaptırımları"
+      ],
       "yayin": "2018-11-05T17:51:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İran yaptırımları muafiyeti sonrası döviz kurlarında düşüş yaşandı",
+      "ozet": "Amerika Birleşik Devletleri tarafından uygulanan İran yaptırımları kapsamında Türkiye'nin muaf tutulacağı duyuruldu. Bu gelişmenin ardından döviz piyasalarında hareketlilik gözlendi ve dolar, avro ile sterlin değer kaybetti. Aynı gün içerisinde Borsa İstanbul Endeksi ise yükseliş göstererek günü kazançla tamamladı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2018-haber-1132164",
@@ -1995,10 +2177,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fikret-orman-bu-sene-sampiyon-olacagiz-1132164"
       },
-      "konular": [],
+      "konular": [
+        "Fikret Orman",
+        "Beşiktaş JK"
+      ],
       "yayin": "2018-11-05T17:43:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Fikret Orman Beşiktaş'ın Şampiyonluk Hedefini Açıkladı",
+      "ozet": "Beşiktaş Kulübü Başkanı Fikret Orman, Nevzat Demir Tesisleri'nde basın mensuplarıyla bir araya geldi. Orman, yaptığı değerlendirmelerde sezon sonu itibarıyla şampiyonluğa ulaşacaklarına dair inancını dile getirdi.",
+      "kategori": "Spor"
     },
     {
       "id": "2017-haber-860097",
@@ -2011,10 +2199,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpli-belediyeden-referandum-karari-860097"
       },
-      "konular": [],
+      "konular": [
+        "Avcılar",
+        "Semt pazarı",
+        "Referandum"
+      ],
       "yayin": "2017-11-05T14:35:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Avcılar'da semt pazarının yeri için halk oylamasına gidildi",
+      "ozet": "Avcılar Merkez Mahallesi'nde haftalık olarak kurulan semt pazarının başka bir alana taşınması konusu mahalle sakinlerinin katılımıyla oylandı. Pazarın geleceği hakkındaki tartışmaların ardından belediye yönetimi, kararı doğrudan bölge halkına bırakarak sandık kurulmasını sağladı. Vatandaşlar, pazarın mevcut yerinde kalıp kalmayacağına dair tercihlerini oylarıyla belirledi.",
+      "kategori": "Toplum"
     },
     {
       "id": "2017-haber-860050",
@@ -2027,10 +2222,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/marmarada-depremin-tsunamiye-sebep-olma-ihtimali-yuzde-10-civarinda-860050"
       },
-      "konular": [],
+      "konular": [
+        "Tsunami",
+        "Marmara Denizi",
+        "Kandilli Rasathanesi"
+      ],
       "yayin": "2017-11-05T12:54:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Marmara Denizi'nde Deprem Kaynaklı Tsunami Riski Değerlendirildi",
+      "ozet": "Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü Müdürü Prof. Dr. Haluk Özener, bölgedeki sismik hareketliliğe dair açıklamalarda bulundu. Özener, Akdeniz ve Marmara Denizi sınırları içerisinde meydana gelebilecek yedi büyüklüğünün üzerindeki bir sarsıntının tsunami oluşturma olasılığının yüzde on seviyesinde olduğunu belirtti.",
+      "kategori": "Bilim",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/2004_Indian_Ocean_earthquake_Maldives_tsunami_wave.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/2004_Indian_Ocean_earthquake_Maldives_tsunami_wave.jpg",
+        "genislik": 400,
+        "yukseklik": 300,
+        "orijinalGenislik": 400,
+        "yazar": "Sofwathulla Mohamed",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:2004_Indian_Ocean_earthquake_Maldives_tsunami_wave.jpg",
+        "aciklama": "The tsunami that struck Malé in the Maldives on December 26, 2004 The photograph was taken by Sofwathulla Mohamed while standing on his doorstep. His apartment was entirely washed out damaging all his",
+        "konu": "Tsunami"
+      }
     },
     {
       "id": "2016-haber-626552",
@@ -2043,10 +2258,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/halkin-sampiyonu-fakirlere-200-milyon-dolar-bagisladi-626552"
       },
-      "konular": [],
+      "konular": [
+        "Manny Pacquiao",
+        "Boks",
+        "Filipinler"
+      ],
       "yayin": "2016-11-05T15:19:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Manny Pacquiao ihtiyaç sahiplerine büyük miktarda bağışta bulundu",
+      "ozet": "Dünyaca tanınan Filipinli boksör Manny Pacquiao, kariyeri boyunca elde ettiği kazançtan ihtiyaç sahiplerine önemli bir pay ayırdığını duyurdu. Sporcu, bugüne kadar yoksul durumdaki kişilere toplamda 200 milyon Dolar tutarında yardım yaptığını ifade etti.",
+      "kategori": "Toplum"
     },
     {
       "id": "2016-haber-626669",
