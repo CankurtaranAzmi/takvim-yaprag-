@@ -10,10 +10,10 @@
         "Diyarbekir Eyaleti",
         "Bıyıklı Mehmed Paşa"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Diyarbekir Eyaleti'nin Kurulması ve İlk Beylerbeyi",
+      "ozet": "Osmanlı İmparatorluğu'nun doğu sınırlarını genişletme ve bölgedeki hakimiyetini kalıcı hale getirme stratejisinin bir parçası olarak 1515 yılında Diyarbekir Eyaleti teşkil edildi. Bu idari düzenleme ile bölgenin merkezi Diyarbakır kabul edilerek doğrudan merkeze bağlı bir eyalet yapısı oluşturuldu. Söz konusu eyalet, Osmanlı'nın bölgedeki askeri ve idari otoritesini pekiştirmesi açısından kritik bir rol üstlendi.\n\nEyaletin ilk beylerbeyi olarak atanan Bıyıklı Mehmet Paşa, bölgedeki Safevi etkisinin kırılmasında ve Osmanlı egemenliğinin tesis edilmesinde önemli hizmetler vermiş bir devlet adamıydı. Fırat-Dicle Seferi'ndeki başarılarıyla tanınan ve bu nedenle Fatih Paşa unvanıyla da anılan Mehmet Paşa, eyaletin idari yapısının kurulmasında ve bölgenin güvenliğinin sağlanmasında temel figür oldu. Bu atama, Osmanlı Devleti'nin doğu topraklarındaki yönetim modelini yerleşik bir sisteme dönüştürme iradesini yansıtmaktadır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Diyarbarik_Eyalet%2C_Ottoman_Empire_%281609%29.png/960px-Diyarbarik_Eyalet%2C_Ottoman_Empire_%281609%29.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Diyarbarik_Eyalet%2C_Ottoman_Empire_%281609%29.png/500px-Diyarbarik_Eyalet%2C_Ottoman_Empire_%281609%29.png",
@@ -26,7 +26,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Diyarbarik_Eyalet,_Ottoman_Empire_(1609).png",
         "aciklama": "Diyarbarik Eyalet, Ottoman Empire (1609). Source: Encyclopedia of the Ottoman Empire at Google Books By Gábor Ágoston, Bruce Alan Masters",
         "konu": "Diyarbekir Eyaleti"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1737-italyanin-napoli-kentinde-san-carlo-tiyatrosu-acildi",
@@ -37,51 +38,24 @@
         "Napoli",
         "San Carlo Tiyatrosu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Dünyanın En Eski Opera Evlerinden Biri: San Carlo Tiyatrosu",
+      "ozet": "Napoli'nin kültürel mirasının en önemli simgelerinden biri olan San Carlo Tiyatrosu, 1737 yılının Kasım ayında görkemli bir törenle hizmete girdi. İtalya'nın ve dünyanın en köklü opera binaları arasında yer alan bu yapı, açıldığı günden bu yana Avrupa'nın lirik opera geleneğinin merkezlerinden biri olma özelliğini korumaktadır. Mimari estetiği ve akustiğiyle döneminin ötesinde bir sanat merkezi olarak tasarlanan tiyatro, Napoli'nin tarihsel süreçteki sanatsal kimliğinin güçlenmesine büyük katkı sağlamıştır.\n\nGünümüzde hala aktif olarak kullanılan San Carlo Tiyatrosu, sadece bir performans mekanı değil, aynı zamanda UNESCO Dünya Mirası listesinde yer alan tarihi Napoli şehir dokusunun ayrılmaz bir parçasıdır. Avrupa'da kesintisiz olarak hizmet veren en eski opera binalarından biri olması, onu hem mimarlık tarihi hem de müzik dünyası açısından eşsiz bir konuma yerleştirir. Yüzyıllar boyunca pek çok ünlü besteciye ve sanatçıya ev sahipliği yapan bu yapı, İtalyan kültürünün dünyaya açılan pencerelerinden biri olarak kabul edilmektedir.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg/960px-Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg/500px-Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Teatro_de_San_Carlos%2C_N%C3%A1poles%2C_Italia%2C_2023-03-25%2C_DD_184-186_HDR.jpg/960px-Teatro_de_San_Carlos%2C_N%C3%A1poles%2C_Italia%2C_2023-03-25%2C_DD_184-186_HDR.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Teatro_de_San_Carlos%2C_N%C3%A1poles%2C_Italia%2C_2023-03-25%2C_DD_184-186_HDR.jpg/500px-Teatro_de_San_Carlos%2C_N%C3%A1poles%2C_Italia%2C_2023-03-25%2C_DD_184-186_HDR.jpg",
         "genislik": 960,
-        "yukseklik": 641,
-        "orijinalGenislik": 7360,
-        "yazar": "This Photo was taken by Wolfgang Moroder. Feel free to use my photos, but please mention me as the author and send me a message. This image ",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg",
-        "aciklama": "View of the gulf of Naples from the Castel Sant'Elmo with the Certosa di San Martino.",
-        "konu": "Napoli"
+        "yukseklik": 615,
+        "orijinalGenislik": 6626,
+        "yazar": "Diego Delso",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Teatro_de_San_Carlos,_N%C3%A1poles,_Italia,_2023-03-25,_DD_184-186_HDR.jpg",
+        "aciklama": "San Carlo Theater, Naples, Italy",
+        "konu": "San Carlo Tiyatrosu"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg/960px-Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg/500px-Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg",
-          "genislik": 960,
-          "yukseklik": 641,
-          "orijinalGenislik": 7360,
-          "yazar": "This Photo was taken by Wolfgang Moroder. Feel free to use my photos, but please mention me as the author and send me a message. This image ",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg",
-          "aciklama": "View of the gulf of Naples from the Castel Sant'Elmo with the Certosa di San Martino.",
-          "konu": "Napoli"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Teatro_de_San_Carlos%2C_N%C3%A1poles%2C_Italia%2C_2023-03-25%2C_DD_184-186_HDR.jpg/960px-Teatro_de_San_Carlos%2C_N%C3%A1poles%2C_Italia%2C_2023-03-25%2C_DD_184-186_HDR.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Teatro_de_San_Carlos%2C_N%C3%A1poles%2C_Italia%2C_2023-03-25%2C_DD_184-186_HDR.jpg/500px-Teatro_de_San_Carlos%2C_N%C3%A1poles%2C_Italia%2C_2023-03-25%2C_DD_184-186_HDR.jpg",
-          "genislik": 960,
-          "yukseklik": 615,
-          "orijinalGenislik": 6626,
-          "yazar": "Diego Delso",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Teatro_de_San_Carlos,_N%C3%A1poles,_Italia,_2023-03-25,_DD_184-186_HDR.jpg",
-          "aciklama": "San Carlo Theater, Naples, Italy",
-          "konu": "San Carlo Tiyatrosu"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1757-30-ekim-gunu-tahta-cikan-iii-mustafanin",
@@ -91,10 +65,10 @@
         "III. Mustafa",
         "Ömer bin Hattab"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "III. Mustafa'nın Kılıç Kuşanma Töreni",
+      "ozet": "Osmanlı İmparatorluğu'nun 26. padişahı olan III. Mustafa, 1757 yılında gerçekleşen törenle resmen kılıç kuşandı. Uzun yıllar süren kafes hayatının ardından tahta çıkan padişahın bu töreni, Osmanlı devlet geleneğinde hükümdarın meşruiyetini ve otoritesini pekiştiren en önemli ritüellerden biri olarak kabul edilir. Tören sırasında kullanılan kılıcın, İslam tarihinin önemli figürlerinden biri olan ikinci halife Ömer bin Hattab'a ait olduğuna inanılması, padişahın halifelik makamına atfettiği önemi ve tarihsel süreklilik vurgusunu simgelemektedir.\n\nIII. Mustafa'nın tahta geçişi, imparatorluğun iç ve dış siyasette zorlu bir dönemden geçtiği bir sürece denk gelmiştir. Kılıç kuşanma töreni, sadece bir gelenek değil, aynı zamanda yeni padişahın devletin hem siyasi hem de dini lideri olarak kabul edildiğinin bir ilanı niteliğindeydi. Ömer bin Hattab'a atfedilen kılıcın tercih edilmesi, Osmanlı padişahlarının İslam dünyasındaki liderlik iddialarını ve geçmişin büyük devlet adamlarıyla kurdukları manevi bağı göstermesi açısından tarihsel bir sembolizm taşımaktadır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mustafa3.jpg/960px-Mustafa3.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mustafa3.jpg/500px-Mustafa3.jpg",
@@ -108,34 +82,7 @@
         "aciklama": null,
         "konu": "III. Mustafa"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mustafa3.jpg/960px-Mustafa3.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mustafa3.jpg/500px-Mustafa3.jpg",
-          "genislik": 960,
-          "yukseklik": 1364,
-          "orijinalGenislik": 1084,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mustafa3.jpg",
-          "aciklama": null,
-          "konu": "III. Mustafa"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Hagia_Sopia_6163502494_%28cropped%29.jpg/960px-Hagia_Sopia_6163502494_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Hagia_Sopia_6163502494_%28cropped%29.jpg/500px-Hagia_Sopia_6163502494_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 983,
-          "orijinalGenislik": 2431,
-          "yazar": "William Neuheisel from DC, US [cropped by Fazoffic]",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Hagia_Sopia_6163502494_(cropped).jpg",
-          "aciklama": "Umar medallion in Hagia Sophia, Türkiye",
-          "konu": "Ömer bin Hattab"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1875-kadinlar-icin-ayine-dergisi-selanikte-yayina-basladi",
@@ -145,23 +92,12 @@
         "Kadınlar İçin Ayine",
         "Selanik"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Tower_of_Thessaloniki_-_panoramio.jpg/960px-Tower_of_Thessaloniki_-_panoramio.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Tower_of_Thessaloniki_-_panoramio.jpg/500px-Tower_of_Thessaloniki_-_panoramio.jpg",
-        "genislik": 960,
-        "yukseklik": 974,
-        "orijinalGenislik": 1704,
-        "yazar": "fabiolah",
-        "lisans": "CC BY 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Tower_of_Thessaloniki_-_panoramio.jpg",
-        "aciklama": "Tower of Thessaloniki",
-        "konu": "Selanik"
-      }
+      "baslik": "Selanik'te Kadınlara Yönelik İlk Yayınlardan: Ayine Dergisi",
+      "ozet": "Osmanlı İmparatorluğu'nun önemli kültür ve ticaret merkezlerinden biri olan Selanik'te, 1875 yılının Kasım ayında kadın okurlara hitap eden Ayine adlı dergi yayımlanmaya başladı. Dönemin sosyal yapısı içerisinde kadınların eğitimine, toplumsal rollerine ve kültürel gelişimine odaklanan yayınlar, Osmanlı basın tarihinde önemli bir boşluğu dolduruyordu. Ayine, kadınların entelektüel dünyasına katkı sağlamayı amaçlayan ve dönemin fikir akımlarını yansıtan bir platform olarak öne çıktı.\n\nBu tür dergiler, Tanzimat sonrası dönemde Osmanlı toplumunda yaşanan modernleşme çabalarının bir parçası olarak değerlendirilebilir. Kadınların kamusal alandaki görünürlüğünün artmaya başladığı bu yıllarda, Ayine gibi yayınlar sadece edebi metinler sunmakla kalmıyor, aynı zamanda kadınların toplumsal meselelere bakışını şekillendiren bir mecra görevi görüyordu. Selanik'in çok kültürlü yapısı içerisinde neşredilen bu dergi, Osmanlı basın hayatında kadın odaklı yayıncılığın gelişim sürecine dair önemli bir örnek teşkil etmektedir.",
+      "kategori": "Edebiyat",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1879-amerikali-james-j-ritty-yazar-kasayi-gelistirdi",
@@ -185,51 +121,24 @@
         "Bağdat",
         "Haydarpaşa Garı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İstanbul'un Simgesi Haydarpaşa Garı'nın Açılışı",
+      "ozet": "İstanbul'un Anadolu yakasında, Kadıköy kıyısında yer alan Haydarpaşa Garı, Osmanlı İmparatorluğu'nun modernleşme çabalarının ve demiryolu ağını genişletme vizyonunun en somut göstergelerinden biri olarak inşa edilmiştir. Alman mimarlar Otto von Kühlmann ve Hellmuth Cuno tarafından neoklasik Alman üslubuyla tasarlanan bu görkemli yapı, sadece bir ulaşım merkezi değil, aynı zamanda dönemin mimari estetiğini yansıtan bir simge haline gelmiştir. Bağdat Demiryolu projesinin başlangıç noktası olarak planlanan gar, İstanbul'u Anadolu'ya ve oradan da Orta Doğu'ya bağlayan stratejik bir köprü görevi üstlenmiştir.\n\nGar binasının hizmete girmesi, Osmanlı topraklarında demiryolu ulaşımının önem kazandığı bir döneme denk gelmektedir. Yıllar içerisinde İstanbul'un en ikonik yapılarından biri haline gelen Haydarpaşa, uzun süre boyunca şehirler arası yolculukların ve banliyö taşımacılığının merkezi olmuştur. Günümüzde ise tarihi dokusu korunarak farklı kültürel işlevlerle varlığını sürdüren gar, hem mimari değeri hem de toplumsal hafızadaki yeriyle İstanbul'un en önemli kültürel mirasları arasında kabul edilmektedir.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/5628442718_b10fc2c47f_o.jpg/960px-5628442718_b10fc2c47f_o.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/5628442718_b10fc2c47f_o.jpg/500px-5628442718_b10fc2c47f_o.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Haydarpa%C5%9Fa_%282024%29.jpg/960px-Haydarpa%C5%9Fa_%282024%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Haydarpa%C5%9Fa_%282024%29.jpg/500px-Haydarpa%C5%9Fa_%282024%29.jpg",
         "genislik": 960,
-        "yukseklik": 630,
-        "orijinalGenislik": 2000,
-        "yazar": "USACE HQ , JIM GORDAN, CIV, USACE",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:5628442718_b10fc2c47f_o.jpg",
-        "aciklama": "This is an aerial view of the former Republican Palace (foreground), which served as both the prime ceremonial palace used by Saddam Hussein and the Headquarters for the now defunct Iraqi Republican G",
-        "konu": "Bağdat"
+        "yukseklik": 720,
+        "orijinalGenislik": 3000,
+        "yazar": "Ail Subway",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Haydarpa%C5%9Fa_(2024).jpg",
+        "aciklama": "Haydarpaşa Terminus as of 2024",
+        "konu": "Haydarpaşa Garı"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/5628442718_b10fc2c47f_o.jpg/960px-5628442718_b10fc2c47f_o.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/5628442718_b10fc2c47f_o.jpg/500px-5628442718_b10fc2c47f_o.jpg",
-          "genislik": 960,
-          "yukseklik": 630,
-          "orijinalGenislik": 2000,
-          "yazar": "USACE HQ , JIM GORDAN, CIV, USACE",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:5628442718_b10fc2c47f_o.jpg",
-          "aciklama": "This is an aerial view of the former Republican Palace (foreground), which served as both the prime ceremonial palace used by Saddam Hussein and the Headquarters for the now defunct Iraqi Republican G",
-          "konu": "Bağdat"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Haydarpa%C5%9Fa_%282024%29.jpg/960px-Haydarpa%C5%9Fa_%282024%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Haydarpa%C5%9Fa_%282024%29.jpg/500px-Haydarpa%C5%9Fa_%282024%29.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 3000,
-          "yazar": "Ail Subway",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Haydarpa%C5%9Fa_(2024).jpg",
-          "aciklama": "Haydarpaşa Terminus as of 2024",
-          "konu": "Haydarpaşa Garı"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1918-yunanistan-sosyalist-emek-partisi-nbsp-kuruldu-parti",
@@ -278,10 +187,10 @@
         "Howard Carter",
         "Tutankamon"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Arkeoloji Tarihinin En Büyük Keşfi: Tutankamon'un Mezarı",
+      "ozet": "İngiliz arkeolog Howard Carter, yıllar süren titiz çalışmalarının ardından 4 Kasım 1922 tarihinde Mısır'ın Krallar Vadisi'nde firavun Tutankamon'un mezarını gün yüzüne çıkardı. Bu keşif, modern arkeoloji dünyasının en önemli olaylarından biri olarak kabul edilir; zira mezar, antik dönemden bu yana yağmalanmadan günümüze ulaşabilen nadir kraliyet mezarlarından biriydi. Carter'ın bulduğu bu alan, firavunun mumyasıyla birlikte binlerce paha biçilemez tarihi eseri de barındırıyordu.\n\nTutankamon, Mısır'ın 18. hanedanlığı döneminde hüküm sürmüş, genç yaşta tahta çıkıp kısa süre sonra hayatını kaybetmiş bir firavundu. Mezarda bulunan altın maske ve diğer zengin mezar eşyaları, antik Mısır'ın sanat anlayışı, dini ritüelleri ve yaşam tarzı hakkında bilim dünyasına eşsiz bilgiler sundu. Bu keşif, sadece arkeolojik bir başarı değil, aynı zamanda dünya genelinde Mısır tarihine olan ilgiyi zirveye taşıyan kültürel bir fenomen haline geldi. Bugün bile Tutankamon'un mezarı, insanlık tarihinin en çok merak edilen ve üzerinde en çok araştırma yapılan arkeolojik alanlarından biri olma özelliğini korumaktadır.",
+      "kategori": "Keşif",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tutmask.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tutmask.jpg",
@@ -294,7 +203,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Tutmask.jpg",
         "aciklama": "Golden funeral mask of king Tutankhamun",
         "konu": "Tutankamon"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1933-yunanistan-hukumeti-mustafa-kemal-pasanin-dogdugu-eve",
@@ -304,10 +214,10 @@
         "Yunanistan",
         "Mustafa Kemal Atatürk"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Atatürk'ün Selanik'teki Evine Anı Levhası Asıldı",
+      "ozet": "Mustafa Kemal Atatürk'ün 1881 yılında dünyaya geldiği Selanik'teki ev, 4 Kasım 1933 tarihinde Yunanistan hükümeti tarafından atılan anlamlı bir adımla onurlandırıldı. Evin girişine asılan levhada, Atatürk'ün Türk milletinin büyük bir yenilikçisi olduğu ve Balkan ülkeleri arasındaki birliğin destekçisi olduğu vurgulandı. Bu jest, o dönemde Türkiye ile Yunanistan arasında gelişen dostluk ve iş birliği atmosferinin somut bir göstergesi olarak kabul edildi.\n\nKurtuluş Savaşı'nın ardından Türkiye Cumhuriyeti'nin kurucusu olan Atatürk, dış politikada barışçıl bir yaklaşımı benimsemiş ve komşu ülkelerle ilişkilerin geliştirilmesine büyük önem vermişti. Özellikle Yunanistan ile kurulan bu yeni dönemdeki diplomatik yakınlaşma, bölgedeki istikrarın korunması adına kritik bir rol oynadı. Selanik'teki bu ev, günümüzde de iki ülke arasındaki tarihsel bağların ve barışçıl ilişkilerin sembollerinden biri olarak varlığını sürdürmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -320,7 +230,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
         "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
         "konu": "Mustafa Kemal Atatürk"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1937-mark-twain-cemiyeti-ataturke-madalya-verdi",
@@ -329,10 +240,10 @@
       "konular": [
         "Mark Twain"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Mark Twain Cemiyeti'nden Atatürk'e Onur Madalyası",
+      "ozet": "Mark Twain Cemiyeti, 1937 yılının Kasım ayında Mustafa Kemal Atatürk'e bir onur madalyası vererek kendisini onurlandırdı. Bu ödül, dönemin uluslararası entelektüel çevrelerinin Türkiye'de gerçekleştirilen modernleşme ve reform hareketlerine olan ilgisini ve takdirini simgeleyen sembolik bir adım olarak kabul edilmektedir. Mark Twain'in mirasını yaşatmak amacıyla kurulan bu cemiyet, edebiyat ve düşünce dünyasındaki saygınlığıyla bilinen bir kuruluştu.\n\nAtatürk'ün liderliğinde yürütülen çağdaşlaşma süreci, sadece siyasi ve askeri bir başarı olarak değil, aynı zamanda kültürel bir dönüşüm olarak da dünya genelinde yankı buluyordu. Cemiyetin bu madalyayı takdim etmesi, Türkiye Cumhuriyeti'nin kurucusunun evrensel değerlere ve aydınlanma ideallerine olan bağlılığının uluslararası platformlarda tescil edildiğini göstermektedir. Bu tür diplomatik ve kültürel jestler, genç Cumhuriyet'in dünya devletleri nezdindeki prestijini artırmış ve Türkiye'nin Batı dünyasıyla kurduğu entelektüel köprüleri güçlendirmiştir.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mark_Twain_by_AF_Bradley.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mark_Twain_by_AF_Bradley.jpg",
@@ -345,7 +256,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Mark_Twain_by_AF_Bradley.jpg",
         "aciklama": "A portrait of the American writer Mark Twain taken by A. F. Bradley in New York, 1907.[1][2][3]",
         "konu": "Mark Twain"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1940-birlesik-krallik-giriti-isgal-etti",
@@ -355,23 +267,12 @@
         "Birleşik Krallık",
         "Girit"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Island_of_Crete%2C_Greece.JPG/960px-Island_of_Crete%2C_Greece.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Island_of_Crete%2C_Greece.JPG/500px-Island_of_Crete%2C_Greece.JPG",
-        "genislik": 960,
-        "yukseklik": 639,
-        "orijinalGenislik": 4256,
-        "yazar": "ISS Expedition 28 crew",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Island_of_Crete,_Greece.JPG",
-        "aciklama": "The western and central parts of Crete appear surrounded by quicksilver in this astronaut photograph taken from the International Space Station. This phenomenon is known as sunglint, caused by light r",
-        "konu": "Girit"
-      }
+      "baslik": "İkinci Dünya Savaşı'nda Birleşik Krallık'ın Girit Hamlesi",
+      "ozet": "İkinci Dünya Savaşı'nın devam ettiği 1940 yılının Kasım ayında, Birleşik Krallık stratejik bir karar alarak Akdeniz'deki hakimiyetini güçlendirmek amacıyla Girit adasına asker çıkardı. Bu hamle, İngiliz donanmasının bölgedeki operasyonel kapasitesini artırmayı ve Mihver Devletleri'nin Doğu Akdeniz'deki hareket alanını kısıtlamayı hedefliyordu. Girit, coğrafi konumu itibarıyla hem deniz hem de hava yollarının kontrolü açısından kritik bir öneme sahipti.\n\nİngilizlerin adaya yerleşmesi, bölgedeki askeri dengeleri doğrudan etkiledi. Girit'in kontrolü, İngilizlerin İtalya ve Almanya'nın bölgedeki faaliyetlerini izlemesi ve karşı hamleler geliştirmesi için hayati bir üs sağladı. Ancak bu durum, adanın ilerleyen dönemlerde şiddetli çatışmalara sahne olmasına ve stratejik bir çekişme noktasına dönüşmesine yol açtı. İngiltere'nin bu adımı, savaşın Akdeniz cephesindeki seyrini belirleyen önemli dönüm noktalarından biri olarak kabul edilir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1947-bulgaristan-halk-cumhuriyeti-ilan-edildi",
@@ -394,10 +295,10 @@
         "Avrupa İnsan Hakları Sözleşmesi",
         "Bölgesel ve Azınlık Diller Avrupa Şartı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Avrupa İnsan Hakları Sözleşmesi İmzaya Açıldı",
+      "ozet": "Avrupa Konseyi üyesi devletler, kıta genelinde temel hak ve özgürlükleri koruma altına almak amacıyla hazırlanan Avrupa İnsan Hakları Sözleşmesi'ni 4 Kasım 1950 tarihinde Roma'da imzaya açtı. İkinci Dünya Savaşı'nın ardından Avrupa'da demokrasiyi ve hukukun üstünlüğünü yeniden inşa etme çabalarının bir parçası olan bu belge, bireylerin devletlere karşı korunmasını hedefleyen kapsamlı bir hukuki çerçeve oluşturdu. Sözleşme, 1948 tarihli İnsan Hakları Evrensel Bildirisi'nden ilham alsa da, onu hukuki açıdan daha ileri bir noktaya taşıdı.\n\nBu sözleşmenin en önemli özelliği, Avrupa İnsan Hakları Mahkemesi'nin kurulmasına zemin hazırlayarak hak ihlallerine karşı uluslararası bir yargı denetimi mekanizması getirmesidir. Sözleşme sayesinde, devletler yalnızca ilkesel düzeyde değil, hukuken bağlayıcı bir sistem içerisinde bireysel başvuru hakkını da tanımış oldu. Günümüzde Avrupa Konseyi'ne üye tüm devletlerin taraf olduğu bu metin, Avrupa hukuk sisteminin temel taşı kabul edilmekte ve bireylerin temel haklarının korunmasında en etkili uluslararası araçlardan biri olarak varlığını sürdürmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Cour_europ%C3%A9enne_des_droits_de_l%27homme_%28Strasbourg%29_%281%29.jpg/960px-Cour_europ%C3%A9enne_des_droits_de_l%27homme_%28Strasbourg%29_%281%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Cour_europ%C3%A9enne_des_droits_de_l%27homme_%28Strasbourg%29_%281%29.jpg/500px-Cour_europ%C3%A9enne_des_droits_de_l%27homme_%28Strasbourg%29_%281%29.jpg",
@@ -410,7 +311,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Cour_europ%C3%A9enne_des_droits_de_l%27homme_(Strasbourg)_(1).jpg",
         "aciklama": "Cour européenne des droits de l'homme à Strasbourg (Bas-Rhin, France).",
         "konu": "Avrupa İnsan Hakları Sözleşmesi"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1951-din-dersi-ilkokullarda-ders-programina-alindi",
@@ -431,51 +333,24 @@
         "1952 Amerika Birleşik Devletleri başkanlık seçimleri",
         "Dwight D. Eisenhower"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Dwight D. Eisenhower'ın Başkanlık Seçim Zaferi",
+      "ozet": "İkinci Dünya Savaşı'nın efsanevi komutanlarından biri olan Dwight D. Eisenhower, 1952 yılında düzenlenen Amerika Birleşik Devletleri başkanlık seçimlerinde Demokrat rakibi Adlai Stevenson'ı geride bırakarak ülkenin 34. başkanı seçildi. Bu zafer, Cumhuriyetçi Parti'nin yirmi yıllık bir aradan sonra Beyaz Saray'a geri dönüşünü simgeliyordu. Eisenhower, savaş yıllarındaki askeri başarısı ve halk nezdindeki yüksek popülaritesi sayesinde geniş bir seçmen kitlesinin desteğini almayı başardı.\n\nEisenhower'ın başkanlığı, Soğuk Savaş'ın en gergin dönemlerinden birine denk gelmesi bakımından büyük önem taşır. Avrupa'daki Müttefik Seferi Kuvvetler Yüksek Komutanı olarak edindiği stratejik tecrübe, onun dış politikada daha temkinli ve dengeli bir yaklaşım benimsemesini sağladı. 1953'ten 1961'e kadar süren iki dönemlik başkanlığı boyunca, Amerika'nın küresel ölçekteki etkisini pekiştiren politikalar izledi ve ülkenin ekonomik kalkınmasına odaklanan projeleri hayata geçirdi. Bu seçim, aynı zamanda Amerikan siyasi tarihinde askeri kökenli bir liderin sivil yönetime geçişinin en belirgin örneklerinden biri olarak kabul edilir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Eisenhower_official_cropped.png",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Eisenhower_official_cropped.png",
-        "genislik": 856,
-        "yukseklik": 1128,
-        "orijinalGenislik": 856,
-        "yazar": "White House, cropped by User:0xF8E8",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/960px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/500px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg",
+        "genislik": 960,
+        "yukseklik": 1199,
+        "orijinalGenislik": 2782,
+        "yazar": "White House",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Eisenhower_official_cropped.png",
-        "aciklama": "Cropped portrait of President Eisenhower in 1956",
-        "konu": "1952 Amerika Birleşik Devletleri başkanlık seçimleri"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg",
+        "aciklama": "An official portrait of Dwight D. Eisenhower",
+        "konu": "Dwight D. Eisenhower"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Eisenhower_official_cropped.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Eisenhower_official_cropped.png",
-          "genislik": 856,
-          "yukseklik": 1128,
-          "orijinalGenislik": 856,
-          "yazar": "White House, cropped by User:0xF8E8",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Eisenhower_official_cropped.png",
-          "aciklama": "Cropped portrait of President Eisenhower in 1956",
-          "konu": "1952 Amerika Birleşik Devletleri başkanlık seçimleri"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/960px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/500px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg",
-          "genislik": 960,
-          "yukseklik": 1199,
-          "orijinalGenislik": 2782,
-          "yazar": "White House",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg",
-          "aciklama": "An official portrait of Dwight D. Eisenhower",
-          "konu": "Dwight D. Eisenhower"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1956-sovyet-gucleri-macaristana-girdi",
@@ -526,10 +401,10 @@
         "İsmet İnönü",
         "Cumhuriyet Halk Partisi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İsmet İnönü'nün Cumhuriyet Halk Partisi'nden İstifası",
+      "ozet": "Türk siyasi tarihinin en önemli figürlerinden biri olan İsmet İnönü, 4 Kasım 1972 tarihinde kurucusu olduğu ve uzun yıllar genel başkanlığını yürüttüğü Cumhuriyet Halk Partisi'nden istifa ederek siyasi yaşamında yeni bir döneme girdi. Bu karar, partinin genel başkanlık koltuğunda yaşanan değişim süreci ve parti içi dengelerin farklılaşmasıyla doğrudan bağlantılıydı. İnönü'nün istifası, Türk siyasetinde bir devrin kapanışı olarak nitelendirildi.\n\nMustafa Kemal Atatürk'ün vefatının ardından partinin başına geçen ve \"Millî Şef\" olarak anılan İnönü, Türkiye'nin çok partili hayata geçiş sürecinde ve sonrasındaki kritik dönemlerde partinin liderliğini üstlenmişti. Ancak 1970'lerin başında parti içindeki görüş ayrılıkları ve yeni siyasi arayışlar, İnönü ile parti yönetimi arasında gerilimlere yol açtı. İstifa kararı, sadece bir liderin görevden ayrılması değil, aynı zamanda CHP'nin ideolojik ve yönetimsel yapısında köklü bir değişimin habercisi oldu. İnönü'nün bu hamlesi, Türk demokrasi tarihinde siyasi liderlik ve parti içi demokrasi tartışmalarının en önemli kırılma noktalarından biri olarak kabul edilir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
@@ -542,7 +417,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Inonu_Ismet_(cropped).jpg",
         "aciklama": "President of Turkey 1938-1950 Ismet Inonu",
         "konu": "İsmet İnönü"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1977-birlesmis-milletler-guney-afrika-cumhuriyetine-silah-satisini",
@@ -566,51 +442,24 @@
         "Tahran",
         "Humeyni"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Tahran'da ABD Büyükelçiliği Krizi Başladı",
+      "ozet": "İran İslam Devrimi'nin hemen ardından, 4 Kasım 1979 tarihinde Tahran'daki Amerika Birleşik Devletleri Büyükelçiliği, Ayetullah Humeyni destekçisi bir grup öğrenci tarafından işgal edildi. Bu baskın sırasında elçilikte görevli olan 52 Amerikalı diplomat ve sivil personel rehin alındı. Olay, İran ile ABD arasındaki diplomatik ilişkilerin kopmasına ve iki ülke arasında uzun yıllar sürecek derin bir gerilimin başlamasına neden oldu.\n\nBu kriz, İran'da devrim sonrası oluşan yeni düzenin Batı dünyasına karşı takındığı sert tutumun en somut göstergelerinden biri olarak kabul edilir. Rehinelerin serbest bırakılması için yürütülen müzakereler 444 gün boyunca devam etti. Olay, uluslararası siyasette büyük yankı uyandırırken, dönemin ABD Başkanı Jimmy Carter'ın yönetimini de ciddi şekilde sarsmıştır. Rehineler, 1981 yılının Ocak ayında, Cezayir Anlaşması'nın imzalanmasının ardından serbest bırakılmıştır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/960px-North_of_Tehran_Skyline_view.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/500px-North_of_Tehran_Skyline_view.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Ruhollah_Khomeini_portrait_2_%28cropped%29.jpg/960px-Ruhollah_Khomeini_portrait_2_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Ruhollah_Khomeini_portrait_2_%28cropped%29.jpg/500px-Ruhollah_Khomeini_portrait_2_%28cropped%29.jpg",
         "genislik": 960,
-        "yukseklik": 758,
-        "orijinalGenislik": 1709,
-        "yazar": "Ninara from Helsinki, Finland",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:North_of_Tehran_Skyline_view.jpg",
-        "aciklama": "North of Tehran Skyline view, Tehran, Iran",
-        "konu": "Tahran"
+        "yukseklik": 1332,
+        "orijinalGenislik": 1412,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ruhollah_Khomeini_portrait_2_(cropped).jpg",
+        "aciklama": "Ruhollah Khomeini in Jamaran",
+        "konu": "Humeyni"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/960px-North_of_Tehran_Skyline_view.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/500px-North_of_Tehran_Skyline_view.jpg",
-          "genislik": 960,
-          "yukseklik": 758,
-          "orijinalGenislik": 1709,
-          "yazar": "Ninara from Helsinki, Finland",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:North_of_Tehran_Skyline_view.jpg",
-          "aciklama": "North of Tehran Skyline view, Tehran, Iran",
-          "konu": "Tahran"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Ruhollah_Khomeini_portrait_2_%28cropped%29.jpg/960px-Ruhollah_Khomeini_portrait_2_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Ruhollah_Khomeini_portrait_2_%28cropped%29.jpg/500px-Ruhollah_Khomeini_portrait_2_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1332,
-          "orijinalGenislik": 1412,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ruhollah_Khomeini_portrait_2_(cropped).jpg",
-          "aciklama": "Ruhollah Khomeini in Jamaran",
-          "konu": "Humeyni"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1979-almanya-yesiller-partisi-kuruldu",
@@ -633,10 +482,10 @@
         "Ronald Reagan",
         "1980 Amerika Birleşik Devletleri başkanlık seçimleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Ronald Reagan'ın ABD Başkanlığına Seçilmesi",
+      "ozet": "1980 Amerika Birleşik Devletleri başkanlık seçimleri, dönemin Demokrat Partili başkanı Jimmy Carter ile Cumhuriyetçi aday Ronald Reagan arasında kıyasıya bir rekabete sahne oldu. Seçim günü sandıktan çıkan sonuçlar, eski bir sinema oyuncusu ve Kaliforniya Valisi olan Reagan'ın ezici bir üstünlükle başkanlığa seçildiğini gösterdi. Bu zafer, Amerikan siyasetinde muhafazakâr bir dönemin başlangıcı olarak kabul edildi.\n\nReagan'ın seçimi kazanması, ülkedeki ekonomik durgunluk ve dış politikadaki belirsizliklerden duyulan hoşnutsuzluğun bir yansımasıydı. Seçim kampanyası boyunca sunduğu güçlü muhafazakâr söylemler ve ekonomik reform vaatleri, seçmen nezdinde büyük karşılık buldu. Bu sonuç, sadece Reagan'ın kariyerinde değil, aynı zamanda Amerika Birleşik Devletleri'nin sonraki on yıl boyunca izleyeceği iç ve dış politika rotasının belirlenmesinde de kritik bir dönüm noktası oluşturdu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg/960px-Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg/500px-Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg",
@@ -650,34 +499,7 @@
         "aciklama": "Official portrait photograph of Ronald Reagan, 1985",
         "konu": "Ronald Reagan"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg/960px-Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg/500px-Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1221,
-          "orijinalGenislik": 1208,
-          "yazar": "Pete Souza",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ronald_Reagan_1985_presidential_portrait_(cropped).jpg",
-          "aciklama": "Official portrait photograph of Ronald Reagan, 1985",
-          "konu": "Ronald Reagan"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Official_Portrait_of_President_Ronald_Reagan_on_The_Oval_Office_Patio_%28cropped%29.jpg/960px-Official_Portrait_of_President_Ronald_Reagan_on_The_Oval_Office_Patio_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Official_Portrait_of_President_Ronald_Reagan_on_The_Oval_Office_Patio_%28cropped%29.jpg/500px-Official_Portrait_of_President_Ronald_Reagan_on_The_Oval_Office_Patio_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1181,
-          "orijinalGenislik": 1753,
-          "yazar": "Series: Reagan White House Photographs, 1/20/1981 - 1/20/1989 Collection: White House Photographic Collection, 1/20/1981 - 1/20/1989",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Official_Portrait_of_President_Ronald_Reagan_on_The_Oval_Office_Patio_(cropped).jpg",
-          "aciklama": "Official Portrait of President Ronald Reagan on The Oval Office Patio, 6/6/1983",
-          "konu": "1980 Amerika Birleşik Devletleri başkanlık seçimleri"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1981-mgk-yuksek-ogretim-kanununu-onayladi-yok-6",
@@ -687,10 +509,10 @@
         "Millî Güvenlik Kurulu (Türkiye)",
         "Yükseköğretim Kurulu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türkiye'de Yükseköğretim Kurulu'nun Kuruluş Süreci",
+      "ozet": "12 Eylül 1980 askeri müdahalesinin ardından Türkiye'deki üniversite sistemini yeniden yapılandırmak amacıyla hazırlanan 2547 sayılı Yükseköğretim Kanunu, 4 Kasım 1981 tarihinde Millî Güvenlik Konseyi tarafından onaylandı. Bu kanun, üniversitelerin özerk yapısını sınırlandırarak tüm yükseköğretim kurumlarını merkezi bir çatı altında toplayan Yükseköğretim Kurulu'nun (YÖK) kurulmasına olanak tanıdı. Yasa, 6 Kasım 1981 tarihinde yürürlüğe girerek yükseköğretim alanında yeni bir dönemi başlattı. YÖK'ün kurulması, Türkiye'deki akademik yönetimi merkeziyetçi bir anlayışla yeniden düzenledi. Üniversitelerin akademik ve idari denetimini üstlenen bu kurum, kuruluşundan itibaren Türk eğitim sistemindeki en çok tartışılan ve üzerinde en fazla değerlendirme yapılan yapılardan biri haline geldi. Kurumun yetkileri ve üniversiteler üzerindeki denetim mekanizmaları, akademik özgürlükler ile merkezi yönetim arasındaki dengeler bağlamında uzun yıllar boyunca kamuoyunun ve eğitim camiasının ana gündem maddelerinden biri olmaya devam etti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Milli_G%C3%BCvenlik_Kurulu_Sekreterli%C4%9Fi_Binas%C4%B1.jpg/960px-Milli_G%C3%BCvenlik_Kurulu_Sekreterli%C4%9Fi_Binas%C4%B1.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Milli_G%C3%BCvenlik_Kurulu_Sekreterli%C4%9Fi_Binas%C4%B1.jpg/500px-Milli_G%C3%BCvenlik_Kurulu_Sekreterli%C4%9Fi_Binas%C4%B1.jpg",
@@ -703,7 +525,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Milli_G%C3%BCvenlik_Kurulu_Sekreterli%C4%9Fi_Binas%C4%B1.jpg",
         "aciklama": "National Security Council (Turkey)",
         "konu": "Millî Güvenlik Kurulu (Türkiye)"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1982-devlet-baskani-orgeneral-kenan-evren-halk-oylamasina",
@@ -738,10 +561,10 @@
       "konular": [
         "Cem Ersever"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Emekli Binbaşı Ahmet Cem Ersever'in Ölümü",
+      "ozet": "Türk Silahlı Kuvvetleri bünyesinde görev yapmış olan ve JİTEM'in kuruluşunda aktif rol alan emekli Binbaşı Ahmet Cem Ersever, 4 Kasım 1993 tarihinde Ankara'nın Elmadağ ilçesi yakınlarında ölü olarak bulundu. Ersever'in ölümü, o dönem Türkiye'nin güvenlik politikaları ve faili meçhul olaylar tartışmalarının merkezinde yer alan bir gelişme olarak kayıtlara geçti. Kendisi, özellikle Güneydoğu Anadolu Bölgesi'ndeki operasyonel faaliyetleri ve istihbarat çalışmalarıyla tanınan bir figürdü.\n\nErsever'in ölümü, Türkiye'nin yakın siyasi tarihinde hala aydınlatılmaya çalışılan ve çeşitli spekülasyonlara konu olan olaylardan biri olma özelliğini korumaktadır. Emekli olduktan sonra kamuoyuna yaptığı açıklamalar ve yazdığı kitaplarla dikkat çeken Ersever'in hayatını kaybetmesi, devletin güvenlik birimleri içerisindeki yapılanmaların ve o dönemin karmaşık siyasi atmosferinin bir yansıması olarak değerlendirilmektedir. Bu olay, Türkiye'nin 1990'lı yıllardaki güvenlik sorunlarını ve bu süreçte yaşanan tartışmalı süreçleri anlamak adına önemli bir dönüm noktası olarak kabul edilir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cem_Ersever.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cem_Ersever.jpg",
@@ -754,7 +577,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Cem_Ersever.jpg",
         "aciklama": "Old Turkish Soldier",
         "konu": "Cem Ersever"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1995-izmirde-sel-65-olu-yuzden-fazla-yarali",
@@ -763,23 +587,12 @@
       "konular": [
         "İzmir"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/960px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/500px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
-        "genislik": 960,
-        "yukseklik": 1280,
-        "orijinalGenislik": 3024,
-        "yazar": "BSRF",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0zmir_Clock_Tower,_December_2018.jpg",
-        "aciklama": "İzmir Clock Tower in Turkey.",
-        "konu": "İzmir"
-      }
+      "baslik": "İzmir'de Büyük Sel Felaketi",
+      "ozet": "İzmir, 4 Kasım 1995 tarihinde tarihinin en yıkıcı doğal afetlerinden birini yaşadı. Şehirde etkili olan aşırı yağışlar, altyapının yetersiz kalması ve coğrafi konumun getirdiği risklerle birleşerek büyük bir sel felaketine dönüştü. Kentin birçok bölgesini etkisi altına alan sular, evleri ve iş yerlerini basarak ciddi bir yıkıma yol açtı. Felaket sonucunda 65 vatandaşımız hayatını kaybederken, yüzden fazla kişi yaralandı ve şehirde büyük çapta maddi hasar meydana geldi. Bu olay, Türkiye'de kentleşme ve altyapı planlamasının doğal afetlere karşı dayanıklılığı konusundaki tartışmaları yeniden gündeme taşıdı. Selin ardından bölgede yürütülen arama kurtarma çalışmaları ve yardım faaliyetleri, toplumun dayanışma ruhunu ortaya koyarken, şehir planlamasında dere yataklarının korunması ve drenaj sistemlerinin iyileştirilmesi gerekliliği bir kez daha acı bir tecrübeyle anlaşıldı. Yaşanan bu felaket, İzmir'in modern şehirleşme sürecinde afet yönetimi politikalarının ne kadar kritik bir öneme sahip olduğunu gösteren bir dönüm noktası olarak hafızalara kazındı.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "2002-akp-turkiye-de-ilk-defa-iktidara-geldi",
@@ -813,51 +626,24 @@
         "Barack Obama",
         "2008 Amerika Birleşik Devletleri başkanlık seçimleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Barack Obama'nın Tarihi Seçim Zaferi",
+      "ozet": "Demokrat Parti adayı Barack Obama, 4 Kasım 2008 tarihinde düzenlenen başkanlık seçimlerinde Cumhuriyetçi rakibi John McCain'i geride bırakarak Amerika Birleşik Devletleri'nin 44. başkanı seçildi. Seçiciler Kurulu sisteminde 538 delegeden 365'inin oyunu alan Obama, bu sonuçla ABD tarihindeki ilk Afroamerikalı başkan olma unvanını kazandı. Seçim zaferinin ardından 20 Ocak 2009 tarihinde yemin ederek George W. Bush'tan görevi devraldı.\n\nObama'nın başkanlığa giden yolu, Illinois eyalet senatörlüğü ve ardından ABD Senatosu'ndaki çalışmalarıyla şekillendi. Harvard Hukuk Fakültesi mezunu olan ve hukuk akademisyenliği geçmişi bulunan Obama, seçim kampanyası boyunca değişim ve umut temalı söylemleriyle geniş kitleleri etkilemeyi başardı. 2008 yılındaki bu seçim, hem ABD siyasi tarihinde hem de toplumsal hafızada önemli bir dönüm noktası olarak kabul edilmektedir. Obama, 2012 yılındaki seçimleri de kazanarak başkanlık görevini iki dönem boyunca sürdürmüştür.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/960px-President_Barack_Obama.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/500px-President_Barack_Obama.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Barack_H._Obama_%284x5%29.png/960px-Barack_H._Obama_%284x5%29.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Barack_H._Obama_%284x5%29.png/500px-Barack_H._Obama_%284x5%29.png",
         "genislik": 960,
-        "yukseklik": 1199,
-        "orijinalGenislik": 2687,
-        "yazar": "Official White House Photo by Pete Souza",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg",
-        "aciklama": "U.S. President Barack Obama's official photograph in the Oval Office on December 6, 2012.",
-        "konu": "Barack Obama"
+        "yukseklik": 1200,
+        "orijinalGenislik": 2400,
+        "yazar": "Pete Souza",
+        "lisans": "CC BY 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Barack_H._Obama_(4x5).png",
+        "aciklama": "Official photographic portrait of US President Barack Obama (born 4 August 1961; assumed office 20 January 2009)",
+        "konu": "2008 Amerika Birleşik Devletleri başkanlık seçimleri"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/960px-President_Barack_Obama.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/500px-President_Barack_Obama.jpg",
-          "genislik": 960,
-          "yukseklik": 1199,
-          "orijinalGenislik": 2687,
-          "yazar": "Official White House Photo by Pete Souza",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg",
-          "aciklama": "U.S. President Barack Obama's official photograph in the Oval Office on December 6, 2012.",
-          "konu": "Barack Obama"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Barack_H._Obama_%284x5%29.png/960px-Barack_H._Obama_%284x5%29.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Barack_H._Obama_%284x5%29.png/500px-Barack_H._Obama_%284x5%29.png",
-          "genislik": 960,
-          "yukseklik": 1200,
-          "orijinalGenislik": 2400,
-          "yazar": "Pete Souza",
-          "lisans": "CC BY 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Barack_H._Obama_(4x5).png",
-          "aciklama": "Official photographic portrait of US President Barack Obama (born 4 August 1961; assumed office 20 January 2009)",
-          "konu": "2008 Amerika Birleşik Devletleri başkanlık seçimleri"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "2009-rusyanin-perm-sehrindeki-bir-gece-kulubunde-havai",
@@ -868,23 +654,12 @@
         "Perm",
         "havai fişek"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Fireworks_closer_view.ogv/500px--Fireworks_closer_view.ogv.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Fireworks_closer_view.ogv/500px--Fireworks_closer_view.ogv.jpg",
-        "genislik": 720,
-        "yukseklik": 480,
-        "orijinalGenislik": 720,
-        "yazar": "Orgio89",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Fireworks_closer_view.ogv",
-        "aciklama": "The Lunar New Year celebrations mark fireworks in 2003.",
-        "konu": "havai fişek"
-      }
+      "baslik": "Perm'de Gece Kulübü Yangını Faciası",
+      "ozet": "Rusya'nın Perm şehrinde bulunan Lame Horse adlı gece kulübünde, mekanın kuruluş yıl dönümü kutlamaları sırasında büyük bir trajedi yaşandı. Kapalı alanda gerçekleştirilen havai fişek gösterisi, tavanın hızla alev almasına ve yangının kısa sürede tüm mekana yayılmasına neden oldu. O sırada içeride bulunan yüzlerce kişiden 109'u, yoğun duman ve panik nedeniyle hayatını kaybetti. Olay, Rusya tarihindeki en ölümcül gece kulübü yangınlarından biri olarak kayıtlara geçti.\n\nYangının ardından yapılan incelemeler, mekanın güvenlik standartlarının ciddi şekilde ihlal edildiğini ortaya koydu. Kapalı alanda piroteknik ürünlerin kullanımına yönelik yasakların çiğnenmesi ve acil çıkış kapılarının yetersizliği, can kaybının artmasındaki temel faktörler olarak belirlendi. Bu acı olay, Rusya genelinde kamuya açık eğlence mekanlarındaki yangın güvenliği denetimlerinin sıkılaştırılmasına ve güvenlik yönetmeliklerinin yeniden gözden geçirilmesine yol açan geniş çaplı bir tartışma başlattı.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "2016-hdp-es-genel-baskanlari-selahattin-demirtas-ve",
@@ -895,10 +670,10 @@
         "Selahattin Demirtaş",
         "Figen Yüksekdağ"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "HDP Eş Genel Başkanları ve Milletvekilleri Tutuklandı",
+      "ozet": "Türkiye siyasi tarihinde önemli bir dönüm noktası olan 4 Kasım 2016 gecesi, Halkların Demokratik Partisi'ne (HDP) yönelik geniş çaplı bir operasyon gerçekleştirildi. Eş Genel Başkanlar Selahattin Demirtaş ve Figen Yüksekdağ'ın da aralarında bulunduğu 9 milletvekili, yürütülen soruşturmalar kapsamında gözaltına alınmalarının ardından mahkeme kararıyla tutuklanarak cezaevine gönderildi. Bu gelişme, o dönemde Türkiye'nin siyasi gündemini derinden etkileyen ve uzun süre tartışılan bir süreç haline geldi.\n\nSöz konusu tutuklamalar, milletvekillerinin dokunulmazlıklarının kaldırılmasının ardından gerçekleşti. Bu olay, HDP'nin parlamentodaki temsil gücü ve Türkiye'deki muhalefet yapısı üzerinde önemli sonuçlar doğurdu. Tutuklanan isimler arasında yer alan Selahattin Demirtaş ve Figen Yüksekdağ, partinin eş genel başkanları olarak geniş kitleleri temsil ediyordu. Olayın ardından HDP yönetimi ve destekçileri karara sert tepki gösterirken, yargı süreci ve tutukluluk halleri sonraki yıllarda da hem ulusal hem de uluslararası düzeyde hukuki ve siyasi tartışmaların merkezinde yer almaya devam etti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Selahattin_Demirta%C5%9F_HDP_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Selahattin_Demirta%C5%9F_HDP_%28cropped%29.jpg",
@@ -912,34 +687,7 @@
         "aciklama": "Selahattin Demirtaş, co-leader of the Turkish Peoples' Democratic Party (HDP)",
         "konu": "Selahattin Demirtaş"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Selahattin_Demirta%C5%9F_HDP_%28cropped%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Selahattin_Demirta%C5%9F_HDP_%28cropped%29.jpg",
-          "genislik": 602,
-          "yukseklik": 800,
-          "orijinalGenislik": 602,
-          "yazar": "Yıldız Yazıcıoğlu",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Selahattin_Demirta%C5%9F_HDP_(cropped).jpg",
-          "aciklama": "Selahattin Demirtaş, co-leader of the Turkish Peoples' Democratic Party (HDP)",
-          "konu": "Selahattin Demirtaş"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Figen_Y%C3%BCksekda%C4%9F.jpg/960px-Figen_Y%C3%BCksekda%C4%9F.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Figen_Y%C3%BCksekda%C4%9F.jpg/500px-Figen_Y%C3%BCksekda%C4%9F.jpg",
-          "genislik": 960,
-          "yukseklik": 1426,
-          "orijinalGenislik": 1024,
-          "yazar": "Yıldız Yazıcıoğlu (VOA)",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Figen_Y%C3%BCksekda%C4%9F.jpg",
-          "aciklama": "Figen Üstündağ, Co-Chairman of the Peoples' Democratic Party (HDP).",
-          "konu": "Figen Yüksekdağ"
-        }
-      ]
+      "bolge": "turkiye"
     }
   ],
   "dogumlar": [
@@ -1441,10 +1189,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/chp-li-barut-gazetemizin-dayanisma-kampanyasini-meclis-gundemine-tasidi-cumhuriyet-gazetesi-sadece-bir-gazete-degil-ulkemizin-vicdanidir-2449801"
       },
-      "konular": [],
+      "konular": [
+        "Cumhuriyet (gazete)",
+        "Ayhan Barut",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2025-11-04T18:04:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhuriyet Gazetesi İçin Başlatılan Dayanışma Meclis Gündemine Taşındı",
+      "ozet": "Adana Milletvekili Ayhan Barut, Türkiye Büyük Millet Meclisi kürsüsünde yaptığı konuşmada Cumhuriyet Gazetesi tarafından yürütülen destek kampanyasına değindi. Gazetenin toplumsal hafızadaki yerine vurgu yapan Barut, kurumun sadece bir yayın organı olmadığını belirterek ülkenin vicdanını temsil ettiğini ifade etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2265115",
@@ -1457,10 +1212,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/trabzonsporda-secim-tarihi-belli-oldu-2265115"
       },
-      "konular": [],
+      "konular": [
+        "Trabzonspor",
+        "Spor kulübü"
+      ],
       "yayin": "2024-11-04T17:34:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Trabzonspor Kulübünün Seçimli Genel Kurul Tarihleri Belirlendi",
+      "ozet": "Trabzonspor Kulübü tarafından yapılan duyuruyla olağan seçimli genel kurul toplantısının takvimi netleşti. Toplantının ilk oturumu kasım ayının son haftasında gerçekleştirilecek. Yeterli çoğunluğun sağlanamaması durumunda ise seçim süreci aralık ayının ilk günlerinde tamamlanacak.",
+      "kategori": "Spor"
     },
     {
       "id": "2024-haber-2264988",
@@ -1473,10 +1234,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/abd-secimleri-oncesi-piyasalarda-son-durum-dolar-deger-kaybetti-hisse-2264988"
       },
-      "konular": [],
+      "konular": [
+        "ABD başkanlık seçimleri",
+        "Dolar",
+        "Ekonomi"
+      ],
       "yayin": "2024-11-04T13:11:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "ABD seçimleri öncesinde finansal piyasalarda hareketlilik yaşandı",
+      "ozet": "Amerika Birleşik Devletleri başkanlık seçimleri yaklaşırken yatırımcılar temkinli bir tutum sergiledi. Haftanın ilk gününde doların değer kaybetmesi ve hisse senedi piyasalarının durgun bir seyir izlemesi dikkat çekti. Piyasalar, merkez bankasının faiz oranlarına yönelik alacağı kararları beklemeye başladı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2137363",
@@ -1489,10 +1257,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-depremler-deprem-mi-oldu-4-kasim-2023-nerede-ne-zaman-deprem-2137363"
       },
-      "konular": [],
+      "konular": [
+        "Deprem",
+        "Afet ve Acil Durum Yönetimi Başkanlığı",
+        "Türkiye"
+      ],
       "yayin": "2023-11-04T11:50:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türkiye genelinde meydana gelen sarsıntılar takip ediliyor",
+      "ozet": "Ülke genelinde hissedilen sarsıntılar nedeniyle vatandaşlar güncel deprem verilerini araştırmaya başladı. Kandilli Rasathanesi ve AFAD tarafından paylaşılan bilgiler ışığında, meydana gelen sarsıntıların merkez üssü ve büyüklük değerleri kamuoyu ile paylaşıldı. Yaşanan hareketlilikler ilgili kurumların resmi internet siteleri üzerinden anlık olarak izlenebildi.",
+      "kategori": "Afet"
     },
     {
       "id": "2023-haber-2137330",
@@ -1505,10 +1280,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-kendi-rekorunu-kirdi-tarihte-ilk-kez-2137330"
       },
-      "konular": [],
+      "konular": [
+        "Galatasaray (futbol takımı)",
+        "Süper Lig"
+      ],
       "yayin": "2023-11-04T09:43:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Galatasaray lig tarihindeki en iyi sezon açılışını gerçekleştirdi",
+      "ozet": "Galatasaray, Süper Lig'de mücadele ettiği sezonun ilk on bir haftalık bölümünde kulüp tarihinin en başarılı performansına ulaştı. Sarı kırmızılı ekip, geride kalan maçlarda elde ettiği sonuçlarla kendi rekorunu geliştirerek ligdeki en güçlü başlangıcını yapmış oldu.",
+      "kategori": "Spor"
     },
     {
       "id": "2022-haber-1999519",
@@ -1521,10 +1302,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/galeri-izmir-depremi-hangi-fayda-kac-buyuklugunde-meydana-geldi-deprem-sonrasi-kac-artci-oldu-1999519"
       },
-      "konular": [],
+      "konular": [
+        "2020 Ege Denizi depremi",
+        "İzmir",
+        "Deprem"
+      ],
       "yayin": "2022-11-04T10:37:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İzmir merkezli depremin teknik detayları ve artçı sarsıntılar",
+      "ozet": "İzmir bölgesinde yaşanan sarsıntının hangi fay hattı üzerinde gerçekleştiği ve büyüklük değeri belirlendi. Deprem sonrasında meydana gelen artçı sarsıntıların toplam sayısı da yetkililer tarafından paylaşıldı. Bölgedeki sismik hareketliliğin ardından yaşanan gelişmeler kamuoyuna duyuruldu.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg/960px-2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg/500px-2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 2592,
+        "yazar": "Oğulcan Bakiler (VOA)",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
+        "aciklama": "search and rescue efforts due of 2020 Aegean Sea earthquake",
+        "konu": "2020 Ege Denizi depremi"
+      }
     },
     {
       "id": "2022-haber-1999493",
@@ -1537,10 +1338,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/euro-dolar-paritesinde-sinirli-yukselis-euro-ne-kadar-oldu-4-kasim-2022-1999493"
       },
-      "konular": [],
+      "konular": [
+        "Euro",
+        "Dolar",
+        "Döviz kuru"
+      ],
       "yayin": "2022-11-04T09:44:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Euro ve Dolar Arasındaki Parite Değişimi",
+      "ozet": "Finans piyasalarında Euro ve Dolar arasındaki kur değerlerinde hareketlilik yaşandı. Euro dolar karşısında 0.9785 seviyesine çıkarak sınırlı bir artış gösterdi. Söz konusu değişim piyasalardaki dalgalı seyrin devam ettiğini ortaya koydu.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2021-haber-1882005",
@@ -1553,10 +1361,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/ft-enflasyon-tartismasi-erdoganin-kaderini-belirleyebilir-1882005"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Türkiye ekonomisi",
+        "Enflasyon"
+      ],
       "yayin": "2021-11-04T10:32:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Financial Times Enflasyonun Siyasi Etkilerini Değerlendirdi",
+      "ozet": "Financial Times gazetesi, Türkiye ekonomisindeki enflasyon sürecinin siyasi sonuçlarına dair bir analiz yayımladı. Söz konusu değerlendirmede, mevcut ekonomik tablonun ve fiyat artışlarının Cumhurbaşkanı Recep Tayyip Erdoğan'ın gelecekteki siyasi kaderi üzerinde belirleyici bir rol oynayabileceği ifade edildi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2021-haber-1882155",
@@ -1569,10 +1397,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/kerem-ozmen-dunya-boks-sampiyonasinda-finale-yukseldi-1882155"
       },
-      "konular": [],
+      "konular": [
+        "Kerem Özmen",
+        "Dünya Boks Şampiyonası",
+        "Boks"
+      ],
       "yayin": "2021-11-04T21:27:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Kerem Özmen Dünya Boks Şampiyonası'nda Finalde",
+      "ozet": "Milli boksör Kerem Özmen, katıldığı Dünya Boks Şampiyonası'nda başarılı bir performans sergileyerek finale adını yazdırdı. Bu başarısıyla gümüş madalya kazanmayı garantileyen sporcu, şampiyonluk mücadelesi vermeye hak kazandı.",
+      "kategori": "Spor"
     },
     {
       "id": "2020-haber-1788442",
@@ -1585,10 +1420,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/slovakya-basbakani-jansa-tarihi-secimin-galibini-trump-ilan-etti-1788442"
       },
-      "konular": [],
+      "konular": [
+        "2020 Amerika Birleşik Devletleri başkanlık seçimleri",
+        "Janez Janša",
+        "Donald Trump"
+      ],
       "yayin": "2020-11-04T14:30:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Slovakya Başbakanı Jansa'dan ABD seçimleri için erken zafer açıklaması",
+      "ozet": "Amerika Birleşik Devletleri'nde kritik eyaletlerdeki oy sayım işlemleri sürerken Slovakya Başbakanı Janez Jansa seçim sonuçlarına dair bir değerlendirmede bulundu. Jansa sosyal medya üzerinden yaptığı paylaşımda, mevcut başkan Donald Trump ve yardımcısı Mike Pence'in dört yıl daha görev yapacaklarının netleştiğini savundu. Bu açıklama henüz resmi sonuçlar belli olmadan yapıldı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Joe_Biden_2021_%284x5%29.png/960px-Joe_Biden_2021_%284x5%29.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Joe_Biden_2021_%284x5%29.png/500px-Joe_Biden_2021_%284x5%29.png",
+        "genislik": 960,
+        "yukseklik": 1200,
+        "orijinalGenislik": 2400,
+        "yazar": "Adam Schultz",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Joe_Biden_2021_(4x5).png",
+        "aciklama": "U.S. President Joe Biden's official portrait, 2021",
+        "konu": "2020 Amerika Birleşik Devletleri başkanlık seçimleri"
+      }
     },
     {
       "id": "2020-haber-1788477",
@@ -1601,10 +1456,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/abd-sasirilan-sonuc-secimlerinde-olu-aday-kazandi-1788477"
       },
-      "konular": [],
+      "konular": [
+        "2020 Amerika Birleşik Devletleri seçimleri",
+        "Kuzey Dakota",
+        "David Andahl"
+      ],
       "yayin": "2020-11-04T17:22:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Kuzey Dakota eyaletinde hayatını kaybetmiş bir aday seçimi kazandı",
+      "ozet": "Kuzey Dakota eyaletinde gerçekleştirilen seçimlerde, Cumhuriyetçi Parti adayı David Andahl sandıktan birinci çıktı. Andahl, seçimden yaklaşık bir ay önce Covid-19 nedeniyle yaşamını yitirmişti. Bu durum, seçim sonuçlarının ardından kamuoyunda geniş yer buldu.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2019-haber-1700118",
@@ -1617,10 +1480,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/suriye-anayasa-komitesi-toplantilarinin-ikinci-turu-basladi-1700118"
       },
-      "konular": [],
+      "konular": [
+        "Suriye Anayasa Komitesi",
+        "Birleşmiş Milletler",
+        "Cenevre"
+      ],
       "yayin": "2019-11-04T19:44:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Suriye Anayasa Komitesi Cenevre'de ikinci kez toplandı",
+      "ozet": "Birleşmiş Milletler Cenevre Ofisi ev sahipliğinde Suriye Anayasa Komitesi görüşmelerinin ikinci aşaması hayata geçirildi. Süreç kapsamında kırk beş kişiden oluşan yazım kurulu üyeleri ilk oturumlarını gerçekleştirdi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Views_of_Geneva.jpg/960px-Views_of_Geneva.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Views_of_Geneva.jpg/500px-Views_of_Geneva.jpg",
+        "genislik": 960,
+        "yukseklik": 1200,
+        "orijinalGenislik": 1481,
+        "yazar": "MadGeographer",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Views_of_Geneva.jpg",
+        "aciklama": "Montage for the Geneva article on Wikipedia",
+        "konu": "Cenevre"
+      }
     },
     {
       "id": "2019-haber-1573316",
@@ -1633,10 +1516,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hamilton-abd-grand-prixsinde-6-kez-sampiyon-1573316"
       },
-      "konular": [],
+      "konular": [
+        "Lewis Hamilton",
+        "Formula 1",
+        "ABD Grand Prix"
+      ],
       "yayin": "2019-11-04T03:06:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Lewis Hamilton Formula 1 kariyerindeki altıncı şampiyonluğunu kazandı",
+      "ozet": "Amerika Birleşik Devletleri'nde düzenlenen yarışta ikinci sırada yer alan Mercedes pilotu Lewis Hamilton, sezonun bitimine kısa bir süre kala şampiyonluk ipini göğüsledi. Bu sonuçla birlikte kariyerindeki altıncı şampiyonluğa ulaşan başarılı sporcu, Formula 1 tarihindeki en başarılı ikinci pilot konumuna yerleşti.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg/960px-Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg/500px-Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "orijinalGenislik": 1430,
+        "yazar": "Picture by Lauren Hurley / No 10 Downing Street",
+        "lisans": "OGL 3",
+        "lisansUrl": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_(54566928382)_(cropped).jpg",
+        "aciklama": "Prime Minister Keir Starmer hosts a roundtable on youth opportunity with Mission 44 Founder and F1 driver Sir Lewis Hamilton in 10 Downing Street, London, United Kingdom.",
+        "konu": "Lewis Hamilton"
+      }
     },
     {
       "id": "2018-haber-1131363",
@@ -1649,10 +1552,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/2018-golf-turnuvasi-sampiyonu-ingiliz-rose-oldu-1131363"
       },
-      "konular": [],
+      "konular": [
+        "Turkish Airlines Open",
+        "Justin Rose",
+        "Golf"
+      ],
       "yayin": "2018-11-04T19:00:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Turkish Airlines Open 2018 Turnuvasını Justin Rose Kazandı",
+      "ozet": "Türk Hava Yolları sponsorluğunda düzenlenen ve Avrupa Turu Rolex Serisi kapsamında yer alan golf turnuvası sona erdi. Sekiz farklı organizasyondan biri olan turnuvada birinciliği İngiliz sporcu Justin Rose elde etti. Başarılı performansıyla dikkat çeken Rose, turnuvanın şampiyonu olarak kupanın sahibi oldu.",
+      "kategori": "Spor"
     },
     {
       "id": "2018-haber-1131307",
@@ -1665,10 +1575,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/neslihan-yigit-badmintonda-yine-sampiyon-1131307"
       },
-      "konular": [],
+      "konular": [
+        "Neslihan Yiğit",
+        "Badminton"
+      ],
       "yayin": "2018-11-04T17:21:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Neslihan Yiğit badminton turnuvasında altın madalya kazandı",
+      "ozet": "Milli sporcu Neslihan Yiğit, katıldığı badminton turnuvasının final müsabakasında Bulgar rakibi Mariye Mıtsova ile karşılaştı. Rakibini iki set sonunda mağlup etmeyi başaran Yiğit, turnuvayı şampiyonlukla tamamlayarak altın madalyayı kazandı.",
+      "kategori": "Spor"
     },
     {
       "id": "2017-haber-859602",
@@ -1681,10 +1597,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/lubnan-basbakani-hariri-istifa-etti-suikast-tehdidi-var-859602"
       },
-      "konular": [],
+      "konular": [
+        "Saad Hariri",
+        "Lübnan"
+      ],
       "yayin": "2017-11-04T15:02:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Lübnan Başbakanı Saad Hariri görevinden ayrıldığını duyurdu",
+      "ozet": "Lübnan Başbakanı Saad el Hariri, can güvenliğine yönelik tehditler aldığını belirterek görevini bıraktığını açıkladı. Hariri, kendisine yönelik bir suikast planlandığına dair duyumlar aldığını ifade ederek istifa kararını kamuoyuyla paylaştı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Saad_Hariri_in_Sochi%2C_13_September_2017.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Saad_Hariri_in_Sochi%2C_13_September_2017.jpg",
+        "genislik": 756,
+        "yukseklik": 1036,
+        "orijinalGenislik": 756,
+        "yazar": "This image has been extracted from another file",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Saad_Hariri_in_Sochi,_13_September_2017.jpg",
+        "aciklama": "President of Russia Vladimir Putin & Prime Minister Lebanon Saad Hariri in Sochi, 13 September 2017 (3) (Cropped)",
+        "konu": "Saad Hariri"
+      }
     },
     {
       "id": "2017-haber-859440",
@@ -1697,10 +1632,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tbmm-baskani-kahraman-abdulhamid-indirilmemis-olsaydi-1-dunya-savasi-cikmayacakti-859440"
       },
-      "konular": [],
+      "konular": [
+        "İsmail Kahraman",
+        "II. Abdülhamid",
+        "I. Dünya Savaşı"
+      ],
       "yayin": "2017-11-04T11:30:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İsmail Kahraman'dan Birinci Dünya Savaşı Üzerine Değerlendirme",
+      "ozet": "Türkiye Büyük Millet Meclisi Başkanı İsmail Kahraman, İkinci Abdülhamid'in tahttan indirilmemesi durumunda Birinci Dünya Savaşı'nın yaşanmayacağını ifade etti. Kahraman, dönemin siyasi gelişmelerine dair yaptığı açıklamada bu görüşünü dile getirdi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2016-haber-625895",
@@ -1713,10 +1655,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hdpli-vekillere-gece-yarisi-operasyonu-dunya-basininda-erdogan-karsitlari-gozaltinda-625895"
       },
-      "konular": [],
+      "konular": [
+        "Halkların Demokratik Partisi",
+        "Selahattin Demirtaş",
+        "Figen Yüksekdağ"
+      ],
       "yayin": "2016-11-04T10:04:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Halkların Demokratik Partisi milletvekillerine yönelik gözaltı işlemleri",
+      "ozet": "Halkların Demokratik Partisi Eş Genel Başkanları Selahattin Demirtaş ve Figen Yüksekdağ ile birlikte dokuz milletvekili hakkında gözaltı kararı uygulandı. Söz konusu gelişme uluslararası medya kuruluşlarında geniş bir şekilde haberleştirildi ve dünya kamuoyunun gündemine taşındı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Selahattin_Demirta%C5%9F_HDP_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Selahattin_Demirta%C5%9F_HDP_%28cropped%29.jpg",
+        "genislik": 602,
+        "yukseklik": 800,
+        "orijinalGenislik": 602,
+        "yazar": "Yıldız Yazıcıoğlu",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Selahattin_Demirta%C5%9F_HDP_(cropped).jpg",
+        "aciklama": "Selahattin Demirtaş, co-leader of the Turkish Peoples' Democratic Party (HDP)",
+        "konu": "Selahattin Demirtaş"
+      }
     },
     {
       "id": "2016-haber-625847",
@@ -1729,10 +1691,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakanliktan-ilk-hdp-operasyonunu-uluslararasi-basina-boyle-duyurdular-625847"
       },
-      "konular": [],
+      "konular": [
+        "Halkların Demokratik Partisi",
+        "Siyaset",
+        "Türkiye"
+      ],
       "yayin": "2016-11-04T08:09:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Başbakanlıktan HDP operasyonuna ilişkin uluslararası bilgilendirme",
+      "ozet": "Başbakanlık Basın Yayın Enformasyon Genel Müdürlüğü, Halkların Demokratik Partisi eş başkanları ve milletvekillerine yönelik düzenlenen operasyon hakkında yabancı basına yönelik bir açıklama yayımladı. Söz konusu duyuruda, gözaltı işlemlerinin ilgili milletvekillerinin ifade vermek üzere çağrıldıkları makamlara gitmemeleri sebebiyle yapıldığı ifade edildi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg/960px-24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg/500px-24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg",
+        "genislik": 960,
+        "yukseklik": 562,
+        "orijinalGenislik": 7320,
+        "yazar": "Lula Oficial",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_(54018866744).jpg",
+        "aciklama": "24.09.2024 - Presidente da República, Luiz Inácio Lula da Silva, durante a Abertura do Debate Geral da 79ª Sessão da Assembleia Geral das Nações Unidas, no Salão da Assembleia Geral, da Sede das Naçõe",
+        "konu": "Siyaset"
+      }
     },
     {
       "id": "2015-haber-405641",
@@ -1745,10 +1727,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/gece-kulubunde-32-kisi-olunce-basbakan-ponta-istifa-etti-405641"
       },
-      "konular": [],
+      "konular": [
+        "Colectiv gece kulübü yangını",
+        "Victor Ponta",
+        "Romanya"
+      ],
       "yayin": "2015-11-04T12:33:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Romanya Başbakanı Victor Ponta görevinden ayrıldı",
+      "ozet": "Bükreş'te bir eğlence mekanında meydana gelen ve çok sayıda kişinin hayatını kaybettiği yangın felaketi ülkede büyük tepki topladı. Yaşanan acı olayın ardından hükümeti protesto eden binlerce vatandaşın düzenlediği gösteriler sonucunda Başbakan Victor Ponta istifa kararı aldı.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2015-haber-405629",
@@ -1761,10 +1751,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fbahceye-sampiyonlar-liginden-davet-var-405629"
       },
-      "konular": [],
+      "konular": [
+        "Fenerbahçe (basketbol takımı)",
+        "FIBA",
+        "Basketbol Şampiyonlar Ligi"
+      ],
       "yayin": "2015-11-04T12:27:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "FIBA'dan Fenerbahçe'ye Basketbol Şampiyonlar Ligi daveti",
+      "ozet": "FIBA, Avrupa Ligi'ni gelecek dönemde Basketbol Şampiyonlar Ligi ismiyle yeniden yapılandırma kararı aldı. Bu kapsamda Fenerbahçe'nin yanı sıra Real Madrid, Olympiakos ve Maccabi Tel Aviv kulüplerine yeni organizasyon için ortaklık teklifi iletildi.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/1502916_940x531.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/1502916_940x531.jpg",
+        "genislik": 940,
+        "yukseklik": 531,
+        "orijinalGenislik": 940,
+        "yazar": "Talipkirim",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:1502916_940x531.jpg",
+        "aciklama": "Şampiyon",
+        "konu": "Fenerbahçe (basketbol takımı)"
+      }
     },
     {
       "id": "2014-haber-137088",
@@ -1777,10 +1787,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/abdden-erdogana-yalanlama-hicbir-zaman-ozur-dilemedim-137088"
       },
-      "konular": [],
+      "konular": [
+        "Joe Biden",
+        "Recep Tayyip Erdoğan",
+        "Türkiye-Amerika Birleşik Devletleri ilişkileri"
+      ],
       "yayin": "2014-11-04T08:09:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Joe Biden Türkiye ziyareti öncesinde açıklamalarda bulundu",
+      "ozet": "Amerika Birleşik Devletleri Başkan Yardımcısı Joe Biden, Türkiye'ye gerçekleştireceği resmi ziyaretin hemen öncesinde dikkat çeken bir beyanatta bulundu. Biden, Cumhurbaşkanı Recep Tayyip Erdoğan'ın kendisine yönelik iddialarına yanıt vererek herhangi bir özür dilemediğini ifade etti. Bu açıklama, iki ülke arasındaki diplomatik temasların yoğunlaştığı bir dönemde gündeme geldi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/960px-Joe_Biden_presidential_portrait.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/500px-Joe_Biden_presidential_portrait.jpg",
+        "genislik": 960,
+        "yukseklik": 1200,
+        "orijinalGenislik": 2400,
+        "yazar": "Adam Schultz",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg",
+        "aciklama": "U.S. President Joe Biden's official portrait, 2021",
+        "konu": "Joe Biden"
+      }
     },
     {
       "id": "2014-haber-137238",
@@ -1793,10 +1823,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kaplan-hdpnin-kapatilmasi-karari-alindi-137238"
       },
-      "konular": [],
+      "konular": [
+        "Halkların Demokratik Partisi",
+        "Hasip Kaplan",
+        "Siyaset"
+      ],
       "yayin": "2014-11-04T13:02:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Halkların Demokratik Partisi hakkında kapatma kararı verildi",
+      "ozet": "Halkların Demokratik Partisi mensubu Hasip Kaplan, partisi hakkında kapatılma kararı alındığını kamuoyuna duyurdu. Söz konusu gelişme üzerine parti kanadından konuya ilişkin açıklama yapıldı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hasip_Kaplan_2015.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hasip_Kaplan_2015.jpg",
+        "genislik": 740,
+        "yukseklik": 410,
+        "orijinalGenislik": 740,
+        "yazar": "VOA",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Hasip_Kaplan_2015.jpg",
+        "aciklama": "Hasip Kaplan 2015",
+        "konu": "Hasip Kaplan"
+      }
     },
     {
       "id": "2013-haber-5903",
@@ -1809,10 +1859,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/polis-aracina-ates-acildi-5903"
       },
-      "konular": [],
+      "konular": [
+        "Niğde",
+        "Polis"
+      ],
       "yayin": "2013-11-04T08:17:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Niğde'de görev başındaki polis aracına silahlı saldırı düzenlendi",
+      "ozet": "Niğde sınırları içerisinde trafik denetimi gerçekleştiren emniyet ekibine pompalı tüfekle saldırı yapıldı. Olay sırasında aracın hedef alınması sonucu bir polis memuru yüz bölgesine isabet eden saçmalar nedeniyle yaralandı. Yaralı memur bölgeye sevk edilen ekiplerce tedavi altına alındı.",
+      "kategori": "Toplum"
     },
     {
       "id": "2013-haber-5899",
@@ -1825,10 +1881,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/vanda-vali-depremi-5899"
       },
-      "konular": [],
+      "konular": [
+        "Van",
+        "Vali yardımcısı",
+        "İçişleri Bakanlığı"
+      ],
       "yayin": "2013-11-04T08:04:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Van Valiliğinde görevli beş vali yardımcısı tayin talebinde bulundu",
+      "ozet": "Van Valisi Aydın Nezih Doğan tarafından hakarete uğradıklarını iddia eden beş vali yardımcısı, görev yerlerinin değiştirilmesi için İçişleri Bakanlığına başvurdu. Söz konusu iddialar ve ardından gelen toplu tayin talebi şehirde dikkat çeken bir gelişme olarak karşılandı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2012-haber-380990",
@@ -1841,10 +1904,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ahmedinejad-hakkindaki-soru-onergesi-kabul-edildi-380990"
       },
-      "konular": [],
+      "konular": [
+        "Mahmud Ahmedinejad",
+        "İran İslami Şura Meclisi",
+        "İran"
+      ],
       "yayin": "2012-11-04T10:15:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İran Meclisi Cumhurbaşkanı Ahmedinejad Hakkındaki Önergeyi Onayladı",
+      "ozet": "İran parlamentosu, Cumhurbaşkanı Mahmud Ahmedinejad ile ilgili sunulan soru önergesini gündemine alarak kabul etti. Bu gelişme doğrultusunda devlet başkanının meclis huzurunda kendisine yöneltilen soruları yanıtlaması bekleniyor.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Mahmoud_Ahmadinejad_2019_02.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Mahmoud_Ahmadinejad_2019_02.jpg",
+        "genislik": 431,
+        "yukseklik": 564,
+        "orijinalGenislik": 431,
+        "yazar": "Majid Haghdoust",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mahmoud_Ahmadinejad_2019_02.jpg",
+        "aciklama": "Mahmoud Ahmadinejad",
+        "konu": "Mahmud Ahmedinejad"
+      }
     },
     {
       "id": "2012-haber-380978",
@@ -1857,10 +1940,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fransa-cumhurbaskani-hollande-beyrutta-380978"
       },
-      "konular": [],
+      "konular": [
+        "François Hollande",
+        "Mişel Süleyman",
+        "Lübnan"
+      ],
       "yayin": "2012-11-04T09:11:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Fransa Cumhurbaşkanı Hollande Lübnan'da Temaslarda Bulundu",
+      "ozet": "Fransa Cumhurbaşkanı François Hollande, resmi ziyaret kapsamında Lübnan'ın başkenti Beyrut'a gitti. Hollande, burada Lübnan Cumhurbaşkanı Mişel Süleyman ile bir araya gelerek çeşitli konularda görüşmeler gerçekleştirdi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2011-haber-295780",
@@ -1873,10 +1963,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/karbondioksit-saliniminda-rekor-duzeyde-artis-295780"
       },
-      "konular": [],
+      "konular": [
+        "Karbondioksit",
+        "Küresel ısınma",
+        "ABD Enerji Bakanlığı"
+      ],
       "yayin": "2011-11-04T14:40:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Küresel Karbondioksit Salınımı Tarihi Zirveye Ulaştı",
+      "ozet": "Amerika Birleşik Devletleri Enerji Bakanlığı tarafından yapılan açıklamada, dünya genelindeki karbondioksit emisyon oranlarının ölçümlerin başlangıcından bu yana kaydedilen en yüksek noktaya çıktığı belirtildi. Söz konusu veriler, atmosferdeki sera gazı yoğunluğunun endişe verici bir boyuta ulaştığını ortaya koydu.",
+      "kategori": "Bilim",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bobcat_Fire%2C_Los_Angeles%2C_San_Gabriel_Mountains.jpg/960px-Bobcat_Fire%2C_Los_Angeles%2C_San_Gabriel_Mountains.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bobcat_Fire%2C_Los_Angeles%2C_San_Gabriel_Mountains.jpg/500px-Bobcat_Fire%2C_Los_Angeles%2C_San_Gabriel_Mountains.jpg",
+        "genislik": 960,
+        "yukseklik": 489,
+        "orijinalGenislik": 5014,
+        "yazar": "Eddiem360",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bobcat_Fire,_Los_Angeles,_San_Gabriel_Mountains.jpg",
+        "aciklama": "Bobcat Fire view from our kitchen window in Monrovia, CA, September 10, 2020",
+        "konu": "Küresel ısınma"
+      }
     },
     {
       "id": "2011-haber-295774",
@@ -1889,10 +1999,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/nc-davasi-meclise-tasindi-295774"
       },
-      "konular": [],
+      "konular": [
+        "N.Ç. davası",
+        "Aylin Nazlıaka",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2011-11-04T13:02:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "N.Ç. davasındaki kamu görevlileri Meclis gündemine getirildi",
+      "ozet": "Cumhuriyet Halk Partisi Ankara Milletvekili Aylin Nazlıaka, Türkiye Büyük Millet Meclisi Başkanlığına yazılı bir soru önergesi sundu. Söz konusu önergede, Milli Eğitim Bakanı Ömer Dinçer'den N.Ç. davasında sorumluluğu bulunan kamu personeli hakkında herhangi bir idari inceleme başlatılıp başlatılmadığına dair bilgi talep edildi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Aylin_Nazl%C4%B1aka%2C_29_Mart_2026_%28cropped%29.jpg/960px-Aylin_Nazl%C4%B1aka%2C_29_Mart_2026_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Aylin_Nazl%C4%B1aka%2C_29_Mart_2026_%28cropped%29.jpg/500px-Aylin_Nazl%C4%B1aka%2C_29_Mart_2026_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1414,
+        "orijinalGenislik": 1797,
+        "yazar": "Koray",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Aylin_Nazl%C4%B1aka,_29_Mart_2026_(cropped).jpg",
+        "aciklama": "Aylin Nazlıaka, Kuşadası'ndaki \"Millet İradesine Sahip Çıkıyor\" mitinginde, 29 Mart 2026",
+        "konu": "Aylin Nazlıaka"
+      }
     }
   ],
   "haberYillari": [
