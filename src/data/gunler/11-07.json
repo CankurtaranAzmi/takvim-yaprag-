@@ -9,10 +9,10 @@
       "konular": [
         "Cemel Savaşı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İslam Tarihinin İlk İç Savaşı: Cemel Muharebesi",
+      "ozet": "İslam dünyasında derin izler bırakan Cemel Savaşı, dördüncü Halife Ali bin Ebu Talib ile İslam Peygamberi'nin eşi Aişe binti Ebu Bekir'in liderlik ettiği muhalif grup arasında gerçekleşti. Basra yakınlarında meydana gelen ve Müslümanlar arasındaki ilk büyük silahlı çatışma olma özelliği taşıyan bu olay, siyasi ayrışmaların bir sonucu olarak patlak verdi. Savaşın ismi, çatışmaların yoğunlaştığı noktada Aişe'nin üzerinde bulunduğu devenin etrafındaki yoğun mücadeleden gelmektedir.\n\nHalife Ali'nin zaferiyle sonuçlanan muharebe, İslam toplumunun iç yapısında ciddi bir kırılmaya yol açtı. Çatışmalar sırasında Aişe'nin müttefikleri olan Talha bin Ubeydullah ve Zübeyr bin Avvam hayatını kaybetti. Savaşın ardından Halife Ali, Aişe'ye karşı oldukça nezaketli davranarak onu güvenli bir şekilde Medine'ye geri gönderdi. Ancak bu savaş, İslam tarihinin sonraki dönemlerinde yaşanacak olan pek çok siyasi ve dini ihtilafın başlangıç noktası kabul edilmektedir. Binlerce kişinin hayatını kaybettiği bu olay, İslam toplumunun birlik ve beraberliğini koruma çabalarının ne denli zorlu sınavlardan geçtiğini göstermesi bakımından tarihsel açıdan büyük bir öneme sahiptir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Ali_and_Aisha_at_the_Battle_of_the_Camel.jpg/960px-Ali_and_Aisha_at_the_Battle_of_the_Camel.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Ali_and_Aisha_at_the_Battle_of_the_Camel.jpg/500px-Ali_and_Aisha_at_the_Battle_of_the_Camel.jpg",
@@ -25,7 +25,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ali_and_Aisha_at_the_Battle_of_the_Camel.jpg",
         "aciklama": "Ali and Aisha at the Battle of the Camel",
         "konu": "Cemel Savaşı"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1665-yasayan-en-uzun-omurlu-gazete-the-london",
@@ -35,51 +36,24 @@
         "gazete",
         "The London Gazette"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Dünyanın En Eski Gazetesi: The London Gazette",
+      "ozet": "İngiltere'de basım hayatına başlayan The London Gazette, günümüzde halen faaliyet gösteren dünyanın en eski gazetesi olarak kabul edilir. Gazetenin ilk sayısı 7 Kasım 1665 tarihinde yayımlandığında, ismi Oxford Gazette idi. Bu isimlendirmenin temel sebebi, o dönemde Londra'da etkili olan hıyarcıklı veba salgını nedeniyle İngiliz Kraliyet ailesinin geçici olarak Oxford'a taşınmış olmasıydı. Kraliyetin merkezini takip eden yayın, salgının sona ermesi ve sarayın başkente geri dönmesiyle birlikte günümüzdeki ismini almıştır.\n\nKuruluşundan bu yana Birleşik Krallık'ın en önemli resmi gazetesi olma görevini üstlenen yayın, tarih boyunca ülkedeki pek çok önemli gelişmeye tanıklık etmiştir. Bugün artık genel haber akışından ziyade resmi duyurulara odaklanan gazete, İngiliz basın tarihinin en köklü kurumu olarak varlığını sürdürmektedir. Yayın hayatına başladığı dönemdeki koşulların zorluğu, gazetenin sadece bir haber aracı değil, aynı zamanda devletin resmi sesini taşıyan kurumsal bir yapı olarak ne kadar dirençli olduğunu kanıtlamıştır.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Van_Olden_Barneveldt_Verhoeven_1619.gif",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Van_Olden_Barneveldt_Verhoeven_1619.gif",
-        "genislik": 470,
-        "yukseklik": 618,
-        "orijinalGenislik": 470,
-        "yazar": "Abraham Verhoeven (editor)",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/London-gazette.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/London-gazette.png",
+        "genislik": 800,
+        "yukseklik": 1119,
+        "orijinalGenislik": 800,
+        "yazar": "London Gazette",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Van_Olden_Barneveldt_Verhoeven_1619.gif",
-        "aciklama": "Verhael hoe ende in wat manieren den heere Johan Van Olden-Barneveldt, Advocaet van Hollandt ende den Vrieslant/ is Onthalst gheworden smaendachs voor noen den xiij Mey Anno Duisent zes hondert neghen",
-        "konu": "gazete"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:London-gazette.png",
+        "aciklama": "The London Gazette, front page from Monday 3 - 10 September 1666, reporting on the Fire of London. A reprint, the original can be found at the official London Gazette site.",
+        "konu": "The London Gazette"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Van_Olden_Barneveldt_Verhoeven_1619.gif",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Van_Olden_Barneveldt_Verhoeven_1619.gif",
-          "genislik": 470,
-          "yukseklik": 618,
-          "orijinalGenislik": 470,
-          "yazar": "Abraham Verhoeven (editor)",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Van_Olden_Barneveldt_Verhoeven_1619.gif",
-          "aciklama": "Verhael hoe ende in wat manieren den heere Johan Van Olden-Barneveldt, Advocaet van Hollandt ende den Vrieslant/ is Onthalst gheworden smaendachs voor noen den xiij Mey Anno Duisent zes hondert neghen",
-          "konu": "gazete"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/London-gazette.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/London-gazette.png",
-          "genislik": 800,
-          "yukseklik": 1119,
-          "orijinalGenislik": 800,
-          "yazar": "London Gazette",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:London-gazette.png",
-          "aciklama": "The London Gazette, front page from Monday 3 - 10 September 1666, reporting on the Fire of London. A reprint, the original can be found at the official London Gazette site.",
-          "konu": "The London Gazette"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1848-zachary-taylor-abd-baskani-secildi",
@@ -89,10 +63,10 @@
         "Zachary Taylor",
         "Amerika Birleşik Devletleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Zachary Taylor Amerika Birleşik Devletleri Başkanı Seçildi",
+      "ozet": "Zachary Taylor, 1848 yılındaki başkanlık seçimlerinde rakibi Lewis Cass'i geride bırakarak Amerika Birleşik Devletleri'nin 12. başkanı seçildi. Uzun yıllar süren başarılı askeri kariyeriyle tanınan Taylor, özellikle Meksika-Amerika Savaşı'ndaki komutanlığı sayesinde ulusal bir kahraman olarak görülüyordu. Bu popülaritesi, siyasi bir geçmişi olmamasına rağmen Whig Partisi tarafından aday gösterilmesinde belirleyici bir rol oynadı. Seçim zaferi, ülkenin genişleme politikalarının ve kölelik tartışmalarının yoğunlaştığı bir döneme denk geldi.\n\nTaylor'ın başkanlık dönemi, ülkenin iç siyasi dengelerinin sarsıldığı bir sürece işaret ediyordu. Göreve geldikten kısa bir süre sonra, 1850 yılında beklenmedik bir şekilde hayatını kaybetmesi, başkanlık koltuğunun yardımcısı Millard Fillmore'a geçmesine neden oldu. Taylor, görev süresi boyunca kölelik meselesi ve yeni kazanılan toprakların statüsü gibi kritik konularda uzlaşmacı bir tavır sergilemeye çalışsa da, ani ölümü bu tartışmaların çözümünü halefine bıraktı. Onun başkanlığı, Amerikan siyasi tarihinde askeri kökenli liderlerin sivil yönetime geçişinin önemli örneklerinden biri olarak kabul edilir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Zachary_Taylor_restored_and_cropped.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Zachary_Taylor_restored_and_cropped.png",
@@ -105,7 +79,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Zachary_Taylor_restored_and_cropped.png",
         "aciklama": "Half-Plate Daguerreotype of Zachary Taylor, cropped 8x10 to remove framing.",
         "konu": "Zachary Taylor"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1892-istanbulda-darulacezenin-temeli-atildi",
@@ -115,51 +90,24 @@
         "İstanbul",
         "Darülaceze"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Sosyal Yardımlaşmanın Sembolü: Darülaceze'nin Kuruluşu",
+      "ozet": "İstanbul'da sokaklarda yaşayan, kimsesiz, yaşlı ve bakıma muhtaç insanların ihtiyaçlarını karşılamak amacıyla Sultan II. Abdülhamid'in fermanıyla Darülaceze'nin temelleri atıldı. Okmeydanı'nda geniş bir arazi üzerine inşa edilen bu kurum, Osmanlı döneminden günümüze uzanan en köklü sosyal yardım kuruluşlarından biri olma özelliğini taşımaktadır. 1895 yılında tamamlanarak hizmete giren tesis, sadece bir barınma merkezi değil, aynı zamanda dönemin sosyal devlet anlayışını yansıtan kapsamlı bir yaşam alanı olarak tasarlanmıştır.\n\nKurum, kurulduğu günden bu yana din, dil, ırk veya cinsiyet ayrımı gözetmeksizin ihtiyaç sahiplerine kucak açmıştır. İçerisinde cami, kilise ve sinagog gibi ibadethanelerin yanı sıra hastane, çocuk yuvası ve iş ocakları gibi çok sayıda birimi barındıran Darülaceze, toplumsal dayanışmanın kurumsallaşmış bir örneğidir. Günümüzde Aile ve Sosyal Hizmetler Bakanlığı bünyesinde faaliyetlerini sürdüren kurum, hayırseverlerin destekleriyle varlığını devam ettirmekte ve toplumun en savunmasız kesimlerine şefkatle hizmet vermeye devam etmektedir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Dar%C3%BClaceze_Building_%28cropped%29.jpg/960px-Dar%C3%BClaceze_Building_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Dar%C3%BClaceze_Building_%28cropped%29.jpg/500px-Dar%C3%BClaceze_Building_%28cropped%29.jpg",
         "genislik": 960,
-        "yukseklik": 494,
-        "orijinalGenislik": 2048,
-        "yazar": "Alexxx Malev",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-        "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-        "konu": "İstanbul"
+        "yukseklik": 701,
+        "orijinalGenislik": 1315,
+        "yazar": "Ali Sami",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Dar%C3%BClaceze_Building_(cropped).jpg",
+        "aciklama": "Darülaceze binası",
+        "konu": "Darülaceze"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "genislik": 960,
-          "yukseklik": 494,
-          "orijinalGenislik": 2048,
-          "yazar": "Alexxx Malev",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-          "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-          "konu": "İstanbul"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Dar%C3%BClaceze_Building_%28cropped%29.jpg/960px-Dar%C3%BClaceze_Building_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Dar%C3%BClaceze_Building_%28cropped%29.jpg/500px-Dar%C3%BClaceze_Building_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 701,
-          "orijinalGenislik": 1315,
-          "yazar": "Ali Sami",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Dar%C3%BClaceze_Building_(cropped).jpg",
-          "aciklama": "Darülaceze binası",
-          "konu": "Darülaceze"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1893-abdnin-colorado-eyaletinde-kadinlara-oy-verme-hakki",
@@ -182,51 +130,24 @@
         "Woodrow Wilson",
         "1916 Amerika Birleşik Devletleri başkanlık seçimleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Woodrow Wilson İkinci Kez ABD Başkanı Seçildi",
+      "ozet": "Amerika Birleşik Devletleri'nde 1916 yılında düzenlenen başkanlık seçimleri, Avrupa'da devam eden I. Dünya Savaşı'nın gölgesinde gerçekleşti. Demokrat Parti'nin adayı olan mevcut başkan Woodrow Wilson, savaş karşıtı tutumu ve hayata geçirdiği reformlarla halkın desteğini kazanmayı başardı. Cumhuriyetçi Parti'nin adayı Charles Evans Hughes ile girdiği çekişmeli yarışı küçük bir oy farkıyla kazanan Wilson, böylece ikinci başkanlık dönemine adım attı. Seçim sürecinde Wilson'ın tarafsızlık politikası, seçmenler nezdinde belirleyici bir faktör olarak öne çıktı.\n\nBu seçim, Amerikan siyasi tarihi açısından kritik bir dönemeçte gerçekleşti. Wilson'ın seçim kampanyasında vurguladığı savaş dışı kalma vaadine rağmen, göreve başlamasından kısa bir süre sonra ABD'nin I. Dünya Savaşı'na Üçlü İtilaf tarafında dahil olması, ülkenin hem iç hem de dış politikasında köklü değişimleri beraberinde getirdi. Wilson'ın ikinci dönemi, Amerika'nın küresel siyasetteki rolünün yeniden tanımlandığı ve savaşın getirdiği toplumsal dönüşümlerin yaşandığı bir süreç olarak tarihe geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg/960px-Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg/500px-Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Woodrow_Wilson-H%26E.jpg/960px-Woodrow_Wilson-H%26E.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Woodrow_Wilson-H%26E.jpg/500px-Woodrow_Wilson-H%26E.jpg",
         "genislik": 960,
-        "yukseklik": 1454,
-        "orijinalGenislik": 2484,
+        "yukseklik": 1243,
+        "orijinalGenislik": 2308,
         "yazar": "Harris & Ewing",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Thomas_Woodrow_Wilson,_Harris_%26_Ewing_bw_photo_portrait,_1919.jpg",
-        "aciklama": "Вудра Вільсан, прэзідэнт Злучаных Штатаў Амерыкі.",
-        "konu": "Woodrow Wilson"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Woodrow_Wilson-H%26E.jpg",
+        "aciklama": "Woodrow Wilson.",
+        "konu": "1916 Amerika Birleşik Devletleri başkanlık seçimleri"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg/960px-Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg/500px-Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg",
-          "genislik": 960,
-          "yukseklik": 1454,
-          "orijinalGenislik": 2484,
-          "yazar": "Harris & Ewing",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Thomas_Woodrow_Wilson,_Harris_%26_Ewing_bw_photo_portrait,_1919.jpg",
-          "aciklama": "Вудра Вільсан, прэзідэнт Злучаных Штатаў Амерыкі.",
-          "konu": "Woodrow Wilson"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Woodrow_Wilson-H%26E.jpg/960px-Woodrow_Wilson-H%26E.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Woodrow_Wilson-H%26E.jpg/500px-Woodrow_Wilson-H%26E.jpg",
-          "genislik": 960,
-          "yukseklik": 1243,
-          "orijinalGenislik": 2308,
-          "yazar": "Harris & Ewing",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Woodrow_Wilson-H%26E.jpg",
-          "aciklama": "Woodrow Wilson.",
-          "konu": "1916 Amerika Birleşik Devletleri başkanlık seçimleri"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1917-ekim-devrimi-bolsevikler-rusyada-iktidari-ele-gecirdiler",
@@ -237,10 +158,10 @@
         "Bolşevik",
         "Rusya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Rusya'da Bolşevik İhtilali ve İktidarın Değişimi",
+      "ozet": "Rusya'da 1917 yılının Kasım ayında gerçekleşen Ekim Devrimi, dünya tarihinin akışını değiştiren en önemli siyasi kırılmalardan biri oldu. Vladimir Lenin önderliğindeki Bolşevik güçler, Petrograd'da başlattıkları organize bir ayaklanma ile o dönemde iktidarda bulunan Geçici Hükûmet'i devirerek yönetimi ele geçirdiler. Bu olay, aynı yılın başlarında yaşanan Şubat Devrimi'nin ardından gelen ikinci büyük hükûmet değişikliği olarak tarihe geçti. Geçici Hükûmet'in I. Dünya Savaşı'nı sürdürme kararı ve halkın beklentilerine yanıt verememesi, Bolşeviklerin işçi konseyleri olan sovyetler üzerindeki etkisini artırmasına zemin hazırladı.\n\nDevrim, sadece Rusya'nın iç siyasetini değil, aynı zamanda küresel ölçekte ideolojik bir dönemi de başlattı. İktidarın Bolşeviklerin eline geçmesi, kısa süre içinde Rus İç Savaşı'nın fitilini ateşledi ve ülkenin uzun yıllar sürecek bir çatışma ve yeniden yapılanma sürecine girmesine neden oldu. Bu süreç, nihayetinde dünyanın ilk sosyalist devleti olan Sovyetler Birliği'nin kurulmasına giden yolu açtı. Ekim Devrimi, monarşinin yıkılmasından sonra Rusya'da kurulan yeni düzenin, toplumun tüm katmanlarını derinden etkileyen radikal bir dönüşümle şekillenmesini sağladı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Red_Guard_Vulkan_factory.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Red_Guard_Vulkan_factory.jpg",
@@ -254,34 +175,7 @@
         "aciklama": "Red Guards unit of the Vulkan factory in Petrograd.",
         "konu": "Ekim Devrimi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Red_Guard_Vulkan_factory.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Red_Guard_Vulkan_factory.jpg",
-          "genislik": 606,
-          "yukseklik": 389,
-          "orijinalGenislik": 606,
-          "yazar": "Viktor Bulla",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Red_Guard_Vulkan_factory.jpg",
-          "aciklama": "Red Guards unit of the Vulkan factory in Petrograd.",
-          "konu": "Ekim Devrimi"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_%28Bolsheviks%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_%28Bolsheviks%29.jpg",
-          "genislik": 815,
-          "yukseklik": 584,
-          "orijinalGenislik": 815,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_(Bolsheviks).jpg",
-          "aciklama": "The presidium of the 9th Congress of the Russian Communist Party (Bolsheviks). 1920. Sitting (from left): Abel Yenukidze, Mikhail Kalinin, Nikolai Bukharin, Mikhail Tomsky, Mikhail Lashevich, Lev Kame",
-          "konu": "Bolşevik"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1917-i-dunya-savasi-ingiliz-kuvvetleri-osmanli-devleti",
@@ -293,51 +187,12 @@
         "Osmanlı İmparatorluğu",
         "Gazze"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
-        "genislik": 960,
-        "yukseklik": 974,
-        "orijinalGenislik": 1300,
-        "yazar": "User:Hohum",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:WWImontage.jpg",
-        "aciklama": "Montage for WWI article. Top: Trenches - Image:The_badly_shelled_main_road_to_Bapaume.jpg (Trenches on the Western Front) Left Upper: Image:AlbatDIII.jpg (German Albatros D.III biplane fighters of Jas",
-        "konu": "I. Dünya Savaşı"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
-          "genislik": 960,
-          "yukseklik": 974,
-          "orijinalGenislik": 1300,
-          "yazar": "User:Hohum",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:WWImontage.jpg",
-          "aciklama": "Montage for WWI article. Top: Trenches - Image:The_badly_shelled_main_road_to_Bapaume.jpg (Trenches on the Western Front) Left Upper: Image:AlbatDIII.jpg (German Albatros D.III biplane fighters of Jas",
-          "konu": "I. Dünya Savaşı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Images_of_war_23-25_from_Gaza%2C_by_Jaber_Badwen%2C_IMG_6315.jpg/960px-Images_of_war_23-25_from_Gaza%2C_by_Jaber_Badwen%2C_IMG_6315.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Images_of_war_23-25_from_Gaza%2C_by_Jaber_Badwen%2C_IMG_6315.jpg/500px-Images_of_war_23-25_from_Gaza%2C_by_Jaber_Badwen%2C_IMG_6315.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 4032,
-          "yazar": "Jaber Jehad Badwan",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Images_of_war_23-25_from_Gaza,_by_Jaber_Badwen,_IMG_6315.jpg",
-          "aciklama": "Omar Mukhtar Street in Gaza City, showing damage from Israeli bombing, February 23, 2025.",
-          "konu": "Gazze"
-        }
-      ]
+      "baslik": "İngiliz Kuvvetlerinin Gazze'yi Ele Geçirmesi",
+      "ozet": "I. Dünya Savaşı'nın Orta Doğu cephesinde kritik bir dönüm noktası olan Gazze Muharebeleri, İngiliz ordusunun bölgedeki Osmanlı savunmasını aşmasıyla sonuçlandı. 7 Kasım 1917 tarihinde İngiliz birlikleri, uzun süredir devam eden çatışmaların ardından Gazze üzerindeki kontrolü tamamen ele geçirdi. Bu gelişme, Osmanlı İmparatorluğu'nun bölgedeki savunma hattının kırılmasına ve İngilizlerin Filistin topraklarına doğru ilerleyişinin hızlanmasına neden oldu. Gazze'nin kaybı, Osmanlı Devleti'nin bölgedeki stratejik varlığı açısından büyük bir darbe teşkil ediyordu.\n\nGazze'nin düşüşü, sadece askeri bir mağlubiyet değil, aynı zamanda savaşın seyri üzerinde derin etkileri olan bir olaydı. İngiliz kuvvetlerinin bu zaferi, Kudüs'ün yolunu açan süreçte belirleyici bir adım oldu. Bölgedeki Osmanlı savunma stratejisi bu tarihten sonra ciddi bir sarsıntı geçirdi ve İngilizlerin bölgedeki hakimiyetini pekiştiren bir dizi operasyonun önü açıldı. Bu olay, I. Dünya Savaşı'nın Orta Doğu'daki güç dengelerini kökten değiştiren ve bölgenin geleceğini şekillendiren tarihsel süreçlerden biri olarak kabul edilir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1918-grip-salgini-bati-samoaya-yayildi-yil-sonuna",
@@ -347,10 +202,10 @@
         "Grip",
         "Samoa"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Batı Samoa'da Yıkıcı Grip Salgını",
+      "ozet": "Birinci Dünya Savaşı'nın son günlerinde dünya genelini etkisi altına alan İspanyol gribi, 7 Kasım 1918 tarihinde Batı Samoa'ya ulaştı. Talihsiz bir şekilde adaya ulaşan virüs, kısa sürede hızla yayılarak yerel halk üzerinde yıkıcı bir etki yarattı. Yıl sonuna gelindiğinde, adanın toplam nüfusunun yaklaşık yüzde yirmisine tekabül eden 7.542 kişi, bu salgın nedeniyle hayatını kaybetti. Bu olay, o dönemde izole bir bölge olan Samoa'nın sağlık altyapısının küresel bir pandemi karşısında ne kadar savunmasız kaldığını acı bir şekilde gözler önüne serdi.\n\nSalgının bu denli ölümcül sonuçlar doğurmasının temelinde, adanın dış dünyayla olan kısıtlı bağlantısı ve halkın virüse karşı bağışıklık sisteminin hazırlıksız olması yatmaktaydı. Modern tıbbın henüz bugünkü kadar gelişmediği ve tedavi imkanlarının sınırlı olduğu bu dönemde, grip virüsü hızla yayılarak toplumun sosyal ve ekonomik yapısını derinden sarstı. Batı Samoa'da yaşanan bu trajedi, 1918 pandemisinin sadece büyük şehirleri değil, dünyanın en uzak köşelerini bile nasıl etkilediğinin en somut örneklerinden biri olarak tarihe geçti.",
+      "kategori": "Afet",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/EM_of_influenza_virus.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/EM_of_influenza_virus.jpg",
@@ -363,7 +218,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:EM_of_influenza_virus.jpg",
         "aciklama": "This negative stained transmission electron micrograph (TEM) shows recreated 1918 influenza virions that were collected from supernatants of 1918-infected Madin-Darby Canine Kidney (MDCK) cells cultur",
         "konu": "Grip"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1920-turk-ordusu-gumruyu-ele-gecirdi",
@@ -372,23 +228,12 @@
       "konular": [
         "Gümrü"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Abovyan_street_Gyumri.jpg/960px-Abovyan_street_Gyumri.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Abovyan_street_Gyumri.jpg/500px-Abovyan_street_Gyumri.jpg",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 4032,
-        "yazar": "AnnHairapetian",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Abovyan_street_Gyumri.jpg",
-        "aciklama": "This is a photo of a monument in Armenia identified by the ID",
-        "konu": "Gümrü"
-      }
+      "baslik": "Türk Ordusunun Gümrü'yü Kontrol Altına Alması",
+      "ozet": "Kurtuluş Savaşı'nın Doğu Cephesi'nde önemli bir dönüm noktası olan Gümrü'nün ele geçirilmesi, bölgedeki askeri dengeleri Türkiye lehine değiştiren kritik bir gelişmeydi. Kazım Karabekir Paşa komutasındaki Türk birlikleri, bölgedeki Ermeni kuvvetlerine karşı yürüttüğü başarılı harekat sonucunda şehre girerek stratejik bir üstünlük sağladı. Bu askeri başarı, bölgedeki çatışmaların seyrini belirleyen en önemli unsurlardan biri oldu.\n\nGümrü'nün düşmesi, Ermenistan hükümetini barış görüşmelerine zorlayan temel etkenlerden biri haline geldi. Bu askeri zaferin hemen ardından taraflar arasında diplomatik süreç hız kazandı ve kısa süre sonra Gümrü Antlaşması'nın imzalanmasıyla sonuçlandı. Söz konusu antlaşma, Türkiye Büyük Millet Meclisi hükümetinin uluslararası alanda imzaladığı ilk siyasi belge olma özelliğini taşımaktadır. Bu gelişme, Doğu Cephesi'ndeki askeri harekatın sona ermesini sağlarken, Türk ordusunun buradaki birliklerini Batı Cephesi'ne kaydırmasına olanak tanıyarak milli mücadelenin genel stratejisi açısından da hayati bir rol oynamıştır.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1921-italyada-mussolini-kendisini-ulusal-fasist-partisi-lideri",
@@ -399,10 +244,10 @@
         "Benito Mussolini",
         "Ulusal Faşist Parti"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Benito Mussolini ve Ulusal Faşist Parti'nin Doğuşu",
+      "ozet": "Benito Mussolini, 1921 yılının Kasım ayında Ulusal Faşist Parti'nin liderliğini üstlenerek İtalyan siyasetinde yeni ve radikal bir dönemin kapılarını araladı. Daha önce çeşitli paramiliter gruplar ve mücadele birlikleri üzerinden faaliyet gösteren faşist hareket, bu hamleyle birlikte kurumsal bir siyasi kimlik kazanarak örgütlü bir yapıya dönüştü. Mussolini'nin liderliğinde parti, kısa sürede İtalya'nın toplumsal ve siyasi atmosferinde baskın bir güç haline gelmeye başladı.\n\nBu gelişme, İtalya'nın Birinci Dünya Savaşı sonrasındaki çalkantılı döneminde faşizmin yükselişini simgeleyen kritik bir eşikti. Milliyetçilik, popülizm ve korporatizm gibi ideolojik temeller üzerine inşa edilen Ulusal Faşist Parti, Mussolini'nin otoriter yönetim anlayışının temel aracı haline geldi. Parti liderliğini devralması, sadece bir siyasi organizasyonun kuruluşu değil, aynı zamanda Mussolini'nin 1922'deki Roma Yürüyüşü ile zirveye taşıyacağı diktatörlük sürecinin de önemli bir hazırlık aşamasıydı. Bu olay, Avrupa siyasi tarihinde faşist ideolojinin kurumsallaşarak devlet yönetimine sızmasının ilk somut adımlarından biri olarak kabul edilir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
@@ -415,7 +260,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Mussolini_mezzobusto.jpg",
         "aciklama": "Portrait of Benito Mussolini from the second edition of Adolf Dresler's Mussolini als Journalist (1939).",
         "konu": "Benito Mussolini"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1929-new-yorkta-modern-sanatlar-muzesi-acildi",
@@ -425,51 +271,24 @@
         "New York",
         "Modern Sanatlar Müzesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Modern Sanatın Kalbi: MoMA Açıldı",
+      "ozet": "Modern Sanatlar Müzesi, kısa adıyla MoMA, 7 Kasım 1929 tarihinde New York'un Manhattan bölgesinde sanatseverlerle buluştu. Orta Manhattan'da 53. Sokak üzerinde kurulan müze, modern sanatın en önemli eserlerini bir araya getirme vizyonuyla hayata geçirildi. Açılışıyla birlikte sanat dünyasında yeni bir dönemin kapılarını aralayan kurum, kısa sürede dünyanın en prestijli sanat merkezlerinden biri haline geldi. Müze, özellikle kübizm, sürrealizm ve soyut sanat akımlarına odaklanan zengin koleksiyonuyla tanınmaktadır. Metropolitan Sanat Müzesi'nin genel sanat anlayışını tamamlayıcı bir rol üstlenen MoMA, modern sanatın özelleşmiş bir platformda sergilenmesi ihtiyacını karşılamak amacıyla kurulmuştur. Günümüzde dünyanın en çok ziyaret edilen müzeleri arasında yer alan kurum, modern sanatın gelişimini belgeleyen ve bu alandaki en ikonik eserleri bünyesinde barındıran küresel bir merkez konumundadır. Müzenin kuruluşu, modern sanatın geniş kitlelere ulaşması ve sanat tarihinin modern döneminin korunması açısından bir dönüm noktası kabul edilir.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/500px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/MoMa_NY_USA_1.jpg/960px-MoMa_NY_USA_1.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/MoMa_NY_USA_1.jpg/500px-MoMa_NY_USA_1.jpg",
         "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 8207,
-        "yazar": "Dllu",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg",
-        "aciklama": "View of the Empire State Building in New York City from the Top of the Rock at 30 Rockefeller Plaza during sunset. The tower was illuminated in green in honor of Climate Week NYC.[1]",
-        "konu": "New York"
+        "yukseklik": 1280,
+        "orijinalGenislik": 1536,
+        "yazar": "hibino",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:MoMa_NY_USA_1.jpg",
+        "aciklama": "Museum of Modern Art, New York City, USAMoma",
+        "konu": "Modern Sanatlar Müzesi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/500px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 8207,
-          "yazar": "Dllu",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg",
-          "aciklama": "View of the Empire State Building in New York City from the Top of the Rock at 30 Rockefeller Plaza during sunset. The tower was illuminated in green in honor of Climate Week NYC.[1]",
-          "konu": "New York"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/MoMa_NY_USA_1.jpg/960px-MoMa_NY_USA_1.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/MoMa_NY_USA_1.jpg/500px-MoMa_NY_USA_1.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 1536,
-          "yazar": "hibino",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:MoMa_NY_USA_1.jpg",
-          "aciklama": "Museum of Modern Art, New York City, USAMoma",
-          "konu": "Modern Sanatlar Müzesi"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1936-macar-muzisyen-bela-bartok-ankara-halkevinde-konferans",
@@ -481,10 +300,10 @@
         "Ankara",
         "Halkevi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Béla Bartók Ankara'da Konferans Veriyor",
+      "ozet": "Dünyaca ünlü Macar besteci ve piyanist Béla Bartók, 1936 yılında gerçekleştirdiği Türkiye ziyareti kapsamında Ankara Halkevi'nde müzik üzerine bir konferans verdi. Etnomüzikolojinin öncü isimlerinden biri olan Bartók'un bu ziyareti, genç Cumhuriyetin kültürel ve sanatsal alanda Batı ile kurduğu entelektüel köprülerin bir parçası olarak kabul edilmektedir. Sanatçı, halk müziği derlemeleri ve çalışmalarıyla tanınan biri olarak, Türk müziğinin köklerine ve yapısına duyduğu ilgiyi bu tür akademik ve sanatsal etkinliklerle pekiştirmiştir.\n\nBartók'un Türkiye'deki bu temasları, Türk müziğinin derlenmesi ve incelenmesi sürecine uluslararası bir perspektif kazandırmıştır. Anadolu'nun zengin müzikal mirasını yakından tanıma fırsatı bulan besteci, kendi çalışmalarıyla da Türk müzikologlara ilham kaynağı olmuştur. Ankara Halkevi'nde gerçekleşen bu etkinlik, dönem Türkiye'sinin sanata ve bilimsel araştırmalara verdiği önemi göstermesi açısından tarihsel bir değere sahiptir.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bart%C3%B3k_B%C3%A9la_1927.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bart%C3%B3k_B%C3%A9la_1927.jpg",
@@ -498,34 +317,7 @@
         "aciklama": "Béla Bartók in 1927",
         "konu": "Bela Bartok"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bart%C3%B3k_B%C3%A9la_1927.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bart%C3%B3k_B%C3%A9la_1927.jpg",
-          "genislik": 411,
-          "yukseklik": 379,
-          "orijinalGenislik": 411,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bart%C3%B3k_B%C3%A9la_1927.jpg",
-          "aciklama": "Béla Bartók in 1927",
-          "konu": "Bela Bartok"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 7735,
-          "yazar": "A.Savin",
-          "lisans": "FAL",
-          "lisansUrl": "http://artlibre.org/licence/lal/en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
-          "konu": "Ankara"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1942-turk-inkilap-enstitusu-kuruldu",
@@ -548,10 +340,10 @@
         "Franklin Delano Roosevelt",
         "1944 Amerika Birleşik Devletleri başkanlık seçimleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Franklin D. Roosevelt Dördüncü Kez Başkan Seçildi",
+      "ozet": "Franklin D. Roosevelt, 1944 yılında düzenlenen başkanlık seçimlerinde rakibi Thomas E. Dewey'i geride bırakarak ABD tarihinde bir ilke imza attı. Bu zaferiyle birlikte Roosevelt, ülkenin en uzun süre görev yapan başkanı unvanını pekiştirirken, toplamda dört kez seçilen tek siyasetçi olma başarısını gösterdi. Seçim süreci, İkinci Dünya Savaşı'nın tüm şiddetiyle devam ettiği bir döneme denk gelmesi nedeniyle büyük bir stratejik önem taşıyordu.\n\nRoosevelt'in bu dördüncü dönem zaferi, Amerika Birleşik Devletleri'nin küresel ölçekteki savaş politikalarının devamlılığı açısından kritik bir dönüm noktasıydı. Büyük Buhran döneminde başlattığı reformlarla siyasi kariyerinde yükselen Roosevelt, savaş yıllarında ise ülkesini birleştirici bir figür olarak öne çıktı. Ancak bu seçimden kısa bir süre sonra, 1945 yılının başlarında hayatını kaybetmesiyle başkanlık görevini bırakmak zorunda kaldı. Onun bu uzun soluklu liderliği, Amerikan siyasi tarihinde anayasal sınırlamaların tartışılmasına ve sonrasında başkanlık süresinin sınırlandırılmasına giden sürecin de önünü açtı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/960px-FDR_1944_Color_Portrait.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/500px-FDR_1944_Color_Portrait.jpg",
@@ -565,34 +357,7 @@
         "aciklama": "Original color transparency of FDR taken at 1944 Official Campaign Portrait session by Leon A. Perskie, Hyde Park, New York, August 22, 1944. Gift of Beatrice Perskie Foxman and Dr. Stanley B. Foxman.",
         "konu": "Franklin Delano Roosevelt"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/960px-FDR_1944_Color_Portrait.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/500px-FDR_1944_Color_Portrait.jpg",
-          "genislik": 960,
-          "yukseklik": 1384,
-          "orijinalGenislik": 2754,
-          "yazar": "Leon Perskie",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:FDR_1944_Color_Portrait.jpg",
-          "aciklama": "Original color transparency of FDR taken at 1944 Official Campaign Portrait session by Leon A. Perskie, Hyde Park, New York, August 22, 1944. Gift of Beatrice Perskie Foxman and Dr. Stanley B. Foxman.",
-          "konu": "Franklin Delano Roosevelt"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/FDRin1942.jpg/960px-FDRin1942.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/FDRin1942.jpg/500px-FDRin1942.jpg",
-          "genislik": 960,
-          "yukseklik": 1263,
-          "orijinalGenislik": 1421,
-          "yazar": "Farm Security Administration - Office of War Information Photograph Collection",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:FDRin1942.jpg",
-          "aciklama": "Franklin D. Roosevelt, President of the United States. Portrait photograph made on the steps of St John's Episcopal church after he had attended prayer services marking the ninth anniversary of this f",
-          "konu": "1944 Amerika Birleşik Devletleri başkanlık seçimleri"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1953-istanbul-zeyrek-camiinde-bizans-doneminden-kalma-mozaikler",
@@ -603,10 +368,10 @@
         "Zeyrek Camii",
         "Bizans İmparatorluğu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Zeyrek Camii'nde Bizans Mozaikleri Keşfedildi",
+      "ozet": "İstanbul'un Fatih ilçesinde bulunan ve tarihsel olarak Pantokrator Manastırı kompleksi içerisinde yer alan Zeyrek Camii'nde, 7 Kasım 1953 tarihinde gerçekleştirilen çalışmalar sırasında Bizans döneminden kalma önemli mozaik süslemeler keşfedildi. Ayasofya'dan sonra şehrin ayakta kalan en büyük Bizans dini yapısı olma özelliğini taşıyan bu cami, Orta Bizans mimarisinin en dikkat çekici örneklerinden biri olarak kabul edilmektedir. Yapılan bu keşif, yapının tarihsel katmanlarını ve Bizans sanatının İstanbul'daki izlerini anlamak adına büyük bir önem taşımaktadır. İki eski kilise ve bir şapelin birleştirilmesiyle oluşturulan bu yapı, Osmanlı döneminde camiye dönüştürülmüş olsa da, içindeki mozaikler Bizans döneminin sanatsal zenginliğini günümüze taşımaktadır. Bu buluş, İstanbul'un çok katmanlı kültürel mirasının korunması ve belgelenmesi sürecinde kritik bir aşama olarak tarihe geçmiştir.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Istanbul_Zeyrek_Mosque_%2854523853532%29.jpg/960px-Istanbul_Zeyrek_Mosque_%2854523853532%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Istanbul_Zeyrek_Mosque_%2854523853532%29.jpg/500px-Istanbul_Zeyrek_Mosque_%2854523853532%29.jpg",
@@ -619,7 +384,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Istanbul_Zeyrek_Mosque_(54523853532).jpg",
         "aciklama": "Istanbul (Turkey)",
         "konu": "Zeyrek Camii"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1962-guney-afrikada-mandela-ulkeyi-yasa-disi-yollardan",
@@ -629,10 +395,10 @@
         "Güney Afrika Cumhuriyeti",
         "Mandela"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Nelson Mandela'nın İlk Hapis Cezası",
+      "ozet": "Güney Afrika'da Apartheid rejimine karşı yürüttüğü mücadeleyle tanınan Nelson Mandela, 1962 yılında ülkeyi izinsiz terk etmeye çalışmak ve devletin otoritesine karşı gelmek suçlamalarıyla hakim karşısına çıktı. Mahkeme, Mandela'nın faaliyetlerini yasa dışı bularak onu beş yıl hapis cezasına mahkum etti. Bu karar, Mandela'nın uzun sürecek hapis hayatının ve siyasi mücadelesinin dönüm noktalarından biri olarak kabul edilmektedir. \n\nMandela'nın bu dönemdeki tutuklanması ve ardından gelen yargı süreçleri, Güney Afrika'daki ırkçı rejime karşı dünya genelinde artan tepkilerin bir simgesi haline geldi. Söz konusu ceza, Mandela'nın sadece bir aktivist olarak değil, aynı zamanda sistemli bir baskı rejimine karşı duran bir siyasi figür olarak konumunu pekiştirdi. Bu süreç, ilerleyen yıllarda Mandela'nın çok daha ağır suçlamalarla yargılanacağı ve yaklaşık 27 yıl boyunca sürecek olan mahkumiyet döneminin de habercisi niteliğindeydi.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Nelson_Mandela%2C_2000_%285%29_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Nelson_Mandela%2C_2000_%285%29_%28cropped%29.jpg",
@@ -645,7 +411,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Nelson_Mandela,_2000_(5)_(cropped).jpg",
         "aciklama": "Nelson Mandela at LSE on 6 April 2000 to deliver a lecture titled 'Africa and Its Position in the World' at the Peacock Theatre.",
         "konu": "Mandela"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1962-uluslararasi-evlilik-oluru-en-dusuk-evlilik-yasi",
@@ -671,51 +438,12 @@
         "Bursa Belediyesi",
         "Motorlu Taşıt İşçileri Sendikası"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Streik_%C3%B6ffentlicher_Dienst_in_Hamburg_am_12.4.2018.JPG/960px-Streik_%C3%B6ffentlicher_Dienst_in_Hamburg_am_12.4.2018.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Streik_%C3%B6ffentlicher_Dienst_in_Hamburg_am_12.4.2018.JPG/500px-Streik_%C3%B6ffentlicher_Dienst_in_Hamburg_am_12.4.2018.JPG",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 5472,
-        "yazar": "selbst erstellt",
-        "lisans": "Copyrighted free use",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Streik_%C3%B6ffentlicher_Dienst_in_Hamburg_am_12.4.2018.JPG",
-        "aciklama": "Streik Öffentlicher Dienst in Hamburg am 12. April 2018",
-        "konu": "Grev"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Streik_%C3%B6ffentlicher_Dienst_in_Hamburg_am_12.4.2018.JPG/960px-Streik_%C3%B6ffentlicher_Dienst_in_Hamburg_am_12.4.2018.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Streik_%C3%B6ffentlicher_Dienst_in_Hamburg_am_12.4.2018.JPG/500px-Streik_%C3%B6ffentlicher_Dienst_in_Hamburg_am_12.4.2018.JPG",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 5472,
-          "yazar": "selbst erstellt",
-          "lisans": "Copyrighted free use",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Streik_%C3%B6ffentlicher_Dienst_in_Hamburg_am_12.4.2018.JPG",
-          "aciklama": "Streik Öffentlicher Dienst in Hamburg am 12. April 2018",
-          "konu": "Grev"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Teleferik%2C_Uluda%C4%9F.jpg/960px-Teleferik%2C_Uluda%C4%9F.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Teleferik%2C_Uluda%C4%9F.jpg/500px-Teleferik%2C_Uluda%C4%9F.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 3888,
-          "yazar": "Ahmet Baris Isitan",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Teleferik,_Uluda%C4%9F.jpg",
-          "aciklama": "Bursa - Mt. Uludağ gondola lift",
-          "konu": "Bursa"
-        }
-      ]
+      "baslik": "Türkiye'de İlk Yasal Grev Bursa'da Başladı",
+      "ozet": "Türkiye çalışma hayatında bir dönüm noktası olan ilk yasal grev, 7 Kasım 1963 tarihinde Bursa'da gerçekleşti. Motorlu Taşıt İşçileri Sendikası'na üye olan 222 Bursa Belediyesi Otobüs İşletmesi çalışanı, yaşadıkları ekonomik ve sosyal sorunlara dikkat çekmek amacıyla iş bırakma eylemine gitti. Bu eylem, Türkiye'de işçi haklarının korunması ve sendikal faaliyetlerin yasal bir zemine kavuşması adına atılan en somut adımlardan biri olarak tarihe geçti.\n\nSanayi Devrimi ile birlikte dünya genelinde işçilerin en önemli mücadele aracı haline gelen grev hakkı, Türkiye'de uzun süre tartışmalı bir konu olmuştu. 1960'lı yılların başında kabul edilen yeni mevzuatla birlikte grev, işçilerin toplu pazarlık sürecindeki en güçlü yasal silahı olarak tanındı. Bursa'daki bu eylem, yasal düzenlemelerin ardından uygulanan ilk örnek olması bakımından büyük önem taşır. İşçilerin örgütlü bir şekilde hak arama mücadelesine girişmesi, Türkiye'deki işçi hareketlerinin gelişimi ve sendikal bilincin yerleşmesi açısından kritik bir eşik oluşturmuştur.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1964-cumhurbaskani-cemal-gursel-omur-boyu-hapse-mahkum",
@@ -725,51 +453,24 @@
         "Cemal Gürsel",
         "Celal Bayar"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Celal Bayar'ın Cumhurbaşkanı Cemal Gürsel Tarafından Affedilmesi",
+      "ozet": "Türkiye'nin üçüncü cumhurbaşkanı olan Celal Bayar, 27 Mayıs 1960 askerî müdahalesinin ardından Yassıada yargılamaları sonucunda anayasayı ihlal suçundan hüküm giymiş ve idama mahkûm edilmişti. Ancak cezası daha sonra müebbet hapse çevrilerek Kayseri Bölge Cezaevi'ne nakledilmişti. 7 Kasım 1964 tarihinde Cumhurbaşkanı Cemal Gürsel, Bayar'ın sağlık durumunu ve ilerleyen yaşını gerekçe göstererek anayasal yetkisini kullandı ve Bayar'ın cezasını affetti. Bu karar, Türk siyasi tarihinde 27 Mayıs sonrası oluşan kutuplaşmanın yumuşatılması adına atılan önemli adımlardan biri olarak kabul edilir. Bayar, serbest bırakıldıktan sonra siyasi faaliyetlerine devam etmese de, Türkiye'nin çok partili hayata geçişindeki rolü ve Demokrat Parti dönemiyle anılmaya devam etti. Bu af, dönemin siyasi atmosferinde tartışmalara yol açsa da, toplumsal hafızada darbe sonrası dönemin kapanması ve normalleşme sürecine geçişin bir sembolü haline gelmiştir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg/960px-Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg/500px-Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Celal_Bayar_%28Cropped%29.jpg/960px-Celal_Bayar_%28Cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Celal_Bayar_%28Cropped%29.jpg/500px-Celal_Bayar_%28Cropped%29.jpg",
         "genislik": 960,
-        "yukseklik": 1286,
-        "orijinalGenislik": 1160,
-        "yazar": "THA",
-        "lisans": "CC0",
-        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Cemal_G%C3%BCrsel_(1960)_(cropped).jpg",
-        "aciklama": "Photograph of Cemal Gürsel, fourth President of Turkey.",
-        "konu": "Cemal Gürsel"
+        "yukseklik": 1275,
+        "orijinalGenislik": 1031,
+        "yazar": "Türkiye Büyük Millet Meclisi Arşivi (TBMM)",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Celal_Bayar_(Cropped).jpg",
+        "aciklama": "Mahmut Celalettin Bayar (1883–1986) was a former Member of Turkish Parliament (TBMM) and the 3’rd President of the Republic of Turkey",
+        "konu": "Celal Bayar"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg/960px-Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg/500px-Cemal_G%C3%BCrsel_%281960%29_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1286,
-          "orijinalGenislik": 1160,
-          "yazar": "THA",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Cemal_G%C3%BCrsel_(1960)_(cropped).jpg",
-          "aciklama": "Photograph of Cemal Gürsel, fourth President of Turkey.",
-          "konu": "Cemal Gürsel"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Celal_Bayar_%28Cropped%29.jpg/960px-Celal_Bayar_%28Cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Celal_Bayar_%28Cropped%29.jpg/500px-Celal_Bayar_%28Cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1275,
-          "orijinalGenislik": 1031,
-          "yazar": "Türkiye Büyük Millet Meclisi Arşivi (TBMM)",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Celal_Bayar_(Cropped).jpg",
-          "aciklama": "Mahmut Celalettin Bayar (1883–1986) was a former Member of Turkish Parliament (TBMM) and the 3’rd President of the Republic of Turkey",
-          "konu": "Celal Bayar"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1972-richard-nixon-abd-baskani-secildi",
@@ -779,10 +480,10 @@
         "Richard Nixon",
         "1972 Amerika Birleşik Devletleri başkanlık seçimleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Richard Nixon İkinci Kez ABD Başkanı Seçildi",
+      "ozet": "Amerika Birleşik Devletleri'nde 7 Kasım 1972 tarihinde düzenlenen başkanlık seçimleri, mevcut Cumhuriyetçi Başkan Richard Nixon ile Demokrat Parti adayı George McGovern arasında gerçekleşti. Seçim sonuçları netleştiğinde Nixon, rakibine karşı büyük bir fark atarak ikinci dönem başkanlık görevine seçildi. Bu zafer, Nixon'ın ilk dönemindeki politikalarının seçmenler tarafından geniş ölçüde onaylandığının bir göstergesi olarak kabul edildi.\n\nNixon'ın başkanlık kariyeri, Vietnam Savaşı'nın kademeli olarak sonlandırılması, Çin ve Sovyetler Birliği ile başlatılan yumuşama süreci ve Ay'a yapılan Apollo 11 yolculuğu gibi tarihi dönüm noktalarıyla dikkat çekmiştir. Ancak ikinci başkanlık dönemi, ilerleyen süreçte ortaya çıkan ve Amerikan siyasi tarihinin en büyük krizlerinden biri olan Watergate skandalı ile gölgelenmiştir. Bu skandal, Nixon'ın istifa etmesine ve görevini erken bırakmak zorunda kalan tek ABD başkanı olmasına yol açmıştır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/960px-Richard_Nixon_presidential_portrait_%281%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/500px-Richard_Nixon_presidential_portrait_%281%29.jpg",
@@ -796,34 +497,7 @@
         "aciklama": "Richard Nixon's presidential portrait. Retouch has not been completed yet.",
         "konu": "Richard Nixon"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/960px-Richard_Nixon_presidential_portrait_%281%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/500px-Richard_Nixon_presidential_portrait_%281%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 2205,
-          "yazar": "Department of Defense. Department of the Army. Office of the Deputy Chief of Staff for Operations. U.S. Army Audiovisual Center. (ca. 1974 -",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Richard_Nixon_presidential_portrait_(1).jpg",
-          "aciklama": "Richard Nixon's presidential portrait. Retouch has not been completed yet.",
-          "konu": "Richard Nixon"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Richard_M._Nixon%2C_ca._1935_-_1982_-_NARA_-_530679.jpg/960px-Richard_M._Nixon%2C_ca._1935_-_1982_-_NARA_-_530679.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Richard_M._Nixon%2C_ca._1935_-_1982_-_NARA_-_530679.jpg/500px-Richard_M._Nixon%2C_ca._1935_-_1982_-_NARA_-_530679.jpg",
-          "genislik": 960,
-          "yukseklik": 1134,
-          "orijinalGenislik": 2539,
-          "yazar": "Unknown author or not provided",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Richard_M._Nixon,_ca._1935_-_1982_-_NARA_-_530679.jpg",
-          "aciklama": null,
-          "konu": "1972 Amerika Birleşik Devletleri başkanlık seçimleri"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1980-toplu-suclarda-gozalti-suresi-30-gunden-90",
@@ -857,10 +531,10 @@
         "1982 Anayasası",
         "Kenan Evren"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "1982 Anayasası'nın Kabulü ve Kenan Evren'in Cumhurbaşkanlığı",
+      "ozet": "Türkiye'de 12 Eylül 1980 askerî müdahalesinin ardından hazırlanan yeni anayasa taslağı, 7 Kasım 1982 tarihinde halkın oyuna sunuldu. Yapılan referandum sonucunda seçmenlerin yüzde 91,37'si anayasaya onay verdi. Bu oylama, Türkiye'nin siyasi tarihinde askerî yönetimin belirlediği bir anayasal düzenin halk tarafından onaylanması ve geçiş sürecinin resmileşmesi açısından kritik bir dönüm noktası oluşturdu. Referandumun kabul edilmesiyle birlikte, dönemin Devlet Başkanı Kenan Evren, Türkiye Cumhuriyeti'nin yedinci cumhurbaşkanı olarak görevine resmen başladı.\n\n1982 Anayasası, Danışma Meclisi tarafından hazırlanmış ve Millî Güvenlik Konseyi tarafından onaylanarak yürürlüğe girmiştir. Devletin temel yapısını ve yönetim biçimini yeniden şekillendiren bu metin, ilk üç maddesinin değiştirilemezliğini güvence altına alan dördüncü maddeyi de içermektedir. Yürürlüğe girdiği tarihten itibaren Türkiye'nin temel hukuk metni olma özelliğini koruyan anayasa, geçen yıllar içerisinde çok sayıda değişikliğe uğramış olsa da, Türk siyasi hayatında uzun süreli bir dönemi temsil etmeye devam etmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Constitution_of_the_Republic_of_T%C3%BCrkiye_%281982%29.pdf/page1-960px-Constitution_of_the_Republic_of_T%C3%BCrkiye_%281982%29.pdf.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Constitution_of_the_Republic_of_T%C3%BCrkiye_%281982%29.pdf/page1-960px-Constitution_of_the_Republic_of_T%C3%BCrkiye_%281982%29.pdf.jpg",
@@ -873,7 +547,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Constitution_of_the_Republic_of_T%C3%BCrkiye_(1982).pdf",
         "aciklama": "Constitution of the Republic of Türkiye (1982)",
         "konu": "1982 Anayasası"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1986-yonetmen-zeki-oktenin-pehlivan-filmi-uluslararasi-olimpiyat",
@@ -911,10 +586,10 @@
       "konular": [
         "açlık grevi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Cezaevlerinde Tek Tip Elbise Uygulamasına Karşı Açlık Grevi",
+      "ozet": "Kasım 1988'de Türkiye genelindeki cezaevlerinde eş zamanlı olarak büyük çaplı bir açlık grevi eylemi patlak verdi. Yaklaşık bin mahkumun katılımıyla gerçekleştirilen bu protesto, cezaevi yönetimlerinin uygulamaya koyduğu tek tip elbise giyme zorunluluğu ve mahkumların nakli sırasında kullanılan sevk zinciri yöntemine karşı bir tepki olarak gelişti. Mahkumlar, bu uygulamaların kişisel onurlarına ve temel insan haklarına aykırı olduğunu savunarak seslerini duyurmaya çalıştı.\n\nAçlık grevi, bireylerin belirli taleplerin karşılanması veya haksız olarak nitelendirilen uygulamaların durdurulması amacıyla vücudun ihtiyaç duyduğu temel besinleri almayı reddettiği pasif bir direniş yöntemidir. 1988 yılındaki bu eylem, Türkiye'deki cezaevi koşullarının ve tutuklulara yönelik disiplin uygulamalarının kamuoyunda yoğun şekilde tartışılmasına yol açtı. İdari makamlar ile mahkumlar arasındaki gerilimi tırmandıran bu süreç, cezaevi politikalarının mahkumlar üzerindeki psikolojik ve fiziksel etkileri konusunda toplumsal bir farkındalık yaratmayı hedefliyordu. Eylem, cezaevi disiplin yönetmeliklerinin insan hakları standartlarıyla uyumu konusunda uzun süre gündemde kalan bir konu haline geldi.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bundesarchiv_Bild_183-1990-0408-009%2C_Erfurt%2C_nach_Hungerstreik_in_der_MfS-Zentrale.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bundesarchiv_Bild_183-1990-0408-009%2C_Erfurt%2C_nach_Hungerstreik_in_der_MfS-Zentrale.jpg",
@@ -927,7 +602,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1990-0408-009,_Erfurt,_nach_Hungerstreik_in_der_MfS-Zentrale.jpg",
         "aciklama": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. ADN- Ludwig 8.4.90-Erfurt: Die Hungerst",
         "konu": "açlık grevi"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1991-basketbol-yildizi-magic-johnson-hiv-testinin-pozitif",
@@ -938,64 +614,24 @@
         "Magic Johnson",
         "HIV"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Magic Johnson'ın HIV Nedeniyle Emeklilik Kararı",
+      "ozet": "Los Angeles Lakers'ın yıldız oyun kurucusu Magic Johnson, 7 Kasım 1991 tarihinde düzenlediği basın toplantısında HIV virüsü taşıdığını kamuoyuna açıklayarak tüm dünyayı şoke etti. Bu beklenmedik haberin ardından Johnson, profesyonel basketbol kariyerini derhal sonlandırdığını duyurdu. O dönemde HIV ve AIDS hakkındaki toplumsal önyargılar ve bilgi eksikliği nedeniyle bu açıklama, spor dünyasında büyük bir yankı uyandırdı ve hastalığın algılanış biçimini kökten değiştirdi.\n\nJohnson'ın bu cesur açıklaması, HIV'in sadece belirli grupları etkileyen bir hastalık olduğu yönündeki yanlış kanıların yıkılmasına yardımcı oldu. Sporcunun hastalığıyla mücadelesini açıkça paylaşması, HIV ve AIDS konusunda küresel çapta bir farkındalık dalgası başlattı. Johnson, emeklilik kararının ardından basketbol sahalarına kısa süreli dönüşler yapsa da, asıl mirasını HIV ile yaşayan bireylerin haklarını savunarak ve hastalığın önlenmesi için yürüttüğü çalışmalarla oluşturdu. Bugün Magic Johnson, sadece saha içindeki başarılarıyla değil, aynı zamanda bu zorlu süreçteki duruşuyla da spor tarihinin en etkili figürlerinden biri olarak kabul edilmektedir.",
+      "kategori": "Spor",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Carter_vs_Gasol%2C_Lakers_vs_Magic.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Carter_vs_Gasol%2C_Lakers_vs_Magic.jpg",
-        "genislik": 758,
-        "yukseklik": 568,
-        "orijinalGenislik": 758,
-        "yazar": "Tim Wang",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Carter_vs_Gasol,_Lakers_vs_Magic.jpg",
-        "aciklama": "Vince Carter goes up for a layup against Pau Gasol",
-        "konu": "Basketbol"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg/960px-Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg/500px-Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1279,
+        "orijinalGenislik": 1295,
+        "yazar": "Daniel Benavides from Austin, TX",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Magic_Johnson_at_SXSW_2022_(51958828669)_(cropped).jpg",
+        "aciklama": "Magic Johnson at SXSW 2022",
+        "konu": "Magic Johnson"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Carter_vs_Gasol%2C_Lakers_vs_Magic.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Carter_vs_Gasol%2C_Lakers_vs_Magic.jpg",
-          "genislik": 758,
-          "yukseklik": 568,
-          "orijinalGenislik": 758,
-          "yazar": "Tim Wang",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Carter_vs_Gasol,_Lakers_vs_Magic.jpg",
-          "aciklama": "Vince Carter goes up for a layup against Pau Gasol",
-          "konu": "Basketbol"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg/960px-Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg/500px-Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1279,
-          "orijinalGenislik": 1295,
-          "yazar": "Daniel Benavides from Austin, TX",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Magic_Johnson_at_SXSW_2022_(51958828669)_(cropped).jpg",
-          "aciklama": "Magic Johnson at SXSW 2022",
-          "konu": "Magic Johnson"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/HIV-budding-Color.jpg/960px-HIV-budding-Color.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/HIV-budding-Color.jpg/500px-HIV-budding-Color.jpg",
-          "genislik": 960,
-          "yukseklik": 638,
-          "orijinalGenislik": 2967,
-          "yazar": "Photo Credit: C. Goldsmith Content Providers: CDC/ C. Goldsmith, P. Feorino, E. L. Palmer, W. R. McManus",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:HIV-budding-Color.jpg",
-          "aciklama": "Scanning electron micrograph of HIV-1 budding (in green) from cultured lymphocyte. This image has been colored to highlight important features; see PHIL 1197 for original black and white view of this ",
-          "konu": "HIV"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1996-nijerya-hava-yollarina-ait-boeing-727-tipi-bir",
@@ -1006,23 +642,12 @@
         "Boeing-727",
         "Lagos"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/2014_Tinubu_Square_Lagos_Nigeria_14640600637.jpg/960px-2014_Tinubu_Square_Lagos_Nigeria_14640600637.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/2014_Tinubu_Square_Lagos_Nigeria_14640600637.jpg/500px-2014_Tinubu_Square_Lagos_Nigeria_14640600637.jpg",
-        "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 5312,
-        "yazar": "Jeremy Weate from Abuja, Nigeria",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:2014_Tinubu_Square_Lagos_Nigeria_14640600637.jpg",
-        "aciklama": "Tinubu Square, Lagos, Nigeria",
-        "konu": "Lagos"
-      }
+      "baslik": "Nijerya'da Büyük Havacılık Faciası",
+      "ozet": "Nijerya Hava Yolları'na ait Boeing-727 tipi bir yolcu uçağı, 7 Kasım 1996 tarihinde Lagos şehri yakınlarında meydana gelen trajik bir kaza sonucu düştü. Uçağın Lagos'un yaklaşık 40 mil güneydoğusunda bulunan bir lagüne çakılmasıyla uçakta bulunan 143 yolcu ve mürettebatın tamamı hayatını kaybetti. Bu olay, Nijerya havacılık tarihindeki en büyük kayıplardan biri olarak kayıtlara geçti.\n\nKaza, ülkenin en büyük şehri ve o dönemdeki ekonomik merkezi olan Lagos çevresinde büyük bir üzüntüye neden oldu. Uçağın düşüş nedeni ve teknik detaylar üzerine yapılan incelemeler, havacılık güvenliği standartlarının bölgedeki önemini bir kez daha gündeme getirdi. O dönemde Nijerya'nın ulaşım altyapısı ve hava yolu taşımacılığı, ülkenin hızla büyüyen nüfusu ve ekonomik faaliyetleri göz önüne alındığında kritik bir öneme sahipti. Bu elim kaza, bölgedeki hava yolu güvenliği ve denetim mekanizmalarının geliştirilmesi gerekliliğini vurgulayan acı bir dönüm noktası oldu.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1999-yasemin-dalkilic-tupsuz-dalmada-dunya-rekoru-kirdi",
@@ -1048,64 +673,24 @@
         "George W. Bush",
         "Amerika Birleşik Devletleri Yüksek Mahkemesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "ABD Başkanlık Seçimlerinde Tarihi Belirsizlik",
+      "ozet": "Amerika Birleşik Devletleri'nde 7 Kasım 2000 tarihinde düzenlenen 54. başkanlık seçimleri, Amerikan siyasi tarihinin en tartışmalı süreçlerinden biri olarak kayıtlara geçti. Demokrat Parti adayı Al Gore, halk oylamasında rakibi Cumhuriyetçi George W. Bush'tan daha fazla oy almasına rağmen, Seçiciler Kurulu'ndaki delege dağılımı nedeniyle seçim sonuçları uzun süre netleşemedi. Özellikle Florida eyaletindeki oyların yeniden sayımıyla ilgili yaşanan hukuki süreç, ülkeyi haftalar süren bir belirsizliğe sürükledi.\n\nBu kriz, ABD Yüksek Mahkemesi'nin 12 Aralık 2000'de verdiği kritik kararla son buldu. Mahkemenin oyların yeniden sayımını durdurması üzerine George W. Bush, başkanlık yarışının galibi ilan edildi. Al Gore, mahkeme kararının ardından 13 Aralık'ta yenilgiyi kabul ederek rakibini tebrik etti. Bu seçim, 1888 yılından bu yana halk oylamasında daha fazla oy almasına rağmen Seçiciler Kurulu'nda yeterli delegeye ulaşamadığı için kaybeden ilk aday vakası olması bakımından Amerikan seçim sistemindeki yapısal tartışmaları yeniden gündeme taşıdı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/GeorgeWBush_%281%29.jpg/960px-GeorgeWBush_%281%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/GeorgeWBush_%281%29.jpg/500px-GeorgeWBush_%281%29.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif/lossy-page1-960px-President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif/lossy-page1-960px-President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif.jpg",
         "genislik": 960,
-        "yukseklik": 1280,
-        "orijinalGenislik": 1425,
-        "yazar": "White House photo by Eric Draper",
+        "yukseklik": 1217,
+        "orijinalGenislik": 2366,
+        "yazar": "Eric Draper",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:GeorgeWBush_(1).jpg",
-        "aciklama": "George W. Bush official photo.",
-        "konu": "2000 Amerika Birleşik Devletleri başkanlık seçimleri"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_(blue_tie).tif",
+        "aciklama": "\"Official portrait of President George W. Bush\"",
+        "konu": "George W. Bush"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/GeorgeWBush_%281%29.jpg/960px-GeorgeWBush_%281%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/GeorgeWBush_%281%29.jpg/500px-GeorgeWBush_%281%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 1425,
-          "yazar": "White House photo by Eric Draper",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:GeorgeWBush_(1).jpg",
-          "aciklama": "George W. Bush official photo.",
-          "konu": "2000 Amerika Birleşik Devletleri başkanlık seçimleri"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg/960px-Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg/500px-Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg",
-          "genislik": 960,
-          "yukseklik": 1200,
-          "orijinalGenislik": 2400,
-          "yazar": "Unknown photographer",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Al_Gore,_Vice_President_of_the_United_States,_official_portrait_1994.jpg",
-          "aciklama": null,
-          "konu": "Al Gore"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif/lossy-page1-960px-President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif/lossy-page1-960px-President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif.jpg",
-          "genislik": 960,
-          "yukseklik": 1217,
-          "orijinalGenislik": 2366,
-          "yazar": "Eric Draper",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_(blue_tie).tif",
-          "aciklama": "\"Official portrait of President George W. Bush\"",
-          "konu": "George W. Bush"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "2001-ticari-yolcu-ucagi-concorde-15-ay-aradan",
@@ -1114,10 +699,10 @@
       "konular": [
         "Concorde"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Concorde Uçakları Yeniden Gökyüzüyle Buluştu",
+      "ozet": "Havacılık tarihinin en ikonik ve hızlı yolcu uçaklarından biri olan Concorde, 7 Kasım 2001 tarihinde ticari uçuşlarına geri döndü. Temmuz 2000'de Paris'te yaşanan trajik kazanın ardından güvenlik endişeleri nedeniyle tüm uçuşları durdurulan bu süpersonik hava taşıtları, yaklaşık 15 aylık bir aradan sonra British Airways ve Air France tarafından yeniden seferlere dahil edildi. Bu süreçte uçakların güvenlik sistemlerinde kapsamlı iyileştirmeler yapıldı ve teknik kontroller sıkılaştırıldı. Concorde'un yeniden hizmete girmesi, havacılık dünyasında büyük bir heyecanla karşılandı ve süpersonik seyahatin geleceğine dair umutları tazeledi. Ancak bu geri dönüş, uçağın yüksek işletme maliyetleri ve değişen havacılık standartları nedeniyle uzun ömürlü olmadı. Concorde, sadece hız ve teknoloji açısından değil, aynı zamanda lüks seyahatin bir sembolü olarak da havacılık tarihinde özel bir yere sahiptir. Yeniden başlayan bu seferler, uçağın emekliye ayrılmasından önceki son dönemi temsil etmesi bakımından da önem taşımaktadır.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/British_Airways_Concorde_G-BOAC_03.jpg/960px-British_Airways_Concorde_G-BOAC_03.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/British_Airways_Concorde_G-BOAC_03.jpg/500px-British_Airways_Concorde_G-BOAC_03.jpg",
@@ -1130,7 +715,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:British_Airways_Concorde_G-BOAC_03.jpg",
         "aciklama": "British Airways Concorde G-BOAC",
         "konu": "Concorde"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "2002-cebelitarikta-yapilan-referandumda-halkin-yuzde-99u-birlesik",
@@ -1156,51 +742,12 @@
         "İzmir",
         "Alsancak, Konak"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/960px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/500px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
-        "genislik": 960,
-        "yukseklik": 1280,
-        "orijinalGenislik": 3024,
-        "yazar": "BSRF",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0zmir_Clock_Tower,_December_2018.jpg",
-        "aciklama": "İzmir Clock Tower in Turkey.",
-        "konu": "İzmir"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/960px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/500px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 3024,
-          "yazar": "BSRF",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0zmir_Clock_Tower,_December_2018.jpg",
-          "aciklama": "İzmir Clock Tower in Turkey.",
-          "konu": "İzmir"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Alsancak.jpg/960px-Alsancak.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Alsancak.jpg/500px-Alsancak.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 3072,
-          "yazar": "Inanç Bardakçıoğlu (IBausK at de.wikipedia)",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Alsancak.jpg",
-          "aciklama": "Vormittagliche Stadtszenerie im Herzen Izmirs.",
-          "konu": "Alsancak, Konak"
-        }
-      ]
+      "baslik": "Dünyanın En Büyük Yüzen Kitap Fuarı İzmir'de",
+      "ozet": "Dünyanın en büyük yüzen kitap fuarı olarak bilinen MV Doulos, 2003 yılının Kasım ayında İzmir'e gelerek kapılarını kitapseverlere açtı. Alsancak Limanı'na yanaşan gemi, içerisinde barındırdığı binlerce farklı eserle ziyaretçilerine eşsiz bir kültürel deneyim sundu. Gemi, sadece bir kütüphane veya kitapçı değil, aynı zamanda farklı kültürleri bir araya getiren uluslararası bir platform işlevi görüyordu. İzmir halkı, geminin limanda kaldığı süre boyunca dünya edebiyatından bilimsel yayınlara kadar geniş bir yelpazedeki kitaplara ulaşma imkanı buldu.\n\nMV Doulos, uzun yıllar boyunca dünya limanlarını dolaşarak okuma kültürünü teşvik etmeyi ve eğitim materyallerine erişimi kolaylaştırmayı amaçlayan bir proje olarak faaliyet gösterdi. Gemi, bünyesindeki gönüllü mürettebatı ve zengin kitap koleksiyonuyla gittiği her limanda büyük bir ilgiyle karşılanıyordu. İzmir ziyareti de şehrin kültürel takviminde önemli bir yer tuttu ve özellikle öğrenciler ile edebiyat meraklıları için unutulmaz bir etkinlik haline geldi. Bu ziyaret, İzmir'in liman kenti kimliğiyle kültürel etkileşime ne kadar açık olduğunu bir kez daha gözler önüne serdi.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "2007-jokela-lisesi-saldirisi-18-yasindaki-pekka-eric-auvinen",
@@ -1223,10 +770,10 @@
         "Türkiye İşçi Partisi (2017)",
         "Erkan Baş"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türkiye İşçi Partisi'nin Yeniden Kuruluşu",
+      "ozet": "Türkiye İşçi Partisi (TİP), 7 Kasım 2017 tarihinde Erkan Baş ve Barış Atay gibi isimlerin öncülüğünde siyasi hayatına başladı. Sosyalist bir çizgide faaliyet gösteren parti, Türkiye'nin siyasi tarihinde önemli bir yere sahip olan aynı isimli tarihsel partinin mirasını sahiplenerek yeniden yapılandırıldı. Kuruluş süreci, Türkiye Komünist Partisi içerisindeki ayrışmaların ardından kurulan Halkın Türkiye Komünist Partisi'nin bir devamı niteliğinde gerçekleşti. Parti, kısa sürede işçi hakları, sendikal mücadele ve toplumsal eşitlik gibi konularda yürüttüğü kampanyalarla dikkat çekti. 2018 genel seçimlerinde Halkların Demokratik Partisi listelerinden meclise giren TİP, daha sonra bağımsız bir siyasi aktör olarak kendi kimliğini güçlendirdi. Özellikle 2023 genel seçimlerinde elde ettiği oy oranıyla, 1965 yılından bu yana Türkiye'de sosyalist bir partinin ulaştığı en yüksek temsil gücüne erişerek modern Türk siyasetinde kendine özgü bir yer edindi. Emek ve Özgürlük İttifakı'nın bir bileşeni olarak faaliyetlerini sürdüren parti, günümüzde meclis çatısı altında sosyalist politikaları savunmaya devam etmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Erkan_Ba%C5%9F_2023.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Erkan_Ba%C5%9F_2023.jpg",
@@ -1239,7 +786,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Erkan_Ba%C5%9F_2023.jpg",
         "aciklama": "Erkan Baş, Nisan 2023",
         "konu": "Erkan Baş"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "2020-koronavirus-salgini-dunya-genelinde-dogrulanmis-vaka-sayisi",
@@ -1992,10 +1540,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/abd-temsilciler-meclisinde-sozde-soykirim-karari-kabul-edildi-gozler-harcanan-paralarda-1700569"
       },
-      "konular": [],
+      "konular": [
+        "Ermeni Soykırımı iddiaları",
+        "ABD Temsilciler Meclisi",
+        "Türkiye-ABD ilişkileri"
+      ],
       "yayin": "2019-11-07T00:25:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "ABD Temsilciler Meclisi Ermeni tasarısını onayladı",
+      "ozet": "ABD Temsilciler Meclisi, Türkiye'nin yürüttüğü yoğun lobi çalışmalarına rağmen söz konusu karar tasarısını büyük bir oy çoğunluğuyla kabul etti. Yapılan oylamada 405 temsilci tasarıya destek verirken, 11 temsilci karşı oy kullandı. Türkiye'nin süreç boyunca harcadığı yüksek miktardaki bütçeye karşın tasarının yasalaşması engellenemedi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/IgdirGenocideMuseum.jpg/960px-IgdirGenocideMuseum.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/IgdirGenocideMuseum.jpg/500px-IgdirGenocideMuseum.jpg",
+        "genislik": 960,
+        "yukseklik": 598,
+        "orijinalGenislik": 2029,
+        "yazar": "Ds02006",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:IgdirGenocideMuseum.jpg",
+        "aciklama": "Igdir Massacre Monument and Museum, Turkey",
+        "konu": "Ermeni Soykırımı iddiaları"
+      }
     },
     {
       "id": "2019-haber-1700683",
@@ -2008,10 +1576,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kizi-oldu-anne-yasam-savasi-veriyor-dunyanin-en-zehirli-mantarini-yemisler-1700683"
       },
-      "konular": [],
+      "konular": [
+        "Mantar zehirlenmesi",
+        "Muğla"
+      ],
       "yayin": "2019-11-07T14:32:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Muğla'da Mantar Zehirlenmesi Sonucu Bir Kişi Hayatını Kaybetti",
+      "ozet": "Muğla bölgesinde doğadan topladıkları mantarları tüketen anne ve kız zehirlendi. Olayda elli yedi yaşındaki Mükerrem Akgül yaşamını yitirirken, seksen dört yaşındaki annesi Fatma Koçer'in yoğun bakımdaki tedavisi on sekiz gündür devam ediyor. Uzmanlar, kulaktan dolma bilgilerle doğadan toplanan mantarların tüketilmesinin ciddi sağlık riskleri oluşturduğu konusunda uyarılarda bulundu.",
+      "kategori": "Toplum"
     },
     {
       "id": "2018-haber-1133394",
@@ -2024,10 +1598,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/osman-cakmak-insallah-2022de-sampiyon-olacagiz-1133394"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye millî ampute futbol takımı",
+        "Osman Çakmak"
+      ],
       "yayin": "2018-11-07T00:02:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ampute Milli Takımı Kaptanı Osman Çakmak Gelecek Hedeflerini Açıkladı",
+      "ozet": "Ampute Milli Takımı Kaptanı Osman Çakmak, havalimanında basın mensuplarına açıklamalarda bulundu. Çakmak, takımın 2022 yılındaki şampiyonluk hedefine ulaşmak için çalışmalarını sürdüreceğini ifade etti.",
+      "kategori": "Spor"
     },
     {
       "id": "2018-haber-1134018",
@@ -2040,10 +1620,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/secimi-kazanan-isim-sasirtti-1134018"
       },
-      "konular": [],
+      "konular": [
+        "Dennis Hof",
+        "Nevada",
+        "Amerika Birleşik Devletleri"
+      ],
       "yayin": "2018-11-07T15:42:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Hayatını kaybeden Dennis Hof Nevada seçimlerini kazandı",
+      "ozet": "Amerika Birleşik Devletleri'nde gerçekleştirilen seçimlerde ilginç bir sonuç ortaya çıktı. Geçtiğimiz ay yaşamını yitiren genelev sahibi Dennis Hof, Nevada Eyalet Meclisi üyeliğine seçildi. Adayın vefat etmiş olmasına rağmen oy pusulasındaki yerini koruması ve seçimi kazanması dikkat çekti.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2017-haber-861364",
@@ -2056,10 +1644,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kilicdaroglu-acikladi-chp-paradise-papers-skandalini-meclise-tasiyor-861364"
       },
-      "konular": [],
+      "konular": [
+        "Paradise Belgeleri",
+        "Kemal Kılıçdaroğlu",
+        "Cumhuriyet Halk Partisi"
+      ],
       "yayin": "2017-11-07T13:42:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "CHP Paradise Papers iddialarını Türkiye Büyük Millet Meclisi gündemine taşıdı",
+      "ozet": "Cumhuriyet Halk Partisi Genel Başkanı Kemal Kılıçdaroğlu, partisinin grup toplantısında Paradise Papers belgeleriyle ilgili değerlendirmelerde bulundu. Kılıçdaroğlu, söz konusu belgelerde yer alan iddiaların araştırılması amacıyla konuyu meclis gündemine taşıyacaklarını ifade etti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Kemal_K%C4%B1l%C4%B1%C3%A7daro%C4%9Flu_in_2024_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Kemal_K%C4%B1l%C4%B1%C3%A7daro%C4%9Flu_in_2024_%28cropped%29.jpg",
+        "genislik": 492,
+        "yukseklik": 633,
+        "orijinalGenislik": 492,
+        "yazar": "Voice of America",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kemal_K%C4%B1l%C4%B1%C3%A7daro%C4%9Flu_in_2024_(cropped).jpg",
+        "aciklama": "Kemal Kılıçdaroğlu in 2024",
+        "konu": "Kemal Kılıçdaroğlu"
+      }
     },
     {
       "id": "2017-haber-861734",
@@ -2072,10 +1680,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ankara-buyuksehir-belediye-baskani-tum-burokratlarin-istifasini-istedi-861734"
       },
-      "konular": [],
+      "konular": [
+        "Mustafa Tuna",
+        "Ankara Büyükşehir Belediyesi"
+      ],
       "yayin": "2017-11-07T23:55:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ankara Büyükşehir Belediyesinde Yeni Dönem ve İstifa Talebi",
+      "ozet": "Ankara Büyükşehir Belediye Başkanlığı görevine seçilen Mustafa Tuna, göreve başlamasının hemen ardından idari yapılanmada değişikliğe gitti. Tuna, belediye bünyesinde görev yapan tüm bürokratların istifasını talep etti. Önceki başkan Melih Gökçek'in ayrılmasının ardından görevi devralan yeni yönetimin, bu hamlesiyle kurum içindeki kadroları yeniden şekillendirmeyi hedeflediği görüldü.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2016-haber-627433",
@@ -2088,10 +1702,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/eski-gurcistan-cumhurbaskani-saakasvili-odessa-valiliginden-istifa-etti-627433"
       },
-      "konular": [],
+      "konular": [
+        "Mihail Saakaşvili",
+        "Odessa",
+        "Ukrayna"
+      ],
       "yayin": "2016-11-07T17:09:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Mihail Saakaşvili Odessa Valiliği görevinden ayrıldı",
+      "ozet": "Gürcistan eski Cumhurbaşkanı Mihail Saakaşvili, Ukrayna sınırları içerisinde yer alan Odessa bölgesindeki valilik görevini bıraktığını duyurdu. Söz konusu istifa kararı ile birlikte Saakaşvili, bölgedeki idari sorumluluğunu sona erdirdi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/EPP_Malta_Congress_2017_%3B_29_March_%2833336428660%29_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/EPP_Malta_Congress_2017_%3B_29_March_%2833336428660%29_%28cropped%29.jpg",
+        "genislik": 525,
+        "yukseklik": 796,
+        "orijinalGenislik": 525,
+        "yazar": "European People's Party",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:EPP_Malta_Congress_2017_;_29_March_(33336428660)_(cropped).jpg",
+        "aciklama": "EPP Malta Congress 2017 ; 29 March",
+        "konu": "Mihail Saakaşvili"
+      }
     },
     {
       "id": "2016-haber-627161",
@@ -2104,10 +1738,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dolardan-yeni-rekor-avro-352yi-asti-627161"
       },
-      "konular": [],
+      "konular": [
+        "Döviz kuru",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2016-11-07T10:27:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Döviz kurlarında iç siyasi gelişmelerle gelen yükseliş",
+      "ozet": "Türkiye içerisinde yaşanan siyasi hareketlilik ve bazı gazete yöneticileri ile milletvekillerinin tutuklanması, finansal piyasaları olumsuz etkiledi. Küresel piyasalardaki genel iyimser havaya rağmen, ülke içindeki gerginlik nedeniyle dolar kuru 3,1850 seviyesine ulaşarak rekor kırdı. Aynı dönemde avro ise 3,52 sınırını aşarak değer kazandı.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/South_East_Asia_Exchange_Rates_%286031878489%29.jpg/960px-South_East_Asia_Exchange_Rates_%286031878489%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/South_East_Asia_Exchange_Rates_%286031878489%29.jpg/500px-South_East_Asia_Exchange_Rates_%286031878489%29.jpg",
+        "genislik": 960,
+        "yukseklik": 957,
+        "orijinalGenislik": 1027,
+        "yazar": "Nick Hubbard",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:South_East_Asia_Exchange_Rates_(6031878489).jpg",
+        "aciklama": "Next time I will bring in sterling, and not be ripped of by those money changers back home. Thai baht.",
+        "konu": "Döviz kuru"
+      }
     },
     {
       "id": "2015-haber-409611",
@@ -2120,10 +1773,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yurttas-secimden-once-dolara-kostu-409611"
       },
-      "konular": [],
+      "konular": [
+        "Döviz",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2015-11-07T23:02:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Seçim öncesi dönemde döviz mevduatlarında belirgin artış yaşandı",
+      "ozet": "Siyasi belirsizliklerin yarattığı ortamda Türk lirasına olan güvenin azalmasıyla birlikte vatandaşlar döviz hesaplarına yöneldi. Bankalardaki döviz mevduatları ve fonlar bir yıllık süreçte yüzde 44,78 oranında yükseldi. Seçimden önceki son haftada ise bu artış hızı yüzde 13,47 seviyesine ulaştı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2015-haber-409523",
@@ -2136,10 +1795,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/gsarayda-sakatlik-depremi-tum-planlar-bozuldu-409523"
       },
-      "konular": [],
+      "konular": [
+        "Galatasaray (futbol takımı)",
+        "Selçuk İnan",
+        "Hakan Balta"
+      ],
       "yayin": "2015-11-07T19:33:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Galatasaray'da iki oyuncu sakatlık nedeniyle oyundan ayrıldı",
+      "ozet": "Galatasaray forması giyen Selçuk İnan ve Hakan Balta, katıldıkları müsabaka sırasında yaşadıkları sakatlıklar sebebiyle sahayı terk etmek durumunda kaldı. Beş dakikalık kısa bir zaman dilimi içerisinde gerçekleşen bu durum, teknik ekibin maç planlarında değişikliğe gitmesine yol açtı.",
+      "kategori": "Spor"
     },
     {
       "id": "2014-haber-138345",
@@ -2152,10 +1818,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/muslim-sari-butceden-en-fazla-payi-cumhurbaskanligi-aldi-138345"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu",
+        "Müslim Sarı",
+        "Cumhurbaşkanlığı"
+      ],
       "yayin": "2014-11-07T14:53:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "2015 Yılı Bütçesinde En Büyük Pay Cumhurbaşkanlığına Ayrıldı",
+      "ozet": "TBMM Plan ve Bütçe Komisyonu üyesi Müslim Sarı, hazırlanan bütçe tasarısında çalışan kesim için olumlu bir gelişme bulunmadığını ifade etti. Sarı, bütçe kaynaklarından en yüksek oranda payın Cumhurbaşkanlığı makamına tahsis edildiğini açıkladı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2014-haber-138163",
@@ -2168,10 +1841,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/rockets-son-sampiyonu-devirdi-138163"
       },
-      "konular": [],
+      "konular": [
+        "Houston Rockets",
+        "San Antonio Spurs",
+        "NBA"
+      ],
       "yayin": "2014-11-07T10:21:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Houston Rockets son şampiyon San Antonio Spurs'ü mağlup etti",
+      "ozet": "Amerikan Ulusal Basketbol Ligi'nde mücadele eden Houston Rockets, ligdeki yenilgisiz serisini sürdürdü. Takım, geçen sezonun şampiyonu unvanına sahip San Antonio Spurs ile karşılaştığı müsabakayı 98-81 skorla kazandı.",
+      "kategori": "Spor"
     },
     {
       "id": "2013-haber-7179",
@@ -2184,10 +1864,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-geziden-sonra-intikam-aliyor-7179"
       },
-      "konular": [],
+      "konular": [
+        "Muharrem İnce",
+        "TÜYAP Kitap Fuarı",
+        "Tuncay Özkan"
+      ],
       "yayin": "2013-11-07T22:53:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Muharrem İnce TÜYAP Kitap Fuarı'nda okurlarıyla bir araya geldi",
+      "ozet": "Cumhuriyet Halk Partisi Grup Başkanvekili Muharrem İnce, Beylikdüzü'nde düzenlenen TÜYAP Kitap Fuarı'nı ziyaret etti. İnce, burada gazeteci Tuncay Özkan'ın kaleme aldığı Ötekiler isimli kitabın imza etkinliğine katılarak okurlarla buluştu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2013-haber-7149",
@@ -2200,10 +1887,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/siyasi-istikrari-erdogan-bozuyor-7149"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Siyaset"
+      ],
       "yayin": "2013-11-07T20:45:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Siyasi istikrar değerlendirmesi raporu paylaşıldı",
+      "ozet": "Yayımlanan bir rapora göre, Nisan 2009 ile Haziran 2013 tarihleri arasındaki süreçte siyasi istikrarın bozulmasına yönelik analizler yapıldı. Söz konusu dönemdeki veriler incelendiğinde, Başbakanın 33 ay ile bu alanda ilk sırada yer aldığı ifade edildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2012-haber-381742",
@@ -2216,10 +1909,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakanlikta-kendini-atese-verdi-381742"
       },
-      "konular": [],
+      "konular": [
+        "Başbakanlık",
+        "Ankara"
+      ],
       "yayin": "2012-11-07T13:16:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Başbakanlık binası önünde üzücü bir olay yaşandı",
+      "ozet": "Ankara'da bulunan Başbakanlık merkez binasının yakınlarında bir vatandaş kendi bedenini ateşe vererek eylemde bulundu. Olayın ardından çevredeki güvenlik güçleri ve sağlık ekipleri duruma müdahale etti.",
+      "kategori": "Toplum"
     },
     {
       "id": "2012-haber-381818",
@@ -2232,10 +1931,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/new-york-ve-new-jersey-yeni-bir-kasirgaya-hazirlaniyor-381818"
       },
-      "konular": [],
+      "konular": [
+        "Sandy Kasırgası",
+        "New York",
+        "New Jersey"
+      ],
       "yayin": "2012-11-07T18:35:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "ABD'nin doğu kıyısında yeni bir fırtına beklentisi",
+      "ozet": "Sandy kasırgasının etkilerini henüz üzerinden atamayan New York ve New Jersey eyaletleri, bölgeye yaklaşan yeni bir hava muhalefetiyle karşı karşıya kaldı. Yetkililer, yeni fırtınanın şiddetinin önceki felaket kadar yüksek olmayacağını öngörse de bölge halkı olası olumsuzluklara karşı tedbirlerini almaya başladı.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Sandy_2012-10-29_1815Z.jpg/960px-Sandy_2012-10-29_1815Z.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Sandy_2012-10-29_1815Z.jpg/500px-Sandy_2012-10-29_1815Z.jpg",
+        "genislik": 960,
+        "yukseklik": 1543,
+        "orijinalGenislik": 11202,
+        "yazar": "NASA, MODIS/ LANCE, HDF File Data processed by Supportstorm, Caption by Michon Scott",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Sandy_2012-10-29_1815Z.jpg",
+        "aciklama": "The Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA’s Aqua satellite acquired this image of Hurricane Sandy at 2:20 p.m. Eastern Daylight Time (18:20 Universal Time) on October 29, 2012.",
+        "konu": "Sandy Kasırgası"
+      }
     },
     {
       "id": "2011-haber-296380",
@@ -2248,10 +1967,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/diliyle-dunya-rekoru-kirdi-296380"
       },
-      "konular": [],
+      "konular": [
+        "Guinness Rekorlar Kitabı",
+        "Chanel Tapper"
+      ],
       "yayin": "2011-11-07T11:55:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Dünyanın en uzun dilli insanı rekorlar kitabına girdi",
+      "ozet": "Amerika Birleşik Devletleri vatandaşı Chanel Tapper, sahip olduğu sıra dışı fiziksel özellik ile dikkatleri üzerine çekti. Yaklaşık 10 santimetre uzunluğundaki diliyle tıp literatürüne ve Guinness Rekorlar Kitabı'na girmeye hak kazandı. Söz konusu fiziksel ölçümüyle dünya çapında bir başarıya imza atan Tapper, bu alanda resmi kayıtlara geçmiş oldu.",
+      "kategori": "Toplum"
     }
   ],
   "haberYillari": [

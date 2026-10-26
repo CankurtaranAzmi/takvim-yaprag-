@@ -251,10 +251,10 @@
       "konular": [
         "Grover Cleveland"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Grover Cleveland İkinci Kez Amerika Birleşik Devletleri Başkanı Seçildi",
+      "ozet": "Grover Cleveland, 1892 yılındaki başkanlık seçimlerinde rakibi Benjamin Harrison'a karşı zafer kazanarak Amerika Birleşik Devletleri tarihinde ikinci kez başkanlık koltuğuna oturan ilk isim olma başarısını gösterdi. Daha önce 22. başkan olarak görev yapmış olan Cleveland, bu seçim zaferiyle birlikte 24. başkan olarak Beyaz Saray'a geri döndü. Seçim sonuçları, Amerikan siyasi tarihinde üst üste olmayan iki farklı dönemde başkanlık yapma geleneğini başlatan önemli bir dönüm noktası olarak kaydedildi. Cleveland'ın bu ikinci dönemi, döneminin ekonomik ve toplumsal sorunlarıyla mücadele ettiği bir süreç olarak öne çıktı. Başkanlık kariyeri boyunca devletin müdahaleci olmayan bir yapıda olması gerektiğini savunan Cleveland, kendi döneminde elektrikli sistemlerin yaygınlaşması gibi teknolojik gelişmelere de tanıklık etti. Özellikle Kolomb Dünya Fuarı'nın açılışında sergilediği tutum, dönemin modernleşme çabalarını simgeleyen bir an olarak tarihe geçti. 1000 dolarlık banknotların üzerinde de yer alan Cleveland, Amerikan siyasi tarihinde hem bir seçim yenilgisi alıp hem de yeniden seçilmeyi başaran nadir liderlerden biri olarak hatırlanmaktadır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg/960px-Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg/500px-Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg",
@@ -267,7 +267,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Grover_Cleveland_-_NARA_-_518139_(cropped).jpg",
         "aciklama": "General notes: Use Presidents List Number 5 when ordering a reproduction or requesting information about this image.",
         "konu": "Grover Cleveland"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1895-alman-fizikci-wilhelm-rontgen-x-isinini-kesfetti",
@@ -278,51 +279,24 @@
         "Wilhelm Röntgen",
         "X ışını"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Modern Tıbbın Dönüm Noktası: X Işınlarının Keşfi",
+      "ozet": "Alman fizikçi Wilhelm Conrad Röntgen, Würzburg Üniversitesi'ndeki laboratuvarında Crookes tüpleriyle yaptığı deneyler sırasında, daha önce bilinmeyen bir ışın türünü gözlemledi. Bu ışınlara, doğasını tam olarak tanımlayamadığı için matematiksel bilinmeyenleri temsil eden X harfini verdi. Bu keşif, fizik dünyasında büyük bir heyecan yarattı ve kısa sürede bilimsel literatürde Röntgen ışınları olarak anılmaya başlandı. Röntgen'in bu buluşu, elektromanyetik spektrumun görünür ışık ötesindeki alanlarının anlaşılmasına yönelik kapıları araladı. Keşfin en çarpıcı kanıtlarından biri, eşinin elini görüntülediği ve kemik yapısının net bir şekilde seçilebildiği ilk radyografik çekim oldu. Bu görüntü, X ışınlarının insan vücudunun içini ameliyatsız bir şekilde görme potansiyelini tüm dünyaya kanıtladı. Günümüzde tanısal tıbbın temel taşlarından biri olan radyolojinin doğuşunu sağlayan bu gelişme, Röntgen'e 1901 yılında ilk Nobel Fizik Ödülü'nü kazandırdı. X ışınları, keşfinden bu yana sadece tıp alanında değil, malzeme bilimi ve kristalografi gibi pek çok farklı disiplinde de vazgeçilmez bir araç haline gelmiştir.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Roentgen2.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Roentgen2.jpg",
-        "genislik": 911,
-        "yukseklik": 1280,
-        "orijinalGenislik": 911,
-        "yazar": "Bilinmeyen yazar",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg/960px-First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg/500px-First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg",
+        "genislik": 960,
+        "yukseklik": 1380,
+        "orijinalGenislik": 3391,
+        "yazar": "Wilhelm Röntgen",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Roentgen2.jpg",
-        "aciklama": "Photo of Wilhelm Conrad Röntgen. Cleaned up version of http://images.google.com/hosted/life/l?imgurl=6b3da250c6b5560f",
-        "konu": "Wilhelm Röntgen"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg",
+        "aciklama": "Hand mit Ringen (Hand with Rings): a print of one of the first X-rays by Wilhelm Röntgen (1845–1923) of the left hand of his wife Anna Bertha Ludwig. It was presented to Professor Ludwig Zehnder of th",
+        "konu": "X ışını"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Roentgen2.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Roentgen2.jpg",
-          "genislik": 911,
-          "yukseklik": 1280,
-          "orijinalGenislik": 911,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Roentgen2.jpg",
-          "aciklama": "Photo of Wilhelm Conrad Röntgen. Cleaned up version of http://images.google.com/hosted/life/l?imgurl=6b3da250c6b5560f",
-          "konu": "Wilhelm Röntgen"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg/960px-First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg/500px-First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg",
-          "genislik": 960,
-          "yukseklik": 1380,
-          "orijinalGenislik": 3391,
-          "yazar": "Wilhelm Röntgen",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg",
-          "aciklama": "Hand mit Ringen (Hand with Rings): a print of one of the first X-rays by Wilhelm Röntgen (1845–1923) of the left hand of his wife Anna Bertha Ludwig. It was presented to Professor Ludwig Zehnder of th",
-          "konu": "X ışını"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1899-bronx-hayvanat-bahcesi-acildi",
@@ -331,23 +305,12 @@
       "konular": [
         "Bronx"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/New_York_Botanical_Garden_April_2015_010.jpg/960px-New_York_Botanical_Garden_April_2015_010.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/New_York_Botanical_Garden_April_2015_010.jpg/500px-New_York_Botanical_Garden_April_2015_010.jpg",
-        "genislik": 960,
-        "yukseklik": 576,
-        "orijinalGenislik": 4800,
-        "yazar": "King of Hearts",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:New_York_Botanical_Garden_April_2015_010.jpg",
-        "aciklama": "LuEsther T. Mertz Library, New York Botanical Garden, The Bronx, New York City.",
-        "konu": "Bronx"
-      }
+      "baslik": "Dünyanın En Büyük Şehir Hayvanat Bahçelerinden Biri Açıldı",
+      "ozet": "New York şehrinin Bronx bölgesinde yer alan Bronx Hayvanat Bahçesi, 1899 yılının Kasım ayında halkın ziyaretine açıldı. Bronx Nehri'nin kıyısında geniş bir arazi üzerine kurulan bu tesis, kısa sürede dünyanın en önemli ve kapsamlı hayvanat bahçelerinden biri haline geldi. Açılışından bu yana hem bilimsel araştırmalara ev sahipliği yapması hem de nesli tükenmekte olan türlerin korunması konusundaki çalışmalarıyla tanınmaktadır. Kurulduğu dönemde modern hayvanat bahçeciliği anlayışının öncülerinden biri olarak kabul edilen merkez, hayvanların doğal yaşam alanlarına benzer ortamlarda sergilenmesi fikrini benimseyerek dönemin sergileme standartlarını değiştirmiştir. Günümüzde ise Bronx Hayvanat Bahçesi, sadece bir eğlence merkezi değil, aynı zamanda yaban hayatı koruma ve eğitim faaliyetlerinin yürütüldüğü küresel bir merkez olarak varlığını sürdürmektedir. Şehrin kalabalık yapısı içerisinde geniş bir yeşil alan sunan bahçe, New York'un kültürel ve bilimsel mirasının önemli bir parçası olmaya devam etmektedir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1922-luleburgazin-dusman-isgalinden-kurtulusu",
@@ -356,10 +319,10 @@
       "konular": [
         "Lüleburgaz"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Lüleburgaz'ın Düşman İşgalinden Kurtuluşu",
+      "ozet": "Lüleburgaz, Türk Kurtuluş Savaşı'nın son aşamalarında, 8 Kasım 1922 tarihinde Yunan işgal birliklerinin bölgeden çekilmesiyle bağımsızlığını yeniden kazandı. Mudanya Ateşkes Antlaşması'nın ardından bölgedeki Yunan güçlerinin boşaltılmasıyla birlikte Türk ordusu Lüleburgaz'a girerek şehirde kontrolü sağladı ve Türk bayrağını göndere çekti. Bu tarih, bölge halkı için uzun süren işgal günlerinin son bulduğu ve yeniden yapılanma sürecinin başladığı bir dönüm noktası olarak kabul edilmektedir.\n\nDoğu Trakya'nın stratejik noktalarından biri olan Lüleburgaz, işgal yıllarında büyük sıkıntılar yaşamış ve bölgenin sosyal, ekonomik yapısı üzerinde ciddi tahribatlar meydana gelmişti. Şehrin kurtuluşu, sadece askeri bir başarı değil, aynı zamanda bölge halkının milli mücadeleye olan inancının bir teyidi niteliğindeydi. Kurtuluşun ardından kentte idari düzenlemeler hızla yapılmış ve bölge, Türkiye Cumhuriyeti'nin sınırları içerisinde güvenli bir şekilde geleceğe hazırlanmaya başlamıştır. Bugün Lüleburgaz, Trakya'nın sanayi ve tarım merkezlerinden biri olarak bu tarihsel mirası onurlandırmaktadır.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/L%C3%BCleburgazTrainStation_%287%29.jpg/960px-L%C3%BCleburgazTrainStation_%287%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/L%C3%BCleburgazTrainStation_%287%29.jpg/500px-L%C3%BCleburgazTrainStation_%287%29.jpg",
@@ -372,7 +335,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:L%C3%BCleburgazTrainStation_(7).jpg",
         "aciklama": "Lüleburgaz train station in Kırklareli Province, Turkey.",
         "konu": "Lüleburgaz"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1923-almanyada-adolf-hitler-ve-yandaslari-tarihe-birahane",
@@ -384,51 +348,24 @@
         "Birahane Darbesi",
         "Bavyera"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Nazi Partisi'nin Başarısız Darbe Girişimi: Birahane Darbesi",
+      "ozet": "8 Kasım 1923 gecesi, Adolf Hitler ve General Erich Ludendorff önderliğindeki yaklaşık iki bin Nazi destekçisi, Münih'teki bir birahanede toplanarak Bavyera hükümetini devirmek üzere harekete geçti. Birahane Darbesi olarak tarihe geçen bu girişim, Nazi Partisi'nin iktidarı zor yoluyla ele geçirme konusundaki ilk büyük denemesiydi. Ancak eylem, güvenlik güçlerinin müdahalesiyle kısa sürede bastırıldı. Şehir merkezindeki Feldherrnhalle civarında gerçekleşen çatışmalarda 16 Nazi yanlısı ve 4 polis memuru hayatını kaybetti. \n\nOlayın ardından yakalanan Hitler, vatana ihanet suçlamasıyla yargılandı. Başarısızlıkla sonuçlanmasına rağmen bu girişim, Hitler'in isminin Alman kamuoyunda duyulmasını sağlayan bir dönüm noktası oldu. Mahkeme sürecini kendi ideolojisini geniş kitlelere yaymak için bir propaganda platformuna dönüştüren Hitler, beş yıl hapis cezasına çarptırıldı. Landsberg Hapishanesi'nde geçirdiği süre, Nazi hareketinin stratejisini değiştirmesi ve iktidara giden yolda parlamenter süreci kullanmaya karar vermesi açısından kritik bir öneme sahiptir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/960px-Hitler_portrait_crop.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/500px-Hitler_portrait_crop.jpg",
-        "genislik": 960,
-        "yukseklik": 1278,
-        "orijinalGenislik": 1384,
-        "yazar": "Heinrich Hoffmann",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bundesarchiv_Bild_119-1486%2C_Hitler-Putsch%2C_M%C3%BCnchen%2C_Marienplatz.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bundesarchiv_Bild_119-1486%2C_Hitler-Putsch%2C_M%C3%BCnchen%2C_Marienplatz.jpg",
+        "genislik": 790,
+        "yukseklik": 467,
+        "orijinalGenislik": 790,
+        "yazar": "Bilinmeyen yazar",
         "lisans": "CC BY-SA 3.0 de",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Hitler_portrait_crop.jpg",
-        "aciklama": "1938 portrait photograph of Adolf Hitler",
-        "konu": "Adolf Hitler"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_119-1486,_Hitler-Putsch,_M%C3%BCnchen,_Marienplatz.jpg",
+        "aciklama": "Munich Marienplatz during the failed Beer Hall Putsch",
+        "konu": "Birahane Darbesi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/960px-Hitler_portrait_crop.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/500px-Hitler_portrait_crop.jpg",
-          "genislik": 960,
-          "yukseklik": 1278,
-          "orijinalGenislik": 1384,
-          "yazar": "Heinrich Hoffmann",
-          "lisans": "CC BY-SA 3.0 de",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Hitler_portrait_crop.jpg",
-          "aciklama": "1938 portrait photograph of Adolf Hitler",
-          "konu": "Adolf Hitler"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bundesarchiv_Bild_119-1486%2C_Hitler-Putsch%2C_M%C3%BCnchen%2C_Marienplatz.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bundesarchiv_Bild_119-1486%2C_Hitler-Putsch%2C_M%C3%BCnchen%2C_Marienplatz.jpg",
-          "genislik": 790,
-          "yukseklik": 467,
-          "orijinalGenislik": 790,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "CC BY-SA 3.0 de",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_119-1486,_Hitler-Putsch,_M%C3%BCnchen,_Marienplatz.jpg",
-          "aciklama": "Munich Marienplatz during the failed Beer Hall Putsch",
-          "konu": "Birahane Darbesi"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1928-cumhurbaskani-mustafa-kemal-millet-mekteplerinin-genel-baskanligini",
@@ -437,10 +374,10 @@
       "konular": [
         "Mustafa Kemal Atatürk"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Atatürk'ün Başöğretmenlik Unvanını Kabul Etmesi",
+      "ozet": "Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk, 1928 yılında gerçekleştirilen harf devriminin ardından toplumun okuryazarlık seviyesini artırmak amacıyla başlatılan Millet Mektepleri seferberliğinde aktif bir rol üstlendi. Bu kapsamda, 8 Kasım 1928 tarihinde Millet Mektepleri'nin Genel Başkanlığı ve Başöğretmenliği görevlerini resmen kabul ederek, yeni Türk alfabesinin halka öğretilmesi sürecine bizzat öncülük etti. Bu adım, genç cumhuriyetin eğitim politikalarının en önemli dönüm noktalarından biri olarak kabul edilir.\n\nMillet Mektepleri, sadece okuma yazma öğretmeyi değil, aynı zamanda halkın modernleşme sürecine uyum sağlamasını ve toplumsal kalkınmayı hedefleyen kapsamlı bir eğitim projesiydi. Atatürk'ün bu projeye bizzat Başöğretmen sıfatıyla dahil olması, eğitime verilen önemin bir sembolü haline geldi. Ülke genelinde açılan kurslar sayesinde kısa sürede geniş kitlelere yeni harfler öğretildi ve Türkiye'nin eğitim altyapısının temelleri atıldı. Bu girişim, Türkiye'nin laik ve çağdaş bir ulus olma yolundaki ilerici reformlarının en somut ve etkili uygulamalarından biri olarak tarihe geçti.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -453,7 +390,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
         "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
         "konu": "Mustafa Kemal Atatürk"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1932-nazi-partisi-almanya-secimlerinde-196-milletvekilliyle-yine",
@@ -476,51 +414,24 @@
         "Franklin Delano Roosevelt",
         "1932 Amerika Birleşik Devletleri başkanlık seçimleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Franklin D. Roosevelt'in Başkanlık Zaferi",
+      "ozet": "Franklin D. Roosevelt, 8 Kasım 1932 tarihinde gerçekleştirilen başkanlık seçimlerinde Cumhuriyetçi rakibi Herbert Hoover'ı geride bırakarak Amerika Birleşik Devletleri'nin 32. başkanı seçildi. Bu seçim, ülkenin tarihsel bir dönüm noktasında gerçekleşti ve Roosevelt'in siyasi kariyerinde yeni bir sayfa açtı. Seçim sonuçları, Amerikan halkının mevcut yönetimin ekonomik politikalara karşı tutumuna verdiği net bir tepki olarak değerlendirildi.\n\nSeçimlerin arka planında, 1929 yılında başlayan ve tüm dünyayı etkisi altına alan Büyük Buhran'ın yarattığı ağır ekonomik yıkım yer alıyordu. Görevdeki Başkan Herbert Hoover, krizin etkilerini hafifletmekte yetersiz kaldığı gerekçesiyle halkın güvenini kaybetmişti. Roosevelt ise New York Valisi olarak görev yaptığı dönemde krizle mücadele konusundaki kararlı tutumuyla dikkat çekmişti. Bu zafer, Roosevelt'in ilerleyen yıllarda uygulayacağı ve Amerikan ekonomisini yeniden yapılandırmayı hedefleyen kapsamlı reform paketlerinin önünü açtı. Roosevelt, bu seçimle birlikte ABD tarihinde iki dönemden fazla görev yapan tek başkan olma yolundaki ilk büyük adımını atmış oldu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/960px-FDR_1944_Color_Portrait.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/500px-FDR_1944_Color_Portrait.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/FDR_in_1933_%283x4%29.jpg/960px-FDR_in_1933_%283x4%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/FDR_in_1933_%283x4%29.jpg/500px-FDR_in_1933_%283x4%29.jpg",
         "genislik": 960,
-        "yukseklik": 1384,
-        "orijinalGenislik": 2754,
-        "yazar": "Leon Perskie",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:FDR_1944_Color_Portrait.jpg",
-        "aciklama": "Original color transparency of FDR taken at 1944 Official Campaign Portrait session by Leon A. Perskie, Hyde Park, New York, August 22, 1944. Gift of Beatrice Perskie Foxman and Dr. Stanley B. Foxman.",
-        "konu": "Franklin Delano Roosevelt"
+        "yukseklik": 1279,
+        "orijinalGenislik": 2209,
+        "yazar": "Elias Goldensky (1868-1943)",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:FDR_in_1933_(3x4).jpg",
+        "aciklama": "Franklin Delano Roosevelt, 1933",
+        "konu": "1932 Amerika Birleşik Devletleri başkanlık seçimleri"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/960px-FDR_1944_Color_Portrait.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/500px-FDR_1944_Color_Portrait.jpg",
-          "genislik": 960,
-          "yukseklik": 1384,
-          "orijinalGenislik": 2754,
-          "yazar": "Leon Perskie",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:FDR_1944_Color_Portrait.jpg",
-          "aciklama": "Original color transparency of FDR taken at 1944 Official Campaign Portrait session by Leon A. Perskie, Hyde Park, New York, August 22, 1944. Gift of Beatrice Perskie Foxman and Dr. Stanley B. Foxman.",
-          "konu": "Franklin Delano Roosevelt"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/FDR_in_1933_%283x4%29.jpg/960px-FDR_in_1933_%283x4%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/FDR_in_1933_%283x4%29.jpg/500px-FDR_in_1933_%283x4%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1279,
-          "orijinalGenislik": 2209,
-          "yazar": "Elias Goldensky (1868-1943)",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:FDR_in_1933_(3x4).jpg",
-          "aciklama": "Franklin Delano Roosevelt, 1933",
-          "konu": "1932 Amerika Birleşik Devletleri başkanlık seçimleri"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1933-afganistan-krali-nadir-sah-olduruldu-yerine-18",
@@ -531,51 +442,24 @@
         "Muhammed Nadir Şah",
         "Zahir Şah"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Afganistan'da Kraliyet Değişimi: Nadir Şah'ın Ölümü ve Zahir Şah",
+      "ozet": "Afganistan Kralı Muhammed Nadir Şah, 8 Kasım 1933 tarihinde Kabil'de uğradığı bir suikast neticesinde yaşamını yitirdi. Nadir Şah, 1929 yılında Habibullah Kalakani'ye karşı yürüttüğü mücadeleyle iktidarı ele geçirmiş ve kısa süren saltanatı boyunca ülkede istikrarı sağlamaya çalışmıştı. Ancak modernleşme çabaları ve siyasi muhalefetle olan mücadelesi, hükümdarlığı boyunca zorlu bir süreç yaşamasına neden olmuştu. Kralın ölümü, Afganistan tarihinde önemli bir dönüm noktası oluşturdu. Nadir Şah'ın ardından tahta, henüz 18 yaşında olan oğlu Muhammed Zahir Şah geçti. Zahir Şah'ın 1973 yılına kadar sürecek olan kırk yıllık saltanatı, Afganistan'ın modernleşme çabaları ve diplomatik ilişkilerini genişlettiği bir dönem olarak tarihe geçti. Zahir Şah, Durrani İmparatorluğu'nun kuruluşundan bu yana ülkede en uzun süre tahtta kalan hükümdar olma unvanını kazandı. Onun dönemi, daha sonraki yıllarda yaşanacak olan çatışmalar öncesinde Afganistan'ın nispeten barışçıl ve istikrarlı bir süreç geçirdiği bir zaman dilimi olarak hatırlanmaktadır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Nadir_Khan_of_Afghanistan.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Nadir_Khan_of_Afghanistan.jpg",
-        "genislik": 414,
-        "yukseklik": 632,
-        "orijinalGenislik": 414,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Portrait_of_King_Zahir_Shah_of_Afghanistan_in_1963.jpg/960px-Portrait_of_King_Zahir_Shah_of_Afghanistan_in_1963.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Portrait_of_King_Zahir_Shah_of_Afghanistan_in_1963.jpg/500px-Portrait_of_King_Zahir_Shah_of_Afghanistan_in_1963.jpg",
+        "genislik": 960,
+        "yukseklik": 1239,
+        "orijinalGenislik": 1240,
         "yazar": "Bilinmeyen yazar",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Nadir_Khan_of_Afghanistan.jpg",
-        "aciklama": "Mohammed Nadir Khan, King of Afganistan (b.1880-d.1933)",
-        "konu": "Muhammed Nadir Şah"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Portrait_of_King_Zahir_Shah_of_Afghanistan_in_1963.jpg",
+        "aciklama": "King Zahir Shah of Afghanistan",
+        "konu": "Zahir Şah"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Nadir_Khan_of_Afghanistan.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Nadir_Khan_of_Afghanistan.jpg",
-          "genislik": 414,
-          "yukseklik": 632,
-          "orijinalGenislik": 414,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Nadir_Khan_of_Afghanistan.jpg",
-          "aciklama": "Mohammed Nadir Khan, King of Afganistan (b.1880-d.1933)",
-          "konu": "Muhammed Nadir Şah"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Portrait_of_King_Zahir_Shah_of_Afghanistan_in_1963.jpg/960px-Portrait_of_King_Zahir_Shah_of_Afghanistan_in_1963.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Portrait_of_King_Zahir_Shah_of_Afghanistan_in_1963.jpg/500px-Portrait_of_King_Zahir_Shah_of_Afghanistan_in_1963.jpg",
-          "genislik": 960,
-          "yukseklik": 1239,
-          "orijinalGenislik": 1240,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Portrait_of_King_Zahir_Shah_of_Afghanistan_in_1963.jpg",
-          "aciklama": "King Zahir Shah of Afghanistan",
-          "konu": "Zahir Şah"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1935-fernand-bouisson-fransa-basbakani-oldu",
@@ -625,10 +509,10 @@
       "konular": [
         "Arnavutluk Emek Partisi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Arnavutluk Komünist Partisi'nin Kuruluşu",
+      "ozet": "Arnavutluk Komünist Partisi, İkinci Dünya Savaşı'nın devam ettiği bir dönemde, ülkedeki işgal güçlerine karşı direnişi örgütlemek amacıyla gizli bir şekilde kuruldu. Kuruluşundan kısa bir süre sonra, özellikle savaş yıllarında yürüttüğü faaliyetlerle Arnavutluk'taki siyasi dengeleri değiştiren temel güç haline geldi. Parti, savaşın ardından ülkenin yönetiminde tek söz sahibi olan yapı olarak öne çıktı.\n\nKuruluşundan birkaç yıl sonra, 1948 yılında parti ismini Arnavutluk Emek Partisi olarak değiştirdi. Bu isim değişikliği, partinin ideolojik çizgisini ve devlet üzerindeki mutlak hakimiyetini pekiştirdiği bir döneme denk gelmektedir. 1991 yılına kadar Arnavutluk'ta yasal tek siyasi parti olarak iktidarda kalan bu yapı, ülkenin sosyal, ekonomik ve siyasi yapısını yarım yüzyıl boyunca şekillendiren en önemli aktör olmuştur.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ppshsymbol1981.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ppshsymbol1981.png",
@@ -641,7 +525,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ppshsymbol1981.png",
         "aciklama": "Symbol of the en:Party of Labour of Albania. Unclear if this symbol was the 'logo' of the PLA or just a casual symbol. Marx, Engels, Lenin and Stalin appear with a red flag as background. PPSH is the ",
         "konu": "Arnavutluk Emek Partisi"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1942-ii-dunya-savasi-britanya-imparatorlugu-ve-abd",
@@ -654,23 +539,12 @@
         "Cezayir",
         "Fas"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "genislik": 400,
-        "yukseklik": 286,
-        "orijinalGenislik": 400,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
-        "aciklama": "Pitched battle at Changde.",
-        "konu": "II. Dünya Savaşı"
-      }
+      "baslik": "Kuzey Afrika'da Müttefik Çıkarması: Meşale Harekâtı",
+      "ozet": "İkinci Dünya Savaşı'nın dönüm noktalarından biri olan Meşale Harekâtı, 8 Kasım 1942 tarihinde Amerika Birleşik Devletleri ve Britanya İmparatorluğu kuvvetlerinin Kuzey Afrika kıyılarına eş zamanlı çıkarma yapmasıyla başladı. Müttefik güçler, Vichy Fransası kontrolündeki Fas ve Cezayir'deki stratejik limanları ele geçirmek amacıyla büyük bir deniz ve hava operasyonu düzenledi. Bu hamle, Müttefiklerin Akdeniz'deki varlığını güçlendirmeyi ve Mihver Devletleri'nin bölgedeki hareket alanını daraltmayı hedefliyordu.\n\nBu operasyon, Müttefiklerin Avrupa kıtasına yönelik planladıkları büyük çaplı saldırıların bir ön hazırlığı niteliğindeydi. Kuzey Afrika'nın kontrolünü ele geçirmek, Müttefiklere hem lojistik bir avantaj sağladı hem de Mihver güçlerinin Akdeniz üzerinden ikmal hatlarını kesmelerine olanak tanıdı. Harekâtın başarısı, savaşın gidişatını Müttefikler lehine çeviren önemli bir adım olarak tarihe geçti ve ilerleyen yıllarda İtalya'nın işgali gibi daha geniş kapsamlı operasyonların yolunu açtı.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1960-john-f-kennedy-abd-baskani-secildi",
@@ -680,10 +554,10 @@
         "John F. Kennedy",
         "1960 Amerika Birleşik Devletleri başkanlık seçimleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "John F. Kennedy Amerika Birleşik Devletleri Başkanı Seçildi",
+      "ozet": "John F. Kennedy, 8 Kasım 1960 tarihinde düzenlenen başkanlık seçimlerinde Cumhuriyetçi rakibi Richard Nixon'ı geride bırakarak Amerika Birleşik Devletleri'nin 35. başkanı olmaya hak kazandı. Demokrat Parti'nin adayı olan Massachusetts senatörü Kennedy, bu zaferiyle Amerikan siyasi tarihinde önemli bir dönüm noktasını temsil eden isimlerden biri haline geldi. Seçim süreci, Soğuk Savaş'ın gölgesinde geçen yoğun bir rekabete sahne oldu.\n\nKennedy'nin başkanlığı, genç yaşı ve karizmatik liderliğiyle Amerikan toplumunda büyük bir heyecan yarattı. Göreve geldiği dönemde Sovyetler Birliği ile ilişkiler ve Küba krizi gibi küresel çapta kritik meselelerle uğraşmak zorunda kalan Kennedy, dış politikada aktif bir rol üstlendi. İkinci Dünya Savaşı'ndaki askeri geçmişi ve senatörlük dönemindeki çalışmalarıyla tanınan Kennedy, başkan seçilen en genç isim olarak tarihe geçti. Onun başkanlık dönemi, hem iç politikadaki reform arayışları hem de uluslararası arenadaki gerilimlerle dolu kısa ama etkili bir süreci kapsadı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/960px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/500px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
@@ -697,34 +571,7 @@
         "aciklama": "John F. Kennedy, photograph in the Oval Office.",
         "konu": "John F. Kennedy"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/960px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/500px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
-          "genislik": 960,
-          "yukseklik": 1245,
-          "orijinalGenislik": 1419,
-          "yazar": "Cecil W. Stoughton",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:John_F._Kennedy,_White_House_color_photo_portrait.jpg",
-          "aciklama": "John F. Kennedy, photograph in the Oval Office.",
-          "konu": "John F. Kennedy"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Jfk2_%283x4%29.jpg/960px-Jfk2_%283x4%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Jfk2_%283x4%29.jpg/500px-Jfk2_%283x4%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 3095,
-          "yazar": "Bachrach Studios",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Jfk2_(3x4).jpg",
-          "aciklama": "Picture of John F. Kennedy",
-          "konu": "1960 Amerika Birleşik Devletleri başkanlık seçimleri"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1965-ankara-siyasal-bilgiler-fakultesine-bagli-basin-ve",
@@ -749,64 +596,24 @@
         "Led Zeppelin",
         "Stairway to Heaven"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Led Zeppelin'in Efsanevi Dördüncü Albümü",
+      "ozet": "İngiliz rock grubu Led Zeppelin, 1971 yılının Kasım ayında müzik dünyasında derin izler bırakacak olan dördüncü stüdyo albümünü dinleyicilerle buluşturdu. Resmi bir ismi bulunmayan ancak genellikle Led Zeppelin IV olarak anılan bu çalışma, grubun müzikal kimliğini zirveye taşıyan bir dönüm noktası oldu. Albüm, blues ve folk etkilerini ağır rock tınılarıyla birleştirerek grubun çok yönlü yeteneğini gözler önüne serdi.\n\nBu albümü unutulmaz kılan en önemli unsur, grubun en çok bilinen ve rock tarihinin en etkileyici parçalarından biri kabul edilen Stairway to Heaven şarkısıdır. Jimmy Page, Robert Plant, John Paul Jones ve John Bonham'dan oluşan kadro, bu albümle birlikte sadece ticari bir başarı elde etmekle kalmadı, aynı zamanda heavy metal ve hard rock türlerinin gelişimine de büyük katkı sağladı. Günümüzde hala müzik listelerinde ve listelerin zirvesinde yer alan bu eser, grubun rock tarihindeki sarsılmaz yerini pekiştiren en önemli yapı taşlarından biri olarak kabul edilmektedir.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Stones_members_montage2.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Stones_members_montage2.jpg",
-        "genislik": 822,
-        "yukseklik": 755,
-        "orijinalGenislik": 822,
-        "yazar": "Larry Rogers (1972 Jagger photo from File:Jagger-early Stones.jpg); User:Machocarioca (1995 Keith Richards photo from File:KeithR2.JPG); Cat",
-        "lisans": "CC BY 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Stones_members_montage2.jpg",
-        "aciklama": "Mick Jagger, Keith Richards, Ronnie Wood and Charlie Watts montage/crop of 4 pictures - File:Jagger-early Stones.jpg, File:KeithR2.JPG, File:Ron-Wood in CA.jpg and File:Charlie Watts Hannover 19-07-20",
-        "konu": "Rock müzik"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Stairway_to_Heaven_by_Led_Zeppelin_US_promotional_single.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Stairway_to_Heaven_by_Led_Zeppelin_US_promotional_single.png",
+        "genislik": 662,
+        "yukseklik": 670,
+        "orijinalGenislik": 662,
+        "yazar": "Atlantic Records",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Stairway_to_Heaven_by_Led_Zeppelin_US_promotional_single.png",
+        "aciklama": "\"Stairway to Heaven\" by Led Zeppelin; US promotional material",
+        "konu": "Stairway to Heaven"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Stones_members_montage2.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Stones_members_montage2.jpg",
-          "genislik": 822,
-          "yukseklik": 755,
-          "orijinalGenislik": 822,
-          "yazar": "Larry Rogers (1972 Jagger photo from File:Jagger-early Stones.jpg); User:Machocarioca (1995 Keith Richards photo from File:KeithR2.JPG); Cat",
-          "lisans": "CC BY 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Stones_members_montage2.jpg",
-          "aciklama": "Mick Jagger, Keith Richards, Ronnie Wood and Charlie Watts montage/crop of 4 pictures - File:Jagger-early Stones.jpg, File:KeithR2.JPG, File:Ron-Wood in CA.jpg and File:Charlie Watts Hannover 19-07-20",
-          "konu": "Rock müzik"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Led_Zeppelin_2007.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Led_Zeppelin_2007.jpg",
-          "genislik": 808,
-          "yukseklik": 582,
-          "orijinalGenislik": 808,
-          "yazar": "p_a_h from United Kingdom",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Led_Zeppelin_2007.jpg",
-          "aciklama": "A reunited Led Zeppelin in December 2007 at The O2 in London for the Ahmet Ertegün tribute show. From left to right: John Paul Jones, Robert Plant, and Jimmy Page. On drums is Jason Bonham, the son of",
-          "konu": "Led Zeppelin"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Stairway_to_Heaven_by_Led_Zeppelin_US_promotional_single.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Stairway_to_Heaven_by_Led_Zeppelin_US_promotional_single.png",
-          "genislik": 662,
-          "yukseklik": 670,
-          "orijinalGenislik": 662,
-          "yazar": "Atlantic Records",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Stairway_to_Heaven_by_Led_Zeppelin_US_promotional_single.png",
-          "aciklama": "\"Stairway to Heaven\" by Led Zeppelin; US promotional material",
-          "konu": "Stairway to Heaven"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1982-turkiyede-referanduma-sunulan-anayasanin-yuzde-91-3",
@@ -816,51 +623,12 @@
         "Referandum",
         "Anayasa"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Referendum-2-giugno_scheda_elettorale.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Referendum-2-giugno_scheda_elettorale.jpg",
-        "genislik": 859,
-        "yukseklik": 603,
-        "orijinalGenislik": 859,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Referendum-2-giugno_scheda_elettorale.jpg",
-        "aciklama": "scheda elettorale del referendum istituzionale del 2 giugno 1946",
-        "konu": "Referandum"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Referendum-2-giugno_scheda_elettorale.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Referendum-2-giugno_scheda_elettorale.jpg",
-          "genislik": 859,
-          "yukseklik": 603,
-          "orijinalGenislik": 859,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Referendum-2-giugno_scheda_elettorale.jpg",
-          "aciklama": "scheda elettorale del referendum istituzionale del 2 giugno 1946",
-          "konu": "Referandum"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/1950_Constitution_Eng.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/1950_Constitution_Eng.jpg",
-          "genislik": 530,
-          "yukseklik": 645,
-          "orijinalGenislik": 530,
-          "yazar": "Davidelit",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:1950_Constitution_Eng.jpg",
-          "aciklama": "An official translation of the Indonesian 1950 Constitution",
-          "konu": "Anayasa"
-        }
-      ]
+      "baslik": "1982 Anayasası Halk Oylaması ile Kabul Edildi",
+      "ozet": "1980 askeri müdahalesinin ardından hazırlanan ve Türkiye'nin yönetim yapısını kökten değiştiren yeni anayasa taslağı, 7 Kasım 1982'de halkın onayına sunuldu. Ertesi gün yapılan resmi açıklamada, seçmenlerin yüzde 91,3'ünün anayasaya evet oyu verdiği duyuruldu. Bu sonuçla birlikte 1982 Anayasası resmen yürürlüğe girerek Türk hukuk sisteminin temelini oluşturan en üst norm haline geldi.\n\nSöz konusu anayasa, devletin temel organlarının işleyişini, yasama, yürütme ve yargı arasındaki güç dengelerini yeniden tanımlayan kapsamlı bir toplumsal sözleşme niteliği taşıyordu. Halk oylaması, doğrudan demokrasi uygulamalarından biri olarak kabul edilse de, dönemin siyasi atmosferi ve anayasanın hazırlanış biçimi nedeniyle uzun yıllar boyunca hem hukuki hem de siyasi tartışmaların odağında yer aldı. Devletin örgütlenmesinden bireylerin temel hak ve özgürlüklerinin sınırlarına kadar pek çok alanı düzenleyen bu metin, Türkiye'nin siyasi tarihinde önemli bir dönüm noktası olarak kaydedildi.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1988-cinde-deprem-1000-kisi-oldu",
@@ -885,10 +653,10 @@
         "George H. W. Bush",
         "1988 Amerika Birleşik Devletleri başkanlık seçimleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "George H. W. Bush Amerika Birleşik Devletleri Başkanı Seçildi",
+      "ozet": "Amerika Birleşik Devletleri'nde 1988 yılında düzenlenen başkanlık seçimlerinde, Cumhuriyetçi Parti'nin adayı olan George H. W. Bush, Demokrat rakibi Michael Dukakis'i geride bırakarak ülkenin 41. başkanı olmaya hak kazandı. Seçim sonuçları, Bush'un Ronald Reagan dönemindeki başkan yardımcılığı görevinden sonra Beyaz Saray'a doğrudan başkan olarak taşınmasını sağladı. Bu zafer, Cumhuriyetçi Parti'nin Reagan döneminde başlattığı siyasi çizginin devamı olarak yorumlandı.\n\nGeorge H. W. Bush, başkanlık koltuğuna oturmadan önce uzun yıllar boyunca federal düzeyde çeşitli kritik görevlerde bulunmuş deneyimli bir siyasetçiydi. Temsilciler Meclisi üyeliği, Birleşmiş Milletler Daimî Temsilciliği ve CIA Direktörlüğü gibi önemli pozisyonlarda edindiği tecrübeler, onun başkanlık dönemindeki dış politika odaklı yaklaşımını şekillendirdi. 1989-1993 yılları arasında süren başkanlığı, Soğuk Savaş'ın sona ermesi ve Berlin Duvarı'nın yıkılması gibi dünya tarihini kökten değiştiren büyük olaylara tanıklık etti. Bush'un seçilmesi, Amerikan siyasi tarihinde muhafazakâr kanadın etkisini pekiştiren önemli bir dönüm noktası olarak kabul edilir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg/960px-George_H._W._Bush_presidential_portrait_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg/500px-George_H._W._Bush_presidential_portrait_%28cropped%29.jpg",
@@ -902,34 +670,7 @@
         "aciklama": "George H. W. Bush's presidential portrait",
         "konu": "George H. W. Bush"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg/960px-George_H._W._Bush_presidential_portrait_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg/500px-George_H._W._Bush_presidential_portrait_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1260,
-          "orijinalGenislik": 1600,
-          "yazar": "David Valdez",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:George_H._W._Bush_presidential_portrait_(cropped).jpg",
-          "aciklama": "George H. W. Bush's presidential portrait",
-          "konu": "George H. W. Bush"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/VP_George_Bush_crop.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/VP_George_Bush_crop.jpg",
-          "genislik": 587,
-          "yukseklik": 782,
-          "orijinalGenislik": 587,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:VP_George_Bush_crop.jpg",
-          "aciklama": "Vice President George H. W. Bush",
-          "konu": "1988 Amerika Birleşik Devletleri başkanlık seçimleri"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1996-icisleri-bakani-mehmet-agar-istifa-etti-agar",
@@ -940,10 +681,10 @@
         "Susurluk Skandalı",
         "Meral Akşener"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Susurluk Skandalı ve İçişleri Bakanlığında Görev Değişimi",
+      "ozet": "Türkiye siyasi tarihinin en önemli kırılma noktalarından biri olan Susurluk kazası, devlet, polis ve yeraltı dünyası arasındaki karanlık ilişkileri gün yüzüne çıkardı. 3 Kasım 1996 tarihinde meydana gelen bu trafik kazası, kamuoyunda büyük bir infiale yol açarak devletin içindeki yasa dışı yapılanmaların sorgulanmasına neden oldu. Kazanın ardından artan toplumsal baskı ve ortaya atılan ciddi iddialar, dönemin İçişleri Bakanı Mehmet Ağar'ın üzerindeki siyasi yükü artırdı. Ağar, bu süreçte yaşanan tartışmaların odağında yer alarak 8 Kasım 1996 tarihinde görevinden istifa etmek durumunda kaldı. Bu istifa, Türkiye'de devlet mekanizmasının işleyişine dair şeffaflık taleplerinin zirveye ulaştığı bir dönemi simgeledi. Ağar'ın ayrılışının ardından İçişleri Bakanlığı koltuğuna Meral Akşener getirildi. Akşener'in bu göreve atanması, Türkiye'nin ilk kadın İçişleri Bakanı olması bakımından da siyasi tarihimizde önemli bir yer tutmaktadır. Susurluk skandalı, toplumun geniş kesimlerinin katıldığı sivil eylemlerle desteklenen bir hesap sorma sürecini başlatmış ve Türk siyasetinde uzun yıllar etkisini sürdürecek bir tartışma iklimi yaratmıştır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Meral_Ak%C5%9Fener%2C_November_2021_%282%29_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Meral_Ak%C5%9Fener%2C_November_2021_%282%29_%28cropped%29.jpg",
@@ -956,7 +697,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Meral_Ak%C5%9Fener,_November_2021_(2)_(cropped).jpg",
         "aciklama": "Meral Akşener, November 2021 (2)",
         "konu": "Meral Akşener"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "2000-katilim-ortakligi-belgesi-aciklandi-bu-belge-turkiyenin",
@@ -994,10 +736,10 @@
         "Güneydoğu Asya",
         "Haiyan Tayfunu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Haiyan Tayfunu: Filipinler'i Vuran Büyük Felaket",
+      "ozet": "Sekiz Kasım 2013 tarihinde Filipinler ve Güneydoğu Asya coğrafyasını vuran Haiyan Tayfunu, modern meteoroloji tarihinde kaydedilmiş en şiddetli tropikal siklonlardan biri olarak kayıtlara geçmiştir. Özellikle Filipinler'in orta kesimlerinde etkili olan bu devasa fırtına, ulaştığı rüzgar hızı ve beraberinde getirdiği devasa dalgalarla yerleşim yerlerini yerle bir etmiştir. Felaket sonucunda en az 6.300 kişi hayatını kaybetmiş, yüz binlerce insan evsiz kalmış ve bölgenin altyapısı ağır hasar görmüştür. Pasifik Deprem Kuşağı'nda yer alması ve ekvatora yakın konumu nedeniyle doğal afetlere karşı kırılgan olan Filipinler, bu olayla birlikte tarihindeki en büyük yıkımlardan birini yaşamıştır. Haiyan Tayfunu, sadece bölge halkı için değil, küresel çapta afet yönetimi ve iklim değişikliğinin aşırı hava olayları üzerindeki etkileri konusunda da önemli bir dönüm noktası oluşturmuştur. Fırtınanın yarattığı tahribat, bölgedeki afet müdahale kapasitesinin sınırlarını zorlamış ve uluslararası çapta büyük bir yardım seferberliğinin başlamasına neden olmuştur.",
+      "kategori": "Afet",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Haiyan_2013-11-07_1345Z_%28alternate%29.png/960px-Haiyan_2013-11-07_1345Z_%28alternate%29.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Haiyan_2013-11-07_1345Z_%28alternate%29.png/500px-Haiyan_2013-11-07_1345Z_%28alternate%29.png",
@@ -1010,7 +752,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Haiyan_2013-11-07_1345Z_(alternate).png",
         "aciklama": "Typhoon Haiyan at peak intensity and approaching the Philippines on November 7, 2013.",
         "konu": "Haiyan Tayfunu"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "2020-ikinci-daglik-karabag-savasinda-azerbaycan-gucleri-susa",
@@ -1021,51 +764,24 @@
         "Azerbaycan",
         "Şuşa"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Şuşa'nın Ermeni İşgalinden Kurtarılması",
+      "ozet": "İkinci Dağlık Karabağ Savaşı'nın en kritik dönüm noktalarından biri, 8 Kasım 2020 tarihinde Azerbaycan güçlerinin Şuşa şehrini kontrol altına almasıyla yaşandı. 1992 yılından bu yana Ermenistan işgali altında bulunan şehir, hem stratejik konumu hem de Azerbaycan kültürü ve tarihi açısından taşıdığı sembolik değer nedeniyle büyük bir öneme sahipti. Şuşa'nın kurtarılması, bölgedeki askeri dengeleri Azerbaycan lehine kesin bir şekilde değiştirmiş ve savaşın sona erme sürecini hızlandırmıştır. Şehrin geri alınması, Azerbaycan halkı için büyük bir moral kaynağı olmuş ve bu tarih daha sonra ülkede Zafer Bayramı olarak ilan edilmiştir. Dağlık Karabağ bölgesinin kalbi olarak nitelendirilen Şuşa, yüksek rakımı ve doğal savunma avantajlarıyla bölgedeki en önemli yerleşim merkezlerinden biridir. Şehrin kurtarılması, 28 yıllık fiili işgalin son bulması anlamına gelmekle birlikte, Azerbaycan'ın toprak bütünlüğünü yeniden sağlama hedefinde attığı en kararlı adımlardan biri olarak tarihe geçmiştir. Bu zafer, bölgedeki jeopolitik durumu kökten değiştirerek uzun süredir devam eden çatışma sürecinde yeni bir dönemi başlatmıştır.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2020_Nagorno-Karabakh_war_Turkish.png/960px-2020_Nagorno-Karabakh_war_Turkish.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2020_Nagorno-Karabakh_war_Turkish.png/500px-2020_Nagorno-Karabakh_war_Turkish.png",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Shushi_collection.jpg/960px-Shushi_collection.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Shushi_collection.jpg/500px-Shushi_collection.jpg",
         "genislik": 960,
-        "yukseklik": 759,
-        "orijinalGenislik": 2560,
-        "yazar": "Modern primat, Kalj, based of File:2020 Nagorno-Karabakh war map.png by User:CuriousGolden",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:2020_Nagorno-Karabakh_war_Turkish.png",
-        "aciklama": "Bu harita belirtilmiş haritanın Türkiye Türkçesine uygun hâlidir. Yer isimlerini arama motorlarında çıkan sonuçlara, Vikipedideki hâllerine uygun olarak ve Türkiye Türkçesine yakın olmaya göre koydum.",
-        "konu": "İkinci Dağlık Karabağ Savaşı"
+        "yukseklik": 1311,
+        "orijinalGenislik": 3141,
+        "yazar": "See above.",
+        "lisans": "CC BY 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Shushi_collection.jpg",
+        "aciklama": "19th-century landmarks in the town of Shusha/Shushi, Azerbaijan",
+        "konu": "Şuşa"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2020_Nagorno-Karabakh_war_Turkish.png/960px-2020_Nagorno-Karabakh_war_Turkish.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2020_Nagorno-Karabakh_war_Turkish.png/500px-2020_Nagorno-Karabakh_war_Turkish.png",
-          "genislik": 960,
-          "yukseklik": 759,
-          "orijinalGenislik": 2560,
-          "yazar": "Modern primat, Kalj, based of File:2020 Nagorno-Karabakh war map.png by User:CuriousGolden",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:2020_Nagorno-Karabakh_war_Turkish.png",
-          "aciklama": "Bu harita belirtilmiş haritanın Türkiye Türkçesine uygun hâlidir. Yer isimlerini arama motorlarında çıkan sonuçlara, Vikipedideki hâllerine uygun olarak ve Türkiye Türkçesine yakın olmaya göre koydum.",
-          "konu": "İkinci Dağlık Karabağ Savaşı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Shushi_collection.jpg/960px-Shushi_collection.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Shushi_collection.jpg/500px-Shushi_collection.jpg",
-          "genislik": 960,
-          "yukseklik": 1311,
-          "orijinalGenislik": 3141,
-          "yazar": "See above.",
-          "lisans": "CC BY 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Shushi_collection.jpg",
-          "aciklama": "19th-century landmarks in the town of Shusha/Shushi, Azerbaijan",
-          "konu": "Şuşa"
-        }
-      ]
+      "bolge": "turkiye"
     }
   ],
   "dogumlar": [
@@ -1646,5 +1362,817 @@
     "url": "https://tr.wikipedia.org/wiki/8_Kas%C4%B1m",
     "revid": 38291333
   },
-  "guncelleme": "2026-10-21T21:27:13.036Z"
+  "guncelleme": "2026-10-21T21:27:13.036Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2450891",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Şampiyonlar Ligi için dev transfer operasyonu... Galatasaray'dan devre arası 3 takviye!",
+      "aciklama": "Şampiyonlar Ligi'nde çeyrek finali hedefleyen Galatasaray, lig aşamasında ilk 24'ü garantilediği anda transferde vites yükseltecek. UEFA'ya vereceği listede 3 değişiklik yapma hakkı olan sarı kırmızılıların defans, orta saha ve hücum hattını önemli isimlerle güçlendireceği ileri ",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/sampiyonlar-ligi-icin-dev-transfer-operasyonu-galatasaray-dan-devre-arasi-3-takviye-2450891"
+      },
+      "konular": [
+        "Galatasaray (futbol takımı)",
+        "UEFA Şampiyonlar Ligi"
+      ],
+      "yayin": "2025-11-08T12:27:00+03:00",
+      "puan": 12,
+      "durum": "elendi",
+      "baslik": "Galatasaray devre arası transfer döneminde kadrosunu güçlendirmeyi planlıyor",
+      "ozet": "Şampiyonlar Ligi'nde çeyrek final aşamasına ulaşmayı hedefleyen Galatasaray, lig etabındaki konumunu sağlamlaştırmasının ardından transfer çalışmalarına hız verme kararı aldı. UEFA listesinde üç oyuncu değişikliği yapma hakkı bulunan kulüp yönetimi, savunma, orta saha ve hücum bölgelerine takviye yapmayı amaçlıyor. Sarı kırmızılı ekip, Avrupa kupalarındaki iddiasını sürdürmek adına kadrosunu yeni isimlerle genişletmeyi hedefliyor.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2025-haber-2450975",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bakırköy’de AKP'li üyelerin ret oyuna rağmen imar planları kabul edildi",
+      "aciklama": "Bakırköy Belediye Meclisi'nde, Bakırköy’ün Demiryolu kuzeyi ve güneyine ilişkin 4 Kasım'da askıdan inen 1/1000 ölçekli revizyon uygulama imar planlarına yönelik itirazlar görüşüldü. Planlar, AKP'li üyelerin ret oyuna karşılık oy çokluğuyla kabul edildi. Bakırköy Belediye Başkanı ",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/bakirkoy-de-akp-li-uyelerin-ret-oyuna-ragmen-imar-planlari-kabul-edildi-2450975"
+      },
+      "konular": [
+        "Bakırköy",
+        "İmar planı",
+        "Belediye meclisi"
+      ],
+      "yayin": "2025-11-08T17:43:00+03:00",
+      "puan": 10,
+      "durum": "elendi",
+      "baslik": "Bakırköy Belediye Meclisinde İmar Planı İtirazları Karara Bağlandı",
+      "ozet": "Bakırköy sınırları içerisindeki demiryolu hattının kuzey ve güney bölgelerini kapsayan revizyon uygulama imar planlarına yönelik yapılan itirazlar belediye meclisinde değerlendirildi. Söz konusu planlar, meclis üyeleri arasında yapılan oylama sonucunda kabul edildi. Oylama sırasında bazı üyeler ret oyu kullanırken, planlar oy çokluğuyla onaylanarak yürürlük sürecine girdi.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2024-haber-2266444",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bitcoin'den rekor üstüne rekor: ABD seçimleri sonrası direnç seviyesi yeniden kırıldı!",
+      "aciklama": "Bitcoin, ABD seçimleri ve Fed'in faiz indirimi sonrası rekor tazeledi. Kripto para, 76 bin 956 dolara çıkarak bu hafta ikinci kez zirveye ulaştı. Peki Bitcoin fiyatı saat 10.45 itibarıyla ne kadar?",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/bitcoinden-rekor-ustune-rekor-abd-secimleri-sonrasi-direnc-seviyesi-2266444"
+      },
+      "konular": [
+        "Bitcoin",
+        "Kripto para",
+        "Ekonomi"
+      ],
+      "yayin": "2024-11-08T11:16:00+03:00",
+      "puan": 15,
+      "durum": "yazildi",
+      "baslik": "Bitcoin piyasasında yeni zirve seviyesi kaydedildi",
+      "ozet": "Amerika Birleşik Devletleri seçimlerinin ardından kripto para piyasasında hareketlilik yaşandı. Merkez Bankası'nın faiz oranlarında indirime gitmesiyle birlikte Bitcoin değer kazanarak 76 bin 956 dolar seviyesine ulaştı. Bu yükselişle birlikte dijital para birimi hafta içerisinde ikinci kez kendi rekorunu yenilemiş oldu.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg/960px-%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg/500px-%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg",
+        "genislik": 960,
+        "yukseklik": 960,
+        "orijinalGenislik": 2448,
+        "yazar": "Alexandr Gromov",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg",
+        "aciklama": "Подготовка к отправке заказа: mining kit на основе чипа Golden Nonce.",
+        "konu": "Kripto para"
+      }
+    },
+    {
+      "id": "2024-haber-2266445",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "2015'ten bu yana bir ilk: Erdoğan'dan 'sürpriz' 10 Kasım kararı",
+      "aciklama": "AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan, 10 Kasım dolayısıyla Kabine toplantısını pazar günü Çankaya Köşkü'nde gerçekleştirecek. Bu adım, 2015’ten bu yana bir ilk olacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/2015ten-bu-yana-bir-ilk-erdogandan-surpriz-10-kasim-karari-2266445"
+      },
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Çankaya Köşkü",
+        "Türkiye Cumhuriyeti Cumhurbaşkanlığı Kabinesi"
+      ],
+      "yayin": "2024-11-08T10:55:00+03:00",
+      "puan": 11,
+      "durum": "elendi",
+      "baslik": "Cumhurbaşkanlığı Kabinesi Çankaya Köşkünde Toplanacak",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, 10 Kasım anma etkinlikleri kapsamında Kabine toplantısını Çankaya Köşkünde yapma kararı aldı. Söz konusu toplantı, 2015 yılından beri ilk defa bu mekanda gerçekleştirilecek olmasıyla dikkat çekti.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2023-haber-2138733",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolar tarihi zirvelere yakın seyrediyor! Dolar ve Euro ne kadar oldu? 8 Kasım 2023 döviz fiyatları",
+      "aciklama": "Dolar/TL tarihi zirvelere yakın seyrederken güne 28.5105 seviyesinden başladı. Euro/TL ise 30.50 seviyesinden alıcı buluyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/dolar-tarihi-zirvelere-yakin-seyrediyor-dolar-ve-euro-ne-kadar-oldu-8-2138733"
+      },
+      "konular": [
+        "Döviz kuru",
+        "Ekonomi"
+      ],
+      "yayin": "2023-11-08T10:50:00+03:00",
+      "puan": 15,
+      "durum": "elendi",
+      "baslik": "Döviz piyasalarında güncel fiyatlar ve kur hareketliliği",
+      "ozet": "Dolar ve Euro kurları piyasalarda yüksek seviyelerini korumaya devam etti. Dolar Türk Lirası karşısında güne 28,51 seviyesinden giriş yaparken Euro ise 30,50 bandında işlem gördü. Döviz piyasalarındaki bu seyir yatırımcılar tarafından yakından takip edildi.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "id": "2023-haber-2138784",
+      "yil": 2023,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "Portekiz'de yolsuzluk skandalı: Başbakan istifa etti",
+      "aciklama": "Portekiz Başbakanı Antonio Costa, lityum madenciliği ve hidrojen projelerindeki yolsuzluk skandalı sonrası istifasını Portekiz Cumhurbaşkanı Marcelo Rebelo de Sousa’ye sundu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/portekizde-yolsuzluk-skandali-basbakan-istifa-etti-2138784"
+      },
+      "konular": [
+        "Antonio Costa",
+        "Portekiz",
+        "Siyaset"
+      ],
+      "yayin": "2023-11-08T12:12:00+03:00",
+      "puan": 11,
+      "durum": "yazildi",
+      "baslik": "Portekiz Başbakanı Antonio Costa görevinden istifa etti",
+      "ozet": "Portekiz Başbakanı Antonio Costa, hidrojen üretimi ve lityum madenleri ile ilgili yürütülen yolsuzluk soruşturmasının ardından istifa etme kararı aldı. Costa, görevinden ayrılma talebini Cumhurbaşkanı Marcelo Rebelo de Sousa'ya iletti. Ülkede kamuoyuna yansıyan bu gelişmeler sonucunda hükümet kanadında önemli bir değişim yaşandı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg/960px-24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg/500px-24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg",
+        "genislik": 960,
+        "yukseklik": 562,
+        "orijinalGenislik": 7320,
+        "yazar": "Lula Oficial",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_(54018866744).jpg",
+        "aciklama": "24.09.2024 - Presidente da República, Luiz Inácio Lula da Silva, durante a Abertura do Debate Geral da 79ª Sessão da Assembleia Geral das Nações Unidas, no Salão da Assembleia Geral, da Sede das Naçõe",
+        "konu": "Siyaset"
+      }
+    },
+    {
+      "id": "2022-haber-2000955",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "New York borsası seçim gününde yükselişle açıldı",
+      "aciklama": "ABD'de ara seçimler için oy kullanma işlemleri devam ederken, New York borsası güne yükselişle başladı. Açılışta Dow Jones endeksi, 100 puanın üzerinde değer kazandı ve yüzde 0,33 artarak 32.934,56 puana yükseldi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/new-york-borsasi-secim-gununde-yukselisle-acildi-2000955"
+      },
+      "konular": [
+        "New York Borsası",
+        "ABD ara seçimleri"
+      ],
+      "yayin": "2022-11-08T17:46:00+03:00",
+      "puan": 15,
+      "durum": "elendi",
+      "baslik": "New York borsasında seçim günü hareketliliği",
+      "ozet": "Amerika Birleşik Devletleri'nde gerçekleştirilen ara seçimlerde oy verme süreci sürerken New York borsası güne artışla giriş yaptı. Dow Jones endeksi açılış aşamasında yüz puanı aşan bir yükseliş sergileyerek yüzde 0,33 oranında değer kazandı ve 32.934,56 puana ulaştı.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "id": "2022-haber-2000746",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Altında dikkatler ABD ara seçimlerinde: Gram altın, çeyrek altın, Cumhuriyet altını ne kadar oldu? (8 Kasım 2022)",
+      "aciklama": "Altın, dikkatlerin son enflasyon verileri ve ABD’de yapılacak ara seçim sonuçlarına yönelmesi ile dünkü düşüşünü bugün de sürdürdü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/altinda-dikkatler-abd-ara-secimlerinde-gram-altin-ceyrek-altin-cumhuriyet-altini-ne-kadar-oldu-8-kasim-2022-2000746"
+      },
+      "konular": [
+        "Altın",
+        "ABD ara seçimleri",
+        "Ekonomi"
+      ],
+      "yayin": "2022-11-08T10:46:00+03:00",
+      "puan": 12,
+      "durum": "elendi",
+      "baslik": "Altın fiyatlarında ABD seçimleri ve enflasyon verileriyle düşüş sürdü",
+      "ozet": "Küresel piyasalarda altın fiyatları, yatırımcıların gözünü Amerika Birleşik Devletleri'nde gerçekleştirilecek ara seçimlere ve açıklanacak enflasyon rakamlarına çevirmesiyle değer kaybetti. Bir önceki gün başlayan aşağı yönlü hareketlilik, yeni günde de devam etti. Piyasalar, seçim sonuçlarının ve ekonomik verilerin altın üzerindeki etkilerini yakından takip etmeyi sürdürdü.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "id": "2021-haber-1883044",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP'li Meclis Üyesi otobüs kazasında hayatını kaybetti",
+      "aciklama": "Kayseri'nin Yeşilhisar ilçesinde yolcu otobüsü ile kamyonetin çarpışması sonucu meydana gelen kazada Yeşilhisar AKP Meclis Üyesi Bayram Çakır hayatını kaybetti, 1'i ağır 12 kişi de yaralandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/akpli-meclis-uyesi-otobus-kazasinda-hayatini-kaybetti-1883044"
+      },
+      "konular": [
+        "Yeşilhisar",
+        "Kayseri",
+        "Trafik kazası"
+      ],
+      "yayin": "2021-11-08T13:24:00+03:00",
+      "puan": 14,
+      "durum": "elendi",
+      "baslik": "Yeşilhisar'da meydana gelen trafik kazasında bir kişi yaşamını yitirdi",
+      "ozet": "Kayseri'nin Yeşilhisar ilçesinde bir yolcu otobüsü ile kamyonetin karıştığı trafik kazası gerçekleşti. Çarpışma sonucunda Yeşilhisar Belediye Meclis Üyesi Bayram Çakır olay yerinde hayatını kaybetti. Kazada yaralanan on iki kişiden birinin durumunun ciddiyetini koruduğu bildirildi.",
+      "kategori": "Toplum"
+    },
+    {
+      "id": "2021-haber-1883001",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Milli yüzücülerden Avrupa Kısa Kulvar Yüzme Şampiyonası’nda rekor madalya",
+      "aciklama": "Rusya’da gerçekleştirilen Avrupa Kısa Kulvar Yüzme Şampiyonası’nda 1 altın, 1 gümüş, 1 bronz madalya kazanarak tarih yazdık.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/milli-yuzuculerden-avrupa-kisa-kulvar-yuzme-sampiyonasinda-rekor-madalya-1883001"
+      },
+      "konular": [
+        "Avrupa Kısa Kulvar Yüzme Şampiyonası",
+        "Yüzme",
+        "Türkiye"
+      ],
+      "yayin": "2021-11-08T11:30:00+03:00",
+      "puan": 13,
+      "durum": "yazildi",
+      "baslik": "Avrupa Kısa Kulvar Yüzme Şampiyonası'nda Milli Başarı",
+      "ozet": "Rusya'da düzenlenen Avrupa Kısa Kulvar Yüzme Şampiyonası'nda milli sporcular önemli bir başarıya imza attı. Organizasyonu bir altın, bir gümüş ve bir bronz madalya ile tamamlayan yüzücüler, Türkiye adına şampiyona tarihindeki en iyi derecelerden birini elde etti.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Ligue_Europ%C3%A9enne_de_Natation_%28LEN%29.png/960px-Ligue_Europ%C3%A9enne_de_Natation_%28LEN%29.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Ligue_Europ%C3%A9enne_de_Natation_%28LEN%29.png/500px-Ligue_Europ%C3%A9enne_de_Natation_%28LEN%29.png",
+        "genislik": 960,
+        "yukseklik": 733,
+        "orijinalGenislik": 1200,
+        "yazar": "LEN",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ligue_Europ%C3%A9enne_de_Natation_(LEN).png",
+        "aciklama": "Logo of the European Swimming League (LEN)",
+        "konu": "Avrupa Kısa Kulvar Yüzme Şampiyonası"
+      }
+    },
+    {
+      "id": "2020-haber-1789467",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan, İzmir depreminin faturasını CHP'ye çıkardı",
+      "aciklama": "AKP’li Cumhurbaşkanı Recep Tayyip Erdoğan, Uluslararası Fuar Merkezi'nde düzenlenecek AKP Kocaeli 7. Olağan İl Kongresi'nde yaptığı konuşmada, İzmir depreminin faturasını CHP'ye çıkardı. Erdoğan,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-izmir-depreminin-faturasini-chpye-cikardi-1789467"
+      },
+      "konular": [
+        "2020 Ege Denizi depremi",
+        "Recep Tayyip Erdoğan",
+        "Cumhuriyet Halk Partisi"
+      ],
+      "yayin": "2020-11-08T14:52:00+03:00",
+      "puan": 17,
+      "durum": "elendi",
+      "baslik": "Cumhurbaşkanı Erdoğan'dan İzmir Depremi Üzerine Açıklamalar",
+      "ozet": "Kocaeli'de düzenlenen il kongresinde konuşan Cumhurbaşkanı Recep Tayyip Erdoğan, İzmir'de meydana gelen deprem felaketiyle ilgili değerlendirmelerde bulundu. Erdoğan, yaptığı konuşmada yaşanan yıkımın sorumluluğu konusunda Cumhuriyet Halk Partisi'ni eleştirdi.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2020-haber-1789541",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Berat Albayrak'ın istifası sonrasında dolar kuru ne olur?",
+      "aciklama": "Berat Albayrak’ın istifa iddialarının ardından hafta başında dolar ve euro'da düşüş olup olmayacağı merak ediliyor. Ekonomist Prof. Dr. Osman Altuğ, süreci değerlendirdi",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/berat-albayrakin-istifasi-sonrasinda-dolar-kuru-ne-olur-1789541"
+      },
+      "konular": [
+        "Berat Albayrak",
+        "Türkiye ekonomisi"
+      ],
+      "yayin": "2020-11-08T22:10:00+03:00",
+      "puan": 10,
+      "durum": "yazildi",
+      "baslik": "Hazine ve Maliye Bakanı Berat Albayrak görevinden ayrıldı",
+      "ozet": "Hazine ve Maliye Bakanı Berat Albayrak görevinden istifa ettiğini duyurdu. Bu gelişmenin ardından piyasalarda döviz kurlarının nasıl bir seyir izleyeceği tartışılmaya başlandı. Konuyla ilgili değerlendirmelerde bulunan ekonomist Prof. Dr. Osman Altuğ, yaşanan sürecin ekonomi üzerindeki olası etkilerini analiz etti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Berat_Albayrak.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Berat_Albayrak.jpg",
+        "genislik": 613,
+        "yukseklik": 802,
+        "orijinalGenislik": 613,
+        "yazar": "Yasin Akgül",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Berat_Albayrak.jpg",
+        "aciklama": "Turkish Treasury and Finance Minister Berat Albayrak at a press conference after the EU-Turkey High Level Economic Dialogue Meeting in Istanbul, Turkey",
+        "konu": "Berat Albayrak"
+      }
+    },
+    {
+      "id": "2019-haber-1700912",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Yargıtay, Fahri Kasırga'nın alıkonulmasına ilişkin davada kararını verdi",
+      "aciklama": "Yargıtay, darbe girişiminde Fahri Kasırga'nın alıkonulması davasında 14 sanığa verilen ağırlaştırılmış, 5 sanığa verilen müebbet hapis cezasını onadı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/yargitay-fahri-kasirganin-alikonulmasina-iliskin-davada-kararini-verdi-1700912"
+      },
+      "konular": [
+        "2016 Türkiye askerî darbe girişimi",
+        "Fahri Kasırga",
+        "Yargıtay"
+      ],
+      "yayin": "2019-11-08T16:23:00+03:00",
+      "puan": 9,
+      "durum": "yazildi",
+      "baslik": "Fahri Kasırga'nın alıkonulması davasında Yargıtay kararı kesinleşti",
+      "ozet": "Yargıtay, darbe girişimi sırasında Fahri Kasırga'nın kaçırılmasıyla ilgili görülen davada hükmünü açıkladı. Mahkeme, on dört sanık hakkında verilen ağırlaştırılmış müebbet hapis cezasını ve beş sanığa uygulanan müebbet hapis cezasını uygun bularak onadı.",
+      "kategori": "Siyaset",
+      "gorsel": null
+    },
+    {
+      "id": "2019-haber-1700925",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Yusuf Yazıcı: Şampiyonlar Ligi hayaldi, gerçek oldu!",
+      "aciklama": "Lille’de forma giyen milli futbolcu Yusuf Yazıcı, Fransa’nın kuvvete dayalı bir lig olduğunu belirterek,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/yusuf-yazici-sampiyonlar-ligi-hayaldi-gercek-oldu-1700925"
+      },
+      "konular": [
+        "Yusuf Yazıcı",
+        "Lille OSC",
+        "UEFA Şampiyonlar Ligi"
+      ],
+      "yayin": "2019-11-08T16:42:00+03:00",
+      "puan": 8,
+      "durum": "elendi",
+      "baslik": "Yusuf Yazıcı Fransa Ligindeki Deneyimlerini Değerlendirdi",
+      "ozet": "Lille takımında görev yapan milli futbolcu Yusuf Yazıcı, Şampiyonlar Ligi atmosferini yaşamanın kendisi için bir hayalin gerçeğe dönüşmesi olduğunu ifade etti. Fransa liginin fiziksel güce dayalı bir oyun yapısına sahip olduğunu belirten oyuncu, buradaki futbol anlayışına dair gözlemlerini paylaştı.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2018-haber-1134486",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Şampiyonlar Ligi’ne Çakır damgası",
+      "aciklama": "Cüneyt Çakır, Şampiyonlar Ligi'nde yönettiği CSKA Moskova-Roma maçında verdiği kararlarla çok tartışıldı. Çakır, maçta 1 kırmızı kart gösterdi ve 1 penaltıya karar verdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-ligine-cakir-damgasi-1134486"
+      },
+      "konular": [
+        "Cüneyt Çakır",
+        "UEFA Şampiyonlar Ligi",
+        "Futbol hakemi"
+      ],
+      "yayin": "2018-11-08T08:40:00+03:00",
+      "puan": 10,
+      "durum": "elendi",
+      "baslik": "Cüneyt Çakır'ın yönettiği Şampiyonlar Ligi karşılaşması tartışmalara yol açtı",
+      "ozet": "Şampiyonlar Ligi kapsamında oynanan CSKA Moskova ile Roma arasındaki müsabakada görev alan hakem Cüneyt Çakır, verdiği kararlarla gündeme geldi. Karşılaşma boyunca bir kez kırmızı kartına başvuran Çakır, aynı zamanda bir penaltı kararı verdi. Yönetimiyle dikkat çeken hakemin kararları spor kamuoyunda geniş bir şekilde tartışıldı.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2018-haber-1134480",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Şampiyonlar Ligi’nde gol yağmuru",
+      "aciklama": "Manchester City, rakibi Shaktar Donetsk'i 6-0 yenerken, Manchester United deplasmanda Juventus'u 2-1 mağlup etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-liginde-gol-yagmuru-1134480"
+      },
+      "konular": [
+        "UEFA Şampiyonlar Ligi",
+        "Manchester City FC",
+        "Manchester United FC"
+      ],
+      "yayin": "2018-11-08T08:33:00+03:00",
+      "puan": 8,
+      "durum": "elendi",
+      "baslik": "Şampiyonlar Ligi grup aşamasında farklı skorlar alındı",
+      "ozet": "Avrupa futbolunun kulüpler düzeyindeki en prestijli organizasyonunda oynanan karşılaşmalarda Manchester City, sahasında ağırladığı Shaktar Donetsk karşısında altı golle farklı bir galibiyet elde etti. Aynı akşam sahaya çıkan Manchester United ise deplasmanda karşılaştığı Juventus engelini iki golle aşarak sahadan üç puanla ayrıldı.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2017-haber-861830",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Benzine bir hafta arayla rekor zam",
+      "aciklama": "Petrol fiyatları ve dövizdeki yükselişin etkisiyle, benzinin litresine geçen hafta yapılan 12 kuruşluk zamdan sonra, bu gece yarısından itibaren de 13 kuruş zam geliyor. Böylece, benzinin litresine 10 günde yapılan zam 25 kuruşu buluyor. Motorin fiyatlarına da cuma veya cumartesi",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/benzine-bir-hafta-arayla-rekor-zam-861830"
+      },
+      "konular": [
+        "Benzin",
+        "Akaryakıt",
+        "Ekonomi"
+      ],
+      "yayin": "2017-11-08T09:55:00+03:00",
+      "puan": 11,
+      "durum": "elendi",
+      "baslik": "Benzin fiyatlarında kısa sürede ikinci artış",
+      "ozet": "Döviz kurlarında yaşanan hareketlilik ve petrol piyasasındaki fiyat değişimleri akaryakıt maliyetlerini etkiledi. Geçtiğimiz hafta uygulanan zammın ardından benzin fiyatlarına bir artış daha yapıldı. On günlük süreçte gerçekleşen toplam zam miktarı yirmi beş kuruşa ulaştı. Ayrıca motorin fiyatlarında da hafta sonuna doğru bir düzenleme yapılması bekleniyor.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "id": "2017-haber-862010",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İYİ Parti barajı hatırlattı... Devlet Bahçeli'den seçim barajı çıkışı...",
+      "aciklama": "İYİ Parti'nin kurulmasının ardından yapılan kimi anketlerde baraj altında kaldığı ifade edilen MHP'nin lideri Devlet Bahçeli, yüzde 10'luk seçim barajının değişmesi gerektiğini söyledi. Bahçeli,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/iyi-parti-baraji-hatirlatti-devlet-bahceliden-secim-baraji-cikisi-862010"
+      },
+      "konular": [
+        "Seçim barajı",
+        "Devlet Bahçeli",
+        "Milliyetçi Hareket Partisi"
+      ],
+      "yayin": "2017-11-08T13:07:00+03:00",
+      "puan": 7,
+      "durum": "yazildi",
+      "baslik": "Devlet Bahçeli seçim barajı sisteminin değişmesi gerektiğini belirtti",
+      "ozet": "Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli, mevcut yüzde onluk seçim barajı uygulamasının değiştirilmesi yönünde bir açıklama yaptı. Yeni kurulan bir siyasi partinin anketlerde baraj altında gösterilmesinin ardından gelen bu çıkış, kamuoyunda seçim sistemi tartışmalarını yeniden gündeme taşıdı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bah%C3%A7eli_VOA_2015_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bah%C3%A7eli_VOA_2015_%28cropped%29.jpg",
+        "genislik": 953,
+        "yukseklik": 1271,
+        "orijinalGenislik": 953,
+        "yazar": "Yıldız Yazıcıoğlu",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Devlet_Bah%C3%A7eli_VOA_2015_(cropped).jpg",
+        "aciklama": "This image has been extracted from another file",
+        "konu": "Devlet Bahçeli"
+      }
+    },
+    {
+      "id": "2016-haber-627644",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Gözler ABD'de seçimlerinde... Dolardan rekor üstüne rekor, Avro 3,51'i zorluyor",
+      "aciklama": "ABD'deki başkanlık seçimleri ve Türkiye'deki iç politik gerginlik nedeniyle dolar fiyatları rekor üstüne rekor kırıyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/gozler-abdde-secimlerinde-dolardan-rekor-ustune-rekor-avro-351i-zorluyor-627644"
+      },
+      "konular": [
+        "2016 Amerika Birleşik Devletleri başkanlık seçimleri",
+        "Döviz kuru",
+        "Ekonomi"
+      ],
+      "yayin": "2016-11-08T09:32:00+03:00",
+      "puan": 16,
+      "durum": "yazildi",
+      "baslik": "ABD seçimleri ve iç gelişmeler döviz piyasasını hareketlendirdi",
+      "ozet": "Amerika Birleşik Devletleri'nde gerçekleşen başkanlık seçimleri ile Türkiye içerisindeki siyasi atmosferin etkisiyle döviz kurlarında yükseliş yaşandı. Dolar değer kazanarak rekor seviyelere ulaşırken, avro fiyatları da 3,51 lira sınırına yaklaştı. Piyasalar her iki gelişmeyi de yakından takip etmeye devam etti.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Donald_Trump_%284x5%29.png/960px-Donald_Trump_%284x5%29.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Donald_Trump_%284x5%29.png/500px-Donald_Trump_%284x5%29.png",
+        "genislik": 960,
+        "yukseklik": 1200,
+        "orijinalGenislik": 2400,
+        "yazar": "Shealeah Craighead",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Donald_Trump_(4x5).png",
+        "aciklama": "President Donald Trump poses for his official portrait at The White House, in Washington, D.C., on Friday, October 6, 2017. (Official White House Photo by Shealah Craighead)",
+        "konu": "2016 Amerika Birleşik Devletleri başkanlık seçimleri"
+      }
+    },
+    {
+      "id": "2016-haber-627595",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Volkswagen, Dünya Ralli şampiyonasından çekilebilir",
+      "aciklama": "Volkswagen, ortaya çıkan dizel skandalının ardından birçok mali sorunla boğuşmaya devam ediyor. Şirket son olarak Dünya Ralli Şampiyonasından çekilmeyi düşünmeye başladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/volkswagen-dunya-ralli-sampiyonasindan-cekilebilir-627595"
+      },
+      "konular": [
+        "Dünya Ralli Şampiyonası",
+        "Volkswagen",
+        "Otomotiv endüstrisi"
+      ],
+      "yayin": "2016-11-08T08:11:00+03:00",
+      "puan": 10,
+      "durum": "yazildi",
+      "baslik": "Volkswagen Dünya Ralli Şampiyonası'ndan Ayrılmayı Değerlendiriyor",
+      "ozet": "Dizel emisyon krizi sonrasında ekonomik zorluklar yaşayan Volkswagen, motor sporları faaliyetlerinde değişikliğe gitme kararı aldı. Şirket yönetimi, Dünya Ralli Şampiyonası'ndaki varlığını sonlandırma ihtimalini gündemine aldı. Yaşanan finansal sıkıntılar sebebiyle markanın yarış dünyasındaki geleceği belirsizleşti.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Workers_in_Fiat_factories%2C_Turin.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Workers_in_Fiat_factories%2C_Turin.jpg",
+        "genislik": 950,
+        "yukseklik": 908,
+        "orijinalGenislik": 950,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Workers_in_Fiat_factories,_Turin.jpg",
+        "aciklama": "Workers in Fiat factories, Turin",
+        "konu": "Otomotiv endüstrisi"
+      }
+    },
+    {
+      "id": "2015-haber-410263",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP'de tecavüz depremi",
+      "aciklama": "1 Kasım’da yapılan genel seçimler öncesi AKP’nin Sinop gençlik kollarında “tecavüz” ve “şantaj” skandalı yaşandığı ortaya çıktı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/akpde-tecavuz-depremi-410263"
+      },
+      "konular": [
+        "Adalet ve Kalkınma Partisi",
+        "Sinop",
+        "Siyaset"
+      ],
+      "yayin": "2015-11-08T15:56:00+03:00",
+      "puan": 7,
+      "durum": "elendi",
+      "baslik": "Sinop Gençlik Kollarında Yaşanan Olaylar Kamuoyuna Yansıdı",
+      "ozet": "Kasım ayında gerçekleştirilen genel seçimler öncesinde, iktidar partisinin Sinop gençlik teşkilatı bünyesinde şantaj ve cinsel saldırı iddialarını içeren bir durumun yaşandığı ortaya çıktı. Söz konusu iddialar, seçim sürecinin ardından gündeme gelerek kamuoyunda geniş yer buldu.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2015-haber-409943",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İlber Ortaylı'dan 1 Kasım seçimi değerlendirmesi",
+      "aciklama": "İlber Ortaylı, 1 Kasım seçim sonuçlarını değerlendirdi. Ortaylı, Türkiye'de yaşanan kutuplaşma iddiaları ile ilgili de uyarıda bulundu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ilber-ortaylidan-1-kasim-secimi-degerlendirmesi-409943"
+      },
+      "konular": [
+        "İlber Ortaylı",
+        "Kasım 2015 Türkiye genel seçimleri",
+        "Türkiye siyaseti"
+      ],
+      "yayin": "2015-11-08T11:50:00+03:00",
+      "puan": 7,
+      "durum": "elendi",
+      "baslik": "İlber Ortaylı'dan 1 Kasım Seçim Sonuçlarına Dair Değerlendirme",
+      "ozet": "Tarihçi İlber Ortaylı, 1 Kasım tarihinde gerçekleştirilen genel seçimlerin sonuçlarını analiz etti. Ülke genelinde tartışılan kutuplaşma iddialarına değinen Ortaylı, bu durumun yaratabileceği risklere karşı dikkatli olunması gerektiğini vurguladı.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2014-haber-138634",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Milli karateci dünya şampiyonu oldu",
+      "aciklama": "Dünya Karate Şampiyonası'nda Türkiye'yi temsil eden Milli karateci Serap Özçelik, rakiplerine karşı üstün bir performans sergileyerek altın madalyanın sahibi oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/milli-karateci-dunya-sampiyonu-oldu-138634"
+      },
+      "konular": [
+        "Serap Özçelik",
+        "Dünya Karate Şampiyonası",
+        "Karate"
+      ],
+      "yayin": "2014-11-08T16:36:00+03:00",
+      "puan": 8,
+      "durum": "yazildi",
+      "baslik": "Serap Özçelik Dünya Karate Şampiyonası'nda Altın Madalya Kazandı",
+      "ozet": "Dünya Karate Şampiyonası'nda mücadele eden milli sporcu Serap Özçelik, rakiplerini geride bırakarak şampiyonluğa ulaştı. Başarılı performansıyla dikkat çeken Özçelik, turnuvayı altın madalya ile tamamlayarak önemli bir başarıya imza attı.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Karate_WC_Tampere_2006-2.jpg/960px-Karate_WC_Tampere_2006-2.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Karate_WC_Tampere_2006-2.jpg/500px-Karate_WC_Tampere_2006-2.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 3504,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Nagi BY SA",
+        "lisansUrl": "http://nagi.ee/lists/PhotoLicense/Attribution-ShareAlike",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Karate_WC_Tampere_2006-2.jpg",
+        "aciklama": null,
+        "konu": "Karate"
+      }
+    },
+    {
+      "id": "2014-haber-138677",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fenerbahçe taraftarlarından Tayyip Erdoğan'a protesto",
+      "aciklama": "Fenerbahçe, evinde Çaykur Rizespor'u 2-1 yenerek liderliğini sürdürürken Fenerbahçe taraftarları maçın 90. dakikasında 'Hırsız Recep Tayyip Erdoğan' sloganı attılar.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fenerbahce-taraftarlarindan-tayyip-erdogana-protesto-138677"
+      },
+      "konular": [
+        "Fenerbahçe (futbol takımı)",
+        "Çaykur Rizespor",
+        "Recep Tayyip Erdoğan"
+      ],
+      "yayin": "2014-11-08T22:40:00+03:00",
+      "puan": 7,
+      "durum": "elendi",
+      "baslik": "Fenerbahçe ve Çaykur Rizespor karşılaşmasında protesto yaşandı",
+      "ozet": "Fenerbahçe kendi sahasında Çaykur Rizespor ile karşılaştığı müsabakayı iki bir skorla kazandı. Maçın son dakikalarında tribünlerde bulunan taraftarlar Cumhurbaşkanı Recep Tayyip Erdoğan aleyhine sloganlar attı. Sarı lacivertli ekip bu galibiyetle ligdeki liderlik konumunu korudu.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2013-haber-7471",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Milli Takımı'ndan okçulukta dünya rekoru",
+      "aciklama": "Bedensel Engelliler Milli Takımı'ndan Burcu Dağ ve Erdoğan Aygan çifti, makaralı yay kategorisinde dünya rekoru kırdı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/milli-takimindan-okculukta-dunya-rekoru-7471"
+      },
+      "konular": [
+        "Okçuluk",
+        "Burcu Dağ",
+        "Erdoğan Aygan"
+      ],
+      "yayin": "2013-11-08T19:31:00+03:00",
+      "puan": 11,
+      "durum": "yazildi",
+      "baslik": "Milli okçulardan makaralı yay kategorisinde dünya rekoru",
+      "ozet": "Bedensel Engelliler Milli Takımı sporcuları Burcu Dağ ve Erdoğan Aygan, makaralı yay branşında üstün bir performans sergiledi. İkili, katıldıkları yarışmada dünya rekoruna imza atarak önemli bir başarıya ulaştı.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/ArcheryGermanyEarly1980s-2.jpg/960px-ArcheryGermanyEarly1980s-2.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/ArcheryGermanyEarly1980s-2.jpg/500px-ArcheryGermanyEarly1980s-2.jpg",
+        "genislik": 960,
+        "yukseklik": 623,
+        "orijinalGenislik": 2394,
+        "yazar": "derivative work: Saibo (Δ) Image-ArcheryGermanyEarly1980s-OriginalScan.jpg: RX-Guru",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:ArcheryGermanyEarly1980s-2.jpg",
+        "aciklama": "Picture of an archery competition at Mönchengladbach in Germany, taken in June 1983.",
+        "konu": "Okçuluk"
+      }
+    },
+    {
+      "id": "2013-haber-7449",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolar rekora gidiyor",
+      "aciklama": "ABD'de merakla beklenen tarım dışı istihdam Ekim'de 204 bin kişi ile beklentilerin yaklaşık iki katı arttı. Bu verinin ardından dolar/TL 2,05'in üzerine çıktı, borsa ve altın düştü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/dolar-rekora-gidiyor-7449"
+      },
+      "konular": [
+        "Dolar",
+        "Ekonomi",
+        "ABD"
+      ],
+      "yayin": "2013-11-08T17:02:00+03:00",
+      "puan": 8,
+      "durum": "yazildi",
+      "baslik": "ABD istihdam verileri sonrası döviz piyasasında hareketlilik yaşandı",
+      "ozet": "Amerika Birleşik Devletleri'nde açıklanan tarım dışı istihdam rakamları piyasa beklentilerinin oldukça üzerinde gerçekleşti. Bu gelişmenin ardından dolar kuru Türk lirası karşısında değer kazanarak iki virgül sıfır beş seviyesini aştı. Söz konusu ekonomik verinin etkisiyle borsa endekslerinde düşüş gözlemlenirken altın fiyatlarında da gerileme kaydedildi.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/USDnotes.png/960px-USDnotes.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/USDnotes.png/500px-USDnotes.png",
+        "genislik": 960,
+        "yukseklik": 837,
+        "orijinalGenislik": 2380,
+        "yazar": "derivative work: Hidro (talk) USDnotes.jpg: The original uploader was Andyhi18 at English Wikipedia.",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:USDnotes.png",
+        "aciklama": "Includes new banknotes",
+        "konu": "Dolar"
+      }
+    },
+    {
+      "id": "2012-haber-382124",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Diyarbakır'da restorana ateş açıldı: 5 yaralı",
+      "aciklama": "Diyarbakır'da, bir restorana ateş edilmesi sonucu 5 kişi yaralandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/diyarbakirda-restorana-ates-acildi-5-yarali-382124"
+      },
+      "konular": [
+        "Diyarbakır"
+      ],
+      "yayin": "2012-11-08T19:59:00+03:00",
+      "puan": 7,
+      "durum": "elendi",
+      "baslik": "Diyarbakır'daki bir restorana düzenlenen silahlı saldırıda beş kişi yaralandı",
+      "ozet": "Diyarbakır il merkezinde bulunan bir restorana kimliği belirsiz kişilerce ateş açıldı. Gerçekleşen saldırı sonucunda beş vatandaş yaralanarak hastaneye kaldırıldı. Olayın ardından bölgede güvenlik önlemleri artırıldı ve saldırganların yakalanması için çalışma başlatıldı.",
+      "kategori": "Toplum"
+    },
+    {
+      "id": "2011-haber-296628",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "New York Borsası yükselişle açıldı (08.11.2011)",
+      "aciklama": "New York Borsası'nda endeksler yükselişle açıldı. Borsanın açılışında, Dow Jones Sanayi Endeksi yüzde 0,30 (35,72 puan) değer kazanarak 12.104,11 puana çıktı. Açılışta, Standard & Poor's 500 Endeksi yüzde 0,41 (5,17 puan) artarak 1.266,29 puan ve Nasdaq Teknoloji Endeksi de yüzde",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/new-york-borsasi-yukselisle-acildi-296628"
+      },
+      "konular": [
+        "New York Borsası",
+        "Dow Jones Endüstri Ortalaması",
+        "Ekonomi"
+      ],
+      "yayin": "2011-11-08T15:07:00+03:00",
+      "puan": 9,
+      "durum": "elendi",
+      "baslik": "New York Borsası güne değer kazanarak başladı",
+      "ozet": "New York Borsası işlem gününe yükseliş eğilimiyle giriş yaptı. Dow Jones Sanayi Endeksi açılışta yüzde 0,30 oranında artış göstererek 12.104,11 puana ulaştı. Aynı zamanda Standard and Poor's 500 Endeksi yüzde 0,41 değer kazanarak 1.266,29 puana yükseldi.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "id": "2011-haber-296658",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Tunus, eski başbakanı iade ediyor",
+      "aciklama": "Tunus adaleti, Libya'nın eski Başbakanı El Bağdadi el Mahmudi'yi Libya'ya iade etme kararı aldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/tunus-eski-basbakani-iade-ediyor-296658"
+      },
+      "konular": [
+        "El Bağdadi el Mahmudi",
+        "Libya",
+        "Tunus"
+      ],
+      "yayin": "2011-11-08T18:04:00+03:00",
+      "puan": 7,
+      "durum": "yazildi",
+      "baslik": "Tunus yönetimi eski Libya Başbakanı'nı iade etme kararı aldı",
+      "ozet": "Tunus yargı makamları, Libya'nın eski Başbakanı El Bağdadi el Mahmudi'nin ülkesine gönderilmesine hükmetti. Söz konusu karar doğrultusunda, eski başbakanın Libya'ya teslim edilmesi için gerekli yasal süreç başlatıldı.",
+      "kategori": "Siyaset",
+      "gorsel": null
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }
