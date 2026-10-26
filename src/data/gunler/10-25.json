@@ -1299,7 +1299,7 @@
     "url": "https://tr.wikipedia.org/wiki/25_Ekim",
     "revid": 38323490
   },
-  "guncelleme": "2026-10-25T10:56:31.664Z",
+  "guncelleme": "2026-10-26T12:27:38.589Z",
   "haberler": [
     {
       "id": "2025-haber-2446933",
@@ -1312,16 +1312,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/muhammed-halit-ozmus-dan-dunya-23-yas-alti-sampiyonasi-nda-gumus-madalya-2446933"
       },
-      "konular": [
-        "Güreş",
-        "Muhammed Halit Özmuş"
-      ],
+      "konular": [],
       "yayin": "2025-10-25T22:18:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Muhammed Halit Özmuş Dünya Şampiyonası'nda İkinci Oldu",
-      "ozet": "Milli sporcu Muhammed Halit Özmuş, katıldığı Dünya 23 Yaş Altı Güreş Şampiyonası'nda başarılı bir performans sergiledi. Turnuvayı gümüş madalya ile tamamlayan güreşçi, kürsüde yer alarak önemli bir başarıya imza attı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2446732",
@@ -1334,16 +1328,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/uluslararasi-kadin-liderler-zirvesi-cesme-de-basladi-liderlik-hak-degil-ilerleme-meselesi-2446732"
       },
-      "konular": [
-        "Çeşme",
-        "Kadın hakları"
-      ],
+      "konular": [],
       "yayin": "2025-10-25T04:00:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Uluslararası Kadın Liderler Zirvesi Çeşme'de Düzenleniyor",
-      "ozet": "İzmir'in Çeşme ilçesinde gerçekleştirilen Uluslararası Kadın Liderler Zirvesi kapılarını açtı. Farklı sektörlerden gelen kadın temsilciler, toplumsal eşitlik ve kadınların görünürlüğünün artırılması konularında çözüm önerilerini paylaştı. Etkinlik kapsamında liderlik kavramı, bir hak olmaktan ziyade toplumsal ilerlemenin bir gerekliliği olarak değerlendirildi.",
-      "kategori": "Toplum"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2261790",
@@ -1356,30 +1344,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/abdde-secim-belirsizligi-kredi-risk-primlerini-zirveye-tasidi-2261790"
       },
-      "konular": [
-        "Kredi temerrüt takası",
-        "Amerika Birleşik Devletleri",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2024-10-25T16:28:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Amerika Birleşik Devletleri seçimleri kredi risk primlerini yükseltti",
-      "ozet": "Amerika Birleşik Devletleri genelinde yaklaşan seçim sürecinin yarattığı belirsizlik ortamı finansal piyasaları etkiledi. Bu durum kredi temerrüt riskinin artmasına yol açarak söz konusu veriyi geçen yılın kasım ayından bu yana görülen en üst noktaya taşıdı. Yatırımcılar seçim sonuçlarının ekonomi üzerindeki olası yansımalarını yakından takip etmeye başladı.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/960px-Luchtfoto_van_Lower_Manhattan.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/500px-Luchtfoto_van_Lower_Manhattan.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 5616,
-        "yazar": "Daniele Pieroni",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Luchtfoto_van_Lower_Manhattan.jpg",
-        "aciklama": "Lower Manhattan gezien vanuit het zuidwesten.",
-        "konu": "Ekonomi"
-      }
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2261867",
@@ -1392,17 +1360,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/besiktastan-flas-derbi-paylasimi-inleyecek-sami-yen-besiktas-2261867"
       },
-      "konular": [
-        "Beşiktaş (futbol takımı)",
-        "Galatasaray (futbol takımı)",
-        "Süper Lig"
-      ],
+      "konular": [],
       "yayin": "2024-10-25T21:13:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Beşiktaş Kulübünden Galatasaray Derbisi Öncesi Paylaşım",
-      "ozet": "Beşiktaş yönetimi, Galatasaray ile oynanacak derbi müsabakasına kısa bir süre kala sosyal medya hesapları üzerinden bir içerik yayınladı. Pazartesi günü gerçekleşecek olan karşılaşma öncesinde yapılan bu paylaşım, taraftarların dikkatini çekti.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2134051",
@@ -1415,17 +1376,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-emekli-ikramiyesi-tbmmde-kabul-edildi-2134051"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Emeklilik",
-        "Türkiye"
-      ],
+      "konular": [],
       "yayin": "2023-10-25T18:56:00+03:00",
       "puan": 13,
-      "durum": "elendi",
-      "baslik": "Emeklilere Cumhuriyetin 100. Yılına Özel İkramiye Düzenlemesi Yasalaştı",
-      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, Cumhuriyetin kuruluşunun yüzüncü yıl dönümü kapsamında emekli vatandaşlara tek seferlik ödeme yapılmasını içeren düzenlemeyi onayladı. Kabul edilen madde uyarınca emeklilere beş bin Türk lirası tutarında ikramiye verilmesi kararlaştırıldı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2133835",
@@ -1438,30 +1392,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/erdoganin-isvecin-natoya-katilim-protokolunu-imzalamasi-hakan-2133835"
       },
-      "konular": [
-        "İsveç'in NATO üyeliği süreci",
-        "Recep Tayyip Erdoğan",
-        "Hakan Fidan"
-      ],
+      "konular": [],
       "yayin": "2023-10-25T10:41:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "İsveç'in NATO üyeliği süreci Türkiye Büyük Millet Meclisi'ne taşındı",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, İsveç'in NATO'ya katılımına ilişkin protokolü imzalayarak onay sürecini başlatmak üzere Türkiye Büyük Millet Meclisi'ne gönderdi. Bu gelişmenin ardından Cumhuriyet Halk Partisi milletvekili Seyit Torun, Dışişleri Bakanı Hakan Fidan'a konuyla ilgili soru önergesi yöneltti. Torun, İsveç ile yaşanan mevcut anlaşmazlıkların nasıl çözüme kavuşturulduğunu ve bu kararın gerekçelerini öğrenmek istediğini belirtti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1996238",
@@ -1474,17 +1408,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/tutun-tutun-mamulleri-ve-alkol-piyasasinin-duzenlenmesine-dair-kanun-teklifi-tbmm-adalet-komisyonunda-kabul-edildi-1996238"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Adalet Komisyonu",
-        "Tütün"
-      ],
+      "konular": [],
       "yayin": "2022-10-25T23:59:00+03:00",
       "puan": 15,
-      "durum": "elendi",
-      "baslik": "Tütün ve alkol piyasasına yönelik yasal düzenleme komisyondan geçti",
-      "ozet": "Tütün ürünleri ile alkol piyasasını ilgilendiren kanun teklifi, Türkiye Büyük Millet Meclisi Adalet Komisyonu tarafından onaylandı. Söz konusu düzenleme, ilgili alanda faaliyet gösterenler için iki yıldan beş yıla kadar hapis cezası uygulanmasını öngörüyor. Komisyon görüşmelerinin tamamlanmasıyla birlikte teklif yasalaşma sürecinde bir aşamayı daha geride bıraktı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1879433",
@@ -1497,16 +1424,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika-altinda-tum-zamanlarin-rekoru-kirildi-ceyrek-altin-ne-kadar-oldu-25-ekim-2021-pazartesi-guncel-altin-1879433"
       },
-      "konular": [
-        "Altın",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2021-10-25T10:51:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Altın fiyatlarında tarihi zirve seviyesi görüldü",
-      "ozet": "Haftanın ilk iş gününde altın piyasasında hareketlilik yaşandı. Gram altın değeri yükseliş eğilimi göstererek 564 lira seviyesine ulaştı ve kendi rekorunu tazeledi. Bu artışla birlikte piyasadaki diğer altın türlerinin fiyatlarında da değişimler meydana geldi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1879459",
@@ -1519,30 +1440,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/alman-medyasindan-erdogan-cikisi-kirmizi-kart-gostermenin-zamani-geldi-1879459"
       },
-      "konular": [
-        "Osman Kavala",
-        "Recep Tayyip Erdoğan",
-        "Türkiye-Almanya ilişkileri"
-      ],
+      "konular": [],
       "yayin": "2021-10-25T11:36:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Alman Basınında Cumhurbaşkanı Erdoğan'ın Büyükelçi Açıklamalarına Eleştiri",
-      "ozet": "Alman basın organlarında, Cumhurbaşkanı Recep Tayyip Erdoğan'ın Osman Kavala'nın serbest bırakılmasını talep eden büyükelçilere yönelik verdiği yanıt geniş yer buldu. Yayınlanan yorumlarda, Türkiye'nin bu tutumuna karşı sert eleştiriler dile getirildi ve diplomatik süreçteki gerilime dikkat çekildi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Osman_Kavala_2015.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Osman_Kavala_2015.jpg",
-        "genislik": 762,
-        "yukseklik": 779,
-        "orijinalGenislik": 762,
-        "yazar": "Janbazian",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Osman_Kavala_2015.jpg",
-        "aciklama": "Osman Kavala 2015",
-        "konu": "Osman Kavala"
-      }
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1775898",
@@ -1555,30 +1456,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/abdde-vaka-sayisi-rekor-kirdi-macron-virusun-yaza-kadar-etkili-olmasini-bekledigini-acikladi-1775898"
       },
-      "konular": [
-        "COVID-19 pandemisi",
-        "Emmanuel Macron",
-        "Amerika Birleşik Devletleri"
-      ],
+      "konular": [],
       "yayin": "2020-10-25T02:43:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Küresel salgında vaka artışları ve Avrupa'daki beklentiler",
-      "ozet": "Amerika Birleşik Devletleri'nde koronavirüs vaka sayılarında en yüksek seviyeye ulaşıldı. Avrupa genelinde salgından en çok etkilenen ülkelerden biri olan Fransa'nın Cumhurbaşkanı Emmanuel Macron, virüsün etkilerinin önümüzdeki yaz aylarına kadar süreceğini ifade etti.",
-      "kategori": "Toplum",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/960px-Emmanuel_Macron_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/500px-Emmanuel_Macron_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1328,
-        "orijinalGenislik": 1515,
-        "yazar": "Nebojša Tejić",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_2025_(cropped).jpg",
-        "aciklama": "Foto: Nebojša Tejić / STA",
-        "konu": "Emmanuel Macron"
-      }
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1775977",
@@ -1591,17 +1472,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/balkan-sampiyonu-milli-atletler-yurda-dondu-1775977"
       },
-      "konular": [
-        "Dağ koşusu",
-        "Atletizm",
-        "Türkiye"
-      ],
+      "konular": [],
       "yayin": "2020-10-25T13:39:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Balkan Dağ Koşusu Şampiyonası'nda Türkiye zirveye yerleşti",
-      "ozet": "Romanya'nın Poiana Braşov şehrinde gerçekleştirilen Balkan Dağ Koşusu Şampiyonası'nı başarıyla tamamlayan milli sporcular Türkiye'ye geri döndü. Organizasyonda toplamda dört altın, dört gümüş ve iki bronz madalya elde eden atletler, ülkemizi genel madalya sıralamasında ilk sıraya taşıdı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1121797",
@@ -1614,17 +1488,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpli-bulbul-tarim-ureticilerinin-magduriyetini-meclis-gundemine-tasidi-1121797"
       },
-      "konular": [
-        "Süleyman Bülbül",
-        "Türkiye Büyük Millet Meclisi",
-        "Tarım"
-      ],
+      "konular": [],
       "yayin": "2018-10-25T15:55:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Tarım desteklerinin ödenmemesi Meclis gündemine taşındı",
-      "ozet": "Cumhuriyet Halk Partisi Aydın Milletvekili Süleyman Bülbül, tarım üreticilerine sağlanan yıllık desteklerin bu dönemde verilmemesini Türkiye Büyük Millet Meclisi çatısı altında dile getirdi. Üreticilerin yaşadığı mağduriyetin giderilmesi amacıyla konuyu resmi olarak gündeme taşıyan Bülbül, Gıda, Tarım ve Hayvancılık Bakanlığı tarafından gerçekleştirilen uygulamaya ilişkin soru önergesi sundu.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1121459",
@@ -1637,15 +1504,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/trabzonsporun-yenilenen-tesisleri-acildi-1121459"
       },
-      "konular": [
-        "Trabzonspor"
-      ],
+      "konular": [],
       "yayin": "2018-10-25T12:36:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Trabzonspor kulübünün yenilenen tesisleri hizmete girdi",
-      "ozet": "Trabzonspor bünyesinde bulunan spor tesislerinin binaları kapsamlı bir yenileme sürecinden geçti. Tamamlanan çalışmaların ardından tesislerin resmi açılışı gerçekleştirildi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-852384",
@@ -1658,16 +1520,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/isciye-memura-yuzde-3-erdoganin-maasina-rekor-zam-852384"
       },
-      "konular": [
-        "Cumhurbaşkanı",
-        "Türkiye"
-      ],
+      "konular": [],
       "yayin": "2017-10-25T13:40:00+03:00",
       "puan": 18,
-      "durum": "elendi",
-      "baslik": "Cumhurbaşkanlığı maaşlarında yeni düzenleme yapıldı",
-      "ozet": "Cumhurbaşkanı maaşında artışa gidilerek rakam 39 bin 71 liraya yükseltildi. Aynı düzenleme kapsamında emekli cumhurbaşkanlarının alacağı aylık ödeme miktarı da 23 bin 600 lira seviyesine ulaştı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-852646",
@@ -1680,17 +1536,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/2018-dunya-ralli-sampiyonasi-turkiyede-gerceklesecek-852646"
       },
-      "konular": [
-        "Dünya Ralli Şampiyonası",
-        "Türkiye"
-      ],
+      "konular": [],
       "yayin": "2017-10-25T18:03:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Dünya Ralli Şampiyonası 2018 Yılında Türkiye'de Düzenlenecek",
-      "ozet": "Uluslararası Otomobil Federasyonu tarafından organize edilen Dünya Ralli Şampiyonası'nın bir ayağının Türkiye'de yapılmasına karar verildi. Söz konusu yarış takviminin açıklanmasıyla birlikte Türkiye'nin organizasyona ev sahipliği yapacağı kesinleşti.",
-      "kategori": "Spor",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2016-haber-621020",
@@ -1703,17 +1552,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ali-sen-ali-koc-fenerbahceyi-sampiyonlar-ligi-sampiyonu-yapar-621020"
       },
-      "konular": [
-        "Ali Şen",
-        "Ali Koç",
-        "Fenerbahçe"
-      ],
+      "konular": [],
       "yayin": "2016-10-25T11:19:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Ali Şen'den Ali Koç'un Fenerbahçe Başkanlığına Dair Değerlendirme",
-      "ozet": "Fenerbahçe Kulübü'nün eski başkanlarından Ali Şen, Ali Koç'un başkanlık görevine gelmesi durumunda sarı lacivertli ekibi Şampiyonlar Ligi şampiyonluğuna taşıyabileceğini ifade etti. Şen, Koç'un potansiyeline ve kulübe katabileceklerine dair görüşlerini kamuoyuyla paylaştı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-620927",
@@ -1726,30 +1568,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dunya-sampiyonu-eczacibasi-vitra-yurda-dondu-620927"
       },
-      "konular": [
-        "Eczacıbaşı (kadın voleybol takımı)",
-        "FIVB Kadınlar Dünya Kulüpler Voleybol Şampiyonası",
-        "Voleybol"
-      ],
+      "konular": [],
       "yayin": "2016-10-25T09:35:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Dünya Şampiyonu Eczacıbaşı VitrA Türkiye'ye Geldi",
-      "ozet": "FIVB Kadınlar Dünya Kulüpler Voleybol Şampiyonası'nda birinciliği elde eden Eczacıbaşı VitrA takımı, turnuvanın ardından ülkeye dönüş yaptı. Başarılı sporcular, kazandıkları dünya şampiyonluğu kupasıyla birlikte yurda giriş yaptı.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Europei_di_pallavolo_2005_-_Italia-Russia.jpg/960px-Europei_di_pallavolo_2005_-_Italia-Russia.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Europei_di_pallavolo_2005_-_Italia-Russia.jpg/500px-Europei_di_pallavolo_2005_-_Italia-Russia.jpg",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 2000,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Europei_di_pallavolo_2005_-_Italia-Russia.jpg",
-        "aciklama": null,
-        "konu": "Voleybol"
-      }
+      "durum": "haber"
     },
     {
       "id": "2015-haber-394509",
@@ -1762,17 +1584,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/1-kasim-secimleri-icin-akpye-bir-kotu-haber-daha-394509"
       },
-      "konular": [
-        "Kasım 2015 Türkiye genel seçimleri",
-        "Adalet ve Kalkınma Partisi",
-        "Kamuoyu araştırması"
-      ],
+      "konular": [],
       "yayin": "2015-10-25T10:21:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Varyans Araştırma şirketinden seçim anketi sonuçları açıklandı",
-      "ozet": "Varyans Araştırma tarafından gerçekleştirilen kamuoyu araştırması kamuoyuyla paylaşıldı. Yapılan çalışma kapsamında seçmen eğilimleri incelenirken Adalet ve Kalkınma Partisi'nin bazı bölgelerde oy kaybı yaşayabileceği öngörüldü. Tek başına iktidar olmayı hedefleyen siyasi partinin oy oranlarındaki değişim beklentisi anket sonuçlarına yansıdı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2014-haber-134024",
@@ -1785,17 +1600,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akp-binasina-ates-acildi-134024"
       },
-      "konular": [
-        "Adalet ve Kalkınma Partisi",
-        "Ümraniye",
-        "Saldırı"
-      ],
+      "konular": [],
       "yayin": "2014-10-25T10:12:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Ümraniye'deki siyasi parti temsilciliğine silahlı saldırı düzenlendi",
-      "ozet": "Ümraniye'de bulunan bir siyasi parti mahalle temsilciliğinin binasına kimliği henüz belirlenemeyen kişi veya kişiler tarafından ateş açıldı. Saldırı sonucunda binanın camlarına üç adet mermi isabet etti. Olayda herhangi bir can kaybı ya da yaralanma durumu meydana gelmedi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2013-haber-4299",
@@ -1808,16 +1616,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/galatasaray-ali-sami-yeni-andi-4299"
       },
-      "konular": [
-        "Ali Sami Yen",
-        "Galatasaray"
-      ],
+      "konular": [],
       "yayin": "2013-10-25T15:04:00+03:00",
       "puan": 2,
-      "durum": "elendi",
-      "baslik": "Galatasaray kurucusu Ali Sami Yen kabri başında anıldı",
-      "ozet": "Galatasaray Spor Kulübü, kuruluşunun 108. yıl dönümü kutlamaları çerçevesinde bir anma töreni düzenledi. Kulübün kurucusu ve ilk üyesi olan Ali Sami Yen, Feriköy Mezarlığı'ndaki mezarı başında ziyaret edildi. Tören kapsamında kulüp temsilcileri ve üyeleri bir araya gelerek kurucularını yad etti.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2013-haber-4283",
@@ -1830,30 +1632,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/femen-turkiye-kuruldu-4283"
       },
-      "konular": [
-        "Femen",
-        "Kadın hakları",
-        "Türkiye"
-      ],
+      "konular": [],
       "yayin": "2013-10-25T11:51:00+03:00",
       "puan": 1,
-      "durum": "yazildi",
-      "baslik": "Femen grubu Türkiye'de faaliyetlerine başladı",
-      "ozet": "Dünya genelinde gerçekleştirdikleri protestolarla tanınan kadın hakları savunucusu Femen grubu, Türkiye'de bir şube açtığını duyurdu. Grup, ülkemizdeki çalışmalarına resmen start verdi.",
-      "kategori": "Toplum",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/8marchrallydhaka_%2855%29.JPG/960px-8marchrallydhaka_%2855%29.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/8marchrallydhaka_%2855%29.JPG/500px-8marchrallydhaka_%2855%29.JPG",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 1280,
-        "yazar": "No machine-readable author provided. Soman assumed (based on copyright claims).",
-        "lisans": "CC BY 2.5",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.5",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:8marchrallydhaka_(55).JPG",
-        "aciklama": "March 8 rally in Dhaka, organized by Jatiyo Nari Shramik Trade Union Kendra (National Women Workers Trade Union Centre), an organization to the Bangladesh Trade Union Kendra. Photo: Soman",
-        "konu": "Kadın hakları"
-      }
+      "durum": "haber"
     },
     {
       "id": "2012-haber-378988",
@@ -1866,17 +1648,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-cumhurbaskani-gul-basbakan-olsun-378988"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Abdullah Gül",
-        "Mehmet Özhaseki"
-      ],
+      "konular": [],
       "yayin": "2012-10-25T14:15:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Cumhurbaşkanlığı makamı için yeni bir öneri gündeme geldi",
-      "ozet": "Kayseri Büyükşehir Belediye Başkanı Mehmet Özhaseki, gelecekteki cumhurbaşkanlığı seçimiyle ilgili bir değerlendirmede bulundu. Özhaseki, Recep Tayyip Erdoğan'ın cumhurbaşkanı seçilmesi halinde başbakanlık görevini Abdullah Gül'ün üstlenmesinin uygun olacağını ifade etti. Bu açıklama, siyasi kulislerdeki olası görev değişimlerine dair bir görüş olarak kayıtlara geçti.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-378946",
@@ -1889,18 +1664,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sudanda-askeri-muhimmat-fabrikasindaki-patlama-378946"
       },
-      "konular": [
-        "Sudan",
-        "Mısır",
-        "İsrail"
-      ],
+      "konular": [],
       "yayin": "2012-10-25T09:07:00+03:00",
       "puan": 6,
-      "durum": "yazildi",
-      "baslik": "Sudan'daki mühimmat fabrikasına yönelik saldırıya tepki",
-      "ozet": "Mısır Dışişleri Bakanlığı, Sudan sınırları içerisinde yer alan bir askeri mühimmat üretim tesisinde meydana gelen patlamanın ardından bir açıklama yaptı. Bakanlık, söz konusu tesise yönelik gerçekleştirilen saldırıyı kınadığını duyurdu.",
-      "kategori": "Savaş",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2011-haber-293274",
@@ -1913,30 +1680,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/orgenerale-basbakana-hakaretten-hapis-cezasi-293274"
       },
-      "konular": [
-        "Saldıray Berk",
-        "Recep Tayyip Erdoğan",
-        "Türkiye'de yargı"
-      ],
+      "konular": [],
       "yayin": "2011-10-25T14:39:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Emekli Orgeneral Saldıray Berk'e hapis cezası verildi",
-      "ozet": "Dönemin Başbakanı Recep Tayyip Erdoğan'a yönelik hakaret içerikli ifadeler kullandığı gerekçesiyle yargılanan emekli Orgeneral Saldıray Berk hakkında karar açıklandı. Mahkeme heyeti, söz konusu iddialar neticesinde emekli komutana 11 ay 20 gün hapis cezası uygulanmasına hükmetti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2011-haber-293184",
@@ -1949,17 +1696,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/1999dan-beri-ne-kadar-deprem-vergisi-toplandi-293184"
       },
-      "konular": [
-        "Özel İletişim Vergisi",
-        "Atilla Kart",
-        "Recep Tayyip Erdoğan"
-      ],
+      "konular": [],
       "yayin": "2011-10-25T08:33:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Deprem vergilerinin kullanımına ilişkin soru önergesi verildi",
-      "ozet": "Konya milletvekili Atilla Kart, 1999 yılından itibaren toplanan özel iletişim vergisinin akıbetini sordu. Başbakan Recep Tayyip Erdoğan'ın yanıtlaması istemiyle hazırlanan önergede, söz konusu kaynakların hangi alanlarda değerlendirildiği ve toplam tutarın ne kadar olduğu hakkında bilgi talep edildi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     }
   ],
   "haberYillari": [

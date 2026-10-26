@@ -10,8 +10,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1499-jehan-lagadeuc-tarafindan-1464te-treguierde-yazilan-catholicon",
@@ -21,8 +21,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1556-hindistandaki-babur-imparatorlugu-ii-panipat-zaferini-kazanarak",
@@ -36,7 +36,6 @@
       "baslik": "İkinci Panipat Zaferi ve Babür İmparatorluğu'nun Yükselişi",
       "ozet": "Babür İmparatorluğu için kritik bir dönüm noktası olan İkinci Panipat Muharebesi, genç hükümdar Ekber Şah'ın taht üzerindeki otoritesini kesinleştiren bir zaferle sonuçlandı. Hümayun Şah'ın vefatının ardından tahtta hak iddia eden Hemu'ya karşı, Ekber Şah'ın naibi ve deneyimli komutan Bayram Han önderliğindeki Babür ordusu büyük bir başarı elde etti. Bu zafer, imparatorluğun yaşadığı kısa süreli fetret devrini sona erdirerek devletin Hindistan topraklarındaki varlığını yeniden tahkim etti.\n\nBu muharebe, sadece bir askeri başarı değil, aynı zamanda Babürlülerin Hindistan'daki klasik döneminin başlangıcı olarak kabul edilir. Ekber Şah'ın uzun sürecek olan saltanatının ilk yıllarında kazanılan bu zafer, imparatorluğun siyasi istikrarını sağladı. İlerleyen yıllarda Ekber Şah, yönetimindeki toprakları genişleterek kültürel, ekonomik ve dini hoşgörüye dayalı bir imparatorluk yapısı inşa etti. İkinci Panipat Muharebesi, Babürlülerin bölgedeki Türk-İslam medeniyetini kökleştiren ve imparatorluğu altın çağına taşıyan sürecin en önemli askeri adımlarından biri olmuştur.",
       "kategori": "Savaş",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Govardhan._Akbar_With_Lion_and_Calf_ca._1630%2C_Metmuseum_%28cropped%29.jpg/960px-Govardhan._Akbar_With_Lion_and_Calf_ca._1630%2C_Metmuseum_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Govardhan._Akbar_With_Lion_and_Calf_ca._1630%2C_Metmuseum_%28cropped%29.jpg/500px-Govardhan._Akbar_With_Lion_and_Calf_ca._1630%2C_Metmuseum_%28cropped%29.jpg",
@@ -50,7 +49,7 @@
         "aciklama": "Govardhan. Akbar With Lion and Calf ca. 1630, Metmuseum",
         "konu": "Ekber Şah"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1605-guy-fawkes-ingilterede-westminster-sarayini-havaya-ucurmaya",
@@ -64,7 +63,6 @@
       "baslik": "İngiltere Tarihini Sarsan Barut Komplosu",
       "ozet": "İngiliz tarihinde Barut Komplosu olarak bilinen olay, 5 Kasım 1605 tarihinde bir grup Katolik muhalifin, Kral I. James ve İngiliz aristokrasisini ortadan kaldırmak amacıyla Westminster Sarayı'nı havaya uçurma girişimiyle gerçekleşti. Robert Catesby liderliğinde planlanan bu suikast girişimi, aynı zamanda kraliyet çocuklarını kaçırmayı ve ülkede geniş çaplı bir halk ayaklanması başlatmayı hedefliyordu. Komplonun merkezindeki isimlerden biri olan Guy Fawkes, Parlamento binasının altına yerleştirilen patlayıcıları ateşlemekle görevlendirilmişti. Ancak bir komplocunun, Katolik bir lordu uyarmasıyla plan deşifre oldu ve Fawkes suçüstü yakalandı. Bu olay, İngiltere'de Katoliklere yönelik baskıların artmasına ve siyasi atmosferin sertleşmesine neden oldu. Guy Fawkes, İngiliz tarihinde vatan hainliğinin sembolü haline gelirken, komplocuların yakalanması İngiltere'de uzun yıllar boyunca kutlanan bir gelenek haline dönüştü. Olayın başarısızlıkla sonuçlanması, monarşinin otoritesini pekiştirmesine ve devlet yönetiminde köklü güvenlik önlemlerinin alınmasına yol açtı.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Gunpow1.jpg/960px-Gunpow1.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Gunpow1.jpg/500px-Gunpow1.jpg",
@@ -78,7 +76,7 @@
         "aciklama": "A contemporary engraving of the conspirators. The Dutch artist probably never actually saw or met any of the conspirators, but it has become a popular representation nonetheless",
         "konu": "Barut komplosu"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1638-iv-murat-komutasindaki-osmanli-ordusu-musula-girdi",
@@ -92,7 +90,6 @@
       "baslik": "IV. Murat'ın Bağdat Seferi ve Musul'a Girişi",
       "ozet": "Osmanlı padişahı IV. Murat, Safevî Devleti ile süregelen çatışmaların en kritik aşamalarından biri olan Bağdat seferi kapsamında 5 Kasım 1638 tarihinde ordusuyla birlikte Musul'a ulaştı. Bu askeri harekat, padişahın bizzat başında bulunduğu ve imparatorluğun doğu sınırlarını güvence altına almayı hedefleyen büyük bir seferin parçasıydı. Musul, stratejik konumu ve Dicle Nehri üzerindeki hakimiyeti sayesinde, Osmanlı ordusunun lojistik ikmali ve Bağdat'a ilerleyişi için hayati bir durak noktası teşkil ediyordu.\n\nIV. Murat'ın bu seferi, Osmanlı-Safevî rekabetinde belirleyici bir dönüm noktası olarak kabul edilir. Musul üzerinden gerçekleştirilen bu askeri yürüyüş, kısa bir süre sonra Bağdat'ın yeniden fethiyle sonuçlanacak ve 1639 yılında imzalanacak olan Kasr-ı Şirin Antlaşması'na giden yolu açacaktı. Bu antlaşma, günümüz Türkiye, İran ve Irak sınırlarının temelini oluşturması bakımından tarihsel açıdan büyük bir öneme sahiptir. IV. Murat'ın otoritesini pekiştirdiği bu dönem, imparatorluğun doğu sınırlarında uzun süreli bir istikrarın sağlanmasında etkili olmuştur.",
       "kategori": "Savaş",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Murad_IV.jpg/960px-Murad_IV.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Murad_IV.jpg/500px-Murad_IV.jpg",
@@ -106,7 +103,7 @@
         "aciklama": null,
         "konu": "IV. Murat"
       },
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1757-prusya-krali-ii-friedrich-yedi-yil-savaslarinda",
@@ -122,7 +119,6 @@
       "baslik": "Rosbach Muharebesi ve Prusya'nın Askeri Zaferi",
       "ozet": "Prusya Kralı II. Friedrich, 5 Kasım 1757 tarihinde gerçekleşen Rosbach Muharebesi'nde Fransa ve Kutsal Roma İmparatorluğu müttefik kuvvetlerine karşı kesin bir zafer kazandı. Sayıca kendisinden üstün olan düşman ordusuna karşı uyguladığı taktiksel manevralar ve disiplinli piyade kullanımı, savaşın seyrini Prusya lehine çeviren en önemli unsurlardan biri oldu. Bu galibiyet, Friedrich'in askeri dehasını Avrupa genelinde tescilleyen ve Prusya'nın bölgedeki askeri gücünü pekiştiren kritik bir dönüm noktası olarak kabul edilir.\n\nYedi Yıl Savaşları, Avrupa'nın büyük güçleri arasında sömürge rekabeti ve kıta hakimiyeti mücadelesiyle başlayan küresel çaplı bir çatışma dizisiydi. Prusya'nın Silezya üzerindeki hak iddiaları ve Avusturya ile olan çekişmesi, savaşın temel tetikleyicileri arasındaydı. Rosbach'daki bu zafer, Prusya'nın kuşatılmışlık hissinden kurtulmasını sağlarken, Friedrich'in 'Büyük Friedrich' olarak anılmasına katkıda bulunan askeri başarılar silsilesinin en parlak örneklerinden biri haline geldi. Savaşın ilerleyen yıllarında Prusya, bu tür stratejik başarılarla Avrupa'nın yükselen bir gücü olduğunu kanıtladı.",
       "kategori": "Savaş",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Friedrich_der_Gro%C3%9Fe_-_Johann_Georg_Ziesenis_-_Google_Cultural_Institute_%28cropped_2%29.jpg/960px-Friedrich_der_Gro%C3%9Fe_-_Johann_Georg_Ziesenis_-_Google_Cultural_Institute_%28cropped_2%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Friedrich_der_Gro%C3%9Fe_-_Johann_Georg_Ziesenis_-_Google_Cultural_Institute_%28cropped_2%29.jpg/500px-Friedrich_der_Gro%C3%9Fe_-_Johann_Georg_Ziesenis_-_Google_Cultural_Institute_%28cropped_2%29.jpg",
@@ -136,7 +132,7 @@
         "aciklama": null,
         "konu": "Büyük Friedrich"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1780-albay-labalme-komutasindaki-fransiz-amerikan-kuvvetleri-miami-sefi",
@@ -146,8 +142,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1840-afganistan-ingilizlere-teslim-oldu",
@@ -159,8 +155,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1854-ingiliz-fransiz-birlesik-donanmasi-kirim-savasinda-rus-donanmasini",
@@ -172,7 +168,6 @@
       "baslik": "Kırım Savaşı'nda Müttefik Donanmaların Rusya'ya Karşı Zaferi",
       "ozet": "Kırım Savaşı'nın devam ettiği 1854 yılının Kasım ayında, İngiliz ve Fransız birleşik donanması Rus deniz kuvvetlerine karşı stratejik bir başarı elde etti. Osmanlı Devleti'nin yanında savaşa dahil olan bu Avrupalı güçler, Rusya'nın bölgedeki yayılmacı politikalarını durdurmak ve Akdeniz üzerindeki etkisini kırmak amacıyla hareket ediyordu. Bu deniz çatışması, savaşın genel gidişatında müttefiklerin üstünlüğünü pekiştiren önemli bir aşama olarak kayıtlara geçti.\n\nSavaşın temelinde, Osmanlı topraklarındaki dini grupların hakları üzerinden yürütülen diplomatik çekişmeler ve Rusya'nın bölgedeki nüfuzunu artırma arzusu yatıyordu. Fransa ve İngiltere'nin Osmanlı Devleti'ne destek vermesiyle çatışma, bölgesel bir sorundan uluslararası bir savaşa dönüştü. Bu zafer, Rusya'nın Avrupa ve Akdeniz üzerindeki baskısını azaltma hedefi güden müttefik devletler için kritik bir dönüm noktası oldu. Savaşın sonunda müttefiklerin galibiyeti, bölgedeki güç dengelerini yeniden şekillendirdi ve Rusya'nın genişleme stratejilerine karşı önemli bir engel oluşturdu.",
       "kategori": "Savaş",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Malakhov1.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Malakhov1.jpg",
@@ -186,7 +181,7 @@
         "aciklama": null,
         "konu": "Kırım Savaşı"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1895-rochester-new-yorktan-george-b-selden-benzinle",
@@ -201,7 +196,6 @@
       "baslik": "Otomobil Teknolojisinde Patent Dönemi",
       "ozet": "Rochesterlı bir patent avukatı olan George B. Selden, 1895 yılında benzinle çalışan motorlu taşıt tasarımıyla Amerika Birleşik Devletleri'nde otomobil alanındaki ilk resmi patenti tescil ettirdi. Bu gelişme, ulaşım teknolojilerinin geleceğini şekillendirecek olan otomotiv endüstrisinin hukuki ve teknik temellerinin atılmasında önemli bir dönüm noktası olarak kabul edilir. Selden'in başvurusu, aslında yıllar öncesine dayanan bir tasarımın yasal güvence altına alınması sürecini tamamlamıştır.\n\nSelden'in aldığı bu patent, sonraki yıllarda otomobil üreticileri arasında uzun süren hukuki tartışmalara ve patent davalarına konu olmuştur. Patentin kapsamı, benzinli motorun bir taşıt şasisiyle birleştirilmesini temel aldığı için, o dönemde gelişmekte olan otomobil üreticilerinin birçoğunu etkilemiştir. Bu durum, otomotiv sektörünün erken dönemindeki rekabeti ve teknolojik standartların belirlenme sürecini doğrudan etkileyen kritik bir hukuki süreç başlatmıştır. Selden'in bu girişimi, bireysel bir buluşun ötesinde, modern ulaşım araçlarının ticarileşmesi ve endüstriyel standartların oluşumu açısından tarihe geçmiştir.",
       "kategori": "Teknoloji",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/George_B_Selden_driving_automobile_in_1905.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/George_B_Selden_driving_automobile_in_1905.jpg",
@@ -215,7 +209,7 @@
         "aciklama": "George B Selden (with hat) driving in his automobile in 1905. The vehicle is a more or less accurate replica of his road engine which he dated 1877, but was still unfinished when he applied for the pa",
         "konu": "George B. Selden"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1898-negrese-milliyetcileri-ispanyol-yonetimine-karsi-ayaklandi-ve",
@@ -225,8 +219,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1911-29-eylul-1911de-osmanli-imparatorluguna-savas-ilan",
@@ -236,8 +230,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1912-abd-baskanlik-secimlerini-woodrow-wilson-kazandi",
@@ -251,7 +245,6 @@
       "baslik": "Woodrow Wilson Amerika Birleşik Devletleri Başkanı Seçildi",
       "ozet": "1912 yılında düzenlenen Amerika Birleşik Devletleri başkanlık seçimlerinde Demokrat Parti adayı Woodrow Wilson, oyların yüzde 41,08'ini alarak ülkenin 28. başkanı olmaya hak kazandı. Bu seçim, Amerikan siyasi tarihinde Cumhuriyetçi Parti içindeki bölünmenin belirginleştiği ve rekabetin oldukça yüksek olduğu bir dönem olarak kayıtlara geçti. Seçim sonuçları, Wilson'ın siyasi kariyerinde önemli bir dönüm noktası oluştururken, aynı zamanda ülkenin yönetiminde yeni bir dönemin başlangıcını simgeledi.\n\nSeçim sürecinde eski başkan William Howard Taft'ın yüzde 23,2 oy oranıyla üçüncü sırada kalması, dönemin siyasi dengelerinin nasıl değiştiğini gözler önüne serdi. Akademisyen ve tarihçi kimliğiyle tanınan Wilson, başkanlığı süresince hem iç politikada hem de uluslararası arenada önemli gelişmelere imza attı. Wilson'ın zaferi, Demokrat Parti'nin uzun süreli bir aradan sonra tekrar iktidara gelmesini sağlarken, Amerikan siyasetinde ilerici reformların önünü açan bir sürecin de habercisi oldu.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Woodrow_Wilson-H%26E.jpg/960px-Woodrow_Wilson-H%26E.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Woodrow_Wilson-H%26E.jpg/500px-Woodrow_Wilson-H%26E.jpg",
@@ -265,7 +258,7 @@
         "aciklama": "Woodrow Wilson.",
         "konu": "1912 Amerika Birleşik Devletleri başkanlık seçimleri"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1914-birlesik-krallik-ve-fransa-osmanli-imparatorluguna-savas",
@@ -279,8 +272,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1914-kibrisin-yonetimi-osmanli-imparatorlugundan-birlesik-krallika-gecti",
@@ -294,9 +287,8 @@
       "baslik": "Kıbrıs'ın Osmanlı Yönetiminden İngiliz Yönetimine Geçişi",
       "ozet": "Osmanlı İmparatorluğu'nun Birinci Dünya Savaşı'na İttifak Devletleri safında girmesi, uluslararası dengeleri ve İngiltere'nin stratejik kararlarını doğrudan etkiledi. 1878 yılından beri İngiliz yönetimi altında bulunan ancak hukuken Osmanlı toprağı sayılan Kıbrıs, savaşın ilanıyla birlikte statü değişikliğine uğradı. İngiltere, 5 Kasım 1914 tarihinde adayı tek taraflı olarak ilhak ettiğini ilan ederek Osmanlı İmparatorluğu'nun ada üzerindeki egemenlik haklarını resmen sona erdirdi.\n\nBu gelişme, adanın uzun süreli İngiliz sömürge döneminin başlangıcını simgelemektedir. 1878'de Rusya'ya karşı Osmanlı'yı koruma vaadiyle geçici olarak İngiliz idaresine bırakılan Kıbrıs, bu tarihten itibaren İngiliz tacının bir parçası haline geldi. Söz konusu ilhak kararı, bölgedeki Osmanlı varlığının tasfiyesini hızlandırırken, adanın jeopolitik konumunu İngiliz stratejileri doğrultusunda yeniden şekillendirdi. Bu olay, Osmanlı İmparatorluğu'nun toprak kayıpları sürecinde önemli bir dönüm noktası olarak tarihe geçti.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": null,
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1919-gaziantep-fransiz-kuvvetleri-tarafindan-isgal-edildi",
@@ -308,9 +300,8 @@
       "baslik": "Gaziantep'in Fransız Kuvvetleri Tarafından İşgali",
       "ozet": "Birinci Dünya Savaşı'nın ardından imzalanan Mondros Ateşkes Antlaşması'nı takiben, İngilizler tarafından işgal edilen Antep, 1919 yılının sonlarına doğru yapılan bir anlaşma ile Fransızlara devredildi. 5 Kasım 1919 tarihinde şehre giren Fransız birlikleri, bölgedeki hakimiyetlerini kurmaya başladılar. Bu işgal, şehir halkı üzerinde büyük bir huzursuzluk yaratarak direnişin fitilini ateşleyen temel unsurlardan biri haline geldi.\n\nFransız işgali, Antep halkının bağımsızlık mücadelesinde bir dönüm noktası oldu. Şehirde başlayan örgütlü direniş, kısa sürede geniş bir halk hareketine dönüştü ve Antep savunması olarak tarihe geçti. İşgal güçlerine karşı verilen bu mücadele, sadece yerel bir savunma değil, aynı zamanda Türk Kurtuluş Savaşı'nın en önemli cephelerinden birini oluşturdu. Şehrin gösterdiği bu üstün direniş, daha sonra Türkiye Büyük Millet Meclisi tarafından şehre 'Gazi' unvanının verilmesiyle onurlandırıldı.",
       "kategori": "Savaş",
-      "durum": "yayinda",
       "gorsel": null,
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1922-ismet-pasa-baskanligindaki-tbmm-delegasyonu-lozan-baris",
@@ -325,7 +316,6 @@
       "baslik": "Lozan Barış Konferansı'na Giden Heyet Yola Çıktı",
       "ozet": "Kurtuluş Savaşı'nın askeri zaferle sonuçlanmasının ardından, Türkiye'nin bağımsızlığını uluslararası alanda tescil ettirecek olan Lozan Barış Konferansı süreci resmen başladı. Türkiye Büyük Millet Meclisi tarafından başdelegeliğe atanan İsmet Paşa, beraberindeki heyetle birlikte 5 Kasım 1922 tarihinde İsviçre'ye hareket etti. Bu yolculuk, Türkiye'nin yeni dönemdeki diplomatik mücadelesinin en kritik adımlarından biri olarak kabul edilmektedir.\n\nLozan'da gerçekleştirilecek olan görüşmeler, Sevr Antlaşması'nın geçersizliğini kanıtlamak ve Misak-ı Milli sınırları içerisinde tam bağımsız bir devlet yapısını kabul ettirmek amacıyla planlanmıştı. İsmet Paşa'nın liderliğindeki heyet, İtilaf Devletleri'nin baskılarına karşı kararlı bir duruş sergileyerek Türkiye'nin egemenlik haklarını savunmakla görevlendirilmişti. Yaklaşık sekiz ay sürecek olan bu zorlu diplomatik süreç, nihayetinde Türkiye Cumhuriyeti'nin tapusu sayılan Lozan Barış Antlaşması'nın imzalanmasıyla sonuçlanacak ve genç devletin uluslararası arenada tanınmasını sağlayacaktı.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Turkey-Greece-Bulgaria_on_Treaty_of_Lausanne.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Turkey-Greece-Bulgaria_on_Treaty_of_Lausanne.png",
@@ -339,7 +329,7 @@
         "aciklama": null,
         "konu": "Lozan Barış Konferansı"
       },
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1924-cinin-kucuk-imparator-u-puyi-krallik-sarayindan",
@@ -352,7 +342,6 @@
       "baslik": "Çin'in Son İmparatoru Puyi'nin Saraydan Çıkarılması",
       "ozet": "Qing hanedanının son hükümdarı olan Puyi, 1912 yılında gerçekleşen Xinhai Devrimi ile tahttan çekilmesine rağmen, kendisine tanınan özel ayrıcalıklar sayesinde Yasak Şehir'de yaşamaya devam ediyordu. Ancak 1924 yılında gerçekleşen Pekin Darbesi'nin ardından, dönemin güçlü figürlerinden Feng Yuxiang'ın emriyle imparatorluk statüsü tamamen sona erdirildi. Puyi'nin saraydan çıkarılması, Çin'de binlerce yıldır süregelen imparatorluk geleneğinin ve hanedanlık sisteminin sembolik olarak da tamamen yıkıldığını gösteren tarihi bir dönüm noktası oldu.\n\nBu olay, Puyi'nin hayatında yeni bir dönemin başlangıcını temsil ediyordu. Saraydan ayrılmak zorunda kalan eski imparator, bir süre yabancı elçiliklere sığındıktan sonra Tianjin'e yerleşti. Bu süreç, Puyi'nin ilerleyen yıllarda Japonya ile kuracağı ilişkilerin ve İkinci Dünya Savaşı döneminde Mançukuo kukla devletinin başına geçişinin de zeminini hazırladı. 1924 yılındaki bu müdahale, Çin'in modernleşme ve cumhuriyet rejimine geçiş sürecinde monarşinin kalıntılarını temizleme çabası olarak tarihe geçti.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/%E6%BA%A5%E4%BB%AA.jpg/960px-%E6%BA%A5%E4%BB%AA.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/%E6%BA%A5%E4%BB%AA.jpg/500px-%E6%BA%A5%E4%BB%AA.jpg",
@@ -366,7 +355,7 @@
         "aciklama": "​满洲国皇帝溥仪的“御真影”（标准像），其身着陆军式御服正装（佩康德二年后改款之正帽），手持御服正装式佩刀。主要佩章有：大勋位兰花章颈饰、大勋位兰花大绶章（明黄底深黄边大绶，副章）、龙光大绶章（副章）、勋一位景云章（副章）、大勋位菊花大绶章（副章），胸前另缀一排襟绶小章（包含建国功劳章、大典纪念章、皇帝访日纪念章，日本赤十字社金色有功章，满洲国赤十字社名誉赞助员章、勋八等景云章）",
         "konu": "Puyi"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1925-benito-mussolini-sol-partilerin-tumunu-kapatti",
@@ -378,7 +367,6 @@
       "baslik": "İtalya'da Faşist Rejim ve Siyasi Partilerin Kapatılması",
       "ozet": "İtalya'da iktidarı elinde bulunduran Benito Mussolini, 1925 yılının Kasım ayında aldığı radikal bir kararla ülkede faaliyet gösteren tüm sol partileri kapattı. Bu hamle, Mussolini'nin 1922 yılında Roma Yürüyüşü ile başlayan iktidarını mutlak bir diktatörlüğe dönüştürme sürecinin en kritik adımlarından biri olarak kabul edilir. Söz konusu yasakla birlikte İtalya'da muhalefet alanı tamamen daraltılmış ve Faşist Parti dışındaki tüm siyasi oluşumlar yasa dışı ilan edilmiştir.\n\nBu karar, İtalyan faşizminin devlet aygıtı üzerindeki kontrolünü pekiştirmesine olanak tanıdı. Mussolini, sosyalist kökenli bir siyasetçi olmasına rağmen, Birinci Dünya Savaşı sonrasında görüşlerini radikal bir milliyetçiliğe kaydırarak sınıf çatışmasını reddeden bir ideoloji inşa etmişti. Sol partilerin tasfiyesi, Mussolini'nin 'Duce' unvanıyla ülkeyi tek başına yönettiği totaliter dönemin önünü açtı. Bu gelişme, sadece İtalya'nın iç siyasetini değil, aynı zamanda Avrupa genelinde yükselişe geçen faşist hareketlerin izleyeceği otoriter yöntemler için de bir model oluşturdu.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
@@ -392,7 +380,7 @@
         "aciklama": "Portrait of Benito Mussolini from the second edition of Adolf Dresler's Mussolini als Journalist (1939).",
         "konu": "Benito Mussolini"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1925-ankara-hukuk-fakultesi-ataturk-tarafindan-acildi",
@@ -405,7 +393,6 @@
       "baslik": "Cumhuriyetin İlk Yükseköğretim Kurumu: Ankara Hukuk Fakültesi",
       "ozet": "Türkiye Cumhuriyeti'nin kuruluşundan sonra atılan en önemli eğitim adımlarından biri olan Ankara Adliye Hukuk Mektebi, 5 Kasım 1925 tarihinde Mustafa Kemal Atatürk'ün katılımıyla eğitim hayatına başladı. Cumhuriyet döneminde sıfırdan inşa edilen ilk yükseköğretim kurumu olma özelliğini taşıyan okul, o dönemde Birinci Türkiye Büyük Millet Meclisi binasında faaliyetlerine başlamıştı. Bu kurumun açılışı, genç cumhuriyetin ihtiyaç duyduğu hukukçu kadroların yetiştirilmesi ve modern hukuk sisteminin yerleştirilmesi açısından kritik bir dönüm noktasıydı. Osmanlı'dan devralınan hukuk sisteminin yerine çağdaş, laik ve akılcı bir hukuk düzeninin kurulması hedefleniyordu. Okul, kısa sürede nitelikli hukukçular yetiştirerek Türkiye'nin hukuk devrimi sürecinde öncü bir rol üstlendi. 1928 yılında ilk mezunlarını veren okul, zamanla Ankara Üniversitesi Hukuk Fakültesi adını alarak akademik çalışmalarını günümüze kadar sürdürdü. Bu girişim, sadece bir okul açılışı değil, aynı zamanda yeni devletin hukuk anlayışını ve toplumsal yapısını şekillendirecek olan entelektüel temellerin atılması anlamına geliyordu.",
       "kategori": "Edebiyat",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -419,7 +406,7 @@
         "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
         "konu": "Mustafa Kemal Atatürk"
       },
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1930-ilk-televizyon-reklami-londrada-gosterildi",
@@ -433,9 +420,8 @@
       "baslik": "Televizyon Yayıncılığında İlk Reklam Deneyimi",
       "ozet": "Televizyon teknolojisinin henüz emekleme aşamasında olduğu 1930 yılında, Londra'da gerçekleştirilen bir yayınla reklamcılık tarihinde yeni bir sayfa açıldı. Bu ilk televizyon reklamı, kitle iletişim araçlarının sadece haber ve eğlence sunmakla kalmayıp, aynı zamanda ticari ürünlerin tanıtımı için de güçlü bir platforma dönüşebileceğinin ilk somut göstergesi oldu. O dönemde sınırlı bir izleyici kitlesine ulaşan bu girişim, modern pazarlama dünyasının bugün devasa bir endüstri haline gelmesinin temel taşlarından biri olarak kabul edilir.\n\nTelevizyonun bir kitle iletişim aracı olarak yaygınlaşmasıyla birlikte, reklamcılık sektörü de geleneksel yöntemlerin ötesine geçerek görsel ve işitsel unsurları birleştiren yeni bir boyuta taşındı. Bu ilk adım, tüketicilerin dikkatini çekmek ve ürünlere yönelik tutumları değiştirmek amacıyla kurgulanan reklamların, evlerin içine kadar girmesini sağlayan sürecin başlangıcını temsil eder. Günümüzde hayatımızın ayrılmaz bir parçası olan televizyon reklamcılığı, bu mütevazı başlangıçtan aldığı ilhamla, teknolojik gelişmelerle birlikte sürekli evrilerek küresel ticaretin en önemli itici güçlerinden biri haline gelmiştir.",
       "kategori": "Teknoloji",
-      "durum": "yayinda",
       "gorsel": null,
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1934-devlet-tiyatrolari-genel-mudurlugu-turkiye-kuruldu",
@@ -447,8 +433,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1936-eski-adi-mekteb-i-mulkiye-olan-siyasal-bilgiler",
@@ -462,9 +448,8 @@
       "baslik": "Mülkiye'nin İstanbul'dan Ankara'ya Taşınması",
       "ozet": "Osmanlı İmparatorluğu'nun sivil bürokrat ihtiyacını karşılamak amacıyla 1859 yılında İstanbul'da kurulan Mekteb-i Mülkiye, Cumhuriyet döneminin idari ve siyasi yapılanma hedefleri doğrultusunda 1936 yılında başkent Ankara'ya nakledildi. Bu taşınma, genç Cumhuriyet'in eğitim kurumlarını merkezileştirme ve devletin yönetim kadrolarını başkentte yetiştirme vizyonunun bir parçası olarak gerçekleşti. İstanbul'daki köklü geçmişini Ankara'ya taşıyan okul, kısa süre sonra Ankara Üniversitesi bünyesine katılarak Siyasal Bilgiler Fakültesi adını aldı.\n\nKurumun Ankara'ya taşınması, Türkiye'de siyaset bilimi, kamu yönetimi ve uluslararası ilişkiler alanlarında akademik bir merkez oluşturulması açısından kritik bir dönüm noktası olmuştur. Mülkiye, Osmanlı'dan devraldığı bürokratik geleneği Cumhuriyet'in modern devlet anlayışıyla birleştirerek, Türkiye'nin idari yapısını şekillendiren pek çok devlet adamı, diplomat ve akademisyeni yetiştirmeye devam etmiştir. Bugün Cebeci Yerleşkesi'nde faaliyetlerini sürdüren fakülte, Türkiye'nin en köklü yükseköğretim kurumlarından biri olma özelliğini korumaktadır.",
       "kategori": "Edebiyat",
-      "durum": "yayinda",
       "gorsel": null,
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1939-hatay-ilinde-5-sandalye-icin-milletvekili-ara",
@@ -476,9 +461,8 @@
       "baslik": "Hatay'da Milletvekili Ara Seçimleri Yapıldı",
       "ozet": "Hatay'ın Türkiye Cumhuriyeti'ne katılım sürecinin ardından, bölgedeki siyasi temsilin tamamlanması amacıyla 5 Kasım 1939 tarihinde milletvekili ara seçimleri düzenlendi. Bu seçimler, Hatay'ın Türkiye ile bütünleşme sürecinin idari ve siyasi açıdan pekiştirilmesinde önemli bir adım teşkil etti. Seçimler sonucunda belirlenen milletvekilleri, Hatay halkının Türkiye Büyük Millet Meclisi'ndeki temsilini sağlamak üzere görevlerine başladılar.\n\nHatay'ın 1939 yılında Türkiye'ye katılması, bölgenin statüsünün belirlenmesi açısından tarihi bir dönüm noktasıydı. Yapılan bu ara seçimler, bölgenin Türkiye'nin bir parçası olarak idari yapısına entegre edilmesinin bir parçasıydı. Seçilen temsilciler, Hatay'ın Türkiye'ye katılımından sonraki süreçte bölgenin sorunlarının meclis çatısı altında dile getirilmesi ve ulusal politikalara uyum sağlanması noktasında kritik bir rol üstlendiler. Bu seçim, Hatay'ın Türkiye Cumhuriyeti sınırları içerisinde tam bir siyasi statü kazanma sürecinin tamamlayıcı unsurlarından biri olarak kayıtlara geçti.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": null,
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1940-abd-baskanlik-secimlerini-franklin-d-roosevelt-kazandi",
@@ -491,7 +475,6 @@
       "baslik": "Franklin D. Roosevelt'in Tarihi Üçüncü Seçim Zaferi",
       "ozet": "Franklin D. Roosevelt, 1940 yılında düzenlenen başkanlık seçimlerinde Cumhuriyetçi rakibi Wendell Willkie'yi geride bırakarak Amerika Birleşik Devletleri tarihinde bir ilke imza attı. Bu zaferle birlikte Roosevelt, ülkenin iki dönemden fazla görev yapan ilk ve tek başkanı olma unvanını kazandı. Seçim sonuçları, Amerikan halkının Büyük Buhran sonrası uygulanan politikalar ve yaklaşan küresel tehditler karşısında mevcut yönetime duyduğu güvenin bir göstergesi olarak kabul edildi.\n\nBu seçim, Amerika Birleşik Devletleri'nin İkinci Dünya Savaşı'na fiilen dahil olmasından önce gerçekleştirilen son başkanlık seçimi olması bakımından kritik bir öneme sahiptir. Roosevelt'in üçüncü dönemine başlaması, ülkenin savaş hazırlıkları ve dış politika stratejilerinin belirlenmesinde sürekliliği sağladı. İlk iki döneminde Büyük Buhran'ın ekonomik etkilerini hafifletmeye odaklanan Roosevelt, bu yeni döneminde ise odağını tamamen küresel çatışmanın getirdiği zorluklara ve Amerika'nın savaş sürecindeki rolüne çevirdi.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/960px-FDR_1944_Color_Portrait.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/500px-FDR_1944_Color_Portrait.jpg",
@@ -505,7 +488,7 @@
         "aciklama": "Original color transparency of FDR taken at 1944 Official Campaign Portrait session by Leon A. Perskie, Hyde Park, New York, August 22, 1944. Gift of Beatrice Perskie Foxman and Dr. Stanley B. Foxman.",
         "konu": "Franklin D. Roosevelt"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1942-ii-dunya-savasi-gunlerinde-lokantalara-ve-birahanelere",
@@ -517,9 +500,8 @@
       "baslik": "Savaş Ekonomisi ve Ekmek Kısıtlaması",
       "ozet": "İkinci Dünya Savaşı'nın küresel etkileri, Türkiye'de de gündelik yaşamı ve temel gıda maddelerine erişimi doğrudan etkiledi. 5 Kasım 1942 tarihinde alınan bir kararla, lokanta ve birahane gibi işletmelere ekmek verilmesi yasaklandı. Bu uygulama, savaşın getirdiği ekonomik darboğaz ve gıda tedarikindeki zorluklar nedeniyle alınan önlemlerin bir parçasıydı.\n\nSavaş yılları, Türkiye'nin doğrudan çatışmalara girmemesine rağmen, seferberlik ekonomisi ve kıtlık endişesiyle geçti. Hükümet, temel ihtiyaç maddelerinin stoklanmasını ve adil dağıtımını sağlamak amacıyla çeşitli kısıtlamalara gitti. Ekmek, toplumun en temel gıda kaynağı olduğu için bu tür kısıtlamalar doğrudan halkın günlük alışkanlıklarını değiştirdi. Lokantalarda ekmek servisine getirilen bu yasak, kaynakların daha kontrollü kullanılması ve israfın önlenmesi hedefini taşıyordu. Bu dönemde uygulanan karne sistemi ve benzeri kısıtlamalar, savaşın Türkiye üzerindeki ekonomik baskısını ve toplumsal yansımalarını gözler önüne seren önemli birer örnek teşkil etti.",
       "kategori": "Ekonomi",
-      "durum": "yayinda",
       "gorsel": null,
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1945-kolombiya-birlesmis-milletler-orgutune-uye-oldu",
@@ -532,8 +514,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1956-sovyet-tanklari-macaristandaki-ayaklanmayi-bastirdi-janos-kadar",
@@ -547,7 +529,6 @@
       "baslik": "Macaristan Ayaklanması ve Sovyet Müdahalesi",
       "ozet": "1956 yılının Kasım ayında, Macaristan'da Sovyet etkisine karşı başlayan halk ayaklanması, Sovyetler Birliği'nin askeri müdahalesiyle şiddetli bir şekilde bastırıldı. Budapeşte sokaklarına giren Sovyet tankları, direnişi kırarak ülkede yeniden Moskova yanlısı bir düzenin kurulmasını sağladı. Bu askeri operasyon, Soğuk Savaş döneminin en kritik kırılma noktalarından biri olarak tarihe geçti ve bölgedeki Sovyet hegemonyasını pekiştirdi. Müdahalenin ardından, János Kádár liderliğinde yeni bir hükûmet oluşturuldu. Kádár, Sovyet desteğiyle iktidara gelmesinin ardından uzun yıllar sürecek olan yönetimini başlattı. 1988 yılına kadar görevde kalan Kádár, Macaristan'ın siyasi yapısını komünist blok içerisinde yeniden şekillendirdi. Bu olay, Macar halkının bağımsızlık arayışının sert bir şekilde bastırılmasıyla sonuçlanırken, aynı zamanda Doğu Bloku içindeki otoriter yönetimin gücünü ve kararlılığını tüm dünyaya göstermiş oldu. O dönemde yaşanan bu gelişmeler, uluslararası kamuoyunda büyük yankı uyandırdı ve Sovyetler Birliği'nin kendi nüfuz alanındaki ülkeler üzerindeki mutlak kontrolünü koruma konusundaki tavrını netleştirdi.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/J%C3%A1nos_K%C3%A1d%C3%A1r_%28fototeca.iiccr.ro%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/J%C3%A1nos_K%C3%A1d%C3%A1r_%28fototeca.iiccr.ro%29.jpg",
@@ -561,7 +542,7 @@
         "aciklama": "János Kádár",
         "konu": "Janos Kadar"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1957-vatan-partisi-genel-baskani-dr-hikmet-kivilcimli",
@@ -575,8 +556,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1964-turkiye-sovyetler-birligi-kultur-anlasmasi-imzalandi",
@@ -589,8 +570,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1968-abd-baskanlik-secimlerini-richard-m-nixon-kazandi",
@@ -603,7 +584,6 @@
       "baslik": "Richard Nixon'ın Amerika Birleşik Devletleri Başkanlığına Seçilmesi",
       "ozet": "Amerika Birleşik Devletleri'nde 1968 yılında düzenlenen başkanlık seçimleri, ülkenin siyasi tarihinde önemli bir dönüm noktası oldu. Demokrat Parti'nin adayı Hubert Humphrey ve Amerikan Bağımsız Partisi'nden George Wallace ile yarışan Cumhuriyetçi aday Richard M. Nixon, seçimi kazanarak ülkenin 37. başkanı olmaya hak kazandı. Bu zafer, Nixon'ın daha önce Dwight D. Eisenhower döneminde başkan yardımcılığı yapmış olması nedeniyle siyasi arenaya güçlü bir dönüşü olarak kabul edildi.\n\nNixon'ın başkanlık dönemi, Vietnam Savaşı'nın etkilerinin azaltılması, Çin ve Sovyetler Birliği ile ilişkilerde yumuşama politikalarının izlenmesi ve Apollo 11'in Ay'a inişi gibi tarihi olaylarla şekillendi. Ancak bu dönem, ilerleyen yıllarda Watergate skandalı ile gölgelendi ve Nixon'ın istifasıyla sonuçlanan çalkantılı bir sürece evrildi. Seçim sonuçları, o dönemde toplumsal huzursuzlukların ve dış politika tartışmalarının yoğun olduğu Amerika'da, seçmenlerin değişim arzusunu ve Cumhuriyetçi Parti'nin yeniden yükselişini yansıtması bakımından büyük önem taşımaktadır.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/960px-Richard_Nixon_presidential_portrait_%281%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/500px-Richard_Nixon_presidential_portrait_%281%29.jpg",
@@ -617,7 +597,7 @@
         "aciklama": "Richard Nixon's presidential portrait. Retouch has not been completed yet.",
         "konu": "Richard M. Nixon"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1972-bulent-ecevit-bir-gun-once-chp-uyeliginden",
@@ -631,8 +611,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1979-ayetullah-humeyni-abdyi-en-buyuk-seytan-ilan",
@@ -644,7 +624,6 @@
       "baslik": "Ayetullah Humeyni'nin ABD'yi En Büyük Şeytan İlan Etmesi",
       "ozet": "İran İslam Devrimi'nin ruhani lideri Ayetullah Humeyni, 1979 yılının Kasım ayında gerçekleştirdiği bir konuşmada Amerika Birleşik Devletleri'ni hedef alarak ülkeyi 'en büyük şeytan' olarak tanımladı. Bu sert söylem, İran'da devrim sonrası oluşan yeni siyasi atmosferin ve Batı karşıtı ideolojinin en belirgin yansımalarından biri olarak tarihe geçti. Humeyni'nin bu çıkışı, sadece bir retorik değil, aynı zamanda İran'ın dış politikasında köklü bir değişimin ve ABD ile olan ilişkilerin kopma noktasına geldiğinin habercisiydi.\n\nBu açıklama, İran'daki ABD Büyükelçiliği'nin basılması ve diplomatların rehin alınmasıyla sonuçlanan krizin hemen ardından gelmesi nedeniyle büyük bir diplomatik gerilime yol açtı. Humeyni'nin 'en büyük şeytan' ifadesi, İran İslam Cumhuriyeti'nin anti-emperyalist duruşunun temel taşlarından biri haline geldi ve sonraki yıllarda İran devlet söyleminin merkezinde yer aldı. Bu olay, Orta Doğu'daki güç dengelerini derinden etkileyerek İran ile Batı dünyası arasındaki ilişkilerin on yıllar boyunca sürecek olan gergin ve mesafeli yapısını şekillendiren en önemli dönüm noktalarından biri kabul edilmektedir.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Ruhollah_Khomeini_portrait_2_%28cropped%29.jpg/960px-Ruhollah_Khomeini_portrait_2_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Ruhollah_Khomeini_portrait_2_%28cropped%29.jpg/500px-Ruhollah_Khomeini_portrait_2_%28cropped%29.jpg",
@@ -658,7 +637,7 @@
         "aciklama": "Ruhollah Khomeini in Jamaran",
         "konu": "Ayetullah Humeyni"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1984-guney-afrika-cumhuriyetinde-irkciliga-karsi-genel-grev",
@@ -670,8 +649,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1986-yanmasinin-ardindan-45-yil-sonra-istanbul-ortodoks",
@@ -683,8 +662,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1991-filipinlerde-meydana-gelen-selde-yaklasik-7000-kisi",
@@ -697,9 +676,8 @@
       "baslik": "Filipinler'de Büyük Sel Felaketi",
       "ozet": "Filipinler'in Leyte adasını vuran Thelma Tropikal Fırtınası, 5 Kasım 1991 tarihinde ülke tarihinin en yıkıcı doğal afetlerinden birine yol açtı. Ormansızlaşma ve aşırı yağışların etkisiyle meydana gelen ani sel ve toprak kaymaları, özellikle Ormoc şehrinde büyük bir yıkıma neden oldu. Felaket sonucunda yaklaşık 7000 kişi yaşamını yitirdi ve binlerce insan evsiz kaldı. Bu olay, Filipinler'in coğrafi konumu gereği tayfunlara ve sel baskınlarına karşı ne kadar savunmasız olduğunu acı bir şekilde gözler önüne serdi. Pasifik Deprem Kuşağı'nda yer alması ve ekvatora yakınlığı nedeniyle sık sık doğal afetlerle karşı karşıya kalan ülke için bu felaket, afet yönetimi ve çevre politikalarının yeniden değerlendirilmesi noktasında bir dönüm noktası teşkil etti. Ormansızlaşmanın su taşkınları üzerindeki etkisinin net bir şekilde görüldüğü bu trajedi, bölgedeki yerleşim planlamasının ve doğal afetlere karşı hazırlık stratejilerinin önemini dünya kamuoyuna hatırlattı.",
       "kategori": "Afet",
-      "durum": "yayinda",
       "gorsel": null,
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1994-45-yasindaki-george-foreman-michael-mooreri-nakavt",
@@ -712,7 +690,6 @@
       "baslik": "George Foreman'ın Tarihi Ağır Sıklet Zaferi",
       "ozet": "Amerikalı boksör George Foreman, 5 Kasım 1994 tarihinde Las Vegas'ta düzenlenen maçta Michael Moorer'ı onuncu rauntta nakavt ederek ağır sıklet dünya şampiyonluğunu elde etti. Bu zafer, 45 yaşındaki Foreman'ı boks tarihinin en yaşlı ağır sıklet şampiyonu yaparak spor dünyasında büyük bir yankı uyandırdı. Foreman, bu başarısıyla sadece fiziksel gücünü değil, aynı zamanda uzun yıllara yayılan disiplinli kariyerinin bir sonucu olan dayanıklılığını da kanıtlamış oldu.\n\nForeman'ın bu başarısı, boks dünyasında yaşın bir engel teşkil etmeyeceğine dair önemli bir örnek teşkil etti. 1968 Olimpiyatları'nda altın madalya kazanan ve profesyonel kariyerinde pek çok önemli maça çıkan Foreman, bu unvanı kazanarak efsanevi statüsünü pekiştirdi. Ring dergisi tarafından tüm zamanların en iyi boksörleri arasında gösterilen sporcu, bu maçın ardından hem bir spor ikonu hem de başarılı bir iş insanı olarak anılmaya devam etti. Söz konusu karşılaşma, boks tarihinde geri dönüşlerin ve azmin simgesi olarak kabul edilmektedir.",
       "kategori": "Spor",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/George_Foreman_%281973%29.jpg/960px-George_Foreman_%281973%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/George_Foreman_%281973%29.jpg/500px-George_Foreman_%281973%29.jpg",
@@ -726,7 +703,7 @@
         "aciklama": "George Foreman arrival at Amsterdam Airport Schiphol",
         "konu": "George Foreman"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1996-abd-baskanlik-secimlerini-bill-clinton-kazandi",
@@ -739,7 +716,6 @@
       "baslik": "Bill Clinton'ın İkinci Başkanlık Zaferi",
       "ozet": "1996 Amerika Birleşik Devletleri başkanlık seçimlerinde Demokrat Parti adayı Bill Clinton, Cumhuriyetçi rakibi Bob Dole'u geride bırakarak ikinci kez başkanlık koltuğuna oturdu. Başkan Yardımcısı Al Gore ile birlikte girdiği bu seçim yarışında Clinton, özellikle ilk döneminde yakalanan ekonomik istikrar ve büyüme ivmesinin sağladığı avantajla seçmenlerin güvenini tazeledi. Seçim sonuçları, Clinton'ın merkezci politikalarının ve uyguladığı ekonomik reformların halk nezdinde karşılık bulduğunu gösterdi.\n\nClinton'ın bu zaferi, Amerika Birleşik Devletleri'nde 1990'lı yılların başındaki ekonomik durgunluğun ardından gelen uzun süreli ekonomik genişleme döneminin bir onayı niteliğindeydi. Soğuk Savaş sonrası dönemin getirdiği görece istikrarlı siyasi ortamda, Clinton yönetimi dış politikada ve iç ekonomide izlediği Yeni Demokrat çizgisiyle ikinci dönemine güçlü bir başlangıç yaptı. Bu seçim, aynı zamanda Baby Boomers kuşağından gelen bir başkanın ikinci kez seçilmesiyle Amerikan siyasi tarihinde önemli bir dönüm noktası olarak kaydedildi.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/960px-Bill_Clinton.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/500px-Bill_Clinton.jpg",
@@ -753,7 +729,7 @@
         "aciklama": "Official White House photo of President Bill Clinton, President of the United States.",
         "konu": "1996 Amerika Birleşik Devletleri başkanlık seçimleri"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "2006-irakin-devrik-lideri-saddam-huseyine-bir-kentte",
@@ -768,7 +744,6 @@
       "baslik": "Saddam Hüseyin Hakkında İdam Kararı",
       "ozet": "Irak'ın 2003 yılında ABD öncülüğündeki güçler tarafından işgal edilmesinin ardından devrilen Saddam Hüseyin, yargılandığı Duceyl davasında mahkeme tarafından suçlu bulundu. 1982 yılında Bağdat'ın kuzeyindeki Duceyl kasabasında gerçekleştirilen ve 148 Şiinin hayatını kaybettiği katliamın emrini vermekle itham edilen Hüseyin, 5 Kasım 2006 tarihinde açıklanan kararla idam cezasına mahkûm edildi. Bu karar, Irak'ın yakın tarihindeki en önemli hukuki süreçlerden biri olarak kayıtlara geçti.\n\nSaddam Hüseyin'in iktidarı boyunca uyguladığı baskıcı politikalar ve özellikle Şii nüfusa yönelik şiddet eylemleri, ülkedeki toplumsal gerilimin temel kaynaklarından biriydi. Duceyl davası, devrik liderin işlediği iddia edilen insanlık suçlarının yargı önünde hesaplaşılması adına sembolik bir öneme sahipti. Kararın açıklanması, Irak'ta hem büyük bir sevinçle karşılanmış hem de ülkede süregelen siyasi istikrarsızlık ve mezhepsel çatışmaların gölgesinde tartışmalara yol açmıştır. Bu hüküm, Saddam Hüseyin'in yaklaşık iki ay sonra gerçekleşecek olan infazına giden süreci başlatan kritik bir dönüm noktası olmuştur.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Saddam_Hussein_in_1998.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Saddam_Hussein_in_1998.png",
@@ -782,7 +757,7 @@
         "aciklama": "Iraqi President Saddam Hussein is about to deliver a speech on occasion of 10th anniversary of the end of Iran-Iraq War.",
         "konu": "Saddam Hüseyin"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "2023-38-cumhuriyet-halk-partisi-olagan-kurultayinda-yapilan",
@@ -796,7 +771,6 @@
       "baslik": "Cumhuriyet Halk Partisi'nde Özgür Özel Dönemi Başladı",
       "ozet": "Ankara Spor Salonu'nda düzenlenen 38. Cumhuriyet Halk Partisi Olağan Kurultayı, Türk siyasi tarihinde önemli bir değişime sahne oldu. 4-5 Kasım 2023 tarihlerinde gerçekleştirilen kurultayda, 13 yıldır genel başkanlık görevini yürüten Kemal Kılıçdaroğlu ile Özgür Özel arasında kıyasıya bir yarış yaşandı. Delegelerin oylarıyla Özgür Özel, Cumhuriyet Halk Partisi'nin yeni genel başkanı olarak belirlendi. Bu sonuçla birlikte partide uzun süredir devam eden liderlik tartışmaları yeni bir evreye girmiş oldu.\n\nKurultay sürecinin temelinde, 2023 Türkiye genel seçimleri ve cumhurbaşkanlığı seçimlerinde alınan sonuçların ardından parti içinde yükselen değişim talepleri yer alıyordu. Seçim yenilgisi sonrası parti tabanında ve yönetim kademelerinde başlayan tartışmalar, İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun öncülük ettiği bir değişim hareketine dönüştü. Kurultayda bu hareketin adayı olarak yarışan Özgür Özel, delegelerin desteğini alarak genel başkanlık koltuğuna oturdu. Bu değişim, partinin gelecekteki siyasi stratejileri ve muhalefet anlayışı açısından kritik bir dönüm noktası olarak kabul edildi.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/%C3%96zg%C3%BCr_%C3%96zel%2C_September_17_2023_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/%C3%96zg%C3%BCr_%C3%96zel%2C_September_17_2023_%28cropped%29.jpg",
@@ -810,7 +784,7 @@
         "aciklama": "Özgür Özel VOA Türkçe'den Yıldız Yazıcıoğlu'na açıklamalarda bulundu",
         "konu": "38. Cumhuriyet Halk Partisi Olağan Kurultayı"
       },
-      "bolge": "turkiye"
+      "durum": "yayinda"
     }
   ],
   "dogumlar": [
@@ -1365,7 +1339,7 @@
     "url": "https://tr.wikipedia.org/wiki/5_Kas%C4%B1m",
     "revid": 38168818
   },
-  "guncelleme": "2026-10-21T21:27:10.032Z",
+  "guncelleme": "2026-10-26T12:27:43.649Z",
   "haberler": [
     {
       "id": "2025-haber-2449968",
@@ -1551,7 +1525,7 @@
       "puan": 10,
       "durum": "yazildi",
       "baslik": "Adem Asil Artistik Jimnastik Dünya Şampiyonası'nda altın madalya kazandı",
-      "ozet": "İngiltere'de gerçekleştirilen Artistik Jimnastik Dünya Şampiyonası'nda milli sporcu Adem Asil büyük bir başarıya imza attı. Başarılı jimnastikçi, sergilediği performansla dünya şampiyonluğuna ulaşarak altın madalyanın sahibi oldu.",
+      "ozet": "İngiltere'de gerçekleştirilen Artistik Jimnastik Dünya Şampiyonası'nda milli sporcu Adem Asil büyük bir başarıya imza attı. Başarılı jimnastikçi, sergilediği performansla dünya şampiyonu unvanını elde ederek altın madalyanın sahibi oldu.",
       "kategori": "Spor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/5._Islamic_Solidarity_Games_2021_Konya_Men_Gymnastics_Individual_all-around_Medal_Ceremony_Adem_Asil_20220810_%28cropped%29.jpg",
@@ -1808,7 +1782,7 @@
       "puan": 8,
       "durum": "elendi",
       "baslik": "Fikret Orman Beşiktaş'ın Şampiyonluk Hedefini Açıkladı",
-      "ozet": "Beşiktaş Kulübü Başkanı Fikret Orman, Nevzat Demir Tesisleri'nde basın mensuplarıyla bir araya geldi. Orman, yaptığı değerlendirmelerde sezon sonu itibarıyla şampiyonluğa ulaşacaklarına dair inancını dile getirdi.",
+      "ozet": "Beşiktaş Kulübü Başkanı Fikret Orman, Nevzat Demir Tesisleri'nde gerçekleştirdiği açıklamalar sırasında takımın sezon sonundaki beklentisine değindi. Orman, mevcut sezonu şampiyonlukla tamamlayacaklarına dair inancını dile getirdi.",
       "kategori": "Spor"
     },
     {
@@ -1905,14 +1879,15 @@
         "url": "https://www.cumhuriyet.com.tr/haber/adanada-kepenk-kapatan-esnafa-sorusturma-acildi-626669"
       },
       "konular": [
+        "Adana",
         "Halkların Demokratik Partisi",
-        "Adana"
+        "Soruşturma"
       ],
       "yayin": "2016-11-05T20:12:00+03:00",
       "puan": 7,
       "durum": "elendi",
-      "baslik": "Adana'da kepenk kapatan esnaflar hakkında yasal işlem başlatıldı",
-      "ozet": "Adana ilinde gerçekleştirilen bir operasyon süreciyle bağlantılı olarak iş yerlerini açmayan esnaflar hakkında soruşturma süreci başlatıldı. Söz konusu operasyonun Halkların Demokratik Partisi üyelerine yönelik yapıldığı belirtildi. Yetkililer, kepenk kapatma eylemi gerçekleştiren işletme sahiplerinin durumunu incelemeye aldı.",
+      "baslik": "Adana'da kepenk kapatan esnaflar hakkında yasal süreç başlatıldı",
+      "ozet": "Adana ilinde düzenlenen bir operasyon sonrasında iş yerlerini açmayan esnaflar için soruşturma süreci devreye alındı. Söz konusu operasyonun Halkların Demokratik Partisi mensuplarına yönelik gerçekleştirildiği belirtildi. Yetkililer, kepenk kapatma eylemi yapan işletme sahipleri hakkında inceleme başlattı.",
       "kategori": "Siyaset"
     },
     {
@@ -1957,8 +1932,8 @@
       "yayin": "2015-11-05T19:18:00+03:00",
       "puan": 7,
       "durum": "elendi",
-      "baslik": "Kars seçim sonuçlarına yönelik yapılan itiraz karara bağlandı",
-      "ozet": "Kasım ayında gerçekleştirilen milletvekili genel seçimlerinin ardından Kars ilindeki oy sayım sonuçlarına dair yapılan resmi itiraz başvurusu değerlendirildi. İlgili kurum, yapılan incelemeler sonucunda söz konusu itirazı kabul etmeyerek reddetti.",
+      "baslik": "Kars seçim sonuçlarına yönelik itiraz başvurusu kabul edilmedi",
+      "ozet": "Kasım ayında gerçekleştirilen milletvekili genel seçimlerinin ardından Kars ilindeki oy dağılımına dair yapılan resmi itiraz sonuçlandı. Seçim sonuçlarına dair sunulan şikayet, ilgili kurul tarafından yapılan değerlendirmeler sonucunda reddedildi. Böylece bölgedeki seçim sonuçlarına dair süreç nihayete erdi.",
       "kategori": "Siyaset"
     },
     {
@@ -2065,13 +2040,13 @@
       "konular": [
         "Tüketici fiyat endeksi",
         "Enflasyon",
-        "Türkiye ekonomisi"
+        "Türkiye İstatistik Kurumu"
       ],
       "yayin": "2012-11-05T10:42:00+03:00",
       "puan": 12,
       "durum": "elendi",
       "baslik": "Ekim ayında fiyatı en çok artan ürün kadın kazağı oldu",
-      "ozet": "Tüketici fiyat endeksindeki değişimler incelendiğinde, yılın onuncu ayında en yüksek fiyat artışının yaşandığı ürün grubu belirlendi. Verilere göre kadın kazağı, yüzde yirmi iki virgül doksan altılık oranla fiyatı en fazla yükselen kalem olarak kayıtlara geçti.",
+      "ozet": "Tüketici fiyat endeksi verilerine göre yılın onuncu ayında en yüksek artış oranı tekstil ürünlerinde yaşandı. Kadın kazağı yüzde yirmi iki virgül doksan altılık yükselişle fiyatı en fazla artan kalem olarak belirlendi.",
       "kategori": "Ekonomi"
     },
     {

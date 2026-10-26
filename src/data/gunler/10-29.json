@@ -1219,7 +1219,7 @@
     "url": "https://tr.wikipedia.org/wiki/29_Ekim",
     "revid": 37825932
   },
-  "guncelleme": "2026-10-25T10:56:33.225Z",
+  "guncelleme": "2026-10-26T12:27:40.388Z",
   "haberler": [
     {
       "id": "2025-haber-2447856",
@@ -1297,10 +1297,23 @@
       ],
       "yayin": "2024-10-29T13:13:00+03:00",
       "puan": 17,
-      "durum": "elendi",
-      "baslik": "Bitcoin fiyatı 70 bin dolar seviyesinin üzerine çıktı",
-      "ozet": "Amerika Birleşik Devletleri'ndeki spot Bitcoin borsa yatırım fonlarına yönelik yoğun talep, kripto para piyasasında hareketliliğe yol açtı. Söz konusu fonlara gerçekleşen yüksek miktarlı girişlerin etkisiyle Bitcoin'in değeri 70 bin dolar sınırını aştı. Yılın başından itibaren bu fonlara toplamda 25,4 milyar dolarlık yatırım yapıldığı belirtildi.",
-      "kategori": "Ekonomi"
+      "durum": "yazildi",
+      "baslik": "Bitcoin fiyatında seçim öncesi 70 bin dolar seviyesi aşıldı",
+      "ozet": "Amerika Birleşik Devletleri'ndeki spot Bitcoin borsa yatırım fonlarına yönelik yoğun talep, kripto para piyasasını hareketlendirdi. Fonlara gerçekleşen güçlü sermaye akışı neticesinde Bitcoin değeri 70 bin dolar barajını geçti. Yılın başından bu yana söz konusu fonlara toplamda 25,4 milyar dolarlık giriş sağlandı ve fiyat 71 bin 150 dolara kadar yükseldi.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg/960px-%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg/500px-%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg",
+        "genislik": 960,
+        "yukseklik": 960,
+        "orijinalGenislik": 2448,
+        "yazar": "Alexandr Gromov",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg",
+        "aciklama": "Подготовка к отправке заказа: mining kit на основе чипа Golden Nonce.",
+        "konu": "Kripto para"
+      }
     },
     {
       "id": "2024-haber-2263150",
@@ -1425,8 +1438,8 @@
       "yayin": "2022-10-29T17:18:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Fenerbahçe Opet Kadın Voleybol Takımı Şampiyonlar Kupası'nı Kazandı",
-      "ozet": "Kadınlar Spor Toto Şampiyonlar Kupası final mücadelesinde Vakıfbank ile karşılaşan Fenerbahçe Opet, rakibini üç sıfırlık skorla mağlup ederek kupaya uzandı. Müsabakanın ardından açıklamalarda bulunan kulüp başkanı Ali Koç, elde edilen şampiyonluk başarısını değerlendirdi.",
+      "baslik": "Fenerbahçe Opet Kadınlar Şampiyonlar Kupası şampiyonu oldu",
+      "ozet": "Kadınlar Spor Toto Şampiyonlar Kupası final karşılaşmasında Vakıfbank ile karşı karşıya gelen Fenerbahçe Opet, rakibini üç sıfırlık skorla mağlup ederek kupayı kazandı. Müsabakanın ardından gerçekleştirilen değerlendirmede, kulüp başkanı Ali Koç elde edilen başarıya ilişkin görüşlerini paylaştı.",
       "kategori": "Spor"
     },
     {
@@ -1833,8 +1846,8 @@
       "yayin": "2014-10-29T07:36:00+03:00",
       "puan": 8,
       "durum": "elendi",
-      "baslik": "İsmail Kartal'dan şampiyonluk hedefi açıklaması",
-      "ozet": "Fenerbahçe Teknik Direktörü İsmail Kartal, Ereğli ziyareti sırasında taraftarların yoğun ilgisiyle karşılaştı. Gösterilen destekten dolayı duygulandığını ifade eden Kartal, sezon sonunda şampiyonluğa ulaşmak adına takım olarak tüm gayretlerini ortaya koyacaklarını belirtti.",
+      "baslik": "İsmail Kartal şampiyonluk hedefini açıkladı",
+      "ozet": "Fenerbahçe Teknik Direktörü İsmail Kartal, Ereğli ziyareti sırasında kendisine gösterilen yoğun ilgiden dolayı memnuniyetini dile getirdi. Taraftarların desteğine teşekkür eden Kartal, sezon sonunda şampiyonluğa ulaşmak adına tüm takımın özveriyle çalışacağını belirtti.",
       "kategori": "Spor"
     },
     {

@@ -946,7 +946,7 @@
     "url": "https://tr.wikipedia.org/wiki/27_Ekim",
     "revid": 37836856
   },
-  "guncelleme": "2026-10-25T10:56:32.461Z",
+  "guncelleme": "2026-10-26T12:27:39.474Z",
   "haberler": [
     {
       "id": "2025-haber-2447381",
@@ -1003,8 +1003,8 @@
       "yayin": "2025-10-27T23:12:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Sındırgı merkezli deprem sonrası geçmiş olsun mesajları",
-      "ozet": "Balıkesir'in Sındırgı ilçesinde gerçekleşen ve çevre illerde de hissedilen sarsıntının ardından Cumhuriyet Halk Partisi Genel Başkanı Özgür Özel bir açıklama yaptı. Özel, sosyal medya hesabı üzerinden bölge halkına geçmiş olsun dileklerini iletti.",
+      "baslik": "Balıkesir merkezli sarsıntı sonrası geçmiş olsun mesajları",
+      "ozet": "Balıkesir'in Sındırgı ilçesinde gerçekleşen ve civar bölgelerden de hissedilen depremin ardından Cumhuriyet Halk Partisi Genel Başkanı Özgür Özel açıklama yaptı. Özel, sosyal medya hesabı üzerinden bölge halkına yönelik geçmiş olsun dileklerini iletti.",
       "kategori": "Afet"
     },
     {
@@ -1101,15 +1101,15 @@
         "url": "https://www.cumhuriyet.com.tr/ekonomi/faiz-karari-sonrasi-asgari-ucrette-yeni-zam-tahmini-2134617"
       },
       "konular": [
-        "Asgari ücret",
         "Türkiye Cumhuriyet Merkez Bankası",
-        "Ahmet Kurtuluş"
+        "Asgari ücret",
+        "Ekonomi"
       ],
       "yayin": "2023-10-27T10:08:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Merkez Bankası faiz artışı sonrası asgari ücret beklentileri",
-      "ozet": "Merkez Bankası tarafından açıklanan son kararla birlikte politika faizi yüzde 35 oranına yükseltildi. Bu gelişmenin ardından Yeminli Mali Müşavir Ahmet Kurtuluş, asgari ücret düzenlemesine dair öngörülerini paylaştı. Ekonomik verilerdeki değişimler ışığında yapılan bu değerlendirmeler, kamuoyunda ücret artışlarına yönelik beklentileri gündeme getirdi.",
+      "baslik": "Ekonomi yönetimi faiz oranlarını yüzde 35 seviyesine yükseltti",
+      "ozet": "Merkez Bankası tarafından gerçekleştirilen son toplantıda politika faiz oranlarında artışa gidilerek oran yüzde 35 olarak belirlendi. Bu gelişmenin ardından konuya ilişkin değerlendirmelerde bulunan Yeminli Mali Müşavir Ahmet Kurtuluş, asgari ücret düzenlemesiyle ilgili öngörülerini kamuoyuyla paylaştı.",
       "kategori": "Ekonomi"
     },
     {
@@ -1146,30 +1146,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/cumhurbaskani-erdogandan-nato-diplomasisi-1996873"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "NATO",
-        "İsveç"
-      ],
+      "konular": [],
       "yayin": "2022-10-27T19:00:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Cumhurbaşkanı Erdoğan NATO ve İsveç ile Görüşmeler Yapacak",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, NATO Genel Sekreteri Jens Stoltenberg ile İstanbul'da bir araya gelme kararı aldı. Ayrıca İsveç Başbakanı Ulf Kristersson ile gerçekleştirdiği telefon görüşmesinin ardından, konuğunu Ankara'da ağırlayacağını duyurdu. Bu diplomatik temaslar kapsamında uluslararası ilişkiler ve ittifak süreçleri ele alınacak.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1880205",
@@ -1265,15 +1245,14 @@
         "url": "https://www.cumhuriyet.com.tr/haber/tbmmde-butce-gorusmelerinde-tartisma-seffaf-degil-1786385"
       },
       "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Bütçe",
-        "Siyaset"
+        "TBMM Plan ve Bütçe Komisyonu",
+        "Türkiye Büyük Millet Meclisi"
       ],
       "yayin": "2020-10-27T14:14:00+03:00",
       "puan": 9,
       "durum": "elendi",
       "baslik": "Bütçe görüşmelerinde canlı yayın tartışması yaşandı",
-      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu bünyesinde gerçekleştirilen 2021 yılı bütçe kanun teklifi görüşmeleri, yayın kriziyle açıldı. Muhalefet partisi milletvekilleri, oturumların Meclis televizyonu aracılığıyla kamuoyuna canlı aktarılmasını talep etti. Ancak bu istek kabul görmeyince toplantıda gergin anlar yaşandı.",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu bünyesinde gerçekleştirilen bütçe kanun teklifi görüşmelerinin başlangıcında yayın krizi meydana geldi. Muhalefet partilerine mensup milletvekilleri, oturumların Meclis TV aracılığıyla kamuoyuna canlı aktarılması yönünde talepte bulundu. Söz konusu yayın talebi ise komisyon tarafından uygun görülmedi.",
       "kategori": "Siyaset"
     },
     {
@@ -1289,14 +1268,14 @@
       },
       "konular": [
         "Metehan Başar",
-        "Dünya Güreş Şampiyonası",
-        "Grekoromen güreş"
+        "Güreş",
+        "Dünya Güreş Şampiyonası"
       ],
       "yayin": "2018-10-27T21:00:00+03:00",
       "puan": 10,
       "durum": "yazildi",
-      "baslik": "Metehan Başar Dünya Güreş Şampiyonası'nda altın madalya kazandı",
-      "ozet": "Macaristan'da düzenlenen Dünya Güreş Şampiyonası'nda mindere çıkan milli sporcu Metehan Başar, grekoromen stil 87 kilogram kategorisinde rakiplerini geride bıraktı. Başarılı performansıyla final müsabakasını kazanan güreşçi, altın madalyanın sahibi oldu.",
+      "baslik": "Metehan Başar Dünya Güreş Şampiyonasında Altın Madalya Kazandı",
+      "ozet": "Macaristan düzenlenen Dünya Güreş Şampiyonası kapsamında grekoromen stil 87 kilogram kategorisinde mindere çıkan milli sporcu Metehan Başar, başarılı bir performans sergileyerek şampiyonluğa ulaştı. Final müsabakasını galibiyetle tamamlayan Başar, altın madalyanın sahibi oldu.",
       "kategori": "Spor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Metehan_Ba%C5%9Far_2.JPG/960px-Metehan_Ba%C5%9Far_2.JPG",
@@ -1326,13 +1305,13 @@
       "konular": [
         "Suriye İç Savaşı",
         "İstanbul",
-        "Dış politika"
+        "Zirve"
       ],
       "yayin": "2018-10-27T19:03:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "Suriye konulu dörtlü zirve İstanbul'da toplandı",
-      "ozet": "İstanbul Vahdettin Köşkü'nde düzenlenen Suriye konulu dörtlü zirveye katılan liderler, bölgedeki gelişmeleri değerlendirdi. Toplantı sonrasında yapılan ortak açıklamada, Suriye'de anayasa komitesinin yıl sonuna kadar faaliyete geçmesi gerektiği vurgulandı. Görüşmelerde siyasi çözüm süreçlerinin hızlandırılması çağrısı yapıldı.",
+      "baslik": "Suriye konulu dörtlü liderler zirvesi İstanbul'da düzenlendi",
+      "ozet": "İstanbul Vahdettin Köşkü'nde düzenlenen Suriye konulu dörtlü zirvede bir araya gelen liderler, bölgedeki çözüm süreçlerini ele aldı. Zirvenin ardından yapılan ortak açıklamada, Suriye'de çalışmalarını sürdürecek olan anayasa komitesinin yıl sonuna kadar faaliyetlerine başlaması gerektiği vurgulandı. Taraflar, siyasi çözüm sürecinin ilerletilmesi konusunda uzlaşmaya vardı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
@@ -1597,8 +1576,8 @@
       "yayin": "2013-10-27T18:48:00+03:00",
       "puan": 7,
       "durum": "yazildi",
-      "baslik": "Dünya genelinde sığınmacı sayısı son yılların zirvesine ulaştı",
-      "ozet": "Birleşmiş Milletler Mülteciler Yüksek Komiserliği tarafından paylaşılan veriler, küresel çapta yerinden edilen kişilerin sayısında ciddi bir yükseliş yaşandığını gösterdi. Kurum, mevcut sığınmacı oranının son on dokuz yıllık dönem içerisindeki en yüksek seviyeye ulaştığını duyurdu.",
+      "baslik": "Dünya genelindeki sığınmacı sayısında büyük artış gözlendi",
+      "ozet": "Birleşmiş Milletler Mülteciler Yüksek Komiserliği tarafından yapılan açıklamada, küresel ölçekteki sığınmacı nüfusunun son on dokuz yılın zirvesine ulaştığı belirtildi. Söz konusu kurum, mülteci sayısındaki bu yükselişin ulaştığı boyuta dikkat çekti.",
       "kategori": "Toplum",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/UNHCR-geneveNov2013.jpg/960px-UNHCR-geneveNov2013.jpg",
