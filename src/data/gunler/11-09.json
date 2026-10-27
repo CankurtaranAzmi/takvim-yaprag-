@@ -1376,5 +1376,488 @@
     "url": "https://tr.wikipedia.org/wiki/9_Kas%C4%B1m",
     "revid": 38168861
   },
-  "guncelleme": "2026-10-21T21:27:13.717Z"
+  "guncelleme": "2026-10-21T21:27:13.717Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2451133",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "TBMM'de bu hafta: 4 bakanlığın bütçesi görüşülecek",
+      "aciklama": "TBMM’de bu hafta Genel Kurul’da vakıflarla ilgili kanun teklifinin görüşmelerine devam edilecek. Plan ve Bütçe Komisyonu’nda dört bakanlığın 2026 yılı bütçe teklifleri görüşülecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/tbmm-de-bu-hafta-4-bakanligin-butcesi-gorusulecek-2451133"
+      },
+      "konular": [],
+      "yayin": "2025-11-09T12:04:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2025-haber-2451247",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "2025 Sağlık Bakanlığı promosyon ödeme tarihi belli oldu mu? 2025 Sağlık Bakanlığı personeli maaş promosyonu ne kadar?",
+      "aciklama": "Sağlık Bakanlığı’na bağlı kurumlarda görev yapan çalışanlar, 2025 yılı banka maaş promosyon anlaşmasının detaylarını merak ediyor. Peki, 2025 Sağlık Bakanlığı promosyon ödeme tarihi belli oldu mu? 2025 Sağlık Bakanlığı personeli maaş promosyonu ne kadar?",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/2025-saglik-bakanligi-promosyon-odeme-tarihi-belli-oldu-mu-2025-saglik-bakanligi-personeli-maas-promosyonu-ne-kadar-2451247"
+      },
+      "konular": [],
+      "yayin": "2025-11-09T18:51:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2266931",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Derbide gülen taraf Beşiktaş oldu! Beşiktaş United Payment 1-0 Galatasaray Petrol Ofisi",
+      "aciklama": "Turkcell Kadın Futbol Süper Ligi'nde Beşiktaş United Payment, Galatasaray Petrol Ofisi'ni 1-0 mağlup etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/derbide-gulen-taraf-besiktas-oldu-besiktas-united-payment-1-0-2266931"
+      },
+      "konular": [],
+      "yayin": "2024-11-09T19:08:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2266875",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Doğalgaz kaynaklı patlamada yaralanmıştı: 18 gün süren yaşam savaşını kaybetti",
+      "aciklama": "Kocaeli’deki, doğalgaz kaynaklı patlamada üzerine beton parçaları düşmesi sonucu ölen Günay Ergen'in (65) ardından, 3 çocuk annesi Şerife Buse Sarı (30) da 18 gündür tedavi gördüğü hastanede bugün öldü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/dogalgaz-kaynakli-patlamada-yaralanmisti-18-gun-suren-yasam-savasini-2266875"
+      },
+      "konular": [],
+      "yayin": "2024-11-09T16:03:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2139085",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Euro zirve tazeledi! Dolar ve Euro ne kadar oldu? 9 Kasım 2023 döviz fiyatları",
+      "aciklama": "Dolar TL  tarihi zirvelerinde günlük sınırlı yükseliş eğilimine devam ederken Euro TL zirve tazeledi. Piyasalarda TCMB haftalık verileri, iç siyasi gelişmeler ve küresel piyasalar takip ediliyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika-euro-zirve-tazeledi-dolar-ve-euro-ne-kadar-oldu-9-kasim-2139085"
+      },
+      "konular": [],
+      "yayin": "2023-11-09T09:38:00+03:00",
+      "puan": 14,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2139225",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Hukukçular, Yargıtay kararını değerlendirdi... 'Anayasal düzeni ortadan kaldırmaya yönelik yargı girişimi'",
+      "aciklama": "Hukukçular, Yargıtay'ın Can Atalay hakkında verilen 'hak ihlali' kararına uyulmaması yönündeki hükmü ile AYM üyeleri hakkında suç duyurusunda bulunmasına yönelik değerlendirmelerde bulundu. Prof. Dr. İbrahim Kaboğlu",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/hukukcular-yargitay-kararini-degerlendirdi-anayasal-duzeni-ortadan-2139225"
+      },
+      "konular": [],
+      "yayin": "2023-11-09T14:10:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-2001179",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İsviçre'nin Dünya Kupası kadrosu belli oldu: Galatasaraylı yıldız da yer buldu",
+      "aciklama": "İsviçre Milli Futbol Takımı, Katar'da düzenlenecek 2022 FIFA Dünya Kupası kadrosunu duyurdu. Galatasaray forması giyen Haris Seferovic de listede yer buldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/isvicrenin-dunya-kupasi-kadrosu-belli-oldu-galatasarayli-yildiz-da-yer-buldu-2001179"
+      },
+      "konular": [],
+      "yayin": "2022-11-09T15:06:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-2001032",
+      "yil": 2022,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "ABD ara seçimlerinde son durum: Senato'da Cumhuriyetçiler 15, Demokratlar 7 sandalye kazandı",
+      "aciklama": "ABD'de düzenlenen Kongre ara seçimlerinde seçime giren 35 Senato koltuğundan 15'ini Cumhuriyetçiler, 7'sini Demokratlar aldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/abd-ara-secimlerinde-son-durum-senatoda-cumhuriyetciler-15-demokratlar-7-sandalye-kazandi-2001032"
+      },
+      "konular": [],
+      "yayin": "2022-11-09T08:02:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1883198",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bitcoin tüm zamanların rekorunu kırdı",
+      "aciklama": "Bitcoin, tüm zamanların rekorunu kırarak 67 bin 789 dolara yükseldi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/bitcoin-tum-zamanlarin-rekorunu-kirdi-1883198"
+      },
+      "konular": [],
+      "yayin": "2021-11-09T02:41:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1883444",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "MHP'de deprem! Vekil Öztürk'ü topa tutup istifa etti",
+      "aciklama": "MHP Kırıkkale Keskin İlçe Başkanı Zafer Çakmaklı, MHP Kırıkkale Milletvekili Halil Öztürk'ü sert sözlerle eleştirerek görevinden istifa etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/mhpde-deprem-vekil-ozturku-topa-tutup-istifa-etti-1883444"
+      },
+      "konular": [],
+      "yayin": "2021-11-09T16:56:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1789716",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan, istifa sonrası ilk kez konuştu",
+      "aciklama": "Cumhurbaşkanı Tayyip Erdoğan, Hazine ve Maliye Bakanı Berat Albayrak'ın istifa haberleri sonrası ilk kez Cumhurbaşkanlığı Sarayı'nda düzenlenen Büyükelçiler Konferansı'nda konuştu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-istifa-karari-sonrasi-ilk-kez-konusuyor-1789716"
+      },
+      "konular": [],
+      "yayin": "2020-11-09T14:53:00+03:00",
+      "puan": 14,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1789614",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Berat Albayrak'ın istifasının ardından Cumhurbaşkanlığı sessizliğini koruyor",
+      "aciklama": "Hazine ve Maliye Bakanı Berat Albayrak'ın istifasını açıklamasının ardından Cumhurbaşkanlığı sessizliğini koruyor. Türkiye'deki kamu yayıncıları ve hükümete yakın medyanın neredeyse tamamı aradan 12 saati aşkın yakın süre geçmesine rağmen konuyla ilgili haber yapmadı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/berat-albayrakin-istifasinin-ardindan-cumhurbaskanligi-sessizligini-koruyor-1789614"
+      },
+      "konular": [],
+      "yayin": "2020-11-09T09:26:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1701067",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Türkiye Motokros Şampiyonası başladı 4. Ayak yarışları başladı",
+      "aciklama": "Türkiye Motosiklet Federasyonu ve Avrupa Organizatörü tarafından 2019 takviminde yer alan Türkiye Motokros Şampiyonası'nın 4. Ayağı",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/turkiye-motokros-sampiyonasi-basladi-4-ayak-yarislari-basladi-1701067"
+      },
+      "konular": [],
+      "yayin": "2019-11-09T16:09:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1701012",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Moussa Sow:",
+      "aciklama": "Fenerbahçe'nin eski oyuncusu ve son olarak Gaziantep FK' da forma giyen, Senegalli futbolcu Moussa Sow, Süper Lig'de bu sezon şampiyonluk için favorisinin Fenerbahçe olduğunu söyledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/moussa-sow-fenerbahce-sampiyon-olacak-1701012"
+      },
+      "konular": [],
+      "yayin": "2019-11-09T11:34:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1135667",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Şahin’e dava açıldı: ‘Yargı iktidarın sopası’",
+      "aciklama": "KHK ile 6 yıldır çalıştığı işinden edilmesinin ardından, bir yılı aşkın süredir oturma eylemi yapan mimar Alev Şahin’e ‘Valinin aldığı kararlara ve tedbirlere aykırı hareket etmek” suçlarını işlediği iddiasıyla dava açıldı. Şahin, “Yargıyı iktidarın sopası haline getirip direnenl",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/sahine-dava-acildi-yargi-iktidarin-sopasi-1135667"
+      },
+      "konular": [],
+      "yayin": "2018-11-09T10:26:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1135806",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ersanlı Bucks, son şampiyon Warriors'ı farklı yendi",
+      "aciklama": "Amerikan Basketbol Ligi'nde (NBA) son şampiyon Golden State Warriors, konuk ettiği Milwaukee Bucks'a 134-111 yenilerek bu sezonun ikinci mağlubiyetini aldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ersanli-bucks-son-sampiyon-warriorsi-farkli-yendi-1135806"
+      },
+      "konular": [],
+      "yayin": "2018-11-09T11:55:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-862873",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan'dan nefret söylemi: Şu an CHP'li belediye eşcinsel kotası koydu",
+      "aciklama": "AKP Genel Başkanı ve Cumhurbaşkanı Tayyip Erdoğan, 41. Muhtarlar Toplantısı'nda konuştu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-nefret-soylemi-su-an-chpli-belediye-escinsel-kotasi-koydu-862873"
+      },
+      "konular": [],
+      "yayin": "2017-11-09T15:11:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-863179",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Kılıçdaroğlu Strazburg’da: 2019 seçimi için demokrasi bloku",
+      "aciklama": "Strazburg’daki Dünya Demokrasi\nForumu’na katılan CHP lideri\nKılıçdaroğlu, gazetecilerin sorularını\nyanıtladı. 2019 seçimlerini\ndeğerlendiren Kılıçdaroğlu, “Seçim\niki eksenli olacak. Hayır\nbloku demek doğru değil, tek\nadamdan yana olanlar ve demokrasiden\nyana olanlar şeklinde\ngörm",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/kilicdaroglu-strazburgda-2019-secimi-icin-demokrasi-bloku-863179"
+      },
+      "konular": [],
+      "yayin": "2017-11-09T22:58:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-628351",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Yıldırım ve Bahçeli'den anayasa zirvesi: CHP'ye mesaj",
+      "aciklama": "Başbakan Binali Yıldırım, mini anayasa kapsamında MHP Genel Bahçeli Devlet Bahçeli ile yarın görüşeceğini belirterek,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/yildirim-ve-bahceliden-anayasa-zirvesi-chpye-mesaj-628351"
+      },
+      "konular": [],
+      "yayin": "2016-11-09T14:25:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-628519",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Tunceli'de sokağa çıkma yasağı ilan edildi",
+      "aciklama": "Tunceli Valiliği, Dersim'de sokağa çıkma yasağı ilan etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/tuncelide-sokaga-cikma-yasagi-ilan-edildi-628519"
+      },
+      "konular": [],
+      "yayin": "2016-11-09T20:03:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-411327",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Anlaşma imzalandı... Rusya S-300 füzelerini İran'a gönderiyor",
+      "aciklama": "Rusya ve İran, hava savunma sistemi S-300 füzelerinin Tahran'a teslimatı için sözleşme imzaladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/anlasma-imzalandi-rusya-s-300-fuzelerini-irana-gonderiyor-411327"
+      },
+      "konular": [],
+      "yayin": "2015-11-09T14:55:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-138833",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Sınırda askere ateş açıldı",
+      "aciklama": "Genelkurmay Başkanlığı, Hatay'daki sınırında görev yapan askerlerin üzerine Suriye tarafından ateş açıldığını açtığını bildirdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/sinirda-askere-ates-acildi-138833"
+      },
+      "konular": [],
+      "yayin": "2014-11-09T15:56:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-138901",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dev derbide zafer Galatasaray'ın",
+      "aciklama": "Voleybol Erkekler 1. Ligi'nin 5. haftasındaki derbi maçında, Fenerbahçe ile Galatasaray FXTCR Burhan Felek Spor Salonu'nda karşı karşıya geldi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/dev-derbide-zafer-galatasarayin-138901"
+      },
+      "konular": [],
+      "yayin": "2014-11-09T20:27:00+03:00",
+      "puan": 6,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-7615",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Sporda deprem yaratacak karar",
+      "aciklama": "Halı saha maçında karşı takımdaki polis memurunun müdahalesiyle bacağı kırılan avukat, iş ve güç kaybı nedeniyle tazminat davası açtı. Mahkeme",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/sporda-deprem-yaratacak-karar-7615"
+      },
+      "konular": [],
+      "yayin": "2013-11-09T12:09:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-7559",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Kılıçdaroğlu: Başbakan, Arınç'ı feda etti",
+      "aciklama": "CHP Lideri Kemal Kılıçdaroğlu, Samanyolu Haber'in canlı yayınında",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/kilicdaroglu-basbakan-arinci-feda-etti-7559"
+      },
+      "konular": [],
+      "yayin": "2013-11-09T09:25:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-382372",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Van'daki 9 Kasım depreminin 1. yılı",
+      "aciklama": "Van'da 9 Kasım 2011 tarihinde meydana gelen depremde yaşamını yitiren gazeteci Cem Emir, mezarı başında anıldı. Van'da 9 Kasım 2011 tarihinde meydana gelen depremde yaşamını yitiren gazeteciler Sebahattin Yılmaz ve Cem Emir içinde meslektaşları Bayram Oteli önüne karanfil bıraktı",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/vandaki-9-kasim-depreminin-1-yili-382372"
+      },
+      "konular": [],
+      "yayin": "2012-11-09T14:55:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-382466",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Seçimlerden sonra ilk gündem maddesi mali uçurum ve vergi kesintileri",
+      "aciklama": "ABD'nin başkenti Washington'ın seçimden sonraki ilk gündemi ''mali uçurum'' ve vergi kesintileri olurken, ABD Başkanı ile Kongre'deki Cumhuriyetçi kanat arasındaki derin ayrılıklar yine ortaya çıktı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/secimlerden-sonra-ilk-gundem-maddesi-mali-ucurum-ve-vergi-kesintileri-382466"
+      },
+      "konular": [],
+      "yayin": "2012-11-09T19:24:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-296748",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İspanya'da genel seçimlere doğru",
+      "aciklama": "İspanya'da 20 Kasım'da yapılacak erken genel seçimlerde favori gösterilen muhafazakar görüşlü Halk Partisi (PP), iktidara gelmesi halinde özerk yönetimlerdeki 13 kamu televizyonunu özelleştirmek ve resmi haber ajansı EFE'yi İspanyol resmi radyo ve televizyonu RTVE'nin bünyesine k",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ispanyada-genel-secimlere-dogru-296748"
+      },
+      "konular": [],
+      "yayin": "2011-11-09T09:40:00+03:00",
+      "puan": 5,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-296740",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "BDP'liler Meclis'ten çekilmeyi tartışıyor",
+      "aciklama": "BDP yönetimindeki 'Meclis'ten çekilme', bunun mümkün olmaması halinde 'Anayasa Komisyonu'ndan çekilme' ikilemi, partide tartışılıyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bdpliler-meclisten-cekilmeyi-tartisiyor-296740"
+      },
+      "konular": [],
+      "yayin": "2011-11-09T08:23:00+03:00",
+      "puan": 5,
+      "durum": "haber"
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }
