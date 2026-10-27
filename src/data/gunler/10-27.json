@@ -577,7 +577,7 @@
     },
     {
       "yil": 1811,
-      "metin": "Isaac Singer, Amerikalı mucit, aktör ve iş insanı (ö. 1875)"
+      "metin": "Isaac Singer, Amerikalı mucit, aktör ve iş adamı (ö. 1875)"
     },
     {
       "yil": 1844,
@@ -891,7 +891,7 @@
     },
     {
       "yil": 2018,
-      "metin": "Vichai Srivaddhanaprabha, Taylandlı milyarder iş insanı ve spor yöneticisi (d. 1958)"
+      "metin": "Vichai Srivaddhanaprabha, Taylandlı milyarder iş adamı ve spor yöneticisi (d. 1958)"
     },
     {
       "yil": 2019,
@@ -944,9 +944,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/27_Ekim",
-    "revid": 37836856
+    "revid": 38338650
   },
-  "guncelleme": "2026-10-26T12:27:39.474Z",
+  "guncelleme": "2026-10-27T11:46:13.442Z",
   "haberler": [
     {
       "id": "2025-haber-2447381",
@@ -967,8 +967,8 @@
       "yayin": "2025-10-27T15:20:00+03:00",
       "puan": 14,
       "durum": "yazildi",
-      "baslik": "İngiltere Başbakanı Starmer Ankara'da Temaslarda Bulundu",
-      "ozet": "İngiltere Başbakanı Keir Starmer, resmi temaslarda bulunmak üzere Türkiye'ye geldi. Ankara'da Milli Savunma Bakanı Yaşar Güler tarafından karşılanan Starmer, Cumhurbaşkanı Recep Tayyip Erdoğan ile bir araya gelerek Eurofighter Typhoon savaş uçaklarının tedarik sürecine dair güncel gelişmeleri değerlendirdi. Ziyaret kapsamında iki ülke arasındaki savunma sanayii iş birliği ve mevcut görüşmelerin seyri ele alındı.",
+      "baslik": "İngiltere Başbakanı Starmer Ankara'da Temaslarda Bulunuyor",
+      "ozet": "İngiltere Başbakanı Keir Starmer, Türkiye'ye gerçekleştirdiği resmi ziyaret kapsamında başkente ulaştı. Havalimanında Millî Savunma Bakanı Yaşar Güler tarafından karşılanan Starmer'ın, Cumhurbaşkanı Recep Tayyip Erdoğan ile bir araya gelmesi planlandı. Görüşmelerde Eurofighter Typhoon savaş uçaklarının tedarik süreciyle ilgili güncel gelişmelerin ele alınacağı açıklandı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Prime_Minister_Sir_Keir_Starmer_Official_Portrait_%28cropped%29.jpg/960px-Prime_Minister_Sir_Keir_Starmer_Official_Portrait_%28cropped%29.jpg",
@@ -998,13 +998,13 @@
       "konular": [
         "Sındırgı",
         "Balıkesir",
-        "Özgür Özel"
+        "Deprem"
       ],
       "yayin": "2025-10-27T23:12:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Balıkesir merkezli sarsıntı sonrası geçmiş olsun mesajları",
-      "ozet": "Balıkesir'in Sındırgı ilçesinde gerçekleşen ve civar bölgelerden de hissedilen depremin ardından Cumhuriyet Halk Partisi Genel Başkanı Özgür Özel açıklama yaptı. Özel, sosyal medya hesabı üzerinden bölge halkına yönelik geçmiş olsun dileklerini iletti.",
+      "baslik": "Balıkesir Sındırgı merkezli deprem sonrası geçmiş olsun mesajı",
+      "ozet": "Balıkesir ilinin Sındırgı ilçesinde yaşanan ve çevre bölgelerde de hissedilen deprem sarsıntısı üzerine Cumhuriyet Halk Partisi Genel Başkanı Özgür Özel bir açıklama yaptı. Özel, sosyal medya mecrası üzerinden bölge halkına geçmiş olsun dileklerini iletti.",
       "kategori": "Afet"
     },
     {
@@ -1101,15 +1101,14 @@
         "url": "https://www.cumhuriyet.com.tr/ekonomi/faiz-karari-sonrasi-asgari-ucrette-yeni-zam-tahmini-2134617"
       },
       "konular": [
-        "Türkiye Cumhuriyet Merkez Bankası",
         "Asgari ücret",
-        "Ekonomi"
+        "Türkiye Cumhuriyet Merkez Bankası"
       ],
       "yayin": "2023-10-27T10:08:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Ekonomi yönetimi faiz oranlarını yüzde 35 seviyesine yükseltti",
-      "ozet": "Merkez Bankası tarafından gerçekleştirilen son toplantıda politika faiz oranlarında artışa gidilerek oran yüzde 35 olarak belirlendi. Bu gelişmenin ardından konuya ilişkin değerlendirmelerde bulunan Yeminli Mali Müşavir Ahmet Kurtuluş, asgari ücret düzenlemesiyle ilgili öngörülerini kamuoyuyla paylaştı.",
+      "baslik": "Merkez Bankası faiz artışı sonrası asgari ücret beklentileri",
+      "ozet": "Merkez Bankasının politika faizini yüzde 35 düzeyine yükseltmesinin ardından ekonomi dünyasında yeni değerlendirmeler yapıldı. Yeminli Mali Müşavir Ahmet Kurtuluş, gerçekleşen faiz oranı değişikliği ışığında asgari ücretin geleceğine yönelik öngörülerini paylaştı.",
       "kategori": "Ekonomi"
     },
     {
@@ -1146,10 +1145,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/cumhurbaskani-erdogandan-nato-diplomasisi-1996873"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "NATO",
+        "İsveç"
+      ],
       "yayin": "2022-10-27T19:00:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanı Erdoğan NATO ve İsveç ile Görüşmeler Yapacak",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, NATO Genel Sekreteri Jens Stoltenberg ile İstanbul'da bir araya gelme kararı aldı. Ayrıca İsveç Başbakanı Ulf Kristersson ile gerçekleştirdiği telefon görüşmesinin ardından, konuğunu Ankara'da ağırlayacağını duyurdu. Bu diplomatik temaslar kapsamında uluslararası ilişkiler ve ittifak süreçleri ele alınacak.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2021-haber-1880205",
@@ -1170,8 +1189,8 @@
       "yayin": "2021-10-27T21:54:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Merkez Bankası Başkanı Kavcıoğlu ekonomistler ile bir araya gelecek",
-      "ozet": "Türkiye Cumhuriyet Merkez Bankası Başkanı Şahap Kavcıoğlu, alınan faiz indirimi kararının sonrasında basın mensupları ve ekonomistlerle buluşacağını duyurdu. Söz konusu toplantıda yılın son enflasyon raporuna dair detayların paylaşılması bekleniyor. Piyasa temsilcileri ve kamuoyu, yapılacak açıklamaları yakından takip ediyor.",
+      "baslik": "Merkez Bankası Başkanı Kavcıoğlu ekonomistler ile bir araya geliyor",
+      "ozet": "Türkiye Cumhuriyeti Merkez Bankası Başkanı Şahap Kavcıoğlu, gerçekleştirilen faiz indirimi sonrasında basın temsilcileri ve ekonomistlerle buluşma kararı aldı. Toplantıda yılın son enflasyon raporunun paylaşılması beklenirken piyasalar da yapılacak değerlendirmelere odaklandı. Söz konusu görüşme ekonomi gündeminin önemli bir başlığı olarak takip ediliyor.",
       "kategori": "Ekonomi"
     },
     {
@@ -1245,14 +1264,15 @@
         "url": "https://www.cumhuriyet.com.tr/haber/tbmmde-butce-gorusmelerinde-tartisma-seffaf-degil-1786385"
       },
       "konular": [
-        "TBMM Plan ve Bütçe Komisyonu",
-        "Türkiye Büyük Millet Meclisi"
+        "Türkiye Büyük Millet Meclisi",
+        "Bütçe",
+        "Siyaset"
       ],
       "yayin": "2020-10-27T14:14:00+03:00",
       "puan": 9,
       "durum": "elendi",
       "baslik": "Bütçe görüşmelerinde canlı yayın tartışması yaşandı",
-      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu bünyesinde gerçekleştirilen bütçe kanun teklifi görüşmelerinin başlangıcında yayın krizi meydana geldi. Muhalefet partilerine mensup milletvekilleri, oturumların Meclis TV aracılığıyla kamuoyuna canlı aktarılması yönünde talepte bulundu. Söz konusu yayın talebi ise komisyon tarafından uygun görülmedi.",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu bünyesinde gerçekleştirilen 2021 yılı bütçe kanun teklifi görüşmeleri, yayın kriziyle açıldı. Muhalefet partisi milletvekilleri, oturumların Meclis televizyonu aracılığıyla kamuoyuna canlı aktarılmasını talep etti. Ancak bu istek kabul görmeyince toplantıda gergin anlar yaşandı.",
       "kategori": "Siyaset"
     },
     {
@@ -1268,14 +1288,14 @@
       },
       "konular": [
         "Metehan Başar",
-        "Güreş",
-        "Dünya Güreş Şampiyonası"
+        "Dünya Güreş Şampiyonası",
+        "Grekoromen güreş"
       ],
       "yayin": "2018-10-27T21:00:00+03:00",
       "puan": 10,
       "durum": "yazildi",
-      "baslik": "Metehan Başar Dünya Güreş Şampiyonasında Altın Madalya Kazandı",
-      "ozet": "Macaristan düzenlenen Dünya Güreş Şampiyonası kapsamında grekoromen stil 87 kilogram kategorisinde mindere çıkan milli sporcu Metehan Başar, başarılı bir performans sergileyerek şampiyonluğa ulaştı. Final müsabakasını galibiyetle tamamlayan Başar, altın madalyanın sahibi oldu.",
+      "baslik": "Metehan Başar Dünya Güreş Şampiyonası'nda altın madalya kazandı",
+      "ozet": "Macaristan'da düzenlenen Dünya Güreş Şampiyonası'nda mindere çıkan milli sporcu Metehan Başar, grekoromen stil 87 kilogram kategorisinde rakiplerini geride bıraktı. Başarılı performansıyla final müsabakasını kazanan güreşçi, altın madalyanın sahibi oldu.",
       "kategori": "Spor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Metehan_Ba%C5%9Far_2.JPG/960px-Metehan_Ba%C5%9Far_2.JPG",
@@ -1305,13 +1325,13 @@
       "konular": [
         "Suriye İç Savaşı",
         "İstanbul",
-        "Zirve"
+        "Dış politika"
       ],
       "yayin": "2018-10-27T19:03:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "Suriye konulu dörtlü liderler zirvesi İstanbul'da düzenlendi",
-      "ozet": "İstanbul Vahdettin Köşkü'nde düzenlenen Suriye konulu dörtlü zirvede bir araya gelen liderler, bölgedeki çözüm süreçlerini ele aldı. Zirvenin ardından yapılan ortak açıklamada, Suriye'de çalışmalarını sürdürecek olan anayasa komitesinin yıl sonuna kadar faaliyetlerine başlaması gerektiği vurgulandı. Taraflar, siyasi çözüm sürecinin ilerletilmesi konusunda uzlaşmaya vardı.",
+      "baslik": "Suriye konulu dörtlü zirve İstanbul'da toplandı",
+      "ozet": "İstanbul Vahdettin Köşkü'nde düzenlenen Suriye konulu dörtlü zirveye katılan liderler, bölgedeki gelişmeleri değerlendirdi. Toplantı sonrasında yapılan ortak açıklamada, Suriye'de anayasa komitesinin yıl sonuna kadar faaliyete geçmesi gerektiği vurgulandı. Görüşmelerde siyasi çözüm süreçlerinin hızlandırılması çağrısı yapıldı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
@@ -1339,15 +1359,15 @@
         "url": "https://www.cumhuriyet.com.tr/haber/akp-sozcusu-unal-belediye-baskanlari-istifa-etmezlerse-yeni-kararlar-verilir-854243"
       },
       "konular": [
-        "Mahir Ünal",
         "Adalet ve Kalkınma Partisi",
+        "Mahir Ünal",
         "Belediye başkanı"
       ],
       "yayin": "2017-10-27T18:28:00+03:00",
       "puan": 9,
       "durum": "elendi",
-      "baslik": "Belediye başkanlarının istifa sürecine dair açıklama yapıldı",
-      "ozet": "Adalet ve Kalkınma Partisi Merkez Karar ve Yönetim Kurulu toplantısının ardından konuşan parti sözcüsü Mahir Ünal, görevden ayrılmaları talep edilen belediye başkanları hakkında değerlendirmelerde bulundu. Ünal, söz konusu başkanların istifa etmemesi durumunda parti yönetiminin yeni yaptırımlar uygulayacağını belirtti.",
+      "baslik": "Belediye başkanlarının istifası konusunda yeni süreç değerlendirmesi",
+      "ozet": "Adalet ve Kalkınma Partisi Merkez Karar ve Yönetim Kurulu toplantısının ardından açıklamalarda bulunan parti sözcüsü Mahir Ünal, görevden ayrılmaları talep edilen belediye başkanları hakkında konuştu. Ünal, söz konusu isimlerin istifa etmemesi durumunda yönetim kademesi olarak farklı kararların uygulamaya konulacağını belirtti.",
       "kategori": "Siyaset"
     },
     {
@@ -1541,8 +1561,8 @@
       "yayin": "2013-10-27T13:18:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "Sebastian Vettel Formula 1 Dünya Şampiyonluğunu Garantiledi",
-      "ozet": "Sebastian Vettel, üst üste dördüncü defa dünya şampiyonu olma başarısını gösterdi. Yarış kariyerindeki bu önemli zaferle birlikte şampiyonluk serisini sürdüren pilot, sezonun bitimine kala zirvedeki yerini kesinleştirdi.",
+      "baslik": "Sebastian Vettel dördüncü kez dünya şampiyonluğuna ulaştı",
+      "ozet": "Formula 1 pilotu Sebastian Vettel, üst üste dördüncü kez şampiyonluk ipini göğüsledi. Başarılı sporcu, sergilediği performansla sezonun bitimine üç yarış kala şampiyonluğunu matematiksel olarak garantiledi.",
       "kategori": "Spor",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sebastian_Vettel_-_2022236172324_2022-08-24_Champions_for_Charity_-_Sven_-_1D_X_MK_II_-_0418_-_B70I2428.jpg",
@@ -1576,8 +1596,8 @@
       "yayin": "2013-10-27T18:48:00+03:00",
       "puan": 7,
       "durum": "yazildi",
-      "baslik": "Dünya genelindeki sığınmacı sayısında büyük artış gözlendi",
-      "ozet": "Birleşmiş Milletler Mülteciler Yüksek Komiserliği tarafından yapılan açıklamada, küresel ölçekteki sığınmacı nüfusunun son on dokuz yılın zirvesine ulaştığı belirtildi. Söz konusu kurum, mülteci sayısındaki bu yükselişin ulaştığı boyuta dikkat çekti.",
+      "baslik": "Dünya genelinde sığınmacı sayısı son yılların zirvesine ulaştı",
+      "ozet": "Birleşmiş Milletler Mülteciler Yüksek Komiserliği tarafından paylaşılan veriler, küresel çapta yerinden edilen kişilerin sayısında ciddi bir yükseliş yaşandığını gösterdi. Kurum, mevcut sığınmacı oranının son on dokuz yıllık dönem içerisindeki en yüksek seviyeye ulaştığını duyurdu.",
       "kategori": "Toplum",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/UNHCR-geneveNov2013.jpg/960px-UNHCR-geneveNov2013.jpg",
@@ -1629,14 +1649,14 @@
       },
       "konular": [
         "Sel",
-        "Var (il)",
+        "Var (Fransa)",
         "Fransa"
       ],
       "yayin": "2012-10-27T19:05:00+03:00",
       "puan": 4,
       "durum": "yazildi",
-      "baslik": "Fransa'nın güneyinde sel felaketi: İki öğrenci yaşamını yitirdi",
-      "ozet": "Fransa'nın güney kesiminde yer alan Var bölgesinde etkili olan yoğun yağışlar, bölgede sel baskınlarına neden oldu. Yaşanan doğal afet sonucunda iki üniversite öğrencisi hayatını kaybetti. Yetkililer bölgedeki olumsuz hava koşullarının ardından incelemelerini sürdürdü.",
+      "baslik": "Fransa'nın güneyinde sel felaketi iki can aldı",
+      "ozet": "Fransa'nın güney kesiminde yer alan Var bölgesinde etkisini gösteren aşırı yağışlar sele neden oldu. Yaşanan doğal afet sonucunda iki üniversite öğrencisi hayatını kaybetti. Bölgedeki olumsuz hava koşulları yaşamı ciddi şekilde etkiledi.",
       "kategori": "Afet",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Urban_flood_cropped.jpg",

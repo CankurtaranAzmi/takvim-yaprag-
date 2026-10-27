@@ -1491,7 +1491,7 @@
     "url": "https://tr.wikipedia.org/wiki/3_Kas%C4%B1m",
     "revid": 38168809
   },
-  "guncelleme": "2026-10-26T12:27:42.679Z",
+  "guncelleme": "2026-10-27T11:46:16.188Z",
   "haberler": [
     {
       "id": "2025-haber-2449294",
@@ -1543,13 +1543,13 @@
       "konular": [
         "Borsa İstanbul",
         "Süper Lig",
-        "Spor kulüpleri"
+        "Spor ekonomisi"
       ],
       "yayin": "2025-11-03T14:30:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Borsa İstanbul'da işlem gören spor kulüplerinin Ekim ayı performansı",
-      "ozet": "Süper Lig'de geride kalan 11 haftalık süreç, borsadaki spor kulübü hisselerinin değer değişimlerine de yansıdı. Ekim ayı sonu itibarıyla yatırımcıların yakından takip ettiği spor hisseleri arasında en yüksek getiriyi sağlayan kulüp belirlendi. Borsada faaliyet gösteren dört büyük takımın hisse senetleri arasında yaşanan rekabet, yatırımcılar tarafından dikkatle izlendi.",
+      "baslik": "Borsa İstanbul'da spor kulüplerinin yatırım performansı değerlendirildi",
+      "ozet": "Süper Lig'de geride kalan on bir haftalık süreçte spor kulüplerinin borsa performansları incelendi. Yatırımcıların yakından takip ettiği dört büyük kulübün hisse senetleri arasındaki rekabet netleşti. Yapılan analizler sonucunda, borsa liginde en yüksek getiriyi sağlayan spor kulübü belirlendi.",
       "kategori": "Ekonomi"
     },
     {
@@ -1633,15 +1633,15 @@
         "url": "https://www.cumhuriyet.com.tr/turkiye/chpli-arpaci-tekstil-sektorundeki-krizi-meclise-tasidi-2137051"
       },
       "konular": [
-        "Tekstil",
         "Şeref Arpacı",
-        "Türkiye Büyük Millet Meclisi"
+        "Türkiye Büyük Millet Meclisi",
+        "Tekstil"
       ],
       "yayin": "2023-11-03T11:07:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Tekstil sektöründeki sorunlar Türkiye Büyük Millet Meclisi gündemine taşındı",
-      "ozet": "Denizli Milletvekili Şeref Arpacı, Ticaret Bakanlığı bütçe görüşmeleri sırasında tekstil alanında yaşanan sıkıntıları dile getirdi. Arpacı, yılın ilk çeyreğinde emeklilikte yaşa takılanlar düzenlemesinin ardından sektörde işten ayrılanların sayısındaki artışa vurgu yaptı.",
+      "baslik": "Tekstil sektöründeki ekonomik durgunluk Meclis gündemine taşındı",
+      "ozet": "Denizli Milletvekili Şeref Arpacı, Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu toplantısında tekstil alanındaki sorunları dile getirdi. Bakanlık bütçesinin görüşüldüğü sırada söz alan Arpacı, yılın ilk çeyreğinde emeklilikte yaşa takılanlar düzenlemesiyle birlikte sektörde işten çıkarma oranlarının arttığına vurgu yaptı.",
       "kategori": "Siyaset"
     },
     {
@@ -1853,13 +1853,14 @@
       },
       "konular": [
         "Grekoromen güreş",
+        "Balkan Güreş Şampiyonası",
         "Türkiye millî güreş takımı"
       ],
       "yayin": "2018-11-03T16:09:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Gençler Balkan Güreş Şampiyonası'nda Türkiye Birinci Oldu",
-      "ozet": "Türkiye Grekoromen Milli Takımı, katıldığı Gençler Balkan Güreş Şampiyonası'nı zirvede tamamladı. Organizasyon boyunca başarılı bir performans sergileyen milli sporcular, toplamda yedi altın ve üç gümüş madalya kazanarak takım halinde şampiyonluk kupasını kaldırdı.",
+      "baslik": "Grekoromen Güreş Milli Takımı Balkan Şampiyonasını Zirvede Tamamladı",
+      "ozet": "Gençler Balkan Güreş Şampiyonası müsabakaları sona erdi. Türkiye Grekoromen Milli Takımı, organizasyonu toplamda yedi altın ve üç gümüş madalya kazanarak şampiyonlukla tamamladı. Sporcular gösterdikleri performansla takım halinde birinciliğe ulaştı.",
       "kategori": "Spor"
     },
     {
@@ -1874,7 +1875,7 @@
         "url": "https://www.cumhuriyet.com.tr/haber/besiktas-teknik-direktoru-senol-gunes-sampiyonluk-yarisi-net-degil-1130797"
       },
       "konular": [
-        "Beşiktaş",
+        "Beşiktaş (futbol takımı)",
         "Şenol Güneş",
         "Süper Lig"
       ],
@@ -1882,7 +1883,7 @@
       "puan": 10,
       "durum": "elendi",
       "baslik": "Şenol Güneş Başakşehir Mağlubiyetini Değerlendirdi",
-      "ozet": "Beşiktaş teknik direktörü Şenol Güneş, ligin on birinci haftasında deplasmanda Başakşehir karşısında aldıkları bir sıfırlık mağlubiyetin ardından açıklamalarda bulundu. Karşılaşma boyunca oyunun kontrolünü ellerinde tutmalarına ve rakiplerine karşı üstünlük sağlamalarına rağmen skora yansıtamadıklarını belirtti. Güneş, bu sonuçla birlikte şampiyonluk yolundaki rekabetin henüz netleşmediğini ifade etti.",
+      "ozet": "Beşiktaş teknik direktörü Şenol Güneş, ligin on birinci haftasında Medipol Başakşehir karşısında alınan bir sıfırlık mağlubiyetin ardından açıklamalarda bulundu. Sahada rakiplerine oranla daha etkili bir oyun sergilediklerini belirten Güneş, buna rağmen istedikleri sonucu alamadıklarını ifade etti. Deneyimli çalıştırıcı, şampiyonluk yarışının henüz netleşmediğini vurguladı.",
       "kategori": "Spor"
     },
     {
@@ -1963,8 +1964,8 @@
       "yayin": "2016-11-03T15:24:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "Cumhurbaşkanı Erdoğan ve Devlet Bahçeli Beştepe'de bir araya geldi",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ile Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli, başkentte gerçekleştirdikleri görüşmeyi tamamladı. Yaklaşık bir saat süren toplantıda başkanlık sistemi ve idam cezası gibi gündemdeki önemli konular ele alındı.",
+      "baslik": "Cumhurbaşkanı Erdoğan ve Devlet Bahçeli arasında görüşme gerçekleşti",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ile Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli bir araya gelerek bir görüşme yaptı. Beştepe'de gerçekleşen ve yaklaşık bir saat süren bu toplantıda başkanlık sistemi ile idam cezası gibi gündemdeki konular ele alındı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
@@ -2084,14 +2085,13 @@
       },
       "konular": [
         "Emine Ülker Tarhan",
-        "Cumhuriyet Halk Partisi",
-        "Siyaset"
+        "Cumhuriyet Halk Partisi"
       ],
       "yayin": "2014-11-03T15:37:00+03:00",
       "puan": 9,
       "durum": "yazildi",
-      "baslik": "Emine Ülker Tarhan Cumhuriyet Halk Partisi'nden ayrılışını değerlendirdi",
-      "ozet": "Bağımsız Ankara Milletvekili Emine Ülker Tarhan, partisinden istifa etme kararının ardından açıklamalarda bulundu. Tarhan, benzer bir tıkanmışlık hissi taşıyan ancak sessiz kalmayı tercih eden birçok kişiyi geride bırakmak zorunda kaldığını ifade etti. Bu ayrılık kararının kendisi için zorlu bir süreç olduğunu belirten milletvekili, parti içindeki durumuna dair görüşlerini paylaştı.",
+      "baslik": "Emine Ülker Tarhan Cumhuriyet Halk Partisi'nden İstifasını Değerlendirdi",
+      "ozet": "Cumhuriyet Halk Partisi üyeliğinden ayrılan bağımsız Ankara Milletvekili Emine Ülker Tarhan, kararının gerekçelerine dair açıklamalarda bulundu. Tarhan, partideki genel gidişattan rahatsız olan ve benzer duyguları paylaşan ancak sessiz kalmayı tercih eden çok sayıda kişiyi geride bırakmanın üzüntüsünü yaşadığını ifade etti. Ayrılma sürecini kendi bakış açısıyla değerlendiren milletvekili, yaşanan tıkanıklık hissinin bu kararı almasında belirleyici olduğunu dile getirdi.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Emine_%C3%9Clker_Tarhan%2C_Anatolia_Party_-_Kocaeli_%2816%29_%28cropped%29.JPG/960px-Emine_%C3%9Clker_Tarhan%2C_Anatolia_Party_-_Kocaeli_%2816%29_%28cropped%29.JPG",
@@ -2121,13 +2121,13 @@
       "konular": [
         "Anayasa Mahkemesi (Türkiye)",
         "İbrahim Kaboğlu",
-        "2010 Türkiye anayasa değişikliği referandumu"
+        "Türkiye'de anayasa değişikliği"
       ],
       "yayin": "2013-11-03T11:51:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "Anayasa Hukuku Uzmanından Yüksek Mahkeme Değerlendirmesi",
-      "ozet": "Anayasa hukuku alanında çalışmalar yürüten Prof. Dr. İbrahim Kaboğlu, 2010 yılında gerçekleştirilen anayasa değişikliği referandumunun ardından Anayasa Mahkemesi'nin mevcut durumuna ilişkin eleştirilerde bulundu. Kaboğlu, mahkemenin işleyişinde yaşanan değişimleri ve gelinen noktayı değerlendirerek konu hakkındaki görüşlerini kamuoyuyla paylaştı.",
+      "baslik": "İbrahim Kaboğlu Anayasa Mahkemesi'nin Yapısını Değerlendirdi",
+      "ozet": "Anayasa hukuku alanında uzman olan Prof. Dr. İbrahim Kaboğlu, 2010 yılında gerçekleşen anayasa değişikliği referandumunun ardından Anayasa Mahkemesi'nin mevcut durumunu ele aldı. Kaboğlu, mahkemenin izlediği tutumu ve aldığı kararların niteliğini kapsamlı bir şekilde inceleyerek görüşlerini paylaştı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Constitutional_Court_of_Turkey.jpg/960px-Constitutional_Court_of_Turkey.jpg",
@@ -2156,13 +2156,14 @@
       },
       "konular": [
         "Aziz Yıldırım",
-        "Fenerbahçe (futbol takımı)"
+        "Fenerbahçe (futbol takımı)",
+        "Spor kulübü başkanlığı"
       ],
       "yayin": "2013-11-03T19:49:00+03:00",
       "puan": 7,
       "durum": "elendi",
-      "baslik": "Fenerbahçe Kulübünde Aziz Yıldırım Dönemi Yeniden Başladı",
-      "ozet": "Fenerbahçe tarafından düzenlenen olağanüstü genel kurul toplantısında başkanlık seçimi yapıldı. Rakibi Mehmet Ali Aydınlar ile girdiği yarışı kazanan Aziz Yıldırım, görevini sürdürmeye hak kazandı. On altı yıllık başkanlık süreci boyunca katıldığı on bir kongrenin tamamından zaferle ayrılan Yıldırım, bu seçimle birlikte karşısına rakip çıkan dördüncü kongresini de başarıyla tamamlamış oldu.",
+      "baslik": "Fenerbahçe Kulübü seçimlerinde Aziz Yıldırım yeniden başkan seçildi",
+      "ozet": "Fenerbahçe'nin gerçekleştirdiği olağanüstü genel kurul toplantısında başkanlık seçimi yapıldı. Rakibi Mehmet Ali Aydınlar'a karşı üstünlük sağlayan Aziz Yıldırım, görev süresindeki on birinci kongresinden de başarıyla ayrıldı. On altı yıllık idari geçmişinde yedi kez tek başına aday olan Yıldırım, karşısına rakip çıkarılan dört seçimden de zaferle çıktı.",
       "kategori": "Spor"
     },
     {
