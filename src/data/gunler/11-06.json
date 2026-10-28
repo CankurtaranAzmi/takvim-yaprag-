@@ -1066,7 +1066,7 @@
     "url": "https://tr.wikipedia.org/wiki/6_Kas%C4%B1m",
     "revid": 38196625
   },
-  "guncelleme": "2026-10-27T11:46:17.654Z",
+  "guncelleme": "2026-10-28T12:20:17.560Z",
   "haberler": [
     {
       "id": "2025-haber-2450515",
@@ -1079,10 +1079,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/vakiflar-kanunu-nda-degisiklik-ongoren-kanun-teklifinin-birinci-bolumu-tbmm-genel-kurulu-nda-kabul-edildi-2450515"
       },
-      "konular": [],
+      "konular": [
+        "Vakıflar Kanunu",
+        "Türkiye Büyük Millet Meclisi",
+        "Necmettin Çalışkan"
+      ],
       "yayin": "2025-11-06T22:27:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Vakıflar Kanunu teklifinin ilk bölümü mecliste onaylandı",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, vakıf mülkleri ile kültürel varlıkları ilgilendiren yasal düzenleme teklifinin on maddelik ilk kısmını oylayarak kabul etti. Görüşmeler sırasında söz alan Hatay Milletvekili Necmettin Çalışkan, teklif edilen maddelerin kamu kaynaklarının aktarılmasına yol açabileceği yönündeki eleştirilerini dile getirdi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2025-haber-2450424",
@@ -1095,10 +1102,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/akp-li-cumhurbaskani-erdogan-dan-chp-genel-baskani-ozgur-ozel-e-tazminat-davasi-2450424"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Özgür Özel",
+        "Cumhuriyet Halk Partisi"
+      ],
       "yayin": "2025-11-06T16:33:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhurbaşkanı Erdoğan'dan Özgür Özel'e manevi tazminat davası",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhuriyet Halk Partisi Genel Başkanı Özgür Özel hakkında hukuki süreç başlattı. Söz konusu dava, Özel'in Ümraniye'de gerçekleştirilen bir miting sırasında dile getirdiği ifadeler gerekçe gösterilerek açıldı. Erdoğan, bu açıklamalar nedeniyle 500 bin liralık manevi tazminat talebinde bulundu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2265639",
@@ -1111,10 +1125,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/bitcoine-abd-secimleri-etkisi-75-bin-dolari-asip-rekor-kirdi-2265639"
       },
-      "konular": [],
+      "konular": [
+        "Bitcoin",
+        "Donald Trump",
+        "Amerika Birleşik Devletleri başkanlık seçimi"
+      ],
       "yayin": "2024-11-06T09:06:00+03:00",
       "puan": 18,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Bitcoin fiyatı seçim sürecinde yeni zirvesine ulaştı",
+      "ozet": "Amerika Birleşik Devletleri'ndeki başkanlık seçimi sonuçları beklenirken kripto para piyasasında hareketlilik yaşandı. Donald Trump'ın seçimi kazanma ihtimalinin güçlenmesiyle birlikte Bitcoin değeri 75 bin dolar seviyesini geçerek tarihi bir rekora imza attı. Oy sayım işlemleri sürerken piyasalardaki bu yükseliş eğilimi dikkat çekti.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/500px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1200,
+        "orijinalGenislik": 1638,
+        "yazar": "Daniel Torok",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+        "aciklama": "Official Presidential Portrait of President Donald J. Trump in his second term",
+        "konu": "Donald Trump"
+      }
     },
     {
       "id": "2024-haber-2265724",
@@ -1127,10 +1161,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/emsal-olabilecek-karar-secimlerde-gorevli-avukatin-radar-cezasi-2265724"
       },
-      "konular": [],
+      "konular": [
+        "Pınarbaşı",
+        "Kayseri",
+        "Trafik cezası"
+      ],
       "yayin": "2024-11-06T11:21:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Seçim görevlisi avukatın trafik cezası mahkeme kararıyla iptal edildi",
+      "ozet": "Kayseri Pınarbaşı ilçesinde gerçekleştirilen yerel seçimlerde görevli olan avukat Niyazi Ünalmışa kesilen hız cezası yargıya taşındı. Mahkeme, söz konusu kişinin seçim sürecindeki görevine yetişmek amacıyla hız sınırını aştığını değerlendirdi. Bu gerekçeyle trafik idari para cezası iptal edilerek emsal niteliğinde bir karara imza atıldı.",
+      "kategori": "Toplum"
     },
     {
       "id": "2023-haber-2137874",
@@ -1143,10 +1184,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/euro-tlde-yeni-zirve-dolar-ve-euro-ne-kadar-oldu-6-kasim-2023-doviz-2137874"
       },
-      "konular": [],
+      "konular": [
+        "Döviz kuru",
+        "Euro",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2023-11-06T09:53:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Döviz piyasalarında Euro değerinde yeni rekor seviye görüldü",
+      "ozet": "Dolar ve Euro kurları haftanın ilk işlem gününde yukarı yönlü hareketliliğini sürdürdü. Euro, sabah saatlerinde 30,71 seviyesine ulaşarak kendi rekorunu yeniledi. Yatırımcılar ve piyasa uzmanları gün içerisinde açıklanacak ticaret verilerini, Hazine ihalelerini ve diplomatik temasları yakından izlemeye başladı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2138030",
@@ -1159,10 +1207,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/chpde-yeni-parti-meclisinin-ilk-toplantisinin-tarihi-belli-oldu-2138030"
       },
-      "konular": [],
+      "konular": [
+        "Cumhuriyet Halk Partisi",
+        "Parti Meclisi"
+      ],
       "yayin": "2023-11-06T15:36:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhuriyet Halk Partisi Parti Meclisi ilk toplantısını gerçekleştirecek",
+      "ozet": "Otuz sekizinci Olağan Kurultay sürecini geride bırakan Cumhuriyet Halk Partisi, yeni seçilen Parti Meclisi üyelerini bir araya getirme kararı aldı. Yapılan resmi duyuruya göre, kurulun ilk toplantısı on bir Kasım Cumartesi günü düzenlenecek. Söz konusu toplantıda Merkez Yönetim Kurulu üyelerinin belirlenmesi bekleniyor.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-2000254",
@@ -1175,10 +1229,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/abdde-19-milyar-dolarlik-loto-ikramiyesi-dunya-rekoru-kirdi-2000254"
       },
-      "konular": [],
+      "konular": [
+        "Powerball",
+        "Piyango",
+        "Amerika Birleşik Devletleri"
+      ],
       "yayin": "2022-11-06T20:50:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Powerball lotosunda ulaşılan ikramiye miktarı dünya rekoru kırdı",
+      "ozet": "Amerika Birleşik Devletleri genelinde düzenlenen Powerball adlı şans oyununda büyük ödül tutarı 1,9 milyar dolara yükseldi. Bu rakam, tarihteki en yüksek ikramiye bedeli olarak kayıtlara geçti ve dünya genelinde bir rekorun kırılmasını sağladı.",
+      "kategori": "Toplum"
     },
     {
       "id": "2021-haber-1882490",
@@ -1191,10 +1252,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/sgk-aciklarinda-rekor-kilicdaroglu-degil-erdogan-batirdi-1882490"
       },
-      "konular": [],
+      "konular": [
+        "Sosyal Güvenlik Kurumu",
+        "Ünal Demirtaş",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2021-11-06T10:16:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Sosyal Güvenlik Kurumu bütçesindeki açıklar üzerine değerlendirmeler yapıldı",
+      "ozet": "TBMM Sağlık, Aile, Çalışma ve Sosyal İşler Komisyonu bünyesindeki Cumhuriyet Halk Partisi grubu sözcüsü Ünal Demirtaş, Sosyal Güvenlik Kurumu mali yapısına dair verileri kamuoyuyla paylaştı. Kurumun bütçesinde meydana gelen artış gösteren açıklar hakkında açıklamalarda bulunan Demirtaş, mevcut rakamlar üzerinden çeşitli eleştirilerde bulundu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2021-haber-1882457",
@@ -1207,10 +1275,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/5inci-yargi-paketi-tbmm-adalet-komisyonunda-kabul-edildi-1882457"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Adalet Komisyonu",
+        "Hukuk"
+      ],
       "yayin": "2021-11-06T01:14:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Beşinci Yargı Paketi Adalet Komisyonu Tarafından Onaylandı",
+      "ozet": "Elli dört maddelik kanun teklifi, Türkiye Büyük Millet Meclisi Adalet Komisyonu üyeleri tarafından görüşülerek kabul edildi. Düzenleme içerisinde icra yoluyla çocuk teslimi uygulamasına yönelik değişiklikler de yer aldı. Toplamda sekiz farklı maddede yenilik öngören tasarı, yasalaşma sürecinin bir aşamasını daha geride bıraktı.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2020-haber-1788849",
@@ -1223,10 +1299,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpli-torun-meclisin-depreme-odaklanmasi-ve-ortak-calismasi-gerektigini-soyledi-1788849"
       },
-      "konular": [],
+      "konular": [
+        "Deprem",
+        "Cumhuriyet Halk Partisi",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2020-11-06T06:00:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "CHP deprem önlemleri için meclis çatısı altında iş birliği çağrısı yaptı",
+      "ozet": "Cumhuriyet Halk Partisi Genel Başkan Yardımcısı, deprem tedbirleri konusunda merkezi yönetimin harekete geçmesi gerektiğini vurguladı. Hükümetin adım atmaması durumunda yerel yönetimlerin imkanlarının kısıtlı kalacağını belirten yetkili, bu konuda iktidar partisiyle görüşme gerçekleştireceklerini ifade etti. Ayrıca parti, daha önce hazırlanan deprem raporunu yeniden meclis gündemine taşıyacaklarını duyurdu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2020-haber-1789067",
@@ -1239,10 +1322,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dolar-ve-euro-tl-karsisinda-yeniden-rekor-kirdi-kurdaki-yukselis-surecek-mi-1789067"
       },
-      "konular": [],
+      "konular": [
+        "Türk lirası",
+        "Döviz kuru",
+        "Ekonomi"
+      ],
       "yayin": "2020-11-06T16:26:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Dolar ve euro Türk lirası karşısında yeni zirvelere ulaştı",
+      "ozet": "Türk lirası Amerikan doları ve euro karşısında değer kaybetmeye devam etti. Amerika Birleşik Devletleri seçim sonuçlarının beklendiği süreçte döviz kurları yeni rekor seviyelerini gördü.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2019-haber-1700422",
@@ -1255,10 +1345,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpde-imamogluna-kim-kazandirdi-tartismasi-1700422"
       },
-      "konular": [],
+      "konular": [
+        "Ekrem İmamoğlu",
+        "Cumhuriyet Halk Partisi",
+        "İstanbul"
+      ],
       "yayin": "2019-11-06T12:35:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhuriyet Halk Partisi içinde seçim başarısı üzerine değerlendirmeler",
+      "ozet": "İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun seçim zaferi, parti içinde farklı görüşlerin dile getirilmesine yol açtı. Seçim kampanyasını yöneten Necati Doğru, elde edilen sonucun yürütülen çalışmaların bir neticesi olduğunu belirtti. İstanbul İl Başkanı Canan Kaftancıoğlu ise süreçle ilgili kendi perspektifinden açıklamalarda bulundu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2019-haber-1700446",
@@ -1271,10 +1368,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpli-kaboglu-bogazici-kanunu-anayasaya-aykiri-1700446"
       },
-      "konular": [],
+      "konular": [
+        "Boğaziçi Kanunu",
+        "İbrahim Özden Kaboğlu",
+        "İstanbul Büyükşehir Belediyesi"
+      ],
       "yayin": "2019-11-06T14:10:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Boğaziçi Kanunu'ndaki Değişiklik Teklifi Tartışma Yarattı",
+      "ozet": "İstanbul Milletvekili İbrahim Özden Kaboğlu, Boğaziçi ile ilgili yasal düzenleme teklifinin Anayasa hükümleriyle çeliştiğini ifade etti. Söz konusu değişikliğin yerel yönetimin yetkilerini kısıtladığını belirten Kaboğlu, bu durumun İstanbul Büyükşehir Belediyesi üzerinde bir kayyum uygulaması anlamına geldiğini savundu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2018-haber-1133294",
@@ -1287,10 +1391,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tbmmde-down-sendromu-ve-otizmin-arastirilmasi-icin-komisyon-kuruldu-1133294"
       },
-      "konular": [],
+      "konular": [
+        "Down sendromu",
+        "Otizm",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2018-11-06T20:03:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Mecliste gelişimsel bozuklukları incelemek üzere komisyon oluşturuldu",
+      "ozet": "Türkiye Büyük Millet Meclisi bünyesinde otizm, down sendromu ve benzeri gelişimsel farklılıkların nedenlerini ve çözüm yollarını belirlemek amacıyla özel bir araştırma komisyonu kurulmasına karar verildi. Bu çalışma ile söz konusu durumların toplumdaki etkilerinin kapsamlı bir şekilde incelenmesi ve gerekli adımların atılması hedeflendi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/21_trisomy_-_Down_syndrome.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/21_trisomy_-_Down_syndrome.png",
+        "genislik": 718,
+        "yukseklik": 444,
+        "orijinalGenislik": 718,
+        "yazar": "U.S. Department of Energy Human Genome Program.",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:21_trisomy_-_Down_syndrome.png",
+        "aciklama": "Karyotype of 21 trisomy (Down syndrome)",
+        "konu": "Down sendromu"
+      }
     },
     {
       "id": "2018-haber-1132615",
@@ -1303,10 +1427,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/babasina-dunya-sampiyonlugu-hediye-etmek-istiyor-1132615"
       },
-      "konular": [],
+      "konular": [
+        "Boks",
+        "Rabia Oruçoğlu"
+      ],
       "yayin": "2018-11-06T11:36:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Milli boksör Rabia Oruçoğlu dünya şampiyonluğu için hazırlanıyor",
+      "ozet": "Türkiye şampiyonasında üç kez birincilik elde eden milli boksör Rabia Oruçoğlu, kariyerine yeni bir başarı eklemek için çalışmalarına devam etti. Sporcu, babasının en büyük arzusu olan dünya şampiyonluğu unvanını kazanmak amacıyla antrenmanlarını sürdürdü.",
+      "kategori": "Spor"
     },
     {
       "id": "2017-haber-860429",
@@ -1319,10 +1449,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/otomotiv-ihracat-rekoru-kirdi-860429"
       },
-      "konular": [],
+      "konular": [
+        "Otomotiv endüstrisi",
+        "İhracat",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2017-11-06T03:02:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Otomotiv sektöründe ihracat hedefine doğru ilerleyiş sürüyor",
+      "ozet": "Ülke ekonomisinin öncü alanlarından biri olan otomotiv sektörü, dış satım faaliyetlerinde önemli bir ivme yakaladı. Sektör temsilcileri, yıl sonu için belirlenen yirmi yedi milyar dolarlık ihracat hedefine ulaşmak adına çalışmalarını kararlılıkla sürdürdü.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2017-haber-860874",
@@ -1335,10 +1472,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fenerbahceli-oyuncular-milli-takima-katilmama-karari-aldi-860874"
       },
-      "konular": [],
+      "konular": [
+        "Fenerbahçe (basketbol takımı)",
+        "FIBA Basketbol Dünya Kupası"
+      ],
       "yayin": "2017-11-06T17:17:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Fenerbahçe Basketbol Takımı Oyuncularından Milli Takım Kararı",
+      "ozet": "Fenerbahçe Doğuş bünyesinde forma giyen basketbolcular, yoğun Euroleague maç takvimini gerekçe göstererek bir açıklama yayınladı. Sporcular, 2019 Dünya Kupası Elemeleri sürecinde milli takım kadrosunda yer almayacaklarını kamuoyuna duyurdu.",
+      "kategori": "Spor"
     },
     {
       "id": "2016-haber-626855",
@@ -1351,10 +1494,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-yildirimdan-kilicdarogluna-demokrasiye-birlikte-sahip-cikacagiz-ama-626855"
       },
-      "konular": [],
+      "konular": [
+        "Binali Yıldırım",
+        "Kemal Kılıçdaroğlu",
+        "Türkiye siyaseti"
+      ],
       "yayin": "2016-11-06T13:35:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Başbakan Yıldırım'dan Demokrasi Vurgulu Açıklama",
+      "ozet": "Başbakan Binali Yıldırım, demokrasiye sahip çıkma konusunda ortak bir duruş sergilenmesi gerektiğini ifade etti. Siyasi süreçlerin işleyişi ve demokratik değerlerin korunması üzerine değerlendirmelerde bulunan Yıldırım, bu konuda atılacak adımların önemine dikkat çekti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2016-haber-626934",
@@ -1367,10 +1517,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ipek-soylu-ciftlerde-sampiyon-626934"
       },
-      "konular": [],
+      "konular": [
+        "İpek Soylu",
+        "WTA Elite Trophy",
+        "Tenis"
+      ],
       "yayin": "2016-11-06T17:23:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İpek Soylu Çin'deki Tenis Turnuvasında Şampiyonluğa Ulaştı",
+      "ozet": "Milli tenisçi İpek Soylu, Çin'in Zhuhai şehrinde düzenlenen WTA Elite Trophy organizasyonunda çiftler kategorisinde birincilik elde etti. Turnuvada ev sahibi ülkeden Xu Yifan ile birlikte mücadele eden Soylu, başarılı bir performans sergileyerek şampiyonluk kupasını kazandı.",
+      "kategori": "Spor"
     },
     {
       "id": "2015-haber-408821",
@@ -1383,10 +1540,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/piyasada-secim-havasi-cabuk-sondu-408821"
       },
-      "konular": [],
+      "konular": [
+        "Dolar/TL",
+        "Federal Rezerv",
+        "Ekonomi"
+      ],
       "yayin": "2015-11-06T23:05:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Dolar kuru ABD kaynaklı verilerin ardından yükselişe geçti",
+      "ozet": "Amerika Birleşik Devletleri tarafından açıklanan istihdam verileri piyasalarda etkili oldu. Fed faiz artırımına gideceği yönündeki beklentilerle birlikte dolar Türk lirası karşısında değer kazandı. Döviz kuru bu hareketlilikle iki nokta doksan iki seviyesini aşarak seçim öncesindeki dönemde bulunduğu noktaya geri döndü.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/960px-Luchtfoto_van_Lower_Manhattan.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/500px-Luchtfoto_van_Lower_Manhattan.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 5616,
+        "yazar": "Daniele Pieroni",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Luchtfoto_van_Lower_Manhattan.jpg",
+        "aciklama": "Lower Manhattan gezien vanuit het zuidwesten.",
+        "konu": "Ekonomi"
+      }
     },
     {
       "id": "2015-haber-408651",
@@ -1399,10 +1576,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sirri-sakik-hakkinda-dava-acildi-408651"
       },
-      "konular": [],
+      "konular": [
+        "Sırrı Sakık",
+        "Ağrı",
+        "Belediye başkanı"
+      ],
       "yayin": "2015-11-06T19:29:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ağrı Belediye Başkanı Sırrı Sakık Hakkında Yasal Süreç Başlatıldı",
+      "ozet": "Ağrı Belediye Başkanı Sırrı Sakık ile ilgili hukuki bir dava süreci başlatıldı. Söz konusu gelişme kapsamında belediye başkanına yönelik yargısal işlemler devreye girdi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2014-haber-137805",
@@ -1415,10 +1599,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdoganin-turklere-maliyeti-bir-milyar-dolar-137805"
       },
-      "konular": [],
+      "konular": [
+        "Cumhurbaşkanlığı Külliyesi",
+        "Recep Tayyip Erdoğan",
+        "Die Welt"
+      ],
       "yayin": "2014-11-06T08:49:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Alman basınında Cumhurbaşkanlığı Sarayı'nın maliyeti tartışıldı",
+      "ozet": "Almanya merkezli Die Welt gazetesi, kamuoyunda Ak Saray olarak bilinen yeni Cumhurbaşkanlığı yerleşkesinin inşaat giderlerini sayfalarına taşıdı. Gazete, söz konusu yapının maliyetinin bir milyar dolar seviyesinde olduğunu öne sürerek konuyu okuyucularına aktardı. Bu harcama miktarı, uluslararası basında geniş yer bulmaya devam etti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Presidential_Complex_Ankara.jpg/960px-Presidential_Complex_Ankara.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Presidential_Complex_Ankara.jpg/500px-Presidential_Complex_Ankara.jpg",
+        "genislik": 960,
+        "yukseklik": 718,
+        "orijinalGenislik": 1598,
+        "yazar": "Ex13",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Presidential_Complex_Ankara.jpg",
+        "aciklama": "Presidential Complex, Ankara",
+        "konu": "Cumhurbaşkanlığı Külliyesi"
+      }
     },
     {
       "id": "2014-haber-137757",
@@ -1431,10 +1635,15 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-liginde-gecenin-sonuclari-137757"
       },
-      "konular": [],
+      "konular": [
+        "UEFA Şampiyonlar Ligi"
+      ],
       "yayin": "2014-11-06T00:01:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Şampiyonlar Ligi grup aşamasında dördüncü hafta karşılaşmaları sona erdi",
+      "ozet": "Avrupa futbolunun kulüpler düzeyindeki en prestijli organizasyonu olan Şampiyonlar Ligi'nde grup maçları devam etti. E, F, G ve H gruplarında yer alan takımların sahaya çıktığı dördüncü hafta mücadeleleri tamamlanarak bu gruptaki maçlar nihayete erdi.",
+      "kategori": "Spor"
     },
     {
       "id": "2013-haber-6715",
@@ -1447,10 +1656,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/butce-gorusmeleri-tbmmden-canli-yayin-6715"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Bütçe"
+      ],
       "yayin": "2013-11-06T13:26:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türkiye Büyük Millet Meclisinde Bütçe Görüşmeleri Başladı",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, bütçe görüşmelerini gerçekleştirmek üzere toplandı. İkinci yoklamanın ardından gerekli çoğunluğun sağlanmasıyla birlikte oturum resmen açıldı ve gündemdeki konuların ele alınmasına geçildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2013-haber-6711",
@@ -1463,10 +1678,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/vali-cos-basbakan-talimat-verir-ben-yaparim-6711"
       },
-      "konular": [],
+      "konular": [
+        "Hüseyin Avni Coş",
+        "Recep Tayyip Erdoğan",
+        "Adana"
+      ],
       "yayin": "2013-11-06T12:51:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Adana Valisi Coş'tan öğrenci evleri açıklaması",
+      "ozet": "Adana Valisi Hüseyin Avni Coş, Başbakan Recep Tayyip Erdoğan'ın öğrenci evlerine yönelik ifadelerini değerlendirdi. Vali Coş, Başbakan tarafından dile getirilen görüşlerin bir talimat niteliği taşıdığını ve bu doğrultuda hareket edileceğini belirtti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2012-haber-381430",
@@ -1479,10 +1701,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yerel-secimler-zamaninda-olacak-381430"
       },
-      "konular": [],
+      "konular": [
+        "2014 Türkiye yerel seçimleri",
+        "Recep Tayyip Erdoğan"
+      ],
       "yayin": "2012-11-06T10:13:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Yerel seçimlerin 2014 yılı Mart ayında yapılması kararlaştırıldı",
+      "ozet": "Dönemin Başbakanı Recep Tayyip Erdoğan, yerel seçimlerin planlanan takvime uygun şekilde gerçekleştirileceğini duyurdu. Seçimlerin 2014 yılının Mart ayında yapılacağını belirten Erdoğan, sürecin zamanında işleyeceğini ifade etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2012-haber-381546",
@@ -1495,10 +1723,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakanlikta-ates-acan-sahis-serbest-381546"
       },
-      "konular": [],
+      "konular": [
+        "Başbakanlık",
+        "Ankara"
+      ],
       "yayin": "2012-11-06T15:46:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Başbakanlık binasına ateş açan kişi serbest bırakıldı",
+      "ozet": "Başbakanlık Merkez Binası girişindeki güvenlik noktasında kuru sıkı tabanca ile ateş açan Nuri Başkapan hakkında hukuki süreç işledi. Ankara Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında şüpheli, tutuksuz yargılanmak üzere serbest bırakıldı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2011-haber-296270",
@@ -1511,10 +1745,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yunanistan-erken-secime-gidiyor-296270"
       },
-      "konular": [],
+      "konular": [
+        "Yunanistan'da ekonomik kriz",
+        "Yorgo Papandreu",
+        "Andonis Samaras"
+      ],
       "yayin": "2011-11-06T21:11:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Yunanistan'da erken seçim kararı alındı",
+      "ozet": "Yunanistan Başbakanı Yorgo Papandreu ile ana muhalefet lideri Andonis Samaras bir araya gelerek mevcut hükümetin istifası konusunda uzlaştı. İki lider, ülkeyi erken seçime taşıyacak geçici bir hükümetin kurulması için gerekli mutabakatı sağladı. Bu gelişmeyle birlikte Yunanistan'da yeni bir siyasi süreç başlatılmış oldu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Papandreou_handover_cropped.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Papandreou_handover_cropped.jpg",
+        "genislik": 404,
+        "yukseklik": 523,
+        "orijinalGenislik": 404,
+        "yazar": "Papandreou_Papademos_-_Ceremony_for_the_official_handover_-_11_November_2011_(2).jpg: Λουκάς Παπαδήμος Πρωθυπουργός της Ελλάδας derivative w",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Papandreou_handover_cropped.jpg",
+        "aciklama": "Τελετή παράδοσης-παραλαβής στο Μέγαρο Μαξίμου Μέγαρο Μαξίμου 11 Νοεμβρίου, 2011",
+        "konu": "Yorgo Papandreu"
+      }
     },
     {
       "id": "2011-haber-296266",
@@ -1527,10 +1781,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/en-kritik-isim-atandi-296266"
       },
-      "konular": [],
+      "konular": [
+        "Ergenekon davaları",
+        "Balyoz davası",
+        "KCK"
+      ],
       "yayin": "2011-11-06T21:01:00+03:00",
       "puan": 4,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Önemli soruşturmaları yürüten savcı Hakkari'ye görevlendirildi",
+      "ozet": "Ergenekon, Balyoz ve KCK gibi geniş kapsamlı soruşturma süreçlerini yöneten savcı, yeni bir atama kararıyla Hakkari'ye gönderildi. Söz konusu görev değişikliği, yargı çevrelerinde dikkat çeken bir gelişme olarak kayıtlara geçti.",
+      "kategori": "Siyaset",
+      "gorsel": null
     }
   ],
   "haberYillari": [

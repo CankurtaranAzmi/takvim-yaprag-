@@ -109,51 +109,24 @@
         "Britanya İmparatorluğu",
         "Hicaz-Yemen Cephesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Hicaz-Yemen Cephesi'nde Çatışmalar Başladı",
+      "ozet": "I. Dünya Savaşı'nın geniş bir coğrafyaya yayılan cephelerinden biri olan Hicaz-Yemen Cephesi, 10 Kasım 1914 tarihinde Osmanlı İmparatorluğu ile Britanya İmparatorluğu arasında başlayan çatışmalarla açıldı. Bu cephe, Osmanlı Devleti'nin kutsal toprakları koruma çabası ile Britanya'nın bölgedeki sömürge yollarını ve stratejik çıkarlarını güvence altına alma hedefi arasındaki mücadelenin bir yansımasıydı. Özellikle Kızıldeniz hattı ve Aden Körfezi çevresinde yoğunlaşan bu çatışmalar, savaşın Orta Doğu'daki seyrini etkileyen önemli bir unsur haline geldi.\n\nBölgedeki askeri hareketlilik, Osmanlı İmparatorluğu'nun Hicaz bölgesindeki varlığını sürdürme ve İngilizlerin bölgedeki nüfuzunu kırma stratejisine dayanıyordu. Britanya İmparatorluğu ise küresel sömürge ağını korumak adına bölgedeki askeri varlığını güçlendirdi. Hicaz-Yemen Cephesi, savaşın diğer büyük cephelerine kıyasla daha izole bir coğrafyada gerçekleşse de, lojistik zorluklar ve çöl ikliminin getirdiği ağır şartlar altında uzun süren bir yıpratma savaşına dönüştü. Bu cephedeki mücadele, Osmanlı Devleti'nin imparatorluğun güney sınırlarını savunma kararlılığını ve bölgedeki jeopolitik dengelerin ne kadar hassas olduğunu gözler önüne serdi.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
-        "genislik": 960,
-        "yukseklik": 974,
-        "orijinalGenislik": 1300,
-        "yazar": "User:Hohum",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/HAC_guns_at_Sheik_Othman.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/HAC_guns_at_Sheik_Othman.jpg",
+        "genislik": 450,
+        "yukseklik": 258,
+        "orijinalGenislik": 450,
+        "yazar": "unknown. Assumed British Army",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:WWImontage.jpg",
-        "aciklama": "Montage for WWI article. Top: Trenches - Image:The_badly_shelled_main_road_to_Bapaume.jpg (Trenches on the Western Front) Left Upper: Image:AlbatDIII.jpg (German Albatros D.III biplane fighters of Jas",
-        "konu": "I. Dünya Savaşı"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:HAC_guns_at_Sheik_Othman.jpg",
+        "aciklama": "B Battery, Honourable Artillery Company, at Sheik Othman, Aden. The gun is a QF 15 pounder.",
+        "konu": "Hicaz-Yemen Cephesi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
-          "genislik": 960,
-          "yukseklik": 974,
-          "orijinalGenislik": 1300,
-          "yazar": "User:Hohum",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:WWImontage.jpg",
-          "aciklama": "Montage for WWI article. Top: Trenches - Image:The_badly_shelled_main_road_to_Bapaume.jpg (Trenches on the Western Front) Left Upper: Image:AlbatDIII.jpg (German Albatros D.III biplane fighters of Jas",
-          "konu": "I. Dünya Savaşı"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/HAC_guns_at_Sheik_Othman.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/HAC_guns_at_Sheik_Othman.jpg",
-          "genislik": 450,
-          "yukseklik": 258,
-          "orijinalGenislik": 450,
-          "yazar": "unknown. Assumed British Army",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:HAC_guns_at_Sheik_Othman.jpg",
-          "aciklama": "B Battery, Honourable Artillery Company, at Sheik Othman, Aden. The gun is a QF 15 pounder.",
-          "konu": "Hicaz-Yemen Cephesi"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1918-darulbedayiye-ilk-kiz-ogrenciler-alindi-ogrencilerin-adlari",
@@ -216,10 +189,10 @@
       "konular": [
         "VI. Mehmet Vahdettin"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Son Osmanlı Padişahı Vahdettin'in Son Selamlık Töreni",
+      "ozet": "Osmanlı İmparatorluğu'nun 36. ve son padişahı olan VI. Mehmet Vahdettin, 10 Kasım 1922 tarihinde geleneksel Cuma Selamlığı törenine katılarak halkın karşısına çıktı. Bu tören, imparatorluğun yüzyıllardır süregelen köklü geleneklerinden biri olmasının yanı sıra, saltanatın fiilen sona ermesine çok kısa bir süre kala gerçekleşmesi bakımından tarihi bir sembolizm taşımaktadır. İstanbul'un işgal altında olduğu ve Ankara'da Büyük Millet Meclisi'nin yönetimi devraldığı bu kritik süreçte, padişahın gerçekleştirdiği bu son tören, Osmanlı hanedanının başkentteki varlığının son demlerini temsil ediyordu.\n\nBirinci Dünya Savaşı'nın ardından gelen işgal yılları ve Anadolu'da yükselen Milli Mücadele hareketi, Osmanlı İmparatorluğu'nun siyasi yapısını kökten değiştirmişti. İstanbul'daki merkezi otoritenin zayıfladığı ve Ankara'daki yeni meclisin ülkenin kaderini tayin etmeye başladığı bu dönemde, saltanatın kaldırılmasına giden süreç hızlanmıştı. 1 Kasım 1922'de saltanatın kaldırılmasıyla birlikte padişahlık makamı hukuki olarak sona ermiş olsa da, Vahdettin'in bu törene katılımı, imparatorluk geleneğinin son bir yansıması olarak tarihe geçti. Bu olaydan kısa bir süre sonra Vahdettin İstanbul'dan ayrılacak ve Osmanlı İmparatorluğu resmen tarihe karışacaktır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Sultan_Mehmed_VI_of_the_Ottoman_Empire.jpg/960px-Sultan_Mehmed_VI_of_the_Ottoman_Empire.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Sultan_Mehmed_VI_of_the_Ottoman_Empire.jpg/500px-Sultan_Mehmed_VI_of_the_Ottoman_Empire.jpg",
@@ -232,7 +205,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Sultan_Mehmed_VI_of_the_Ottoman_Empire.jpg",
         "aciklama": "36th and last Sultan of the Ottoman Empire, also 115 th Caliph of Islam; Mehmed VI.",
         "konu": "VI. Mehmet Vahdettin"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1922-kirklarelinin-kurtulusu",
@@ -297,10 +271,10 @@
         "Dolmabahçe Sarayı",
         "ulusal yas"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türkiye Cumhuriyeti'nin Kurucusu Mustafa Kemal Atatürk'ün Vefatı",
+      "ozet": "Türk Kurtuluş Savaşı'nın başkomutanı ve modern Türkiye'nin mimarı Mustafa Kemal Atatürk, 57 yaşında İstanbul'da vefat etti. Ölümü, genç cumhuriyetin tarihinde bir dönüm noktası olarak kabul edilir. Vefatının ardından Türkiye genelinde ulusal yas ilan edilmiş, halk derin bir üzüntü yaşamıştır. Atatürk, sadece bir asker ve devlet adamı olarak değil, aynı zamanda gerçekleştirdiği köklü reformlarla ülkeyi çağdaş medeniyetler seviyesine taşıyan bir lider olarak tarihe geçmiştir.\n\nAtatürk, Osmanlı İmparatorluğu'nun yıkılış sürecinde üstlendiği askerî görevlerin ardından Anadolu'da başlattığı bağımsızlık mücadelesiyle Türk milletinin kaderini değiştirmiştir. 1923 yılında Türkiye Cumhuriyeti'ni kurarak laik, demokratik ve modern bir ulus devletin temellerini atmıştır. Vefatı, Türkiye'nin siyasi ve toplumsal yapısında büyük bir boşluk yaratmış olsa da, onun kurduğu cumhuriyet ve benimsediği ilkeler, Türkiye'nin geleceğini şekillendiren temel değerler olarak varlığını sürdürmüştür.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -314,34 +288,7 @@
         "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
         "konu": "Mustafa Kemal Atatürk"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-          "genislik": 732,
-          "yukseklik": 987,
-          "orijinalGenislik": 732,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
-          "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
-          "konu": "Mustafa Kemal Atatürk"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Dolmabahce_Istanbul_Turkey.jpg/960px-Dolmabahce_Istanbul_Turkey.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Dolmabahce_Istanbul_Turkey.jpg/500px-Dolmabahce_Istanbul_Turkey.jpg",
-          "genislik": 960,
-          "yukseklik": 525,
-          "orijinalGenislik": 4365,
-          "yazar": "flowcomm",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Dolmabahce_Istanbul_Turkey.jpg",
-          "aciklama": "Dolmabahçe Palace seen from Bosphorus in Istanbul, Turkey",
-          "konu": "Dolmabahçe Sarayı"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1940-walt-disney-fbiin-los-angeles-ofisi-icin",
@@ -461,51 +408,24 @@
         "Celâl Bayar",
         "Anıtkabir"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Atatürk'ün Naaşının Anıtkabir'e Nakli",
+      "ozet": "Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün 1938 yılındaki vefatının ardından naaşı, Ankara'da inşa edilecek anıt mezar tamamlanana kadar geçici olarak Ankara Etnografya Müzesi'nde muhafaza edilmişti. Rasattepe'de yapımına 1944 yılında başlanan ve mimarları Emin Onat ile Orhan Arda olan Anıtkabir'in inşası 1953 yılında tamamlandı. Bu gelişme üzerine, Atatürk'ün vefatının 15. yıl dönümünde, devlet erkanı ve halkın yoğun katılımıyla tarihi bir nakil töreni gerçekleştirildi.\n\nCumhurbaşkanı Celâl Bayar'ın da hazır bulunduğu törenle, Atatürk'ün naaşı Etnografya Müzesi'nden alınarak büyük bir kortej eşliğinde Anıtkabir'e taşındı. Bu olay, Türkiye Cumhuriyeti tarihinde sembolik bir öneme sahip olup, Atatürk'ün mirasının ve devletin sürekliliğinin bir nişanesi olarak kabul edilir. Anıtkabir, o günden bu yana hem bir anıt mezar hem de Türk milletinin bağımsızlık mücadelesinin merkezi olarak varlığını sürdürmektedir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Celal_Bayar_%28Cropped%29.jpg/960px-Celal_Bayar_%28Cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Celal_Bayar_%28Cropped%29.jpg/500px-Celal_Bayar_%28Cropped%29.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/960px-Ataturk%27s_Mausoleum_%286225341313%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/500px-Ataturk%27s_Mausoleum_%286225341313%29.jpg",
         "genislik": 960,
-        "yukseklik": 1275,
-        "orijinalGenislik": 1031,
-        "yazar": "Türkiye Büyük Millet Meclisi Arşivi (TBMM)",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Celal_Bayar_(Cropped).jpg",
-        "aciklama": "Mahmut Celalettin Bayar (1883–1986) was a former Member of Turkish Parliament (TBMM) and the 3’rd President of the Republic of Turkey",
-        "konu": "Celâl Bayar"
+        "yukseklik": 640,
+        "orijinalGenislik": 5184,
+        "yazar": "William Neuheisel from DC, US",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk%27s_Mausoleum_(6225341313).jpg",
+        "aciklama": "Exterior of the mausoleum building of Anıtkabir complex",
+        "konu": "Anıtkabir"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Celal_Bayar_%28Cropped%29.jpg/960px-Celal_Bayar_%28Cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Celal_Bayar_%28Cropped%29.jpg/500px-Celal_Bayar_%28Cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1275,
-          "orijinalGenislik": 1031,
-          "yazar": "Türkiye Büyük Millet Meclisi Arşivi (TBMM)",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Celal_Bayar_(Cropped).jpg",
-          "aciklama": "Mahmut Celalettin Bayar (1883–1986) was a former Member of Turkish Parliament (TBMM) and the 3’rd President of the Republic of Turkey",
-          "konu": "Celâl Bayar"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/960px-Ataturk%27s_Mausoleum_%286225341313%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/500px-Ataturk%27s_Mausoleum_%286225341313%29.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 5184,
-          "yazar": "William Neuheisel from DC, US",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk%27s_Mausoleum_(6225341313).jpg",
-          "aciklama": "Exterior of the mausoleum building of Anıtkabir complex",
-          "konu": "Anıtkabir"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1961-stalingradin-ismi-volgagrad-olarak-degistirildi",
@@ -556,10 +476,10 @@
         "Sovyetler Birliği",
         "Türkiye Radyo Televizyon Kurumu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "TRT'de Türkiye'nin Kalbi Ankara Belgeseline Sansür",
+      "ozet": "Türkiye Cumhuriyeti'nin 10. kuruluş yıl dönümü anısına Atatürk'ün özel isteğiyle 1934 yılında Sovyetler Birliği'ne hazırlatılan Türkiye'nin Kalbi Ankara adlı belgesel, 10 Kasım 1969 tarihinde TRT ekranlarında izleyiciyle buluştu. Ancak belgeselin gösterimi sırasında, yapımın komünizm propagandası içerdiği yönündeki iddialar ve gelen tepkiler üzerine yayın apar topar kesildi. Bu olay, dönemin Türkiye'sindeki siyasi atmosferin ve Soğuk Savaş etkilerinin medya üzerindeki yansımalarını gözler önüne seren önemli bir örnek olarak tarihe geçti.\n\nSergey Yutkeviç tarafından yönetilen ve Türk Kurtuluş Savaşı dönemindeki Türkiye-Sovyetler Birliği ilişkilerine de değinen bu belgesel, aslında genç cumhuriyetin modernleşme çabalarını belgeleyen tarihi bir arşiv niteliği taşıyordu. Buna rağmen, yapımın Sovyet menşeli olması ve o dönemdeki ideolojik kutuplaşmalar, belgeselin içeriğinden ziyade kökeninin tartışılmasına neden oldu. Yayın kesintisi, devlet televizyonu üzerindeki ideolojik denetim mekanizmalarının ve toplumsal hassasiyetlerin o yıllarda ne denli keskin olduğunu gösteren sembolik bir vaka olarak kabul edilmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Serdtse_Turtsii_%281934%29.webm/330px--Serdtse_Turtsii_%281934%29.webm.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Serdtse_Turtsii_%281934%29.webm/330px--Serdtse_Turtsii_%281934%29.webm.jpg",
@@ -572,7 +492,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Serdtse_Turtsii_(1934).webm",
         "aciklama": "Sergey Yutkeviç ve Lev Arnştam tarafından 1934 yılında yapılmış filmin sansürsüz tam hâlidir.",
         "konu": "Türkiye'nin Kalbi Ankara"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1970-sovyetler-birligine-ait-ay-araci-lunokhod-1",
@@ -651,10 +572,10 @@
         "Mustafa Kemal Atatürk",
         "İsmet İnönü"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Anıtkabir'in Statüsü ve Devlet Mezarlığı Kanunu",
+      "ozet": "10 Kasım 1981 tarihinde yürürlüğe giren Devlet Mezarlığı Hakkında Kanun, Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün ebedi istirahatgahı olan Anıtkabir'in statüsünü yeniden düzenledi. Bu yasal düzenleme ile Anıtkabir'in sadece Atatürk'e ve Türkiye'nin ikinci cumhurbaşkanı İsmet İnönü'ye ayrılması kararlaştırıldı. Böylece, bu özel alanın tarihsel ve sembolik dokusunun korunması hedeflendi.\n\nAnıtkabir, 1953 yılında tamamlanmasından bu yana Türkiye'nin en önemli anıt yapısı olma özelliğini taşımaktadır. Söz konusu kanun, devletin en üst düzey temsilcilerinin defnedileceği yeni bir Devlet Mezarlığı kurulmasına olanak tanırken, Anıtkabir'in özgün kimliğini muhafaza etmeyi amaçlamıştır. Bu adım, Atatürk'ün hatırasına ve cumhuriyetin kuruluş dönemindeki liderliğe verilen önemin bir yansıması olarak değerlendirilmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/960px-Ataturk%27s_Mausoleum_%286225341313%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/500px-Ataturk%27s_Mausoleum_%286225341313%29.jpg",
@@ -668,34 +589,7 @@
         "aciklama": "Exterior of the mausoleum building of Anıtkabir complex",
         "konu": "Anıtkabir"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/960px-Ataturk%27s_Mausoleum_%286225341313%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/500px-Ataturk%27s_Mausoleum_%286225341313%29.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 5184,
-          "yazar": "William Neuheisel from DC, US",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk%27s_Mausoleum_(6225341313).jpg",
-          "aciklama": "Exterior of the mausoleum building of Anıtkabir complex",
-          "konu": "Anıtkabir"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
-          "genislik": 549,
-          "yukseklik": 724,
-          "orijinalGenislik": 549,
-          "yazar": "Unknown. Official photo of President.",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Inonu_Ismet_(cropped).jpg",
-          "aciklama": "President of Turkey 1938-1950 Ismet Inonu",
-          "konu": "İsmet İnönü"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1988-cumhurbaskani-kenan-evren-ataturku-anma-toreninde-konustu",
@@ -1446,5 +1340,803 @@
     "url": "https://tr.wikipedia.org/wiki/10_Kas%C4%B1m",
     "revid": 38218167
   },
-  "guncelleme": "2026-10-21T21:27:14.330Z"
+  "guncelleme": "2026-10-21T21:27:14.330Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2451478",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Zirvede fark 1 puana düştü: Süper Lig'de şampiyonluk oranları güncellendi!",
+      "aciklama": "Trendyol Süper Lig’de 12. hafta maçları sona erdi. Zirve yarışında fark kapanırken şampiyonluk oranları değişti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/zirvede-fark-1-puana-dustu-super-lig-de-sampiyonluk-oranlari-guncellendi-2451478"
+      },
+      "konular": [
+        "Süper Lig"
+      ],
+      "yayin": "2025-11-10T15:38:00+03:00",
+      "puan": 11,
+      "durum": "elendi",
+      "baslik": "Süper Lig'de puan farkı azaldı ve şampiyonluk oranları yeniden belirlendi",
+      "ozet": "Trendyol Süper Lig'de on ikinci hafta karşılaşmaları tamamlandı. Ligin üst sıralarındaki puan farkının azalmasıyla birlikte takımların şampiyonluk ihtimallerine yönelik oranlarda güncellemeye gidildi.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2025-haber-2451327",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "depremler! Balıkesir'de deprem mi oldu? 10 Kasım 2025 nerede, ne zaman deprem oldu?",
+      "aciklama": "AFAD, Kandilli son deprem verileri açıklandı. Sarsıntı hisseden yurttaşlar, 10 Kasım 2025 Pazartesi günü son depremlerin nerede ve kaç büyüklüğünde olduğunu merak ediyor. Peki, son dakika depremler! Balıkesir'de deprem mi oldu? 10 Kasım 2025 nerede, ne zaman deprem oldu?",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-depremler-balikesir-de-deprem-mi-oldu-10-kasim-2025-nerede-ne-zaman-deprem-oldu-2451327"
+      },
+      "konular": [
+        "Deprem",
+        "Balıkesir",
+        "AFAD"
+      ],
+      "yayin": "2025-11-10T09:19:00+03:00",
+      "puan": 9,
+      "durum": "elendi",
+      "baslik": "Balıkesir merkezli sarsıntı sonrası AFAD ve Kandilli verileri paylaşıldı",
+      "ozet": "Balıkesir bölgesinde hissedilen sarsıntının ardından vatandaşlar depremin merkez üssü ve şiddeti hakkında bilgi arayışına girdi. Afet ve Acil Durum Yönetimi Başkanlığı ile Kandilli Rasathanesi, güncel deprem verilerini kamuoyuyla paylaştı. Bölge halkı yaşanan sarsıntının detaylarını öğrenmek için kurumların resmi açıklamalarını takip etti.",
+      "kategori": "Afet"
+    },
+    {
+      "id": "2024-haber-2267176",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP binasında '10 Kasım' saygısızlığı: Erdoğan var, Atatürk yok!",
+      "aciklama": "Büyük Önder Atatürk’ün vefatının 86. yıl dönümü dolayısıyla AK Parti Denizli İl Başkanlığı binasına yalnızca Türk Bayrağı ve Cumhurbaşkanı Recep Tayyip Erdoğan’ın posterlerinin asılmasına CHP Denizli İl Başkanı Ali Osman Horzum ve CHP Denizli Milletvekili Gülizar Biçer Karaca, te",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/akp-binasinda-10-kasim-saygisizligi-erdogan-var-ataturk-yok-2267176"
+      },
+      "konular": [
+        "Denizli",
+        "Adalet ve Kalkınma Partisi",
+        "Cumhuriyet Halk Partisi"
+      ],
+      "yayin": "2024-11-10T19:37:00+03:00",
+      "puan": 10,
+      "durum": "elendi",
+      "baslik": "Denizli'deki siyasi parti binasında Atatürk posteri tartışması yaşandı",
+      "ozet": "Mustafa Kemal Atatürk'ün vefatının yıl dönümünde Denizli'deki bir siyasi parti binasına asılan görseller tepki çekti. Binaya sadece Türk bayrağı ve Cumhurbaşkanı Recep Tayyip Erdoğan'ın posterinin yerleştirilmesi üzerine Cumhuriyet Halk Partisi temsilcileri durumu eleştirdi. Söz konusu siyasi parti binasındaki görsel düzenleme yerel düzeyde tartışmalara yol açtı.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2024-haber-2267006",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Son depremler! Deprem mi oldu? 10 Kasım 2024 nerede, ne zaman deprem oldu?",
+      "aciklama": "Son depremler! Az önce deprem mi oldu? Sarsıntı hisseden yurttaşlar, 10 Kasım 2024 son depremlerin nerede ve kaç büyüklüğünde olduğunu merak ediyor. Deprem mi oldu? Nerede, ne zaman deprem oldu? 10 Kasım 2024 Türkiye'deki depremler...",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/son-depremler-deprem-mi-oldu-10-kasim-2024-nerede-ne-zaman-deprem-2267006"
+      },
+      "konular": [
+        "Deprem",
+        "Afet ve Acil Durum Yönetimi Başkanlığı",
+        "Türkiye"
+      ],
+      "yayin": "2024-11-10T09:02:00+03:00",
+      "puan": 9,
+      "durum": "elendi",
+      "baslik": "Türkiye genelinde meydana gelen sarsıntılar takip ediliyor",
+      "ozet": "Ülke genelinde hissedilen sarsıntılar sonrasında vatandaşlar deprem verilerini araştırmaya başladı. İlgili kurumlar tarafından paylaşılan güncel bilgilerle sarsıntıların merkez üssü ve büyüklükleri hakkında detaylı incelemeler yapıldı.",
+      "kategori": "Afet"
+    },
+    {
+      "id": "2023-haber-2139471",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolarda yeni zirve Euro 31 TL'yi geçti! Dolar ve Euro ne kadar oldu? 10 Kasım 2023 döviz fiyatları",
+      "aciklama": "Dolar/TL ve Euro/TL tarihi zirveyi görürken piyasalarda işsizlik ve sanayi üretimi verileri ile yargı bağımsızlığı endişeleriyle iç siyasi gelişmeler takip edilecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/dolarda-yeni-zirve-euro-31-tlyi-gecti-dolar-ve-euro-ne-kadar-oldu-10-2139471"
+      },
+      "konular": [
+        "Döviz kuru",
+        "Türkiye ekonomisi"
+      ],
+      "yayin": "2023-11-10T09:21:00+03:00",
+      "puan": 12,
+      "durum": "elendi",
+      "baslik": "Döviz kurlarında yeni rekor seviyeler kaydedildi",
+      "ozet": "Dolar ve Euro karşısında Türk Lirası değer kaybı yaşayarak tarihi zirvelerine ulaştı. Piyasalar bir yandan sanayi üretimi ve işsizlik rakamlarını izlerken diğer yandan yargı bağımsızlığına dair tartışmaların ekonomi üzerindeki etkilerini değerlendirdi. İç siyasette yaşanan gelişmelerin döviz piyasaları üzerindeki baskısı sürdü.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "id": "2023-haber-2139510",
+      "yil": 2023,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "Apple bakanlıkla 25 milyon dolarlık anlaşmaya vardı",
+      "aciklama": "İşe alımlarda ayrımcı politikalar izlediği iddiasıyla hakkında soruşturma başlatılan teknoloji şirketi Apple, ABD Adalet Bakanlığı ise 25 milyon dolarlık anlaşmaya vardı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/apple-bakanlikla-25-milyon-dolarlik-anlasmaya-vardi-2139510"
+      },
+      "konular": [
+        "Apple",
+        "ABD Adalet Bakanlığı",
+        "İstihdam"
+      ],
+      "yayin": "2023-11-10T10:45:00+03:00",
+      "puan": 9,
+      "durum": "yazildi",
+      "baslik": "Apple ayrımcılık iddiaları üzerine bakanlıkla uzlaşmaya gitti",
+      "ozet": "Teknoloji devi Apple, işe alım süreçlerinde ayrımcı uygulamalara başvurduğu gerekçesiyle yürütülen soruşturma kapsamında ABD Adalet Bakanlığı ile bir anlaşma imzaladı. Şirket, söz konusu iddiaların ardından bakanlığa 25 milyon dolar ödemeyi kabul etti.",
+      "kategori": "Teknoloji",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/960px-Aerial_view_of_Apple_Park_dllu.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/500px-Aerial_view_of_Apple_Park_dllu.jpg",
+        "genislik": 960,
+        "yukseklik": 641,
+        "orijinalGenislik": 7729,
+        "yazar": "Daniel L. Lu (user:dllu)",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Apple_Park_dllu.jpg",
+        "aciklama": "Aerial view of Apple Park, the corporate headquarters of Apple Inc., located in Cupertino, California. The roof is covered in solar panels with an output of 17 MWp, making it one of the biggest solar ",
+        "konu": "Apple"
+      }
+    },
+    {
+      "id": "2022-haber-2001565",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Otomobilde ÖTV indirimi olacak mı? Bakan Nureddin Nebati açıkladı",
+      "aciklama": "Son dakika gelişmesi... TBMM Plan ve Bütçe Komisyonu'nda, Hazine ve Maliye Bakanlığı bütçesi kabul edildi. Hazine ve Maliye Bakanı Nureddin Nebati, otomobilde ÖTV indirimi olacak mı sorusuna,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-tbmmde-hazine-ve-maliye-bakanligi-butcesi-kabul-edildi-2001565"
+      },
+      "konular": [
+        "Nureddin Nebati",
+        "Türkiye Büyük Millet Meclisi",
+        "Özel Tüketim Vergisi"
+      ],
+      "yayin": "2022-11-10T20:37:00+03:00",
+      "puan": 19,
+      "durum": "elendi",
+      "baslik": "Hazine ve Maliye Bakanlığı bütçesi TBMM komisyonunda onaylandı",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, Hazine ve Maliye Bakanlığına ait bütçe teklifini görüşerek kabul etti. Bakan Nureddin Nebati, bütçe görüşmeleri sırasında gündeme gelen otomobillerdeki özel tüketim vergisi düzenlemesine ilişkin soruları yanıtladı.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "id": "2022-haber-2001396",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Kripto paralarda deprem sürüyor: Bitcoin ne kadar oldu? (10 Kasım 2022)",
+      "aciklama": "Binance ve FTX arasında yaşanan gerginlik kripto piyasalarında satışa neden oldu. Kripto para birimi Bitcoin'in fiyatı dünkü sert düşüşün ardından bugün de 17 bin doların altını gördü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/kripto-paralarda-deprem-suruyor-bitcoin-ne-kadar-oldu-10-kasim-2022-2001396"
+      },
+      "konular": [
+        "Bitcoin",
+        "FTX",
+        "Binance"
+      ],
+      "yayin": "2022-11-10T11:03:00+03:00",
+      "puan": 11,
+      "durum": "yazildi",
+      "baslik": "Kripto para piyasalarında sert düşüş eğilimi devam ediyor",
+      "ozet": "Binance ile FTX borsaları arasındaki anlaşmazlıklar dijital varlık piyasalarında satış baskısını artırdı. Yaşanan bu gerginlik ortamında Bitcoin fiyatı, önceki gün gerçekleşen değer kaybının ardından 17 bin dolar seviyesinin altına geriledi.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Sam_Bankman-Fried.png/960px-Sam_Bankman-Fried.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Sam_Bankman-Fried.png/500px-Sam_Bankman-Fried.png",
+        "genislik": 960,
+        "yukseklik": 984,
+        "orijinalGenislik": 1516,
+        "yazar": "Cointelegraph",
+        "lisans": "CC BY 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Sam_Bankman-Fried.png",
+        "aciklama": "Sam Bankman-Fried in an interview during the Bitcoin 2021 conference",
+        "konu": "FTX"
+      }
+    },
+    {
+      "id": "2021-haber-1883582",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolar-Euro ne kadar oldu? Tarihi zirve geldi!",
+      "aciklama": "Son dakika gelişmesi... Dolar güne 9.74 liradan başladı. Öğleden sonra ise ABD'de enflasyonun beklentileri aşmasıyla 9.86'nın üzerine tırmanarak yeni tarihi zirvesini gördü.. Euro/TL ise 11,40'ı aştı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/dolar-euro-ne-kadar-oldu-tarihi-zirve-geldi-1883582"
+      },
+      "konular": [
+        "Döviz kuru",
+        "Enflasyon",
+        "Ekonomi"
+      ],
+      "yayin": "2021-11-10T09:34:00+03:00",
+      "puan": 15,
+      "durum": "elendi",
+      "baslik": "Döviz kurlarında yeni rekor seviyeler kaydedildi",
+      "ozet": "Dolar kuru güne 9,74 seviyesinden giriş yaptıktan sonra Amerika Birleşik Devletleri'nde açıklanan enflasyon verilerinin beklentilerin üzerinde kalmasıyla yükselişe geçti. Gün içerisinde 9,86 sınırını aşarak kendi rekorunu tazeleyen doların yanı sıra Euro da değer kazanarak 11,40 seviyesinin üzerine çıktı. Piyasalardaki bu hareketlilik döviz kurlarında tarihi bir zirve yaşanmasına neden oldu.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "id": "2021-haber-1883659",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP'li Tanal, 'son dakika' notuyla paylaştı: Saray’ın 2022 bütçesinde erken seçim detayı!",
+      "aciklama": "Aile ve Sosyal Hizmetler Bakanlığı’nın bütçe teklifinde Basın ve Halkla İlişkiler Müşavirliği bütçesine dikkat çeken CHP’li Mahmut Tanal, bunun erken seçim hazırlığı olduğunu dile getirdi. CHP'li Tanal, belgeleri 'son dakika' notuyla paylaştı ve,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/chpli-tanal-son-dakika-notuyla-paylasti-sarayin-2022-butcesinde-erken-secim-detayi-1883659"
+      },
+      "konular": [
+        "Mahmut Tanal",
+        "Aile ve Sosyal Hizmetler Bakanlığı",
+        "Türkiye siyaseti"
+      ],
+      "yayin": "2021-11-10T12:45:00+03:00",
+      "puan": 12,
+      "durum": "elendi",
+      "baslik": "Bütçe teklifindeki ödenek artışı erken seçim tartışması başlattı",
+      "ozet": "Cumhuriyet Halk Partisi milletvekili Mahmut Tanal, Aile ve Sosyal Hizmetler Bakanlığı bütçe teklifinde yer alan Basın ve Halkla İlişkiler Müşavirliği ödeneğindeki artışa dikkat çekti. Tanal, söz konusu bütçe kalemindeki değişikliğin yaklaşan bir erken seçim hazırlığına işaret ettiğini savundu. Konuyla ilgili belgeleri kamuoyuyla paylaşan milletvekili, bakanlığın harcama planlaması üzerinden eleştirilerini dile getirdi.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2020-haber-1789991",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Galatasaray seçim kararı aldı, ilk aday belli oldu",
+      "aciklama": "Galatasaray Yönetim Kurulu, yaptığı olağanüstü toplantıda seçim kararı alırken, Burak Elmas ilk başkan adayı oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/galatasaray-secim-karari-aldi-ilk-aday-belli-oldu-1789991"
+      },
+      "konular": [
+        "Galatasaray (spor kulübü)",
+        "Burak Elmas"
+      ],
+      "yayin": "2020-11-10T17:41:00+03:00",
+      "puan": 10,
+      "durum": "elendi",
+      "baslik": "Galatasaray Kulübünde Seçim Süreci Başladı",
+      "ozet": "Galatasaray Yönetim Kurulu gerçekleştirdiği olağanüstü toplantı neticesinde seçim yapılmasına karar verdi. Bu gelişmenin ardından Burak Elmas başkanlık için adaylığını açıklayan ilk isim oldu.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2020-haber-1789932",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "'Elvan' dönemi başladı: Erdoğan'a şükran, Albayrak'a teşekkür",
+      "aciklama": "Berat Albayrak'ın istifası sonrası yerine Cumhurbaşkanı ile Hazine ve Maliye Bakanı olarak atanan Lütfi Elvan, görevine başladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/elvan-donemi-basladierdogana-sukran-albayraka-tesekkur-1789932"
+      },
+      "konular": [
+        "Lütfi Elvan",
+        "Hazine ve Maliye Bakanlığı",
+        "Türkiye Cumhuriyeti Hükûmeti"
+      ],
+      "yayin": "2020-11-10T14:29:00+03:00",
+      "puan": 9,
+      "durum": "yazildi",
+      "baslik": "Hazine ve Maliye Bakanlığı görevinde devir teslim yapıldı",
+      "ozet": "Berat Albayrak'ın görevinden ayrılmasının ardından Hazine ve Maliye Bakanlığı koltuğuna Lütfi Elvan getirildi. Yeni bakan Elvan, düzenlenen törenle görevini resmen devralarak çalışmalarına başladı. Süreç kapsamında Cumhurbaşkanı Erdoğan'a teşekkürlerini ileten Elvan, önceki bakan Albayrak'a da hizmetlerinden dolayı şükranlarını sundu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Vergidenetimkurulu.jpg/960px-Vergidenetimkurulu.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Vergidenetimkurulu.jpg/500px-Vergidenetimkurulu.jpg",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 3264,
+        "yazar": "Vikiçizer",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vergidenetimkurulu.jpg",
+        "aciklama": "Türkiye Vergi Denetim Kurulu Başkanlığı Binası, Ankara",
+        "konu": "Hazine ve Maliye Bakanlığı"
+      }
+    },
+    {
+      "id": "2019-haber-1701212",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dünya Erkekler Bocce Şampiyonası sona erdi",
+      "aciklama": "Mersin'de 6 farklı kategoride düzenlenen ve 21 ülkeden 120 sporcunun katıldığı Dünya Erkekler Bocce (Volo) Şampiyonası, final müsabakalarıyla tamamlanırken, Türkiye Milli Takımı rölede Mehmet Can Yakın-Burak Altay ikilisi ile 3. oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/dunya-erkekler-bocce-sampiyonasi-sona-erdi-1701212"
+      },
+      "konular": [
+        "Bocce",
+        "Mersin",
+        "Türkiye"
+      ],
+      "yayin": "2019-11-10T15:25:00+03:00",
+      "puan": 10,
+      "durum": "elendi",
+      "baslik": "Dünya Erkekler Bocce Şampiyonası Mersin'de Tamamlandı",
+      "ozet": "Mersin şehrinde düzenlenen Dünya Erkekler Bocce Şampiyonası, yapılan final karşılaşmalarıyla sona erdi. Yirmi bir ülkeden toplam yüz yirmi sporcunun mücadele ettiği organizasyonda, Türkiye adına yarışan Mehmet Can Yakın ve Burak Altay ikilisi röle kategorisinde üçüncülük elde etti. Altı farklı kategoride gerçekleştirilen şampiyona, sporcuların kıyasıya rekabetine sahne oldu.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2019-haber-1701162",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Futbolda milli mesai başlıyor (10.11.2019)",
+      "aciklama": "A Milli Futbol Takımı, EURO 2020 Elemeleri'nde İzlanda ve Andorra ile oynayacağı maçlar öncesi ilk antrenmanını yarın yapacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/futbolda-milli-mesai-basliyor-1701162"
+      },
+      "konular": [
+        "Türkiye millî futbol takımı",
+        "UEFA Euro 2020 elemeleri"
+      ],
+      "yayin": "2019-11-10T11:39:00+03:00",
+      "puan": 8,
+      "durum": "elendi",
+      "baslik": "A Milli Futbol Takımı Avrupa Şampiyonası Elemeleri Hazırlıklarına Başlıyor",
+      "ozet": "A Milli Futbol Takımı, Avrupa Şampiyonası Elemeleri kapsamında İzlanda ve Andorra ile yapacağı karşılaşmaların hazırlık sürecine giriş yaptı. Milliler, bu önemli müsabakalar öncesindeki ilk antrenman çalışmasını gerçekleştirmek üzere bir araya geldi.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2018-haber-1136755",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan, 10 Kasım'da Atatürk'ün partisine yüklendi (10.11.2018)",
+      "aciklama": "AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan, Atatürk'ü Anma Programı'nda konuştu. Erdoğan",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-10-kasimda-ataturkun-partisine-yuklendi-1136755"
+      },
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Mustafa Kemal Atatürk",
+        "Cumhuriyet Halk Partisi"
+      ],
+      "yayin": "2018-11-10T11:36:00+03:00",
+      "puan": 7,
+      "durum": "elendi",
+      "baslik": "Cumhurbaşkanı Erdoğan Atatürk'ü Anma Töreninde Konuştu",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Atatürk'ü anma etkinlikleri kapsamında düzenlenen programda bir konuşma gerçekleştirdi. Erdoğan, yaptığı açıklamalar sırasında Cumhuriyet Halk Partisi'ne yönelik eleştirilerde bulundu.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2018-haber-1137346",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fenerbahçe başladı, VakıfBank bitirdi",
+      "aciklama": "Voleybolda Vestel Venus Sultanlar Ligi'nin 3. haftasında VakıfBank, Fenerbahçe'yi 3-2 mağlup etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fenerbahce-basladi-vakifbank-bitirdi-1137346"
+      },
+      "konular": [
+        "VakıfBank (kadın voleybol takımı)",
+        "Fenerbahçe (kadın voleybol takımı)",
+        "Sultanlar Ligi"
+      ],
+      "yayin": "2018-11-10T20:39:00+03:00",
+      "puan": 6,
+      "durum": "elendi",
+      "baslik": "VakıfBank voleybol mücadelesinde Fenerbahçe'yi mağlup etti",
+      "ozet": "Vestel Venus Sultanlar Ligi'nin üçüncü haftasında oynanan karşılaşmada VakıfBank ile Fenerbahçe karşı karşıya geldi. Mücadeleye hızlı bir başlangıç yapan Fenerbahçe karşısında oyun disiplinini koruyan VakıfBank, rakibini 3-2'lik skorla yenmeyi başardı.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2017-haber-863244",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Katalan meclis başkanına tutuklama kararı",
+      "aciklama": "İspanya Yüksek Mahkemesi, eski Katalonya Meclis Başkanı Carme Forcadell'in tutuklanmasına karar verdi. Mahkemenin kararına göre Forcadell, 150 bin avro ödemesi durumunda şartlı olarak serbest kalabilecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/katalan-meclis-baskanina-tutuklama-karari-863244"
+      },
+      "konular": [
+        "Carme Forcadell",
+        "Katalonya bağımsızlık referandumu",
+        "İspanya"
+      ],
+      "yayin": "2017-11-10T09:17:00+03:00",
+      "puan": 8,
+      "durum": "yazildi",
+      "baslik": "İspanya Yüksek Mahkemesinden Katalan Meclis Başkanı İçin Karar",
+      "ozet": "İspanya Yüksek Mahkemesi, eski Katalonya Meclis Başkanı Carme Forcadell hakkında tutuklama kararı verdi. Mahkeme, Forcadell'in 150 bin avro tutarında kefalet ödemesi halinde şartlı olarak serbest bırakılmasına hükmetti.",
+      "kategori": "Siyaset",
+      "gorsel": null
+    },
+    {
+      "id": "2017-haber-863706",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AYM, HDP'li vekiller için ilk kararını 16 Kasım’da verecek",
+      "aciklama": "Anayasa Mahkemesi, başta Eş Genel Başkanı Selahattin Demirtaş olmak üzere tutuklu HDP milletvekilleriyle ilgili ilk kararını 16 Kasım Perşembe günü yapacağı toplantıda karara bağlayacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/aym-hdpli-vekiller-icin-ilk-kararini-16-kasimda-verecek-863706"
+      },
+      "konular": [
+        "Selahattin Demirtaş",
+        "Halkların Demokratik Partisi",
+        "Anayasa Mahkemesi"
+      ],
+      "yayin": "2017-11-10T16:18:00+03:00",
+      "puan": 7,
+      "durum": "yazildi",
+      "baslik": "Anayasa Mahkemesi tutuklu milletvekilleri için karar gününü belirledi",
+      "ozet": "Anayasa Mahkemesi, tutuklu bulunan Halkların Demokratik Partisi milletvekillerinin durumunu görüşmek üzere toplandı. Mahkeme heyeti, aralarında Selahattin Demirtaş'ın da bulunduğu isimlerle ilgili nihai değerlendirmesini önümüzdeki hafta gerçekleştireceği oturumda yapacağını duyurdu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Selahattin_Demirta%C5%9F_HDP_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Selahattin_Demirta%C5%9F_HDP_%28cropped%29.jpg",
+        "genislik": 602,
+        "yukseklik": 800,
+        "orijinalGenislik": 602,
+        "yazar": "Yıldız Yazıcıoğlu",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Selahattin_Demirta%C5%9F_HDP_(cropped).jpg",
+        "aciklama": "Selahattin Demirtaş, co-leader of the Turkish Peoples' Democratic Party (HDP)",
+        "konu": "Selahattin Demirtaş"
+      }
+    },
+    {
+      "id": "2016-haber-628869",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Başbakan Yıldırım ve Bahçeli'den 'başkanlık' zirvesi",
+      "aciklama": "Başbakan Binali Yıldırım, MHP Genel Başkanı Devlet Bahçeli'yi kabul etti. İkili 'başkanlık sistemi'ni görüştü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbakan-yildirim-ve-bahceliden-baskanlik-zirvesi-628869"
+      },
+      "konular": [
+        "Başkanlık sistemi",
+        "Binali Yıldırım",
+        "Devlet Bahçeli"
+      ],
+      "yayin": "2016-11-10T15:05:00+03:00",
+      "puan": 10,
+      "durum": "yazildi",
+      "baslik": "Hükümet ve MHP liderleri arasında başkanlık sistemi görüşmesi",
+      "ozet": "Başbakan Binali Yıldırım, Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli ile bir araya geldi. Çankaya Köşkü'nde gerçekleşen bu görüşmede, gündemde yer alan başkanlık sistemi ile ilgili konular ele alındı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Binali_Y%C4%B1ld%C4%B1r%C4%B1m_%282018-08-18%29_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Binali_Y%C4%B1ld%C4%B1r%C4%B1m_%282018-08-18%29_%28cropped%29.jpg",
+        "genislik": 794,
+        "yukseklik": 1104,
+        "orijinalGenislik": 794,
+        "yazar": "duma.gov.ru",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Binali_Y%C4%B1ld%C4%B1r%C4%B1m_(2018-08-18)_(cropped).jpg",
+        "aciklama": "Председатель Великого национального собрания Турции Бинали Йылдырым",
+        "konu": "Binali Yıldırım"
+      }
+    },
+    {
+      "id": "2016-haber-628811",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ersin Düzen yeniden Meclis gündeminde: Haftada 3 gün için 417 bin liralık maaşa zam geldi mi?",
+      "aciklama": "TRT'nin spor spikeri Ersin Düzen'in TRT’den geçen yıl aldığı 278 bin liralık ücreti gündeme getiren CHP İzmir Milletvekili Atila Sertel, Başbakan Yardımcısı Numan Kurtulmuş'a",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ersin-duzen-yeniden-meclis-gundeminde-haftada-3-gun-icin-417-bin-liralik-maasa-zam-geldi-mi-628811"
+      },
+      "konular": [
+        "Ersin Düzen",
+        "TRT",
+        "Türkiye Büyük Millet Meclisi"
+      ],
+      "yayin": "2016-11-10T13:38:00+03:00",
+      "puan": 9,
+      "durum": "elendi",
+      "baslik": "TRT spikerinin aldığı maaş tutarı meclis gündemine taşındı",
+      "ozet": "TRT bünyesinde görev yapan spor spikeri Ersin Düzen'in aldığı ücretler hakkında soru önergesi verildi. İzmir milletvekili Atila Sertel, spikerin geçmiş dönemdeki kazancını hatırlatarak maaşında bir artış yapılıp yapılmadığını Başbakan Yardımcısı Numan Kurtulmuş'a sordu. Konu, kurumun ödemeleri ve çalışma şartları üzerinden meclis oturumunda tartışmaya açıldı.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2015-haber-413341",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fallout 4 indirmeye açıldı",
+      "aciklama": "Oyun dünyasının merakla beklediği efsanevi Fallout serisinin yeni oyunu sadece 7 saat sonra yayınlanmış olacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fallout-4-indirmeye-acildi-413341"
+      },
+      "konular": [
+        "Fallout 4",
+        "Bethesda Game Studios",
+        "Video oyunu"
+      ],
+      "yayin": "2015-11-10T21:30:00+03:00",
+      "puan": 7,
+      "durum": "yazildi",
+      "baslik": "Fallout serisinin yeni oyunu oyuncularla buluşmaya hazırlanıyor",
+      "ozet": "Oyun tutkunlarının uzun süredir heyecanla beklediği Fallout serisinin son halkası için geri sayım başladı. Yapım, kısa bir süre sonra dijital platformlar üzerinden erişime açılacak. Serinin takipçileri, yeni macerayı deneyimlemek için hazırlıklarını tamamladı.",
+      "kategori": "Teknoloji",
+      "gorsel": null
+    },
+    {
+      "id": "2014-haber-139155",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Renault'nun Cezayir'deki fabrikası açıldı",
+      "aciklama": "Renault'un Cezayir'in Oran şehrinde kurulan Fabrikası, Cezayir Başbakanı Abdelmalek Sellal ile Renault Başkanı Carlos Ghosn tarafından açıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/renaultnun-cezayirdeki-fabrikasi-acildi-139155"
+      },
+      "konular": [
+        "Renault",
+        "Oran",
+        "Cezayir"
+      ],
+      "yayin": "2014-11-10T15:23:00+03:00",
+      "puan": 9,
+      "durum": "elendi",
+      "baslik": "Renault Cezayir'de yeni üretim tesisini hizmete açtı",
+      "ozet": "Fransız otomobil üreticisi Renault, Cezayir'in Oran kentinde inşa ettiği fabrikasının açılışını gerçekleştirdi. Tesisin faaliyete geçmesi için düzenlenen törene Cezayir Başbakanı Abdelmalek Sellal ile Renault Başkanı Carlos Ghosn katıldı. Bu yatırımla birlikte bölgedeki otomotiv üretimi kapasitesinin artırılması hedeflendi.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "id": "2014-haber-138961",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan: Yeni Türkiye kavramını ilk kez Gazi kullandı",
+      "aciklama": "Türkiye Cumhuriyeti’nin kurucusu Mustafa Kemal Atatürk'ün ebediyete intikal edişinin 76. yılında yurttaşlar Atasını anıyor... Cumhurbaşkanı Erdoğan; katıldığı Atatürk Dil ve Tarih Kurumu'nda yaptığı konuşmada 'Yeni Türkiye kavramını ilk kez Gazi kullandı' dedi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-yeni-turkiye-kavramini-ilk-kez-gazi-kullandi-138961"
+      },
+      "konular": [
+        "Mustafa Kemal Atatürk",
+        "Recep Tayyip Erdoğan",
+        "Atatürk Kültür, Dil ve Tarih Yüksek Kurumu"
+      ],
+      "yayin": "2014-11-10T08:43:00+03:00",
+      "puan": 8,
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanı Erdoğan Yeni Türkiye Kavramına İlişkin Açıklamalarda Bulundu",
+      "ozet": "Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün vefatının yetmiş altıncı yıl dönümünde vatandaşlar anma etkinlikleri düzenledi. Atatürk Kültür, Dil ve Tarih Yüksek Kurumu'nda gerçekleştirilen törende konuşan Cumhurbaşkanı Recep Tayyip Erdoğan, Yeni Türkiye ifadesinin ilk defa Atatürk tarafından kullanıldığını belirtti. Etkinlik kapsamında Atatürk'ün mirası ve devletin kuruluş ilkeleri üzerine değerlendirmeler yapıldı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
+        "genislik": 732,
+        "yukseklik": 987,
+        "orijinalGenislik": 732,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
+        "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
+        "konu": "Mustafa Kemal Atatürk"
+      }
+    },
+    {
+      "id": "2013-haber-7887",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Büyük derbi için geri sayım başladı",
+      "aciklama": "Süper Lig'de derbi maçta Fenerbahçe ile Galatasaray, Şükrü Saracoğlu Stadı'nda saat 19.00'da karşı karşıya gelecek.\r\nSpor Toto Süper Lig'in 11. haftası İstanbul'da derbi maça sahne olacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/buyuk-derbi-icin-geri-sayim-basladi-7887"
+      },
+      "konular": [
+        "Fenerbahçe-Galatasaray derbisi",
+        "Süper Lig",
+        "Şükrü Saracoğlu Stadyumu"
+      ],
+      "yayin": "2013-11-10T14:13:00+03:00",
+      "puan": 8,
+      "durum": "elendi",
+      "baslik": "Fenerbahçe ve Galatasaray derbide karşı karşıya geliyor",
+      "ozet": "Süper Lig'in on birinci haftasında Fenerbahçe ile Galatasaray, Şükrü Saracoğlu Stadı'nda oynanacak müsabakada kozlarını paylaşacak. İstanbul'da gerçekleşecek olan bu önemli karşılaşma için hazırlıklar tamamlandı ve maç saati beklenmeye başlandı.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2013-haber-7893",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Alex'ten derbi öncesi Fenerbahçe'ye mesaj",
+      "aciklama": "Fenerbahçe'nin Brezilyalı eski futbolcusu Alex de Souza, bu akşam oynanacak olan Galatasaray derbisi öncesi sosyal medyadan mesaj yolladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/alexten-derbi-oncesi-fenerbahceye-mesaj-7893"
+      },
+      "konular": [
+        "Alex de Souza",
+        "Fenerbahçe (futbol takımı)",
+        "Galatasaray-Fenerbahçe derbisi"
+      ],
+      "yayin": "2013-11-10T14:54:00+03:00",
+      "puan": 6,
+      "durum": "elendi",
+      "baslik": "Alex de Souza'dan Fenerbahçe'ye Derbi Mesajı",
+      "ozet": "Fenerbahçe'nin eski oyuncusu Alex de Souza, Galatasaray ile yapılacak derbi mücadelesi öncesinde sosyal medya hesabı üzerinden bir paylaşımda bulundu. Brezilyalı futbolcu, eski takımına karşılaşma öncesinde destek mesajı gönderdi.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2012-haber-382558",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Başbakanlık çevresindeki olaylara inceleme",
+      "aciklama": "Ankara Cumhuriyet Başsavcılığı, Başbakanlık çevresinde bir hafta içinde üst üste yaşanan olayların bağlantılı olup olmadığını araştırması için Cumhuriyet savcısı görevlendirdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbakanlik-cevresindeki-olaylara-inceleme-382558"
+      },
+      "konular": [
+        "Ankara Cumhuriyet Başsavcılığı",
+        "Başbakanlık"
+      ],
+      "yayin": "2012-11-10T09:18:00+03:00",
+      "puan": 7,
+      "durum": "elendi",
+      "baslik": "Başbakanlık çevresindeki olaylar için soruşturma başlatıldı",
+      "ozet": "Ankara Cumhuriyet Başsavcılığı, Başbakanlık binası yakınlarında kısa süre içerisinde meydana gelen çeşitli hadiseleri incelemeye aldı. Söz konusu olayların birbirleriyle bağlantılı olup olmadığının tespiti amacıyla bir Cumhuriyet savcısı görevlendirildi.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2012-haber-382680",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Petraeus'ın istifasına neden olan kadın",
+      "aciklama": "ABD Merkezi Haberalma Teşkilatı'nın (CIA) Başkanı David Petraeus'un görevinden istifa etmesine yol açan, evlilik dışı ilişki yaşadığı kadının, Petraeus'un biyografisini yazan Paula Broadwell olduğu ortaya çıktı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/petraeusin-istifasina-neden-olan-kadin-382680"
+      },
+      "konular": [
+        "David Petraeus",
+        "CIA",
+        "Paula Broadwell"
+      ],
+      "yayin": "2012-11-10T18:32:00+03:00",
+      "puan": 6,
+      "durum": "yazildi",
+      "baslik": "CIA Başkanı Petraeus'un İstifasına Yol Açan İlişki Ortaya Çıktı",
+      "ozet": "ABD Merkezi Haberalma Teşkilatı Başkanı David Petraeus'un görevinden ayrılmasına neden olan evlilik dışı ilişkinin detayları belli oldu. Yapılan incelemeler sonucunda Petraeus'un biyografisini kaleme alan Paula Broadwell ile ilişki yaşadığı anlaşıldı. Bu gelişme üzerine istifa kararı alan Petraeus'un durumu kamuoyuna duyuruldu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/DCIA_David_Petraeus.jpg/960px-DCIA_David_Petraeus.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/DCIA_David_Petraeus.jpg/500px-DCIA_David_Petraeus.jpg",
+        "genislik": 960,
+        "yukseklik": 1200,
+        "orijinalGenislik": 1200,
+        "yazar": "Darren Livingston",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:DCIA_David_Petraeus.jpg",
+        "aciklama": "Official photo of David Petraeus, Director of the Central Intelligence Agency",
+        "konu": "David Petraeus"
+      }
+    },
+    {
+      "id": "2011-haber-297006",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP Erdoğan'la ilgili gensoruyu geri çekti",
+      "aciklama": "CHP Başbakan Recep Tayyip Erdoğan'a ilişkin verdiği gensoruyu, Van'da meydana gelen deprem nedeniyle geri çekti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chp-erdoganla-ilgili-gensoruyu-geri-cekti-297006"
+      },
+      "konular": [
+        "2011 Van depremi",
+        "Recep Tayyip Erdoğan",
+        "Cumhuriyet Halk Partisi"
+      ],
+      "yayin": "2011-11-10T12:42:00+03:00",
+      "puan": 7,
+      "durum": "yazildi",
+      "baslik": "CHP Van depremi nedeniyle gensoru önergesini geri çekti",
+      "ozet": "Cumhuriyet Halk Partisi, Başbakan Recep Tayyip Erdoğan hakkında meclise sunduğu gensoru önergesini çekme kararı aldı. Söz konusu adımın, Van bölgesinde yaşanan yıkıcı deprem felaketinin ardından oluşan hassas durum sebebiyle atıldığı belirtildi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
+    },
+    {
+      "id": "2011-haber-296982",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Tecavüzden yatan Cumhurbaşkanı'nına ret",
+      "aciklama": "İsrail Adalet Yüksek Mahkemesi, iki ayrı tecavüz suçlamasından 7 yıl hapis cezasına mahkum edilen eski Cumhurbaşkanı Moşe Katsav'ın temyiz başvurusunu reddetti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/tecavuzden-yatan-cumhurbaskaninina-ret-296982"
+      },
+      "konular": [
+        "Moşe Katsav",
+        "İsrail"
+      ],
+      "yayin": "2011-11-10T09:52:00+03:00",
+      "puan": 5,
+      "durum": "yazildi",
+      "baslik": "Moşe Katsav'ın Temyiz Başvurusu Mahkeme Tarafından Reddedildi",
+      "ozet": "İsrail Adalet Yüksek Mahkemesi, cinsel saldırı suçlamaları nedeniyle yedi yıl hapis cezasına çarptırılan eski Cumhurbaşkanı Moşe Katsav'ın yaptığı temyiz başvurusunu inceledi. Mahkeme heyeti, yapılan başvuruyu kabul etmeyerek eski cumhurbaşkanının cezasını onadı. Böylece Katsav hakkındaki hüküm kesinleşmiş oldu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Moshe_Katsav_%2800310100%29.jpg/960px-Moshe_Katsav_%2800310100%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Moshe_Katsav_%2800310100%29.jpg/500px-Moshe_Katsav_%2800310100%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1403,
+        "orijinalGenislik": 1420,
+        "yazar": "Knesset photographer",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Moshe_Katsav_(00310100).jpg",
+        "aciklama": "Moshe Katsav, Knesset member (1977-06-13 - 2000-07-31)",
+        "konu": "Moşe Katsav"
+      }
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }

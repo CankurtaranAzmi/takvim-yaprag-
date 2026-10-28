@@ -797,7 +797,7 @@
     },
     {
       "yil": 1955,
-      "metin": "Bill Gates, Amerikalı yazılımcı, iş insanı, Microsoft şirketinin kurucusu ve sahibi"
+      "metin": "Bill Gates, Amerikalı yazılımcı, iş adamı, Microsoft şirketinin kurucusu ve sahibi"
     },
     {
       "yil": 1955,
@@ -1107,7 +1107,7 @@
     },
     {
       "yil": 2005,
-      "metin": "Richard Smalley, Amerikalı bilim insanı ve Nobel Kimya Ödülü sahibi (d. 1943)"
+      "metin": "Richard Smalley, Amerikalı bilim adamı ve Nobel Kimya Ödülü sahibi (d. 1943)"
     },
     {
       "yil": 2005,
@@ -1214,9 +1214,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/28_Ekim",
-    "revid": 38168216
+    "revid": 38344849
   },
-  "guncelleme": "2026-10-27T11:46:13.848Z",
+  "guncelleme": "2026-10-28T12:20:13.743Z",
   "haberler": [
     {
       "id": "2025-haber-2447691",
@@ -1413,8 +1413,8 @@
       "yayin": "2022-10-28T09:32:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Dolar kurunda iki haftalık yatay seyir süreci devam etti",
-      "ozet": "Döviz piyasasında Dolar ve Türk Lirası paritesi iki haftayı aşkın süredir belirgin bir hareketlilik göstermedi. Kur seviyesi 18,6 civarında kalarak tarihi zirvesi yakınlarında sabit bir eğilim izledi.",
+      "baslik": "Dolar kuru iki haftadır dar bir bantta hareket ediyor",
+      "ozet": "Dolar ve Türk lirası arasındaki parite yaklaşık on dört gündür belirgin bir değişim göstermedi. Kur, on sekiz lira altmış kuruş seviyelerindeki zirve noktasında yatay bir seyir izlemeye devam etti.",
       "kategori": "Ekonomi"
     },
     {
@@ -1649,15 +1649,15 @@
         "url": "https://www.cumhuriyet.com.tr/haber/tskde-feto-depremi-265-gorevden-alma-195-ihrac-622573"
       },
       "konular": [
-        "2016 Türkiye askerî darbe girişimi",
         "Jandarma Genel Komutanlığı",
+        "Sahil Güvenlik Komutanlığı",
         "Türk Silahlı Kuvvetleri"
       ],
       "yayin": "2016-10-28T09:04:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "Jandarma ve Sahil Güvenlikte çok sayıda görevden uzaklaştırma kararı",
-      "ozet": "İçişleri Bakanlığı tarafından paylaşılan bilgilere göre Jandarma Genel Komutanlığı bünyesinde 153, Sahil Güvenlik Komutanlığı bünyesinde ise 112 personel görevden uzaklaştırıldı. Aynı süreçte Kara ve Deniz Kuvvetleri bünyesinden 195 kişi ihraç edildi. İhraç edilen askeri personelin büyük çoğunluğunu 158 subay oluşturdu.",
+      "baslik": "Jandarma ve Sahil Güvenlikte Görevden Uzaklaştırmalar Gerçekleşti",
+      "ozet": "İçişleri Bakanlığı tarafından yapılan duyuruya göre Jandarma Genel Komutanlığı bünyesindeki 153 ve Sahil Güvenlik Komutanlığı bünyesindeki 112 personel görevden uzaklaştırıldı. Aynı süreçte Kara ve Deniz Kuvvetleri Komutanlıklarında görevli 195 personel ise kurumdan ihraç edildi. İhraç edilen isimlerin büyük çoğunluğunu subaylar oluşturdu.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Jandarma_Genel_Komutan%C4%B1_Forsu.jpg",
@@ -1720,15 +1720,15 @@
         "url": "https://www.cumhuriyet.com.tr/haber/izmirde-polise-ates-acildi-397959"
       },
       "konular": [
-        "İzmir",
         "Buca",
+        "İzmir",
         "Emniyet Genel Müdürlüğü"
       ],
       "yayin": "2015-10-28T18:52:00+03:00",
       "puan": 7,
       "durum": "elendi",
-      "baslik": "İzmir Buca'da emniyet görevlilerine silahlı saldırı gerçekleşti",
-      "ozet": "İzmir ilinin Buca ilçesinde görev yapan asayiş şube ekiplerine yönelik bir saldırı düzenlendi. Kimliği henüz tespit edilemeyen şahıslar tarafından emniyet mensuplarına doğru ateş açıldı. Olayın ardından bölgede güvenlik önlemleri artırıldı.",
+      "baslik": "İzmir Buca'da emniyet ekiplerine yönelik silahlı saldırı gerçekleşti",
+      "ozet": "İzmir'in Buca ilçesinde görev yapan Asayiş Şube Müdürlüğü personeline yönelik kimliği henüz belirlenemeyen şahıslar tarafından ateş açıldı. Olayın ardından bölgede güvenlik önlemleri artırılırken saldırganların yakalanması için çalışma başlatıldı.",
       "kategori": "Toplum"
     },
     {
@@ -1922,8 +1922,8 @@
       "yayin": "2011-10-28T13:18:00+03:00",
       "puan": 6,
       "durum": "elendi",
-      "baslik": "İran'daki bir petrol sahasında yaşanan patlama can kaybına yol açtı",
-      "ozet": "İran sınırları içerisinde yürütülen petrol arama çalışmalarının yapıldığı bölgede bir patlama meydana geldi. Yaşanan bu elim kaza sonucunda bir çalışan yaşamını yitirirken üç kişi de çeşitli yerlerinden yaralandı.",
+      "baslik": "İran'daki bir petrol sahasında meydana gelen patlama can kaybına yol açtı",
+      "ozet": "İran sınırları içerisinde yer alan bir petrol arama bölgesinde şiddetli bir patlama yaşandı. Meydana gelen bu kaza sonucunda bir çalışan yaşamını yitirirken üç kişi de yaralandı. Olayın ardından bölgedeki güvenlik önlemleri artırıldı.",
       "kategori": "Afet"
     }
   ],
