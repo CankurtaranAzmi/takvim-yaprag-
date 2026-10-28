@@ -1219,7 +1219,7 @@
     "url": "https://tr.wikipedia.org/wiki/29_Ekim",
     "revid": 37825932
   },
-  "guncelleme": "2026-10-27T11:46:14.263Z",
+  "guncelleme": "2026-10-28T12:20:14.157Z",
   "haberler": [
     {
       "id": "2025-haber-2447856",
@@ -1240,8 +1240,8 @@
       "yayin": "2025-10-29T04:00:00+03:00",
       "puan": 14,
       "durum": "yazildi",
-      "baslik": "Türkiye ihracat verilerinde yeni bir rekor seviyeye ulaştı",
-      "ozet": "Ticaret Bakanı Bolat, ülkenin ihracat alanında önemli bir başarı yakaladığını duyurdu. Turizm ve hizmet sektörlerinin de dahil edildiği toplam ihracat rakamı 390 milyar dolar olarak belirlendi. Uzmanlar ise bu artışa rağmen üretilen malların katma değerinin düşük kaldığına dikkat çekerek, gerçek başarının dış ticaret fazlası verilmesiyle mümkün olabileceğini ifade etti.",
+      "baslik": "Türkiye ihracat rakamlarında yeni bir rekora ulaştı",
+      "ozet": "Ticaret Bakanı Ömer Bolat, ülkenin ihracat verilerinde tarihsel bir seviyeye yükseldiğini duyurdu. Ekonomistler ise dış ticaret dengesinin önemine vurgu yaparak, toplam ihracat rakamının turizm ve hizmet sektörlerini kapsayan 390 milyar dolarlık hacmine rağmen mal üretiminde yeterli katma değerin sağlanamadığını belirtti. Uzmanlar gerçek başarının ancak dış ticaret fazlası verilmesiyle mümkün olabileceğini ifade etti.",
       "kategori": "Ekonomi",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/IFM_G%C3%B6rsel_%28cropped%29.jpg/960px-IFM_G%C3%B6rsel_%28cropped%29.jpg",
@@ -1293,27 +1293,14 @@
       "konular": [
         "Bitcoin",
         "Borsa yatırım fonu",
-        "Ekonomi"
+        "Kripto para"
       ],
       "yayin": "2024-10-29T13:13:00+03:00",
       "puan": 17,
-      "durum": "yazildi",
-      "baslik": "Bitcoin fiyatında ABD seçimleri öncesinde yükseliş",
-      "ozet": "Amerika Birleşik Devletleri piyasalarındaki spot Bitcoin borsa yatırım fonlarına yönelik yoğun talep, kripto para biriminin değerini artırdı. Bir gün içerisinde 71 bin 150 dolar seviyesine kadar çıkan Bitcoin, yılın başından itibaren toplamda 25,4 milyar dolarlık bir fon girişi sağladı. Söz konusu artış, ülkede gerçekleşecek seçim süreci öncesinde piyasalarda dikkat çekti.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/960px-Luchtfoto_van_Lower_Manhattan.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/500px-Luchtfoto_van_Lower_Manhattan.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 5616,
-        "yazar": "Daniele Pieroni",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Luchtfoto_van_Lower_Manhattan.jpg",
-        "aciklama": "Lower Manhattan gezien vanuit het zuidwesten.",
-        "konu": "Ekonomi"
-      }
+      "durum": "elendi",
+      "baslik": "Bitcoin fiyatı 70 bin dolar seviyesinin üzerine çıktı",
+      "ozet": "Amerika Birleşik Devletleri'ndeki spot Bitcoin borsa yatırım fonlarına yönelik yoğun talep, kripto para piyasasında hareketliliğe yol açtı. Söz konusu fonlara gerçekleşen yüksek miktarlı girişlerin etkisiyle Bitcoin'in değeri 70 bin dolar sınırını aştı. Yılın başından itibaren bu fonlara toplamda 25,4 milyar dolarlık yatırım yapıldığı belirtildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2024-haber-2263150",
@@ -1577,8 +1564,8 @@
       "yayin": "2019-10-29T21:22:00+03:00",
       "puan": 11,
       "durum": "yazildi",
-      "baslik": "Lübnan Başbakanı Saad Hariri görevinden ayrıldığını duyurdu",
-      "ozet": "Ülkede yaklaşık iki haftadır devam eden hükümet karşıtı gösterilerin etkisiyle Lübnan Başbakanı Saad Hariri istifa kararını kamuoyuyla paylaştı. Gösterilerin on üçüncü gününde gerçekleşen bu gelişme ile birlikte Hariri, görevini bıraktığını resmen açıkladı.",
+      "baslik": "Lübnan Başbakanı Saad Hariri görevinden ayrıldı",
+      "ozet": "Ülke genelinde devam eden hükümet karşıtı gösterilerin on üçüncü gününde Başbakan Saad Hariri istifa kararını duyurdu. Hariri, protestoların sürdüğü süreçte görevini bırakacağını kamuoyuna açıkladı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Saad_Hariri_in_Sochi%2C_13_September_2017.jpg",
@@ -1612,8 +1599,8 @@
       "yayin": "2019-10-29T18:40:00+03:00",
       "puan": 9,
       "durum": "elendi",
-      "baslik": "New York Borsası Güne Dalgalı Bir Başlangıç Yaptı",
-      "ozet": "New York piyasaları günün ilk işlemlerinde yönünü belirlemekte zorlandı. Borsadaki endeksler açılış sırasında farklı yönlerde hareket ederek karışık bir seyir izledi.",
+      "baslik": "New York borsasında günün başlangıcı dalgalı oldu",
+      "ozet": "New York borsası işlem gününe belirsiz bir seyirle giriş yaptı. Piyasalar açılış saatlerinde yön arayışını sürdürürken endeksler karışık bir tablo sergiledi.",
       "kategori": "Ekonomi"
     },
     {
@@ -1841,13 +1828,13 @@
       "konular": [
         "İsmail Kartal",
         "Fenerbahçe (futbol takımı)",
-        "Ereğli"
+        "Süper Lig"
       ],
       "yayin": "2014-10-29T07:36:00+03:00",
       "puan": 8,
       "durum": "elendi",
-      "baslik": "İsmail Kartal şampiyonluk hedefini açıkladı",
-      "ozet": "Fenerbahçe Teknik Direktörü İsmail Kartal, Ereğli ziyareti sırasında kendisine gösterilen yoğun ilgiden dolayı memnuniyetini dile getirdi. Taraftarların desteğiyle duygusal anlar yaşayan Kartal, sezonu şampiyonlukla tamamlamak adına tüm takımın büyük bir gayretle çalışacağını belirtti.",
+      "baslik": "İsmail Kartal'dan şampiyonluk hedefi açıklaması",
+      "ozet": "Fenerbahçe Teknik Direktörü İsmail Kartal, Ereğli ziyareti sırasında taraftarların yoğun ilgisiyle karşılaştı. Gösterilen destekten dolayı duygulandığını ifade eden Kartal, sezon sonunda şampiyonluğa ulaşmak adına takım olarak tüm gayretlerini ortaya koyacaklarını belirtti.",
       "kategori": "Spor"
     },
     {
@@ -1869,8 +1856,8 @@
       "yayin": "2014-10-29T07:51:00+03:00",
       "puan": 6,
       "durum": "elendi",
-      "baslik": "Ömer Aşık sezona etkili bir performansla giriş yaptı",
-      "ozet": "Amerikan Basketbol Ligi'nde yeni sezon heyecanı başlarken New Orleans Pelicans forması giyen Ömer Aşık başarılı bir oyun sergiledi. Takımı, sezonun ilk karşılaşmasında Orlando Magic ekibini 101-84 skorla mağlup ederek lige galibiyetle başlamış oldu.",
+      "baslik": "Ömer Aşık NBA sezonuna başarılı bir başlangıç yaptı",
+      "ozet": "New Orleans Pelicans forması giyen Ömer Aşık, NBA sezonunun açılış karşılaşmasında etkili bir performans sergiledi. Takımı, Orlando Magic ile oynadığı mücadeleyi 101-84 skorla kazanarak sezona galibiyetle giriş yaptı.",
       "kategori": "Spor"
     },
     {
@@ -1915,8 +1902,8 @@
       "yayin": "2013-10-29T09:47:00+03:00",
       "puan": 7,
       "durum": "yazildi",
-      "baslik": "Piyanist Lang Lang Birleşmiş Milletler Barış Elçisi Görevine Getirildi",
-      "ozet": "Piyanist Lang Lang, Birleşmiş Milletler Genel Sekreteri Ban Ki-mun tarafından barış elçisi olarak görevlendirildi. Küresel ölçekte yürütülen barış çalışmalarına destek vermek amacıyla bu unvana layık görülen sanatçı, uluslararası platformda temsil görevini üstlendi.",
+      "baslik": "Piyanist Lang Lang Birleşmiş Milletler Barış Elçisi Oldu",
+      "ozet": "Çinli piyanist Lang Lang, Birleşmiş Milletler Genel Sekreteri Ban Ki-mun tarafından barış elçisi olarak görevlendirildi. Sanatçı, bu unvanla birlikte uluslararası platformda barışın teşvik edilmesi amacıyla yürütülen çalışmalara destek verecek.",
       "kategori": "Sanat",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Lang_Lang_-_World_Economic_Forum_Annual_Meeting_2010_Davos_cropped.jpg/960px-Lang_Lang_-_World_Economic_Forum_Annual_Meeting_2010_Davos_cropped.jpg",

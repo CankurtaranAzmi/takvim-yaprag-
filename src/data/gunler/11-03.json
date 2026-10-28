@@ -534,6 +534,35 @@
       "durum": "yayinda"
     },
     {
+      "id": "1957-sovyetler-birligi-uzaya-giden-ilk-canli-olan",
+      "yil": 1957,
+      "metin": "Sovyetler Birliği, uzaya giden ilk canlı olan Layka adlı köpeği taşıyan Sputnik 2'yi Dünya yörüngesine fırlattı.",
+      "konular": [
+        "Sovyetler Birliği",
+        "Layka",
+        "Sputnik 2",
+        "Yer merkezli yörünge"
+      ],
+      "baslik": "Uzayın İlk Yolcusu: Layka ve Sputnik 2",
+      "ozet": "Sovyetler Birliği, 3 Kasım 1957 tarihinde gerçekleştirdiği Sputnik 2 göreviyle uzay yarışında önemli bir eşiği daha geride bıraktı. Moskova sokaklarından bulunan ve Layka adı verilen melez bir köpek, bu tarihi uçuşla Dünya yörüngesine çıkan ilk canlı olma unvanını kazandı. Ancak dönemin teknolojik imkanları, yörüngeye çıkan bir canlının güvenli bir şekilde Dünya'ya geri getirilmesine olanak tanımıyordu. Bu nedenle Layka'nın görevi, baştan itibaren tek yönlü bir yolculuk olarak planlanmıştı.\n\nBilim dünyası için bu deney, canlı organizmaların yer çekimsiz ortamda nasıl tepki vereceğini anlamak adına kritik bir adımdı. Layka, fırlatmadan kısa bir süre sonra aşırı ısınma nedeniyle hayatını kaybetti. Uzun yıllar boyunca ölüm nedeni hakkında farklı bilgiler verilmiş olsa da, gerçekler 2002 yılında netleşti. Layka'nın trajik ölümü, uzay araştırmaları etiği konusunda dünya çapında geniş tartışmalara yol açtı. Yine de bu uçuş, uzayda yaşamın mümkün olup olmadığını test etmesi bakımından insanlı uzay programlarının önünü açan temel bir gelişme olarak kabul edilmektedir.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Laika_ac_Sputnik_2_Replica_%286995685051%29.jpg/960px-Laika_ac_Sputnik_2_Replica_%286995685051%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Laika_ac_Sputnik_2_Replica_%286995685051%29.jpg/500px-Laika_ac_Sputnik_2_Replica_%286995685051%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1440,
+        "orijinalGenislik": 3456,
+        "yazar": "Laika ac from USA",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Laika_ac_Sputnik_2_Replica_(6995685051).jpg",
+        "aciklama": "Laika's spacecraft.",
+        "konu": "Sputnik 2"
+      },
+      "bolge": "dunya"
+    },
+    {
       "id": "1957-sovyetler-birligi-ikinci-yapay-uydu-sputnik-2yi",
       "yil": 1957,
       "metin": "Sovyetler Birliği, ikinci yapay uydu Sputnik 2'yi yörüngesine fırlattı. Bu uyduda, uzaya giden ilk hayvan olan Laika adlı köpek de bulunuyordu.",
@@ -1489,9 +1518,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/3_Kas%C4%B1m",
-    "revid": 38168809
+    "revid": 38346189
   },
-  "guncelleme": "2026-10-27T11:46:16.188Z",
+  "guncelleme": "2026-10-28T12:20:16.366Z",
   "haberler": [
     {
       "id": "2025-haber-2449294",
@@ -1633,15 +1662,15 @@
         "url": "https://www.cumhuriyet.com.tr/turkiye/chpli-arpaci-tekstil-sektorundeki-krizi-meclise-tasidi-2137051"
       },
       "konular": [
+        "Tekstil",
         "Şeref Arpacı",
-        "Türkiye Büyük Millet Meclisi",
-        "Tekstil"
+        "Türkiye Büyük Millet Meclisi"
       ],
       "yayin": "2023-11-03T11:07:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Tekstil sektöründeki ekonomik durgunluk Meclis gündemine taşındı",
-      "ozet": "Denizli Milletvekili Şeref Arpacı, Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu toplantısında tekstil alanındaki sorunları dile getirdi. Bakanlık bütçesinin görüşüldüğü sırada söz alan Arpacı, yılın ilk çeyreğinde emeklilikte yaşa takılanlar düzenlemesiyle birlikte sektörde işten çıkarma oranlarının arttığına vurgu yaptı.",
+      "baslik": "Tekstil sektöründeki sorunlar Türkiye Büyük Millet Meclisi gündemine taşındı",
+      "ozet": "Denizli Milletvekili Şeref Arpacı, Ticaret Bakanlığı bütçe görüşmeleri sırasında tekstil alanında yaşanan sıkıntıları dile getirdi. Arpacı, yılın ilk çeyreğinde emeklilikte yaşa takılanlar düzenlemesinin ardından sektörde işten ayrılanların sayısındaki artışa vurgu yaptı.",
       "kategori": "Siyaset"
     },
     {
@@ -1709,8 +1738,8 @@
       "yayin": "2021-11-03T11:04:00+03:00",
       "puan": 13,
       "durum": "elendi",
-      "baslik": "Avrupa Kros Şampiyonası için Türkiye'nin hedefi zirve",
-      "ozet": "Türkiye Atletizm Federasyonu Başkanı Fatih Çintimar, yaklaşan Avrupa Kros Şampiyonası'na dair beklentilerini paylaştı. Hem bireysel kategorilerde hem de takım halinde altın madalyalar kazanmayı hedeflediklerini ifade etti. Sporcuların şampiyonluk parolasıyla hazırlıklarını sürdürdüğünü belirtti.",
+      "baslik": "Avrupa Kros Şampiyonası'nda Türk Atletlerin Hedefi Şampiyonluk",
+      "ozet": "Türkiye Atletizm Federasyonu Başkanı Fatih Çintimar, yaklaşan Avrupa Kros Şampiyonası ile ilgili beklentilerini paylaştı. Hem bireysel kategorilerde hem de takım yarışmalarında altın madalya kazanmayı hedeflediklerini ifade eden Çintimar, sporcuların şampiyonluk için mücadele edeceğini belirtti.",
       "kategori": "Spor"
     },
     {
@@ -1853,14 +1882,13 @@
       },
       "konular": [
         "Grekoromen güreş",
-        "Balkan Güreş Şampiyonası",
         "Türkiye millî güreş takımı"
       ],
       "yayin": "2018-11-03T16:09:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Grekoromen Güreş Milli Takımı Balkan Şampiyonasını Zirvede Tamamladı",
-      "ozet": "Gençler Balkan Güreş Şampiyonası müsabakaları sona erdi. Türkiye Grekoromen Milli Takımı, organizasyonu toplamda yedi altın ve üç gümüş madalya kazanarak şampiyonlukla tamamladı. Sporcular gösterdikleri performansla takım halinde birinciliğe ulaştı.",
+      "baslik": "Gençler Balkan Güreş Şampiyonası'nda Türkiye Birinci Oldu",
+      "ozet": "Türkiye Grekoromen Milli Takımı, katıldığı Gençler Balkan Güreş Şampiyonası'nı zirvede tamamladı. Organizasyon boyunca başarılı bir performans sergileyen milli sporcular, toplamda yedi altın ve üç gümüş madalya kazanarak takım halinde şampiyonluk kupasını kaldırdı.",
       "kategori": "Spor"
     },
     {
@@ -1965,7 +1993,7 @@
       "puan": 8,
       "durum": "yazildi",
       "baslik": "Cumhurbaşkanı Erdoğan ve Devlet Bahçeli arasında görüşme gerçekleşti",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ile Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli bir araya gelerek bir görüşme yaptı. Beştepe'de gerçekleşen ve yaklaşık bir saat süren bu toplantıda başkanlık sistemi ile idam cezası gibi gündemdeki konular ele alındı.",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ile Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli bir araya gelerek görüşmede bulundu. Yaklaşık bir saat süren toplantıda başkanlık sistemi ve idam cezası konuları ele alındı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
@@ -2085,13 +2113,14 @@
       },
       "konular": [
         "Emine Ülker Tarhan",
-        "Cumhuriyet Halk Partisi"
+        "Cumhuriyet Halk Partisi",
+        "Siyaset"
       ],
       "yayin": "2014-11-03T15:37:00+03:00",
       "puan": 9,
       "durum": "yazildi",
-      "baslik": "Emine Ülker Tarhan Cumhuriyet Halk Partisi'nden İstifasını Değerlendirdi",
-      "ozet": "Cumhuriyet Halk Partisi üyeliğinden ayrılan bağımsız Ankara Milletvekili Emine Ülker Tarhan, kararının gerekçelerine dair açıklamalarda bulundu. Tarhan, partideki genel gidişattan rahatsız olan ve benzer duyguları paylaşan ancak sessiz kalmayı tercih eden çok sayıda kişiyi geride bırakmanın üzüntüsünü yaşadığını ifade etti. Ayrılma sürecini kendi bakış açısıyla değerlendiren milletvekili, yaşanan tıkanıklık hissinin bu kararı almasında belirleyici olduğunu dile getirdi.",
+      "baslik": "Emine Ülker Tarhan Cumhuriyet Halk Partisi'nden ayrılışını değerlendirdi",
+      "ozet": "Bağımsız Ankara Milletvekili Emine Ülker Tarhan, partisinden istifa etme kararının ardından açıklamalarda bulundu. Tarhan, benzer bir tıkanmışlık hissi taşıyan ancak sessiz kalmayı tercih eden birçok kişiyi geride bırakmak zorunda kaldığını ifade etti. Bu ayrılık kararının kendisi için zorlu bir süreç olduğunu belirten milletvekili, parti içindeki durumuna dair görüşlerini paylaştı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Emine_%C3%9Clker_Tarhan%2C_Anatolia_Party_-_Kocaeli_%2816%29_%28cropped%29.JPG/960px-Emine_%C3%9Clker_Tarhan%2C_Anatolia_Party_-_Kocaeli_%2816%29_%28cropped%29.JPG",
@@ -2121,13 +2150,13 @@
       "konular": [
         "Anayasa Mahkemesi (Türkiye)",
         "İbrahim Kaboğlu",
-        "Türkiye'de anayasa değişikliği"
+        "2010 Türkiye anayasa değişikliği referandumu"
       ],
       "yayin": "2013-11-03T11:51:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "İbrahim Kaboğlu Anayasa Mahkemesi'nin Yapısını Değerlendirdi",
-      "ozet": "Anayasa hukuku alanında uzman olan Prof. Dr. İbrahim Kaboğlu, 2010 yılında gerçekleşen anayasa değişikliği referandumunun ardından Anayasa Mahkemesi'nin mevcut durumunu ele aldı. Kaboğlu, mahkemenin izlediği tutumu ve aldığı kararların niteliğini kapsamlı bir şekilde inceleyerek görüşlerini paylaştı.",
+      "baslik": "Anayasa Hukuku Uzmanından Yüksek Mahkeme Değerlendirmesi",
+      "ozet": "Anayasa hukuku alanında çalışmalar yürüten Prof. Dr. İbrahim Kaboğlu, 2010 yılında gerçekleştirilen anayasa değişikliği referandumunun ardından Anayasa Mahkemesi'nin mevcut durumuna ilişkin eleştirilerde bulundu. Kaboğlu, mahkemenin işleyişinde yaşanan değişimleri ve gelinen noktayı değerlendirerek konu hakkındaki görüşlerini kamuoyuyla paylaştı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Constitutional_Court_of_Turkey.jpg/960px-Constitutional_Court_of_Turkey.jpg",
@@ -2156,14 +2185,13 @@
       },
       "konular": [
         "Aziz Yıldırım",
-        "Fenerbahçe (futbol takımı)",
-        "Spor kulübü başkanlığı"
+        "Fenerbahçe (futbol takımı)"
       ],
       "yayin": "2013-11-03T19:49:00+03:00",
       "puan": 7,
       "durum": "elendi",
-      "baslik": "Fenerbahçe Kulübü seçimlerinde Aziz Yıldırım yeniden başkan seçildi",
-      "ozet": "Fenerbahçe'nin gerçekleştirdiği olağanüstü genel kurul toplantısında başkanlık seçimi yapıldı. Rakibi Mehmet Ali Aydınlar'a karşı üstünlük sağlayan Aziz Yıldırım, görev süresindeki on birinci kongresinden de başarıyla ayrıldı. On altı yıllık idari geçmişinde yedi kez tek başına aday olan Yıldırım, karşısına rakip çıkarılan dört seçimden de zaferle çıktı.",
+      "baslik": "Fenerbahçe Kulübünde Aziz Yıldırım dönemi yeniden başladı",
+      "ozet": "Fenerbahçe tarafından gerçekleştirilen olağanüstü genel kurul toplantısında başkanlık seçimi yapıldı. Seçimlerde Mehmet Ali Aydınlar ile yarışan Aziz Yıldırım, üyelerin çoğunluğunun oyunu alarak görevine devam etti. On altı yıllık başkanlık süreci boyunca katıldığı on bir kongreden de zaferle ayrılan Yıldırım, rakip adayların bulunduğu dördüncü seçimini de kazanmış oldu.",
       "kategori": "Spor"
     },
     {
