@@ -13,10 +13,10 @@
         "Osmanlı İmparatorluğu",
         "Bulgaristan"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Osmanlı İmparatorluğu'nun Kaderini Belirleyen Varna Zaferi",
+      "ozet": "Varna Muharebesi, 15. yüzyılın ortalarında Balkanlar'da Osmanlı ilerleyişini durdurmayı amaçlayan Papalık destekli büyük bir Haçlı ittifakı ile Osmanlı İmparatorluğu'nu karşı karşıya getirdi. Bulgaristan'ın Varna şehri yakınlarında gerçekleşen bu kritik çarpışmada, Macar, Leh ve Eflak kuvvetlerinden oluşan ordu, Sultan II. Murat komutasındaki Osmanlı birlikleriyle karşılaştı. Savaş, Osmanlı ordusunun kesin zaferiyle sonuçlanırken, Haçlı ordusunun lideri olan Macar ve Polonya Kralı I. Ulászló'nin savaş meydanında hayatını kaybetmesi Avrupa'daki siyasi dengeleri derinden sarstı. Bu mağlubiyet, Balkanlar'daki Haçlı direnişini büyük ölçüde kırdı ve Osmanlıların bölgedeki hakimiyetini pekiştirmesine olanak tanıdı. Savaşın ardından Osmanlı İmparatorluğu, Avrupa içlerine yönelik genişleme stratejisinde daha güvenli bir konuma ulaştı. II. Murat'ın bu zaferi, Osmanlı devletinin Balkanlar'daki varlığını kalıcı hale getiren en önemli askeri başarılardan biri olarak tarihe geçti. Kral I. Ulászló'nin ölümüyle sonuçlanan bu muharebe, aynı zamanda Orta Avrupa'daki güç dengelerinin yeniden şekillenmesine yol açan bir dönüm noktası oldu.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Battle_of_Varna_1444.PNG/960px-Battle_of_Varna_1444.PNG",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Battle_of_Varna_1444.PNG/500px-Battle_of_Varna_1444.PNG",
@@ -30,34 +30,7 @@
         "aciklama": null,
         "konu": "Varna Muharebesi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Battle_of_Varna_1444.PNG/960px-Battle_of_Varna_1444.PNG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Battle_of_Varna_1444.PNG/500px-Battle_of_Varna_1444.PNG",
-          "genislik": 960,
-          "yukseklik": 593,
-          "orijinalGenislik": 1200,
-          "yazar": "Jan Matejko",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Battle_of_Varna_1444.PNG",
-          "aciklama": null,
-          "konu": "Varna Muharebesi"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Paolo_Veronese_%28Nachfolger%29_-_Sultan_Murad_II._-_2237_-_Bavarian_State_Painting_Collections.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Paolo_Veronese_%28Nachfolger%29_-_Sultan_Murad_II._-_2237_-_Bavarian_State_Painting_Collections.jpg",
-          "genislik": 661,
-          "yukseklik": 859,
-          "orijinalGenislik": 661,
-          "yazar": "Paolo Veronese",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Paolo_Veronese_(Nachfolger)_-_Sultan_Murad_II._-_2237_-_Bavarian_State_Painting_Collections.jpg",
-          "aciklama": null,
-          "konu": "II. Murat"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1775-abd-deniz-piyadeleri-adi-verilen-askeri-hizmet",
@@ -81,23 +54,12 @@
         "Cemiyet-i Hayriye-i Nisvaniye",
         "Selanik"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Tower_of_Thessaloniki_-_panoramio.jpg/960px-Tower_of_Thessaloniki_-_panoramio.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Tower_of_Thessaloniki_-_panoramio.jpg/500px-Tower_of_Thessaloniki_-_panoramio.jpg",
-        "genislik": 960,
-        "yukseklik": 974,
-        "orijinalGenislik": 1704,
-        "yazar": "fabiolah",
-        "lisans": "CC BY 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Tower_of_Thessaloniki_-_panoramio.jpg",
-        "aciklama": "Tower of Thessaloniki",
-        "konu": "Selanik"
-      }
+      "baslik": "Kız Çocuklarının Eğitimi İçin Önemli Bir Adım: Cemiyet-i Hayriye-i Nisvaniye",
+      "ozet": "İkinci Meşrutiyet'in ilanından kısa bir süre sonra, 1908 yılının Kasım ayında Selanik'te kadınların toplumsal hayata katılımını ve kız çocuklarının eğitimini desteklemek amacıyla Cemiyet-i Hayriye-i Nisvaniye kuruldu. Zekiye Hanım öncülüğünde hayata geçirilen bu girişim, dönemin Osmanlı toplumunda kadınların eğitim haklarını savunmak ve bu alandaki eksiklikleri gidermek için atılmış sivil bir adım olma özelliği taşıyordu. Cemiyet, özellikle kız çocuklarının okullaşması ve eğitim seviyelerinin yükseltilmesi için çeşitli yardım faaliyetleri yürüterek toplumsal bir farkındalık oluşturmayı hedefledi.\n\nBu cemiyetin kuruluşu, Osmanlı İmparatorluğu'nda kadınların örgütlenme ve eğitim hakları konusundaki taleplerinin arttığı bir döneme denk gelmektedir. Cemiyet-i Hayriye-i Nisvaniye, sadece eğitimle sınırlı kalmayıp aynı zamanda kadınların sosyal statülerini güçlendirmeyi amaçlayan bir dayanışma ağı olarak faaliyet gösterdi. O dönemde Selanik'in sahip olduğu entelektüel ve özgürlükçü atmosfer, bu tür sivil toplum hareketlerinin filizlenmesi için uygun bir zemin hazırlamıştır. Cemiyetin çalışmaları, ilerleyen yıllarda Türkiye'de kadın hakları ve eğitim reformları konusunda atılacak daha kapsamlı adımların öncülerinden biri olarak kabul edilmektedir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1914-i-dunya-savasi-osmanli-imparatorlugu-ile-britanya",
@@ -136,51 +98,24 @@
         "Darülbedayi",
         "Afife Jale"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türk Tiyatrosunda Kadınların Sahneye İlk Adımı",
+      "ozet": "Osmanlı İmparatorluğu'nun ilk konservatuvarı olan Darülbedayi, 1918 yılında kapılarını ilk kez Müslüman-Türk kadın öğrencilere açtı. Bedire, Memduha, Beyza, Refika ve Afife Jale isimli beş genç kadın, tiyatro eğitimi almak üzere kuruma kabul edildi. Bu gelişme, o dönemde kadınların sahne sanatlarında yer almasının önündeki toplumsal engellerin aşılması adına atılmış tarihi bir adım olarak kabul edilmektedir. Eğitim alan bu isimler arasında yer alan Afife Jale, daha sonra profesyonel olarak sahneye çıkan ilk Müslüman kadın oyuncu unvanını alarak Türk tiyatro tarihinin en önemli figürlerinden biri haline gelecektir. Darülbedayi'nin bu kararı, sadece bir eğitim kurumu değişikliği değil, aynı zamanda Türkiye'de Batılı anlamda tiyatronun gelişimi ve kadınların kamusal alanda sanat icra etme hakları açısından bir dönüm noktasıdır. Bu cesur adım, tiyatronun toplumun her kesimine ulaşması ve kadınların sanatsal üretimde aktif rol alması için gerekli olan kültürel dönüşümün temelini oluşturmuştur.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Harbiye_Muhsin_Ertu%C4%9Frul_Stage.JPG/960px-Harbiye_Muhsin_Ertu%C4%9Frul_Stage.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Harbiye_Muhsin_Ertu%C4%9Frul_Stage.JPG/500px-Harbiye_Muhsin_Ertu%C4%9Frul_Stage.JPG",
-        "genislik": 960,
-        "yukseklik": 636,
-        "orijinalGenislik": 2464,
-        "yazar": "CeeGee",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Harbiye_Muhsin_Ertu%C4%9Frul_Stage.JPG",
-        "aciklama": "Harbiye Muhsin Ertuğrul Stage in Şişli, Istanbul, Turkey",
-        "konu": "Darülbedayi"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Afife-Jale-1jpg.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Afife-Jale-1jpg.jpg",
+        "genislik": 559,
+        "yukseklik": 619,
+        "orijinalGenislik": 559,
+        "yazar": "Tugsataydin",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Afife-Jale-1jpg.jpg",
+        "aciklama": "Afife Jale",
+        "konu": "Afife Jale"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Harbiye_Muhsin_Ertu%C4%9Frul_Stage.JPG/960px-Harbiye_Muhsin_Ertu%C4%9Frul_Stage.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Harbiye_Muhsin_Ertu%C4%9Frul_Stage.JPG/500px-Harbiye_Muhsin_Ertu%C4%9Frul_Stage.JPG",
-          "genislik": 960,
-          "yukseklik": 636,
-          "orijinalGenislik": 2464,
-          "yazar": "CeeGee",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Harbiye_Muhsin_Ertu%C4%9Frul_Stage.JPG",
-          "aciklama": "Harbiye Muhsin Ertuğrul Stage in Şişli, Istanbul, Turkey",
-          "konu": "Darülbedayi"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Afife-Jale-1jpg.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Afife-Jale-1jpg.jpg",
-          "genislik": 559,
-          "yukseklik": 619,
-          "orijinalGenislik": 559,
-          "yazar": "Tugsataydin",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Afife-Jale-1jpg.jpg",
-          "aciklama": "Afife Jale",
-          "konu": "Afife Jale"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1922-osmanli-padisahi-vi-mehmet-vahdettin-son-selamlik",
@@ -215,23 +150,12 @@
       "konular": [
         "Kırklareli"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/K%C4%B1rklareli_5195.jpg/960px-K%C4%B1rklareli_5195.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/K%C4%B1rklareli_5195.jpg/500px-K%C4%B1rklareli_5195.jpg",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 2576,
-        "yazar": "User:Darwinek",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:K%C4%B1rklareli_5195.jpg",
-        "aciklama": "İstasyon Caddesi in Kırklareli, Turkey",
-        "konu": "Kırklareli"
-      }
+      "baslik": "Kırklareli'nin Düşman İşgalinden Kurtuluşu",
+      "ozet": "Kırklareli, 10 Kasım 1922 tarihinde gerçekleşen kurtuluş hareketiyle uzun süren işgal dönemini geride bırakarak Türkiye Cumhuriyeti'nin egemenlik sınırları içerisindeki yerini almıştır. Balkan Savaşları ve I. Dünya Savaşı'nın yarattığı çalkantılı süreçte farklı güçlerin kontrolüne giren şehir, bu tarihte nihai bağımsızlığına kavuşmuştur. Bu olay, bölge halkı için uzun yıllar süren belirsizlik ve çatışma döneminin sona erdiği, huzur ve güven ortamının yeniden tesis edildiği tarihi bir dönüm noktasıdır.\n\nStratejik konumu nedeniyle tarih boyunca pek çok medeniyete ev sahipliği yapan ve geçiş güzergahı üzerinde bulunması sebebiyle sık sık istilalara uğrayan Kırklareli, 1363 yılında Osmanlı topraklarına katılmıştı. Ancak 20. yüzyılın başlarında yaşanan bölgesel savaşlar, şehrin sosyal ve ekonomik yapısında derin yaralar açmıştı. 1922 yılındaki kurtuluş, sadece askeri bir zafer değil, aynı zamanda bölgenin yeniden imarı ve toplumsal bütünleşme sürecinin de başlangıcı olmuştur. Bugün Kırklareli halkı, her yıl 10 Kasım tarihinde bu kurtuluşu coşkuyla kutlayarak geçmişin zorluklarını ve kazanılan özgürlüğün değerini anmaktadır.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1924-halk-firkasindan-istifa-eden-milletvekillerinin-kuracagi-partinin",
@@ -300,10 +224,10 @@
         "Los Angeles",
         "Hollywood"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Walt Disney ve FBI Arasındaki Gizli İş Birliği",
+      "ozet": "Animasyon dünyasının efsanevi ismi Walt Disney, 10 Kasım 1940 tarihinde Federal Soruşturma Bürosu (FBI) ile alışılmadık bir iş birliğine adım attı. Disney, kurumun Los Angeles ofisi için gizli muhbir olarak çalışmaya başladı. Bu görevi kapsamında, Hollywood endüstrisi içerisinde faaliyet gösteren ve Amerikan değerlerine aykırı görüşlere sahip olduğu düşünülen kişileri tespit ederek yetkililere bildirmesi bekleniyordu. O dönemde ABD'de yükselen siyasi gerilimler ve komünizm korkusu, FBI'ın eğlence sektörünü yakından izlemesine neden olmuştu.\n\nDisney'in bu muhbirlik süreci, Hollywood'un altın çağında yaşanan siyasi baskıların ve ideolojik ayrışmaların önemli bir yansımasıdır. Sanat dünyasındaki isimlerin fişlenmesi ve sorgulanması, ilerleyen yıllarda McCarthy dönemi olarak bilinen cadı avı sürecinin de habercisi niteliğindeydi. Walt Disney'in bu rolü, onun sadece bir yapımcı değil, aynı zamanda dönemin siyasi atmosferinde devletin iç güvenlik politikalarıyla doğrudan temas halinde olan bir figür olduğunu göstermektedir. Bu olay, sanatın ve sanatçıların siyasi otoritelerle olan karmaşık ilişkisini gözler önüne seren tarihi bir not olarak kayıtlara geçmiştir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Walt_Disney_1946.JPG",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Walt_Disney_1946.JPG",
@@ -317,47 +241,7 @@
         "aciklama": "Publicity photo of Walt Disney from the Boy Scouts of America. Disney was given an award by them in 1946.",
         "konu": "Walt Disney"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Walt_Disney_1946.JPG",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Walt_Disney_1946.JPG",
-          "genislik": 450,
-          "yukseklik": 675,
-          "orijinalGenislik": 450,
-          "yazar": "Boy Scouts of America",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Walt_Disney_1946.JPG",
-          "aciklama": "Publicity photo of Walt Disney from the Boy Scouts of America. Disney was given an award by them in 1946.",
-          "konu": "Walt Disney"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Hollywood_Sign_%28Zuschnitt%29.jpg/960px-Hollywood_Sign_%28Zuschnitt%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Hollywood_Sign_%28Zuschnitt%29.jpg/500px-Hollywood_Sign_%28Zuschnitt%29.jpg",
-          "genislik": 960,
-          "yukseklik": 600,
-          "orijinalGenislik": 11065,
-          "yazar": "Thomas Wolf, www.foto-tw.de",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Hollywood_Sign_(Zuschnitt).jpg",
-          "aciklama": "Hollywood Sign in Los Angeles, California",
-          "konu": "Los Angeles"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/View_from_behind_Hollywood_Sign_overlooking_LA.jpg/960px-View_from_behind_Hollywood_Sign_overlooking_LA.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/View_from_behind_Hollywood_Sign_overlooking_LA.jpg/500px-View_from_behind_Hollywood_Sign_overlooking_LA.jpg",
-          "genislik": 960,
-          "yukseklik": 458,
-          "orijinalGenislik": 5518,
-          "yazar": "Michael E. Arth",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:View_from_behind_Hollywood_Sign_overlooking_LA.jpg",
-          "aciklama": "Taken from atop Mt. Lee showing the back of the Hollywood Sign. From left to right, the view includes the Griffith Observatory, downtown Los Angeles, Hollywoodland subdivision (near/below), the sprawl",
-          "konu": "Hollywood"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1944-muttefikler-arnavutlukta-enver-hoca-liderligindeki-hukumeti-tanidi",
@@ -367,10 +251,10 @@
         "Arnavutluk",
         "Enver Hoca"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Müttefiklerin Arnavutluk'ta Enver Hoca Hükûmetini Tanıması",
+      "ozet": "İkinci Dünya Savaşı'nın Avrupa cephesinde dengelerin değiştiği bir dönemde, Müttefik devletler Arnavutluk'ta Enver Hoca önderliğindeki komünist yönetimi meşru hükûmet olarak kabul etti. Bu diplomatik adım, ülkedeki Nazi işgalinin sona ermesi ve yerel direniş güçlerinin kontrolü ele almasıyla birlikte gerçekleşti. Enver Hoca, 1941 yılında kurulan Arnavutluk Emek Partisi'nin genel sekreteri olarak, savaş boyunca işgalcilere karşı yürütülen mücadelenin en önemli figürü haline gelmişti.\n\nBu tanınma, Arnavutluk'un savaş sonrası siyasi geleceğinin belirlenmesinde kritik bir dönüm noktası oldu. Müttefiklerin desteğini alan Hoca, kısa süre içinde monarşiyi tasfiye ederek ülkede sosyalist bir düzenin temellerini attı. 1944 yılından 1985 yılındaki ölümüne kadar Arnavutluk'u yöneten Hoca, bu süreçte ülkenin dış politikasını ve iç yapısını köklü bir şekilde değiştirdi. Söz konusu diplomatik tanıma, Arnavutluk'un savaş sonrası dönemde uluslararası arenada yerini almasını sağlarken, aynı zamanda Hoca'nın uzun sürecek olan otoriter iktidarının da başlangıcını simgeledi.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Enver_Hoxha_%28i_ri%29.jpg/960px-Enver_Hoxha_%28i_ri%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Enver_Hoxha_%28i_ri%29.jpg/500px-Enver_Hoxha_%28i_ri%29.jpg",
@@ -383,7 +267,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Enver_Hoxha_(i_ri).jpg",
         "aciklama": "Portrait of a young Enver Hoxha during the war",
         "konu": "Enver Hoca"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1951-abdde-ilk-kez-atlantik-ve-pasifik-sahilleri",
@@ -435,10 +320,10 @@
         "Stalingrad",
         "Volgagrad"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Stalingrad Şehrinin İsmi Volgograd Olarak Değiştirildi",
+      "ozet": "Sovyetler Birliği'nde 1961 yılının 10 Kasım gününde alınan resmi bir kararla, daha önce Josef Stalin'in onuruna Stalingrad olarak adlandırılan şehrin ismi Volgograd şeklinde değiştirildi. Bu isim değişikliği, Sovyetler Birliği Komünist Partisi'nin 20. Kongresi ile başlayan ve Stalin döneminin uygulamalarını eleştiren 'destalinizasyon' sürecinin bir parçası olarak hayata geçirildi. Şehir, Volga Nehri kıyısında yer alması nedeniyle yeni ismini coğrafi konumundan almıştır. 1589 yılında Tsaritsyn adıyla kurulan ve tarih boyunca farklı isimlerle anılan şehir, özellikle II. Dünya Savaşı sırasında gerçekleşen Stalingrad Muharebesi ile dünya tarihinde sembolik bir yere sahip olmuştur. Savaşın dönüm noktalarından biri kabul edilen bu büyük çatışma, şehrin isminin dünya genelinde tanınmasını sağlamıştı. İsim değişikliği, Stalin'in ölümünden sonra Sovyet yönetiminin geçmişle olan bağlarını yeniden tanımlama ve kişisel kültü azaltma çabalarının somut bir yansıması olarak tarihe geçti. Bugün Volgograd, Rusya'nın önemli sanayi ve idari merkezlerinden biri olmaya devam etmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Volgograd_Russia.jpg/960px-Volgograd_Russia.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Volgograd_Russia.jpg/500px-Volgograd_Russia.jpg",
@@ -451,7 +336,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Volgograd_Russia.jpg",
         "aciklama": "Mamayev Kurgan, Volgograd, Russia",
         "konu": "Stalingrad"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1965-cinde-kultur-devrimi-basladi",
@@ -503,10 +389,10 @@
         "Sovyetler Birliği",
         "Lunokhod 1"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Uzay Keşfinde Bir İlk: Lunokhod 1 Ay'a Gönderildi",
+      "ozet": "Sovyetler Birliği'nin uzay programı kapsamında geliştirilen Lunokhod 1, 10 Kasım 1970 tarihinde Ay'a doğru yolculuğuna başladı. Bu görev, insanlık tarihinin başka bir gök cismi üzerinde uzaktan kumanda ile hareket ettirilen ilk robotik aracını Ay yüzeyine taşıması bakımından büyük bir teknolojik dönüm noktası oluşturdu. Lunokhod 1, sadece bir keşif aracı değil, aynı zamanda uzayda otonom veya yarı otonom sistemlerin çalışabileceğini kanıtlayan öncü bir mühendislik başarısıydı.\n\nAy yüzeyine iniş yaptıktan sonra araç, Dünya'dan gönderilen komutlarla yüzeyde ilerleyerek çeşitli bilimsel veriler topladı ve fotoğraflar çekti. Bu görev, Sovyetler Birliği'nin uzay yarışındaki iddiasını pekiştirirken, gelecekteki gezegen keşif görevleri için de temel bir model teşkil etti. Lunokhod 1'in başarısı, uzay araştırmalarında insanlı görevlerin yanı sıra robotik sistemlerin ne kadar kritik bir rol oynayabileceğini tüm dünyaya göstermiş oldu.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Soviet_moonrover.JPG/960px-Soviet_moonrover.JPG",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Soviet_moonrover.JPG/500px-Soviet_moonrover.JPG",
@@ -519,7 +405,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Soviet_moonrover.JPG",
         "aciklama": "Mock-up of Soviet Lunokhod–1 moonrover. (The original lunar rover landed on 1970-11-17.)",
         "konu": "Lunokhod 1"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1975-portekiz-16-yuzyildan-beri-somurgesi-olan-angolaya",
@@ -545,10 +432,10 @@
         "Lech Walesa",
         "Dayanışma Sendikası"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Dayanışma Sendikası'nın Polonya'da Yasallaşması",
+      "ozet": "Polonya'da sosyalist yönetimin denetimi dışında kurulan ilk bağımsız işçi örgütü olan Dayanışma Sendikası, 10 Kasım 1980 tarihinde hukuki statü kazanarak resmen tescil edildi. Lech Walesa önderliğinde Gdańsk Tersanesi işçileri tarafından başlatılan bu hareket, kısa sürede sendikal sınırları aşarak ülke genelinde geniş bir toplumsal muhalefet odağı haline geldi. Komünist parti yönetiminin baskılarına rağmen elde edilen bu yasal statü, Polonya'nın siyasi tarihinde dönüm noktalarından biri olarak kabul edilir.\n\nDayanışma Sendikası'nın yasallaşması, Varşova Paktı ülkeleri içerisinde komünist parti kontrolü dışında faaliyet gösteren ilk bağımsız yapı olması bakımından büyük bir önem taşır. Bu gelişme, 1980'li yıllar boyunca sürecek olan radikal reform taleplerinin ve demokratikleşme sürecinin önünü açtı. Sendikanın kazandığı bu meşruiyet, ilerleyen yıllarda hükûmetle masaya oturulmasını sağlamış ve 1989 yılındaki seçim zaferiyle sonuçlanan sürecin temelini oluşturmuştur. Bu hareketin lideri Lech Walesa, daha sonraki yıllarda Nobel Barış Ödülü'ne layık görülmüş ve Polonya'nın cumhurbaşkanı olarak görev yapmıştır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_%28cropped%29.jpg",
@@ -561,7 +448,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_(cropped).jpg",
         "aciklama": "Lech Wałęsa w 2026",
         "konu": "Lech Walesa"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1981-devlet-mezarligi-hakkinda-kanun-yururluge-girdi-anitkabirde",
@@ -614,10 +502,10 @@
         "Doğu Avrupa",
         "demokratikleşme"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Todor Jivkov'un İstifası ve Bulgaristan'da Dönüşüm",
+      "ozet": "Bulgaristan Komünist Partisi'nin başında 1954 yılından beri bulunan Todor Jivkov, 10 Kasım 1989 tarihinde görevinden ayrılmak zorunda kaldı. Jivkov'un istifası, o dönemde tüm Doğu Avrupa'yı etkisi altına alan ve Sovyet Bloku'nun çözülmesine yol açan geniş çaplı demokratikleşme hareketlerinin bir parçasıydı. Uzun süreli iktidarı boyunca ülkeyi katı bir merkeziyetçi anlayışla yöneten Jivkov'un gidişi, Bulgaristan tarihinde yeni bir dönemin başlangıcı olarak kabul edilir. Bu olay, sadece bir liderin değişimi değil, aynı zamanda ülkenin siyasi yapısının kökten değişeceği bir sürecin de habercisiydi. Jivkov'un istifasının ardından Bulgaristan, çok partili sisteme geçiş ve piyasa ekonomisine uyum sağlama yolunda önemli adımlar atmaya başladı. Bu süreç, bölgedeki diğer sosyalist ülkelerde olduğu gibi, halkın özgürlük taleplerinin ve ekonomik beklentilerinin bir sonucu olarak ortaya çıktı. Jivkov'un iktidardan uzaklaştırılması, Bulgaristan'ın Soğuk Savaş sonrası Avrupa'daki yerini yeniden tanımlama çabalarının ilk ve en kritik aşamalarından biri oldu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Todor_Zhivkov_%2C_eerste_secretaris_Communistische_Partij_en_president_van_Bulgari%2C_Bestanddeelnr_924-8077_%28cropped%29.jpg/960px-Todor_Zhivkov_%2C_eerste_secretaris_Communistische_Partij_en_president_van_Bulgari%2C_Bestanddeelnr_924-8077_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Todor_Zhivkov_%2C_eerste_secretaris_Communistische_Partij_en_president_van_Bulgari%2C_Bestanddeelnr_924-8077_%28cropped%29.jpg/500px-Todor_Zhivkov_%2C_eerste_secretaris_Communistische_Partij_en_president_van_Bulgari%2C_Bestanddeelnr_924-8077_%28cropped%29.jpg",
@@ -631,34 +519,7 @@
         "aciklama": "Collectie / Archief : Fotocollectie Anefo Reportage / Serie : [ onbekend ] Beschrijving : Todor Zhivkov , eerste secretaris Communistische Partij en president van Bulgarije tijdens congres Communistis",
         "konu": "Todor Jivkov"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Todor_Zhivkov_%2C_eerste_secretaris_Communistische_Partij_en_president_van_Bulgari%2C_Bestanddeelnr_924-8077_%28cropped%29.jpg/960px-Todor_Zhivkov_%2C_eerste_secretaris_Communistische_Partij_en_president_van_Bulgari%2C_Bestanddeelnr_924-8077_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Todor_Zhivkov_%2C_eerste_secretaris_Communistische_Partij_en_president_van_Bulgari%2C_Bestanddeelnr_924-8077_%28cropped%29.jpg/500px-Todor_Zhivkov_%2C_eerste_secretaris_Communistische_Partij_en_president_van_Bulgari%2C_Bestanddeelnr_924-8077_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1200,
-          "orijinalGenislik": 1398,
-          "yazar": "Anefo",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Todor_Zhivkov_,_eerste_secretaris_Communistische_Partij_en_president_van_Bulgari,_Bestanddeelnr_924-8077_(cropped).jpg",
-          "aciklama": "Collectie / Archief : Fotocollectie Anefo Reportage / Serie : [ onbekend ] Beschrijving : Todor Zhivkov , eerste secretaris Communistische Partij en president van Bulgarije tijdens congres Communistis",
-          "konu": "Todor Jivkov"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Global_effect_of_1989-1991_Revolutions.png/960px-Global_effect_of_1989-1991_Revolutions.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Global_effect_of_1989-1991_Revolutions.png/500px-Global_effect_of_1989-1991_Revolutions.png",
-          "genislik": 960,
-          "yukseklik": 518,
-          "orijinalGenislik": 6300,
-          "yazar": "Aldan-2",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Global_effect_of_1989-1991_Revolutions.png",
-          "aciklama": "The global effect of 1989-1991 Revolutions.",
-          "konu": "demokratikleşme"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "2020-2020-daglik-karabag-savasi-sonuclandi-ermenistan-kaybetti",
@@ -669,10 +530,10 @@
         "Ermenistan",
         "Azerbaycan"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İkinci Dağlık Karabağ Savaşı'nın Sona Ermesi",
+      "ozet": "27 Eylül 2020 tarihinde başlayan ve 44 gün süren çatışmaların ardından, Azerbaycan ile Ermenistan arasında Rusya'nın arabuluculuğunda ateşkes anlaşması imzalandı. Bu anlaşma, Ermenistan'ın işgali altında bulunan Dağlık Karabağ ve çevresindeki yedi rayonun Azerbaycan kontrolüne geçmesini sağladı. Azerbaycan tarafında Vatan Muharebesi olarak adlandırılan bu süreç, bölgedeki statükoyu kökten değiştirerek Azerbaycan'ın toprak bütünlüğünün büyük ölçüde yeniden tesis edilmesine olanak tanıdı.\n\nSavaşın sona ermesi, Güney Kafkasya'da uzun yıllardır devam eden gerilimin seyrini değiştiren kritik bir dönüm noktası oldu. Ermenistan'ın askeri kayıpları ve Azerbaycan ordusunun stratejik ilerleyişi, çatışmaların diplomatik bir mutabakatla noktalanmasını zorunlu kıldı. Anlaşma şartları gereği bölgeye Rus barış gücü unsurları yerleştirilirken, Azerbaycan'ın elde ettiği bu zafer, bölge jeopolitiğinde yeni bir dönemin başlangıcı olarak kabul edildi.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2020_Nagorno-Karabakh_war_Turkish.png/960px-2020_Nagorno-Karabakh_war_Turkish.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2020_Nagorno-Karabakh_war_Turkish.png/500px-2020_Nagorno-Karabakh_war_Turkish.png",
@@ -685,7 +546,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:2020_Nagorno-Karabakh_war_Turkish.png",
         "aciklama": "Bu harita belirtilmiş haritanın Türkiye Türkçesine uygun hâlidir. Yer isimlerini arama motorlarında çıkan sonuçlara, Vikipedideki hâllerine uygun olarak ve Türkiye Türkçesine yakın olmaya göre koydum.",
         "konu": "2020 Dağlık Karabağ Savaşı"
-      }
+      },
+      "bolge": "turkiye"
     }
   ],
   "dogumlar": [

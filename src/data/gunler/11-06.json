@@ -1066,7 +1066,7 @@
     "url": "https://tr.wikipedia.org/wiki/6_Kas%C4%B1m",
     "revid": 38196625
   },
-  "guncelleme": "2026-10-28T12:20:17.560Z",
+  "guncelleme": "2026-10-29T12:29:22.584Z",
   "haberler": [
     {
       "id": "2025-haber-2450515",
@@ -1541,29 +1541,16 @@
         "url": "https://www.cumhuriyet.com.tr/haber/piyasada-secim-havasi-cabuk-sondu-408821"
       },
       "konular": [
-        "Dolar/TL",
-        "Federal Rezerv",
-        "Ekonomi"
+        "Dolar",
+        "Ekonomi",
+        "Türkiye"
       ],
       "yayin": "2015-11-06T23:05:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Dolar kuru ABD kaynaklı verilerin ardından yükselişe geçti",
-      "ozet": "Amerika Birleşik Devletleri tarafından açıklanan istihdam verileri piyasalarda etkili oldu. Fed faiz artırımına gideceği yönündeki beklentilerle birlikte dolar Türk lirası karşısında değer kazandı. Döviz kuru bu hareketlilikle iki nokta doksan iki seviyesini aşarak seçim öncesindeki dönemde bulunduğu noktaya geri döndü.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/960px-Luchtfoto_van_Lower_Manhattan.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/500px-Luchtfoto_van_Lower_Manhattan.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 5616,
-        "yazar": "Daniele Pieroni",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Luchtfoto_van_Lower_Manhattan.jpg",
-        "aciklama": "Lower Manhattan gezien vanuit het zuidwesten.",
-        "konu": "Ekonomi"
-      }
+      "durum": "elendi",
+      "baslik": "Dolar kuru ABD verileriyle yeniden yükselişe geçti",
+      "ozet": "Amerika Birleşik Devletleri tarafından açıklanan istihdam rakamları piyasalarda etkili oldu. Merkez Bankası faiz artırımına gideceği yönündeki beklentilerin güçlenmesiyle birlikte dolar karşısında Türk lirası değer kaybetti. Döviz kuru seçim öncesindeki seviyelerine geri dönerek 2.92 sınırını aştı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2015-haber-408651",
@@ -1709,7 +1696,7 @@
       "puan": 9,
       "durum": "elendi",
       "baslik": "Yerel seçimlerin 2014 yılı Mart ayında yapılması kararlaştırıldı",
-      "ozet": "Dönemin Başbakanı Recep Tayyip Erdoğan, yerel seçimlerin planlanan takvime uygun şekilde gerçekleştirileceğini duyurdu. Seçimlerin 2014 yılının Mart ayında yapılacağını belirten Erdoğan, sürecin zamanında işleyeceğini ifade etti.",
+      "ozet": "Başbakan Recep Tayyip Erdoğan yerel seçimlerin takvimine ilişkin açıklamalarda bulundu. Seçimlerin öne çekilmeyeceğini belirten Erdoğan, sandıkların 2014 yılının Mart ayında kurulacağını ifade etti.",
       "kategori": "Siyaset"
     },
     {
