@@ -1339,7 +1339,7 @@
     "url": "https://tr.wikipedia.org/wiki/5_Kas%C4%B1m",
     "revid": 38168818
   },
-  "guncelleme": "2026-10-28T12:20:17.142Z",
+  "guncelleme": "2026-10-29T12:29:22.139Z",
   "haberler": [
     {
       "id": "2025-haber-2449968",
@@ -1560,8 +1560,8 @@
       "yayin": "2022-11-05T19:19:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "CHP Genel Başkan Yardımcısı Salıcı Keçiören'de yeni üyelerle bir araya geldi",
-      "ozet": "Cumhuriyet Halk Partisi Genel Başkan Yardımcısı Oğuz Kaan Salıcı, Ankara'nın Keçiören ilçesinde düzenlenen törenle partiye katılan yeni üyelere rozetlerini taktı. Etkinlikte yaptığı konuşmada mevcut iktidara yönelik eleştirilerde bulunan Salıcı, çalışmalarını kararlılıkla sürdüreceklerini ifade etti.",
+      "baslik": "Oğuz Kaan Salıcı Keçiören'de Yeni Üyelerin Rozetlerini Taktı",
+      "ozet": "Cumhuriyet Halk Partisi Genel Başkan Yardımcısı Oğuz Kaan Salıcı, Ankara'nın Keçiören ilçesinde düzenlenen törene katıldı. Partiye yeni katılan vatandaşlara rozetlerini takdim eden Salıcı, burada yaptığı konuşmada siyasi faaliyetlerinin kararlılıkla sürdürüleceğini ifade etti.",
       "kategori": "Siyaset"
     },
     {
@@ -1642,8 +1642,8 @@
       "yayin": "2020-11-05T12:27:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Cumhurbaşkanı Erdoğan Erzincan Depremi Üzerinden Muhalefeti Eleştirdi",
-      "ozet": "Adalet ve Kalkınma Partisi Genel Merkezinde düzenlenen genişletilmiş il başkanları toplantısında konuşan Recep Tayyip Erdoğan, 1939 yılında yaşanan Erzincan depremini gündeme getirdi. Erdoğan, bu tarihi felaket üzerinden Cumhuriyet Halk Partisi yönetimini eleştiren açıklamalarda bulundu.",
+      "baslik": "Cumhurbaşkanı Erdoğan'dan Erzincan Depremi Üzerinden Eleştiri",
+      "ozet": "Adalet ve Kalkınma Partisi Genel Merkezi'nde düzenlenen Genişletilmiş İl Başkanları Toplantısı'nda konuşan Recep Tayyip Erdoğan, 1939 yılında yaşanan Erzincan depremini gündeme getirdi. Erdoğan, söz konusu dönemdeki uygulamalar üzerinden Cumhuriyet Halk Partisi'ne yönelik eleştirilerde bulundu.",
       "kategori": "Siyaset"
     },
     {
@@ -1862,23 +1862,10 @@
       ],
       "yayin": "2016-11-05T15:19:00+03:00",
       "puan": 12,
-      "durum": "yazildi",
-      "baslik": "Manny Pacquiao hayır kurumlarına büyük miktarda bağış yaptı",
-      "ozet": "Dünyaca tanınan profesyonel boksör Manny Pacquiao, kariyeri boyunca ihtiyaç sahiplerine sağladığı maddi desteği duyurdu. Ünlü sporcu, bugüne kadar toplamda 200 milyon Dolar tutarında bir yardımı yoksul kesimlere ulaştırdığını ifade etti.",
-      "kategori": "Toplum",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Pacquiao_and_Didal_%28cropped%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Pacquiao_and_Didal_%28cropped%29.jpg",
-        "genislik": 622,
-        "yukseklik": 849,
-        "orijinalGenislik": 622,
-        "yazar": "Avito C. Dalan for the Philippine News Agency",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Pacquiao_and_Didal_(cropped).jpg",
-        "aciklama": "Senator Emmanuel Pacquiao, chairman of the Senate Committee on Sports, congratulates Asian gold medalist skateboarder Margilyn Didal during the latter’s courtesy call at the Senate in Pasay City on Se",
-        "konu": "Manny Pacquiao"
-      }
+      "durum": "elendi",
+      "baslik": "Manny Pacquiao ihtiyaç sahiplerine büyük miktarda bağışta bulundu",
+      "ozet": "Dünyaca tanınan Filipinli boksör Manny Pacquiao, kariyeri boyunca elde ettiği kazançtan ihtiyaç sahiplerine önemli bir pay ayırdığını duyurdu. Sporcu, bugüne kadar yoksul durumdaki kişilere toplamda 200 milyon Dolar tutarında yardım yaptığını ifade etti.",
+      "kategori": "Toplum"
     },
     {
       "id": "2016-haber-626669",
@@ -1893,13 +1880,14 @@
       },
       "konular": [
         "Halkların Demokratik Partisi",
-        "Adana"
+        "Adana",
+        "Siyaset"
       ],
       "yayin": "2016-11-05T20:12:00+03:00",
       "puan": 7,
       "durum": "elendi",
-      "baslik": "Adana'da kepenk kapatan esnaflar hakkında yasal işlem başlatıldı",
-      "ozet": "Adana ilinde gerçekleştirilen bir operasyon süreciyle bağlantılı olarak iş yerlerini açmayan esnaflar hakkında soruşturma süreci başlatıldı. Söz konusu operasyonun Halkların Demokratik Partisi üyelerine yönelik yapıldığı belirtildi. Yetkililer, kepenk kapatma eylemi gerçekleştiren işletme sahiplerinin durumunu incelemeye aldı.",
+      "baslik": "Adana'da kepenk kapatan esnaflar hakkında soruşturma başlatıldı",
+      "ozet": "Adana ilinde düzenlenen bir operasyonun ardından faaliyetlerini durduran işletme sahiplerine yönelik hukuki süreç başlatıldı. Halkların Demokratik Partisi üyelerine yönelik gerçekleştirilen operasyonları protesto etmek amacıyla iş yerlerini açmayan esnaflar hakkında inceleme yapıldı.",
       "kategori": "Siyaset"
     },
     {
@@ -2034,8 +2022,8 @@
       "yayin": "2013-11-05T22:16:00+03:00",
       "puan": 6,
       "durum": "elendi",
-      "baslik": "Yüksek Seçim Kurulu binası önünde yaşanan patlama paniğe yol açtı",
-      "ozet": "Ankara'da bulunan Yüksek Seçim Kurulu binasının yakınlarında akşam saatlerinde bir patlama sesi duyuldu. Emniyet güçlerini harekete geçiren olayın ardından yapılan ilk teknik incelemeler, patlamanın çevredeki küçük bir yangın nedeniyle camların aşırı ısınarak genleşmesinden kaynaklandığını ortaya koydu.",
+      "baslik": "Yüksek Seçim Kurulu binasında yaşanan patlama incelemeye alındı",
+      "ozet": "Ankara'da bulunan Yüksek Seçim Kurulu binasının yakınlarında akşam saatlerinde bir patlama sesi duyuldu. Emniyet güçlerini harekete geçiren olaya ilişkin yapılan ilk tespitlerde, çevrede çıkan küçük çaplı bir yangının ısınmaya neden olduğu belirlendi. Bu ısınmanın etkisiyle çift katlı camların genleşerek patladığı ifade edildi.",
       "kategori": "Toplum"
     },
     {
@@ -2052,13 +2040,13 @@
       "konular": [
         "Tüketici fiyat endeksi",
         "Enflasyon",
-        "Türkiye İstatistik Kurumu"
+        "Türkiye ekonomisi"
       ],
       "yayin": "2012-11-05T10:42:00+03:00",
       "puan": 12,
       "durum": "elendi",
       "baslik": "Ekim ayında fiyatı en çok artan ürün kadın kazağı oldu",
-      "ozet": "Tüketici fiyat endeksi verilerine göre yılın onuncu ayında en yüksek artış oranı kadın giyim ürünlerinde kaydedildi. Kadın kazağı fiyatları yüzde 22,96 oranında yükselerek ayın en fazla zamlanan ürünü olarak belirlendi.",
+      "ozet": "Tüketici fiyat endeksindeki değişimler incelendiğinde, yılın onuncu ayında en yüksek fiyat artışının yaşandığı ürün grubu belirlendi. Verilere göre kadın kazağı, yüzde yirmi iki virgül doksan altılık oranla fiyatı en fazla yükselen kalem olarak kayıtlara geçti.",
       "kategori": "Ekonomi"
     },
     {
@@ -2146,14 +2134,13 @@
       },
       "konular": [
         "Türkiye millî futbol takımı",
-        "Hırvatistan millî futbol takımı",
-        "UEFA Euro 2012 elemeleri"
+        "2012 Avrupa Futbol Şampiyonası elemeleri"
       ],
       "yayin": "2011-11-05T11:37:00+03:00",
       "puan": 8,
       "durum": "elendi",
       "baslik": "A Milli Futbol Takımı Hırvatistan Maçı İçin Toplanıyor",
-      "ozet": "A Milli Futbol Takımı, 2012 Avrupa Futbol Şampiyonası elemeleri play-off turu kapsamında Hırvatistan ile oynayacağı kritik müsabakalar için hazırlıklarına başlıyor. Ay-yıldızlı ekip, 11 ve 15 Kasım tarihlerinde gerçekleşecek karşılaşmalar öncesinde yarın akşam İstanbul'da bir araya gelerek kampa girecek.",
+      "ozet": "A Milli Futbol Takımı, 2012 Avrupa Futbol Şampiyonası elemeleri play-off turu kapsamında Hırvatistan ile yapacağı karşılaşmaların hazırlıklarına başlıyor. 11 ve 15 Kasım tarihlerinde oynanacak kritik müsabakalar öncesinde milliler, yarın akşam İstanbul'da bir araya gelerek kampa girecek.",
       "kategori": "Spor"
     }
   ],

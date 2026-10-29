@@ -1156,7 +1156,7 @@
     "url": "https://tr.wikipedia.org/wiki/4_Kas%C4%B1m",
     "revid": 36875543
   },
-  "guncelleme": "2026-10-28T12:20:16.760Z",
+  "guncelleme": "2026-10-29T12:29:21.722Z",
   "haberler": [
     {
       "id": "2025-haber-2449801",
@@ -1384,23 +1384,10 @@
       ],
       "yayin": "2021-11-04T21:27:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
+      "durum": "elendi",
       "baslik": "Kerem Özmen Dünya Boks Şampiyonası'nda Finalde",
-      "ozet": "Dünya Boks Şampiyonası'nda ringe çıkan milli boksör Kerem Özmen, başarılı bir performans sergileyerek adını finale yazdırdı. Bu galibiyetle birlikte organizasyonda gümüş madalya kazanmayı garantileyen sporcu, şampiyonluk mücadelesi vermek üzere son aşamaya ulaştı.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Boxing080905_photoshop.jpg/960px-Boxing080905_photoshop.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Boxing080905_photoshop.jpg/500px-Boxing080905_photoshop.jpg",
-        "genislik": 960,
-        "yukseklik": 593,
-        "orijinalGenislik": 1797,
-        "yazar": "Wayne Short",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Boxing080905_photoshop.jpg",
-        "aciklama": "Ricardo Dominguez (left) rallied late to win a decision over Oregon’s Rafael Ortiz in the night’s toughest fight.",
-        "konu": "Boks"
-      }
+      "ozet": "Milli boksör Kerem Özmen, katıldığı Dünya Boks Şampiyonası'nda başarılı bir performans sergileyerek finale adını yazdırdı. Bu başarısıyla gümüş madalya kazanmayı garantileyen sporcu, şampiyonluk mücadelesi vermeye hak kazandı.",
+      "kategori": "Spor"
     },
     {
       "id": "2020-haber-1788442",
@@ -1780,30 +1767,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/abdden-erdogana-yalanlama-hicbir-zaman-ozur-dilemedim-137088"
       },
-      "konular": [
-        "Joe Biden",
-        "Recep Tayyip Erdoğan",
-        "Türkiye-Amerika Birleşik Devletleri ilişkileri"
-      ],
+      "konular": [],
       "yayin": "2014-11-04T08:09:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Joe Biden Türkiye ziyareti öncesinde açıklamalarda bulundu",
-      "ozet": "Amerika Birleşik Devletleri Başkan Yardımcısı Joe Biden, Türkiye'ye gerçekleştireceği resmi ziyaretin hemen öncesinde dikkat çeken bir beyanatta bulundu. Biden, Cumhurbaşkanı Recep Tayyip Erdoğan'ın kendisine yönelik iddialarına yanıt vererek herhangi bir özür dilemediğini ifade etti. Bu açıklama, iki ülke arasındaki diplomatik temasların yoğunlaştığı bir dönemde gündeme geldi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/960px-Joe_Biden_presidential_portrait.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/500px-Joe_Biden_presidential_portrait.jpg",
-        "genislik": 960,
-        "yukseklik": 1200,
-        "orijinalGenislik": 2400,
-        "yazar": "Adam Schultz",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg",
-        "aciklama": "U.S. President Joe Biden's official portrait, 2021",
-        "konu": "Joe Biden"
-      }
+      "durum": "haber"
     },
     {
       "id": "2014-haber-137238",
@@ -1964,8 +1931,8 @@
       "yayin": "2011-11-04T14:40:00+03:00",
       "puan": 7,
       "durum": "yazildi",
-      "baslik": "Küresel ölçekte karbondioksit salımı en üst seviyeye ulaştı",
-      "ozet": "Amerika Birleşik Devletleri Enerji Bakanlığı tarafından yapılan değerlendirmede, dünya genelindeki karbondioksit salınım oranlarının kaydedilen en yüksek noktaya çıktığı belirtildi. Söz konusu artışın boyutları, emisyon verileri üzerindeki incelemeler sonucunda ortaya konuldu.",
+      "baslik": "Küresel Karbondioksit Salınımı Tarihi Zirveye Ulaştı",
+      "ozet": "Amerika Birleşik Devletleri Enerji Bakanlığı tarafından yapılan açıklamada, dünya genelindeki karbondioksit emisyon oranlarının ölçümlerin başlangıcından bu yana kaydedilen en yüksek noktaya çıktığı belirtildi. Söz konusu veriler, atmosferdeki sera gazı yoğunluğunun endişe verici bir boyuta ulaştığını ortaya koydu.",
       "kategori": "Bilim",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bobcat_Fire%2C_Los_Angeles%2C_San_Gabriel_Mountains.jpg/960px-Bobcat_Fire%2C_Los_Angeles%2C_San_Gabriel_Mountains.jpg",
