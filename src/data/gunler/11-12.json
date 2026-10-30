@@ -1272,5 +1272,780 @@
     "url": "https://tr.wikipedia.org/wiki/12_Kas%C4%B1m",
     "revid": 36384505
   },
-  "guncelleme": "2026-10-21T21:27:15.947Z"
+  "guncelleme": "2026-10-21T21:27:15.947Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2451928",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "TBMM Plan ve Bütçe Komisyonu’nda Çalışma Bakanı Işıkhan’a tepki gösterildi: ‘İstifa edin’",
+      "aciklama": "TBMM Plan ve Bütçe Komisyonu’nda muhalefet Dilovası’nda aralarında çocukların da bulunduğu 6 işçinin yaşamını yitirmesi nedeniyle Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan’a istifa çağrısı yaptı. CHP Malatya Milletvekili Veli Ağbaba, “Bu bir kanlı bütçedir” dedi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/tbmm-plan-ve-butce-komisyonu-nda-calisma-bakani-isikhan-a-tepki-gosterildi-istifa-edin-2451928"
+      },
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Vedat Işıkhan",
+        "Veli Ağbaba"
+      ],
+      "yayin": "2025-11-12T04:00:00+03:00",
+      "puan": 12,
+      "durum": "elendi",
+      "baslik": "TBMM Bütçe Görüşmelerinde Çalışma Bakanına İstifa Çağrısı Yapıldı",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu toplantısında muhalefet milletvekilleri, Dilovası bölgesinde meydana gelen ve aralarında çocuk işçilerin de bulunduğu altı kişinin hayatını kaybettiği iş kazası nedeniyle Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan'a tepki gösterdi. Bakanın istifasını talep eden muhalefet temsilcileri, yaşanan olayın ardından bütçe görüşmelerini eleştirdi. Cumhuriyet Halk Partisi Malatya Milletvekili Veli Ağbaba ise söz konusu bütçeyi kanlı bütçe olarak nitelendirdi.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2025-haber-2452017",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "2026 FIFA Dünya Kupası Elemeleri'nde 9. hafta heyecanı başlıyor!",
+      "aciklama": "2026 FIFA Dünya Kupası Elemeleri'nde 9. hafta karşılaşmaları oynanacak. A Milli Futbol Takımı cumartesi günü Bursa'da Bulgaristan'ı ağırlayacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/2026-fifa-dunya-kupasi-elemeleri-nde-9-hafta-heyecani-basliyor-2452017"
+      },
+      "konular": [
+        "2026 FIFA Dünya Kupası elemeleri",
+        "Türkiye millî futbol takımı",
+        "Bursa"
+      ],
+      "yayin": "2025-11-12T12:22:00+03:00",
+      "puan": 10,
+      "durum": "elendi",
+      "baslik": "2026 FIFA Dünya Kupası Elemeleri dokuzuncu hafta maçları başlıyor",
+      "ozet": "Dünya Kupası elemelerinde dokuzuncu hafta müsabakaları futbolseverlerle buluşuyor. Bu kapsamda A Milli Futbol Takımı, Bursa şehrinde Bulgaristan ile karşı karşıya gelecek. Söz konusu müsabaka cumartesi günü oynanacak.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2024-haber-2267968",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Meydanın ismi Atatürk oldu: MHP ve AKP grubu meclisi terk etti!",
+      "aciklama": "Manisa Büyükşehir Belediye Meclisi toplantısında Salihli Belediyesi tarafından verilen Devlet Bahçeli Kent Meydanı isminin Atatürk Kent Meydanı olarak değiştirilmesi talebi üzerine MHP ve AKP Grubu büyükşehir meclisini terk etti. Söz konusu durum üzerine Ülkü Ocakları protesto dü",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/meydanin-ismi-ataturk-oldu-mhp-ve-akp-grubu-meclisi-terk-etti-2267968"
+      },
+      "konular": [
+        "Manisa Büyükşehir Belediyesi",
+        "Salihli",
+        "Siyaset"
+      ],
+      "yayin": "2024-11-12T22:10:00+03:00",
+      "puan": 12,
+      "durum": "elendi",
+      "baslik": "Manisa'da Kent Meydanı İsminin Değiştirilmesi Mecliste Gerginliğe Yol Açtı",
+      "ozet": "Manisa Büyükşehir Belediye Meclisi toplantısında Salihli ilçesindeki bir meydanın isminin değiştirilmesi gündeme geldi. Devlet Bahçeli Kent Meydanı adının Atatürk Kent Meydanı olarak yeniden düzenlenmesi teklifi üzerine MHP ve AKP grupları oturumu terk ederek tepkilerini gösterdi. Bu gelişmenin ardından Ülkü Ocakları üyeleri de kararı protesto etti.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2024-haber-2267621",
+      "yil": 2024,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "Cumhurbaşkanı duyurdu... Kolombiya'da 'ulusal afet' ilan edildi!",
+      "aciklama": "Kolombiya Cumhurbaşkanı Gustavo Petro, ülke genelinde şiddetli yağışların yol açtığı sel ve heyelanlar nedeniyle 'ulusal afet' ilan ettiğini duyurdu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/cumhurbaskani-duyurdu-kolombiyada-ulusal-afet-ilan-edildi-2267621"
+      },
+      "konular": [
+        "Kolombiya",
+        "Gustavo Petro",
+        "Doğal afet"
+      ],
+      "yayin": "2024-11-12T08:55:00+03:00",
+      "puan": 12,
+      "durum": "yazildi",
+      "baslik": "Kolombiya'da aşırı yağışlar nedeniyle ulusal afet durumu ilan edildi",
+      "ozet": "Kolombiya Cumhurbaşkanı Gustavo Petro, ülke genelinde etkisini gösteren yoğun yağışların neden olduğu sel ve toprak kaymaları sebebiyle ulusal afet kararı alındığını açıkladı. Yaşanan doğal felaketlerin yol açtığı olumsuz etkilerle mücadele etmek amacıyla bu adımın atıldığı belirtildi.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Presidente_Gustavo_Petro_Urrego.jpg/960px-Presidente_Gustavo_Petro_Urrego.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Presidente_Gustavo_Petro_Urrego.jpg/500px-Presidente_Gustavo_Petro_Urrego.jpg",
+        "genislik": 960,
+        "yukseklik": 1309,
+        "orijinalGenislik": 1100,
+        "yazar": "Departamento Nacional de Planeación",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Presidente_Gustavo_Petro_Urrego.jpg",
+        "aciklama": "Foto Oficial Presidente Gustavo Petro",
+        "konu": "Gustavo Petro"
+      }
+    },
+    {
+      "id": "2023-haber-2140145",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP lideri Özgür Özel TBMM'de: 'Eylemimiz ikinci bir karara kadar devam edecek'",
+      "aciklama": "CHP Genel Başkanı Özgür Özel, CHP grubunun TBMM Genel Kurulu'nu terk etmeme eyleminin ikinci bir karara kadar süreceğini açıkladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/chp-lideri-ozgur-ozel-tbmmde-eylemimiz-ikinci-bir-karara-kadar-devam-2140145"
+      },
+      "konular": [
+        "Özgür Özel",
+        "Cumhuriyet Halk Partisi",
+        "Türkiye Büyük Millet Meclisi"
+      ],
+      "yayin": "2023-11-12T09:46:00+03:00",
+      "puan": 11,
+      "durum": "elendi",
+      "baslik": "Cumhuriyet Halk Partisi TBMM Genel Kurulundaki Eylemini Sürdürüyor",
+      "ozet": "Cumhuriyet Halk Partisi Genel Başkanı Özgür Özel, partisinin Türkiye Büyük Millet Meclisi Genel Kurulu içerisinde başlattığı oturma eyleminin devam edeceğini duyurdu. Özel, söz konusu protesto sürecinin yeni bir karar alınıncaya kadar kesintisiz bir şekilde süreceğini ifade etti.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2023-haber-2140148",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Milli atletler Balkan Kros Şampiyonası'nda 10 madalya kazandı!",
+      "aciklama": "Türkiye, Bulgaristan'da düzenlenen Balkan Kros Şampiyonası'nda 10 madalya kazanarak en başarılı ülke sıralamasında lider oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/milli-atletler-balkan-kros-sampiyonasinda-10-madalya-kazandi-2140148"
+      },
+      "konular": [
+        "Balkan Kros Şampiyonası",
+        "Atletizm",
+        "Bulgaristan"
+      ],
+      "yayin": "2023-11-12T09:54:00+03:00",
+      "puan": 10,
+      "durum": "elendi",
+      "baslik": "Balkan Kros Şampiyonası'nda Türkiye on madalya ile zirveye yerleşti",
+      "ozet": "Bulgaristan'da gerçekleştirilen Balkan Kros Şampiyonası'nda milli sporcular önemli bir başarıya imza attı. Toplamda on madalya elde eden Türkiye, organizasyonu en başarılı ülke olarak tamamladı. Yarışmalarda gösterilen performansla genel sıralamada ilk sırada yer alındı.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2022-haber-2002209",
+      "yil": 2022,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "ABD'de ara seçim sonrası Senato çoğunluğu için gözler Nevada ve Georgia'da",
+      "aciklama": "ABD’de, Kongre üyeliği ve valilikler başta olmak üzere eyalet ve yerel pozisyonlar için yapılan 8 Kasım'daki ara seçimlerde sonuçların halen belli olmadığı eyaletlerde oy sayımı bıçak sırtında devam ediyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/abdde-ara-secim-sonrasi-senato-cogunlugu-icin-gozler-nevada-ve-georgiada-2002209"
+      },
+      "konular": [
+        "2022 Amerika Birleşik Devletleri seçimleri",
+        "Amerika Birleşik Devletleri Senatosu",
+        "Amerika Birleşik Devletleri"
+      ],
+      "yayin": "2022-11-12T23:30:00+03:00",
+      "puan": 10,
+      "durum": "yazildi",
+      "baslik": "ABD ara seçimlerinde Senato dengesi için kritik eyaletlerde sayım sürüyor",
+      "ozet": "Amerika Birleşik Devletleri genelinde gerçekleştirilen ara seçimlerin ardından bazı bölgelerde oy tasnif işlemleri devam ediyor. Özellikle Nevada ve Georgia eyaletlerinde sonuçların birbirine yakın seyretmesi nedeniyle Senato çoğunluğunun hangi tarafta kalacağı henüz netlik kazanmadı. Seçim sonuçlarının kesinleşmesi için yetkililerin yürüttüğü oy sayım süreci yakından takip ediliyor.",
+      "kategori": "Siyaset",
+      "gorsel": null
+    },
+    {
+      "id": "2022-haber-2002251",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan, G20 Liderler Zirvesi’ne katılacak",
+      "aciklama": "AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan, dönem başkanı Endonezya'nın ev sahipliğinde Bali'de düzenlenecek 17'nci G20 Liderler Zirvesi'ne katılacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/erdogan-g20-liderler-zirvesine-katilacak-2002251"
+      },
+      "konular": [
+        "G20",
+        "Recep Tayyip Erdoğan",
+        "Endonezya"
+      ],
+      "yayin": "2022-11-12T19:49:00+03:00",
+      "puan": 9,
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanı Erdoğan G20 Liderler Zirvesi İçin Endonezya'ya Gidiyor",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Endonezya'nın dönem başkanlığında Bali kentinde gerçekleştirilecek olan 17. G20 Liderler Zirvesi'ne iştirak etmek üzere yola çıktı. Zirve kapsamında dünya liderleriyle bir araya gelecek olan Erdoğan, küresel gündemdeki önemli konuları değerlendirmek üzere toplantılara katılım sağladı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Family_photo_G20_Italy_2021.jpg/960px-Family_photo_G20_Italy_2021.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Family_photo_G20_Italy_2021.jpg/500px-Family_photo_G20_Italy_2021.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 6720,
+        "yazar": "Government of Brazil - Planalto Palace",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Family_photo_G20_Italy_2021.jpg",
+        "aciklama": "(Roma - Itália, 30/10/2021) Fotografia Oficial com os Chefes de Delegação do G20.Foto: Alan Santos/PR",
+        "konu": "G20"
+      }
+    },
+    {
+      "id": "2021-haber-1884338",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolardaki tarihi rekorun ardından Erdoğan'a çok sert tepki",
+      "aciklama": "Dolar/TL kurunun, 10 TL'ye ulaşarak tüm zamanların en yüksek seviyesini görmesi sonrası sosyal medyada AKP iktidarına ve AKP'li Cumhurbaşkanı Erdoğan'a tepkiler de gecikmedi. Erdoğan geçtiğimiz günlerde,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/dolardaki-tarihi-rekorun-ardindan-erdogana-cok-sert-tepki-1884338"
+      },
+      "konular": [
+        "Türk lirası",
+        "Recep Tayyip Erdoğan",
+        "Türkiye ekonomisi"
+      ],
+      "yayin": "2021-11-12T22:48:00+03:00",
+      "puan": 13,
+      "durum": "yazildi",
+      "baslik": "Dolar kurundaki yükseliş sosyal medyada geniş yankı uyandırdı",
+      "ozet": "Doların Türk lirası karşısında değer kazanarak on seviyesine ulaşması kamuoyunda dikkat çekti. Yaşanan bu ekonomik gelişmenin ardından sosyal medya platformlarında hükümetin ekonomi politikalarına yönelik eleştiriler dile getirildi. Vatandaşlar ve çeşitli kesimler kurdaki artışa karşı tepkilerini ifade etti.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/9._Emisyon_T%C3%BCrk_banknotlar%C4%B1.gif",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/9._Emisyon_T%C3%BCrk_banknotlar%C4%B1.gif",
+        "genislik": 728,
+        "yukseklik": 356,
+        "orijinalGenislik": 728,
+        "yazar": "Türkiye Cumhuriyet Merkez Bankası",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:9._Emisyon_T%C3%BCrk_banknotlar%C4%B1.gif",
+        "aciklama": "9. Series of Turkish Lira banknotes",
+        "konu": "Türk lirası"
+      }
+    },
+    {
+      "id": "2021-haber-1884056",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı’nın bütçesi TBMM komisyonunda",
+      "aciklama": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, TBMM Plan ve Bütçe Komisyonu'na bakanlığının 2022 yılı bütçesini sundu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/cevre-sehircilik-ve-iklim-degisikligi-bakanliginin-butcesi-tbmm-komisyonunda-1884056"
+      },
+      "konular": [
+        "Murat Kurum",
+        "Türkiye Büyük Millet Meclisi",
+        "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı"
+      ],
+      "yayin": "2021-11-12T04:00:00+03:00",
+      "puan": 12,
+      "durum": "elendi",
+      "baslik": "Çevre ve Şehircilik Bakanlığı bütçesi meclis komisyonuna sunuldu",
+      "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, bakanlığının gelecek yıla ait bütçe planlamasını Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu üyeleriyle paylaştı. Yapılan sunumda kurumun önümüzdeki dönemde yürüteceği faaliyetler ve mali kaynakların kullanımı hakkında detaylı bilgiler verildi.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2020-haber-1790370",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İstihdam teşviki ve borç yapılandırmasına ilişkin kanun teklifi yasalaştı",
+      "aciklama": "TBMM Genel Kurulunda, borç yapılandırması ve istihdam teşvikine ilişkin düzenlemeleri de içeren İşsizlik Sigortası Kanunu ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun Teklifi, TBMM Genel Kurulunda kabul edilerek yasalaştı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/istihdam-tesviki-ve-borc-yapilandirmasina-iliskin-teklif-tbmm-genel-kurulunda-kabul-edildi-1790370"
+      },
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "İşsizlik sigortası",
+        "Ekonomi"
+      ],
+      "yayin": "2020-11-12T09:05:00+03:00",
+      "puan": 14,
+      "durum": "elendi",
+      "baslik": "Borç yapılandırması ve istihdam teşviki düzenlemesi kabul edildi",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, borçların yeniden yapılandırılması ve istihdamı desteklemeye yönelik maddeleri içeren kanun teklifini onayladı. İşsizlik Sigortası Kanunu ile bazı diğer kanunlarda değişiklik yapılmasını öngören düzenleme, yapılan görüşmelerin ardından yasalaşarak yürürlüğe girdi.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "id": "2020-haber-1790596",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "A Milli Takım, Rusya maçının hazırlıklarına başladı",
+      "aciklama": "UEFA Uluslar Ligi’nde pazar günü Rusya’yı ağırlayacak olan A Milli Takım, bu maçın hazırlıklarına akşam saatlerinde yaptığı antrenmanla başladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/a-milli-takim-rusya-macinin-hazirliklarina-basladi-1790596"
+      },
+      "konular": [
+        "UEFA Uluslar Ligi",
+        "Türkiye millî futbol takımı"
+      ],
+      "yayin": "2020-11-12T21:52:00+03:00",
+      "puan": 8,
+      "durum": "elendi",
+      "baslik": "A Milli Futbol Takımı Rusya karşılaşması için çalışmalara start verdi",
+      "ozet": "UEFA Uluslar Ligi kapsamında pazar günü Rusya ile karşılaşacak olan A Milli Futbol Takımı, hazırlık sürecine giriş yaptı. Milliler, müsabaka öncesindeki ilk antrenmanını akşam saatlerinde gerçekleştirdi.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2019-haber-1701714",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "BDDK’nin bazı yetkilerini Merkez Bankası'na devreden kanun teklifi kabul edildi",
+      "aciklama": "Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, TBMM Genel Kurulu'nda kabul edildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bddknin-bazi-yetkilerini-merkez-bankasina-devreden-kanun-teklifi-kabul-edildi-1701714"
+      },
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Bankacılık Düzenleme ve Denetleme Kurumu",
+        "Türkiye Büyük Millet Meclisi"
+      ],
+      "yayin": "2019-11-12T23:09:00+03:00",
+      "puan": 13,
+      "durum": "yazildi",
+      "baslik": "Ödeme sistemlerine ilişkin yeni yasal düzenleme mecliste onaylandı",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, ödeme hizmetleri ve elektronik para kuruluşlarını ilgilendiren kanun teklifini görüşerek kabul etti. Bu düzenleme ile birlikte Bankacılık Düzenleme ve Denetleme Kurumu bünyesindeki bazı yetkiler Türkiye Cumhuriyet Merkez Bankası'na aktarıldı. Söz konusu yasal değişiklik, ödeme ve menkul kıymet mutabakat sistemlerinin işleyişine dair yeni kurallar getirdi.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Finans_Merkezi.jpg/960px-Finans_Merkezi.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Finans_Merkezi.jpg/500px-Finans_Merkezi.jpg",
+        "genislik": 960,
+        "yukseklik": 960,
+        "orijinalGenislik": 3000,
+        "yazar": "Ail Subway",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Finans_Merkezi.jpg",
+        "aciklama": "İstanbul Financial Centre",
+        "konu": "Türkiye Cumhuriyet Merkez Bankası"
+      }
+    },
+    {
+      "id": "2018-haber-1138570",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Trabzonspor'da yönetim karar aşamasında",
+      "aciklama": "Spor Toto Süper Lig'de Evkur Yeni Malatyaspor'a deplasmanda 5-0 mağlup olarak tarihinin en ağır yenilgilerinden birini alan Trabzonspor'da, kulüp asbaşkanı Hayrettin Hacısalihoğlu, bordo-mavili kulübün menfaatleri konusunda ne gerekiyorsa bunların tereddütsüz yapılacağını söyledi",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/trabzonsporda-yonetim-karar-asamasinda-1138570"
+      },
+      "konular": [
+        "Trabzonspor",
+        "Hayrettin Hacısalihoğlu",
+        "Süper Lig"
+      ],
+      "yayin": "2018-11-12T12:48:00+03:00",
+      "puan": 7,
+      "durum": "elendi",
+      "baslik": "Trabzonspor yönetiminden ağır mağlubiyet sonrası değerlendirme",
+      "ozet": "Lig mücadelesinde Yeni Malatyaspor karşısında alınan farklı yenilginin ardından Trabzonspor yönetimi bir araya geldi. Kulüp asbaşkanı Hayrettin Hacısalihoğlu, takımın çıkarlarını korumak adına gerekli adımların vakit kaybetmeden atılacağını ifade etti. Alınan bu sonuç kulüp tarihinin en farklı mağlubiyetlerinden biri olarak kayıtlara geçti.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2018-haber-1138201",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Parkurda da iyilikte de rekor kırdılar",
+      "aciklama": "Adı Vodafone İstanbul Maratonu, eskiler Avrasya Maratonu derler, şimdilerde ise “İyilikseverlerin yarışı” diye anılır oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/parkurda-da-iyilikte-de-rekor-kirdilar-1138201"
+      },
+      "konular": [
+        "İstanbul Maratonu",
+        "İstanbul"
+      ],
+      "yayin": "2018-11-12T07:30:00+03:00",
+      "puan": 7,
+      "durum": "elendi",
+      "baslik": "İstanbul Maratonu iyilikseverlerin buluşma noktası oldu",
+      "ozet": "Geçmişte Avrasya Maratonu olarak bilinen ve günümüzde Vodafone İstanbul Maratonu adıyla düzenlenen etkinlik, katılımcıların yoğun ilgisiyle gerçekleşti. Yarış, sporcuların performanslarının yanı sıra toplumsal dayanışmaya sağladığı katkılarla öne çıkarak iyilikseverlerin bir araya geldiği önemli bir organizasyon haline dönüştü.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2017-haber-864895",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İstifa eden Başbakan Hariri: Lübnan'a dönüp, yasal gereklilikleri yerine getireceğim",
+      "aciklama": "İstifa eden Lübnan Başbakanı Saad el Hariri, Lübnan kanalı Future TV'ye konuştu. Hariri, Lübnan'a dönüp, yasal gereklilikleri yerine getireceğini duyurdu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/istifa-eden-basbakan-hariri-lubnana-donup-yasal-gereklilikleri-yerine-getirecegim-864895"
+      },
+      "konular": [
+        "Saad Hariri",
+        "Lübnan"
+      ],
+      "yayin": "2017-11-12T23:04:00+03:00",
+      "puan": 11,
+      "durum": "yazildi",
+      "baslik": "Saad Hariri Lübnan'a Dönerek İstifa Sürecini Tamamlayacağını Açıkladı",
+      "ozet": "Görevinden ayrılan Lübnan Başbakanı Saad el Hariri, bir televizyon kanalına verdiği demeçte ülkesine geri döneceğini belirtti. Hariri, Lübnan'a ulaştıktan sonra istifasıyla ilgili yasal prosedürleri yerine getireceğini ifade etti. Bu açıklama, bölgedeki siyasi belirsizliğin ardından kamuoyuna yönelik önemli bir mesaj niteliği taşıdı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Saad_Hariri_in_Sochi%2C_13_September_2017.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Saad_Hariri_in_Sochi%2C_13_September_2017.jpg",
+        "genislik": 756,
+        "yukseklik": 1036,
+        "orijinalGenislik": 756,
+        "yazar": "This image has been extracted from another file",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Saad_Hariri_in_Sochi,_13_September_2017.jpg",
+        "aciklama": "President of Russia Vladimir Putin & Prime Minister Lebanon Saad Hariri in Sochi, 13 September 2017 (3) (Cropped)",
+        "konu": "Saad Hariri"
+      }
+    },
+    {
+      "id": "2017-haber-864744",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İstanbul'da sürpriz Erdoğan, Yıldırım ve Akar zirvesi sona erdi",
+      "aciklama": "Cumhurbaşkanı Recep Tayyip Erdoğan; Başbakan Binali Yıldırım ve Genelkurmay Başkanı Orgeneral Hulusi Akar ile Mabeyln Köşkü'nde görüştü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/istanbulda-surpriz-erdogan-yildirim-ve-akar-zirvesi-sona-erdi-864744"
+      },
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Binali Yıldırım",
+        "Hulusi Akar"
+      ],
+      "yayin": "2017-11-12T16:51:00+03:00",
+      "puan": 8,
+      "durum": "elendi",
+      "baslik": "Mabeyin Köşkünde üst düzey devlet yetkilileri bir araya geldi",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Başbakan Binali Yıldırım ve Genelkurmay Başkanı Orgeneral Hulusi Akar İstanbul'da bir görüşme gerçekleştirdi. Mabeyin Köşkü'nde yapılan bu toplantı ile devletin en üst kademesindeki isimler bir araya gelerek çeşitli konuları değerlendirdi. Görüşme sonrasında herhangi bir açıklama yapılmadı.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2016-haber-629736",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez Bankası'ndan flaş 'kredi kartı' kararı",
+      "aciklama": "Merkez Bankası, kredi kartı işlemlerinde uygulanacak azami faiz oranlarının hesaplama yönteminin değiştirildiğini duyurdu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/merkez-bankasindan-flas-kredi-karti-karari-629736"
+      },
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Kredi kartı",
+        "Ekonomi"
+      ],
+      "yayin": "2016-11-12T10:32:00+03:00",
+      "puan": 9,
+      "durum": "elendi",
+      "baslik": "Merkez Bankası kredi kartı faiz hesaplamasında değişikliğe gitti",
+      "ozet": "Türkiye Cumhuriyet Merkez Bankası, kredi kartı işlemlerinde geçerli olan azami faiz oranlarının belirlenme yönteminde düzenleme yapıldığını açıkladı. Kurum tarafından yapılan duyuru ile birlikte faiz hesaplama sisteminin güncellendiği bilgisi paylaşıldı.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "id": "2016-haber-630034",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "‘Cepte OHAL’ ilan edildi",
+      "aciklama": "Başbakanlık’tan kamu kurum ve kuruluşlarına giden yazıda ‘Viber, WhatsApp, Telegram istihbari amaçla kullanılabilir’ uyarısı yapıldı",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/cepte-ohal-ilan-edildi-630034"
+      },
+      "konular": [
+        "WhatsApp",
+        "Bilgi güvenliği",
+        "Türkiye Cumhuriyeti Başbakanlığı"
+      ],
+      "yayin": "2016-11-12T23:48:00+03:00",
+      "puan": 7,
+      "durum": "yazildi",
+      "baslik": "Kamu kurumlarında anlık mesajlaşma uygulamalarına yönelik uyarı",
+      "ozet": "Başbakanlık tarafından devlet kurumlarına gönderilen resmi yazıda, bazı popüler mesajlaşma uygulamalarının istihbarat amaçlı kullanılabileceği belirtildi. Kurum çalışanlarının Viber, WhatsApp ve Telegram gibi platformları kullanırken dikkatli olmaları gerektiği vurgulandı. Bu adım, kamu güvenliğini korumak ve olası veri sızıntılarını engellemek amacıyla atıldı.",
+      "kategori": "Teknoloji",
+      "gorsel": null
+    },
+    {
+      "id": "2015-haber-415653",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "14 yaşında Avrupa şampiyonu oldu",
+      "aciklama": "Polonya'nın Opole kentinde 07-08 Kasım 2015 tarihlerinde düzenlenen Paletli Yüzme Gençler Avrupa Kupası'nda, İstanbul Tenis Yüzme Kayak(TYK) Spor Kulübü sporcularından Cem Arda Can, 400 metre su üstünde altın madalya alarak Gençler Avrupa Şampiyonu oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/14-yasinda-avrupa-sampiyonu-oldu-415653"
+      },
+      "konular": [
+        "Paletli yüzme",
+        "Cem Arda Can",
+        "İstanbul Tenis Yüzme Kayak Spor Kulübü"
+      ],
+      "yayin": "2015-11-12T14:46:00+03:00",
+      "puan": 10,
+      "durum": "elendi",
+      "baslik": "Genç sporcu paletli yüzmede Avrupa şampiyonluğuna ulaştı",
+      "ozet": "Polonya'nın Opole şehrinde gerçekleştirilen Paletli Yüzme Gençler Avrupa Kupası'nda önemli bir başarı elde edildi. İstanbul Tenis Yüzme Kayak Spor Kulübü bünyesinde yarışan Cem Arda Can, 400 metre su üstü kategorisinde rakiplerini geride bırakarak altın madalyanın sahibi oldu. On dört yaşındaki sporcu, bu derecesiyle Gençler Avrupa Şampiyonu unvanını kazandı.",
+      "kategori": "Spor"
+    },
+    {
+      "id": "2015-haber-416059",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Beytüşşebap'ta 6 bölge 'geçici özel güvenlik bölgesi' ilan edildi",
+      "aciklama": "Şırnak Valiliği, Beytüşşebap İlçesi'nde 6 bölgenin 15 gün süreyle 'geçici özel güvenlik bölgesi'ilan edildiğini açıkladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/beytussebapta-6-bolge-gecici-ozel-guvenlik-bolgesi-ilan-edildi-416059"
+      },
+      "konular": [
+        "Beytüşşebap",
+        "Şırnak",
+        "Valilik"
+      ],
+      "yayin": "2015-11-12T18:45:00+03:00",
+      "puan": 7,
+      "durum": "elendi",
+      "baslik": "Şırnak Beytüşşebap'ta Bazı Alanlar Güvenlik Bölgesi İlan Edildi",
+      "ozet": "Şırnak Valiliği tarafından yapılan duyuruya göre Beytüşşebap ilçesi sınırları içerisinde yer alan altı farklı bölge geçici özel güvenlik alanı olarak belirlendi. Söz konusu bölgelerde uygulamanın on beş gün boyunca geçerli olacağı ifade edildi.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2014-haber-139763",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Gezi direnişçisi: Biz değil asıl Erdoğan yargılanmalıdır",
+      "aciklama": "Gezi Direnişi'ne Ankara'da destek verenlere yönelik polis operasyonları sonrası gözaltına alınan ve tutuklanan 26 kişi hakkında açılan davanın ilk duruşması görüldü. Ankara Dayanışması ise adliye önündeydi...",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/gezi-direniscisi-biz-degil-asil-erdogan-yargilanmalidir-139763"
+      },
+      "konular": [
+        "Gezi Parkı protestoları",
+        "Ankara"
+      ],
+      "yayin": "2014-11-12T11:48:00+03:00",
+      "puan": 7,
+      "durum": "yazildi",
+      "baslik": "Ankara'daki Gezi Parkı protestoları davasının ilk duruşması yapıldı",
+      "ozet": "Ankara'da Gezi Parkı eylemlerine katıldıkları gerekçesiyle gözaltına alınıp tutuklanan yirmi altı kişi hakim karşısına çıktı. Duruşma sürecinde sanıklar savunmalarını yaparken, Ankara Dayanışması üyeleri de adliye binasının önünde toplanarak destek gösterisinde bulundu. Mahkeme heyeti, sanıkların ve destekçilerin taleplerini dinleyerek yargılama sürecini başlattı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Each_day_protestants_return_to_the_square._Events_of_June_7%2C_2013.jpg/960px-Each_day_protestants_return_to_the_square._Events_of_June_7%2C_2013.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Each_day_protestants_return_to_the_square._Events_of_June_7%2C_2013.jpg/500px-Each_day_protestants_return_to_the_square._Events_of_June_7%2C_2013.jpg",
+        "genislik": 960,
+        "yukseklik": 639,
+        "orijinalGenislik": 4000,
+        "yazar": "Mstyslav Chernov",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Each_day_protestants_return_to_the_square._Events_of_June_7,_2013.jpg",
+        "aciklama": "Each day protesters return to the square. Events of June 7, 2013.",
+        "konu": "Gezi Parkı protestoları"
+      }
+    },
+    {
+      "id": "2014-haber-139597",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bebekler ölüyor, rekor Güneydoğu’da",
+      "aciklama": "Ülkelerin gelişmişliğini gözler önüne seren ve sağlık alanında en temel gösterge olarak kabul edilen “anne - bebek ölümleri”ne AKP’nin 12 yıldır çare olamadığı bir kez daha ortaya konuldu. OECD ve Avrupa Birliği ülkelerinde binde 4 olan bebek ölüm hızı, Türkiye’de 2013’te binde 7",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bebekler-oluyor-rekor-guneydoguda-139597"
+      },
+      "konular": [
+        "Bebek ölümü",
+        "Türkiye'de sağlık",
+        "OECD"
+      ],
+      "yayin": "2014-11-12T04:00:00+03:00",
+      "puan": 7,
+      "durum": "yazildi",
+      "baslik": "Bebek ölüm oranlarında bölgesel farklılıklar dikkat çekiyor",
+      "ozet": "Sağlık alanındaki temel göstergelerden biri olan bebek ölüm hızları, Türkiye genelinde Avrupa Birliği ve OECD ortalamalarının üzerinde seyretti. Özellikle Güneydoğu Anadolu Bölgesi'nde yoğunlaşan bu durum, ülkedeki sağlık hizmetlerinin gelişimi açısından önemli bir veri olarak öne çıktı. Yapılan incelemeler sonucunda, 2013 yılı itibarıyla Türkiye'deki bebek ölüm hızının binde yedi seviyesinde gerçekleştiği belirlendi.",
+      "kategori": "Toplum",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Turkish_pediatrician_listens_to_a_childs_heartbeat_in_Afghanistan.jpg/960px-Turkish_pediatrician_listens_to_a_childs_heartbeat_in_Afghanistan.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Turkish_pediatrician_listens_to_a_childs_heartbeat_in_Afghanistan.jpg/500px-Turkish_pediatrician_listens_to_a_childs_heartbeat_in_Afghanistan.jpg",
+        "genislik": 960,
+        "yukseklik": 1344,
+        "orijinalGenislik": 1335,
+        "yazar": "ISAF Headquarters Public Affairs Office from Kabul, Afghanistan",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_pediatrician_listens_to_a_childs_heartbeat_in_Afghanistan.jpg",
+        "aciklama": "KABUL, Afghanistan -- A Turkish pediatrician from the International Security Assistance Force listens to an Afghan child's heartbeat Jan. 7 at a clinic at Camp Dogan. Approximately 400 Afghan locals c",
+        "konu": "Türkiye'de sağlık"
+      }
+    },
+    {
+      "id": "2013-haber-8707",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolarda yeni rekor (12.11.2013)",
+      "aciklama": "Gösterge bono faizleri iki ay sonra yüzde 9'u aştı. Gösterge bono faizinin yükselişi ile birlikte borsada satış baskısı artarken dolar da 2.05 TL'nin üstüne çıktı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/dolarda-yeni-rekor-8707"
+      },
+      "konular": [
+        "Dolar",
+        "Borsa İstanbul",
+        "Ekonomi"
+      ],
+      "yayin": "2013-11-12T16:30:00+03:00",
+      "puan": 8,
+      "durum": "elendi",
+      "baslik": "Döviz kurlarında yükseliş ve piyasalarda hareketlilik",
+      "ozet": "Gösterge bono faiz oranları iki aylık aranın ardından yüzde dokuz seviyesinin üzerine çıktı. Faizlerdeki bu artış eğilimi borsada satış baskısını beraberinde getirirken dolar kuru da iki lira beş kuruş sınırını aştı.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "id": "2013-haber-8681",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Twitter hisselerinden 600 milyon dolar kazandı",
+      "aciklama": "Suudi prens Twitter hisselerinden 5 günde 600 milyon dolar kazandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/twitter-hisselerinden-600-milyon-dolar-kazandi-8681"
+      },
+      "konular": [
+        "Twitter",
+        "Suudi Arabistan"
+      ],
+      "yayin": "2013-11-12T15:46:00+03:00",
+      "puan": 8,
+      "durum": "elendi",
+      "baslik": "Suudi Prens Twitter Hisselerinden Yüksek Kazanç Elde Etti",
+      "ozet": "Suudi Arabistanlı bir prens, elinde bulundurduğu Twitter hisseleri üzerinden kısa sürede önemli bir gelir sağladı. Beş günlük bir zaman diliminde gerçekleşen değer artışıyla birlikte prensin kazancı 600 milyon dolara ulaştı.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "id": "2012-haber-382892",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Büyükşehir Belediye Kanunu Tasarısı yasalaştı",
+      "aciklama": "TBMM Genel Kurulu'nda, 13 İlde Büyükşehir Belediyesi Kurulması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Tasarısı kabul edildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/buyuksehir-belediye-kanunu-tasarisi-yasalasti-382892"
+      },
+      "konular": [
+        "Büyükşehir Belediyesi Kanunu",
+        "Türkiye Büyük Millet Meclisi",
+        "Türkiye"
+      ],
+      "yayin": "2012-11-12T08:43:00+03:00",
+      "puan": 7,
+      "durum": "yazildi",
+      "baslik": "On üç ilde büyükşehir belediyesi kurulmasına ilişkin kanun kabul edildi",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, on üç ilde büyükşehir belediyesi kurulmasını öngören yasal düzenlemeyi onayladı. Söz konusu tasarı, çeşitli kanunlarda ve kanun hükmünde kararnamelerde değişiklik yapılmasını içeriyordu. Yapılan oylama sonucunda kabul edilen bu düzenleme ile yerel yönetimlerin idari yapısında önemli bir değişikliğe gidildi.",
+      "kategori": "Siyaset",
+      "gorsel": null
+    },
+    {
+      "id": "2012-haber-382984",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "TBMM Genel Kurulu toplanamadı (12.11.2012)",
+      "aciklama": "TBMM Genel Kurulu, Başkanlık Divanı oluşmadığı için toplanamadı.\r\nMHP Grup Başkanvekili Oktay Vural ile CHP Grup Başkanvekili Muharrem İnce ve bazı CHP'li milletvekilleri, birleşim açılmadan önce Genel Kurul'a geldi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/tbmm-genel-kurulu-toplanamadi-382984"
+      },
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Oktay Vural",
+        "Muharrem İnce"
+      ],
+      "yayin": "2012-11-12T13:24:00+03:00",
+      "puan": 5,
+      "durum": "elendi",
+      "baslik": "Türkiye Büyük Millet Meclisi Genel Kurulu toplanamadı",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, Başkanlık Divanı'nın oluşturulamaması nedeniyle çalışmalarına başlayamadı. Birleşim öncesinde MHP Grup Başkanvekili Oktay Vural ile CHP Grup Başkanvekili Muharrem İnce ve bazı Cumhuriyet Halk Partisi milletvekilleri salonda hazır bulundu.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2011-haber-297476",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Türkiye Hekim Meclisi, KHK kararını yarın açıklayacak",
+      "aciklama": "Türkiye Hekim Meclisi, sağlıkta Kanun Hükmünde Kararnameye (KHK) ilişkin yaptığı toplantının sonuç bildirgesini yarın düzenleyecekleri bir basın toplantısı ile kamuoyuna açıklayacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/turkiye-hekim-meclisi-khk-kararini-yarin-aciklayacak-297476"
+      },
+      "konular": [
+        "Türkiye Hekim Meclisi",
+        "Kanun Hükmünde Kararname",
+        "Sağlık politikası"
+      ],
+      "yayin": "2011-11-12T16:59:00+03:00",
+      "puan": 8,
+      "durum": "elendi",
+      "baslik": "Türkiye Hekim Meclisi KHK Kararını Kamuoyuyla Paylaşacak",
+      "ozet": "Türkiye Hekim Meclisi, sağlık alanında yürürlüğe giren Kanun Hükmünde Kararname ile ilgili gerçekleştirdiği değerlendirme toplantısını tamamladı. Kurul üyeleri, söz konusu düzenlemeye dair aldıkları kararları ve hazırladıkları sonuç bildirgesini düzenleyecekleri bir basın toplantısı aracılığıyla duyuracaklarını belirtti.",
+      "kategori": "Siyaset"
+    },
+    {
+      "id": "2011-haber-297444",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Beşiktaş'ta Galatasaray derbisinin hazırlıkları sürüyor",
+      "aciklama": "Beşiktaş, Spor Toto Süper Lig'de 20 Kasım Pazar günü Galatasaray ile oynayacağı derbi maçın hazırlıklarını yaptığı antrenmanla sürdürdü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/besiktasta-galatasaray-derbisinin-hazirliklari-suruyor-297444"
+      },
+      "konular": [
+        "Beşiktaş (futbol takımı)",
+        "Galatasaray (futbol takımı)",
+        "Süper Lig"
+      ],
+      "yayin": "2011-11-12T13:24:00+03:00",
+      "puan": 6,
+      "durum": "elendi",
+      "baslik": "Beşiktaş Galatasaray derbisi için çalışmalarına devam ediyor",
+      "ozet": "Beşiktaş futbol takımı, lig kapsamında oynanacak Galatasaray karşılaşması öncesindeki hazırlık sürecini sürdürdü. Teknik ekip yönetiminde gerçekleştirilen antrenmanla derbi mücadelesine odaklanan siyah beyazlı ekip, çalışmalarına ara vermeden devam etti.",
+      "kategori": "Spor"
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }
