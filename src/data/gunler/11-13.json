@@ -11,10 +11,10 @@
         "Fransa",
         "Viyana"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Napolyon Bonapart'ın Viyana'ya Girişi",
+      "ozet": "Napolyon Bonapart liderliğindeki Fransız kuvvetleri, 1805 yılının Kasım ayında Avusturya'nın başkenti Viyana'yı ele geçirdi. Bu olay, Napolyon Savaşları'nın en kritik dönemlerinden biri olan Üçüncü Koalisyon Savaşı'nın önemli bir aşamasını oluşturuyordu. Fransız ordusunun şehre girişi, Avusturya İmparatorluğu'nun savunma hatlarının çöküşünü ve Napolyon'un Avrupa kıtasındaki askeri üstünlüğünü pekiştiren bir gelişme olarak tarihe geçti. Viyana'nın düşüşü, bölgedeki güç dengelerini kökten değiştirerek Fransız hegemonyasının genişlemesine zemin hazırladı. Napolyon, bu zaferle birlikte Avrupa'nın siyasi haritasını yeniden şekillendirme sürecini hızlandırdı. Şehrin işgali, sadece askeri bir başarı değil, aynı zamanda dönemin monarşik düzenlerine karşı Fransız Devrimi'nin getirdiği yeni siyasi anlayışın bir göstergesi olarak da değerlendirildi. Bu olay, kısa süre sonra gerçekleşecek olan ünlü Austerlitz Muharebesi'ne giden yolda stratejik bir dönüm noktası oldu.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/960px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/500px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
@@ -28,34 +28,7 @@
         "aciklama": null,
         "konu": "Napolyon Bonapart"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/960px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/500px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
-          "genislik": 960,
-          "yukseklik": 1363,
-          "orijinalGenislik": 1357,
-          "yazar": "Antoine-Jean Gros",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
-          "aciklama": null,
-          "konu": "Napolyon Bonapart"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/20180109_Vienna_State_Opera_at_blue_hour_850_9387.jpg/960px-20180109_Vienna_State_Opera_at_blue_hour_850_9387.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/20180109_Vienna_State_Opera_at_blue_hour_850_9387.jpg/500px-20180109_Vienna_State_Opera_at_blue_hour_850_9387.jpg",
-          "genislik": 960,
-          "yukseklik": 592,
-          "orijinalGenislik": 7520,
-          "yazar": "Granada",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:20180109_Vienna_State_Opera_at_blue_hour_850_9387.jpg",
-          "aciklama": "Vienna State Opera at the blue hour",
-          "konu": "Viyana"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1885-sirp-bulgar-savasi-basladi",
@@ -78,10 +51,10 @@
         "Paul Cornu",
         "helikopter"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Havacılık Tarihinde İlk Helikopter Uçuşu",
+      "ozet": "Fransız mühendis Paul Cornu, 1907 yılının Kasım ayında havacılık tarihine geçecek bir deneye imza atarak kendi tasarımı olan motorlu helikopteri yerden yükseltmeyi başardı. Bu deneme, dikey kalkış ve iniş yapabilen hava taşıtlarının geliştirilmesi yolunda atılan en önemli adımlardan biri olarak kabul edilir. Cornu'nun bu başarısı, o dönemde henüz emekleme aşamasında olan havacılık teknolojileri için devrim niteliğinde bir gelişmeydi.\n\nHelikopterin temel çalışma prensibi olan döner kanatlı sistem, Cornu'nun bu denemesiyle pratik bir uygulama alanı bulmuş oldu. Her ne kadar bu ilk uçuş oldukça kısa süreli ve sınırlı bir irtifada gerçekleşmiş olsa da, dikey uçuşun mümkün olduğunu kanıtlaması bakımından büyük bir öneme sahiptir. Cornu'nun çalışmaları, ilerleyen yıllarda Sikorsky gibi isimlerin geliştireceği daha gelişmiş ve seri üretime uygun helikopter modellerinin öncüsü oldu. Bugün dikey kalkış ve iniş yapabilen hava araçlarının temelinde, 20. yüzyılın başındaki bu cesur mühendislik girişimleri yatmaktadır.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Paul-Cornu-pilote-helico.jpg/960px-Paul-Cornu-pilote-helico.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Paul-Cornu-pilote-helico.jpg/500px-Paul-Cornu-pilote-helico.jpg",
@@ -95,34 +68,7 @@
         "aciklama": "Paul Cornu aux commandes de son hélicoptère à Coquainvilliers, près de Lisieux, en 1907.",
         "konu": "Paul Cornu"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Paul-Cornu-pilote-helico.jpg/960px-Paul-Cornu-pilote-helico.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Paul-Cornu-pilote-helico.jpg/500px-Paul-Cornu-pilote-helico.jpg",
-          "genislik": 960,
-          "yukseklik": 613,
-          "orijinalGenislik": 1812,
-          "yazar": "Rundvald",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Paul-Cornu-pilote-helico.jpg",
-          "aciklama": "Paul Cornu aux commandes de son hélicoptère à Coquainvilliers, près de Lisieux, en 1907.",
-          "konu": "Paul Cornu"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Bits_%26_Pieces_-_BP374_-_Test_flight_of_Pescara%27s_helicopter_-_1922_-_EYE_FLM7760_-_OB105716.ogv/500px--Bits_%26_Pieces_-_BP374_-_Test_flight_of_Pescara%27s_helicopter_-_1922_-_EYE_FLM7760_-_OB105716.ogv.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Bits_%26_Pieces_-_BP374_-_Test_flight_of_Pescara%27s_helicopter_-_1922_-_EYE_FLM7760_-_OB105716.ogv/500px--Bits_%26_Pieces_-_BP374_-_Test_flight_of_Pescara%27s_helicopter_-_1922_-_EYE_FLM7760_-_OB105716.ogv.jpg",
-          "genislik": 720,
-          "yukseklik": 576,
-          "orijinalGenislik": 720,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bits_%26_Pieces_-_BP374_-_Test_flight_of_Pescara%27s_helicopter_-_1922_-_EYE_FLM7760_-_OB105716.ogv",
-          "aciklama": "Title: Bits & Pieces - BP374. Genre: documentary Running time: 1:25 Synopsis: Test flight of the Helicoptère (helicopter) by Pescara (Raúl Pateras-Pescara de Castelluccio). Aerodrome of Issy-les-Mouli",
-          "konu": "helikopter"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1918-istanbul-limaninin-itilaf-devletlerince-isgali-i-dunya",
@@ -148,23 +94,12 @@
         "Milletler Cemiyeti",
         "Cenevre"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Views_of_Geneva.jpg/960px-Views_of_Geneva.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Views_of_Geneva.jpg/500px-Views_of_Geneva.jpg",
-        "genislik": 960,
-        "yukseklik": 1200,
-        "orijinalGenislik": 1481,
-        "yazar": "MadGeographer",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Views_of_Geneva.jpg",
-        "aciklama": "Montage for the Geneva article on Wikipedia",
-        "konu": "Cenevre"
-      }
+      "baslik": "Milletler Cemiyeti'nin Cenevre'deki İlk Genel Kurul Toplantısı",
+      "ozet": "I. Dünya Savaşı'nın ardından küresel barışı tesis etmek amacıyla kurulan Milletler Cemiyeti, 13 Kasım 1920 tarihinde Cenevre'de düzenlenen görkemli bir genel kurul toplantısıyla çalışmalarına resmen başladı. Toplam 41 farklı ülkeden gelen 5 bin temsilcinin bir araya geldiği bu buluşma, uluslararası diplomasi tarihinde devletlerin sorunlarını savaş yerine müzakere masasında çözme arzusunun somut bir göstergesi olarak kabul edildi. Cemiyet-i Akvam olarak da bilinen bu yapı, dönemin dünya siyasetinde yeni bir dönemin kapılarını aralamayı hedefliyordu.\n\nVersay Barış Antlaşması ile temelleri atılan ve Birleşmiş Milletler'in öncüsü sayılan Milletler Cemiyeti, uluslararası güvenliği sağlama misyonuyla hareket etti. Ancak, kuruluşundaki yüksek beklentilere rağmen cemiyet, ilerleyen yıllarda patlak veren II. Dünya Savaşı'nı engelleyemedi. Yine de bu toplantı, devletlerin ortak bir çatı altında toplanarak küresel sorunları tartışma geleneğinin ilk büyük adımlarından biri olması bakımından tarihsel bir öneme sahiptir. 1946 yılına kadar varlığını sürdüren cemiyet, uluslararası hukuk ve iş birliği mekanizmalarının gelişimi üzerinde kalıcı bir miras bırakmıştır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1922-tekirdagin-kurtulusu",

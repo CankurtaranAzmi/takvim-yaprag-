@@ -1519,7 +1519,7 @@
     "url": "https://tr.wikipedia.org/wiki/3_Kas%C4%B1m",
     "revid": 38346189
   },
-  "guncelleme": "2026-10-29T12:29:21.324Z",
+  "guncelleme": "2026-10-30T12:20:57.677Z",
   "haberler": [
     {
       "id": "2025-haber-2449294",
@@ -1593,14 +1593,13 @@
       },
       "konular": [
         "İstanbul Maratonu",
-        "Maraton",
         "İstanbul"
       ],
       "yayin": "2024-11-03T23:54:00+03:00",
       "puan": 11,
       "durum": "elendi",
       "baslik": "İstanbul Maratonu'nda Katılım Sayısında Yeni Rekor Kaydedildi",
-      "ozet": "İstanbul Maratonu'na katılan sporcuların yarışı tamamlama oranında tarihi bir seviyeye ulaşıldı. Organizasyon yetkilileri, toplam 4 bin 156 kişinin bitiş çizgisine ulaşmasıyla birlikte etkinlik tarihindeki en yüksek katılım rekorunun kırıldığını duyurdu.",
+      "ozet": "İstanbul'da düzenlenen maraton etkinliğinde, bitiş çizgisini geçen kişi sayısı bakımından tarihi bir seviyeye ulaşıldı. Yarışı başarıyla tamamlayan dört binin üzerindeki sporcu ile organizasyonun geçmişindeki en yüksek katılım başarısı elde edildi.",
       "kategori": "Spor"
     },
     {
@@ -1991,8 +1990,8 @@
       "yayin": "2016-11-03T15:24:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "Cumhurbaşkanı Erdoğan ve Devlet Bahçeli Beştepe'de Görüştü",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ile Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli bir araya gelerek gündemdeki konuları görüştü. Yaklaşık bir saat süren görüşmede başkanlık sistemi ve idam cezası gibi başlıklar ele alındı.",
+      "baslik": "Cumhurbaşkanı Erdoğan ve Devlet Bahçeli Beştepe'de bir araya geldi",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ve Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli, başkent Ankara'da gerçekleştirilen bir görüşmede buluştu. İki liderin yaklaşık bir saat süren toplantısında başkanlık sistemi ve idam cezası tartışmaları ele alındı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
@@ -2236,7 +2235,7 @@
       "puan": 5,
       "durum": "yazildi",
       "baslik": "İdam cezası tartışmaları yeniden gündeme geldi",
-      "ozet": "Dönemin Başbakanı Recep Tayyip Erdoğan, toplumun geniş bir kesiminin idam cezasının tekrar yürürlüğe girmesini talep ettiğini belirtti. Yapılan kamuoyu araştırmalarına değinen Erdoğan, suç mağdurlarının yaşadığı acılara dikkat çekerek idam konusundaki tartışmaları siyasi gündeme taşıdı.",
+      "ozet": "Dönemin Başbakanı Recep Tayyip Erdoğan, kamuoyunda idam cezasının yeniden uygulanmasına yönelik bir beklenti oluştuğunu ifade etti. Suç mağdurlarının yaşadığı acılara dikkat çeken Erdoğan, cezaevindeki hükümlülerin durumunu eleştirerek idam konusundaki tartışmaları tekrar başlattı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
@@ -2286,15 +2285,15 @@
         "url": "https://www.cumhuriyet.com.tr/haber/referandum-da-istifa-da-yok-295450"
       },
       "konular": [
+        "Yunanistan borç krizi",
         "Yorgo Papandreu",
-        "Yunanistan",
-        "Avrupa Birliği"
+        "Yunanistan"
       ],
       "yayin": "2011-11-03T11:29:00+03:00",
       "puan": 9,
       "durum": "yazildi",
-      "baslik": "Yunanistan hükümetinde güvenoyu krizi yaşandı",
-      "ozet": "Yunanistan Başbakanı Yorgo Papandreu, parlamentodaki bazı milletvekillerinin güvenoyu oylamasında destek vermeyeceklerini açıklaması üzerine çoğunluğu kaybetti. Hükümetin düşme tehlikesiyle karşı karşıya kaldığı bu süreçte, Papandreu Avrupa Birliği mali yardım paketini referanduma sunma konusundaki kararını gözden geçirdi. Yaşanan siyasi belirsizlik nedeniyle yönetim zor bir döneme girdi.",
+      "baslik": "Yunanistan hükümetinde güvenoyu krizi yaşanıyor",
+      "ozet": "Yunanistan Başbakanı Yorgo Papandreu, parlamentodaki çoğunluğu kaybetmesiyle zor bir süreçle karşı karşıya kaldı. Beş milletvekilinin güven oylamasında hükümete destek vermeyeceğini duyurması üzerine Papandreu, Avrupa Birliği mali yardım paketini halk oylamasına sunma kararını esnetti. Hükümetin geleceği yapılacak oylamanın sonuçlarına göre şekillenecek.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Papandreou_handover_cropped.jpg",

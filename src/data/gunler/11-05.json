@@ -1339,7 +1339,7 @@
     "url": "https://tr.wikipedia.org/wiki/5_Kas%C4%B1m",
     "revid": 38168818
   },
-  "guncelleme": "2026-10-29T12:29:22.139Z",
+  "guncelleme": "2026-10-30T12:20:58.559Z",
   "haberler": [
     {
       "id": "2025-haber-2449968",
@@ -1560,8 +1560,8 @@
       "yayin": "2022-11-05T19:19:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Oğuz Kaan Salıcı Keçiören'de Yeni Üyelerin Rozetlerini Taktı",
-      "ozet": "Cumhuriyet Halk Partisi Genel Başkan Yardımcısı Oğuz Kaan Salıcı, Ankara'nın Keçiören ilçesinde düzenlenen törene katıldı. Partiye yeni katılan vatandaşlara rozetlerini takdim eden Salıcı, burada yaptığı konuşmada siyasi faaliyetlerinin kararlılıkla sürdürüleceğini ifade etti.",
+      "baslik": "Oğuz Kaan Salıcı Keçiören'de Yeni Üyelerle Bir Araya Geldi",
+      "ozet": "Cumhuriyet Halk Partisi Genel Başkan Yardımcısı Oğuz Kaan Salıcı, Ankara'nın Keçiören ilçesinde düzenlenen etkinlikte partiye katılan yeni üyelerin rozetlerini taktı. Salıcı, burada yaptığı konuşmada iktidara yönelik eleştirilerde bulunarak çalışmalarını sürdüreceklerini ifade etti.",
       "kategori": "Siyaset"
     },
     {
@@ -1781,8 +1781,8 @@
       "yayin": "2018-11-05T17:43:00+03:00",
       "puan": 8,
       "durum": "elendi",
-      "baslik": "Fikret Orman Beşiktaş'ın Şampiyonluk Hedefini Açıkladı",
-      "ozet": "Beşiktaş Kulübü Başkanı Fikret Orman, Nevzat Demir Tesisleri'nde basın mensuplarıyla bir araya geldi. Orman, yaptığı değerlendirmelerde sezon sonu itibarıyla şampiyonluğa ulaşacaklarına dair inancını dile getirdi.",
+      "baslik": "Beşiktaş Başkanı Fikret Orman şampiyonluk hedefini açıkladı",
+      "ozet": "Beşiktaş Kulübü Başkanı Fikret Orman, Nevzat Demir Tesisleri'nde basın mensuplarıyla bir araya geldi. Orman, kulübün sezon sonu için belirlediği şampiyonluk hedefini kamuoyuyla paylaştı.",
       "kategori": "Spor"
     },
     {
@@ -1880,14 +1880,13 @@
       },
       "konular": [
         "Halkların Demokratik Partisi",
-        "Adana",
-        "Siyaset"
+        "Adana"
       ],
       "yayin": "2016-11-05T20:12:00+03:00",
       "puan": 7,
       "durum": "elendi",
-      "baslik": "Adana'da kepenk kapatan esnaflar hakkında soruşturma başlatıldı",
-      "ozet": "Adana ilinde düzenlenen bir operasyonun ardından faaliyetlerini durduran işletme sahiplerine yönelik hukuki süreç başlatıldı. Halkların Demokratik Partisi üyelerine yönelik gerçekleştirilen operasyonları protesto etmek amacıyla iş yerlerini açmayan esnaflar hakkında inceleme yapıldı.",
+      "baslik": "Adana'da kepenk kapatan esnaflar hakkında yasal işlem başlatıldı",
+      "ozet": "Adana ilinde gerçekleştirilen bir operasyon süreciyle bağlantılı olarak iş yerlerini açmayan esnaflar hakkında soruşturma süreci başlatıldı. Söz konusu operasyonun Halkların Demokratik Partisi üyelerine yönelik yapıldığı belirtildi. Yetkililer, kepenk kapatma eylemi gerçekleştiren işletme sahiplerinin durumunu incelemeye aldı.",
       "kategori": "Siyaset"
     },
     {
@@ -2022,8 +2021,8 @@
       "yayin": "2013-11-05T22:16:00+03:00",
       "puan": 6,
       "durum": "elendi",
-      "baslik": "Yüksek Seçim Kurulu binasında yaşanan patlama incelemeye alındı",
-      "ozet": "Ankara'da bulunan Yüksek Seçim Kurulu binasının yakınlarında akşam saatlerinde bir patlama sesi duyuldu. Emniyet güçlerini harekete geçiren olaya ilişkin yapılan ilk tespitlerde, çevrede çıkan küçük çaplı bir yangının ısınmaya neden olduğu belirlendi. Bu ısınmanın etkisiyle çift katlı camların genleşerek patladığı ifade edildi.",
+      "baslik": "Yüksek Seçim Kurulu binası önünde yaşanan patlama paniğe yol açtı",
+      "ozet": "Ankara'da bulunan Yüksek Seçim Kurulu binasının yakınlarında akşam saatlerinde bir patlama sesi duyuldu. Emniyet güçlerini harekete geçiren olayın ardından yapılan ilk teknik incelemeler, patlamanın çevredeki küçük bir yangın nedeniyle camların aşırı ısınarak genleşmesinden kaynaklandığını ortaya koydu.",
       "kategori": "Toplum"
     },
     {
@@ -2134,13 +2133,14 @@
       },
       "konular": [
         "Türkiye millî futbol takımı",
-        "2012 Avrupa Futbol Şampiyonası elemeleri"
+        "Hırvatistan millî futbol takımı",
+        "UEFA Euro 2012 elemeleri"
       ],
       "yayin": "2011-11-05T11:37:00+03:00",
       "puan": 8,
       "durum": "elendi",
       "baslik": "A Milli Futbol Takımı Hırvatistan Maçı İçin Toplanıyor",
-      "ozet": "A Milli Futbol Takımı, 2012 Avrupa Futbol Şampiyonası elemeleri play-off turu kapsamında Hırvatistan ile yapacağı karşılaşmaların hazırlıklarına başlıyor. 11 ve 15 Kasım tarihlerinde oynanacak kritik müsabakalar öncesinde milliler, yarın akşam İstanbul'da bir araya gelerek kampa girecek.",
+      "ozet": "A Milli Futbol Takımı, 2012 Avrupa Futbol Şampiyonası elemeleri play-off turu kapsamında Hırvatistan ile oynayacağı kritik müsabakalar için hazırlıklarına başlıyor. Ay-yıldızlı ekip, 11 ve 15 Kasım tarihlerinde gerçekleşecek karşılaşmalar öncesinde yarın akşam İstanbul'da bir araya gelerek kampa girecek.",
       "kategori": "Spor"
     }
   ],

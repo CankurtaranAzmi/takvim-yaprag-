@@ -12,10 +12,10 @@
         "Habsburg Hanedanı",
         "Kutsal Roma İmparatorluğu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İsviçre'nin Bağımsızlık Yolunda İlk Büyük Zaferi: Morgarten",
+      "ozet": "İsviçre Konfederasyonu güçleri, 15 Kasım 1315 tarihinde Morgarten Geçidi'nde gerçekleşen muharebede, Avusturya Dükü I. Leopold komutasındaki Habsburg ordusunu mağlup etti. Sayıca çok daha az olan İsviçreli piyade ve okçular, stratejik konumlarını kullanarak kendilerinden çok daha büyük bir orduyu bozguna uğratmayı başardı. Bu zafer, İsviçre'nin askeri tarihinde bir dönüm noktası olarak kabul edilir.\n\nBu çatışmanın temelinde, Habsburg Hanedanı'nın bölgedeki kantonların özerkliğini tanımayı reddetmesi ve merkezi otoriteyi zorla kabul ettirme çabası yatıyordu. Uri, Schwyz ve Unterwalden kantonlarının birleşerek kurduğu konfederasyon, bu zaferle birlikte varlığını ve imparatorluk içindeki otonom statüsünü koruma konusunda önemli bir güç kazandı. Morgarten'de elde edilen bu başarı, İsviçre'nin ilerleyen yüzyıllarda tam bağımsızlığa giden yolda attığı en kritik adımlardan biri oldu ve konfederasyonun birliğini pekiştirdi.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bendicht_Tschachtlan%2C_Die_Schlacht_am_Morgarten_%28c._1470%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bendicht_Tschachtlan%2C_Die_Schlacht_am_Morgarten_%28c._1470%29.jpg",
@@ -28,7 +28,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Bendicht_Tschachtlan,_Die_Schlacht_am_Morgarten_(c._1470).jpg",
         "aciklama": "The Battle of Morgarten on 15 November 1315 (with a depiction of the court jester Kuony von Stocken).",
         "konu": "Morgarten Muharebesi"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1638-osmanli-ordusu-bagdati-kusatmaya-basladi",
@@ -37,23 +38,12 @@
       "konular": [
         "Bağdat"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/5628442718_b10fc2c47f_o.jpg/960px-5628442718_b10fc2c47f_o.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/5628442718_b10fc2c47f_o.jpg/500px-5628442718_b10fc2c47f_o.jpg",
-        "genislik": 960,
-        "yukseklik": 630,
-        "orijinalGenislik": 2000,
-        "yazar": "USACE HQ , JIM GORDAN, CIV, USACE",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:5628442718_b10fc2c47f_o.jpg",
-        "aciklama": "This is an aerial view of the former Republican Palace (foreground), which served as both the prime ceremonial palace used by Saddam Hussein and the Headquarters for the now defunct Iraqi Republican G",
-        "konu": "Bağdat"
-      }
+      "baslik": "Osmanlı Ordusunun Bağdat Kuşatması Başladı",
+      "ozet": "Osmanlı İmparatorluğu, 1638 yılının Kasım ayında Bağdat'ı Safevi Devleti'nin elinden kurtarmak için büyük bir kuşatma harekatı başlattı. Sultan IV. Murad komutasındaki Osmanlı ordusu, stratejik öneme sahip olan bu kadim şehri yeniden imparatorluk topraklarına katmak amacıyla Dicle Nehri kıyısındaki surların önünde mevzilendi. Bu kuşatma, iki büyük güç arasındaki uzun süreli rekabetin en kritik aşamalarından birini temsil ediyordu.\n\nBağdat, tarih boyunca hem Abbasi Halifeliği'nin merkezi olması hem de ticaret yolları üzerindeki konumuyla Orta Doğu'nun en önemli şehirlerinden biri kabul edilmiştir. Osmanlılar için Bağdat'ın kontrolü, bölgedeki otoriteyi pekiştirmek ve Safevi tehdidini sınırlandırmak adına hayati bir önem taşıyordu. Kuşatma süreci, Osmanlı askeri gücünün ve lojistik kapasitesinin sergilendiği, bölgedeki güç dengelerini uzun vadede etkileyecek olan kararlı bir askeri girişimdi.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1687-ii-suleymanin-dagittigi-ulufeyi-az-bulan-yeniceri",
@@ -64,10 +54,10 @@
         "ulufe",
         "sipahi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "II. Süleyman Döneminde Yeniçeri ve Sipahi İsyanı",
+      "ozet": "Osmanlı tahtına yeni çıkan II. Süleyman'ın saltanatının ilk günleri, imparatorluğun içinde bulunduğu derin siyasi ve mali buhranın gölgesinde geçti. IV. Mehmed'in tahttan indirilmesiyle sonuçlanan askeri hareketliliğin ardından, yeni padişahın dağıttığı cülus bahşişi ve düzenli maaşları olan ulufeler, askerler arasında büyük bir hoşnutsuzluk yarattı. Kendilerine verilen miktarı az bulan yeniçeri ve sipahiler, bu durumu protesto etmek amacıyla İstanbul'da geniş çaplı bir ayaklanma başlattı. Bu olay, o dönemde Kutsal İttifak Savaşları'nın getirdiği ağır mali yükün ve merkezi otoritedeki zafiyetin bir yansıması olarak tarihe geçti.\n\nSultan Süleyman, yaklaşık kırk yıl süren kafes hayatının ardından devraldığı bu zorlu süreçte, saltanatının ilk aylarını bu isyanı bastırmak ve devlet düzenini yeniden tesis etmekle geçirdi. Askeri disiplinin bozulması ve maaş ödemelerindeki aksaklıklar, Osmanlı ordusunun savaş meydanlarındaki etkinliğini de doğrudan etkiliyordu. İsyanın bastırılmasının ardından padişah, Köprülü Fazıl Mustafa Paşa gibi yetkin isimleri göreve getirerek mali ve askeri reformlara odaklandı. Bu dönemde yaşanan iç karışıklıklar, imparatorluğun hem iç güvenliğini hem de dış cephelerdeki savunma gücünü derinden sarsan kritik bir dönüm noktası oluşturdu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/S%C3%BCleyman_II.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/S%C3%BCleyman_II.jpg",
@@ -81,34 +71,7 @@
         "aciklama": "Süleyman II",
         "konu": "II. Süleyman"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/S%C3%BCleyman_II.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/S%C3%BCleyman_II.jpg",
-          "genislik": 492,
-          "yukseklik": 730,
-          "orijinalGenislik": 492,
-          "yazar": "Osmanlı98",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:S%C3%BCleyman_II.jpg",
-          "aciklama": "Süleyman II",
-          "konu": "II. Süleyman"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/El%C3%A7i_Heyeti%E2%80%99nin_Topkap%C4%B1_Saray%C4%B1%E2%80%99n%C4%B1n_%C4%B0kinci_Avlusundan_Ge%C3%A7i%C5%9Fi.png/960px-El%C3%A7i_Heyeti%E2%80%99nin_Topkap%C4%B1_Saray%C4%B1%E2%80%99n%C4%B1n_%C4%B0kinci_Avlusundan_Ge%C3%A7i%C5%9Fi.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/El%C3%A7i_Heyeti%E2%80%99nin_Topkap%C4%B1_Saray%C4%B1%E2%80%99n%C4%B1n_%C4%B0kinci_Avlusundan_Ge%C3%A7i%C5%9Fi.png/500px-El%C3%A7i_Heyeti%E2%80%99nin_Topkap%C4%B1_Saray%C4%B1%E2%80%99n%C4%B1n_%C4%B0kinci_Avlusundan_Ge%C3%A7i%C5%9Fi.png",
-          "genislik": 960,
-          "yukseklik": 709,
-          "orijinalGenislik": 1417,
-          "yazar": "Jean-Baptiste Vanmour",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:El%C3%A7i_Heyeti%E2%80%99nin_Topkap%C4%B1_Saray%C4%B1%E2%80%99n%C4%B1n_%C4%B0kinci_Avlusundan_Ge%C3%A7i%C5%9Fi.png",
-          "aciklama": "Yabancı elçilerin kabul törenleri, imparatorluğun gücünü göstermek amacıyla, üç ayda bir yeniçerilerin maaşlarının verildiği ‘ulufe’ gününe rastlatılır, elçi heyetinin Topkapı Sarayı’nın İkinci Avlu’s",
-          "konu": "ulufe"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1808-alemdar-vakasi-olarak-adlandirilan-yeniceri-ayaklanmasi-basladi",
@@ -118,10 +81,10 @@
         "Alemdar Vakası",
         "yeniçeri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Osmanlı'da Reform Karşıtı Bir İsyan: Alemdar Vakası",
+      "ozet": "Alemdar Vakası, 15 Kasım 1808 tarihinde İstanbul'da patlak veren ve Osmanlı İmparatorluğu'ndaki reform çabalarını derinden sarsan bir yeniçeri ayaklanmasıdır. Rumeli âyanlarından olan ve yenilikçi kimliğiyle tanınan Sadrazam Alemdar Mustafa Paşa'nın yönetim tarzına ve gerçekleştirmek istediği düzenlemelere karşı çıkan yeniçeriler, başkentte büyük bir kargaşa başlatmıştır. Bu olay, imparatorluğun modernleşme sürecinde karşılaştığı en sert dirençlerden biri olarak tarihe geçmiştir.\n\nİsyanın temelinde, Yeniçeri Ocağı'nın kendi çıkarlarını koruma arzusu ve devletin merkezi otoritesini güçlendirmeye yönelik reformlara duyulan tepki yatmaktadır. O dönemde Avrupa'nın ilk modern daimi ordusu olma özelliğini taşıyan ancak zamanla disiplinini kaybederek siyasi bir güç odağı haline gelen yeniçeriler, Alemdar Mustafa Paşa'nın reformlarını kendi varlıklarına yönelik bir tehdit olarak görmüşlerdir. Üç gün süren bu ayaklanma, sadrazamın ölümüyle sonuçlanmış ve Osmanlı'da yenilik hareketlerinin bir süreliğine duraklamasına neden olmuştur. Bu vaka, devletin askeri ve idari yapısını dönüştürme çabalarının ne kadar zorlu bir süreç olduğunu gözler önüne sermektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Mustafa_bairakdar.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Mustafa_bairakdar.jpg",
@@ -135,34 +98,7 @@
         "aciklama": null,
         "konu": "Alemdar Vakası"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Mustafa_bairakdar.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Mustafa_bairakdar.jpg",
-          "genislik": 450,
-          "yukseklik": 517,
-          "orijinalGenislik": 450,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mustafa_bairakdar.jpg",
-          "aciklama": null,
-          "konu": "Alemdar Vakası"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Lambert_Wyts_-_Agha_of_the_Janissaries_and_a_B%C3%B6l%C3%BCk_of_the_Janissaries.jpg/960px-Lambert_Wyts_-_Agha_of_the_Janissaries_and_a_B%C3%B6l%C3%BCk_of_the_Janissaries.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Lambert_Wyts_-_Agha_of_the_Janissaries_and_a_B%C3%B6l%C3%BCk_of_the_Janissaries.jpg/500px-Lambert_Wyts_-_Agha_of_the_Janissaries_and_a_B%C3%B6l%C3%BCk_of_the_Janissaries.jpg",
-          "genislik": 960,
-          "yukseklik": 1452,
-          "orijinalGenislik": 1246,
-          "yazar": "Lambert Wyts",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Lambert_Wyts_-_Agha_of_the_Janissaries_and_a_B%C3%B6l%C3%BCk_of_the_Janissaries.jpg",
-          "aciklama": null,
-          "konu": "yeniçeri"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1889-brezilyada-monarsi-devrildi-ve-cumhuriyet-kuruldu",
@@ -200,23 +136,12 @@
         "İsviçre",
         "Cenevre"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Views_of_Geneva.jpg/960px-Views_of_Geneva.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Views_of_Geneva.jpg/500px-Views_of_Geneva.jpg",
-        "genislik": 960,
-        "yukseklik": 1200,
-        "orijinalGenislik": 1481,
-        "yazar": "MadGeographer",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Views_of_Geneva.jpg",
-        "aciklama": "Montage for the Geneva article on Wikipedia",
-        "konu": "Cenevre"
-      }
+      "baslik": "Milletler Cemiyeti'nin İlk Genel Toplantısı Cenevre'de Yapıldı",
+      "ozet": "I. Dünya Savaşı'nın ardından dünya barışını korumak ve devletler arasındaki anlaşmazlıkları diplomatik yollarla çözüme kavuşturmak amacıyla kurulan Milletler Cemiyeti, ilk genel toplantısını 15 Kasım 1920'de Cenevre'de düzenledi. Cemiyet-i Akvam olarak da bilinen bu uluslararası örgüt, Versay Barış Antlaşması'nın bir parçası olarak hayata geçirilmişti. Cenevre'deki bu buluşma, örgütün küresel ölçekte faaliyet gösterme iradesinin somut bir adımı olarak kabul edildi.\n\nCemiyet, günümüzdeki Birleşmiş Milletler'in öncüsü niteliğindeydi ve uluslararası iş birliği adına önemli bir deneme olarak tarihe geçti. Ancak kuruluş amacı olan kalıcı barışı sağlama konusunda beklenen başarıyı gösteremedi. Özellikle II. Dünya Savaşı'nın patlak vermesini engelleyememesi, örgütün etkinliğini ve gücünü tartışmaya açtı. Nihayetinde 1946 yılında faaliyetlerine son veren Milletler Cemiyeti, uluslararası diplomasi tarihinde barış arayışlarının hem umut verici hem de zorlu bir dönemi olarak yerini aldı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1937-dersim-harekatinin-ilk-adimi-tamamlandi-isyanin-lideri",
@@ -227,10 +152,10 @@
         "Seyit Rıza",
         "Elazığ"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Seyit Rıza ve Arkadaşlarının İdamı",
+      "ozet": "Dersim İsyanı'nın önde gelen isimlerinden olan Seyit Rıza ve beraberindeki altı kişi, 15 Kasım 1937 tarihinde Elazığ'da idam edildi. Bu olay, Türkiye Cumhuriyeti'nin erken dönemlerinde bölgede devlet otoritesini tesis etmek amacıyla yürütülen Dersim Harekâtı sürecinin en kritik dönüm noktalarından biri olarak kabul edilmektedir. Şeyh Hasanlılar aşiretine mensup bir lider ve dini bir figür olan Seyit Rıza'nın infazı, bölgedeki aşiret yapısı ile merkezi hükümet arasındaki çatışmanın şiddetlendiği bir döneme denk gelmiştir. İdam kararı, isyanın bastırılması ve bölgede mutlak devlet hakimiyetinin sağlanması hedefiyle atılan adımların bir parçası olarak uygulanmıştır. Seyit Rıza'nın ölümü, Dersim'de yaşanan olayların tarihsel seyrinde önemli bir kırılma noktası oluşturmuş ve bölgenin toplumsal hafızasında derin izler bırakmıştır. İsyana katılan aşiretlerin devletle yaşadığı çatışmalar, harekâtın genişlemesine ve bölgede büyük çaplı askeri operasyonların yürütülmesine yol açmıştır. Bu süreç, Türkiye'nin modernleşme ve merkeziyetçi yönetim anlayışının yerel aşiret yapılarıyla girdiği tarihsel bir hesaplaşma olarak değerlendirilmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sey_Riza.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sey_Riza.jpg",
@@ -244,34 +169,7 @@
         "aciklama": "Seyid Riza (Zazaki: Sey Riza) was the political leader of Dersim, a religious figure and the leader of the Dersim rebellion.",
         "konu": "Seyit Rıza"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sey_Riza.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sey_Riza.jpg",
-          "genislik": 910,
-          "yukseklik": 1212,
-          "orijinalGenislik": 910,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Sey_Riza.jpg",
-          "aciklama": "Seyid Riza (Zazaki: Sey Riza) was the political leader of Dersim, a religious figure and the leader of the Dersim rebellion.",
-          "konu": "Seyit Rıza"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Elazig_Izzetpascha-Moschee.jpg/960px-Elazig_Izzetpascha-Moschee.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Elazig_Izzetpascha-Moschee.jpg/500px-Elazig_Izzetpascha-Moschee.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 5184,
-          "yazar": "Klaus-Peter Simon",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Elazig_Izzetpascha-Moschee.jpg",
-          "aciklama": "Izzet-Pascha-Moschee und Gazi Caddesi in Elâzığ, Türkei",
-          "konu": "Elazığ"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1956-orta-dogu-teknik-universitesi-kuruldu",
@@ -293,23 +191,12 @@
       "konular": [
         "Kıbrıs"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Cyprus_ESA356100.jpg/960px-Cyprus_ESA356100.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Cyprus_ESA356100.jpg/500px-Cyprus_ESA356100.jpg",
-        "genislik": 960,
-        "yukseklik": 691,
-        "orijinalGenislik": 10000,
-        "yazar": "European Space Agency",
-        "lisans": "CC BY-SA 3.0 igo",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Cyprus_ESA356100.jpg",
-        "aciklama": "The third largest island in the Mediterranean, Cyprus is about 240 km long and 100 km wide. It is located on the Anatolian plate and therefore belongs geologically to Asia, but politically it is a mem",
-        "konu": "Kıbrıs"
-      }
+      "baslik": "Kıbrıs'ta Geçitkale ve Boğaziçi Saldırıları",
+      "ozet": "Kıbrıs'ta 1967 yılının Kasım ayında yaşanan gerilim, Rum milislerin Geçitkale ve Boğaziçi köylerine yönelik başlattığı silahlı saldırılarla tırmandı. Bu saldırılar sonucunda 28 Türk vatandaşı yaşamını yitirirken, çok sayıda kişi kayboldu ve bölgedeki Türk nüfus üzerinde büyük bir baskı oluştu. Olayın ardından Türkiye'de Bakanlar Kurulu, Genelkurmay Başkanı ve kuvvet komutanlarının katılımıyla olağanüstü toplanarak adadaki durumu ve alınabilecek askeri önlemleri masaya yatırdı. Bu süreç, Türkiye'nin Kıbrıs meselesindeki kararlılığını göstermesi açısından kritik bir dönemeç olarak kabul edilir.\n\nSöz konusu saldırılar, adadaki toplumlar arası çatışmaların en şiddetli evrelerinden birini temsil ediyordu. Türkiye'nin bölgeye yönelik askeri müdahale hazırlıklarını hızlandıran bu olaylar, uluslararası diplomaside de yoğun bir hareketliliğe yol açtı. O dönemde yaşanan bu trajik kayıplar, Kıbrıs Türklerinin güvenlik endişelerini derinleştirmiş ve adadaki siyasi çözüm arayışlarını daha karmaşık bir hale getirmiştir. Türkiye'nin gösterdiği sert tepki, bölgedeki dengelerin korunması adına atılan önemli bir adım olarak tarihe geçmiştir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1969-washington-dcde-ceyrek-milyon-kisi-vietnam-savasina",
@@ -319,51 +206,12 @@
         "Washington, DC",
         "Vietnam Savaşı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/National_Mall%2C_Lincoln_Memorial_04448v.jpg/960px-National_Mall%2C_Lincoln_Memorial_04448v.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/National_Mall%2C_Lincoln_Memorial_04448v.jpg/500px-National_Mall%2C_Lincoln_Memorial_04448v.jpg",
-        "genislik": 960,
-        "yukseklik": 1224,
-        "orijinalGenislik": 2059,
-        "yazar": "Carol M. Highsmith",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:National_Mall,_Lincoln_Memorial_04448v.jpg",
-        "aciklama": null,
-        "konu": "Washington, DC"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/National_Mall%2C_Lincoln_Memorial_04448v.jpg/960px-National_Mall%2C_Lincoln_Memorial_04448v.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/National_Mall%2C_Lincoln_Memorial_04448v.jpg/500px-National_Mall%2C_Lincoln_Memorial_04448v.jpg",
-          "genislik": 960,
-          "yukseklik": 1224,
-          "orijinalGenislik": 2059,
-          "yazar": "Carol M. Highsmith",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:National_Mall,_Lincoln_Memorial_04448v.jpg",
-          "aciklama": null,
-          "konu": "Washington, DC"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/VietnamMural.jpg/960px-VietnamMural.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/VietnamMural.jpg/500px-VietnamMural.jpg",
-          "genislik": 960,
-          "yukseklik": 787,
-          "orijinalGenislik": 1188,
-          "yazar": "Department of Defense. Department of the Navy. U.S. Marine Corps. James K. F. Dung, SFC, Photographer Ronald L. Haeberle U.S. National Archi",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:VietnamMural.jpg",
-          "aciklama": "Top left: Battle of Hamo Village During the Tet Offensive. US Marines and ARVN troops defend a position against enemy attack. Top right: UH-1D helicopters airlift members of the 2nd Battalion, 14th In",
-          "konu": "Vietnam Savaşı"
-        }
-      ]
+      "baslik": "Vietnam Savaşı'na Karşı Büyük Washington Yürüyüşü",
+      "ozet": "Amerika Birleşik Devletleri'nin başkenti Washington, DC, 1969 yılının Kasım ayında Vietnam Savaşı'na karşı düzenlenen devasa bir protesto gösterisine ev sahipliği yaptı. Yaklaşık çeyrek milyon insanın katılımıyla gerçekleşen bu eylem, savaş karşıtı hareketin o dönemde ulaştığı en büyük kitlesel tepkilerden biri olarak tarihe geçti. Göstericiler, Amerikan yönetiminin bölgedeki askeri varlığına ve çatışmaların giderek tırmanmasına karşı barışçıl bir duruş sergileyerek savaşın bir an önce sona erdirilmesi çağrısında bulundu. Vietnam Savaşı, Soğuk Savaş'ın en gerilimli dönemlerinden birinde, Kuzey ve Güney Vietnam arasında yaşanan ve küresel güçlerin de taraf olduğu karmaşık bir çatışmaydı. ABD'nin 1965 yılından itibaren doğrudan askeri müdahalesini yoğunlaştırması, Amerikan kamuoyunda ciddi bir huzursuzluğa yol açmıştı. Washington'daki bu büyük yürüyüş, savaşın yarattığı toplumsal bölünmenin ve halkın barış talebinin somut bir göstergesiydi. Bu tür kitlesel eylemler, zamanla Amerikan dış politikasının sorgulanmasında ve nihayetinde 1973 yılında ABD kuvvetlerinin bölgeden çekilme sürecinin hızlanmasında önemli bir toplumsal baskı unsuru oluşturdu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1971-intel-sirketi-dunyanin-ilk-ticari-tek-cipli",
@@ -372,23 +220,12 @@
       "konular": [
         "Intel"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Intel_Headquarters_in_2023.jpg/960px-Intel_Headquarters_in_2023.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Intel_Headquarters_in_2023.jpg/500px-Intel_Headquarters_in_2023.jpg",
-        "genislik": 960,
-        "yukseklik": 641,
-        "orijinalGenislik": 4863,
-        "yazar": "Coolcaesar",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Intel_Headquarters_in_2023.jpg",
-        "aciklama": "Intel headquarters at 2200 Mission College Boulevard in Santa Clara, California. At the time this photo was taken in 2023, the Robert Noyce Building was wrapped with a temporary poster honoring the li",
-        "konu": "Intel"
-      }
+      "baslik": "Modern Bilgisayar Çağını Başlatan Mikroişlemci: Intel 4004",
+      "ozet": "Intel, 1971 yılının Kasım ayında teknoloji dünyasında devrim niteliğinde bir adım atarak dünyanın ilk ticari tek çipli mikroişlemcisi olan 4004'ü satışa sundu. Federico Faggin, Marcian Hoff ve Stanley Mazor gibi mühendislerin öncülüğünde geliştirilen bu küçük parça, daha önce devasa boyutlardaki bilgisayarların yaptığı karmaşık hesaplama işlemlerini tek bir silikon yonga üzerine sığdırmayı başardı. Bu gelişme, elektronik cihazların küçülmesinin ve kişisel bilgisayar devriminin önünü açan en kritik teknolojik kırılmalardan biri olarak kabul edilir.\n\nIntel 4004'ün piyasaya sürülmesi, sadece bir şirketin başarısı değil, aynı zamanda dijitalleşme sürecinin hızlanması anlamına geliyordu. Başlangıçta bir hesap makinesi için tasarlanmış olsa da, bu mikroişlemcinin mimarisi, günümüzde kullandığımız akıllı telefonlardan karmaşık sunuculara kadar uzanan geniş bir yelpazedeki işlemcilerin temelini oluşturdu. Moore Yasası ile özdeşleşen Intel'in bu hamlesi, yarı iletken teknolojisinin ne kadar hızlı gelişebileceğini kanıtladı ve bilişim dünyasında yeni bir dönemi başlattı.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1977-turk-atleti-veli-balli-pakistanda-yapilan-uluslararasi",
@@ -399,10 +236,10 @@
         "Pakistan",
         "Maraton"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Veli Ballı'nın Pakistan'daki Maraton Zaferi",
+      "ozet": "Türk atletizminin önemli isimlerinden Veli Ballı, 1977 yılında Pakistan'da gerçekleştirilen Uluslararası Atletizm Yarışmaları'nda maraton dalında altın madalyaya uzanarak büyük bir başarıya imza attı. Muş'un Varto ilçesinde dünyaya gelen ve atletizm kariyerine Sivas Demir Spor Kulübü'nde başlayan Ballı, bu zaferiyle uluslararası arenada Türkiye'yi başarıyla temsil eden sporcular arasındaki yerini pekiştirdi. Maraton, 42,195 kilometrelik mesafesiyle atletizmin en zorlu ve dayanıklılık gerektiren branşlarından biri olarak kabul edilir. Veli Ballı'nın bu başarısı, o dönemde Türk atletizminin uzun mesafe koşularındaki potansiyelini göstermesi açısından dikkat çekici bir gelişme olmuştur. Sporcunun kariyeri boyunca sergilediği bu tür uluslararası başarılar, Türkiye'de atletizm sporunun gelişimi ve genç sporcuların motivasyonu üzerinde olumlu bir etki yaratmıştır. Ballı, sadece bir yarış kazanmakla kalmamış, aynı zamanda Türk spor tarihine adını yazdıran istikrarlı performansıyla da hatırlanmaktadır.",
+      "kategori": "Spor",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/USMC_Marathon.jpg/960px-USMC_Marathon.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/USMC_Marathon.jpg/500px-USMC_Marathon.jpg",
@@ -415,7 +252,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:USMC_Marathon.jpg",
         "aciklama": null,
         "konu": "Maraton"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1979-yunan-silebi-evrenia-ile-haydarpasa-mendiregi-aciklarinda",
@@ -425,23 +263,12 @@
         "Haydarpaşa",
         "Independenta tanker kazası"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Haydarpasa_tstation.png/960px-Haydarpasa_tstation.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Haydarpasa_tstation.png/500px-Haydarpasa_tstation.png",
-        "genislik": 960,
-        "yukseklik": 613,
-        "orijinalGenislik": 3648,
-        "yazar": "Hasan Ataizi",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Haydarpasa_tstation.png",
-        "aciklama": "Picture of Haydarpaşa Train Station From Sea",
-        "konu": "Haydarpaşa"
-      }
+      "baslik": "İstanbul Boğazı'nda Independenta Tanker Faciası",
+      "ozet": "İstanbul Boğazı'nın girişinde, Haydarpaşa mendireği açıklarında gerçekleşen bu kaza, Türk denizcilik tarihinin en büyük çevre felaketlerinden biri olarak kayıtlara geçti. Ham petrol taşıyan Rumen bandıralı Independenta tankeri, Yunan şilebi Evrenia ile çarpıştıktan kısa bir süre sonra şiddetli bir patlama yaşadı. Çarpışmanın etkisiyle gemide başlayan yangın, tankerin taşıdığı binlerce ton ham petrolün denize dökülmesine ve günlerce süren bir çevre kirliliğine yol açtı. Kazada gemi mürettebatından çok sayıda kişi hayatını kaybetti.\n\nBu olay, İstanbul Boğazı'ndaki yoğun deniz trafiğinin yarattığı riskleri gözler önüne seren en trajik örneklerden biri oldu. Yangın, geminin içindeki petrolün yanması nedeniyle yaklaşık bir ay boyunca söndürülemedi ve boğaz trafiğini ciddi şekilde aksattı. Independenta faciası, sadece can kaybı ve ekonomik zarar açısından değil, aynı zamanda İstanbul'un ekosistemine verdiği ağır hasarla da uzun yıllar boyunca hatırlanan bir felaket olarak tarihe geçti. Kaza sonrası boğaz geçişlerinde güvenlik önlemlerinin artırılması ve deniz trafiğinin düzenlenmesi konusunda daha sıkı kuralların uygulanması gündeme geldi.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1983-kuzey-kibris-turk-cumhuriyeti-ilan-edildi",
@@ -466,51 +293,24 @@
         "Türkiye",
         "Filistin Devleti"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türkiye'nin Filistin Devleti'ni Tanıması",
+      "ozet": "Başbakan Turgut Özal, 15 Kasım 1988 tarihinde Türkiye Büyük Millet Meclisi'nde yaptığı bir konuşma sırasında, Türkiye'nin Filistin Devleti'ni resmen tanıdığını tüm dünyaya ilan etti. Bu karar, Filistin Ulusal Konseyi'nin Cezayir'de gerçekleştirdiği toplantıda bağımsızlık ilan etmesinin hemen ardından geldi. Türkiye, bu adımıyla Filistin halkının kendi kaderini tayin etme hakkına olan desteğini diplomatik düzeyde somutlaştırmış oldu.\n\nTürkiye'nin bu kararı, Orta Doğu'daki barış arayışları ve bölge ülkeleriyle olan ilişkiler açısından stratejik bir dönüm noktası olarak kabul edilir. Filistin davasına verilen bu destek, Türkiye'nin bölgedeki ağırlığını ve dış politikasındaki aktif tutumunu yansıtan önemli bir diplomatik hamleydi. Bu tanıma kararı, Türkiye ile Filistin arasındaki ilişkilerin kurumsal bir zemine oturmasını sağlarken, aynı zamanda uluslararası arenada Filistin'in devletleşme sürecine verilen desteğin bir parçası olarak tarihe geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Prime_Ministers_of_the_Nordic_Council_in_October_2014_-_09.jpg/960px-The_Prime_Ministers_of_the_Nordic_Council_in_October_2014_-_09.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Prime_Ministers_of_the_Nordic_Council_in_October_2014_-_09.jpg/500px-The_Prime_Ministers_of_the_Nordic_Council_in_October_2014_-_09.jpg",
-        "genislik": 960,
-        "yukseklik": 671,
-        "orijinalGenislik": 4089,
-        "yazar": "Frankie Fouganthin",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:The_Prime_Ministers_of_the_Nordic_Council_in_October_2014_-_09.jpg",
-        "aciklama": "Press conference with the Nordic and Baltic prime ministers before the Nordic Council Session in Stockholm 2014. From left: Erna Solberg, Norway Algirdas Butkevičius, Lithuania Laimdota Straujuma, Lat",
-        "konu": "Başbakan"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
+        "genislik": 511,
+        "yukseklik": 659,
+        "orijinalGenislik": 511,
+        "yazar": "European Communities / Christian Lambiotte",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
+        "aciklama": "Turgut Özal, Turkish Prime Minister",
+        "konu": "Turgut Özal"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Prime_Ministers_of_the_Nordic_Council_in_October_2014_-_09.jpg/960px-The_Prime_Ministers_of_the_Nordic_Council_in_October_2014_-_09.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Prime_Ministers_of_the_Nordic_Council_in_October_2014_-_09.jpg/500px-The_Prime_Ministers_of_the_Nordic_Council_in_October_2014_-_09.jpg",
-          "genislik": 960,
-          "yukseklik": 671,
-          "orijinalGenislik": 4089,
-          "yazar": "Frankie Fouganthin",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:The_Prime_Ministers_of_the_Nordic_Council_in_October_2014_-_09.jpg",
-          "aciklama": "Press conference with the Nordic and Baltic prime ministers before the Nordic Council Session in Stockholm 2014. From left: Erna Solberg, Norway Algirdas Butkevičius, Lithuania Laimdota Straujuma, Lat",
-          "konu": "Başbakan"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
-          "genislik": 511,
-          "yukseklik": 659,
-          "orijinalGenislik": 511,
-          "yazar": "European Communities / Christian Lambiotte",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
-          "aciklama": "Turgut Özal, Turkish Prime Minister",
-          "konu": "Turgut Özal"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1995-turkiye-milli-futbol-takimi-isvecle-berabere-kaldi",
@@ -521,10 +321,10 @@
         "İsveç millî futbol takımı",
         "Avrupa Futbol Şampiyonası"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Millî Takımın İlk Avrupa Şampiyonası Başarısı",
+      "ozet": "Türkiye millî futbol takımı, 15 Kasım 1995 tarihinde İsveç ile oynadığı kritik karşılaşmadan beraberlikle ayrılarak Türk futbol tarihinde bir ilke imza attı. Bu sonuçla millî takım, tarihinde ilk kez Avrupa Futbol Şampiyonası finallerine katılma başarısını gösterdi. Söz konusu başarı, Türk futbolunun uluslararası arenada daha görünür hale gelmesi ve Avrupa futboluyla entegrasyonu açısından bir dönüm noktası olarak kabul edilmektedir. Bu eleme süreci, Türkiye'nin sonraki yıllarda elde edeceği büyük turnuva başarılarının da temelini atan önemli bir adım olmuştur. Türk futbolseverler için büyük bir gurur kaynağı olan bu başarı, millî takımın Avrupa'daki rekabetçi kimliğini pekiştiren ve futbol kültürünü geliştiren bir süreç olarak tarihe geçmiştir.",
+      "kategori": "Spor",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Coupe_Henri_Delaunay_2017.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Coupe_Henri_Delaunay_2017.jpg",
@@ -537,7 +337,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Coupe_Henri_Delaunay_2017.jpg",
         "aciklama": "Henri Delaunay Trophy at the presentation of the UEFA Euro 2020 logo in Saint Petersburg, Russia.",
         "konu": "Avrupa Futbol Şampiyonası"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "2000-manisada-16-gence-iskence-iddiasiyla-ucuncu-kez",
@@ -562,51 +363,24 @@
         "Bet İsrael Sinagogu (İstanbul)",
         "2003 İstanbul saldırıları"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İstanbul'daki Sinagoglara Yönelik Terör Saldırıları",
+      "ozet": "15 Kasım 2003 tarihinde İstanbul'da, Şişli'deki Bet İsrael Sinagogu ile Karaköy'deki Neve Şalom Sinagogu'na yönelik eşzamanlı bombalı intihar saldırıları gerçekleştirildi. Cumartesi duası sırasında düzenlenen bu saldırılar, Türkiye'deki Yahudi cemaatini ve kamuoyunu derinden sarstı. Patlamalar sonucunda 28 kişi yaşamını yitirirken, çok sayıda kişi de yaralandı ve her iki ibadethanede büyük çaplı maddi hasar meydana geldi. Olay, Türkiye'nin yakın tarihindeki en kanlı terör eylemlerinden biri olarak kayıtlara geçti.\n\nSaldırıların hedefi olan Neve Şalom Sinagogu, daha önce de 1986 ve 1992 yıllarında benzer saldırı girişimlerine maruz kalmıştı. İstanbul'un en büyük ve en aktif sinagoglarından biri olan Neve Şalom ile Şişli'deki Bet İsrael Sinagogu'na yapılan bu saldırılar, sadece bir inanç grubuna değil, aynı zamanda Türkiye'nin toplumsal huzuruna ve bir arada yaşama kültürüne yönelik bir tehdit olarak değerlendirildi. Saldırıların ardından Türkiye genelinde geniş çaplı bir güvenlik soruşturması başlatıldı ve olay, uluslararası kamuoyunda da büyük yankı uyandırdı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Neve_%C5%9Ealom%2C_Istanbul.jpg/960px-Neve_%C5%9Ealom%2C_Istanbul.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Neve_%C5%9Ealom%2C_Istanbul.jpg/500px-Neve_%C5%9Ealom%2C_Istanbul.jpg",
         "genislik": 960,
-        "yukseklik": 494,
-        "orijinalGenislik": 2048,
-        "yazar": "Alexxx Malev",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-        "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-        "konu": "İstanbul"
+        "yukseklik": 644,
+        "orijinalGenislik": 1024,
+        "yazar": "Flickr user Chadica",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Neve_%C5%9Ealom,_Istanbul.jpg",
+        "aciklama": "The Neve Şalom (Shalom) synagogue in Istanbul",
+        "konu": "Neve Şalom Sinagogu"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "genislik": 960,
-          "yukseklik": 494,
-          "orijinalGenislik": 2048,
-          "yazar": "Alexxx Malev",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-          "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-          "konu": "İstanbul"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Neve_%C5%9Ealom%2C_Istanbul.jpg/960px-Neve_%C5%9Ealom%2C_Istanbul.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Neve_%C5%9Ealom%2C_Istanbul.jpg/500px-Neve_%C5%9Ealom%2C_Istanbul.jpg",
-          "genislik": 960,
-          "yukseklik": 644,
-          "orijinalGenislik": 1024,
-          "yazar": "Flickr user Chadica",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Neve_%C5%9Ealom,_Istanbul.jpg",
-          "aciklama": "The Neve Şalom (Shalom) synagogue in Istanbul",
-          "konu": "Neve Şalom Sinagogu"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "2007-taraf-gazetesi-yazar-ahmet-altanin-genel-yayin",
@@ -629,10 +403,10 @@
       "konular": [
         "Altay (tank)"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türkiye'nin İlk Yerli Muharebe Tankı Altay Tanıtıldı",
+      "ozet": "Türkiye'nin savunma sanayisindeki dışa bağımlılığını azaltma hedefi doğrultusunda geliştirilen Altay ana muharebe tankı, ilk kez 2012 yılında kamuoyuna tanıtıldı. İsmini Kurtuluş Savaşı'nın önemli komutanlarından Fahrettin Altay'dan alan bu proje, Türk mühendisliğinin zırhlı araç teknolojisindeki ulaştığı seviyeyi göstermesi açısından büyük bir dönüm noktası olarak kabul edildi. Millî Tank Üretim Projesi kapsamında tasarlanan tank, modern muharebe sahasının gereksinimlerine uygun olarak yüksek ateş gücü ve hareket kabiliyetiyle donatıldı.\n\nProjenin temelleri 2007 yılında atılmış ve Otokar firması ana yüklenici olarak belirlenmişti. Tanıtım sürecinin ardından geçen yıllar içerisinde tankın farklı konfigürasyonları üzerinde çalışmalar devam etti ve seri üretim süreçleri için gerekli altyapı oluşturuldu. Altay tankı, sadece bir zırhlı araç değil, aynı zamanda Türkiye'nin savunma sanayisinde yerlileşme vizyonunun somut bir göstergesi haline geldi. İlerleyen dönemlerde BMC ile imzalanan sözleşmelerle seri üretim aşamasına taşınan proje, Türk Silahlı Kuvvetleri'nin envanterine katılarak ülkenin caydırıcılık gücünü artırmayı hedeflemektedir.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Altay_Tank.jpg/960px-Altay_Tank.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Altay_Tank.jpg/500px-Altay_Tank.jpg",
@@ -645,7 +419,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Altay_Tank.jpg",
         "aciklama": "An image shot from the front left side of the Altay Tank",
         "konu": "Altay (tank)"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "2020-lewis-hamilton-7-dunya-sampiyonlugunu-kazandi",
@@ -654,10 +429,10 @@
       "konular": [
         "Lewis Hamilton"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Lewis Hamilton Yedinci Kez Dünya Şampiyonu Oldu",
+      "ozet": "İstanbul Park'ta gerçekleştirilen Türkiye Grand Prix'si, Formula 1 tarihine geçen önemli bir ana sahne oldu. Yarışı birinci sırada tamamlayan Britanyalı pilot Lewis Hamilton, bu zaferle birlikte sezonun bitimine üç yarış kala matematiksel olarak şampiyonluğunu ilan etti. Bu başarı, Hamilton'ın kariyerindeki yedinci dünya şampiyonluğu olarak kayıtlara geçti.\n\nBu şampiyonlukla Hamilton, efsanevi pilot Michael Schumacher'in elinde bulundurduğu yedi dünya şampiyonluğu rekorunu egale ederek Formula 1 tarihinin en başarılı isimlerinden biri olduğunu bir kez daha kanıtladı. 2007 yılında McLaren takımıyla başladığı kariyerinde pek çok rekoru elinde bulunduran Hamilton, bu zaferiyle sadece bir pilot olarak değil, sporun istatistiksel zirvesindeki yerini de sağlamlaştırmış oldu. İstanbul'daki bu yarış, hem şampiyonluk düğümünün çözüldüğü yer olması hem de Hamilton'ın motor sporları tarihindeki yerini pekiştirmesi açısından unutulmaz bir dönüm noktası olarak kabul edilmektedir.",
+      "kategori": "Spor",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg/960px-Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg/500px-Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg",
@@ -670,7 +445,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_(54566928382)_(cropped).jpg",
         "aciklama": "Prime Minister Keir Starmer hosts a roundtable on youth opportunity with Mission 44 Founder and F1 driver Sir Lewis Hamilton in 10 Downing Street, London, United Kingdom.",
         "konu": "Lewis Hamilton"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "2022-dunya-nufusu-8-milyari-gecti",
@@ -679,10 +455,10 @@
       "konular": [
         "Dünya nüfusu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Dünya Nüfusu Sekiz Milyar Sınırını Aştı",
+      "ozet": "Birleşmiş Milletler tarafından yapılan resmi açıklamaya göre, dünya genelindeki insan sayısı 15 Kasım 2022 itibarıyla 8 milyar barajını geçti. İnsanlık tarihinin başlangıcından itibaren ilk 1 milyarlık nüfusa ulaşmak yaklaşık 200 bin yıl gibi çok uzun bir zaman dilimi gerektirmişken, 7 milyardan 8 milyara çıkış süreci sadece 12 yıl gibi kısa bir sürede tamamlandı. Bu hızlı artış, özellikle 20. yüzyılın ikinci yarısından itibaren tıp, tarım ve teknoloji alanındaki gelişmelerin yaşam süresini uzatması ve bebek ölümlerini azaltmasıyla doğrudan ilişkilidir.\n\nNüfus artış hızı, 1960'lı yılların sonunda zirve noktasına ulaştıktan sonra kademeli bir yavaşlama eğilimine girmiştir. Günümüzde küresel nüfus artış hızı düşüş gösterse de toplam sayı artmaya devam etmektedir. Uzmanlar, doğurganlık oranlarındaki değişimler ve yaşlanan nüfus yapısı nedeniyle gelecekteki büyüme hızının daha da yavaşlayacağını öngörmektedir. Birleşmiş Milletler projeksiyonları, dünya nüfusunun 2050 yılına kadar 9 ile 10 milyar arasında bir seviyeye ulaşabileceğini, yüzyılın sonunda ise artışın durma noktasına gelerek 10 ile 12 milyar arasında sabitlenebileceğini tahmin etmektedir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Annual-World-Population-since-10-thousand-BCE-1-768x724.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Annual-World-Population-since-10-thousand-BCE-1-768x724.png",
@@ -695,7 +471,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Annual-World-Population-since-10-thousand-BCE-1-768x724.png",
         "aciklama": "World population estimate from 10,000 BCE to 2100, by OurWorldInData, from various sources.",
         "konu": "Dünya nüfusu"
-      }
+      },
+      "bolge": "dunya"
     }
   ],
   "dogumlar": [
