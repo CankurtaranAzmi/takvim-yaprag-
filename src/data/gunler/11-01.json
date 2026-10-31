@@ -1407,7 +1407,7 @@
     "url": "https://tr.wikipedia.org/wiki/1_Kas%C4%B1m",
     "revid": 38168255
   },
-  "guncelleme": "2026-10-30T12:20:56.874Z",
+  "guncelleme": "2026-10-31T11:51:25.348Z",
   "haberler": [
     {
       "id": "2025-haber-2448823",
@@ -1420,30 +1420,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/6-1-lik-sindirgi-depreminin-hasar-tespiti-tamamlandi-bakan-murat-kurum-bilancoyu-paylasti-2448823"
       },
-      "konular": [
-        "Sındırgı",
-        "Murat Kurum",
-        "Deprem"
-      ],
+      "konular": [],
       "yayin": "2025-11-01T13:44:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Sındırgı merkezli depremin ardından hasar tespit çalışmaları sonuçlandı",
-      "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, bölgede meydana gelen sarsıntının ardından yürütülen incelemelerin nihayete erdiğini duyurdu. Bakan Kurum, yapılan teknik değerlendirmeler sonucunda ortaya çıkan güncel verileri kamuoyuyla paylaştı.",
-      "kategori": "Afet",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/D%C3%BC%C4%9F%C3%BCnlerde_%C3%A7erez_atma_rit%C3%BCeli.jpg/960px-D%C3%BC%C4%9F%C3%BCnlerde_%C3%A7erez_atma_rit%C3%BCeli.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/D%C3%BC%C4%9F%C3%BCnlerde_%C3%A7erez_atma_rit%C3%BCeli.jpg/500px-D%C3%BC%C4%9F%C3%BCnlerde_%C3%A7erez_atma_rit%C3%BCeli.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 2799,
-        "yazar": "Turpcan",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:D%C3%BC%C4%9F%C3%BCnlerde_%C3%A7erez_atma_rit%C3%BCeli.jpg",
-        "aciklama": "This media was uploaded as part of Wiki Loves Folklore 2026 international photographic contest.",
-        "konu": "Sındırgı"
-      }
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2448791",
@@ -1456,17 +1436,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasi-ndan-yeni-doviz-karari-tarih-verildi-2448791"
       },
-      "konular": [
-        "Türkiye Cumhuriyet Merkez Bankası",
-        "Döviz",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2025-11-01T11:37:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Merkez Bankası döviz dönüşüm desteği uygulamasını uzattı",
-      "ozet": "Türkiye Cumhuriyet Merkez Bankası, şirketlerin yurt dışından elde ettikleri döviz gelirlerini Türk lirasına çevirmeleri durumunda sağlanan destek programının süresini genişletti. Alınan yeni karara göre, söz konusu teşvik uygulaması 30 Nisan 2026 tarihine kadar devam edecek.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2264200",
@@ -1479,17 +1452,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/ekim-ayi-gida-enflasyon-verileri-aciklandi-zam-sampiyonlari-belli-oldu-2264200"
       },
-      "konular": [
-        "Gıda enflasyonu",
-        "TEPAV",
-        "Türkiye ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2024-11-01T16:47:00+03:00",
       "puan": 13,
-      "durum": "elendi",
-      "baslik": "Ekim ayında gıda fiyatlarında yaşanan değişimler raporlandı",
-      "ozet": "TEPAV tarafından paylaşılan verilere göre gıda enflasyonu ekim ayında aylık bazda yüzde 2,06 oranında yükseldi. Yıllık artışın yüzde 45,67 seviyesine ulaştığı dönemde, yıl başından itibaren gerçekleşen toplam fiyat artışı ise yüzde 32,14 olarak hesaplandı. Söz konusu dönemde özellikle kabak ile sivri ve çarliston biber fiyatlarında belirgin bir yükseliş gözlemlendi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2264212",
@@ -1502,16 +1468,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/milli-halterci-enes-celikten-avrupa-sampiyonasinda-madalya-2264212"
       },
-      "konular": [
-        "Halter",
-        "Enes Çelik"
-      ],
+      "konular": [],
       "yayin": "2024-11-01T17:04:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Enes Çelik Gençler Avrupa Halter Şampiyonası'nda Başarı Gösterdi",
-      "ozet": "Gençler Avrupa Halter Şampiyonası'nda mücadele eden milli sporcu Enes Çelik, 96 kilogram kategorisinde podyuma çıktı. Başarılı performansıyla iki altın ve bir gümüş madalyanın sahibi olan Çelik, Avrupa şampiyonluğuna ulaştı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2136458",
@@ -1524,30 +1484,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/talep-kabul-edildi-erdogan-hrant-dink-davasina-mudahil-oldu-2136458"
       },
-      "konular": [
-        "Hrant Dink suikastı",
-        "Recep Tayyip Erdoğan",
-        "Yargıtay"
-      ],
+      "konular": [],
       "yayin": "2023-11-01T15:29:00+03:00",
       "puan": 15,
-      "durum": "yazildi",
-      "baslik": "Hrant Dink davasında Cumhurbaşkanlığı müdahillik talebi kabul edildi",
-      "ozet": "Hrant Dink cinayetiyle ilgili kamu görevlilerinin yargılandığı ve Yargıtay tarafından kısmen bozulan dava süreci yeniden ele alındı. Mahkeme, üst mahkemenin bozma kararına uyulmasına hükmetti. Bu gelişmenin ardından Cumhurbaşkanlığı avukatının davaya müdahil olma talebi mahkeme tarafından onaylandı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Hrant_Dink_memorial_stone%2C_Osmanbey%2C_Istanbul_4.jpg/960px-Hrant_Dink_memorial_stone%2C_Osmanbey%2C_Istanbul_4.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Hrant_Dink_memorial_stone%2C_Osmanbey%2C_Istanbul_4.jpg/500px-Hrant_Dink_memorial_stone%2C_Osmanbey%2C_Istanbul_4.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 5472,
-        "yazar": "Jwslubbock",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Hrant_Dink_memorial_stone,_Osmanbey,_Istanbul_4.jpg",
-        "aciklama": "A memorial stone marking the location outside Agos newspaper's office in Istanbul where Turkish-Armenian journalist Hrant Dink was murdered in 2007",
-        "konu": "Hrant Dink suikastı"
-      }
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2136559",
@@ -1560,17 +1500,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/sampiyonlar-kupasi-ziraat-bankkartin-2136559"
       },
-      "konular": [
-        "Ziraat Bankkart (voleybol takımı)",
-        "Halkbank (voleybol takımı)",
-        "Voleybol"
-      ],
+      "konular": [],
       "yayin": "2023-11-01T21:06:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Voleybol Erkekler Şampiyonlar Kupası Ziraat Bankkart'ın Oldu",
-      "ozet": "Erkekler AXA Sigorta Şampiyonlar Kupası final mücadelesinde Ziraat Bankkart ile Halkbank karşı karşıya geldi. Rakibine karşı üstün bir oyun sergileyen Ziraat Bankkart, müsabakayı 3-1 kazanarak kupayı müzesine götürdü.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1998617",
@@ -1583,17 +1516,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/japonyanin-dunya-kupasi-kadrosu-belli-oldu-eski-galatasarayli-futbolcu-da-yer-aldi-1998617"
       },
-      "konular": [
-        "2022 FIFA Dünya Kupası",
-        "Japonya millî futbol takımı",
-        "Yuto Nagatomo"
-      ],
+      "konular": [],
       "yayin": "2022-11-01T17:38:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Japonya Milli Takımı Dünya Kupası Kadrosunu Duyurdu",
-      "ozet": "Katar'da gerçekleştirilecek FIFA Dünya Kupası için Japonya'nın kadrosu teknik direktör Hajime Moriyasu tarafından kamuoyuna açıklandı. Belirlenen oyuncu listesinde, geçmiş yıllarda Galatasaray forması giymiş olan Yuto Nagatomo da kendine yer buldu.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1998342",
@@ -1606,17 +1532,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/dolartlde-yatay-seyir-hakim-dolar-ne-kadar-oldu-1-kasim-2022-1998342"
       },
-      "konular": [
-        "Dolar",
-        "Türk lirası",
-        "Döviz kuru"
-      ],
+      "konular": [],
       "yayin": "2022-11-01T09:31:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Dolar kuru piyasalarda dar bantta hareket ediyor",
-      "ozet": "Dolar ve Türk Lirası paritesi yaklaşık iki haftadır belirgin bir değişim yaşamadan 18,6 seviyelerinde seyretmeye devam etti. Döviz piyasasında gözlemlenen bu yatay hareketlilik, kurun tarihi zirve noktalarındaki durağanlığını koruduğunu gösterdi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1881184",
@@ -1629,16 +1548,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/ligin-zirvesindeki-trabzonspor-borsada-da-rekorlara-kosuyor-1881184"
       },
-      "konular": [
-        "Trabzonspor",
-        "Borsa İstanbul"
-      ],
+      "konular": [],
       "yayin": "2021-11-01T11:04:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Trabzonspor hisseleri borsada yüksek kazanç sağladı",
-      "ozet": "Trabzonspor, geçtiğimiz ay yatırımcılarına sunduğu yüzde 65,8 oranındaki getiri ile spor şirketleri arasında en yüksek kazancı sağlayan kurum oldu. Kulüp, bu sonuçla birlikte son bir buçuk yılın en başarılı borsa performansına ulaştı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1881128",
@@ -1651,16 +1564,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/cumhurbaskanligi-2-uluslararasi-yat-yarislari-tamamlandi-1881128"
       },
-      "konular": [
-        "Yat yarışı",
-        "İstanbul"
-      ],
+      "konular": [],
       "yayin": "2021-11-01T10:15:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Cumhurbaşkanlığı Uluslararası Yat Yarışları İstanbul Etabı Sona Erdi",
-      "ozet": "İstanbul ev sahipliğinde düzenlenen Cumhurbaşkanlığı 2. Uluslararası Yat Yarışları, organizasyonun son gününde yapılan Barbaros Hayreddin Paşa Kupası mücadelesiyle nihayete erdi. Üç gün süren etkinlikler, gerçekleştirilen final yarışlarının ardından tamamlanmış oldu.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1787625",
@@ -1673,16 +1580,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/judo-milli-takimi-gencler-avrupa-sampiyonasina-hazir-1787625"
       },
-      "konular": [
-        "Judo",
-        "Türkiye Judo Federasyonu"
-      ],
+      "konular": [],
       "yayin": "2020-11-01T12:54:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Judo Milli Takımı Gençler Avrupa Şampiyonası için hazırlıklarını tamamladı",
-      "ozet": "Kemer bölgesinde çalışmalarını sürdüren Türkiye Judo Milli Takımı, Hırvatistan'da düzenlenecek Gençler Avrupa Şampiyonası'na katılmak üzere hazırlık sürecini noktaladı. Sporcular şampiyona için hazır olduklarını belirtti.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1572876",
@@ -1695,17 +1596,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/robot-sabiha-gokcen-uluslararasi-havalimaninda-goreve-basladi-1572876"
       },
-      "konular": [
-        "Sabiha Gökçen Havalimanı",
-        "Robotik",
-        "Hizmet sektörü"
-      ],
+      "konular": [],
       "yayin": "2019-11-01T10:54:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Sabiha Gökçen Havalimanı'nda yolculara robot asistan hizmeti",
-      "ozet": "İstanbul Sabiha Gökçen Uluslararası Havalimanı gidiş terminalinde yolculara rehberlik etmesi amacıyla Aerobot isimli robot görevlendirildi. Havalimanını kullanan kişilere danışmanlık hizmeti sunmak üzere tasarlanan bu teknolojik sistem, terminal içerisinde aktif olarak çalışmaya başladı.",
-      "kategori": "Teknoloji"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1128639",
@@ -1718,17 +1612,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpli-bekaroglu-yerel-secimlerden-hemen-sonraki-gun-imf-anlasmasi-yapacaklar-1128639"
       },
-      "konular": [
-        "Mehmet Bekaroğlu",
-        "Cumhuriyet Halk Partisi",
-        "Türkiye ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2018-11-01T16:33:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Mehmet Bekaroğlu yerel seçimler sonrası ekonomi politikalarını eleştirdi",
-      "ozet": "İstanbul Milletvekili Mehmet Bekaroğlu, yerel seçimlerin tamamlanmasının ardından hükümetin Uluslararası Para Fonu ile bir anlaşma yapacağını iddia etti. Bekaroğlu, bu süreçle ilgili görüşlerini kamuoyuyla paylaştı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-857640",
@@ -1741,29 +1628,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fed-faiz-kararini-acikladi-857640"
       },
-      "konular": [
-        "Federal Rezerv",
-        "ABD ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2017-11-01T21:46:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "ABD Merkez Bankası faiz oranlarında değişikliğe gitmedi",
-      "ozet": "Amerika Birleşik Devletleri Merkez Bankası kasım ayı toplantısını tamamladı. Banka yetkilileri tarafından yapılan değerlendirmeler sonucunda politika faiz oranlarının mevcut seviyesinde korunmasına karar verildi. Alınan bu karar piyasa beklentileriyle uyumlu bir şekilde gerçekleşti.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Above_Gotham.jpg/960px-Above_Gotham.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Above_Gotham.jpg/500px-Above_Gotham.jpg",
-        "genislik": 960,
-        "yukseklik": 625,
-        "orijinalGenislik": 5364,
-        "yazar": "Anthony Quintano",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Above_Gotham.jpg",
-        "aciklama": "Manhattan",
-        "konu": "ABD ekonomisi"
-      }
+      "durum": "haber"
     },
     {
       "id": "2017-haber-857615",
@@ -1776,16 +1644,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/borsa-istanbulda-yeni-rekor-857615"
       },
-      "konular": [
-        "Borsa İstanbul",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2017-11-01T18:22:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Borsa İstanbul günü tarihi zirve seviyesinden tamamladı",
-      "ozet": "Borsa İstanbul işlem gördüğü gün içerisinde değerlerini yükselterek kapanışını rekor seviyede gerçekleştirdi. Piyasalardaki hareketlilik sonucunda endeks gün boyu gösterdiği performansla en yüksek noktasına ulaştı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-624782",
@@ -1798,17 +1660,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sk-telecom-t1-ucuncu-kez-dunya-sampiyonu-oldu-624782"
       },
-      "konular": [
-        "League of Legends Dünya Şampiyonası",
-        "SK Telecom T1",
-        "E-spor"
-      ],
+      "konular": [],
       "yayin": "2016-11-01T21:10:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "SK Telecom T1 League of Legends Dünya Şampiyonası'nı kazandı",
-      "ozet": "Popüler çevrim içi oyun League of Legends kapsamında düzenlenen dünya şampiyonası finali tamamlandı. Final karşılaşmasında rakiplerine karşı üstünlük sağlayan SK Telecom T1 takımı, turnuvayı şampiyon olarak bitirdi. Bu başarıyla birlikte ekip, dünya şampiyonluğu unvanını üçüncü kez kazanmış oldu.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-624420",
@@ -1821,17 +1676,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/oguz-gundogdu-depremi-48-saat-oncesinden-haber-verecek-sistem-yok-624420"
       },
-      "konular": [
-        "Deprem",
-        "Oğuz Gündoğdu",
-        "Sismoloji"
-      ],
+      "konular": [],
       "yayin": "2016-11-01T09:36:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Depremleri Önceden Tahmin Edecek Bir Teknoloji Bulunmuyor",
-      "ozet": "Jeoloji mühendisi Oğuz Gündoğdu, depremlerin kırk sekiz saat öncesinden tespit edilmesini sağlayan herhangi bir sistemin mevcut olmadığını ifade etti. İtalya'da meydana gelen büyük sarsıntı öncesinde yaşanan hareketliliğin ardından yetkililerin riskli yapılara girilmemesi yönündeki uyarılarının, can kayıplarını engellemede etkili olduğunu vurguladı.",
-      "kategori": "Bilim"
+      "durum": "haber"
     },
     {
       "id": "2015-haber-401823",
@@ -1844,18 +1692,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/7-haziran-secimlerinde-yuzde-108-ile-acilan-hdp-bakin-kac-ile-acildi-401823"
       },
-      "konular": [
-        "Kasım 2015 Türkiye genel seçimleri",
-        "Halkların Demokratik Partisi",
-        "Anadolu Ajansı"
-      ],
+      "konular": [],
       "yayin": "2015-11-01T18:10:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "Genel seçimlerde Anadolu Ajansı verilerindeki oy oranı değişimi",
-      "ozet": "Haziran ayında gerçekleştirilen genel seçimlerin ilk sonuçlarında Anadolu Ajansı, Halkların Demokratik Partisi'nin oy oranını yüzde 10,8 olarak duyurmuştu. Kasım ayında tekrarlanan seçim sürecinde ise kurumun paylaştığı ilk verilerde partinin oy oranının farklı bir seviyede olduğu gözlemlendi. Seçim gecesi açıklanan verilerdeki bu farklılık kamuoyuna yansıdı.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2015-haber-402321",
@@ -1868,17 +1708,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpli-ozelden-ilk-secim-degerlendirmesi-402321"
       },
-      "konular": [
-        "Özgür Özel",
-        "Cumhuriyet Halk Partisi",
-        "Türkiye'de genel seçimler"
-      ],
+      "konular": [],
       "yayin": "2015-11-01T23:31:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Özgür Özel 1 Kasım seçim sonuçlarını değerlendirdi",
-      "ozet": "Cumhuriyet Halk Partisi Grup Başkanvekili Özgür Özel, gerçekleştirilen genel seçimlerin ardından ilk açıklamasını yaptı. Özel, sandıktan çıkan sonuçlara dair partisinin görüşlerini ve sürece ilişkin değerlendirmelerini kamuoyuyla paylaştı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2014-haber-136373",
@@ -1891,30 +1724,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/turkiyeye-iyi-haber-anlasma-imzalandi-136373"
       },
-      "konular": [
-        "Rusya-Ukrayna doğalgaz anlaşmazlığı",
-        "Avrupa Birliği",
-        "Doğalgaz"
-      ],
+      "konular": [],
       "yayin": "2014-11-01T12:22:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Rusya ve Ukrayna Arasında Doğalgaz Sevkiyatı İçin Uzlaşı Sağlandı",
-      "ozet": "Brüksel kentinde bir araya gelen Rusya, Ukrayna ve Avrupa Birliği temsilcileri, uzun süren müzakerelerin ardından doğalgaz akışının yeniden başlaması konusunda mutabakata vardı. Gün boyu devam eden zorlu görüşmeler neticesinde taraflar, Rusya'dan Ukrayna'ya uzanan hat üzerindeki vanaların açılması için gerekli anlaşmayı imzaladı.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Gas-natural.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Gas-natural.jpg",
-        "genislik": 600,
-        "yukseklik": 300,
-        "orijinalGenislik": 600,
-        "yazar": "CARLOS534",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Gas-natural.jpg",
-        "aciklama": "natural gas",
-        "konu": "Doğalgaz"
-      }
+      "durum": "haber"
     },
     {
       "id": "2014-haber-136487",
@@ -1927,16 +1740,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/milli-takima-secildim-ama-kimseye-soylemeyin-136487"
       },
-      "konular": [
-        "Ampute futbolu",
-        "Engelli sporları"
-      ],
+      "konular": [],
       "yayin": "2014-11-01T21:29:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Ampute Futbolunda Artan İlgi ve Rekabetin Yansımaları",
-      "ozet": "Televizyon yayınlarının yaygınlaşmasıyla birlikte ampute futboluna yönelik toplumsal ilgi belirgin bir şekilde yükseldi. Bu spor dalı sadece bir sosyal sorumluluk girişimi olarak değerlendirilse de müsabakalar sırasında yaşanan rekabet zaman zaman centilmenlik sınırlarının dışına çıkabiliyor. Sahadaki sporcuların sergilediği hırs ve mücadele azmi, bu branşın sadece bir gösteri değil, ciddi bir rekabet alanı olduğunu ortaya koyuyor.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2013-haber-5361",
@@ -1949,17 +1756,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dolar-2-liranin-uzerinde-5361"
       },
-      "konular": [
-        "Dolar",
-        "Döviz kuru",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2013-11-01T12:30:00+03:00",
       "puan": 4,
-      "durum": "elendi",
-      "baslik": "Dolar kuru iki lira seviyesini aştı",
-      "ozet": "Bankalararası piyasada işlem gören dolar kuru, Ekim ayının başından beri gözlemlenen hareketliliğin ardından yeniden yükselişe geçti. Söz konusu döviz kuru, yaklaşık bir ay aradan sonra ilk defa iki lira sınırının üzerine çıktı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2013-haber-5353",
@@ -1972,17 +1772,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/gazze-sinirindaki-tunelde-patlama-5353"
       },
-      "konular": [
-        "Gazze Şeridi",
-        "İsrail Savunma Kuvvetleri"
-      ],
+      "konular": [],
       "yayin": "2013-11-01T12:22:00+03:00",
       "puan": 4,
-      "durum": "yazildi",
-      "baslik": "Gazze sınırındaki tünel imhasında askerler yaralandı",
-      "ozet": "İsrail ordusu tarafından yapılan açıklamada, Gazze sınır hattında bulunan bir tünelin etkisiz hale getirilmesi amacıyla yürütülen çalışma sırasında patlama yaşandığı belirtildi. Söz konusu olay neticesinde beş askeri personelin yaralandığı ifade edildi.",
-      "kategori": "Savaş",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2012-haber-380440",
@@ -1995,29 +1788,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/9-cumhurbaskani-demirel-88-yasinda-380440"
       },
-      "konular": [
-        "Süleyman Demirel",
-        "Türkiye Cumhurbaşkanı"
-      ],
+      "konular": [],
       "yayin": "2012-11-01T21:43:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Dokuzuncu Cumhurbaşkanı Süleyman Demirel Seksen Sekiz Yaşına Girdi",
-      "ozet": "Türkiye Cumhuriyeti'nin dokuzuncu cumhurbaşkanı olan Süleyman Demirel, seksen sekizinci yaş gününü Ankara'da bulunan konutunda karşıladı. Isparta'nın İslamköy bölgesinde dünyaya gelen Demirel, yeni yaşını Güniz Sokak'taki evinde geçirdi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg",
-        "genislik": 480,
-        "yukseklik": 636,
-        "orijinalGenislik": 480,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Suleyman_Demirel_1998.jpg",
-        "aciklama": "Turkish President Süleyman Demirel in Ankara on November 6, 1998, during a visit of US Secretary of Defense William Cohen.",
-        "konu": "Süleyman Demirel"
-      }
+      "durum": "haber"
     },
     {
       "id": "2012-haber-380304",
@@ -2030,17 +1804,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/istanbul-autoshow-2012-acildi-380304"
       },
-      "konular": [
-        "İstanbul Autoshow",
-        "Otomotiv endüstrisi",
-        "İstanbul"
-      ],
+      "konular": [],
       "yayin": "2012-11-01T10:41:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "İstanbul Autoshow 2012 kapılarını ziyaretçilere açtı",
-      "ozet": "Türkiye ekonomisi için büyük önem taşıyan otomotiv sektörünün en kapsamlı organizasyonlarından biri olan İstanbul Autoshow 2012 başladı. Sektör temsilcilerini ve otomobil tutkunlarını bir araya getiren fuar, yeni modellerin tanıtımına ev sahipliği yaptı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2011-haber-294934",
@@ -2053,17 +1820,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/cumhurbaskanimiz-akpyle-ayni-havuza-su-tasiyor-294934"
       },
-      "konular": [
-        "Abdullah Gül",
-        "Aydın Ayaydın",
-        "Cumhuriyet Halk Partisi"
-      ],
+      "konular": [],
       "yayin": "2011-11-01T12:12:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Aydın Ayaydın'dan Cumhurbaşkanı Abdullah Gül'e yönelik eleştiri",
-      "ozet": "CHP İstanbul Milletvekili Aydın Ayaydın, Cumhurbaşkanlığı makamının tüm vatandaşları kapsayıcı bir yapıda olması gerektiğini belirtti. Ayaydın, Abdullah Gül'ün tarafsız bir duruş sergilemek yerine kendisini yalnızca iktidar partisi mensuplarının temsilcisi gibi konumlandırdığını iddia etti. Bu tutumun devlet başkanlığı makamının birleştirici vasfıyla bağdaşmadığını savundu.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2011-haber-294862",
@@ -2076,17 +1836,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/merkez-bankasinin-zorunlu-karsilik-karari-294862"
       },
-      "konular": [
-        "Türkiye Cumhuriyet Merkez Bankası",
-        "Altın rezervi",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2011-11-01T09:32:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Merkez Bankası rezervlerinde altın tutulmaya başlandı",
-      "ozet": "Merkez Bankası, banka bünyesinde altın bulundurulmasına yönelik alınan kararın ardından uygulamaya geçti. Ekim ayının son günleri itibarıyla kurum nezdinde 21,6 ton ağırlığında ve 1,2 milyar dolar değerinde altın tutulduğu bilgisi paylaşıldı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     }
   ],
   "haberYillari": [

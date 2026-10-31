@@ -1156,7 +1156,7 @@
     "url": "https://tr.wikipedia.org/wiki/4_Kas%C4%B1m",
     "revid": 36875543
   },
-  "guncelleme": "2026-10-30T12:20:58.113Z",
+  "guncelleme": "2026-10-31T11:51:26.597Z",
   "haberler": [
     {
       "id": "2025-haber-2449801",
@@ -1169,17 +1169,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/chp-li-barut-gazetemizin-dayanisma-kampanyasini-meclis-gundemine-tasidi-cumhuriyet-gazetesi-sadece-bir-gazete-degil-ulkemizin-vicdanidir-2449801"
       },
-      "konular": [
-        "Cumhuriyet (gazete)",
-        "Ayhan Barut",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2025-11-04T18:04:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Cumhuriyet Gazetesi İçin Başlatılan Dayanışma Meclis Gündemine Taşındı",
-      "ozet": "Adana Milletvekili Ayhan Barut, Türkiye Büyük Millet Meclisi kürsüsünde yaptığı konuşmada Cumhuriyet Gazetesi tarafından yürütülen destek kampanyasına değindi. Gazetenin toplumsal hafızadaki yerine vurgu yapan Barut, kurumun sadece bir yayın organı olmadığını belirterek ülkenin vicdanını temsil ettiğini ifade etti.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2265115",
@@ -1192,16 +1185,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/trabzonsporda-secim-tarihi-belli-oldu-2265115"
       },
-      "konular": [
-        "Trabzonspor",
-        "Spor kulübü"
-      ],
+      "konular": [],
       "yayin": "2024-11-04T17:34:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Trabzonspor Kulübünün Seçimli Genel Kurul Tarihleri Belirlendi",
-      "ozet": "Trabzonspor Kulübü tarafından yapılan duyuruyla olağan seçimli genel kurul toplantısının takvimi netleşti. Toplantının ilk oturumu kasım ayının son haftasında gerçekleştirilecek. Yeterli çoğunluğun sağlanamaması durumunda ise seçim süreci aralık ayının ilk günlerinde tamamlanacak.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2264988",
@@ -1214,17 +1201,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/abd-secimleri-oncesi-piyasalarda-son-durum-dolar-deger-kaybetti-hisse-2264988"
       },
-      "konular": [
-        "ABD başkanlık seçimleri",
-        "Dolar",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2024-11-04T13:11:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "ABD seçimleri öncesinde finansal piyasalarda hareketlilik yaşandı",
-      "ozet": "Amerika Birleşik Devletleri başkanlık seçimleri yaklaşırken yatırımcılar temkinli bir tutum sergiledi. Haftanın ilk gününde doların değer kaybetmesi ve hisse senedi piyasalarının durgun bir seyir izlemesi dikkat çekti. Piyasalar, merkez bankasının faiz oranlarına yönelik alacağı kararları beklemeye başladı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2137363",
@@ -1237,17 +1217,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-depremler-deprem-mi-oldu-4-kasim-2023-nerede-ne-zaman-deprem-2137363"
       },
-      "konular": [
-        "Deprem",
-        "Afet ve Acil Durum Yönetimi Başkanlığı",
-        "Türkiye"
-      ],
+      "konular": [],
       "yayin": "2023-11-04T11:50:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Türkiye genelinde meydana gelen sarsıntılar takip ediliyor",
-      "ozet": "Ülke genelinde hissedilen sarsıntılar nedeniyle vatandaşlar güncel deprem verilerini araştırmaya başladı. Kandilli Rasathanesi ve AFAD tarafından paylaşılan bilgiler ışığında, meydana gelen sarsıntıların merkez üssü ve büyüklük değerleri kamuoyu ile paylaşıldı. Yaşanan hareketlilikler ilgili kurumların resmi internet siteleri üzerinden anlık olarak izlenebildi.",
-      "kategori": "Afet"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2137330",
@@ -1260,16 +1233,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-kendi-rekorunu-kirdi-tarihte-ilk-kez-2137330"
       },
-      "konular": [
-        "Galatasaray (futbol takımı)",
-        "Süper Lig"
-      ],
+      "konular": [],
       "yayin": "2023-11-04T09:43:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Galatasaray Süper Lig tarihinde en iyi sezon başlangıcını gerçekleştirdi",
-      "ozet": "Galatasaray futbol takımı, ligin geride kalan on bir haftalık bölümünde kulüp tarihinin en başarılı performansına ulaştı. Sarı kırmızılı ekip, elde ettiği sonuçlarla kendi rekorunu geliştirerek lig tarihindeki en iyi sezon açılışını yapmış oldu.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1999519",
@@ -1282,30 +1249,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/galeri-izmir-depremi-hangi-fayda-kac-buyuklugunde-meydana-geldi-deprem-sonrasi-kac-artci-oldu-1999519"
       },
-      "konular": [
-        "2020 Ege Denizi depremi",
-        "İzmir",
-        "Deprem"
-      ],
+      "konular": [],
       "yayin": "2022-11-04T10:37:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "İzmir merkezli depremin teknik detayları ve artçı sarsıntılar",
-      "ozet": "İzmir bölgesinde yaşanan sarsıntının hangi fay hattı üzerinde gerçekleştiği ve büyüklük değeri belirlendi. Deprem sonrasında meydana gelen artçı sarsıntıların toplam sayısı da yetkililer tarafından paylaşıldı. Bölgedeki sismik hareketliliğin ardından yaşanan gelişmeler kamuoyuna duyuruldu.",
-      "kategori": "Afet",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg/960px-2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg/500px-2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 2592,
-        "yazar": "Oğulcan Bakiler (VOA)",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
-        "aciklama": "search and rescue efforts due of 2020 Aegean Sea earthquake",
-        "konu": "2020 Ege Denizi depremi"
-      }
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1999493",
@@ -1318,17 +1265,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/euro-dolar-paritesinde-sinirli-yukselis-euro-ne-kadar-oldu-4-kasim-2022-1999493"
       },
-      "konular": [
-        "Euro",
-        "Dolar",
-        "Döviz kuru"
-      ],
+      "konular": [],
       "yayin": "2022-11-04T09:44:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Euro ve Dolar Arasındaki Parite Değerinde Hafif Artış Gözlendi",
-      "ozet": "Döviz piyasalarında Euro ve Dolar arasındaki değişim oranında hareketlilik devam etti. Euro dolar paritesi 0.9785 seviyesine ulaşarak sınırlı bir yükseliş kaydetti.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1882005",
@@ -1341,30 +1281,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/ft-enflasyon-tartismasi-erdoganin-kaderini-belirleyebilir-1882005"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Türkiye ekonomisi",
-        "Enflasyon"
-      ],
+      "konular": [],
       "yayin": "2021-11-04T10:32:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Financial Times Enflasyonun Siyasi Etkilerini Değerlendirdi",
-      "ozet": "Financial Times gazetesi, Türkiye ekonomisindeki enflasyon sürecinin siyasi sonuçlarına dair bir analiz yayımladı. Söz konusu değerlendirmede, mevcut ekonomik tablonun ve fiyat artışlarının Cumhurbaşkanı Recep Tayyip Erdoğan'ın gelecekteki siyasi kaderi üzerinde belirleyici bir rol oynayabileceği ifade edildi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1882155",
@@ -1377,17 +1297,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/kerem-ozmen-dunya-boks-sampiyonasinda-finale-yukseldi-1882155"
       },
-      "konular": [
-        "Kerem Özmen",
-        "Dünya Boks Şampiyonası",
-        "Boks"
-      ],
+      "konular": [],
       "yayin": "2021-11-04T21:27:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Kerem Özmen Dünya Boks Şampiyonası'nda Finalde",
-      "ozet": "Milli boksör Kerem Özmen, katıldığı Dünya Boks Şampiyonası'nda başarılı bir performans sergileyerek finale adını yazdırdı. Bu başarısıyla gümüş madalya kazanmayı garantileyen sporcu, şampiyonluk mücadelesi vermeye hak kazandı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1788442",
@@ -1400,30 +1313,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/slovakya-basbakani-jansa-tarihi-secimin-galibini-trump-ilan-etti-1788442"
       },
-      "konular": [
-        "2020 Amerika Birleşik Devletleri başkanlık seçimleri",
-        "Janez Jansa",
-        "Donald Trump"
-      ],
+      "konular": [],
       "yayin": "2020-11-04T14:30:00+03:00",
       "puan": 14,
-      "durum": "yazildi",
-      "baslik": "Slovakya Başbakanı Jansa'dan ABD seçimlerine dair erken açıklama",
-      "ozet": "Amerika Birleşik Devletleri'nde kritik eyaletlerde oy sayım işlemleri sürerken Slovakya Başbakanı Janez Jansa seçim sonuçlarına ilişkin bir değerlendirmede bulundu. Jansa, sosyal medya üzerinden yaptığı paylaşımda mevcut başkan Donald Trump ve yardımcısı Mike Pence'in seçimi kazandığını ifade etti. Henüz resmi sonuçlar açıklanmamışken yapılan bu erken tebrik mesajı dikkat çekti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Joe_Biden_2021_%284x5%29.png/960px-Joe_Biden_2021_%284x5%29.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Joe_Biden_2021_%284x5%29.png/500px-Joe_Biden_2021_%284x5%29.png",
-        "genislik": 960,
-        "yukseklik": 1200,
-        "orijinalGenislik": 2400,
-        "yazar": "Adam Schultz",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Joe_Biden_2021_(4x5).png",
-        "aciklama": "U.S. President Joe Biden's official portrait, 2021",
-        "konu": "2020 Amerika Birleşik Devletleri başkanlık seçimleri"
-      }
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1788477",
@@ -1436,18 +1329,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/abd-sasirilan-sonuc-secimlerinde-olu-aday-kazandi-1788477"
       },
-      "konular": [
-        "2020 Amerika Birleşik Devletleri seçimleri",
-        "Kuzey Dakota",
-        "David Andahl"
-      ],
+      "konular": [],
       "yayin": "2020-11-04T17:22:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Kuzey Dakota eyaletinde hayatını kaybetmiş bir aday seçimi kazandı",
-      "ozet": "Kuzey Dakota eyaletinde gerçekleştirilen seçimlerde, Cumhuriyetçi Parti adayı David Andahl sandıktan birinci çıktı. Andahl, seçimden yaklaşık bir ay önce Covid-19 nedeniyle yaşamını yitirmişti. Bu durum, seçim sonuçlarının ardından kamuoyunda geniş yer buldu.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1700118",
@@ -1460,30 +1345,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/suriye-anayasa-komitesi-toplantilarinin-ikinci-turu-basladi-1700118"
       },
-      "konular": [
-        "Suriye Anayasa Komitesi",
-        "Birleşmiş Milletler",
-        "Cenevre"
-      ],
+      "konular": [],
       "yayin": "2019-11-04T19:44:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Suriye Anayasa Komitesi Cenevre'de ikinci kez toplandı",
-      "ozet": "Birleşmiş Milletler Cenevre Ofisi ev sahipliğinde Suriye Anayasa Komitesi görüşmelerinin ikinci aşaması hayata geçirildi. Süreç kapsamında kırk beş kişiden oluşan yazım kurulu üyeleri ilk oturumlarını gerçekleştirdi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Views_of_Geneva.jpg/960px-Views_of_Geneva.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Views_of_Geneva.jpg/500px-Views_of_Geneva.jpg",
-        "genislik": 960,
-        "yukseklik": 1200,
-        "orijinalGenislik": 1481,
-        "yazar": "MadGeographer",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Views_of_Geneva.jpg",
-        "aciklama": "Montage for the Geneva article on Wikipedia",
-        "konu": "Cenevre"
-      }
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1573316",
@@ -1496,30 +1361,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hamilton-abd-grand-prixsinde-6-kez-sampiyon-1573316"
       },
-      "konular": [
-        "Lewis Hamilton",
-        "Formula 1",
-        "ABD Grand Prix"
-      ],
+      "konular": [],
       "yayin": "2019-11-04T03:06:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "Lewis Hamilton Formula 1 kariyerindeki altıncı şampiyonluğunu kazandı",
-      "ozet": "Amerika Birleşik Devletleri'nde düzenlenen yarışta ikinci sırada yer alan Mercedes pilotu Lewis Hamilton, sezonun bitimine kısa bir süre kala şampiyonluk ipini göğüsledi. Bu sonuçla birlikte kariyerindeki altıncı şampiyonluğa ulaşan başarılı sporcu, Formula 1 tarihindeki en başarılı ikinci pilot konumuna yerleşti.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg/960px-Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg/500px-Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1280,
-        "orijinalGenislik": 1430,
-        "yazar": "Picture by Lauren Hurley / No 10 Downing Street",
-        "lisans": "OGL 3",
-        "lisansUrl": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_(54566928382)_(cropped).jpg",
-        "aciklama": "Prime Minister Keir Starmer hosts a roundtable on youth opportunity with Mission 44 Founder and F1 driver Sir Lewis Hamilton in 10 Downing Street, London, United Kingdom.",
-        "konu": "Lewis Hamilton"
-      }
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1131363",
@@ -1532,17 +1377,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/2018-golf-turnuvasi-sampiyonu-ingiliz-rose-oldu-1131363"
       },
-      "konular": [
-        "Turkish Airlines Open",
-        "Justin Rose",
-        "Golf"
-      ],
+      "konular": [],
       "yayin": "2018-11-04T19:00:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Turkish Airlines Open 2018 Turnuvasını Justin Rose Kazandı",
-      "ozet": "Türk Hava Yolları sponsorluğunda düzenlenen ve Avrupa Turu Rolex Serisi kapsamında yer alan golf turnuvası sona erdi. Sekiz farklı organizasyondan biri olan turnuvada birinciliği İngiliz sporcu Justin Rose elde etti. Başarılı performansıyla dikkat çeken Rose, turnuvanın şampiyonu olarak kupanın sahibi oldu.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1131307",
@@ -1555,16 +1393,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/neslihan-yigit-badmintonda-yine-sampiyon-1131307"
       },
-      "konular": [
-        "Neslihan Yiğit",
-        "Badminton"
-      ],
+      "konular": [],
       "yayin": "2018-11-04T17:21:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Neslihan Yiğit badminton turnuvasında altın madalya kazandı",
-      "ozet": "Milli sporcu Neslihan Yiğit, katıldığı badminton turnuvasının final müsabakasında Bulgar rakibi Mariye Mıtsova ile karşılaştı. Rakibini iki set sonunda mağlup etmeyi başaran Yiğit, turnuvayı şampiyonlukla tamamlayarak altın madalyayı kazandı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-859602",
@@ -1577,29 +1409,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/lubnan-basbakani-hariri-istifa-etti-suikast-tehdidi-var-859602"
       },
-      "konular": [
-        "Saad Hariri",
-        "Lübnan"
-      ],
+      "konular": [],
       "yayin": "2017-11-04T15:02:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Lübnan Başbakanı Saad Hariri görevinden ayrıldığını duyurdu",
-      "ozet": "Lübnan Başbakanı Saad el Hariri, can güvenliğine yönelik tehditler aldığını belirterek görevini bıraktığını açıkladı. Hariri, kendisine yönelik bir suikast planlandığına dair duyumlar aldığını ifade ederek istifa kararını kamuoyuyla paylaştı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Saad_Hariri_in_Sochi%2C_13_September_2017.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Saad_Hariri_in_Sochi%2C_13_September_2017.jpg",
-        "genislik": 756,
-        "yukseklik": 1036,
-        "orijinalGenislik": 756,
-        "yazar": "This image has been extracted from another file",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Saad_Hariri_in_Sochi,_13_September_2017.jpg",
-        "aciklama": "President of Russia Vladimir Putin & Prime Minister Lebanon Saad Hariri in Sochi, 13 September 2017 (3) (Cropped)",
-        "konu": "Saad Hariri"
-      }
+      "durum": "haber"
     },
     {
       "id": "2017-haber-859440",
@@ -1612,17 +1425,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tbmm-baskani-kahraman-abdulhamid-indirilmemis-olsaydi-1-dunya-savasi-cikmayacakti-859440"
       },
-      "konular": [
-        "İsmail Kahraman",
-        "II. Abdülhamid",
-        "I. Dünya Savaşı"
-      ],
+      "konular": [],
       "yayin": "2017-11-04T11:30:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "İsmail Kahraman'dan Birinci Dünya Savaşı Üzerine Değerlendirme",
-      "ozet": "Türkiye Büyük Millet Meclisi Başkanı İsmail Kahraman, İkinci Abdülhamid'in tahttan indirilmemesi durumunda Birinci Dünya Savaşı'nın yaşanmayacağını ifade etti. Kahraman, dönemin siyasi gelişmelerine dair yaptığı açıklamada bu görüşünü dile getirdi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-625895",
@@ -1635,30 +1441,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hdpli-vekillere-gece-yarisi-operasyonu-dunya-basininda-erdogan-karsitlari-gozaltinda-625895"
       },
-      "konular": [
-        "Halkların Demokratik Partisi",
-        "Selahattin Demirtaş",
-        "Figen Yüksekdağ"
-      ],
+      "konular": [],
       "yayin": "2016-11-04T10:04:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Halkların Demokratik Partisi milletvekillerine yönelik gözaltı işlemleri",
-      "ozet": "Halkların Demokratik Partisi Eş Genel Başkanları Selahattin Demirtaş ve Figen Yüksekdağ ile birlikte dokuz milletvekili hakkında gözaltı kararı uygulandı. Söz konusu gelişme uluslararası medya kuruluşlarında geniş bir şekilde haberleştirildi ve dünya kamuoyunun gündemine taşındı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Selahattin_Demirta%C5%9F_HDP_%28cropped%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Selahattin_Demirta%C5%9F_HDP_%28cropped%29.jpg",
-        "genislik": 602,
-        "yukseklik": 800,
-        "orijinalGenislik": 602,
-        "yazar": "Yıldız Yazıcıoğlu",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Selahattin_Demirta%C5%9F_HDP_(cropped).jpg",
-        "aciklama": "Selahattin Demirtaş, co-leader of the Turkish Peoples' Democratic Party (HDP)",
-        "konu": "Selahattin Demirtaş"
-      }
+      "durum": "haber"
     },
     {
       "id": "2016-haber-625847",
@@ -1671,30 +1457,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakanliktan-ilk-hdp-operasyonunu-uluslararasi-basina-boyle-duyurdular-625847"
       },
-      "konular": [
-        "Halkların Demokratik Partisi",
-        "Siyaset",
-        "Türkiye"
-      ],
+      "konular": [],
       "yayin": "2016-11-04T08:09:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Başbakanlıktan HDP operasyonuna ilişkin uluslararası bilgilendirme",
-      "ozet": "Başbakanlık Basın Yayın Enformasyon Genel Müdürlüğü, Halkların Demokratik Partisi eş başkanları ve milletvekillerine yönelik düzenlenen operasyon hakkında yabancı basına yönelik bir açıklama yayımladı. Söz konusu duyuruda, gözaltı işlemlerinin ilgili milletvekillerinin ifade vermek üzere çağrıldıkları makamlara gitmemeleri sebebiyle yapıldığı ifade edildi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg/960px-24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg/500px-24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg",
-        "genislik": 960,
-        "yukseklik": 562,
-        "orijinalGenislik": 7320,
-        "yazar": "Lula Oficial",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_(54018866744).jpg",
-        "aciklama": "24.09.2024 - Presidente da República, Luiz Inácio Lula da Silva, durante a Abertura do Debate Geral da 79ª Sessão da Assembleia Geral das Nações Unidas, no Salão da Assembleia Geral, da Sede das Naçõe",
-        "konu": "Siyaset"
-      }
+      "durum": "haber"
     },
     {
       "id": "2015-haber-405641",
@@ -1707,18 +1473,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/gece-kulubunde-32-kisi-olunce-basbakan-ponta-istifa-etti-405641"
       },
-      "konular": [
-        "Colectiv gece kulübü yangını",
-        "Victor Ponta",
-        "Romanya"
-      ],
+      "konular": [],
       "yayin": "2015-11-04T12:33:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Romanya Başbakanı Victor Ponta görevinden ayrıldı",
-      "ozet": "Bükreş'te bir eğlence mekanında meydana gelen ve çok sayıda kişinin hayatını kaybettiği yangın felaketi ülkede büyük tepki topladı. Yaşanan acı olayın ardından hükümeti protesto eden binlerce vatandaşın düzenlediği gösteriler sonucunda Başbakan Victor Ponta istifa kararı aldı.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2015-haber-405629",
@@ -1731,30 +1489,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fbahceye-sampiyonlar-liginden-davet-var-405629"
       },
-      "konular": [
-        "Fenerbahçe (basketbol takımı)",
-        "FIBA",
-        "Basketbol Şampiyonlar Ligi"
-      ],
+      "konular": [],
       "yayin": "2015-11-04T12:27:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "FIBA'dan Fenerbahçe'ye Basketbol Şampiyonlar Ligi daveti",
-      "ozet": "FIBA, Avrupa Ligi'ni gelecek dönemde Basketbol Şampiyonlar Ligi ismiyle yeniden yapılandırma kararı aldı. Bu kapsamda Fenerbahçe'nin yanı sıra Real Madrid, Olympiakos ve Maccabi Tel Aviv kulüplerine yeni organizasyon için ortaklık teklifi iletildi.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/1502916_940x531.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/1502916_940x531.jpg",
-        "genislik": 940,
-        "yukseklik": 531,
-        "orijinalGenislik": 940,
-        "yazar": "Talipkirim",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:1502916_940x531.jpg",
-        "aciklama": "Şampiyon",
-        "konu": "Fenerbahçe (basketbol takımı)"
-      }
+      "durum": "haber"
     },
     {
       "id": "2014-haber-137088",
@@ -1767,30 +1505,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/abdden-erdogana-yalanlama-hicbir-zaman-ozur-dilemedim-137088"
       },
-      "konular": [
-        "Joe Biden",
-        "Recep Tayyip Erdoğan",
-        "Türkiye-Amerika Birleşik Devletleri ilişkileri"
-      ],
+      "konular": [],
       "yayin": "2014-11-04T08:09:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Joe Biden Türkiye ziyareti öncesinde açıklamalarda bulundu",
-      "ozet": "Amerika Birleşik Devletleri Başkan Yardımcısı Joe Biden, Türkiye'ye gerçekleştireceği resmi ziyaretin hemen öncesinde dikkat çeken bir beyanatta bulundu. Biden, Cumhurbaşkanı Recep Tayyip Erdoğan'ın kendisine yönelik iddialarına yanıt vererek herhangi bir özür dilemediğini ifade etti. Bu açıklama, iki ülke arasındaki diplomatik temasların yoğunlaştığı bir dönemde gündeme geldi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/960px-Joe_Biden_presidential_portrait.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/500px-Joe_Biden_presidential_portrait.jpg",
-        "genislik": 960,
-        "yukseklik": 1200,
-        "orijinalGenislik": 2400,
-        "yazar": "Adam Schultz",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg",
-        "aciklama": "U.S. President Joe Biden's official portrait, 2021",
-        "konu": "Joe Biden"
-      }
+      "durum": "haber"
     },
     {
       "id": "2014-haber-137238",
@@ -1803,30 +1521,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kaplan-hdpnin-kapatilmasi-karari-alindi-137238"
       },
-      "konular": [
-        "Halkların Demokratik Partisi",
-        "Hasip Kaplan",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2014-11-04T13:02:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Halkların Demokratik Partisi hakkında kapatma kararı verildi",
-      "ozet": "Halkların Demokratik Partisi mensubu Hasip Kaplan, partisi hakkında kapatılma kararı alındığını kamuoyuna duyurdu. Söz konusu gelişme üzerine parti kanadından konuya ilişkin açıklama yapıldı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hasip_Kaplan_2015.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hasip_Kaplan_2015.jpg",
-        "genislik": 740,
-        "yukseklik": 410,
-        "orijinalGenislik": 740,
-        "yazar": "VOA",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Hasip_Kaplan_2015.jpg",
-        "aciklama": "Hasip Kaplan 2015",
-        "konu": "Hasip Kaplan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2013-haber-5903",
@@ -1839,16 +1537,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/polis-aracina-ates-acildi-5903"
       },
-      "konular": [
-        "Niğde",
-        "Polis"
-      ],
+      "konular": [],
       "yayin": "2013-11-04T08:17:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Niğde'de görev başındaki polis aracına silahlı saldırı düzenlendi",
-      "ozet": "Niğde sınırları içerisinde trafik denetimi gerçekleştiren emniyet ekibine pompalı tüfekle saldırı yapıldı. Olay sırasında aracın hedef alınması sonucu bir polis memuru yüz bölgesine isabet eden saçmalar nedeniyle yaralandı. Yaralı memur bölgeye sevk edilen ekiplerce tedavi altına alındı.",
-      "kategori": "Toplum"
+      "durum": "haber"
     },
     {
       "id": "2013-haber-5899",
@@ -1861,17 +1553,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/vanda-vali-depremi-5899"
       },
-      "konular": [
-        "Van",
-        "Vali yardımcısı",
-        "İçişleri Bakanlığı"
-      ],
+      "konular": [],
       "yayin": "2013-11-04T08:04:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Van Valiliğinde görevli beş vali yardımcısı tayin talebinde bulundu",
-      "ozet": "Van Valisi Aydın Nezih Doğan tarafından hakarete uğradıklarını iddia eden beş vali yardımcısı, görev yerlerinin değiştirilmesi için İçişleri Bakanlığına başvurdu. Söz konusu iddialar ve ardından gelen toplu tayin talebi şehirde dikkat çeken bir gelişme olarak karşılandı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-380990",
@@ -1884,30 +1569,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ahmedinejad-hakkindaki-soru-onergesi-kabul-edildi-380990"
       },
-      "konular": [
-        "Mahmud Ahmedinejad",
-        "İran İslami Şura Meclisi",
-        "İran"
-      ],
+      "konular": [],
       "yayin": "2012-11-04T10:15:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "İran Meclisi Cumhurbaşkanı Ahmedinejad Hakkındaki Önergeyi Onayladı",
-      "ozet": "İran parlamentosu, Cumhurbaşkanı Mahmud Ahmedinejad ile ilgili sunulan soru önergesini gündemine alarak kabul etti. Bu gelişme doğrultusunda devlet başkanının meclis huzurunda kendisine yöneltilen soruları yanıtlaması bekleniyor.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Mahmoud_Ahmadinejad_2019_02.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Mahmoud_Ahmadinejad_2019_02.jpg",
-        "genislik": 431,
-        "yukseklik": 564,
-        "orijinalGenislik": 431,
-        "yazar": "Majid Haghdoust",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Mahmoud_Ahmadinejad_2019_02.jpg",
-        "aciklama": "Mahmoud Ahmadinejad",
-        "konu": "Mahmud Ahmedinejad"
-      }
+      "durum": "haber"
     },
     {
       "id": "2012-haber-380978",
@@ -1920,17 +1585,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fransa-cumhurbaskani-hollande-beyrutta-380978"
       },
-      "konular": [
-        "François Hollande",
-        "Mişel Süleyman",
-        "Lübnan"
-      ],
+      "konular": [],
       "yayin": "2012-11-04T09:11:00+03:00",
       "puan": 5,
-      "durum": "elendi",
-      "baslik": "Fransa Cumhurbaşkanı Hollande Lübnan'da Temaslarda Bulundu",
-      "ozet": "Fransa Cumhurbaşkanı François Hollande, resmi ziyaret kapsamında Lübnan'ın başkenti Beyrut'a gitti. Hollande, burada Lübnan Cumhurbaşkanı Mişel Süleyman ile bir araya gelerek çeşitli konularda görüşmeler gerçekleştirdi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2011-haber-295780",
@@ -1943,30 +1601,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/karbondioksit-saliniminda-rekor-duzeyde-artis-295780"
       },
-      "konular": [
-        "Karbondioksit",
-        "Küresel ısınma",
-        "ABD Enerji Bakanlığı"
-      ],
+      "konular": [],
       "yayin": "2011-11-04T14:40:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Küresel Karbondioksit Salınımı Tarihi Zirveye Ulaştı",
-      "ozet": "Amerika Birleşik Devletleri Enerji Bakanlığı tarafından yapılan açıklamada, dünya genelindeki karbondioksit emisyon oranlarının ölçümlerin başlangıcından bu yana kaydedilen en yüksek noktaya çıktığı belirtildi. Söz konusu veriler, atmosferdeki sera gazı yoğunluğunun endişe verici bir boyuta ulaştığını ortaya koydu.",
-      "kategori": "Bilim",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bobcat_Fire%2C_Los_Angeles%2C_San_Gabriel_Mountains.jpg/960px-Bobcat_Fire%2C_Los_Angeles%2C_San_Gabriel_Mountains.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bobcat_Fire%2C_Los_Angeles%2C_San_Gabriel_Mountains.jpg/500px-Bobcat_Fire%2C_Los_Angeles%2C_San_Gabriel_Mountains.jpg",
-        "genislik": 960,
-        "yukseklik": 489,
-        "orijinalGenislik": 5014,
-        "yazar": "Eddiem360",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bobcat_Fire,_Los_Angeles,_San_Gabriel_Mountains.jpg",
-        "aciklama": "Bobcat Fire view from our kitchen window in Monrovia, CA, September 10, 2020",
-        "konu": "Küresel ısınma"
-      }
+      "durum": "haber"
     },
     {
       "id": "2011-haber-295774",
@@ -1979,30 +1617,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/nc-davasi-meclise-tasindi-295774"
       },
-      "konular": [
-        "N.Ç. davası",
-        "Aylin Nazlıaka",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2011-11-04T13:02:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "N.Ç. davasındaki kamu görevlileri Meclis gündemine getirildi",
-      "ozet": "Cumhuriyet Halk Partisi Ankara Milletvekili Aylin Nazlıaka, Türkiye Büyük Millet Meclisi Başkanlığına yazılı bir soru önergesi sundu. Söz konusu önergede, Milli Eğitim Bakanı Ömer Dinçer'den N.Ç. davasında sorumluluğu bulunan kamu personeli hakkında herhangi bir idari inceleme başlatılıp başlatılmadığına dair bilgi talep edildi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Aylin_Nazl%C4%B1aka%2C_29_Mart_2026_%28cropped%29.jpg/960px-Aylin_Nazl%C4%B1aka%2C_29_Mart_2026_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Aylin_Nazl%C4%B1aka%2C_29_Mart_2026_%28cropped%29.jpg/500px-Aylin_Nazl%C4%B1aka%2C_29_Mart_2026_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1414,
-        "orijinalGenislik": 1797,
-        "yazar": "Koray",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Aylin_Nazl%C4%B1aka,_29_Mart_2026_(cropped).jpg",
-        "aciklama": "Aylin Nazlıaka, Kuşadası'ndaki \"Millet İradesine Sahip Çıkıyor\" mitinginde, 29 Mart 2026",
-        "konu": "Aylin Nazlıaka"
-      }
+      "durum": "haber"
     }
   ],
   "haberYillari": [

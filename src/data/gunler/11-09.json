@@ -1120,7 +1120,7 @@
     "url": "https://tr.wikipedia.org/wiki/9_Kas%C4%B1m",
     "revid": 38168861
   },
-  "guncelleme": "2026-10-30T12:21:00.251Z",
+  "guncelleme": "2026-10-31T11:51:28.732Z",
   "haberler": [
     {
       "id": "2025-haber-2451133",
@@ -1133,16 +1133,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/tbmm-de-bu-hafta-4-bakanligin-butcesi-gorusulecek-2451133"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Bütçe"
-      ],
+      "konular": [],
       "yayin": "2025-11-09T12:04:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Türkiye Büyük Millet Meclisi bütçe görüşmelerine hazırlanıyor",
-      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu gündeminde vakıflara ilişkin yasal düzenlemelerin görüşülmesi yer alıyor. Aynı zamanda Plan ve Bütçe Komisyonu çatısı altında dört farklı bakanlığın gelecek yıla ait bütçe planlamaları ele alınacak.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2451247",
@@ -1155,16 +1149,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/2025-saglik-bakanligi-promosyon-odeme-tarihi-belli-oldu-mu-2025-saglik-bakanligi-personeli-maas-promosyonu-ne-kadar-2451247"
       },
-      "konular": [
-        "Sağlık Bakanlığı",
-        "Maaş promosyonu"
-      ],
+      "konular": [],
       "yayin": "2025-11-09T18:51:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Sağlık Bakanlığı Personelinin Maaş Promosyonu Hakkında Bekleyiş Sürüyor",
-      "ozet": "Sağlık Bakanlığı bünyesinde çalışan personel, yeni dönem banka maaş promosyonu anlaşmasına dair detayları bekliyor. Ödemelerin ne zaman yapılacağı ve belirlenen tutarın ne kadar olduğu konusunda henüz resmi bir açıklama gelmedi. Çalışanlar, kurum tarafından yapılacak bilgilendirmeyi takip ediyor.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2266931",
@@ -1177,17 +1165,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/derbide-gulen-taraf-besiktas-oldu-besiktas-united-payment-1-0-2266931"
       },
-      "konular": [
-        "Kadınlar Süper Ligi",
-        "Beşiktaş (kadın futbol takımı)",
-        "Galatasaray (kadın futbol takımı)"
-      ],
+      "konular": [],
       "yayin": "2024-11-09T19:08:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Kadın Futbol Süper Ligi'nde Beşiktaş galibiyeti",
-      "ozet": "Turkcell Kadın Futbol Süper Ligi kapsamında oynanan karşılaşmada Beşiktaş United Payment, rakibi Galatasaray Petrol Ofisi ile karşı karşıya geldi. Mücadeleyi tek golle kazanan taraf Beşiktaş oldu. İki takım arasındaki rekabetin yaşandığı müsabaka, siyah beyazlı ekibin üstünlüğüyle sona erdi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2266875",
@@ -1200,16 +1181,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/dogalgaz-kaynakli-patlamada-yaralanmisti-18-gun-suren-yasam-savasini-2266875"
       },
-      "konular": [
-        "Kocaeli",
-        "Doğalgaz patlaması"
-      ],
+      "konular": [],
       "yayin": "2024-11-09T16:03:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Kocaeli'deki patlamada yaralanan Şerife Buse Sarı hayatını kaybetti",
-      "ozet": "Kocaeli'de meydana gelen doğalgaz kaynaklı patlamanın ardından hastanede tedavi altına alınan Şerife Buse Sarı, on sekiz gün süren mücadelesini kaybetti. Daha önce aynı olayda Günay Ergen isimli bir vatandaş da yaşamını yitirmişti. Üç çocuk annesi olan Sarı'nın vefatıyla birlikte patlamanın can kaybı sayısı arttı.",
-      "kategori": "Afet"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2139085",
@@ -1222,17 +1197,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika-euro-zirve-tazeledi-dolar-ve-euro-ne-kadar-oldu-9-kasim-2139085"
       },
-      "konular": [
-        "Döviz kuru",
-        "Türkiye Cumhuriyet Merkez Bankası",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2023-11-09T09:38:00+03:00",
       "puan": 14,
-      "durum": "elendi",
-      "baslik": "Döviz piyasalarında Euro yeni bir rekor seviyeye ulaştı",
-      "ozet": "Dolar Türk Lirası karşısında sınırlı bir artış gösterirken Euro değer kazanarak kendi rekorunu yeniledi. Yatırımcılar ve piyasa uzmanları Türkiye Cumhuriyet Merkez Bankası tarafından açıklanan haftalık verileri, ülke içindeki siyasi gelişmeleri ve küresel piyasalardaki hareketliliği yakından izledi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2139225",
@@ -1245,18 +1213,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/hukukcular-yargitay-kararini-degerlendirdi-anayasal-duzeni-ortadan-2139225"
       },
-      "konular": [
-        "Can Atalay",
-        "Yargıtay",
-        "Anayasa Mahkemesi"
-      ],
+      "konular": [],
       "yayin": "2023-11-09T14:10:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Yargıtay kararı hukuk çevrelerinde tartışmalara yol açtı",
-      "ozet": "Yargıtay tarafından Can Atalay hakkında verilen hak ihlali kararına uyulmaması ve Anayasa Mahkemesi üyeleri hakkında suç duyurusunda bulunulması hukuk dünyasında geniş yankı uyandırdı. Konuyla ilgili görüşlerini paylaşan hukukçular, yaşanan bu gelişmeleri anayasal düzeni hedef alan bir yargı girişimi olarak nitelendirdi. Prof. Dr. İbrahim Kaboğlu da dahil olmak üzere birçok uzman, yargı organları arasındaki bu durumu değerlendirerek hukuki süreçlere dair eleştirilerini dile getirdi.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2022-haber-2001179",
@@ -1269,17 +1229,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/isvicrenin-dunya-kupasi-kadrosu-belli-oldu-galatasarayli-yildiz-da-yer-buldu-2001179"
       },
-      "konular": [
-        "2022 FIFA Dünya Kupası",
-        "İsviçre millî futbol takımı",
-        "Haris Seferovic"
-      ],
+      "konular": [],
       "yayin": "2022-11-09T15:06:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "İsviçre Milli Takımı Dünya Kupası Kadrosunu Açıkladı",
-      "ozet": "İsviçre futbol federasyonu, Katar'da gerçekleştirilecek olan FIFA Dünya Kupası turnuvasında mücadele edecek oyuncu listesini kamuoyuyla paylaştı. Galatasaray bünyesinde görev yapan Haris Seferovic de teknik heyetin tercihiyle turnuva kadrosuna dahil edilen isimler arasında yer aldı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-2001032",
@@ -1292,18 +1245,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/abd-ara-secimlerinde-son-durum-senatoda-cumhuriyetciler-15-demokratlar-7-sandalye-kazandi-2001032"
       },
-      "konular": [
-        "2022 Amerika Birleşik Devletleri seçimleri",
-        "Amerika Birleşik Devletleri Senatosu",
-        "Amerika Birleşik Devletleri"
-      ],
+      "konular": [],
       "yayin": "2022-11-09T08:02:00+03:00",
       "puan": 12,
-      "durum": "yazildi",
-      "baslik": "Amerika Birleşik Devletleri Kongre Ara Seçimlerinde İlk Sonuçlar Belirlendi",
-      "ozet": "Ülke genelinde gerçekleştirilen Kongre ara seçimlerinde Senato koltuklarının dağılımı netleşmeye başladı. Seçime konu olan otuz beş sandalyeden on beşini Cumhuriyetçi Parti adayları kazanırken, Demokrat Parti adayları yedi koltuğun sahibi oldu. Seçim süreci sonucunda oluşan bu tablo, yasama organındaki güç dengelerinin belirlenmesi açısından önem taşıdı.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1883198",
@@ -1316,29 +1261,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/bitcoin-tum-zamanlarin-rekorunu-kirdi-1883198"
       },
-      "konular": [
-        "Bitcoin",
-        "Kripto para"
-      ],
+      "konular": [],
       "yayin": "2021-11-09T02:41:00+03:00",
       "puan": 12,
-      "durum": "yazildi",
-      "baslik": "Bitcoin piyasasında yeni fiyat rekoru kaydedildi",
-      "ozet": "Dijital para birimi Bitcoin, değerini artırarak 67 bin 789 dolar seviyesine ulaştı. Bu yükselişle birlikte kripto para birimi, kendi tarihinin en yüksek fiyat seviyesini görmüş oldu.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg/960px-%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg/500px-%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg",
-        "genislik": 960,
-        "yukseklik": 960,
-        "orijinalGenislik": 2448,
-        "yazar": "Alexandr Gromov",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg",
-        "aciklama": "Подготовка к отправке заказа: mining kit на основе чипа Golden Nonce.",
-        "konu": "Kripto para"
-      }
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1883444",
@@ -1351,17 +1277,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/mhpde-deprem-vekil-ozturku-topa-tutup-istifa-etti-1883444"
       },
-      "konular": [
-        "Milliyetçi Hareket Partisi",
-        "Kırıkkale",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2021-11-09T16:56:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "MHP Keskin İlçe Başkanı Zafer Çakmaklı görevinden ayrıldı",
-      "ozet": "Kırıkkale ilçe teşkilatında görev yapan Zafer Çakmaklı, Milletvekili Halil Öztürk'e yönelik eleştirilerinin ardından istifa kararını duyurdu. İlçe başkanı, yürüttüğü siyasi görevinden ayrıldığını resmen açıkladı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1789716",
@@ -1374,30 +1293,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-istifa-karari-sonrasi-ilk-kez-konusuyor-1789716"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Berat Albayrak",
-        "Türkiye Cumhuriyeti Hazine ve Maliye Bakanlığı"
-      ],
+      "konular": [],
       "yayin": "2020-11-09T14:53:00+03:00",
       "puan": 14,
-      "durum": "yazildi",
-      "baslik": "Cumhurbaşkanı Erdoğan Büyükelçiler Konferansı'nda açıklamalarda bulundu",
-      "ozet": "Hazine ve Maliye Bakanı Berat Albayrak'ın görevinden ayrılmasının ardından Cumhurbaşkanı Tayyip Erdoğan ilk kez kamuoyu önüne çıktı. Cumhurbaşkanlığı Sarayı'nda gerçekleştirilen Büyükelçiler Konferansı'nda konuşan Erdoğan, yaşanan gelişmelere dair değerlendirmelerini paylaştı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1789614",
@@ -1410,30 +1309,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/berat-albayrakin-istifasinin-ardindan-cumhurbaskanligi-sessizligini-koruyor-1789614"
       },
-      "konular": [
-        "Berat Albayrak",
-        "Türkiye Cumhuriyeti Hazine ve Maliye Bakanlığı",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2020-11-09T09:26:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Hazine ve Maliye Bakanı Albayrak'ın istifa kararı sonrası sessizlik sürüyor",
-      "ozet": "Hazine ve Maliye Bakanı Berat Albayrak görevinden ayrıldığını duyurdu. Bu gelişmenin ardından Cumhurbaşkanlığı makamı konuyla ilgili herhangi bir açıklama yapmadı. Aradan geçen uzun süreye rağmen kamu yayıncıları ve hükümete yakın medya kuruluşları istifa haberine yer vermedi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Berat_Albayrak.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Berat_Albayrak.jpg",
-        "genislik": 613,
-        "yukseklik": 802,
-        "orijinalGenislik": 613,
-        "yazar": "Yasin Akgül",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Berat_Albayrak.jpg",
-        "aciklama": "Turkish Treasury and Finance Minister Berat Albayrak at a press conference after the EU-Turkey High Level Economic Dialogue Meeting in Istanbul, Turkey",
-        "konu": "Berat Albayrak"
-      }
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1701067",
@@ -1446,16 +1325,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/turkiye-motokros-sampiyonasi-basladi-4-ayak-yarislari-basladi-1701067"
       },
-      "konular": [
-        "Motokros",
-        "Türkiye Motosiklet Federasyonu"
-      ],
+      "konular": [],
       "yayin": "2019-11-09T16:09:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Türkiye Motokros Şampiyonası dördüncü ayak yarışları start aldı",
-      "ozet": "Türkiye Motosiklet Federasyonu ile Avrupa Organizatörü iş birliğiyle düzenlenen Türkiye Motokros Şampiyonası kapsamında dördüncü ayak mücadeleleri başladı. Yılın takviminde yer alan bu organizasyon, motosiklet sporuna ilgi duyanları bir araya getirdi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1701012",
@@ -1468,17 +1341,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/moussa-sow-fenerbahce-sampiyon-olacak-1701012"
       },
-      "konular": [
-        "Moussa Sow",
-        "Fenerbahçe",
-        "Süper Lig"
-      ],
+      "konular": [],
       "yayin": "2019-11-09T11:34:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Moussa Sow Fenerbahçe'yi Şampiyonluk Adayı Olarak Gördüğünü Belirtti",
-      "ozet": "Gaziantep FK bünyesinde görev yapan Senegalli futbolcu Moussa Sow, Süper Lig'deki şampiyonluk yarışına dair değerlendirmelerde bulundu. Fenerbahçe'nin eski oyuncusu, sezon sonu için favorisinin sarı lacivertli ekip olduğunu ifade etti.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1135667",
@@ -1491,16 +1357,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sahine-dava-acildi-yargi-iktidarin-sopasi-1135667"
       },
-      "konular": [
-        "Alev Şahin",
-        "Kanun Hükmünde Kararname"
-      ],
+      "konular": [],
       "yayin": "2018-11-09T10:26:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Mimar Alev Şahin hakkında oturma eylemi nedeniyle dava açıldı",
-      "ozet": "Kanun Hükmünde Kararname ile görevinden uzaklaştırılan mimar Alev Şahin, bir yılı aşkın süredir sürdürdüğü oturma eylemi sebebiyle yargı karşısına çıktı. Şahin hakkında valilik tarafından alınan kararlara ve tedbirlere aykırı davrandığı gerekçesiyle dava süreci başlatıldı. Şahin, kendisine yöneltilen suçlamalara karşı yargı sisteminin mevcut yönetim tarafından bir baskı aracı olarak kullanıldığını savundu.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1135806",
@@ -1513,17 +1373,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ersanli-bucks-son-sampiyon-warriorsi-farkli-yendi-1135806"
       },
-      "konular": [
-        "Milwaukee Bucks",
-        "Golden State Warriors",
-        "NBA"
-      ],
+      "konular": [],
       "yayin": "2018-11-09T11:55:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Milwaukee Bucks, Golden State Warriors karşısında farklı kazandı",
-      "ozet": "Amerikan Basketbol Ligi mücadelesinde Milwaukee Bucks, son şampiyon Golden State Warriors ile deplasmanda karşı karşıya geldi. Rakibini 134-111 gibi net bir skorla mağlup eden Bucks, ev sahibi ekibe bu sezonki ikinci yenilgisini yaşattı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-862873",
@@ -1536,17 +1389,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-nefret-soylemi-su-an-chpli-belediye-escinsel-kotasi-koydu-862873"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Cumhuriyet Halk Partisi",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2017-11-09T15:11:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Cumhurbaşkanı Erdoğan muhtarlar toplantısında konuştu",
-      "ozet": "Cumhurbaşkanı ve AKP Genel Başkanı Recep Tayyip Erdoğan, düzenlenen 41. Muhtarlar Toplantısı kapsamında bir konuşma gerçekleştirdi. Erdoğan, yaptığı açıklamalar sırasında yerel yönetim uygulamalarına ilişkin değerlendirmelerde bulundu.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-863179",
@@ -1559,17 +1405,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kilicdaroglu-strazburgda-2019-secimi-icin-demokrasi-bloku-863179"
       },
-      "konular": [
-        "Kemal Kılıçdaroğlu",
-        "Cumhuriyet Halk Partisi",
-        "Strazburg"
-      ],
+      "konular": [],
       "yayin": "2017-11-09T22:58:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Kemal Kılıçdaroğlu Strazburg'da Seçim Sürecini Değerlendirdi",
-      "ozet": "Dünya Demokrasi Forumu kapsamında Strazburg'da bulunan Cumhuriyet Halk Partisi Genel Başkanı Kemal Kılıçdaroğlu, basın mensuplarının sorularını yanıtladı. Gelecek seçimlerin iki farklı görüş ekseninde şekilleneceğini belirten Kılıçdaroğlu, süreci tek adam yönetimini destekleyenler ile demokrasiyi savunanlar arasındaki bir tercih olarak tanımladı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-628351",
@@ -1582,17 +1421,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yildirim-ve-bahceliden-anayasa-zirvesi-chpye-mesaj-628351"
       },
-      "konular": [
-        "Binali Yıldırım",
-        "Devlet Bahçeli",
-        "Türkiye'de anayasa değişikliği"
-      ],
+      "konular": [],
       "yayin": "2016-11-09T14:25:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Anayasa değişikliği gündemiyle liderler düzeyinde görüşme kararı alındı",
-      "ozet": "Başbakan Binali Yıldırım, anayasa çalışmaları kapsamında MHP Genel Başkanı Devlet Bahçeli ile bir araya geleceğini duyurdu. Yapılacak görüşmede mini anayasa paketi üzerine değerlendirmelerde bulunulması planlanıyor. Bu temasın ardından CHP kanadına yönelik bir mesaj verilmesi bekleniyor.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-628519",
@@ -1605,16 +1437,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tuncelide-sokaga-cikma-yasagi-ilan-edildi-628519"
       },
-      "konular": [
-        "Tunceli",
-        "Sokağa çıkma yasağı"
-      ],
+      "konular": [],
       "yayin": "2016-11-09T20:03:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Tunceli Valiliği tarafından sokağa çıkma yasağı kararı alındı",
-      "ozet": "Tunceli Valiliği, il genelinde sokağa çıkma yasağı uygulanacağını duyurdu. Söz konusu kararın ardından bölgedeki vatandaşların kısıtlamalara uyması istendi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2015-haber-411327",
@@ -1627,30 +1453,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/anlasma-imzalandi-rusya-s-300-fuzelerini-irana-gonderiyor-411327"
       },
-      "konular": [
-        "S-300",
-        "Rusya",
-        "İran"
-      ],
+      "konular": [],
       "yayin": "2015-11-09T14:55:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Rusya ve İran Arasında S-300 Hava Savunma Sistemi Anlaşması",
-      "ozet": "Rusya ile İran arasında hava savunma sistemlerinin tedarikini kapsayan resmi bir sözleşme imzalandı. Yapılan bu anlaşma doğrultusunda S-300 füzelerinin Tahran yönetimine teslim edilmesi kararlaştırıldı. İki ülke arasında gerçekleşen bu mutabakat, savunma alanındaki iş birliğinin somut bir adımı olarak kayıtlara geçti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/MoscowParade2009_7.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/MoscowParade2009_7.jpg",
-        "genislik": 500,
-        "yukseklik": 334,
-        "orijinalGenislik": 500,
-        "yazar": "kremlin.ru",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:MoscowParade2009_7.jpg",
-        "aciklama": "МОСКВА. Военный парад в честь 64-й годовщины Победы в Великой Отечественной войне. По Красной площади движутся зенитные ракетные системы ПВО С-300 «Фаворит».",
-        "konu": "S-300"
-      }
+      "durum": "haber"
     },
     {
       "id": "2014-haber-138833",
@@ -1663,30 +1469,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sinirda-askere-ates-acildi-138833"
       },
-      "konular": [
-        "Suriye İç Savaşı",
-        "Hatay",
-        "Türk Silahlı Kuvvetleri"
-      ],
+      "konular": [],
       "yayin": "2014-11-09T15:56:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Hatay sınır hattında görevli askerlere ateş açıldı",
-      "ozet": "Genelkurmay Başkanlığı tarafından yapılan açıklamada, Hatay sınır bölgesinde nöbet tutan güvenlik güçlerine Suriye topraklarından ateş açıldığı duyuruldu. Olayın ardından bölgedeki askeri birliklerin durumu hakkında bilgilendirme yapıldı.",
-      "kategori": "Savaş",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
-        "genislik": 704,
-        "yukseklik": 499,
-        "orijinalGenislik": 704,
-        "yazar": "jan Sefti",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
-        "aciklama": "The phrase \"Down with Bashar\" (yaskut Baššār), during the Syrian Uprising 2011.",
-        "konu": "Suriye İç Savaşı"
-      }
+      "durum": "haber"
     },
     {
       "id": "2014-haber-138901",
@@ -1699,17 +1485,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dev-derbide-zafer-galatasarayin-138901"
       },
-      "konular": [
-        "Galatasaray (erkek voleybol takımı)",
-        "Fenerbahçe (erkek voleybol takımı)",
-        "Efeler Ligi"
-      ],
+      "konular": [],
       "yayin": "2014-11-09T20:27:00+03:00",
       "puan": 6,
-      "durum": "elendi",
-      "baslik": "Voleybol erkekler liginde derbi mücadelesini Galatasaray kazandı",
-      "ozet": "Voleybol Erkekler 1. Ligi kapsamında oynanan beşinci hafta mücadelesinde Fenerbahçe ve Galatasaray karşı karşıya geldi. Burhan Felek Spor Salonu'nda gerçekleşen derbi karşılaşmasından galip ayrılan taraf Galatasaray oldu.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2013-haber-7615",
@@ -1722,17 +1501,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sporda-deprem-yaratacak-karar-7615"
       },
-      "konular": [
-        "Halı saha",
-        "Tazminat hukuku",
-        "Spor hukuku"
-      ],
+      "konular": [],
       "yayin": "2013-11-09T12:09:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Halı saha maçındaki sakatlık sonrası tazminat davası açıldı",
-      "ozet": "Bir halı saha müsabakası sırasında rakip takımda yer alan bir polis memurunun müdahalesi neticesinde bacağı kırılan avukat, yaşadığı iş ve güç kaybı gerekçesiyle hukuki süreç başlattı. Söz konusu olayla ilgili olarak mahkemeye taşınan tazminat davası, spor müsabakalarındaki fiziksel temasların hukuki boyutunu gündeme getirdi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2013-haber-7559",
@@ -1745,17 +1517,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kilicdaroglu-basbakan-arinci-feda-etti-7559"
       },
-      "konular": [
-        "Kemal Kılıçdaroğlu",
-        "Bülent Arınç",
-        "Cumhuriyet Halk Partisi"
-      ],
+      "konular": [],
       "yayin": "2013-11-09T09:25:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Kemal Kılıçdaroğlu'ndan Bülent Arınç Hakkında Değerlendirme",
-      "ozet": "Cumhuriyet Halk Partisi Genel Başkanı Kemal Kılıçdaroğlu, katıldığı bir televizyon programında gündeme dair açıklamalarda bulundu. Kılıçdaroğlu, Başbakanın Bülent Arınç ile ilgili tutumunu eleştirerek konuya ilişkin görüşlerini paylaştı. Samanyolu Haber kanalında yayınlanan canlı yayına konuk olan Kılıçdaroğlu, siyasi gelişmeleri değerlendirdi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-382372",
@@ -1768,18 +1533,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/vandaki-9-kasim-depreminin-1-yili-382372"
       },
-      "konular": [
-        "2011 Van depremi",
-        "Cem Emir",
-        "Sebahattin Yılmaz"
-      ],
+      "konular": [],
       "yayin": "2012-11-09T14:55:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Van depreminde hayatını kaybeden gazeteciler anıldı",
-      "ozet": "Van'da yaşanan deprem felaketinin birinci yıl dönümünde, bölgede görev yaparken yaşamını yitiren gazeteciler unutulmadı. Meslektaşları, hayatını kaybeden Cem Emir'i mezarı başında ziyaret ederek andı. Ayrıca Sebahattin Yılmaz ve Cem Emir'in anısına, depremde yıkılan Bayram Oteli'nin bulunduğu alana karanfiller bırakıldı.",
-      "kategori": "Toplum",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2012-haber-382466",
@@ -1792,18 +1549,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/secimlerden-sonra-ilk-gundem-maddesi-mali-ucurum-ve-vergi-kesintileri-382466"
       },
-      "konular": [
-        "Mali uçurum",
-        "ABD Kongresi",
-        "ABD"
-      ],
+      "konular": [],
       "yayin": "2012-11-09T19:24:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "ABD siyasetinde seçim sonrası mali uçurum tartışmaları başladı",
-      "ozet": "Seçim sürecinin tamamlanmasının ardından Washington yönetiminin öncelikli gündemini mali uçurum ve vergi düzenlemeleri oluşturdu. Başkan ile Kongre'deki Cumhuriyetçi üyeler arasında bu konular üzerinde görüş ayrılıkları yaşandığı gözlemlendi. Taraflar arasındaki fikir farklılıkları, yeni dönemdeki ekonomik politikaların belirlenmesi sürecinde belirginleşti.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2011-haber-296748",
@@ -1816,30 +1565,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ispanyada-genel-secimlere-dogru-296748"
       },
-      "konular": [
-        "Halk Partisi (İspanya)",
-        "İspanya",
-        "Genel seçim"
-      ],
+      "konular": [],
       "yayin": "2011-11-09T09:40:00+03:00",
       "puan": 5,
-      "durum": "yazildi",
-      "baslik": "İspanya'da yaklaşan seçimler öncesi kamu yayıncılığında değişim planı",
-      "ozet": "İspanya'da gerçekleştirilecek erken genel seçimler öncesinde Halk Partisi, iktidara gelmesi durumunda kamu yayıncılığı alanında köklü değişiklikler yapacağını duyurdu. Parti yönetimi, özerk bölgelerde faaliyet gösteren on üç kamu televizyon kanalını özelleştirmeyi ve resmi haber ajansı EFE'yi devlet radyo ve televizyon kurumu RTVE çatısı altına almayı hedeflediğini açıkladı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Turkish_2018_general_election_in_Tehran_08.jpg/960px-Turkish_2018_general_election_in_Tehran_08.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Turkish_2018_general_election_in_Tehran_08.jpg/500px-Turkish_2018_general_election_in_Tehran_08.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 1050,
-        "yazar": "Omid Vahabzadeh",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_2018_general_election_in_Tehran_08.jpg",
-        "aciklama": "انتخابات ریاست جمهوری و پارلمانی ترکیه صبح يکشنبه ۲۷ خرداد ۱۳۹۷ با حضور رضا هاکان تکین سفیر ترکیه در تهران در محل سفارت ترکیه در تهران و سرکنسولگری‌های این کشور در ارومیه و تبریز برگزار شد.",
-        "konu": "Genel seçim"
-      }
+      "durum": "haber"
     },
     {
       "id": "2011-haber-296740",
@@ -1852,30 +1581,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bdpliler-meclisten-cekilmeyi-tartisiyor-296740"
       },
-      "konular": [
-        "Barış ve Demokrasi Partisi",
-        "Türkiye Büyük Millet Meclisi",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2011-11-09T08:23:00+03:00",
       "puan": 5,
-      "durum": "yazildi",
-      "baslik": "BDP bünyesinde meclis çalışmaları üzerine değerlendirmeler yapılıyor",
-      "ozet": "Barış ve Demokrasi Partisi yönetimi, yasama faaliyetlerine devam edip etmeme konusunu gündemine aldı. Parti içerisinde meclisten tamamen ayrılma veya alternatif olarak Anayasa Komisyonu'ndaki görevlerden çekilme seçenekleri üzerinde görüş alışverişinde bulunuldu. Söz konusu iki farklı yaklaşım, parti kurulları tarafından detaylı bir şekilde değerlendirildi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg/960px-24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg/500px-24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg",
-        "genislik": 960,
-        "yukseklik": 562,
-        "orijinalGenislik": 7320,
-        "yazar": "Lula Oficial",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_(54018866744).jpg",
-        "aciklama": "24.09.2024 - Presidente da República, Luiz Inácio Lula da Silva, durante a Abertura do Debate Geral da 79ª Sessão da Assembleia Geral das Nações Unidas, no Salão da Assembleia Geral, da Sede das Naçõe",
-        "konu": "Siyaset"
-      }
+      "durum": "haber"
     }
   ],
   "haberYillari": [
