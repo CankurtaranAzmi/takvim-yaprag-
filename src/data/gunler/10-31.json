@@ -1383,7 +1383,7 @@
     "url": "https://tr.wikipedia.org/wiki/31_Ekim",
     "revid": 38168248
   },
-  "guncelleme": "2026-10-30T12:20:56.472Z",
+  "guncelleme": "2026-10-31T11:51:24.978Z",
   "haberler": [
     {
       "id": "2025-haber-2448582",
@@ -1490,17 +1490,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/meksikada-anayasa-mahkemesinde-toplu-istifa-2263796"
       },
-      "konular": [
-        "Meksika Yüksek Adalet Divanı",
-        "Meksika"
-      ],
+      "konular": [],
       "yayin": "2024-10-31T15:45:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Meksika Anayasa Mahkemesinde sekiz yargıç görevinden ayrılıyor",
-      "ozet": "Meksika Anayasa Mahkemesinde görev yapan on bir yargıçtan sekizi, istifa etme kararı aldıklarını duyurdu. Bu karar, eylül ayında senato tarafından onaylanan ve yargı sisteminde köklü değişiklikler öngören düzenlemenin ardından geldi. Söz konusu yargıçlar, yeni yasal düzenleme kapsamında yapılması planlanan seçim sürecine katılmak yerine görevlerini bırakmayı tercih etti.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2135937",
@@ -1513,17 +1506,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/fatih-erbakandan-tbmmde-faiz-cikisi-2135937"
       },
-      "konular": [
-        "Fatih Erbakan",
-        "Yeniden Refah Partisi",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2023-10-31T11:59:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Yeniden Refah Partisi Genel Başkanı Erbakan'dan faiz harcamaları uyarısı",
-      "ozet": "Türkiye Büyük Millet Meclisi bünyesinde gerçekleştirilen On İkinci Kalkınma Planı görüşmeleri sırasında söz alan Fatih Erbakan, faiz ödemelerindeki artışa dikkat çekti. Faiz harcamalarının önümüzdeki yıllarda ciddi bir yükseliş göstereceğini belirten Erbakan, mevcut ekonomik politikaların yatırımcıyı üretimden uzaklaştırarak faize yönlendirdiğini ifade etti.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2135794",
@@ -1536,16 +1522,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/iktidarin-izmir-depremi-sonrasinda-dagittigi-anahtarlar-gostermelik-2135794"
       },
-      "konular": [
-        "2020 Ege Denizi depremi",
-        "İzmir"
-      ],
+      "konular": [],
       "yayin": "2023-10-31T04:00:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "İzmir depremi mağdurlarının konut sorunu devam ediyor",
-      "ozet": "İzmir depreminin ardından evlerini kaybeden vatandaşlar için üç yıl boyunca yürütülen çalışmalar beklentileri karşılamadı. Bölgede inşa edilen sınırlı sayıdaki konutun depremzedelere ücret karşılığında sunulması ve ekonomik destek sağlanmaması nedeniyle birçok kişi yaşadığı yeri terk etmek durumunda kaldı. Mağduriyet yaşayan yurttaşlar, verilen sözlerin tutulmadığını belirterek süreçten duydukları memnuniyetsizliği dile getirdi.",
-      "kategori": "Toplum"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1998220",
@@ -1558,17 +1538,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/new-york-borsasi-dususle-acildi-1998220"
       },
-      "konular": [
-        "New York Borsası",
-        "Federal Rezerv",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2022-10-31T16:48:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "New York borsasında haftanın ilk günü düşüş eğilimiyle başladı",
-      "ozet": "New York borsası, ABD Merkez Bankası tarafından faiz oranlarına ilişkin yapılacak açıklamanın beklendiği haftaya değer kaybıyla giriş yaptı. Yatırımcıların merkez bankasının atacağı adımlara odaklandığı işlem gününde piyasalarda aşağı yönlü bir seyir izlendi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1998176",
@@ -1581,17 +1554,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/besiktas-derbi-hazirliklarina-ara-vermeden-basladi-1998176"
       },
-      "konular": [
-        "Beşiktaş (futbol takımı)",
-        "Galatasaray (futbol takımı)",
-        "Süper Lig"
-      ],
+      "konular": [],
       "yayin": "2022-10-31T16:26:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Beşiktaş derbi mücadelesi için antrenmanlara start verdi",
-      "ozet": "Süper Lig'in on üçüncü haftasında Galatasaray ile oynanacak karşılaşmanın hazırlıkları kapsamında Beşiktaş çalışmalarına başladı. Siyah beyazlı ekip, hafta sonu gerçekleşecek derbi mücadelesi için antrenman programını uygulamaya koydu.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1880917",
@@ -1604,30 +1570,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/g20de-tarihi-anlasma-kuresel-asgari-kurumlar-vergisi-onay-aldi-1880917"
       },
-      "konular": [
-        "G20",
-        "Ekonomik İşbirliği ve Kalkınma Örgütü",
-        "Kurumlar vergisi"
-      ],
+      "konular": [],
       "yayin": "2021-10-31T10:18:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "G20 Liderleri Küresel Asgari Kurumlar Vergisi Düzenlemesini Onayladı",
-      "ozet": "Dünyanın en büyük yirmi ekonomisini temsil eden liderler, çok uluslu şirketlere yönelik yeni bir vergilendirme sistemini kabul etti. Ekonomik İşbirliği ve Kalkınma Örgütü tarafından hazırlanan küresel asgari kurumlar vergisi planı, zirve kapsamında resmi onay sürecini tamamladı. Bu adım ile uluslararası şirketlerin vergi uygulamalarında standart bir yapı oluşturulması hedeflendi.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Family_photo_G20_Italy_2021.jpg/960px-Family_photo_G20_Italy_2021.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Family_photo_G20_Italy_2021.jpg/500px-Family_photo_G20_Italy_2021.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 6720,
-        "yazar": "Government of Brazil - Planalto Palace",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Family_photo_G20_Italy_2021.jpg",
-        "aciklama": "(Roma - Itália, 30/10/2021) Fotografia Oficial com os Chefes de Delegação do G20.Foto: Alan Santos/PR",
-        "konu": "G20"
-      }
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1787368",
@@ -1640,29 +1586,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/libya-basbakani-serrac-istifa-kararindan-vazgecti-1787368"
       },
-      "konular": [
-        "Fayiz es-Serrac",
-        "Libya"
-      ],
+      "konular": [],
       "yayin": "2020-10-31T10:04:00+03:00",
       "puan": 14,
-      "durum": "yazildi",
-      "baslik": "Libya Başbakanı Fayiz es-Serrac Görevine Devam Etme Kararı Aldı",
-      "ozet": "Libya Başbakanı Fayiz es-Serrac, daha önce açıkladığı istifa etme niyetinden geri döndüğünü bildirdi. Serrac, yaptığı açıklama ile görevini sürdüreceğini kamuoyuna duyurdu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Fayez_al-Sarraj_in_Washington_-_2017_%2838751877521%29_%28cropped%29.jpg/960px-Fayez_al-Sarraj_in_Washington_-_2017_%2838751877521%29_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Fayez_al-Sarraj_in_Washington_-_2017_%2838751877521%29_%28cropped%29.jpg/500px-Fayez_al-Sarraj_in_Washington_-_2017_%2838751877521%29_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1347,
-        "orijinalGenislik": 1768,
-        "yazar": "Brigitte N. Brantley",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Fayez_al-Sarraj_in_Washington_-_2017_(38751877521)_(cropped).jpg",
-        "aciklama": "Secretary of Defense James N. Mattis meets with Libya's Prime Minister Fayez Serraj In Eid Al-Adha Juin 28, 2023, at the Pentagon in Washington, D.C. (171130-D-GO396-0100)",
-        "konu": "Fayiz es-Serrac"
-      }
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1787477",
@@ -1675,30 +1602,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-izmir-depremi-aciklamasi-37-can-kaybi-1787477"
       },
-      "konular": [
-        "2020 Ege Denizi depremi",
-        "Recep Tayyip Erdoğan",
-        "İzmir"
-      ],
+      "konular": [],
       "yayin": "2020-10-31T20:42:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Cumhurbaşkanı Erdoğan İzmir deprem bölgesinde incelemelerde bulundu",
-      "ozet": "İzmir'de meydana gelen depremin ardından bölgeye giden Cumhurbaşkanı Recep Tayyip Erdoğan, yürütülen çalışmaları yerinde takip etti. Enkaz kaldırma işlemlerinin tamamlanmasıyla birlikte konut yapım sürecine hızla geçileceğini belirten Erdoğan, evleri yıkılan vatandaşların mağduriyetlerinin en kısa sürede giderileceğini ifade etti. Bölgedeki hasar tespit ve kurtarma faaliyetleri hakkında yetkililerden bilgi aldı.",
-      "kategori": "Afet",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg/960px-2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg/500px-2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 2592,
-        "yazar": "Oğulcan Bakiler (VOA)",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
-        "aciklama": "search and rescue efforts due of 2020 Aegean Sea earthquake",
-        "konu": "2020 Ege Denizi depremi"
-      }
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1572780",
@@ -1711,30 +1618,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/irak-basbakani-abdulmehdi-istifa-etmeyi-kabul-etti-1572780"
       },
-      "konular": [
-        "Adil Abdülmehdi",
-        "Berham Salih",
-        "Irak"
-      ],
+      "konular": [],
       "yayin": "2019-10-31T19:08:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Irak Başbakanı Adil Abdülmehdi Görevinden Ayrılma Kararı Aldı",
-      "ozet": "Ülke genelinde süregelen hükümet karşıtı gösterilerin ardından Irak Cumhurbaşkanı Berham Salih bir açıklama yaptı. Salih, Başbakan Adil Abdülmehdi'nin istifa etme talebini onayladığını duyurdu. Bu gelişme, Irak'ta yaşanan siyasi hareketliliğin önemli bir aşaması olarak kayıtlara geçti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Adil_Abdul-Mahdi_portrait.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Adil_Abdul-Mahdi_portrait.jpg",
-        "genislik": 455,
-        "yukseklik": 528,
-        "orijinalGenislik": 455,
-        "yazar": "LaGrandeOurs",
-        "lisans": "CC BY 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Adil_Abdul-Mahdi_portrait.jpg",
-        "aciklama": "Adil Abdul-Mahdi",
-        "konu": "Adil Abdülmehdi"
-      }
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1572755",
@@ -1747,30 +1634,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ingilterede-secim-kampanyasi-basladi-1572755"
       },
-      "konular": [
-        "Birleşik Krallık genel seçimleri (2019)",
-        "Jeremy Corbyn",
-        "İşçi Partisi"
-      ],
+      "konular": [],
       "yayin": "2019-10-31T17:06:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "İngiltere'de Erken Seçim Çalışmaları Start Aldı",
-      "ozet": "İngiltere'de ana muhalefet konumunda bulunan İşçi Partisi, seçim sürecine yönelik çalışmalarını başlattı. Parti lideri Jeremy Corbyn, yürütülen kampanya faaliyetlerinin ilk adımlarını atarak süreci resmen duyurdu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Official_portrait_of_Jeremy_Corbyn_MP_crop_2%2C_2024.jpg/960px-Official_portrait_of_Jeremy_Corbyn_MP_crop_2%2C_2024.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Official_portrait_of_Jeremy_Corbyn_MP_crop_2%2C_2024.jpg/500px-Official_portrait_of_Jeremy_Corbyn_MP_crop_2%2C_2024.jpg",
-        "genislik": 960,
-        "yukseklik": 1280,
-        "orijinalGenislik": 1500,
-        "yazar": "©House of Commons / Jessica Taylor",
-        "lisans": "CC BY 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Jeremy_Corbyn_MP_crop_2,_2024.jpg",
-        "aciklama": "Official portrait of Jeremy Corbyn MP, 3:4 crop.",
-        "konu": "Jeremy Corbyn"
-      }
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1127846",
@@ -1783,18 +1650,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/701-sayili-khk-tbmmde-kabul-edildi-1127846"
       },
-      "konular": [
-        "Kanun hükmünde kararname",
-        "Türkiye Büyük Millet Meclisi",
-        "Olağanüstü hâl"
-      ],
+      "konular": [],
       "yayin": "2018-10-31T22:50:00+03:00",
       "puan": 12,
-      "durum": "yazildi",
-      "baslik": "701 Sayılı Kanun Hükmünde Kararname Meclis Tarafından Onaylandı",
-      "ozet": "Olağanüstü Hal süreci dahilinde hazırlanan 701 numaralı Kanun Hükmünde Kararname, Türkiye Büyük Millet Meclisi genel kurulunda görüşülerek kabul edildi. Söz konusu düzenleme, yasama organındaki oylama sonucunda resmiyet kazandı.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1127796",
@@ -1807,17 +1666,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/meclis-butcesi-yuzde-44-artti-1127796"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Mustafa Şentop",
-        "Radyo ve Televizyon Üst Kurulu"
-      ],
+      "konular": [],
       "yayin": "2018-10-31T22:20:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Türkiye Büyük Millet Meclisi bütçesinde artış kararı alındı",
-      "ozet": "Türkiye Büyük Millet Meclisi için hazırlanan 2019 yılı bütçesi, bir önceki yıla kıyasla yüzde 44.7 oranında yükseltildi. Meclis Başkanvekili Mustafa Şentop, bu bütçe artışının gerekçelerini milletvekili ve danışman sayısındaki değişimler, enflasyon oranları ve eski milletvekillerinin sağlık harcamaları olarak açıkladı. Ayrıca bu düzenleme ile birlikte Radyo ve Televizyon Üst Kurulu ilk defa Meclis bütçesinden pay almaya başladı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-856814",
@@ -1830,30 +1682,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdoganin-baku-gezisi-azerbaycanla-6-anlasma-imzalandi-856814"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Azerbaycan",
-        "Türkiye-Azerbaycan ilişkileri"
-      ],
+      "konular": [],
       "yayin": "2017-10-31T16:00:00+03:00",
       "puan": 15,
-      "durum": "yazildi",
-      "baslik": "Türkiye ve Azerbaycan Arasında Yeni İş Birliği Anlaşmaları İmzalandı",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan resmi temaslarda bulunmak üzere Azerbaycan'a gitti. Gerçekleştirilen görüşmelerin ardından iki ülke arasında çeşitli alanları kapsayan altı farklı anlaşmaya imza atıldı. Bu ziyaretle birlikte iki devlet arasındaki ilişkilerin güçlendirilmesi hedeflendi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2017-haber-856898",
@@ -1866,16 +1698,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/antalyada-istifa-depremi-soylentiyi-yayan-burokrat-gorevden-alindi-856898"
       },
-      "konular": [
-        "Antalya Büyükşehir Belediyesi",
-        "Menderes Türel"
-      ],
+      "konular": [],
       "yayin": "2017-10-31T17:12:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Antalya Büyükşehir Belediyesi bünyesinde görev değişikliği yapıldı",
-      "ozet": "Antalya Büyükşehir Belediyesi iştiraki olan Ekdağ şirketinin yönetim kurulu başkanı ve genel müdürü Murtaza Tamyürek görevinden uzaklaştırıldı. Söz konusu kararın, belediye başkanı hakkında Ankara'ya çağrıldığına dair asılsız iddiaları yaydığı gerekçesiyle alındığı belirtildi. Belediye yönetimi tarafından gerçekleştirilen bu idari tasarruf ile kurum içindeki söylentilerin önüne geçilmesi hedeflendi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-623969",
@@ -1888,17 +1714,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dolar-yeni-haftaya-boyle-basladi-623969"
       },
-      "konular": [
-        "Dolar",
-        "Ekonomi",
-        "Türkiye"
-      ],
+      "konular": [],
       "yayin": "2016-10-31T10:46:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Dolar kuru haftaya 3.11 lira seviyesinden giriş yaptı",
-      "ozet": "ABD Merkez Bankası'nın faiz politikasına dair beklentiler ve jeopolitik gelişmelerin etkisiyle geçtiğimiz hafta rekor seviyeye ulaşan dolar, yeni haftanın ilk gününde 3.11 lira civarında işlem gördü. Başkanlık sistemi tartışmalarının da piyasalar üzerinde etkili olduğu gözlendi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-624238",
@@ -1911,17 +1730,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/vanda-belediye-meclisinden-kisanak-anli-ve-akatin-tutuklanmasina-kinama-624238"
       },
-      "konular": [
-        "Gültan Kışanak",
-        "Fırat Anlı",
-        "Van"
-      ],
+      "konular": [],
       "yayin": "2016-10-31T17:35:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Van Büyükşehir Belediye Meclisinden Tutuklamalara Tepki",
-      "ozet": "Van Büyükşehir Belediye Meclisi üyeleri, Diyarbakır Büyükşehir Belediyesi Eş Başkanları Gültan Kışanak ve Fırat Anlı ile eski milletvekili Ayla Akat Ata'nın tutuklanması üzerine bir araya geldi. Düzenlenen ortak basın açıklamasında, söz konusu tutuklama kararları kınandı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2015-haber-400563",
@@ -1934,16 +1746,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akp-secim-irtibat-burosuna-saldiri-400563"
       },
-      "konular": [
-        "Adalet ve Kalkınma Partisi",
-        "Seçim"
-      ],
+      "konular": [],
       "yayin": "2015-10-31T09:16:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Seçim irtibat bürosuna yönelik saldırı gerçekleştirildi",
-      "ozet": "Adalet ve Kalkınma Partisi tarafından kullanılan seçim irtibat bürosuna saldırı düzenlendi. Söz konusu merkez hedef alınarak molotofkokteyli ve ses bombası kullanıldı. Olayın ardından bölgede güvenlik önlemleri alındı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2015-haber-400413",
@@ -1956,16 +1762,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ekonomide-isler-secim-sonrasi-da-zor-olacak-400413"
       },
-      "konular": [
-        "Türkiye ekonomisi",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2015-10-31T02:11:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Ekonomi çevrelerinden seçim sonrası süreç için uyarılar geldi",
-      "ozet": "Çeşitli uluslararası kuruluşlar ve işveren örgütleri, seçimlerin ardından ekonominin hassas bir dönemden geçeceğine dair görüşlerini paylaştı. Finansal kurumlar ve meslek kuruluşları, mevcut ekonomik tablonun kırılganlığına dikkat çekerek acil önlem alınması gerektiğini vurguladı. Yapılan değerlendirmelerde, ekonominin oldukça riskli bir zeminde ilerlediği ifade edildi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2014-haber-136103",
@@ -1978,16 +1778,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/suriye-sinirinda-askere-ates-acildi-136103"
       },
-      "konular": [
-        "Suriye-Türkiye sınırı",
-        "Türk Silahlı Kuvvetleri"
-      ],
+      "konular": [],
       "yayin": "2014-10-31T12:42:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Suriye sınırında görevli askeri birliğe ateş açıldı",
-      "ozet": "Genelkurmay Başkanlığı tarafından yapılan açıklamada, Suriye sınır hattında devriye görevi yürüten askeri ekibe uzun namlulu silahlar kullanılarak saldırı düzenlendiği belirtildi. Söz konusu saldırıya güvenlik güçlerinin derhal misliyle karşılık verdiği ifade edildi.",
-      "kategori": "Savaş"
+      "durum": "haber"
     },
     {
       "id": "2014-haber-135969",
@@ -2000,17 +1794,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/galatasarayda-sneijder-depremi-135969"
       },
-      "konular": [
-        "Wesley Sneijder",
-        "Galatasaray (futbol takımı)",
-        "Ünal Aysal"
-      ],
+      "konular": [],
       "yayin": "2014-10-31T10:20:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Galatasarayda Wesley Sneijder ile yönetim arasında gerginlik yaşandı",
-      "ozet": "Galatasarayın Hollandalı futbolcusu Wesley Sneijder, sözleşme yenileme konusunda verilen sözlerin tutulmaması nedeniyle tepkisini dile getirdi. Takım içindeki kaptanlık tartışmaları ve uygulanan zorunlu kamp süreci, oyuncunun kulüp yönetimiyle yaşadığı fikir ayrılıklarını derinleştirdi. Yaşanan bu gelişmeler spor kamuoyunda geniş yer buldu.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2013-haber-5159",
@@ -2023,29 +1810,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/gongoren-davasinda-rekor-ceza-5159"
       },
-      "konular": [
-        "2008 Güngören saldırısı",
-        "Güngören"
-      ],
+      "konular": [],
       "yayin": "2013-10-31T19:44:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Güngören saldırısı davasında karar açıklandı",
-      "ozet": "Güngören'de gerçekleşen ve on yedi kişinin yaşamını yitirmesine yol açan saldırı ile ilgili yürütülen yargı süreci tamamlandı. Mahkeme heyeti, sanık hakkında on sekiz kez ağırlaştırılmış müebbet hapis cezasına hükmetti.",
-      "kategori": "Toplum",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Gungoren_Istanbul_highlight.png",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Gungoren_Istanbul_highlight.png",
-        "genislik": 810,
-        "yukseklik": 450,
-        "orijinalGenislik": 810,
-        "yazar": "Vikiyazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Gungoren_Istanbul_highlight.png",
-        "aciklama": "Location of the district of Gungoren on the map of Istanbul",
-        "konu": "2008 Güngören saldırısı"
-      }
+      "durum": "haber"
     },
     {
       "id": "2013-haber-5061",
@@ -2058,17 +1826,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-icin-liselilere-talimat-5061"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Bakırköy",
-        "Eğitim"
-      ],
+      "konular": [],
       "yayin": "2013-10-31T14:57:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Okullara resmi törenlere katılım için yazı gönderildi",
-      "ozet": "Bakırköy İlçe Milli Eğitim Müdürlüğü, bölgedeki okullara resmi bir yazı ileterek öğrencilerin bir spor tesisleri açılış törenine katılımının sağlanmasını istedi. Sinan Erdem Kapalı Spor Salonu'nda düzenlenen ve Başbakan Recep Tayyip Erdoğan'ın da yer aldığı etkinlikte, spor tesislerinin toplu açılışı gerçekleştirildi ve amatör spor kulüplerine malzeme yardımı yapıldı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-380118",
@@ -2081,30 +1842,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/avro-bolgesindeki-issizlik-rekor-seviyede-380118"
       },
-      "konular": [
-        "Avro Bölgesi",
-        "İşsizlik",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2012-10-31T14:00:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Avro Bölgesi genelinde işsizlik oranı zirveye ulaştı",
-      "ozet": "Avro Bölgesi ülkelerinde işsizlik oranları Eylül ayı itibarıyla yükseliş gösterdi. Yapılan ölçümler sonucunda işsizlik seviyesinin yüzde 11,6 oranına çıktığı ve bu rakamın bölge tarihindeki en yüksek değer olduğu açıklandı.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/UnemployedMarch.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/UnemployedMarch.jpg",
-        "genislik": 439,
-        "yukseklik": 580,
-        "orijinalGenislik": 439,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:UnemployedMarch.jpg",
-        "aciklama": "The Single Men's Unemployed Association parading to Bathurst Street United Church",
-        "konu": "İşsizlik"
-      }
+      "durum": "haber"
     },
     {
       "id": "2012-haber-380026",
@@ -2117,30 +1858,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sandy-kasirgasinda-51-olu-380026"
       },
-      "konular": [
-        "Sandy Kasırgası",
-        "Barack Obama",
-        "ABD"
-      ],
+      "konular": [],
       "yayin": "2012-10-31T07:07:00+03:00",
       "puan": 6,
-      "durum": "yazildi",
-      "baslik": "Sandy Kasırgası Sonrası Can Kaybı Artıyor",
-      "ozet": "Amerika Birleşik Devletleri'ni etkisi altına alan Sandy kasırgası nedeniyle hayatını kaybedenlerin sayısı elli bire yükseldi. Devlet başkanı Barack Obama, yaşanan yıkımı yerinde incelemek amacıyla New Jersey bölgesine bir ziyaret gerçekleştirecek. Yaşanan bu doğal afetin yaklaşan seçimlerdeki seçmen katılım oranlarını nasıl etkileyeceği ise kamuoyunda tartışılmaya başlandı.",
-      "kategori": "Afet",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Sandy_2012-10-29_1815Z.jpg/960px-Sandy_2012-10-29_1815Z.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Sandy_2012-10-29_1815Z.jpg/500px-Sandy_2012-10-29_1815Z.jpg",
-        "genislik": 960,
-        "yukseklik": 1543,
-        "orijinalGenislik": 11202,
-        "yazar": "NASA, MODIS/ LANCE, HDF File Data processed by Supportstorm, Caption by Michon Scott",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Sandy_2012-10-29_1815Z.jpg",
-        "aciklama": "The Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA’s Aqua satellite acquired this image of Hurricane Sandy at 2:20 p.m. Eastern Daylight Time (18:20 Universal Time) on October 29, 2012.",
-        "konu": "Sandy Kasırgası"
-      }
+      "durum": "haber"
     },
     {
       "id": "2011-haber-294692",
@@ -2153,30 +1874,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/krizler-erdogani-sarsa-da-zaman-ondan-yana-294692"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "The Jerusalem Post",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2011-10-31T14:09:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Jerusalem Post gazetesinde Recep Tayyip Erdoğan analizi",
-      "ozet": "Jerusalem Post gazetesinde yayımlanan bir değerlendirme yazısında, Recep Tayyip Erdoğan'ın üçüncü dönem başbakanlığı ele alındı. Analizde, yaşanan çeşitli ekonomik zorlukların hükümet üzerindeki etkilerine rağmen zamanın mevcut yönetimin lehine işlediği görüşü öne çıkarıldı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     }
   ],
   "haberYillari": [

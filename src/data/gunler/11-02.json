@@ -1104,7 +1104,7 @@
     "url": "https://tr.wikipedia.org/wiki/2_Kas%C4%B1m",
     "revid": 38168530
   },
-  "guncelleme": "2026-10-30T12:20:57.280Z",
+  "guncelleme": "2026-10-31T11:51:25.773Z",
   "haberler": [
     {
       "id": "2025-haber-2448972",
@@ -1117,17 +1117,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/meclis-in-gecen-seneye-gore-butce-artisi-mhp-nin-bile-dikkatini-cekti-kaynagi-kendine-buldu-2448972"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Milliyetçi Hareket Partisi",
-        "Türkiye ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2025-11-02T04:00:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Meclis bütçesindeki yüksek artış oranları siyasi tartışmalara yol açtı",
-      "ozet": "Türkiye Büyük Millet Meclisi için hazırlanan 2026 bütçesindeki ciddi artışlar kamuoyunda gündeme geldi. Hizmet alımı ve sermaye giderleri gibi kalemlerde görülen yüzde 500 seviyesindeki yükselişler, Milliyetçi Hareket Partisi dahil olmak üzere çeşitli kesimlerin dikkatini çekti. Vatandaşların ekonomik zorluklar yaşadığı bir dönemde bütçedeki bu değişimler meclis çatısı altında eleştirilere konu oldu.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2449180",
@@ -1140,17 +1133,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/besiktas-fenerbahce-derbisi-olayli-basladi-iki-kirmizi-kart-birden-2449180"
       },
-      "konular": [
-        "Beşiktaş-Fenerbahçe derbisi",
-        "Süper Lig",
-        "Futbol"
-      ],
+      "konular": [],
       "yayin": "2025-11-02T20:48:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Beşiktaş ve Fenerbahçe derbisinde iki oyuncu oyun dışı kaldı",
-      "ozet": "Süper Lig'in on birinci haftasında gerçekleşen Beşiktaş ve Fenerbahçe karşılaşması gergin anlara sahne oldu. Müsabaka sırasında Orkun Kökçü ve Sergen Yalçın hakem tarafından kırmızı kartla cezalandırılarak oyun alanından gönderildi. Derbi mücadelesi yaşanan bu ihraçlar nedeniyle dikkat çeken bir başlangıç yaptı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2264382",
@@ -1163,30 +1149,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/kuresel-piyasalar-fedin-faiz-karari-ve-abd-baskanlik-secimlerine-2264382"
       },
-      "konular": [
-        "ABD başkanlık seçimleri",
-        "Federal Rezerv Sistemi",
-        "Küresel ekonomi"
-      ],
+      "konular": [],
       "yayin": "2024-11-02T11:13:00+03:00",
       "puan": 13,
-      "durum": "yazildi",
-      "baslik": "Küresel piyasalarda ABD seçimleri ve Fed beklentisi öne çıktı",
-      "ozet": "Dünya genelindeki finansal piyasalar, Amerika Birleşik Devletleri'nde gerçekleştirilecek seçim sürecine ve merkez bankasının alacağı faiz kararlarına kilitlendi. Yatırımcılar, seçim sonuçlarının ekonomi üzerindeki olası yansımalarını dikkatle izlemeye devam etti.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/20_Largest_economies_pie_chart.pdf/page1-960px-20_Largest_economies_pie_chart.pdf.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/20_Largest_economies_pie_chart.pdf/page1-960px-20_Largest_economies_pie_chart.pdf.jpg",
-        "genislik": 960,
-        "yukseklik": 922,
-        "orijinalGenislik": 1368,
-        "yazar": "Wikideas1",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:20_Largest_economies_pie_chart.pdf",
-        "aciklama": "20 Largest economies pie chart",
-        "konu": "Küresel ekonomi"
-      }
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2264345",
@@ -1199,16 +1165,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-depremler-deprem-mi-oldu-2-kasim-2024-nerede-ne-zaman-deprem-2264345"
       },
-      "konular": [
-        "Deprem",
-        "Türkiye"
-      ],
+      "konular": [],
       "yayin": "2024-11-02T09:23:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Türkiye genelinde meydana gelen sarsıntılar takip ediliyor",
-      "ozet": "Ülke genelinde hissedilen sarsıntılar sonrasında vatandaşlar deprem verilerini araştırmaya başladı. İlgili kurumlar tarafından paylaşılan güncel bilgiler ışığında, meydana gelen sarsıntıların merkez üssü ve büyüklük değerleri hakkında detaylı incelemeler yapıldı. Yaşanan doğa olaylarına dair resmi kaynaklardan sağlanan veriler, sarsıntıyı hisseden kişiler tarafından yakından takip edildi.",
-      "kategori": "Afet"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2136718",
@@ -1221,17 +1181,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/sberbanktan-44-milyar-dolarlik-rekor-net-kar-2136718"
       },
-      "konular": [
-        "Sberbank",
-        "Rusya ekonomisi",
-        "Bankacılık"
-      ],
+      "konular": [],
       "yayin": "2023-11-02T11:59:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Sberbank üçüncü çeyrekte rekor düzeyde kâr açıkladı",
-      "ozet": "Rusya merkezli finans kuruluşu Sberbank, yılın üçüncü çeyreğine dair mali verilerini paylaştı. Banka, söz konusu dönemde 411,4 milyar ruble seviyesine ulaşarak tarihinin en yüksek çeyrek kârını elde ettiğini duyurdu. Bu miktar yaklaşık 4,4 milyar dolara karşılık geldi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2136822",
@@ -1244,17 +1197,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/sampiyonlar-ligindeki-bust-krizinde-hukmen-maglup-karari-2136822"
       },
-      "konular": [
-        "AFC Şampiyonlar Ligi",
-        "Sepahan",
-        "El-İttihad"
-      ],
+      "konular": [],
       "yayin": "2023-11-02T15:52:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Asya Şampiyonlar Ligi karşılaşmasında hükmen mağlubiyet kararı",
-      "ozet": "Sepahan ile El-İttihad arasında oynanması planlanan Asya Şampiyonlar Ligi müsabakası, stadyumdaki Kasım Süleymani büstü sebebiyle gerçekleşemedi. Sahaya çıkmama kararı alan İran temsilcisi Sepahan, yaşanan bu durumun ardından hükmen mağlup sayıldı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1998842",
@@ -1267,17 +1213,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/ankara-kulisleri-kayniyor-erdogan-akpyi-artik-bir-yuk-olarak-gormeye-basladi-1998842"
       },
-      "konular": [
-        "Adalet ve Kalkınma Partisi",
-        "Recep Tayyip Erdoğan",
-        "Türkiye siyaseti"
-      ],
+      "konular": [],
       "yayin": "2022-11-02T11:55:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Ankara siyasetinde iktidar partisi üzerine yeni iddialar gündeme geldi",
-      "ozet": "Siyasi çevrelerde iktidar partisi içerisinde yaşanan ayrılıklar ve istifalar üzerine çeşitli değerlendirmeler yapıldı. Bu gelişmelerin ardından Cumhurbaşkanı Recep Tayyip Erdoğan'ın partisini bir sorumluluk olarak değerlendirmeye başladığına dair görüşler öne sürüldü. Başkentteki siyasi kulislerde konuşulan bu iddialar, parti içi dengelerin değiştiği yönünde yorumlandı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-1998691",
@@ -1290,17 +1229,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/erdogandan-milletvekilleri-ve-bakanlara-secime-kadar-enflasyon-ve-fahis-fiyatla-mucadele-edilmesi-talimati-1998691"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Türkiye ekonomisi",
-        "Enflasyon"
-      ],
+      "konular": [],
       "yayin": "2022-11-02T00:25:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Hükümetten enflasyon ve yüksek fiyatlarla mücadele kararı",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, milletvekilleri ve bakanlarla bir araya geldiği toplantıda önemli bir talimat verdi. Seçim sürecine kadar enflasyonun düşürülmesi ve fahiş fiyat artışlarının engellenmesi için yoğun bir çalışma yürütülmesi gerektiğini vurguladı. Bu doğrultuda ilgili birimlerin piyasa denetimlerini ve ekonomik tedbirleri artırması istendi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1881441",
@@ -1313,17 +1245,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/istanbulda-ekim-ayi-zam-sampiyonu-aciklandi-1881441"
       },
-      "konular": [
-        "İstanbul",
-        "Enflasyon",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2021-11-02T10:31:00+03:00",
       "puan": 13,
-      "durum": "elendi",
-      "baslik": "İstanbul piyasasında ekim ayının fiyat değişimleri belli oldu",
-      "ozet": "İstanbul genelinde tüketici fiyatları üzerinde yapılan incelemeler sonucunda ekim ayında en yüksek fiyat artışının mektup gönderim ücretlerinde yaşandığı belirlendi. Söz konusu hizmetin maliyeti yüzde 33,33 oranında yükseldi. Aynı dönem içerisinde fiyatı en çok düşüş gösteren ürün ise limon olarak kaydedildi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1881456",
@@ -1336,17 +1261,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/secimlere-dikkat-cekildi-akp-hukumeti-eytliler-ve-asgari-ucret-icin-harekete-gecti-1881456"
       },
-      "konular": [
-        "Emeklilikte Yaşa Takılanlar",
-        "Asgari ücret",
-        "Adalet ve Kalkınma Partisi"
-      ],
+      "konular": [],
       "yayin": "2021-11-02T11:05:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Hükümetten asgari ücret ve emeklilik düzenlemesi için yeni çalışma",
-      "ozet": "İktidar kanadı, asgari ücret seviyesinin belirlenmesi ve emeklilikte yaşa takılanların durumuna ilişkin yasal düzenlemeler üzerinde çalışma başlattı. Uluslararası haber kaynakları, bu girişimlerin yaklaşan seçim süreciyle bağlantılı olduğunu vurguladı. Söz konusu adımlar, ekonomik beklentiler ve sosyal haklar çerçevesinde kamuoyunun gündemine taşındı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1787802",
@@ -1359,16 +1277,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/milli-judocu-vedat-avrupa-sampiyonasi-ve-olimpiyatlarda-da-devam-1787802"
       },
-      "konular": [
-        "Vedat Albayrak",
-        "Judo"
-      ],
+      "konular": [],
       "yayin": "2020-11-02T10:17:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Milli judocu Vedat Albayrak yeni hedeflerini açıkladı",
-      "ozet": "İstanbul Büyükşehir Belediyespor bünyesinde yer alan milli judocu Vedat Albayrak, kariyerindeki başarı çıtasını yükseltmeyi hedeflediğini belirtti. Sporcu, önümüzdeki dönemde düzenlenecek Avrupa Şampiyonası ve olimpiyat oyunlarında madalya kazanmak için çalışmalarını sürdüreceğini ifade etti.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1787886",
@@ -1381,30 +1293,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yeni-zelandada-ilk-kez-yerli-halktan-bir-kadin-disisleri-bakanligina-atandi-1787886"
       },
-      "konular": [
-        "Nanaia Mahuta",
-        "Jacinda Ardern",
-        "Yeni Zelanda"
-      ],
+      "konular": [],
       "yayin": "2020-11-02T14:12:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Yeni Zelanda kabinesinde yerli halktan ilk kadın dışişleri bakanı",
-      "ozet": "Genel seçimlerde büyük bir başarı elde eden Başbakan Jacinda Ardern, yeni dönemde görev yapacak kabine üyelerini kamuoyuyla paylaştı. Bu kapsamda Dışişleri Bakanlığı görevine, Maori kökenli Nanaia Mahuta getirildi. Böylece ülkede ilk kez yerli bir kadın siyasetçi dışişleri bakanlığı makamında yer almış oldu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg/960px-New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg/500px-New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg",
-        "genislik": 960,
-        "yukseklik": 1200,
-        "orijinalGenislik": 1479,
-        "yazar": "Newzild",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg",
-        "aciklama": "New Zealand Prime Minister Jacinda Ardern, photographed in Tauranga, New Zealand, 29 August 2018.",
-        "konu": "Jacinda Ardern"
-      }
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1573014",
@@ -1417,16 +1309,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yapay-zekada-sampiyon-makine-1573014"
       },
-      "konular": [
-        "Yapay zeka"
-      ],
+      "konular": [],
       "yayin": "2019-11-02T10:29:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "Yapay zeka teknolojilerinde yeni dönem",
-      "ozet": "Yapay zeka alanı hem endüstriyel uygulamalar hem de akademik çalışmalar bakımından oldukça verimli bir süreçten geçiyor. Söz konusu teknoloji, bilimsel ilerlemelerin hız kazandığı ve sektörün gelişim gösterdiği bir evrede bulunuyor.",
-      "kategori": "Teknoloji",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1572995",
@@ -1439,30 +1325,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/rukiye-yildirim-avrupa-sampiyonu-1572995"
       },
-      "konular": [
-        "Rukiye Yıldırım",
-        "Tekvando",
-        "Avrupa Tekvando Şampiyonası"
-      ],
+      "konular": [],
       "yayin": "2019-11-02T00:02:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "Rukiye Yıldırım Avrupa Tekvando Şampiyonası'nda altın madalya kazandı",
-      "ozet": "Milli tekvandocu Rukiye Yıldırım, Avrupa Şampiyonası kapsamında çıktığı final müsabakasında rakibine üstünlük sağladı. Başarılı sporcu, karşılaşmayı kazanarak altın madalyanın sahibi oldu.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Rukiye_Y%C4%B1ld%C4%B1r%C4%B1m_-_2018_Europeans.jpg/960px-Rukiye_Y%C4%B1ld%C4%B1r%C4%B1m_-_2018_Europeans.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Rukiye_Y%C4%B1ld%C4%B1r%C4%B1m_-_2018_Europeans.jpg/500px-Rukiye_Y%C4%B1ld%C4%B1r%C4%B1m_-_2018_Europeans.jpg",
-        "genislik": 960,
-        "yukseklik": 1440,
-        "orijinalGenislik": 1828,
-        "yazar": "Министерство спорта Республики Татарстан",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Rukiye_Y%C4%B1ld%C4%B1r%C4%B1m_-_2018_Europeans.jpg",
-        "aciklama": "Rukiye Yıldırım - 2018 European Taekwondo Championships",
-        "konu": "Rukiye Yıldırım"
-      }
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1129965",
@@ -1475,17 +1341,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fenerbahceli-taraftar-derbide-hayatini-kaybetti-1129965"
       },
-      "konular": [
-        "Fenerbahçe (futbol takımı)",
-        "Galatasaray (futbol takımı)",
-        "Süper Lig"
-      ],
+      "konular": [],
       "yayin": "2018-11-02T21:59:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Fenerbahçe ve Galatasaray derbisinde taraftar vefat etti",
-      "ozet": "Fenerbahçe Spor Kulübü, Galatasaray ile oynanan müsabakayı takip etmek üzere stadyuma gelen bir taraftarın kalp krizi geçirdiğini duyurdu. Yapılan açıklamada, sağlık sorunu yaşayan taraftarın tüm müdahalelere rağmen kurtarılamadığı belirtildi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1129258",
@@ -1498,17 +1357,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/galatasaray-fenerbahce-derbisi-sahadan-once-sosyal-medyada-basladi-1129258"
       },
-      "konular": [
-        "Galatasaray-Fenerbahçe derbisi",
-        "Süper Lig",
-        "Sosyal medya"
-      ],
+      "konular": [],
       "yayin": "2018-11-02T11:59:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Galatasaray ve Fenerbahçe derbisi öncesi sosyal medya hareketliliği",
-      "ozet": "Süper Lig'in on birinci haftasında oynanacak Galatasaray ve Fenerbahçe karşılaşması öncesinde iki kulüp arasında dijital ortamda etkileşim yaşandı. Takımların resmi sosyal medya hesapları üzerinden yaptıkları paylaşımlar, akşam saatlerinde gerçekleşecek derbi mücadelesi öncesinde taraftarların dikkatini çekti.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-625268",
@@ -1521,30 +1373,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fed-faiz-kararini-acikladi-625268"
       },
-      "konular": [
-        "Federal Rezerv",
-        "Faiz oranı",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2016-11-02T21:06:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Amerikan Merkez Bankası faiz oranlarını sabit tuttu",
-      "ozet": "Amerikan Merkez Bankası, merakla beklenen faiz toplantısını tamamladı. Kurum, piyasa beklentileriyle uyumlu bir şekilde faiz oranlarında herhangi bir değişikliğe gitmeme kararı aldı.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Malawi_interest_rates.JPG",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Malawi_interest_rates.JPG",
-        "genislik": 648,
-        "yukseklik": 486,
-        "orijinalGenislik": 648,
-        "yazar": "Brian Dell Bdell555",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Malawi_interest_rates.JPG",
-        "aciklama": "Advertised interest rates inside the Malawi Savings Bank branch in Ncahlo, Malawi on 30 Sept 2008.",
-        "konu": "Faiz oranı"
-      }
+      "durum": "haber"
     },
     {
       "id": "2016-haber-624905",
@@ -1557,30 +1389,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/avrupa-birliginden-cumhuriyet-aciklamasi-erdoganin-hatasi-olur-624905"
       },
-      "konular": [
-        "Cumhuriyet (gazete)",
-        "Avrupa Birliği",
-        "Türkiye-Avrupa Birliği ilişkileri"
-      ],
+      "konular": [],
       "yayin": "2016-11-02T09:47:00+03:00",
       "puan": 6,
-      "durum": "yazildi",
-      "baslik": "Avrupa Birliği'nden Cumhuriyet gazetesi operasyonuna ilişkin uyarı",
-      "ozet": "Avrupa Birliği temsilcileri, Cumhuriyet gazetesine ve basın kuruluşlarına yönelik gerçekleştirilen müdahalelerin Türkiye ile yürütülen vize serbestisi sürecini olumsuz etkileyebileceğini belirtti. Yetkililer, bu tür uygulamaların gelecek yıl hayata geçirilmesi planlanan vize muafiyeti takvimine zarar verebileceği konusunda görüş bildirdi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/1931_T%C3%BCrkiye_G%C3%BCzeli_Na%C5%9Fide_Saffet_Han%C4%B1m.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/1931_T%C3%BCrkiye_G%C3%BCzeli_Na%C5%9Fide_Saffet_Han%C4%B1m.jpg",
-        "genislik": 629,
-        "yukseklik": 883,
-        "orijinalGenislik": 629,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:1931_T%C3%BCrkiye_G%C3%BCzeli_Na%C5%9Fide_Saffet_Han%C4%B1m.jpg",
-        "aciklama": "Miss Turkey 1931 Naşide Saffet Hanım, newsreport at Cumhuriyet newspaper",
-        "konu": "Cumhuriyet (gazete)"
-      }
+      "durum": "haber"
     },
     {
       "id": "2015-haber-403677",
@@ -1593,17 +1405,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/mhpde-secim-catlagi-buyuyor-bir-istifa-daha-403677"
       },
-      "konular": [
-        "Milliyetçi Hareket Partisi",
-        "Erzurum",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2015-11-02T22:19:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Milliyetçi Hareket Partisi teşkilatlarında istifa süreci devam ediyor",
-      "ozet": "Seçim sonuçlarının ardından Milliyetçi Hareket Partisi bünyesinde yaşanan ayrılıklar sürüyor. Daha önce Çanakkale ve Balıkesir'deki il ve ilçe başkanlarının görevlerini bırakmasının ardından Erzurum'dan da benzer bir haber geldi. Narman İlçe Başkanı Seyfullah Kılıç, seçim neticelerini gerekçe göstererek görevinden ayrıldığını duyurdu.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2014-haber-136559",
@@ -1616,17 +1421,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-pirlo-boyle-istedi-136559"
       },
-      "konular": [
-        "Serie A",
-        "Juventus FC",
-        "Empoli FC"
-      ],
+      "konular": [],
       "yayin": "2014-11-02T10:02:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Juventus Empoli deplasmanında galibiyete ulaştı",
-      "ozet": "İtalya Serie A liginin onuncu haftasında Juventus, Carlo Castellani Stadyumu'nda Empoli ile karşı karşıya geldi. Müsabakayı iki golle kazanan Juventus, puan durumundaki liderlik konumunu korumayı başardı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2013-haber-5605",
@@ -1639,16 +1437,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fenerbahcede-kotu-sohret-oylamasi-5605"
       },
-      "konular": [
-        "Fenerbahçe (futbol takımı)",
-        "Fenerbahçe Spor Kulübü"
-      ],
+      "konular": [],
       "yayin": "2013-11-02T13:50:00+03:00",
       "puan": 4,
-      "durum": "elendi",
-      "baslik": "Fenerbahçe Yönetiminde Üyelerin Kararı Belirleyici Oldu",
-      "ozet": "Fenerbahçe bünyesinde görev yapan üç yöneticinin geleceği hakkında nihai kararı genel kurul üyeleri verdi. Yapılan oylama sonucunda söz konusu isimlerin görevlerine devam etmelerinin önündeki tüm engeller kaldırıldı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-380624",
@@ -1661,17 +1453,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-erdogandan-onkibara-tazminat-davasi-380624"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Aydınlık (gazete)",
-        "Sabahattin Önkibar"
-      ],
+      "konular": [],
       "yayin": "2012-11-02T15:40:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Başbakan Erdoğan'dan Aydınlık Gazetesi'ne tazminat davası",
-      "ozet": "Başbakan Recep Tayyip Erdoğan, Aydınlık Gazetesi'nde yayımlanan bir köşe yazısı nedeniyle yasal yollara başvurdu. Yazıda kişilik haklarının ihlal edildiğini belirten Erdoğan, yazar Sabahattin Önkibar, gazetenin yönetim kurulu başkanı Mehmet Sabuncu ve gazete tüzel kişiliğine yönelik 100 bin liralık manevi tazminat davası açtı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-380522",
@@ -1684,30 +1469,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/abd-baskanlik-secimlerinde-ateskes-sona-erdi-380522"
       },
-      "konular": [
-        "2012 Amerika Birleşik Devletleri başkanlık seçimleri",
-        "Barack Obama",
-        "Mitt Romney"
-      ],
+      "konular": [],
       "yayin": "2012-11-02T10:03:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "ABD seçimlerinde kampanya süreci yeniden hız kazandı",
-      "ozet": "Sandy kasırgasının yarattığı olumsuz etkiler nedeniyle başkanlık yarışı için verilen kısa süreli ara sona erdi. Barack Obama ve rakibi Mitt Romney, çalışmalarına kaldıkları yerden devam ederek birbirlerine yönelik sert eleştirilerini sürdürdükleri seçim turlarına geri döndü. Adaylar, kasırga sonrası normalleşen süreçle birlikte yeniden yoğun bir kampanya dönemine girdi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Barack_Obama_2012_%284x5%29.png/960px-Barack_Obama_2012_%284x5%29.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Barack_Obama_2012_%284x5%29.png/500px-Barack_Obama_2012_%284x5%29.png",
-        "genislik": 960,
-        "yukseklik": 1200,
-        "orijinalGenislik": 2400,
-        "yazar": "Official White House Photo by Pete Souza",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Barack_Obama_2012_(4x5).png",
-        "aciklama": "U.S. President Barack Obama's official photograph in the Oval Office on 6 December 2012.",
-        "konu": "2012 Amerika Birleşik Devletleri başkanlık seçimleri"
-      }
+      "durum": "haber"
     },
     {
       "id": "2011-haber-295192",
@@ -1720,30 +1485,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/meclis-nc-kararini-tartisiyor-295192"
       },
-      "konular": [
-        "N.Ç. davası",
-        "Binnaz Toprak",
-        "TBMM"
-      ],
+      "konular": [],
       "yayin": "2011-11-02T13:09:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "N.Ç davasındaki Yargıtay kararı Meclis gündemine taşındı",
-      "ozet": "TBMM Kadın Erkek Fırsat Eşitliği Komisyonu Başkanvekili Binnaz Toprak, on üç yaşındaki bir çocuğun mağdur olduğu davada Yargıtay tarafından alınan kararı eleştirdi. Söz konusu hükmün vicdani açıdan kabul edilemez olduğunu vurgulayan Toprak, kamuoyunun bu duruma karşı daha duyarlı olması gerektiğini ifade etti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Binnaz_Toprak_%28cropped%29.jpg/960px-Binnaz_Toprak_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Binnaz_Toprak_%28cropped%29.jpg/500px-Binnaz_Toprak_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1235,
-        "orijinalGenislik": 1236,
-        "yazar": "Heinrich-Böll-Stiftung from Berlin, Deutschland",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Binnaz_Toprak_(cropped).jpg",
-        "aciklama": "Außenpolitische Jahrestagung: Demokratie und Sicherheit im Nahen Osten Wie antworten Deutschland und die EU auf die Umwälzungen im arabischen Raum? 13. Außenpolitische Jahrestagung 08. November: 16.30",
-        "konu": "Binnaz Toprak"
-      }
+      "durum": "haber"
     },
     {
       "id": "2011-haber-295180",
@@ -1756,30 +1501,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/12-antalya-piyano-festivali-kasimda-basliyor-295180"
       },
-      "konular": [
-        "Antalya Piyano Festivali",
-        "Fazıl Say",
-        "Antalya"
-      ],
+      "konular": [],
       "yayin": "2011-11-02T12:20:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "12. Uluslararası Antalya Piyano Festivali İçin Hazırlıklar Tamamlandı",
-      "ozet": "Antalya Büyükşehir Belediyesi tarafından organize edilen ve sanat yönetmenliği görevini Fazıl Say'ın üstlendiği 12. Uluslararası Antalya Piyano Festivali'nin tarihleri belli oldu. Etkinlik, 25 Kasım ile 17 Aralık tarihleri arasında sanatseverlerle buluşacak.",
-      "kategori": "Sanat",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Faz%C4%B1l_Say_recording_at_Mozarteum_Salzburg_in_2019.jpg/960px-Faz%C4%B1l_Say_recording_at_Mozarteum_Salzburg_in_2019.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Faz%C4%B1l_Say_recording_at_Mozarteum_Salzburg_in_2019.jpg/500px-Faz%C4%B1l_Say_recording_at_Mozarteum_Salzburg_in_2019.jpg",
-        "genislik": 960,
-        "yukseklik": 1280,
-        "orijinalGenislik": 3024,
-        "yazar": "Eren Yagmuroglu",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Faz%C4%B1l_Say_recording_at_Mozarteum_Salzburg_in_2019.jpg",
-        "aciklama": "Fazıl Say recording at Mozarteum Salzburg in 2019",
-        "konu": "Fazıl Say"
-      }
+      "durum": "haber"
     }
   ],
   "haberYillari": [

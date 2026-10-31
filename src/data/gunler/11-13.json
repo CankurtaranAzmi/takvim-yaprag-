@@ -1075,5 +1075,488 @@
     "url": "https://tr.wikipedia.org/wiki/13_Kas%C4%B1m",
     "revid": 36528342
   },
-  "guncelleme": "2026-10-21T21:27:16.776Z"
+  "guncelleme": "2026-10-21T21:27:16.776Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2452205",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Çalışma ve Sosyal Güvenlik Bakanlığı’nın 2026 bütçesi iktidar oylarıyla kabul edildi: Emekçinin sesi duyulmadı",
+      "aciklama": "Emeklilerin, asgari ücretlilerin, esnafın ve kadınların taleplerini içeren önergeler reddedildi. AKP’li vekiller, “İş kazalarında sıfır ölüm hedefine ulaşamadık” diyerek itirafta bulundu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/calisma-ve-sosyal-guvenlik-bakanligi-nin-2026-butcesi-iktidar-oylariyla-kabul-edildi-emekcinin-sesi-duyulmadi-2452205"
+      },
+      "konular": [],
+      "yayin": "2025-11-13T04:00:00+03:00",
+      "puan": 14,
+      "durum": "haber"
+    },
+    {
+      "id": "2025-haber-2452374",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Meclis Başkanı Kurtulmuş’tan İYİ Partili Usta’ya 3 kuruşluk dava",
+      "aciklama": "TBMM Başkanı Numan Kurtulmuş, Plan ve Bütçe Komisyonu’ndaki sözleri nedeniyle İYİ Parti Genel Başkan Yardımcısı Erhan Usta’ya üç kuruşluk manevi tazminat davası açtı. Usta, Meclis’te yaptığı açıklamada, “Bu dava Kurtulmuş’un şahsına yakışmıştır ama Meclis Başkanlığı makamına yakı",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/tbmm-baskani-numan-kurtulmus-tan-iyi-partili-erhan-usta-ya-uc-kurusluk-tazminat-davasi-2452374"
+      },
+      "konular": [],
+      "yayin": "2025-11-13T16:09:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2268151",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "NBA şampiyonu Erik Spoelstra’dan maç kaybettiren tarihi hata!",
+      "aciklama": "Amerikan Ulusal Basketbol Ligi (NBA) ekibi Miami Heat'in başantrenörü Erik Spoelstra, Detroit Pistons karşılaşmasında yaptığı hata ile takımının mağlup olmasına neden oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/nba-sampiyonu-erik-spoelstradan-mac-kaybettiren-tarihi-hata-2268151"
+      },
+      "konular": [],
+      "yayin": "2024-11-13T12:03:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2268382",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Eczacıbaşı Dynavit, Şampiyonlar Ligi'nde 2'de 2 yaptı!",
+      "aciklama": "Eczacıbaşı Dynavit Kadın Voleybol Takımı, CEV Şampiyonlar Ligi B Grubu'nun 2. haftasında konuk olduğu Almanya temsilcisi SSC Palmberg'i 3-0 yendi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/eczacibasi-dynavit-sampiyonlar-liginde-2de-2-yapti-2268382"
+      },
+      "konular": [],
+      "yayin": "2024-11-13T22:21:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2140453",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Yargı tartışması piyasa gündeminde... Dolar ve Euro ne kadar oldu? 13 Kasım 2023 döviz fiyatları",
+      "aciklama": "Dolar/TL tarihi zirvelerinde günlük sınırlı yükseliş eğilimine devam ederken, Yargıtay’ın bugüne kadar benzeri görülmemiş bir adım atarak, AYM üyeleri hakkında suç duyurusunda bulunma kararıyla yargıya güven endişesi alevlendi; analistlere göre oluşturulmaya çalışılan uluslararar",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/yargi-tartismasi-piyasa-gundeminde-dolar-ve-euro-ne-kadar-oldu-13-2140453"
+      },
+      "konular": [],
+      "yayin": "2023-11-13T09:57:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2140666",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Reklam engelleyicileri kısıtlamasından dolayı YouTube'a dava açıldı: Kullanıcılarını izliyor",
+      "aciklama": "Dünyanın en popüler video izleme platformlarından biri olan YouTube'a reklam engelleyicilerin kullanılmasını engellemek için ciddi adımlar atmıştı. Şimdi ise YouTube'a bu sebepten dolayı kullanıcılarını izlediği için dava açıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/reklam-engelleyicileri-kisitlamasindan-dolayi-youtubea-dava-acildi-2140666"
+      },
+      "konular": [],
+      "yayin": "2023-11-13T16:31:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-2002439",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Kanada'nın Dünya Kupası kadrosu belli oldu: Beşiktaşlı futbolcu da yer buldu",
+      "aciklama": "Kanada Milli Futbol Takımı, Katar'da düzenlenecek 2022 FIFA Dünya Kupası kadrosunu açıkladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/kanadanin-dunya-kupasi-kadrosu-belli-oldu-besiktasli-futbolcu-da-yer-buldu-2002439"
+      },
+      "konular": [],
+      "yayin": "2022-11-13T20:03:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-2002239",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Avrupa Yaş Grupları Şampiyonası: 'Kaybetmek de kazanmak da keyifli'",
+      "aciklama": "Türkiye Satranç Federasyonu (TSF) ve Avrupa Satranç Birliği’nin etkinlik takviminde yer alan Avrupa Yaş Grupları Satranç Şampiyonası, Antalya’da devam ediyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/avrupa-yas-gruplari-sampiyonasi-kaybetmek-de-kazanmak-da-keyifli-2002239"
+      },
+      "konular": [],
+      "yayin": "2022-11-13T02:00:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1884523",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Milli takım gol oldu yağdı, Katar rotasına girdi!",
+      "aciklama": "ANALİZ - Gol olup yağmak derler ya, kırmızı kart sonrası Cebelitarık bir çözüldü, pir çözüldü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/milli-takim-gol-oldu-yagdi-katar-rotasina-girdi-1884523"
+      },
+      "konular": [],
+      "yayin": "2021-11-13T21:29:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1884502",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Genç kick boksçulardan Avrupa Şampiyonası'nda 44 madalya",
+      "aciklama": "Türkiye, Avrupa Gençler Kick Boks Şampiyonası'nda 9'u altın toplam 44 madalya kazandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/genc-kick-boksculardan-avrupa-sampiyonasinda-44-madalya-1884502"
+      },
+      "konular": [],
+      "yayin": "2021-11-13T20:18:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1790815",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan AKP'li olmayı 'milli görev' ilan etti",
+      "aciklama": "Cumhurbaşkanı Recep Tayyip Erdoğan,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-akpli-olmayi-milli-gorev-ilan-etti-1790815"
+      },
+      "konular": [],
+      "yayin": "2020-11-13T16:02:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1790703",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Formula 1 şampiyonluk kupasında İstanbul detayı!",
+      "aciklama": "Üzerinde kültürümüzden esintiler taşıyan Formula 1 kupası, Intercity İstanbul Park’ta sahibini bulacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/formula-1-sampiyonluk-kupasinda-istanbul-detayi-1790703"
+      },
+      "konular": [],
+      "yayin": "2020-11-13T11:00:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1701765",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Türkiye için 5. Avrupa Şampiyonası yükleniyor !",
+      "aciklama": "A Milli Futbol Takımı, İzlanda maçında berabere kalsa bile 2020 Avrupa Futbol Şampiyonası biletini alacak. Milliler gruptan çıkmayı garantilemesi halinde 5. kez Avrupa Şampiyonası’nda yer alacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/turkiye-icin-5-avrupa-sampiyonasi-yukleniyor--1701765"
+      },
+      "konular": [],
+      "yayin": "2019-11-13T10:13:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1701898",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Olimpiyat şampiyonu kaza kurbanı",
+      "aciklama": "Avustralya Paralimpik Komitesi'nden yapılan açıklamaya göre Modra, ülkesinin Adelaide kentinin kuzeyindeki Kingsford semtinde bisiklete bindiği sırada araba çarpması sonucu hayata gözlerini yumdu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/olimpiyat-sampiyonu-kaza-kurbani-1701898"
+      },
+      "konular": [],
+      "yayin": "2019-11-13T16:50:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1139806",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Türkiye Ralli Şampiyonası’nda şampiyon belli oluyor",
+      "aciklama": "Ülkemizin en prestijli spor organizasyonlarından Türkiye Ralli Şampiyonası’nda şampiyon bu hafta sonu belli oluyor. 17-18 Kasım’da Kocaeli’nde gerçekleştirilecek yarış öncesi zirvede kıyasıya bir rekabet var. İstanbul’da düzenlenen son yarışı kazanan Red Bull sporcusu Yağız Avcı,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/turkiye-ralli-sampiyonasinda-sampiyon-belli-oluyor-1139806"
+      },
+      "konular": [],
+      "yayin": "2018-11-13T15:33:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1139250",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Müslüm filminden 17 günde rekor hasılat!",
+      "aciklama": "2013 yılında yaşamını yitiren usta sanatçı Müslüm Gürses'in hayatını anlatan 'Müslüm' filmini, 17 günde 3,5 milyon kişi izledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/muslum-filminden-17-gunde-rekor-hasilat-1139250"
+      },
+      "konular": [],
+      "yayin": "2018-11-13T09:05:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-865499",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ankara'da çok sayıda üst düzey bürokratın istifası kabul edildi",
+      "aciklama": "Ankara'da Büyükşehir Belediye Başkanlığı’na hızlı bir başlangıç yaparak tüm bürokratların istifasını isteyen Mustafa Tuna, beş bürokratın istifasını kabul etti. Öte yandan belediyeye bağlı bütün şirketlerdeki 100 yönetim kurulu üyesinin de istifaları istendi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ankarada-cok-sayida-ust-duzey-burokratin-istifasi-kabul-edildi-865499"
+      },
+      "konular": [],
+      "yayin": "2017-11-13T23:06:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-865338",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "KKTC’de seçim tarihi belli oldu",
+      "aciklama": "KKTC’de erken genel seçimin, 7 Ocak 2018’de yapılması kararlaştırıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/kktcde-secim-tarihi-belli-oldu-865338"
+      },
+      "konular": [],
+      "yayin": "2017-11-13T17:13:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-630304",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bulgaristan'ın yeni cumhurbaşkanı Rumen Radev: Demokrasi statükoyu yendi",
+      "aciklama": "Bulgaristan’da resmi olmayan sonuçlara göre, ana muhalefetteki Bulgaristan Sosyalist Partisi’nin (BSP) aday gösterdiği Rumen Radev, cumhurbaşkanı seçildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bulgaristanin-yeni-cumhurbaskani-rumen-radev-demokrasi-statukoyu-yendi-630304"
+      },
+      "konular": [],
+      "yayin": "2016-11-13T22:06:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-630164",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Galatasaray'da Yasin Öztekin için şok karar",
+      "aciklama": "Önce af sonra zam!Adanaspor deplasmanında oyundan alınınca formasını yere atıp kulübeyi yumruklayan Yasin Öztekin’e yönetim tarafından 1 maç ceza verilmişti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/galatasarayda-yasin-oztekin-icin-sok-karar-630164"
+      },
+      "konular": [],
+      "yayin": "2016-11-13T13:43:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-417167",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "HDP: Silvan'da Figen Yüksekdağ'ın üzerine ateş açıldı",
+      "aciklama": "Diyarbakır’ın Silvan ilçesinde 3 Kasım Salı günü ilan edilen sokağa çıkma yasağı 11’inci gününe girdi. Çatışmaların yaşandığı yasaklı bölgeye yürümek HDP heyetine polis müdahale etti. HDP'den yapılan açıklamada,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/hdp-silvanda-figen-yuksekdagin-uzerine-ates-acildi-417167"
+      },
+      "konular": [],
+      "yayin": "2015-11-13T15:11:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-416799",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Beşiktaş refaha ulaşıyor... 250 milyon dolarlık kredi",
+      "aciklama": "Borcu 1 milyar TL’ye yaklaşan Beşiktaş'ta yönetim, feraha çıkılacak formülü hazırladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/besiktas-refaha-ulasiyor-250-milyon-dolarlik-kredi-416799"
+      },
+      "konular": [],
+      "yayin": "2015-11-13T12:04:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-140167",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Suikast davası başladı: Amacım Erdoğan'ı vurmak değildi",
+      "aciklama": "Cumhurbaşkanı Tayyip Erdoğan'a Sultangazi Belediyesi Ek Hizmet binasının açılış töreninde suikast girişiminde bulunduğu iddia edilen Ferhat Yıldız'ın yargılanmasına başlandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/suikast-davasi-basladi-amacim-erdogani-vurmak-degildi-140167"
+      },
+      "konular": [],
+      "yayin": "2014-11-13T13:29:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-140029",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "'Zirve' davasında skandal: Hava kapandı sinyal gitti",
+      "aciklama": "'Zirve' davasında elektronik kelepçe skandalı yaşandığı ortaya çıktı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/zirve-davasinda-skandal-hava-kapandi-sinyal-gitti-140029"
+      },
+      "konular": [],
+      "yayin": "2014-11-13T09:50:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-9021",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Francis Bacon’ın yapıtına rekor fiyat",
+      "aciklama": "Francis Bacon’ın ‘Lucian Freud Üstüne Üç Çalışma’ adlı üçlemesi, bir müzayedede en yüksek fiyata satılan sanat yapıtı oldu. Daha önceki rekor 240 milyon TL ile Munch’un ‘Çığlık’ına aitti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/francis-baconin-yapitina-rekor-fiyat-9021"
+      },
+      "konular": [],
+      "yayin": "2013-11-13T18:12:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-9047",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Turkcell Teknoloji Zirvesi Cem Yılmaz’lı kapanış",
+      "aciklama": "Turkcell Teknoloji Zirvesi Cem Yılmaz’ın şovuyla son erdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/turkcell-teknoloji-zirvesi-cem-yilmazli-kapanis-9047"
+      },
+      "konular": [],
+      "yayin": "2013-11-13T21:54:00+03:00",
+      "puan": 5,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-383192",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Başbakanlık'taki güvenlik zirvesi sona erdi",
+      "aciklama": "Başbakan Recep Tayyip Erdoğan başkanlığındaki güvenlik değerlendirme toplantısı sona erdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbakanliktaki-guvenlik-zirvesi-sona-erdi-383192"
+      },
+      "konular": [],
+      "yayin": "2012-11-13T10:57:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-383248",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "2 Temmuz Parkı, Yaşam Evi ve Spor Kompleksi'nin açıldı",
+      "aciklama": "Sarıyer Belediyesi tarafından yapımı tamamlanan 2 Temmuz Parkı, Yaşam Evi ve Spor Kompleksi'nin açılış geçtiğimiz günlerde törenle gerçekleştirildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/2-temmuz-parki-yasam-evi-ve-spor-kompleksinin-acildi-383248"
+      },
+      "konular": [],
+      "yayin": "2012-11-13T13:07:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-297688",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Büyükler Dünya Halter Şampiyonası sona erdi",
+      "aciklama": "Fransa'nın başkenti Paris'te yapılan Büyükler Dünya Halter Şampiyonası erkekler artı 105 kilo müsabakasıyla sona erdi. İranlı sporcu Behdad Salimikordasiabi koparma, silkme ve toplamda dünya şampiyonluğuna ulaşırken, koparmada ayrıca dünya rekorunu da kırdı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/buyukler-dunya-halter-sampiyonasi-sona-erdi-297688"
+      },
+      "konular": [],
+      "yayin": "2011-11-13T21:54:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }
