@@ -9,10 +9,10 @@
       "konular": [
         "Diocletianus"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Diocletianus'un Roma İmparatorluğu'nda İktidara Gelişi",
+      "ozet": "Roma ordusunun desteğini arkasına alan Diocletianus, 284 yılının Kasım ayında imparatorluğunu ilan ederek Roma tarihinin en çalkantılı dönemlerinden biri olan Üçüncü Yüzyıl Krizi'ne son veren süreci başlattı. İmparatorluğun tamamında mutlak hakimiyetini kurması yaklaşık bir yıl sürmüş olsa da, bu hamle Roma'nın siyasi geleceğini kökten değiştirecek bir dönemin başlangıcı oldu. Diocletianus, imparatorluk yönetimini yeniden şekillendirerek otokratik bir yapı kurdu ve devletin idari, ekonomik ve askeri yapısında derin reformlara gitti. Onun döneminde hayata geçirilen Tetrarşi sistemi, imparatorluğun Doğu ve Batı olarak yönetilmesinin yolunu açtı. Bu reformlar, imparatorluğun parçalanma tehlikesiyle karşı karşıya olduğu bir dönemde devletin ömrünü bir yüzyıl daha uzatmasını sağladı. Diocletianus'un iktidarı, Augustus döneminden beri süregelen Principate sisteminin yerini Dominate dönemine bırakmasıyla Roma tarihinde yeni bir sayfa açtı. Onun yönetim anlayışı, imparatorluğun merkezi otoritesini güçlendirerek kaos ortamını dindirdi ve Roma'nın kurumsal yapısını uzun vadeli bir istikrara kavuşturdu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Istanbul_-_Museo_archeol._-_Diocleziano_%28284-305_d.C.%29_-_Foto_G._Dall%27Orto_28-5-2006.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Istanbul_-_Museo_archeol._-_Diocleziano_%28284-305_d.C.%29_-_Foto_G._Dall%27Orto_28-5-2006.jpg",
@@ -25,7 +25,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Istanbul_-_Museo_archeol._-_Diocleziano_(284-305_d.C.)_-_Foto_G._Dall%27Orto_28-5-2006.jpg",
         "aciklama": "Istanbul - Archaeological Museum - Statue head of the Roman emperor Diocletian (284-305 AD)",
         "konu": "Diocletianus"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1558-ingiltere-kralicesi-i-elizabeth-tahta-cikti",
@@ -34,10 +35,10 @@
       "konular": [
         "I. Elizabeth"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İngiltere'de Elizabeth Dönemi'nin Başlangıcı",
+      "ozet": "İngiltere ve İrlanda Kraliçesi I. Elizabeth, 1558 yılının Kasım ayında üvey kız kardeşi Mary'nin ölümü üzerine Tudor Hanedanı'nın son hükümdarı olarak tahta oturdu. VIII. Henry ve Anne Boleyn'in kızı olan Elizabeth, tahta çıkmadan önce oldukça çalkantılı bir süreçten geçmiş, hatta üvey kardeşinin saltanatı sırasında Protestan isyancılarla ilişkisi olduğu şüphesiyle hapsedilmişti. Ancak bu zorlu dönemin ardından gelen tahta çıkışı, İngiltere tarihinde yeni bir dönemin kapılarını araladı.\n\nElizabeth'in hükümdarlığı, İngiltere'nin siyasi ve dini yapısında köklü değişikliklerin yaşandığı bir süreç oldu. Kraliçe, William Cecil gibi deneyimli danışmanların desteğiyle ülkesini yönetirken, ilk icraatlarından biri olarak İngiliz Protestan Kilisesi'ni kurdu. \"Bakire Kraliçe\" olarak da anılan Elizabeth, evlenmemeyi tercih ederek otoritesini tek başına korumayı başardı. Onun döneminde İngiltere, Avrupa'da önemli bir güç haline gelmiş ve kültürel anlamda büyük bir yükseliş yaşamıştır. Elizabeth'in 1603 yılındaki ölümüne kadar süren saltanatı, İngiliz tarihinin en parlak dönemlerinden biri olarak kabul edilir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Darnley_stage_3.jpg/960px-Darnley_stage_3.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Darnley_stage_3.jpg/500px-Darnley_stage_3.jpg",
@@ -50,7 +51,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Darnley_stage_3.jpg",
         "aciklama": "The \"Darnley Portrait\" of Elizabeth I of England. It was named after a previous owner. Probably painted from life, this portrait is the source of the face pattern called \"The Mask of Youth\" which woul",
         "konu": "I. Elizabeth"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1869-akdenizi-kizildenize-baglayan-suveys-kanali-gorkemli-bir",
@@ -61,51 +63,24 @@
         "Kızıldeniz",
         "Süveyş Kanalı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Dünya Ticaretini Değiştiren Süveyş Kanalı Açıldı",
+      "ozet": "Mısır topraklarında inşa edilen Süveyş Kanalı, Akdeniz ile Kızıldeniz'i birbirine bağlayarak denizcilik tarihinde yeni bir dönemi başlattı. Osmanlı İmparatorluğu idaresi altındaki Mısır'da gerçekleştirilen bu devasa mühendislik projesi, Avrupa ile Asya arasındaki deniz yolculuğunu binlerce kilometre kısaltarak küresel ticaretin çehresini kökten değiştirdi. Kanalın açılışı, o dönemde dünya ekonomisi ve lojistik ağları üzerinde devrim niteliğinde bir etki yarattı.\n\nKanalın tamamlanması, gemilerin Afrika kıtasını dolaşma zorunluluğunu ortadan kaldırarak ulaşım maliyetlerini düşürdü ve ticaretin hızlanmasını sağladı. Stratejik konumu nedeniyle açıldığı günden bu yana uluslararası siyasetin ve deniz ticaretinin en kritik noktalarından biri haline gelen Süveyş Kanalı, günümüzde de dünya deniz taşımacılığının en önemli arterlerinden biri olma özelliğini korumaktadır.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Mediterranean_Sea_16.61811E_38.99124N.jpg/960px-Mediterranean_Sea_16.61811E_38.99124N.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Mediterranean_Sea_16.61811E_38.99124N.jpg/500px-Mediterranean_Sea_16.61811E_38.99124N.jpg",
-        "genislik": 960,
-        "yukseklik": 702,
-        "orijinalGenislik": 2046,
-        "yazar": "of the modification : Eric Gaba (Sting)",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Mediterranean_Sea_16.61811E_38.99124N.jpg",
-        "aciklama": "Satellite caption of the Mediterranean Sea.",
-        "konu": "Akdeniz"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Canal_de_Suez.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Canal_de_Suez.jpg",
+        "genislik": 836,
+        "yukseklik": 794,
+        "orijinalGenislik": 836,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 2.5",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.5",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Canal_de_Suez.jpg",
+        "aciklama": null,
+        "konu": "Süveyş Kanalı"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Mediterranean_Sea_16.61811E_38.99124N.jpg/960px-Mediterranean_Sea_16.61811E_38.99124N.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Mediterranean_Sea_16.61811E_38.99124N.jpg/500px-Mediterranean_Sea_16.61811E_38.99124N.jpg",
-          "genislik": 960,
-          "yukseklik": 702,
-          "orijinalGenislik": 2046,
-          "yazar": "of the modification : Eric Gaba (Sting)",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mediterranean_Sea_16.61811E_38.99124N.jpg",
-          "aciklama": "Satellite caption of the Mediterranean Sea.",
-          "konu": "Akdeniz"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Canal_de_Suez.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Canal_de_Suez.jpg",
-          "genislik": 836,
-          "yukseklik": 794,
-          "orijinalGenislik": 836,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "CC BY 2.5",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.5",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Canal_de_Suez.jpg",
-          "aciklama": null,
-          "konu": "Süveyş Kanalı"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1877-rus-birlikleri-karsa-saldirdi",
@@ -114,23 +89,12 @@
       "konular": [
         "Kars"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Kars_collage_1.JPG",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Kars_collage_1.JPG",
-        "genislik": 640,
-        "yukseklik": 516,
-        "orijinalGenislik": 640,
-        "yazar": "Kars Church Of The Apostles 2009.JPG: Bjørn Christian Tørrissen Kars Kalesi1.jpg: Sabri76 Kars Panorama.JPG: Bjørn Christian Tørrissen",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Kars_collage_1.JPG",
-        "aciklama": "Collage of Kars",
-        "konu": "Kars"
-      }
+      "baslik": "Kars Kuşatması ve Rus Birliklerinin Şehre Saldırısı",
+      "ozet": "1877 yılının Kasım ayında, 93 Harbi olarak bilinen Osmanlı-Rus Savaşı'nın en kritik cephelerinden biri olan Kars'ta şiddetli çatışmalar yaşandı. Rus ordusu, stratejik öneme sahip olan ve Kafkasya'nın anahtarı olarak görülen Kars kalesini ele geçirmek amacıyla kapsamlı bir saldırı harekâtı başlattı. Uzun süredir devam eden kuşatma, bu saldırıyla birlikte nihai bir aşamaya taşındı.\n\nKars, tarih boyunca hem Osmanlı İmparatorluğu hem de Rus İmparatorluğu için stratejik bir sınır kalesi olma özelliği taşıyordu. Şehrin düşmesi, bölgedeki Osmanlı savunma hattının çökmesi ve Rusların Anadolu içlerine doğru ilerlemesinin önünün açılması anlamına geliyordu. Bu saldırı, bölgedeki askeri dengeleri kökten değiştiren ve savaşın seyrini Rusya lehine çeviren önemli bir dönüm noktası oldu. Kars'ın kaybı, Osmanlı İmparatorluğu'nun Kafkasya cephesindeki savunma gücünü büyük ölçüde zayıflattı ve savaşın sonunda imzalanan antlaşmalarla bölgedeki egemenlik yapısının değişmesine zemin hazırladı.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1914-i-dunya-savasinda-rus-imparatorlugu-tarafindan-trabzon",
@@ -141,23 +105,12 @@
         "Rus İmparatorluğu",
         "Trabzon Bombardımanı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
-        "genislik": 960,
-        "yukseklik": 974,
-        "orijinalGenislik": 1300,
-        "yazar": "User:Hohum",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:WWImontage.jpg",
-        "aciklama": "Montage for WWI article. Top: Trenches - Image:The_badly_shelled_main_road_to_Bapaume.jpg (Trenches on the Western Front) Left Upper: Image:AlbatDIII.jpg (German Albatros D.III biplane fighters of Jas",
-        "konu": "I. Dünya Savaşı"
-      }
+      "baslik": "I. Dünya Savaşı'nda Trabzon Bombardımanı",
+      "ozet": "Birinci Dünya Savaşı'nın başlamasının ardından Osmanlı İmparatorluğu ile Rusya arasındaki gerilim, Karadeniz kıyılarında sıcak çatışmalara dönüştü. 17 Kasım 1914 sabahı, Rus İmparatorluğu donanmasına bağlı 19 parçalık büyük bir filo, Trabzon şehrini hedef alarak bombardımana başladı. Beş zırhlı, iki kruvazör, altı destroyer ve altı torpidodan oluşan bu güçlü deniz kuvveti, şehrin stratejik noktalarına ve liman tesislerine yönelik yoğun bir saldırı gerçekleştirdi.\n\nBu saldırı, savaşın Karadeniz cephesindeki ilk önemli askeri hareketliliklerden biri olarak kayıtlara geçti. Trabzon'un bombalanması, bölgedeki sivil halk üzerinde büyük bir tedirginlik yaratırken, Osmanlı İmparatorluğu'nun Karadeniz'deki savunma stratejilerini de doğrudan etkiledi. Rus donanmasının bu hamlesi, savaş boyunca Karadeniz'de sürecek olan deniz hakimiyeti mücadelesinin ve bölgedeki liman şehirlerinin maruz kalacağı saldırıların bir habercisi niteliğindeydi. Şehir, bu saldırıyla birlikte savaşın yıkıcı etkilerini doğrudan hisseden yerleşim yerlerinden biri haline geldi.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1918-ingilizler-bakuyu-isgal-ettiler",
@@ -166,23 +119,12 @@
       "konular": [
         "Bakü"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Baku_Montage.jpg/960px-Baku_Montage.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Baku_Montage.jpg/500px-Baku_Montage.jpg",
-        "genislik": 960,
-        "yukseklik": 1317,
-        "orijinalGenislik": 1948,
-        "yazar": "See above. Compilation by Interfase",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Baku_Montage.jpg",
-        "aciklama": "Montage of pictures of Baku used for the specific article. Composition of these pictures:",
-        "konu": "Bakü"
-      }
+      "baslik": "İngiliz Kuvvetlerinin Bakü'yü İşgali",
+      "ozet": "Birinci Dünya Savaşı'nın sona ermesiyle birlikte Kafkasya bölgesindeki güç dengeleri hızla değişmeye başladı. Mondros Mütarekesi'nin ardından İngiliz birlikleri, stratejik öneme sahip olan ve petrol kaynaklarıyla dikkat çeken Bakü şehrine girerek kontrolü ele aldı. Bu hamle, bölgedeki Osmanlı ve Alman nüfuzunu kırmak ve Hazar Denizi üzerindeki hakimiyeti pekiştirmek amacıyla gerçekleştirildi.\n\nBakü'nün işgali, bölgedeki siyasi belirsizliğin arttığı bir dönemde gerçekleşti. Şehir, hem liman kapasitesi hem de sanayi potansiyeliyle Kafkasya'nın en önemli merkezlerinden biri konumundaydı. İngilizlerin şehre girişi, Azerbaycan'ın bağımsızlık sürecinde ve bölgenin geleceğinin şekillenmesinde kritik bir dönüm noktası oluşturdu. Bu işgal, aynı zamanda bölgedeki askeri varlıkların yeniden düzenlenmesine ve uluslararası güçlerin Kafkasya üzerindeki rekabetinin yeni bir evreye girmesine neden oldu.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1922-sibirya-sovyetler-birligine-katildi",
@@ -192,10 +134,10 @@
         "Sibirya",
         "Sovyetler Birliği"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Sibirya'nın Sovyetler Birliği'ne Katılımı",
+      "ozet": "Rus İç Savaşı'nın ardından bölgedeki siyasi otoriteyi sağlamlaştıran Bolşevik yönetimi, 17 Kasım 1922 tarihinde Sibirya'nın Sovyetler Birliği'ne resmen dahil edildiğini ilan etti. Bu gelişme, Ural Dağları'ndan Büyük Okyanus'a kadar uzanan geniş coğrafyanın, yeni kurulan merkeziyetçi Sovyet devlet yapısı içerisinde idari ve siyasi olarak bütünleşmesini temsil ediyordu. Rus İmparatorluğu'nun dağılmasıyla ortaya çıkan otorite boşluğu, bu kararla birlikte Moskova merkezli tek partili sistemin kontrolü altına girdi.\n\nSibirya'nın Sovyet yönetimine geçişi, bölgenin sahip olduğu devasa doğal kaynakların ve stratejik konumun Sovyetler Birliği'nin ekonomik ve askeri planlamasına dahil edilmesi açısından kritik bir dönüm noktasıydı. Bu entegrasyon, bölgenin ilerleyen yıllarda sanayileşme hamleleri ve zorunlu yerleşim politikalarıyla yeniden şekillenmesinin önünü açtı. Sovyetler Birliği'nin Avrasya genelindeki hakimiyetini pekiştiren bu adım, aynı zamanda bölgedeki yerel yönetimlerin tasfiye edilerek merkezi otoriteye tam bağımlı hale getirilmesi sürecini tamamladı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Siberia-FederalSubjects.png/960px-Siberia-FederalSubjects.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Siberia-FederalSubjects.png/500px-Siberia-FederalSubjects.png",
@@ -208,7 +150,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Siberia-FederalSubjects.png",
         "aciklama": "Map of Russian federal subjects belonging to Siberia. Siberian Federal District, Geographic Russian Siberia, Asian part of Russia.",
         "konu": "Sibirya"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1922-son-osmanli-padisahi-vi-mehmet-vahdettin-istanbulu",
@@ -246,10 +189,10 @@
         "Şarköy",
         "Yunanistan"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Şarköy'ün Yunan İşgalinden Kurtuluşu",
+      "ozet": "Milli Mücadele döneminin sonlarına doğru, Türk ordusunun kazandığı büyük zaferlerin ardından Trakya topraklarında işgal altındaki bölgeler birer birer özgürlüğüne kavuştu. Bu süreçte, Marmara Denizi kıyısında stratejik bir konuma sahip olan Şarköy de 17 Kasım 1922 tarihinde Yunan işgalinden kurtarılarak yeniden Türk idaresine geçti. Yaklaşık otuz ay süren işgal dönemi, bölge halkı için oldukça zorlu ve sancılı bir süreç olmuştu. Kurtuluş günü, ilçenin bağımsızlığına kavuştuğu ve yerel halkın yeniden kendi topraklarında egemenlik kurduğu tarihi bir dönüm noktası olarak kayıtlara geçti. Şarköy'ün kurtuluşu, bölgedeki işgalin sona ermesi ve Türk topraklarının bütünlüğünün sağlanması adına atılan önemli adımlardan biriydi. Bugün bu tarih, ilçenin kurtuluş günü olarak her yıl coşkuyla anılmakta ve bölgenin tarihsel hafızasında önemli bir yer tutmaktadır.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Sarkoymeydan.jpg/960px-Sarkoymeydan.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Sarkoymeydan.jpg/500px-Sarkoymeydan.jpg",
@@ -262,7 +205,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Sarkoymeydan.jpg",
         "aciklama": "Şarköy Cumhuriyet Meydaı",
         "konu": "Şarköy"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1924-ilk-muhalefet-partisi-terakkiperver-cumhuriyet-firkasi-kuruldu",
@@ -382,10 +326,10 @@
         "Juan Peron",
         "Arjantin"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Juan Peron'un Uzun Sürgünden Dönüşü",
+      "ozet": "Arjantin siyasetinin en etkili figürlerinden biri olan Juan Peron, 1955 yılında gerçekleşen askeri darbenin ardından terk etmek zorunda kaldığı ülkesine 17 Kasım 1972 tarihinde geri döndü. Uzun yıllar süren sürgün hayatı boyunca İspanya'da yaşayan Peron'un dönüşü, Arjantin'de büyük bir heyecanla karşılandı ve ülkede yeni bir siyasi dönemin kapılarını araladı. Bu dönüş, halkın geniş kesimleri tarafından desteklenen Peronist hareketin yeniden güç kazanması için kritik bir dönüm noktası oldu.\n\nPeron'un dönüşü, Arjantin'in o dönemde içinde bulunduğu siyasi istikrarsızlık ve toplumsal huzursuzluk ortamında gerçekleşti. Askeri yönetimin baskıcı politikalarına karşı halkın duyduğu tepki, Peron'un geri dönüşüyle birlikte daha organize bir siyasi talebe dönüştü. Bu olay, sadece bir liderin eve dönüşü değil, aynı zamanda Arjantin'in demokratikleşme sürecinde önemli bir kırılma noktası olarak kabul edilir. Peron, bu dönüşten kısa bir süre sonra 1973 yılında tekrar devlet başkanlığı koltuğuna oturarak siyasi kariyerinin son dönemini başlatmıştır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Juan_Per%C3%B3n_1946.jpg/960px-Juan_Per%C3%B3n_1946.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Juan_Per%C3%B3n_1946.jpg/500px-Juan_Per%C3%B3n_1946.jpg",
@@ -398,7 +342,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Juan_Per%C3%B3n_1946.jpg",
         "aciklama": "Juan Perón speaks",
         "konu": "Juan Peron"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1973-atinada-universite-ogrencileri-cunta-rejimine-karsi-ayaklandilar",
@@ -408,23 +353,12 @@
         "Atina",
         "1967-1974 Yunanistan askerî cuntası"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/La_fa%C3%A7ade_du_Zapp%C3%A9ion_%28Ath%C3%A8nes%29_%2830177808993%29.jpg/960px-La_fa%C3%A7ade_du_Zapp%C3%A9ion_%28Ath%C3%A8nes%29_%2830177808993%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/La_fa%C3%A7ade_du_Zapp%C3%A9ion_%28Ath%C3%A8nes%29_%2830177808993%29.jpg/500px-La_fa%C3%A7ade_du_Zapp%C3%A9ion_%28Ath%C3%A8nes%29_%2830177808993%29.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 1800,
-        "yazar": "Jean-Pierre Dalbéra from Paris, France",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:La_fa%C3%A7ade_du_Zapp%C3%A9ion_(Ath%C3%A8nes)_(30177808993).jpg",
-        "aciklama": "Le Zappéion est un édifice conçu par l'architecte danois Theophil Hansen et construit entre 1874 et 1888. Il est situé dans le jardin national à proximité du Parlement et de la présidence de la Républ",
-        "konu": "Atina"
-      }
+      "baslik": "Atina Politeknik Ayaklanması ve Cunta Rejimi",
+      "ozet": "17 Kasım 1973 tarihinde Atina Politeknik Üniversitesi'nde toplanan öğrenciler, Yunanistan'da 1967 yılından beri iktidarda olan sağcı askerî cuntaya karşı büyük bir direniş başlattı. Özgürlük ve demokrasi talebiyle üniversite binasını işgal eden gençler, kısa sürede halkın geniş desteğini kazandı. Ancak askerî yönetim, bu sivil itaatsizlik eylemine çok sert bir karşılık verdi. Tankların üniversite kapısını kırmasıyla sonuçlanan müdahale sırasında 34 öğrenci hayatını kaybetti ve yüzlercesi yaralandı. Bu olay, Yunanistan tarihindeki en karanlık dönemlerden biri olarak kayıtlara geçti. Politeknik Ayaklanması, Albaylar Cuntası'nın meşruiyetini tamamen yitirmesine neden olan kırılma noktası oldu. Olayın ardından baskılarını artıran rejim, toplumdaki hoşnutsuzluğu engelleyemedi. Bu kanlı müdahale, cuntanın bir yıl sonra, 1974'te Kıbrıs'ta yaşanan gelişmelerin ardından çöküşünü hızlandıran toplumsal öfkenin temelini oluşturdu. Bugün bu tarih, Yunanistan'da demokrasiye geçişin sembolik bir dönüm noktası olarak anılmaktadır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1976-turkiye-isci-partisinin-davetlisi-silili-sanatcilar-sinirdisi",
@@ -461,10 +395,10 @@
         "Çekoslovakya",
         "Kadife Devrimi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Çekoslovakya'da Komünist Rejimi Bitiren Kadife Devrim",
+      "ozet": "Çekoslovakya'da 17 Kasım 1989 tarihinde başlayan Kadife Devrim, ülkedeki komünist yönetimin kansız ve barışçıl bir şekilde sona ermesini sağlayan tarihi bir dönüm noktasıdır. Süreç, Prag'da Uluslararası Öğrenciler Günü'nü kutlamak için bir araya gelen üniversite öğrencilerinin düzenlediği gösterilere polisin sert müdahalesiyle tetiklendi. Bu şiddet içerikli müdahale, halkın tepkisini çekerek kısa sürede ülke geneline yayılan kitlesel protestolara dönüştü. Meydanları dolduran binlerce insan, ellerinde mumlar ve anahtarlarını sallayarak demokratikleşme taleplerini dile getirdi.\n\nProtestoların büyümesiyle birlikte komünist hükûmet üzerindeki baskı arttı ve rejim, halkın talepleri karşısında geri adım atmak zorunda kaldı. Sadece birkaç hafta içinde gerçekleşen bu değişim, Çekoslovakya'da kırk yıllık tek parti iktidarının sonunu getirdi. Devrimin ardından muhalif oyun yazarı Václav Havel'in cumhurbaşkanı seçilmesiyle ülke, demokrasiye geçiş sürecini başlattı. Kadife Devrim, Doğu Avrupa'daki demokratikleşme dalgasının en önemli halkalarından biri olarak kabul edilir ve şiddete başvurmadan toplumsal değişimin nasıl mümkün olabileceğine dair sembolik bir örnek teşkil eder.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Prague_November89_-_Wenceslas_Square1.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Prague_November89_-_Wenceslas_Square1.jpg",
@@ -477,7 +411,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Prague_November89_-_Wenceslas_Square1.jpg",
         "aciklama": "Flowers and candles on Wenceslas Square in November 1989",
         "konu": "Kadife Devrimi"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1993-guney-afrika-siyasi-liderleri-irk-ayrimina-son",
@@ -501,10 +436,10 @@
         "Osman Hamdi Bey",
         "Birleşik Krallık"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Osman Hamdi Bey'in Yeşil Türbe Tablosu Müzayedede Satıldı",
+      "ozet": "Osman Hamdi Bey'in fırçasından çıkan Yeşil Türbe tablosu, 1995 yılının Kasım ayında Birleşik Krallık'ta gerçekleştirilen bir sanat müzayedesinde 37 milyar lira bedelle satılarak sanat piyasasında dikkat çekici bir satışa konu oldu. Türk resim sanatının en önemli isimlerinden biri olan Osman Hamdi Bey, sadece ressamlığıyla değil, aynı zamanda arkeolog ve müzeci kimliğiyle de Osmanlı kültür tarihinde derin izler bırakmış bir figürdür. Sanatçının eserleri, özellikle oryantalist üslubu ve detaylara verdiği önemle uluslararası sanat çevrelerinde her zaman büyük ilgi görmüştür.\n\nOsman Hamdi Bey, İstanbul Arkeoloji Müzesi'nin kurucusu ve uzun yıllar yöneticisi olarak modern müzeciliğin Türkiye'deki temellerini atmıştır. Sanayi-i Nefise Mektebi'nin kurucusu olması ve arkeolojik kazılardaki öncü rolü, onun çok yönlü kişiliğini yansıtmaktadır. Yeşil Türbe gibi eserleri, sanatçının mimari detaylara olan ilgisini ve Osmanlı estetiğini tuvale yansıtma konusundaki ustalığını gözler önüne serer. Bu satış, sanatçının eserlerinin dünya genelindeki koleksiyonerler tarafından ne denli kıymetli bulunduğunun ve Türk sanatının uluslararası piyasalardaki yerinin bir göstergesi olarak kabul edilmektedir.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Osman_Hamdi_Bey_01.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Osman_Hamdi_Bey_01.jpg",
@@ -517,7 +452,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Osman_Hamdi_Bey_01.jpg",
         "aciklama": "Osman Hamdi Bey",
         "konu": "Osman Hamdi Bey"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1999-irlandayi-yenen-turkiye-milli-futbol-takimi-avrupa",
@@ -554,10 +490,10 @@
       "konular": [
         "Röntgenyum"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Periyodik Tablonun Yeni Üyesi: Röntgenyum",
+      "ozet": "Atom numarası 111 olan yapay element, 17 Kasım 2006 tarihinde resmen Röntgenyum (Rg) olarak isimlendirildi. Daha önce geçici olarak Unununyum ismiyle anılan bu element, 1994 yılında Almanya'nın Darmstadt kentinde bulunan GSI Helmholtz Ağır İyon Araştırma Merkezi'nde bilim insanları tarafından keşfedilmişti. Bizmut ve nikel izotoplarının parçacık hızlandırıcılarında birleştirilmesiyle elde edilen bu süper ağır element, periyodik tablonun 7. periyodunda yer almaktadır.\n\nElementin ismi, X-ışınlarını keşfeden ünlü Alman fizikçi Wilhelm Conrad Röntgen'in anısını yaşatmak amacıyla seçilmiştir. Geçiş metalleri sınıfına dahil edilen Röntgenyum, doğada kendiliğinden bulunmayan ve laboratuvar ortamında sentezlenen yapay bir maddedir. Çok kısa ömürlü izotoplara sahip olması nedeniyle fiziksel özellikleri hakkında sınırlı bilgi bulunsa da, elementin resmi olarak isimlendirilmesi modern kimya ve nükleer fizik çalışmaları açısından önemli bir aşama olarak kabul edilmektedir.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Backdrop_for_presentation_of_R%C3%B6ntgenium%2C_element_111%2C_at_GSI_Darmstadt.JPG/960px-Backdrop_for_presentation_of_R%C3%B6ntgenium%2C_element_111%2C_at_GSI_Darmstadt.JPG",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Backdrop_for_presentation_of_R%C3%B6ntgenium%2C_element_111%2C_at_GSI_Darmstadt.JPG/500px-Backdrop_for_presentation_of_R%C3%B6ntgenium%2C_element_111%2C_at_GSI_Darmstadt.JPG",
@@ -570,7 +506,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Backdrop_for_presentation_of_R%C3%B6ntgenium,_element_111,_at_GSI_Darmstadt.JPG",
         "aciklama": "Backdrop for presentation of Roentgenium, element 111, at GSI Darmstadt, Germany.",
         "konu": "Röntgenyum"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "2016-siirtin-sirvan-ilcesindeki-madenkoy-yakinlarindaki-bakir-madeninde",

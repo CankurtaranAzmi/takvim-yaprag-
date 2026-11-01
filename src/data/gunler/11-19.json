@@ -264,10 +264,10 @@
         "İstanbul",
         "Ankara"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Atatürk'ün Naaşının Ankara'ya Yolculuğu",
+      "ozet": "Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün 10 Kasım 1938'de Dolmabahçe Sarayı'nda vefatının ardından, naaşının Ankara'ya nakli için kapsamlı bir hazırlık süreci başlatıldı. 19 Kasım 1938 tarihinde, Atatürk'ün naaşı büyük bir hürmet ve resmi törenle İstanbul'dan uğurlandı. Yavuz zırhlısı ile İzmit'e getirilen naaş, oradan özel bir trenle başkent Ankara'ya doğru yola çıkarıldı. Bu yolculuk, Türk halkının liderine olan derin bağlılığını ve yasını ifade ettiği tarihi bir an olarak kayıtlara geçti.\n\nAtatürk'ün naaşının Ankara'ya getirilmesi, genç cumhuriyetin kurucusuna karşı duyulan minnetin bir göstergesiydi. Ankara'ya ulaşan naaş, geçici olarak Etnografya Müzesi'nde hazırlanan özel bir bölmede muhafaza edildi. Bu süreç, daha sonra Anıtkabir'in inşasına kadar sürecek olan defin işlemlerinin ilk aşamasını oluşturuyordu. Atatürk'ün vefatı, Türkiye'de büyük bir toplumsal üzüntüye yol açarken, aynı zamanda cumhuriyetin temel değerlerine sahip çıkma kararlılığını da pekiştiren bir dönüm noktası oldu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -281,47 +281,7 @@
         "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
         "konu": "Mustafa Kemal Atatürk"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-          "genislik": 732,
-          "yukseklik": 987,
-          "orijinalGenislik": 732,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
-          "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
-          "konu": "Mustafa Kemal Atatürk"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "genislik": 960,
-          "yukseklik": 494,
-          "orijinalGenislik": 2048,
-          "yazar": "Alexxx Malev",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-          "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-          "konu": "İstanbul"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 7735,
-          "yazar": "A.Savin",
-          "lisans": "FAL",
-          "lisansUrl": "http://artlibre.org/licence/lal/en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
-          "konu": "Ankara"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1941-birlesik-krallik-kuzey-afrikada-alman-ve-italyanlara",
@@ -469,51 +429,24 @@
         "Harbiye, Şişli",
         "İstanbul Radyoevi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İstanbul Radyoevi'nin Açılışı",
+      "ozet": "Türkiye'nin ilk radyo yayın kuruluşu olan İstanbul Radyosu, 19 Kasım 1949 tarihinde Harbiye'de inşa edilen modern binasına taşınarak yeni stüdyolarında yayın hayatına devam etti. Dönemin Cumhurbaşkanı İsmet İnönü'nün yaptığı açılış konuşmasıyla hizmete giren bu yapı, radyo yayıncılığının teknik altyapısını güçlendiren önemli bir adım olarak tarihe geçti.\n\nİstanbul Radyoevi binası, 1945 yılında düzenlenen bir proje yarışması sonucunda Doğan Erginbaş, Ömer Güney ve İsmail Utkular tarafından tasarlanmıştı. Temelleri aynı yıl atılan ve dört katlı olarak inşa edilen bu bina, o dönem için oldukça elverişli stüdyo koşulları sunuyordu. Bu yeni merkez, Türkiye'de radyo yayıncılığının kurumsallaşması ve teknik kapasitesinin artırılması noktasında kritik bir rol oynamıştır. Günümüzde de varlığını sürdüren bina, Türk yayıncılık tarihinin en ikonik yapılarından biri kabul edilmektedir.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Askeri_muze_Istanbul.jpg/960px-Askeri_muze_Istanbul.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Askeri_muze_Istanbul.jpg/500px-Askeri_muze_Istanbul.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/%C4%B0stanbul_radio1.JPG/960px-%C4%B0stanbul_radio1.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/%C4%B0stanbul_radio1.JPG/500px-%C4%B0stanbul_radio1.JPG",
         "genislik": 960,
         "yukseklik": 720,
-        "orijinalGenislik": 1600,
-        "yazar": "Mirada",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Askeri_muze_Istanbul.jpg",
-        "aciklama": "İstanbul Askeri Müzesi.",
-        "konu": "Harbiye, Şişli"
+        "orijinalGenislik": 3072,
+        "yazar": "Homonihilis",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0stanbul_radio1.JPG",
+        "aciklama": "TRT İstanbul Radyosu'nun yer aldığı İstanbul Radyoevi / İstanbul Radiohause - TRT İstanbul Radio",
+        "konu": "İstanbul Radyoevi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Askeri_muze_Istanbul.jpg/960px-Askeri_muze_Istanbul.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Askeri_muze_Istanbul.jpg/500px-Askeri_muze_Istanbul.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 1600,
-          "yazar": "Mirada",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Askeri_muze_Istanbul.jpg",
-          "aciklama": "İstanbul Askeri Müzesi.",
-          "konu": "Harbiye, Şişli"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/%C4%B0stanbul_radio1.JPG/960px-%C4%B0stanbul_radio1.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/%C4%B0stanbul_radio1.JPG/500px-%C4%B0stanbul_radio1.JPG",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 3072,
-          "yazar": "Homonihilis",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0stanbul_radio1.JPG",
-          "aciklama": "TRT İstanbul Radyosu'nun yer aldığı İstanbul Radyoevi / İstanbul Radiohause - TRT İstanbul Radio",
-          "konu": "İstanbul Radyoevi"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1954-sammy-davis-jr-san-bernardino-kaliforniyada-gecirdigi-bir",
@@ -589,23 +522,12 @@
         "Türkiye Büyük Millet Meclisi",
         "İskenderun"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/IskenderunShorelineWithMountain092012.jpg/960px-IskenderunShorelineWithMountain092012.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/IskenderunShorelineWithMountain092012.jpg/500px-IskenderunShorelineWithMountain092012.jpg",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 3648,
-        "yazar": "Locus1891",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:IskenderunShorelineWithMountain092012.jpg",
-        "aciklama": "Photo of shoreline in Iskenderun including backdrop of mountains.",
-        "konu": "İskenderun"
-      }
+      "baslik": "TBMM'den Hükûmete Kıbrıs İçin Asker Gönderme Yetkisi",
+      "ozet": "Türkiye Büyük Millet Meclisi, 19 Kasım 1967 tarihinde gerçekleştirdiği oturumda, Kıbrıs meselesi nedeniyle hükûmete Türk Silahlı Kuvvetleri'ni ülke dışına gönderme yetkisi tanıdı. Bu kritik karar, adadaki Türk toplumuna yönelik artan baskılar ve bölgedeki güvenlik endişeleri üzerine alındı. Meclis'in verdiği bu yetki, Türkiye'nin dış politikasında caydırıcı bir güç olarak askeri seçenekleri masada tuttuğunu gösteren önemli bir adım oldu. Kararın hemen ardından Türk donanması alarma geçirilirken, Ankara'da konuşlu bulunan 28. Tümen'in İskenderun'a doğru intikali başlatıldı. Bu hareketlilik, Türkiye'nin Kıbrıs'taki gelişmelere karşı kararlı tutumunu ortaya koyan ve bölgedeki tansiyonu yükselten bir askeri hazırlık süreci olarak tarihe geçti. Söz konusu gelişmeler, Türkiye'nin Kıbrıs politikası açısından dönüm noktalarından biri kabul edilmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1975-izmirde-halil-fevzi-uygunturk-adli-bir-kisi",
@@ -615,23 +537,12 @@
         "Türkiye'de kadın cinayeti",
         "12 Eylül Darbesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Azra_g%C3%BClendam_haytao%C4%9Flu_cinayeti_protestosu.jpg/960px-Azra_g%C3%BClendam_haytao%C4%9Flu_cinayeti_protestosu.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Azra_g%C3%BClendam_haytao%C4%9Flu_cinayeti_protestosu.jpg/500px-Azra_g%C3%BClendam_haytao%C4%9Flu_cinayeti_protestosu.jpg",
-        "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 3264,
-        "yazar": "Yagmurkozmik",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Azra_g%C3%BClendam_haytao%C4%9Flu_cinayeti_protestosu.jpg",
-        "aciklama": "Women protesting Azra Gülendam Haytaoğlu femicide at Kadıköy İstanbul",
-        "konu": "Türkiye'de kadın cinayeti"
-      }
+      "baslik": "İzmir'de İşlenen Cinayet ve Sonrasındaki İdam Süreci",
+      "ozet": "19 Kasım 1975 tarihinde İzmir'de meydana gelen olayda, Halil Fevzi Uyguntürk isimli şahıs, evlenmek istediği genç kızın başka biriyle nişanlanmasını kabullenemeyerek trajik bir saldırı gerçekleştirdi. Genç kızın çalıştığı tarlaya giden saldırgan, burada genç kızı, annesini ve yanlarında bulunan bir başka kadını ateşli silahla öldürdü. Bu olay, o dönemde toplumda büyük infial yaratan ve kişisel husumetlerin şiddetle sonuçlandığı vakalardan biri olarak kayıtlara geçti.\n\nSaldırgan Halil Fevzi Uyguntürk, işlediği bu cinayetlerin ardından yargılandı ve hüküm giydi. 12 Eylül 1980 tarihinde gerçekleşen askerî darbenin ardından kurulan askerî yönetim döneminde, daha önce işlediği bu suç nedeniyle idam cezasına çarptırıldı ve cezası infaz edildi. Bu vaka, Türkiye'nin yakın tarihinde hem bireysel şiddet olaylarının sonuçları hem de 12 Eylül dönemi yargılamalarının bir parçası olarak hatırlanmaktadır.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1977-misir-devlet-baskani-enver-sedat-israili-ziyaret",
@@ -697,23 +608,12 @@
         "İlhan Egemen Darendelioğlu",
         "İstanbul"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
-        "genislik": 960,
-        "yukseklik": 494,
-        "orijinalGenislik": 2048,
-        "yazar": "Alexxx Malev",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-        "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-        "konu": "İstanbul"
-      }
+      "baslik": "Gazeteci ve Siyasetçi İlhan Darendelioğlu'nun Vefatı",
+      "ozet": "Gazeteci, yazar ve eski milletvekili İlhan Egemen Darendelioğlu, 19 Kasım 1979 tarihinde İstanbul'da uğradığı silahlı saldırı neticesinde yaşamını yitirdi. Uzun yıllar basın dünyasında aktif bir rol üstlenen Darendelioğlu, özellikle milliyetçi çizgideki yayınları ve çalışmalarıyla tanınan bir isimdi. 1921 yılında Tarsus'ta dünyaya gelen Darendelioğlu, İstanbul Üniversitesi Türkoloji Bölümü'nden mezun olduktan sonra öğretmenlik yapmış ve ardından yayıncılık faaliyetlerine yönelmişti. 1954 yılından itibaren Toprak dergisini yayımlayan Darendelioğlu, aynı zamanda Ortadoğu gazetesinde de yazarlık yapmaktaydı. Siyasi kariyerinde Türkiye Komünizmle Mücadele Derneği genel başkanlığı görevini üstlenmiş, 1969 seçimlerinde ise Adalet Partisi'nden İstanbul milletvekili olarak parlamentoya girmişti. Siyasi yaşamı boyunca Demokratik Parti'nin kuruluşunda yer almış ve daha sonra Milliyetçi Hareket Partisi bünyesinde çalışmalarını sürdürmüştü. Türkiye'nin siyasi açıdan oldukça çalkantılı olduğu bir dönemde gerçekleşen bu suikast, dönemin toplumsal gerilimlerinin ve siyasi cinayetlerin bir yansıması olarak tarihe geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1984-bm-gorevlisi-enver-ergun-viyanada-ermeni-saldirganlarca",
@@ -890,10 +790,10 @@
         "Devrimci Sol",
         "İnsan hakları"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İstanbul'da Polis Aracına Silahlı Saldırı",
+      "ozet": "İstanbul'da 19 Kasım 1992 tarihinde gerçekleşen olayda, devriye gezen bir polis otosu hedef alınarak ateş açıldı. Saldırı sonucunda dört polis memuru yaşamını yitirdi. Olayın sorumluluğunu, o dönem Türkiye'de aktif olan silahlı komünist örgüt Devrimci Sol üstlendi. Bu saldırı, dönemin güvenlik ortamını sarsan ve kamuoyunda büyük yankı uyandıran şiddet eylemlerinden biri olarak kayıtlara geçti.\n\nSaldırının ardından düzenlenen cenaze törenleri, toplumsal gerilimin yüksek olduğu bir atmosferde gerçekleşti. Törene katılan bazı grupların \"Kahrolsun İnsan Hakları\" şeklinde sloganlar atması, o dönemde güvenlik politikaları ile temel hak ve özgürlükler arasındaki tartışmaların ne denli keskinleştiğini gözler önüne serdi. Bu olay, Türkiye'nin 1990'lı yıllardaki siyasi çalkantılarını ve güvenlik güçlerine yönelik gerçekleştirilen silahlı eylemlerin toplumsal yansımalarını temsil eden önemli bir tarihsel kesittir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg/960px-DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg/500px-DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg",
@@ -907,34 +807,7 @@
         "aciklama": "Revolutionary Left",
         "konu": "Devrimci Sol"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg/960px-DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg/500px-DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg",
-          "genislik": 960,
-          "yukseklik": 649,
-          "orijinalGenislik": 1080,
-          "yazar": "Agamemnon766",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:DEVR%C4%B0MC%C4%B0SOLBAYRAK.jpg",
-          "aciklama": "Revolutionary Left",
-          "konu": "Devrimci Sol"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/960px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/500px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 7200,
-          "yazar": "Original authors were the barons and King John of England. Uploaded by Earthsound.",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg",
-          "aciklama": "The Magna Carta (originally known as the Charter of Liberties) of 1215, written in iron gall ink on parchment in medieval Latin, using standard abbreviations of the period, authenticated with the Grea",
-          "konu": "İnsan hakları"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1994-halil-mutlu-dunya-halter-sampiyonasinda-7-dunya",
@@ -960,23 +833,12 @@
         "Iowa",
         "McCaughey Yedizleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Des_Moines_Montage.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Des_Moines_Montage.jpg",
-        "genislik": 771,
-        "yukseklik": 1419,
-        "orijinalGenislik": 771,
-        "yazar": "User:Raivena",
-        "lisans": "CC BY 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Des_Moines_Montage.jpg",
-        "aciklama": "Montage of Des Moines.",
-        "konu": "Des Moines"
-      }
+      "baslik": "Dünyanın İlk Canlı Doğan Yedizleri",
+      "ozet": "Bobbi ve Kenny McCaughey çifti, 19 Kasım 1997 tarihinde Des Moines, Iowa'da yediz bebeklerini kucaklarına alarak tıp dünyasında büyük bir yankı uyandırdı. Dokuz hafta erken dünyaya gelen dört erkek ve üç kız bebek, doğumdan sonra hayatta kalmayı başaran ilk yediz grubu olarak tarihe geçti. Kenneth, Alexis, Natalie, Kelsey, Nathan, Brandon ve Joel isimleri verilen bebeklerin doğumu, hem tıbbi bir başarı hem de dünya genelinde büyük bir merak konusu oldu.\n\nDoğumun ardından McCaughey ailesi, yedi bebeğin bakımı ve ihtiyaçları nedeniyle büyük bir ilgi odağı haline geldi. Ailenin yaşadığı zorluklar ve ihtiyaç duydukları destek, kamuoyunun geniş desteğini topladı; aileye ev, araç ve çeşitli temel ihtiyaçlar konusunda yardımlar yapıldı. Yedizler, büyürken medyada sıkça yer aldılar ve gelişim süreçleri dünya çapında takip edildi. McCaughey yedizleri, tıp literatüründe çoklu gebeliklerin seyri ve bakımı konusunda önemli bir örnek teşkil etmeye devam etmektedir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1999-istanbuldaki-agit-zirvesinin-son-gunu-avrupa-konvansiyonel",
