@@ -1097,5 +1097,504 @@
     "url": "https://tr.wikipedia.org/wiki/15_Kas%C4%B1m",
     "revid": 37002828
   },
-  "guncelleme": "2026-10-22T08:16:27.588Z"
+  "guncelleme": "2026-10-22T08:16:27.588Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2452968",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan deprem bölgesinde CHP'yi hedef aldı: 'Bunu söyleyince hemen rahatsız oluyorlar'",
+      "aciklama": "AKP'li Cumhurbaşkanı Erdoğan, Adıyaman'da yaptığı açıklamada,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/erdogan-deprem-bolgesinde-chp-yi-hedef-aldi-yalan-makinesi-mi-ana-muhalefetin-genel-baskani-mi-2452968"
+      },
+      "konular": [],
+      "yayin": "2025-11-15T17:12:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2025-haber-2452993",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP’den TBMM’ye 3 ay şartı! “Meclis’teki tüm milletvekillerinin diploması kontrol edilsin!”",
+      "aciklama": "Gökhan Günaydın, sahte diploma iddialarına karşı Meclis’te kapsamlı bir doğrulama süreci başlatılması için çağrı yaptı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/chp-den-tbmm-ye-3-ay-sarti-meclis-teki-tum-milletvekillerinin-diplomasi-kontrol-edilsin-2452993"
+      },
+      "konular": [],
+      "yayin": "2025-11-15T19:47:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2269006",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP’li Ali Mahir Başarır: Erdoğan, dakikada 2 asgari ücret harcıyor",
+      "aciklama": "CHP Grup Başkanvekili Ali Mahir Başarır, Cumhurbaşkanlığının bu yılın on ayındaki harcamasının 10 milyar 262 milyon lira, örtülü ödenekten yapılan harcamanın ise 9 milyar 119 milyon lira olduğunu açıkladı. Başarır, “Dakikada iki asgari ücret tüketen sayın Cumhurbaşkanı, kimin par",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/chpli-ali-mahir-basarir-erdogan-dakikada-2-asgari-ucret-harciyor-2269006"
+      },
+      "konular": [],
+      "yayin": "2024-11-15T14:55:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2269170",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "TBMM Plan ve Bütçe Komisyonu'nda soruldu: 'Rakı ve birada vergi yüzde 50 iken İngiliz viskisinde neden yüzde 1?'",
+      "aciklama": "CHP'li Ömer Fethi Gürer, Hazine ve Maliye Bakanlığı bütçesi üzerine yaptığı konuşmada iktidara eleştirilerde bulundu. Gürer, bütçe teklifinde toplumun geniş kesimlerinin yaşamını iyileştirecek düzenlemelerin bulunmadığını ifade etti. Gürer ayrıca,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/tbmm-plan-ve-butce-komisyonunda-soruldu-raki-ve-birada-vergi-yuzde-2269170"
+      },
+      "konular": [],
+      "yayin": "2024-11-15T21:35:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2141208",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Euro tarihi zirveyi gördü! Dolar ve Euro ne kadar oldu? 15 Kasım 2023 döviz fiyatları",
+      "aciklama": "Euro/TL 31.19 seviyesinden işlem görerek tüm zamanların rekorunu kırdı. Dolar/TL bu sabah güne 28.65 civarında başladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/euro-tarihi-zirveyi-gordu-dolar-ve-euro-ne-kadar-oldu-15-kasim-2023-2141208"
+      },
+      "konular": [],
+      "yayin": "2023-11-15T09:58:00+03:00",
+      "puan": 17,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2141160",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Tarım Bakanlığı bütçesi kabul edildi, muhalefetin önergeleri reddedildi: Üreticiye yine para yok",
+      "aciklama": "TBMM Plan ve Bütçe Komisyonu’nda Tarım ve Orman Bakanlığı’nın bütçesi kabul edildi. Bütçe görüşmelerinde CHP’nin bakanlığın istihdam oranlarını artırmasıyla ve tarımda sigorta giderlerinin kamudan karşılanmasıyla ilgili önergeleri kabul edilmedi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/tarim-bakanligi-butcesi-kabul-edildi-muhalefetin-onergeleri-2141160"
+      },
+      "konular": [],
+      "yayin": "2023-11-15T04:00:00+03:00",
+      "puan": 14,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-2002888",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Doların gözü G20 zirvesinde: Dolar ne kadar oldu? (15 Kasım 2022)",
+      "aciklama": "Dolar/TL, 18.6 seviyelerinin hemen altında yatay seyrini korurken, G20 zirvesinden gelecek açıklamaların yanı sıra içeride bütçe dengesi ve dış veri gündemi yakından izlenecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/dolarin-gozu-g20-zirvesinde-dolar-ne-kadar-oldu-15-kasim-2022-2002888"
+      },
+      "konular": [],
+      "yayin": "2022-11-15T09:50:00+03:00",
+      "puan": 14,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-2002905",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Tarımda üretici enflasyonu rekor tazeledi",
+      "aciklama": "Tarım ürünleri üretici fiyat endeksi (Tarım-ÜFE) yıllık yüzde 163.3 artarken, aylık yüzde 4.59 yükseldi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/tarimda-uretici-enflasyonu-rekor-tazeledi-2002905"
+      },
+      "konular": [],
+      "yayin": "2022-11-15T10:13:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1884797",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolarda yeni rekor",
+      "aciklama": "Son dakika haberi... Dolar gece yarısı Asya piyasalarının açılmasıyla 10.04'ü aşarak rekor tazeledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika-dolarda-yeni-rekor-1884797"
+      },
+      "konular": [],
+      "yayin": "2021-11-15T09:17:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1885039",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Türkiye, Avrupa Tekvando Şampiyonası'nda 8 madalya kazandı",
+      "aciklama": "Avrupa Gençler Tekvando Şampiyonası'nda mücadele eden Türkiye, turnuvada tam 8 madalya kazandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/turkiye-avrupa-tekvando-sampiyonasinda-8-madalya-kazandi-1885039"
+      },
+      "konular": [],
+      "yayin": "2021-11-15T22:04:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1791212",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "TBMM Başkanı Şentop: “Pist çok iyiymiş değil mi şampiyon”",
+      "aciklama": "Twitter hesabından bir paylaşım yapan Türkiye Büyük Millet Meclisi  Başkanı Mustafa Şentop, “Formula 1’in İstanbul ayağını kazanan Mercedes Pilotu Lewis Hamilton’ın yeni şampiyonluğunu podyumda tebrik edip, kupasını takdim ettik. Pist çok iyiymiş değil mi şampiyon” ifadelerini ku",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/tbmm-baskani-sentop-pist-cok-iyiymis-degil-mi-sampiyon-1791212"
+      },
+      "konular": [],
+      "yayin": "2020-11-15T16:43:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1791207",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İstanbul'un son şampiyonu kupasını aldı",
+      "aciklama": "9 yıl aradan sonra İstanbul’da düzenlenen Formula 1’de podyum elde eden pilotlar kupalarını aldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/istanbulun-son-sampiyonu-kupasini-aldi-1791207"
+      },
+      "konular": [],
+      "yayin": "2020-11-15T15:55:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1702294",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Samandağ mandalinasında ihracat başladı",
+      "aciklama": "Türkiye’nin geleneksel ihraç ürünlerinden satsuma cinsi mandalinada ihracat sezonu başladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/samandag-mandalinasinda-ihracat-basladi-1702294"
+      },
+      "konular": [],
+      "yayin": "2019-11-15T15:13:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1702293",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Kuşadası AB Merkezi açıldı",
+      "aciklama": "Kuşadası Belediyesi, kamu kurumları, üniversiteler, sivil toplum ve meslek kuruluşlarıyla iş birliği yaparak projeler geliştirilmesi, ayrıca AB fonlarının etkin biçimde kullanılması amacıyla ilçede, Uluslararası İlişkiler ve AB Merkezi'ni hizmete açtı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/kusadasi-ab-merkezi-acildi-1702293"
+      },
+      "konular": [],
+      "yayin": "2019-11-15T15:11:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1141726",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bir zamanların vergi rekortmeniydi konkordato ilan etti",
+      "aciklama": "Brandium Ataşehir, KentPlus Ataşehir, KentPlus Kadıköy gibi inşaat projelerinde yer alan Emay İnşaat konkordato ilan etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bir-zamanlarin-vergi-rekortmeniydi-konkordato-ilan-etti-1141726"
+      },
+      "konular": [],
+      "yayin": "2018-11-15T13:29:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1141279",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Marie Antoinette'e ait inci kolye 36 milyon dolara satılarak rekor kırdı",
+      "aciklama": "Fransız devrimi sırasında eşi Kral 16. Louise ile birlikte giyotine gönderilen Kraliçe Marie Antoinette'e ait inci ve elmas kolye, düzenlenen açık artırmada 36 milyon dolara satıldı. Ünlü Sotheby's müzayede evinin Cenevre'de düzenlediği müzayedede satılan bu kolye, inci bir mücev",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/marie-antoinettee-ait-inci-kolye-36-milyon-dolara-satilarak-rekor-kirdi-1141279"
+      },
+      "konular": [],
+      "yayin": "2018-11-15T10:02:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-866237",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Asgari ücretlinin paylaşımı günün konusu oldu: Çaya ekmek batırıp yiyoruz sayın cumhurbaşkanı",
+      "aciklama": "AKP'nin uyguladığı neo liberal politikalar bir yandan yeni milyonerler yaratırken emekçilerin yoksulluğu gün geçtikçe derinleşiyor. Sosyal medyada dün asgari ücretle ilgili yapılan bir paylaşım büyük ilgi çekti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/asgari-ucretlinin-paylasimi-gunun-konusu-oldu-caya-ekmek-batirip-yiyoruz-sayin-cumhurbaskani-866237"
+      },
+      "konular": [],
+      "yayin": "2017-11-15T08:12:00+03:00",
+      "puan": 15,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-866259",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Avrodan yeni zirve, dolar rekor düzeye yaklaştı",
+      "aciklama": "ABD'de faiz artışına ilişkin beklentiler ve Türkiye'de enflasyonun yüksek düzeyini korumasının etkisiyle dolar 3.90 liraya çıkarken, avro da 4.60 lira ile yine rekor tazeledi. Dolar bu yıl 12 Ocak günü 3.9422 lira ile tarihi rekor düzeye çıkmıştı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/avrodan-yeni-zirve-dolar-rekor-duzeye-yaklasti-866259"
+      },
+      "konular": [],
+      "yayin": "2017-11-15T09:20:00+03:00",
+      "puan": 14,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-630987",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Olası İstanbul depremi Meclis gündeminde",
+      "aciklama": "Bilim insanlarının İstanbul’da olacağını öngördüğü deprem İstanbul Büyükşehir Belediye Meclisi’ne taşındı. İBB Meclisi Kasım ayı toplantılarında İBB AKP Grup Başkan Vekili Yardımcısı Faruk Aydın meclis üyelerine “İstanbul’da deprem riski ve İBB tarafından yapılan çalışmalar” konu",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/olasi-istanbul-depremi-meclis-gundeminde-630987"
+      },
+      "konular": [],
+      "yayin": "2016-11-15T13:59:00+03:00",
+      "puan": 15,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-630872",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP'de ihraç depremi... Oy kullandıkları sandıktan CHP'ye oy çıkmamıştı",
+      "aciklama": "CHP, Manisa'da geçen geçen yıl 1 Kasım'da yapılan genel seçimler sonrası yapılan çalışmada, oy kullandıkları sandıktan partiye oy çıkmadığı tespit edilen 7 parti üyesini ihraç etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chpde-ihrac-depremi-oy-kullandiklari-sandiktan-chpye-oy-cikmamisti-630872"
+      },
+      "konular": [],
+      "yayin": "2016-11-15T11:18:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-419183",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan - Obama görüşmesinden sonra 4 milyar dolarlık iptal kararı",
+      "aciklama": "Cumhurbaşkanı Recep Tayyip Erdoğan ile ABD Başkanı Barack Obama arasındaki görüşmenin ardından, Türkiye'nin 4 milyar dolar bütçeli Çin füzesi alımından vazgeçildiği bildirildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-obama-gorusmesinden-sonra-4-milyar-dolarlik-iptal-karari-419183"
+      },
+      "konular": [],
+      "yayin": "2015-11-15T13:20:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-419009",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fransa Başbakanı Valls: IŞİD'e karşı savaş içindeyiz",
+      "aciklama": "Fransız 'Le Figaro' gazetesin internet sayfasında bugün çıkan habere göre Fransa Başbakanı İspanyol kökenli Manuel Valls,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fransa-basbakani-valls-iside-karsi-savas-icindeyiz-419009"
+      },
+      "konular": [],
+      "yayin": "2015-11-15T10:10:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-141799",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Rekor kırdı MVP oldu",
+      "aciklama": "THY Euroleague'de Fenerbahçe Ülker'in ABD'li şutörü Andrew Goudelock, beşinci haftanın",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/rekor-kirdi-mvp-oldu-141799"
+      },
+      "konular": [],
+      "yayin": "2014-11-15T13:14:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-141669",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ronaldo, Hakan Şükür'ün rekorunu kırdı",
+      "aciklama": "Cristiano Ronaldo, Ermenistan'ı yıktığı golüyle bir rekoru da tarihe gömdü, Avrupa şampiyonalarının en golcü ismi oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ronaldo-hakan-sukurun-rekorunu-kirdi-141669"
+      },
+      "konular": [],
+      "yayin": "2014-11-15T08:46:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-9661",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Anayasa Mahkemesi'nden flaş Ağar kararı",
+      "aciklama": "Anayasa Mahkemesi, Mehmet Ağar'ın infazını durduran Ankara 11. Ağır Ceza Mahkemesinin, denetimli serbestlikle tahliye olanların yeniden soruşturma veya kovuşturma geçirmesi halinde cezaevine geri dönmelerini öngören Kanun maddesinin iptali istemiyle yaptığı başvuruyu, mahkemenin ",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/anayasa-mahkemesinden-flas-agar-karari-9661"
+      },
+      "konular": [],
+      "yayin": "2013-11-15T17:56:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-9555",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Karaborsa oldu, zam yolda",
+      "aciklama": "Bursa Simitçiler ve Unlu Madde İmalatçılar Odası Başkanı Erdal Pınar, susamın, geçen yıla göre yüzde 115 zamlandığını söyledi. Pınar, yaptığı açıklamada, yurt dışında üretim alanlarında yaşanan bazı olumsuzluklar nedeniyle susam ithalatının azaldığını belirtti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/karaborsa-oldu-zam-yolda-9555"
+      },
+      "konular": [],
+      "yayin": "2013-11-15T12:13:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-383854",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Gazze'ye kara harekatı başlıyor mu?",
+      "aciklama": "İsrail Ordusu, birliklerini Gazze sınırına sevk etti, Başbakan Netanyahu ise 30 bin yedek askerin göreve çağrılması talimatı verdi. İsrail'in Gazze şeridine yönelik düzenlediği saldırılarda Gazze'deki Filistin Hükümeti Başbakanı İsmail Heniyye'nin evinin bahçesinin hedef alındığı",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/gazzeye-kara-harekati-basliyor-mu-383854"
+      },
+      "konular": [],
+      "yayin": "2012-11-15T18:54:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-383784",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Türkiye Diyabet Vakfı dünya rekoru kıracak",
+      "aciklama": "Türkiye Diyabet Vakfı, 18 Kasım pazar günü 6 bin kişiye ücretsiz şeker taraması yaparak Türkiye'de bir ilke imza atacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/turkiye-diyabet-vakfi-dunya-rekoru-kiracak-383784"
+      },
+      "konular": [],
+      "yayin": "2012-11-15T14:35:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-298056",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Evlenme yaşı meclise taşındı",
+      "aciklama": "CHP İzmir Milletvekili Rıza Türmen, evlenme yaşının 17'den 18'e çıkarılması\r\niçin kanun teklifi verdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/evlenme-yasi-meclise-tasindi-298056"
+      },
+      "konular": [],
+      "yayin": "2011-11-15T10:56:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-298222",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İrlanda Devlet Bakanı Penrose istifa etti",
+      "aciklama": "İrlanda'nın iskân ve planlamadan sorumlu Devlet Bakanı Willie Penrose'un istifa ettiği bildirildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/irlanda-devlet-bakani-penrose-istifa-etti-298222"
+      },
+      "konular": [],
+      "yayin": "2011-11-15T16:36:00+03:00",
+      "puan": 6,
+      "durum": "haber"
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }

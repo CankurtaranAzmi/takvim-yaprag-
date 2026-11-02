@@ -440,17 +440,18 @@
       "durum": "bekliyor"
     },
     {
-      "id": "1981-ikinci-turkiye-iktisat-kongeresi-acildi",
+      "id": "1981-24-ocak-kararlari-sonrasi-ekonomik-durumu-gorusen",
       "yil": 1981,
-      "metin": "İkinci Türkiye İktisat Kongeresi açıldı.",
+      "metin": "24 Ocak kararları sonrası ekonomik durumu görüşen İkinci İzmir İktisat Kongresi başladı.",
       "konular": [
-        "İkinci Türkiye İktisat Kongeresi"
+        "24 Ocak kararları",
+        "İkinci İzmir İktisat Kongresi"
       ],
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "gorsel": null,
-      "durum": "bekliyor"
+      "durum": "bekliyor",
+      "gorsel": null
     },
     {
       "id": "1982-turkiye-cumhuriyeti-milli-egitim-bakanligi-yatili-ogrencilerin",
@@ -1102,9 +1103,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/2_Kas%C4%B1m",
-    "revid": 38168530
+    "revid": 38420870
   },
-  "guncelleme": "2026-11-01T12:50:58.279Z",
+  "guncelleme": "2026-11-02T15:00:44.855Z",
   "haberler": [
     {
       "id": "2025-haber-2448972",
@@ -1148,8 +1149,8 @@
       "yayin": "2025-11-02T20:48:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Beşiktaş ve Fenerbahçe derbisinde iki oyuncu oyun dışı kaldı",
-      "ozet": "Süper Lig'in on birinci haftasında gerçekleşen Beşiktaş ve Fenerbahçe karşılaşması gergin anlara sahne oldu. Müsabaka sırasında Orkun Kökçü ve Sergen Yalçın hakem tarafından kırmızı kartla cezalandırılarak oyun alanından gönderildi. Derbi mücadelesi yaşanan bu ihraçlar nedeniyle dikkat çeken bir başlangıç yaptı.",
+      "baslik": "Beşiktaş ve Fenerbahçe Derbisinde İki Oyuncu Oyun Dışı Kaldı",
+      "ozet": "Süper Lig on birinci hafta karşılaşmasında karşı karşıya gelen Beşiktaş ve Fenerbahçe arasındaki derbi mücadelesi gergin anlara sahne oldu. Müsabaka sırasında Orkun Kökçü ve Sergen Yalçın hakem tarafından kırmızı kart ile cezalandırılarak oyun alanının dışına gönderildi.",
       "kategori": "Spor"
     },
     {
@@ -1165,14 +1166,14 @@
       },
       "konular": [
         "ABD başkanlık seçimleri",
-        "Federal Rezerv Sistemi",
+        "Federal Rezerv",
         "Küresel ekonomi"
       ],
       "yayin": "2024-11-02T11:13:00+03:00",
       "puan": 13,
       "durum": "yazildi",
-      "baslik": "Küresel piyasalarda ABD seçimleri ve Fed beklentisi öne çıktı",
-      "ozet": "Dünya genelindeki finansal piyasalar, Amerika Birleşik Devletleri'nde gerçekleştirilecek seçim sürecine ve merkez bankasının alacağı faiz kararlarına kilitlendi. Yatırımcılar, seçim sonuçlarının ekonomi üzerindeki olası yansımalarını dikkatle izlemeye devam etti.",
+      "baslik": "Küresel piyasalarda ABD seçimleri ve Fed beklentisi öne çıkıyor",
+      "ozet": "Dünya genelindeki finansal piyasalar, Amerika Birleşik Devletleri'nde düzenlenecek başkanlık seçimlerinin sonuçlarını ve Merkez Bankası'nın faiz politikasına dair alacağı kararları yakından izliyor. Yatırımcılar, seçim sürecinin ekonomi üzerinde yaratabileceği muhtemel etkileri değerlendirerek stratejilerini şekillendiriyor.",
       "kategori": "Ekonomi",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/20_Largest_economies_pie_chart.pdf/page1-960px-20_Largest_economies_pie_chart.pdf.jpg",
@@ -1315,13 +1316,13 @@
       },
       "konular": [
         "İstanbul",
-        "Ekonomi"
+        "Enflasyon"
       ],
       "yayin": "2021-11-02T10:31:00+03:00",
       "puan": 13,
       "durum": "elendi",
-      "baslik": "İstanbul'da ekim ayının fiyat değişimleri belli oldu",
-      "ozet": "İstanbul'da ekim ayı içerisinde en yüksek fiyat artışı mektup gönderim ücretlerinde gerçekleşti. Söz konusu dönemde mektup ücretleri yüzde 33,33 oranında değer kazandı. Öte yandan aynı ay içerisinde fiyatı en fazla düşüş gösteren ürün ise limon olarak belirlendi.",
+      "baslik": "İstanbul'da ekim ayında fiyatı en çok artan ve düşen ürünler belirlendi",
+      "ozet": "İstanbul'da gerçekleştirilen fiyat analizlerine göre ekim ayı içerisinde en yüksek fiyat artışı mektup gönderim bedellerinde yaşandı. Mektup gönderim ücretleri yüzde 33,33 oranında bir yükseliş gösterdi. Aynı dönemde en belirgin fiyat düşüşü ise limon ürünlerinde gözlemlendi.",
       "kategori": "Ekonomi"
     },
     {
@@ -1522,27 +1523,26 @@
       },
       "konular": [
         "Federal Rezerv",
-        "Faiz oranı",
         "Ekonomi"
       ],
       "yayin": "2016-11-02T21:06:00+03:00",
       "puan": 7,
       "durum": "yazildi",
-      "baslik": "Amerikan Merkez Bankası faiz oranlarını sabit tuttu",
-      "ozet": "Amerikan Merkez Bankası, merakla beklenen faiz toplantısını tamamladı. Kurum, piyasa beklentileriyle uyumlu bir şekilde faiz oranlarında herhangi bir değişikliğe gitmeme kararı aldı.",
+      "baslik": "Amerikan Merkez Bankası Faiz Oranlarını Sabit Bıraktı",
+      "ozet": "Amerikan Merkez Bankası gerçekleştirdiği toplantı sonucunda faiz oranları üzerindeki kararını duyurdu. Kurum tarafından yapılan açıklamada, mevcut faiz oranlarında herhangi bir değişikliğe gidilmediği belirtildi. Bankanın bu kararı piyasaların beklentileriyle uyumlu bir şekilde gerçekleşti.",
       "kategori": "Ekonomi",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Malawi_interest_rates.JPG",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Malawi_interest_rates.JPG",
-        "genislik": 648,
-        "yukseklik": 486,
-        "orijinalGenislik": 648,
-        "yazar": "Brian Dell Bdell555",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Malawi_interest_rates.JPG",
-        "aciklama": "Advertised interest rates inside the Malawi Savings Bank branch in Ncahlo, Malawi on 30 Sept 2008.",
-        "konu": "Faiz oranı"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/960px-Luchtfoto_van_Lower_Manhattan.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/500px-Luchtfoto_van_Lower_Manhattan.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 5616,
+        "yazar": "Daniele Pieroni",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Luchtfoto_van_Lower_Manhattan.jpg",
+        "aciklama": "Lower Manhattan gezien vanuit het zuidwesten.",
+        "konu": "Ekonomi"
       }
     },
     {
@@ -1763,8 +1763,8 @@
       "yayin": "2011-11-02T12:20:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "On İkinci Uluslararası Antalya Piyano Festivali Programı Açıklandı",
-      "ozet": "Antalya Büyükşehir Belediyesi tarafından organize edilen Uluslararası Antalya Piyano Festivali için hazırlıklar tamamlandı. Sanat yönetmenliğini Fazıl Say'ın üstlendiği etkinlik, kasım ayının son haftasında başlayarak aralık ayının ortalarına kadar devam etti. Müzikseverleri bir araya getiren festival, piyano repertuvarından seçkin örneklerin sunulmasıyla gerçekleştirildi.",
+      "baslik": "12. Uluslararası Antalya Piyano Festivali İçin Hazırlıklar Tamamlandı",
+      "ozet": "Antalya Büyükşehir Belediyesi tarafından organize edilen ve sanat yönetmenliği görevini Fazıl Say'ın üstlendiği 12. Uluslararası Antalya Piyano Festivali'nin tarihleri belli oldu. Etkinlik, 25 Kasım ile 17 Aralık tarihleri arasında sanatseverlerle buluşacak.",
       "kategori": "Sanat",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Faz%C4%B1l_Say_recording_at_Mozarteum_Salzburg_in_2019.jpg/960px-Faz%C4%B1l_Say_recording_at_Mozarteum_Salzburg_in_2019.jpg",
