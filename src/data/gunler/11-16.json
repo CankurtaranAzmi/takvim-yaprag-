@@ -1389,5 +1389,424 @@
     "url": "https://tr.wikipedia.org/wiki/16_Kas%C4%B1m",
     "revid": 38169031
   },
-  "guncelleme": "2026-10-22T08:16:29.118Z"
+  "guncelleme": "2026-10-22T08:16:29.118Z",
+  "haberler": [
+    {
+      "id": "2024-haber-2269216",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Son depremler! Deprem mi oldu? 16 Kasım 2024 nerede, ne zaman deprem oldu?",
+      "aciklama": "Son depremler! Az önce deprem mi oldu? Sarsıntı hisseden yurttaşlar, 16 Kasım 2024 son depremlerin nerede ve kaç büyüklüğünde olduğunu merak ediyor. Deprem mi oldu? Nerede, ne zaman deprem oldu? 16 Kasım 2024 Türkiye'deki depremler...",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/son-depremler-deprem-mi-oldu-16-kasim-2024-nerede-ne-zaman-deprem-2269216"
+      },
+      "konular": [],
+      "yayin": "2024-11-16T09:04:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2141555",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Euro zirve tazeledi! Dolar ve Euro ne kadar oldu? 16 Kasım 2023 döviz fiyatları",
+      "aciklama": "Dolar/TL sınırlı alan içinde tarihi zirvelerinde yakın işlem görmeye devam ederken, Euro zirve tazeledi. Bugün TBMM dışişleri komisyonunda görüşülecek olan İsveç'in NATO'ya katılım protokolü kanun teklifi piyasalar tarafından izlenen önemli gündem maddesi olacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/euro-zirve-tazeledi-dolar-ve-euro-ne-kadar-oldu-16-kasim-2023-doviz-2141555"
+      },
+      "konular": [],
+      "yayin": "2023-11-16T09:44:00+03:00",
+      "puan": 14,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2141822",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "MSB'nin 2024 yılı bütçesi TBMM'den geçti",
+      "aciklama": "Milli Savunma Bakanlığı'nın (MSB) 2024 yılı bütçesi TBMM Plan ve Bütçe Komisyonundan geçti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/msbnin-2024-yili-butcesi-tbmmden-gecti-2141822"
+      },
+      "konular": [],
+      "yayin": "2023-11-16T21:19:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-2003185",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bütçe açığı rekor tazeledi: On ayda 128.7 milyar TL",
+      "aciklama": "Ocak-ekim arası bütçe açığı 128.7 milyar TL oldu. Orta Vadeli Plan’da yılsonu için 461.2 milyar TL olarak belirtilen açık hedefi, kesenin ağzının daha da açılacağını gösteriyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/butce-acigi-rekor-tazeledi-on-ayda-1287-milyar-tl-2003185"
+      },
+      "konular": [],
+      "yayin": "2022-11-16T04:00:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-2003203",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolar/TL'de yatay seyir sürüyor: Dolar ne kadar oldu? (16 Kasım 2022)",
+      "aciklama": "Dolar/TL, 18.6 seviyesi etrafındaki yatay seyrini bugün de korurken, Polonya'ya düşen Rus yapımı füzenin yarattığı endişelerle yurtdışı borsalarda kayıplar görüldü, dolar ise güvenli liman talebiyle kaydettiği kazanımların bir kısmını korudu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/dolartlde-yatay-seyir-suruyor-dolar-ne-kadar-oldu-16-kasim-2022-2003203"
+      },
+      "konular": [],
+      "yayin": "2022-11-16T09:32:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1885293",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolar'da rekor artış durdurulamadı: Yeni rekor",
+      "aciklama": "Dolar/TL, Türkiye'de devam eden enflasyon ve para politikası endişeleri nedeniyle bir rekor daha kırdı. Dolar, 10,4426 seviyesini gördü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/dolarda-rekor-artis-durdurulamadi-yeni-rekor-1885293"
+      },
+      "konular": [],
+      "yayin": "2021-11-16T18:42:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1791297",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bosna Hersek'te koronavirüsten ölen aday seçimi kazandı",
+      "aciklama": "Bosna Hersek'te dün yapılan yerel seçimlerde, ülkenin orta kesimindeki Travnik şehrinde belediye başkanlığını, seçim günü yeni tip koronavirüs (Kovid-19) nedeniyle hayatını kaybeden Mirsad Peco kazandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bosna-hersekte-koronavirusten-olen-aday-secimi-kazandi-1791297"
+      },
+      "konular": [],
+      "yayin": "2020-11-16T03:00:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1791401",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP’li Ali Mahir Başarır: 'Teşvikiye'nin tek deprem toplanma alanı imara açıldı'",
+      "aciklama": "AFAD planları ile e-Devlet sisteminde 'Deprem Toplanma Alanı' olarak görülen Teşvikiye'nin tek deprem toplanma alanı, Marmara Üniversitesi Nişantaşı Yerleşkesi arazisi,  1,7 milyar TL karşılığında DAP Yapı’ya verildi. Kampüs arazisinin “Durmak yok adam gibi yola devam” sloganıyla",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chpli-ali-mahir-basarir-tesvkiyenin-tek-toplanma-alani-imara-acildi-1791401"
+      },
+      "konular": [],
+      "yayin": "2020-11-16T13:20:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1702510",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP'li Konya Büyükşehir Belediyesi'nden su ve ulaşıma zam",
+      "aciklama": "AKP'li Konya Büyükşehir Belediyesi, toplu ulaşım ücretlerine yaklaşık yüzde 15 zam yaptı. Belediye su fiyatlarına da zam kararı aldı. Zamların 1 Ocak 2020 tarihinden itibaren uygulanmaya başlanacağı öğrenildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/akpli-konya-buyuksehir-belediyesinden-su-ve-ulasima-zam-1702510"
+      },
+      "konular": [],
+      "yayin": "2019-11-16T21:23:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1702465",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bursa’daki deprem İstanbul depremini tetikler mi?",
+      "aciklama": "Bursa’nın Osmangazi ilçesinde saat 03.28’de 3.0 büyüklüğünde deprem meydana geldi. Kandilli Rasathanesi'nin verdiği bilgilere göre deprem, yerin 5.3 km derinliğinde gerçekleşti. Cumhuriyet, Bursa’daki deprem, beklenen İstanbul depremini tetikler mi sorusuna yanıt aradı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bursadaki-deprem-istanbul-depremini-tetikler-mi-1702465"
+      },
+      "konular": [],
+      "yayin": "2019-11-16T16:00:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1142939",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İngiltere'de Brexit krizi: 'Muhafazakar Parti'de Başbakan May için Salı günü güvensizlik oylaması yapılabilir'",
+      "aciklama": "Taslak Brexit anlaşması sonrası İngiltere Başbakanı Theresa May'a lideri olduğu Muhafazakar Parti'de tepkiler artıyor. Partiye yakın Daily Telegraph gazetesi, muhafazakar milletvekillerinin May'i görevden almak için güvensizlik oylaması hazırlığında olduğunu ve oylamanın Salı gün",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ingilterede-brexit-krizi-muhafazakar-partide-basbakan-may-icin-sali-gunu-guvensizlik-oylamasi-yapilabilir-1142939"
+      },
+      "konular": [],
+      "yayin": "2018-11-16T15:57:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1142530",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Houston Rockets, son şampiyonu rahat geçti",
+      "aciklama": "Amerikan Basketbol Ligi'nde (NBA) son şampiyon Golden State Warriors, deplasmanda Houston Rockets'a 107-86 yenildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/houston-rockets-son-sampiyonu-rahat-gecti-1142530"
+      },
+      "konular": [],
+      "yayin": "2018-11-16T11:16:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-867342",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Sel felaketinden sonra Yunanistan’da yas ilan edildi",
+      "aciklama": "Yunanistan’ın Batı Attika bölgesinde yaşanan ve geride 16 ölü, beş kayıp ve 21 yaralı bırakan sel felaketinden sonra Yunanistan Başbakanı Aleksis Çipras yas ilan etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/sel-felaketinden-sonra-yunanistanda-yas-ilan-edildi-867342"
+      },
+      "konular": [],
+      "yayin": "2017-11-16T15:06:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-866967",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İçişleri’nde rekor: Bütçe 50 milyar lira",
+      "aciklama": "Plan ve Bütçe Komisyonu’nda görüşülen İçişleri Bakanlığı’nın bütçesi yüzde 25\r\nartışla 50 milyara çıkarılırken Bakan Soylu 39 silahlı İHA’nın alınacağını belirtti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/icislerinde-rekor-butce-50-milyar-lira-866967"
+      },
+      "konular": [],
+      "yayin": "2017-11-16T06:07:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-631672",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bulgaristan'da 220 milletvekili başbakanla birlikte istifa etti",
+      "aciklama": "Bulgaristan Parlamentosu yeni cumhurbaşkanının seçilmesinin ardından Başbakan Boyko Borisov'un sunduğu hükümetin istifa dilekçesini onayladı. Toplam 240 milletvekilinin katıldığı oylamada 220 milletvekili istifaya destek verirken iki kişi çekimser kaldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bulgaristanda-220-milletvekili-basbakanla-birlikte-istifa-etti-631672"
+      },
+      "konular": [],
+      "yayin": "2016-11-16T19:40:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-631697",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bozdağ ABD'de, Sarraf'ın serbest bırakılmasını istedi... CHP'li Erdem Meclis'e taşıdı",
+      "aciklama": "Adalet Bakanı Bekir Bozdağ'ın ABD ziyaretinde kara para aklama, dolandırıcılık suçlarından tutuklanan Sarraf'ın serbest bırakılmasına ilişkin ABD Adalet Bakanı Loretta Lynch ile bir araya geldiği ortaya çıktı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bozdag-abdde-sarrafin-serbest-birakilmasini-istedi-chpli-erdem-meclise-tasidi-631697"
+      },
+      "konular": [],
+      "yayin": "2016-11-16T21:07:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-420761",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Marmara'daki deprem daha büyük bir depremi tetikler mi?",
+      "aciklama": "Marmara’da meydana gelen 4.2’lik deprem sonrası İstanbul Teknik Üniversitesi öğretim görevlilerinden art arda açıklamalar geldi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/marmaradaki-deprem-daha-buyuk-bir-depremi-tetikler-mi-420761"
+      },
+      "konular": [],
+      "yayin": "2015-11-16T18:40:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-420671",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fransa Cumhurbaşkanı Hollande: Fransa savaştadır",
+      "aciklama": "Fransa Cumhurbaşkanı François Hollande",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fransa-cumhurbaskani-hollande-fransa-savastadir-420671"
+      },
+      "konular": [],
+      "yayin": "2015-11-16T17:22:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-142043",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Suriye tarafından sınırdaki askere ateş açıldı",
+      "aciklama": "Genelkurmay Başkanlığı, Suriye tarafından 2 kişinin sınırdaki askerlerin üzerine ateş açtığını bildirdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/suriye-tarafindan-sinirdaki-askere-ates-acildi-142043"
+      },
+      "konular": [],
+      "yayin": "2014-11-16T14:10:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-9883",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Avcı'dan 'Başbakan'la yapıyoruz' mesajı",
+      "aciklama": "Dershanelere açık lise formülü ile hiçbir liseye kayıt olmayanlar sorunu çözülecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/avcidan-basbakanla-yapiyoruz-mesaji-9883"
+      },
+      "konular": [],
+      "yayin": "2013-11-16T12:35:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-10061",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ulvi Cemal Erkin ödülünü Jan Gazdzicki kazandı",
+      "aciklama": "Notre Dame de Sion (NDS) Fransız Lisesi’nin öncülüğünde 11- 17 Kasım günlerinde gerçekleştirilen  İstanbul  Orchestra’Sion Uluslararası Piyano Yarışması’nda Ulvi Cemal Erkin Ödülü’nü Polonyalı piyanist Jan Gazdzicki kazandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/ulvi-cemal-erkin-odulunu-jan-gazdzicki-kazandi-10061"
+      },
+      "konular": [],
+      "yayin": "2013-11-16T23:49:00+03:00",
+      "puan": 6,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-384104",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bu hafta dolar ve avro kazandırdı",
+      "aciklama": "Haftalık bazda avronun satış fiyatı yüzde 0,88 oranında, Amerikan Doları'nın satış fiyatı da yüzde 0,56 oranında değer kazandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bu-hafta-dolar-ve-avro-kazandirdi-384104"
+      },
+      "konular": [],
+      "yayin": "2012-11-16T17:59:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-384080",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Muhalefetin soruları 19 Kasım'da Erdoğan'a iletilecek",
+      "aciklama": "TBMM Darbe ve Muhtıraları Araştırma Komisyonu Sözcüsü Çankırı Milletvekili İdris Şahin, muhalefet partisi milletvekillerinin Başbakan Recep Tayyip Erdoğan'a yönelteceği soruları 19 Kasım Pazartesi günü komisyona sunacaklarını belirterek, ''Biz de bunları Sayın Başbakanımıza ilete",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/muhalefetin-sorulari-19-kasimda-erdogana-iletilecek-384080"
+      },
+      "konular": [],
+      "yayin": "2012-11-16T15:38:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-298510",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Depremzedeler için 81 valilikte büro",
+      "aciklama": "Başbakanlık Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) Van'daki depremzedelerin boş konutlara yerleştirilmesi için 81 il valiliğinde bürolar oluşturulduğunu bildirdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/depremzedeler-icin-81-valilikte-buro-298510"
+      },
+      "konular": [],
+      "yayin": "2011-11-16T17:19:00+03:00",
+      "puan": 6,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-298504",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ödeme yerel seçimler öncesine",
+      "aciklama": "Çalışma ve Sosyal Güvenlik Bakanı Faruk Çelik, İntibak Yasası'na ilişkin düzenlemeyi 2012 yılının ilk yarısında bitirmeye çalışacaklarını belirterek,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/odeme-yerel-secimler-oncesine-298504"
+      },
+      "konular": [],
+      "yayin": "2011-11-16T20:46:00+03:00",
+      "puan": 5,
+      "durum": "haber"
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }
