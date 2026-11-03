@@ -1339,7 +1339,7 @@
     "url": "https://tr.wikipedia.org/wiki/5_Kas%C4%B1m",
     "revid": 38168818
   },
-  "guncelleme": "2026-11-02T15:00:46.163Z",
+  "guncelleme": "2026-11-03T13:48:28.651Z",
   "haberler": [
     {
       "id": "2025-haber-2449968",
@@ -1352,17 +1352,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/dolar-rekor-seviyeye-yakin-gozler-bakan-simsek-ve-merkez-bankasi-nda-2449968"
       },
-      "konular": [
-        "Dolar",
-        "Mehmet Şimşek",
-        "Türkiye Cumhuriyet Merkez Bankası"
-      ],
+      "konular": [],
       "yayin": "2025-11-05T10:39:00+03:00",
       "puan": 16,
-      "durum": "elendi",
-      "baslik": "Döviz piyasasında gözler ekonomi yönetimine çevrildi",
-      "ozet": "Dolar kuru güne hafif bir artışla giriş yaptı. Yatırımcılar Hazine ve Maliye Bakanı Mehmet Şimşek tarafından yapılacak değerlendirmeleri ve Merkez Bankası'nın yıl sonuna dair vereceği mesajları beklemeye başladı. Aynı zamanda küresel piyasalarda Amerikan Merkez Bankası'nın faiz politikasına ilişkin belirsizlikler devam ediyor.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2450151",
@@ -1375,18 +1368,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/canli-yayin-ajax-galatasaray-canli-anlatim-uefa-sampiyonlar-ligi-4-haftasi-2450151"
       },
-      "konular": [
-        "Galatasaray (futbol takımı)",
-        "Ajax",
-        "UEFA Şampiyonlar Ligi"
-      ],
+      "konular": [],
       "yayin": "2025-11-05T22:32:00+03:00",
       "puan": 12,
-      "durum": "yazildi",
-      "baslik": "Galatasaray Hollanda deplasmanında Ajax'ı üç golle mağlup etti",
-      "ozet": "UEFA Şampiyonlar Ligi dördüncü hafta mücadelesinde Galatasaray, deplasmanda karşılaştığı Ajax'ı üç sıfırlık skorla geçti. Müsabakadaki tüm golleri kaydeden Victor Osimhen galibiyette başrol oynadı. Bu sonuçla birlikte Galatasaray, Hollanda temsilcisini kendi sahasında yenmeyi başaran ilk Türk takımı olarak kayıtlara geçti.",
-      "kategori": "Spor",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2265467",
@@ -1399,30 +1384,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/turk-lirasi-reel-doviz-kuru-43-ayin-zirvesine-ulasti-tl-deger-kazandi-2265467"
       },
-      "konular": [
-        "Türk lirası",
-        "Reel efektif döviz kuru",
-        "Türkiye ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2024-11-05T15:55:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Türk Lirası reel döviz kuru son kırk üç ayın en yüksek seviyesine çıktı",
-      "ozet": "Ekim ayı verilerine göre Türk Lirası reel döviz kuru yükseliş gösterdi. Bu artışla birlikte para birimi son kırk üç ayın zirvesine ulaştı. Söz konusu değişim Türk Lirası'nın değer kazandığına dair bir gösterge olarak değerlendirildi.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/9._Emisyon_T%C3%BCrk_banknotlar%C4%B1.gif",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/9._Emisyon_T%C3%BCrk_banknotlar%C4%B1.gif",
-        "genislik": 728,
-        "yukseklik": 356,
-        "orijinalGenislik": 728,
-        "yazar": "Türkiye Cumhuriyet Merkez Bankası",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:9._Emisyon_T%C3%BCrk_banknotlar%C4%B1.gif",
-        "aciklama": "9. Series of Turkish Lira banknotes",
-        "konu": "Türk lirası"
-      }
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2265270",
@@ -1435,17 +1400,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/borsa-gune-yukselisle-basladi-gozler-abd-baskanlik-secimlerinde-2265270"
       },
-      "konular": [
-        "Borsa İstanbul",
-        "BIST 100",
-        "ABD başkanlık seçimleri"
-      ],
+      "konular": [],
       "yayin": "2024-11-05T10:11:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Borsa İstanbul güne değer kazanarak giriş yaptı",
-      "ozet": "Borsa İstanbul bünyesindeki BIST 100 endeksi, günün ilk işlemlerinde yüzde 0,59 oranında bir artış kaydetti. Endeks, güne 8.714,65 puan seviyesinden başlangıç yaptı. Yatırımcılar ise piyasalardaki hareketliliği takip ederken dikkatlerini Amerika Birleşik Devletleri'nde gerçekleşen başkanlık seçimlerine çevirdi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2137530",

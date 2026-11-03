@@ -1246,40 +1246,8 @@
     "url": "https://tr.wikipedia.org/wiki/12_Kas%C4%B1m",
     "revid": 36384505
   },
-  "guncelleme": "2026-11-02T15:00:50.065Z",
+  "guncelleme": "2026-11-03T13:48:32.244Z",
   "haberler": [
-    {
-      "id": "2025-haber-2451928",
-      "yil": 2025,
-      "bolge": "turkiye",
-      "tur": "haber",
-      "metin": "TBMM Plan ve Bütçe Komisyonu’nda Çalışma Bakanı Işıkhan’a tepki gösterildi: ‘İstifa edin’",
-      "aciklama": "TBMM Plan ve Bütçe Komisyonu’nda muhalefet Dilovası’nda aralarında çocukların da bulunduğu 6 işçinin yaşamını yitirmesi nedeniyle Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan’a istifa çağrısı yaptı. CHP Malatya Milletvekili Veli Ağbaba, “Bu bir kanlı bütçedir” dedi.",
-      "haberKaynagi": {
-        "ad": "Cumhuriyet",
-        "url": "https://www.cumhuriyet.com.tr/ekonomi/tbmm-plan-ve-butce-komisyonu-nda-calisma-bakani-isikhan-a-tepki-gosterildi-istifa-edin-2451928"
-      },
-      "konular": [],
-      "yayin": "2025-11-12T04:00:00+03:00",
-      "puan": 12,
-      "durum": "haber"
-    },
-    {
-      "id": "2025-haber-2452017",
-      "yil": 2025,
-      "bolge": "turkiye",
-      "tur": "haber",
-      "metin": "2026 FIFA Dünya Kupası Elemeleri'nde 9. hafta heyecanı başlıyor!",
-      "aciklama": "2026 FIFA Dünya Kupası Elemeleri'nde 9. hafta karşılaşmaları oynanacak. A Milli Futbol Takımı cumartesi günü Bursa'da Bulgaristan'ı ağırlayacak.",
-      "haberKaynagi": {
-        "ad": "Cumhuriyet",
-        "url": "https://www.cumhuriyet.com.tr/spor/2026-fifa-dunya-kupasi-elemeleri-nde-9-hafta-heyecani-basliyor-2452017"
-      },
-      "konular": [],
-      "yayin": "2025-11-12T12:22:00+03:00",
-      "puan": 10,
-      "durum": "haber"
-    },
     {
       "id": "2024-haber-2267968",
       "yil": 2024,
@@ -1714,7 +1682,6 @@
     }
   ],
   "haberYillari": [
-    2025,
     2024,
     2023,
     2022,
