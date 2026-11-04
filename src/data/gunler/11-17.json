@@ -1077,5 +1077,504 @@
     "url": "https://tr.wikipedia.org/wiki/17_Kas%C4%B1m",
     "revid": 38169050
   },
-  "guncelleme": "2026-10-22T08:16:30.019Z"
+  "guncelleme": "2026-10-22T08:16:30.019Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2453428",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan örtülü ödenekte rekor kırdı: Gizli harcama bir yılda beş kat arttı!",
+      "aciklama": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın kullanım yetkisindeki örtülü ödenek harcamalarında dev artış yaşandı. Gizli hizmet giderleri Ekim ayında aylık bazda beşe katlanarak rekor kırarken 10 aylık toplam harcama miktarı da yüzde 37 artışla dikkat çekti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/erdogan-ortulu-odenekte-rekor-kirdi-gizli-harcama-bir-yilda-bes-kat-artti-2453428"
+      },
+      "konular": [],
+      "yayin": "2025-11-17T12:56:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2025-haber-2453514",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Kabine Toplantısı başladı: Erdoğan'ın masasında neler var?",
+      "aciklama": "Cumhurbaşkanlığı Kabinesi, AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/kabine-toplantisi-basladi-erdogan-in-masasinda-neler-var-2453514"
+      },
+      "konular": [],
+      "yayin": "2025-11-17T16:09:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2269593",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Malatya ve Sivas'ta 5 mahalle maden sahası ilan edildi: 'Köy yok olursa ben vatansız kalırım'",
+      "aciklama": "Malatya’nın Kuluncak ilçesine bağlı Sofular, Bicir, Alvar, Çörme Mahalleleri ile Sivas’ın Gürün ilçesine bağlı Sarıca Köyü’nün bulunduğu alanın maden sahası ilan edilmesi üzerine köylüler bir araya gelerek tepki gösterdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/malatya-ve-sivasta-5-mahalle-maden-sahasi-ilan-edildi-koy-yok-olursa-2269593"
+      },
+      "konular": [],
+      "yayin": "2024-11-17T14:34:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2269516",
+      "yil": 2024,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "Yunanistan'da 'Türkiye' tartışması: Eski Başbakan partisinden ihraç edildi",
+      "aciklama": "Yunanistan'ın eski Başbakanı ve iktidardaki Yeni Demokrasi (ND) Partisinin önde gelen isimlerinden Antonis Samaras, Başbakan Kiryakos Miçotakis hükümetine yönelik eleştirilerinin ardından partiden ihraç edildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/yunanistanda-turkiye-tartismasi-eski-basbakan-partisinden-ihrac-2269516"
+      },
+      "konular": [],
+      "yayin": "2024-11-17T11:22:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2141919",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Euro ve dolar zirve tazeledi! Dolar ve Euro ne kadar oldu? 17 Kasım 2023 döviz fiyatları",
+      "aciklama": "Dolar son günlerde bütün paralara karşı değer kaybederken TL karşısında zirve tazeledi. Euro'da 32'ye dayandı. dün TBMM Dışişleri Komisyonu'nda görüşülmeye başlanan ve ertelenen İsveç'in NATO üyeliği görüşmelerine ilişkin açıklama, yorum ve beklentiler piyasalarda izlenmeye devam",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/euro-ve-dolar-zirve-tazeledi-dolar-ve-euro-ne-kadar-oldu-17-kasim-2141919"
+      },
+      "konular": [],
+      "yayin": "2023-11-17T09:36:00+03:00",
+      "puan": 14,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2141844",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP, anayasa tartışmalarına kapıyı kapattı: Seçim sonrasına bıraktık",
+      "aciklama": "TBMM Başkanı Numan Kurtulmuş, Meclis’te CHP Genel Başkanı Özgür Özel’i ziyaret etti. Görüşme sonrası açıklama yapan Özel, “Anayasa ve İç Tüzük’le ilgili tartışmaları yerel seçimlerden sonraya bıraktık” dedi. Kurtulmuş’la görüşen Saadet Partisi Grup Başkanı Selçuk Özdağ da “Aralık",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/chp-anayasa-tartismalarina-kapiyi-kapatti-secim-sonrasina-biraktik-2141844"
+      },
+      "konular": [],
+      "yayin": "2023-11-17T03:00:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-2003634",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Meclis'teki bütçe görüşmelerinde 'maden faciası' tartışması: CHP'li Bankoğlu'ndan Bakan Dönmez'e istifa çağrısı",
+      "aciklama": "2023 Merkezi Bütçe Teklifi’nin görüşüldüğü Plan ve Bütçe Komisyonu’na Enerji Bakanlığı’nın bütçe teklifini görüşmek üzere Enerji ve Tabii Kaynaklar Bakanı Fatih Dönmez katıldı. CHP Bartın milletvekili Av. Aysu Bankoğlu, 42 madencinin hayatını kaybettiği maden faciasını hatırlatar",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/meclisteki-butce-gorusmelerinde-maden-faciasi-tartismasi-chpli-bankoglundan-bakan-donmeze-istifa-cagrisi-2003634"
+      },
+      "konular": [],
+      "yayin": "2022-11-17T12:56:00+03:00",
+      "puan": 14,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-2003523",
+      "yil": 2022,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "1966 Dünya Kupası'nın gizemi çözüldü... Başbakan hırsızları korudu mu?",
+      "aciklama": "Dünya Kupası organizasyonun 22'cisi merakla beklenirken 1966 Dünya Kupası'na dair önemli bir gelişme yaşandı. Organizasyonun sekizincisinin 56 yıllık gizemi çözüldü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/1966-dunya-kupasinin-gizemi-cozuldu-basbakan-hirsizlari-korudu-mu-2003523"
+      },
+      "konular": [],
+      "yayin": "2022-11-17T08:02:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1885573",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Düzce'deki deprem sonrası uzmanlardan ilk değerlendirme: '1999 depreminin fayı'",
+      "aciklama": "Kandilli'den yapılan açıklamaya göre saat 15.40'ta merkez üssü Düzce olan 5,3 büyüklüğünde deprem oldu. Deprem İstanbul, Kocaeli, Bolu ve Eskişehir'den de hissedildi. Depremin ardından 4,3 büyüklüğünde bir deprem daha meydana geldi. Uzmanlar, depremin hemen ardından açıklamalarda",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/duzcedeki-deprem-sonrasi-uzmanlardan-ilk-degerlendirme-1999-depreminin-fayi-1885573"
+      },
+      "konular": [],
+      "yayin": "2021-11-17T16:28:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1885414",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Piyasalarda son durum: Dolar ve euro ne kadar oldu? (17 Kasım 2021)",
+      "aciklama": "Dolar/TL, doların gücünü koruması, TCMB'nin yarınki toplantıda faizleri indireceği beklentisi ve enflasyon-para politikası endişeleriyle tarihi zirvelerdeki seyrini sürdürdü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/piyasalarda-son-durum-dolar-ve-euro-ne-kadar-oldu-17-kasim-2021-1885414"
+      },
+      "konular": [],
+      "yayin": "2021-11-17T09:09:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1791762",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Azerbaycan’a asker gönderilmesine ilişkin tezkere TBMM'de kabul edildi",
+      "aciklama": "Azerbaycan’a asker gönderilmesine ilişkin Cumhurbaşkanlığı Tezkeresi TBMM Genel Kurulu’nda kabul edildi. Tezkere AKP, CHP, MHP ve İYİ Parti’nin oyları ile geçti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/azerbaycana-asker-gonderilmesine-iliskin-tezkere-tbmmde-kabul-edildi-1791762"
+      },
+      "konular": [],
+      "yayin": "2020-11-17T21:32:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1791748",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Rekor-adam Emre'den olimpiyat sözü",
+      "aciklama": "Macaristan'ın başkenti Budapeşte'de düzenlenen Uluslararası Yüzme Ligi'nde birçok başarı elde eden milli yüzücüsü Emre Sakçı, yurda döndü.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/rekor-adam-emreden-olimpiyat-sozu-1791748"
+      },
+      "konular": [],
+      "yayin": "2020-11-17T18:22:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1702605",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Türkiye Motodrag şampiyonası Kepez’de",
+      "aciklama": "Kepez Belediyesi’nin Odabaşı Mahallesi’nde açtığı Kepez Drag Pisti, Türkiye Drag Şampiyonası’nın 2. ve 3. Ayak Yarışlarına ev sahipliği yapıyor. 16 Kasım Cumartesi günü başlayan Motodrag yarışları hız kesmeden devam ediyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/turkiye-motodrag-sampiyonasi-kepezde-1702605"
+      },
+      "konular": [],
+      "yayin": "2019-11-17T14:25:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1702552",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan'ın eski basın danışmanı: Arkadaşlarımız ben istemeden ertesi gün gazete manşetini bana gönderip, 'Uygun mudur?' diye soruyordu",
+      "aciklama": "AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan'ın bir dönem basın danışmanlığını yapan Kemal Öztürk,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdoganin-eski-basin-danismani-arkadaslarimiz-ben-istemeden-ertesi-gun-gazete-mansetini-bana-gonderip-uygun-mudur-diye-soruyordu-1702552"
+      },
+      "konular": [],
+      "yayin": "2019-11-17T09:27:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1143667",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Göbeklitepe, tam gün ziyarete açıldı",
+      "aciklama": "ŞANLIURFA’da, dünyanın en eski anıtsal tapınağı olarak kabul edilen ve UNESCO Dünya Miras Listesi'ne alınan 12 bin yıllık tarihe sahip Göbeklitepe'nin çatı tadilatının tamamlanarak tüm gün ziyarete açıldığı bildirildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/gobeklitepe-tam-gun-ziyarete-acildi-1143667"
+      },
+      "konular": [],
+      "yayin": "2018-11-17T14:03:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1144028",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Yağmurda emek buluşması: “Saraya değil emekçiye bütçe",
+      "aciklama": "KESK’in, “Krizin faturasını ödemeyeceğiz” vurgusuyla 5 ilde düzenlediği bölge mitinglerinden ilki, dün İzmir Gündoğdu Alanı’nda yağmur altında yapıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/yagmurda-emek-bulusmasi-saraya-degil-emekciye-butce-1144028"
+      },
+      "konular": [],
+      "yayin": "2018-11-17T21:01:00+03:00",
+      "puan": 6,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-867959",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Olimpiyat şampiyonu, İranlı depremzedeler için madalyasını satışa çıkardı",
+      "aciklama": "İranlı olimpiyat şampiyonu halterci Kianoush Rostami, Rio 2016'da kazandığı altın madalyayı, geçen hafta İran-Irak sınırında meydana gelen 7,3 büyüklüğündeki depremden etkilenenlere yardım için açık arttırmaya koydu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/olimpiyat-sampiyonu-iranli-depremzedeler-icin-madalyasini-satisa-cikardi-867959"
+      },
+      "konular": [],
+      "yayin": "2017-11-17T13:01:00+03:00",
+      "puan": 14,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-867892",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan Merkez Bankası'nı hedef aldı... Dolar 3.90'ı aştı",
+      "aciklama": "AKP'li Cumhurbaşkanı Erdoğan'ın Merkez Bankası'nı hedef alan açıklamalarının ardından dolar 3.90' aştı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-merkez-bankasini-hedef-aldi-dolar-390i-asti-867892"
+      },
+      "konular": [],
+      "yayin": "2017-11-17T11:48:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-632055",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Türk lirası eriyor... Dolardan bir rekor daha",
+      "aciklama": "Dolar fiyatları TL karşısında yükselişine devam ediyor. Dolar bugün 3,33 seviyesinin üstüne çıkarak yeni bir rekor çıktı. Uzmanlar, dolarda 3,435 seviyesinin görüleceğini tahmin ediyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/turk-lirasi-eriyor-dolardan-bir-rekor-daha-632055"
+      },
+      "konular": [],
+      "yayin": "2016-11-17T16:22:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-632147",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Galatasaray Odeabank'ta kadro dışı depremi",
+      "aciklama": "Sarı-kırmızılılarda Darüşşafaka Doğuş maçı öncesi iki ABD'li oyuncu Russ Smith ve Justin Dentmon'ı kadro dışı bırakıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/galatasaray-odeabankta-kadro-disi-depremi-632147"
+      },
+      "konular": [],
+      "yayin": "2016-11-17T19:35:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-421005",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Savaş bütçesi rekor kırdı",
+      "aciklama": "Sadece bir ayda savunma ve güvenlik için 519.2 milyon lira rekor harcama yapıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/savas-butcesi-rekor-kirdi-421005"
+      },
+      "konular": [],
+      "yayin": "2015-11-17T00:03:00+03:00",
+      "puan": 14,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-421791",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AİHM'den Türkiye'ye 'Marmara Depremi' cezası",
+      "aciklama": "Avrupa İnsan Hakları Mahkemesi AİHM 1999 yılında Türkiye'de meydan gelen depremle ilgili Çınarcık'tan yapılan başvuruda Türkiye'yi haksız buldu. Türkiye 124 bin euro maddi tazminat ödeyecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/aihmden-turkiyeye-marmara-depremi-cezasi-421791"
+      },
+      "konular": [],
+      "yayin": "2015-11-17T14:45:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-142438",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "12 milyarlık İBB bütçesi tartışmalar arasında Meclis'ten geçti",
+      "aciklama": "İstanbul Büyükşehir Belediyesi'nin 2015 yılı bütçesi 12 milyar 250 milyon TL olarak oy çokluğu ile İBB Meclisi'nden geçti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/12-milyarlik-ibb-butcesi-tartismalar-arasinda-meclisten-gecti-142438"
+      },
+      "konular": [],
+      "yayin": "2014-11-17T21:52:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-142390",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Ağbaba: AKP oy isterken demokrat, seçimden sonra diktatör",
+      "aciklama": "CHP Genel Başkan Yardımcısı Veli Ağbaba, AB Bakanı Volkan Bozkır'ın, Kuşadası İlçe Başkanlığı kongresinde adaylardan birisinin çekilmesini istemesini eleştirirken,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/agbaba-akp-oy-isterken-demokrat-secimden-sonra-diktator-142390"
+      },
+      "konular": [],
+      "yayin": "2014-11-17T16:36:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-10233",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Zaman yazarlarından Başbakan'a dershane tehdidi",
+      "aciklama": "Cemaatin basın organı Zaman yazarları Mustafa Ünal ve Mümtaz'er Türköne'nin bugünkü yazıları dershanelerin kapatılması ile ilgiliydi. Yazılarda Başbakan'a yönelik tehdit gibi tepkiler yer aldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/zaman-yazarlarindan-basbakana-dershane-tehdidi-10233"
+      },
+      "konular": [],
+      "yayin": "2013-11-17T12:59:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-10123",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Beşir Atalay ve Erdoğan arasında Kürdistan tartışması",
+      "aciklama": "Beşir Atalay: Kürdistan sözcüğünü kullanmayı tartıştık",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/besir-atalay-ve-erdogan-arasinda-kurdistan-tartismasi-10123"
+      },
+      "konular": [],
+      "yayin": "2013-11-17T09:25:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-384204",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan'dan İsrail'e: Hesabı sorulacak",
+      "aciklama": "Kahire Üniversitesi'nde konuşan Recep Tayyip Erdoğan, İsrail'e yüklendi. Erdoğan,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-israile-hesabi-sorulacak-384204"
+      },
+      "konular": [],
+      "yayin": "2012-11-17T10:03:00+03:00",
+      "puan": 5,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-384266",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "31. Uluslararası Kitap Fuarı açıldı",
+      "aciklama": "31. Uluslararası İstanbul Kitap Fuarı, 600 yayınevi ve sivil toplum kuruluşu, 40 ülkeden yayınevleri, telif ajansları ve konuk yazarların katılımıyla açıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/31-uluslararasi-kitap-fuari-acildi-384266"
+      },
+      "konular": [],
+      "yayin": "2012-11-17T14:12:00+03:00",
+      "puan": 3,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-298800",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan, Time dergisine kapak oldu",
+      "aciklama": "ABD'nin ünlü dergisi Time, yeni sayısında Erdoğan'ı kapak olarak seçti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-time-dergisine-kapak-oldu-298800"
+      },
+      "konular": [],
+      "yayin": "2011-11-17T22:01:00+03:00",
+      "puan": 5,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-298636",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan'dan dünyaya Suriye resti",
+      "aciklama": "Başbakan Recep Tayyip Erdoğan, Karadeniz Ekonomik ve İşbirliği Forumu'nda enerji politikalarını değerlendirdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-dunyaya-suriye-resti-298636"
+      },
+      "konular": [],
+      "yayin": "2011-11-17T09:29:00+03:00",
+      "puan": 5,
+      "durum": "haber"
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }

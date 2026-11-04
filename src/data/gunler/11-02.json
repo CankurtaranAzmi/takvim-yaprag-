@@ -225,7 +225,6 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Howard_Hughes.jpg/960px-Howard_Hughes.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Howard_Hughes.jpg/500px-Howard_Hughes.jpg",
@@ -238,7 +237,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Howard_Hughes.jpg",
         "aciklama": "Howard Hughes \"standing in front of his new Boeing Army Pursuit Plane\" (Boeing 100A) in Inglewood, California in the 1940s. The black \"halo\" is presumably intended to make the head stand out better. (",
         "konu": "Howard Hughes"
-      }
+      },
+      "durum": "bekliyor"
     },
     {
       "id": "1947-kaliforniyada-havaci-ve-is-insani-howard-hughes",
@@ -1121,6 +1121,10 @@
     {
       "yil": 2022,
       "metin": "Jambey Tashi, Hint siyasetçi (d. 1978)"
+    },
+    {
+      "yil": 2026,
+      "metin": "Ahmet Nazif Zorlu, Türk iş adamı (d. 1944)"
     }
   ],
   "ozelGunler": [
@@ -1130,9 +1134,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/2_Kas%C4%B1m",
-    "revid": 38428123
+    "revid": 38446370
   },
-  "guncelleme": "2026-11-03T13:48:27.433Z",
+  "guncelleme": "2026-11-04T13:56:25.054Z",
   "haberler": [
     {
       "id": "2025-haber-2448972",
