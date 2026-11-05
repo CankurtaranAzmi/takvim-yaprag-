@@ -653,64 +653,12 @@
         "Mihail Gorbaçov",
         "Cenova"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg/960px-Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg/500px-Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1221,
-        "orijinalGenislik": 1208,
-        "yazar": "Pete Souza",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ronald_Reagan_1985_presidential_portrait_(cropped).jpg",
-        "aciklama": "Official portrait photograph of Ronald Reagan, 1985",
-        "konu": "Ronald Reagan"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg/960px-Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg/500px-Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1221,
-          "orijinalGenislik": 1208,
-          "yazar": "Pete Souza",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ronald_Reagan_1985_presidential_portrait_(cropped).jpg",
-          "aciklama": "Official portrait photograph of Ronald Reagan, 1985",
-          "konu": "Ronald Reagan"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
-          "genislik": 480,
-          "yukseklik": 640,
-          "orijinalGenislik": 480,
-          "yazar": "RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev.jpg: Vladimir Vyatkin / Владимир Вяткин derivative work: Jbarta",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_(crop).jpg",
-          "aciklama": "“General Secretary of the CPSU CC M. Gorbachev”. General Secretary of the CPSU Central Committee Mikhail Gorbachev speaking at the 20th Congress of the VLKSM. Kremlin Palace of Congresses.",
-          "konu": "Mihail Gorbaçov"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Genova_Piazza_de_Ferrari_11.jpg/960px-Genova_Piazza_de_Ferrari_11.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Genova_Piazza_de_Ferrari_11.jpg/500px-Genova_Piazza_de_Ferrari_11.jpg",
-          "genislik": 960,
-          "yukseklik": 662,
-          "orijinalGenislik": 4553,
-          "yazar": "Zairon",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Genova_Piazza_de_Ferrari_11.jpg",
-          "aciklama": "Ferrari Square, Genoa, Province of Genoa, Region of Liguria, Italy",
-          "konu": "Cenova"
-        }
-      ]
+      "baslik": "Soğuk Savaş'ta Yeni Bir Dönem: Reagan ve Gorbaçov'un İlk Buluşması",
+      "ozet": "Amerika Birleşik Devletleri Başkanı Ronald Reagan ve Sovyetler Birliği Komünist Partisi Genel Sekreteri Mihail Gorbaçov, 19 Kasım 1985 tarihinde İsviçre'nin Cenova kentinde düzenlenen zirvede ilk kez yüz yüze görüştü. Soğuk Savaş'ın en gergin dönemlerinden birinde gerçekleşen bu tarihi buluşma, iki süper güç arasındaki ilişkilerin yumuşatılması ve nükleer silahlanma yarışının kontrol altına alınması adına atılan kritik bir adım olarak kabul edildi. Zirve, tarafların birbirlerinin niyetlerini anlama ve doğrudan diyalog kanallarını açma çabası açısından büyük önem taşıyordu.\n\nBu görüşme, Gorbaçov'un göreve gelmesinin ardından Sovyetler Birliği'nde başlattığı değişim sürecinin uluslararası arenadaki ilk büyük sınavıydı. Reagan ve Gorbaçov arasındaki kişisel etkileşim, sonraki yıllarda gerçekleşecek olan silahsızlanma anlaşmalarının ve Soğuk Savaş'ın sona ermesine giden sürecin temelini oluşturdu. Cenova Zirvesi, her ne kadar somut bir anlaşmayla sonuçlanmasa da, iki liderin nükleer savaşın kazananı olmayacağı konusundaki ortak görüşü, küresel güvenlik politikalarında yeni bir dönemin başlangıcı olarak tarihe geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1988-pakistanda-benazir-butto-basbakan-secildi",
@@ -720,10 +668,10 @@
         "Pakistan",
         "Benazir Butto"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Benazir Butto Pakistan'ın İlk Kadın Başbakanı Oldu",
+      "ozet": "Benazir Butto, 1988 yılında gerçekleştirilen genel seçimlerin ardından Pakistan'ın başbakanı seçilerek hem ülkesinin hem de Müslüman çoğunluklu bir devletin demokratik yollarla seçilen ilk kadın lideri olma unvanını kazandı. Bu tarihi başarı, Butto'nun babası Zülfikar Ali Butto'nun askeri bir darbeyle devrilip idam edilmesinin ardından sürdürdüğü uzun ve zorlu siyasi mücadelenin bir sonucuydu. Askeri yönetim döneminde hapis ve sürgün gibi ağır baskılarla karşılaşan Butto, Pakistan Halk Partisi'nin liderliğini üstlenerek ülkedeki demokrasi hareketinin sembolü haline geldi. Butto'nun başbakanlık koltuğuna oturması, Pakistan siyasi tarihinde askeri vesayetin gölgesinde geçen yılların ardından demokratikleşme adına atılmış kritik bir adım olarak kabul edilir. Liberal ve laik görüşleriyle tanınan Butto, görev süresi boyunca hem iç siyasetteki kutuplaşmalarla hem de ülkenin köklü yapısal sorunlarıyla mücadele etti. Onun liderliği, sadece Pakistan'da değil, dünya genelinde kadınların siyasi arenadaki temsil gücünü artıran önemli bir dönüm noktası olarak tarihe geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Oliver_Mark_-_Benazir_Bhutto%2C_Dubai_2006_%28cropped%29.jpg/960px-Oliver_Mark_-_Benazir_Bhutto%2C_Dubai_2006_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Oliver_Mark_-_Benazir_Bhutto%2C_Dubai_2006_%28cropped%29.jpg/500px-Oliver_Mark_-_Benazir_Bhutto%2C_Dubai_2006_%28cropped%29.jpg",
@@ -736,7 +684,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Oliver_Mark_-_Benazir_Bhutto,_Dubai_2006_(cropped).jpg",
         "aciklama": null,
         "konu": "Benazir Butto"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1990-avrupa-guvenlik-ve-isbirligi-konferansi-agik-toplandi",
@@ -763,10 +712,10 @@
         "Sosyaldemokrat Halkçı Parti",
         "49. Türkiye Hükûmeti"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "DYP-SHP Koalisyonu: 49. Hükümetin Kuruluşu",
+      "ozet": "19 Kasım 1991 tarihinde, Süleyman Demirel başkanlığındaki Doğru Yol Partisi (DYP) ile Erdal İnönü liderliğindeki Sosyaldemokrat Halkçı Parti (SHP) arasında varılan mutabakatla 49. Türkiye Hükûmeti kuruldu. Bu koalisyon, Türkiye siyasi tarihinde önemli bir dönüm noktası oluştururken, Erdal İnönü'nün Başbakan Yardımcılığı görevini üstlenmesiyle ortak bir yönetim anlayışı benimsendi. Süleyman Demirel, bu hükûmetle birlikte kariyerindeki yedinci başbakanlık dönemine adım atmış oldu.\n\nSöz konusu hükûmet, 1980 sonrası Türk siyasetinin yeniden şekillendiği bir dönemde, merkez sağ ve merkez solun iş birliğini temsil etmesi bakımından dikkat çekiciydi. 1991 seçimlerinin ardından oluşan bu yapı, uzun yıllar süren tek parti iktidarlarından sonra uzlaşma kültürünün bir gereği olarak ortaya çıktı. Koalisyon, dönemin ekonomik ve sosyal sorunlarına çözüm arayışıyla kurulmuş olsa da, ilerleyen yıllarda yaşanan siyasi gelişmeler ve liderlik değişimleri nedeniyle farklı süreçlerden geçecekti. 49. Hükûmet, Türk siyasi hayatında hem DYP'nin hem de SHP'nin stratejik kararlar aldığı ve Türkiye'nin yönetim biçimine dair önemli tartışmaların yürütüldüğü bir dönem olarak kayıtlara geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg",
@@ -779,7 +728,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Suleyman_Demirel_1998.jpg",
         "aciklama": "Turkish President Süleyman Demirel in Ankara on November 6, 1998, during a visit of US Secretary of Defense William Cohen.",
         "konu": "Süleyman Demirel"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1992-istanbulda-polis-otosuna-acilan-ateste-4-polis",

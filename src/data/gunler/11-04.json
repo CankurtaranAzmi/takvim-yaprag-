@@ -1160,7 +1160,7 @@
     "url": "https://tr.wikipedia.org/wiki/4_Kas%C4%B1m",
     "revid": 38461655
   },
-  "guncelleme": "2026-11-04T13:56:25.822Z",
+  "guncelleme": "2026-11-05T14:13:40.077Z",
   "haberler": [
     {
       "id": "2025-haber-2449801",
@@ -1173,17 +1173,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/chp-li-barut-gazetemizin-dayanisma-kampanyasini-meclis-gundemine-tasidi-cumhuriyet-gazetesi-sadece-bir-gazete-degil-ulkemizin-vicdanidir-2449801"
       },
-      "konular": [
-        "Cumhuriyet (gazete)",
-        "Ayhan Barut",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2025-11-04T18:04:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Cumhuriyet Gazetesi İçin Başlatılan Dayanışma Meclis Gündemine Taşındı",
-      "ozet": "Adana Milletvekili Ayhan Barut, Türkiye Büyük Millet Meclisi kürsüsünde yaptığı konuşmada Cumhuriyet Gazetesi tarafından yürütülen destek kampanyasına değindi. Gazetenin toplumsal hafızadaki yerine vurgu yapan Barut, kurumun sadece bir yayın organı olmadığını belirterek ülkenin vicdanını temsil ettiğini ifade etti.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2265115",
@@ -1196,16 +1189,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/trabzonsporda-secim-tarihi-belli-oldu-2265115"
       },
-      "konular": [
-        "Trabzonspor",
-        "Spor kulübü"
-      ],
+      "konular": [],
       "yayin": "2024-11-04T17:34:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Trabzonspor Kulübü Olağan Genel Kurul Toplantısı İçin Tarih Belirlendi",
-      "ozet": "Trabzonspor yönetimi tarafından yapılan duyuruyla kulübün olağan seçimli genel kurul toplantısının takvimi netleşti. Toplantının ilk oturumunun kasım ayının yirmi biri ve yirmi ikisinde düzenlenmesi kararlaştırıldı. Yeterli çoğunluğun oluşmaması durumunda ise genel kurulun kasım ayının sonu ile aralık ayının ilk gününde gerçekleştirileceği ifade edildi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2264988",
@@ -1218,17 +1205,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/abd-secimleri-oncesi-piyasalarda-son-durum-dolar-deger-kaybetti-hisse-2264988"
       },
-      "konular": [
-        "ABD başkanlık seçimleri",
-        "ABD Merkez Bankası",
-        "Dolar"
-      ],
+      "konular": [],
       "yayin": "2024-11-04T13:11:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "ABD seçimleri yaklaşırken finansal piyasalarda hareketlilik gözlendi",
-      "ozet": "Amerika Birleşik Devletleri başkanlık seçimleri öncesinde piyasa katılımcıları temkinli bir tutum sergiledi. Haftanın ilk iş gününde doların değerinde düşüş yaşanırken hisse senedi piyasaları durgun bir seyir izledi. Yatırımcılar hafta boyunca Merkez Bankası tarafından açıklanması beklenen olası faiz indirimi kararına odaklandı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2137363",
