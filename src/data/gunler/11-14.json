@@ -930,7 +930,7 @@
     "url": "https://tr.wikipedia.org/wiki/14_Kas%C4%B1m",
     "revid": 38169009
   },
-  "guncelleme": "2026-11-04T13:56:30.244Z",
+  "guncelleme": "2026-11-05T14:13:43.916Z",
   "haberler": [
     {
       "id": "2025-haber-2452570",
@@ -943,10 +943,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/dolar-tl-de-yeni-rekor-kur-tarihi-seviyeyi-gecti-2452570"
       },
-      "konular": [],
+      "konular": [
+        "Dolar",
+        "Türk lirası",
+        "Ekonomi"
+      ],
       "yayin": "2025-11-14T11:27:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Dolar kuru Türk Lirası karşısında en yüksek seviyesine ulaştı",
+      "ozet": "Doların Türk Lirası karşısındaki hızlı yükselişi piyasalarda hareketliliğe yol açtı. Yatırımcılar küresel ekonomik değişimleri ve para politikalarına dair belirsizlikleri yakından izlemeye başladı. Uzmanlar ise Amerikan Merkez Bankası tarafından atılacak adımların ve piyasalardaki dalgalanmaların kısa vadeli etkileri üzerinde durdu.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2025-haber-2452590",
@@ -959,10 +966,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/sindirgi-uc-aydir-olaganustu-deprem-firtinasi-yasiyor-turkiye-tarihinde-gorulmemis-duzeyde-2452590"
       },
-      "konular": [],
+      "konular": [
+        "Sındırgı",
+        "Deprem",
+        "Balıkesir"
+      ],
       "yayin": "2025-11-14T12:03:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Sındırgı bölgesindeki yoğun sismik hareketlilik uzmanlarca inceleniyor",
+      "ozet": "Balıkesir ilinin Sındırgı ilçesinde ağustos ayından itibaren devam eden sismik hareketlilik dikkat çekiyor. Gazi Üniversitesi bünyesinde görev yapan afet yönetimi uzmanı Doç. Dr. Bülent Özmen, bölgede yaşanan bu uzun süreli deprem aktivitesini değerlendirdi. Uzmanlar, Türkiye genelinde benzerine az rastlanan bu yoğun sismik süreci yakından takip ederek incelemelerini sürdürdü.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/D%C3%BC%C4%9F%C3%BCnlerde_%C3%A7erez_atma_rit%C3%BCeli.jpg/960px-D%C3%BC%C4%9F%C3%BCnlerde_%C3%A7erez_atma_rit%C3%BCeli.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/D%C3%BC%C4%9F%C3%BCnlerde_%C3%A7erez_atma_rit%C3%BCeli.jpg/500px-D%C3%BC%C4%9F%C3%BCnlerde_%C3%A7erez_atma_rit%C3%BCeli.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 2799,
+        "yazar": "Turpcan",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:D%C3%BC%C4%9F%C3%BCnlerde_%C3%A7erez_atma_rit%C3%BCeli.jpg",
+        "aciklama": "This media was uploaded as part of Wiki Loves Folklore 2026 international photographic contest.",
+        "konu": "Sındırgı"
+      }
     },
     {
       "id": "2024-haber-2268405",
@@ -975,10 +1002,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/ibb-meclisinde-akpli-uyeler-butce-oturumunu-terk-etti-2268405"
       },
-      "konular": [],
+      "konular": [
+        "İstanbul Büyükşehir Belediyesi",
+        "Esenyurt",
+        "Ahmet Özer"
+      ],
       "yayin": "2024-11-14T04:00:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İstanbul Büyükşehir Belediye Meclisi'nde bütçe görüşmeleri sırasında gerginlik",
+      "ozet": "İstanbul Büyükşehir Belediye Meclisi'nde gerçekleştirilen bütçe oturumu sırasında tartışma yaşandı. AKP Grup Sözcüsü Murat Türkyılmaz, Esenyurt Belediye Başkanı Ahmet Özer hakkındaki savcılık sevk yazısını kürsüden okumak istedi. Meclis 1. Başkanvekili Nuri Aslan'ın gündem maddelerine geçildiği gerekçesiyle bu talebi reddetmesi üzerine AKP grubu oturumu terk etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2268751",
@@ -991,10 +1025,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/fifa-kulupler-dunya-kupasinin-sampiyonluk-kupasi-tanitildi-2268751"
       },
-      "konular": [],
+      "konular": [
+        "FIFA Kulüpler Dünya Kupası",
+        "FIFA",
+        "Tiffany & Co"
+      ],
       "yayin": "2024-11-14T21:24:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "FIFA Kulüpler Dünya Kupası İçin Hazırlanan Yeni Kupa Tanıtıldı",
+      "ozet": "Dünya futbolunun yönetim organı FIFA, gelecek yıl Amerika Birleşik Devletleri'nde düzenlenecek olan 32 takımlı turnuvanın şampiyonluk ödülünü kamuoyuna sundu. Tiffany & Co tarafından tasarlanan bu özel kupa, turnuvanın yeni formatına uygun olarak hazırlandı. Organizasyonun kazananı, bu yeni tasarım ödülün sahibi olacak.",
+      "kategori": "Spor",
+      "gorsel": null
     },
     {
       "id": "2023-haber-2140829",
@@ -1007,10 +1049,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/dolarda-yeni-zirve-dolar-ve-euro-ne-kadar-oldu-14-kasim-2023-doviz-2140829"
       },
-      "konular": [],
+      "konular": [
+        "Döviz kuru",
+        "Ekonomi"
+      ],
       "yayin": "2023-11-14T09:25:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Döviz piyasalarında hareketli gün: Dolar ve Euro değer kazandı",
+      "ozet": "Dolar kuru yeni bir seviyeye ulaşarak yükselişini sürdürdü. Piyasalar gün içerisinde Amerika Birleşik Devletleri tarafından açıklanacak enflasyon verilerine ve Hazine'nin kasım ayı borçlanma programı dahilindeki ihalelerine odaklandı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2141112",
@@ -1023,10 +1071,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/chp-milletvekili-ensar-aytekin-tbmm-idare-amirligi-gorevinden-istifa-2141112"
       },
-      "konular": [],
+      "konular": [
+        "Ensar Aytekin",
+        "Cumhuriyet Halk Partisi",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2023-11-14T19:31:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ensar Aytekin TBMM İdare Amirliği görevinden ayrıldı",
+      "ozet": "Cumhuriyet Halk Partisi Balıkesir Milletvekili Ensar Aytekin, yürüttüğü TBMM İdare Amirliği görevini bıraktığını duyurdu. Aytekin, halihazırda parti bünyesinde yurtiçi ve yurtdışı örgütlenmelerden sorumlu genel başkan yardımcısı olarak çalışmalarını sürdürüyor.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-2002575",
@@ -1039,10 +1094,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/israil-gazetesi-istiklal-patlamasini-analiz-etti-erdoganin-konumuna-tehdit-2002575"
       },
-      "konular": [],
+      "konular": [
+        "2022 İstanbul saldırısı",
+        "Recep Tayyip Erdoğan",
+        "Haaretz"
+      ],
       "yayin": "2022-11-14T10:40:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İsrail basınında İstiklal Caddesi saldırısı üzerine siyasi analiz",
+      "ozet": "Haaretz gazetesi, Beyoğlu'nda meydana gelen patlamanın ardından Cumhurbaşkanı Recep Tayyip Erdoğan'ın siyasi geleceğine yönelik etkileri değerlendiren bir yazı yayımladı. Söz konusu analizde, yaşanan olayın mevcut siyasi dengeler üzerindeki olası yansımaları ve iktidarın konumu üzerindeki etkileri ele alındı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Memorial_point_after_the_2022_Istanbul_attack_11.jpg/960px-Memorial_point_after_the_2022_Istanbul_attack_11.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Memorial_point_after_the_2022_Istanbul_attack_11.jpg/500px-Memorial_point_after_the_2022_Istanbul_attack_11.jpg",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 4032,
+        "yazar": "Kurmanbek",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Memorial_point_after_the_2022_Istanbul_attack_11.jpg",
+        "aciklama": "Memorial point after the 2022 Istanbul attack",
+        "konu": "2022 İstanbul saldırısı"
+      }
     },
     {
       "id": "2022-haber-2002527",
@@ -1055,10 +1130,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/euro-dolar-paritesi-sinirli-dusus-euro-ne-kadar-oldu-14-kasim-2022-2002527"
       },
-      "konular": [],
+      "konular": [
+        "Euro",
+        "Dolar",
+        "Döviz kuru"
+      ],
       "yayin": "2022-11-14T09:20:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Euro ve Dolar Arasındaki Parite Değişimleri İzleniyor",
+      "ozet": "Amerika Birleşik Devletleri tarafından açıklanan enflasyon rakamlarının ardından döviz piyasalarında hareketlilik gözlendi. Euro ve dolar arasındaki parite, bir seviyesinin üzerinde kalmaya devam etse de değer kaybı yaşadı. Yatırımcılar ve piyasa takipçileri, döviz kurlarındaki bu dalgalı seyri yakından izlemeyi sürdürdü.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2021-haber-1884590",
@@ -1071,10 +1153,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/2021-buyukler-turkiye-sampiyonasinda-final-heyecani-yasandi-1884590"
       },
-      "konular": [],
+      "konular": [
+        "Tenis",
+        "Ayla Aksu",
+        "Başak Eraydın"
+      ],
       "yayin": "2021-11-14T08:00:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türkiye Büyükler Tenis Şampiyonası'nda Birinci Belli Oldu",
+      "ozet": "Büyükler Türkiye Şampiyonası kapsamında düzenlenen tek kadınlar final müsabakası tamamlandı. Final karşılaşmasında rakibi Başak Eraydın'ı mağlup etmeyi başaran Ayla Aksu, turnuvayı şampiyon olarak noktaladı.",
+      "kategori": "Spor"
     },
     {
       "id": "2021-haber-1884592",
@@ -1087,10 +1176,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/libya-yuksek-secim-komisyonu-secimlerin-zamaninda-yapilacagini-duyurdu-1884592"
       },
-      "konular": [],
+      "konular": [
+        "Libya",
+        "İmad es-Saih"
+      ],
       "yayin": "2021-11-14T10:30:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Libya Seçim Komisyonu Seçim Takvimine Bağlı Kaldığını Açıkladı",
+      "ozet": "Libya Yüksek Seçim Komisyonu Başkanı İmad es-Saih, ülkede planlanan seçimlerin belirlenen tarihte gerçekleştirileceğini ifade etti. Meclis tarafından yapılacak olası yasal değişikliklerin seçim sürecini ertelemeyeceğini vurgulayan es-Saih, takvimin değişmeyeceğini belirtti.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2020-haber-1790956",
@@ -1103,10 +1199,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/uc-kentte-rekor-koronavirus-artisi-turkiye-ortalamasinin-iki-kati-1790956"
       },
-      "konular": [],
+      "konular": [
+        "COVID-19 pandemisi",
+        "Edirne",
+        "Trakya"
+      ],
       "yayin": "2020-11-14T13:00:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Trakya bölgesinde koronavirüs vaka sayılarında ciddi artış gözlendi",
+      "ozet": "Edirne Tabip Odası Başkanı Gürcan Altuğ, Edirne, Tekirdağ ve Kırklareli illerindeki salgın tablosuna dair değerlendirmelerde bulundu. Altuğ, söz konusu üç şehirdeki vaka artış hızının ülke genelindeki ortalamanın iki katına ulaştığını belirtti.",
+      "kategori": "Toplum"
     },
     {
       "id": "2019-haber-1702163",
@@ -1119,10 +1222,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/istanbuldaki-39-ilcenin-2020-yili-butceleri-ibb-meclisinde-oybirligi-ile-kabul-edildi-1702163"
       },
-      "konular": [],
+      "konular": [
+        "İstanbul Büyükşehir Belediyesi",
+        "Ekrem İmamoğlu",
+        "İstanbul"
+      ],
       "yayin": "2019-11-14T21:46:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İstanbul ilçe belediyelerinin bütçeleri ve kreş projeleri onaylandı",
+      "ozet": "İstanbul Büyükşehir Belediyesi Meclisi, kentteki otuz dokuz ilçenin gelecek yılki bütçelerini oy birliğiyle onayladı. Aynı oturumda, şehir genelinde kreş yapımını hedefleyen projenin imar planları da kabul edildi. Bu kararla birlikte belirlenen birçok arazi, çocukların eğitimi için kreş alanına dönüştürüldü.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2019-haber-1702218",
@@ -1135,10 +1245,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/venedikte-son-53-yilin-en-buyuk-su-baskini-sonrasi-acil-durum-ilan-edildi-1702218"
       },
-      "konular": [],
+      "konular": [
+        "Venedik",
+        "İtalya",
+        "Su baskını"
+      ],
       "yayin": "2019-11-14T21:07:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Venedik kentinde yaşanan şiddetli su baskını sonrası acil durum kararı",
+      "ozet": "İtalya'nın Venedik şehrinde yarım asrı aşkın süredir kaydedilen en yüksek seviyedeki su taşkını nedeniyle bölgede acil durum uygulamasına geçildi. Hükümet yetkilileri, Veneto bölgesini etkileyen bu doğal afetle mücadele etmek ve halkın ihtiyaçlarını karşılamak amacıyla yirmi milyon avroluk bir bütçe oluşturulduğunu duyurdu.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Venezia_aerial_view.jpg/960px-Venezia_aerial_view.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Venezia_aerial_view.jpg/500px-Venezia_aerial_view.jpg",
+        "genislik": 960,
+        "yukseklik": 537,
+        "orijinalGenislik": 5666,
+        "yazar": "kallerna",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Venezia_aerial_view.jpg",
+        "aciklama": "Aerial view of Venice, railway station Santa Lucia and port, Canale della Giudecca, island Giudecca",
+        "konu": "Venedik"
+      }
     },
     {
       "id": "2018-haber-1141055",
@@ -1151,10 +1281,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hdpnin-secim-calismalarinda-tutuklanan-alman-sarkiciya-hapis-cezasi-1141055"
       },
-      "konular": [],
+      "konular": [
+        "Saide İnaç",
+        "Enez",
+        "Halkların Demokratik Partisi"
+      ],
       "yayin": "2018-11-14T17:42:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Alman şarkıcı Saide İnaç hakkında hapis cezası kararı verildi",
+      "ozet": "Edirne'nin Enez ilçesinde düzenlenen seçim faaliyetlerine katılan Almanya vatandaşı şarkıcı Saide İnaç, terör örgütü üyeliği suçlamasıyla yargılandığı davada hüküm giydi. Mahkeme heyeti, 47 yaşındaki şarkıcıyı 6 yıl 3 ay hapis cezasına mahkum etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2018-haber-1141179",
@@ -1167,10 +1304,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/cengiz-arslan-dunya-sampiyonu-1141179"
       },
-      "konular": [],
+      "konular": [
+        "Cengiz Arslan",
+        "Güreş"
+      ],
       "yayin": "2018-11-14T21:30:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cengiz Arslan Grekoromen Güreşte Dünya Şampiyonluğuna Ulaştı",
+      "ozet": "U23 Dünya Grekoromen Güreş Şampiyonası kapsamında 72 kilogram kategorisinde mücadele eden Cengiz Arslan, rakiplerini geride bırakarak altın madalyanın sahibi oldu. Başarılı sporcu, turnuvayı birincilikle tamamlayarak dünya şampiyonu unvanını kazandı.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Cengiz_Arslan_2.JPG/960px-Cengiz_Arslan_2.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Cengiz_Arslan_2.JPG/500px-Cengiz_Arslan_2.JPG",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "orijinalGenislik": 3024,
+        "yazar": "Jørgen Løken (User:Løken)",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Cengiz_Arslan_2.JPG",
+        "aciklama": "Picture from the 2021 World Wrestling Championships in Oslo, Norway – Day 6",
+        "konu": "Cengiz Arslan"
+      }
     },
     {
       "id": "2017-haber-865629",
@@ -1183,10 +1339,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dolar-387nin-uzerinde-avro-rekor-tazeledi-865629"
       },
-      "konular": [],
+      "konular": [
+        "Döviz kuru",
+        "Türkiye ekonomisi",
+        "Enflasyon"
+      ],
       "yayin": "2017-11-14T10:35:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Döviz piyasalarında hareketlilik: Dolar ve avroda yükseliş",
+      "ozet": "Küresel piyasalarda ABD ekonomisine dair gelişmelerin etkisiyle dolar kuru 3.87 lira seviyesini aştı. Türkiye içindeki enflasyon oranlarının yüksek seyretmesi de bu artışta etkili oldu. Öte yandan avro, uluslararası piyasalardaki değer kazanımıyla birlikte 4.5516 lira seviyesine ulaşarak yeni bir rekor kırdı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2015-haber-418333",
@@ -1199,10 +1362,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/galatasaray-adasi-hakkinda-karar-verildi-418333"
       },
-      "konular": [],
+      "konular": [
+        "Galatasaray Adası",
+        "Galatasaray SK"
+      ],
       "yayin": "2015-11-14T14:49:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Galatasaray Adası ile İlgili Nihai Karar Açıklandı",
+      "ozet": "Galatasaray Kulübü yönetimi, uzun süredir kulüp üyeleri arasında görüş ayrılıklarına neden olan Galatasaray Adası hakkındaki kararını duyurdu. Söz konusu alanın geleceğine dair belirsizlikler, kulüp tarafından yapılan bu resmi açıklama ile sona erdi.",
+      "kategori": "Spor"
     },
     {
       "id": "2015-haber-418623",
@@ -1215,10 +1384,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/paristeki-saldirida-turk-asilli-elif-dogan-da-hayatini-kaybetti-418623"
       },
-      "konular": [],
+      "konular": [
+        "Kasım 2015 Paris saldırıları",
+        "Elif Doğan",
+        "Paris"
+      ],
       "yayin": "2015-11-14T19:09:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Paris saldırısında hayatını kaybedenler arasında bir Türk vatandaşı da var",
+      "ozet": "Fransa'nın başkentinde gerçekleşen saldırıların ardından Belçika basınında yer alan haberlere göre, yaşamını yitiren iki Belçika vatandaşından birinin Türk kökenli Elif Doğan olduğu açıklandı. Olayın ardından yapılan incelemeler sonucunda kimlik tespiti gerçekleştirildi ve bu acı haber kamuoyu ile paylaşıldı.",
+      "kategori": "Savaş",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/960px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/500px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
+        "genislik": 960,
+        "yukseklik": 600,
+        "orijinalGenislik": 4592,
+        "yazar": "Yann Caradec from Paris, France",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
+        "aciklama": "La Tour Eiffel vue de la Tour Saint-Jacques, Paris.",
+        "konu": "Paris"
+      }
     },
     {
       "id": "2014-haber-140539",
@@ -1231,10 +1420,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yildizdan-istifa-aciklamasi-basbakanimla-paylasacagim-140539"
       },
-      "konular": [],
+      "konular": [
+        "Taner Yıldız",
+        "Soma maden faciası",
+        "Türkiye Cumhuriyeti Enerji ve Tabii Kaynaklar Bakanlığı"
+      ],
       "yayin": "2014-11-14T10:02:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Taner Yıldız istifa çağrılarına ilişkin açıklama yaptı",
+      "ozet": "Enerji ve Tabii Kaynaklar Bakanı Taner Yıldız, muhalefet kanadından gelen istifa taleplerine yanıt verdi. Soma'daki maden faciasının ardından istifa kararını Bakanlar Kurulu'na sunduğunu hatırlatan Yıldız, benzer bir süreci tekrar işleteceğini ve konuyu Başbakan ile görüşeceğini ifade etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2014-haber-140534",
@@ -1247,10 +1443,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bir-genc-hayatini-kaybetti-fransa-gaz-bombasini-yasakladi-140534"
       },
-      "konular": [],
+      "konular": [
+        "Bernard Cazeneuve",
+        "Fransa",
+        "Göz yaşartıcı gaz"
+      ],
       "yayin": "2014-11-14T09:49:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Fransa'da protestolarda gaz bombası kullanımı yasaklandı",
+      "ozet": "Fransa İçişleri Bakanı Bernard Cazeneuve, güvenlik güçlerinin toplumsal olaylara müdahale sırasında başvurduğu gaz bombası kullanımına son verildiğini duyurdu. Söz konusu karar, bir gencin hayatını kaybetmesiyle sonuçlanan olayların ardından alındı. Hükümet, gösterileri bastırmak amacıyla kullanılan bu yöntemi yasaklama yoluna gitti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bernard_Cazeneuve_21_February_2013.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bernard_Cazeneuve_21_February_2013.jpg",
+        "genislik": 651,
+        "yukseklik": 928,
+        "orijinalGenislik": 651,
+        "yazar": "Österreichische Außenministerium",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bernard_Cazeneuve_21_February_2013.jpg",
+        "aciklama": "Bernard Cazeneuve; ministre français de l'intérieur en visite en Autriche le 21 février 2013",
+        "konu": "Bernard Cazeneuve"
+      }
     },
     {
       "id": "2013-haber-9423",
@@ -1263,10 +1479,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/pfdkdan-fenerbahceye-derbi-cezasi-9423"
       },
-      "konular": [],
+      "konular": [
+        "Profesyonel Futbol Disiplin Kurulu",
+        "Fenerbahçe",
+        "Türkiye Futbol Federasyonu"
+      ],
       "yayin": "2013-11-14T20:58:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Profesyonel Futbol Disiplin Kurulu Fenerbahçe'ye ceza uyguladı",
+      "ozet": "Türkiye Futbol Federasyonu bünyesinde faaliyet gösteren Profesyonel Futbol Disiplin Kurulu, Fenerbahçe Spor Kulübü hakkında bir yaptırım kararı aldı. Kurul, gerçekleştirilen derbi müsabakasındaki disiplin ihlalleri nedeniyle kulübe 150 bin lira tutarında para cezası verilmesini kararlaştırdı.",
+      "kategori": "Spor"
     },
     {
       "id": "2012-haber-383550",
@@ -1279,10 +1502,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/aclik-grevleri-meclise-tasindi-383550"
       },
-      "konular": [],
+      "konular": [
+        "Açlık grevi",
+        "Leyla Zana",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2012-11-14T16:53:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Leyla Zana cezaevlerindeki açlık grevlerine destek için eylem başlattı",
+      "ozet": "Diyarbakır Milletvekili Leyla Zana, cezaevlerinde iki ayı aşkın süredir devam eden açlık grevi eylemlerine dikkat çekmek amacıyla Meclis'teki çalışma ofisinde açlık grevine girdiğini duyurdu. Söz konusu eyleme destek vermek için başlatılan bu girişim, Meclis gündemine taşınmış oldu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bundesarchiv_Bild_183-1990-0408-009%2C_Erfurt%2C_nach_Hungerstreik_in_der_MfS-Zentrale.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bundesarchiv_Bild_183-1990-0408-009%2C_Erfurt%2C_nach_Hungerstreik_in_der_MfS-Zentrale.jpg",
+        "genislik": 800,
+        "yukseklik": 573,
+        "orijinalGenislik": 800,
+        "yazar": "Jürgen Ludwig",
+        "lisans": "CC BY-SA 3.0 de",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1990-0408-009,_Erfurt,_nach_Hungerstreik_in_der_MfS-Zentrale.jpg",
+        "aciklama": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. ADN- Ludwig 8.4.90-Erfurt: Die Hungerst",
+        "konu": "Açlık grevi"
+      }
     },
     {
       "id": "2012-haber-383494",
@@ -1295,10 +1538,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakanlik-onunde-aclik-grevi-protestosu-6-gozalti-383494"
       },
-      "konular": [],
+      "konular": [
+        "Açlık grevi",
+        "Dolmabahçe Sarayı",
+        "İstanbul"
+      ],
       "yayin": "2012-11-14T14:13:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Dolmabahçe'de cezaevi protestosuna polis müdahalesi",
+      "ozet": "İstanbul'da bulunan Başbakanlık Ofisi yakınlarında toplanan bir grup, cezaevlerinde sürdürülen açlık grevlerine dikkat çekmek amacıyla oturma eylemi gerçekleştirmek istedi. Güvenlik güçleri, eyleme katılan kişilere müdahalede bulundu. Yaşanan olaylar neticesinde altı kişi gözaltına alındı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2011-haber-297910",
@@ -1311,10 +1561,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ytuden-van-depremi-raporu-297910"
       },
-      "konular": [],
+      "konular": [
+        "2011 Van depremi",
+        "Yıldız Teknik Üniversitesi",
+        "Heyelan"
+      ],
       "yayin": "2011-11-14T14:43:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Yıldız Teknik Üniversitesi Van Depremi İçin Saha Raporunu Yayınladı",
+      "ozet": "Yıldız Teknik Üniversitesi tarafından hazırlanan raporda, bölgede meydana gelen yedi nokta iki büyüklüğündeki sarsıntının ardından yapılan incelemeler paylaşıldı. Uzmanlar, sahada yetmiş bir adet heyelanın haritalandırıldığını ancak gerçek sayının bu rakamın üzerinde olabileceğini ifade etti. Depremin tetiklediği toprak kaymalarının dağılımı ve etkileri üzerine yapılan bu çalışma, bölgedeki jeolojik hareketliliğin boyutlarını ortaya koydu.",
+      "kategori": "Afet",
+      "gorsel": null
     },
     {
       "id": "2011-haber-297770",
@@ -1327,10 +1585,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/en-cok-dolar-kazandirdi-297770"
       },
-      "konular": [],
+      "konular": [
+        "Dolar",
+        "Ekonomi",
+        "Yatırım"
+      ],
       "yayin": "2011-11-14T09:24:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ekim ayında yatırımcısına en çok dolar kazandırdı",
+      "ozet": "Üretici fiyat endeksi verileri üzerinden yapılan hesaplamalara göre, ekim ayında reel olarak en yüksek getiriyi sağlayan yatırım aracı dolar oldu. Bir önceki aya kıyasla dolar, yatırımcısına yüzde 0.30 oranında kazanç sağladı.",
+      "kategori": "Ekonomi"
     }
   ],
   "haberYillari": [
