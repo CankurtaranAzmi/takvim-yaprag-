@@ -11,10 +11,10 @@
         "Vasco de Gama",
         "Ümit Burnu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Vasco da Gama Ümit Burnu'nu Geçerek Tarihe Geçti",
+      "ozet": "Portekizli denizci Vasco da Gama, Kral I. Manuel'in görevlendirmesiyle çıktığı keşif yolculuğunda, 22 Kasım 1497 tarihinde Afrika'nın güney ucunda yer alan Ümit Burnu'nu aşmayı başardı. Bu kritik geçiş, daha önce Bartolomeu Dias tarafından keşfedilen rotanın Hindistan'a ulaşacak şekilde genişletilmesi adına atılmış en önemli adımlardan biri oldu. Da Gama'nın bu başarısı, Avrupa'dan Asya'ya doğrudan deniz yoluyla ulaşılabilmesinin önünü açan tarihi bir dönüm noktası olarak kabul edilir.\n\nBu keşif, dünya ticaret dengelerini kökten değiştiren sonuçlar doğurdu. O güne kadar baharat ve diğer değerli malların ticaretinde Osmanlı Devleti ve İran üzerinden geçen geleneksel yolların hakimiyeti, deniz yolunun bulunmasıyla sarsıldı. Avrupalı devletlerin deniz ticaretinde üstünlüğü ele geçirmesini sağlayan bu yeni rota, aynı zamanda Portekiz'in küresel bir sömürge imparatorluğuna dönüşme sürecini hızlandırdı. Da Gama'nın seferi, sadece coğrafi bir keşif değil, aynı zamanda Avrupa'nın ekonomik ve siyasi gücünü okyanuslara taşıyan stratejik bir hamle olarak tarihe geçti.",
+      "kategori": "Keşif",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/960px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/500px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
@@ -28,34 +28,7 @@
         "aciklama": "Vasco da Gama, anonymous portrait, c. 1525",
         "konu": "Vasco de Gama"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/960px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/500px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
-          "genislik": 960,
-          "yukseklik": 1305,
-          "orijinalGenislik": 1920,
-          "yazar": "Sailko",
-          "lisans": "CC BY 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ignoto_portoghese,_ritratto_di_un_cavaliere_dell%27ordine_di_cristo,_1525-50_ca._02.jpg",
-          "aciklama": "Vasco da Gama, anonymous portrait, c. 1525",
-          "konu": "Vasco de Gama"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Playa_Dias%2C_Cape_Point%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_103.jpg/960px-Playa_Dias%2C_Cape_Point%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_103.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Playa_Dias%2C_Cape_Point%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_103.jpg/500px-Playa_Dias%2C_Cape_Point%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_103.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 8688,
-          "yazar": "Diego Delso",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Playa_Dias,_Cape_Point,_Sud%C3%A1frica,_2018-07-23,_DD_103.jpg",
-          "aciklama": "Dias Beach, Cape Point, South Africa",
-          "konu": "Ümit Burnu"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1617-i-mustafa-padisah-oldu-babadan-ogula-gecen",
@@ -64,10 +37,10 @@
       "konular": [
         "I. Mustafa"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Osmanlı Tahtında Bir Değişim: I. Mustafa'nın İlk Saltanatı",
+      "ozet": "I. Mustafa, 22 Kasım 1617 tarihinde Osmanlı İmparatorluğu'nun 15. padişahı olarak tahta çıktı. Bu olay, Osmanlı veraset sisteminde babadan oğula geçen geleneksel düzenin dışına çıkılarak tahtın kardeşe devredilmesi bakımından önemli bir kırılma noktası oluşturdu. Padişahın akli dengesinin yerinde olmadığına dair iddialara rağmen, bazı çevrelerin siyasi menfaatleri doğrultusunda onun tahta çıkarılması sağlandı.\n\nI. Mustafa'nın ilk saltanatı oldukça kısa sürdü ve yaklaşık üç ay sonra, devlet işlerini yürütemeyeceğinin anlaşılması üzerine tahttan indirilerek yerine II. Osman getirildi. Ancak bu süreç, I. Mustafa'nın siyasi hayatının sonu olmadı. 1622 yılında II. Osman'ın bir ayaklanma sonucu öldürülmesinin ardından tekrar tahta çıkarılan Mustafa, 1623 yılına kadar süren ikinci saltanat döneminde de benzer zorluklarla karşılaştı. Osmanlı tarihinde iki kez tahta çıkıp iki kez indirilen nadir padişahlardan biri olan I. Mustafa, yaşadığı psikolojik rahatsızlıklar nedeniyle devlet yönetiminde etkili bir rol oynayamadı ve dönemi saray içi çekişmelerle gölgelendi.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ottoman_portrait_of_Sultan_Mustafa_I_%28r._1617%E2%80%9318%3B_1622%E2%80%9323%29%2C_late_17th%E2%80%93early_18th_century._Metropolitan_Museum_of_Art.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ottoman_portrait_of_Sultan_Mustafa_I_%28r._1617%E2%80%9318%3B_1622%E2%80%9323%29%2C_late_17th%E2%80%93early_18th_century._Metropolitan_Museum_of_Art.jpg",
@@ -80,7 +53,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ottoman_portrait_of_Sultan_Mustafa_I_(r._1617%E2%80%9318;_1622%E2%80%9323),_late_17th%E2%80%93early_18th_century._Metropolitan_Museum_of_Art.jpg",
         "aciklama": "Ottoman portrait of Sultan Mustafa I (r. 1617–18; 1622–23), late 17th–early 18th century. Metropolitan Museum of Art",
         "konu": "I. Mustafa"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1909-tip-fakultesine-bagli-dis-hekimligi-bolumu-kuruldu",
@@ -90,10 +64,10 @@
         "Tıp Fakültesi",
         "Diş Hekimliği"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türkiye'de Diş Hekimliği Eğitiminin Başlangıcı",
+      "ozet": "Osmanlı İmparatorluğu döneminde, modern diş hekimliği eğitiminin temellerini atmak amacıyla İstanbul'da Tıp Fakültesi'ne bağlı bir diş hekimliği bölümü kuruldu. Bu adım, ağız ve diş sağlığı hizmetlerinin sistematik bir şekilde yürütülmesi ve bu alanda uzmanlaşmış hekimlerin yetiştirilmesi adına atılan en önemli kurumsal hamlelerden biri olarak kabul edilir. O tarihe kadar daha çok geleneksel yöntemlerle veya sınırlı imkanlarla yürütülen diş tedavileri, bu bölümün açılmasıyla birlikte akademik bir disiplin haline gelmeye başladı.\n\nBu gelişme, Türkiye'de diş hekimliği mesleğinin profesyonelleşme sürecinde bir dönüm noktası teşkil eder. Bölümün kurulduğu 22 Kasım tarihi, günümüzde Türkiye'de diş hekimliği mesleğinin önemini vurgulamak ve bu alandaki bilimsel ilerlemeleri kutlamak amacıyla her yıl Türk Diş Hekimleri Günü olarak anılmaktadır. Kurulan bu bölüm, zamanla gelişerek modern diş hekimliği fakültelerinin oluşumuna zemin hazırlamış ve toplum sağlığı açısından kritik bir boşluğu doldurmuştur.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/G%C3%BClhane_II_%281903%29.jpg/960px-G%C3%BClhane_II_%281903%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/G%C3%BClhane_II_%281903%29.jpg/500px-G%C3%BClhane_II_%281903%29.jpg",
@@ -107,34 +81,7 @@
         "aciklama": "Fotografie der Militärmedizinischen Akademie Gülhane (II) in Konstantinopel",
         "konu": "Tıp Fakültesi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/G%C3%BClhane_II_%281903%29.jpg/960px-G%C3%BClhane_II_%281903%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/G%C3%BClhane_II_%281903%29.jpg/500px-G%C3%BClhane_II_%281903%29.jpg",
-          "genislik": 960,
-          "yukseklik": 602,
-          "orijinalGenislik": 1166,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:G%C3%BClhane_II_(1903).jpg",
-          "aciklama": "Fotografie der Militärmedizinischen Akademie Gülhane (II) in Konstantinopel",
-          "konu": "Tıp Fakültesi"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Dental_surgery_aboard_USS_Eisenhower%2C_January_1990.JPEG/960px-Dental_surgery_aboard_USS_Eisenhower%2C_January_1990.JPEG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Dental_surgery_aboard_USS_Eisenhower%2C_January_1990.JPEG/500px-Dental_surgery_aboard_USS_Eisenhower%2C_January_1990.JPEG",
-          "genislik": 960,
-          "yukseklik": 1435,
-          "orijinalGenislik": 1880,
-          "yazar": "JO3 OSCAR SOSA",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Dental_surgery_aboard_USS_Eisenhower,_January_1990.JPEG",
-          "aciklama": "A dental officer and his assistant remove the wisdom tooth of a crew member of the nuclear-powered aircraft carrier USS Dwight D. Eisenhower (CVN-69) during Fleet Ex '90.",
-          "konu": "Diş Hekimliği"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1922-edirne-ilinin-havsa-ilcesinin-yunan-isgalinden-kurtulusu",
@@ -144,23 +91,12 @@
         "Edirne",
         "Havsa"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Selimiye_Mosque_and_The_Statue_of_Architect_Sinan_-_panoramio.jpg/960px-Selimiye_Mosque_and_The_Statue_of_Architect_Sinan_-_panoramio.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Selimiye_Mosque_and_The_Statue_of_Architect_Sinan_-_panoramio.jpg/500px-Selimiye_Mosque_and_The_Statue_of_Architect_Sinan_-_panoramio.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 5184,
-        "yazar": "Tevfik Teker",
-        "lisans": "CC BY 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Selimiye_Mosque_and_The_Statue_of_Architect_Sinan_-_panoramio.jpg",
-        "aciklama": "Selimiye Mosque and The Statue of Architect Sinan",
-        "konu": "Edirne"
-      }
+      "baslik": "Havsa'nın Yunan İşgalinden Kurtuluşu",
+      "ozet": "Kurtuluş Savaşı'nın son aşamalarında, Türk ordusunun elde ettiği büyük zaferlerin ardından Trakya bölgesindeki işgal altındaki topraklar birer birer özgürlüğüne kavuştu. Bu süreçte Edirne'nin önemli yerleşim merkezlerinden biri olan Havsa da 22 Kasım 1922 tarihinde Yunan işgalinden kurtarıldı. Bölgedeki işgalin sona ermesi, Türk milletinin bağımsızlık mücadelesinin kararlılıkla sürdürüldüğünün ve vatan topraklarının düşman unsurlardan temizlendiğinin bir göstergesi oldu.\n\nHavsa'nın kurtuluşu, sadece yerel bir zafer değil, aynı zamanda Trakya'nın bütünüyle düşman işgalinden arındırılması yolunda atılan kritik adımlardan birini temsil eder. Mudanya Ateşkes Antlaşması ile diplomatik olarak da pekiştirilen bu süreç, bölge halkı için uzun süren belirsizlik ve baskı döneminin sonunu simgeledi. Bugün Havsa halkı, her yıl 22 Kasım tarihinde bu önemli günü coşkuyla kutlayarak bağımsızlık ruhunu yaşatmaya devam etmektedir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1922-misirda-howard-carter-yardimcisi-george-herbert-de",
@@ -173,51 +109,24 @@
         "firavun",
         "Tutankhamun"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Tutankhamun'un Mezarının Keşfi",
+      "ozet": "İngiliz arkeolog Howard Carter, yıllar süren titiz çalışmalarının ardından 1922 yılının Kasım ayında Mısır'ın Luksor kentindeki Krallar Vadisi'nde firavun Tutankhamun'un mezarını ortaya çıkardı. Bu keşif, arkeoloji dünyasında yüzyılın en önemli buluşlarından biri olarak kabul edildi. Carter'a bu süreçte finansal destek sağlayan ve kazı çalışmalarına eşlik eden George Herbert de Carnarvon da keşfin en önemli aktörlerinden biri oldu. Mezarda bulunan paha biçilemez hazineler ve firavunun mumyası, Antik Mısır tarihine dair bilgileri kökten değiştirdi.\n\nMezarın açılışı, sadece bilimsel bir başarı olarak kalmadı, aynı zamanda dünya çapında büyük bir merak uyandırdı. Özellikle Lord Carnarvon'un mezarın açılmasından kısa bir süre sonra hayatını kaybetmesi, kamuoyunda firavunun lanetiyle ilgili efsanelerin doğmasına yol açtı. Bu olay, arkeolojiye olan ilgiyi zirveye taşıyarak Tutankhamun'u modern popüler kültürün en tanınmış figürlerinden biri haline getirdi. Bugün bu keşif, Mısırbilim çalışmalarının en parlak dönüm noktalarından biri olarak anılmaya devam etmektedir.",
+      "kategori": "Keşif",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/George_Herbert%2C_5th_Earl_of_Carnarvon%2C_reading.jpg/960px-George_Herbert%2C_5th_Earl_of_Carnarvon%2C_reading.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/George_Herbert%2C_5th_Earl_of_Carnarvon%2C_reading.jpg/500px-George_Herbert%2C_5th_Earl_of_Carnarvon%2C_reading.jpg",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 4086,
-        "yazar": "Harry Burton",
-        "lisans": "Public domain",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tutmask.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tutmask.jpg",
+        "genislik": 500,
+        "yukseklik": 667,
+        "orijinalGenislik": 500,
+        "yazar": "Jon Bodsworth",
+        "lisans": "Copyrighted free use",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:George_Herbert,_5th_Earl_of_Carnarvon,_reading.jpg",
-        "aciklama": "George Herbert, 5th Earl of Carnarvon, at Howard Carter’s home on the Theban west bank, according to Griffith Institute, Oxford",
-        "konu": "George Herbert de Carnarvon"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Tutmask.jpg",
+        "aciklama": "Golden funeral mask of king Tutankhamun",
+        "konu": "Tutankhamun"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/George_Herbert%2C_5th_Earl_of_Carnarvon%2C_reading.jpg/960px-George_Herbert%2C_5th_Earl_of_Carnarvon%2C_reading.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/George_Herbert%2C_5th_Earl_of_Carnarvon%2C_reading.jpg/500px-George_Herbert%2C_5th_Earl_of_Carnarvon%2C_reading.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 4086,
-          "yazar": "Harry Burton",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:George_Herbert,_5th_Earl_of_Carnarvon,_reading.jpg",
-          "aciklama": "George Herbert, 5th Earl of Carnarvon, at Howard Carter’s home on the Theban west bank, according to Griffith Institute, Oxford",
-          "konu": "George Herbert de Carnarvon"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tutmask.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tutmask.jpg",
-          "genislik": 500,
-          "yukseklik": 667,
-          "orijinalGenislik": 500,
-          "yazar": "Jon Bodsworth",
-          "lisans": "Copyrighted free use",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Tutmask.jpg",
-          "aciklama": "Golden funeral mask of king Tutankhamun",
-          "konu": "Tutankhamun"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1925-sapka-devrimine-karsi-gosteriler-suruyor-kayseride-gosteriler",
@@ -227,10 +136,10 @@
         "Şapka Devrimi",
         "Kayseri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Şapka Devrimi'ne Karşı Kayseri'de Protestolar",
+      "ozet": "Türkiye Cumhuriyeti'nin modernleşme hamleleri kapsamında 1925 yılında kabul edilen Şapka Kanunu, erkeklerin baş örtme biçimlerini Batılı normlara göre yeniden düzenlemeyi amaçlıyordu. Toplumun büyük bir kesimi tarafından benimsenen bu yenilik, bazı çevrelerde dini değerlerin zedelendiği algısı yaratarak tepkilere neden oldu. Bu tepkilerin somutlaştığı yerlerden biri de Kayseri oldu ve şehirde kanuna karşı çeşitli gösteriler düzenlendi.\n\nŞapka Devrimi, sadece bir kıyafet değişikliği değil, aynı zamanda genç cumhuriyetin laik ve çağdaş bir toplum yapısına geçiş sürecinin önemli bir parçasıydı. Fesin geleneksel bir simge olarak görülmesi ve şapkanın Batılılaşmanın bir göstergesi olarak kabul edilmesi, dönemin toplumsal dinamiklerinde ciddi bir kırılma yarattı. Kayseri'de yaşanan bu protestolar, devrimlerin yerel düzeyde karşılaştığı direnci ve toplumsal dönüşümün sancılarını göstermesi bakımından tarihsel bir öneme sahiptir. Devlet, bu tür muhalif hareketlere karşı kararlı bir tutum sergileyerek reformların uygulanmasını sağlamıştır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Ataturk-hatreform.jpg/960px-Ataturk-hatreform.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Ataturk-hatreform.jpg/500px-Ataturk-hatreform.jpg",
@@ -244,34 +153,7 @@
         "aciklama": "Mustafa Kemal Atatürk during one of his national tours.",
         "konu": "Şapka Devrimi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Ataturk-hatreform.jpg/960px-Ataturk-hatreform.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Ataturk-hatreform.jpg/500px-Ataturk-hatreform.jpg",
-          "genislik": 960,
-          "yukseklik": 686,
-          "orijinalGenislik": 1280,
-          "yazar": "Original photographer unknown.",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk-hatreform.jpg",
-          "aciklama": "Mustafa Kemal Atatürk during one of his national tours.",
-          "konu": "Şapka Devrimi"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Wild_horses1.jpg/960px-Wild_horses1.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Wild_horses1.jpg/500px-Wild_horses1.jpg",
-          "genislik": 960,
-          "yukseklik": 539,
-          "orijinalGenislik": 3518,
-          "yazar": "Omerali SENAKAYLI",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Wild_horses1.jpg",
-          "aciklama": "Running wild horses and the rural life on the doorstep of 5th highest peak of Turkey called Erciyes mountain(3917). I always wanted to visit this place, so i made a tour and went to that rural life.it",
-          "konu": "Kayseri"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1928-ravelin-bolerosu-ilk-kez-pariste-sahnelendi",
@@ -282,10 +164,10 @@
         "Boléro",
         "Paris"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Maurice Ravel'in Başyapıtı Bolero İlk Kez Sahnelendi",
+      "ozet": "Fransız besteci Maurice Ravel'in en bilinen ve en çok icra edilen eseri olan Bolero, ilk kez 1928 yılında Paris'teki Opera Garnier'de izleyiciyle buluştu. İspanyol dansı bolerodan esinlenerek bestelenen bu eser, tek bir temanın sürekli tekrarlanarak orkestrasyonun zenginleşmesi ve sesin giderek yükselmesi üzerine kurulu özgün yapısıyla dikkat çeker. Ravel'in orkestrasyon konusundaki ustalığını gözler önüne seren bu çalışma, kısa sürede dünya çapında büyük bir popülarite kazandı.\n\nBolero, sadece bir müzik eseri olarak kalmayıp aynı zamanda modern klasik müziğin en ikonik parçalarından biri haline geldi. Ravel'in kariyerinin zirve noktalarından biri kabul edilen bu eser, bestecinin 20. yüzyıl müziği üzerindeki derin etkisini pekiştirdi. Günümüzde hala konser salonlarının vazgeçilmezleri arasında yer alan Bolero, yapısındaki ritmik ısrar ve armonik gelişim sayesinde müzik tarihinin en çok tanınan melodilerinden biri olma özelliğini korumaktadır.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Maurice_Ravel_1925.jpg/960px-Maurice_Ravel_1925.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Maurice_Ravel_1925.jpg/500px-Maurice_Ravel_1925.jpg",
@@ -299,34 +181,7 @@
         "aciklama": "Portrait of Maurice Ravel published in 1925.",
         "konu": "Ravel"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Maurice_Ravel_1925.jpg/960px-Maurice_Ravel_1925.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Maurice_Ravel_1925.jpg/500px-Maurice_Ravel_1925.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 2880,
-          "yazar": "Unknown author The image holder, the Bibliothèque nationale de France has not identified a photographer. (Follow link and click on \"Detailed",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Maurice_Ravel_1925.jpg",
-          "aciklama": "Portrait of Maurice Ravel published in 1925.",
-          "konu": "Ravel"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/960px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/500px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-          "genislik": 960,
-          "yukseklik": 600,
-          "orijinalGenislik": 4592,
-          "yazar": "Yann Caradec from Paris, France",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
-          "aciklama": "La Tour Eiffel vue de la Tour Saint-Jacques, Paris.",
-          "konu": "Paris"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1936-halit-ziya-usakligilin-son-anilari-saray-ve",
@@ -336,10 +191,10 @@
         "Halit Ziya Uşaklıgil",
         "Cumhuriyet (gazete)"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Halit Ziya Uşaklıgil'in Saray ve Ötesi Anıları Yayımlanmaya Başladı",
+      "ozet": "Türk edebiyatının en önemli nesir ustalarından biri olan Halit Ziya Uşaklıgil, kaleme aldığı Saray ve Ötesi adlı anı kitabıyla Osmanlı İmparatorluğu'nun son dönemine ışık tutmuştur. Yazarın bizzat tanıklık ettiği olayları içeren bu eser, 22 Kasım 1936 tarihinde Cumhuriyet gazetesinde okuyucularla buluşmaya başlamıştır. Eser, dönemin siyasi atmosferini ve saray hayatının iç yüzünü yazarın gözlemleriyle aktarması bakımından büyük bir önem taşır.\n\nHalit Ziya Uşaklıgil, sadece Aşk-ı Memnu gibi ölümsüz eserleriyle değil, aynı zamanda Sultan Mehmed Reşad döneminde üstlendiği mabeyn başkâtipliği göreviyle de tarihe geçmiştir. Saray ve Ötesi, yazarın bu görev süresince edindiği tecrübeleri ve devlet yönetimindeki gözlemlerini barındırması nedeniyle tarihsel bir belge niteliği de taşımaktadır. Cumhuriyet döneminde yayımlanan bu anılar, Osmanlı'dan Cumhuriyet'e geçiş sürecinde yaşanan değişimi ve bir aydının bu dönüşüm karşısındaki duruşunu anlamak adına edebiyat tarihimizdeki temel kaynaklardan biri kabul edilir.",
+      "kategori": "Edebiyat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Halid_ziya_cropped.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Halid_ziya_cropped.jpg",
@@ -353,34 +208,7 @@
         "aciklama": "Cropped image of original upload",
         "konu": "Halit Ziya Uşaklıgil"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Halid_ziya_cropped.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Halid_ziya_cropped.jpg",
-          "genislik": 414,
-          "yukseklik": 640,
-          "orijinalGenislik": 414,
-          "yazar": "See source",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Halid_ziya_cropped.jpg",
-          "aciklama": "Cropped image of original upload",
-          "konu": "Halit Ziya Uşaklıgil"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/1931_T%C3%BCrkiye_G%C3%BCzeli_Na%C5%9Fide_Saffet_Han%C4%B1m.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/1931_T%C3%BCrkiye_G%C3%BCzeli_Na%C5%9Fide_Saffet_Han%C4%B1m.jpg",
-          "genislik": 629,
-          "yukseklik": 883,
-          "orijinalGenislik": 629,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:1931_T%C3%BCrkiye_G%C3%BCzeli_Na%C5%9Fide_Saffet_Han%C4%B1m.jpg",
-          "aciklama": "Miss Turkey 1931 Naşide Saffet Hanım, newsreport at Cumhuriyet newspaper",
-          "konu": "Cumhuriyet (gazete)"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1940-ii-dunya-savasinin-balkanlara-sicramasiyla-birlikte-turkiye",
@@ -389,23 +217,12 @@
       "konular": [
         "II. Dünya Savaşı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "genislik": 400,
-        "yukseklik": 286,
-        "orijinalGenislik": 400,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
-        "aciklama": "Pitched battle at Changde.",
-        "konu": "II. Dünya Savaşı"
-      }
+      "baslik": "Türkiye'de II. Dünya Savaşı Nedeniyle Sıkıyönetim İlanı",
+      "ozet": "II. Dünya Savaşı'nın Avrupa'da hızla genişlemesi ve çatışmaların Balkan coğrafyasına sıçraması, Türkiye'yi sınır güvenliği konusunda daha tedbirli olmaya zorladı. Bu gelişmelerin ardından 22 Kasım 1940 tarihinde toplanan Bakanlar Kurulu, olası bir tehdide karşı hazırlıklı olmak amacıyla İstanbul, Kocaeli ve Trakya bölgesindeki illerde sıkıyönetim ilan edilmesini kararlaştırdı. Bu karar, savaşın yıkıcı etkilerinin Türkiye sınırlarına yaklaşması karşısında alınan stratejik bir savunma önlemiydi.\n\nSavaşın küresel çapta yarattığı belirsizlik ortamında Türkiye, toprak bütünlüğünü korumak ve sınırlarını güvence altına almak için çeşitli askeri ve idari tedbirler uygulamaya koymuştu. Sıkıyönetim ilanı, devletin bölgedeki kontrolünü artırarak olası bir saldırı veya sınır ihlali durumunda hızlı hareket edebilme kapasitesini güçlendirmeyi hedefliyordu. Türkiye, savaş boyunca izlediği dengeli dış politika ve aldığı bu tür savunma odaklı kararlarla, çatışmaların dışında kalmaya ve ülkeyi savaşın doğrudan yıkımından korumaya çalışmıştır.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1943-lubnan-fransadan-bagimsizligini-kazandi",
@@ -445,10 +262,10 @@
         "Pablo Neruda",
         "Paul Robeson"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Dünya Barış Konseyi'nden Sanatçılara Barış Ödülü",
+      "ozet": "Dünya Barış Konseyi, 1950 yılında gerçekleştirdiği bir törenle, dünya çapında barışın savunulmasına katkıda bulunan beş önemli isme Uluslararası Barış Ödülü'nü takdim etti. Bu ödül, aralarında Türk şair Nâzım Hikmet, İspanyol ressam Pablo Picasso, Şilili şair Pablo Neruda, Amerikalı sanatçı Paul Robeson ve Polonyalı yönetmen Wanda Jakubowska'nın bulunduğu isimlerin, sanat ve düşünce dünyasındaki barışçıl duruşlarını onurlandırmak amacıyla verildi.\n\nBu ödül, İkinci Dünya Savaşı'nın ardından dünyanın iki kutuplu bir düzene girdiği ve Soğuk Savaş gerilimlerinin tırmandığı bir dönemde büyük bir sembolik anlam taşıyordu. Ödül alan isimlerin her biri, kendi ülkelerinde ve uluslararası arenada barış, özgürlük ve insan hakları konularında seslerini yükselten, eserleriyle toplumsal dönüşümü savunan figürlerdi. Özellikle Nâzım Hikmet gibi siyasi baskılarla mücadele eden sanatçılar için bu ödül, uluslararası dayanışmanın ve sanatın evrenselliğinin bir göstergesi olarak kabul edildi. Dünya Barış Konseyi'nin bu girişimi, sanatın siyasi sınırları aşarak barış yanlısı bir kamuoyu oluşturma gücünü vurgulayan tarihi bir adım olarak kayıtlara geçti.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg/960px-N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg/500px-N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg",
@@ -462,47 +279,7 @@
         "aciklama": "Nâzım Hikmet, photographed by Hans-Joachim Koch at the IV German Writers' Congress, 9–14 January 1956, in East Berlin.",
         "konu": "Nâzım Hikmet"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg/960px-N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg/500px-N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1358,
-          "orijinalGenislik": 1600,
-          "yazar": "Hans-Joachim Koch",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:N%C3%A2z%C4%B1m_Hikmet,_Berlin_1956_(1).jpg",
-          "aciklama": "Nâzım Hikmet, photographed by Hans-Joachim Koch at the IV German Writers' Congress, 9–14 January 1956, in East Berlin.",
-          "konu": "Nâzım Hikmet"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/960px-Pablo_picasso_1.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/500px-Pablo_picasso_1.jpg",
-          "genislik": 960,
-          "yukseklik": 1122,
-          "orijinalGenislik": 1079,
-          "yazar": "Argentina. Revista Vea y Lea",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Pablo_picasso_1.jpg",
-          "aciklama": "Pablo Picasso 1969",
-          "konu": "Pablo Picasso"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Pablo_Neruda_1963.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Pablo_Neruda_1963.jpg",
-          "genislik": 738,
-          "yukseklik": 936,
-          "orijinalGenislik": 738,
-          "yazar": "Unknown (Mondadori Publishers)",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Pablo_Neruda_1963.jpg",
-          "aciklama": "Three-quarter face portrait of a thoughtful Pablo Neruda, whose real name is Ricardo Eliezer NeftalÌ Reyes Basoalto, during a reading of his poems by the Italian drama actor Giorgio Albertazzi. Italy,",
-          "konu": "Pablo Neruda"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1963-amerika-birlesik-devletleri-baskani-john-f-kennedy",
@@ -514,10 +291,10 @@
         "Dallas",
         "Lyndon B. Johnson"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "John F. Kennedy'nin Dallas'ta Suikasta Uğraması",
+      "ozet": "Amerika Birleşik Devletleri'nin 35. başkanı John F. Kennedy, 22 Kasım 1963 tarihinde Teksas eyaletinin Dallas şehrinde gerçekleştirdiği bir ziyaret sırasında düzenlenen silahlı saldırı sonucu hayatını kaybetti. Soğuk Savaş'ın en gerilimli dönemlerinden birinde görev yapan ve genç yaşıyla Amerikan siyasetinde yeni bir dönemi temsil eden Kennedy'nin ölümü, dünya genelinde büyük bir şok etkisi yarattı. Olayın hemen ardından, anayasal süreç işletilerek Başkan Yardımcısı Lyndon B. Johnson, Air Force One uçağında düzenlenen törenle Amerika Birleşik Devletleri'nin yeni başkanı olarak yemin etti. Kennedy'nin suikastı, sadece Amerikan tarihinin değil, 20. yüzyılın en çok tartışılan ve üzerinde komplo teorileri üretilen olaylarından biri haline geldi. Başkanın ölümü, ülkenin iç ve dış politikasında önemli değişimlerin yaşanacağı bir dönemin başlangıcı olarak kabul edilir. Johnson yönetimi, Kennedy'nin yarım kalan projelerini devralırken, suikastın yarattığı toplumsal travma uzun yıllar boyunca Amerikan hafızasında derin bir iz bıraktı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/960px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/500px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
@@ -531,47 +308,7 @@
         "aciklama": "John F. Kennedy, photograph in the Oval Office.",
         "konu": "John F. Kennedy"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/960px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/500px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
-          "genislik": 960,
-          "yukseklik": 1245,
-          "orijinalGenislik": 1419,
-          "yazar": "Cecil W. Stoughton",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:John_F._Kennedy,_White_House_color_photo_portrait.jpg",
-          "aciklama": "John F. Kennedy, photograph in the Oval Office.",
-          "konu": "John F. Kennedy"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Dallas_Skyline_with_Arts_District.jpg/960px-Dallas_Skyline_with_Arts_District.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Dallas_Skyline_with_Arts_District.jpg/500px-Dallas_Skyline_with_Arts_District.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 4032,
-          "yazar": "Gattacal",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Dallas_Skyline_with_Arts_District.jpg",
-          "aciklama": "View of Dallas Arts District and the Downtown skyline.",
-          "konu": "Dallas"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/37_Lyndon_Johnson_3x4.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/37_Lyndon_Johnson_3x4.jpg",
-          "genislik": 924,
-          "yukseklik": 1228,
-          "orijinalGenislik": 924,
-          "yazar": "Arnold Newman",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:37_Lyndon_Johnson_3x4.jpg",
-          "aciklama": "Photo portrait of President Lyndon B. Johnson in the Oval Office, leaning on a chair.",
-          "konu": "Lyndon B. Johnson"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1968-turkiyede-ilk-kalp-nakli-yapildi-doktor-kemal",
@@ -610,10 +347,10 @@
         "Uluslararası Para Fonu",
         "Türk lirası"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "IMF'nin Türk Lirası İçin Devalüasyon Talebi",
+      "ozet": "Uluslararası Para Fonu (IMF), 1979 yılının Kasım ayında Türkiye'ye yönelik ekonomik politikaları kapsamında Türk lirasının yeniden devalüe edilmesi yönünde bir talepte bulundu. Bu gelişme, Türkiye'nin o dönemde yaşadığı ciddi ekonomik darboğazın ve ödemeler dengesi krizinin bir yansıması olarak gündeme geldi. IMF'nin bu talebi, ülkenin dış borçlarını yönetebilmesi ve küresel finansal sistemle uyumunu sürdürebilmesi adına atılması gereken bir adım olarak değerlendirildi.\n\nSöz konusu dönemde Türkiye, yüksek enflasyon, döviz kıtlığı ve dış ticaret açığı gibi yapısal sorunlarla mücadele ediyordu. IMF'nin devalüasyon çağrısı, Türk lirasının yabancı para birimleri karşısındaki değerini düşürerek ihracatı teşvik etmeyi ve ithalatı kısıtlamayı amaçlayan bir reçetenin parçasıydı. Bu tür müdahaleler, Türkiye'nin ekonomik istikrar programları ve uluslararası kuruluşlarla olan ilişkileri açısından kritik bir dönemeç teşkil ediyordu. IMF'nin bu talebi, Türkiye'nin ilerleyen yıllarda uygulayacağı köklü ekonomik reformların ve serbest piyasa ekonomisine geçiş sürecinin habercisi niteliğindeydi.",
+      "kategori": "Ekonomi",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/9._Emisyon_T%C3%BCrk_banknotlar%C4%B1.gif",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/9._Emisyon_T%C3%BCrk_banknotlar%C4%B1.gif",
@@ -626,7 +363,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:9._Emisyon_T%C3%BCrk_banknotlar%C4%B1.gif",
         "aciklama": "9. Series of Turkish Lira banknotes",
         "konu": "Türk lirası"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1982-yazar-tezer-ozlu-almanyada-malbug-odulu-nu",
@@ -651,10 +389,10 @@
         "Türkiye",
         "Vahit Halefoğlu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Avrupa Konseyi'nde Türkiye Krizi ve Halefoğlu'nun Tepkisi",
+      "ozet": "1984 yılının Kasım ayında Avrupa Konseyi bünyesinde gerçekleştirilen bir toplantıda, Türkiye'nin dönem başkanlığı meselesi gergin bir atmosferde ele alındı. Türkiye'nin Avrupa kurumları içerisindeki konumu ve temsil hakları üzerine yürütülen tartışmalar, uzlaşmaz bir noktaya gelince dönemin Dışişleri Bakanı Vahit Halefoğlu, durumu protesto etmek amacıyla toplantıyı terk etme kararı aldı. Bu olay, Türkiye ile Avrupa Konseyi arasındaki diplomatik ilişkilerin o dönemdeki hassas dengelerini gözler önüne seren önemli bir gelişme olarak kayıtlara geçti.\n\nAvrupa Konseyi, demokrasi ve insan hakları gibi temel değerleri korumak amacıyla kurulmuş olsa da, üye ülkeler arasındaki siyasi süreçler zaman zaman bu tür diplomatik krizlere sahne olabilmektedir. Türkiye'nin dönem başkanlığına yönelik itirazlar veya çekinceler, o dönemde Avrupa'daki siyasi iklimin bir yansıması olarak değerlendirilebilir. Vahit Halefoğlu'nun sergilediği bu tavır, Türkiye'nin uluslararası platformlarda kendi haklarını ve statüsünü savunma konusundaki kararlılığını temsil eden bir diplomatik hamle olarak görülmüştür. Bu olay, Türkiye'nin Avrupa ile olan ilişkilerinde karşılaştığı yapısal zorlukların ve diplomatik süreçlerin karmaşıklığının bir örneğini oluşturmaktadır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Vahit_Melih_Halefoglu_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Vahit_Melih_Halefoglu_%28cropped%29.jpg",
@@ -667,7 +405,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Vahit_Melih_Halefoglu_(cropped).jpg",
         "aciklama": "On 23 January 1984, Gaston Thorn, President of the CEC, received Vahit Melih Halefoğlu, Turkish Minister for Foreign Affairs. He took this opportunity to inform the Commission of the latest political ",
         "konu": "Vahit Halefoğlu"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1986-mike-tyson-20-yasinda-dunyanin-en-genc",
@@ -676,10 +415,10 @@
       "konular": [
         "Mike Tyson"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Mike Tyson'ın Tarihi Ağır Sıklet Şampiyonluğu",
+      "ozet": "Mike Tyson, 20 yaşındayken ringe çıktığı maçta rakibi Trevor Berbick'i nakavt ederek dünya ağır sıklet boks şampiyonu oldu. Bu zafer, Tyson'ı boks tarihinin en genç ağır sıklet şampiyonu unvanına taşıyarak spor dünyasında büyük bir yankı uyandırdı. Henüz kariyerinin çok başında olmasına rağmen sergilediği üstün performans ve yıkıcı gücüyle dikkatleri üzerine çeken genç boksör, bu unvanla birlikte profesyonel boks dünyasında yeni bir dönemin kapılarını araladı.\n\nBu başarı, Tyson'ın ilerleyen yıllarda WBA, WBC ve IBF kemerlerini aynı anda elinde bulunduran ilk ağır sıklet boksörü olma yolundaki en önemli adımıydı. Kariyerinin başlarında gösterdiği bu hızlı yükseliş, onu sadece bir şampiyon değil, aynı zamanda spor tarihinin en ikonik figürlerinden biri haline getirdi. 20 yıl, 4 ay ve 22 günlükken elde ettiği bu rekor, günümüzde dahi boks dünyasında kırılması güç bir başarı olarak kabul edilmektedir. Tyson'ın bu zaferi, ağır sıklet kategorisinde fiziksel gücün ve hızın önemini bir kez daha kanıtlamış ve boksseverler arasında unutulmaz bir an olarak yerini almıştır.",
+      "kategori": "Spor",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Mike_Tyson_Photo_Op_GalaxyCon_Austin_2023.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Mike_Tyson_Photo_Op_GalaxyCon_Austin_2023.jpg",
@@ -692,7 +431,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Mike_Tyson_Photo_Op_GalaxyCon_Austin_2023.jpg",
         "aciklama": "Mike Tyson at GalaxyCon Austin in 2023",
         "konu": "Mike Tyson"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1995-tamami-bilgisayar-destegi-ile-olusturulmus-ilk-uzun",
@@ -702,23 +442,12 @@
         "animasyon",
         "Oyuncak Hikâyesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Delfinekko.gif",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Delfinekko.gif",
-        "genislik": 400,
-        "yukseklik": 154,
-        "orijinalGenislik": 400,
-        "yazar": "Malene Thyssen",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Delfinekko.gif",
-        "aciklama": "Animation of the echo-location of a dolphin.",
-        "konu": "animasyon"
-      }
+      "baslik": "Sinema Tarihinde Dijital Bir Devrim: Oyuncak Hikâyesi",
+      "ozet": "Pixar tarafından hazırlanan ve yönetmenliğini John Lasseter'in üstlendiği Oyuncak Hikâyesi, sinema dünyasında yeni bir dönemin kapılarını araladı. Tamamı bilgisayar üretimli imgeleme yani CGI teknolojisi kullanılarak üretilen ilk uzun metrajlı animasyon filmi olma özelliğini taşıyan yapım, izleyicileri oyuncakların gizli dünyasına götürerek büyük bir başarıya imza attı. Film, çocukların odalarındaki oyuncakların insanlar yokken yaşadıkları maceraları konu alarak hem teknik başarısı hem de hikâye anlatıcılığıyla dikkat çekti.\n\nBu yapım, geleneksel el çizimi animasyon tekniklerinin hakim olduğu bir dönemde, bilgisayar teknolojisinin sinemadaki potansiyelini kanıtlayan bir dönüm noktası oldu. Oyuncak Hikâyesi'nin elde ettiği ticari başarı ve eleştirmenlerden aldığı olumlu notlar, animasyon sektöründe köklü bir değişimi tetikledi. Bu tarihten sonra stüdyolar, üç boyutlu bilgisayar animasyonuna daha fazla yatırım yapmaya başladı ve günümüzde izlediğimiz modern animasyon filmlerinin teknik altyapısı bu öncü çalışma sayesinde şekillendi. Film, sadece bir teknoloji gösterisi değil, aynı zamanda karakter derinliği ve duygusal anlatımıyla da animasyon türünün yetişkinler tarafından da ciddiye alınmasını sağladı.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "2005-angela-merkel-almanyanin-ilk-kadin-sansolyesi-oldu",
@@ -729,10 +458,10 @@
         "Almanya",
         "Almanya şansölyesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Almanya'nın İlk Kadın Şansölyesi: Angela Merkel",
+      "ozet": "Angela Merkel, 2005 yılında Federal Meclis'te yapılan oylamanın ardından Almanya'nın ilk kadın şansölyesi olarak tarihe geçti. Hristiyan Demokrat Birliği'nin lideri olan Merkel, bu göreve gelmeden önce bilim dünyasında kuantum kimyası üzerine çalışmalar yürütmüş ve 1989 yılındaki siyasi değişimlerin ardından aktif siyasete adım atmıştı. Doğu Almanya kökenli bir siyasetçi olarak, ülkenin yeniden birleşme sürecinden sonra hızla yükselerek Federal Meclis'e girmiş ve Helmut Kohl döneminde bakanlık görevlerinde bulunmuştu.\n\nMerkel'in şansölye seçilmesi, Alman siyasi tarihinde bir dönüm noktası olarak kabul edilir. Görev süresi boyunca sadece Almanya'nın değil, Avrupa Birliği'nin de en etkili figürlerinden biri haline gelen Merkel, uzun yıllar boyunca kıtanın siyasi ve ekonomik istikrarında belirleyici bir rol oynadı. 2021 yılına kadar sürdürdüğü şansölyelik göreviyle, modern Almanya'nın en uzun süre görev yapan liderlerinden biri oldu ve dünya genelinde kadınların siyasetteki temsil gücünün önemli bir sembolü haline geldi.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Angela_Merkel_2019_cropped.jpg/960px-Angela_Merkel_2019_cropped.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Angela_Merkel_2019_cropped.jpg/500px-Angela_Merkel_2019_cropped.jpg",
@@ -745,7 +474,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Angela_Merkel_2019_cropped.jpg",
         "aciklama": "German Chancellor Angela Merkel during a visit to Cologne City Hall, June 2019",
         "konu": "Angela Merkel"
-      }
+      },
+      "bolge": "dunya"
     }
   ],
   "dogumlar": [

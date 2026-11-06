@@ -11,51 +11,24 @@
         "Jean-François Pilâtre de Rozier",
         "François Laurent d'Arlandes"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İnsanlık Tarihinin İlk Sıcak Hava Balonu Uçuşu",
+      "ozet": "Fransa'nın başkenti Paris'te 21 Kasım 1783 tarihinde gerçekleşen bu tarihi uçuş, havacılık serüveninin en önemli dönüm noktalarından biri olarak kabul edilir. Jean-François Pilâtre de Rozier ve François Laurent d'Arlandes, Montgolfier kardeşler tarafından tasarlanan sıcak hava balonuyla yerden yükselerek gökyüzüne çıkan ilk insanlar oldular. Yaklaşık 25 dakika süren bu yolculuk, Paris semalarında yaklaşık 9 kilometrelik bir mesafeyi kapsadı ve insanlığın uçma hayalini gerçeğe dönüştüren ilk başarılı adım oldu. Bu uçuş, sadece teknik bir başarı değil, aynı zamanda bilimsel merakın ve cesaretin bir sembolü olarak tarihe geçti. Balonun havada kalmasını sağlayan sıcak hava prensibi, o dönem için devrim niteliğinde bir keşifti. Bu başarılı deneme, havacılık teknolojilerinin hızla gelişmesine zemin hazırladı ve kısa süre sonra daha uzun mesafeli uçuşların önünü açtı. İnsanların yerçekimine meydan okuyarak gökyüzünde süzüldüğü bu an, modern havacılığın başlangıcı olarak kabul edilmektedir.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/960px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/500px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-        "genislik": 960,
-        "yukseklik": 600,
-        "orijinalGenislik": 4592,
-        "yazar": "Yann Caradec from Paris, France",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
-        "aciklama": "La Tour Eiffel vue de la Tour Saint-Jacques, Paris.",
-        "konu": "Paris"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Pilatre_de_Rozier.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Pilatre_de_Rozier.jpg",
+        "genislik": 573,
+        "yukseklik": 835,
+        "orijinalGenislik": 573,
+        "yazar": "André Pujos",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pilatre_de_Rozier.jpg",
+        "aciklama": "Jean-François Pilâtre de Rozier, French balloonist. Cropped and contrast-enhanced image from the Library of Congress online collection. This image is now in the public domain. See catalog information ",
+        "konu": "Jean-François Pilâtre de Rozier"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/960px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/500px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-          "genislik": 960,
-          "yukseklik": 600,
-          "orijinalGenislik": 4592,
-          "yazar": "Yann Caradec from Paris, France",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
-          "aciklama": "La Tour Eiffel vue de la Tour Saint-Jacques, Paris.",
-          "konu": "Paris"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Pilatre_de_Rozier.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Pilatre_de_Rozier.jpg",
-          "genislik": 573,
-          "yukseklik": 835,
-          "orijinalGenislik": 573,
-          "yazar": "André Pujos",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Pilatre_de_Rozier.jpg",
-          "aciklama": "Jean-François Pilâtre de Rozier, French balloonist. Cropped and contrast-enhanced image from the Library of Congress online collection. This image is now in the public domain. See catalog information ",
-          "konu": "Jean-François Pilâtre de Rozier"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1789-kuzey-karolina-abdnin-12-eyaleti-oldu",
@@ -78,10 +51,10 @@
       "konular": [
         "Napoléon Bonaparte"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Napolyon Bonapart'ın Generalliğe Yükselişi",
+      "ozet": "Fransız Devrimi'nin çalkantılı yıllarında ordu içerisinde hızla yükselen Napolyon Bonapart, 1791 yılının Kasım ayında generallik rütbesine layık görüldü. Bu terfi, genç bir subay olan Napolyon'un hem askeri yeteneklerinin hem de devrimci hükümet nezdindeki itibarının bir göstergesi olarak kabul edilir. Söz konusu dönem, Fransa'nın iç karışıklıklarla boğuştuğu ve Avrupa genelinde büyük bir siyasi dönüşümün yaşandığı bir süreçti.\n\nGeneralliğe terfi etmesi, Napolyon'un ilerleyen yıllarda Avrupa tarihini kökten değiştirecek olan askeri ve siyasi kariyerinin başlangıç noktalarından biri oldu. Fransız Devrim Savaşları'nda sergilediği stratejik deha ile kısa sürede dikkatleri üzerine çeken Napolyon, sadece bir komutan olarak değil, aynı zamanda uyguladığı liberal reformlar ve devlet yönetimi anlayışıyla da kıta Avrupa'sının kaderini belirleyen en etkili figürlerden biri haline gelecekti. Bu rütbe, onun imparatorluğa giden yolda attığı en kritik adımlardan biri olarak tarihe geçti.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/960px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/500px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
@@ -94,7 +67,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
         "aciklama": null,
         "konu": "Napoléon Bonaparte"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1877-edison-pikapi-ses-kayit-cihazi-icat-ettigini",
@@ -104,51 +78,24 @@
         "Thomas Edison",
         "pikap"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Thomas Edison'un Ses Kayıt Cihazı Fonografı İcadı",
+      "ozet": "Amerikalı mucit Thomas Edison, 1877 yılının Kasım ayında insanlık tarihini değiştirecek bir buluşa imza atarak fonografı tanıttı. Bu cihaz, ses dalgalarını fiziksel bir yüzeye kaydedebilen ve daha sonra bu kayıtları mekanik olarak geri çalabilen ilk sistem olma özelliğini taşıyordu. Edison'un bu icadı, sesin zaman ve mekandan bağımsız hale getirilmesinin önünü açarak modern iletişim ve eğlence dünyasının temellerini attı. Fonograf, sesin ilk kez bir nesne üzerinde somutlaşmasını sağlayarak müzik endüstrisinin ve sözlü tarihin kaydedilmesinin başlangıcı kabul edildi. Edison, bu cihazı geliştirirken sesin titreşimlerini bir iğne yardımıyla silindir üzerine kazıma yöntemini kullandı. Bu basit ama devrim niteliğindeki mekanizma, daha sonra geliştirilen gramofon ve pikap teknolojilerinin de atası oldu. Edison'un bu başarısı, sadece teknik bir buluş değil, aynı zamanda kitle iletişim araçlarının gelişiminde bir dönüm noktasıydı. Mucidin kurduğu endüstriyel araştırma laboratuvarı disipliniyle birleşen bu icat, 20. yüzyılın teknolojik ilerleyişine yön veren en önemli adımlardan biri olarak tarihe geçti.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/960px-Thomas_Edison2.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/500px-Thomas_Edison2.jpg",
-        "genislik": 960,
-        "yukseklik": 1229,
-        "orijinalGenislik": 2888,
-        "yazar": "Louis Bachrach, Bachrach Studios, restored by Michel Vuijlsteke",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Thomas_Edison2.jpg",
-        "aciklama": "\"Thomas Alva Edison, three-quarter length portrait, seated, facing front\". Photographic print.",
-        "konu": "Thomas Edison"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/EdisonPhonograph.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/EdisonPhonograph.jpg",
+        "genislik": 552,
+        "yukseklik": 540,
+        "orijinalGenislik": 552,
+        "yazar": "Norman Bruderhofer, www.cylinder.de",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:EdisonPhonograph.jpg",
+        "aciklama": "Edison Home Phonograph, Suitcase-Modell",
+        "konu": "pikap"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/960px-Thomas_Edison2.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/500px-Thomas_Edison2.jpg",
-          "genislik": 960,
-          "yukseklik": 1229,
-          "orijinalGenislik": 2888,
-          "yazar": "Louis Bachrach, Bachrach Studios, restored by Michel Vuijlsteke",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Thomas_Edison2.jpg",
-          "aciklama": "\"Thomas Alva Edison, three-quarter length portrait, seated, facing front\". Photographic print.",
-          "konu": "Thomas Edison"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/EdisonPhonograph.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/EdisonPhonograph.jpg",
-          "genislik": 552,
-          "yukseklik": 540,
-          "orijinalGenislik": 552,
-          "yazar": "Norman Bruderhofer, www.cylinder.de",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:EdisonPhonograph.jpg",
-          "aciklama": "Edison Home Phonograph, Suitcase-Modell",
-          "konu": "pikap"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1905-albert-einsteinin-enerji-ile-kutle-arasindaki-iliskiyi",
@@ -157,10 +104,10 @@
       "konular": [
         "Albert Einstein"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Modern Fiziğin Temel Taşı: E=mc2 Denklemi",
+      "ozet": "Albert Einstein, 1905 yılında kaleme aldığı ve kütle ile enerji arasındaki ilişkiyi inceleyen makalesiyle bilim dünyasında devrim yarattı. Cismin ataleti içerdiği enerji miktarına bağlı mıdır? başlığını taşıyan bu çalışma, fizik tarihinde bir dönüm noktası kabul edilen E=mc2 denklemini ilk kez bilimsel literatüre kazandırdı. Bu formül, kütlenin aslında yoğunlaşmış bir enerji biçimi olduğunu kanıtlayarak, klasik fiziğin madde ve enerjiye dair birbirinden bağımsız tanımlarını kökten değiştirdi. Einstein'ın bu çalışması, özel görelilik kuramının en çarpıcı sonuçlarından biri olarak kabul edilir. Kütle-enerji denkliği ilkesi, atom fiziğinden kozmolojiye kadar pek çok alanda temel bir referans noktası haline gelmiştir. Maddenin enerjiye dönüşebileceğini matematiksel olarak ortaya koyan bu denklem, nükleer enerjinin keşfinden yıldızların nasıl parladığının anlaşılmasına kadar modern bilimin pek çok temel sorusuna yanıt vermiştir. Einstein'ın Bern'deki patent ofisinde çalıştığı dönemde geliştirdiği bu fikirler, onun teorik fizik alanındaki dehasını tüm dünyaya kanıtlamış ve ilerleyen yıllarda Nobel Fizik Ödülü'ne uzanan akademik kariyerinin en önemli yapı taşlarından biri olmuştur.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/960px-Albert_Einstein_Head_cleaned.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/500px-Albert_Einstein_Head_cleaned.jpg",
@@ -173,7 +120,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg",
         "aciklama": "Albert Einstein",
         "konu": "Albert Einstein"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1919-mardin-sehrinin-kurtulusu",
@@ -182,23 +130,12 @@
       "konular": [
         "Mardin"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Mardin%2C_Mardin_Merkez-Mardin%2C_Turkey_-_panoramio_%281%29.jpg/960px-Mardin%2C_Mardin_Merkez-Mardin%2C_Turkey_-_panoramio_%281%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Mardin%2C_Mardin_Merkez-Mardin%2C_Turkey_-_panoramio_%281%29.jpg/500px-Mardin%2C_Mardin_Merkez-Mardin%2C_Turkey_-_panoramio_%281%29.jpg",
-        "genislik": 960,
-        "yukseklik": 538,
-        "orijinalGenislik": 2048,
-        "yazar": "Ben Bender",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Mardin,_Mardin_Merkez-Mardin,_Turkey_-_panoramio_(1).jpg",
-        "aciklama": "Mardin, Mardin Merkez/Mardin, Turkey",
-        "konu": "Mardin"
-      }
+      "baslik": "Mardin'in İşgalden Kurtuluşu",
+      "ozet": "Mardin, 21 Kasım 1919 tarihinde gerçekleşen müdahale ile işgal altındaki günlerini geride bırakarak kurtuluşuna kavuştu. Birinci Dünya Savaşı sonrasında Anadolu'nun pek çok bölgesinde olduğu gibi Mardin'de de yaşanan belirsizlik ve işgal süreci, halkın kararlı duruşu ve bölgedeki gelişmelerle nihayete erdi. Bu tarih, şehrin tarihinde önemli bir dönüm noktası olarak kabul edilmektedir. Mardin'in kurtuluşu, bölgedeki milli mücadelenin güçlenmesi ve yerel halkın kendi kaderini tayin etme iradesinin bir yansıması olarak değerlendirilir. Şehir, stratejik konumu ve tarihsel derinliğiyle bu süreçte kritik bir rol oynamıştır. Bugün Mardin, sahip olduğu zengin kültürel mirası ve farklı inançları bir arada barındıran yapısıyla Türkiye'nin en önemli tarihi merkezlerinden biri olma özelliğini sürdürmektedir. Kurtuluş günü, şehrin hafızasında bağımsızlık ve özgürlük mücadelesinin bir simgesi olarak her yıl anılmaya devam etmektedir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1938-ataturkun-naasi-torenle-etnografya-muzesindeki-gecici-istirahatgahina",
@@ -208,51 +145,24 @@
         "Mustafa Kemal Atatürk",
         "Ankara Etnografya Müzesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Atatürk'ün Naaşı Etnografya Müzesi'ne Nakledildi",
+      "ozet": "10 Kasım 1938 tarihinde İstanbul'da hayata gözlerini yuman Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün naaşı, 21 Kasım 1938 günü Ankara'da düzenlenen devlet töreniyle Etnografya Müzesi'ne getirildi. Dolmabahçe Sarayı'ndan alınan naaş, önce Yavuz zırhlısı ile İzmit'e, oradan da trenle Ankara'ya ulaştırılmıştı. Başkentte büyük bir kalabalığın katılımıyla gerçekleşen kortej yürüyüşünün ardından Atatürk'ün naaşı, Anıtkabir inşa edilene kadar kalacağı geçici istirahatgâhı olan Etnografya Müzesi'ndeki mermer lahdine yerleştirildi. Bu tören, Türk halkının kurucu liderine olan derin bağlılığını ve yasını ifade ettiği tarihi bir an olarak kayıtlara geçti. Etnografya Müzesi, 1953 yılında Anıtkabir'in tamamlanmasına kadar geçen on beş yıllık süreçte Atatürk'ün naaşına ev sahipliği yapmıştır. Bu süre zarfında müze, sadece bir kültür kurumu olmanın ötesine geçerek, Türkiye Cumhuriyeti'nin kurucusunun hatırasını yaşatan manevi bir merkez haline gelmiştir. 1953 yılındaki nakil işlemine kadar geçen bu dönem, genç cumhuriyetin yas sürecini ve Atatürk'ün mirasına sahip çıkma kararlılığını simgeleyen önemli bir tarihsel kesittir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-        "genislik": 732,
-        "yukseklik": 987,
-        "orijinalGenislik": 732,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
-        "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
-        "konu": "Mustafa Kemal Atatürk"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Ankara_asv2021-10_img62_Ethnography_Museum.jpg/960px-Ankara_asv2021-10_img62_Ethnography_Museum.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Ankara_asv2021-10_img62_Ethnography_Museum.jpg/500px-Ankara_asv2021-10_img62_Ethnography_Museum.jpg",
+        "genislik": 960,
+        "yukseklik": 540,
+        "orijinalGenislik": 7226,
+        "yazar": "A.Savin",
+        "lisans": "FAL",
+        "lisansUrl": "http://artlibre.org/licence/lal/en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img62_Ethnography_Museum.jpg",
+        "aciklama": "Building of the Ethnography Museum in Ankara, Turkey",
+        "konu": "Ankara Etnografya Müzesi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-          "genislik": 732,
-          "yukseklik": 987,
-          "orijinalGenislik": 732,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
-          "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
-          "konu": "Mustafa Kemal Atatürk"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Ankara_asv2021-10_img62_Ethnography_Museum.jpg/960px-Ankara_asv2021-10_img62_Ethnography_Museum.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Ankara_asv2021-10_img62_Ethnography_Museum.jpg/500px-Ankara_asv2021-10_img62_Ethnography_Museum.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 7226,
-          "yazar": "A.Savin",
-          "lisans": "FAL",
-          "lisansUrl": "http://artlibre.org/licence/lal/en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img62_Ethnography_Museum.jpg",
-          "aciklama": "Building of the Ethnography Museum in Ankara, Turkey",
-          "konu": "Ankara Etnografya Müzesi"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1955-turkiye-iran-irak-pakistan-ve-birlesik-krallikin",
@@ -279,10 +189,10 @@
         "ARPANET",
         "Kaliforniya Üniversitesi, Los Angeles"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İnternetin Doğuşu: İlk ARPANET Bağlantısı",
+      "ozet": "İki farklı merkezde bulunan bilgisayarların birbirleriyle iletişim kurmasını sağlayan ARPANET, 21 Kasım 1969 tarihinde ilk başarılı veri aktarımını gerçekleştirdi. UCLA ve Stanford Araştırma Enstitüsü'ndeki işlemciler arasında kurulan bu hat, modern dijital çağın başlangıcı olarak kabul edilen internetin temelini attı. Bu gelişme, o güne kadar kullanılan geleneksel devre anahtarlamalı iletişim yöntemlerinin yerini, verinin küçük parçalara bölünerek iletildiği paket anahtarlama teknolojisine bırakmasının ilk somut adımıydı. ABD Savunma Bakanlığı bünyesindeki araştırmacılar tarafından geliştirilen bu ağ, verilerin tek bir hat üzerinden birden fazla makineyle paylaşılabilmesine olanak tanıdı. Bu yenilikçi yaklaşım, telefon hatlarına bağımlı olan eski iletişim sistemlerinin kısıtlamalarını ortadan kaldırarak, bilginin çok daha hızlı ve verimli bir şekilde aktarılmasının önünü açtı. ARPANET'in bu ilk başarılı denemesi, sadece akademik bir başarı değil, aynı zamanda günümüzde küresel iletişimin temelini oluşturan ağ teknolojilerinin evriminde bir dönüm noktası oldu. Bu teknoloji sayesinde, birbirinden bağımsız bilgisayar sistemleri ilk kez bir bütünün parçası haline gelerek, bugün kullandığımız internetin karmaşık ve geniş yapısına giden yolu inşa etti.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Arpanet_logical_map%2C_march_1977.png/960px-Arpanet_logical_map%2C_march_1977.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Arpanet_logical_map%2C_march_1977.png/500px-Arpanet_logical_map%2C_march_1977.png",
@@ -295,7 +205,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Arpanet_logical_map,_march_1977.png",
         "aciklama": "ARPANET logical map circa 1977",
         "konu": "ARPANET"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1980-las-vegas-nevadada-bir-otelde-cikan",
@@ -305,23 +216,12 @@
         "Las Vegas",
         "Nevada"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Las_Vegas_from_above_%2840064746644%29.jpg/960px-Las_Vegas_from_above_%2840064746644%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Las_Vegas_from_above_%2840064746644%29.jpg/500px-Las_Vegas_from_above_%2840064746644%29.jpg",
-        "genislik": 960,
-        "yukseklik": 547,
-        "orijinalGenislik": 6852,
-        "yazar": "Mike McBey",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Las_Vegas_from_above_(40064746644).jpg",
-        "aciklama": "Downtown Las Vegas, taken from the Stratosphere tower.",
-        "konu": "Las Vegas"
-      }
+      "baslik": "Las Vegas MGM Grand Oteli Yangını",
+      "ozet": "Amerika Birleşik Devletleri'nin Nevada eyaletinde bulunan Las Vegas'taki MGM Grand Oteli'nde 21 Kasım 1980 tarihinde çıkan yangın, ülkenin modern tarihindeki en ölümcül otel felaketlerinden biri olarak kayıtlara geçti. Otelin kumarhane bölümünde başlayan ve hızla üst katlara yayılan alevler, binanın havalandırma sistemleri aracılığıyla dumanın hızla yayılmasına neden oldu. Bu durum, otelde konaklayan yüzlerce kişinin mahsur kalmasına ve trajik can kayıplarının yaşanmasına yol açtı.\n\nOlayın ardından yapılan incelemeler, yangının elektrik tesisatındaki bir arızadan kaynaklandığını ortaya koydu. Felaket, otel ve yüksek katlı binalarda yangın güvenliği standartlarının yeniden gözden geçirilmesine neden oldu. Özellikle yangın söndürme sistemleri, duman tahliye mekanizmaları ve acil durum çıkışlarının düzenlenmesi konusunda ABD genelinde çok daha katı yönetmelikler yürürlüğe girdi. Bu acı olay, turizm ve konaklama sektöründe güvenlik önlemlerinin hayati önemini vurgulayan bir dönüm noktası kabul edilmektedir.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1982-cumhurbaskani-kenan-evren-1982-turkiye-anayasa-referandumunda",
@@ -348,64 +248,12 @@
         "Cenevre",
         "nükleer silah"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg/960px-Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg/500px-Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1221,
-        "orijinalGenislik": 1208,
-        "yazar": "Pete Souza",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ronald_Reagan_1985_presidential_portrait_(cropped).jpg",
-        "aciklama": "Official portrait photograph of Ronald Reagan, 1985",
-        "konu": "Ronald Reagan"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg/960px-Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg/500px-Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1221,
-          "orijinalGenislik": 1208,
-          "yazar": "Pete Souza",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ronald_Reagan_1985_presidential_portrait_(cropped).jpg",
-          "aciklama": "Official portrait photograph of Ronald Reagan, 1985",
-          "konu": "Ronald Reagan"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
-          "genislik": 480,
-          "yukseklik": 640,
-          "orijinalGenislik": 480,
-          "yazar": "RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev.jpg: Vladimir Vyatkin / Владимир Вяткин derivative work: Jbarta",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_(crop).jpg",
-          "aciklama": "“General Secretary of the CPSU CC M. Gorbachev”. General Secretary of the CPSU Central Committee Mikhail Gorbachev speaking at the 20th Congress of the VLKSM. Kremlin Palace of Congresses.",
-          "konu": "Mihail Gorbaçov"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Views_of_Geneva.jpg/960px-Views_of_Geneva.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Views_of_Geneva.jpg/500px-Views_of_Geneva.jpg",
-          "genislik": 960,
-          "yukseklik": 1200,
-          "orijinalGenislik": 1481,
-          "yazar": "MadGeographer",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Views_of_Geneva.jpg",
-          "aciklama": "Montage for the Geneva article on Wikipedia",
-          "konu": "Cenevre"
-        }
-      ]
+      "baslik": "Soğuk Savaş'ta Yumuşama: Cenevre Zirvesi",
+      "ozet": "ABD Başkanı Ronald Reagan ve Sovyetler Birliği lideri Mihail Gorbaçov, 1985 yılının Kasım ayında İsviçre'nin Cenevre kentinde ilk kez bir araya geldi. Soğuk Savaş'ın en gergin dönemlerinden birinde gerçekleşen bu zirve, iki süper güç arasındaki ilişkilerin yeniden tanımlanması açısından kritik bir dönüm noktası oluşturdu. Görüşmeler sonucunda taraflar, stratejik nükleer silah stoklarının yüzde 50 oranında azaltılması hedefi üzerinde uzlaşmaya vardı.\n\nBu buluşma, Gorbaçov'un göreve gelmesinin ardından Sovyetler Birliği'nin dış politikasında başlattığı yeni dönemin ilk somut adımlarından biri olarak kabul edilir. Reagan ve Gorbaçov arasındaki kişisel diyalog, yıllardır süren nükleer silahlanma yarışının yarattığı küresel gerilimi hafifletme potansiyeli taşıyordu. Zirve, sadece silahların azaltılmasıyla sınırlı kalmayıp, iki ülke arasındaki diplomatik kanalların açılması ve karşılıklı güvenin inşası için de önemli bir zemin hazırladı. Cenevre'de atılan bu adımlar, ilerleyen yıllarda Soğuk Savaş'ın sona ermesine giden sürecin başlangıcı olarak tarihe geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1990-avrupa-guvenlik-ve-isbirligi-konferansi-agik-antlasmasi",
@@ -431,23 +279,12 @@
         "San Juan, Porto Riko",
         "propan"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/San_Juan%2C_Puerto_Rico_%282529298606%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/San_Juan%2C_Puerto_Rico_%282529298606%29.jpg",
-        "genislik": 800,
-        "yukseklik": 532,
-        "orijinalGenislik": 800,
-        "yazar": "James Willamor from Raleigh, NC, USA",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:San_Juan,_Puerto_Rico_(2529298606).jpg",
-        "aciklama": "Condado Beach at night",
-        "konu": "San Juan, Porto Riko"
-      }
+      "baslik": "San Juan'da Yıkıcı Propan Patlaması",
+      "ozet": "Porto Riko'nun başkenti San Juan'da 21 Kasım 1996 tarihinde yaşanan trajik olay, bir iş merkezinde bulunan ayakkabı mağazasında meydana gelen şiddetli bir propan gazı patlamasıyla gerçekleşti. Patlama, binanın yapısal bütünlüğünü ciddi şekilde bozarak içeride bulunan çalışanlar ve müşteriler için ölümcül bir ortam yarattı. Olayın ardından yürütülen kurtarma çalışmaları sonucunda 33 kişinin hayatını kaybettiği belirlendi. Bu felaket, bölge tarihindeki en büyük endüstriyel kazalardan biri olarak kayıtlara geçti. Patlamanın ardından yapılan incelemeler, gaz sızıntısının önlenememesi ve binanın güvenlik standartları üzerindeki tartışmaları beraberinde getirdi. Olay, Porto Riko'da kamu güvenliği ve ticari alanlardaki gaz kullanımı konusunda daha sıkı denetimlerin yapılması gerektiği yönündeki çağrıları güçlendirdi. Yaşanan bu büyük kayıp, hem yerel halk hem de yetkililer üzerinde derin bir üzüntüye yol açarak, benzer kazaların önlenmesi adına güvenlik protokollerinin gözden geçirilmesi sürecini hızlandırdı.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1996-zagrebte-binlerce-kisi-muhalif-radyo-istasyonu-radio",
@@ -456,23 +293,12 @@
       "konular": [
         "Zagreb"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Zagreb_%2829255640143%29.jpg/960px-Zagreb_%2829255640143%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Zagreb_%2829255640143%29.jpg/500px-Zagreb_%2829255640143%29.jpg",
-        "genislik": 960,
-        "yukseklik": 641,
-        "orijinalGenislik": 6016,
-        "yazar": "Nick Savchenko from Kiev, Ukraine",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Zagreb_(29255640143).jpg",
-        "aciklama": "كاتدرائية زغرب وساحة بان جيلاتشيتش",
-        "konu": "Zagreb"
-      }
+      "baslik": "Zagreb'de Radio 101 İçin Büyük Protesto",
+      "ozet": "Hırvatistan'da 1996 yılının Kasım ayında yaşanan bu olay, ülkedeki basın özgürlüğü tartışmalarının merkezine oturdu. Hükümetin, bağımsız ve muhalif çizgisiyle bilinen Radio 101'in yayın lisansını yenilememe kararı alması, Zagreb halkı arasında büyük bir tepkiyle karşılandı. On binlerce kişi, demokratik haklarına ve ifade özgürlüğüne sahip çıkmak amacıyla şehrin ana meydanında toplanarak hükümetin baskıcı tutumunu protesto etti. Bu eylem, o dönemde Hırvatistan'da otoriterleşme eğilimlerine karşı sivil toplumun gösterdiği en güçlü tepkilerden biri olarak tarihe geçti.\n\nRadio 101, sadece bir radyo istasyonu olmanın ötesinde, halkın sesini duyurabildiği nadir mecralardan biriydi. Protestoların büyümesi ve uluslararası kamuoyunun dikkatini çekmesi, hükümetin geri adım atmasını sağladı. Bu olay, Hırvatistan'ın demokratikleşme sürecinde medyanın bağımsızlığının korunması adına önemli bir dönüm noktası kabul edilir. Halkın kararlı duruşu, iktidarın medya üzerindeki kontrol çabalarının her zaman başarılı olamayacağını gösteren sembolik bir zafer olarak değerlendirilmektedir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "2002-pragdaki-nato-zirvesinde-litvanya-letonya-estonya-bulgaristan",
@@ -485,23 +311,12 @@
         "Letonya",
         "Estonya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_%286365119737%29.jpg/960px-Prague_%286365119737%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_%286365119737%29.jpg/500px-Prague_%286365119737%29.jpg",
-        "genislik": 960,
-        "yukseklik": 571,
-        "orijinalGenislik": 3840,
-        "yazar": "Moyan Brenn from Italy",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Prague_(6365119737).jpg",
-        "aciklama": "Prague, panoramic view from Charles Bridge east tower",
-        "konu": "Prag"
-      }
+      "baslik": "NATO'nun Tarihi Genişleme Zirvesi",
+      "ozet": "Çekya'nın başkenti Prag'da gerçekleştirilen 2002 NATO Zirvesi, ittifakın tarihinde önemli bir dönüm noktası olarak kayıtlara geçti. Zirve sırasında alınan kritik bir kararla; Estonya, Letonya, Litvanya, Bulgaristan, Romanya, Slovakya ve Slovenya'ya NATO'ya üye olmaları için resmi davet gönderildi. Bu adım, Soğuk Savaş sonrası Avrupa'nın güvenlik mimarisinin yeniden şekillenmesinde ve ittifakın doğuya doğru genişlemesinde büyük bir rol oynadı.\n\nSöz konusu yedi ülkenin davet edilmesi, NATO'nun kuruluşundan bu yana gerçekleştirdiği en kapsamlı genişleme hamlelerinden biriydi. Özellikle Baltık ülkelerinin ve eski Varşova Paktı üyelerinin ittifaka dahil olma süreci, bölgedeki siyasi istikrarın pekiştirilmesi ve demokratikleşme çabalarının desteklenmesi açısından stratejik bir önem taşıyordu. Prag'da alınan bu karar, Avrupa'nın bölünmüşlüğünün sona erdirilmesi ve ortak savunma şemsiyesinin genişletilmesi yolunda atılmış en somut adımlardan biri olarak kabul edilmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "2002-dunya-guzellik-yarismasinin-yapilacagi-nijeryada-bir-gazetede",
@@ -511,23 +326,12 @@
         "Nijerya",
         "Muhammed bin Abdullah"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Calligraphic_representation_of_Muhammad%27s_name.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Calligraphic_representation_of_Muhammad%27s_name.jpg",
-        "genislik": 521,
-        "yukseklik": 524,
-        "orijinalGenislik": 521,
-        "yazar": "Bakkouz at Arabic Wikipedia",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Calligraphic_representation_of_Muhammad%27s_name.jpg",
-        "aciklama": "The name of Muhammad in calligraphy",
-        "konu": "Muhammed bin Abdullah"
-      }
+      "baslik": "Nijerya'da Güzellik Yarışması Kaynaklı Şiddet Olayları",
+      "ozet": "Nijerya'nın ev sahipliği yaptığı 2002 Dünya Güzellik Yarışması süreci, ülkede yaşanan büyük bir toplumsal gerilimin merkezine dönüştü. Bir yerel gazetede İslam peygamberi Muhammed hakkında yayımlanan ve Müslüman kesim tarafından hakaret olarak algılanan bir makale, ülkede zaten var olan dini ve etnik hassasiyetleri tetikledi. Bu yayın üzerine başlayan protestolar kısa sürede kontrolden çıkarak şiddetli çatışmalara dönüştü. Olaylar sonucunda yaklaşık 100 kişi yaşamını yitirirken, 500'den fazla kişi de yaralandı. Şiddet dalgası, ülkenin kuzeyindeki şehirlerde yoğunlaştı ve kamu düzenini ciddi şekilde sarstı.\n\nBu trajik olaylar, Nijerya'nın hassas toplumsal yapısını ve dini gruplar arasındaki kırılgan dengeyi gözler önüne serdi. Yarışmanın düzenlenmesi, ülkede farklı inanç grupları arasında uzun süredir devam eden tartışmaların bir parçası haline gelmişti. Yaşanan can kayıpları ve artan güvenlik endişeleri nedeniyle, Dünya Güzellik Yarışması'nın finali Nijerya'dan alınarak İngiltere'ye taşınmak zorunda kaldı. Bu durum, uluslararası bir organizasyonun yerel kültürel ve dini dinamiklerle çatışmasının yarattığı sonuçlar açısından tarihe önemli bir örnek olarak geçti.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "2009-cinin-heilongjiang-eyaletinin-hegang-sehrindeki-bir-maden",
@@ -539,23 +343,12 @@
         "Hegang",
         "Madencilik"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/HeGang.JPG/960px-HeGang.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/HeGang.JPG/500px-HeGang.JPG",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 1600,
-        "yazar": "PanShiBo",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:HeGang.JPG",
-        "aciklama": "Hegang",
-        "konu": "Hegang"
-      }
+      "baslik": "Hegang Maden Ocağında Büyük Patlama",
+      "ozet": "Çin'in kuzeydoğusunda yer alan Heilongjiang eyaletine bağlı Hegang şehrindeki bir kömür madeninde, 21 Kasım 2009 tarihinde büyük bir patlama meydana geldi. Yer altındaki gaz sıkışması sonucu gerçekleştiği belirlenen bu elim olayda, vardiyada bulunan 104 işçi yaşamını yitirdi. Olay, Çin'in madencilik sektöründeki güvenlik standartlarını ve çalışma koşullarını bir kez daha dünya gündemine taşıdı.\n\nÇin, dünyanın en büyük kömür üreticisi ve tüketicisi konumunda olması nedeniyle maden kazalarının sık yaşandığı ülkelerden biri olarak bilinmektedir. Hegang'daki bu facia, ülkedeki maden güvenliği denetimlerinin yetersizliği ve iş güvenliği önlemlerinin ihmal edilmesi konusundaki tartışmaları alevlendirdi. Kazanın ardından yetkililer, benzer trajedilerin önlenmesi amacıyla maden ocaklarında daha sıkı güvenlik protokollerinin uygulanması ve denetimlerin artırılması yönünde adımlar atmak zorunda kaldı. Bu olay, madencilik sektöründe insan hayatının korunmasının ekonomik verimlilikten daha öncelikli olması gerektiği gerçeğini acı bir şekilde hatırlattı.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     }
   ],
   "dogumlar": [
