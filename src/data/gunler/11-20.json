@@ -1124,5 +1124,488 @@
     "url": "https://tr.wikipedia.org/wiki/20_Kas%C4%B1m",
     "revid": 38170212
   },
-  "guncelleme": "2026-10-22T08:16:33.547Z"
+  "guncelleme": "2026-10-22T08:16:33.547Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2454216",
+      "yil": 2025,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "Riyad–Washington ortaklığı rekor seviyede: 557 milyar dolarlık işbirliği",
+      "aciklama": "Suudi Arabistan Yatırım Bakanı Halid bin Abdulaziz el-Falih, Riyad ile Washington arasında imzalanan anlaşmaların 557 milyar dolara ulaştığını söyledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/riyad-washington-ortakligi-rekor-seviyede-557-milyar-dolarlik-isbirligi-2454216"
+      },
+      "konular": [],
+      "yayin": "2025-11-20T08:52:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2025-haber-2454306",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Altın yatırımcıları dikkat: Dev yatırım bankasından yeni rekor tahmini!",
+      "aciklama": "İsviçre merkezli dev bankacılık kuruluşu UBS, küresel piyasalarda altına yönelik talebin güçlenmesini değerlendirerek altın fiyat tahminini yukarı yönlü revize etti. Kurum, ons altın beklentisini yükseltirken, bu artışı destekleyen faktörler arasında Fed'in olası faiz indirimleri",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/altin-yatirimcilari-dikkat-dev-yatirim-bankasindan-yeni-rekor-tahmini-2454306"
+      },
+      "konular": [],
+      "yayin": "2025-11-20T12:56:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2270901",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Hidayet Türkoğlu:",
+      "aciklama": "TBF Başkanı Hidayet Türkoğlu, milli takımın sahip olduğu jenerasyona güvendiğini belirtti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/hidayet-turkoglu-hedefimiz-her-zaman-avrupa-sampiyonalarina-katilmak-2270901"
+      },
+      "konular": [],
+      "yayin": "2024-11-20T18:48:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2270761",
+      "yil": 2024,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "Dün istifa etmişti... Yeniden başbakan oldu!",
+      "aciklama": "Özbekistan'da geçen ay yapılan seçimlerin ardından yeni hükümetin kurulması için dün istifa eden Abdulla Aripov, yeniden başbakan oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/dun-istifa-etmisti-yeniden-basbakan-oldu-2270761"
+      },
+      "konular": [],
+      "yayin": "2024-11-20T12:56:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2143083",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Rekor fiyat bekleniyor: Messi'nin Dünya Kupası formaları satışa çıkıyor",
+      "aciklama": "Arjantinli yıldız Lionel Messi'nin Dünya Kupası'nda giydiği 6 forma açık artırmayla satışa çıkarılacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/rekor-fiyat-bekleniyor-messinin-dunya-kupasi-formalari-satisa-cikiyor-2143083"
+      },
+      "konular": [],
+      "yayin": "2023-11-20T18:31:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2143093",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Kabinede neler görüşüldü? 20 Kasım 2023 kabine kararları neler?",
+      "aciklama": "Cumhurbaşkanlığı Kabine Toplantısı sona erdi. Kabinede neler görüşüldü? 20 Kasım 2023 kabine kararları neler?",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/kabinede-neler-gorusuldu-20-kasim-2023-kabine-kararlari-neler-2143093"
+      },
+      "konular": [],
+      "yayin": "2023-11-20T19:42:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-2004296",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez Bankası'nın faiz kararı merakla bekleniyor",
+      "aciklama": "Türkiye Cumhuriyet Merkez Bankası (TCMB) faiz kararı toplantısı, altın ve dolar yatırımcıları tarafından yakından takip ediliyor. Merkez Bankası bu yıl on birinci kez faiz kararı için bir araya gelecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasinin-faiz-karari-merakla-bekleniyor-2004296"
+      },
+      "konular": [],
+      "yayin": "2022-11-20T07:00:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1886340",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Milli karatecilerden Dünya Şampiyonası'nda tarihi üçüncülük",
+      "aciklama": "Birleşik Arap Emirlikleri'nde devam eden organizasyonda Ali Sofuoğlu, Emre Vefa Göktaş ve Enes Özdemir'den oluşan Erkek Kata Milli Takımı, dünya üçüncüsü olarak bu kategoride tarihindeki ilk madalyayı elde etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/milli-karatecilerden-dunya-sampiyonasinda-tarihi-ucunculuk-1886340"
+      },
+      "konular": [],
+      "yayin": "2021-11-20T19:36:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1886186",
+      "yil": 2021,
+      "bolge": "dunya",
+      "tur": "haber",
+      "metin": "ABD'de 1,9 trilyon dolarlık sosyal harcama paketi Temsilciler Meclisi'nden geçti",
+      "aciklama": "ABD'de Cumhuriyetçilerin yoğun itirazlarına karşın Başkan Joe Biden'ın 1,9 trilyon dolarlık sosyal harcama paketi Temsilciler Meclisi'nden geçti. Paket şimdi Senato'da müzakere edilecek.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/dunya/abdde-19-trilyon-dolarlik-sosyal-harcama-paketi-temsilciler-meclisinden-gecti-1886186"
+      },
+      "konular": [],
+      "yayin": "2021-11-20T09:37:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1792580",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Avrupa Judo Şampiyonası'nda Albayrak 7. oldu",
+      "aciklama": "Çekya'daki Avrupa Judo Şampiyonası'nda Vedat Albayrak 7. oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/avrupa-judo-sampiyonasinda-albayrak-7-oldu-1792580"
+      },
+      "konular": [],
+      "yayin": "2020-11-20T16:42:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1792456",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Faiz artırımı kararlarından sonra ikinci el araç piyasası",
+      "aciklama": "Merkez Bankasının faiz artırımı kararlarını açıklamasından ikinci el araç alım satımında hareketlilik başladı. İkinci el araç sektörünün markalarından biri olan VavaCars’ın CEO’su Lawrence Merritt “Aralık’ta ikinci el araç fiyatlarında düşüşe hazır olun” dedi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/faiz-artirimi-kararlarindan-sonra-ikinci-el-arac-piyasasi-1792456"
+      },
+      "konular": [],
+      "yayin": "2020-11-20T11:16:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1703135",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "2018 vergi rekortmenleri açıklandı",
+      "aciklama": "Türkiye'nin 2018 yılı kurumlar vergisi rekortmeni 10 milyar 610 milyon 547 bin 65 lira vergi tahakkuk ettirilen Türkiye Cumhuriyet Merkez Bankası oldu. Kurumlar Vergisi listesinin ilk 10 sırasında 6 banka yer aldı. Türkiye’nin 2018 yılı gelir vergisi rekortmenlerinden ilk ikisi i",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/2018-vergi-rekortmenleri-aciklandi-1703135"
+      },
+      "konular": [],
+      "yayin": "2019-11-20T10:26:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1703093",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "‘FETÖ borsası’nı kamuoyuna duyuran muhabirimiz hakkında dava açıldı",
+      "aciklama": "İstanbul Adliyesi’ndeki FETÖ borsasını kamuoyuna duyuran muhabirimiz Seyhan Avşar hakkında İstanbul Cumhuriyet Başsavcılığı’nca yürütülen soruşturma tamamlandı. İddianamede FETÖ borsası iddiasıyla açığa alınan ve haklarında Bakırköy Cumhuriyet Başsavcılığı’nca iddianame düzenlene",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/feto-borsasini-kamuoyuna-duyuran-muhabirimiz-hakkinda-dava-acildi-1703093"
+      },
+      "konular": [],
+      "yayin": "2019-11-20T00:14:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1146710",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "HDP seçimler için çalışmalara başladı",
+      "aciklama": "HDP Diyarbakır İl Başkanlığı, 31 Mart 2019’da gerçekleştirilecek yerel seçim çalışmalarını, dün düzenlenen basın toplantısıyla başlattı. Açıklamayla birlikte aday adayı başvuruları da kabul edilmeye başlandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/hdp-secimler-icin-calismalara-basladi-1146710"
+      },
+      "konular": [],
+      "yayin": "2018-11-20T22:25:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1146081",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Albayrak: Cari fazlada tüm zamanların rekoru kırılabilir",
+      "aciklama": "Hazine ve Maliye Bakanı Berat Albayrak,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/albayrak-cari-fazlada-tum-zamanlarin-rekoru-kirilabilir-1146081"
+      },
+      "konular": [],
+      "yayin": "2018-11-20T13:08:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-870009",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İtalya'da böyle...Dünya Kupası'na gidemeyince istifa etti",
+      "aciklama": "Dünya Kupası vizesi alamayan İtalya'da Futbol Federasyonu Başkanı Carlo Tavecchio görevinden istifa etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/italyada-boyledunya-kupasina-gidemeyince-istifa-etti-870009"
+      },
+      "konular": [],
+      "yayin": "2017-11-20T15:43:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-870240",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Eski Başbakan Yardımcısı Hikmet Uluğbağ: Türkiye’nin yaşadığı sıkıntıların nedeni yanlış Suriye politikası",
+      "aciklama": "Suriye sınırında inşa edilen fiziki sınır koruma sistemi ve alınan elektronik önlemlerden sonra her türlü kaçak geçiş mininum düzeye indi. IŞİD militanlarının Türkiye’den Suriye’ye ve Suriye’den Türkiye’ye geçişleri engellendi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/eski-basbakan-yardimcisi-hikmet-ulugbag-turkiyenin-yasadigi-sikintilarin-nedeni-yanlis-suriye-politikasi-870240"
+      },
+      "konular": [],
+      "yayin": "2017-11-20T20:47:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-633377",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Angela Merkel'den başbakanlık kararı",
+      "aciklama": "Aday olup olmayacağı konusunda aylardır spekülasyonlar yapılan Almanya Başkanı Angela Merkel, kararını verdi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/angela-merkelden-basbakanlik-karari-633377"
+      },
+      "konular": [],
+      "yayin": "2016-11-20T17:19:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-633346",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Almanya'da halk Merkel'in yeniden başbakan olmasını istiyor",
+      "aciklama": "Kendisi henüz yeniden aday olup olmayacağı konusunda bir açıklama yapmamış olsa da, Almanların çoğu Angela Merkel’in 4.kez başbakan olmasını istiyor. Emnid araştırma şirketi tarafından Bild am Sonntag gazetesi için yapılan bir ankete göre, Almanların yüzde 55’i Merkel’i yeniden b",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/almanyada-halk-merkelin-yeniden-basbakan-olmasini-istiyor-633346"
+      },
+      "konular": [],
+      "yayin": "2016-11-20T16:05:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-425687",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP'nin Meclis Başkan adayı belli oldu (20.11.2015)",
+      "aciklama": "CHP'nin Meclis Başkan adayı belli oldu. Gülsün Bilgehan, CHP'nin TBMM Başkanı adayı oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chpnin-meclis-baskan-adayi-belli-oldu-425687"
+      },
+      "konular": [],
+      "yayin": "2015-11-20T12:23:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-425391",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan'dan İslam dünyasına terör uyarısı",
+      "aciklama": "Cumhurbaşkanı Erdoğan, İslam dünyasını terör konusunda ilkeli bir tutum ortaya konulması konusunda uyardı. Erdoğan, birlikte hareket edilmemesi halinde geleceğin karanlık olacağını söyledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-islam-dunyasina-teror-uyarisi-425391"
+      },
+      "konular": [],
+      "yayin": "2015-11-20T08:23:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-145049",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "UEFA noktayı koydu: 'Şampiyon Fenerbahçe'",
+      "aciklama": "Trabzonspor'un itirazı üstüne görevlendirilen UEFA Müfettişi Jean Samuel Lueba raporunda 2010-11 sezonuna son noktayı koydu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/uefa-noktayi-koydu-sampiyon-fenerbahce-145049"
+      },
+      "konular": [],
+      "yayin": "2014-11-20T11:24:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-145301",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Fenerbahçeli sporcu Dünya Kupası'nda mücadele edecek",
+      "aciklama": "Yelken Milli Takımı ve Fenerbahçe Kulübü sporcusu Nazlı Çağla Dönertaş, Dünya Kupası'na katılmaya hak kazandı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fenerbahceli-sporcu-dunya-kupasinda-mucadele-edecek-145301"
+      },
+      "konular": [],
+      "yayin": "2014-11-20T13:53:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-11623",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan'ın konuşması Twitter'da olay oldu",
+      "aciklama": "Başbakan Recep Tayyip Erdoğan'ın A Haber ve ATV ortak yayınında yaptığı konuşma sonrasında Twitter'da özellikle cemaate yakın isimlerden sert tepkiler geldi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdoganin-konusmasi-twitterda-olay-oldu-11623"
+      },
+      "konular": [],
+      "yayin": "2013-11-20T23:38:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-11339",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Anadolu Ateşi İstanbul Dans Akademisi açıldı",
+      "aciklama": "Şişli'deki akademi merkezinde düzenlenen açılış töreninde konuşan Anadolu Ateşi Genel Sanat Yönetmeni Mustafa Erdoğan, akademinin şubelerinin şimdilik İstanbul, Ankara, Antalya ve Gaziantep'te bulunduğunu belirtti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/anadolu-atesi-istanbul-dans-akademisi-acildi-11339"
+      },
+      "konular": [],
+      "yayin": "2013-11-20T10:49:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-384828",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan Pakistan'daki D-8 Zirvesi'ne katılacak",
+      "aciklama": "Başbakan Recep Tayyip Erdoğan, Pakistan'ın başkenti İslamabad'ta düzenlenecek D-8 Zirvesi'ne katılacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-pakistandaki-d-8-zirvesine-katilacak-384828"
+      },
+      "konular": [],
+      "yayin": "2012-11-20T12:09:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-384856",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Türkiye Diyabet Vakfı'ndan Guinness rekoru",
+      "aciklama": "Türkiye Diyabet Vakfı,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/turkiye-diyabet-vakfindan-guinness-rekoru-384856"
+      },
+      "konular": [],
+      "yayin": "2012-11-20T15:29:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-299344",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Seçimleri, sağ görüşlü Halk Partisi kazandı",
+      "aciklama": "İspanyol devlet televizyonu TVE'de verilen anket sonuçlarında 350 sandalyeden oluşan mecliste PP 181-185, Sosyalist İşçi Partisi (PSOE) ise 115-119 arasında milletvekiline sahip gösterildi. Bu sonuçlarla, PP'nin tek başına iktidar olacak çoğunluğa sahip olduğu belirtildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/secimleri-sag-goruslu-halk-partisi-kazandi-299344"
+      },
+      "konular": [],
+      "yayin": "2011-11-20T08:33:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-299350",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İstanbul'a rekor bütçe",
+      "aciklama": "İstanbul Büyükşehir Belediyesi'nin 2012 yılı konsolide bütçesi 19 milyar 445 milyon 178 bin lira olarak belirlendi. Büyükşehir Belediyesi bu bütçesiyle 18 bakanlığın bütçesini geride bıraktı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/istanbula-rekor-butce-299350"
+      },
+      "konular": [],
+      "yayin": "2011-11-20T08:51:00+03:00",
+      "puan": 8,
+      "durum": "haber"
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }
