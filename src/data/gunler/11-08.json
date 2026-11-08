@@ -689,7 +689,7 @@
     },
     {
       "yil": 1656,
-      "metin": "Edmond Halley, İngiliz bilim insanı (ö. 1742)"
+      "metin": "Edmond Halley, İngiliz bilim adamı (ö. 1742)"
     },
     {
       "yil": 1737,
@@ -705,7 +705,7 @@
     },
     {
       "yil": 1847,
-      "metin": "Jean Casimir-Perier, Fransız siyasetçi ve iş insanı (ö. 1847)"
+      "metin": "Jean Casimir-Perier, Fransız siyasetçi ve iş adamı (ö. 1847)"
     },
     {
       "yil": 1847,
@@ -825,7 +825,7 @@
     },
     {
       "yil": 1935,
-      "metin": "Alain Delon, Fransız aktör ve iş insanı (ö. 2024)"
+      "metin": "Alain Delon, Fransız aktör ve iş adamı (ö. 2024)"
     },
     {
       "yil": 1936,
@@ -1083,7 +1083,7 @@
     },
     {
       "yil": 1934,
-      "metin": "Carlos Chagas, Brezilyalı bilim insanı ve bakteriyolog (Chagas hastalığını bulan) (d. 1879)"
+      "metin": "Carlos Chagas, Brezilyalı bilim adamı ve bakteriyolog (Chagas hastalığını bulan) (d. 1879)"
     },
     {
       "yil": 1941,
@@ -1250,9 +1250,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/8_Kas%C4%B1m",
-    "revid": 38291333
+    "revid": 38520344
   },
-  "guncelleme": "2026-11-07T12:38:37.514Z",
+  "guncelleme": "2026-11-08T12:55:51.119Z",
   "haberler": [
     {
       "id": "2025-haber-2450891",
@@ -1908,15 +1908,15 @@
         "url": "https://www.cumhuriyet.com.tr/haber/milli-takimindan-okculukta-dunya-rekoru-7471"
       },
       "konular": [
-        "Okçuluk",
-        "Bedensel Engelliler Milli Takımı",
-        "Türkiye"
+        "Burcu Dağ",
+        "Erdoğan Aygan",
+        "Okçuluk"
       ],
       "yayin": "2013-11-08T19:31:00+03:00",
       "puan": 11,
       "durum": "yazildi",
       "baslik": "Milli okçulardan makaralı yay kategorisinde dünya rekoru",
-      "ozet": "Bedensel Engelliler Milli Takımı sporcuları Burcu Dağ ve Erdoğan Aygan, katıldıkları müsabakalarda önemli bir başarıya imza attı. İkili, makaralı yay kategorisinde gösterdikleri performansla dünya rekorunun yeni sahibi oldu.",
+      "ozet": "Bedensel Engelliler Milli Takımı sporcuları Burcu Dağ ve Erdoğan Aygan, katıldıkları yarışmalarda büyük bir başarıya imza attı. İkili, makaralı yay branşında gösterdikleri performansla dünya rekorunun yeni sahibi oldu.",
       "kategori": "Spor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/ArcheryGermanyEarly1980s-2.jpg/960px-ArcheryGermanyEarly1980s-2.jpg",
@@ -1980,14 +1980,13 @@
         "url": "https://www.cumhuriyet.com.tr/haber/diyarbakirda-restorana-ates-acildi-5-yarali-382124"
       },
       "konular": [
-        "Diyarbakır",
-        "Saldırı"
+        "Diyarbakır"
       ],
       "yayin": "2012-11-08T19:59:00+03:00",
       "puan": 7,
       "durum": "elendi",
-      "baslik": "Diyarbakırda bir lokantaya düzenlenen silahlı saldırı beş kişiyi yaraladı",
-      "ozet": "Diyarbakır sınırları içerisinde yer alan bir restorana kimliği belirsiz kişi veya kişilerce ateş açıldı. Gerçekleşen silahlı saldırı sonucunda mekanda bulunan beş vatandaş yaralandı. Olayın ardından yaralılar tedavi altına alınırken bölgedeki güvenlik güçleri inceleme başlattı.",
+      "baslik": "Diyarbakır'daki bir restorana düzenlenen silahlı saldırıda beş kişi yaralandı",
+      "ozet": "Diyarbakır il merkezinde bulunan bir restorana kimliği belirsiz kişilerce ateş açıldı. Gerçekleşen saldırı sonucunda beş vatandaş yaralanarak hastaneye kaldırıldı. Olayın ardından bölgede güvenlik önlemleri artırıldı ve saldırganların yakalanması için çalışma başlatıldı.",
       "kategori": "Toplum"
     },
     {
