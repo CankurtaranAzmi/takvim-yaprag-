@@ -10,10 +10,10 @@
         "Jeanne d'Arc",
         "Yüz Yıl Savaşı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Jeanne d'Arc'ın La Charité Kuşatması'ndaki Başarısızlığı",
+      "ozet": "Yüz Yıl Savaşı'nın kritik dönemlerinden birinde, Fransız ulusal kahramanı Jeanne d'Arc, İngiliz yanlısı güçlerin elinde bulunan La Charité-sur-Loire şehrini kuşattı. Orléans'taki büyük zaferinin ardından askeri bir ivme yakalayan d'Arc, bu kuşatma ile stratejik bir noktayı ele geçirmeyi hedeflemişti. Ancak, kış şartlarının zorluğu ve lojistik yetersizlikler nedeniyle Fransız ordusu şehri düşürmeyi başaramadı ve kuşatmayı kaldırmak zorunda kaldı. Bu olay, d'Arc'ın askeri kariyerindeki nadir başarısızlıklarından biri olarak kayıtlara geçti.\n\nJeanne d'Arc, ilahi vizyonlar gördüğünü iddia ederek Fransa Kralı VII. Charles'ın ordusuna katılmış ve özellikle Orléans Kuşatması'ndaki rolüyle Fransız direnişinin sembolü haline gelmişti. La Charité kuşatması, onun askeri liderlik yeteneklerinin sınandığı zorlu süreçlerden biriydi. Bu başarısızlık, d'Arc'ın yenilmezlik imajını zedelemiş olsa da, onun Fransa'nın İngiliz işgalinden kurtarılması sürecindeki kararlılığını değiştirmedi. Kuşatmanın başarısızlıkla sonuçlanması, savaşın uzun soluklu doğasını ve taraflar arasındaki güç dengesinin ne kadar değişken olduğunu bir kez daha gözler önüne serdi.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/960px-Joan_of_Arc_miniature_graded.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/500px-Joan_of_Arc_miniature_graded.jpg",
@@ -27,34 +27,7 @@
         "aciklama": "Joan of Arc depicted in an historiated initial. Miniature probably produced in the late 19th century by an anonymous artist, possibly the painter and collector Georges Spetz or the \"Spanish Forger\" - ",
         "konu": "Jeanne d'Arc"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/960px-Joan_of_Arc_miniature_graded.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/500px-Joan_of_Arc_miniature_graded.jpg",
-          "genislik": 960,
-          "yukseklik": 1430,
-          "orijinalGenislik": 1812,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Joan_of_Arc_miniature_graded.jpg",
-          "aciklama": "Joan of Arc depicted in an historiated initial. Miniature probably produced in the late 19th century by an anonymous artist, possibly the painter and collector Georges Spetz or the \"Spanish Forger\" - ",
-          "konu": "Jeanne d'Arc"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Lenepveu%2C_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg/960px-Lenepveu%2C_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Lenepveu%2C_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg/500px-Lenepveu%2C_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg",
-          "genislik": 960,
-          "yukseklik": 1304,
-          "orijinalGenislik": 1508,
-          "yazar": "Eugène Lenepveu",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Lenepveu,_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg",
-          "aciklama": "Jeanne d'Arc at the Siege of Orléans by Jules Eugène Lenepveu, painted 1886–1890. The painting is a highly romanticized representation. Jeanne did not wear plate mail; according to the testimony at he",
-          "konu": "Yüz Yıl Savaşı"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1642-abel-tasman-tazmanyaya-ayak-basan-ilk-avrupali",
@@ -80,51 +53,24 @@
         "Türlerin Kökeni",
         "evrim"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Charles Darwin ve Evrim Kuramının Doğuşu",
+      "ozet": "İngiliz doğa bilimci Charles Darwin, bilim dünyasında çığır açan Türlerin Kökeni adlı kitabını 1859 yılında yayımladı. Darwin, bu eserinde yaşamın çeşitliliğini ve türlerin zaman içindeki değişimini açıklayan doğal seçilim kuramını detaylı bir şekilde ortaya koydu. Kitap, yazarın HMS Beagle gemisiyle gerçekleştirdiği uzun süreli araştırma gezisi sırasında yaptığı gözlemlere ve özellikle Galápagos Adaları'ndaki biyolojik çeşitliliğe dair topladığı verilere dayanıyordu. Darwin, tüm canlı türlerinin ortak bir atadan geldiğini ve çevresel koşullara uyum sağlayanların hayatta kalarak özelliklerini sonraki nesillere aktardığını savunarak biyoloji biliminde devrim niteliğinde bir bakış açısı sundu. Yayınlandığı dönemde büyük yankı uyandıran bu çalışma, başlangıçta tartışmalara yol açsa da zamanla modern biyolojinin temel taşı haline geldi. Bugün evrimsel biyolojinin en önemli metni kabul edilen eser, yaşamın kökenine dair bilimsel anlayışımızı kökten değiştirerek insanlık tarihinin en etkili düşünsel dönüşümlerinden birini başlattı.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/960px-Charles_Darwin_seated_crop.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/500px-Charles_Darwin_seated_crop.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Origin_of_Species_title_page.jpg/960px-Origin_of_Species_title_page.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Origin_of_Species_title_page.jpg/500px-Origin_of_Species_title_page.jpg",
         "genislik": 960,
-        "yukseklik": 1263,
-        "orijinalGenislik": 2370,
-        "yazar": "Charles_Darwin_seated.jpg: Henry Maull (1829–1914) and John Fox (1832–1907) (Maull & Fox) [3] derivative work: Beao",
+        "yukseklik": 1541,
+        "orijinalGenislik": 2888,
+        "yazar": "John Murray, Publisher",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_seated_crop.jpg",
-        "aciklama": "Photograph of Charles Darwin; the frontispiece of Francis Darwin's The Life and Letters of Charles Darwin (1887) has the caption \"From a Photograph (1854?) by Messrs. Maull. And Fox. Engraved for Harp",
-        "konu": "Charles Darwin"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Origin_of_Species_title_page.jpg",
+        "aciklama": "Cropped and rotated version of File:Origin of Species.jpg, which is of the title page and the facing page of the 1859 Murray edition of the Origin of species by Charles Darwin.",
+        "konu": "Türlerin Kökeni"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/960px-Charles_Darwin_seated_crop.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/500px-Charles_Darwin_seated_crop.jpg",
-          "genislik": 960,
-          "yukseklik": 1263,
-          "orijinalGenislik": 2370,
-          "yazar": "Charles_Darwin_seated.jpg: Henry Maull (1829–1914) and John Fox (1832–1907) (Maull & Fox) [3] derivative work: Beao",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_seated_crop.jpg",
-          "aciklama": "Photograph of Charles Darwin; the frontispiece of Francis Darwin's The Life and Letters of Charles Darwin (1887) has the caption \"From a Photograph (1854?) by Messrs. Maull. And Fox. Engraved for Harp",
-          "konu": "Charles Darwin"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Origin_of_Species_title_page.jpg/960px-Origin_of_Species_title_page.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Origin_of_Species_title_page.jpg/500px-Origin_of_Species_title_page.jpg",
-          "genislik": 960,
-          "yukseklik": 1541,
-          "orijinalGenislik": 2888,
-          "yazar": "John Murray, Publisher",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Origin_of_Species_title_page.jpg",
-          "aciklama": "Cropped and rotated version of File:Origin of Species.jpg, which is of the title page and the facing page of the 1859 Murray edition of the Origin of species by Charles Darwin.",
-          "konu": "Türlerin Kökeni"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1874-joseph-farwell-glidden-157-124-numarasiyla-dikenli",
@@ -134,10 +80,10 @@
         "Joseph Glidden",
         "dikenli tel"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Dikenli Telin Patentinin Alınması",
+      "ozet": "Joseph Farwell Glidden, 1874 yılında geliştirdiği dikenli tel tasarımı için patent alarak Amerika Birleşik Devletleri'ndeki tarım arazilerinin ve hayvancılık faaliyetlerinin çehresini değiştirdi. Glidden'ın tasarımı, iki düz telin birbirine burulması ve üzerine belirli aralıklarla sivri uçlu ek tellerin sarılması prensibine dayanıyordu. Bu basit ancak etkili mekanizma, geniş arazilerin kolayca çevrelenmesini ve hayvanların kontrol altında tutulmasını mümkün kıldı.\n\nDikenli telin icadı, özellikle Amerika'nın batısındaki uçsuz bucaksız otlaklarda hayvancılık yapanlar için büyük bir dönüm noktası oldu. Daha önce ahşap çitlerin maliyetli ve yetersiz kaldığı bölgelerde, bu yeni tel sistemi sayesinde sınırlar çok daha düşük maliyetlerle ve hızla belirlenebildi. Bu buluş, tarım arazilerinin korunmasını kolaylaştırırken aynı zamanda açık meraların sınırlandırılmasına yol açarak bölgedeki geleneksel hayvancılık yöntemlerinin ve mülkiyet anlayışının dönüşümünü hızlandırdı. Günümüzde hala güvenlik ve sınır belirleme amacıyla kullanılan dikenli tel, modern tarım teknolojilerinin en temel araçlarından biri haline gelmiştir.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Stacheldraht_93.jpg/960px-Stacheldraht_93.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Stacheldraht_93.jpg/500px-Stacheldraht_93.jpg",
@@ -150,7 +96,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Stacheldraht_93.jpg",
         "aciklama": "Barbed wire (rusting after years of hard work)",
         "konu": "dikenli tel"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1925-erzurumda-da-sapka-inkilabina-karsi-gosteriler-yapildi",
@@ -160,10 +107,10 @@
         "Erzurum",
         "Şapka Devrimi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Erzurum'da Şapka Kanunu'na Karşı Tepkiler ve Sıkıyönetim",
+      "ozet": "Türkiye Cumhuriyeti'nin modernleşme hamleleri kapsamında 1925 yılında yürürlüğe giren Şapka Kanunu, toplumun genelinde büyük oranda kabul görse de bazı bölgelerde ciddi dirençle karşılaştı. Bu tepkilerin en dikkat çekici örneklerinden biri Erzurum'da yaşandı. Kanunun uygulanmasına karşı çıkan gruplar, fesin yerini şapkanın almasını dini değerlere bir müdahale olarak yorumlayarak protesto gösterileri düzenledi. Olayların büyümesi üzerine devlet otoritesi sert bir tutum sergileyerek bölgede bir ay sürecek sıkıyönetim ilan etti. Protestoların ardından başlatılan hukuki süreçte, isyanı organize ettikleri veya destekledikleri gerekçesiyle yargılanan 13 kişi idama mahkûm edildi. Bu olay, genç Cumhuriyet'in devrimleri yerleştirme sürecinde karşılaştığı toplumsal direnci ve bu dirence karşı devletin aldığı güvenlik önlemlerini göstermesi açısından tarihsel bir öneme sahiptir. Şapka İnkılabı, sadece bir kıyafet değişikliği değil, aynı zamanda Türkiye'nin Batı normlarına uyum sağlama çabasının bir parçası olarak toplumsal yapıda köklü bir dönüşümü hedefliyordu. Erzurum'daki bu gerginlik, inkılapların Anadolu'nun farklı kesimlerinde nasıl algılandığını ve devletin bu süreçteki kararlılığını yansıtan kritik bir vaka olarak kayıtlara geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Ataturk-hatreform.jpg/960px-Ataturk-hatreform.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Ataturk-hatreform.jpg/500px-Ataturk-hatreform.jpg",
@@ -176,7 +123,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk-hatreform.jpg",
         "aciklama": "Mustafa Kemal Atatürk during one of his national tours.",
         "konu": "Şapka Devrimi"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1927-ankarada-heinrich-krippel-tarafindan-yapilan-zafer-aniti",
@@ -187,51 +135,24 @@
         "Heinrich Krippel",
         "Zafer Anıtı (Ankara)"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Ankara'nın Simgesi Zafer Anıtı Açıldı",
+      "ozet": "Cumhuriyetin ilk yıllarında Ankara'nın merkezinde, Millî Mücadele ruhunu ölümsüzleştirmek adına inşa edilen Zafer Anıtı, 24 Kasım 1927 tarihinde düzenlenen bir törenle halkın ziyaretine açıldı. Yeni Gün gazetesi tarafından 1925 yılında başlatılan uluslararası bir yarışma sonucunda seçilen Avusturyalı heykeltıraş Heinrich Krippel'in eseri olan bu anıt, kısa sürede başkentin en önemli simgelerinden biri haline geldi. Anıt, mermer bir kaide üzerinde Sakarya isimli atı üzerinde tasvir edilen Gazi Mustafa Kemal Atatürk'ü merkezine almaktadır. Heykel grubunda ayrıca, Türk milletinin bağımsızlık mücadelesindeki fedakarlığını simgeleyen, sırtında top mermisi taşıyan bir kadın figürü ile iki asker heykeli ve çeşitli rölyefler yer almaktadır. Bu kompozisyon, Kurtuluş Savaşı'nın hem askeri hem de toplumsal boyutunu sanatsal bir dille yansıtmaktadır. Günümüzde Ulus Meydanı'nın ayrılmaz bir parçası olan Zafer Anıtı, sadece estetik bir değer taşımakla kalmayıp, aynı zamanda Cumhuriyet tarihinin en çok incelenen ve üzerinde akademik çalışmalar yapılan eserlerinden biri olma özelliğini korumaktadır. Anıt, bulunduğu meydanla bütünleşerek Türkiye Cumhuriyeti'nin kuruluş yıllarındaki kararlılığı ve bağımsızlık iradesini günümüze taşıyan tarihi bir belge niteliği taşımaktadır.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Ankara_asv2021-10_img38_Victory_Monument.jpg/960px-Ankara_asv2021-10_img38_Victory_Monument.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Ankara_asv2021-10_img38_Victory_Monument.jpg/500px-Ankara_asv2021-10_img38_Victory_Monument.jpg",
         "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 7735,
+        "yukseklik": 960,
+        "orijinalGenislik": 5112,
         "yazar": "A.Savin",
         "lisans": "FAL",
         "lisansUrl": "http://artlibre.org/licence/lal/en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-        "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
-        "konu": "Ankara"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img38_Victory_Monument.jpg",
+        "aciklama": "Atatürk's equestrian statue known as Ulus Victory Monument in Ankara, Turkey",
+        "konu": "Zafer Anıtı (Ankara)"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 7735,
-          "yazar": "A.Savin",
-          "lisans": "FAL",
-          "lisansUrl": "http://artlibre.org/licence/lal/en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
-          "konu": "Ankara"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Ankara_asv2021-10_img38_Victory_Monument.jpg/960px-Ankara_asv2021-10_img38_Victory_Monument.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Ankara_asv2021-10_img38_Victory_Monument.jpg/500px-Ankara_asv2021-10_img38_Victory_Monument.jpg",
-          "genislik": 960,
-          "yukseklik": 960,
-          "orijinalGenislik": 5112,
-          "yazar": "A.Savin",
-          "lisans": "FAL",
-          "lisansUrl": "http://artlibre.org/licence/lal/en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img38_Victory_Monument.jpg",
-          "aciklama": "Atatürk's equestrian statue known as Ulus Victory Monument in Ankara, Turkey",
-          "konu": "Zafer Anıtı (Ankara)"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1928-turkiye-buyuk-millet-meclisi-ataturke-millet-mektepleri",
@@ -242,10 +163,10 @@
         "Mustafa Kemal Atatürk",
         "Millet mektebi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Atatürk'e Başöğretmenlik Unvanının Verilmesi",
+      "ozet": "Türkiye Büyük Millet Meclisi, 1 Kasım 1928 tarihinde kabul edilen yeni Türk harflerinin halka öğretilmesi amacıyla başlatılan eğitim seferberliğinin bir parçası olarak, Mustafa Kemal Atatürk'e Millet Mektepleri Başöğretmenliği unvanını verdi. Bu karar, yeni alfabenin ülke genelinde hızla yaygınlaştırılması ve okuryazarlık oranının artırılması hedefine yönelik atılan en önemli adımlardan biri olarak tarihe geçti. Atatürk, bu unvanı kabul ederek yeni harflerin öğretilmesi sürecinde bizzat öncü bir rol üstlendi.\n\nMillet Mektepleri, Cumhuriyet'in ilk yıllarında toplumun eğitim düzeyini yükseltmek için kurulan ve dört ay süreli eğitim veren halk eğitimi kurumlarıydı. Başöğretmenlik unvanı, sadece sembolik bir onurlandırma değil, aynı zamanda Atatürk'ün eğitim reformlarına verdiği önemi ve halkın eğitimine olan doğrudan katılımını simgeliyordu. Bu tarih, günümüzde Türkiye'de Öğretmenler Günü olarak kutlanmakta olup, eğitim sisteminin modernleşmesi ve toplumsal kalkınma yolunda atılan kararlı adımların bir nişanesi olarak kabul edilmektedir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -259,34 +180,7 @@
         "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
         "konu": "Mustafa Kemal Atatürk"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-          "genislik": 732,
-          "yukseklik": 987,
-          "orijinalGenislik": 732,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
-          "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
-          "konu": "Mustafa Kemal Atatürk"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anavatan_1927.jpg/960px-Anavatan_1927.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anavatan_1927.jpg/500px-Anavatan_1927.jpg",
-          "genislik": 960,
-          "yukseklik": 617,
-          "orijinalGenislik": 9999,
-          "yazar": "Alaaddin Matbaası",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Anavatan_1927.jpg",
-          "aciklama": "1927 Map of Turkey",
-          "konu": "Millet mektebi"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1934-bakanlar-kurulu-karari-ile-ayasofya-camiinin-muze",
@@ -296,51 +190,24 @@
         "Cumhurbaşkanlığı Kabinesi",
         "Ayasofya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Ayasofya'nın Müze Olarak Düzenlenmesi",
+      "ozet": "Türkiye Cumhuriyeti Bakanlar Kurulu, 24 Kasım 1934 tarihinde aldığı bir kararla İstanbul'un simge yapılarından biri olan Ayasofya'nın müzeye dönüştürülmesini onayladı. Bu karar, yapının tarihsel ve mimari değerinin korunması, aynı zamanda bilimsel araştırmalara ve ziyarete açılması amacıyla atılmış önemli bir adımdı. Kararın ardından başlatılan kapsamlı tadilat ve restorasyon çalışmalarıyla yapı, 1935 yılında müze statüsüyle kapılarını ziyaretçilere açtı.\n\nBizans İmparatorluğu döneminde inşa edilen ve İstanbul'un fethinden sonra camiye çevrilen Ayasofya, bu kararla birlikte uzun yıllar boyunca hem yerli hem de yabancı turistler için bir kültür merkezi haline geldi. Mimarlık tarihindeki kubbeli bazilika yapısıyla dünya çapında bir öneme sahip olan Ayasofya, müze olduğu dönemde yapının içindeki mozaiklerin ve diğer tarihi katmanların gün yüzüne çıkarılmasına olanak tanıdı. 1935'ten 2020 yılına kadar müze olarak hizmet veren yapı, Türkiye'nin kültürel mirasını koruma ve evrensel değerlerle buluşturma vizyonunun bir parçası olarak kabul edilmiştir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg/960px-Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg/500px-Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/960px-Hagia_Sophia_%28228968325%29.jpeg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/500px-Hagia_Sophia_%28228968325%29.jpeg",
         "genislik": 960,
-        "yukseklik": 710,
-        "orijinalGenislik": 1331,
-        "yazar": "Ex13",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg",
-        "aciklama": "New Presidential Compound in Ankara, AOÇ (Beştepe)",
-        "konu": "Cumhurbaşkanlığı Kabinesi"
+        "yukseklik": 580,
+        "orijinalGenislik": 2048,
+        "yazar": "Adli Wahid",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_(228968325).jpeg",
+        "aciklama": "Hagia Sophia",
+        "konu": "Ayasofya"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg/960px-Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg/500px-Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg",
-          "genislik": 960,
-          "yukseklik": 710,
-          "orijinalGenislik": 1331,
-          "yazar": "Ex13",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ak_Saray_-_Presidential_Palace_Ankara_2014_002.jpg",
-          "aciklama": "New Presidential Compound in Ankara, AOÇ (Beştepe)",
-          "konu": "Cumhurbaşkanlığı Kabinesi"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/960px-Hagia_Sophia_%28228968325%29.jpeg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/500px-Hagia_Sophia_%28228968325%29.jpeg",
-          "genislik": 960,
-          "yukseklik": 580,
-          "orijinalGenislik": 2048,
-          "yazar": "Adli Wahid",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_(228968325).jpeg",
-          "aciklama": "Hagia Sophia",
-          "konu": "Ayasofya"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1934-cumhurbaskani-gazi-mustafa-kemal-meclisten-cikan-kanunla",
@@ -363,23 +230,12 @@
         "Gestapo",
         "Çekoslovakya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Gestapomen_following_the_white_buses.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Gestapomen_following_the_white_buses.jpg",
-        "genislik": 566,
-        "yukseklik": 390,
-        "orijinalGenislik": 566,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Gestapomen_following_the_white_buses.jpg",
-        "aciklama": null,
-        "konu": "Gestapo"
-      }
+      "baslik": "Nazi İşgali Altında Çek Öğrencilere Yönelik Katliam",
+      "ozet": "Nazi Almanyası'nın Çekoslovakya'yı işgali sırasında gerçekleşen bu olay, işgalci güçlerin bölgedeki direnişi kırmak ve halk üzerinde baskı kurmak amacıyla başvurduğu şiddet yöntemlerinden biridir. Prag'da düzenlenen protestoların ardından Gestapo tarafından gerçekleştirilen bu operasyon, çok sayıda öğrencinin hayatını kaybetmesine ve üniversitelerin kapatılmasına yol açmıştır. Bu trajik olay, Nazi rejiminin işgal ettiği topraklarda entelektüel ve siyasi muhalefeti susturmak için uyguladığı acımasız politikaların somut bir göstergesidir.\n\nSöz konusu infazlar, Çekoslovakya'nın bağımsızlığını yitirdiği ve Nazi baskısının en yoğun hissedildiği dönemin karanlık sayfalarından biridir. Öğrencilerin hedef alınması, Nazi ideolojisinin özgür düşünceye ve akademik çevrelerin potansiyel direnişine karşı duyduğu korkuyu yansıtmaktadır. Bu olay, II. Dünya Savaşı'nın Avrupa genelinde yarattığı insani yıkımın ve sivil halka yönelik sistematik baskıların bir parçası olarak tarihe geçmiştir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1941-ii-dunya-savasi-ortaminda-pasta-ve-unlu",
@@ -388,23 +244,12 @@
       "konular": [
         "II. Dünya Savaşı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "genislik": 400,
-        "yukseklik": 286,
-        "orijinalGenislik": 400,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
-        "aciklama": "Pitched battle at Changde.",
-        "konu": "II. Dünya Savaşı"
-      }
+      "baslik": "Savaş Ekonomisi ve Gıda Kısıtlamaları",
+      "ozet": "İkinci Dünya Savaşı'nın dünya genelinde yarattığı yıkıcı etkiler, sadece cephelerde değil, sivil halkın günlük yaşamında da ciddi kısıtlamaları beraberinde getirdi. 24 Kasım 1941 tarihinde alınan bir kararla, unlu mamullerin ve pastaların üretimi yasaklandı. Bu adım, savaşın taraflarının tüm ekonomik ve endüstriyel kapasitelerini askeri ihtiyaçlara yönlendirdiği bir dönemde, temel gıda maddelerinin tasarruflu kullanılması amacıyla atıldı.\n\nSavaşın getirdiği lojistik sorunlar ve hammadde kıtlığı, devletleri gıda karne sistemine geçmeye ve lüks tüketimi tamamen durdurmaya zorladı. Un ve şeker gibi stratejik kaynakların orduya ve temel beslenme ihtiyaçlarına ayrılması, sivil halkın mutfak alışkanlıklarını kökten değiştirdi. Bu tür kısıtlamalar, savaşın sadece bir askeri çatışma değil, aynı zamanda toplumların tüm kaynaklarını seferber ettiği topyekûn bir mücadele olduğunu gözler önüne seriyordu.",
+      "kategori": "Ekonomi",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1961-bm-nukleer-silah-yasagini-abdnin-protestosuna-karsin",
@@ -429,64 +274,24 @@
         "Lee Harvey Oswald",
         "Jack Ruby"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Kennedy Suikastı Zanlısı Oswald'ın Öldürülmesi",
+      "ozet": "Amerika Birleşik Devletleri Başkanı John F. Kennedy'ye düzenlenen suikastın baş şüphelisi Lee Harvey Oswald, olaydan iki gün sonra, 24 Kasım 1963 tarihinde Dallas Polis Merkezi'nin bodrum katında vurularak öldürüldü. Oswald'ı hedef alan kişi, yerel bir gece kulübü işletmecisi olan Jack Ruby'ydi. Saldırı, televizyon kanallarının canlı yayın yaptığı bir sırada gerçekleştiği için milyonlarca izleyici tarafından anbean takip edildi. Bu beklenmedik olay, suikastın perde arkasına dair şüpheleri daha da derinleştirdi. Oswald'ın mahkemeye çıkarılamadan öldürülmesi, olayın tüm yönleriyle aydınlatılmasını engelledi ve suikastın arkasında daha büyük bir organizasyonun olup olmadığına dair onlarca yıl sürecek komplo teorilerinin doğmasına zemin hazırladı. Oswald'ın susturulması, Amerikan kamuoyunda büyük bir şok etkisi yarattı ve Kennedy suikastı üzerindeki gizem perdesini daha da kalınlaştırdı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/960px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/500px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
-        "genislik": 960,
-        "yukseklik": 1245,
-        "orijinalGenislik": 1419,
-        "yazar": "Cecil W. Stoughton",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lee_Harvey_Oswald_colour_mug_shot_%284x5_cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lee_Harvey_Oswald_colour_mug_shot_%284x5_cropped%29.jpg",
+        "genislik": 881,
+        "yukseklik": 1087,
+        "orijinalGenislik": 881,
+        "yazar": "Dallas Police; Warren Commission",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:John_F._Kennedy,_White_House_color_photo_portrait.jpg",
-        "aciklama": "John F. Kennedy, photograph in the Oval Office.",
-        "konu": "John F. Kennedy"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Lee_Harvey_Oswald_colour_mug_shot_(4x5_cropped).jpg",
+        "aciklama": "Mugshot of Lee Harvey Oswald",
+        "konu": "Lee Harvey Oswald"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/960px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/500px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
-          "genislik": 960,
-          "yukseklik": 1245,
-          "orijinalGenislik": 1419,
-          "yazar": "Cecil W. Stoughton",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:John_F._Kennedy,_White_House_color_photo_portrait.jpg",
-          "aciklama": "John F. Kennedy, photograph in the Oval Office.",
-          "konu": "John F. Kennedy"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lee_Harvey_Oswald_colour_mug_shot_%284x5_cropped%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lee_Harvey_Oswald_colour_mug_shot_%284x5_cropped%29.jpg",
-          "genislik": 881,
-          "yukseklik": 1087,
-          "orijinalGenislik": 881,
-          "yazar": "Dallas Police; Warren Commission",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Lee_Harvey_Oswald_colour_mug_shot_(4x5_cropped).jpg",
-          "aciklama": "Mugshot of Lee Harvey Oswald",
-          "konu": "Lee Harvey Oswald"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Jack_Ruby_1963_Mugshot_Extracted_%28cropped%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Jack_Ruby_1963_Mugshot_Extracted_%28cropped%29.jpg",
-          "genislik": 631,
-          "yukseklik": 960,
-          "orijinalGenislik": 631,
-          "yazar": "Uncredited police photographer",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Jack_Ruby_1963_Mugshot_Extracted_(cropped).jpg",
-          "aciklama": "Mugshot of Jack Ruby taken November 24, 1963, after his arrest for killing Lee Harvey Oswald.",
-          "konu": "Jack Ruby"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1974-fransiz-maurice-taieb-ile-amerikali-paleontolog-donald",
@@ -499,23 +304,12 @@
         "Donald Johanson",
         "Etiyopya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Tyrannosaurus_Rex_Holotype.jpg/960px-Tyrannosaurus_Rex_Holotype.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Tyrannosaurus_Rex_Holotype.jpg/500px-Tyrannosaurus_Rex_Holotype.jpg",
-        "genislik": 960,
-        "yukseklik": 636,
-        "orijinalGenislik": 4928,
-        "yazar": "ScottRobertAnselmo",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Tyrannosaurus_Rex_Holotype.jpg",
-        "aciklama": "Tyrannosaurus rex holotype specimen at the Carnegie Museum of Natural History, Pittsburgh.",
-        "konu": "paleontolog"
-      }
+      "baslik": "İnsanlık Tarihinin En Önemli Keşiflerinden Biri: Lucy",
+      "ozet": "Etiyopya'nın Hadar bölgesinde yürütülen paleontolojik çalışmalar sırasında, yaklaşık 3,2 milyon yıl öncesine ait olduğu belirlenen Australopithecus afarensis türüne ait bir iskelet parçası gün yüzüne çıkarıldı. Maurice Taieb ve Donald Johanson'un öncülük ettiği ekip tarafından bulunan bu fosil, bilim dünyasında Lucy adıyla tanınmıştır. Keşif sırasında kamp alanında çalan Beatles'ın 'Lucy in the Sky with Diamonds' şarkısından esinlenilerek bu isim verilmiştir.\n\nLucy'nin keşfi, insan evriminin anlaşılmasında bir dönüm noktası kabul edilir. İskeletin yaklaşık yüzde kırkının korunmuş olması, bilim insanlarına erken dönem hominidlerin fiziksel özellikleri hakkında eşsiz veriler sunmuştur. Özellikle leğen kemiği ve bacak yapısı, bu türün dik yürüdüğüne dair en güçlü kanıtlardan biri olarak değerlendirilmiştir. Bu bulgu, insansı canlıların evrimsel süreçte beyin hacimlerinin büyümesinden önce iki ayak üzerinde yürümeye başladıklarını kanıtlayarak antropoloji ve paleontoloji alanlarında devrim niteliğinde bir gelişme sağlamıştır.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1976-van-ve-cevresinde-caldiran-muradiyede-etkili-olan-7",
@@ -527,64 +321,24 @@
         "Muradiye",
         "1976 Çaldıran depremi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Çaldıran ve Muradiye Depremi",
+      "ozet": "Türkiye'nin doğusunda yer alan Van ilinin Çaldıran ve Muradiye ilçeleri, 24 Kasım 1976 tarihinde büyük bir yıkıma yol açan 7,2 büyüklüğündeki depremle sarsıldı. Bölgenin zorlu coğrafi koşulları ve kış mevsiminin en sert dönemlerinden birinin yaşanıyor olması, arama kurtarma çalışmalarını oldukça güçleştirdi. Felaket sonucunda 3 bin 840 kişi yaşamını yitirirken, binlerce konut kullanılamaz hale geldi ve bölge halkı büyük bir mağduriyet yaşadı. Deprem, Türkiye'nin sismik açıdan ne kadar riskli bir bölgede bulunduğunu acı bir şekilde hatırlatan en önemli afetlerden biri olarak kayıtlara geçti. O dönemde bölgedeki yapı stokunun depreme karşı dayanıksız olması ve dondurucu soğuklar, can kaybının artmasındaki temel etkenler arasında gösterildi. Bu büyük yıkım, Türkiye'de deprem bilincinin artırılması ve yapı denetim standartlarının gözden geçirilmesi gerekliliğini bir kez daha gündeme taşıdı. Yaşanan bu acı olay, bölge tarihinde derin izler bırakarak hem yerel hem de ulusal düzeyde büyük bir toplumsal travmaya neden oldu.",
+      "kategori": "Afet",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/960px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/500px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 2560,
-        "yazar": "Mevlüt Kılıç",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ho%C5%9Fap_Kalesi_(Van,_T%C3%BCrkiye).JPG",
-        "aciklama": "Hoşap Kalesi (Van, Türkiye)",
-        "konu": "Van"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Van_location_districts.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Van_location_districts.png",
+        "genislik": 533,
+        "yukseklik": 600,
+        "orijinalGenislik": 533,
+        "yazar": "Batuhan duz",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Van_location_districts.png",
+        "aciklama": "Van'ın ilçelerini gösteren harita",
+        "konu": "Çaldıran"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/960px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/500px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 2560,
-          "yazar": "Mevlüt Kılıç",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ho%C5%9Fap_Kalesi_(Van,_T%C3%BCrkiye).JPG",
-          "aciklama": "Hoşap Kalesi (Van, Türkiye)",
-          "konu": "Van"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Van_location_districts.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Van_location_districts.png",
-          "genislik": 533,
-          "yukseklik": 600,
-          "orijinalGenislik": 533,
-          "yazar": "Batuhan duz",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Van_location_districts.png",
-          "aciklama": "Van'ın ilçelerini gösteren harita",
-          "konu": "Çaldıran"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Muradiye-Waterfall_02.JPG/960px-Muradiye-Waterfall_02.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Muradiye-Waterfall_02.JPG/500px-Muradiye-Waterfall_02.JPG",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 2592,
-          "yazar": "TobiasGr",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Muradiye-Waterfall_02.JPG",
-          "aciklama": "Muradiye-Waterfall",
-          "konu": "Muradiye"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1977-yunanistan-buyuk-iskenderin-babasi-kral-ii-filipin",
@@ -595,51 +349,24 @@
         "İskender",
         "II. Filip"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Makedonya Kralı II. Filip'in Mezarı Bulundu",
+      "ozet": "Yunan arkeolog Manolis Andronikos, 1977 yılında Vergina bölgesinde gerçekleştirdiği kazılar sırasında antik Makedonya Krallığı'na ait olduğu düşünülen önemli bir mezar yapısını gün yüzüne çıkardı. Yapılan incelemeler sonucunda, bu mezarın Büyük İskender'in babası ve Makedonya'nın askeri gücünü zirveye taşıyan Kral II. Filip'e ait olduğu açıklandı. Bu keşif, antik tarih çalışmaları açısından büyük bir dönüm noktası olarak kabul edildi.\n\nII. Filip, MÖ 4. yüzyılda Yunan şehir devletlerini birleştirerek Makedonya'yı bölgesel bir güç haline getiren stratejik bir liderdi. Profesyonel ordu yapısını kurması ve askeri teknolojideki yenilikleri, oğlu Büyük İskender'in daha sonra kuracağı devasa imparatorluğun temelini oluşturdu. Mezarda bulunan altın eserler, silahlar ve kişisel eşyalar, dönemin sanatsal ve kültürel zenginliğine dair paha biçilemez bilgiler sundu. Bu buluntu, hem Makedon hanedanının yaşam tarzını anlamak hem de antik Yunan tarihinin bu kritik dönemini aydınlatmak adına arkeoloji dünyasında büyük bir heyecan yarattı.",
+      "kategori": "Keşif",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Alexander_the_Great_mosaic_%28cropped%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Alexander_the_Great_mosaic_%28cropped%29.jpg",
-        "genislik": 803,
-        "yukseklik": 1074,
-        "orijinalGenislik": 803,
-        "yazar": "Bilinmeyen yazar",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Filip_II_Macedonia.jpg/960px-Filip_II_Macedonia.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Filip_II_Macedonia.jpg/500px-Filip_II_Macedonia.jpg",
+        "genislik": 960,
+        "yukseklik": 1385,
+        "orijinalGenislik": 1016,
+        "yazar": "Gunnar Bach Pedersen",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Alexander_the_Great_mosaic_(cropped).jpg",
-        "aciklama": "Alexander Mosaic (detail), House of the Faun, Pompeii",
-        "konu": "İskender"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Filip_II_Macedonia.jpg",
+        "aciklama": "Philip II of King of Macedon, a Hellenistic-era sculpted bust, Ny Carlsberg Glyptotek",
+        "konu": "II. Filip"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Alexander_the_Great_mosaic_%28cropped%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Alexander_the_Great_mosaic_%28cropped%29.jpg",
-          "genislik": 803,
-          "yukseklik": 1074,
-          "orijinalGenislik": 803,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Alexander_the_Great_mosaic_(cropped).jpg",
-          "aciklama": "Alexander Mosaic (detail), House of the Faun, Pompeii",
-          "konu": "İskender"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Filip_II_Macedonia.jpg/960px-Filip_II_Macedonia.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Filip_II_Macedonia.jpg/500px-Filip_II_Macedonia.jpg",
-          "genislik": 960,
-          "yukseklik": 1385,
-          "orijinalGenislik": 1016,
-          "yazar": "Gunnar Bach Pedersen",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Filip_II_Macedonia.jpg",
-          "aciklama": "Philip II of King of Macedon, a Hellenistic-era sculpted bust, Ny Carlsberg Glyptotek",
-          "konu": "II. Filip"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1981-turkiyede-ataturkun-100-dogum-yil-donumu-olan",
@@ -652,51 +379,24 @@
         "Atatürk Yılı",
         "Öğretmenler Günü"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türkiye'de İlk Öğretmenler Günü Kutlaması",
+      "ozet": "Türkiye'de Öğretmenler Günü, Mustafa Kemal Atatürk'ün doğumunun 100. yıl dönümü olan 1981 yılında ilk kez resmî olarak kutlanmaya başlandı. Dönemin Devlet Başkanı Kenan Evren tarafından Atatürk Yılı ilan edilen bu dönemde, öğretmenlerin toplumdaki saygın yerini vurgulamak ve eğitim sisteminin önemine dikkat çekmek amacıyla 24 Kasım tarihi özel bir gün olarak belirlendi. Bu tarih, Atatürk'ün 24 Kasım 1928 tarihinde Millet Mektepleri'nin kendisine verdiği Başöğretmen unvanını kabul etmesine dayanmaktadır.\n\nÖğretmenler Günü'nün ihdas edilmesi, eğitim camiasında büyük bir karşılık buldu ve zamanla gelenekselleşerek her yıl öğretmenlerin onurlandırıldığı bir gün haline geldi. Bu uygulama, Atatürk'ün eğitime verdiği önemi ve yeni nesillerin yetiştirilmesinde öğretmenlere yüklediği sorumluluğu hatırlatmayı amaçlamaktadır. Günümüzde de öğretmenlik mesleğinin toplumsal statüsünü pekiştiren ve eğitimcilerin emeklerini takdir eden bir gün olarak önemini korumaktadır.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/%D8%B1%D8%B6%D8%A7%D8%B4%D8%A7%D9%87_%D9%88_%D9%85%D8%B5%D8%B7%D9%81%DB%8C_%DA%A9%D9%85%D8%A7%D9%84_%D8%A2%D8%AA%D8%A7%D8%AA%D8%B1%DA%A9_Reza_Shah_and_Mustafa_Kemal_Atat%C3%BCrk.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/%D8%B1%D8%B6%D8%A7%D8%B4%D8%A7%D9%87_%D9%88_%D9%85%D8%B5%D8%B7%D9%81%DB%8C_%DA%A9%D9%85%D8%A7%D9%84_%D8%A2%D8%AA%D8%A7%D8%AA%D8%B1%DA%A9_Reza_Shah_and_Mustafa_Kemal_Atat%C3%BCrk.jpg",
-        "genislik": 800,
-        "yukseklik": 445,
-        "orijinalGenislik": 800,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:%D8%B1%D8%B6%D8%A7%D8%B4%D8%A7%D9%87_%D9%88_%D9%85%D8%B5%D8%B7%D9%81%DB%8C_%DA%A9%D9%85%D8%A7%D9%84_%D8%A2%D8%AA%D8%A7%D8%AA%D8%B1%DA%A9_Reza_Shah_and_Mustafa_Kemal_Atat%C3%BCrk.jpg",
-        "aciklama": "Shah Reza Pahlavi of Iran and President Mustafa Kemal Atatürk of Turkey",
-        "konu": "Atatürk Yılı"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Kad%C4%B1k%C3%B6yAtat%C3%BCrk.JPG/960px-Kad%C4%B1k%C3%B6yAtat%C3%BCrk.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Kad%C4%B1k%C3%B6yAtat%C3%BCrk.JPG/500px-Kad%C4%B1k%C3%B6yAtat%C3%BCrk.JPG",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 2048,
+        "yazar": "Ail Subway",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kad%C4%B1k%C3%B6yAtat%C3%BCrk.JPG",
+        "aciklama": "Atatürk November 1 statue in Kadıköy.",
+        "konu": "Öğretmenler Günü"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/%D8%B1%D8%B6%D8%A7%D8%B4%D8%A7%D9%87_%D9%88_%D9%85%D8%B5%D8%B7%D9%81%DB%8C_%DA%A9%D9%85%D8%A7%D9%84_%D8%A2%D8%AA%D8%A7%D8%AA%D8%B1%DA%A9_Reza_Shah_and_Mustafa_Kemal_Atat%C3%BCrk.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/%D8%B1%D8%B6%D8%A7%D8%B4%D8%A7%D9%87_%D9%88_%D9%85%D8%B5%D8%B7%D9%81%DB%8C_%DA%A9%D9%85%D8%A7%D9%84_%D8%A2%D8%AA%D8%A7%D8%AA%D8%B1%DA%A9_Reza_Shah_and_Mustafa_Kemal_Atat%C3%BCrk.jpg",
-          "genislik": 800,
-          "yukseklik": 445,
-          "orijinalGenislik": 800,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:%D8%B1%D8%B6%D8%A7%D8%B4%D8%A7%D9%87_%D9%88_%D9%85%D8%B5%D8%B7%D9%81%DB%8C_%DA%A9%D9%85%D8%A7%D9%84_%D8%A2%D8%AA%D8%A7%D8%AA%D8%B1%DA%A9_Reza_Shah_and_Mustafa_Kemal_Atat%C3%BCrk.jpg",
-          "aciklama": "Shah Reza Pahlavi of Iran and President Mustafa Kemal Atatürk of Turkey",
-          "konu": "Atatürk Yılı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Kad%C4%B1k%C3%B6yAtat%C3%BCrk.JPG/960px-Kad%C4%B1k%C3%B6yAtat%C3%BCrk.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Kad%C4%B1k%C3%B6yAtat%C3%BCrk.JPG/500px-Kad%C4%B1k%C3%B6yAtat%C3%BCrk.JPG",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 2048,
-          "yazar": "Ail Subway",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Kad%C4%B1k%C3%B6yAtat%C3%BCrk.JPG",
-          "aciklama": "Atatürk November 1 statue in Kadıköy.",
-          "konu": "Öğretmenler Günü"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1983-israil-trablussamda-tutuklu-6-israil-askerine-karsilik",
@@ -707,51 +407,24 @@
         "Trablusşam",
         "Filistinliler"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Büyük Esir Takası: Trablusşam'da Binlerce Filistinli Serbest Kaldı",
+      "ozet": "İsrail ile Filistin Kurtuluş Örgütü arasında gerçekleşen bu geniş çaplı esir takası, Orta Doğu tarihindeki en dikkat çekici diplomatik süreçlerden biri olarak kayıtlara geçti. Lübnan'ın Trablusşam kentinde tutuklu bulunan 6 İsrail askerinin serbest bırakılması karşılığında, İsrail yönetimi hapishanelerinde tuttuğu 4800 Filistinliyi serbest bırakmayı kabul etti. Bu takas, bölgedeki çatışmaların yoğunlaştığı bir dönemde taraflar arasındaki pazarlık gücünü ve esirlerin durumunun siyasi bir koz olarak nasıl kullanıldığını gözler önüne serdi.\n\nSöz konusu olay, İsrail-Filistin çatışmasının insani boyutunu ve esir takaslarının taraflar için taşıdığı stratejik önemi bir kez daha gündeme taşıdı. Binlerce kişinin aynı anda serbest bırakılması, hem Filistin tarafında büyük bir yankı uyandırdı hem de İsrail iç siyasetinde esirlerin geri getirilmesi konusundaki tartışmaları alevlendirdi. Bu takas, bölgedeki gerilimin düşürülmesi adına atılan nadir ve büyük ölçekli adımlardan biri olarak tarihteki yerini aldı.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/The_skyline_of_Tripoli%2C_Lebanon.jpg/960px-The_skyline_of_Tripoli%2C_Lebanon.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/The_skyline_of_Tripoli%2C_Lebanon.jpg/500px-The_skyline_of_Tripoli%2C_Lebanon.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Peasant_Family_of_Ramallah_1900-1910.jpg/960px-Peasant_Family_of_Ramallah_1900-1910.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Peasant_Family_of_Ramallah_1900-1910.jpg/500px-Peasant_Family_of_Ramallah_1900-1910.jpg",
         "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 4000,
-        "yazar": "Vyacheslav Argenberg",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:The_skyline_of_Tripoli,_Lebanon.jpg",
-        "aciklama": "Tripoli, Lebanon. Tripoli is the largest city in northern Lebanon and overlooks the eastern Mediterranean Sea.",
-        "konu": "Trablusşam"
+        "yukseklik": 736,
+        "orijinalGenislik": 6395,
+        "yazar": "American Colony (Jerusalem). Photo Dept., photographer. Image cleaned and cropped by Jaakobou.",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Peasant_Family_of_Ramallah_1900-1910.jpg",
+        "aciklama": "Peasant family of Ramallah. Bauern-familie von Ramallah / American Colony, Jerusalem.",
+        "konu": "Filistinliler"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/The_skyline_of_Tripoli%2C_Lebanon.jpg/960px-The_skyline_of_Tripoli%2C_Lebanon.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/The_skyline_of_Tripoli%2C_Lebanon.jpg/500px-The_skyline_of_Tripoli%2C_Lebanon.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 4000,
-          "yazar": "Vyacheslav Argenberg",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:The_skyline_of_Tripoli,_Lebanon.jpg",
-          "aciklama": "Tripoli, Lebanon. Tripoli is the largest city in northern Lebanon and overlooks the eastern Mediterranean Sea.",
-          "konu": "Trablusşam"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Peasant_Family_of_Ramallah_1900-1910.jpg/960px-Peasant_Family_of_Ramallah_1900-1910.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Peasant_Family_of_Ramallah_1900-1910.jpg/500px-Peasant_Family_of_Ramallah_1900-1910.jpg",
-          "genislik": 960,
-          "yukseklik": 736,
-          "orijinalGenislik": 6395,
-          "yazar": "American Colony (Jerusalem). Photo Dept., photographer. Image cleaned and cropped by Jaakobou.",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Peasant_Family_of_Ramallah_1900-1910.jpg",
-          "aciklama": "Peasant family of Ramallah. Bauern-familie von Ramallah / American Colony, Jerusalem.",
-          "konu": "Filistinliler"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1988-surgunde-bagimsiz-filistin-devleti-kuruldu",
@@ -774,51 +447,12 @@
         "Hakkâri",
         "Yüksekova"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Hakkari.jpg/960px-Hakkari.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Hakkari.jpg/500px-Hakkari.jpg",
-        "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 1597,
-        "yazar": "VOA",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Hakkari.jpg",
-        "aciklama": "Hakkari, Turkey.",
-        "konu": "Hakkâri"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Hakkari.jpg/960px-Hakkari.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Hakkari.jpg/500px-Hakkari.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 1597,
-          "yazar": "VOA",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Hakkari.jpg",
-          "aciklama": "Hakkari, Turkey.",
-          "konu": "Hakkâri"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Y%C3%BCksekova_65.JPG/960px-Y%C3%BCksekova_65.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Y%C3%BCksekova_65.JPG/500px-Y%C3%BCksekova_65.JPG",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 4000,
-          "yazar": "Perencal",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Y%C3%BCksekova_65.JPG",
-          "aciklama": "Yüksekova",
-          "konu": "Yüksekova"
-        }
-      ]
+      "baslik": "İkiyaka Köyü Katliamı",
+      "ozet": "Hakkâri'nin Yüksekova ilçesinde bulunan İkiyaka köyü, 24 Kasım 1989 tarihinde terör örgütü mensupları tarafından düzenlenen kanlı bir saldırıya hedef oldu. Köyde yaşayan savunmasız sivillere yönelik gerçekleştirilen bu saldırı sonucunda, aralarında çok sayıda kadın ve çocuğun da bulunduğu 28 vatandaşımız hayatını kaybetti. Türkiye'nin yakın tarihindeki en acı olaylardan biri olarak kayıtlara geçen bu saldırı, bölgedeki güvenlik sorunlarının ve terörün sivil halk üzerindeki yıkıcı etkisinin bir göstergesi olarak hafızalara kazındı. Olay, o dönemde kamuoyunda büyük bir infiale ve derin bir üzüntüye yol açtı. Saldırı, terör örgütünün bölgedeki yerleşim yerlerine ve sivil halka yönelik uyguladığı şiddet stratejisinin bir parçası olarak değerlendirildi. İkiyaka köyünde yaşanan bu trajedi, Türkiye'nin terörle mücadelesinde sivil kayıpların yaşandığı ve toplumsal hafızada yer eden önemli dönüm noktalarından biri olmaya devam etmektedir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1990-kadinlar-aileden-sorumlu-devlet-bakani-cemil-cicekin",
@@ -827,23 +461,12 @@
       "konular": [
         "Cemil Çiçek"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Cemil_%C3%87i%C3%A7ek_Senate_of_Poland_01.JPG/960px-Cemil_%C3%87i%C3%A7ek_Senate_of_Poland_01.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Cemil_%C3%87i%C3%A7ek_Senate_of_Poland_01.JPG/500px-Cemil_%C3%87i%C3%A7ek_Senate_of_Poland_01.JPG",
-        "genislik": 960,
-        "yukseklik": 1343,
-        "orijinalGenislik": 2409,
-        "yazar": "Michał Józefaciuk",
-        "lisans": "CC BY-SA 3.0 pl",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Cemil_%C3%87i%C3%A7ek_Senate_of_Poland_01.JPG",
-        "aciklama": "Speaker of the Grand National Assembly of Turkey Cemil Çiçek in the Polish Senate",
-        "konu": "Cemil Çiçek"
-      }
+      "baslik": "Kadınlardan Cemil Çiçek'in Açıklamalarına Sert Tepki",
+      "ozet": "İstanbul Galatasaray'da bir araya gelen kadınlar, dönemin Aileden Sorumlu Devlet Bakanı Cemil Çiçek'in kadınların yaşam tarzına ve feminizme yönelik sarf ettiği tartışmalı sözleri protesto etmek amacıyla bir eylem düzenledi. Bakanın \"flört fuhuştur\" ve \"feminizm sapıklıktır\" şeklindeki ifadelerini kabul edilemez bulan eylemciler, düdük çalarak ve sloganlar atarak tepkilerini dile getirdi. Bu protesto, Türkiye'de kadın hareketinin kamusal alanda sesini yükselttiği ve devletin aile politikalarına karşı duruş sergilediği önemli anlardan biri olarak kayıtlara geçti.\n\nEylem sırasında güvenlik güçlerinin müdahalesi sert oldu. Polis, protestocu kadınlara fiziksel şiddet uygulayarak müdahale etti ve 11 kadını gözaltına aldı. Bu olay, o dönemde kadın hakları savunucuları ile devletin muhafazakâr söylemi arasındaki gerilimi gözler önüne serdi. Protesto, sadece bir bakanın sözlerine karşı bir tepki olmanın ötesinde, kadınların kendi bedenleri ve yaşam tercihleri üzerindeki haklarını savunma kararlılığının bir göstergesi olarak toplumsal hafızada yer edindi.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1994-galatasaray-barcelonayi-2-1-yendi-kutlamalarda-3-kisi",
@@ -882,10 +505,10 @@
         "Budapeşte",
         "Hilton Oteli"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Mesut Yılmaz'a Budapeşte'de Yumruklu Saldırı",
+      "ozet": "Anavatan Partisi Genel Başkanı ve eski Başbakan Mesut Yılmaz, 24 Kasım 1996 tarihinde Macaristan'ın başkenti Budapeşte'de bulunduğu sırada bir otel lobisinde fiziksel saldırıya uğradı. Yılmaz, otelin lobisinde beklediği esnada yanına yaklaşan bir kişi tarafından yumruklu saldırıya maruz kaldı. Olay, Türkiye siyasi tarihinde bir ana muhalefet liderine yurt dışında gerçekleştirilen nadir ve şaşırtıcı saldırılardan biri olarak kayıtlara geçti.\n\nSaldırının ardından yapılan incelemelerde, saldırganın Veysel Özerdem olduğu tespit edildi. Olayın arka planında, o dönem Türkiye'de yaşanan siyasi gerilimlerin ve Susurluk kazası sonrası ortaya çıkan tartışmaların etkili olduğu değerlendirildi. Saldırı, Türkiye'de büyük yankı uyandırırken, siyasetçilere yönelik güvenlik önlemlerinin ve siyasi iklimin sertleşmesinin bir göstergesi olarak yorumlandı. Mesut Yılmaz, bu olayın ardından siyasi kariyerine devam etmiş ve ilerleyen yıllarda tekrar başbakanlık görevini üstlenmiştir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mesut_Yilmaz_as_Turkish_Prime_Minister.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mesut_Yilmaz_as_Turkish_Prime_Minister.jpg",
@@ -899,34 +522,7 @@
         "aciklama": "Mesut Yilmaz, Turkish Prime Minister, met Jacques Santer, President of the EC. During the discussions both sides have had an exchange of views on issues regarding financial cooperation and support bet",
         "konu": "Mesut Yılmaz"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mesut_Yilmaz_as_Turkish_Prime_Minister.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mesut_Yilmaz_as_Turkish_Prime_Minister.jpg",
-          "genislik": 479,
-          "yukseklik": 644,
-          "orijinalGenislik": 479,
-          "yazar": "European Communities",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mesut_Yilmaz_as_Turkish_Prime_Minister.jpg",
-          "aciklama": "Mesut Yilmaz, Turkish Prime Minister, met Jacques Santer, President of the EC. During the discussions both sides have had an exchange of views on issues regarding financial cooperation and support bet",
-          "konu": "Mesut Yılmaz"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Budapest_Hungarian_Parliament_%2831363963556%29.jpg/960px-Budapest_Hungarian_Parliament_%2831363963556%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Budapest_Hungarian_Parliament_%2831363963556%29.jpg/500px-Budapest_Hungarian_Parliament_%2831363963556%29.jpg",
-          "genislik": 960,
-          "yukseklik": 576,
-          "orijinalGenislik": 3825,
-          "yazar": "Jorge Franganillo from Barcelona, Spain",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Budapest_Hungarian_Parliament_(31363963556).jpg",
-          "aciklama": "Budapest (Hungary)",
-          "konu": "Budapeşte"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "2005-picasso-istanbulda-sergisi-sabanci-universitesi-sakip-sabanci",
@@ -938,10 +534,10 @@
         "Sabancı Üniversitesi",
         "Sakıp Sabancı Müzesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Picasso İstanbul'da Sergisi Kapılarını Açtı",
+      "ozet": "Dünyaca ünlü İspanyol ressam Pablo Picasso'nun eserlerinden oluşan özel bir seçki, 2005 yılının Kasım ayında İstanbul'da sanatseverlerle buluştu. Sabancı Üniversitesi Sakıp Sabancı Müzesi ev sahipliğinde gerçekleştirilen bu sergi, 20. yüzyıl modern sanatının en önemli isimlerinden biri olan Picasso'nun farklı dönemlerine ait çalışmalarını Türkiye'ye taşıması bakımından büyük bir kültürel etkinlik olarak öne çıktı. Sergi, sanatçının kübizm akımındaki öncü rolünü ve çok yönlü sanat anlayışını Türk izleyicisine yakından tanıtma fırsatı sundu.\n\nBu etkinlik, Türkiye'nin uluslararası düzeyde önemli sanat organizasyonlarına ev sahipliği yapma kapasitesini göstermesi açısından da dikkat çekiciydi. Picasso'nun eserlerinin İstanbul'da sergilenmesi, şehrin kültürel ve sanatsal bir merkez olarak konumunu güçlendirirken, sanat dünyasında da geniş yankı uyandırdı. Müze yönetimi tarafından titizlikle hazırlanan bu sergi, hem yerli hem de yabancı sanatseverlerin yoğun ilgisiyle karşılaştı ve Türkiye'deki modern sanat sergileri arasında önemli bir referans noktası haline geldi.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/960px-Pablo_picasso_1.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/500px-Pablo_picasso_1.jpg",
@@ -955,47 +551,7 @@
         "aciklama": "Pablo Picasso 1969",
         "konu": "Pablo Picasso"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/960px-Pablo_picasso_1.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/500px-Pablo_picasso_1.jpg",
-          "genislik": 960,
-          "yukseklik": 1122,
-          "orijinalGenislik": 1079,
-          "yazar": "Argentina. Revista Vea y Lea",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Pablo_picasso_1.jpg",
-          "aciklama": "Pablo Picasso 1969",
-          "konu": "Pablo Picasso"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "genislik": 960,
-          "yukseklik": 494,
-          "orijinalGenislik": 2048,
-          "yazar": "Alexxx Malev",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-          "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-          "konu": "İstanbul"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Sabanc%C4%B1_%C3%9Cniversitesi_Giri%C5%9F.jpg/960px-Sabanc%C4%B1_%C3%9Cniversitesi_Giri%C5%9F.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Sabanc%C4%B1_%C3%9Cniversitesi_Giri%C5%9F.jpg/500px-Sabanc%C4%B1_%C3%9Cniversitesi_Giri%C5%9F.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 4032,
-          "yazar": "Kadı",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Sabanc%C4%B1_%C3%9Cniversitesi_Giri%C5%9F.jpg",
-          "aciklama": "Sabancı University",
-          "konu": "Sabancı Üniversitesi"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "2015-rus-hava-kuvvetlerine-ait-bir-suhoy-su-24",
@@ -1008,10 +564,10 @@
         "General Dynamics F-16 Fighting Falcon",
         "Suriye-Türkiye sınırı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türk Hava Sahası İhlali ve Rus Uçağının Düşürülmesi",
+      "ozet": "24 Kasım 2015 tarihinde Türkiye-Suriye sınırında yaşanan olayda, Türk hava sahasını ihlal eden Rusya Hava Kuvvetlerine ait bir Suhoy Su-24 tipi savaş uçağı, bölgede devriye gezen Türk Hava Kuvvetleri'ne bağlı iki adet F-16 savaş uçağı tarafından vurularak düşürüldü. Uçak, sınır bölgesindeki dağlık alana düşerken, pilotlar uçaktan fırlatma koltuğu yardımıyla ayrıldı.\n\nBu olay, Soğuk Savaş döneminden bu yana bir NATO üyesi ülke ile Rusya arasında yaşanan en ciddi askeri gerilimlerden biri olarak kayıtlara geçti. Türkiye, uçağın hava sahasını defalarca ihlal ettiği ve yapılan uyarıların dikkate alınmadığı yönünde savunma yaparken, Rusya ise uçağın Suriye topraklarında bulunduğunu ve vurulmasının kabul edilemez olduğunu savundu. Olayın ardından iki ülke arasında siyasi ve ekonomik ilişkilerde büyük bir kriz dönemi başladı. Yaşanan bu gerilim, bölgedeki hava sahası güvenliği ve sınır denetimi konularının uluslararası arenada uzun süre tartışılmasına neden oldu.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Sukhoi_Su-24_inflight_Mishin-2.jpg/960px-Sukhoi_Su-24_inflight_Mishin-2.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Sukhoi_Su-24_inflight_Mishin-2.jpg/500px-Sukhoi_Su-24_inflight_Mishin-2.jpg",
@@ -1025,47 +581,7 @@
         "aciklama": "Sukhoi Su-24M of the Russian Air Force inflight",
         "konu": "Suhoy Su-24"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Sukhoi_Su-24_inflight_Mishin-2.jpg/960px-Sukhoi_Su-24_inflight_Mishin-2.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Sukhoi_Su-24_inflight_Mishin-2.jpg/500px-Sukhoi_Su-24_inflight_Mishin-2.jpg",
-          "genislik": 960,
-          "yukseklik": 638,
-          "orijinalGenislik": 1024,
-          "yazar": "Alexander Mishin",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Sukhoi_Su-24_inflight_Mishin-2.jpg",
-          "aciklama": "Sukhoi Su-24M of the Russian Air Force inflight",
-          "konu": "Suhoy Su-24"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Turkish_Air_Force_Document.jpg/960px-Turkish_Air_Force_Document.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Turkish_Air_Force_Document.jpg/500px-Turkish_Air_Force_Document.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 4032,
-          "yazar": "Aviation poseidon",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_Air_Force_Document.jpg",
-          "aciklama": "This is a Turkish Air Force document",
-          "konu": "Türk Hava Kuvvetleri"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/960px-F-16_June_2008.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/500px-F-16_June_2008.jpg",
-          "genislik": 960,
-          "yukseklik": 663,
-          "orijinalGenislik": 3842,
-          "yazar": "Master Sgt. Andy Dunaway",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:F-16_June_2008.jpg",
-          "aciklama": "A U.S. Air Force F-16 Fighting Falcon Block 40 aircraft after receiving fuel from a KC-135 Stratotanker aircraft during a mission over Iraq on 10 June 2008. This F-16 is assigned to the 34th EFS Balad",
-          "konu": "General Dynamics F-16 Fighting Falcon"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "2016-tunceli-alibogazi-bolgesine-yonelik-duzenlenen-hava-saldirilarinda",

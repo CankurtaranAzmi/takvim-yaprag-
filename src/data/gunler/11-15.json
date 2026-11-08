@@ -1080,7 +1080,7 @@
     "url": "https://tr.wikipedia.org/wiki/15_Kas%C4%B1m",
     "revid": 37002828
   },
-  "guncelleme": "2026-11-07T12:38:40.237Z",
+  "guncelleme": "2026-11-08T12:55:53.728Z",
   "haberler": [
     {
       "id": "2025-haber-2452968",
@@ -1093,10 +1093,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/erdogan-deprem-bolgesinde-chp-yi-hedef-aldi-yalan-makinesi-mi-ana-muhalefetin-genel-baskani-mi-2452968"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Adıyaman",
+        "Cumhuriyet Halk Partisi"
+      ],
       "yayin": "2025-11-15T17:12:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhurbaşkanı Erdoğan Adıyaman'da Siyasi Eleştirilerde Bulundu",
+      "ozet": "Adıyaman'ı ziyaret eden Cumhurbaşkanı Recep Tayyip Erdoğan, bölgedeki temasları sırasında Cumhuriyet Halk Partisi'ne yönelik değerlendirmeler yaptı. Yaptığı açıklamalarla muhalefet kanadının tepkilerine değinen Erdoğan, dile getirdiği ifadelerden dolayı rahatsızlık duyulduğunu belirtti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2025-haber-2452993",
@@ -1109,10 +1116,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/chp-den-tbmm-ye-3-ay-sarti-meclis-teki-tum-milletvekillerinin-diplomasi-kontrol-edilsin-2452993"
       },
-      "konular": [],
+      "konular": [
+        "Gökhan Günaydın",
+        "Türkiye Büyük Millet Meclisi",
+        "Cumhuriyet Halk Partisi"
+      ],
       "yayin": "2025-11-15T19:47:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "CHP milletvekili diplomalarının incelenmesi için çağrıda bulundu",
+      "ozet": "Cumhuriyet Halk Partisi temsilcisi Gökhan Günaydın, Türkiye Büyük Millet Meclisi çatısı altındaki tüm milletvekillerinin eğitim belgelerinin denetlenmesi gerektiğini ifade etti. Kamuoyunda yer alan sahte diploma iddialarının ardından gündeme gelen bu talep, yasama organındaki doğrulama süreçlerinin kapsamlı bir şekilde yürütülmesini hedefliyor.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2269006",
@@ -1125,10 +1139,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/chpli-ali-mahir-basarir-erdogan-dakikada-2-asgari-ucret-harciyor-2269006"
       },
-      "konular": [],
+      "konular": [
+        "Ali Mahir Başarır",
+        "Cumhurbaşkanlığı",
+        "Türkiye"
+      ],
       "yayin": "2024-11-15T14:55:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhurbaşkanlığı harcamalarına ilişkin veriler paylaşıldı",
+      "ozet": "Cumhuriyet Halk Partisi Grup Başkanvekili Ali Mahir Başarır, Cumhurbaşkanlığı makamının yılın ilk on ayına ait bütçe kullanım verilerini kamuoyuyla paylaştı. Açıklanan rakamlara göre kurumun toplam harcaması 10 milyar 262 milyon liraya ulaşırken, örtülü ödenek üzerinden yapılan harcama tutarı ise 9 milyar 119 milyon lira olarak kaydedildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2269170",
@@ -1141,10 +1162,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/tbmm-plan-ve-butce-komisyonunda-soruldu-raki-ve-birada-vergi-yuzde-2269170"
       },
-      "konular": [],
+      "konular": [
+        "TBMM Plan ve Bütçe Komisyonu",
+        "Ömer Fethi Gürer",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2024-11-15T21:35:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "TBMM Bütçe Görüşmelerinde Alkol Ürünlerindeki Vergi Oranları Tartışıldı",
+      "ozet": "Hazine ve Maliye Bakanlığı bütçesinin görüşüldüğü toplantıda söz alan Ömer Fethi Gürer, mevcut bütçe teklifinin halkın yaşam standartlarını yükseltecek adımlar içermediğini savundu. Gürer, yerli içki türleri ile ithal viski arasındaki vergi yükü farkını gündeme getirerek konuyla ilgili eleştirilerini dile getirdi. Bakanlık bütçesi üzerindeki değerlendirmelerinde vergi politikalarındaki dengesizliğe dikkat çekti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2023-haber-2141208",
@@ -1157,10 +1185,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/euro-tarihi-zirveyi-gordu-dolar-ve-euro-ne-kadar-oldu-15-kasim-2023-2141208"
       },
-      "konular": [],
+      "konular": [
+        "Euro",
+        "Dolar",
+        "Döviz kuru"
+      ],
       "yayin": "2023-11-15T09:58:00+03:00",
       "puan": 17,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Döviz piyasalarında Euro ve Dolar değer kazandı",
+      "ozet": "Euro Türk Lirası karşısında değer kazanarak 31.19 seviyesine ulaştı ve kendi rekorunu tazeledi. Aynı gün içerisinde Dolar ise güne 28.65 seviyesinden giriş yaptı. Piyasalar döviz kurlarındaki bu hareketliliği yakından takip etti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2141160",
@@ -1173,10 +1208,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/tarim-bakanligi-butcesi-kabul-edildi-muhalefetin-onergeleri-2141160"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Tarım ve Orman Bakanlığı"
+      ],
       "yayin": "2023-11-15T04:00:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Tarım ve Orman Bakanlığının bütçesi komisyonda onaylandı",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, Tarım ve Orman Bakanlığının yeni dönem bütçesini görüşerek kabul etti. Toplantı sırasında muhalefet partisi tarafından sunulan tarımsal sigorta masraflarının devlet tarafından üstlenilmesi ve istihdamın artırılmasına yönelik teklifler ise reddedildi. Böylece bakanlığın bütçe planlaması üzerinde yapılan oylamalar sonucunda önerilen değişiklikler kabul görmedi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-2002888",
@@ -1189,10 +1230,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/dolarin-gozu-g20-zirvesinde-dolar-ne-kadar-oldu-15-kasim-2022-2002888"
       },
-      "konular": [],
+      "konular": [
+        "Dolar",
+        "G20",
+        "Ekonomi"
+      ],
       "yayin": "2022-11-15T09:50:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Dolar kurunda G20 zirvesi öncesi yatay seyir devam ediyor",
+      "ozet": "Dolar kuru 18.6 seviyesinin hemen altında sakin bir seyir izledi. Piyasalar G20 zirvesinden gelecek mesajlara odaklanırken, yurt içindeki bütçe dengesi verileri ve küresel ekonomik gelişmeler yakından takip edildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2022-haber-2002905",
@@ -1205,10 +1253,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/tarimda-uretici-enflasyonu-rekor-tazeledi-2002905"
       },
-      "konular": [],
+      "konular": [
+        "Tarım-ÜFE",
+        "Enflasyon",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2022-11-15T10:13:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Tarım sektöründe üretici fiyatlarında yıllık bazda rekor artış",
+      "ozet": "Tarım ürünleri üretici fiyat endeksi verileri açıklandı. Buna göre tarımsal üretim maliyetleri yıllık bazda yüzde 163.3 oranında artış gösterdi. Aylık bazda ise üretici fiyatlarında yüzde 4.59 seviyesinde bir yükseliş kaydedildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2021-haber-1884797",
@@ -1221,10 +1276,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika-dolarda-yeni-rekor-1884797"
       },
-      "konular": [],
+      "konular": [
+        "Dolar",
+        "Döviz kuru",
+        "Ekonomi"
+      ],
       "yayin": "2021-11-15T09:17:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Dolar kuru Asya piyasalarında yeni bir zirveye ulaştı",
+      "ozet": "Asya piyasalarının işleme açılmasıyla birlikte döviz kurlarında hareketlilik yaşandı. Amerikan doları, değer kazanarak 10,04 seviyesinin üzerine çıktı ve kendi rekorunu yeniledi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2021-haber-1885039",
@@ -1237,10 +1299,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/turkiye-avrupa-tekvando-sampiyonasinda-8-madalya-kazandi-1885039"
       },
-      "konular": [],
+      "konular": [
+        "Tekvando",
+        "Türkiye"
+      ],
       "yayin": "2021-11-15T22:04:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Avrupa Gençler Tekvando Şampiyonası'nda Türkiye sekiz madalya elde etti",
+      "ozet": "Avrupa Gençler Tekvando Şampiyonası kapsamında düzenlenen müsabakalarda milli sporcular başarılı bir performans sergiledi. Turnuvayı toplam sekiz madalya ile tamamlayan Türkiye, organizasyondaki başarısını tescilledi.",
+      "kategori": "Spor"
     },
     {
       "id": "2020-haber-1791212",
@@ -1253,10 +1321,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tbmm-baskani-sentop-pist-cok-iyiymis-degil-mi-sampiyon-1791212"
       },
-      "konular": [],
+      "konular": [
+        "Formula 1",
+        "Lewis Hamilton",
+        "İstanbul Park"
+      ],
       "yayin": "2020-11-15T16:43:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Formula 1 İstanbul Yarışının Kazananı Lewis Hamilton Oldu",
+      "ozet": "Türkiye Büyük Millet Meclisi Başkanı Mustafa Şentop, İstanbul'da düzenlenen Formula 1 yarışını birinci sırada tamamlayan Mercedes pilotu Lewis Hamilton'ı tebrik etti. Podyumda gerçekleşen kupa töreninde sporcuya ödülünü takdim eden Şentop, yarışın yapıldığı pistin kalitesine dair değerlendirmelerde bulundu.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Pit_stop_raikkonen.jpg/960px-Pit_stop_raikkonen.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Pit_stop_raikkonen.jpg/500px-Pit_stop_raikkonen.jpg",
+        "genislik": 960,
+        "yukseklik": 485,
+        "orijinalGenislik": 1024,
+        "yazar": "eskandar",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pit_stop_raikkonen.jpg",
+        "aciklama": "pit stop raikkonen au GP de Malaisie 2009",
+        "konu": "Formula 1"
+      }
     },
     {
       "id": "2020-haber-1791207",
@@ -1269,10 +1357,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/istanbulun-son-sampiyonu-kupasini-aldi-1791207"
       },
-      "konular": [],
+      "konular": [
+        "2020 Türkiye Grand Prix",
+        "Formula 1",
+        "İstanbul"
+      ],
       "yayin": "2020-11-15T15:55:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İstanbul Formula 1 yarışında dereceye giren pilotlar ödüllendirildi",
+      "ozet": "Dokuz yıllık bir aranın ardından İstanbul ev sahipliğinde gerçekleştirilen Formula 1 yarışları tamamlandı. Organizasyon sonunda podyuma çıkmaya hak kazanan başarılı pilotlara kupaları takdim edildi.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Pit_stop_raikkonen.jpg/960px-Pit_stop_raikkonen.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Pit_stop_raikkonen.jpg/500px-Pit_stop_raikkonen.jpg",
+        "genislik": 960,
+        "yukseklik": 485,
+        "orijinalGenislik": 1024,
+        "yazar": "eskandar",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pit_stop_raikkonen.jpg",
+        "aciklama": "pit stop raikkonen au GP de Malaisie 2009",
+        "konu": "Formula 1"
+      }
     },
     {
       "id": "2019-haber-1702294",
@@ -1285,10 +1393,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/samandag-mandalinasinda-ihracat-basladi-1702294"
       },
-      "konular": [],
+      "konular": [
+        "Mandalina",
+        "Samandağ",
+        "İhracat"
+      ],
       "yayin": "2019-11-15T15:13:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Samandağ mandalinasında dış satım dönemi açıldı",
+      "ozet": "Ülkenin geleneksel ihraç ürünleri arasında yer alan satsuma türü mandalinalar için yeni sezon faaliyetleri başladı. Hasat edilen ürünlerin yurt dışına gönderilmesine yönelik süreç resmen hayata geçirildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2019-haber-1702293",
@@ -1301,10 +1416,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kusadasi-ab-merkezi-acildi-1702293"
       },
-      "konular": [],
+      "konular": [
+        "Kuşadası",
+        "Avrupa Birliği"
+      ],
       "yayin": "2019-11-15T15:11:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Kuşadası Uluslararası İlişkiler ve AB Merkezi faaliyete geçti",
+      "ozet": "Kuşadası Belediyesi tarafından kurulan merkez, yerel kurumlar ve sivil toplum kuruluşları ile ortak projeler üretmeyi hedefliyor. Avrupa Birliği fonlarından daha verimli yararlanılması amacıyla hayata geçirilen birim, üniversiteler ve meslek örgütleriyle iş birliği içinde çalışmalar yürütecek.",
+      "kategori": "Toplum"
     },
     {
       "id": "2018-haber-1141726",
@@ -1317,10 +1438,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bir-zamanlarin-vergi-rekortmeniydi-konkordato-ilan-etti-1141726"
       },
-      "konular": [],
+      "konular": [
+        "Konkordato",
+        "Emay İnşaat",
+        "İnşaat sektörü"
+      ],
       "yayin": "2018-11-15T13:29:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Emay İnşaat konkordato başvurusunda bulundu",
+      "ozet": "Geçmiş dönemlerde vergi rekortmenleri arasında yer alan Emay İnşaat, mali yapısını korumak amacıyla konkordato ilan etti. Şirket, daha önce KentPlus Kadıköy, KentPlus Ataşehir ve Brandium Ataşehir gibi büyük ölçekli konut projelerini hayata geçirmişti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2018-haber-1141279",
@@ -1333,10 +1461,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/marie-antoinettee-ait-inci-kolye-36-milyon-dolara-satilarak-rekor-kirdi-1141279"
       },
-      "konular": [],
+      "konular": [
+        "Marie Antoinette",
+        "Sotheby's",
+        "Mücevher"
+      ],
       "yayin": "2018-11-15T10:02:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Marie Antoinette'in inci kolyesi açık artırmada rekor fiyata satıldı",
+      "ozet": "Fransız İhtilali döneminde hayatını kaybeden Kraliçe Marie Antoinette'e ait olan elmas ve inci detaylı kolye, Cenevre'de gerçekleştirilen bir müzayedede yeni sahibini buldu. Sotheby's tarafından düzenlenen açık artırmada satışa sunulan tarihi mücevher, 36 milyon dolarlık bedelle alıcı bularak kendi kategorisinde bir rekor kırdı.",
+      "kategori": "Sanat",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg/960px-Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg/500px-Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg",
+        "genislik": 960,
+        "yukseklik": 1257,
+        "orijinalGenislik": 1498,
+        "yazar": "After Jean-Baptiste André Gautier-Dagoty",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Marie-Antoinette,_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg",
+        "aciklama": null,
+        "konu": "Marie Antoinette"
+      }
     },
     {
       "id": "2017-haber-866237",
@@ -1349,10 +1497,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/asgari-ucretlinin-paylasimi-gunun-konusu-oldu-caya-ekmek-batirip-yiyoruz-sayin-cumhurbaskani-866237"
       },
-      "konular": [],
+      "konular": [
+        "Asgari ücret",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2017-11-15T08:12:00+03:00",
       "puan": 15,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Asgari ücretin yetersizliği sosyal medyada gündem oldu",
+      "ozet": "Asgari ücretle geçinmeye çalışan bir vatandaşın ekonomik koşullara dair yaptığı paylaşım geniş yankı uyandırdı. Söz konusu gönderide, düşük gelir seviyesi nedeniyle yaşanan zorluklar ve temel ihtiyaçların karşılanmasındaki güçlükler dile getirildi. Bu durum, toplumun farklı kesimlerinde gelir adaletsizliği ve yoksulluk tartışmalarını yeniden gündeme taşıdı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2017-haber-866259",
@@ -1365,10 +1519,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/avrodan-yeni-zirve-dolar-rekor-duzeye-yaklasti-866259"
       },
-      "konular": [],
+      "konular": [
+        "Döviz kuru",
+        "Türkiye ekonomisi",
+        "Enflasyon"
+      ],
       "yayin": "2017-11-15T09:20:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Döviz piyasalarında avro ve dolar değer kazandı",
+      "ozet": "Amerika Birleşik Devletleri merkezli faiz artırımı beklentileri ve Türkiye içerisindeki enflasyon oranlarının yüksek seyretmesi döviz kurlarını etkiledi. Bu gelişmeler neticesinde dolar 3.90 lira seviyesine yükselirken, avro ise 4.60 lira ile yeni bir zirveye ulaştı. Doların yıl içerisindeki en yüksek değeri ocak ayında kaydedilmişti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2016-haber-630987",
@@ -1381,10 +1542,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/olasi-istanbul-depremi-meclis-gundeminde-630987"
       },
-      "konular": [],
+      "konular": [
+        "İstanbul depremi",
+        "İstanbul Büyükşehir Belediyesi"
+      ],
       "yayin": "2016-11-15T13:59:00+03:00",
       "puan": 15,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İstanbul depremi riski belediye meclisi gündemine taşındı",
+      "ozet": "Uzmanların İstanbul için öngördüğü deprem tehlikesi, İstanbul Büyükşehir Belediye Meclisi toplantılarında ele alındı. Kasım ayı oturumları kapsamında söz alan grup başkan vekili yardımcısı, bölgedeki sarsıntı riski ve belediye tarafından yürütülen hazırlık çalışmaları hakkında meclis üyelerine bilgilendirme yaptı.",
+      "kategori": "Toplum",
+      "gorsel": null
     },
     {
       "id": "2016-haber-630872",
@@ -1397,10 +1565,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpde-ihrac-depremi-oy-kullandiklari-sandiktan-chpye-oy-cikmamisti-630872"
       },
-      "konular": [],
+      "konular": [
+        "Cumhuriyet Halk Partisi",
+        "Manisa",
+        "Siyaset"
+      ],
       "yayin": "2016-11-15T11:18:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Manisa'da yedi parti üyesi hakkında ihraç kararı alındı",
+      "ozet": "Cumhuriyet Halk Partisi yönetimi, Manisa ilinde gerçekleştirdiği incelemeler sonucunda bazı üyeleriyle yollarını ayırdı. Geçmiş genel seçimlerde kendi oy kullandıkları sandıklardan partilerine hiç oy çıkmadığı belirlenen yedi üyenin partiyle ilişiği kesildi. Söz konusu kişiler hakkında disiplin süreci işletilerek üyeliklerine son verildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2015-haber-419183",
@@ -1413,10 +1588,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-obama-gorusmesinden-sonra-4-milyar-dolarlik-iptal-karari-419183"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye-Çin ilişkileri",
+        "Recep Tayyip Erdoğan",
+        "Barack Obama"
+      ],
       "yayin": "2015-11-15T13:20:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Türkiye Çin ile füze savunma sistemi alım projesini sonlandırdı",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ve Amerika Birleşik Devletleri Başkanı Barack Obama arasında gerçekleşen görüşmenin ardından önemli bir savunma kararı alındı. Türkiye, yaklaşık 4 milyar dolar değerindeki Çin menşeli füze savunma sistemi satın alma projesini iptal ettiğini duyurdu. Bu gelişme ile birlikte söz konusu savunma ihalesi resmi olarak durdurulmuş oldu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2015-haber-419009",
@@ -1429,10 +1624,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fransa-basbakani-valls-iside-karsi-savas-icindeyiz-419009"
       },
-      "konular": [],
+      "konular": [
+        "IŞİD",
+        "Manuel Valls",
+        "Fransa"
+      ],
       "yayin": "2015-11-15T10:10:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Fransa Başbakanı Valls IŞİD ile Mücadele Sürecini Değerlendirdi",
+      "ozet": "Fransa Başbakanı Manuel Valls, ülkesinin IŞİD örgütüne karşı bir savaş durumu içerisinde olduğunu ifade etti. Le Figaro gazetesinde yer alan bilgilere göre Valls, mevcut güvenlik tehditlerine karşı yürütülen mücadele hakkında açıklamalarda bulundu.",
+      "kategori": "Savaş",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Manuel_Valls_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Manuel_Valls_2025_%28cropped%29.jpg",
+        "genislik": 544,
+        "yukseklik": 816,
+        "orijinalGenislik": 544,
+        "yazar": "Nicolas Kovarik / European Union, 2025 / EC - Audiovisual Service",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Manuel_Valls_2025_(cropped).jpg",
+        "aciklama": "Handshake between Manuel Valls, French Minister for Overseas Territories, left, and Raffaele Fitto, Executive Vice-President of the European Commission, during his visit to Paris, France.",
+        "konu": "Manuel Valls"
+      }
     },
     {
       "id": "2014-haber-141799",
@@ -1445,10 +1660,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/rekor-kirdi-mvp-oldu-141799"
       },
-      "konular": [],
+      "konular": [
+        "Andrew Goudelock",
+        "Fenerbahçe (basketbol takımı)",
+        "EuroLeague"
+      ],
       "yayin": "2014-11-15T13:14:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Andrew Goudelock Euroleague haftanın en değerli oyuncusu seçildi",
+      "ozet": "Fenerbahçe Ülker forması giyen Andrew Goudelock, THY Euroleague organizasyonunun beşinci haftasında gösterdiği performansla dikkatleri üzerine çekti. Başarılı şutör, sergilediği oyunla haftanın en değerli oyuncusu unvanına layık görüldü.",
+      "kategori": "Spor"
     },
     {
       "id": "2014-haber-141669",
@@ -1461,10 +1683,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ronaldo-hakan-sukurun-rekorunu-kirdi-141669"
       },
-      "konular": [],
+      "konular": [
+        "Cristiano Ronaldo",
+        "Avrupa Futbol Şampiyonası",
+        "Futbol"
+      ],
       "yayin": "2014-11-15T08:46:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cristiano Ronaldo Avrupa Şampiyonası tarihinin en golcü ismi oldu",
+      "ozet": "Portekizli futbolcu Cristiano Ronaldo, Ermenistan ile oynanan karşılaşmada fileleri havalandırarak önemli bir başarıya imza attı. Bu golle birlikte Avrupa şampiyonaları elemeleri ve finalleri toplamında en çok gol atan oyuncu unvanını ele geçirdi. Böylece daha önce Hakan Şükür'e ait olan rekoru geride bırakarak turnuva tarihine geçti.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/960px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/500px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1439,
+        "orijinalGenislik": 2812,
+        "yazar": "Bryan Berlin",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg",
+        "aciklama": "Cristiano Ronaldo during Croatia v Portugal on 2 July 2026 at the 2026 FIFA World Cup",
+        "konu": "Cristiano Ronaldo"
+      }
     },
     {
       "id": "2013-haber-9661",
@@ -1477,10 +1719,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/anayasa-mahkemesinden-flas-agar-karari-9661"
       },
-      "konular": [],
+      "konular": [
+        "Mehmet Ağar",
+        "Anayasa Mahkemesi",
+        "Denetimli serbestlik"
+      ],
       "yayin": "2013-11-15T17:56:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Anayasa Mahkemesi denetimli serbestlik düzenlemesini inceledi",
+      "ozet": "Anayasa Mahkemesi, denetimli serbestlikten yararlanan kişilerin yeni bir soruşturma geçirmeleri durumunda cezaevine gönderilmelerini düzenleyen kanun maddesinin iptali için yapılan başvuruyu değerlendirdi. Ankara 11. Ağır Ceza Mahkemesi tarafından iletilen bu talep, Mehmet Ağar'ın infazının durdurulması süreciyle bağlantılı olarak gündeme geldi. Yüksek mahkeme, söz konusu yasal düzenlemenin anayasaya uygunluğunu incelemek üzere başvuruyu ele aldı.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2013-haber-9555",
@@ -1493,10 +1743,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/karaborsa-oldu-zam-yolda-9555"
       },
-      "konular": [],
+      "konular": [
+        "Simit",
+        "Bursa",
+        "Susam"
+      ],
       "yayin": "2013-11-15T12:13:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Susam fiyatlarındaki artış simit üretimini etkiledi",
+      "ozet": "Bursa Simitçiler ve Unlu Madde İmalatçılar Odası Başkanı Erdal Pınar, susam fiyatlarının bir önceki yıla oranla yüzde 115 seviyesinde yükseldiğini duyurdu. Pınar, yurt dışındaki üretim bölgelerinde meydana gelen aksaklıklar sebebiyle susam ithalatında düşüş yaşandığını ifade etti. Bu durumun hammadde temininde zorluklara yol açtığı belirtildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2012-haber-383854",
@@ -1509,10 +1766,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/gazzeye-kara-harekati-basliyor-mu-383854"
       },
-      "konular": [],
+      "konular": [
+        "Gazze Şeridi",
+        "İsrail",
+        "İsmail Heniyye"
+      ],
       "yayin": "2012-11-15T18:54:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İsrail ordusu Gazze sınırına askeri sevkiyat başlattı",
+      "ozet": "İsrail ordusu birliklerini Gazze sınır hattına doğru hareket ettirdi. Başbakan Binyamin Netanyahu, otuz bin yedek askerin göreve çağrılması için gerekli talimatları verdi. Bölgede yaşanan çatışmalar sırasında Gazze'deki Filistin Hükümeti Başbakanı İsmail Heniyye'nin konutunun bahçesi hedef alındı.",
+      "kategori": "Savaş",
+      "gorsel": null
     },
     {
       "id": "2012-haber-383784",
@@ -1525,10 +1790,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/turkiye-diyabet-vakfi-dunya-rekoru-kiracak-383784"
       },
-      "konular": [],
+      "konular": [
+        "Diyabet",
+        "Türkiye Diyabet Vakfı"
+      ],
       "yayin": "2012-11-15T14:35:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türkiye Diyabet Vakfı ücretsiz şeker taraması gerçekleştirecek",
+      "ozet": "Türkiye Diyabet Vakfı tarafından organize edilen etkinlik kapsamında binlerce kişiye ücretsiz şeker ölçümü yapılması planlandı. Pazar günü düzenlenecek olan bu geniş katılımlı tarama çalışmasıyla ülkede daha önce görülmemiş bir sayıya ulaşılması hedeflendi.",
+      "kategori": "Toplum"
     },
     {
       "id": "2011-haber-298056",
@@ -1541,10 +1812,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/evlenme-yasi-meclise-tasindi-298056"
       },
-      "konular": [],
+      "konular": [
+        "Rıza Türmen",
+        "Cumhuriyet Halk Partisi",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2011-11-15T10:56:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Evlilik yaşının yükseltilmesi için kanun teklifi sunuldu",
+      "ozet": "Cumhuriyet Halk Partisi İzmir Milletvekili Rıza Türmen, evlilik yaş sınırının değiştirilmesi amacıyla Türkiye Büyük Millet Meclisi'ne bir yasa önerisi sundu. Söz konusu teklif, mevcut durumda 17 olan yasal evlenme yaşının 18 yaşına çekilmesini hedefliyor.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2011-haber-298222",
@@ -1557,10 +1835,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/irlanda-devlet-bakani-penrose-istifa-etti-298222"
       },
-      "konular": [],
+      "konular": [
+        "Willie Penrose",
+        "İrlanda"
+      ],
       "yayin": "2011-11-15T16:36:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İrlanda'da İskân ve Planlama Bakanı görevinden ayrıldı",
+      "ozet": "İrlanda hükümetinde iskân ve planlama alanlarından sorumlu olan Devlet Bakanı Willie Penrose, görevini bıraktığını duyurdu. Bakanın istifa kararı kamuoyuna resmen açıklandı.",
+      "kategori": "Siyaset"
     }
   ],
   "haberYillari": [
