@@ -12,64 +12,24 @@
         "Etrüskler",
         "Roma zaferi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Kral Servius Tullius'un İlk Zafer Alayı",
+      "ozet": "Antik Roma'nın efsanevi krallarından biri olan Servius Tullius, Etrüsklere karşı kazandığı zaferin ardından Roma geleneklerine uygun olarak düzenlenen zafer alaylarının ilkini gerçekleştirdi. Bu tören, Roma'nın henüz bir krallık olduğu dönemde askeri başarıların ve kraliyet otoritesinin halka gösterilmesi açısından büyük önem taşıyordu. Servius Tullius, Etrüsk kökenli bir hanedandan gelmesine rağmen, Roma'nın gelişiminde kritik bir rol oynamış ve şehri güçlendiren reformlara imza atmıştır. Roma'nın erken dönemindeki bu askeri başarılar, şehrin İtalya Yarımadası'ndaki nüfuzunu artırma sürecinin bir parçasıydı. Etrüskler, o dönemde bölgedeki en gelişmiş uygarlıklardan biri olarak Roma üzerinde derin bir kültürel ve siyasi etki bırakmıştı. Tullius'un bu zaferi, Roma'nın kendi kimliğini oluşturma ve komşu halklar üzerindeki hakimiyetini pekiştirme çabalarının bir yansıması olarak kabul edilir. Zafer alayları, Roma'nın ilerleyen yüzyıllarda bir imparatorluğa dönüşme sürecinde, askeri zaferleri kutlama ve meşrulaştırma geleneğinin temel taşlarından biri haline gelmiştir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Roman_Empire_map-2.gif",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Roman_Empire_map-2.gif",
-        "genislik": 845,
-        "yukseklik": 760,
-        "orijinalGenislik": 845,
-        "yazar": "Swarm + Codehydro Roman_Empire_map.gif (base image): User:Roke",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Roman_Empire_map-2.gif",
-        "aciklama": "Animated map of the Roman Empire, from 500 BC to the fall of the last Byzantine successor state.",
-        "konu": "Antik Roma"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Servius_by_Rouille.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Servius_by_Rouille.jpg",
+        "genislik": 418,
+        "yukseklik": 421,
+        "orijinalGenislik": 418,
+        "yazar": "Published by Guillaume Rouille(1518?-1589)",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Servius_by_Rouille.jpg",
+        "aciklama": "Servius Tullius was the sixth legendary king of ancient Rome and the second king of the Etruscan dynasty.",
+        "konu": "Servius Tullius"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Roman_Empire_map-2.gif",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Roman_Empire_map-2.gif",
-          "genislik": 845,
-          "yukseklik": 760,
-          "orijinalGenislik": 845,
-          "yazar": "Swarm + Codehydro Roman_Empire_map.gif (base image): User:Roke",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Roman_Empire_map-2.gif",
-          "aciklama": "Animated map of the Roman Empire, from 500 BC to the fall of the last Byzantine successor state.",
-          "konu": "Antik Roma"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Servius_by_Rouille.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Servius_by_Rouille.jpg",
-          "genislik": 418,
-          "yukseklik": 421,
-          "orijinalGenislik": 418,
-          "yazar": "Published by Guillaume Rouille(1518?-1589)",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Servius_by_Rouille.jpg",
-          "aciklama": "Servius Tullius was the sixth legendary king of ancient Rome and the second king of the Etruscan dynasty.",
-          "konu": "Servius Tullius"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Triumph3-Mantegna-bearers-of-trophies-and-bullion.jpg/960px-Triumph3-Mantegna-bearers-of-trophies-and-bullion.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Triumph3-Mantegna-bearers-of-trophies-and-bullion.jpg/500px-Triumph3-Mantegna-bearers-of-trophies-and-bullion.jpg",
-          "genislik": 960,
-          "yukseklik": 922,
-          "orijinalGenislik": 1500,
-          "yazar": "Andrea Mantegna",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Triumph3-Mantegna-bearers-of-trophies-and-bullion.jpg",
-          "aciklama": "The Triumphs of Caesar III: bearers of trophies and bullion, Royal Collection, Hampton Court Palace",
-          "konu": "Roma zaferi"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1120-beyaz-gemisi-mans-denizinde-batar-ve-i",
@@ -81,10 +41,10 @@
         "I. Henry",
         "William Adelin"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İngiltere Tarihini Değiştiren Beyaz Gemi Faciası",
+      "ozet": "Normandiya kıyılarındaki Barfleur açıklarında gerçekleşen bu deniz kazası, İngiltere tarihinin en önemli dönüm noktalarından biri olarak kabul edilir. Kral I. Henry'nin meşru oğlu ve tahtın tek varisi olan William Adelin'in de aralarında bulunduğu yaklaşık 300 kişi, geminin batması sonucu hayatını kaybetti. Kazadan kurtulan tek bir kişinin olması, olayın trajik boyutunu gözler önüne sererken, İngiliz kraliyet ailesi için telafisi imkansız bir kayba neden oldu.\n\nWilliam Adelin'in beklenmedik ölümü, İngiltere'de veraset sistemini kökünden sarstı. Kral I. Henry'nin meşru bir erkek varisinin kalmaması, ülkede uzun yıllar sürecek olan ve Anarşi olarak adlandırılan bir iç savaş döneminin kapılarını araladı. Bu kriz, taht üzerinde hak iddia eden taraflar arasında derin bir bölünmeye yol açarak İngiltere'nin siyasi istikrarını on yıllar boyunca tehdit etti. Beyaz Gemi faciası, sadece bir deniz kazası olarak değil, aynı zamanda bir hanedanın geleceğini karartan ve ülkeyi kaosa sürükleyen tarihi bir kırılma noktası olarak hafızalara kazındı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/WhiteShipSinking.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/WhiteShipSinking.jpg",
@@ -98,47 +58,7 @@
         "aciklama": "The Sinking of the White Ship in the English Channel near the Normandy coast off Barfleur, on November 25, 1120.",
         "konu": "Beyaz Gemi (İngiltere)"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/WhiteShipSinking.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/WhiteShipSinking.jpg",
-          "genislik": 800,
-          "yukseklik": 1161,
-          "orijinalGenislik": 800,
-          "yazar": "Unknown, produced for the Corporation of the City of London",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:WhiteShipSinking.jpg",
-          "aciklama": "The Sinking of the White Ship in the English Channel near the Normandy coast off Barfleur, on November 25, 1120.",
-          "konu": "Beyaz Gemi (İngiltere)"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/English_Channel.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/English_Channel.jpg",
-          "genislik": 441,
-          "yukseklik": 396,
-          "orijinalGenislik": 441,
-          "yazar": "This is part of http://www.lib.utexas.edu/maps/europe/france_pol91.jpg; claimed to be from the CIA (see http://www.lib.utexas.edu/maps/franc",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:English_Channel.jpg",
-          "aciklama": "English Channel map",
-          "konu": "Manş Denizi"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/British_-_Henry_I_-_Google_Art_Project.jpg/960px-British_-_Henry_I_-_Google_Art_Project.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/British_-_Henry_I_-_Google_Art_Project.jpg/500px-British_-_Henry_I_-_Google_Art_Project.jpg",
-          "genislik": 960,
-          "yukseklik": 1292,
-          "orijinalGenislik": 2131,
-          "yazar": "British – School Details on Google Art Project",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:British_-_Henry_I_-_Google_Art_Project.jpg",
-          "aciklama": null,
-          "konu": "I. Henry"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1177-iv-baudouin-ve-renaud-de-chatillon-selahaddin",
@@ -150,10 +70,10 @@
         "Selahaddin Eyyubi",
         "Montgisard Muharebesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Montgisard Muharebesi: Selahaddin Eyyubi'nin Beklenmedik Yenilgisi",
+      "ozet": "Kudüs Krallığı'nı yöneten ve cüzzam hastalığıyla mücadele etmesine rağmen askeri dehasıyla tanınan genç kral IV. Baudouin, 1177 yılında Selahaddin Eyyubi'nin krallığına yönelik başlattığı büyük saldırıyı durdurmayı başardı. Renaud de Châtillon ile birlikte hareket eden Baudouin, Montgisard'da sayıca üstün olan Eyyubi ordusuna karşı stratejik bir zafer kazandı. Bu muharebe, Selahaddin'in bölgedeki genişleme planlarını geçici olarak sekteye uğratan önemli bir askeri olay olarak tarihe geçti.\n\nSelahaddin Eyyubi, bu yenilgiye rağmen ilerleyen yıllarda gücünü toparlayarak bölgedeki Haçlı varlığına karşı daha büyük hamleler yapmaya devam etti. Özellikle 1187 yılındaki Hıttin Muharebesi, bu mağlubiyetin aksine Selahaddin'in kesin zaferiyle sonuçlanmış ve Kudüs'ün yeniden İslam dünyasının kontrolüne girmesini sağlamıştır. Montgisard Muharebesi ise, IV. Baudouin'in fiziksel engellerine rağmen krallığını koruma konusundaki kararlılığının ve Haçlı devletlerinin o dönemdeki savunma kapasitesinin bir sembolü olarak kabul edilir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Balduino_IV_de_Jerusal%C3%A9n.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Balduino_IV_de_Jerusal%C3%A9n.png",
@@ -167,47 +87,7 @@
         "aciklama": "Baldwin IV of Jerusalem",
         "konu": "IV. Baudouin"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Balduino_IV_de_Jerusal%C3%A9n.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Balduino_IV_de_Jerusal%C3%A9n.png",
-          "genislik": 495,
-          "yukseklik": 922,
-          "orijinalGenislik": 495,
-          "yazar": "Guillermo de Tiro",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Balduino_IV_de_Jerusal%C3%A9n.png",
-          "aciklama": "Baldwin IV of Jerusalem",
-          "konu": "IV. Baudouin"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ReynaldofChatillon%26PatriarchofAntioch.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ReynaldofChatillon%26PatriarchofAntioch.jpg",
-          "genislik": 413,
-          "yukseklik": 402,
-          "orijinalGenislik": 413,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:ReynaldofChatillon%26PatriarchofAntioch.jpg",
-          "aciklama": "William of Tyre's Historia and Continuation, 13C manuscript from Acre. Bibliothèque Nationale de France.",
-          "konu": "Renaud de Châtillon"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg/960px-thumbnail.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg/500px-thumbnail.jpg",
-          "genislik": 960,
-          "yukseklik": 903,
-          "orijinalGenislik": 1672,
-          "yazar": "Classical Numismatic Group (CNG)",
-          "lisans": "CC BY-SA 2.5",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Al-Nasir_I_Salah_al-Din_Yusuf_(Saladin)._AH_564-589_(1169-1193_CE)_%C3%86_Dirham_(30.1mm,_13.28_g,_6h)._Without_mint-name._Dated_AH_586_(AD_1190-91)._Sultan_sitting_facing,_cross-legged,_on_high-backed_throne_(obverse).jpg",
-          "aciklama": "Al-Nasir I Salah al-Din Yusuf (Saladin). AH 564-589 (1169-1193 CE) Æ Dirham (30.1mm, 13.28 g, 6h). Without mint-name. Dated AH 586 (AD 1190-91). Sultan sitting facing, cross-legged, on high-backed thr",
-          "konu": "Selahaddin Eyyubi"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1487-yorklu-elizabeth-ingiltere-kralicesi-olarak-tac-giyer",
@@ -217,10 +97,10 @@
         "Yorklu Elizabeth",
         "İngiltere hükümdarlarının eşleri listesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Yorklu Elizabeth'in İngiltere Kraliçesi Olarak Taç Giymesi",
+      "ozet": "Yorklu Elizabeth, 1487 yılının Kasım ayında Westminster Abbey'de gerçekleştirilen görkemli bir törenle İngiltere Kraliçesi unvanını resmen aldı. Kral VII. Henry ile evliliği, İngiltere tarihinde uzun yıllar süren iç çatışmaların ve hanedan mücadelelerinin sona erdiğini simgeleyen önemli bir dönüm noktasıydı. IV. Edward'ın kızı olarak York Hanedanı'nı temsil eden Elizabeth, Tudor Hanedanı'nın kurucusu olan eşiyle birleşerek iki rakip tarafı bir araya getirdi.\n\nBu taç giyme töreni, sadece bir kraliçenin göreve başlaması değil, aynı zamanda Güller Savaşı olarak bilinen kanlı dönemin ardından İngiltere'de sağlanan siyasi istikrarın bir göstergesiydi. Elizabeth, İngiltere tarihinde bir kralın kızı, kız kardeşi, eşi ve annesi olma unvanlarını aynı anda taşıyan nadir figürlerden biri olarak öne çıkar. Oğlu VIII. Henry'nin tahta çıkışına kadar süren yaşamı boyunca, Tudor hanedanının meşruiyetini güçlendiren en önemli figürlerden biri olarak kabul edilmiştir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/British_School%2C_16th_century_-_Elizabeth_of_York_%281465-1503%29_-_RCIN_403447_-_Royal_Collection.jpg/960px-British_School%2C_16th_century_-_Elizabeth_of_York_%281465-1503%29_-_RCIN_403447_-_Royal_Collection.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/British_School%2C_16th_century_-_Elizabeth_of_York_%281465-1503%29_-_RCIN_403447_-_Royal_Collection.jpg/500px-British_School%2C_16th_century_-_Elizabeth_of_York_%281465-1503%29_-_RCIN_403447_-_Royal_Collection.jpg",
@@ -233,7 +113,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:British_School,_16th_century_-_Elizabeth_of_York_(1465-1503)_-_RCIN_403447_-_Royal_Collection.jpg",
         "aciklama": null,
         "konu": "Yorklu Elizabeth"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1870-istanbulda-ilk-mizah-dergisi-diyojen-in-birinci",
@@ -243,23 +124,12 @@
         "İstanbul",
         "Diyojen (dergi)"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
-        "genislik": 960,
-        "yukseklik": 494,
-        "orijinalGenislik": 2048,
-        "yazar": "Alexxx Malev",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-        "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-        "konu": "İstanbul"
-      }
+      "baslik": "Osmanlı'nın İlk Mizah Dergisi: Diyojen",
+      "ozet": "Teodor Kasap tarafından kurulan Diyojen, Osmanlı basın tarihinde modern mizahın öncüsü olarak kabul edilir. İstanbul'da Asmaaltı'ndaki bir handa hazırlanan dergi, ismini Antik Yunan filozofu Diyojen'den alıyor ve logosunda filozofun Büyük İskender'e söylediği meşhur \"Gölge etme başka ihsan istemem\" sözünü taşıyordu. Haftalık olarak başlayan yayın süreci, gördüğü yoğun ilgi üzerine zamanla haftada üç sayıya kadar çıkmıştır.\n\nDergi, sadece eğlenceli içerikleriyle değil, aynı zamanda Namık Kemal ve Ebüzziya Tevfik gibi dönemin önemli aydınlarının imzasız yazılarına ev sahipliği yapmasıyla da dikkat çekmiştir. Politik mizahın sınırlarını zorlayan Diyojen, bu cesur tutumu nedeniyle dönem içerisinde üç kez geçici olarak kapatılmıştır. 1873 yılına kadar süren yayın hayatı, nihai bir kapatma kararıyla sona ermiş olsa da, dergi Osmanlı toplumunda eleştirel mizah geleneğinin temellerini atan en önemli yayın organlarından biri olmuştur.",
+      "kategori": "Edebiyat",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1922-edirnenin-kurtulusu",
@@ -268,23 +138,12 @@
       "konular": [
         "Edirne"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Selimiye_Mosque_and_The_Statue_of_Architect_Sinan_-_panoramio.jpg/960px-Selimiye_Mosque_and_The_Statue_of_Architect_Sinan_-_panoramio.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Selimiye_Mosque_and_The_Statue_of_Architect_Sinan_-_panoramio.jpg/500px-Selimiye_Mosque_and_The_Statue_of_Architect_Sinan_-_panoramio.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 5184,
-        "yazar": "Tevfik Teker",
-        "lisans": "CC BY 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Selimiye_Mosque_and_The_Statue_of_Architect_Sinan_-_panoramio.jpg",
-        "aciklama": "Selimiye Mosque and The Statue of Architect Sinan",
-        "konu": "Edirne"
-      }
+      "baslik": "Edirne'nin Yunan İşgalinden Kurtuluşu",
+      "ozet": "Kurtuluş Savaşı'nın başarıyla sonuçlanmasının ardından imzalanan Mudanya Mütarekesi ile birlikte, Doğu Trakya'nın boşaltılması kararlaştırıldı. Bu diplomatik sürecin bir parçası olarak, yaklaşık iki yıl süren Yunan işgali altındaki Edirne, 25 Kasım 1922 tarihinde Türk ordusunun şehre girmesiyle özgürlüğüne kavuştu. Şehrin teslim alınmasıyla birlikte bölgedeki Türk yönetimi yeniden tesis edildi ve Türk bayrağı göndere çekildi.\n\nEdirne'nin kurtuluşu, Türkiye'nin batı sınırlarının güvenliği ve Trakya'nın vatan topraklarına tam olarak dahil edilmesi açısından büyük bir önem taşımaktadır. Osmanlı İmparatorluğu'na uzun yıllar başkentlik yapmış olan bu stratejik şehir, kurtuluşun ardından Türkiye Cumhuriyeti'nin sınır kenti olarak yeniden yapılandırıldı. Bugün her yıl 25 Kasım tarihinde kutlanan bu gün, Edirne halkı için bağımsızlığın ve milli birliğin sembolü olarak kabul edilmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1924-kazim-ozalp-pasa-tbmm-baskanligina-secildi",
@@ -377,51 +236,24 @@
         "Bolşevik",
         "Anti-Komintern Paktı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Almanya ve Japonya Arasında Anti-Komintern Paktı İmzalandı",
+      "ozet": "Almanya ve Japonya, 25 Kasım 1936 tarihinde Berlin'de bir araya gelerek Anti-Komintern Paktı'nı imzaladı. Bu anlaşma, her iki ülkenin de Sovyetler Birliği merkezli Komünist Enternasyonal'in (Komintern) faaliyetlerine karşı ortak bir duruş sergileme arzusunu temsil ediyordu. Taraflar, Bolşevik ideolojinin yayılmasını kendi ulusal güvenlikleri ve dünya barışı için bir tehdit olarak tanımlayarak, bu tehdide karşı iş birliği yapma konusunda mutabık kaldılar.\n\nBu pakt, İkinci Dünya Savaşı öncesinde şekillenen uluslararası bloklaşmanın önemli bir aşamasını oluşturdu. Anlaşma metni, komünizmin yayılmasına karşı ortak savunma ve istihbarat paylaşımını öngörüyordu. İlerleyen yıllarda İtalya ve diğer bazı ülkelerin de katılımıyla genişleyen bu ittifak, Mihver Devletleri'nin temelini atan diplomatik adımlardan biri olarak tarihe geçti. Pakt, ideolojik bir karşı duruş gibi görünse de aslında her iki ülkenin de kendi yayılmacı politikalarını meşrulaştırmak ve Sovyetler Birliği'ni diplomatik olarak yalnızlaştırmak için kullandığı stratejik bir araçtı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_%28Bolsheviks%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_%28Bolsheviks%29.jpg",
-        "genislik": 815,
-        "yukseklik": 584,
-        "orijinalGenislik": 815,
-        "yazar": "Bilinmeyen yazar",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Anti-Comintern_Pact_signing_1936.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Anti-Comintern_Pact_signing_1936.jpg",
+        "genislik": 612,
+        "yukseklik": 391,
+        "orijinalGenislik": 612,
+        "yazar": "Unknown photographer",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_(Bolsheviks).jpg",
-        "aciklama": "The presidium of the 9th Congress of the Russian Communist Party (Bolsheviks). 1920. Sitting (from left): Abel Yenukidze, Mikhail Kalinin, Nikolai Bukharin, Mikhail Tomsky, Mikhail Lashevich, Lev Kame",
-        "konu": "Bolşevik"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Anti-Comintern_Pact_signing_1936.jpg",
+        "aciklama": "German envoy Joachim von Ribbentrop signing the Anti-Comintern Pact. Left: Japanese ambassador Kintomo Mushanokōji‎. Right: Dr. Hermann von Raumer, an assistant to Ribbentrop. In the background, from ",
+        "konu": "Anti-Komintern Paktı"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_%28Bolsheviks%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_%28Bolsheviks%29.jpg",
-          "genislik": 815,
-          "yukseklik": 584,
-          "orijinalGenislik": 815,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_(Bolsheviks).jpg",
-          "aciklama": "The presidium of the 9th Congress of the Russian Communist Party (Bolsheviks). 1920. Sitting (from left): Abel Yenukidze, Mikhail Kalinin, Nikolai Bukharin, Mikhail Tomsky, Mikhail Lashevich, Lev Kame",
-          "konu": "Bolşevik"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Anti-Comintern_Pact_signing_1936.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Anti-Comintern_Pact_signing_1936.jpg",
-          "genislik": 612,
-          "yukseklik": 391,
-          "orijinalGenislik": 612,
-          "yazar": "Unknown photographer",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Anti-Comintern_Pact_signing_1936.jpg",
-          "aciklama": "German envoy Joachim von Ribbentrop signing the Anti-Comintern Pact. Left: Japanese ambassador Kintomo Mushanokōji‎. Right: Dr. Hermann von Raumer, an assistant to Ribbentrop. In the background, from ",
-          "konu": "Anti-Komintern Paktı"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1940-agackakan-woody-knock-knock-isimli-cizgi-filmle",
@@ -446,64 +278,12 @@
         "Çan Kay Şek",
         "Kahire"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/960px-Sir_Winston_Churchill_-_19086236948.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/500px-Sir_Winston_Churchill_-_19086236948.jpg",
-        "genislik": 960,
-        "yukseklik": 1222,
-        "orijinalGenislik": 3052,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Sir_Winston_Churchill_-_19086236948.jpg",
-        "aciklama": "Karsh called this picture \"The Roaring Lion\" at the Wayback Machine",
-        "konu": "Winston Churchill"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/960px-Sir_Winston_Churchill_-_19086236948.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/500px-Sir_Winston_Churchill_-_19086236948.jpg",
-          "genislik": 960,
-          "yukseklik": 1222,
-          "orijinalGenislik": 3052,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Sir_Winston_Churchill_-_19086236948.jpg",
-          "aciklama": "Karsh called this picture \"The Roaring Lion\" at the Wayback Machine",
-          "konu": "Winston Churchill"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/960px-FDR_1944_Color_Portrait.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/500px-FDR_1944_Color_Portrait.jpg",
-          "genislik": 960,
-          "yukseklik": 1384,
-          "orijinalGenislik": 2754,
-          "yazar": "Leon Perskie",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:FDR_1944_Color_Portrait.jpg",
-          "aciklama": "Original color transparency of FDR taken at 1944 Official Campaign Portrait session by Leon A. Perskie, Hyde Park, New York, August 22, 1944. Gift of Beatrice Perskie Foxman and Dr. Stanley B. Foxman.",
-          "konu": "Franklin D. Roosevelt"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Chiang_Kai-shek%EF%BC%88%E8%94%A3%E4%B8%AD%E6%AD%A3%EF%BC%89.jpg/960px-Chiang_Kai-shek%EF%BC%88%E8%94%A3%E4%B8%AD%E6%AD%A3%EF%BC%89.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Chiang_Kai-shek%EF%BC%88%E8%94%A3%E4%B8%AD%E6%AD%A3%EF%BC%89.jpg/500px-Chiang_Kai-shek%EF%BC%88%E8%94%A3%E4%B8%AD%E6%AD%A3%EF%BC%89.jpg",
-          "genislik": 960,
-          "yukseklik": 1270,
-          "orijinalGenislik": 2517,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek%EF%BC%88%E8%94%A3%E4%B8%AD%E6%AD%A3%EF%BC%89.jpg",
-          "aciklama": "Chiang Kai-shek",
-          "konu": "Çan Kay Şek"
-        }
-      ]
+      "baslik": "Kahire Konferansı: Müttefiklerin Japonya Kararı",
+      "ozet": "II. Dünya Savaşı'nın en kritik dönemlerinden birinde, Birleşik Krallık Başbakanı Winston Churchill, Amerika Birleşik Devletleri Başkanı Franklin D. Roosevelt ve Çin Cumhuriyeti lideri Çan Kay Şek, Mısır'ın başkenti Kahire'de bir araya geldi. Tarihe Kahire Konferansı olarak geçen bu zirve, Pasifik Cephesi'ndeki stratejilerin belirlenmesi ve Japon İmparatorluğu'na karşı izlenecek ortak politikanın netleştirilmesi açısından büyük önem taşıyordu. Liderler, Japonya'nın savaşı sonlandırması için tek yolun kayıtsız şartsız teslimiyet olduğu konusunda mutabık kaldılar.\n\nBu görüşme, Müttefik Devletler'in Uzak Doğu'daki askeri hedeflerini koordine etmeleri bakımından bir dönüm noktasıydı. Konferans sonucunda yayımlanan bildiriyle, Japonya'nın Birinci Dünya Savaşı'ndan bu yana ele geçirdiği tüm toprakları geri vermesi ve işgal ettiği bölgelerden çekilmesi kararlaştırıldı. Bu kararlar, savaşın sadece Avrupa'da değil, Asya-Pasifik bölgesinde de nasıl bir nihayete ereceğinin çerçevesini çizdi. Kahire Konferansı, Müttefiklerin ortak bir iradeyle hareket ettiğini dünyaya ilan ederken, savaş sonrası kurulacak yeni dünya düzeninin temellerine dair de önemli ipuçları barındırıyordu.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1948-turkiyede-ogrenci-velilerinin-talebiyle-ilkokullara-istege-bagli",
@@ -523,10 +303,10 @@
       "konular": [
         "Kapalıçarşı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Tarihi Kapalıçarşı Yangın Sonrası Yeniden Açıldı",
+      "ozet": "İstanbul'un kalbinde yer alan ve dünyanın en eski kapalı çarşılarından biri kabul edilen Kapalıçarşı, 1954 yılında yaşanan büyük bir yangın felaketinin ardından yürütülen kapsamlı restorasyon çalışmalarının tamamlanmasıyla 25 Kasım 1955 tarihinde tekrar kapılarını ziyaretçilere açtı. Şehrin ticari ve kültürel hayatının merkez üssü olan bu tarihi yapı, yangın nedeniyle ciddi hasar görmüş ve uzun süre faaliyetlerine ara vermek zorunda kalmıştı. Yeniden açılış, hem İstanbullular hem de çarşı esnafı için büyük bir moral kaynağı oldu.\n\nKapalıçarşı, yüzyıllardır süregelen ticari geleneği ve mimari dokusuyla İstanbul'un en önemli simgelerinden biri olma özelliğini korumaktadır. Binlerce dükkâna ev sahipliği yapan bu devasa yapı, sadece bir alışveriş merkezi değil, aynı zamanda Osmanlı döneminden günümüze ulaşan bir kültür mirasıdır. 1955 yılındaki bu yeniden açılış, çarşının modern dönemde de varlığını sürdürmesi ve tarihi dokusunun korunarak gelecek nesillere aktarılması adına kritik bir dönüm noktası teşkil etmiştir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Istanbul_asv2021-11_img41_Grand_Bazaar.jpg/960px-Istanbul_asv2021-11_img41_Grand_Bazaar.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Istanbul_asv2021-11_img41_Grand_Bazaar.jpg/500px-Istanbul_asv2021-11_img41_Grand_Bazaar.jpg",
@@ -539,7 +319,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Istanbul_asv2021-11_img41_Grand_Bazaar.jpg",
         "aciklama": "Grand Bazaar in Istanbul, Turkey",
         "konu": "Kapalıçarşı"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1958-ahmet-adnan-saygunun-besteledigi-yunus-emre-oratoryosu",
@@ -552,10 +333,10 @@
         "New York",
         "Leopold Stokowski"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Yunus Emre Oratoryosu Birleşmiş Milletler'de",
+      "ozet": "Türk müziğinin en önemli isimlerinden biri olan Ahmet Adnan Saygun'un bestelediği Yunus Emre Oratoryosu, 1958 yılının Kasım ayında uluslararası bir platformda sahnelendi. Birleşmiş Milletler'in çalışma döneminin başlaması şerefine düzenlenen bu özel konserde, orkestra ve koro dünyaca ünlü şef Leopold Stokowski'nin yönetiminde performans sergiledi. Bu etkinlik, Türk klasik müziğinin ve Yunus Emre'nin evrensel mesajlarının dünya sahnesinde yankı bulması adına tarihi bir öneme sahipti.\n\nTürk Beşleri arasında yer alan Saygun, 13. yüzyılın büyük halk şairi ve mutasavvıfı Yunus Emre'nin şiirlerinden esinlenerek bestelediği bu eseriyle, Türk müziğinin çok sesli tekniklerle nasıl birleştirilebileceğini kanıtlamıştır. Eser, hem yerel kültürel değerleri taşıması hem de evrensel bir müzikal dile hitap etmesi nedeniyle Cumhuriyet dönemi Türk müziğinin en çok seslendirilen ve bilinen eserlerinden biri haline gelmiştir. New York'taki bu konser, Türk sanatının uluslararası alanda tanıtılması ve kültürel diplomasi açısından da değerli bir adım olarak kabul edilmektedir.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Karaman_Yunus_Emre_monument_4725.jpg/960px-Karaman_Yunus_Emre_monument_4725.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Karaman_Yunus_Emre_monument_4725.jpg/500px-Karaman_Yunus_Emre_monument_4725.jpg",
@@ -569,34 +350,7 @@
         "aciklama": "This is a monument to Yunus Emre, a famous poet. It is claimed his grave is in the Yunus Emre Mosque (1349). From the Enc. Britt.: Though legend obscures the facts of his life, he is known to have bee",
         "konu": "Yunus Emre"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Karaman_Yunus_Emre_monument_4725.jpg/960px-Karaman_Yunus_Emre_monument_4725.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Karaman_Yunus_Emre_monument_4725.jpg/500px-Karaman_Yunus_Emre_monument_4725.jpg",
-          "genislik": 960,
-          "yukseklik": 1443,
-          "orijinalGenislik": 2832,
-          "yazar": "Dosseman",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Karaman_Yunus_Emre_monument_4725.jpg",
-          "aciklama": "This is a monument to Yunus Emre, a famous poet. It is claimed his grave is in the Yunus Emre Mosque (1349). From the Enc. Britt.: Though legend obscures the facts of his life, he is known to have bee",
-          "konu": "Yunus Emre"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/500px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 8207,
-          "yazar": "Dllu",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg",
-          "aciklama": "View of the Empire State Building in New York City from the Top of the Rock at 30 Rockefeller Plaza during sunset. The tower was illuminated in green in honor of Climate Week NYC.[1]",
-          "konu": "New York"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1967-abd-baskani-johnsonun-kibris-ozel-temsilcisi-cyrus",
@@ -640,51 +394,24 @@
         "Biafra",
         "Vietnam"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "John Lennon'ın Protesto Amaçlı Nişan İadesi",
+      "ozet": "Dünyaca ünlü müzik grubu The Beatles'ın kurucularından John Lennon, 25 Kasım 1969 tarihinde İngiltere Kraliçesi tarafından kendisine takdim edilen Britanya İmparatorluk Nişanı'nı (MBE) iade ederek dikkat çekici bir protestoya imza attı. Lennon, bu kararıyla İngiltere'nin Biafra İç Savaşı'ndaki tutumunu ve Amerika Birleşik Devletleri'nin Vietnam Savaşı'ndaki askeri politikalarını açıkça eleştirdiğini dünyaya duyurdu. Müzikal kariyerinin zirvesinde olduğu bir dönemde gerçekleştirdiği bu eylem, sanatçının sadece bir müzisyen değil, aynı zamanda güçlü bir barış aktivisti olarak kimliğini pekiştiren önemli dönüm noktalarından biri oldu.\n\nLennon'ın bu protestosu, o dönemde küresel çapta yükselen savaş karşıtı hareketlerin ve aydınların tepkilerinin bir yansımasıydı. Sanatçı, sahip olduğu popülerliği ve geniş kitlelere ulaşma gücünü, siyasi duruşunu ifade etmek için kullanmaktan çekinmedi. Nişanı iade etmesi, devletin sunduğu onur nişanlarının siyasi bir araç olarak sorgulanmasına yol açarken, Lennon'ın ilerleyen yıllarda daha da belirginleşecek olan barış yanlısı aktivizminin de habercisi niteliğindeydi. Bu olay, sanat dünyası ile siyasetin kesiştiği noktalarda bireysel vicdanın kurumsal ödüllere karşı nasıl bir tavır alabileceğini gösteren tarihi bir örnek olarak kayıtlara geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/The_Beatles_members_at_New_York_City_in_1964.jpg/960px-The_Beatles_members_at_New_York_City_in_1964.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/The_Beatles_members_at_New_York_City_in_1964.jpg/500px-The_Beatles_members_at_New_York_City_in_1964.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/960px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/500px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg",
         "genislik": 960,
-        "yukseklik": 960,
-        "orijinalGenislik": 1110,
-        "yazar": "United Press International (UPI Telephoto) Cropping and retouching: User:Indopug and User:Misterweiss",
+        "yukseklik": 1280,
+        "orijinalGenislik": 1381,
+        "yazar": "Bob Gruen; Distributed by Capitol Records",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:The_Beatles_members_at_New_York_City_in_1964.jpg",
-        "aciklama": "Photograph of The Beatles as they arrive in New York City in 1964",
-        "konu": "Beatles"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_(color)_(cropped).jpg",
+        "aciklama": "Press photo of John Lennon dated to 1974. It was a part of a press kit themed \"Listen to This __\" to promote his album Walls and Bridges. Bottom right reads \"Apple Records by Capitol Records\". No copy",
+        "konu": "John Lennon"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/The_Beatles_members_at_New_York_City_in_1964.jpg/960px-The_Beatles_members_at_New_York_City_in_1964.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/The_Beatles_members_at_New_York_City_in_1964.jpg/500px-The_Beatles_members_at_New_York_City_in_1964.jpg",
-          "genislik": 960,
-          "yukseklik": 960,
-          "orijinalGenislik": 1110,
-          "yazar": "United Press International (UPI Telephoto) Cropping and retouching: User:Indopug and User:Misterweiss",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:The_Beatles_members_at_New_York_City_in_1964.jpg",
-          "aciklama": "Photograph of The Beatles as they arrive in New York City in 1964",
-          "konu": "Beatles"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/960px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/500px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 1381,
-          "yazar": "Bob Gruen; Distributed by Capitol Records",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_(color)_(cropped).jpg",
-          "aciklama": "Press photo of John Lennon dated to 1974. It was a part of a press kit themed \"Listen to This __\" to promote his album Walls and Bridges. Bottom right reads \"Apple Records by Capitol Records\". No copy",
-          "konu": "John Lennon"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1973-yunanistanda-yorgo-papadopulos-liderligindeki-askeri-cunta-ikinci",
@@ -695,10 +422,10 @@
         "Yorgo Papadopulos",
         "askerî darbe"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Yunanistan'da Askeri Cuntanın Sonu",
+      "ozet": "Yunanistan'da 1967 yılında gerçekleştirilen askerî darbeyle yönetimi ele geçiren Yorgo Papadopulos, 25 Kasım 1973 tarihinde kendi cunta arkadaşı Dimitrios İoannidis tarafından düzenlenen yeni bir darbe ile görevinden uzaklaştırıldı. Bu olay, Yunanistan'da yaklaşık altı yıldır süren askerî baskı rejiminin içindeki çatlakların derinleştiğini ve yönetimin el değiştirdiğini gösteren kritik bir dönüm noktası oldu.\n\nPapadopulos, 1967'deki darbenin mimarlarından biri olarak iktidara gelmiş ve ülkeyi otoriter bir şekilde yönetmişti. Ancak 1973 yılına gelindiğinde, özellikle Atina Politeknik Üniversitesi'ndeki öğrenci ayaklanmaları ve rejime karşı artan toplumsal huzursuzluk, cuntanın meşruiyetini sarsmıştı. İoannidis'in liderliğindeki bu yeni müdahale, Papadopulos'un daha ılımlı bir geçiş süreci denemelerine karşı sertlik yanlısı kanadın bir tepkisi olarak değerlendirildi. Bu darbe, Yunanistan'da demokrasinin yeniden tesis edilmesine giden sancılı sürecin son aşamalarından biri olarak tarihe geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/1967_Press_Photo_George_Papadopoulos%2C_leader_in_Greece%27s_new_government_%28cropped%29.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/1967_Press_Photo_George_Papadopoulos%2C_leader_in_Greece%27s_new_government_%28cropped%29.png",
@@ -712,34 +439,7 @@
         "aciklama": "Leader of Greece George Papadopoulos.",
         "konu": "Yorgo Papadopulos"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/1967_Press_Photo_George_Papadopoulos%2C_leader_in_Greece%27s_new_government_%28cropped%29.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/1967_Press_Photo_George_Papadopoulos%2C_leader_in_Greece%27s_new_government_%28cropped%29.png",
-          "genislik": 669,
-          "yukseklik": 998,
-          "orijinalGenislik": 669,
-          "yazar": "Associated Press",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:1967_Press_Photo_George_Papadopoulos,_leader_in_Greece%27s_new_government_(cropped).png",
-          "aciklama": "Leader of Greece George Papadopoulos.",
-          "konu": "Yorgo Papadopulos"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg/960px-Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg/500px-Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg",
-          "genislik": 960,
-          "yukseklik": 1023,
-          "orijinalGenislik": 1833,
-          "yazar": "François Bouchot",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg",
-          "aciklama": null,
-          "konu": "askerî darbe"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1975-surinam-hollandadan-bagimsizligini-kazandi",
@@ -763,51 +463,24 @@
         "Abdi İpekçi",
         "Mehmet Ali Ağca"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Mehmet Ali Ağca'nın Askeri Cezaevinden Firarı",
+      "ozet": "Milliyet gazetesi genel yayın yönetmeni Abdi İpekçi'nin 1 Şubat 1979 tarihinde uğradığı suikast sonucu hayatını kaybetmesinin ardından, olayın faili olarak yakalanan Mehmet Ali Ağca, 25 Kasım 1979'da tutuklu bulunduğu Kartal-Maltepe Askeri Cezaevi'nden kaçmayı başardı. Türkiye'nin siyasi açıdan oldukça çalkantılı olduğu bir dönemde gerçekleşen bu firar, kamuoyunda büyük yankı uyandırdı ve güvenlik zafiyeti tartışmalarını beraberinde getirdi. Ağca'nın yüksek güvenlikli bir askeri tesisten kaçabilmesi, dönemin siyasi atmosferi ve devlet içindeki yapılanmalarla ilgili çeşitli iddiaların da merkezine yerleşti.\n\nCezaevinden kaçtıktan sonra izini kaybettiren Ağca, kısa süre sonra yurt dışına çıkarak uluslararası çapta ses getirecek eylemlerine devam etti. 1981 yılında Vatikan'da Papa II. Ioannes Paulus'a yönelik gerçekleştirdiği suikast girişimi, Ağca'nın isminin dünya genelinde tanınmasına neden oldu. Yıllar süren hapis hayatının ardından Türkiye'ye iade edilen ve cezasını tamamlayarak tahliye edilen Ağca'nın firar olayı, Türkiye'nin yakın siyasi tarihinin en çok tartışılan ve gizemini koruyan başlıklarından biri olarak hafızalara kazındı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Abdi_%C4%B0pek%C3%A7i_An%C4%B1t%C4%B1_%282%29.JPG",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Abdi_%C4%B0pek%C3%A7i_An%C4%B1t%C4%B1_%282%29.JPG",
-        "genislik": 768,
-        "yukseklik": 1024,
-        "orijinalGenislik": 768,
-        "yazar": "Lambiam",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Abdi_%C4%B0pek%C3%A7i_An%C4%B1t%C4%B1_(2).JPG",
-        "aciklama": "Memorial sculpture for Abdi İpekçi on Abdi İpekçi Caddesi, İstanbul by sculptor Gürdal Duyar",
-        "konu": "Abdi İpekçi"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mehmet_Ali_A%C4%9Fca_01.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mehmet_Ali_A%C4%9Fca_01.png",
+        "genislik": 596,
+        "yukseklik": 661,
+        "orijinalGenislik": 596,
+        "yazar": "evrensel",
+        "lisans": "CC BY 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mehmet_Ali_A%C4%9Fca_01.png",
+        "aciklama": "Mehmet Ali Ağca (b. 1958), a Turkish terrorist & hitman.",
+        "konu": "Mehmet Ali Ağca"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Abdi_%C4%B0pek%C3%A7i_An%C4%B1t%C4%B1_%282%29.JPG",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Abdi_%C4%B0pek%C3%A7i_An%C4%B1t%C4%B1_%282%29.JPG",
-          "genislik": 768,
-          "yukseklik": 1024,
-          "orijinalGenislik": 768,
-          "yazar": "Lambiam",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Abdi_%C4%B0pek%C3%A7i_An%C4%B1t%C4%B1_(2).JPG",
-          "aciklama": "Memorial sculpture for Abdi İpekçi on Abdi İpekçi Caddesi, İstanbul by sculptor Gürdal Duyar",
-          "konu": "Abdi İpekçi"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mehmet_Ali_A%C4%9Fca_01.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mehmet_Ali_A%C4%9Fca_01.png",
-          "genislik": 596,
-          "yukseklik": 661,
-          "orijinalGenislik": 596,
-          "yazar": "evrensel",
-          "lisans": "CC BY 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mehmet_Ali_A%C4%9Fca_01.png",
-          "aciklama": "Mehmet Ali Ağca (b. 1958), a Turkish terrorist & hitman.",
-          "konu": "Mehmet Ali Ağca"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1998-55-hukumet-gensoru-ile-dusuruldu-devlet-bakani",
@@ -820,10 +493,10 @@
         "Mesut Yılmaz",
         "Süleyman Demirel"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Mesut Yılmaz Hükümeti Gensoru ile Düştü",
+      "ozet": "Anavatan Partisi, Demokratik Sol Parti ve Demokrat Türkiye Partisi ortaklığıyla kurulan 55. Türkiye Hükümeti, 25 Kasım 1998 tarihinde parlamentoda kabul edilen gensoru önergesiyle görevinden ayrıldı. Başbakan Mesut Yılmaz, bu gelişmenin ardından istifasını Cumhurbaşkanı Süleyman Demirel'e sundu. Bu süreç, koalisyon ortakları arasındaki siyasi dengelerin değiştiği ve hükûmetin meclis desteğini kaybettiği kritik bir döneme işaret ediyordu. Gensoru mekanizması, parlamentonun yürütme üzerindeki denetim yetkisinin en güçlü araçlarından biri olarak, hükûmetin güven tazeleme sürecini doğrudan etkiledi. Oylama sonucunda hükûmetin düşmesiyle birlikte, Devlet Bakanı Güneş Taner'in de bakanlık görevi sona erdi. Bu olay, Türkiye'nin siyasi tarihinde koalisyon hükûmetlerinin parlamenter denetim karşısındaki kırılganlığını gösteren önemli örneklerden biri olarak kayıtlara geçti. İstifanın ardından Türkiye, yeni bir hükûmet arayışına girerek siyasi belirsizliğin yaşandığı bir sürece adım attı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mesut_Yilmaz_as_Turkish_Prime_Minister.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mesut_Yilmaz_as_Turkish_Prime_Minister.jpg",
@@ -837,34 +510,7 @@
         "aciklama": "Mesut Yilmaz, Turkish Prime Minister, met Jacques Santer, President of the EC. During the discussions both sides have had an exchange of views on issues regarding financial cooperation and support bet",
         "konu": "55. Hükümet"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mesut_Yilmaz_as_Turkish_Prime_Minister.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mesut_Yilmaz_as_Turkish_Prime_Minister.jpg",
-          "genislik": 479,
-          "yukseklik": 644,
-          "orijinalGenislik": 479,
-          "yazar": "European Communities",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mesut_Yilmaz_as_Turkish_Prime_Minister.jpg",
-          "aciklama": "Mesut Yilmaz, Turkish Prime Minister, met Jacques Santer, President of the EC. During the discussions both sides have had an exchange of views on issues regarding financial cooperation and support bet",
-          "konu": "55. Hükümet"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg",
-          "genislik": 480,
-          "yukseklik": 636,
-          "orijinalGenislik": 480,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Suleyman_Demirel_1998.jpg",
-          "aciklama": "Turkish President Süleyman Demirel in Ankara on November 6, 1998, during a visit of US Secretary of Defense William Cohen.",
-          "konu": "Süleyman Demirel"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1999-yargitay-9-ceza-dairesi-pkk-lideri-abdullah",
@@ -875,51 +521,24 @@
         "PKK",
         "Abdullah Öcalan"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Abdullah Öcalan Hakkındaki Ölüm Cezası Onandı",
+      "ozet": "Türkiye'nin yakın siyasi tarihinde önemli bir dönüm noktası olan bu gelişme, Yargıtay 9. Ceza Dairesi'nin Abdullah Öcalan hakkındaki idam kararını hukuken kesinleştirmesiyle gerçekleşti. 1999 yılının Şubat ayında yakalanarak Türkiye'ye getirilen ve ardından yargılanan PKK kurucusu Öcalan, Ankara Devlet Güvenlik Mahkemesi tarafından vatana ihanet ve silahlı örgüt kurup yönetmek suçlarından ölüm cezasına çarptırılmıştı. Yargıtay'ın bu kararı onaması, yargı sürecinin en üst aşamalarından birinin tamamlandığını gösteriyordu. Karar, Türkiye'nin terörle mücadelesinde hukuki bir süreç olarak kayıtlara geçti. Öcalan'ın liderliğindeki örgütün faaliyetleri, on yıllar boyunca Türkiye'nin güvenlik gündeminin en önemli maddelerinden biri olmuştu. Yargıtay'ın onama kararı, kamuoyunda geniş yankı uyandırırken, Türkiye'nin o dönemdeki hukuk sisteminin ve terörle mücadele politikalarının bir yansıması olarak değerlendirildi. Bu süreç, Türkiye'nin Avrupa Birliği uyum yasaları çerçevesinde idam cezasını kaldırmasına giden yolda da önemli bir tartışma konusu oluşturdu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Court_of_Cassation_in_Ankara.jpg/960px-Court_of_Cassation_in_Ankara.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Court_of_Cassation_in_Ankara.jpg/500px-Court_of_Cassation_in_Ankara.jpg",
-        "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 4032,
-        "yazar": "Metuboy",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Court_of_Cassation_in_Ankara.jpg",
-        "aciklama": "Court of Cassation in Ankara",
-        "konu": "Yargıtay (Türkiye)"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Abdullah_%C3%96calan.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Abdullah_%C3%96calan.png",
+        "genislik": 469,
+        "yukseklik": 637,
+        "orijinalGenislik": 469,
+        "yazar": "Halil Uysal",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Abdullah_%C3%96calan.png",
+        "aciklama": "Abdullah Öcalan, founder of the PKK.",
+        "konu": "Abdullah Öcalan"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Court_of_Cassation_in_Ankara.jpg/960px-Court_of_Cassation_in_Ankara.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Court_of_Cassation_in_Ankara.jpg/500px-Court_of_Cassation_in_Ankara.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 4032,
-          "yazar": "Metuboy",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Court_of_Cassation_in_Ankara.jpg",
-          "aciklama": "Court of Cassation in Ankara",
-          "konu": "Yargıtay (Türkiye)"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Abdullah_%C3%96calan.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Abdullah_%C3%96calan.png",
-          "genislik": 469,
-          "yukseklik": 637,
-          "orijinalGenislik": 469,
-          "yazar": "Halil Uysal",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Abdullah_%C3%96calan.png",
-          "aciklama": "Abdullah Öcalan, founder of the PKK.",
-          "konu": "Abdullah Öcalan"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "2000-azerbaycanin-baskenti-bakude-richter-olcegine-gore-7",
@@ -931,51 +550,12 @@
         "Richter ölçeği",
         "2000 Bakü Depremi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Baku_Montage.jpg/960px-Baku_Montage.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Baku_Montage.jpg/500px-Baku_Montage.jpg",
-        "genislik": 960,
-        "yukseklik": 1317,
-        "orijinalGenislik": 1948,
-        "yazar": "See above. Compilation by Interfase",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Baku_Montage.jpg",
-        "aciklama": "Montage of pictures of Baku used for the specific article. Composition of these pictures:",
-        "konu": "Bakü"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Baku_Montage.jpg/960px-Baku_Montage.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Baku_Montage.jpg/500px-Baku_Montage.jpg",
-          "genislik": 960,
-          "yukseklik": 1317,
-          "orijinalGenislik": 1948,
-          "yazar": "See above. Compilation by Interfase",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Baku_Montage.jpg",
-          "aciklama": "Montage of pictures of Baku used for the specific article. Composition of these pictures:",
-          "konu": "Bakü"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Reliefkarte_Aserbaidschan_2023.png/960px-Reliefkarte_Aserbaidschan_2023.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Reliefkarte_Aserbaidschan_2023.png/500px-Reliefkarte_Aserbaidschan_2023.png",
-          "genislik": 960,
-          "yukseklik": 731,
-          "orijinalGenislik": 2784,
-          "yazar": "Tschubby",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Reliefkarte_Aserbaidschan_2023.png",
-          "aciklama": "Reliefkarte Aserbaidschan",
-          "konu": "2000 Bakü Depremi"
-        }
-      ]
+      "baslik": "Bakü'yü Sarsan Yıkıcı Deprem",
+      "ozet": "Azerbaycan'ın başkenti Bakü, 25 Kasım 2000 tarihinde Richter ölçeğine göre 7 büyüklüğünde şiddetli bir depremle sarsıldı. Hazar Denizi kıyısında yer alan ve ülkenin en önemli sanayi, ticaret ve kültür merkezi olan şehirde yaşanan bu doğal afet, bölge halkı üzerinde büyük bir endişeye yol açtı. Deprem sonucunda 26 kişi yaşamını yitirirken, şehir genelinde ciddi bir panik havası oluştu.\n\nSismolojik açıdan önemli bir büyüklüğe sahip olan bu sarsıntı, Bakü'nün altyapısı ve yapı stoğu üzerinde de etkili oldu. O dönemde ekonomik kalkınma sürecine giren ve hızla modernleşmeye başlayan şehir, bu felaketle birlikte sismik risklerin yönetimi konusunda zorlu bir sınav verdi. Deprem, bölgedeki yapıların dayanıklılığı ve şehir planlamasının önemi üzerine tartışmaları beraberinde getirirken, Azerbaycan halkı için unutulmaz bir acı olarak tarihe geçti.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "2001-turkiyenin-ilk-ve-tek-yahudi-muzesi-olan",
@@ -1001,64 +581,24 @@
         "Endeavour Uzay Mekiği",
         "Uluslararası Uzay İstasyonu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Endeavour Uzay Mekiği'nin Uluslararası Uzay İstasyonu Görevi",
+      "ozet": "Endeavour uzay mekiği, 2002 yılının Kasım ayında gerçekleştirdiği başarılı bir görevle Uluslararası Uzay İstasyonu'na (ISS) kenetlendi. Bu görev kapsamında, istasyonda görev yapacak olan bir Amerikalı ve iki Rus astronot güvenli bir şekilde yörüngedeki yerlerine ulaştırıldı. Söz konusu uçuş, istasyonun operasyonel sürekliliğini sağlamak ve uluslararası iş birliğini pekiştirmek adına kritik bir adım olarak kayıtlara geçti.\n\nUluslararası Uzay İstasyonu, 1998 yılından bu yana farklı ülkelerin uzay ajanslarının ortak çalışmasıyla geliştirilen, insanlığın uzaydaki en büyük ve en uzun ömürlü yaşam alanı olma özelliğini taşımaktadır. Endeavour ise Challenger kazasının ardından inşa edilen ve ISS'ye ilk kez giden mekik olma unvanına sahip, uzay keşif tarihinde önemli bir yere sahip olan bir araçtır. Bu tür görevler, düşük yer çekimi ortamında bilimsel deneylerin yürütülmesine olanak tanırken, aynı zamanda farklı ulusların astronotlarının bir arada çalışarak uzay teknolojilerini geliştirmelerine imkan sağlamaktadır.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Soyuz_TMA-7_spacecraft2edit1.jpg/960px-Soyuz_TMA-7_spacecraft2edit1.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Soyuz_TMA-7_spacecraft2edit1.jpg/500px-Soyuz_TMA-7_spacecraft2edit1.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Endeavour_on_the_launch_pad_prior_to_STS-113%2C_Nov_22%2C_2002.jpg/960px-Endeavour_on_the_launch_pad_prior_to_STS-113%2C_Nov_22%2C_2002.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Endeavour_on_the_launch_pad_prior_to_STS-113%2C_Nov_22%2C_2002.jpg/500px-Endeavour_on_the_launch_pad_prior_to_STS-113%2C_Nov_22%2C_2002.jpg",
         "genislik": 960,
-        "yukseklik": 636,
-        "orijinalGenislik": 2274,
-        "yazar": "The original uploader was Thegreenj at English Wikipedia.",
+        "yukseklik": 1471,
+        "orijinalGenislik": 1958,
+        "yazar": "Scott Andrews, NASA",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Soyuz_TMA-7_spacecraft2edit1.jpg",
-        "aciklama": "Soyuz programı kapsamında 1 Ekim 2005'te fırlatılan ve 8 Nisan 2006'da görevini tamamlayan Soyuz TMA-7.",
-        "konu": "Uzay mekiği"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Endeavour_on_the_launch_pad_prior_to_STS-113,_Nov_22,_2002.jpg",
+        "aciklama": "KENNEDY SPACE CENTER, FLA. - All is quiet on Launch Pad 39A where Space Shuttle Endeavour sits prior to launch on mission STS-113 to the International Space Station.",
+        "konu": "Endeavour Uzay Mekiği"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Soyuz_TMA-7_spacecraft2edit1.jpg/960px-Soyuz_TMA-7_spacecraft2edit1.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Soyuz_TMA-7_spacecraft2edit1.jpg/500px-Soyuz_TMA-7_spacecraft2edit1.jpg",
-          "genislik": 960,
-          "yukseklik": 636,
-          "orijinalGenislik": 2274,
-          "yazar": "The original uploader was Thegreenj at English Wikipedia.",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Soyuz_TMA-7_spacecraft2edit1.jpg",
-          "aciklama": "Soyuz programı kapsamında 1 Ekim 2005'te fırlatılan ve 8 Nisan 2006'da görevini tamamlayan Soyuz TMA-7.",
-          "konu": "Uzay mekiği"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Endeavour_on_the_launch_pad_prior_to_STS-113%2C_Nov_22%2C_2002.jpg/960px-Endeavour_on_the_launch_pad_prior_to_STS-113%2C_Nov_22%2C_2002.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Endeavour_on_the_launch_pad_prior_to_STS-113%2C_Nov_22%2C_2002.jpg/500px-Endeavour_on_the_launch_pad_prior_to_STS-113%2C_Nov_22%2C_2002.jpg",
-          "genislik": 960,
-          "yukseklik": 1471,
-          "orijinalGenislik": 1958,
-          "yazar": "Scott Andrews, NASA",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Endeavour_on_the_launch_pad_prior_to_STS-113,_Nov_22,_2002.jpg",
-          "aciklama": "KENNEDY SPACE CENTER, FLA. - All is quiet on Launch Pad 39A where Space Shuttle Endeavour sits prior to launch on mission STS-113 to the International Space Station.",
-          "konu": "Endeavour Uzay Mekiği"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/The_station_pictured_from_the_SpaceX_Crew_Dragon_1.jpg/960px-The_station_pictured_from_the_SpaceX_Crew_Dragon_1.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/The_station_pictured_from_the_SpaceX_Crew_Dragon_1.jpg/500px-The_station_pictured_from_the_SpaceX_Crew_Dragon_1.jpg",
-          "genislik": 960,
-          "yukseklik": 587,
-          "orijinalGenislik": 5150,
-          "yazar": "NASA",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:The_station_pictured_from_the_SpaceX_Crew_Dragon_1.jpg",
-          "aciklama": "The station pictured from the SpaceX Crew Dragon jsc2021e064215_alt (Dec. 8, 2021) --- This mosaic depicts the International Space Station pictured from the SpaceX Crew Dragon Endeavour during a fly a",
-          "konu": "Uluslararası Uzay İstasyonu"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "2009-siddetli-yagmurun-yol-actigi-sel-suudi-arabistanin",
@@ -1069,23 +609,12 @@
         "Suudi Arabistan",
         "Cidde"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9_%D9%81%D9%8A_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D8%AF%D8%A9_%D8%BA%D8%B1%D8%A8_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9_%282025%29_%28cropped%29.jpg/960px-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9_%D9%81%D9%8A_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D8%AF%D8%A9_%D8%BA%D8%B1%D8%A8_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9_%282025%29_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9_%D9%81%D9%8A_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D8%AF%D8%A9_%D8%BA%D8%B1%D8%A8_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9_%282025%29_%28cropped%29.jpg/500px-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9_%D9%81%D9%8A_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D8%AF%D8%A9_%D8%BA%D8%B1%D8%A8_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9_%282025%29_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 960,
-        "orijinalGenislik": 5319,
-        "yazar": "Saudi Press Agency (SPA)",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9_%D9%81%D9%8A_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D8%AF%D8%A9_%D8%BA%D8%B1%D8%A8_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9_(2025)_(cropped).jpg",
-        "aciklama": "الواجهة البحرية في مدينة جدة غرب السعودية، 2025.",
-        "konu": "Cidde"
-      }
+      "baslik": "Cidde'de Yıkıcı Sel Felaketi",
+      "ozet": "Suudi Arabistan'ın Kızıldeniz kıyısındaki önemli ticaret ve hac merkezi Cidde, 25 Kasım 2009 tarihinde bölgede nadir görülen şiddetli yağışların ardından büyük bir sel felaketiyle sarsıldı. Sabah saatlerinde başlayan ve kısa sürede etkisini artıran yağışlar, şehrin altyapısının yetersiz kalması nedeniyle ciddi bir yıkıma yol açtı. Felaket sonucunda 122 kişi yaşamını yitirirken, yüzlerce kişi de kayboldu. Şehrin ana yolları bir metreye varan su seviyeleriyle kaplanırken, binlerce araç sular altında kalarak kullanılamaz hale geldi.\n\nBu olay, Cidde'nin şehir planlaması ve altyapı kapasitesi üzerine yoğun tartışmaları beraberinde getirdi. Özellikle hızlı kentleşme ve drenaj sistemlerinin yetersizliği, felaketin boyutunu artıran temel faktörler olarak öne çıktı. O dönemde yapılan resmi açıklamalar, maddi hasarın yüz milyonlarca doları bulduğunu ortaya koydu. Cidde'nin hem bir ticaret merkezi hem de Mekke'ye açılan ana kapı olması, yaşanan bu trajedinin etkilerinin hem yerel hem de uluslararası düzeyde geniş yankı bulmasına neden oldu.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     }
   ],
   "dogumlar": [
