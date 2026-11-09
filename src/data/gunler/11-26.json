@@ -9,10 +9,10 @@
       "konular": [
         "I. Süleyman"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Kanuni Sultan Süleyman'ın Halep'e Girişi",
+      "ozet": "Kanuni Sultan Süleyman, Safevi Devleti üzerine düzenlediği ikinci büyük sefer olan İran seferi kapsamında 1548 yılının Kasım ayında Halep'e ulaştı. Osmanlı ordusunun bölgeye girişi, imparatorluğun doğu sınırlarını güvence altına alma ve Safevi tehdidini bertaraf etme stratejisinin bir parçasıydı. Halep, o dönemde hem stratejik konumu hem de ticaret yolları üzerindeki hakimiyeti nedeniyle Osmanlı askeri lojistiği için kritik bir merkez görevi görüyordu.\n\nBu sefer, Kanuni Sultan Süleyman'ın uzun saltanatı boyunca gerçekleştirdiği çok sayıdaki askeri harekatın önemli bir halkasını oluşturur. Padişahın bizzat komuta ettiği ordu, Halep'te kışlayarak hem bölgedeki otoritesini pekiştirdi hem de bir sonraki bahar döneminde gerçekleşecek olan askeri hamleler için hazırlıklarını tamamladı. Halep'in Osmanlı kontrolünde olması, imparatorluğun doğu topraklarındaki hakimiyetini sağlamlaştırmış ve bölgedeki siyasi dengeleri Osmanlı lehine değiştirmiştir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/960px-EmperorSuleiman.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/500px-EmperorSuleiman.jpg",
@@ -25,7 +25,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:EmperorSuleiman.jpg",
         "aciklama": "Delle tre versioni del ritratto di Solimano, ricordate dalle fonti come «di mano di Tiziano», ne sono giunte fino a noi solo due, iconograficamente diverse tra loro, ma entrambe riferibili alla botteg",
         "konu": "I. Süleyman"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1812-i-napolyon-komutasindaki-fransiz-ordusu-buyuk-kayba",
@@ -36,10 +37,10 @@
         "Fransa",
         "Rusya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Napolyon'un Rusya Seferi'nde Büyük Geri Çekiliş",
+      "ozet": "Napolyon Bonapart'ın Avrupa'ya hükmetme hedefiyle başlattığı Rusya seferi, 1812 yılının sonlarına doğru büyük bir askeri felakete dönüştü. Berezina Nehri'ni geçmeye çalışan Fransız ordusu, Rus birliklerinin baskısı ve dondurucu kış koşulları altında ağır kayıplar vererek geri çekilme sürecini hızlandırdı. Bu kritik aşama, Napolyon'un yenilmezlik imajının sarsıldığı ve imparatorluğunun çöküş sürecinin başladığı dönüm noktalarından biri olarak kabul edilir. \n\nSeferin başarısızlıkla sonuçlanmasının temelinde, Rusya'nın uyguladığı yakıp yıkma taktiği ve lojistik yetersizlikler yatmaktaydı. Moskova'ya kadar ilerleyen ancak şehirde aradığı teslimiyeti bulamayan Fransız ordusu, kışın gelmesiyle birlikte açlık, hastalık ve soğukla mücadele etmek zorunda kaldı. Rusya topraklarından ayrılmak zorunda kalan ordu, geride binlerce asker ve büyük bir askeri güç bıraktı. Bu olay, Napolyon'un Avrupa'daki hakimiyetinin zayıflamasına ve kısa süre sonra gerçekleşecek olan nihai yenilgisine giden yolu açan en önemli askeri başarısızlıklardan biri oldu.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/960px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/500px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
@@ -52,7 +53,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
         "aciklama": null,
         "konu": "I. Napolyon"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1842-notre-dame-universitesi-indiana-abd-kuruldu",
@@ -77,51 +79,24 @@
         "Lewis Carroll",
         "Alice Harikalar Diyarında"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Dünya Çocuk Edebiyatının Klasiği Alice Harikalar Diyarında Yayımlandı",
+      "ozet": "İngiliz yazar ve matematikçi Charles Lutwidge Dodgson'ın, Lewis Carroll mahlasıyla kaleme aldığı Alice Harikalar Diyarında, 1865 yılında okuyucuyla buluştu. Eser, Alice adındaki küçük bir kızın bir tavşan deliğinden geçerek girdiği, mantık kurallarının dışına çıkan fantastik bir dünyada yaşadığı maceraları konu almaktadır. Kitap, yayımlandığı günden bu yana çocuk edebiyatının en önemli başyapıtlarından biri olarak kabul edilmiştir.\n\nCarroll'ın kelime oyunları, mantık yürütme biçimleri ve absürt kurgu yeteneğiyle harmanladığı bu eser, sadece çocuklar için değil, yetişkinler için de derin anlamlar taşıyan bir klasik haline geldi. Yazarın matematikçi kimliğinin de etkisiyle kurguladığı bu sıra dışı dünya, edebiyat tarihinde fantezi türünün gelişimine büyük katkı sağladı. Günümüzde dünyanın dört bir yanında üzerine araştırmalar yapılan ve farklı dillere çevrilen roman, popüler kültürün en ikonik eserlerinden biri olma özelliğini korumaktadır.",
+      "kategori": "Edebiyat",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/LewisCarrollSelfPhoto.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/LewisCarrollSelfPhoto.jpg",
-        "genislik": 957,
-        "yukseklik": 1353,
-        "orijinalGenislik": 957,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Alice%27s_Adventures_in_Wonderland_cover_%281865%29.jpg/960px-Alice%27s_Adventures_in_Wonderland_cover_%281865%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Alice%27s_Adventures_in_Wonderland_cover_%281865%29.jpg/500px-Alice%27s_Adventures_in_Wonderland_cover_%281865%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1486,
+        "orijinalGenislik": 1500,
         "yazar": "Lewis Carroll",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:LewisCarrollSelfPhoto.jpg",
-        "aciklama": "Portrait of Lewis Carroll: This was first published in Carroll's biography by his nephew, Stuart Dodgson Collingwood: Collingwood, Stuart Dodgson (1898) The Life and Letters of Lewis Carroll, London: ",
-        "konu": "Lewis Carroll"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Alice%27s_Adventures_in_Wonderland_cover_(1865).jpg",
+        "aciklama": "The cover of the 1865 edition of Alice's Adventures in Wonderland.",
+        "konu": "Alice Harikalar Diyarında"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/LewisCarrollSelfPhoto.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/LewisCarrollSelfPhoto.jpg",
-          "genislik": 957,
-          "yukseklik": 1353,
-          "orijinalGenislik": 957,
-          "yazar": "Lewis Carroll",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:LewisCarrollSelfPhoto.jpg",
-          "aciklama": "Portrait of Lewis Carroll: This was first published in Carroll's biography by his nephew, Stuart Dodgson Collingwood: Collingwood, Stuart Dodgson (1898) The Life and Letters of Lewis Carroll, London: ",
-          "konu": "Lewis Carroll"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Alice%27s_Adventures_in_Wonderland_cover_%281865%29.jpg/960px-Alice%27s_Adventures_in_Wonderland_cover_%281865%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Alice%27s_Adventures_in_Wonderland_cover_%281865%29.jpg/500px-Alice%27s_Adventures_in_Wonderland_cover_%281865%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1486,
-          "orijinalGenislik": 1500,
-          "yazar": "Lewis Carroll",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Alice%27s_Adventures_in_Wonderland_cover_(1865).jpg",
-          "aciklama": "The cover of the 1865 edition of Alice's Adventures in Wonderland.",
-          "konu": "Alice Harikalar Diyarında"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1922-gelibolunun-kurtulusu",
@@ -130,23 +105,12 @@
       "konular": [
         "Gelibolu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Gelibolu_An%C4%B1t%C4%B1.jpg/960px-Gelibolu_An%C4%B1t%C4%B1.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Gelibolu_An%C4%B1t%C4%B1.jpg/500px-Gelibolu_An%C4%B1t%C4%B1.jpg",
-        "genislik": 960,
-        "yukseklik": 1440,
-        "orijinalGenislik": 2000,
-        "yazar": "Şenol zümrüt",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Gelibolu_An%C4%B1t%C4%B1.jpg",
-        "aciklama": "Gallipoli National Park",
-        "konu": "Gelibolu"
-      }
+      "baslik": "Gelibolu'nun Düşman İşgalinden Kurtuluşu",
+      "ozet": "Türk Kurtuluş Savaşı'nın başarıyla sonuçlanmasının ardından, stratejik öneme sahip olan Gelibolu yarımadası 26 Kasım 1922 tarihinde işgal kuvvetlerinden arındırıldı. Mudanya Ateşkes Antlaşması ile belirlenen süreç dahilinde, bölgenin kontrolü Türk yönetimine devredildi ve böylece Gelibolu'da uzun süren işgal dönemi resmen sona erdi. Bu tarih, bölge halkı için bağımsızlığın yeniden kazanıldığı ve egemenliğin tesis edildiği önemli bir dönüm noktası olarak kabul edilmektedir. Gelibolu'nun kurtuluşu, aynı zamanda Trakya'nın bütünüyle düşman işgalinden temizlenmesi sürecinin bir parçası olarak büyük bir stratejik değer taşımaktadır. Çanakkale Boğazı'nın Avrupa yakasında yer alan ve tarih boyunca pek çok kritik olaya ev sahipliği yapmış olan bu ilçe, kurtuluşun ardından Türkiye Cumhuriyeti'nin sınırları içerisinde güvenli bir şekilde varlığını sürdürmeye devam etmiştir. Bugün Gelibolu, hem tarihi mirası hem de coğrafi konumuyla Türkiye'nin önemli yerleşim merkezlerinden biri olma özelliğini korumaktadır.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1922-howard-carter-ve-george-herbert-de-carnarvon",
@@ -159,51 +123,24 @@
         "Firavun",
         "Tutankhamun"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Tutankhamun'un Mezarı Üç Bin Yıl Sonra Açıldı",
+      "ozet": "Arkeolog Howard Carter ve Lord Carnarvon, uzun süren kazı çalışmalarının ardından 26 Kasım 1922 tarihinde Mısır'ın Luksor kentindeki Krallar Vadisi'nde Tutankhamun'un mezarına ulaşmayı başardılar. Mezara giren ikili, binlerce yıldır dokunulmamış olan hazinelerle ve firavunun mumyasıyla karşılaştı. Bu keşif, arkeoloji dünyasında yüzyılın en önemli olaylarından biri olarak kabul edildi ve Antik Mısır tarihine dair eşsiz bilgiler sundu. Mezarda bulunan altın maske ve diğer paha biçilemez eserler, dünya genelinde büyük bir ilgi uyandırdı. Keşif süreci, sadece bilimsel bir başarı olarak değil, aynı zamanda popüler kültürde de derin izler bıraktı. Özellikle mezarın açılmasından kısa bir süre sonra Lord Carnarvon'un hayatını kaybetmesi, kamuoyunda firavunun laneti efsanesinin doğmasına ve bu olayın gizemli bir atmosferle anılmasına neden oldu. Bugün Tutankhamun'un mezarı, Mısırbilim çalışmalarının en önemli mihenk taşlarından biri olarak kabul edilmektedir.",
+      "kategori": "Keşif",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/George_Herbert%2C_5th_Earl_of_Carnarvon%2C_reading.jpg/960px-George_Herbert%2C_5th_Earl_of_Carnarvon%2C_reading.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/George_Herbert%2C_5th_Earl_of_Carnarvon%2C_reading.jpg/500px-George_Herbert%2C_5th_Earl_of_Carnarvon%2C_reading.jpg",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 4086,
-        "yazar": "Harry Burton",
-        "lisans": "Public domain",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tutmask.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tutmask.jpg",
+        "genislik": 500,
+        "yukseklik": 667,
+        "orijinalGenislik": 500,
+        "yazar": "Jon Bodsworth",
+        "lisans": "Copyrighted free use",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:George_Herbert,_5th_Earl_of_Carnarvon,_reading.jpg",
-        "aciklama": "George Herbert, 5th Earl of Carnarvon, at Howard Carter’s home on the Theban west bank, according to Griffith Institute, Oxford",
-        "konu": "George Herbert de Carnarvon"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Tutmask.jpg",
+        "aciklama": "Golden funeral mask of king Tutankhamun",
+        "konu": "Tutankhamun"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/George_Herbert%2C_5th_Earl_of_Carnarvon%2C_reading.jpg/960px-George_Herbert%2C_5th_Earl_of_Carnarvon%2C_reading.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/George_Herbert%2C_5th_Earl_of_Carnarvon%2C_reading.jpg/500px-George_Herbert%2C_5th_Earl_of_Carnarvon%2C_reading.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 4086,
-          "yazar": "Harry Burton",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:George_Herbert,_5th_Earl_of_Carnarvon,_reading.jpg",
-          "aciklama": "George Herbert, 5th Earl of Carnarvon, at Howard Carter’s home on the Theban west bank, according to Griffith Institute, Oxford",
-          "konu": "George Herbert de Carnarvon"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tutmask.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tutmask.jpg",
-          "genislik": 500,
-          "yukseklik": 667,
-          "orijinalGenislik": 500,
-          "yazar": "Jon Bodsworth",
-          "lisans": "Copyrighted free use",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Tutmask.jpg",
-          "aciklama": "Golden funeral mask of king Tutankhamun",
-          "konu": "Tutankhamun"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1926-turkiyenin-ilk-seker-fabrikasi-olan-alpullu-seker",
@@ -237,51 +174,12 @@
         "Afyonkarahisar",
         "Isparta"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Burgberg_Afyonkarahisar_02.jpg/960px-Burgberg_Afyonkarahisar_02.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Burgberg_Afyonkarahisar_02.jpg/500px-Burgberg_Afyonkarahisar_02.jpg",
-        "genislik": 960,
-        "yukseklik": 598,
-        "orijinalGenislik": 5180,
-        "yazar": "Ingeborg Simon",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Burgberg_Afyonkarahisar_02.jpg",
-        "aciklama": "Burgberg von Afyonkarahisar, Zentraltürkei",
-        "konu": "Afyonkarahisar"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Burgberg_Afyonkarahisar_02.jpg/960px-Burgberg_Afyonkarahisar_02.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Burgberg_Afyonkarahisar_02.jpg/500px-Burgberg_Afyonkarahisar_02.jpg",
-          "genislik": 960,
-          "yukseklik": 598,
-          "orijinalGenislik": 5180,
-          "yazar": "Ingeborg Simon",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Burgberg_Afyonkarahisar_02.jpg",
-          "aciklama": "Burgberg von Afyonkarahisar, Zentraltürkei",
-          "konu": "Afyonkarahisar"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/DaglardanIsparta.jpg/960px-DaglardanIsparta.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/DaglardanIsparta.jpg/500px-DaglardanIsparta.jpg",
-          "genislik": 960,
-          "yukseklik": 624,
-          "orijinalGenislik": 2048,
-          "yazar": "Isparta at Turkish Wikipedia",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:DaglardanIsparta.jpg",
-          "aciklama": null,
-          "konu": "Isparta"
-        }
-      ]
+      "baslik": "Afyon ve Isparta Arasında Demiryolu Hattı Açıldı",
+      "ozet": "Cumhuriyetin ilk yıllarında Türkiye genelinde başlatılan demiryolu seferberliği kapsamında, Afyonkarahisar ile Isparta arasındaki ulaşımı kolaylaştıracak olan demiryolu hattı 1935 yılının Kasım ayında tamamlanarak işletmeye açıldı. Bu hat, bölgenin ekonomik ve sosyal entegrasyonu açısından stratejik bir adım olarak değerlendirildi. O dönemde Anadolu'nun iç kesimlerini birbirine bağlayan bu tür projeler, genç Cumhuriyetin ulaşım ağını modernleştirme ve yerel üretimi pazarlara ulaştırma hedefinin bir parçasıydı.\n\nDemiryolu hattının açılması, özellikle Isparta'nın tarımsal ürünlerinin ve bölgeye özgü el sanatlarının daha geniş pazarlara taşınmasına olanak tanıdı. Afyonkarahisar'ın merkezi bir kavşak noktası olması, bu hattın önemini daha da artırdı. Ulaşım imkanlarının gelişmesiyle birlikte şehirler arasındaki ticari hareketlilik ivme kazandı ve bölge halkının ulaşım standartları önemli ölçüde iyileşti. Bu proje, Türkiye'nin demiryolu ağını genişletme vizyonunun somut bir yansıması olarak tarihteki yerini aldı.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1942-yugoslavyada-anti-fasist-halk-kurtulus-konseyi-kuruldu",
@@ -305,10 +203,10 @@
         "Stalingrad",
         "Almanya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Stalingrad'da Sovyet Karşı Taarruzu",
+      "ozet": "İkinci Dünya Savaşı'nın en kanlı ve stratejik açıdan en kritik çatışmalarından biri olan Stalingrad Muharebesi'nde, Sovyet güçleri 26 Kasım 1942 tarihinde Alman ordusuna karşı geniş çaplı bir karşı saldırı hamlesi gerçekleştirdi. Aylardır süren yoğun şehir çatışmalarının ardından gelen bu operasyon, Alman 6. Ordusu'nu kuşatma altına alarak savaşın gidişatını Sovyetler Birliği lehine değiştiren sürecin başlangıcı oldu. \n\nStalingrad, hem Volga Nehri üzerindeki konumu hem de taşıdığı sembolik değer nedeniyle her iki taraf için de hayati bir öneme sahipti. Sovyetlerin bu karşı hamlesi, Almanların doğu cephesindeki ilerleyişini durdurmakla kalmadı, aynı zamanda Nazi Almanyası'nın askeri gücünün kırılmaya başladığı bir dönüm noktası haline geldi. Bu operasyon, savaşın ilerleyen yıllarında Sovyet ordusunun Avrupa içlerine doğru yapacağı büyük ilerleyişin de habercisi olarak kabul edilmektedir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Volgograd_Russia.jpg/960px-Volgograd_Russia.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Volgograd_Russia.jpg/500px-Volgograd_Russia.jpg",
@@ -321,7 +219,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Volgograd_Russia.jpg",
         "aciklama": "Mamayev Kurgan, Volgograd, Russia",
         "konu": "Stalingrad"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1943-tosya-ve-ladikte-7-2-buyuklugundeki-depremde",
@@ -331,51 +230,12 @@
         "Tosya",
         "Ladik"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Erikbeli%27nden_Kal%C4%B1n%C3%A7am_Vadisi.jpg/960px-Erikbeli%27nden_Kal%C4%B1n%C3%A7am_Vadisi.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Erikbeli%27nden_Kal%C4%B1n%C3%A7am_Vadisi.jpg/500px-Erikbeli%27nden_Kal%C4%B1n%C3%A7am_Vadisi.jpg",
-        "genislik": 960,
-        "yukseklik": 485,
-        "orijinalGenislik": 1000,
-        "yazar": "Sbastan",
-        "lisans": "CC0",
-        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Erikbeli%27nden_Kal%C4%B1n%C3%A7am_Vadisi.jpg",
-        "aciklama": "Erikbeli Turizm Merkezi'nden Kalınçam Vadisi'nin görünümü.",
-        "konu": "Tosya"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Erikbeli%27nden_Kal%C4%B1n%C3%A7am_Vadisi.jpg/960px-Erikbeli%27nden_Kal%C4%B1n%C3%A7am_Vadisi.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Erikbeli%27nden_Kal%C4%B1n%C3%A7am_Vadisi.jpg/500px-Erikbeli%27nden_Kal%C4%B1n%C3%A7am_Vadisi.jpg",
-          "genislik": 960,
-          "yukseklik": 485,
-          "orijinalGenislik": 1000,
-          "yazar": "Sbastan",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Erikbeli%27nden_Kal%C4%B1n%C3%A7am_Vadisi.jpg",
-          "aciklama": "Erikbeli Turizm Merkezi'nden Kalınçam Vadisi'nin görünümü.",
-          "konu": "Tosya"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Ladik_tabela.jpg/960px-Ladik_tabela.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Ladik_tabela.jpg/500px-Ladik_tabela.jpg",
-          "genislik": 960,
-          "yukseklik": 1116,
-          "orijinalGenislik": 1074,
-          "yazar": "Sabri76",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ladik_tabela.jpg",
-          "aciklama": "A view from Ladik",
-          "konu": "Ladik"
-        }
-      ]
+      "baslik": "Tosya ve Ladik Depremi: 1943 Yılının Büyük Felaketi",
+      "ozet": "Türkiye'nin kuzey kesimini sarsan 1943 Tosya-Ladik depremi, bölge tarihinin en yıkıcı doğal afetlerinden biri olarak kayıtlara geçmiştir. 26 Kasım gecesi meydana gelen 7,2 büyüklüğündeki sarsıntı, Kastamonu'nun Tosya ilçesi ile Samsun'un Ladik ilçesi başta olmak üzere geniş bir coğrafyada ağır hasara yol açtı. Depremin şiddeti ve bölgenin coğrafi yapısı, yerleşim yerlerinde büyük bir yıkımın yaşanmasına neden oldu. O dönemdeki yapılaşma koşulları ve kış şartlarının etkisiyle, arama kurtarma çalışmaları oldukça zorlu geçti. Felaket sonucunda 2824 vatandaşımız hayatını kaybederken, binlerce kişi evsiz kaldı ve bölgedeki altyapı ciddi şekilde zarar gördü. Bu deprem, Türkiye'nin sismik hareketliliği ve yapı güvenliği konusundaki farkındalığın artması açısından kritik bir dönüm noktası oluşturmuştur. Kuzey Anadolu Fay Hattı üzerinde gerçekleşen bu sarsıntı, bölgenin depremselliği üzerine yapılan bilimsel çalışmaların da temelini oluşturmuştur. Yaşanan bu büyük acı, Türkiye'nin afet yönetimi ve deprem bilinci konusundaki tarihsel hafızasında derin bir iz bırakmıştır.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1950-turkiye-kore-savasina-katildi",
@@ -385,10 +245,10 @@
         "Türkiye",
         "Kore Savaşı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türkiye'nin Kore Savaşı'na Askeri Katılımı",
+      "ozet": "Türkiye, 1950 yılının Kasım ayında Kore Savaşı'na asker göndererek uluslararası bir çatışmada aktif rol üstlendi. Birleşmiş Milletler'in çağrısı üzerine bölgeye intikal eden Türk Tugayı, savaşın en kritik cephelerinde görev alarak önemli bir askeri varlık gösterdi. Bu katılım, Türkiye'nin Batı bloğu ile olan ilişkilerini güçlendirme ve dönemin küresel güvenlik mimarisinde yer alma stratejisinin bir parçası olarak değerlendirildi.\n\nKore Savaşı, Soğuk Savaş döneminin ilk büyük sıcak çatışması olma özelliğini taşımaktadır. Kuzey ve Güney Kore arasında başlayan bu gerilim, kısa sürede uluslararası güçlerin müdahalesiyle geniş bir alana yayılmıştır. Türkiye'nin bu savaşa dahil olması, hem bölgesel hem de küresel siyasetteki konumunu belirleyen önemli bir dönüm noktası olmuştur. Savaşın ardından Kore yarımadasındaki bölünmüşlük günümüze kadar devam etmiş, Türk askerinin bölgedeki fedakarlıkları ise iki ülke arasındaki tarihi dostluk bağlarının temelini oluşturmuştur.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Korean_War_Montage_2.png/960px-Korean_War_Montage_2.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Korean_War_Montage_2.png/500px-Korean_War_Montage_2.png",
@@ -401,7 +261,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Korean_War_Montage_2.png",
         "aciklama": "Montage of images from the Korean War. Clockwise from top: U.S. Marines retreating during the Battle of the Chosin Resevoir, U.N. landing at Incheon, Korean refugees in front of an American M46 Patton",
         "konu": "Kore Savaşı"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1962-amerika-birlesik-devletleri-turkiyedeki-fuze-uslerini-kaldirmaya",
@@ -437,10 +298,10 @@
       "konular": [
         "Baileys"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Dünyanın İlk Kremalı Likörü Baileys Piyasaya Çıktı",
+      "ozet": "İrlanda viskisi, taze krema ve kakao aromalarının özgün bir karışımı olan Baileys, 1974 yılının Kasım ayında ilk kez tüketicilerle buluştu. Dublin merkezli bir geliştirme ekibi tarafından tasarlanan bu içecek, kısa sürede dünya çapında popülerlik kazanarak kremalı likör kategorisinin öncüsü haline geldi. İçeriğindeki pürüzsüz doku ve tatlı aromalar, onu geleneksel sert içkilerden ayırarak geniş bir kitleye hitap etmesini sağladı.\n\nBaileys'in piyasaya sürülmesi, içki sektöründe yeni bir pazar segmentinin doğuşunu simgeledi. Her ne kadar ilk kremalı likör olup olmadığı konusunda zaman zaman tartışmalar yaşansa da, ürünün başarısı çok sayıda taklidinin üretilmesine yol açtı. Günümüzde Diageo firması bünyesinde üretilmeye devam eden marka, orijinal formülünün yanı sıra farklı aroma varyasyonlarıyla da küresel içecek pazarındaki yerini korumaktadır.",
+      "kategori": "Ekonomi",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Glass_of_Baileys.jpg/960px-Glass_of_Baileys.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Glass_of_Baileys.jpg/500px-Glass_of_Baileys.jpg",
@@ -453,7 +314,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Glass_of_Baileys.jpg",
         "aciklama": "Un bicchiere di Baileys con ghiaccio",
         "konu": "Baileys"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1983-stanislav-petrov-adli-rus-yarbay-sovyetler-birligine",
@@ -463,10 +325,10 @@
         "Stanislav Petrov",
         "Sovyetler Birliği"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Dünyayı Nükleer Bir Felaketten Kurtaran Karar",
+      "ozet": "Soğuk Savaş'ın en gergin dönemlerinden birinde, Sovyetler Birliği'nin füze erken uyarı sisteminde kritik bir hata meydana geldi. Görev başında olan Yarbay Stanislav Petrov, sistemin ABD tarafından atılan füzeleri tespit ettiğine dair uyarılar vermesi üzerine büyük bir ikilemle karşı karşıya kaldı. Askeri prosedürler gereği bu durumu üstlerine bildirmesi ve muhtemelen bir karşı saldırı başlatılması gerekiyordu. Ancak Petrov, sistemin verdiği verilerin mantıksız olduğunu ve bir bilgisayar hatası yaşandığını sezgileriyle fark etti. Kendi inisiyatifini kullanarak durumu bir sistem arızası olarak rapor etti ve böylece olası bir nükleer çatışmanın fitilini ateşlemekten kaçındı.\n\nPetrov'un bu cesur ve soğukkanlı kararı, o dönemde iki süper güç arasındaki gerilimin zirvede olduğu bir dünyada, insanlığın kaderini değiştiren bir müdahale olarak tarihe geçti. Eğer Petrov prosedürlere harfiyen uysaydı, hatalı bir veri yüzünden dünya çapında geri dönülemez bir nükleer savaş başlayabilirdi. Bu olay, teknolojik sistemlerin kusursuz olmadığını ve kritik anlarda insan muhakemesinin ne kadar hayati bir rol oynayabileceğini kanıtladı. Petrov'un bu davranışı, askerlik kariyerinin sonunu getirse de, bugün pek çok tarihçi tarafından dünyayı olası bir kıyametten kurtaran kişi olarak anılmasını sağlamıştır.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Stanislaw-jewgrafowitsch-petrow-2016.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Stanislaw-jewgrafowitsch-petrow-2016.jpg",
@@ -479,7 +341,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Stanislaw-jewgrafowitsch-petrow-2016.jpg",
         "aciklama": "Stanislaw Petrow in der Küche seiner Wohnung in Frjasino, 03.07.2016",
         "konu": "Stanislav Petrov"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1991-michael-jackson-4-profesyonel-muzik-albumu-olan",
@@ -490,10 +353,10 @@
         "Dangerous (Michael Jackson albümü)",
         "Black or White"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Popun Kralı Michael Jackson'ın Dangerous Albümü",
+      "ozet": "Pop müziğin efsanevi ismi Michael Jackson, 1991 yılının Kasım ayında yayımladığı Dangerous albümüyle müzik dünyasında yeni bir dönemin kapılarını araladı. Sanatçının kariyerindeki sekizinci stüdyo çalışması olan bu albüm, yayımlandığı ilk haftadan itibaren Amerikan müzik listelerinde zirveye yerleşerek büyük bir ticari başarıya imza attı. New jack swing türünün en çok satan albümü olma unvanını kazanan Dangerous, dünya genelinde 32 milyonu aşan satış rakamlarıyla Jackson'ın küresel etkisini bir kez daha kanıtladı.\n\nAlbümün başarısında, çıkış parçası olan Black or White'ın payı oldukça büyüktür. Şarkı, pop, rock ve hip hop ögelerini birleştiren yapısıyla dünya çapında 20 ülkede liste başı olmayı başardı. Ancak albümü asıl unutulmaz kılan, Black or White için çekilen ve dönemin görsel teknolojilerini zorlayan müzik videosuydu. Bu klip, sunduğu görsel efektler ve anlatımıyla müzik videolarının sadece bir tanıtım aracı değil, başlı başına bir sanat formu olarak kabul edilmesinde önemli bir rol oynadı. Dangerous, Jackson'ın 1970'lerden 1990'lara kadar uzanan liste başarılarını perçinleyerek onu popüler kültürün en baskın figürlerinden biri olarak konumlandırmaya devam etti.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg/960px-Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg/500px-Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg",
@@ -506,7 +369,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Michael_Jackson_1983_(3x4_cropped)_(contrast).jpg",
         "aciklama": "Michael Jackson in a press photo dated to 1983.",
         "konu": "Michael Jackson"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1993-almanya-pkkyi-teror-orgutu-ilan-ederek-butun",
@@ -529,10 +393,10 @@
       "konular": [
         "Concorde"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Havacılıkta Süpersonik Dönemin Sonu: Concorde'un Vedası",
+      "ozet": "Havacılık tarihinin en ikonik ve teknolojik açıdan en iddialı projelerinden biri olan Concorde, 2003 yılının Kasım ayında gökyüzüne veda etti. Ses hızını aşabilen nadir yolcu uçaklarından biri olarak tasarlanan Concorde, Londra ile New York arasındaki uçuş süresini yarıya indirerek havacılıkta yeni bir çağ başlatmıştı. Air France ve British Airways tarafından işletilen bu özel uçaklar, sundukları hız ve konforla uzun yıllar boyunca prestijin sembolü haline geldi.\n\nAncak yüksek işletme maliyetleri, yakıt tüketimi ve 2000 yılında yaşanan trajik kaza gibi faktörler, uçağın ticari ömrünün sonunu hazırladı. Ayrıca süpersonik uçuşların yarattığı sonik patlamalar nedeniyle birçok ülkede uçuş rotalarının kısıtlanması, uçağın ekonomik sürdürülebilirliğini zorlaştırdı. Concorde'un emekliye ayrılması, havacılık dünyasında hızın ön planda olduğu bir dönemin kapanması ve yerini daha verimli, ekonomik odaklı uçuş modellerine bırakması anlamına geliyordu. Bugün Concorde, mühendislik harikası tasarımıyla havacılık müzelerinde sergilenerek mirasını yaşatmaya devam etmektedir.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/British_Airways_Concorde_G-BOAC_03.jpg/960px-British_Airways_Concorde_G-BOAC_03.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/British_Airways_Concorde_G-BOAC_03.jpg/500px-British_Airways_Concorde_G-BOAC_03.jpg",
@@ -545,7 +409,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:British_Airways_Concorde_G-BOAC_03.jpg",
         "aciklama": "British Airways Concorde G-BOAC",
         "konu": "Concorde"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "2008-hindistanin-mumbai-sehrinde-lesker-i-tayyibe-adli-orgut",
@@ -557,51 +422,24 @@
         "Leşker-i Tayyibe",
         "2008 Mumbai saldırıları"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Mumbai'de Büyük Terör Saldırısı",
+      "ozet": "Hindistan'ın finans merkezi olan Mumbai, 26 Kasım 2008 tarihinde eş zamanlı ve koordineli bir terör saldırısı dalgasıyla sarsıldı. Leşker-i Tayyibe adlı militan örgüt tarafından gerçekleştirilen bu saldırılar, şehrin en işlek noktalarını, lüks otelleri, bir hastaneyi ve Yahudi toplumuna ait bir kültür merkezini hedef aldı. Dört gün süren çatışmalar ve rehin alma eylemleri sonucunda 164 kişi yaşamını yitirirken, 300'den fazla kişi yaralandı. Saldırganların şehre deniz yoluyla sızması ve profesyonel bir askeri disiplinle hareket etmesi, olayın vahametini artıran unsurlar arasındaydı.\n\nSaldırıların arkasındaki örgüt olan Leşker-i Tayyibe, Pakistan merkezli bir yapı olarak bilinmektedir. Olay, Hindistan ile Pakistan arasındaki diplomatik ilişkileri ciddi şekilde gerginleştirmiş ve uluslararası toplumda büyük bir infial yaratmıştır. Birleşmiş Milletler ve birçok ülke tarafından terör örgütü olarak tanınan grubun bu eylemi, Hindistan'ın güvenlik politikalarını gözden geçirmesine ve terörle mücadele stratejilerini yeniden yapılandırmasına neden olmuştur. Mumbai saldırıları, modern tarihin en kanlı şehir içi terör eylemlerinden biri olarak kayıtlara geçmiş ve bölgedeki güvenlik dengelerini derinden etkilemiştir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/%E0%A6%93%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%B0_%E0%A6%97%E0%A6%97%E0%A6%A8%E0%A6%B0%E0%A7%88%E0%A6%96%E0%A6%BF%E0%A6%95_%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF.jpg/960px-%E0%A6%93%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%B0_%E0%A6%97%E0%A6%97%E0%A6%A8%E0%A6%B0%E0%A7%88%E0%A6%96%E0%A6%BF%E0%A6%95_%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/%E0%A6%93%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%B0_%E0%A6%97%E0%A6%97%E0%A6%A8%E0%A6%B0%E0%A7%88%E0%A6%96%E0%A6%BF%E0%A6%95_%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF.jpg/500px-%E0%A6%93%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%B0_%E0%A6%97%E0%A6%97%E0%A6%A8%E0%A6%B0%E0%A7%88%E0%A6%96%E0%A6%BF%E0%A6%95_%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg/960px-2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg/500px-2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg",
         "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 4000,
-        "yazar": "আজিজ",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:%E0%A6%93%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%B0_%E0%A6%97%E0%A6%97%E0%A6%A8%E0%A6%B0%E0%A7%88%E0%A6%96%E0%A6%BF%E0%A6%95_%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF.jpg",
-        "aciklama": "View of the horizon at Orly from Lal Bahadur Shastri Park",
-        "konu": "Mumbai"
+        "yukseklik": 1280,
+        "orijinalGenislik": 1944,
+        "yazar": "Nicholas (Nichalp)",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg",
+        "aciklama": "Dome of the Taj Hotel that was set ablaze during the November 2008 Mumbai attacks",
+        "konu": "2008 Mumbai saldırıları"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/%E0%A6%93%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%B0_%E0%A6%97%E0%A6%97%E0%A6%A8%E0%A6%B0%E0%A7%88%E0%A6%96%E0%A6%BF%E0%A6%95_%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF.jpg/960px-%E0%A6%93%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%B0_%E0%A6%97%E0%A6%97%E0%A6%A8%E0%A6%B0%E0%A7%88%E0%A6%96%E0%A6%BF%E0%A6%95_%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/%E0%A6%93%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%B0_%E0%A6%97%E0%A6%97%E0%A6%A8%E0%A6%B0%E0%A7%88%E0%A6%96%E0%A6%BF%E0%A6%95_%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF.jpg/500px-%E0%A6%93%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%B0_%E0%A6%97%E0%A6%97%E0%A6%A8%E0%A6%B0%E0%A7%88%E0%A6%96%E0%A6%BF%E0%A6%95_%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 4000,
-          "yazar": "আজিজ",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:%E0%A6%93%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%B0_%E0%A6%97%E0%A6%97%E0%A6%A8%E0%A6%B0%E0%A7%88%E0%A6%96%E0%A6%BF%E0%A6%95_%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF.jpg",
-          "aciklama": "View of the horizon at Orly from Lal Bahadur Shastri Park",
-          "konu": "Mumbai"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg/960px-2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg/500px-2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 1944,
-          "yazar": "Nicholas (Nichalp)",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg",
-          "aciklama": "Dome of the Taj Hotel that was set ablaze during the November 2008 Mumbai attacks",
-          "konu": "2008 Mumbai saldırıları"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "2025-2025-washington-dc-ulusal-muhafiz-saldirisi",
