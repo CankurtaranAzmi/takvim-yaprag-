@@ -736,7 +736,7 @@
     },
     {
       "yil": 1957,
-      "metin": "Zafer Çağlayan, Türk iş insanı ve siyasetçi"
+      "metin": "Zafer Çağlayan, Türk iş adamı ve siyasetçi"
     },
     {
       "yil": 1959,
@@ -908,7 +908,7 @@
     },
     {
       "yil": 1992,
-      "metin": "Micha Hancock, Amerikalı Voleybolcu"
+      "metin": "Micha Hancock, Amerikalı voleybolcu"
     },
     {
       "yil": 1992,
@@ -1183,9 +1183,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/10_Kas%C4%B1m",
-    "revid": 38218167
+    "revid": 38545141
   },
-  "guncelleme": "2026-11-09T15:30:47.867Z",
+  "guncelleme": "2026-11-10T14:30:19.496Z",
   "haberler": [
     {
       "id": "2025-haber-2451478",
@@ -1198,15 +1198,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/zirvede-fark-1-puana-dustu-super-lig-de-sampiyonluk-oranlari-guncellendi-2451478"
       },
-      "konular": [
-        "Süper Lig"
-      ],
+      "konular": [],
       "yayin": "2025-11-10T15:38:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Süper Lig'de puan farkı azaldı ve şampiyonluk oranları yeniden belirlendi",
-      "ozet": "Trendyol Süper Lig'de on ikinci hafta karşılaşmaları tamamlandı. Ligin üst sıralarındaki puan farkının azalmasıyla birlikte takımların şampiyonluk ihtimallerine yönelik oranlarda güncellemeye gidildi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2451327",
@@ -1313,13 +1308,13 @@
       "konular": [
         "Apple",
         "ABD Adalet Bakanlığı",
-        "İstihdam"
+        "İstihdamda ayrımcılık"
       ],
       "yayin": "2023-11-10T10:45:00+03:00",
       "puan": 9,
       "durum": "yazildi",
-      "baslik": "Apple ayrımcılık iddiaları üzerine bakanlıkla uzlaşmaya gitti",
-      "ozet": "Teknoloji devi Apple, işe alım süreçlerinde ayrımcı uygulamalara başvurduğu gerekçesiyle yürütülen soruşturma kapsamında ABD Adalet Bakanlığı ile bir anlaşma imzaladı. Şirket, söz konusu iddiaların ardından bakanlığa 25 milyon dolar ödemeyi kabul etti.",
+      "baslik": "Apple işe alım süreçleri için bakanlıkla uzlaştı",
+      "ozet": "Teknoloji devi Apple, istihdam süreçlerinde ayrımcılık yaptığı gerekçesiyle başlatılan incelemeler sonucunda ABD Adalet Bakanlığı ile mutabakat sağladı. Şirket, bu iddiaları çözüme kavuşturmak amacıyla 25 milyon dolar ödemeyi kabul etti.",
       "kategori": "Teknoloji",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/960px-Aerial_view_of_Apple_Park_dllu.jpg",
@@ -1624,30 +1619,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/aym-hdpli-vekiller-icin-ilk-kararini-16-kasimda-verecek-863706"
       },
-      "konular": [
-        "Selahattin Demirtaş",
-        "Halkların Demokratik Partisi",
-        "Anayasa Mahkemesi"
-      ],
+      "konular": [],
       "yayin": "2017-11-10T16:18:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Anayasa Mahkemesi tutuklu milletvekilleri için karar gününü belirledi",
-      "ozet": "Anayasa Mahkemesi, tutuklu bulunan Halkların Demokratik Partisi milletvekillerinin durumunu görüşmek üzere toplandı. Mahkeme heyeti, aralarında Selahattin Demirtaş'ın da bulunduğu isimlerle ilgili nihai değerlendirmesini önümüzdeki hafta gerçekleştireceği oturumda yapacağını duyurdu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Selahattin_Demirta%C5%9F_HDP_%28cropped%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Selahattin_Demirta%C5%9F_HDP_%28cropped%29.jpg",
-        "genislik": 602,
-        "yukseklik": 800,
-        "orijinalGenislik": 602,
-        "yazar": "Yıldız Yazıcıoğlu",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Selahattin_Demirta%C5%9F_HDP_(cropped).jpg",
-        "aciklama": "Selahattin Demirtaş, co-leader of the Turkish Peoples' Democratic Party (HDP)",
-        "konu": "Selahattin Demirtaş"
-      }
+      "durum": "haber"
     },
     {
       "id": "2016-haber-628869",
@@ -1660,30 +1635,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-yildirim-ve-bahceliden-baskanlik-zirvesi-628869"
       },
-      "konular": [
-        "Başkanlık sistemi",
-        "Binali Yıldırım",
-        "Devlet Bahçeli"
-      ],
+      "konular": [],
       "yayin": "2016-11-10T15:05:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Hükümet ve MHP liderleri arasında başkanlık sistemi görüşmesi",
-      "ozet": "Başbakan Binali Yıldırım, Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli ile bir araya geldi. Çankaya Köşkü'nde gerçekleşen bu görüşmede, gündemde yer alan başkanlık sistemi ile ilgili konular ele alındı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Binali_Y%C4%B1ld%C4%B1r%C4%B1m_%282018-08-18%29_%28cropped%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Binali_Y%C4%B1ld%C4%B1r%C4%B1m_%282018-08-18%29_%28cropped%29.jpg",
-        "genislik": 794,
-        "yukseklik": 1104,
-        "orijinalGenislik": 794,
-        "yazar": "duma.gov.ru",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Binali_Y%C4%B1ld%C4%B1r%C4%B1m_(2018-08-18)_(cropped).jpg",
-        "aciklama": "Председатель Великого национального собрания Турции Бинали Йылдырым",
-        "konu": "Binali Yıldırım"
-      }
+      "durum": "haber"
     },
     {
       "id": "2016-haber-628811",
@@ -1696,17 +1651,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ersin-duzen-yeniden-meclis-gundeminde-haftada-3-gun-icin-417-bin-liralik-maasa-zam-geldi-mi-628811"
       },
-      "konular": [
-        "Ersin Düzen",
-        "TRT",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2016-11-10T13:38:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "TRT spikerinin aldığı maaş tutarı meclis gündemine taşındı",
-      "ozet": "TRT bünyesinde görev yapan spor spikeri Ersin Düzen'in aldığı ücretler hakkında soru önergesi verildi. İzmir milletvekili Atila Sertel, spikerin geçmiş dönemdeki kazancını hatırlatarak maaşında bir artış yapılıp yapılmadığını Başbakan Yardımcısı Numan Kurtulmuş'a sordu. Konu, kurumun ödemeleri ve çalışma şartları üzerinden meclis oturumunda tartışmaya açıldı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2015-haber-413341",
@@ -1719,18 +1667,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fallout-4-indirmeye-acildi-413341"
       },
-      "konular": [
-        "Fallout 4",
-        "Bethesda Game Studios",
-        "Video oyunu"
-      ],
+      "konular": [],
       "yayin": "2015-11-10T21:30:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Fallout serisinin yeni oyunu oyuncularla buluşmaya hazırlanıyor",
-      "ozet": "Oyun tutkunlarının uzun süredir heyecanla beklediği Fallout serisinin son halkası için geri sayım başladı. Yapım, kısa bir süre sonra dijital platformlar üzerinden erişime açılacak. Serinin takipçileri, yeni macerayı deneyimlemek için hazırlıklarını tamamladı.",
-      "kategori": "Teknoloji",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2014-haber-139155",
@@ -1743,17 +1683,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/renaultnun-cezayirdeki-fabrikasi-acildi-139155"
       },
-      "konular": [
-        "Renault",
-        "Oran",
-        "Cezayir"
-      ],
+      "konular": [],
       "yayin": "2014-11-10T15:23:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Renault Cezayir'de yeni üretim tesisini hizmete açtı",
-      "ozet": "Fransız otomobil üreticisi Renault, Cezayir'in Oran kentinde inşa ettiği fabrikasının açılışını gerçekleştirdi. Tesisin faaliyete geçmesi için düzenlenen törene Cezayir Başbakanı Abdelmalek Sellal ile Renault Başkanı Carlos Ghosn katıldı. Bu yatırımla birlikte bölgedeki otomotiv üretimi kapasitesinin artırılması hedeflendi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2014-haber-138961",
@@ -1766,30 +1699,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-yeni-turkiye-kavramini-ilk-kez-gazi-kullandi-138961"
       },
-      "konular": [
-        "Mustafa Kemal Atatürk",
-        "Recep Tayyip Erdoğan",
-        "Atatürk Kültür, Dil ve Tarih Yüksek Kurumu"
-      ],
+      "konular": [],
       "yayin": "2014-11-10T08:43:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "Cumhurbaşkanı Erdoğan Yeni Türkiye Kavramına İlişkin Açıklamalarda Bulundu",
-      "ozet": "Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün vefatının yetmiş altıncı yıl dönümünde vatandaşlar anma etkinlikleri düzenledi. Atatürk Kültür, Dil ve Tarih Yüksek Kurumu'nda gerçekleştirilen törende konuşan Cumhurbaşkanı Recep Tayyip Erdoğan, Yeni Türkiye ifadesinin ilk defa Atatürk tarafından kullanıldığını belirtti. Etkinlik kapsamında Atatürk'ün mirası ve devletin kuruluş ilkeleri üzerine değerlendirmeler yapıldı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
-        "genislik": 732,
-        "yukseklik": 987,
-        "orijinalGenislik": 732,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
-        "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
-        "konu": "Mustafa Kemal Atatürk"
-      }
+      "durum": "haber"
     },
     {
       "id": "2013-haber-7887",
@@ -1802,17 +1715,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/buyuk-derbi-icin-geri-sayim-basladi-7887"
       },
-      "konular": [
-        "Fenerbahçe-Galatasaray derbisi",
-        "Süper Lig",
-        "Şükrü Saracoğlu Stadyumu"
-      ],
+      "konular": [],
       "yayin": "2013-11-10T14:13:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Fenerbahçe ve Galatasaray derbide karşı karşıya geliyor",
-      "ozet": "Süper Lig'in on birinci haftasında Fenerbahçe ile Galatasaray, Şükrü Saracoğlu Stadı'nda oynanacak müsabakada kozlarını paylaşacak. İstanbul'da gerçekleşecek olan bu önemli karşılaşma için hazırlıklar tamamlandı ve maç saati beklenmeye başlandı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2013-haber-7893",
@@ -1825,17 +1731,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/alexten-derbi-oncesi-fenerbahceye-mesaj-7893"
       },
-      "konular": [
-        "Alex de Souza",
-        "Fenerbahçe (futbol takımı)",
-        "Galatasaray-Fenerbahçe derbisi"
-      ],
+      "konular": [],
       "yayin": "2013-11-10T14:54:00+03:00",
       "puan": 6,
-      "durum": "elendi",
-      "baslik": "Alex de Souza'dan Fenerbahçe'ye Derbi Mesajı",
-      "ozet": "Fenerbahçe'nin eski oyuncusu Alex de Souza, Galatasaray ile yapılacak derbi mücadelesi öncesinde sosyal medya hesabı üzerinden bir paylaşımda bulundu. Brezilyalı futbolcu, eski takımına karşılaşma öncesinde destek mesajı gönderdi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-382558",
@@ -1848,16 +1747,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakanlik-cevresindeki-olaylara-inceleme-382558"
       },
-      "konular": [
-        "Ankara Cumhuriyet Başsavcılığı",
-        "Başbakanlık"
-      ],
+      "konular": [],
       "yayin": "2012-11-10T09:18:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Başbakanlık çevresindeki olaylar için soruşturma başlatıldı",
-      "ozet": "Ankara Cumhuriyet Başsavcılığı, Başbakanlık binası yakınlarında kısa süre içerisinde meydana gelen çeşitli hadiseleri incelemeye aldı. Söz konusu olayların birbirleriyle bağlantılı olup olmadığının tespiti amacıyla bir Cumhuriyet savcısı görevlendirildi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-382680",
@@ -1870,30 +1763,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/petraeusin-istifasina-neden-olan-kadin-382680"
       },
-      "konular": [
-        "David Petraeus",
-        "CIA",
-        "Paula Broadwell"
-      ],
+      "konular": [],
       "yayin": "2012-11-10T18:32:00+03:00",
       "puan": 6,
-      "durum": "yazildi",
-      "baslik": "CIA Başkanı Petraeus'un İstifasına Yol Açan İlişki Ortaya Çıktı",
-      "ozet": "ABD Merkezi Haberalma Teşkilatı Başkanı David Petraeus'un görevinden ayrılmasına neden olan evlilik dışı ilişkinin detayları belli oldu. Yapılan incelemeler sonucunda Petraeus'un biyografisini kaleme alan Paula Broadwell ile ilişki yaşadığı anlaşıldı. Bu gelişme üzerine istifa kararı alan Petraeus'un durumu kamuoyuna duyuruldu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/DCIA_David_Petraeus.jpg/960px-DCIA_David_Petraeus.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/DCIA_David_Petraeus.jpg/500px-DCIA_David_Petraeus.jpg",
-        "genislik": 960,
-        "yukseklik": 1200,
-        "orijinalGenislik": 1200,
-        "yazar": "Darren Livingston",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:DCIA_David_Petraeus.jpg",
-        "aciklama": "Official photo of David Petraeus, Director of the Central Intelligence Agency",
-        "konu": "David Petraeus"
-      }
+      "durum": "haber"
     },
     {
       "id": "2011-haber-297006",
@@ -1906,30 +1779,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chp-erdoganla-ilgili-gensoruyu-geri-cekti-297006"
       },
-      "konular": [
-        "2011 Van depremi",
-        "Recep Tayyip Erdoğan",
-        "Cumhuriyet Halk Partisi"
-      ],
+      "konular": [],
       "yayin": "2011-11-10T12:42:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "CHP Van depremi nedeniyle gensoru önergesini geri çekti",
-      "ozet": "Cumhuriyet Halk Partisi, Başbakan Recep Tayyip Erdoğan hakkında meclise sunduğu gensoru önergesini çekme kararı aldı. Söz konusu adımın, Van bölgesinde yaşanan yıkıcı deprem felaketinin ardından oluşan hassas durum sebebiyle atıldığı belirtildi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2011-haber-296982",
@@ -1942,29 +1795,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tecavuzden-yatan-cumhurbaskaninina-ret-296982"
       },
-      "konular": [
-        "Moşe Katsav",
-        "İsrail"
-      ],
+      "konular": [],
       "yayin": "2011-11-10T09:52:00+03:00",
       "puan": 5,
-      "durum": "yazildi",
-      "baslik": "Moşe Katsav'ın Temyiz Başvurusu Mahkeme Tarafından Reddedildi",
-      "ozet": "İsrail Adalet Yüksek Mahkemesi, cinsel saldırı suçlamaları nedeniyle yedi yıl hapis cezasına çarptırılan eski Cumhurbaşkanı Moşe Katsav'ın yaptığı temyiz başvurusunu inceledi. Mahkeme heyeti, yapılan başvuruyu kabul etmeyerek eski cumhurbaşkanının cezasını onadı. Böylece Katsav hakkındaki hüküm kesinleşmiş oldu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Moshe_Katsav_%2800310100%29.jpg/960px-Moshe_Katsav_%2800310100%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Moshe_Katsav_%2800310100%29.jpg/500px-Moshe_Katsav_%2800310100%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1403,
-        "orijinalGenislik": 1420,
-        "yazar": "Knesset photographer",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Moshe_Katsav_(00310100).jpg",
-        "aciklama": "Moshe Katsav, Knesset member (1977-06-13 - 2000-07-31)",
-        "konu": "Moşe Katsav"
-      }
+      "durum": "haber"
     }
   ],
   "haberYillari": [
