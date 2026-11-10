@@ -998,7 +998,7 @@
     "url": "https://tr.wikipedia.org/wiki/18_Kas%C4%B1m",
     "revid": 38169054
   },
-  "guncelleme": "2026-11-09T15:30:50.871Z",
+  "guncelleme": "2026-11-10T14:30:22.425Z",
   "haberler": [
     {
       "id": "2025-haber-2453855",
@@ -1011,16 +1011,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/ayse-tokyaz-in-ailesi-nazliaka-ve-gokcen-le-tbmm-de-gorustu-bizim-savasimiz-bugunden-sonra-basliyor-2453855"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Cumhuriyet Halk Partisi"
-      ],
+      "konular": [],
       "yayin": "2025-11-18T20:50:00+03:00",
       "puan": 15,
-      "durum": "elendi",
-      "baslik": "Ayşe Tokyaz'ın Ailesi TBMM'de Adalet Arayışını Dile Getirdi",
-      "ozet": "Üniversite öğrencisi Ayşe Tokyaz'ın hayatını kaybetmesiyle sonuçlanan olayın ardından aile üyeleri, Cumhuriyet Halk Partisi Genel Başkan Yardımcıları Aylin Nazlıaka ve Gökçe Gökçen ile Türkiye Büyük Millet Meclisi çatısı altında bir araya geldi. Görüşmede acılı aile, yaşanan kayıp karşısında adalet taleplerini yineleyerek hukuki süreçteki kararlılıklarını vurguladı. Aile temsilcileri, bu buluşmanın ardından hak arama mücadelelerinin yeni bir aşamaya girdiğini ifade etti.",
-      "kategori": "Toplum"
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2453626",
@@ -1033,16 +1027,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/tarim-kredi-marketlerinin-isim-degisikligi-maliyetinin-faturasi-tbmm-gundemine-tasindi-butce-kimden-cikti-2453626"
       },
-      "konular": [
-        "Tarım Kredi Kooperatifleri",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2025-11-18T04:00:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Tarım Kredi marketlerinin isim değişikliği masrafları Meclis'e soruldu",
-      "ozet": "Türkiye Tarım Kredi Kooperatifleri bünyesindeki marketlerin isminin KOOP Market olarak değiştirilmesi süreciyle ilgili harcamalar Türkiye Büyük Millet Meclisi gündemine getirildi. Söz konusu isim değişikliği için ne kadarlık bir bütçe ayrıldığı ve bu maliyetin nasıl karşılandığına dair sorular yöneltildi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2269855",
@@ -1055,30 +1043,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/dev-yatirim-bankasindan-yeni-yil-altin-tahminleri-2025-yilinda-rekor-2269855"
       },
-      "konular": [
-        "Altın",
-        "Goldman Sachs",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2024-11-18T10:53:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Goldman Sachs altın fiyatlarında yeni rekor beklentisini duyurdu",
-      "ozet": "Uluslararası yatırım kuruluşu Goldman Sachs, altın piyasasına dair gelecek yıl için iyimser bir öngörü paylaştı. Banka, altın fiyatlarının önümüzdeki dönemde tarihi zirvelerini yenileyebileceğini ifade etti. Ayrıca raporda, Amerika Birleşik Devletleri'nin İran'a yönelik izlediği politikaların petrol ve metal piyasalarında belirsizlikleri artırabileceği uyarısında bulunuldu.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Au%2C79.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Au%2C79.jpg",
-        "genislik": 600,
-        "yukseklik": 317,
-        "orijinalGenislik": 600,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Au,79.jpg",
-        "aciklama": null,
-        "konu": "Altın"
-      }
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2142450",
@@ -1091,17 +1059,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/tsyd-kupasinda-sampiyon-ankaragucu-2142450"
       },
-      "konular": [
-        "MKE Ankaragücü",
-        "Gençlerbirliği",
-        "Türkiye Spor Yazarları Derneği Kupası"
-      ],
+      "konular": [],
       "yayin": "2023-11-18T18:08:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "TSYD Kupası finalinde kazanan taraf Ankaragücü oldu",
-      "ozet": "Türkiye Spor Yazarları Derneği tarafından düzenlenen kupa finalinde MKE Ankaragücü ile Gençlerbirliği karşı karşıya geldi. Mücadeleyi iki golle tamamlayan Ankaragücü, rakibini mağlup ederek turnuvayı şampiyonlukla noktaladı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2142383",
@@ -1114,17 +1075,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasi-faiz-karari-aciklandi-mi-merkez-bankasi-faiz-karari-ne-2142383"
       },
-      "konular": [
-        "Türkiye Cumhuriyet Merkez Bankası",
-        "Faiz",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2023-11-18T14:45:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Merkez Bankası Kasım Ayı Faiz Kararı Beklentisi",
-      "ozet": "Döviz kurları ve altın fiyatlarındaki dalgalanmaların ardından kamuoyu Merkez Bankası tarafından açıklanacak faiz kararına odaklandı. Vatandaşlar kurumun kasım ayı toplantısının ne zaman yapılacağını ve kararın duyurulup duyurulmadığını yakından takip ediyor. Ekonomi gündemini meşgul eden bu gelişme ile ilgili resmi açıklama süreci merakla bekleniyor.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-2004026",
@@ -1137,30 +1091,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/izmir-depreminde-yikilan-yagcioglu-apartmani-davasina-iliskin-yeni-gelisme-2004026"
       },
-      "konular": [
-        "2020 Ege Denizi depremi",
-        "İzmir",
-        "Deprem"
-      ],
+      "konular": [],
       "yayin": "2022-11-18T15:05:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Yağcıoğlu Apartmanı davasında hapis cezası kararı kesinleşti",
-      "ozet": "İzmir depremi sırasında yıkılan ve çok sayıda kişinin yaşamını yitirmesine yol açan Yağcıoğlu Apartmanı ile ilgili hukuki süreçte yeni bir aşamaya gelindi. Binanın müteahhidi, bilinçli taksirle birden fazla kişinin ölümüne ve yaralanmasına sebebiyet verdiği gerekçesiyle yargılandığı davada hapis cezasına çarptırıldı. Yerel mahkeme tarafından verilen on iki yıl altı aylık hapis cezası kararı, yaşanan felaketin ardından yürütülen yargılamanın önemli bir parçası oldu.",
-      "kategori": "Afet",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg/960px-2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg/500px-2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 2592,
-        "yazar": "Oğulcan Bakiler (VOA)",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
-        "aciklama": "search and rescue efforts due of 2020 Aegean Sea earthquake",
-        "konu": "2020 Ege Denizi depremi"
-      }
+      "durum": "haber"
     },
     {
       "id": "2022-haber-2003970",
@@ -1173,18 +1107,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/eytden-faydalanmak-isteyenler-dikkat-zamanla-yaris-basladi-askerlik-ve-dogum-borclanmasi-2003970"
       },
-      "konular": [
-        "Emeklilikte Yaşa Takılanlar",
-        "Sosyal Güvenlik Kurumu",
-        "Türkiye"
-      ],
+      "konular": [],
       "yayin": "2022-11-18T12:11:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Emeklilikte Yaşa Takılanlar İçin Borçlanma Süreci Önem Kazandı",
-      "ozet": "Emeklilikte yaşa takılanlar düzenlemesini bekleyen vatandaşlar, sigorta başlangıç tarihleri ve prim gün sayılarını incelemeye başladı. Düzenlemeden yararlanmak isteyen kişiler, eksik primlerini tamamlamak amacıyla askerlik ve doğum borçlanması gibi yöntemlere başvurarak gerekli şartları sağlamaya çalıştı. 1999 yılı öncesinde sigorta girişi bulunanları ilgilendiren bu süreçte, hak sahipleri prim günlerini kontrol ederek emeklilik haklarını elde etmeyi hedefledi.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1885698",
@@ -1197,17 +1123,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika--merkez-bankasinin-faiz-kararinin-ardindan-altinda-yeni-rekor-1885698"
       },
-      "konular": [
-        "Altın",
-        "Türkiye Cumhuriyet Merkez Bankası",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2021-11-18T15:25:00+03:00",
       "puan": 14,
-      "durum": "elendi",
-      "baslik": "Merkez Bankası faiz kararı sonrası gram altında tarihi zirve",
-      "ozet": "Türkiye Cumhuriyet Merkez Bankası tarafından açıklanan faiz kararının ardından piyasalarda hareketlilik yaşandı. Kararın etkisiyle yükseliş eğilimini sürdüren gram altın, değer kazanarak 652 lira seviyesine ulaştı. Bu gelişme, altın fiyatlarında yeni bir rekor seviyenin kaydedilmesine yol açtı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1885812",
@@ -1220,17 +1139,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/chpli-ozelden-ekonomide-kurtulus-recetesi-erdogan-susarsa-dolar-artmaz-1885812"
       },
-      "konular": [
-        "Özgür Özel",
-        "Cumhuriyet Halk Partisi",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2021-11-18T16:52:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Özgür Özel ekonomi politikaları hakkında açıklamalarda bulundu",
-      "ozet": "Cumhuriyet Halk Partisi Grup Başkanvekili Özgür Özel, Türkiye Büyük Millet Meclisi çatısı altında bir basın toplantısı gerçekleştirdi. Toplantı sırasında ekonomi gündemine dair değerlendirmelerde bulunan Özel, mevcut ekonomik gidişat ve döviz kurlarındaki hareketlilik üzerine görüşlerini paylaştı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1791831",
@@ -1243,30 +1155,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/izmir-depreminde-yikilan-bir-binanin-anatomisi-1791831"
       },
-      "konular": [
-        "2020 Ege Denizi depremi",
-        "Bayraklı",
-        "İzmir"
-      ],
+      "konular": [],
       "yayin": "2020-11-18T09:00:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "İzmir depreminde hasar gören Yılmaz Erbek Apartmanı'nın durumu",
-      "ozet": "İzmir'de yaşanan sarsıntı sonrasında Bayraklı ilçesindeki Yılmaz Erbek Apartmanı ciddi hasar aldı. Binanın alt katlarının çökmesi ve yapının yanındaki binadan ayrılarak eğilmesi bölgedeki arama kurtarma çalışmalarını zorlaştırdı. Yapı, depremin etkilerinin en belirgin görüldüğü binalar arasında yer aldı.",
-      "kategori": "Afet",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg/960px-2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg/500px-2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 2592,
-        "yazar": "Oğulcan Bakiler (VOA)",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
-        "aciklama": "search and rescue efforts due of 2020 Aegean Sea earthquake",
-        "konu": "2020 Ege Denizi depremi"
-      }
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1791904",
@@ -1279,17 +1171,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/pragda-avrupa-judo-sampiyonasi-heyecani-basliyor-1791904"
       },
-      "konular": [
-        "Avrupa Judo Şampiyonası",
-        "Judo",
-        "Prag"
-      ],
+      "konular": [],
       "yayin": "2020-11-18T11:04:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Avrupa Judo Şampiyonası Çekya'nın Başkentinde Başlıyor",
-      "ozet": "Çekya'nın başkenti Prag'da düzenlenen Büyükler Avrupa Judo Şampiyonası'nın açılış gününde müsabakalar başladı. Organizasyonun ilk gününde dört milli sporcu madalya mücadelesi vermek üzere tatamiye çıktı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1702816",
@@ -1302,17 +1187,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akpde-bir-davutoglu-istifasi-daha-1702816"
       },
-      "konular": [
-        "Adalet ve Kalkınma Partisi",
-        "Bahçelievler",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2019-11-18T17:51:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Adalet ve Kalkınma Partisi Bahçelievler teşkilatında istifa kararı",
-      "ozet": "Adalet ve Kalkınma Partisi Bahçelievler İlçe Başkan Yardımcılığı ve Seçim İşleri Başkanlığı görevlerini yürüten avukat Özer Öztaşbaşı partisinden ayrıldığını duyurdu. Söz konusu istifa kararı ilçe teşkilatında gerçekleşen bir görev değişikliği olarak kayıtlara geçti.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1702948",
@@ -1325,30 +1203,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/avrupa-sampiyonu-cakiroglu-hedefim-olimpiyat-sampiyonu-olmak-1702948"
       },
-      "konular": [
-        "Buse Naz Çakıroğlu",
-        "Boks",
-        "2020 Yaz Olimpiyatları"
-      ],
+      "konular": [],
       "yayin": "2019-11-18T11:23:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "Buse Naz Çakıroğlu Olimpiyat Hedefine Odaklandı",
-      "ozet": "Dünya Kadınlar Boks Şampiyonası'nda gümüş madalya elde eden milli boksör Buse Naz Çakıroğlu, gelecek olimpiyat oyunlarına hazırlanıyor. Kastamonu'daki kamp merkezinde antrenmanlarına devam eden sporcu, Tokyo Olimpiyat Elemeleri öncesinde çalışmalarını yoğunlaştırdı. Çakıroğlu, kariyerindeki en büyük hedefinin olimpiyat şampiyonluğu olduğunu belirtti.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Buse_Naz_%C3%87ak%C4%B1ro%C4%9Flu_%2851828948142%29_%28cropped%29.jpg/960px-Buse_Naz_%C3%87ak%C4%B1ro%C4%9Flu_%2851828948142%29_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Buse_Naz_%C3%87ak%C4%B1ro%C4%9Flu_%2851828948142%29_%28cropped%29.jpg/500px-Buse_Naz_%C3%87ak%C4%B1ro%C4%9Flu_%2851828948142%29_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1392,
-        "orijinalGenislik": 1125,
-        "yazar": "Türkiye Milli Olimpiyat Komitesi",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Buse_Naz_%C3%87ak%C4%B1ro%C4%9Flu_(51828948142)_(cropped).jpg",
-        "aciklama": "Türk Olimpiyat tarihinin ilk kadın boks madalyasını kazanan Olimpiyat ikincisi boksör.",
-        "konu": "Buse Naz Çakıroğlu"
-      }
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1144442",
@@ -1361,30 +1219,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/can-oncu-en-genc-sampiyon-1144442"
       },
-      "konular": [
-        "Can Öncü",
-        "Moto3 Dünya Şampiyonası",
-        "Motosiklet yarışı"
-      ],
+      "konular": [],
       "yayin": "2018-11-18T15:09:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "Can Öncü Moto3 Dünya Şampiyonasında Tarihe Geçti",
-      "ozet": "Milli sporcu Can Öncü, katıldığı Moto3 Dünya Şampiyonası yarışında damalı bayrağı ilk sırada görerek büyük bir başarıya imza attı. Bu birincilikle birlikte Öncü, organizasyon tarihinde yarış kazanan en genç motosiklet pilotu unvanını elde etti.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Can_Oncu.jpg/960px-Can_Oncu.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Can_Oncu.jpg/500px-Can_Oncu.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 3648,
-        "yazar": "Jearle",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Can_Oncu.jpg",
-        "aciklama": "Can Oncu, Donington World Supersport 2025",
-        "konu": "Can Öncü"
-      }
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1144449",
@@ -1397,17 +1235,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ford-otosan-36-kocaeli-rallisinde-sampiyon-belli-oldu-1144449"
       },
-      "konular": [
-        "Türkiye Ralli Şampiyonası",
-        "Burak Çukurova",
-        "Kocaeli"
-      ],
+      "konular": [],
       "yayin": "2018-11-18T14:46:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Türkiye Ralli Şampiyonası'nda sezonun kazananı belli oldu",
-      "ozet": "Kocaeli ev sahipliğinde gerçekleştirilen Türkiye Ralli Şampiyonası'nın final etabı tamamlandı. Organizasyonun son ayağı olan Ford Otosan 36. Kocaeli Rallisi'ni başarıyla bitiren Burak Çukurova, genel klasmanda şampiyonluğa ulaştı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-868541",
@@ -1420,30 +1251,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/istifa-eden-lubnan-basbakani-hariri-ailesiyle-birlikte-parise-gitti-868541"
       },
-      "konular": [
-        "Saad Hariri",
-        "Lübnan",
-        "Fransa"
-      ],
+      "konular": [],
       "yayin": "2017-11-18T11:08:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Lübnan Başbakanı Saad Hariri Fransa'ya Geçiş Yaptı",
-      "ozet": "İstifa kararını açıklayan Lübnan Başbakanı Saad Hariri, Fransa Cumhurbaşkanı Emmanuel Macron'un resmi daveti üzerine ailesiyle birlikte Paris'e gitti. Hariri, Fransa'ya ulaşarak temaslarına başladı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Saad_Hariri_in_Sochi%2C_13_September_2017.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Saad_Hariri_in_Sochi%2C_13_September_2017.jpg",
-        "genislik": 756,
-        "yukseklik": 1036,
-        "orijinalGenislik": 756,
-        "yazar": "This image has been extracted from another file",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Saad_Hariri_in_Sochi,_13_September_2017.jpg",
-        "aciklama": "President of Russia Vladimir Putin & Prime Minister Lebanon Saad Hariri in Sochi, 13 September 2017 (3) (Cropped)",
-        "konu": "Saad Hariri"
-      }
+      "durum": "haber"
     },
     {
       "id": "2017-haber-868598",
@@ -1456,17 +1267,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/1-gunluk-is-birakma-eylemine-katilan-ogretmen-hukuk-savasini-kazandi-868598"
       },
-      "konular": [
-        "Sendikal haklar",
-        "İzmir Bölge İdare Mahkemesi",
-        "Öğretmen"
-      ],
+      "konular": [],
       "yayin": "2017-11-18T12:17:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Öğretmenin iş bırakma eylemi nedeniyle aldığı ceza mahkemece iptal edildi",
-      "ozet": "Bir günlük iş bırakma eylemine katıldığı gerekçesiyle hakkında kınama cezası uygulanan edebiyat öğretmeni, konuyu yargıya taşıdı. İzmir Bölge İdare Mahkemesi, söz konusu disiplin cezasını hukuka aykırı bularak iptal etti. Mahkeme heyeti, öğretmenin sendikal faaliyet kapsamında gerçekleştirdiği eylemin cezalandırılmaması gerektiğine oy çokluğuyla karar verdi.",
-      "kategori": "Toplum"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-632249",
@@ -1479,30 +1283,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dolar-ve-euro-lira-karsisinda-art-arda-rekor-kiriyor-632249"
       },
-      "konular": [
-        "Döviz kuru",
-        "Janet Yellen",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2016-11-18T08:30:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Döviz kurlarında yükseliş eğilimi devam ediyor",
-      "ozet": "ABD Merkez Bankası Başkanı Janet Yellen'ın açıklamalarının ardından döviz piyasalarında hareketlilik yaşandı. Türk lirası karşısında değer kazanan dolar ve euro, gün içerisinde yeni zirvelerine ulaştı. Piyasalar, merkez bankası yetkililerinin verdiği mesajlar doğrultusunda dalgalı bir seyir izledi.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/South_East_Asia_Exchange_Rates_%286031878489%29.jpg/960px-South_East_Asia_Exchange_Rates_%286031878489%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/South_East_Asia_Exchange_Rates_%286031878489%29.jpg/500px-South_East_Asia_Exchange_Rates_%286031878489%29.jpg",
-        "genislik": 960,
-        "yukseklik": 957,
-        "orijinalGenislik": 1027,
-        "yazar": "Nick Hubbard",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:South_East_Asia_Exchange_Rates_(6031878489).jpg",
-        "aciklama": "Next time I will bring in sterling, and not be ripped of by those money changers back home. Thai baht.",
-        "konu": "Döviz kuru"
-      }
+      "durum": "haber"
     },
     {
       "id": "2016-haber-632478",
@@ -1515,17 +1299,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakandan-tecavuzcuye-yasal-kilifa-savunma-chpnin-sapitmasi-632478"
       },
-      "konular": [
-        "Binali Yıldırım",
-        "Türkiye Büyük Millet Meclisi",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2016-11-18T13:44:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Cinsel İstismar Düzenlemesi Hakkında Hükümetten Açıklama",
-      "ozet": "Başbakan Binali Yıldırım, cinsel istismar suçlarında mağdur ile failin evlenmesi halinde ceza hükümlerini kaldıran yasal düzenlemeye yönelik eleştirilere yanıt verdi. Yıldırım, söz konusu düzenlemenin amacını savundu ve muhalefet partisi CHP'nin konuya ilişkin tutumunu eleştirdi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2015-haber-423489",
@@ -1538,30 +1315,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akpnin-isim-babasi-meclis-baskan-adayi-423489"
       },
-      "konular": [
-        "İsmail Kahraman",
-        "Türkiye Büyük Millet Meclisi",
-        "Adalet ve Kalkınma Partisi"
-      ],
+      "konular": [],
       "yayin": "2015-11-18T18:37:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Adalet ve Kalkınma Partisi Meclis Başkan Adayını Belirledi",
-      "ozet": "Parti sözcüsü Ömer Çelik, merkez yürütme kurulu toplantısının ardından yaptığı açıklamada İsmail Kahraman'ın meclis başkanlığı için aday gösterildiğini duyurdu. İsmail Kahraman, Recep Tayyip Erdoğan Üniversitesi Geliştirme Vakfı'nın kurucular kurulu üyeleri arasında yer alıyordu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/%C4%B0smail_Kahraman_MeclisBaskani.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/%C4%B0smail_Kahraman_MeclisBaskani.jpg",
-        "genislik": 789,
-        "yukseklik": 1031,
-        "orijinalGenislik": 789,
-        "yazar": "OSCE Parliamentary Assembly",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0smail_Kahraman_MeclisBaskani.jpg",
-        "aciklama": "TBMM Başkanı İsmail Kahraman",
-        "konu": "İsmail Kahraman"
-      }
+      "durum": "haber"
     },
     {
       "id": "2015-haber-422951",
@@ -1574,30 +1331,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/buyuk-marmara-depremi-olacak-mi-422951"
       },
-      "konular": [
-        "Marmara Denizi",
-        "Deprem",
-        "Şerif Barış"
-      ],
+      "konular": [],
       "yayin": "2015-11-18T12:56:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "Marmara Denizi merkezli deprem üzerine uzman değerlendirmesi",
-      "ozet": "Marmara Denizi'nde kaydedilen 4.2 büyüklüğündeki sarsıntının ardından açıklamalarda bulunan Prof. Dr. Şerif Barış, bu tür hareketliliklerin büyük bir depremin habercisi olarak görülmemesi gerektiğini belirtti. Bölgedeki sismik faaliyetlerin endişe yaratmaması gerektiğini vurgulayan uzman, halkın bu sarsıntıyı büyük bir felaket beklentisiyle ilişkilendirmesinin doğru olmadığını ifade etti.",
-      "kategori": "Bilim",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2010_satellite_picture_of_the_Sea_of_Marmara.jpg/960px-2010_satellite_picture_of_the_Sea_of_Marmara.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2010_satellite_picture_of_the_Sea_of_Marmara.jpg/500px-2010_satellite_picture_of_the_Sea_of_Marmara.jpg",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 2400,
-        "yazar": "NASA",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:2010_satellite_picture_of_the_Sea_of_Marmara.jpg",
-        "aciklama": "2010 satellite picture of the Sea of Marmara",
-        "konu": "Marmara Denizi"
-      }
+      "durum": "haber"
     },
     {
       "id": "2014-haber-143307",
@@ -1610,30 +1347,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdoganin-escinsel-davasinda-beraat-143307"
       },
-      "konular": [
-        "Gezi Parkı protestoları",
-        "Hakan Demir",
-        "Türkiye'de basın özgürlüğü"
-      ],
+      "konular": [],
       "yayin": "2014-11-18T17:12:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Hakan Demir hakkındaki dava beraat ile sonuçlandı",
-      "ozet": "Gezi protestoları sürecinde kaleme aldığı bir köşe yazısı nedeniyle yargılanan gazeteci Hakan Demir, mahkeme tarafından suçsuz bulundu. Dönemin Başbakanı'na yönelik ifadeleri sebebiyle açılan dava, mahkemenin verdiği beraat kararıyla kapandı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Each_day_protestants_return_to_the_square._Events_of_June_7%2C_2013.jpg/960px-Each_day_protestants_return_to_the_square._Events_of_June_7%2C_2013.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Each_day_protestants_return_to_the_square._Events_of_June_7%2C_2013.jpg/500px-Each_day_protestants_return_to_the_square._Events_of_June_7%2C_2013.jpg",
-        "genislik": 960,
-        "yukseklik": 639,
-        "orijinalGenislik": 4000,
-        "yazar": "Mstyslav Chernov",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Each_day_protestants_return_to_the_square._Events_of_June_7,_2013.jpg",
-        "aciklama": "Each day protesters return to the square. Events of June 7, 2013.",
-        "konu": "Gezi Parkı protestoları"
-      }
+      "durum": "haber"
     },
     {
       "id": "2014-haber-143197",
@@ -1646,17 +1363,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/contemporary-istanbul-rekor-satis-ve-ziyaretciyle-sona-erdi-143197"
       },
-      "konular": [
-        "Contemporary Istanbul",
-        "Sanat fuarı",
-        "İstanbul"
-      ],
+      "konular": [],
       "yayin": "2014-11-18T15:30:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Dokuzuncu Contemporary Istanbul Sanat Fuarı Tamamlandı",
-      "ozet": "Dokuzuncu kez düzenlenen Contemporary Istanbul sanat fuarı, ziyaretçilerine kapılarını kapattı. On yedi bin metrekarelik geniş bir alana yayılan etkinlik, toplamda yetmiş yedi bin sanatsever tarafından gezildi. Fuar kapsamında sergilenen eserlerin toplam piyasa değerinin ise yüz doksan milyon Türk lirası olduğu açıklandı.",
-      "kategori": "Sanat"
+      "durum": "haber"
     },
     {
       "id": "2013-haber-10711",
@@ -1669,30 +1379,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/cemil-cicekten-yeni-anayasa-karari-10711"
       },
-      "konular": [
-        "Cemil Çiçek",
-        "Türkiye Büyük Millet Meclisi",
-        "Anayasa Uzlaşma Komisyonu"
-      ],
+      "konular": [],
       "yayin": "2013-11-18T17:09:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "TBMM Başkanı Çiçek'ten Anayasa Uzlaşma Komisyonu Hakkında Karar",
-      "ozet": "Meclis Başkanı Cemil Çiçek, Anayasa Uzlaşma Komisyonu'nun yeni bir anayasa hazırlama sürecini tamamlayamayacağına dair görüşünü paylaştı. Çiçek, bu konudaki kanaatini siyasi parti liderlerine iletmek üzere bir mektup hazırlayacağını ifade etti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Cemil_%C3%87i%C3%A7ek_Senate_of_Poland_01.JPG/960px-Cemil_%C3%87i%C3%A7ek_Senate_of_Poland_01.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Cemil_%C3%87i%C3%A7ek_Senate_of_Poland_01.JPG/500px-Cemil_%C3%87i%C3%A7ek_Senate_of_Poland_01.JPG",
-        "genislik": 960,
-        "yukseklik": 1343,
-        "orijinalGenislik": 2409,
-        "yazar": "Michał Józefaciuk",
-        "lisans": "CC BY-SA 3.0 pl",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Cemil_%C3%87i%C3%A7ek_Senate_of_Poland_01.JPG",
-        "aciklama": "Speaker of the Grand National Assembly of Turkey Cemil Çiçek in the Polish Senate",
-        "konu": "Cemil Çiçek"
-      }
+      "durum": "haber"
     },
     {
       "id": "2013-haber-10597",
@@ -1705,16 +1395,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bakanlar-kurulu-basladi-10597"
       },
-      "konular": [
-        "Bakanlar Kurulu",
-        "Recep Tayyip Erdoğan"
-      ],
+      "konular": [],
       "yayin": "2013-11-18T13:58:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Bakanlar Kurulu Toplantısı Başbakan Erdoğan Başkanlığında Gerçekleşti",
-      "ozet": "Başbakan Recep Tayyip Erdoğan yönetiminde toplanan Bakanlar Kurulu çalışmalarına başladı. Kabine üyelerinin katılımıyla gerçekleştirilen toplantıda gündemdeki konular ele alındı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-384398",
@@ -1727,30 +1411,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-bmden-beklentim-yok-384398"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Binyamin Netanyahu",
-        "Türkiye-İsrail ilişkileri"
-      ],
+      "konular": [],
       "yayin": "2012-11-18T13:22:00+03:00",
       "puan": 5,
-      "durum": "yazildi",
-      "baslik": "Başbakan Erdoğan'dan İsrail'e yönelik bölgesel şartlar uyarısı",
-      "ozet": "Dönemin Başbakanı Recep Tayyip Erdoğan, İsrail Başbakanı Binyamin Netanyahu'ya hitaben yaptığı açıklamada mevcut dönemin şartlarının geçmişten farklı olduğunu vurguladı. İsrail tarafının politikalarını yeniden gözden geçirmesi gerektiğini belirten Erdoğan, Birleşmiş Milletler nezdinde herhangi bir beklentisi kalmadığını ifade etti. Bölgedeki değişen koşullara dikkat çeken Başbakan, muhatabına attığı adımların hesabını dikkatli yapması çağrısında bulundu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2011-haber-299036",
@@ -1763,18 +1427,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/uaekin-iran-tasarisi-kabul-edildi-299036"
       },
-      "konular": [
-        "İran'ın nükleer programı",
-        "Uluslararası Atom Enerjisi Kurumu",
-        "İran"
-      ],
+      "konular": [],
       "yayin": "2011-11-18T17:54:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Uluslararası Atom Enerjisi Kurumu İran Hakkında Karar Aldı",
-      "ozet": "Uluslararası Atom Enerjisi Kurumu yönetim kurulu, İran'ın nükleer faaliyetlerini konu alan bir tasarıyı oylamaya sundu. Yapılan oylama sonucunda tasarı, otuz iki kabul, iki ret ve bir çekimser oyla onaylandı. Kurul, bu kararla birlikte ülkenin nükleer programına dair tutumunu resmiyete dökmüş oldu.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2011-haber-299062",
@@ -1787,16 +1443,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tbmm-teskilat-kanun-teklifi-33-maddede-takildi-299062"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "TBMM Plan ve Bütçe Komisyonu"
-      ],
+      "konular": [],
       "yayin": "2011-11-18T21:37:00+03:00",
       "puan": 5,
-      "durum": "elendi",
-      "baslik": "TBMM İdari Teşkilat Kanun Teklifi görüşmelerinde madde engeli",
-      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu bünyesinde yürütülen İdari Teşkilat Kanun Teklifi ile ilgili müzakereler sırasında bir tıkanıklık yaşandı. Söz konusu yasal düzenlemenin otuz üçüncü maddesi üzerinde uzlaşma sağlanamadığı için görüşmelere ara verildi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     }
   ],
   "haberYillari": [
