@@ -1059,7 +1059,7 @@
     "url": "https://tr.wikipedia.org/wiki/17_Kas%C4%B1m",
     "revid": 38169050
   },
-  "guncelleme": "2026-11-11T13:45:13.550Z",
+  "guncelleme": "2026-11-12T14:48:16.995Z",
   "haberler": [
     {
       "id": "2025-haber-2453428",
@@ -1072,17 +1072,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/erdogan-ortulu-odenekte-rekor-kirdi-gizli-harcama-bir-yilda-bes-kat-artti-2453428"
       },
-      "konular": [
-        "Örtülü ödenek",
-        "Recep Tayyip Erdoğan",
-        "Türkiye ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2025-11-17T12:56:00+03:00",
       "puan": 13,
-      "durum": "elendi",
-      "baslik": "Örtülü ödenek harcamalarında aylık bazda yüksek artış kaydedildi",
-      "ozet": "Cumhurbaşkanlığı kullanımındaki örtülü ödenek harcamaları Ekim ayında önceki döneme kıyasla beş katına çıktı. Yılın ilk on aylık sürecindeki toplam gizli hizmet giderleri ise geçen yılın aynı dönemine göre yüzde 37 oranında yükseldi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2453514",
@@ -1095,16 +1088,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/kabine-toplantisi-basladi-erdogan-in-masasinda-neler-var-2453514"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Türkiye Cumhuriyeti Cumhurbaşkanlığı Kabinesi"
-      ],
+      "konular": [],
       "yayin": "2025-11-17T16:09:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Cumhurbaşkanlığı Kabinesi Beştepe'de Bir Araya Geldi",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında gerçekleşen kabine toplantısı başladı. Toplantıda ülkenin güncel iç ve dış politika gündemindeki önemli başlıkların ele alınması bekleniyor. Bakanlar kurulu üyelerinin katılımıyla yapılan oturumda çeşitli idari konuların görüşüldüğü ifade edildi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2269593",
@@ -1117,17 +1104,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/malatya-ve-sivasta-5-mahalle-maden-sahasi-ilan-edildi-koy-yok-olursa-2269593"
       },
-      "konular": [
-        "Madencilik",
-        "Malatya",
-        "Sivas"
-      ],
+      "konular": [],
       "yayin": "2024-11-17T14:34:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Malatya ve Sivas'taki Bazı Yerleşim Yerleri Maden Sahası Kapsamına Alındı",
-      "ozet": "Malatya'nın Kuluncak ilçesindeki dört mahalle ile Sivas'ın Gürün ilçesine bağlı bir köyün bulunduğu bölge maden sahası olarak belirlendi. Söz konusu kararın ardından bölgede yaşayan vatandaşlar bir araya gelerek duruma karşı tepkilerini dile getirdi. Yerleşim alanlarının maden sahası ilan edilmesine yönelik uygulama yöre halkı tarafından protesto edildi.",
-      "kategori": "Toplum"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2269516",
@@ -1140,30 +1120,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/yunanistanda-turkiye-tartismasi-eski-basbakan-partisinden-ihrac-2269516"
       },
-      "konular": [
-        "Antonis Samaras",
-        "Yeni Demokrasi (Yunanistan)",
-        "Yunanistan"
-      ],
+      "konular": [],
       "yayin": "2024-11-17T11:22:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Yunanistan'da Eski Başbakan Antonis Samaras Partisinden İhraç Edildi",
-      "ozet": "Yunanistan'ın eski Başbakanı Antonis Samaras, hükümetin izlediği politikalara karşı getirdiği eleştiriler nedeniyle üyesi olduğu Yeni Demokrasi Partisinden çıkarıldı. Partinin üst düzey isimleri arasında yer alan Samaras, özellikle Türkiye ile yürütülen diplomatik süreçlere yönelik tepkileriyle gündeme gelmişti. Bu gelişmenin ardından hükümet kanadı, disiplin sürecini işleterek eski Başbakanın parti ile ilişiğini kesti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Antonis_Samaras_October_2014.jpg/960px-Antonis_Samaras_October_2014.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Antonis_Samaras_October_2014.jpg/500px-Antonis_Samaras_October_2014.jpg",
-        "genislik": 960,
-        "yukseklik": 1379,
-        "orijinalGenislik": 1408,
-        "yazar": "European People's Party",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Antonis_Samaras_October_2014.jpg",
-        "aciklama": "EPP Summit, Brussels; October 2014",
-        "konu": "Antonis Samaras"
-      }
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2141919",
@@ -1176,16 +1136,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/euro-ve-dolar-zirve-tazeledi-dolar-ve-euro-ne-kadar-oldu-17-kasim-2141919"
       },
-      "konular": [
-        "Döviz kuru",
-        "Türkiye ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2023-11-17T09:36:00+03:00",
       "puan": 14,
-      "durum": "elendi",
-      "baslik": "Döviz kurlarında yükseliş eğilimi devam ediyor",
-      "ozet": "Dolar ve Euro Türk lirası karşısında değer kazanarak yeni seviyelere ulaştı. Küresel piyasalarda doların genel seyri zayıf kalsa da yerel piyasadaki artış sürdü. Öte yandan İsveç'in NATO üyeliği sürecine dair Türkiye Büyük Millet Meclisi Dışişleri Komisyonu'ndaki görüşmelerin ertelenmesi piyasalar tarafından yakından takip edildi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2141844",
@@ -1198,17 +1152,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/chp-anayasa-tartismalarina-kapiyi-kapatti-secim-sonrasina-biraktik-2141844"
       },
-      "konular": [
-        "Özgür Özel",
-        "Numan Kurtulmuş",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2023-11-17T03:00:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "CHP Anayasa Değişikliği Görüşmelerini Seçim Sonrasına Erteledi",
-      "ozet": "Türkiye Büyük Millet Meclisi Başkanı Numan Kurtulmuş, Cumhuriyet Halk Partisi Genel Başkanı Özgür Özel ile bir araya geldi. Gerçekleştirilen görüşmenin ardından açıklamalarda bulunan Özel, anayasa ve iç tüzük değişikliği konusundaki müzakerelerin yerel seçimlerin tamamlanmasının ardından ele alınacağını belirtti. Aynı süreçte Saadet Partisi Grup Başkanı Selçuk Özdağ da Meclis Başkanı Kurtulmuş ile temaslarda bulundu.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-2003634",
@@ -1221,17 +1168,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/meclisteki-butce-gorusmelerinde-maden-faciasi-tartismasi-chpli-bankoglundan-bakan-donmeze-istifa-cagrisi-2003634"
       },
-      "konular": [
-        "Amasra maden faciası",
-        "Fatih Dönmez",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2022-11-17T12:56:00+03:00",
       "puan": 14,
-      "durum": "elendi",
-      "baslik": "Bütçe görüşmelerinde maden kazası ve istifa tartışması yaşandı",
-      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu bünyesinde Enerji ve Tabii Kaynaklar Bakanlığının bütçe teklifi ele alındı. Bakan Fatih Dönmez'in katılımıyla gerçekleşen oturumda, Bartın'da meydana gelen ve 42 madencinin yaşamını yitirdiği kaza gündeme geldi. Cumhuriyet Halk Partisi milletvekili Aysu Bankoğlu, yaşanan olay nedeniyle Bakan Dönmez'e görevi bırakması yönünde çağrıda bulundu.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-2003523",
@@ -1244,30 +1184,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/1966-dunya-kupasinin-gizemi-cozuldu-basbakan-hirsizlari-korudu-mu-2003523"
       },
-      "konular": [
-        "1966 FIFA Dünya Kupası",
-        "Dünya Kupası",
-        "Futbol"
-      ],
+      "konular": [],
       "yayin": "2022-11-17T08:02:00+03:00",
       "puan": 13,
-      "durum": "yazildi",
-      "baslik": "1966 Dünya Kupası ile ilgili uzun süredir korunan sır aydınlığa kavuştu",
-      "ozet": "Dünya genelinde büyük ilgiyle takip edilen futbol turnuvasının sekizinci organizasyonuna dair elli altı yıldır yanıt aranan bir konu açıklığa kavuştu. Turnuva geçmişindeki bu önemli gelişme, organizasyonun tarihine dair merak edilen bir gizemi ortadan kaldırdı.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/960px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/500px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
-        "genislik": 960,
-        "yukseklik": 653,
-        "orijinalGenislik": 3420,
-        "yazar": "Rick Dikeman",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1995.jpg",
-        "aciklama": "Association football (soccer), Bloomington, Indiana. The offensive player (in red) is Chris Klein of the Indiana Hoosiers. He has sprinted past two defenders (in white) and is about to shoot the ball ",
-        "konu": "Futbol"
-      }
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1885573",
@@ -1280,30 +1200,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/duzcedeki-deprem-sonrasi-uzmanlardan-ilk-degerlendirme-1999-depreminin-fayi-1885573"
       },
-      "konular": [
-        "2021 Düzce depremi",
-        "Düzce",
-        "Deprem"
-      ],
+      "konular": [],
       "yayin": "2021-11-17T16:28:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Düzce merkezli deprem çevre illerde de hissedildi",
-      "ozet": "Düzce merkez üssü olarak kaydedilen 5,3 büyüklüğündeki sarsıntı, İstanbul, Kocaeli, Bolu ve Eskişehir gibi çevre illerde de etkisini gösterdi. İlk sarsıntının ardından bölgede 4,3 büyüklüğünde bir deprem daha yaşandı. Uzmanlar, meydana gelen bu hareketliliğin 1999 depremiyle bağlantılı fay hattı üzerinde gerçekleştiğini belirtti.",
-      "kategori": "Afet",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/645x344-1573480687396.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/645x344-1573480687396.jpg",
-        "genislik": 645,
-        "yukseklik": 344,
-        "orijinalGenislik": 645,
-        "yazar": "sabah gazetesi",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:645x344-1573480687396.jpg",
-        "aciklama": "kuş bakışı fotoğraf",
-        "konu": "Düzce"
-      }
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1885414",
@@ -1316,17 +1216,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/piyasalarda-son-durum-dolar-ve-euro-ne-kadar-oldu-17-kasim-2021-1885414"
       },
-      "konular": [
-        "Döviz kuru",
-        "Türkiye Cumhuriyet Merkez Bankası",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2021-11-17T09:09:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Dolar ve euro kurunda yükseliş eğilimi devam ediyor",
-      "ozet": "Doların küresel piyasalardaki güçlü konumu ve Türkiye Cumhuriyet Merkez Bankasının faiz oranlarında indirime gideceği yönündeki beklentiler döviz kurlarını etkiledi. Enflasyon ve para politikalarına yönelik endişelerin de etkisiyle dolar ve euro tarihi seviyelerdeki hareketliliğini korudu.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1791762",
@@ -1339,30 +1232,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/azerbaycana-asker-gonderilmesine-iliskin-tezkere-tbmmde-kabul-edildi-1791762"
       },
-      "konular": [
-        "Azerbaycan",
-        "Türkiye Büyük Millet Meclisi",
-        "Dağlık Karabağ"
-      ],
+      "konular": [],
       "yayin": "2020-11-17T21:32:00+03:00",
       "puan": 12,
-      "durum": "yazildi",
-      "baslik": "Azerbaycan'a Türk askeri gönderilmesine dair tezkere onaylandı",
-      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, Azerbaycan'a asker gönderilmesini öngören Cumhurbaşkanlığı tezkeresini görüşerek kabul etti. Söz konusu karar, mecliste grubu bulunan siyasi partilerin büyük çoğunluğunun desteğiyle yürürlüğe girdi. Bu adımla birlikte bölgedeki barış ve istikrarın korunması amacıyla Türk askerinin görevlendirilmesinin önü açıldı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Da%C4%9Fl%C4%B1k_Karaba%C4%9F.tif/lossless-page1-500px-Da%C4%9Fl%C4%B1k_Karaba%C4%9F.tif.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Da%C4%9Fl%C4%B1k_Karaba%C4%9F.tif/lossless-page1-500px-Da%C4%9Fl%C4%B1k_Karaba%C4%9F.tif.png",
-        "genislik": 595,
-        "yukseklik": 387,
-        "orijinalGenislik": 595,
-        "yazar": "en:User:Aivazovsky",
-        "lisans": "CC0",
-        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Da%C4%9Fl%C4%B1k_Karaba%C4%9F.tif",
-        "aciklama": "Dağlık Karabağ ve çevresi",
-        "konu": "Dağlık Karabağ"
-      }
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1791748",
@@ -1375,17 +1248,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/rekor-adam-emreden-olimpiyat-sozu-1791748"
       },
-      "konular": [
-        "Emre Sakçı",
-        "Yüzme",
-        "Uluslararası Yüzme Ligi"
-      ],
+      "konular": [],
       "yayin": "2020-11-17T18:22:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Milli yüzücü Emre Sakçı Budapeşte'deki başarılarının ardından yurda döndü",
-      "ozet": "Macaristan'ın başkenti Budapeşte'de gerçekleştirilen Uluslararası Yüzme Ligi müsabakalarında önemli dereceler elde eden milli sporcu Emre Sakçı, Türkiye'ye geri geldi. Başarılı yüzücü, katıldığı organizasyonda gösterdiği performansın ardından olimpiyat oyunlarına katılma hedefini dile getirdi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1702605",
@@ -1398,17 +1264,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/turkiye-motodrag-sampiyonasi-kepezde-1702605"
       },
-      "konular": [
-        "Drag yarışı",
-        "Kepez",
-        "Antalya"
-      ],
+      "konular": [],
       "yayin": "2019-11-17T14:25:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Kepez Drag Pisti Türkiye Motodrag Yarışlarına Ev Sahipliği Yapıyor",
-      "ozet": "Kepez Belediyesi tarafından Odabaşı Mahallesi sınırları içerisinde hizmete sunulan Kepez Drag Pisti, Türkiye Motodrag Şampiyonası kapsamında düzenlenen ikinci ve üçüncü ayak yarışlarını ağırladı. Hafta sonu start alan ve büyük bir heyecana sahne olan organizasyon, hız tutkunlarını bir araya getirerek devam etti.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1702552",
@@ -1421,17 +1280,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdoganin-eski-basin-danismani-arkadaslarimiz-ben-istemeden-ertesi-gun-gazete-mansetini-bana-gonderip-uygun-mudur-diye-soruyordu-1702552"
       },
-      "konular": [
-        "Kemal Öztürk",
-        "Recep Tayyip Erdoğan",
-        "Basın"
-      ],
+      "konular": [],
       "yayin": "2019-11-17T09:27:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Kemal Öztürk Basın Danışmanlığı Dönemindeki Çalışma Sürecini Anlattı",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eski basın danışmanı Kemal Öztürk, görev yaptığı dönemdeki işleyişe dair açıklamalarda bulundu. Öztürk, gazete manşetlerinin yayımlanmadan önce kendisine iletildiğini ve onayının istendiğini belirtti. Bu süreçte çalışma arkadaşlarının haber içeriklerini kendisine danışarak hareket ettiğini ifade etti.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1143667",
@@ -1444,30 +1296,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/gobeklitepe-tam-gun-ziyarete-acildi-1143667"
       },
-      "konular": [
-        "Göbeklitepe",
-        "Şanlıurfa",
-        "UNESCO Dünya Miras Listesi"
-      ],
+      "konular": [],
       "yayin": "2018-11-17T14:03:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Göbeklitepe ören yeri yeniden tam gün ziyarete açıldı",
-      "ozet": "Şanlıurfa sınırları içerisinde yer alan ve dünyanın bilinen en eski tapınak merkezi olarak tanımlanan Göbeklitepe, yürütülen çatı onarım çalışmalarının bitmesiyle birlikte ziyaretçilerini tekrar ağırlamaya başladı. UNESCO Dünya Miras Listesi'nde bulunan ve on iki bin yıllık bir geçmişe sahip olan bu tarihi alan, yapılan düzenlemelerin ardından gün boyu gezilebilecek şekilde hizmete sunuldu.",
-      "kategori": "Keşif",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/G%C3%B6bekli_Tepe%2C_Urfa.jpg/960px-G%C3%B6bekli_Tepe%2C_Urfa.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/G%C3%B6bekli_Tepe%2C_Urfa.jpg/500px-G%C3%B6bekli_Tepe%2C_Urfa.jpg",
-        "genislik": 960,
-        "yukseklik": 638,
-        "orijinalGenislik": 4288,
-        "yazar": "Teomancimit",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:G%C3%B6bekli_Tepe,_Urfa.jpg",
-        "aciklama": "Göbekli Tepe, Şanlıurfa",
-        "konu": "Göbeklitepe"
-      }
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1144028",
@@ -1480,17 +1312,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yagmurda-emek-bulusmasi-saraya-degil-emekciye-butce-1144028"
       },
-      "konular": [
-        "KESK",
-        "İzmir",
-        "Miting"
-      ],
+      "konular": [],
       "yayin": "2018-11-17T21:01:00+03:00",
       "puan": 6,
-      "durum": "elendi",
-      "baslik": "KESK tarafindan Izmirde ekonomi temali miting duzenlendi",
-      "ozet": "Kamu Emekçileri Sendikaları Konfederasyonu tarafından ekonomik krize karşı düzenlenen bölge mitinglerinin ilki İzmir Gündoğdu Meydanı'nda gerçekleştirildi. Olumsuz hava koşullarına rağmen katılımcıların yoğun ilgi gösterdiği etkinlikte, bütçenin emekçiler lehine kullanılması gerektiği vurgulandı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-867959",
@@ -1503,30 +1328,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/olimpiyat-sampiyonu-iranli-depremzedeler-icin-madalyasini-satisa-cikardi-867959"
       },
-      "konular": [
-        "Kianoush Rostami",
-        "2017 İran-Irak depremi",
-        "Halter"
-      ],
+      "konular": [],
       "yayin": "2017-11-17T13:01:00+03:00",
       "puan": 14,
-      "durum": "yazildi",
-      "baslik": "Olimpiyat şampiyonu madalyasını depremzedeler için satışa sundu",
-      "ozet": "Rio 2016 Olimpiyat Oyunları'nda altın madalya kazanan İranlı halterci Kianoush Rostami, deprem mağdurlarına destek olmak amacıyla anlamlı bir karar aldı. Sporcu, İran ile Irak sınırında yaşanan şiddetli sarsıntıdan zarar gören vatandaşlara yardım sağlamak için kazandığı madalyayı açık artırma yoluyla satışa çıkardı.",
-      "kategori": "Toplum",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Kianoush_Rostami_at_the_2016_Summer_Olympics_%2820%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Kianoush_Rostami_at_the_2016_Summer_Olympics_%2820%29.jpg",
-        "genislik": 533,
-        "yukseklik": 755,
-        "orijinalGenislik": 533,
-        "yazar": "Javid Nikpour",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Kianoush_Rostami_at_the_2016_Summer_Olympics_(20).jpg",
-        "aciklama": "کیانوش رستمی در بازی‌های المپیک تابستانی ۲۰۱۶",
-        "konu": "Kianoush Rostami"
-      }
+      "durum": "haber"
     },
     {
       "id": "2017-haber-867892",
@@ -1539,30 +1344,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-merkez-bankasini-hedef-aldi-dolar-390i-asti-867892"
       },
-      "konular": [
-        "Türkiye Cumhuriyet Merkez Bankası",
-        "Recep Tayyip Erdoğan",
-        "Dolar"
-      ],
+      "konular": [],
       "yayin": "2017-11-17T11:48:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Merkez Bankası açıklamaları sonrası döviz kurunda yükseliş yaşandı",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan tarafından Merkez Bankası politikalarına yönelik yapılan eleştiriler piyasalarda karşılık buldu. Bu açıklamaların ardından döviz piyasasında hareketlilik gözlendi ve doların değeri 3.90 seviyesinin üzerine çıktı.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG/960px-TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG/500px-TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
-        "genislik": 960,
-        "yukseklik": 1280,
-        "orijinalGenislik": 2448,
-        "yazar": "Vikiçizer",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
-        "aciklama": "TC Merkez Bankası ön cephe",
-        "konu": "Türkiye Cumhuriyet Merkez Bankası"
-      }
+      "durum": "haber"
     },
     {
       "id": "2016-haber-632055",
@@ -1575,17 +1360,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/turk-lirasi-eriyor-dolardan-bir-rekor-daha-632055"
       },
-      "konular": [
-        "Dolar",
-        "Türk lirası",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2016-11-17T16:22:00+03:00",
       "puan": 13,
-      "durum": "elendi",
-      "baslik": "Dolar kuru Türk lirası karşısında yeni zirvesine ulaştı",
-      "ozet": "Doların Türk lirası karşısındaki değer artışı hız kesmeden devam etti. Gün içerisinde 3,33 seviyesini aşan döviz kuru, yeni bir rekor düzeye ulaştı. Piyasa uzmanları ise yükseliş eğiliminin süreceğini öngörerek kurun 3,435 seviyesine kadar çıkabileceği tahmininde bulundu.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-632147",
@@ -1598,17 +1376,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/galatasaray-odeabankta-kadro-disi-depremi-632147"
       },
-      "konular": [
-        "Galatasaray (basketbol takımı)",
-        "Justin Dentmon",
-        "Russ Smith"
-      ],
+      "konular": [],
       "yayin": "2016-11-17T19:35:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Galatasaray Odeabank takımında iki oyuncu kadro dışı bırakıldı",
-      "ozet": "Galatasaray Odeabank basketbol takımı, Darüşşafaka Doğuş ile oynayacağı karşılaşma öncesinde bir karar aldı. Kulüp yönetimi, kadroda yer alan Amerikalı basketbolcular Russ Smith ve Justin Dentmon'ın takımdan ayrı tutulacağını duyurdu. Söz konusu oyuncular bu gelişmenin ardından maç kadrosuna dahil edilmedi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2015-haber-421005",
@@ -1621,16 +1392,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/savas-butcesi-rekor-kirdi-421005"
       },
-      "konular": [
-        "Savunma bütçesi",
-        "Türkiye ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2015-11-17T00:03:00+03:00",
       "puan": 14,
-      "durum": "elendi",
-      "baslik": "Savunma ve güvenlik harcamalarında aylık rekor seviyeye ulaşıldı",
-      "ozet": "Ülke genelinde savunma ve güvenlik alanına ayrılan bütçe kalemlerinde önemli bir artış yaşandı. Söz konusu harcamalar tek bir ay içerisinde 519,2 milyon liraya ulaşarak yeni bir rekor seviyeyi belirledi. Bu durum, güvenlik birimlerinin operasyonel ihtiyaçları için ayrılan finansal kaynakların ulaştığı boyutu gözler önüne serdi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2015-haber-421791",
@@ -1643,30 +1408,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/aihmden-turkiyeye-marmara-depremi-cezasi-421791"
       },
-      "konular": [
-        "1999 İzmit depremi",
-        "Avrupa İnsan Hakları Mahkemesi",
-        "Çınarcık"
-      ],
+      "konular": [],
       "yayin": "2015-11-17T14:45:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "AİHM Marmara Depremi ile İlgili Tazminat Kararı Verdi",
-      "ozet": "Avrupa İnsan Hakları Mahkemesi, 1999 yılında yaşanan deprem felaketiyle ilgili Çınarcık bölgesinden gelen başvuruyu karara bağladı. Mahkeme, Türkiye'yi haksız bularak 124 bin euro tutarında maddi tazminat ödenmesine hükmetti. Bu karar, deprem sonrası yapılan hukuki başvuruların sonuçlarından biri olarak kayıtlara geçti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Izmit_eart3.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Izmit_eart3.jpg",
-        "genislik": 640,
-        "yukseklik": 480,
-        "orijinalGenislik": 640,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Izmit_eart3.jpg",
-        "aciklama": null,
-        "konu": "1999 İzmit depremi"
-      }
+      "durum": "haber"
     },
     {
       "id": "2014-haber-142438",
@@ -1679,16 +1424,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/12-milyarlik-ibb-butcesi-tartismalar-arasinda-meclisten-gecti-142438"
       },
-      "konular": [
-        "İstanbul Büyükşehir Belediyesi",
-        "Belediye bütçesi"
-      ],
+      "konular": [],
       "yayin": "2014-11-17T21:52:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "İstanbul Büyükşehir Belediyesi 2015 yılı bütçesi onaylandı",
-      "ozet": "İstanbul Büyükşehir Belediyesi Meclisi tarafından görüşülen 2015 mali yılı bütçesi karara bağlandı. Toplamda 12 milyar 250 milyon lira olarak belirlenen bütçe tasarısı, meclis oturumunda yaşanan tartışmaların ardından oy çokluğuyla kabul edildi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2014-haber-142390",
@@ -1701,17 +1440,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/agbaba-akp-oy-isterken-demokrat-secimden-sonra-diktator-142390"
       },
-      "konular": [
-        "Veli Ağbaba",
-        "Volkan Bozkır",
-        "Cumhuriyet Halk Partisi"
-      ],
+      "konular": [],
       "yayin": "2014-11-17T16:36:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Veli Ağbaba'dan hükümetin seçim tutumuna yönelik eleştiri",
-      "ozet": "Cumhuriyet Halk Partisi Genel Başkan Yardımcısı Veli Ağbaba, Avrupa Birliği Bakanı Volkan Bozkır'ın Kuşadası'ndaki bir ilçe kongresinde adaylardan birinin çekilmesi yönündeki talebini eleştirdi. Ağbaba, iktidar partisinin seçim dönemlerinde demokratik bir söylem benimsediğini ancak seçimlerin ardından farklı bir yönetim anlayışı sergilediğini savundu.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2013-haber-10233",
@@ -1724,17 +1456,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/zaman-yazarlarindan-basbakana-dershane-tehdidi-10233"
       },
-      "konular": [
-        "Dershane",
-        "Zaman (gazete)",
-        "Türkiye'de siyaset"
-      ],
+      "konular": [],
       "yayin": "2013-11-17T12:59:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Dershanelerin kapatılması tartışması basın gündemine taşındı",
-      "ozet": "Zaman gazetesi yazarları Mustafa Ünal ve Mümtaz'er Türköne, kaleme aldıkları köşe yazılarında dershanelerin kapatılmasına yönelik hükümetin planlarını eleştirdi. Yazarlar, Başbakan'ın bu konudaki tutumuna karşı sert ifadeler kullanarak tepkilerini dile getirdi. Söz konusu yazılar, eğitim kurumlarının geleceği üzerine yürütülen tartışmaların bir parçası olarak kamuoyuna yansıdı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2013-haber-10123",
@@ -1747,30 +1472,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/besir-atalay-ve-erdogan-arasinda-kurdistan-tartismasi-10123"
       },
-      "konular": [
-        "Beşir Atalay",
-        "Recep Tayyip Erdoğan",
-        "Türkiye siyaseti"
-      ],
+      "konular": [],
       "yayin": "2013-11-17T09:25:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Kürdistan ifadesinin kullanımı üzerine hükümet içinde görüşme yapıldı",
-      "ozet": "Başbakan Recep Tayyip Erdoğan ile Başbakan Yardımcısı Beşir Atalay arasında Kürdistan kavramının kullanımı üzerine bir değerlendirme gerçekleşti. Atalay, söz konusu ifadenin siyasi ve toplumsal bağlamda tartışıldığını kamuoyuna açıkladı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Be%C5%9Fir_Atalay_%28cropped%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Be%C5%9Fir_Atalay_%28cropped%29.jpg",
-        "genislik": 418,
-        "yukseklik": 552,
-        "orijinalGenislik": 418,
-        "yazar": "Mehtap Çolak Yılmaz",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Be%C5%9Fir_Atalay_(cropped).jpg",
-        "aciklama": "Türk siyasetçi Beşir Atalay'ın Insight Turkey'in 2014 toplantısında çekilmiş bir fotoğrafı.",
-        "konu": "Beşir Atalay"
-      }
+      "durum": "haber"
     },
     {
       "id": "2012-haber-384204",
@@ -1783,30 +1488,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-israile-hesabi-sorulacak-384204"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "İsrail-Türkiye ilişkileri",
-        "Kahire Üniversitesi"
-      ],
+      "konular": [],
       "yayin": "2012-11-17T10:03:00+03:00",
       "puan": 5,
-      "durum": "yazildi",
-      "baslik": "Recep Tayyip Erdoğan Kahire Üniversitesinde İsrail Politikalarını Eleştirdi",
-      "ozet": "Kahire Üniversitesinde bir konuşma gerçekleştiren Recep Tayyip Erdoğan, İsrail yönetimine yönelik sert açıklamalarda bulundu. İsrail'in bölgedeki tutumunu eleştiren Erdoğan, yaşanan olayların karşılıksız kalmayacağını ve sorumlulardan hesap sorulacağını ifade etti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2012-haber-384266",
@@ -1819,29 +1504,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/31-uluslararasi-kitap-fuari-acildi-384266"
       },
-      "konular": [
-        "İstanbul Kitap Fuarı",
-        "İstanbul"
-      ],
+      "konular": [],
       "yayin": "2012-11-17T14:12:00+03:00",
       "puan": 3,
-      "durum": "yazildi",
-      "baslik": "İstanbul Uluslararası Kitap Fuarı kapılarını okurlara açtı",
-      "ozet": "Bu yıl otuz birincisi düzenlenen İstanbul Kitap Fuarı, çok sayıda yayınevi ve sivil toplum kuruluşunun katılımıyla başladı. Etkinlik kapsamında kırk farklı ülkeden gelen yayınevleri, telif ajansları ve çeşitli yazarlar bir araya geldi.",
-      "kategori": "Edebiyat",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2010_Istanbul_Book_Fair.jpg/960px-2010_Istanbul_Book_Fair.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2010_Istanbul_Book_Fair.jpg/500px-2010_Istanbul_Book_Fair.jpg",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 1600,
-        "yazar": "Akinranbu",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:2010_Istanbul_Book_Fair.jpg",
-        "aciklama": "2010 Istanbul Book Fair.",
-        "konu": "İstanbul Kitap Fuarı"
-      }
+      "durum": "haber"
     },
     {
       "id": "2011-haber-298800",
@@ -1854,30 +1520,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-time-dergisine-kapak-oldu-298800"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Time (dergi)",
-        "Türkiye"
-      ],
+      "konular": [],
       "yayin": "2011-11-17T22:01:00+03:00",
       "puan": 5,
-      "durum": "yazildi",
-      "baslik": "Time dergisi Recep Tayyip Erdoğan'ı kapağına taşıdı",
-      "ozet": "Amerika Birleşik Devletleri merkezli haftalık yayın yapan Time dergisi, güncel sayısının kapağında Recep Tayyip Erdoğan'a yer verdi. Dergi yönetimi, hazırladığı yeni sayısında Türkiye'nin o dönemki başbakanı olan Erdoğan'ı kapak konusu olarak belirledi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2011-haber-298636",
@@ -1890,30 +1536,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-dunyaya-suriye-resti-298636"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Karadeniz Ekonomik İşbirliği",
-        "Enerji politikası"
-      ],
+      "konular": [],
       "yayin": "2011-11-17T09:29:00+03:00",
       "puan": 5,
-      "durum": "yazildi",
-      "baslik": "Başbakan Erdoğan enerji politikaları üzerine değerlendirmelerde bulundu",
-      "ozet": "Karadeniz Ekonomik ve İşbirliği Forumu kapsamında bir konuşma gerçekleştiren Başbakan Recep Tayyip Erdoğan, enerji alanındaki stratejilere dair görüşlerini paylaştı. Bölgesel iş birliğinin önemine vurgu yapan Erdoğan, enerji politikalarının geleceğine yönelik değerlendirmelerini katılımcılara aktardı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     }
   ],
   "haberYillari": [

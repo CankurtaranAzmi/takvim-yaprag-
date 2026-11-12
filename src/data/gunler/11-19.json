@@ -1131,7 +1131,7 @@
     "url": "https://tr.wikipedia.org/wiki/19_Kas%C4%B1m",
     "revid": 37128645
   },
-  "guncelleme": "2026-11-11T13:45:14.291Z",
+  "guncelleme": "2026-11-12T14:48:17.887Z",
   "haberler": [
     {
       "id": "2025-haber-2453915",
@@ -1144,17 +1144,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/iktidar-celisti-erdogan-a-gore-kisi-basina-gelir-17-bin-dolara-yaklasti-aile-bakani-goktas-a-gore-yoksulluk-zincirini-kirmak-icin-egitim-yardimlarina-ozel-onem-veriliyor-2453915"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Mahinur Özdemir Göktaş",
-        "Türkiye ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2025-11-19T09:20:00+03:00",
       "puan": 14,
-      "durum": "elendi",
-      "baslik": "Ekonomi verileri ve sosyal destek politikaları üzerine farklı açıklamalar",
-      "ozet": "Cumhurbaşkanı Erdoğan, ülkenin ekonomik büyüklük sıralamasında Avrupa'da yedinci, dünyada ise on yedinci sıraya ulaştığını ve kişi başına düşen milli gelirin 17 bin dolar seviyesine yaklaştığını ifade etti. Aynı süreçte Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, yoksulluk döngüsünü kırmak amacıyla eğitim desteklerine öncelik verdiklerini vurguladı. Devletin ekonomik göstergeleri ile sosyal yardım stratejilerine dair yapılan bu değerlendirmeler kamuoyuna yansıdı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2454086",
@@ -1167,17 +1160,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/altin-ve-dolari-geride-birakti-yeni-yilda-en-cok-kazandirmasi-beklenen-yatirim-araci-belli-oldu-2454086"
       },
-      "konular": [
-        "Japon Yeni",
-        "Bank of America",
-        "Yatırım"
-      ],
+      "konular": [],
       "yayin": "2025-11-19T16:16:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Bank of America anketine göre 2026 yılında Japon Yeni öne çıkacak",
-      "ozet": "Bank of America tarafından gerçekleştirilen ankette görüş bildiren fon yöneticileri, gelecek yıl Japon Yeni'nin yatırımcılar için en yüksek getiriyi sağlayacak varlık olacağını tahmin etti. Değerli metaller ve diğer para birimlerinin piyasa performansları da yatırımcılar tarafından yakından izlenmeye devam ediyor. Altın ve dolar ise Japon Yeni ile birlikte yatırımcıların dikkatle takip ettiği diğer önemli varlıklar arasında yer aldı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2270528",
@@ -1190,17 +1176,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/tarihi-belli-oldu-gevrege-zam-yolda-2270528"
       },
-      "konular": [
-        "Gevrek",
-        "İzmir",
-        "Esnaf ve Sanatkarlar Odası"
-      ],
+      "konular": [],
       "yayin": "2024-11-19T18:45:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "İzmir Gevreğinin Satış Fiyatında Artış Kararı Alındı",
-      "ozet": "İzmir Pide Gevrek İmalatçıları ve Benzerleri Esnaf ve Sanatkarlar Odası, gevrek fiyatlarının yükseltilmesi için harekete geçti. Mevcut durumda on iki buçuk liradan alıcı bulan gevreğin, ilgili bakanlıktan onay alınmasının ardından on beş liraya satılacağı açıklandı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2270453",
