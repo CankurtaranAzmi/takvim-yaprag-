@@ -902,7 +902,7 @@
     "url": "https://tr.wikipedia.org/wiki/22_Kas%C4%B1m",
     "revid": 37272765
   },
-  "guncelleme": "2026-11-12T14:48:19.245Z",
+  "guncelleme": "2026-11-13T14:07:50.361Z",
   "haberler": [
     {
       "id": "2025-haber-2454764",
@@ -915,10 +915,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/kemal-memisoglu-saglik-bakanligimizin-2026-yili-butce-teklifi-tbmm-plan-ve-butce-komisyonu-nda-kabul-edildi-2454764"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu",
+        "Kemal Memişoğlu",
+        "Sağlık Bakanlığı"
+      ],
       "yayin": "2025-11-22T00:31:00+03:00",
       "puan": 19,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Sağlık Bakanlığının 2026 Bütçe Teklifi Komisyonda Onaylandı",
+      "ozet": "Sağlık Bakanlığı tarafından hazırlanan 2026 yılı bütçe teklifi, Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu üyeleri tarafından görüşülerek kabul edildi. Bakan Kemal Memişoğlu, bütçe görüşmeleri kapsamında bakanlığın gelecek dönem hedefleri ve planlamaları hakkında komisyon üyelerine detaylı bilgiler sundu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2025-haber-2454790",
@@ -931,10 +938,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/bu-hafta-en-cok-hangi-yatirim-araci-kazandirdi-dolar-altin-euro-borsa-2454790"
       },
-      "konular": [],
+      "konular": [
+        "Yatırım",
+        "Ekonomi"
+      ],
       "yayin": "2025-11-22T10:22:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Haftalık yatırım araçlarının piyasa performansı açıklandı",
+      "ozet": "Finansal piyasalarda geride kalan haftanın verileri netleşti. Yatırımcıların yakından takip ettiği döviz kurları, altın fiyatları ve borsa endeksindeki değişimler raporlandı. Söz konusu araçların haftalık bazda yatırımcısına sağladığı getiri veya kaybettirdiği oranlar kamuoyu ile paylaşıldı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2024-haber-2271551",
@@ -947,10 +960,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/tbmm-butce-gorusmelerinde-takvim-degisti-2271551"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Milli Savunma Bakanlığı",
+        "Bütçe"
+      ],
       "yayin": "2024-11-22T13:57:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Milli Savunma Bakanligi Butce Gorusmeleri Ertelendi",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, çalışma takviminde düzenlemeye gitti. Yapılan değişiklikle birlikte Milli Savunma Bakanlığına ait bütçe görüşmelerinin gerçekleştirileceği tarih 26 Kasım olarak belirlendi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2271544",
@@ -963,10 +983,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasindan-zorunlu-karsilik-orani-karari-yuzde-20-dusurdu-2271544"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Zorunlu karşılık",
+        "Ekonomi"
+      ],
       "yayin": "2024-11-22T13:48:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Merkez Bankası zorunlu karşılık oranlarında değişikliğe gitti",
+      "ozet": "Türkiye Cumhuriyet Merkez Bankası zorunlu karşılık oranlarını yeniden düzenledi. Yapılan düzenleme kapsamında Türk lirası mevduatları için belirlenen yeni oran yüzde 17 seviyesine çekildi. Aynı zamanda yabancı para mevduatlarına uygulanan zorunlu karşılık oranlarında da yüzde 20 oranında bir düşüş gerçekleştirildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2143880",
@@ -979,10 +1006,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-dikbayira-yonelik-sorusturma-baslatilmasi-kabul-edildi-2143880"
       },
-      "konular": [],
+      "konular": [
+        "Ümit Dikbayır",
+        "İYİ Parti",
+        "Siyaset"
+      ],
       "yayin": "2023-11-22T17:51:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ümit Dikbayır hakkında disiplin soruşturması başlatıldı",
+      "ozet": "İYİ Parti yönetimi, kesin ihraç istemiyle disiplin kuruluna sevk edilen Sakarya milletvekili Ümit Dikbayır ile ilgili yeni bir karar aldı. Parti tarafından yapılan açıklamada, Dikbayır hakkında soruşturma yürütülmesine karar verildiği kamuoyuna duyuruldu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-2005263",
@@ -995,10 +1029,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/dunya-kupasinda-suudi-arabistan-zafer-sarhosu-ulkede-resmi-tatil-ilan-edildi-2005263"
       },
-      "konular": [],
+      "konular": [
+        "2022 FIFA Dünya Kupası",
+        "Suudi Arabistan millî futbol takımı",
+        "Arjantin millî futbol takımı"
+      ],
       "yayin": "2022-11-22T19:51:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Suudi Arabistan'da Dünya Kupası galibiyeti sonrası resmi tatil kararı",
+      "ozet": "Katar'da düzenlenen Dünya Kupası karşılaşmasında Arjantin karşısında sürpriz bir galibiyet elde eden Suudi Arabistan yönetimi, bu başarının ardından ülkede bir günlük resmi tatil ilan etti. 2-1 sonuçlanan müsabakanın ardından yaşanan büyük sevinç sonrası alınan bu kararla tüm çalışanlar ve öğrenciler izinli sayıldı.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Argentina_team_in_St._Petersburg.jpg/960px-Argentina_team_in_St._Petersburg.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Argentina_team_in_St._Petersburg.jpg/500px-Argentina_team_in_St._Petersburg.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 1500,
+        "yazar": "Кирилл Венедиктов",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Argentina_team_in_St._Petersburg.jpg",
+        "aciklama": "Argentina vs Nigeria match",
+        "konu": "Arjantin millî futbol takımı"
+      }
     },
     {
       "id": "2022-haber-2005107",
@@ -1011,10 +1065,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/chpde-secim-starti-verildi-aday-olacaklara-istifa-talimati-2005107"
       },
-      "konular": [],
+      "konular": [
+        "Cumhuriyet Halk Partisi",
+        "Siyaset"
+      ],
       "yayin": "2022-11-22T11:28:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhuriyet Halk Partisi'nde milletvekili adaylığı süreci başladı",
+      "ozet": "Cumhuriyet Halk Partisi yönetimi, milletvekili aday adayı olmayı planlayan il ve ilçe başkanlarının görevlerinden ayrılmaları gerektiğini duyurdu. İstifa eden yöneticilerin yerine yapılacak atamalar veya seçim süreçleri ise genel merkez tarafından denetim altına alındı. Bu kapsamda, ilgili genel başkan yardımcılarının onayı olmadan herhangi bir yeni görevlendirme gerçekleştirilmeyeceği ifade edildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2021-haber-1886893",
@@ -1027,10 +1087,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/bolu-belediye-meclisinden-karar-yabancilara-su-dolarla-nikah-100-bin-tl-1886893"
       },
-      "konular": [],
+      "konular": [
+        "Bolu",
+        "Belediye meclisi"
+      ],
       "yayin": "2021-11-22T21:26:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Bolu Belediye Meclisi yabancılara yönelik yeni ücret tarifesini onayladı",
+      "ozet": "Bolu Belediye Meclisi tarafından gerçekleştirilen oturumda, yabancı uyruklu kişilere yönelik yeni bir fiyatlandırma politikası karara bağlandı. Alınan karara göre, yabancıların su tüketim bedellerinin dolar kuru üzerinden hesaplanması ve nikah işlemlerinde 100 bin Türk Lirası ücret talep edilmesi uygulaması oy çokluğuyla kabul edildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2021-haber-1886881",
@@ -1043,10 +1109,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/akpli-cumhurbaskani-recep-tayyip-erdogan-konustu-dolar-firladi-1886881"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Türkiye ekonomisi",
+        "Döviz kuru"
+      ],
       "yayin": "2021-11-22T19:30:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanlığı Kabinesi toplantısı sonrasında ekonomi açıklaması yapıldı",
+      "ozet": "Cumhurbaşkanlığı Kabinesi toplantısının ardından Cumhurbaşkanı Recep Tayyip Erdoğan kamuoyuna yönelik değerlendirmelerde bulundu. Toplantı sonrasında yapılan açıklamaların ardından döviz kurlarında hareketlilik gözlemlendi.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2020-haber-1792869",
@@ -1059,10 +1145,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/koronavirusun-meslek-hastaligi-sayilmasi-meclis-saglik-komisyonunda-kabul-edildi-1792869"
       },
-      "konular": [],
+      "konular": [
+        "COVID-19 pandemisi",
+        "Meslek hastalığı",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2020-11-22T23:13:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Sağlık çalışanları için koronavirüs meslek hastalığı olarak kabul edildi",
+      "ozet": "Türkiye Büyük Millet Meclisi Sağlık Komisyonu, sağlık sektöründe görev yapan personelin koronavirüse yakalanması durumunun meslek hastalığı sayılmasına yönelik düzenlemeyi onayladı. Tüm siyasi partilerin ortak mutabakatı ile alınan bu karar, komisyon üyelerinin desteğiyle yasalaşma sürecinde önemli bir aşamayı geride bıraktı.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2020-haber-1792911",
@@ -1075,10 +1169,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/pentatlon-sampiyonasinda-bronz-madalya-1792911"
       },
-      "konular": [],
+      "konular": [
+        "Modern pentatlon",
+        "Türkiye millî pentatlon takımı"
+      ],
       "yayin": "2020-11-22T10:21:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Milli Pentatlon Takımı Avrupa Şampiyonası'nda Üçüncü Oldu",
+      "ozet": "Türkiye Erkek Milli Pentatlon Takımı, katıldığı şampiyonada başarılı bir performans sergiledi. Buğra Ünal, Dora Nusretoğlu ve Arda Selçuk'tan oluşan sporcu grubu, turnuvayı bronz madalya kazanarak tamamladı.",
+      "kategori": "Spor"
     },
     {
       "id": "2019-haber-1703626",
@@ -1091,10 +1191,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ibb-spordan-olimpiyata-rekor-katilim-1703626"
       },
-      "konular": [],
+      "konular": [
+        "İstanbul Büyükşehir Belediyespor",
+        "2020 Yaz Olimpiyatları"
+      ],
       "yayin": "2019-11-22T12:49:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İstanbul Büyükşehir Belediyesi Spor Kulübü Olimpiyat Hedefini Belirledi",
+      "ozet": "Milli takımlara en fazla sporcu sağlayan kulüplerden biri olan İstanbul Büyükşehir Belediyesi Spor Kulübü, Tokyo Olimpiyatları için hazırlıklarını sürdürdü. Kulüp bünyesindeki sekiz sporcu olimpiyatlara katılma hakkı kazanırken, otuz dokuz sporcu ise kota alabilmek için çalışmalarına devam etti.",
+      "kategori": "Spor"
     },
     {
       "id": "2019-haber-1703678",
@@ -1107,10 +1213,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/razgatlioglunun-hedefi-dunya-superbike-sampiyonasinda-birincilik-1703678"
       },
-      "konular": [],
+      "konular": [
+        "Toprak Razgatlıoğlu",
+        "Superbike Dünya Şampiyonası",
+        "Yamaha Motor"
+      ],
       "yayin": "2019-11-22T15:44:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Toprak Razgatlıoğlu PATA Yamaha Takımı ile Anlaşma Sağladı",
+      "ozet": "Milli motosikletçi Toprak Razgatlıoğlu, Dünya Superbike Şampiyonası'ndaki kariyer hedeflerine ulaşmak adına PATA Yamaha ekibiyle resmi sözleşme imzaladı. Şampiyonluk yolunda önemli bir adım atan sporcu, yeni takımıyla birlikte yarışacak olmaktan duyduğu memnuniyeti dile getirdi.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Toprak_Razgatlioglu%2C_2022.jpg/960px-Toprak_Razgatlioglu%2C_2022.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Toprak_Razgatlioglu%2C_2022.jpg/500px-Toprak_Razgatlioglu%2C_2022.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 3225,
+        "yazar": "Jearle",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Toprak_Razgatlioglu,_2022.jpg",
+        "aciklama": "Toprak Razgatlioglu in Parc Fermé, Donington World Superbike, 2022.",
+        "konu": "Toprak Razgatlıoğlu"
+      }
     },
     {
       "id": "2018-haber-1148117",
@@ -1123,10 +1249,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/daily-telegraph-ingiltere-disisleri-bakani-hunt-basbakan-maye-brexit-anlasmasi-icin-turkiye-tuzagi-dedi-1148117"
       },
-      "konular": [],
+      "konular": [
+        "Brexit",
+        "Jeremy Hunt",
+        "Theresa May"
+      ],
       "yayin": "2018-11-22T11:46:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Jeremy Hunt'tan Brexit Anlaşması İçin Türkiye Uyarısı",
+      "ozet": "İngiltere Dışişleri Bakanı Jeremy Hunt, Başbakan Theresa May ile yaptığı görüşmede Avrupa Birliği ile varılan Brexit mutabakatına dair endişelerini dile getirdi. Hunt, söz konusu anlaşma metninin ülkesini Türkiye benzeri bir duruma sürükleyebileceği konusunda uyarıda bulundu. Bu değerlendirme, İngiliz basınında geniş yer buldu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Jeremy_Hunt_Official_Cabinet_Portrait%2C_October_2022_%28cropped%29.jpg/960px-Jeremy_Hunt_Official_Cabinet_Portrait%2C_October_2022_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Jeremy_Hunt_Official_Cabinet_Portrait%2C_October_2022_%28cropped%29.jpg/500px-Jeremy_Hunt_Official_Cabinet_Portrait%2C_October_2022_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "orijinalGenislik": 2166,
+        "yazar": "UK Government",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Jeremy_Hunt_Official_Cabinet_Portrait,_October_2022_(cropped).jpg",
+        "aciklama": "25/10/2022. London, United Kingdom,Prime Minister Rishi Sunak has appointed The Rt Hon Jeremy Hunt MP as Chancellor of the Exchequer, Picture by Rory Arnold / No 10 Downing Street",
+        "konu": "Jeremy Hunt"
+      }
     },
     {
       "id": "2018-haber-1148718",
@@ -1139,10 +1285,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/butce-kanun-tasarisi-kabul-edildi-1148718"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2018-11-22T20:08:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "2019 Yılı Bütçe Kanun Tasarısı Komisyondan Geçti",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, gelecek yılın mali planlamasını içeren kanun tasarısını görüşerek onayladı. Yapılan değerlendirmelerin ardından tasarı, komisyon aşamasını tamamlayarak kabul edildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2017-haber-871081",
@@ -1155,10 +1307,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/lubnan-basbakani-saad-hariri-istifasindan-17-gun-sonra-beyruta-dondu-871081"
       },
-      "konular": [],
+      "konular": [
+        "Saad Hariri",
+        "Lübnan",
+        "Beyrut"
+      ],
       "yayin": "2017-11-22T09:29:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Lübnan Başbakanı Saad Hariri on yedi gün aradan sonra ülkesine geri döndü",
+      "ozet": "Suudi Arabistan'ın başkenti Riyad'da bulunduğu sırada beklenmedik bir kararla görevinden ayrıldığını duyuran Lübnan Başbakanı Saad Hariri, aradan geçen sürenin ardından Beyrut'a ulaştı. İstifa açıklamasının ardından uzun süre yurt dışında kalan Hariri, ülkesine dönüş yaparak siyasi gündemdeki yerini korudu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Saad_Hariri_in_Sochi%2C_13_September_2017.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Saad_Hariri_in_Sochi%2C_13_September_2017.jpg",
+        "genislik": 756,
+        "yukseklik": 1036,
+        "orijinalGenislik": 756,
+        "yazar": "This image has been extracted from another file",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Saad_Hariri_in_Sochi,_13_September_2017.jpg",
+        "aciklama": "President of Russia Vladimir Putin & Prime Minister Lebanon Saad Hariri in Sochi, 13 September 2017 (3) (Cropped)",
+        "konu": "Saad Hariri"
+      }
     },
     {
       "id": "2017-haber-871221",
@@ -1171,10 +1343,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ronaldo-sampiyonlar-ligi-tarihine-gecti-871221"
       },
-      "konular": [],
+      "konular": [
+        "Cristiano Ronaldo",
+        "UEFA Şampiyonlar Ligi",
+        "Real Madrid"
+      ],
       "yayin": "2017-11-22T11:32:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cristiano Ronaldo Şampiyonlar Ligi rekorunu geliştirdi",
+      "ozet": "Real Madrid forması giyen Cristiano Ronaldo, UEFA Şampiyonlar Ligi organizasyonunda bir takvim yılı içerisinde ulaştığı 18 golle yeni bir rekora imza attı. Başarılı futbolcu, bu performansıyla turnuva tarihindeki en yüksek yıllık gol sayısına ulaşan isim oldu.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/960px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/500px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1439,
+        "orijinalGenislik": 2812,
+        "yazar": "Bryan Berlin",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg",
+        "aciklama": "Cristiano Ronaldo during Croatia v Portugal on 2 July 2026 at the 2026 FIFA World Cup",
+        "konu": "Cristiano Ronaldo"
+      }
     },
     {
       "id": "2016-haber-634441",
@@ -1187,10 +1379,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hasan-ocak-dosyasi-kapandi-olumun-zamani-asinmaz-634441"
       },
-      "konular": [],
+      "konular": [
+        "Hasan Ocak",
+        "Gözaltında kayıplar",
+        "Türkiye'de insan hakları"
+      ],
       "yayin": "2016-11-22T21:11:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Hasan Ocak hakkındaki soruşturma dosyası kapatıldı",
+      "ozet": "Öğretmen Hasan Ocak'ın gözaltı sürecinde işkence görerek hayatını kaybetmesiyle ilgili yürütülen hukuki soruşturma süreci sonlandırıldı. Yetkili makamlar tarafından alınan kararla dosya kapatılırken, olayın aydınlatılmasına yönelik yürütülen yasal işlemler durduruldu.",
+      "kategori": "Toplum",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Human_Rights_Mural.JPG/960px-Human_Rights_Mural.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Human_Rights_Mural.JPG/500px-Human_Rights_Mural.JPG",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 3264,
+        "yazar": "Mdozturk",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Human_Rights_Mural.JPG",
+        "aciklama": "A mural describing human rights in Turkey outside of the public education building in Bayramic Turkey",
+        "konu": "Türkiye'de insan hakları"
+      }
     },
     {
       "id": "2016-haber-634126",
@@ -1203,10 +1415,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/arac-sahiplerine-kotu-haber-buyuk-zam-bu-gece-basliyor-634126"
       },
-      "konular": [],
+      "konular": [
+        "Akaryakıt",
+        "Petrol Ürünleri İşverenler Sendikası"
+      ],
       "yayin": "2016-11-22T11:07:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Akaryakıt fiyatlarında gece yarısından itibaren artış bekleniyor",
+      "ozet": "Petrol Ürünleri İşverenler Sendikası tarafından yapılan açıklamada akaryakıt fiyatlarına zam yapılacağı duyuruldu. Gece yarısından itibaren geçerli olacak düzenleme kapsamında benzinin litre fiyatına 15 kuruş, motorinin litre fiyatına ise 10 kuruş zam yansıtılması öngörüldü.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2015-haber-428257",
@@ -1219,10 +1437,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fbahce-son-sampiyonu-sahadan-sildi-428257"
       },
-      "konular": [],
+      "konular": [
+        "Fenerbahçe (basketbol takımı)",
+        "Pınar Karşıyaka (basketbol takımı)",
+        "Basketbol Süper Ligi"
+      ],
       "yayin": "2015-11-22T18:51:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Fenerbahçe basketbol takımı Pınar Karşıyaka karşısında farklı kazandı",
+      "ozet": "Spor Toto Basketbol Ligi yedinci hafta mücadelesinde Fenerbahçe ile Pınar Karşıyaka karşı karşıya geldi. Rakibi karşısında üstün bir oyun sergileyen Fenerbahçe, karşılaşmayı 104-82 skorla galip tamamladı. Geçen sezonun şampiyonu olan Pınar Karşıyaka, bu sonuçla ligdeki mücadelesinde mağlubiyet yaşadı.",
+      "kategori": "Spor"
     },
     {
       "id": "2015-haber-428297",
@@ -1235,10 +1460,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/belcika-basbakani-paristeki-gibi-bir-saldiridan-endiseliyiz-428297"
       },
-      "konular": [],
+      "konular": [
+        "Charles Michel",
+        "Belçika",
+        "Terörizm"
+      ],
       "yayin": "2015-11-22T20:51:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Belçika'da terör saldırısı endişesiyle güvenlik önlemleri yükseltildi",
+      "ozet": "Belçika Başbakanı Michel, ülkede Paris benzeri bir saldırı gerçekleşebileceği yönündeki kaygılarını dile getirdi. Bu risk değerlendirmesi üzerine yetkililer, güvenlik tedbirlerini üst seviyeye çıkardı. Kamu güvenliğini sağlamak amacıyla alınan bu kararlar kapsamında ülke genelinde denetimler sıkılaştırıldı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Charles_Michel_%2849467991288%29.jpg/960px-Charles_Michel_%2849467991288%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Charles_Michel_%2849467991288%29.jpg/500px-Charles_Michel_%2849467991288%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1440,
+        "orijinalGenislik": 2667,
+        "yazar": "Unión Europea en Perú from Lima, Perú",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Charles_Michel_(49467991288).jpg",
+        "aciklama": "Charles Michel",
+        "konu": "Charles Michel"
+      }
     },
     {
       "id": "2014-haber-147339",
@@ -1251,10 +1496,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hamburg-besiktasin-rekoruna-goz-dikti-147339"
       },
-      "konular": [],
+      "konular": [
+        "Hamburger SV",
+        "Werder Bremen",
+        "Bundesliga"
+      ],
       "yayin": "2014-11-22T14:03:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Hamburg stadyumunda ses düzeyi rekoru denemesi yapılacak",
+      "ozet": "Bundesliga kapsamında gerçekleşecek Hamburg ve Werder Bremen karşılaşmasında ev sahibi takım farklı bir hedefe odaklandı. Hamburg ekibi, kendi sahasındaki müsabaka sırasında taraftarların desteğiyle stadyumdaki ses seviyesi rekorunu geliştirmeyi amaçladı. Bu girişimle birlikte spor müsabakalarında yeni bir işitsel eşiğe ulaşılması hedeflendi.",
+      "kategori": "Spor"
     },
     {
       "id": "2014-haber-147139",
@@ -1267,10 +1519,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akpnin-akili-kadir-inanir-erdogana-kirginim-147139"
       },
-      "konular": [],
+      "konular": [
+        "Kadir İnanır",
+        "Recep Tayyip Erdoğan",
+        "Akil İnsanlar Heyeti"
+      ],
       "yayin": "2014-11-22T10:26:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Kadir İnanır Cumhurbaşkanı Erdoğan'a Karşı Kırgınlığını İfade Etti",
+      "ozet": "Akil İnsanlar Heyeti bünyesinde görev üstlenen sanatçı Kadir İnanır, Cumhurbaşkanı Recep Tayyip Erdoğan ile yaşadığı sürece dair açıklamalarda bulundu. İnanır, Cumhurbaşkanı'na yönelik kişisel bir kırgınlık duyduğunu kamuoyuyla paylaştı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2013-haber-12133",
@@ -1283,10 +1542,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/putinden-erdogana-uzun-zamandir-gormesem-de-12133"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Vladimir Putin",
+        "Türkiye-Rusya ilişkileri"
+      ],
       "yayin": "2013-11-22T11:13:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Rusya ve Türkiye Arasında Üst Düzey İşbirliği Görüşmesi",
+      "ozet": "St. Petersburg kentinde düzenlenen Üst Düzey İşbirliği Konseyi toplantısı kapsamında bir araya gelen Recep Tayyip Erdoğan ve Vladimir Putin ikili bir görüşme gerçekleştirdi. İki ülke arasındaki ilişkilerin ele alındığı bu buluşmada, ortak bakanlar kurulu formatında yürütülen iş birliği süreçleri değerlendirildi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2013-haber-12255",
@@ -1299,10 +1578,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/son-10-yilin-yagmur-rekoru-kirildi-12255"
       },
-      "konular": [],
+      "konular": [
+        "Marmaris",
+        "Sel",
+        "Meteoroloji"
+      ],
       "yayin": "2013-11-22T17:20:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Marmaris'te aşırı yağışlar hayatı olumsuz etkiledi",
+      "ozet": "Marmaris bölgesinde bir gün içerisinde metrekareye düşen iki yüz kilogram yağış, son on yılın en yüksek seviyesine ulaştı. Şiddetli yağışlar nedeniyle birçok iş yeri sular altında kalırken, dağlardan gelen suların dereleri taşırması sonucu Aksaz Deniz Üs Komutanlığı ve Yalancı Boğaz yolu uzun süre ulaşıma kapandı.",
+      "kategori": "Afet"
     },
     {
       "id": "2012-haber-385154",
@@ -1315,10 +1601,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/altinda-yeni-yilda-yeni-rekor-beklentisi-385154"
       },
-      "konular": [],
+      "konular": [
+        "Altın",
+        "Ekonomi"
+      ],
       "yayin": "2012-11-22T10:18:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Altın piyasasında yeni yıl için yükseliş beklentisi",
+      "ozet": "Önceki dönemde yatırımcısına kazandıran ancak yıl içerisinde durgun bir seyir izleyen altın fiyatlarının, gelecek dönemde tekrar hareketlenmesi öngörüldü. Uzmanlar, değerli metalin 2011 yılındaki zirve noktasını geride bırakarak yeni bir rekor seviyeye ulaşabileceğini ifade etti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2012-haber-385164",
@@ -1331,10 +1623,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/besiktas-zirve-yolculugunu-surdurmek-istiyor-385164"
       },
-      "konular": [],
+      "konular": [
+        "Beşiktaş (futbol takımı)",
+        "Akhisarspor",
+        "Süper Lig"
+      ],
       "yayin": "2012-11-22T10:17:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Beşiktaş lig mücadelesinde Akhisar Belediyespor ile karşılaşıyor",
+      "ozet": "Spor Toto Süper Lig kapsamında Beşiktaş, kendi sahasında Akhisar Belediyespor'u ağırladı. Siyah beyazlı ekip, ligin üst sıralarındaki yerini korumak ve puan farkını kapatmak amacıyla sahaya galibiyet hedefiyle çıktı.",
+      "kategori": "Spor"
     },
     {
       "id": "2011-haber-299870",
@@ -1347,10 +1646,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/taliban-ateskes-ilan-ettik-299870"
       },
-      "konular": [],
+      "konular": [
+        "Tehrik-i Taliban Pakistan",
+        "Pakistan",
+        "Ateşkes"
+      ],
       "yayin": "2011-11-22T14:05:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Pakistan Talibanı barış görüşmeleri için ateşkes kararı aldı",
+      "ozet": "Pakistan Talibanı, hükümet ile yürütülen barış müzakerelerine katkı sağlamak amacıyla çatışmaları durdurma kararı aldığını duyurdu. Örgüt, bu adımın görüşme sürecini desteklemek için atıldığını belirtti.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2011-haber-299858",
@@ -1363,10 +1670,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpliler-meclisi-terk-etti-299858"
       },
-      "konular": [],
+      "konular": [
+        "TBMM Plan ve Bütçe Komisyonu",
+        "Cumhuriyet Halk Partisi",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2011-11-22T12:00:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "TBMM Plan ve Bütçe Komisyonunda CHP Grubu Salonu Terk Etti",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu toplantısı sırasında Cumhuriyet Halk Partisi milletvekilleri bir protesto gerçekleştirdi. Vekiller, İzmir merkezli olarak yürütülen bir operasyona yönelik tepkilerini dile getirmek amacıyla görüşmelerin yapıldığı salonu terk etme kararı aldı.",
+      "kategori": "Siyaset"
     }
   ],
   "haberYillari": [

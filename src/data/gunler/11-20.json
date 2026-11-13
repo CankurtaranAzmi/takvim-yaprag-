@@ -1109,7 +1109,7 @@
     "url": "https://tr.wikipedia.org/wiki/20_Kas%C4%B1m",
     "revid": 38170212
   },
-  "guncelleme": "2026-11-12T14:48:18.356Z",
+  "guncelleme": "2026-11-13T14:07:49.588Z",
   "haberler": [
     {
       "id": "2025-haber-2454216",
@@ -1122,10 +1122,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/riyad-washington-ortakligi-rekor-seviyede-557-milyar-dolarlik-isbirligi-2454216"
       },
-      "konular": [],
+      "konular": [
+        "Suudi Arabistan",
+        "ABD",
+        "Yatırım"
+      ],
       "yayin": "2025-11-20T08:52:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Suudi Arabistan ve ABD Arasında Büyük Ölçekli Yatırım Anlaşması",
+      "ozet": "Suudi Arabistan Yatırım Bakanı Halid bin Abdulaziz el-Falih, iki ülke arasındaki ticari ilişkilerin kapsamının genişlediğini duyurdu. Bakan, Riyad ile Washington yönetimi arasında imzalanan yeni iş birliği protokollerinin toplam değerinin 557 milyar dolara ulaştığını ifade etti.",
+      "kategori": "Ekonomi",
+      "gorsel": null
     },
     {
       "id": "2025-haber-2454306",
@@ -1138,10 +1146,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/altin-yatirimcilari-dikkat-dev-yatirim-bankasindan-yeni-rekor-tahmini-2454306"
       },
-      "konular": [],
+      "konular": [
+        "Altın",
+        "UBS",
+        "Ekonomi"
+      ],
       "yayin": "2025-11-20T12:56:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "UBS altın fiyatlarına yönelik beklentilerini yukarı çekti",
+      "ozet": "İsviçre merkezli finans kuruluşu UBS, dünya genelinde altına olan ilginin artması nedeniyle fiyat tahminlerini güncelledi. Banka, ons altın için öngördüğü değerleri yükseltirken bu kararın arkasında Amerikan Merkez Bankası tarafından yapılması beklenen faiz indirimlerinin etkili olduğunu belirtti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2024-haber-2270901",
@@ -1154,10 +1169,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/hidayet-turkoglu-hedefimiz-her-zaman-avrupa-sampiyonalarina-katilmak-2270901"
       },
-      "konular": [],
+      "konular": [
+        "Hidayet Türkoğlu",
+        "Türkiye Basketbol Federasyonu",
+        "Türkiye millî basketbol takımı"
+      ],
       "yayin": "2024-11-20T18:48:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türkiye Basketbol Federasyonu Başkanı Türkoğlu'ndan Milli Takım Açıklaması",
+      "ozet": "Türkiye Basketbol Federasyonu Başkanı Hidayet Türkoğlu, mevcut milli takım kadrosunun potansiyeline inandığını ifade etti. Türkoğlu, oyuncu grubunun yeteneklerine duyduğu güveni dile getirerek takımın geleceği hakkındaki olumlu görüşlerini paylaştı.",
+      "kategori": "Spor"
     },
     {
       "id": "2024-haber-2270761",
@@ -1170,10 +1192,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/dun-istifa-etmisti-yeniden-basbakan-oldu-2270761"
       },
-      "konular": [],
+      "konular": [
+        "Abdulla Aripov",
+        "Özbekistan"
+      ],
       "yayin": "2024-11-20T12:56:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Özbekistan'da Abdulla Aripov yeniden başbakanlık görevine getirildi",
+      "ozet": "Özbekistan'da gerçekleştirilen seçimlerin ardından hükümet kurma süreci kapsamında istifasını sunan Abdulla Aripov, tekrar başbakanlık görevine atandı. Ülkede yeni kabinenin oluşturulması amacıyla atılan bu adım, seçim sonrası yasal prosedürlerin bir parçası olarak gerçekleşti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Minnikhanov_on_Vladimir_Putin%27s_state_visit_to_Uzbekistan_%282024-05-27%29_11_%28cropped%29_%28cropped%29.jpg/960px-Minnikhanov_on_Vladimir_Putin%27s_state_visit_to_Uzbekistan_%282024-05-27%29_11_%28cropped%29_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Minnikhanov_on_Vladimir_Putin%27s_state_visit_to_Uzbekistan_%282024-05-27%29_11_%28cropped%29_%28cropped%29.jpg/500px-Minnikhanov_on_Vladimir_Putin%27s_state_visit_to_Uzbekistan_%282024-05-27%29_11_%28cropped%29_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1282,
+        "orijinalGenislik": 1351,
+        "yazar": "tatarstan.ru",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Minnikhanov_on_Vladimir_Putin%27s_state_visit_to_Uzbekistan_(2024-05-27)_11_(cropped)_(cropped).jpg",
+        "aciklama": "Работа Рустама Минниханова в составе российской делегации в ходе государственного визита Владимира Путина в Узбекистан",
+        "konu": "Abdulla Aripov"
+      }
     },
     {
       "id": "2023-haber-2143083",
@@ -1186,10 +1227,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/rekor-fiyat-bekleniyor-messinin-dunya-kupasi-formalari-satisa-cikiyor-2143083"
       },
-      "konular": [],
+      "konular": [
+        "Lionel Messi",
+        "2022 FIFA Dünya Kupası",
+        "Arjantin millî futbol takımı"
+      ],
       "yayin": "2023-11-20T18:31:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Lionel Messi'nin Dünya Kupası formaları açık artırmada satışa sunuluyor",
+      "ozet": "Arjantinli futbolcu Lionel Messi'nin Katar'da düzenlenen Dünya Kupası müsabakalarında giydiği altı adet forma, düzenlenecek bir müzayede ile satışa çıkarıldı. Söz konusu formaların koleksiyoncular tarafından yoğun ilgi görmesi ve yüksek bir bedelle alıcı bulması bekleniyor.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/960px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/500px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+        "genislik": 960,
+        "yukseklik": 1440,
+        "orijinalGenislik": 3333,
+        "yazar": "Bryan Berlin",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+        "aciklama": "Lionel Messi during Argentina v Egypt at the 2026 FIFA World Cup",
+        "konu": "Lionel Messi"
+      }
     },
     {
       "id": "2023-haber-2143093",
@@ -1202,10 +1263,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/kabinede-neler-gorusuldu-20-kasim-2023-kabine-kararlari-neler-2143093"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyeti Kabinesi",
+        "Türkiye"
+      ],
       "yayin": "2023-11-20T19:42:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhurbaskanligi Kabine Toplantisi Gerceklestirildi",
+      "ozet": "Cumhurbaskanligi Külliyesinde düzenlenen Kabine Toplantisi tamamlandi. Toplantida ülke gündemindeki siyasi ve ekonomik konularin yani sira yürütülen calismalar degerlendirildi. Görüsmelerin ardindan alinan kararlar kamuoyu ile paylasildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-2004296",
@@ -1218,10 +1285,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasinin-faiz-karari-merakla-bekleniyor-2004296"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Faiz",
+        "Ekonomi"
+      ],
       "yayin": "2022-11-20T07:00:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Merkez Bankası faiz kararı için yılın on birinci toplantısını yapacak",
+      "ozet": "Türkiye Cumhuriyet Merkez Bankası yıl içerisindeki on birinci faiz belirleme toplantısını gerçekleştirmek üzere hazırlıklarını sürdürüyor. Söz konusu karar, piyasalardaki döviz ve altın yatırımcıları tarafından dikkatle izleniyor. Bankanın alacağı yeni faiz kararı ekonomi çevrelerinde beklentiyle karşılanıyor.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2021-haber-1886340",
@@ -1234,10 +1308,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/milli-karatecilerden-dunya-sampiyonasinda-tarihi-ucunculuk-1886340"
       },
-      "konular": [],
+      "konular": [
+        "Karate",
+        "Türkiye millî karate takımı"
+      ],
       "yayin": "2021-11-20T19:36:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Erkek Kata Milli Takımı Dünya Şampiyonası'nda Bronz Madalya Kazandı",
+      "ozet": "Birleşik Arap Emirlikleri'nde düzenlenen Dünya Karate Şampiyonası'nda Türkiye'yi temsil eden Erkek Kata Milli Takımı, üçüncülük kürsüsüne çıktı. Ali Sofuoğlu, Emre Vefa Göktaş ve Enes Özdemir'den kurulu ekip, bu kategoride Türkiye'ye tarihinde ilk kez madalya kazandırma başarısı gösterdi.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Karate_WC_Tampere_2006-2.jpg/960px-Karate_WC_Tampere_2006-2.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Karate_WC_Tampere_2006-2.jpg/500px-Karate_WC_Tampere_2006-2.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 3504,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Nagi BY SA",
+        "lisansUrl": "http://nagi.ee/lists/PhotoLicense/Attribution-ShareAlike",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Karate_WC_Tampere_2006-2.jpg",
+        "aciklama": null,
+        "konu": "Karate"
+      }
     },
     {
       "id": "2021-haber-1886186",
@@ -1250,10 +1343,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/abdde-19-trilyon-dolarlik-sosyal-harcama-paketi-temsilciler-meclisinden-gecti-1886186"
       },
-      "konular": [],
+      "konular": [
+        "Joe Biden",
+        "ABD Temsilciler Meclisi",
+        "Amerika Birleşik Devletleri"
+      ],
       "yayin": "2021-11-20T09:37:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "ABD Temsilciler Meclisi sosyal harcama paketini onayladı",
+      "ozet": "Amerika Birleşik Devletleri Temsilciler Meclisi, Başkan Joe Biden tarafından önerilen kapsamlı sosyal harcama tasarısını kabul etti. Muhalefet kanadının sert eleştirilerine rağmen meclis onayından geçen 1,9 trilyon dolarlık bütçe planı, bundan sonraki süreçte görüşülmek üzere Senato'ya gönderildi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/960px-Joe_Biden_presidential_portrait.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/500px-Joe_Biden_presidential_portrait.jpg",
+        "genislik": 960,
+        "yukseklik": 1200,
+        "orijinalGenislik": 2400,
+        "yazar": "Adam Schultz",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg",
+        "aciklama": "U.S. President Joe Biden's official portrait, 2021",
+        "konu": "Joe Biden"
+      }
     },
     {
       "id": "2020-haber-1792580",
@@ -1266,10 +1379,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/avrupa-judo-sampiyonasinda-albayrak-7-oldu-1792580"
       },
-      "konular": [],
+      "konular": [
+        "Avrupa Judo Şampiyonası",
+        "Vedat Albayrak",
+        "Judo"
+      ],
       "yayin": "2020-11-20T16:42:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Avrupa Judo Şampiyonası'nda Vedat Albayrak Yedinci Sırada Yer Aldı",
+      "ozet": "Çekya'da düzenlenen Avrupa Judo Şampiyonası müsabakaları tamamlandı. Organizasyonda mindere çıkan sporcu Vedat Albayrak, turnuvayı yedinci sırada bitirerek şampiyonayı noktaladı.",
+      "kategori": "Spor"
     },
     {
       "id": "2020-haber-1792456",
@@ -1282,10 +1402,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/faiz-artirimi-kararlarindan-sonra-ikinci-el-arac-piyasasi-1792456"
       },
-      "konular": [],
+      "konular": [
+        "İkinci el araç",
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Otomotiv sektörü"
+      ],
       "yayin": "2020-11-20T11:16:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Merkez Bankası faiz kararı sonrası ikinci el otomobil piyasasında değişim",
+      "ozet": "Merkez Bankasının faiz oranlarını yükseltme kararının ardından ikinci el taşıt piyasasında bir hareketlilik gözlemlendi. Sektör temsilcilerinden VavaCars yöneticisi Lawrence Merritt, bu gelişmelere bağlı olarak yılın son ayında ikinci el araç fiyatlarında bir gerileme yaşanabileceğini ifade etti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2019-haber-1703135",
@@ -1298,10 +1425,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/2018-vergi-rekortmenleri-aciklandi-1703135"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Kurumlar vergisi",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2019-11-20T10:26:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "2018 Yılı Kurumlar Vergisi Rekortmenleri Belli Oldu",
+      "ozet": "Türkiye Cumhuriyet Merkez Bankası, 2018 yılı için en yüksek kurumlar vergisi ödeyen kurum olarak kayıtlara geçti. Söz konusu dönemde bankaya 10 milyar 610 milyon 547 bin 65 lira tutarında vergi tahakkuk ettirildi. Kurumlar vergisi sıralamasının ilk on basamağında ise toplam altı banka kendine yer buldu.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2019-haber-1703093",
@@ -1314,10 +1448,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/feto-borsasini-kamuoyuna-duyuran-muhabirimiz-hakkinda-dava-acildi-1703093"
       },
-      "konular": [],
+      "konular": [
+        "Seyhan Avşar",
+        "İstanbul Adliyesi",
+        "FETÖ"
+      ],
       "yayin": "2019-11-20T00:14:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Gazeteci Seyhan Avşar Hakkında FETÖ Borsası Haberi Nedeniyle Dava Açıldı",
+      "ozet": "İstanbul Adliyesi içerisindeki iddiaları gündeme taşıyan muhabir Seyhan Avşar hakkında yürütülen soruşturma süreci tamamlandı. İstanbul Cumhuriyet Başsavcılığı tarafından hazırlanan iddianame kapsamında, söz konusu iddiaları haberleştiren gazeteci için yargılama süreci başlatıldı. Bu gelişme, adliyedeki bazı isimlerin açığa alınmasına yol açan iddiaların kamuoyuna yansıması sonrasında gerçekleşti.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2018-haber-1146710",
@@ -1330,10 +1472,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hdp-secimler-icin-calismalara-basladi-1146710"
       },
-      "konular": [],
+      "konular": [
+        "Halkların Demokratik Partisi",
+        "Diyarbakır",
+        "Yerel seçimler"
+      ],
       "yayin": "2018-11-20T22:25:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Halkların Demokratik Partisi yerel seçim hazırlıklarına girişti",
+      "ozet": "Halkların Demokratik Partisi Diyarbakır İl Başkanlığı, yaklaşan yerel seçimler için yürüteceği faaliyetleri kamuoyuna duyurdu. Düzenlenen basın toplantısı ile birlikte aday adayı başvurularının alınmasına başlandığı ifade edildi. Parti yönetimi, Mart ayında yapılacak seçimler için resmi süreci başlatmış oldu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2018-haber-1146081",
@@ -1346,10 +1495,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/albayrak-cari-fazlada-tum-zamanlarin-rekoru-kirilabilir-1146081"
       },
-      "konular": [],
+      "konular": [
+        "Cari açık",
+        "Berat Albayrak",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2018-11-20T13:08:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Hazine ve Maliye Bakanı Albayrak cari fazla beklentisini açıkladı",
+      "ozet": "Hazine ve Maliye Bakanı Berat Albayrak, cari işlemler dengesinde önemli bir gelişme yaşandığını belirtti. Bakan Albayrak, ülkenin cari fazla verilerinde tüm zamanların en yüksek seviyesine ulaşılabileceğine dair öngörülerini paylaştı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2017-haber-870009",
@@ -1362,10 +1518,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/italyada-boyledunya-kupasina-gidemeyince-istifa-etti-870009"
       },
-      "konular": [],
+      "konular": [
+        "Carlo Tavecchio",
+        "İtalya Futbol Federasyonu",
+        "FIFA Dünya Kupası"
+      ],
       "yayin": "2017-11-20T15:43:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İtalya Futbol Federasyonu Başkanı Carlo Tavecchio görevini bıraktı",
+      "ozet": "İtalya Milli Takımı'nın Dünya Kupası'na katılma hakkı elde edememesinin ardından Futbol Federasyonu Başkanı Carlo Tavecchio istifa kararı aldı. Turnuva vizesi alamayan İtalyan futbolunda yaşanan bu gelişme sonrası federasyon yönetimi değişikliğe gitti.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Carlo_Tavecchio_-_Wojtyla_Cup_Conferenza_Stampa_2010.jpg/960px-Carlo_Tavecchio_-_Wojtyla_Cup_Conferenza_Stampa_2010.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Carlo_Tavecchio_-_Wojtyla_Cup_Conferenza_Stampa_2010.jpg/500px-Carlo_Tavecchio_-_Wojtyla_Cup_Conferenza_Stampa_2010.jpg",
+        "genislik": 960,
+        "yukseklik": 1258,
+        "orijinalGenislik": 986,
+        "yazar": "Emanuele.corr",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Carlo_Tavecchio_-_Wojtyla_Cup_Conferenza_Stampa_2010.jpg",
+        "aciklama": "Il Presidente della L.N.D. Carlo Tavecchio durante la Conferenza stampa di presentazione del Trofeo Karol Wojtyla edizione 2010",
+        "konu": "Carlo Tavecchio"
+      }
     },
     {
       "id": "2017-haber-870240",
@@ -1378,10 +1554,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/eski-basbakan-yardimcisi-hikmet-ulugbag-turkiyenin-yasadigi-sikintilarin-nedeni-yanlis-suriye-politikasi-870240"
       },
-      "konular": [],
+      "konular": [
+        "Suriye İç Savaşı",
+        "Hikmet Uluğbağ",
+        "Türkiye-Suriye sınırı"
+      ],
       "yayin": "2017-11-20T20:47:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Sınır Güvenliği Önlemleri ve Suriye Politikası Üzerine Değerlendirmeler",
+      "ozet": "Eski Başbakan Yardımcısı Hikmet Uluğbağ, Türkiye'nin karşılaştığı zorlukların temelinde izlenen Suriye politikasının yattığını ifade etti. Diğer yandan sınır hattında hayata geçirilen fiziki güvenlik sistemleri ve elektronik denetim mekanizmaları sayesinde yasa dışı geçişlerin en alt seviyeye çekildiği belirtildi. Bu yeni güvenlik uygulamalarıyla birlikte IŞİD mensuplarının iki ülke arasındaki geçişlerinin de önüne geçildiği açıklandı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2016-haber-633377",
@@ -1394,10 +1577,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/angela-merkelden-basbakanlik-karari-633377"
       },
-      "konular": [],
+      "konular": [
+        "Angela Merkel",
+        "Almanya",
+        "Siyaset"
+      ],
       "yayin": "2016-11-20T17:19:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Angela Merkel dördüncü dönem için adaylığını açıkladı",
+      "ozet": "Almanya Başbakanı Angela Merkel, uzun süredir kamuoyunda tartışılan adaylık konusundaki belirsizliği sonlandırdı. Merkel, yaklaşan seçimlerde tekrar başbakanlık görevine talip olacağını duyurdu. Böylece siyasi geleceği hakkındaki spekülasyonlar resmi bir açıklama ile netlik kazandı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Angela_Merkel_2019_cropped.jpg/960px-Angela_Merkel_2019_cropped.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Angela_Merkel_2019_cropped.jpg/500px-Angela_Merkel_2019_cropped.jpg",
+        "genislik": 960,
+        "yukseklik": 1342,
+        "orijinalGenislik": 1965,
+        "yazar": "Raimond Spekking",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Angela_Merkel_2019_cropped.jpg",
+        "aciklama": "German Chancellor Angela Merkel during a visit to Cologne City Hall, June 2019",
+        "konu": "Angela Merkel"
+      }
     },
     {
       "id": "2016-haber-633346",
@@ -1410,10 +1613,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/almanyada-halk-merkelin-yeniden-basbakan-olmasini-istiyor-633346"
       },
-      "konular": [],
+      "konular": [
+        "Angela Merkel",
+        "Almanya",
+        "Siyaset"
+      ],
       "yayin": "2016-11-20T16:05:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Almanya'da halk Merkel'in tekrar başbakan olmasını destekliyor",
+      "ozet": "Emnid araştırma şirketinin gerçekleştirdiği bir anket çalışması, Alman vatandaşlarının çoğunluğunun Angela Merkel'i dördüncü kez başbakanlık koltuğunda görmek istediğini ortaya koydu. Merkel henüz adaylığına dair resmi bir beyanda bulunmamış olsa da, katılımcıların yüzde 55'i kendisinin görevine devam etmesi yönünde görüş bildirdi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Angela_Merkel_2019_cropped.jpg/960px-Angela_Merkel_2019_cropped.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Angela_Merkel_2019_cropped.jpg/500px-Angela_Merkel_2019_cropped.jpg",
+        "genislik": 960,
+        "yukseklik": 1342,
+        "orijinalGenislik": 1965,
+        "yazar": "Raimond Spekking",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Angela_Merkel_2019_cropped.jpg",
+        "aciklama": "German Chancellor Angela Merkel during a visit to Cologne City Hall, June 2019",
+        "konu": "Angela Merkel"
+      }
     },
     {
       "id": "2015-haber-425687",
@@ -1426,10 +1649,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpnin-meclis-baskan-adayi-belli-oldu-425687"
       },
-      "konular": [],
+      "konular": [
+        "Gülsün Bilgehan",
+        "Cumhuriyet Halk Partisi",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2015-11-20T12:23:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhuriyet Halk Partisi Meclis Başkanı Adayını Belirledi",
+      "ozet": "Cumhuriyet Halk Partisi, Türkiye Büyük Millet Meclisi Başkanlığı seçimi için adayını açıkladı. Yapılan değerlendirmeler sonucunda Gülsün Bilgehan, partinin Meclis Başkanı adayı olarak belirlendi. Bu gelişmeyle birlikte siyasi partilerin seçim sürecindeki adaylık çalışmaları netleşmeye başladı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2015-haber-425391",
@@ -1442,10 +1672,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-islam-dunyasina-teror-uyarisi-425391"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "İslam dünyası",
+        "Terörizm"
+      ],
       "yayin": "2015-11-20T08:23:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanı Erdoğan'dan İslam Dünyasına Terörle Mücadele Çağrısı",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, İslam ülkelerinin terör örgütlerine karşı ortak ve kararlı bir duruş sergilemesi gerektiğini vurguladı. Terörle mücadelede birlik sağlanamadığı takdirde gelecekte daha büyük sorunlarla karşılaşılacağını ifade etti. İslam dünyasının bu konuda ilkeli bir tavır takınmasının önemine dikkat çekti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2014-haber-145049",
@@ -1458,10 +1708,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/uefa-noktayi-koydu-sampiyon-fenerbahce-145049"
       },
-      "konular": [],
+      "konular": [
+        "Fenerbahçe",
+        "Trabzonspor",
+        "UEFA"
+      ],
       "yayin": "2014-11-20T11:24:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "UEFA 2010-11 Sezonu Şampiyonluğu Hakkında Kararını Açıkladı",
+      "ozet": "Trabzonspor tarafından yapılan itiraz başvurusu üzerine UEFA müfettişi Jean Samuel Lueba bir inceleme başlattı. Hazırlanan rapor sonucunda 2010-11 sezonunun şampiyonluk durumuyla ilgili nihai görüş bildirildi. Bu gelişme ile birlikte uzun süredir devam eden tartışmalara resmi bir noktada son verildi.",
+      "kategori": "Spor",
+      "gorsel": null
     },
     {
       "id": "2014-haber-145301",
@@ -1474,10 +1732,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fenerbahceli-sporcu-dunya-kupasinda-mucadele-edecek-145301"
       },
-      "konular": [],
+      "konular": [
+        "Nazlı Çağla Dönertaş",
+        "Yelken (spor)",
+        "Fenerbahçe"
+      ],
       "yayin": "2014-11-20T13:53:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Nazlı Çağla Dönertaş Yelken Dünya Kupası'na Katılacak",
+      "ozet": "Fenerbahçe Spor Kulübü bünyesinde yer alan yelkenci Nazlı Çağla Dönertaş, Dünya Kupası'nda yarışma hakkı elde etti. Yelken Milli Takımı formasıyla mücadele eden başarılı sporcu, organizasyonda ülkesini temsil etmek üzere hazırlıklarına başladı.",
+      "kategori": "Spor"
     },
     {
       "id": "2013-haber-11623",
@@ -1490,10 +1755,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdoganin-konusmasi-twitterda-olay-oldu-11623"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "A Haber",
+        "Twitter"
+      ],
       "yayin": "2013-11-20T23:38:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Başbakan Erdoğan'ın televizyon yayını sosyal medyada tartışma yarattı",
+      "ozet": "Başbakan Recep Tayyip Erdoğan'ın A Haber ve ATV kanallarının ortak yayınında gerçekleştirdiği konuşma kamuoyunda geniş yankı uyandırdı. Programın ardından Twitter platformu üzerinden yapılan paylaşımlarda, özellikle cemaate yakınlığıyla bilinen isimler tarafından sert eleştiriler yöneltildi. Söz konusu açıklamalar sosyal medya kullanıcıları arasında yoğun bir tartışma ortamının oluşmasına neden oldu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2013-haber-11339",
@@ -1506,10 +1778,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/anadolu-atesi-istanbul-dans-akademisi-acildi-11339"
       },
-      "konular": [],
+      "konular": [
+        "Anadolu Ateşi",
+        "Mustafa Erdoğan",
+        "Dans"
+      ],
       "yayin": "2013-11-20T10:49:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Anadolu Ateşi dans akademisi İstanbul şubesi faaliyete geçti",
+      "ozet": "Şişli merkezinde düzenlenen törenle Anadolu Ateşi Dans Akademisi'nin yeni şubesi hizmete açıldı. Genel Sanat Yönetmeni Mustafa Erdoğan, kurumun eğitim faaliyetlerini İstanbul'un yanı sıra Ankara, Antalya ve Gaziantep şehirlerinde de sürdürdüğünü ifade etti.",
+      "kategori": "Sanat"
     },
     {
       "id": "2012-haber-384828",
@@ -1522,10 +1801,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-pakistandaki-d-8-zirvesine-katilacak-384828"
       },
-      "konular": [],
+      "konular": [
+        "D-8",
+        "Recep Tayyip Erdoğan",
+        "İslamabad"
+      ],
       "yayin": "2012-11-20T12:09:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "D-8 Zirvesi Pakistan'ın Başkenti İslamabad'da Toplanıyor",
+      "ozet": "Dönemin Başbakanı Recep Tayyip Erdoğan, İslamabad şehrinde gerçekleştirilecek olan D-8 Zirvesi'ne iştirak etmek üzere Pakistan'a gitti. Gelişmekte olan sekiz ülkenin iş birliğini hedefleyen bu uluslararası toplantıda, üye ülkeler arasındaki ekonomik ve siyasi ilişkilerin geliştirilmesi üzerine görüşmeler yapılması planlandı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2012-haber-384856",
@@ -1538,10 +1837,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/turkiye-diyabet-vakfindan-guinness-rekoru-384856"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Diyabet Vakfı",
+        "Guinness Dünya Rekorları",
+        "Diyabet"
+      ],
       "yayin": "2012-11-20T15:29:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türkiye Diyabet Vakfı Guinness Rekorlar Kitabı'na Girdi",
+      "ozet": "Türkiye Diyabet Vakfı tarafından gerçekleştirilen bir çalışma, Guinness Rekorlar Kitabı'na girmeye hak kazandı. Vakıf yetkilileri, bu başarıya ulaşan projenin detaylarını kamuoyuyla paylaştı. Söz konusu gelişme, diyabet konusunda farkındalık oluşturmak amacıyla yürütülen faaliyetlerin bir sonucu olarak kayıtlara geçti.",
+      "kategori": "Toplum"
     },
     {
       "id": "2011-haber-299344",
@@ -1554,10 +1860,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/secimleri-sag-goruslu-halk-partisi-kazandi-299344"
       },
-      "konular": [],
+      "konular": [
+        "İspanya genel seçimleri (2011)",
+        "Halk Partisi (İspanya)",
+        "İspanya"
+      ],
       "yayin": "2011-11-20T08:33:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İspanya genel seçimlerinde Halk Partisi çoğunluğu elde etti",
+      "ozet": "İspanya'da gerçekleştirilen genel seçimlerin ardından devlet televizyonu tarafından paylaşılan sandık çıkış anketleri, Halk Partisi'nin mecliste çoğunluğu sağladığını gösterdi. Toplam üç yüz elli sandalyeli mecliste Halk Partisi'nin tek başına iktidar kuracak sayıya ulaştığı, Sosyalist İşçi Partisi'nin ise daha az sayıda milletvekili çıkardığı açıklandı.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2011-haber-299350",
@@ -1570,10 +1884,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/istanbula-rekor-butce-299350"
       },
-      "konular": [],
+      "konular": [
+        "İstanbul Büyükşehir Belediyesi",
+        "İstanbul",
+        "Belediye bütçesi"
+      ],
       "yayin": "2011-11-20T08:51:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İstanbul Büyükşehir Belediyesi 2012 Mali Yılı Bütçesini Belirledi",
+      "ozet": "İstanbul Büyükşehir Belediyesi, 2012 yılı için hazırladığı konsolide bütçeyi yaklaşık 19,4 milyar lira seviyesinde kararlaştırdı. Söz konusu bütçe miktarı, belediyenin birçok bakanlığın yıllık ödeneklerinden daha yüksek bir mali kaynağa ulaştığını gösterdi.",
+      "kategori": "Ekonomi"
     }
   ],
   "haberYillari": [
