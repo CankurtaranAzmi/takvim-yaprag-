@@ -1368,7 +1368,7 @@
     "url": "https://tr.wikipedia.org/wiki/16_Kas%C4%B1m",
     "revid": 38169031
   },
-  "guncelleme": "2026-11-12T14:48:16.521Z",
+  "guncelleme": "2026-11-13T14:07:48.007Z",
   "haberler": [
     {
       "id": "2024-haber-2269216",
@@ -1381,10 +1381,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-depremler-deprem-mi-oldu-16-kasim-2024-nerede-ne-zaman-deprem-2269216"
       },
-      "konular": [],
+      "konular": [
+        "Deprem",
+        "Afet ve Acil Durum Yönetimi Başkanlığı",
+        "Türkiye"
+      ],
       "yayin": "2024-11-16T09:04:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türkiye genelinde meydana gelen sarsıntılar takip ediliyor",
+      "ozet": "Ülke genelinde hissedilen sarsıntılar nedeniyle vatandaşlar güncel deprem verilerini incelemeye başladı. Kandilli Rasathanesi ve AFAD tarafından paylaşılan bilgiler doğrultusunda, gün içerisinde gerçekleşen sarsıntıların merkez üssü ve büyüklük değerleri kamuoyu ile paylaşıldı. Bölge sakinleri yaşanan hareketliliğin detaylarını resmi kaynaklar üzerinden takip etti.",
+      "kategori": "Afet"
     },
     {
       "id": "2023-haber-2141555",
@@ -1397,10 +1404,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/euro-zirve-tazeledi-dolar-ve-euro-ne-kadar-oldu-16-kasim-2023-doviz-2141555"
       },
-      "konular": [],
+      "konular": [
+        "Döviz",
+        "Euro",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2023-11-16T09:44:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Döviz piyasalarında Euro değer kazandı",
+      "ozet": "Dolar kuru tarihi seviyelerine yakın seyrini korurken Euro yeni bir zirveye ulaştı. Piyasalar, Türkiye Büyük Millet Meclisi Dışişleri Komisyonu gündeminde yer alan İsveç'in NATO üyeliğine ilişkin kanun teklifinin görüşmelerini yakından takip etti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2141822",
@@ -1413,10 +1427,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/msbnin-2024-yili-butcesi-tbmmden-gecti-2141822"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Milli Savunma Bakanlığı"
+      ],
       "yayin": "2023-11-16T21:19:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Milli Savunma Bakanlığının 2024 yılı bütçesi komisyonda kabul edildi",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, Milli Savunma Bakanlığının gelecek yıla ait bütçe teklifini görüştü. Yapılan değerlendirmelerin ardından bakanlığın 2024 yılı bütçesi komisyon üyeleri tarafından onaylanarak kabul edildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-2003185",
@@ -1429,10 +1449,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/butce-acigi-rekor-tazeledi-on-ayda-1287-milyar-tl-2003185"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye ekonomisi",
+        "Bütçe"
+      ],
       "yayin": "2022-11-16T04:00:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Yılın ilk on ayında bütçe açığı 128.7 milyar liraya ulaştı",
+      "ozet": "Ocak ve ekim ayları arasındaki dönemde bütçe açığı 128.7 milyar lira seviyesinde gerçekleşti. Orta Vadeli Plan kapsamında yıl sonu için öngörülen 461.2 milyar liralık açık hedefi, harcamaların artış eğiliminde olduğunu ortaya koydu.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2022-haber-2003203",
@@ -1445,10 +1471,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/dolartlde-yatay-seyir-suruyor-dolar-ne-kadar-oldu-16-kasim-2022-2003203"
       },
-      "konular": [],
+      "konular": [
+        "Dolar",
+        "Döviz kuru",
+        "Ekonomi"
+      ],
       "yayin": "2022-11-16T09:32:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Dolar kurunda yatay hareketlilik devam ediyor",
+      "ozet": "Dolar kuru 18,6 seviyelerindeki durağan seyrini sürdürdü. Polonya topraklarına isabet eden Rus üretimi füze nedeniyle uluslararası piyasalarda düşüşler yaşanırken, dolar güvenli liman arayışıyla elde ettiği değer artışını büyük oranda muhafaza etti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2021-haber-1885293",
@@ -1461,10 +1494,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/dolarda-rekor-artis-durdurulamadi-yeni-rekor-1885293"
       },
-      "konular": [],
+      "konular": [
+        "Dolar",
+        "Türkiye ekonomisi",
+        "Enflasyon"
+      ],
       "yayin": "2021-11-16T18:42:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Dolar kuru piyasalarda yeni bir zirveye ulaştı",
+      "ozet": "Ülke ekonomisindeki enflasyon verileri ve uygulanan para politikalarına yönelik oluşan tedirginlikler döviz piyasasına yansıdı. Türk lirası karşısında değer kazanmaya devam eden Amerikan doları, 10,4426 seviyesine çıkarak tarihinin en yüksek değerine ulaştı.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/USDnotes.png/960px-USDnotes.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/USDnotes.png/500px-USDnotes.png",
+        "genislik": 960,
+        "yukseklik": 837,
+        "orijinalGenislik": 2380,
+        "yazar": "derivative work: Hidro (talk) USDnotes.jpg: The original uploader was Andyhi18 at English Wikipedia.",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:USDnotes.png",
+        "aciklama": "Includes new banknotes",
+        "konu": "Dolar"
+      }
     },
     {
       "id": "2020-haber-1791297",
@@ -1477,10 +1530,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bosna-hersekte-koronavirusten-olen-aday-secimi-kazandi-1791297"
       },
-      "konular": [],
+      "konular": [
+        "Mirsad Peco",
+        "Travnik",
+        "Bosna Hersek"
+      ],
       "yayin": "2020-11-16T03:00:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Bosna Hersek'te hayatını kaybeden aday seçimi kazandı",
+      "ozet": "Bosna Hersek'te gerçekleştirilen yerel seçimlerde ilginç bir durum yaşandı. Travnik şehrinde belediye başkanlığı için yarışan Mirsad Peco, seçim günü koronavirüs sebebiyle yaşamını yitirmesine rağmen sandıktan birinci çıktı. Seçim sonuçlarının açıklanmasıyla birlikte vefat eden adayın kazandığı kesinleşti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Travnik_%28collage_image%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Travnik_%28collage_image%29.jpg",
+        "genislik": 740,
+        "yukseklik": 879,
+        "orijinalGenislik": 740,
+        "yazar": "Multiple users. See History",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Travnik_(collage_image).jpg",
+        "aciklama": "Travnik collage: Travnik panorama and fortress, Travnik Lašva creek, Travnik colorful mosque, Travnik Clock tower, Mosque in Travnik, Travnik wider panorama",
+        "konu": "Travnik"
+      }
     },
     {
       "id": "2020-haber-1791401",
@@ -1493,10 +1566,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpli-ali-mahir-basarir-tesvkiyenin-tek-toplanma-alani-imara-acildi-1791401"
       },
-      "konular": [],
+      "konular": [
+        "Nişantaşı",
+        "Marmara Üniversitesi",
+        "Afet ve Acil Durum Yönetimi Başkanlığı"
+      ],
       "yayin": "2020-11-16T13:20:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Nişantaşı'ndaki deprem toplanma alanı yapılaşmaya açıldı",
+      "ozet": "Marmara Üniversitesi'ne ait Nişantaşı yerleşkesi arazisi, 1,7 milyar lira bedelle bir inşaat firmasına devredildi. AFAD ve e-Devlet kayıtlarında deprem toplanma alanı olarak tanımlanan bölgenin imara açılması kamuoyunda tartışmalara yol açtı. Söz konusu alanın bölgedeki tek toplanma noktası olduğu belirtildi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Ni%C5%9Fanta%C5%9F%C4%B1_Abdi_%C4%B0pek%C3%A7i_Avenue.jpg/960px-Ni%C5%9Fanta%C5%9F%C4%B1_Abdi_%C4%B0pek%C3%A7i_Avenue.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Ni%C5%9Fanta%C5%9F%C4%B1_Abdi_%C4%B0pek%C3%A7i_Avenue.jpg/500px-Ni%C5%9Fanta%C5%9F%C4%B1_Abdi_%C4%B0pek%C3%A7i_Avenue.jpg",
+        "genislik": 960,
+        "yukseklik": 540,
+        "orijinalGenislik": 4032,
+        "yazar": "Metuboy",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ni%C5%9Fanta%C5%9F%C4%B1_Abdi_%C4%B0pek%C3%A7i_Avenue.jpg",
+        "aciklama": "Nişantaşı Abdi İpekçi Avenue",
+        "konu": "Nişantaşı"
+      }
     },
     {
       "id": "2019-haber-1702510",
@@ -1509,10 +1602,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akpli-konya-buyuksehir-belediyesinden-su-ve-ulasima-zam-1702510"
       },
-      "konular": [],
+      "konular": [
+        "Konya Büyükşehir Belediyesi",
+        "Konya"
+      ],
       "yayin": "2019-11-16T21:23:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Konya Büyükşehir Belediyesinde su ve ulaşım tarifeleri güncellendi",
+      "ozet": "Konya Büyükşehir Belediyesi tarafından toplu taşıma hizmetlerine yüzde 15 oranında artış yapılması kararlaştırıldı. Aynı düzenleme kapsamında su fiyatlarında da fiyat artışına gidildi. Söz konusu yeni tarifenin önümüzdeki yılın ilk gününden itibaren uygulamaya konulacağı belirtildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2019-haber-1702465",
@@ -1525,10 +1624,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bursadaki-deprem-istanbul-depremini-tetikler-mi-1702465"
       },
-      "konular": [],
+      "konular": [
+        "Deprem",
+        "Bursa",
+        "Kandilli Rasathanesi"
+      ],
       "yayin": "2019-11-16T16:00:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Bursa Osmangazi merkezli deprem kayıtlara geçti",
+      "ozet": "Bursa ilinin Osmangazi ilçesinde gece saatlerinde 3.0 büyüklüğünde bir sarsıntı yaşandı. Kandilli Rasathanesi tarafından yapılan ölçümlerde depremin yerin 5.3 kilometre derinliğinde oluştuğu belirlendi. Yaşanan bu sarsıntının bölgedeki diğer fay hatları üzerindeki olası etkileri kamuoyunda tartışma konusu oldu.",
+      "kategori": "Afet"
     },
     {
       "id": "2018-haber-1142939",
@@ -1541,10 +1647,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ingilterede-brexit-krizi-muhafazakar-partide-basbakan-may-icin-sali-gunu-guvensizlik-oylamasi-yapilabilir-1142939"
       },
-      "konular": [],
+      "konular": [
+        "Brexit",
+        "Theresa May",
+        "Muhafazakar Parti (Birleşik Krallık)"
+      ],
       "yayin": "2018-11-16T15:57:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İngiltere Başbakanı Theresa May için parti içi güvensizlik oylaması gündemde",
+      "ozet": "İngiltere'de hazırlanan taslak Brexit anlaşması, Başbakan Theresa May'in liderliğini yaptığı Muhafazakar Parti içerisinde ciddi tartışmalara yol açtı. Parti içerisindeki bazı milletvekilleri, mevcut anlaşmaya yönelik tepkiler nedeniyle May'in görevden alınması amacıyla bir güvensizlik oylaması süreci başlattı. Söz konusu oylamanın önümüzdeki hafta içerisinde gerçekleştirilmesi bekleniyor.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Official_portrait_of_Baroness_May_of_Maidenhead_crop_2.jpg/960px-Official_portrait_of_Baroness_May_of_Maidenhead_crop_2.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Official_portrait_of_Baroness_May_of_Maidenhead_crop_2.jpg/500px-Official_portrait_of_Baroness_May_of_Maidenhead_crop_2.jpg",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "orijinalGenislik": 1500,
+        "yazar": "Roger Harris",
+        "lisans": "CC BY 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Baroness_May_of_Maidenhead_crop_2.jpg",
+        "aciklama": "Official portrait of Baroness May of Maidenhead, former prime minister",
+        "konu": "Theresa May"
+      }
     },
     {
       "id": "2018-haber-1142530",
@@ -1557,10 +1683,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/houston-rockets-son-sampiyonu-rahat-gecti-1142530"
       },
-      "konular": [],
+      "konular": [
+        "Houston Rockets",
+        "Golden State Warriors",
+        "NBA"
+      ],
       "yayin": "2018-11-16T11:16:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Houston Rockets son şampiyon Golden State Warriors'ı mağlup etti",
+      "ozet": "Amerikan Basketbol Ligi mücadelesinde Houston Rockets, son şampiyon unvanına sahip Golden State Warriors ile karşı karşıya geldi. Ev sahibi ekip, rakibini 107-86 gibi farklı bir skorla geçmeyi başardı. Deplasman ekibi bu sonuçla sahadan mağlubiyetle ayrıldı.",
+      "kategori": "Spor"
     },
     {
       "id": "2017-haber-867342",
@@ -1573,10 +1706,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sel-felaketinden-sonra-yunanistanda-yas-ilan-edildi-867342"
       },
-      "konular": [],
+      "konular": [
+        "2017 Mandra sel felaketi",
+        "Aleksis Çipras",
+        "Yunanistan"
+      ],
       "yayin": "2017-11-16T15:06:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Yunanistan'da sel felaketi nedeniyle ulusal yas kararı alındı",
+      "ozet": "Batı Attika bölgesini etkisi altına alan şiddetli sel felaketi sonucunda çok sayıda kişi hayatını kaybetti ve yaralandı. Kayıpların da bulunduğu bölgedeki ağır bilanço üzerine Başbakan Aleksis Çipras ülke genelinde yas ilan edildiğini duyurdu. Yaşanan doğal afet sonrası bölgede arama kurtarma çalışmaları başlatıldı.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Alexis_Tsipras%2C_prime_minister_of_Greece.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Alexis_Tsipras%2C_prime_minister_of_Greece.jpg",
+        "genislik": 606,
+        "yukseklik": 847,
+        "orijinalGenislik": 606,
+        "yazar": "EU2017EE Estonian Presidency",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Alexis_Tsipras,_prime_minister_of_Greece.jpg",
+        "aciklama": "Alexis Tsipras, primer ministro de Grecia.",
+        "konu": "Aleksis Çipras"
+      }
     },
     {
       "id": "2017-haber-866967",
@@ -1589,10 +1742,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/icislerinde-rekor-butce-50-milyar-lira-866967"
       },
-      "konular": [],
+      "konular": [
+        "İçişleri Bakanlığı",
+        "Süleyman Soylu",
+        "İnsansız hava aracı"
+      ],
       "yayin": "2017-11-16T06:07:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İçişleri Bakanlığı bütçesi ve yeni İHA alım planı açıklandı",
+      "ozet": "Plan ve Bütçe Komisyonu toplantısında İçişleri Bakanlığına ayrılan ödenek görüşüldü. Bakanlık bütçesinin önceki döneme göre yüzde 25 oranında artırılarak 50 milyar liraya ulaştığı duyuruldu. Görüşmeler sırasında ayrıca güvenlik güçlerinin envanterine 39 adet silahlı insansız hava aracı ekleneceği bilgisi paylaşıldı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2016-haber-631672",
@@ -1605,10 +1765,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bulgaristanda-220-milletvekili-basbakanla-birlikte-istifa-etti-631672"
       },
-      "konular": [],
+      "konular": [
+        "Boyko Borisov",
+        "Bulgaristan Parlamentosu",
+        "Bulgaristan"
+      ],
       "yayin": "2016-11-16T19:40:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Bulgaristan Parlamentosunda Hükümetin İstifası Onaylandı",
+      "ozet": "Bulgaristan Parlamentosu, yeni cumhurbaşkanının belirlenmesinin ardından Başbakan Boyko Borisov tarafından sunulan istifa talebini görüştü. Yapılan oylamada hükümetin görevi bırakması yönünde karar çıktı. Oturuma katılan milletvekillerinin büyük çoğunluğu istifayı desteklerken, çekimser kalanlar dışında süreç resmiyet kazandı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Tallinn_Digital_Summit_Arrivals_Boyko_Borisov_Cropped.jpg/960px-Tallinn_Digital_Summit_Arrivals_Boyko_Borisov_Cropped.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Tallinn_Digital_Summit_Arrivals_Boyko_Borisov_Cropped.jpg/500px-Tallinn_Digital_Summit_Arrivals_Boyko_Borisov_Cropped.jpg",
+        "genislik": 960,
+        "yukseklik": 1337,
+        "orijinalGenislik": 1132,
+        "yazar": "EU2017EE Estonian Presidency",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Tallinn_Digital_Summit_Arrivals_Boyko_Borisov_Cropped.jpg",
+        "aciklama": "Boyko Borrisov of Bulgaria",
+        "konu": "Boyko Borisov"
+      }
     },
     {
       "id": "2016-haber-631697",
@@ -1621,10 +1801,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bozdag-abdde-sarrafin-serbest-birakilmasini-istedi-chpli-erdem-meclise-tasidi-631697"
       },
-      "konular": [],
+      "konular": [
+        "Rıza Sarraf",
+        "Bekir Bozdağ",
+        "Türkiye-Amerika Birleşik Devletleri ilişkileri"
+      ],
       "yayin": "2016-11-16T21:07:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Adalet Bakanı Bozdağ ABD Adalet Bakanı ile görüştü",
+      "ozet": "Adalet Bakanı Bekir Bozdağ, Amerika Birleşik Devletleri'ne gerçekleştirdiği ziyarette mevkidaşı Loretta Lynch ile bir araya geldi. Görüşmede, kara para aklama ve dolandırıcılık suçlamalarıyla tutuklu bulunan Rıza Sarraf'ın serbest bırakılması talebi gündeme getirildi. Söz konusu temaslar, Cumhuriyet Halk Partisi milletvekili Eren Erdem tarafından Türkiye Büyük Millet Meclisi gündemine taşındı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bekir_Bozda%C4%9F_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bekir_Bozda%C4%9F_%28cropped%29.jpg",
+        "genislik": 470,
+        "yukseklik": 555,
+        "orijinalGenislik": 470,
+        "yazar": "VOA",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bekir_Bozda%C4%9F_(cropped).jpg",
+        "aciklama": "Turkish AKP politician Bekir Bozdağ",
+        "konu": "Bekir Bozdağ"
+      }
     },
     {
       "id": "2015-haber-420761",
@@ -1637,10 +1837,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/marmaradaki-deprem-daha-buyuk-bir-depremi-tetikler-mi-420761"
       },
-      "konular": [],
+      "konular": [
+        "Marmara Denizi",
+        "Deprem",
+        "İstanbul Teknik Üniversitesi"
+      ],
       "yayin": "2015-11-16T18:40:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Marmara Denizi merkezli sarsıntı sonrası uzmanlardan değerlendirme",
+      "ozet": "Marmara bölgesinde yaşanan 4.2 büyüklüğündeki depremin ardından İstanbul Teknik Üniversitesi bünyesindeki akademisyenler konuyla ilgili görüşlerini paylaştı. Uzmanlar, meydana gelen bu sarsıntının bölgedeki sismik hareketlilik üzerindeki olası etkilerini ve daha büyük bir depremi tetikleyip tetiklemeyeceği konusundaki teknik detayları açıkladı.",
+      "kategori": "Bilim",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2010_satellite_picture_of_the_Sea_of_Marmara.jpg/960px-2010_satellite_picture_of_the_Sea_of_Marmara.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2010_satellite_picture_of_the_Sea_of_Marmara.jpg/500px-2010_satellite_picture_of_the_Sea_of_Marmara.jpg",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 2400,
+        "yazar": "NASA",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:2010_satellite_picture_of_the_Sea_of_Marmara.jpg",
+        "aciklama": "2010 satellite picture of the Sea of Marmara",
+        "konu": "Marmara Denizi"
+      }
     },
     {
       "id": "2015-haber-420671",
@@ -1653,10 +1873,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fransa-cumhurbaskani-hollande-fransa-savastadir-420671"
       },
-      "konular": [],
+      "konular": [
+        "François Hollande",
+        "Fransa"
+      ],
       "yayin": "2015-11-16T17:22:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Fransa Cumhurbaşkanı Hollande ülkesinin savaş durumunda olduğunu belirtti",
+      "ozet": "Fransa Cumhurbaşkanı François Hollande, yaşanan gelişmeler üzerine ülkesinin bir savaş hali içerisinde bulunduğunu ifade etti. Devlet başkanı, bu durumu kamuoyuna duyurarak mevcut güvenlik ortamına dair resmi bir açıklamada bulundu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Fran%C3%A7ois_Hollande_-_2017_%2827869823159%29_%28cropped_2%29.jpg/960px-Fran%C3%A7ois_Hollande_-_2017_%2827869823159%29_%28cropped_2%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Fran%C3%A7ois_Hollande_-_2017_%2827869823159%29_%28cropped_2%29.jpg/500px-Fran%C3%A7ois_Hollande_-_2017_%2827869823159%29_%28cropped_2%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1276,
+        "orijinalGenislik": 1536,
+        "yazar": "Web Summit",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Hollande_-_2017_(27869823159)_(cropped_2).jpg",
+        "aciklama": "François Hollande in 2017",
+        "konu": "François Hollande"
+      }
     },
     {
       "id": "2014-haber-142043",
@@ -1669,10 +1908,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/suriye-tarafindan-sinirdaki-askere-ates-acildi-142043"
       },
-      "konular": [],
+      "konular": [
+        "Suriye İç Savaşı",
+        "Türk Silahlı Kuvvetleri",
+        "Suriye-Türkiye sınırı"
+      ],
       "yayin": "2014-11-16T14:10:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Suriye sınırında görevli askerlere ateş açıldı",
+      "ozet": "Genelkurmay Başkanlığı tarafından yapılan açıklamada, Suriye topraklarından gelen iki kişinin sınır hattında görev yapan askerlere yönelik silahlı saldırıda bulunduğu belirtildi. Olayın ardından bölgedeki güvenlik önlemleri hakkında bilgi verildi.",
+      "kategori": "Savaş",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "genislik": 704,
+        "yukseklik": 499,
+        "orijinalGenislik": 704,
+        "yazar": "jan Sefti",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "aciklama": "The phrase \"Down with Bashar\" (yaskut Baššār), during the Syrian Uprising 2011.",
+        "konu": "Suriye İç Savaşı"
+      }
     },
     {
       "id": "2013-haber-9883",
@@ -1685,10 +1944,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/avcidan-basbakanla-yapiyoruz-mesaji-9883"
       },
-      "konular": [],
+      "konular": [
+        "Dershane",
+        "Eğitim politikası",
+        "Türkiye"
+      ],
       "yayin": "2013-11-16T12:35:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Dershanelerin dönüşümü için yeni bir model geliştirildi",
+      "ozet": "Dershanelerin statüsüne yönelik yürütülen çalışmalarda açık lise formülü üzerinde uzlaşıldı. Bu yöntemle herhangi bir lise kurumuna kaydı bulunmayan öğrencilerin yaşadığı mağduriyetlerin giderilmesi hedeflendi. Konuyla ilgili açıklamalarda bulunan yetkililer, sürecin Başbakan ile koordineli bir şekilde yürütüldüğünü belirtti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2013-haber-10061",
@@ -1701,10 +1967,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ulvi-cemal-erkin-odulunu-jan-gazdzicki-kazandi-10061"
       },
-      "konular": [],
+      "konular": [
+        "Ulvi Cemal Erkin",
+        "Notre Dame de Sion Fransız Lisesi",
+        "Piyano"
+      ],
       "yayin": "2013-11-16T23:49:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İstanbul Orchestra'Sion Piyano Yarışması'nda Ödül Sahibini Buldu",
+      "ozet": "Notre Dame de Sion Fransız Lisesi tarafından düzenlenen İstanbul Orchestra'Sion Uluslararası Piyano Yarışması sonuçlandı. Etkinlik kapsamında verilen Ulvi Cemal Erkin Ödülü'ne Polonyalı piyanist Jan Gazdzicki layık görüldü. Yarışma süreci bir hafta boyunca devam etti.",
+      "kategori": "Sanat"
     },
     {
       "id": "2012-haber-384104",
@@ -1717,10 +1990,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bu-hafta-dolar-ve-avro-kazandirdi-384104"
       },
-      "konular": [],
+      "konular": [
+        "Döviz",
+        "Ekonomi"
+      ],
       "yayin": "2012-11-16T17:59:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Döviz piyasasında haftalık kapanış verileri açıklandı",
+      "ozet": "Haftalık piyasa verilerine göre döviz kurlarında yükseliş gözlendi. Avro satış fiyatı yüzde 0,88 oranında artış gösterirken, Amerikan Doları ise yüzde 0,56 değer kazandı. Söz konusu dönemde her iki para birimi de yatırımcısına kazanç sağladı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2012-haber-384080",
@@ -1733,10 +2012,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/muhalefetin-sorulari-19-kasimda-erdogana-iletilecek-384080"
       },
-      "konular": [],
+      "konular": [
+        "TBMM Darbe ve Muhtıraları Araştırma Komisyonu",
+        "Recep Tayyip Erdoğan",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2012-11-16T15:38:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Muhalefet milletvekillerinin soruları Başbakanlığa iletilecek",
+      "ozet": "TBMM Darbe ve Muhtıraları Araştırma Komisyonu Sözcüsü İdris Şahin, muhalefet partisi üyelerinin hazırladığı soruların komisyona teslim edileceğini duyurdu. Söz konusu soruların belirlenen takvim doğrultusunda Başbakan Recep Tayyip Erdoğan'a ulaştırılacağı ifade edildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2011-haber-298510",
@@ -1749,10 +2035,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/depremzedeler-icin-81-valilikte-buro-298510"
       },
-      "konular": [],
+      "konular": [
+        "2011 Van depremi",
+        "Afet ve Acil Durum Yönetimi Başkanlığı",
+        "Türkiye"
+      ],
       "yayin": "2011-11-16T17:19:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Van depremi mağdurları için tüm illerde koordinasyon büroları kuruldu",
+      "ozet": "Afet ve Acil Durum Yönetimi Başkanlığı, Van bölgesinde yaşanan sarsıntıdan etkilenen vatandaşların uygun konutlara yerleştirilmesi amacıyla bir çalışma başlattı. Bu kapsamda Türkiye genelindeki seksen bir ilin valilik bünyesinde özel bürolar oluşturuldu. Söz konusu birimler, depremzedelerin barınma ihtiyaçlarının karşılanması sürecini yönetmek üzere görevlendirildi.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/AFAD_Ekipleri.JPG/960px-AFAD_Ekipleri.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/AFAD_Ekipleri.JPG/500px-AFAD_Ekipleri.JPG",
+        "genislik": 960,
+        "yukseklik": 639,
+        "orijinalGenislik": 4256,
+        "yazar": "Disaster and Emergency Management Presidency of Turkey",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:AFAD_Ekipleri.JPG",
+        "aciklama": "AFAD Ekipleri",
+        "konu": "Afet ve Acil Durum Yönetimi Başkanlığı"
+      }
     },
     {
       "id": "2011-haber-298504",
@@ -1765,10 +2071,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/odeme-yerel-secimler-oncesine-298504"
       },
-      "konular": [],
+      "konular": [
+        "İntibak Yasası",
+        "Faruk Çelik",
+        "Türkiye"
+      ],
       "yayin": "2011-11-16T20:46:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İntibak Yasası düzenlemesi için takvim belirlendi",
+      "ozet": "Çalışma ve Sosyal Güvenlik Bakanı Faruk Çelik, İntibak Yasası ile ilgili çalışmaların hızlandırıldığını ifade etti. Bakan Çelik, söz konusu yasal düzenlemenin 2012 yılının ilk yarısı içerisinde tamamlanması için çaba gösterdiklerini açıkladı.",
+      "kategori": "Siyaset"
     }
   ],
   "haberYillari": [

@@ -11,10 +11,10 @@
         "Rodos",
         "İzmir"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Timur'un İzmir Kuşatması",
+      "ozet": "Timurlu İmparatorluğu'nun kurucusu Timur, Anadolu'daki hakimiyetini pekiştirmek amacıyla 1402 yılının son günlerinde İzmir üzerine bir sefer düzenledi. O dönemde İzmir, stratejik konumu nedeniyle Rodos şövalyeleri olarak bilinen Hospitalier Şövalyeleri'nin kontrolü altındaydı ve yaklaşık 57 yıldır onların egemenliğinde bulunuyordu. Timur'un şehri kuşatması, bölgedeki Latin varlığına karşı gerçekleştirilen önemli bir askeri hamle olarak tarihe geçti.\n\nBu kuşatma, Timur'un Anadolu'daki askeri gücünü ve kararlılığını göstermesi açısından büyük bir önem taşır. Şövalyelerin elindeki kaleyi düşürmek, Timur'un bölgedeki siyasi ve askeri nüfuzunu artırırken, aynı zamanda Hristiyan güçlerin Ege kıyılarındaki savunma hatlarını da zayıflattı. İzmir'in ele geçirilmesi, Timur'un geniş çaplı fetih stratejisinin bir parçası olarak, bölgedeki güç dengelerini değiştiren kritik bir olay olmuştur.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Timur_reconstruction03.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Timur_reconstruction03.jpg",
@@ -28,47 +28,7 @@
         "aciklama": "File:Amir Timur (9333672292).jpg \"Timur was a typical Mongoloid. His grandsons Ulugh-Beg and Mohammed Sultan were \"hybrids\" and in type closely ressembled the present-day town-dwelling Uzbeks. The son",
         "konu": "Timur"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Timur_reconstruction03.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Timur_reconstruction03.jpg",
-          "genislik": 590,
-          "yukseklik": 892,
-          "orijinalGenislik": 590,
-          "yazar": "user:shakko",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Timur_reconstruction03.jpg",
-          "aciklama": "File:Amir Timur (9333672292).jpg \"Timur was a typical Mongoloid. His grandsons Ulugh-Beg and Mohammed Sultan were \"hybrids\" and in type closely ressembled the present-day town-dwelling Uzbeks. The son",
-          "konu": "Timur"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Aerial_view_of_Rhodes_Old_Town%2C_Greece_%2851698566526%29.jpg/960px-Aerial_view_of_Rhodes_Old_Town%2C_Greece_%2851698566526%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Aerial_view_of_Rhodes_Old_Town%2C_Greece_%2851698566526%29.jpg/500px-Aerial_view_of_Rhodes_Old_Town%2C_Greece_%2851698566526%29.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 5464,
-          "yazar": "dronepicr",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Rhodes_Old_Town,_Greece_(51698566526).jpg",
-          "aciklama": "Aerial view of Rhodes Old Town in Rhodos (city) on Rhodes island",
-          "konu": "Rodos"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/960px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/500px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 3024,
-          "yazar": "BSRF",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0zmir_Clock_Tower,_December_2018.jpg",
-          "aciklama": "İzmir Clock Tower in Turkey.",
-          "konu": "İzmir"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1420-ingiltere-krali-5-henry-parise-girdi",
@@ -91,10 +51,10 @@
       "konular": [
         "Francis Walsingham"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İstihbaratın Mimarı Francis Walsingham Şövalye İlan Edildi",
+      "ozet": "İngiltere tarihinin en etkili devlet adamlarından biri olan Francis Walsingham, Kraliçe I. Elizabeth'e sunduğu sadık hizmetlerin bir nişanesi olarak 1577 yılının Aralık ayında şövalyelik unvanına layık görüldü. Walsingham, özellikle dışişleri bakanlığı görevini üstlendiği dönemde İngiltere'nin Avrupa'daki çıkarlarını korumak adına yürüttüğü diplomatik faaliyetlerle tanınmaktadır. Ancak onun asıl tarihsel önemi, kurduğu geniş kapsamlı istihbarat ağıyla İngiliz tahtına yönelik iç ve dış tehditleri önceden tespit etme becerisinden gelmektedir. Kraliçe Elizabeth'in güvenini kazanan Walsingham, bu unvanla birlikte devlet yönetimindeki ağırlığını daha da pekiştirmiştir. Şövalyelik, o dönemde sadece askeri bir başarı değil, aynı zamanda kraliyetin en yakınındaki isimlere verilen prestijli bir statüydü. Walsingham'ın istihbarat alanındaki çalışmaları, İngiltere'nin o dönemde karşı karşıya kaldığı siyasi ve dini çatışmaların yönetilmesinde kritik bir rol oynamıştır. Ölümüne kadar sürdürdüğü görevleri boyunca İngiliz dış politikasının şekillenmesinde ve Elizabeth döneminin istikrarının korunmasında kilit bir figür olarak kalmıştır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Queen_Elizabeth_I%3B_Sir_Francis_Walsingham%3B_William_Cecil%2C_1st_Baron_Burghley_by_William_Faithorne_%282%29.jpg/960px-Queen_Elizabeth_I%3B_Sir_Francis_Walsingham%3B_William_Cecil%2C_1st_Baron_Burghley_by_William_Faithorne_%282%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Queen_Elizabeth_I%3B_Sir_Francis_Walsingham%3B_William_Cecil%2C_1st_Baron_Burghley_by_William_Faithorne_%282%29.jpg/500px-Queen_Elizabeth_I%3B_Sir_Francis_Walsingham%3B_William_Cecil%2C_1st_Baron_Burghley_by_William_Faithorne_%282%29.jpg",
@@ -107,7 +67,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_I;_Sir_Francis_Walsingham;_William_Cecil,_1st_Baron_Burghley_by_William_Faithorne_(2).jpg",
         "aciklama": null,
         "konu": "Francis Walsingham"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1640-portekiz-ispanyadan-bagimsizligini-ilan-etti",
@@ -249,10 +210,10 @@
         "sinema",
         "Paris"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Sinemanın Doğuşu: İlk Sinema Salonu Paris'te Açıldı",
+      "ozet": "Sinema tarihinin dönüm noktalarından biri olan ilk kalıcı sinema salonu, 1906 yılının Aralık ayında Fransa'nın başkenti Paris'te hizmet vermeye başladı. Hareketli görüntülerin bir ışık kaynağı yardımıyla perdeye yansıtılması prensibine dayanan bu yeni eğlence biçimi, kısa sürede geniş kitlelerin ilgisini çekerek modern kültürün vazgeçilmez bir parçası haline geldi. Önceleri fuarlarda veya geçici mekanlarda sergilenen kısa filmler, bu salonun açılmasıyla birlikte artık düzenli bir gösterim sistemine kavuşmuş oldu.\n\nSinemanın yedinci sanat olarak kabul edilmesine giden süreçte, özel olarak tasarlanmış bu mekanlar büyük bir rol oynadı. Film endüstrisinin temellerinin atıldığı bu dönemde, kurgu, ışık ve dekor gibi teknik unsurlar da gelişmeye başladı. Paris'te atılan bu adım, sinemanın sadece bir teknolojik deney olmaktan çıkıp, toplumsal bir etkinlik ve sanat dalı olarak kurumsallaşmasının önünü açtı. Bugün dünya genelinde yaygın olan sinema salonu kültürü, bu ilk girişimin sağladığı başarı ve popülerlik sayesinde evrensel bir boyuta ulaştı.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/FilmCrew.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/FilmCrew.jpg",
@@ -266,34 +227,7 @@
         "aciklama": null,
         "konu": "sinema"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/FilmCrew.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/FilmCrew.jpg",
-          "genislik": 640,
-          "yukseklik": 480,
-          "orijinalGenislik": 640,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:FilmCrew.jpg",
-          "aciklama": null,
-          "konu": "sinema"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/960px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/500px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-          "genislik": 960,
-          "yukseklik": 600,
-          "orijinalGenislik": 4592,
-          "yazar": "Yann Caradec from Paris, France",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
-          "aciklama": "La Tour Eiffel vue de la Tour Saint-Jacques, Paris.",
-          "konu": "Paris"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1913-ford-motor-company-ilk-hareketli-montaj-hattini",
@@ -318,23 +252,12 @@
         "Bukovina",
         "Romanya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Bukovina.png",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Bukovina.png",
-        "genislik": 960,
-        "yukseklik": 1247,
-        "orijinalGenislik": 960,
-        "yazar": "Oofie13",
-        "lisans": "CC0",
-        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bukovina.png",
-        "aciklama": "Romanya ve Ukrayna arasında tarihi bir bölge.",
-        "konu": "Bukovina"
-      }
+      "baslik": "Büyük Romanya'nın Doğuşu ve Ulusal Birlik",
+      "ozet": "Birinci Dünya Savaşı'nın sona ermesiyle birlikte Avrupa haritası yeniden şekillenirken, 1 Aralık 1918 tarihinde Transilvanya'nın Romanya ile birleşmesi kararı alındı. Bu gelişme, daha önce yıl içerisinde gerçekleşen Bessarabia ve Bukovina'nın katılım süreçlerini tamamlayan tarihi bir dönüm noktası oldu. Alba Iulia'da toplanan büyük bir meclis, bölgedeki Rumen nüfusun iradesini yansıtarak Romanya Krallığı ile birleşme kararını resmen ilan etti.\n\nBu birleşme, yüzyıllardır farklı imparatorlukların egemenliği altında yaşayan Rumen halkının tek bir çatı altında toplanmasını sağladı. Özellikle Avusturya-Macaristan İmparatorluğu'nun dağılmasıyla ortaya çıkan siyasi boşluk, Romanya'nın toprak bütünlüğünü sağlaması için bir fırsat yarattı. Bu süreç, modern Romanya devletinin sınırlarını belirleyen ve ulusal kimliğin pekişmesinde kritik bir rol oynayan 'Büyük Romanya' idealinin gerçekleşmesi olarak tarihe geçti. Söz konusu birleşme, bölgedeki etnik ve kültürel bütünlüğü sağlama çabalarının en somut ve nihai sonucu olarak kabul edilmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1918-izlanda-egemen-bir-devlet-oldu-ancak-o",
@@ -386,10 +309,10 @@
         "Boston Bruins",
         "Boston Arena"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Boston Bruins'in Tarihi İlk Maçı",
+      "ozet": "Boston Bruins, 1924 yılında kurularak Kuzey Amerika'nın en prestijli buz hokeyi ligi olan NHL'e katılan ilk Amerika Birleşik Devletleri merkezli takım olma unvanını kazandı. Takım, ligdeki ilk resmi müsabakasını Boston Arena'da gerçekleştirerek profesyonel hokeyin Kanada sınırlarının dışına taşınmasında öncü bir rol üstlendi. Bu adım, o dönemde sadece Kanada takımlarının domine ettiği ligin uluslararası bir kimlik kazanma sürecinin başlangıcı olarak kabul edilir.\n\nNHL'in genişleme stratejisinin bir parçası olan bu hamle, buz hokeyinin Amerika Birleşik Devletleri'nde popülerleşmesi ve kurumsallaşması açısından kritik bir dönüm noktasıydı. Boston Bruins'in lige dahil olmasıyla birlikte ligin rekabet düzeyi artmış ve zamanla günümüzdeki 32 takımlı devasa yapısına ulaşan genişleme sürecinin temelleri atılmıştır. Bugün hala aktif olan Boston Arena'da atılan bu ilk adımlar, Bruins'in ligin en köklü ve başarılı kulüplerinden biri haline gelmesinin yolunu açmıştır.",
+      "kategori": "Spor",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Stanly_Cup_in_Hockey_Hall_of_Fame_%28may_2008%29_edit1.jpg/960px-Stanly_Cup_in_Hockey_Hall_of_Fame_%28may_2008%29_edit1.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Stanly_Cup_in_Hockey_Hall_of_Fame_%28may_2008%29_edit1.jpg/500px-Stanly_Cup_in_Hockey_Hall_of_Fame_%28may_2008%29_edit1.jpg",
@@ -402,7 +325,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Stanly_Cup_in_Hockey_Hall_of_Fame_(may_2008)_edit1.jpg",
         "aciklama": "Stanley Cup in Hockey Hall of Fame",
         "konu": "National Hockey League"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1925-locarno-antlasmasi-fransa-almanya-birlesik-krallik-italya",
@@ -450,23 +374,12 @@
       "konular": [
         "Vakit (gazete)"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Atat%C3%BCrk_Bust_%2814689325203%29.jpg/960px-Atat%C3%BCrk_Bust_%2814689325203%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Atat%C3%BCrk_Bust_%2814689325203%29.jpg/500px-Atat%C3%BCrk_Bust_%2814689325203%29.jpg",
-        "genislik": 960,
-        "yukseklik": 638,
-        "orijinalGenislik": 1200,
-        "yazar": "SALTOnline from Istanbul, Turkey",
-        "lisans": "No restrictions",
-        "lisansUrl": "https://www.flickr.com/commons/usage/",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Atat%C3%BCrk_Bust_(14689325203).jpg",
-        "aciklama": null,
-        "konu": "Vakit (gazete)"
-      }
+      "baslik": "Vakit Gazetesi'nin Mutlu Çiftler Müsabakası",
+      "ozet": "Cumhuriyetin ilk yıllarında toplumsal yaşamı ve aile kurumunu modernleştirme çabaları sürerken, Vakit gazetesi dikkat çekici bir sosyal etkinliğe imza attı. 1928 yılının Kasım ayı sonunda başlatılan Mutlu Çiftler Müsabakası, dönemin okuyucuları arasında büyük bir merak ve katılım isteği uyandırdı. Gazetenin bu girişimi, o dönemde halkın gazete içeriklerine olan ilgisini artırmayı ve toplumsal etkileşimi güçlendirmeyi hedefleyen bir tür popüler kültür denemesi olarak öne çıktı.\n\nBu tür yarışmalar, o dönemde basının sadece haber verme işlevinin ötesine geçerek toplumun günlük yaşamına dokunma ve okuyucu kitlesini genişletme stratejisinin bir parçasıydı. Vakit gazetesi, Ahmet Emin Yalman ve Mehmet Asım Us gibi isimlerin yönetiminde, dönemin entelektüel ve sosyal atmosferini yansıtan önemli bir yayın organıydı. Mutlu Çiftler Müsabakası gibi etkinlikler, gazetenin halkla kurduğu bağı güçlendirirken, aynı zamanda modern aile yapısının teşvik edilmesine yönelik toplumsal bir mesaj da taşıyordu. Yarışmanın gördüğü yoğun ilgi, gazetenin o dönemdeki etkili konumunu ve halkın bu tür sosyal içeriklere olan eğilimini gözler önüne serdi.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1928-osmanli-borclarinin-tasfiyesine-iliskin-anlasma-tbmmde-onaylandi",
@@ -502,10 +415,10 @@
         "Sergey Kirov",
         "Josef Stalin"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Sergey Kirov Suikastı ve Büyük Arınma'nın Başlangıcı",
+      "ozet": "Sovyetler Birliği Komünist Partisi'nin önde gelen isimlerinden ve Leningrad bölge sekreteri olan Sergey Kirov, 1 Aralık 1934 tarihinde uğradığı silahlı saldırı sonucu hayatını kaybetti. Kirov'un ölümü, Sovyet siyasi tarihinde bir dönüm noktası teşkil etti. O dönemde parti içinde yükselen bir figür olan Kirov'un ortadan kaldırılması, Josef Stalin'in iktidarını mutlaklaştırmak ve parti içindeki muhalifleri tasfiye etmek için ihtiyaç duyduğu siyasi atmosferi yarattı.\n\nStalin, bu suikastı bahane ederek Büyük Arınma olarak bilinen geniş çaplı bir baskı ve temizlik dönemini başlattı. Kirov'un öldürülmesinin ardından, suikastın arkasında geniş bir komplo olduğu iddiasıyla başlayan soruşturmalar, kısa sürede parti üyelerine, ordu mensuplarına ve aydınlara yönelik sistematik bir kıyıma dönüştü. Bu süreç, Sovyetler Birliği'nde korku ikliminin yerleşmesine ve Stalin'in totaliter rejiminin pekişmesine yol açtı. Kirov'un ölümü, sadece bir siyasi cinayet değil, aynı zamanda Sovyet toplumunda on binlerce insanın hayatını kaybetmesine ve milyonlarca kişinin çalışma kamplarına gönderilmesine neden olan büyük bir siyasi operasyonun tetikleyicisi oldu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Sergei_Kirov_1934.jpg/960px-Sergei_Kirov_1934.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Sergei_Kirov_1934.jpg/500px-Sergei_Kirov_1934.jpg",
@@ -519,34 +432,7 @@
         "aciklama": "С.М. Киров на трибуне XVII съезда ВКП(б)",
         "konu": "Sergey Kirov"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Sergei_Kirov_1934.jpg/960px-Sergei_Kirov_1934.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Sergei_Kirov_1934.jpg/500px-Sergei_Kirov_1934.jpg",
-          "genislik": 960,
-          "yukseklik": 960,
-          "orijinalGenislik": 1276,
-          "yazar": "Mikhail Mikhaylovich Kalashnikov",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Sergei_Kirov_1934.jpg",
-          "aciklama": "С.М. Киров на трибуне XVII съезда ВКП(б)",
-          "konu": "Sergey Kirov"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/StalinCropped1943.jpg/960px-StalinCropped1943.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/StalinCropped1943.jpg/500px-StalinCropped1943.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 964,
-          "yazar": "Franklin D. Roosevelt Library Public Domain Photographs",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:StalinCropped1943.jpg",
-          "aciklama": "A cropped image of Joseph Stalin during the Tehran Conference. In the full photo he is sitting beside Franklin D. Roosevelt, and Winston Churchill on the portico of the Russian Embassy.",
-          "konu": "Josef Stalin"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1935-turk-kadininin-siyasal-haklarini-kazanmasi",
@@ -566,23 +452,12 @@
       "konular": [
         "II. Dünya Savaşı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "genislik": 400,
-        "yukseklik": 286,
-        "orijinalGenislik": 400,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
-        "aciklama": "Pitched battle at Changde.",
-        "konu": "II. Dünya Savaşı"
-      }
+      "baslik": "Türkiye'de II. Dünya Savaşı Nedeniyle Karartma Uygulaması Başladı",
+      "ozet": "II. Dünya Savaşı'nın Avrupa'da hızla yayıldığı ve çatışmaların şiddetlendiği bir dönemde, Türkiye olası bir hava saldırısı riskine karşı önlemlerini artırdı. Bu kapsamda 1 Aralık 1940 tarihinde ülke genelinde geceleri karartma uygulaması başlatıldı. Şehirlerdeki tüm ışıkların söndürülmesini veya dışarıya ışık sızdırmayacak şekilde kapatılmasını zorunlu kılan bu uygulama, savaşın yıkıcı etkilerinin Türkiye'ye ulaşma ihtimaline karşı alınan temel bir savunma tedbiriydi.\n\nSavaşın tarafsız ülkelerinden biri olan Türkiye, çatışmaların dışında kalmaya çalışsa da bölgedeki gerilimin artması nedeniyle tetikte bekliyordu. Karartma uygulaması, sadece bir güvenlik önlemi olmanın ötesinde, halkın savaş psikolojisini ve ciddiyetini kavraması açısından da önemli bir dönüm noktasıydı. Sokak lambalarının söndürüldüğü, evlerin pencerelerinin kalın perdelerle kapatıldığı bu dönem, Türkiye'nin savaş yıllarındaki zorlu yaşam koşullarını ve savunma hazırlıklarını simgeleyen en belirgin uygulamalardan biri olarak tarihe geçti.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1941-2-dunya-savasi-japonya-imparatoru-hirohito-amerika",
@@ -616,64 +491,24 @@
         "Josef Stalin",
         "Tahran Konferansı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Tahran Konferansı: Müttefiklerin Stratejik Buluşması",
+      "ozet": "II. Dünya Savaşı'nın en kritik dönemeçlerinden biri olan Tahran Konferansı, 1 Aralık 1943 tarihinde sona erdi. İran'ın başkenti Tahran'da düzenlenen bu tarihi zirveye, Müttefik Devletler'in liderleri olan ABD Başkanı Franklin D. Roosevelt, Birleşik Krallık Başbakanı Winston Churchill ve Sovyetler Birliği lideri Josef Stalin katıldı. Bu buluşma, üç büyük liderin savaş boyunca bir araya geldiği ilk yüz yüze görüşme olma özelliğini taşıyordu.\n\nKonferansın temel gündem maddesi, Nazi Almanyası'na karşı yürütülen savaşın stratejisiydi. Liderler, Fransa'nın kuzeyinden yapılacak büyük bir çıkarma harekâtı olan Overlord Operasyonu üzerinde mutabakata vardılar. Bu karar, savaşın Avrupa cephesindeki kaderini değiştirecek olan Normandiya Çıkarması'nın yolunu açtı. Ayrıca, savaş sonrası dünyanın nasıl şekilleneceği ve uluslararası barışın korunması için kurulacak yeni bir teşkilatın temelleri de bu görüşmelerde ele alındı. Tahran Konferansı, Müttefiklerin askeri koordinasyonunu en üst seviyeye taşıyarak, Mihver Devletleri'ne karşı kazanılacak nihai zaferin stratejik planlamasını somutlaştırdı.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/960px-FDR_1944_Color_Portrait.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/500px-FDR_1944_Color_Portrait.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/StalinCropped1943.jpg/960px-StalinCropped1943.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/StalinCropped1943.jpg/500px-StalinCropped1943.jpg",
         "genislik": 960,
-        "yukseklik": 1384,
-        "orijinalGenislik": 2754,
-        "yazar": "Leon Perskie",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:FDR_1944_Color_Portrait.jpg",
-        "aciklama": "Original color transparency of FDR taken at 1944 Official Campaign Portrait session by Leon A. Perskie, Hyde Park, New York, August 22, 1944. Gift of Beatrice Perskie Foxman and Dr. Stanley B. Foxman.",
-        "konu": "Franklin D. Roosevelt"
+        "yukseklik": 1280,
+        "orijinalGenislik": 964,
+        "yazar": "Franklin D. Roosevelt Library Public Domain Photographs",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:StalinCropped1943.jpg",
+        "aciklama": "A cropped image of Joseph Stalin during the Tehran Conference. In the full photo he is sitting beside Franklin D. Roosevelt, and Winston Churchill on the portico of the Russian Embassy.",
+        "konu": "Josef Stalin"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/960px-FDR_1944_Color_Portrait.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/500px-FDR_1944_Color_Portrait.jpg",
-          "genislik": 960,
-          "yukseklik": 1384,
-          "orijinalGenislik": 2754,
-          "yazar": "Leon Perskie",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:FDR_1944_Color_Portrait.jpg",
-          "aciklama": "Original color transparency of FDR taken at 1944 Official Campaign Portrait session by Leon A. Perskie, Hyde Park, New York, August 22, 1944. Gift of Beatrice Perskie Foxman and Dr. Stanley B. Foxman.",
-          "konu": "Franklin D. Roosevelt"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/960px-Sir_Winston_Churchill_-_19086236948.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/500px-Sir_Winston_Churchill_-_19086236948.jpg",
-          "genislik": 960,
-          "yukseklik": 1222,
-          "orijinalGenislik": 3052,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Sir_Winston_Churchill_-_19086236948.jpg",
-          "aciklama": "Karsh called this picture \"The Roaring Lion\" at the Wayback Machine",
-          "konu": "Winston Churchill"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/StalinCropped1943.jpg/960px-StalinCropped1943.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/StalinCropped1943.jpg/500px-StalinCropped1943.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 964,
-          "yazar": "Franklin D. Roosevelt Library Public Domain Photographs",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:StalinCropped1943.jpg",
-          "aciklama": "A cropped image of Joseph Stalin during the Tehran Conference. In the full photo he is sitting beside Franklin D. Roosevelt, and Winston Churchill on the portico of the Russian Embassy.",
-          "konu": "Josef Stalin"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1945-kore-merkezi-tarih-muzesinin-insasi-tamamlandi",
@@ -682,10 +517,10 @@
       "konular": [
         "Kore Merkezî Tarih Müzesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Kore Merkezî Tarih Müzesi'nin Açılışı",
+      "ozet": "Kuzey Kore'nin başkenti Pyongyang'da yer alan Kore Merkezî Tarih Müzesi, 1945 yılının sonunda inşaatının tamamlanmasıyla kapılarını açtı. Ülkenin en önemli kültürel kurumlarından biri olarak tasarlanan müze, Kore yarımadasının tarih öncesi dönemlerinden modern zamanlara kadar uzanan geniş bir yelpazedeki eserlere ev sahipliği yapmaktadır. Müze, bölgenin kültürel mirasını koruma ve gelecek nesillere aktarma misyonuyla kurulmuştur. Kurum, özellikle Kore tarihine dair arkeolojik buluntuların, geleneksel sanat eserlerinin ve tarihi belgelerin sergilendiği merkezi bir nokta olma özelliğini taşır. Pyongyang'ın kültürel dokusunda önemli bir yere sahip olan bu yapı, ülkenin tarihsel anlatısını şekillendiren temel unsurları bünyesinde barındırır. Müzenin kuruluşu, Kore'nin kendi tarihsel kimliğini tanımlama ve bu kimliği kurumsal bir çerçevede topluma sunma çabasının bir parçası olarak değerlendirilmektedir. Günümüzde de ziyaretçilerine Kore tarihinin derinliklerine inme fırsatı sunan müze, bölge tarihçiliği açısından temel bir başvuru kaynağı niteliğindedir.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Korean_Central_History_Museum.JPG/960px-Korean_Central_History_Museum.JPG",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Korean_Central_History_Museum.JPG/500px-Korean_Central_History_Museum.JPG",
@@ -698,7 +533,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Korean_Central_History_Museum.JPG",
         "aciklama": "Korean Central History Museum, Pyongyang",
         "konu": "Kore Merkezî Tarih Müzesi"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1950-turk-tugayi-korede-kunu-ri-muharebesini-kazandi",
@@ -709,10 +545,10 @@
         "Kore Savaşı",
         "Kunu-ri Muharebesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türk Tugayı'nın Kunu-ri'deki Tarihi Savunması",
+      "ozet": "Kore Savaşı'nın en kritik dönemlerinden birinde, 1 Aralık 1950 tarihinde Türk Tugayı, Kunu-ri bölgesinde Çin Halk Kurtuluş Ordusu'nun yoğun saldırılarına karşı destansı bir direniş sergiledi. Birleşmiş Milletler kuvvetlerinin geri çekilme hattını korumakla görevlendirilen Türk askerleri, sayıca üstün düşman birliklerine karşı gösterdikleri inatçı savunma ve muharebe disipliniyle büyük bir başarıya imza attı. Bu çatışma, Türk Tugayı'nın savaş alanındaki cesaretinin ve askeri yeteneğinin uluslararası düzeyde tescillenmesini sağladı.\n\nKunu-ri Muharebesi, Türk Tugayı'nın Kore Savaşı'ndaki en önemli sınavlarından biri olarak kabul edilir. Bu muharebedeki üstün gayretleri sayesinde Türk birliği, hem Kore hükümeti hem de Amerika Birleşik Devletleri tarafından Birlik Takdirnameleri ile ödüllendirildi. Türk askerinin sergilediği bu kararlı duruş, müttefik kuvvetlerin kuşatılmasını engelleyerek daha büyük kayıpların önüne geçilmesinde stratejik bir rol oynadı. Bugün bu muharebe, Türk Silahlı Kuvvetleri'nin uluslararası barış gücü operasyonlarındaki başarısının ve askeri tarihinin önemli bir parçası olarak anılmaktadır.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%C4%B0stanbul_6122.jpg/960px-%C4%B0stanbul_6122.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%C4%B0stanbul_6122.jpg/500px-%C4%B0stanbul_6122.jpg",
@@ -726,47 +562,7 @@
         "aciklama": "Standard of Turkish Armed Forces in the Korean War in İstanbul Askeri Müzesi (Military Museum) in Şişli, İstanbul, Turkey",
         "konu": "Türk Tugayı"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%C4%B0stanbul_6122.jpg/960px-%C4%B0stanbul_6122.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%C4%B0stanbul_6122.jpg/500px-%C4%B0stanbul_6122.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 2576,
-          "yazar": "User:Darwinek",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0stanbul_6122.jpg",
-          "aciklama": "Standard of Turkish Armed Forces in the Korean War in İstanbul Askeri Müzesi (Military Museum) in Şişli, İstanbul, Turkey",
-          "konu": "Türk Tugayı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Korean_War_Montage_2.png/960px-Korean_War_Montage_2.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Korean_War_Montage_2.png/500px-Korean_War_Montage_2.png",
-          "genislik": 960,
-          "yukseklik": 1427,
-          "orijinalGenislik": 1144,
-          "yazar": "All photographs are works of the United States federal government.",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Korean_War_Montage_2.png",
-          "aciklama": "Montage of images from the Korean War. Clockwise from top: U.S. Marines retreating during the Battle of the Chosin Resevoir, U.N. landing at Incheon, Korean refugees in front of an American M46 Patton",
-          "konu": "Kore Savaşı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/2ndIDKunuri.jpg/960px-2ndIDKunuri.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/2ndIDKunuri.jpg/500px-2ndIDKunuri.jpg",
-          "genislik": 960,
-          "yukseklik": 1224,
-          "orijinalGenislik": 3626,
-          "yazar": "CENTER OF MILITARY HISTORY UNITED STATES ARMY",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:2ndIDKunuri.jpg",
-          "aciklama": "Map of the retreat by US 2nd Infantry Division at Kunu-ri.",
-          "konu": "Kunu-ri Muharebesi"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1952-new-york-daily-news-cinsiyet-degistirme-ameliyatinin",
@@ -787,51 +583,12 @@
         "Adıyaman (il)",
         "Sakarya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Mount_Nemrut_-_East_Terrace_%284961323529%29.jpg/960px-Mount_Nemrut_-_East_Terrace_%284961323529%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Mount_Nemrut_-_East_Terrace_%284961323529%29.jpg/500px-Mount_Nemrut_-_East_Terrace_%284961323529%29.jpg",
-        "genislik": 960,
-        "yukseklik": 639,
-        "orijinalGenislik": 4743,
-        "yazar": "Klearchos Kapoutsis from Santorini, Greece",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Mount_Nemrut_-_East_Terrace_(4961323529).jpg",
-        "aciklama": "Mount Nemrut - East Terrace Nemrut Tümülüsü",
-        "konu": "Adıyaman (il)"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Mount_Nemrut_-_East_Terrace_%284961323529%29.jpg/960px-Mount_Nemrut_-_East_Terrace_%284961323529%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Mount_Nemrut_-_East_Terrace_%284961323529%29.jpg/500px-Mount_Nemrut_-_East_Terrace_%284961323529%29.jpg",
-          "genislik": 960,
-          "yukseklik": 639,
-          "orijinalGenislik": 4743,
-          "yazar": "Klearchos Kapoutsis from Santorini, Greece",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mount_Nemrut_-_East_Terrace_(4961323529).jpg",
-          "aciklama": "Mount Nemrut - East Terrace Nemrut Tümülüsü",
-          "konu": "Adıyaman (il)"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Hisar_Tepesi%2C_Tarakl%C4%B1.jpg/960px-Hisar_Tepesi%2C_Tarakl%C4%B1.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Hisar_Tepesi%2C_Tarakl%C4%B1.jpg/500px-Hisar_Tepesi%2C_Tarakl%C4%B1.jpg",
-          "genislik": 960,
-          "yukseklik": 643,
-          "orijinalGenislik": 3872,
-          "yazar": "Acar54",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Hisar_Tepesi,_Tarakl%C4%B1.jpg",
-          "aciklama": "Kalenin bulunduğu, Hisar Tepesi, Taraklı, Sakarya",
-          "konu": "Sakarya"
-        }
-      ]
+      "baslik": "Adıyaman ve Sakarya'nın İl Oluşu",
+      "ozet": "Türkiye'nin idari teşkilatlanmasında önemli bir dönüm noktası olan 1 Aralık 1954 tarihinde, Adıyaman ve Sakarya illeri resmen kuruldu. Bu düzenleme, bölgedeki yerel yönetimlerin güçlendirilmesi ve hizmetlerin daha etkin bir şekilde halka ulaştırılması amacıyla gerçekleştirildi. Adıyaman, Güneydoğu Anadolu Bölgesi'nde, Fırat Nehri'nin kıyısında stratejik bir konumda yer alırken; Sakarya, Marmara Bölgesi'nin sanayi ve tarım açısından gelişen önemli merkezlerinden biri olarak idari yapıda yerini aldı.\n\nİl statüsü kazanmaları, her iki bölgenin de sosyo-ekonomik kalkınma süreçlerini hızlandırdı. Adıyaman, zengin tarihi mirası ve tarımsal potansiyeliyle bölgenin önemli bir merkezi haline gelirken; Sakarya, coğrafi konumu ve Sakarya Nehri'nin sağladığı imkanlarla sanayileşme ve tarımsal üretimde Türkiye'nin önde gelen şehirlerinden biri oldu. Bugün her iki il de kendi bölgelerinde nüfus yoğunlukları ve ekonomik faaliyetleriyle Türkiye'nin idari bütünlüğünün ayrılmaz birer parçası olarak gelişimlerini sürdürmektedir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1954-gazeteci-huseyin-cahit-yalcin-cezaevine-girdi",
@@ -856,10 +613,10 @@
         "Amerika Birleşik Devletleri",
         "Rosa Parks"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Rosa Parks ve Montgomery Otobüs Boykotunun Başlangıcı",
+      "ozet": "Amerika Birleşik Devletleri'nin Alabama eyaletine bağlı Montgomery şehrinde 1 Aralık 1955 tarihinde yaşanan olay, sivil haklar mücadelesinde bir dönüm noktası kabul edilir. Rosa Parks isimli siyahi bir kadın, bindiği otobüste yerini beyaz bir yolcuya vermeyi reddederek dönemin ırk ayrımcılığına dayalı yasalarına karşı pasif bir direniş sergiledi. Bu tutumu nedeniyle tutuklanan Parks, şehirdeki adaletsiz uygulamalara karşı büyük bir tepkinin fitilini ateşledi.\n\nBu tutuklama, Montgomery'deki siyahi topluluğun otobüs sistemini boykot etmesiyle sonuçlanan geniş çaplı bir protesto hareketini başlattı. Martin Luther King Jr. gibi isimlerin öncülük ettiği bu eylemler, toplumsal eşitlik taleplerini ülke gündeminin merkezine taşıdı. Boykotun başarısı ve ardından gelen hukuki süreçler, otobüslerdeki ırk ayrımcılığının yasaklanmasını sağlayarak Amerika'daki insan hakları hareketinin en önemli kazanımlarından biri haline geldi.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Rosa_Parks%2C_November_1956_%28cropped%29.jpg/960px-Rosa_Parks%2C_November_1956_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Rosa_Parks%2C_November_1956_%28cropped%29.jpg/500px-Rosa_Parks%2C_November_1956_%28cropped%29.jpg",
@@ -872,7 +629,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Rosa_Parks,_November_1956_(cropped).jpg",
         "aciklama": "Portrait of Rosa Parks, dated November 1956 (cropped)",
         "konu": "Rosa Parks"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1964-turkiye-ile-avrupa-ekonomik-toplulugu-arasinda-ortaklik",
@@ -897,51 +655,24 @@
         "Ereğli",
         "grizu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Ereğli Maden Ocağında Grizu Faciası",
+      "ozet": "Konya'nın Ereğli ilçesinde bulunan bir kömür madeninde 1 Aralık 1965 tarihinde yaşanan grizu patlaması, dokuz maden işçisinin yaşamını yitirmesine yol açan acı bir olay olarak kayıtlara geçti. Yeraltı madenciliğinin en büyük risklerinden biri olan grizu, metan gazının hava ile belirli oranlarda karışarak yanıcı ve patlayıcı bir nitelik kazanmasıyla oluşmaktadır. Bu tür kazalar, maden ocaklarında gerekli havalandırma ve güvenlik önlemlerinin hayati önemini bir kez daha gözler önüne sermektedir. Grizu patlamaları, sadece ani bir yanma değil, aynı zamanda büyük bir basınç dalgası ve yıkıcı bir güçle maden galerilerinde ciddi tahribata neden olmaktadır. Özellikle kömür damarlarındaki metan birikiminin kontrol altında tutulması, maden güvenliği standartlarının temelini oluşturur. Türkiye'nin madencilik tarihinde yaşanan bu tür kazalar, iş güvenliği mevzuatının geliştirilmesi ve denetimlerin sıkılaştırılması süreçlerinde önemli birer uyarıcı olmuştur. Olay, maden ocaklarında çalışan işçilerin karşı karşıya kaldığı zorlu çalışma koşullarını ve güvenlik risklerini hatırlatan trajik bir örnek olarak hafızalarda yer etmiştir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Konya_location_Ere%C4%9Fli.PNG",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Konya_location_Ere%C4%9Fli.PNG",
-        "genislik": 655,
-        "yukseklik": 700,
-        "orijinalGenislik": 655,
-        "yazar": "Batuhan duz",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Konya_location_Ere%C4%9Fli.PNG",
-        "aciklama": "Ereğli ilçesinin konumu",
-        "konu": "Ereğli"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Scintillatore%2C_grisumetro_e_anemometro_-_MUSE.jpg/960px-Scintillatore%2C_grisumetro_e_anemometro_-_MUSE.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Scintillatore%2C_grisumetro_e_anemometro_-_MUSE.jpg/500px-Scintillatore%2C_grisumetro_e_anemometro_-_MUSE.jpg",
+        "genislik": 960,
+        "yukseklik": 540,
+        "orijinalGenislik": 2500,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Scintillatore,_grisumetro_e_anemometro_-_MUSE.jpg",
+        "aciklama": "Scintillator. Radioactivity detector. 1950s.Firedamp detector. Mine gas detector.Anemometer. Tool used to evaluate the mine aeration condition.",
+        "konu": "grizu"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Konya_location_Ere%C4%9Fli.PNG",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Konya_location_Ere%C4%9Fli.PNG",
-          "genislik": 655,
-          "yukseklik": 700,
-          "orijinalGenislik": 655,
-          "yazar": "Batuhan duz",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Konya_location_Ere%C4%9Fli.PNG",
-          "aciklama": "Ereğli ilçesinin konumu",
-          "konu": "Ereğli"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Scintillatore%2C_grisumetro_e_anemometro_-_MUSE.jpg/960px-Scintillatore%2C_grisumetro_e_anemometro_-_MUSE.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Scintillatore%2C_grisumetro_e_anemometro_-_MUSE.jpg/500px-Scintillatore%2C_grisumetro_e_anemometro_-_MUSE.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 2500,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Scintillatore,_grisumetro_e_anemometro_-_MUSE.jpg",
-          "aciklama": "Scintillator. Radioactivity detector. 1950s.Firedamp detector. Mine gas detector.Anemometer. Tool used to evaluate the mine aeration condition.",
-          "konu": "grizu"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1973-papua-yeni-gine-avustralyadan-ozerklik-elde-etti",
@@ -965,10 +696,10 @@
       "konular": [
         "Turgut Özal"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Turgut Özal'ın Başbakanlık Müsteşarlığına Atanması",
+      "ozet": "12 Eylül 1980 askeri darbesinin ardından kurulan sivil görünümlü teknokrat hükümette, ekonomi yönetiminin başına Turgut Özal getirildi. 1 Aralık 1980 tarihinde Başbakanlık Müsteşarlığı görevine atanan Özal, bu pozisyonda Türkiye'nin ekonomik kaderini değiştirecek olan politikaların mimarı olarak öne çıktı. Daha önce Süleyman Demirel hükümeti döneminde de aynı görevde bulunan Özal, askeri yönetim tarafından da ekonomi politikalarını yürütmesi için tercih edildi.\n\nÖzal'ın bu göreve gelişi, Türkiye'nin dışa kapalı, ithal ikameci ekonomik modelden serbest piyasa ekonomisine geçiş sürecinin en kritik adımlarından biri olarak kabul edilir. Kamuoyunda 24 Ocak kararları olarak bilinen ve Türkiye'nin ekonomik yapısını kökten değiştiren liberal reformların uygulanmasında kilit rol oynayan Özal, bu süreçteki başarısıyla kısa sürede dikkatleri üzerine çekti. Müsteşarlık görevi, onun ilerleyen yıllarda kuracağı Anavatan Partisi ile Türkiye siyasetinde başlatacağı dönüşümün de bir nevi hazırlık aşaması oldu. Bu atama, Türkiye'nin ekonomik tarihinde yeni bir dönemin başlangıcını simgelemektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
@@ -981,7 +712,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Turgut_%C3%96zal_as_Turkish_Prime_Minister.jpg",
         "aciklama": "Turgut Özal, Turkish Prime Minister",
         "konu": "Turgut Özal"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1980-sanat-dergisi-gosteri-yayimlanmaya-basladi",
@@ -1005,10 +737,10 @@
         "McDonnell Douglas DC-9",
         "Korsika"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Korsika'da Yugoslavya Hava Yolları Uçak Kazası",
+      "ozet": "Yugoslavya Hava Yolları'na ait McDonnell Douglas DC-9 tipi yolcu uçağı, 1 Aralık 1981 sabahı Korsika adasındaki Ajaccio kenti yakınlarında bulunan San Pietro Dağı'na çarptı. Ljubljana'dan kalkan ve içerisinde çok sayıda turistin bulunduğu uçak, iniş hazırlıkları sırasında dağlık araziye çakıldı. Kazanın ardından yapılan arama kurtarma çalışmalarında uçakta bulunan 178 yolcu ve mürettebattan kurtulan olmadığı açıklandı. Bu trajik olay, o dönem için havacılık tarihindeki en büyük kayıplardan biri olarak kayıtlara geçti.\n\nKaza, uçağın iniş rotası üzerindeki dağlık coğrafi yapının ve bölgedeki hava koşullarının yarattığı riskleri bir kez daha gündeme getirdi. Olayın ardından başlatılan soruşturmalar, uçağın alçalma manevrası sırasında yaşanan navigasyon ve iletişim hataları üzerinde yoğunlaştı. Yugoslavya'nın sivil havacılık tarihinde derin bir iz bırakan bu kaza, uluslararası havacılık güvenliği standartlarının gözden geçirilmesi ve dağlık bölgelerdeki uçuş prosedürlerinin iyileştirilmesi konusunda önemli bir dönüm noktası oluşturdu.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/DC-9_UR-CBY.JPG/960px-DC-9_UR-CBY.JPG",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/DC-9_UR-CBY.JPG/500px-DC-9_UR-CBY.JPG",
@@ -1022,34 +754,7 @@
         "aciklama": "UM Air DC-9-51 still partly in the livery of its previous owner, Finnair, at Beijing Airport",
         "konu": "McDonnell Douglas DC-9"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/DC-9_UR-CBY.JPG/960px-DC-9_UR-CBY.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/DC-9_UR-CBY.JPG/500px-DC-9_UR-CBY.JPG",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 1024,
-          "yazar": "Yaoleilei at en.wikipedia",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:DC-9_UR-CBY.JPG",
-          "aciklama": "UM Air DC-9-51 still partly in the livery of its previous owner, Finnair, at Beijing Airport",
-          "konu": "McDonnell Douglas DC-9"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Corsica_topo.png/960px-Corsica_topo.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Corsica_topo.png/500px-Corsica_topo.png",
-          "genislik": 960,
-          "yukseklik": 1210,
-          "orijinalGenislik": 1190,
-          "yazar": "Zamonin",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Corsica_topo.png",
-          "aciklama": "Description: Topography of Corsica, created with GMT 4.1.3",
-          "konu": "Korsika"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1983-12-eylul-darbesiden-sonra-olusturulan-danisma-meclisinin",
@@ -1060,10 +765,10 @@
         "TBMM 1981 Danışma Meclisi",
         "1983 Türkiye genel seçimleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Danışma Meclisi'nin Görev Süresi Sona Erdi",
+      "ozet": "12 Eylül 1980 askeri müdahalesinin ardından Türkiye'de yasama sürecini yürütmek ve yeni anayasayı hazırlamak amacıyla oluşturulan Danışma Meclisi, 1 Aralık 1983 tarihinde faaliyetlerini tamamladı. Millî Güvenlik Konseyi ile birlikte Kurucu Meclis'in bir kanadını oluşturan bu yapı, 1982 Anayasası'nın hazırlanması ve geçiş dönemi yasalarının çıkarılmasında kritik bir rol oynamıştı. 160 üyeden oluşan meclis, darbe sonrası siyasi düzenin yeniden inşası sürecinde askeri yönetimin denetiminde yasama faaliyetlerini sürdürdü.\n\n6 Kasım 1983 tarihinde gerçekleştirilen genel seçimler, Türkiye'nin çok partili hayata dönüşünde önemli bir dönüm noktası oldu. Turgut Özal liderliğindeki Anavatan Partisi'nin zaferiyle sonuçlanan bu seçimlerin ardından, seçilmiş milletvekillerinden oluşan Türkiye Büyük Millet Meclisi'nin göreve başlamasıyla Danışma Meclisi'nin varlığına ihtiyaç kalmadı. Bu gelişme, 1980 darbesiyle kesintiye uğrayan parlamenter sistemin yeniden işlerlik kazanması yolunda atılan en somut adımlardan biri olarak kabul edilmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/1983_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png/960px-1983_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/1983_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png/500px-1983_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png",
@@ -1076,7 +781,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:1983_T%C3%BCrkiye_Milletvekili_Genel_Se%C3%A7imleri.png",
         "aciklama": "1983 Turkish general election",
         "konu": "1983 Türkiye genel seçimleri"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1986-yazar-demir-ozlu-hakkinda-acilan-davaya-katilmamasi",
@@ -1099,10 +805,10 @@
         "Dünya Sağlık Örgütü",
         "HIV/AIDS"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Dünya AIDS Günü İlk Kez İlan Edildi",
+      "ozet": "Dünya Sağlık Örgütü, 1987 yılında aldığı bir kararla 1 Aralık tarihini Dünya AIDS Günü olarak belirledi. Bu girişimin temel amacı, 1980'lerin başından itibaren küresel bir sağlık krizi haline gelen HIV ve AIDS salgınına karşı toplumsal bilinci artırmak, hastalığın yayılmasını önlemek ve bu süreçte hayatını kaybedenleri anmaktı. Örgüt, bu özel gün aracılığıyla dünya genelinde HIV ile yaşayan bireylere yönelik ayrımcılığın azaltılmasını ve sağlık hizmetlerine erişimin güçlendirilmesini hedefledi.\n\nAIDS, insan bağışıklık sistemini hedef alan HIV virüsünün neden olduğu, vücudun enfeksiyonlara karşı direncini kıran ciddi bir sağlık sorunudur. İlk kez 1980'lerin başında tanımlanan bu hastalık, kısa sürede dünya çapında milyonlarca insanı etkileyen bir boyuta ulaştı. Dünya Sağlık Örgütü'nün bu günü ilan etmesi, uluslararası toplumun hastalığın yarattığı tehdide karşı ortak bir duruş sergilemesi açısından kritik bir dönüm noktası oldu. Günümüzde 1 Aralık, sadece bir anma günü değil, aynı zamanda HIV ile mücadelede bilimsel gelişmelerin paylaşıldığı, önleme stratejilerinin tartışıldığı ve küresel sağlık politikalarının gözden geçirildiği önemli bir platform olma özelliğini sürdürmektedir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg/960px-World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg/500px-World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg",
@@ -1115,7 +821,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:World_Health_Organisation_headquarters,_Geneva,_north_and_west_sides_2007.jpg",
         "aciklama": "World Health Organisation headquarters, Geneva, north and west sides.",
         "konu": "Dünya Sağlık Örgütü"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1989-dogu-almanya-parlamentosu-komunist-partiyi-iptal-etti",
@@ -1153,23 +860,12 @@
         "Nursultan Nazarbayev",
         "Kazakistan"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0_%D1%81_%D0%9D%D1%83%D1%80%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%BE%D0%BC_%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%B1%D0%B0%D0%B5%D0%B2%D1%8B%D0%BC_%282025-05-29%29_3_%28cropped%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0_%D1%81_%D0%9D%D1%83%D1%80%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%BE%D0%BC_%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%B1%D0%B0%D0%B5%D0%B2%D1%8B%D0%BC_%282025-05-29%29_3_%28cropped%29.jpg",
-        "genislik": 415,
-        "yukseklik": 554,
-        "orijinalGenislik": 415,
-        "yazar": "Official website of the President of Russia",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0_%D1%81_%D0%9D%D1%83%D1%80%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%BE%D0%BC_%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%B1%D0%B0%D0%B5%D0%B2%D1%8B%D0%BC_(2025-05-29)_3_(cropped).jpg",
-        "aciklama": "President of Russia Vladimir Putin's meeting with former Kazakh President Nursultan Nazarbayev in the Kremlin, Moscow, 29 May 2025",
-        "konu": "Nursultan Nazarbayev"
-      }
+      "baslik": "Kazakistan'ın İlk Cumhurbaşkanı Seçildi",
+      "ozet": "Sovyetler Birliği'nin dağılma sürecine girdiği dönemde, Kazakistan'da tarihi bir dönüm noktası yaşandı. 1 Aralık 1991 tarihinde gerçekleştirilen cumhurbaşkanlığı seçimlerinde, daha önce Kazakistan Komünist Partisi Birinci Sekreteri olarak görev yapan Nursultan Nazarbayev, seçmenlerin büyük çoğunluğunun desteğini alarak ülkenin halk tarafından seçilen ilk devlet başkanı unvanını kazandı. Seçim sonuçları, Nazarbayev'in %98,7 gibi oldukça yüksek bir oy oranıyla göreve geldiğini ortaya koydu. Bu seçim, Kazakistan'ın bağımsız bir devlet olarak kendi siyasi geleceğini belirleme yolunda attığı en önemli adımlardan biri olarak kabul edilmektedir. Nazarbayev, bu tarihten itibaren ülkenin kurucu lideri olarak uzun yıllar boyunca Kazakistan'ın yönetiminde belirleyici bir rol oynamıştır. Sovyet sonrası dönemde Orta Asya'nın en büyük ülkelerinden biri olan Kazakistan'ın devlet yapısının inşası ve uluslararası arenada tanınması sürecinde bu seçim, yeni kurulan cumhuriyetin meşruiyetini pekiştiren temel bir gelişme olmuştur. Nazarbayev'in liderliği, ülkenin bağımsızlık sonrası geçiş sürecinde siyasi istikrarı sağlama çabalarıyla özdeşleşmiş ve kendisi daha sonra Elbaşı unvanıyla anılmaya başlanmıştır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1999-burj-al-arab-321-metre-yukseklikle-dunyanin",
@@ -1178,10 +874,10 @@
       "konular": [
         "Burc el-Arab"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Dubai'nin Simgesi: Burj Al Arab Hizmete Açıldı",
+      "ozet": "Birleşik Arap Emirlikleri'nin Dubai şehrinde inşa edilen Burj Al Arab, 1 Aralık 1999 tarihinde kapılarını ziyaretçilerine açtı. Basra Körfezi kıyısında, denize doldurulan yapay bir ada üzerine kurulan otel, 321 metrelik yüksekliğiyle o dönem dünyanın en yüksek oteli olma unvanını kazandı. Mimari tasarımıyla bir yelkenliyi andıran yapı, kısa sürede bölgenin en ikonik simgelerinden biri haline geldi.\n\nOtel, sadece yüksekliğiyle değil, sunduğu lüks hizmet anlayışıyla da dünya çapında dikkat çekti. Genellikle dünyanın ilk yedi yıldızlı oteli olarak tanımlanan Burj Al Arab, dış cephesinde kullanılan özel bez kumaş kaplamalar ve gece aydınlatmalarıyla modern mimarinin dikkat çekici örneklerinden biri kabul edilir. Yapımına 1994 yılında başlanan ve mühendislik açısından zorlu bir süreçten geçen otel, günümüzde hem konaklama merkezi hem de Dubai'nin turistik cazibe noktalarından biri olarak varlığını sürdürmektedir.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Burj_Al_Arab_and_the_beach_%28Pexels_823696%29.jpg/960px-Burj_Al_Arab_and_the_beach_%28Pexels_823696%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Burj_Al_Arab_and_the_beach_%28Pexels_823696%29.jpg/500px-Burj_Al_Arab_and_the_beach_%28Pexels_823696%29.jpg",
@@ -1194,7 +890,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Burj_Al_Arab_and_the_beach_(Pexels_823696).jpg",
         "aciklama": "Burj Al Arab, Saudi",
         "konu": "Burc el-Arab"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "2000-silinin-eski-diktatoru-augusto-pinochetnin-iktidari-donemindeki",
@@ -1204,10 +901,10 @@
         "Şili",
         "Augusto Pinochet"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Augusto Pinochet Hakkında Tutuklama Kararı",
+      "ozet": "Şili'yi 1973-1990 yılları arasında askeri bir rejimle yöneten General Augusto Pinochet, görev süresi boyunca gerçekleştirilen ağır insan hakları ihlalleri nedeniyle yargı karşısına çıkarılma süreciyle karşı karşıya kaldı. 1 Aralık 2000 tarihinde alınan bu karar, diktatörlük döneminde yaşanan cinayetler ve zorla kaybetme vakalarıyla ilgili hukuki bir dönüm noktası olarak kabul edildi. Pinochet, 1973 yılında demokratik yollarla seçilmiş Salvador Allende hükûmetini askeri bir darbeyle devirerek iktidarı ele geçirmişti. Yönetimi süresince binlerce muhalif tutuklanmış, işkence görmüş veya faili meçhul cinayetlere kurban gitmişti. Bu tutuklama kararı, uzun yıllar dokunulmazlık zırhı altında hareket eden Pinochet'nin, geçmişteki eylemlerinden dolayı hesap verebilir kılınması adına atılan en somut adımlardan biri oldu. Karar, Şili'de demokrasiye geçiş sürecinin ardından toplumsal adalet arayışının ve uluslararası hukuk normlarının yerleşmesi açısından büyük bir önem taşıyordu. Pinochet, ilerleyen yıllarda sağlık sorunları ve hukuki süreçlerin karmaşıklığı nedeniyle tam anlamıyla hüküm giyemeden 2006 yılında hayatını kaybetmiş olsa da, bu tutuklama girişimi dünya genelinde diktatörlerin yargılanabileceğine dair güçlü bir emsal oluşturdu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Augusto_Pinochet_foto_oficial_coloreada.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Augusto_Pinochet_foto_oficial_coloreada.jpg",
@@ -1220,7 +917,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Augusto_Pinochet_foto_oficial_coloreada.jpg",
         "aciklama": "Official portrait of Augusto Pinochet Ugarte (colored)",
         "konu": "Augusto Pinochet"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "2002-solcu-gerillalara-karsi-savasan-kolombiyadaki-en-buyuk",
@@ -1231,51 +929,12 @@
         "Kolombiya",
         "paramiliter"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Afrikaner_Commandos2.JPG",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Afrikaner_Commandos2.JPG",
-        "genislik": 776,
-        "yukseklik": 1014,
-        "orijinalGenislik": 776,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Afrikaner_Commandos2.JPG",
-        "aciklama": "Boer guerrillas during the Second Boer War",
-        "konu": "gerilla"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Afrikaner_Commandos2.JPG",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Afrikaner_Commandos2.JPG",
-          "genislik": 776,
-          "yukseklik": 1014,
-          "orijinalGenislik": 776,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Afrikaner_Commandos2.JPG",
-          "aciklama": "Boer guerrillas during the Second Boer War",
-          "konu": "gerilla"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Indian_Army_soldier_on_guard_at_the_India_Gate%2C_New_Delhi.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Indian_Army_soldier_on_guard_at_the_India_Gate%2C_New_Delhi.jpg",
-          "genislik": 720,
-          "yukseklik": 1080,
-          "orijinalGenislik": 720,
-          "yazar": "Steve Evans",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Indian_Army_soldier_on_guard_at_the_India_Gate,_New_Delhi.jpg",
-          "aciklama": "Indian Army soldier on guard at the w:India Gate in Delhi. Believed to be of a soldier from the Assam Regiment.",
-          "konu": "paramiliter"
-        }
-      ]
+      "baslik": "Kolombiya'da Paramiliter Gruplardan Ateşkes Kararı",
+      "ozet": "Kolombiya'da on yıllardır süren iç çatışmaların en önemli aktörlerinden biri olan sağcı paramiliter örgüt Kolombiya Birleşik Öz Savunma Güçleri (AUC), 1 Aralık 2002 tarihinde tek taraflı bir ateşkes ilan ettiğini duyurdu. Ülkedeki solcu gerilla gruplarına karşı mücadele eden ve devletin resmi ordusunun dışında faaliyet gösteren bu yapı, bu kararıyla çatışmaların durdurulması yönünde önemli bir adım atmış oldu. Söz konusu ateşkes, uzun süredir şiddet sarmalında olan Kolombiya'da barış arayışları açısından kritik bir dönemeç olarak değerlendirildi.\n\nParamiliter güçler, yapısal olarak profesyonel ordulara benzeyen ancak devletin resmi silahlı kuvvetlerinin bir parçası olmayan düzensiz gönüllü birliklerdir. Kolombiya'daki bu gruplar, özellikle kırsal bölgelerde solcu gerilla hareketlerine karşı bir denge unsuru olarak ortaya çıkmış ve çatışmaların şiddetini artıran temel taraflardan biri haline gelmişti. AUC'nin aldığı bu ateşkes kararı, örgütün silah bırakma ve topluma entegrasyon süreçlerinin önünü açmayı hedefleyen bir strateji olarak görüldü. Ancak bu süreç, ülkedeki karmaşık siyasi ve askeri dengeler nedeniyle uzun yıllar boyunca tartışılmaya ve çeşitli zorluklarla karşılaşmaya devam etti.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "2004-yargitay-baskani-eraslan-ozkaya-yas-haddinden-emekliye",
@@ -1285,10 +944,10 @@
         "Yargıtay (Türkiye)",
         "Eraslan Özkaya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Yargıtay Başkanı Eraslan Özkaya Emekliye Ayrıldı",
+      "ozet": "Türk hukuk dünyasının önemli isimlerinden biri olan Eraslan Özkaya, 1 Aralık 2004 tarihinde Yargıtay Birinci Başkanlığı görevinden yaş haddi nedeniyle emekliye ayrıldı. Ankara Üniversitesi Hukuk Fakültesi mezunu olan Özkaya, meslek hayatı boyunca savcılık ve hakimlik gibi çeşitli kademelerde görev yaptıktan sonra 1986 yılında Yargıtay üyeliğine seçilmişti. Uzun yıllar süren yargı kariyerinin ardından 2002 yılında Yargıtay Birinci Başkanlığı görevine getirilen Özkaya, bu makamda yaklaşık iki buçuk yıl hizmet verdi. Yargıtay'ın adli yargı sistemindeki en üst inceleme mercii olması nedeniyle, başkanlık makamı Türk hukuk sisteminin işleyişinde kritik bir öneme sahiptir. Özkaya'nın emekliliği, kurumun yönetiminde bir dönemin kapanması ve yeni bir sürecin başlaması anlamına geliyordu. Emeklilik döneminde akademik çalışmalara da vakit ayıran Özkaya, Yeditepe Üniversitesi Hukuk Fakültesi'nde öğrencilere ders vererek tecrübelerini hukuk camiasına aktarmaya devam etti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Court_of_Cassation_in_Ankara.jpg/960px-Court_of_Cassation_in_Ankara.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Court_of_Cassation_in_Ankara.jpg/500px-Court_of_Cassation_in_Ankara.jpg",
@@ -1301,7 +960,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Court_of_Cassation_in_Ankara.jpg",
         "aciklama": "Court of Cassation in Ankara",
         "konu": "Yargıtay (Türkiye)"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "2007-tbmm-turk-ordusuna-kuzey-iraka-sinir-otesi",
@@ -1337,10 +997,10 @@
         "Kırgızistan",
         "Almazbek Atambayev"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Almazbek Atambayev Kırgızistan Cumhurbaşkanı Seçildi",
+      "ozet": "Kırgızistan Sosyal Demokrat Partisi lideri Almazbek Atambayev, 2011 yılında gerçekleştirilen cumhurbaşkanlığı seçimlerini kazanarak ülkenin yeni devlet başkanı oldu. Uzun yıllar muhalefet kanadında aktif siyaset yürüten ve daha önce başbakanlık görevinde de bulunan Atambayev, bu seçim zaferiyle birlikte 2017 yılına kadar sürecek olan cumhurbaşkanlığı dönemini resmen başlatmış oldu. Atambayev'in göreve gelişi, Kırgızistan'ın siyasi tarihinde önemli bir dönüm noktası olarak kabul edilmektedir. Görev süresi boyunca dış politikada Türkiye ile yakın ilişkiler geliştirmeye özen gösteren Atambayev, aynı zamanda ülkesinin bölgesel entegrasyon süreçlerine katılımı konusunda da aktif bir rol üstlendi. Özellikle Gümrük Birliği'ne katılım süreci ve ülkede bulunan yabancı askeri üslerin statüsü gibi kritik konularda attığı adımlar, onun döneminin en çok tartışılan ve dikkat çeken başlıkları arasında yer aldı. Atambayev, iktisat eğitimi almış bir siyasetçi olarak ülkesinin ekonomik ve siyasi istikrarını sağlama hedefiyle hareket etti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Almazbek_Atambayev_%2809-11-2017%29.jpg/960px-Almazbek_Atambayev_%2809-11-2017%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Almazbek_Atambayev_%2809-11-2017%29.jpg/500px-Almazbek_Atambayev_%2809-11-2017%29.jpg",
@@ -1353,7 +1013,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Almazbek_Atambayev_(09-11-2017).jpg",
         "aciklama": "Almazbek Atambayev, President of Kyrgyzstan",
         "konu": "Almazbek Atambayev"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "2020-almanyanin-rheinland-pfalz-eyaletinde-trier-saldirisi-gerceklesti",

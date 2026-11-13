@@ -10,10 +10,10 @@
         "Sinop Baskını",
         "Kırım Savaşı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Sinop Baskını: Osmanlı Donanmasının Büyük Kaybı",
+      "ozet": "Kırım Savaşı'nın en kritik dönüm noktalarından biri olan Sinop Baskını, 30 Kasım 1853 tarihinde gerçekleşti. Rus Karadeniz donanması, Sinop limanında korumasız bir şekilde bekleyen Osmanlı gemilerine karşı ani bir saldırı başlattı. Bu çatışma, Osmanlı donanmasının büyük bir kısmının imha edilmesiyle sonuçlanırken, savaşın seyrini değiştiren önemli bir askeri gelişme olarak tarihe geçti.\n\nBu baskının dünya denizcilik tarihi açısından oldukça özgün bir yeri bulunmaktadır. Sinop Baskını, yelkenli ahşap gemilerin kullanıldığı son büyük deniz savaşı olma özelliğini taşır. Aynı zamanda, geleneksel güllelerin yerini alan patlayıcı mermilerin, yani humbaraların, deniz savaşlarında ilk kez kullanıldığı çatışma olması bakımından askeri teknolojide bir dönüm noktası kabul edilir. Bu ağır yenilgi, Osmanlı Devleti'nin müttefikleri olan İngiltere ve Fransa'nın savaşa daha aktif bir şekilde dahil olmasını tetikleyerek, Kırım Savaşı'nın kapsamını genişleten temel unsurlardan biri olmuştur.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/BattleOfSinop.jpg/960px-BattleOfSinop.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/BattleOfSinop.jpg/500px-BattleOfSinop.jpg",
@@ -27,34 +27,7 @@
         "aciklama": null,
         "konu": "Sinop Baskını"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/BattleOfSinop.jpg/960px-BattleOfSinop.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/BattleOfSinop.jpg/500px-BattleOfSinop.jpg",
-          "genislik": 960,
-          "yukseklik": 603,
-          "orijinalGenislik": 2234,
-          "yazar": "Alexey Bogolyubov",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:BattleOfSinop.jpg",
-          "aciklama": null,
-          "konu": "Sinop Baskını"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Malakhov1.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Malakhov1.jpg",
-          "genislik": 800,
-          "yukseklik": 598,
-          "orijinalGenislik": 800,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Malakhov1.jpg",
-          "aciklama": null,
-          "konu": "Kırım Savaşı"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1872-dunya-futbol-tarihinin-ilk-milli-maci-glasgowda",
@@ -66,10 +39,10 @@
         "İskoçya",
         "İngiltere"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Dünya Futbol Tarihinin İlk Millî Maçı",
+      "ozet": "Futbol dünyasının ilk millî maçı, 30 Kasım 1872 tarihinde İskoçya'nın Glasgow şehrindeki Hamilton Crescent kriket sahasında gerçekleşti. İskoçya ve İngiltere millî takımları arasında oynanan bu tarihi karşılaşma, yaklaşık 4 bin kişilik bir seyirci topluluğu tarafından takip edildi. İngiltere'nin daha organize ve fiziksel gücü yüksek bir takım olarak sahaya çıktığı maçta, İskoç oyuncuların daha teknik ve pas odaklı bir oyun sergilediği gözlemlendi. Oldukça çekişmeli geçen 90 dakikanın sonunda taraflar birbirlerine üstünlük sağlayamadı ve mücadele 0-0 eşitlikle sonuçlandı.\n\nBu karşılaşma, futbolun sadece bir kulüp sporu olmaktan çıkıp uluslararası bir kimlik kazanma sürecinin başlangıcı kabul edilir. Maçın berabere bitmesi, o dönemde futbolun gelişimi açısından oldukça anlamlıydı; zira İskoçya'nın kendi evinde İngilizlere karşı sergilediği direnç, sporun İskoçya'da da hızla kök salmasını sağladı. Bugün dünya çapında milyarlarca insan tarafından takip edilen millî takımlar arası rekabetin temelleri, o gün Glasgow'da atılan bu ilk adımla atılmış oldu. Bu müsabaka, günümüzde her iki ülke federasyonu tarafından da resmî millî maç statüsünde kabul edilmektedir.",
+      "kategori": "Spor",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/960px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/500px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
@@ -83,34 +56,7 @@
         "aciklama": "Association football (soccer), Bloomington, Indiana. The offensive player (in red) is Chris Klein of the Indiana Hoosiers. He has sprinted past two defenders (in white) and is about to shoot the ball ",
         "konu": "futbol"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/960px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/500px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
-          "genislik": 960,
-          "yukseklik": 653,
-          "orijinalGenislik": 3420,
-          "yazar": "Rick Dikeman",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1995.jpg",
-          "aciklama": "Association football (soccer), Bloomington, Indiana. The offensive player (in red) is Chris Klein of the Indiana Hoosiers. He has sprinted past two defenders (in white) and is about to shoot the ball ",
-          "konu": "futbol"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Glasgow_-_aerial_-_2025-04-17_10.jpg/960px-Glasgow_-_aerial_-_2025-04-17_10.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Glasgow_-_aerial_-_2025-04-17_10.jpg/500px-Glasgow_-_aerial_-_2025-04-17_10.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 4032,
-          "yazar": "瑞丽江的河水",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Glasgow_-_aerial_-_2025-04-17_10.jpg",
-          "aciklama": "Glasgow aerial photograph",
-          "konu": "Glasgow"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1909-osmanli-tarihiyle-ilgili-bilimsel-calismalar-yapmak-amaciyla",
@@ -120,23 +66,12 @@
         "Osmanlı İmparatorluğu tarihi",
         "Tarihi Osmani Encümeni"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/W._%26_A.K._Johnston._Asia_Minor._1911_A.jpg/960px-W._%26_A.K._Johnston._Asia_Minor._1911_A.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/W._%26_A.K._Johnston._Asia_Minor._1911_A.jpg/500px-W._%26_A.K._Johnston._Asia_Minor._1911_A.jpg",
-        "genislik": 960,
-        "yukseklik": 744,
-        "orijinalGenislik": 4676,
-        "yazar": "Alexander Keith Johnston",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:W._%26_A.K._Johnston._Asia_Minor._1911_A.jpg",
-        "aciklama": "Turkey in Asia (Asia Minor) and Transcaucasia. Keith Johnston's General Atlas. Oct. 1911. Engraved, Printed, and Published by W. & A.K. Johnston, Limited, Edinburgh & London",
-        "konu": "Osmanlı İmparatorluğu tarihi"
-      }
+      "baslik": "Osmanlı Tarihini Araştıran Kurum: Tarihi Osmani Encümeni",
+      "ozet": "Osmanlı Devleti'nin son dönemlerinde, imparatorluk tarihinin akademik bir disiplin çerçevesinde ele alınması ihtiyacı üzerine 30 Kasım 1909 tarihinde Tarihi Osmani Encümeni kuruldu. Bu kurum, Osmanlı tarihine dair belgelerin toplanması, tasnif edilmesi ve bilimsel bir süzgeçten geçirilerek yayımlanması amacıyla faaliyet göstermek üzere teşkilatlandırıldı. Encümen, devletin geçmişine dair resmi ve akademik bir bakış açısı oluşturmayı hedefleyen önemli bir girişimdi.\n\nKurumun temel amacı, dağınık haldeki tarihi vesikaları bir araya getirerek Osmanlı tarih yazıcılığını daha sistematik ve güvenilir bir temele oturtmaktı. Encümen üyeleri, dönemin önde gelen tarihçileri ve aydınlarından oluşuyordu. Bu çalışmalar, sadece geçmişin kayıt altına alınmasını sağlamakla kalmamış, aynı zamanda Osmanlı tarihçiliğinin modernleşme sürecinde de kritik bir rol oynamıştır. Encümen tarafından yayımlanan süreli yayınlar, imparatorluğun son yıllarında tarih bilincinin gelişmesine ve akademik araştırmaların teşvik edilmesine büyük katkı sağlamıştır.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1919-fransadaki-secimlerde-kadinlara-ilk-kez-oy-hakki",
@@ -160,64 +95,24 @@
         "zaviye",
         "Tekke, zaviye ve türbelerin kapatılması"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Tekke, Zaviye ve Türbelerin Kapatılması",
+      "ozet": "Türkiye Büyük Millet Meclisi tarafından 30 Kasım 1925 tarihinde kabul edilen 677 sayılı kanun, Osmanlı döneminden miras kalan dini ve sosyal kurumların işleyişinde köklü bir değişikliğe gitmiştir. Bu yasal düzenleme ile tekke, zaviye ve türbelerin faaliyetlerine son verilmiş; aynı zamanda şeyhlik, dervişlik, müritlik, dedelik ve seyitlik gibi tasavvufi unvanların kullanımı ile bu unvanlara özgü kıyafetlerin giyilmesi yasaklanmıştır. Kanun, sadece mekanları kapatmakla kalmamış, aynı zamanda falcılık, büyücülük ve muskacılık gibi halkın dini duygularını istismar edebilecek faaliyetleri de yasak kapsamına almıştır.\n\nBu düzenleme, genç Türkiye Cumhuriyeti'nin laikleşme ve modernleşme sürecindeki en önemli adımlardan biri olarak kabul edilir. Toplumsal yapıyı çağdaş normlara göre yeniden şekillendirmeyi hedefleyen bu kanun, 1982 Anayasası'nın 174. maddesi uyarınca inkılap kanunları arasında yer alarak anayasal güvence altına alınmıştır. Söz konusu yasa, dini kurumların devlet denetimi dışındaki etkisini sınırlandırarak, toplumsal yaşamda akılcı ve bilimsel esasların benimsenmesini amaçlayan bir reform niteliği taşımaktadır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/20120729_Budali_Hoca_Tekkesi_exterior_Thermes_Xanthi_Greece.JPG/960px-20120729_Budali_Hoca_Tekkesi_exterior_Thermes_Xanthi_Greece.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/20120729_Budali_Hoca_Tekkesi_exterior_Thermes_Xanthi_Greece.JPG/500px-20120729_Budali_Hoca_Tekkesi_exterior_Thermes_Xanthi_Greece.JPG",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anavatan_1927.jpg/960px-Anavatan_1927.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anavatan_1927.jpg/500px-Anavatan_1927.jpg",
         "genislik": 960,
-        "yukseklik": 639,
-        "orijinalGenislik": 4256,
-        "yazar": "User:Ggia",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:20120729_Budali_Hoca_Tekkesi_exterior_Thermes_Xanthi_Greece.JPG",
-        "aciklama": "Ottoman Budali Hoca Tekke - Turbe -Thermes - Xanthi, Xanthi Prefecture, Greece.",
-        "konu": "Tekke"
+        "yukseklik": 617,
+        "orijinalGenislik": 9999,
+        "yazar": "Alaaddin Matbaası",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Anavatan_1927.jpg",
+        "aciklama": "1927 Map of Turkey",
+        "konu": "Tekke, zaviye ve türbelerin kapatılması"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/20120729_Budali_Hoca_Tekkesi_exterior_Thermes_Xanthi_Greece.JPG/960px-20120729_Budali_Hoca_Tekkesi_exterior_Thermes_Xanthi_Greece.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/20120729_Budali_Hoca_Tekkesi_exterior_Thermes_Xanthi_Greece.JPG/500px-20120729_Budali_Hoca_Tekkesi_exterior_Thermes_Xanthi_Greece.JPG",
-          "genislik": 960,
-          "yukseklik": 639,
-          "orijinalGenislik": 4256,
-          "yazar": "User:Ggia",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:20120729_Budali_Hoca_Tekkesi_exterior_Thermes_Xanthi_Greece.JPG",
-          "aciklama": "Ottoman Budali Hoca Tekke - Turbe -Thermes - Xanthi, Xanthi Prefecture, Greece.",
-          "konu": "Tekke"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/A_zaouia_next_to_the_city_wall_of_Kairouan_in_Tunisia.jpg/960px-A_zaouia_next_to_the_city_wall_of_Kairouan_in_Tunisia.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/A_zaouia_next_to_the_city_wall_of_Kairouan_in_Tunisia.jpg/500px-A_zaouia_next_to_the_city_wall_of_Kairouan_in_Tunisia.jpg",
-          "genislik": 960,
-          "yukseklik": 712,
-          "orijinalGenislik": 5104,
-          "yazar": "Lehnert & Landrock",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:A_zaouia_next_to_the_city_wall_of_Kairouan_in_Tunisia.jpg",
-          "aciklama": "Photo of a A zaouia next to the city wall of Kairouan in Tunisia",
-          "konu": "zaviye"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anavatan_1927.jpg/960px-Anavatan_1927.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anavatan_1927.jpg/500px-Anavatan_1927.jpg",
-          "genislik": 960,
-          "yukseklik": 617,
-          "orijinalGenislik": 9999,
-          "yazar": "Alaaddin Matbaası",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Anavatan_1927.jpg",
-          "aciklama": "1927 Map of Turkey",
-          "konu": "Tekke, zaviye ve türbelerin kapatılması"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1925-selahiyetsiz-sarik-ve-ruhani-kiyafet-tasiyanlarin-cezalandirilmasina",
@@ -280,51 +175,24 @@
         "Béla Kun",
         "Ukrayna"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Macar Komünist Lider Béla Kun'un İdamı",
+      "ozet": "Macar komünist hareketinin en önemli figürlerinden biri olan Béla Kun, 1939 yılında Sovyetler Birliği'nde gerçekleşen siyasi baskı ve tasfiye süreçlerinin bir kurbanı olarak hayatını kaybetti. I. Dünya Savaşı sırasında Rusya'da esir düştükten sonra Bolşevik ideolojiyi benimseyen Kun, 1919 yılında ülkesine dönerek kısa ömürlü Macar Sovyet Cumhuriyeti'nin kurulmasında başrol oynamıştı. Bu dönemde bankaların ve büyük sanayi kuruluşlarının devletleştirilmesi gibi radikal adımlar atan hükûmette kritik görevler üstlendi. Ancak devrimin dış müdahalelerle bastırılmasının ardından ülkeden ayrılmak zorunda kaldı.\n\nSürgün yıllarını Sovyetler Birliği'nde geçiren Kun, burada Komintern bünyesinde çeşitli görevlerde bulundu. 1930'ların sonunda Stalin yönetimi tarafından başlatılan Büyük Temizlik operasyonları sırasında hedef haline geldi. İhanetle suçlanan ve tutuklanan Kun, yargılanmasının ardından Ukrayna'da kurşuna dizilerek infaz edildi. Uzun yıllar boyunca Macaristan'daki komünist hareketin sembol isimlerinden biri olarak anılan Kun'un ölümü, dönemin Sovyetler Birliği'ndeki siyasi atmosferin ne denli sert ve acımasız olduğunun bir göstergesi olarak tarihe geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Sz%C3%A9tl%C5%91tt_harckocsi_a_M%C3%B3ricz_Zsigmond_k%C3%B6rt%C3%A9ren.jpg/960px-Sz%C3%A9tl%C5%91tt_harckocsi_a_M%C3%B3ricz_Zsigmond_k%C3%B6rt%C3%A9ren.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Sz%C3%A9tl%C5%91tt_harckocsi_a_M%C3%B3ricz_Zsigmond_k%C3%B6rt%C3%A9ren.jpg/500px-Sz%C3%A9tl%C5%91tt_harckocsi_a_M%C3%B3ricz_Zsigmond_k%C3%B6rt%C3%A9ren.jpg",
-        "genislik": 960,
-        "yukseklik": 664,
-        "orijinalGenislik": 2243,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Sz%C3%A9tl%C5%91tt_harckocsi_a_M%C3%B3ricz_Zsigmond_k%C3%B6rt%C3%A9ren.jpg",
-        "aciklama": "A destroyed T-34-85 tank at the Móricz Zsigmond Square",
-        "konu": "1956 Macaristan Ayaklanması"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bela_Kun_%28cropped%29.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bela_Kun_%28cropped%29.png",
+        "genislik": 451,
+        "yukseklik": 575,
+        "orijinalGenislik": 451,
+        "yazar": "Gyula Jelfy",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bela_Kun_(cropped).png",
+        "aciklama": "Hungarian communist politician and journalist Béla Kun",
+        "konu": "Béla Kun"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Sz%C3%A9tl%C5%91tt_harckocsi_a_M%C3%B3ricz_Zsigmond_k%C3%B6rt%C3%A9ren.jpg/960px-Sz%C3%A9tl%C5%91tt_harckocsi_a_M%C3%B3ricz_Zsigmond_k%C3%B6rt%C3%A9ren.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Sz%C3%A9tl%C5%91tt_harckocsi_a_M%C3%B3ricz_Zsigmond_k%C3%B6rt%C3%A9ren.jpg/500px-Sz%C3%A9tl%C5%91tt_harckocsi_a_M%C3%B3ricz_Zsigmond_k%C3%B6rt%C3%A9ren.jpg",
-          "genislik": 960,
-          "yukseklik": 664,
-          "orijinalGenislik": 2243,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Sz%C3%A9tl%C5%91tt_harckocsi_a_M%C3%B3ricz_Zsigmond_k%C3%B6rt%C3%A9ren.jpg",
-          "aciklama": "A destroyed T-34-85 tank at the Móricz Zsigmond Square",
-          "konu": "1956 Macaristan Ayaklanması"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bela_Kun_%28cropped%29.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bela_Kun_%28cropped%29.png",
-          "genislik": 451,
-          "yukseklik": 575,
-          "orijinalGenislik": 451,
-          "yazar": "Gyula Jelfy",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bela_Kun_(cropped).png",
-          "aciklama": "Hungarian communist politician and journalist Béla Kun",
-          "konu": "Béla Kun"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1939-ii-dunya-savasida-kizil-ordu-sscb-birlikleri",
@@ -336,51 +204,24 @@
         "Sovyetler Birliği",
         "Kış Savaşı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Kızıl Ordu'nun Finlandiya'ya Saldırısı ve Kış Savaşı",
+      "ozet": "II. Dünya Savaşı'nın ilk aylarında, Sovyetler Birliği'nin Finlandiya'ya yönelik başlattığı askerî harekât, tarihe Kış Savaşı olarak geçen çatışmaların başlangıcı oldu. Kızıl Ordu, büyük bir askerî güçle Finlandiya topraklarına girerek stratejik bölgeleri ele geçirmeyi hedefledi. Bu saldırı, dönemin jeopolitik dengeleri içerisinde Sovyetler'in sınır güvenliğini sağlama ve nüfuz alanını genişletme çabası olarak değerlendirildi.\n\nFinlandiya'nın beklenenden çok daha dirençli bir savunma sergilemesi, Sovyetler Birliği için süreci oldukça zorlu kıldı. Kışın ağır şartları altında gerçekleşen bu çatışmalar, hem askerî stratejiler hem de uluslararası diplomasi açısından önemli sonuçlar doğurdu. Savaş, Milletler Cemiyeti'nin Sovyetler Birliği'ni saldırgan olarak nitelendirerek üyelikten çıkarmasına yol açtı. Mart 1940'ta imzalanan Moskova Barış Antlaşması ile çatışmalar sona erse de, bu süreç bölgedeki gerilimi artırdı ve Finlandiya'nın ilerleyen yıllarda II. Dünya Savaşı'nın diğer cephelerinde izleyeceği politikaları doğrudan etkiledi.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "genislik": 400,
-        "yukseklik": 286,
-        "orijinalGenislik": 400,
-        "yazar": "Bilinmeyen yazar",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/A_Finnish_Maxim_M-32_machine_gun_nest_during_the_Winter_War.jpg/960px-A_Finnish_Maxim_M-32_machine_gun_nest_during_the_Winter_War.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/A_Finnish_Maxim_M-32_machine_gun_nest_during_the_Winter_War.jpg/500px-A_Finnish_Maxim_M-32_machine_gun_nest_during_the_Winter_War.jpg",
+        "genislik": 960,
+        "yukseklik": 629,
+        "orijinalGenislik": 4864,
+        "yazar": "Unknown author.",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
-        "aciklama": "Pitched battle at Changde.",
-        "konu": "II. Dünya Savaşı"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:A_Finnish_Maxim_M-32_machine_gun_nest_during_the_Winter_War.jpg",
+        "aciklama": "Konekivääripesäke 100 m ryssistä n. 5 km Lemetistä pohjoiseen. Kuvan ampuja puolankalainen Antti Väisänen. Vasemmalla puolella todennäköisesti Onni Valkonen.",
+        "konu": "Kış Savaşı"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-          "genislik": 400,
-          "yukseklik": 286,
-          "orijinalGenislik": 400,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
-          "aciklama": "Pitched battle at Changde.",
-          "konu": "II. Dünya Savaşı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/A_Finnish_Maxim_M-32_machine_gun_nest_during_the_Winter_War.jpg/960px-A_Finnish_Maxim_M-32_machine_gun_nest_during_the_Winter_War.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/A_Finnish_Maxim_M-32_machine_gun_nest_during_the_Winter_War.jpg/500px-A_Finnish_Maxim_M-32_machine_gun_nest_during_the_Winter_War.jpg",
-          "genislik": 960,
-          "yukseklik": 629,
-          "orijinalGenislik": 4864,
-          "yazar": "Unknown author.",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:A_Finnish_Maxim_M-32_machine_gun_nest_during_the_Winter_War.jpg",
-          "aciklama": "Konekivääripesäke 100 m ryssistä n. 5 km Lemetistä pohjoiseen. Kuvan ampuja puolankalainen Antti Väisänen. Vasemmalla puolella todennäköisesti Onni Valkonen.",
-          "konu": "Kış Savaşı"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1948-almanya-komunist-partisi-berlinin-sovyetler-birligine-ait",
@@ -391,23 +232,12 @@
         "Berlin",
         "Sovyetler Birliği"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/960px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/500px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 560,
-        "orijinalGenislik": 5464,
-        "yazar": "Kasa Fue",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Museumsinsel_Berlin_Juli_2021_1_(cropped).jpg",
-        "aciklama": "Museumsinsel in Berlin, im Hintergrund der Fernsehturm am Alexanderplatz, Juli 2021",
-        "konu": "Berlin"
-      }
+      "baslik": "Berlin'de İkiye Bölünen Yönetim",
+      "ozet": "İkinci Dünya Savaşı'nın ardından müttefik devletler tarafından işgal edilen Almanya'da gerilim, 1948 yılına gelindiğinde zirveye ulaşmıştı. Berlin'in Sovyetler Birliği kontrolündeki doğu sektöründe faaliyet gösteren Almanya Komünist Partisi, bu tarihte kendi şehir hükûmetini ilan ederek bölgedeki siyasi ayrışmayı resmileştirdi. Bu hamle, şehrin idari olarak fiilen ikiye bölünmesi sürecinde kritik bir dönüm noktası oldu.\n\nSöz konusu gelişme, savaş sonrası Avrupa'da şekillenmeye başlayan Soğuk Savaş dinamiklerinin bir yansımasıydı. Batılı müttefiklerin kontrolündeki bölgeler ile Sovyetler Birliği'nin nüfuz alanı arasındaki ideolojik ve siyasi uçurum, Berlin'in yönetiminde de derin bir krize yol açmıştı. Komünist partinin bu adımı, sadece yerel bir yönetim değişikliği değil, aynı zamanda Almanya'nın gelecekteki bölünmüşlüğünün ve iki ayrı devletin kurulmasına giden yolun habercisi niteliğindeydi. Bu olay, Berlin'in ilerleyen yıllarda küresel güç mücadelesinin merkez üssü haline gelmesinin temel taşlarından birini oluşturdu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1952-abdnin-cift-projektor-kullanilan-ilk-3-boyutlu-renkli",
@@ -429,10 +259,10 @@
       "konular": [
         "hidrojen bombası"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Nükleer Çağın Dönüm Noktası: İlk Hidrojen Bombası Denemesi",
+      "ozet": "Amerika Birleşik Devletleri, 1954 yılında Pasifik Okyanusu'ndaki Eniwetok Adası'nda gerçekleştirdiği testle termonükleer silah teknolojisinde yeni bir aşamaya geçti. Hidrojen bombası olarak da bilinen bu silahlar, geleneksel atom bombalarından çok daha yüksek bir yıkıcı güce sahip olmalarıyla askeri stratejileri kökten değiştirdi. Bu deneme, Soğuk Savaş döneminde nükleer güçler arasındaki teknolojik rekabetin ne kadar ileri bir boyuta ulaştığını gözler önüne serdi.\n\nTermonükleer silahlar, temel olarak nükleer fisyonun tetiklediği bir füzyon süreciyle çalışır. Bu tasarım, daha az miktarda nadir radyoaktif madde kullanarak çok daha büyük bir enerji açığa çıkarılmasına olanak tanır. Hidrojen izotoplarının kullanıldığı bu karmaşık mekanizma, modern nükleer cephaneliklerin temelini oluşturmuştur. Söz konusu test, nükleer silahların sadece birer savaş aracı değil, aynı zamanda küresel jeopolitik dengeleri belirleyen bir güç göstergesi haline geldiği dönemin en kritik olaylarından biri olarak tarihe geçmiştir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Operation_Castle_-_Romeo_001.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Operation_Castle_-_Romeo_001.jpg",
@@ -445,7 +275,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Operation_Castle_-_Romeo_001.jpg",
         "aciklama": "Castle Romeo nuclear test (yield 11 Mt) on Bikini Atoll. It was the first nuclear test conducted on a barge. The barge was located in the Castle Bravo crater.",
         "konu": "hidrojen bombası"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1958-fransiz-ekvatoral-afrikasi-icinde-yer-alan-cad",
@@ -472,51 +303,24 @@
         "Alfred Hitchcock",
         "Sapık (film, 1960)"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Sinema Tarihinin Dönüm Noktası: Sapık Filminin Çekimleri Başladı",
+      "ozet": "Gerilim sinemasının ustası Alfred Hitchcock, kariyerinin en ikonik eserlerinden biri olan Sapık filminin prodüksiyon sürecini 1959 yılının son günlerinde başlattı. Robert Bloch'un aynı adlı romanından uyarlanan film, Wisconsinli katil Ed Gein'in gerçek suçlarından esinlenerek beyaz perdeye uyarlandı. Marion Crane isimli bir sekreterin, Norman Bates adındaki yalnız bir motel sahibiyle yollarının kesişmesini konu alan yapım, psikolojik gerilim türünün sınırlarını zorlayan bir anlatıya sahipti. Film, çekim aşamasından itibaren Hitchcock'un titiz yönetmenlik anlayışıyla şekillendi ve kısa sürede sinema dünyasında bir fenomen haline geldi. Sapık, sadece bir korku filmi olmanın ötesine geçerek sinematografik teknikleri ve kurgu anlayışıyla izleyici üzerinde derin bir etki bıraktı. Özellikle duş sahnesi gibi sahneleriyle sinema tarihinin en çok tartışılan ve analiz edilen yapımlarından biri oldu. Bugün kültürel, tarihi ve estetik açıdan büyük bir öneme sahip olan film, ABD Kongre Kütüphanesi tarafından Ulusal Film Arşivi'nde koruma altına alınmıştır. Hitchcock'un bu başyapıtı, gerilim türünün gelişiminde bir dönüm noktası kabul edilerek günümüzde dahi yönetmenlik ve senaryo derslerinde örnek gösterilmeye devam etmektedir.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Hitchcock%2C_Alfred_02.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Hitchcock%2C_Alfred_02.jpg",
-        "genislik": 808,
-        "yukseklik": 973,
-        "orijinalGenislik": 808,
-        "yazar": "Ante Brkan",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Psycho_%281960%29_theatrical_poster.jpg/960px-Psycho_%281960%29_theatrical_poster.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Psycho_%281960%29_theatrical_poster.jpg/500px-Psycho_%281960%29_theatrical_poster.jpg",
+        "genislik": 960,
+        "yukseklik": 1422,
+        "orijinalGenislik": 1957,
+        "yazar": "Designed by Macario Gómez Quibus. \"© Shamley Productions, Inc.\"",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Hitchcock,_Alfred_02.jpg",
-        "aciklama": "Studio publicity photo of Alfred Hitchcock.",
-        "konu": "Alfred Hitchcock"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Psycho_(1960)_theatrical_poster.jpg",
+        "aciklama": "Poster for the American theatrical release of Alfred Hitchcock's 1960 film Psycho. Clockwise from top left: Anthony Perkins (in red), Janet Leigh (in yellow), and John Gavin (in red). Unlike other ver",
+        "konu": "Sapık (film, 1960)"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Hitchcock%2C_Alfred_02.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Hitchcock%2C_Alfred_02.jpg",
-          "genislik": 808,
-          "yukseklik": 973,
-          "orijinalGenislik": 808,
-          "yazar": "Ante Brkan",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Hitchcock,_Alfred_02.jpg",
-          "aciklama": "Studio publicity photo of Alfred Hitchcock.",
-          "konu": "Alfred Hitchcock"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Psycho_%281960%29_theatrical_poster.jpg/960px-Psycho_%281960%29_theatrical_poster.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Psycho_%281960%29_theatrical_poster.jpg/500px-Psycho_%281960%29_theatrical_poster.jpg",
-          "genislik": 960,
-          "yukseklik": 1422,
-          "orijinalGenislik": 1957,
-          "yazar": "Designed by Macario Gómez Quibus. \"© Shamley Productions, Inc.\"",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Psycho_(1960)_theatrical_poster.jpg",
-          "aciklama": "Poster for the American theatrical release of Alfred Hitchcock's 1960 film Psycho. Clockwise from top left: Anthony Perkins (in red), Janet Leigh (in yellow), and John Gavin (in red). Unlike other ver",
-          "konu": "Sapık (film, 1960)"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1961-birlesmis-milletlerin-genel-sekreterligine-myanmarli-diger-adlariyla",
@@ -527,10 +331,10 @@
         "Myanmar",
         "U Thant"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "U Thant Birleşmiş Milletler Genel Sekreteri Seçildi",
+      "ozet": "Birleşmiş Milletler Genel Sekreteri Dag Hammarskjöld'ün trajik bir uçak kazasında hayatını kaybetmesinin ardından boşalan koltuğa, 30 Kasım 1961 tarihinde Myanmarlı diplomat U Thant getirildi. Eğitimci kimliğiyle tanınan ve ülkesinin BM nezdindeki daimi temsilciliği görevini başarıyla yürüten U Thant, bu kritik göreve seçilen ilk Asyalı isim olma unvanını kazandı. Başlangıçta vekaleten üstlendiği bu sorumluluğu, 1962 yılında daimi genel sekreter olarak resmileştirdi ve 1971 yılının sonuna kadar iki dönem boyunca sürdürdü. U Thant'ın göreve gelişi, Soğuk Savaş'ın en gerilimli dönemlerinden birine denk gelmesi bakımından büyük önem taşımaktadır. Özellikle 1962 Küba Füze Krizi sırasında taraflar arasında arabuluculuk yaparak nükleer bir çatışmanın önlenmesinde kilit bir rol oynamıştır. Görev süresi boyunca dekolonizasyon süreçleri, ekonomik kalkınma ve uluslararası barışın korunması gibi konularda aktif bir diplomasi yürüten Thant, Birleşmiş Milletler'in küresel bir barış gücü olarak konumunu güçlendiren isimlerden biri olmuştur. Onun liderliği, örgütün sadece Batılı güçlerin değil, gelişmekte olan ülkelerin de sesini duyurabildiği bir platform haline gelmesine katkı sağlamıştır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/U_Thant_%281963%29.jpg/960px-U_Thant_%281963%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/U_Thant_%281963%29.jpg/500px-U_Thant_%281963%29.jpg",
@@ -543,7 +347,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:U_Thant_(1963).jpg",
         "aciklama": "Oe Thant op doorreis op Schiphol tijdens persconferentie, Oe Thant 1 juli 1963",
         "konu": "U Thant"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1966-barbados-birlesik-kralliktan-bagimsizligini-ilan-etti",
@@ -634,10 +439,10 @@
       "konular": [
         "Anadolu Üniversitesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Anadolu Üniversitesi'nin Modern Yapılanması",
+      "ozet": "Anadolu Üniversitesi, 1982 yılında yükseköğretim sisteminde yapılan kapsamlı düzenlemeler çerçevesinde resmi olarak bugünkü yapısıyla kuruldu. Üniversitenin kökleri, 1958 yılında Eskişehir'de faaliyete geçen Eskişehir İktisadi ve Ticari İlimler Akademisi ile Eskişehir Devlet Mühendislik ve Mimarlık Akademisi gibi önemli eğitim kurumlarına dayanmaktadır. Yükseköğretim Kurulu Kanunu'nun yürürlüğe girmesiyle birlikte, bu bağımsız akademilerin birleştirilmesi sonucunda modern anlamda Anadolu Üniversitesi teşekkül ettirilmiştir.\n\nKuruluşundan bu yana Türkiye'nin yükseköğretim vizyonuna büyük katkılar sunan kurum, özellikle uzaktan eğitim alanındaki öncü çalışmalarıyla bilinmektedir. Hem yüz yüze hem de açıköğretim sistemlerini başarıyla entegre eden üniversite, milyonlarca öğrenciye ulaşarak Türkiye'nin en geniş kapsamlı eğitim ağlarından biri haline gelmiştir. Eskişehir'in bir öğrenci kentine dönüşmesinde kritik bir rol oynayan Anadolu Üniversitesi, bugün akademik çeşitliliği ve çağdaş eğitim anlayışıyla ülkenin en köklü devlet üniversiteleri arasında yer almaktadır.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Anadolu_University%2C_Eski%C5%9Fehir.jpg/960px-Anadolu_University%2C_Eski%C5%9Fehir.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Anadolu_University%2C_Eski%C5%9Fehir.jpg/500px-Anadolu_University%2C_Eski%C5%9Fehir.jpg",
@@ -650,7 +455,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Anadolu_University,_Eski%C5%9Fehir.jpg",
         "aciklama": "Main gate of Yunus Emre Campus of Anadolu University, Eskişehir - Turkey",
         "konu": "Anadolu Üniversitesi"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1982-dunyanin-bugune-kadar-en-cok-satan-albumu",
@@ -660,10 +466,10 @@
         "Michael Jackson",
         "Thriller (albüm)"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Müzik Tarihini Değiştiren Albüm: Thriller",
+      "ozet": "Amerikalı sanatçı Michael Jackson'ın altıncı stüdyo albümü olan Thriller, 30 Kasım 1982'de piyasaya sürüldüğünde popüler kültürde yeni bir dönemin kapılarını araladı. Quincy Jones ile birlikte hazırlanan bu çalışma, funk, rock, R&B ve pop gibi farklı türleri ustalıkla harmanlayarak geniş bir dinleyici kitlesine ulaştı. Los Angeles'taki Westlake stüdyolarında kaydedilen albüm, sadece müzikal kalitesiyle değil, aynı zamanda dönemin müzik endüstrisi standartlarını belirleyen prodüksiyonuyla da dikkat çekti.\n\nThriller, yayınlandığı günden itibaren dünya çapında eşi benzeri görülmemiş bir ticari başarı yakaladı. Billie Jean ve Beat It gibi hit parçaların yanı sıra albümle aynı adı taşıyan şarkının müzik videosu, görsel anlatımı müzik dünyasının merkezine taşıyarak bir devrim yarattı. Hem ABD hem de Birleşik Krallık listelerinde aynı anda zirveye yerleşen ilk albüm olma unvanını kazanan eser, günümüzde hala dünyanın en çok satan albümü olma özelliğini korumaktadır. Jackson'ın bu başarısı, onu sadece bir pop yıldızı değil, 20. yüzyılın en etkili kültürel figürlerinden biri haline getirmiştir.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg/960px-Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg/500px-Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg",
@@ -676,7 +482,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Michael_Jackson_1983_(3x4_cropped)_(contrast).jpg",
         "aciklama": "Michael Jackson in a press photo dated to 1983.",
         "konu": "Michael Jackson"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1988-tek-tip-elbise-giyilmesine-karsi-cezaevlerinde-yapilan",
@@ -696,23 +503,12 @@
       "konular": [
         "Zonguldak"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Zonguldak_51.jpg/960px-Zonguldak_51.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Zonguldak_51.jpg/500px-Zonguldak_51.jpg",
-        "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 5333,
-        "yazar": "İncelemeelemani",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Zonguldak_51.jpg",
-        "aciklama": "Zonguldak",
-        "konu": "Zonguldak"
-      }
+      "baslik": "Zonguldak Maden İşçilerinin Büyük Grevi",
+      "ozet": "Türkiye'nin kömür üretim merkezi olan Zonguldak'ta, 30 Kasım 1990 tarihinde yaklaşık 43 bin maden işçisi, sendikal haklar ve ekonomik talepler doğrultusunda iş bırakma eylemine gitti. Maden işçilerinin bu geniş katılımlı eylemi, o dönemde Türkiye'nin çalışma hayatında yaşanan en büyük işçi hareketlerinden biri olarak tarihe geçti. İşçiler, çalışma şartlarının zorluğu ve ücretlerin yetersizliği karşısında seslerini duyurmak amacıyla yerin altında ve üstünde kararlı bir duruş sergilediler.\n\nBu grev, sadece Zonguldak havzasındaki madencileri değil, tüm Türkiye'deki sendikal hareketleri ve işçi hakları tartışmalarını derinden etkiledi. Maden işçilerinin başlattığı bu süreç, toplumsal dayanışmanın ve işçi sınıfının örgütlü gücünün bir sembolü haline geldi. Grevin etkisi, bölgedeki ekonomik yaşamın durma noktasına gelmesiyle birlikte ülke genelinde geniş bir yankı uyandırdı ve çalışma hayatına dair politikaların yeniden değerlendirilmesine zemin hazırladı.",
+      "kategori": "Ekonomi",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1995-azerbaycan-hava-yollari-boeing-707-kazasi",
@@ -721,10 +517,10 @@
       "konular": [
         "1995 Azerbaycan Hava Yolları Boeing 707 kazası"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Azerbaycan Hava Yolları'na Ait Kargo Uçağının Kazası",
+      "ozet": "Azerbaycan Hava Yolları bünyesinde görev yapan Boeing 707-300 tipi kargo uçağı, 30 Kasım 1995 günü Çin'in Ürümçi kentinden Azerbaycan'ın başkenti Bakü'ye doğru gerçekleştirdiği uçuş sırasında kaza geçirmiştir. Uçağın düşmesi sonucunda mürettebat arasında yer alan altı kişiden ikisi hayatını kaybetmiştir. Olay, bölgedeki hava taşımacılığı güvenliği açısından kayıtlara geçmiş bir kaza olarak kalmıştır. Havacılık tarihine geçen bu olay, kargo operasyonları sırasında yaşanan teknik zorlukların ve uçuş güvenliğinin önemini bir kez daha gündeme getirmiştir. Kazanın gerçekleştiği dönemde Azerbaycan'ın yeni bağımsızlığını kazanmış olması ve bölge ülkeleriyle lojistik bağlarını güçlendirmeye çalışması, bu tür uluslararası kargo uçuşlarını kritik bir noktaya taşımaktaydı. Kaza sonrası yapılan incelemeler, operasyonel süreçlerin ve uçuş güvenliği standartlarının bölgedeki hava yolu şirketleri için ne kadar hayati olduğunu ortaya koymuştur.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Boeing_707-341C%2C_Azerbaijan_Airlines_-_AZAL_-_AHY_Cargo_AN0207828.jpg/960px-Boeing_707-341C%2C_Azerbaijan_Airlines_-_AZAL_-_AHY_Cargo_AN0207828.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Boeing_707-341C%2C_Azerbaijan_Airlines_-_AZAL_-_AHY_Cargo_AN0207828.jpg/500px-Boeing_707-341C%2C_Azerbaijan_Airlines_-_AZAL_-_AHY_Cargo_AN0207828.jpg",
@@ -737,7 +533,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Boeing_707-341C,_Azerbaijan_Airlines_-_AZAL_-_AHY_Cargo_AN0207828.jpg",
         "aciklama": "Ex N107BV",
         "konu": "1995 Azerbaycan Hava Yolları Boeing 707 kazası"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1997-genel-nufus-sayimi-ve-secmen-yazimi-gerceklestirildi",
@@ -764,10 +561,10 @@
         "Abdullah Öcalan",
         "Strazburg"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "AİHM'den Abdullah Öcalan'ın İdam Cezasına İhtiyati Tedbir",
+      "ozet": "Avrupa İnsan Hakları Mahkemesi, 30 Kasım 1999 tarihinde aldığı bir kararla, Türkiye'de yargılanan PKK lideri Abdullah Öcalan hakkındaki idam cezasının infazına yönelik ihtiyati tedbir kararı verdi. Mahkeme, Strazburg'daki yargı süreci nihayete erene kadar infazın gerçekleştirilmemesi yönünde Türkiye'ye çağrıda bulundu. Bu karar, Türkiye'nin Avrupa Konseyi üyesi olarak taraf olduğu Avrupa İnsan Hakları Sözleşmesi çerçevesindeki yükümlülükleri ve uluslararası hukuk normları açısından kritik bir dönemeç olarak değerlendirildi.\n\nSöz konusu karar, Türkiye'nin hukuk sisteminde idam cezasının geleceği ve Avrupa Birliği uyum süreci tartışmalarının yoğunlaştığı bir dönemde alındı. AİHM'in bu müdahalesi, Türkiye'nin iç hukuk süreçleri ile uluslararası yargı organlarının denetim mekanizmaları arasındaki etkileşimi gözler önüne serdi. İlerleyen süreçte Türkiye, Avrupa Birliği'ne uyum yasaları kapsamında idam cezasını tamamen kaldırarak hukuk sisteminde önemli bir değişikliğe gitti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Abdullah_%C3%96calan.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Abdullah_%C3%96calan.png",
@@ -781,34 +578,7 @@
         "aciklama": "Abdullah Öcalan, founder of the PKK.",
         "konu": "Abdullah Öcalan"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Abdullah_%C3%96calan.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Abdullah_%C3%96calan.png",
-          "genislik": 469,
-          "yukseklik": 637,
-          "orijinalGenislik": 469,
-          "yazar": "Halil Uysal",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Abdullah_%C3%96calan.png",
-          "aciklama": "Abdullah Öcalan, founder of the PKK.",
-          "konu": "Abdullah Öcalan"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Strasbourg_Cathedral.jpg/960px-Strasbourg_Cathedral.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Strasbourg_Cathedral.jpg/500px-Strasbourg_Cathedral.jpg",
-          "genislik": 960,
-          "yukseklik": 726,
-          "orijinalGenislik": 3790,
-          "yazar": "Jonathan Martz",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Strasbourg_Cathedral.jpg",
-          "aciklama": "The Cathedral of Notre Dame in Strasbourg, France",
-          "konu": "Strazburg"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "2007-istanbul-isparta-seferini-yapmakta-olan-atlasjet-havayollarina-ait",

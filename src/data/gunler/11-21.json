@@ -725,7 +725,7 @@
     "url": "https://tr.wikipedia.org/wiki/21_Kas%C4%B1m",
     "revid": 37308860
   },
-  "guncelleme": "2026-11-12T14:48:18.789Z",
+  "guncelleme": "2026-11-13T14:07:49.972Z",
   "haberler": [
     {
       "id": "2025-haber-2454491",
@@ -738,10 +738,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/ankara-buyuksehir-belediyesi-nin-2026-butcesi-205-milyar-lira-olarak-kabul-edildi-2454491"
       },
-      "konular": [],
+      "konular": [
+        "Ankara Büyükşehir Belediyesi",
+        "Belediye bütçesi",
+        "Ankara"
+      ],
       "yayin": "2025-11-21T00:14:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ankara Büyükşehir Belediyesi 2026 Mali Yılı Bütçesi Onaylandı",
+      "ozet": "Ankara Büyükşehir Belediyesi tarafından hazırlanan 2026 yılı bütçe tasarısı belediye meclisinde görüşüldü. Yapılan oylama sonucunda bütçe toplamda 205 milyar lira olarak belirlendi ve oy çokluğuyla kabul edilerek yürürlüğe girdi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2025-haber-2454510",
@@ -754,10 +761,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/suca-suruklenen-cocuklar-icin-meclis-arastirma-komisyonu-kuruldu-2454510"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Çocuk hakları",
+        "Türkiye"
+      ],
       "yayin": "2025-11-21T09:10:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Suça sürüklenen çocukların durumunu incelemek için komisyon kuruldu",
+      "ozet": "Türkiye Büyük Millet Meclisi bünyesinde çocukların suça yönelme sebeplerini araştırmak ve çözüm yolları üretmek üzere özel bir komisyon oluşturuldu. Yirmi iki üyeden meydana gelen bu kurulun görev kapsamı ve çalışma esaslarına dair bilgiler Resmi Gazete aracılığıyla kamuoyuna duyuruldu. Komisyon, çocukların suça sürüklenmesini önlemeye yönelik kapsamlı bir inceleme süreci yürütecek.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Vietnamkrieg_Bootsfl%C3%BCchtling_1980.jpg/960px-Vietnamkrieg_Bootsfl%C3%BCchtling_1980.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Vietnamkrieg_Bootsfl%C3%BCchtling_1980.jpg/500px-Vietnamkrieg_Bootsfl%C3%BCchtling_1980.jpg",
+        "genislik": 960,
+        "yukseklik": 1289,
+        "orijinalGenislik": 1700,
+        "yazar": "Benjamin Gimmel, BenHur",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vietnamkrieg_Bootsfl%C3%BCchtling_1980.jpg",
+        "aciklama": "A young Vietnamese refugee in a camp in Malaysia",
+        "konu": "Çocuk hakları"
+      }
     },
     {
       "id": "2024-haber-2271021",
@@ -770,10 +797,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/bitcoin-ust-uste-rekor-kirmaya-devam-ediyor-yeni-hedef-100-bin-dolar-2271021"
       },
-      "konular": [],
+      "konular": [
+        "Bitcoin",
+        "Kripto para"
+      ],
       "yayin": "2024-11-21T10:10:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Bitcoin piyasasında değer artışı ve yeni fiyat beklentileri",
+      "ozet": "Kripto para birimi Bitcoin, değerini sürekli yükselterek kendi rekorunu tazeledi. Sabah saatlerinde ulaşılan güncel fiyat seviyesinin ardından piyasa beklentileri 100 bin dolar sınırına odaklandı.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg/960px-%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg/500px-%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg",
+        "genislik": 960,
+        "yukseklik": 960,
+        "orijinalGenislik": 2448,
+        "yazar": "Alexandr Gromov",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg",
+        "aciklama": "Подготовка к отправке заказа: mining kit на основе чипа Golden Nonce.",
+        "konu": "Kripto para"
+      }
     },
     {
       "id": "2024-haber-2270958",
@@ -786,10 +832,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/icisleri-bakanliginin-butce-gorusmeleri-gergin-basladi-chpli-ve-2270958"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Ali Yerlikaya",
+        "Esenyurt Belediyesi"
+      ],
       "yayin": "2024-11-21T04:00:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İçişleri Bakanlığı bütçe görüşmelerinde gergin anlar yaşandı",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu'nda İçişleri Bakanlığı'nın bütçe görüşmeleri sırasında tartışma çıktı. Cumhuriyet Halk Partisi milletvekilleri, Esenyurt Belediyesi'ne yönelik kayyum uygulamasına tepki göstermek amacıyla Bakan Ali Yerlikaya'nın salona girişini engellemeye çalıştı. Bu durum iktidar ve muhalefet milletvekilleri arasında arbedeye yol açtı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2023-haber-2143211",
@@ -802,10 +855,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika-gram-altinda-tum-zamanlarin-rekoru-gram-altin-ceyrek-2143211"
       },
-      "konular": [],
+      "konular": [
+        "Altın",
+        "Ekonomi"
+      ],
       "yayin": "2023-11-21T09:37:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Altın fiyatlarında tarihi zirve seviyeleri görüldü",
+      "ozet": "Küresel piyasalarda ons altının değer kazanmasıyla birlikte yurt içinde altın fiyatları yükseliş eğilimini korudu. Spot piyasada gram altın tüm zamanların en yüksek seviyesine ulaşarak rekor tazeledi. Bu artışla beraber çeyrek altın ve Cumhuriyet altını gibi diğer altın türlerinin satış fiyatlarında da yukarı yönlü hareketlilik gözlemlendi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2143202",
@@ -818,10 +877,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/euroda-yeni-tarihi-zirve-dolar-29a-kosuyor-dolar-ve-euro-ne-kadar-2143202"
       },
-      "konular": [],
+      "konular": [
+        "Döviz kuru",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2023-11-21T09:26:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Döviz piyasalarında Euro değer kazandı ve Dolar yükselişini sürdürdü",
+      "ozet": "Döviz piyasasında Euro yeni bir zirve seviyesine ulaşırken Dolar da 29 lira sınırına doğru ilerleyişini devam ettirdi. Geçtiğimiz hafta başlayan risk primi düşüşü ise bu dönemde de etkisini sürdürdü. Piyasalardaki hareketlilik sınırlı değişimlerle gözlemlendi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2022-haber-2004720",
@@ -834,10 +899,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika-tarimsal-girdi-enflasyonunda-rekor-2004720"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye İstatistik Kurumu",
+        "Tarım",
+        "Enflasyon"
+      ],
       "yayin": "2022-11-21T10:14:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Tarımsal Girdi Fiyatlarında Yıllık Artış Oranı Rekor Seviyeye Ulaştı",
+      "ozet": "Türkiye İstatistik Kurumu tarafından paylaşılan verilere göre tarımsal girdi fiyatlarında eylül ayı itibarıyla önemli bir yükseliş kaydedildi. Söz konusu maliyet kalemlerinde yıllık bazda yüzde 138,15 oranında bir artış yaşanarak yeni bir rekor seviye görüldü.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2022-haber-2004716",
@@ -850,10 +922,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/eurodolar-paritesinde-sinirli-dusus-euro-ne-kadar-oldu-21-kasim-2022-2004716"
       },
-      "konular": [],
+      "konular": [
+        "Euro",
+        "Dolar",
+        "Enflasyon"
+      ],
       "yayin": "2022-11-21T10:04:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Euro ve Dolar Paritesinde Gün İçinde Hafif Geri Çekilme Yaşandı",
+      "ozet": "Amerika Birleşik Devletleri genelindeki enflasyon oranlarının azalmasıyla birlikte değer kazanan Euro ve Dolar paritesi, temmuz dönemindeki değerlerine ulaşmıştı. Ancak hafta başında piyasalarda yaşanan hareketlilikle birlikte parite güne düşüşle başladı. Buna rağmen Euro, Dolar karşısında bir birim seviyesinin üzerinde seyretmeye devam etti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2021-haber-1886419",
@@ -866,10 +945,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/akp-il-baskani-ellibes-erdogan-dese-ki-emredersin-biden-dolar-duser-1886419"
       },
-      "konular": [],
+      "konular": [
+        "Mehmet Ellibeş",
+        "AKP",
+        "Döviz kuru"
+      ],
       "yayin": "2021-11-21T09:41:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Mehmet Ellibeş'ten döviz kurlarındaki artışa ilişkin değerlendirme",
+      "ozet": "AKP Kocaeli İl Başkanı Mehmet Ellibeş, döviz kurlarındaki yükseliş eğilimini siyasi bir perspektifle yorumladı. Ellibeş, dış politikada farklı bir tutum sergilenmesi durumunda döviz fiyatlarının düşebileceğini ifade etti. Söz konusu açıklamada, uluslararası ilişkilerin ekonomik göstergeler üzerindeki etkisine dikkat çekildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2020-haber-1792815",
@@ -882,10 +968,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akpli-cumhurbaskani-erdogandan-g20-zirvesinde-yerli-asi-mesaji-1792815"
       },
-      "konular": [],
+      "konular": [
+        "COVID-19 aşıları",
+        "G20",
+        "Recep Tayyip Erdoğan"
+      ],
       "yayin": "2020-11-21T18:24:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanı Erdoğan G20 Zirvesinde Yerli Aşı Çalışmalarına Değindi",
+      "ozet": "Sanal ortamda gerçekleştirilen G20 Liderler Zirvesi'ne katılan Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye'nin yürüttüğü aşı geliştirme faaliyetleri hakkında konuştu. Erdoğan, ülkede üretilecek olan aşının tüm insanlığın kullanımına sunulacağını ifade etti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Family_photo_G20_Italy_2021.jpg/960px-Family_photo_G20_Italy_2021.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Family_photo_G20_Italy_2021.jpg/500px-Family_photo_G20_Italy_2021.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 6720,
+        "yazar": "Government of Brazil - Planalto Palace",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Family_photo_G20_Italy_2021.jpg",
+        "aciklama": "(Roma - Itália, 30/10/2021) Fotografia Oficial com os Chefes de Delegação do G20.Foto: Alan Santos/PR",
+        "konu": "G20"
+      }
     },
     {
       "id": "2020-haber-1792777",
@@ -898,10 +1004,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akpli-yelizden-erdogana-anlasilmayan-mektup-1792777"
       },
-      "konular": [],
+      "konular": [
+        "Ahmet Hamdi Çamlı",
+        "Adalet ve Kalkınma Partisi",
+        "Siyaset"
+      ],
       "yayin": "2020-11-21T16:12:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ahmet Hamdi Çamlı'nın Cumhurbaşkanı Erdoğan'a Yazdığı Mektup Tartışıldı",
+      "ozet": "İstanbul Milletvekili Ahmet Hamdi Çamlı, Cumhurbaşkanı Recep Tayyip Erdoğan'a hitaben bir mektup kaleme aldı. Kamuoyunda farklı bir isimle tanınan milletvekilinin yazdığı bu metin, içeriğinin anlaşılmakta güçlük çekilmesi nedeniyle çeşitli yorumlara yol açtı. Söz konusu mektup, okuyanlar arasında belirsizlik yarattı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2019-haber-1703506",
@@ -914,10 +1027,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/vergi-duzenlemesine-iliskin-teklif-genel-kurulda-kabul-edildi-1703506"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Vergi"
+      ],
       "yayin": "2019-11-21T22:19:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Yeni vergi düzenlemelerini içeren kanun teklifi Meclis'te onaylandı",
+      "ozet": "Dijital Hizmet Vergisi, Konaklama Vergisi ve Değerli Konut Vergisi gibi çeşitli başlıkları kapsayan yasal düzenleme, Türkiye Büyük Millet Meclisi Genel Kurulu'nda yapılan oylama sonucunda kabul edildi. Söz konusu kanun teklifi, gelir vergisi tarifesine yeni oranlar ve dilimler eklenmesini de içeren geniş kapsamlı değişiklikleri beraberinde getirdi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2019-haber-1703517",
@@ -930,10 +1049,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/nato-ilan-etti-uzay-yeni-harekat-alani-1703517"
       },
-      "konular": [],
+      "konular": [
+        "NATO",
+        "Jens Stoltenberg",
+        "Uzay"
+      ],
       "yayin": "2019-11-21T22:39:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "NATO uzayı beşinci operasyonel alan olarak tanımladı",
+      "ozet": "NATO Genel Sekreteri Jens Stoltenberg, ittifakın uzayı kara, deniz, hava ve siber alanların ardından yeni bir harekat sahası olarak kabul ettiğini duyurdu. Bu kararla birlikte uzay çalışmaları askeri stratejilerin bir parçası haline getirildi.",
+      "kategori": "Savaş",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Jens_Stoltenberg%2C_Minister_of_Finance_of_Norway%2C_at_the_Munich_Security_Conference_in_Munich%2C_Germany_on_February_14%2C_2025_%28cropped%29.jpg/960px-Jens_Stoltenberg%2C_Minister_of_Finance_of_Norway%2C_at_the_Munich_Security_Conference_in_Munich%2C_Germany_on_February_14%2C_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Jens_Stoltenberg%2C_Minister_of_Finance_of_Norway%2C_at_the_Munich_Security_Conference_in_Munich%2C_Germany_on_February_14%2C_2025_%28cropped%29.jpg/500px-Jens_Stoltenberg%2C_Minister_of_Finance_of_Norway%2C_at_the_Munich_Security_Conference_in_Munich%2C_Germany_on_February_14%2C_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1268,
+        "orijinalGenislik": 1010,
+        "yazar": "Chairman of the Joint Chiefs of Staff from Washington D.C, United States",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Jens_Stoltenberg,_Minister_of_Finance_of_Norway,_at_the_Munich_Security_Conference_in_Munich,_Germany_on_February_14,_2025_(cropped).jpg",
+        "aciklama": "Chairman of the Joint Chiefs of Staff Gen. CQ Brown, Jr. hosts a bilateral meeting with the Minister of Finance of Norway Jens Stoltenberg during the Munich Security Conference in Munich, Germany Feb.",
+        "konu": "Jens Stoltenberg"
+      }
     },
     {
       "id": "2018-haber-1146933",
@@ -946,10 +1085,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyon-atlete-4-yil-doping-cezasi-1146933"
       },
-      "konular": [],
+      "konular": [
+        "Nigel Levine",
+        "Doping",
+        "Atletizm"
+      ],
       "yayin": "2018-11-21T10:35:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Avrupalı atlet Nigel Levine doping nedeniyle ceza aldı",
+      "ozet": "Avrupa şampiyonluğu bulunan Büyük Britanyalı sporcu Nigel Levine, yasaklı madde kullandığı gerekçesiyle disiplin soruşturması geçirdi. Yapılan incelemeler sonucunda atletin müsabakalardan dört yıl süreyle men edilmesine karar verildi.",
+      "kategori": "Spor"
     },
     {
       "id": "2018-haber-1147229",
@@ -962,10 +1108,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/guvenpark-patlamasi-davasinda-karar-1147229"
       },
-      "konular": [],
+      "konular": [
+        "2016 Ankara saldırısı",
+        "Güvenpark",
+        "Ankara"
+      ],
       "yayin": "2018-11-21T13:23:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Güvenpark saldırısı davasında mahkeme kararı açıklandı",
+      "ozet": "Ankara Güvenpark bölgesinde gerçekleştirilen saldırıya ilişkin yürütülen yargı süreci sonuçlandı. Mahkeme heyeti, davanın ana sanığı Mehmet Veysi Dolaşan hakkında otuz altı kez ağırlaştırılmış müebbet ile on bin iki yüz altmış yıl hapis cezasına hükmetti. Diğer sanıklar Azamettin Karakoç ve Sebahattin Karakoç ise ağırlaştırılmış müebbet hapis cezası aldı.",
+      "kategori": "Toplum",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Ankara_-G%C3%BCven_park_-_panoramio.jpg/960px-Ankara_-G%C3%BCven_park_-_panoramio.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Ankara_-G%C3%BCven_park_-_panoramio.jpg/500px-Ankara_-G%C3%BCven_park_-_panoramio.jpg",
+        "genislik": 960,
+        "yukseklik": 604,
+        "orijinalGenislik": 2729,
+        "yazar": "HALUK COMERTEL",
+        "lisans": "CC BY 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_-G%C3%BCven_park_-_panoramio.jpg",
+        "aciklama": "Ankara -Güven park",
+        "konu": "Güvenpark"
+      }
     },
     {
       "id": "2017-haber-870347",
@@ -978,10 +1144,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dolar-ve-avrodan-rekor-ustune-rekor-870347"
       },
-      "konular": [],
+      "konular": [
+        "Döviz kuru",
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Ekonomi"
+      ],
       "yayin": "2017-11-21T09:17:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Döviz kurlarında tarihi seviyeler kaydedildi",
+      "ozet": "Piyasalarda yaşanan hareketlilik sonucunda dolar ve avro değer kazanarak kendi rekorlarını kırdı. Dolar üç lira doksan yedi kuruşu, avro ise dört lira altmış yedi kuruşu aşarak yükselişini sürdürdü. Merkez Bankası tarafından dövizdeki artışa yönelik alınan müdahale kararlarının ardından dolar üç lira doksan beş kuruşun altına indi ve avroda da düşüş görüldü.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/South_East_Asia_Exchange_Rates_%286031878489%29.jpg/960px-South_East_Asia_Exchange_Rates_%286031878489%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/South_East_Asia_Exchange_Rates_%286031878489%29.jpg/500px-South_East_Asia_Exchange_Rates_%286031878489%29.jpg",
+        "genislik": 960,
+        "yukseklik": 957,
+        "orijinalGenislik": 1027,
+        "yazar": "Nick Hubbard",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:South_East_Asia_Exchange_Rates_(6031878489).jpg",
+        "aciklama": "Next time I will bring in sterling, and not be ripped of by those money changers back home. Thai baht.",
+        "konu": "Döviz kuru"
+      }
     },
     {
       "id": "2017-haber-870939",
@@ -994,10 +1180,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/turkiye-satranc-sampiyonasi-sona-erdi-870939"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Satranç Şampiyonası",
+        "Türkiye Satranç Federasyonu",
+        "Süleymanpaşa"
+      ],
       "yayin": "2017-11-21T21:28:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türkiye Satranç Şampiyonası düzenlenen törenle tamamlandı",
+      "ozet": "Türkiye Satranç Federasyonu ile Süleymanpaşa Belediyesi iş birliğiyle organize edilen ulusal satranç turnuvası nihayete erdi. Organizasyonun kapanışı, dereceye giren sporculara ödüllerinin takdim edildiği bir törenle gerçekleştirildi.",
+      "kategori": "Spor"
     },
     {
       "id": "2016-haber-633652",
@@ -1010,10 +1203,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/namaglup-besiktasi-sampiyonlar-ligi-ve-super-ligde-5-zorlu-mac-bekliyor-633652"
       },
-      "konular": [],
+      "konular": [
+        "Beşiktaş (futbol takımı)",
+        "Süper Lig",
+        "UEFA Şampiyonlar Ligi"
+      ],
       "yayin": "2016-11-21T11:42:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Beşiktaş için yoğun ve kritik maç takvimi başlıyor",
+      "ozet": "Süper Lig ve Şampiyonlar Ligi mücadelesini yenilgisiz sürdüren Beşiktaş, önümüzdeki günlerde oldukça zorlu bir fikstürle karşı karşıya kalıyor. Takım, Çarşamba gününden itibaren hem yerel ligde hem de Avrupa arenasında üst üste oynayacağı beş önemli karşılaşma ile sınav verecek.",
+      "kategori": "Spor"
     },
     {
       "id": "2016-haber-633742",
@@ -1026,10 +1226,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bakanlar-kurulu-toplantisi-basladi-633742"
       },
-      "konular": [],
+      "konular": [
+        "Bakanlar Kurulu",
+        "Binali Yıldırım",
+        "Türkiye"
+      ],
       "yayin": "2016-11-21T13:52:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Bakanlar Kurulu Toplantısı Başbakan Yıldırım Başkanlığında Toplandı",
+      "ozet": "Başbakan Binali Yıldırım yönetiminde bir araya gelen Bakanlar Kurulu toplantısı gerçekleştirildi. Hükümet üyelerinin katılımıyla düzenlenen bu oturumda gündemdeki konular ele alındı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2015-haber-426971",
@@ -1042,10 +1249,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/durdane-altunel-avrupa-sampiyonu-oldu-426971"
       },
-      "konular": [],
+      "konular": [
+        "Dürdane Altunel",
+        "Tekvando",
+        "Avrupa Tekvando Şampiyonası"
+      ],
       "yayin": "2015-11-21T12:21:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Dürdane Altunel Avrupa Tekvando Şampiyonası'nda altın madalya kazandı",
+      "ozet": "Romanya'da gerçekleştirilen Avrupa Tekvando Şampiyonası'nda milli sporcu Dürdane Altunel büyük bir başarıya imza attı. Kadınlar 57 kilogram kategorisinde mücadele eden Altunel, rakiplerini geride bırakarak şampiyonluk kürsüsüne çıktı ve altın madalyanın sahibi oldu.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Italian_Taekwondo_Championships_2013.jpg/960px-Italian_Taekwondo_Championships_2013.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Italian_Taekwondo_Championships_2013.jpg/500px-Italian_Taekwondo_Championships_2013.jpg",
+        "genislik": 960,
+        "yukseklik": 1164,
+        "orijinalGenislik": 2904,
+        "yazar": "Renano",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Italian_Taekwondo_Championships_2013.jpg",
+        "aciklama": "Italian Taekwondo Championships 2013 in Bari",
+        "konu": "Tekvando"
+      }
     },
     {
       "id": "2015-haber-427583",
@@ -1058,10 +1285,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/emir-hayata-boyle-acildi-427583"
       },
-      "konular": [],
+      "konular": [
+        "Mülteci krizi",
+        "Afganistan"
+      ],
       "yayin": "2015-11-21T23:41:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Afgan çocuktan mülteci krizine dikkat çeken mesaj",
+      "ozet": "Afganistan doğumlu bir çocuk, yaşadığı zorlu koşulları ve göç yolculuğunu kendi bakış açısıyla dile getirdi. Aylan Kurdi örneği üzerinden hayatta kalma mücadelesine vurgu yapan çocuk, üzerindeki kıyafette yer alan mesaj aracılığıyla uluslararası kamuoyunun dikkatini mülteci sorununa çekmeye çalıştı. Bu çıkış, göçmenlerin yaşadığı insani dramın boyutlarını gözler önüne serdi.",
+      "kategori": "Toplum",
+      "gorsel": null
     },
     {
       "id": "2014-haber-146533",
@@ -1074,10 +1308,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bilal-erdogan-ada-mi-aldi-bakanlik-bilgileri-paylasamadi-146533"
       },
-      "konular": [],
+      "konular": [
+        "Bilal Erdoğan",
+        "İdris Güllüce",
+        "Çevre ve Şehircilik Bakanlığı"
+      ],
       "yayin": "2014-11-21T16:06:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Bakanlık ada satışı iddialarına ilişkin bilgi vermedi",
+      "ozet": "Çevre ve Şehircilik Bakanı İdris Güllüce, Cumhurbaşkanı Recep Tayyip Erdoğan'ın oğlunun bir ada satın aldığına dair ortaya atılan iddialar hakkında kendisine yöneltilen soruları yanıtlamadı. Bakanlık, konuyla ilgili detaylı bilgi paylaşımında bulunmaktan kaçındı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2014-haber-145999",
@@ -1090,10 +1331,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kardashian-oyunu-rekor-kirmaya-devam-ediyor-145999"
       },
-      "konular": [],
+      "konular": [
+        "Kim Kardashian: Hollywood",
+        "Kim Kardashian"
+      ],
       "yayin": "2014-11-21T09:10:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Kim Kardashian temalı mobil oyun yüksek indirme sayılarına ulaştı",
+      "ozet": "Amerikalı ünlü isim Kim Kardashian'ın adını taşıyan mobil oyun, kullanıcılar tarafından yoğun ilgi görmeye devam ediyor. Çeşitli mecralarda yer alan fotoğraflarıyla sıkça konuşulan Kardashian'ın dijital platformdaki oyunu, elde ettiği yüksek indirme rakamlarıyla dikkat çekiyor.",
+      "kategori": "Teknoloji"
     },
     {
       "id": "2013-haber-11841",
@@ -1106,10 +1353,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/genetik-biliminin-babasi-hayatini-kaybetti-11841"
       },
-      "konular": [],
+      "konular": [
+        "Frederick Sanger",
+        "Nobel Kimya Ödülü",
+        "Genetik"
+      ],
       "yayin": "2013-11-21T13:18:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Nobel ödüllü bilim insanı Frederick Sanger yaşamını yitirdi",
+      "ozet": "Genetik alanındaki öncü çalışmalarıyla tanınan ve kariyeri boyunca iki defa Nobel Kimya Ödülü kazanan İngiliz araştırmacı Frederick Sanger, doksan beş yaşında vefat etti. Bilim dünyasında genetik biliminin babası olarak anılan Sanger, biyokimya alanına yaptığı katkılarla hatırlanıyor.",
+      "kategori": "Bilim",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Frederick_Sanger2.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Frederick_Sanger2.jpg",
+        "genislik": 897,
+        "yukseklik": 1196,
+        "orijinalGenislik": 897,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Frederick_Sanger2.jpg",
+        "aciklama": null,
+        "konu": "Frederick Sanger"
+      }
     },
     {
       "id": "2013-haber-11919",
@@ -1122,10 +1389,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bayik-mucadele-ettik-basbakan-kurdistan-dedi-11919"
       },
-      "konular": [],
+      "konular": [
+        "Çözüm süreci",
+        "Cemil Bayık",
+        "Diyarbakır"
+      ],
       "yayin": "2013-11-21T15:38:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Diyarbakır'daki Erdoğan ve Barzani Görüşmesine İlişkin Değerlendirme",
+      "ozet": "KCK Yürütme Konseyi Eşbaşkanı Cemil Bayık, Başbakan Recep Tayyip Erdoğan ile Irak Bölgesel Kürt Yönetimi Başkanı Mesut Barzani arasında Diyarbakır'da gerçekleşen buluşmayı yorumladı. Bayık, söz konusu görüşmede kullanılan ifadeler üzerinden yürütülen siyasi sürece dair kendi bakış açısını paylaştı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Kurdistan_of_Turkey_%28CIA%29.png/960px-Kurdistan_of_Turkey_%28CIA%29.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Kurdistan_of_Turkey_%28CIA%29.png/500px-Kurdistan_of_Turkey_%28CIA%29.png",
+        "genislik": 960,
+        "yukseklik": 469,
+        "orijinalGenislik": 2000,
+        "yazar": "Çalak talk",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kurdistan_of_Turkey_(CIA).png",
+        "aciklama": "Kurdish inhabited regions of Turkiye",
+        "konu": "Çözüm süreci"
+      }
     },
     {
       "id": "2012-haber-385048",
@@ -1138,10 +1425,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fillon-yarisi-ben-kazandim-385048"
       },
-      "konular": [],
+      "konular": [
+        "Halk Hareketi Birliği",
+        "François Fillon",
+        "Fransa"
+      ],
       "yayin": "2012-11-21T19:53:00+03:00",
       "puan": 4,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Fransa Halk Hareketi Birliği içinde liderlik çekişmesi yaşandı",
+      "ozet": "Fransa merkez sağ siyasetinin önemli partilerinden Halk Hareketi Birliği bünyesinde yönetim krizi derinleşti. Parti içindeki liderlik mücadelesi kapsamında François Fillon seçimi kazandığını ilan etti. Bu açıklama ile birlikte kurum içerisindeki gerilim daha belirgin bir hale geldi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2012-haber-385028",
@@ -1154,10 +1448,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/firmalarimiz-ihracatta-aslanlar-gibi-mucadele-ediyor-385028"
       },
-      "konular": [],
+      "konular": [
+        "Zafer Çağlayan",
+        "Türkiye ekonomisi",
+        "İhracat"
+      ],
       "yayin": "2012-11-21T15:01:00+03:00",
       "puan": 4,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ekonomi Bakanı Çağlayan ihracat rakamlarını değerlendirdi",
+      "ozet": "Ekonomi Bakanı Zafer Çağlayan, Türk firmalarının dış ticarette gösterdiği çabayı takdirle karşıladığını belirtti. Bakan, ihracatçıların özverili çalışmaları sayesinde ülkenin tarihsel olarak en yüksek dış satım seviyesine ulaştığını ifade etti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2011-haber-299716",
@@ -1170,10 +1471,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/depremin-ardindan-ilk-dava-acildi-299716"
       },
-      "konular": [],
+      "konular": [
+        "2011 Van depremi",
+        "Erciş",
+        "Van"
+      ],
       "yayin": "2011-11-21T21:38:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Van depremi sonrasında ilk tazminat davası süreci başladı",
+      "ozet": "Van bölgesinde yaşanan ve çok sayıda can kaybı ile ağır hasara yol açan deprem felaketinin ardından hukuki süreç başlatıldı. Erciş ilçesinde yıkılan bir binada hayatını kaybeden Taner Akgün adına maddi ve manevi tazminat talebiyle dava açıldı. Bu gelişme, deprem sonrası yaşanan yıkımlara ilişkin yargıya taşınan ilk dosya olma özelliğini taşıyor.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Van_location_districts.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Van_location_districts.png",
+        "genislik": 533,
+        "yukseklik": 600,
+        "orijinalGenislik": 533,
+        "yazar": "Batuhan duz",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Van_location_districts.png",
+        "aciklama": "Van'ın ilçelerini gösteren harita",
+        "konu": "Erciş"
+      }
     },
     {
       "id": "2011-haber-299610",
@@ -1186,10 +1507,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/deprem-icin-156-milyar-dolarlik-ek-butce-onaylandi-299610"
       },
-      "konular": [],
+      "konular": [
+        "2011 Tōhoku depremi ve tsunamisi",
+        "Japonya"
+      ],
       "yayin": "2011-11-21T13:30:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Japonya'da deprem sonrası yeniden yapılanma bütçesi kabul edildi",
+      "ozet": "Japonya yönetimi, yaşanan büyük deprem ve tsunami felaketinin ardından bölgenin tekrar inşa edilmesi amacıyla hazırlanan ek bütçeyi onayladı. Söz konusu mali kaynak, afetin yarattığı yıkımın giderilmesi ve bölgedeki çalışmaların hızlandırılması için kullanılacak. Toplamda 12 trilyon yen değerindeki bu bütçe, ülkenin afet sonrası toparlanma sürecindeki en önemli adımlardan biri oldu.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/SH-60B_helicopter_flies_over_Sendai.jpg/960px-SH-60B_helicopter_flies_over_Sendai.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/SH-60B_helicopter_flies_over_Sendai.jpg/500px-SH-60B_helicopter_flies_over_Sendai.jpg",
+        "genislik": 960,
+        "yukseklik": 641,
+        "orijinalGenislik": 2763,
+        "yazar": "U.S. Navy photo",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:SH-60B_helicopter_flies_over_Sendai.jpg",
+        "aciklama": "An SH-60F helicopter assigned to the Chargers of Helicopter Antisubmarine Squadron (HS) 14 from Naval Air Facility Atsugi flies over the port of Sendai to deliver more than 1,500 pounds of food to sur",
+        "konu": "2011 Tōhoku depremi ve tsunamisi"
+      }
     }
   ],
   "haberYillari": [
