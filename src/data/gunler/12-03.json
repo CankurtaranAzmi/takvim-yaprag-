@@ -11,23 +11,12 @@
         "1. Berengar",
         "Kutsal Roma imparatorları listesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Wappen_r%C3%B6m.kaiser.JPG",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Wappen_r%C3%B6m.kaiser.JPG",
-        "genislik": 920,
-        "yukseklik": 780,
-        "orijinalGenislik": 920,
-        "yazar": "Originally uploaded by de:Benutzer:Hansele",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Wappen_r%C3%B6m.kaiser.JPG",
-        "aciklama": "1605 coat of arms of Rudolf II, Holy Roman Emperor. The title reads Röm[isch] Kayserlicher und Kön[iglicher] May[estät] Wappen. Armorial from Siebmachers Wappenbuch, published in 1605, during the reig",
-        "konu": "Kutsal Roma imparatorları listesi"
-      }
+      "baslik": "1. Berengar'ın Kutsal Roma İmparatoru Olarak Taç Giymesi",
+      "ozet": "Papa 10. John, 3 Aralık 915 tarihinde İtalya Kralı 1. Berengar'ı Kutsal Roma İmparatoru ilan ederek taç giydirme törenini gerçekleştirdi. Bu olay, dönemin İtalya coğrafyasındaki karmaşık siyasi dengelerin ve papalık makamı ile krallıklar arasındaki güç mücadelelerinin bir yansıması olarak tarihe geçti. Berengar, bu unvanla birlikte Roma imparatorluk mirasının temsilcisi olma iddiasını pekiştirmeyi hedeflemişti.\n\nKutsal Roma İmparatorluğu'nun kurumsal yapısı ve imparatorluk unvanının meşruiyeti Orta Çağ Avrupa'sında oldukça tartışmalı bir süreçti. I. Otto'nun 962 yılındaki taç giyme töreni genellikle imparatorluğun başlangıcı kabul edilse de, 10. yüzyılın başlarında Papa tarafından verilen bu unvanlar, siyasi otoritenin dini makamlarca onaylanması geleneğinin bir parçasını oluşturuyordu. 1. Berengar'ın imparatorluk dönemi, bölgedeki iç karışıklıklar ve dış tehditler nedeniyle oldukça zorlu geçti. Bu taç giyme töreni, Papalık ile yerel yöneticiler arasındaki ittifak arayışlarının ve Orta Avrupa'da şekillenmekte olan siyasi hiyerarşinin önemli bir aşamasını temsil eder.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1775-uss-alfred-grand-union-flagi-ucuran-ilk",
@@ -110,10 +99,10 @@
         "Selimiye Kışlası",
         "Kırım Savaşı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Florence Nightingale ve Selimiye Kışlası'ndaki Hemşirelik Hizmetleri",
+      "ozet": "Modern hemşireliğin öncüsü kabul edilen Florence Nightingale, Kırım Savaşı'nın şiddetli koşullarında yaralanan İngiliz askerlerine destek olmak amacıyla 1854 yılının Aralık ayında İstanbul'a geldi. Üsküdar'da bulunan Selimiye Kışlası'na yerleşen Nightingale ve beraberindeki hemşire ekibi, burada son derece zorlu şartlar altında tedavi süreçlerini yönetmeye başladı. Nightingale, sadece yaralıların fiziksel bakımıyla ilgilenmekle kalmadı, aynı zamanda hastane hijyeni ve organizasyonu konusunda devrim niteliğinde iyileştirmeler yaparak modern hemşirelik mesleğinin temellerini attı.\n\nGece gündüz demeden yaralı askerlerin arasında dolaşarak onlara moral verdiği için Lambalı Kadın olarak anılan Nightingale, bu süreçte hemşireliğin profesyonel bir meslek olarak kabul görmesini sağladı. Selimiye Kışlası'ndaki çalışmaları, Viktorya dönemi İngiltere'sinde büyük bir yankı uyandırdı ve hemşirelik mesleğinin itibarını kalıcı olarak yükseltti. Bugün kışlanın bir kulesi, onun anısını yaşatmak amacıyla müze olarak kullanılmaktadır. Nightingale'in bu dönemde başlattığı disiplinli ve şefkatli bakım anlayışı, savaş sonrası Londra'da kurduğu hemşirelik okuluyla dünya genelinde modern sağlık hizmetlerinin standartlarını belirleyen bir miras haline gelmiştir.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg/960px-Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg/500px-Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg",
@@ -127,47 +116,7 @@
         "aciklama": "Photograph by Henry Hering",
         "konu": "Florence Nightingale"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg/960px-Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg/500px-Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1334,
-          "orijinalGenislik": 1105,
-          "yazar": "Henry Hering (1814-1893)",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Florence_Nightingale_(H_Hering_NPG_x82368).jpg",
-          "aciklama": "Photograph by Henry Hering",
-          "konu": "Florence Nightingale"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/%C3%9Csk%C3%BCdar_colleage.png/960px-%C3%9Csk%C3%BCdar_colleage.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/%C3%9Csk%C3%BCdar_colleage.png/500px-%C3%9Csk%C3%BCdar_colleage.png",
-          "genislik": 960,
-          "yukseklik": 1248,
-          "orijinalGenislik": 2000,
-          "yazar": "Cobija Carlo Sartori John Lubbock Arild Vågen A.Savin",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%9Csk%C3%BCdar_colleage.png",
-          "aciklama": "Üsküdar Kolajı",
-          "konu": "Üsküdar"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Selimiye_Barracks_%288425276098%29.jpg/960px-The_Selimiye_Barracks_%288425276098%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Selimiye_Barracks_%288425276098%29.jpg/500px-The_Selimiye_Barracks_%288425276098%29.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 3581,
-          "yazar": "Grzegorz Jereczek from Gdańsk, Poland",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:The_Selimiye_Barracks_(8425276098).jpg",
-          "aciklama": "The Selimiye Barracks",
-          "konu": "Selimiye Kışlası"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1854-eureka-stockade-savasi-victoria-ballaratta-20den-fazla",
@@ -177,23 +126,12 @@
         "Eureka Stockade Savaşı",
         "Ballarat"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Aerialviewgardens.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Aerialviewgardens.jpg",
-        "genislik": 500,
-        "yukseklik": 375,
-        "orijinalGenislik": 500,
-        "yazar": "Gervo1865 at English Wikipedia",
-        "lisans": "CC BY 2.5",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.5",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Aerialviewgardens.jpg",
-        "aciklama": "Looking East over first block of the Sturt Street Gardens in Ballarat, Australia",
-        "konu": "Ballarat"
-      }
+      "baslik": "Avustralya Demokrasi Tarihinde Bir Dönüm Noktası: Eureka İsyanı",
+      "ozet": "Avustralya'nın Victoria eyaletinde bulunan Ballarat bölgesindeki altın madenlerinde çalışan işçiler, ağır vergiler ve haksız ruhsat uygulamalarına karşı örgütlenerek bir isyan başlattı. Madencilerin kurduğu barikatlarda yaşanan çatışma, kısa sürede eyalet askerlerinin müdahalesiyle kanlı bir hal aldı. Olay sonucunda 20'den fazla madenci yaşamını yitirdi ve bölgedeki gerilim zirveye ulaştı.\n\nEureka Stockade olarak bilinen bu olay, Avustralya tarihinde demokratik hakların kazanılması yolunda atılan en önemli adımlardan biri olarak kabul edilir. İsyanın ardından madencilerin talepleri büyük ölçüde karşılık bulmuş, ruhsat sisteminde reformlar yapılmış ve oy hakkı gibi temel demokratik süreçlerin önü açılmıştır. Bugün bu olay, Avustralya'nın sivil itaatsizlik ve özgürlük mücadelesi geleneğinin sembolü olarak anılmaktadır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1898-duquesne-country-ve-athletic-club-profesyonel-amerikan",
@@ -203,23 +141,12 @@
         "Duquesne Country",
         "Athletic Bilbao"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Bilbao_San_Mam%C3%A9s_Stadium_4.jpg/960px-Bilbao_San_Mam%C3%A9s_Stadium_4.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Bilbao_San_Mam%C3%A9s_Stadium_4.jpg/500px-Bilbao_San_Mam%C3%A9s_Stadium_4.jpg",
-        "genislik": 960,
-        "yukseklik": 638,
-        "orijinalGenislik": 1280,
-        "yazar": "Валерий Дед",
-        "lisans": "CC BY 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bilbao_San_Mam%C3%A9s_Stadium_4.jpg",
-        "aciklama": "San Mamés Stadium in Bilbao, Basque Country, Spain",
-        "konu": "Athletic Bilbao"
-      }
+      "baslik": "Amerikan Futbolunda İlk All-Star Maçı",
+      "ozet": "Amerikan futbolunun henüz gelişim aşamasında olduğu 1898 yılında, Duquesne Country ve Athletic Club ile eski oyunculardan oluşan bir karma takım arasında oynanan müsabaka, spor tarihine ilk profesyonel all-star maçı olarak geçti. Pittsburgh bölgesinde gerçekleşen bu karşılaşma, Duquesne ekibinin 16-0'lık net galibiyetiyle sonuçlandı. O dönemde profesyonel liglerin henüz tam anlamıyla kurumsallaşmadığı göz önüne alındığında, bu tür özel maçlar sporun popülaritesini artırmak ve yetenekli oyuncuları bir araya getirmek adına önemli birer vitrin görevi görüyordu. Bu etkinlik, Amerikan futbolunun ilerleyen yıllarda profesyonel bir endüstriye dönüşme sürecinde atılan erken adımlardan biri olarak kabul edilir. Günümüzde devasa bir organizasyona dönüşen all-star geleneğinin kökleri, bu tür yerel ve amatör ruhla başlayan ancak profesyonelce kurgulanan müsabakalara dayanmaktadır.",
+      "kategori": "Spor",
+      "durum": "elendi",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1901-eski-abd-baskani-theodore-roosevelt-birligin-durumu",
@@ -229,10 +156,10 @@
         "Theodore Roosevelt",
         "Temsilciler Meclisi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Theodore Roosevelt'in Tröstlerle Mücadele Çağrısı",
+      "ozet": "ABD Başkanı Theodore Roosevelt, 1901 yılında Kongre'ye sunduğu kapsamlı Birliğin Durumu mesajında, ülkenin ekonomik geleceği için kritik bir adım atarak tröstlerin gücünün dizginlenmesi gerektiğini vurguladı. Roosevelt, devasa şirketlerin oluşturduğu bu yapıların piyasa üzerindeki kontrolünün mantıklı sınırlar içerisinde tutulması için yasama organından destek istedi. Bu konuşma, Roosevelt'in başkanlık döneminin en belirgin özelliklerinden biri haline gelecek olan tröst karşıtı politikaların da ilk somut işareti olarak kabul edilir.\n\nO dönemde Amerikan ekonomisinde büyük bir güç kazanan tröstler, rekabeti engelleyerek piyasayı tekellerinde tutuyordu. Roosevelt, bu şirketlerin tamamen yok edilmesinden ziyade, kamu yararı gözetilerek denetlenmesi ve düzenlenmesi gerektiğini savunuyordu. Bu yaklaşım, Amerikan siyasetinde devletin ekonomi üzerindeki denetleyici rolünün artmasına zemin hazırladı. Roosevelt'in bu çıkışı, ilerleyen yıllarda uygulayacağı reformist politikaların ve 'adil anlaşma' olarak bilinen vizyonunun temel taşlarından biri oldu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Theodore_Roosevelt_by_the_Pach_Bros.jpg/960px-Theodore_Roosevelt_by_the_Pach_Bros.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Theodore_Roosevelt_by_the_Pach_Bros.jpg/500px-Theodore_Roosevelt_by_the_Pach_Bros.jpg",
@@ -245,7 +172,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt_by_the_Pach_Bros.jpg",
         "aciklama": "Photograph of Theodore Roosevelt showing head and shoulders, facing slightly left. No information on size of the photo given. Restoration notes Lots of scratches, which I carefully removed. Mainly jus",
         "konu": "Theodore Roosevelt"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1904-himalia-kaliforniyadaki-lick-gozlemevinde-charles-dillon-perrine",
@@ -256,10 +184,10 @@
         "Kaliforniya",
         "Charles Dillon Perrine"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Jüpiter'in En Büyük Düzensiz Uydusu Himalia Keşfedildi",
+      "ozet": "Gökbilimci Charles Dillon Perrine, Kaliforniya'daki Lick Gözlemevi'nde yürüttüğü gözlemler sırasında Jüpiter'in yörüngesinde dönen yeni bir uydu tespit etti. Yaklaşık 140 kilometre çapındaki bu gök cismi, daha sonra Yunan mitolojisindeki nemf Himalia'nın adını aldı. Bu keşif, Jüpiter'in çevresindeki uydu sisteminin daha iyi anlaşılması adına önemli bir adım olarak kabul edildi. Himalia, Jüpiter'in dört büyük Galilei uydusu ve Amalthea'nın ardından gezegenin en büyük altıncı uydusu olma özelliğini taşımaktadır. Düzensiz bir uydu olan Himalia, kendi adıyla anılan ve benzer yörünge özelliklerine sahip bir uydu grubunun da en büyük üyesidir. Bilim insanları, bu grubun Jüpiter'in çekim alanına yakalanmış bir asteroitin parçalanması sonucu oluştuğunu tahmin etmektedir. Günümüzde modern uzay araçları tarafından da görüntülenen bu uydu, Jüpiter'in karmaşık uydu sisteminin incelenmesinde temel bir referans noktası oluşturmaya devam etmektedir.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Himalia.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Himalia.png",
@@ -272,7 +200,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Himalia.png",
         "aciklama": "Image of the moon Himalia taken by the Cassini spacecraft on 19 December 2000.",
         "konu": "Himalia (uydu)"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1910-modern-neon-isiklandirma-ilk-kez-georges-claude",
@@ -282,10 +211,10 @@
         "neon",
         "Paris Motor Show"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Modern Neon Aydınlatmanın İlk Gösterimi",
+      "ozet": "Fransız mühendis ve mucit Georges Claude, 1910 yılında düzenlenen Paris Otomobil Fuarı'nda geliştirdiği neon tüplü aydınlatma sistemini ilk kez halka açık bir şekilde sergiledi. İki adet on iki metre uzunluğundaki parlak kırmızı neon tüpü, fuar alanındaki Grand Palais binasının tavanını aydınlatarak izleyiciler üzerinde büyük bir etki bıraktı. Bu gösteri, aydınlatma teknolojisinde yeni bir dönemin başlangıcı olarak kabul edildi.\n\nNeon gazının elektrik akımıyla etkileşime girdiğinde yaydığı parlak ışık, Claude'un bu buluşuyla ticari bir boyuta taşındı. Daha önce laboratuvar ortamında keşfedilen soy gazların özellikleri, bu icat sayesinde reklamcılık ve dekorasyon dünyasında devrim yarattı. Özellikle gece hayatını ve şehir estetiğini kökten değiştiren neon tabelalar, kısa sürede dünya genelinde yaygınlaştı. Claude'un bu girişimi, sadece bir aydınlatma aracı değil, aynı zamanda modern görsel kültürün ve şehir ışıklandırmasının temel taşlarından biri haline geldi.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ne%2C10.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ne%2C10.jpg",
@@ -298,7 +227,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ne,10.jpg",
         "aciklama": null,
         "konu": "neon"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1912-bulgaristan-yunanistan-karadag-ve-sirbistan-balkan-birligi",
@@ -320,10 +250,10 @@
         "Londra",
         "Almanya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Londra'da Savaş Tazminatı Kararı",
+      "ozet": "I. Dünya Savaşı'nın 1918 yılının Kasım ayında sona ermesinin hemen ardından, İtilaf Devletleri temsilcileri Londra'da bir araya gelerek savaşın mali yükümlülüklerini belirlemek üzere toplandı. Bu kongre, mağlup Almanya'nın savaşın yıkıcı etkilerinden sorumlu tutulması ve uğranılan zararların tazmin edilmesi konusundaki kararlılığın ilk somut adımlarından biri oldu. Görüşmeler, savaşın getirdiği ağır ekonomik ve siyasi enkazın nasıl yönetileceğine dair uluslararası bir mutabakat arayışını yansıtıyordu.\n\nAlmanya'nın tazminat ödemesine yönelik bu karar, sadece ekonomik bir yaptırım değil, aynı zamanda savaş sonrası Avrupa'nın yeniden şekillendirilmesinde kritik bir dönüm noktasıydı. Bu süreç, ilerleyen yıllarda imzalanacak olan Versay Barış Antlaşması'na giden yolda Almanya üzerindeki baskıyı artıran ve Avrupa'daki güç dengelerini kökten değiştiren bir dizi diplomatik girişimin başlangıcını oluşturdu. Tazminat meselesi, sonraki yıllarda hem Almanya'nın iç siyasetini hem de uluslararası ilişkileri derinden etkileyen uzun süreli bir tartışma konusuna dönüştü.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
@@ -337,34 +267,7 @@
         "aciklama": "Montage for WWI article. Top: Trenches - Image:The_badly_shelled_main_road_to_Bapaume.jpg (Trenches on the Western Front) Left Upper: Image:AlbatDIII.jpg (German Albatros D.III biplane fighters of Jas",
         "konu": "I. Dünya Savaşı"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
-          "genislik": 960,
-          "yukseklik": 974,
-          "orijinalGenislik": 1300,
-          "yazar": "User:Hohum",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:WWImontage.jpg",
-          "aciklama": "Montage for WWI article. Top: Trenches - Image:The_badly_shelled_main_road_to_Bapaume.jpg (Trenches on the Western Front) Left Upper: Image:AlbatDIII.jpg (German Albatros D.III biplane fighters of Jas",
-          "konu": "I. Dünya Savaşı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/500px-London_Skyline_%28125508655%29.jpeg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 2048,
-          "yazar": "Ilya Grigorik",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg",
-          "aciklama": "500px provided description: London Skyline [#sunset ,#architecture ,#cityscape ,#london ,#uk ,#skyline ,#financial district ,#thames ,#london bridge ,#london shard]",
-          "konu": "Londra"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1920-ankara-hukumeti-ile-ermenistan-demokratik-cumhuriyeti-arasinda",
@@ -388,23 +291,12 @@
       "konular": [
         "anayasa"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/1950_Constitution_Eng.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/1950_Constitution_Eng.jpg",
-        "genislik": 530,
-        "yukseklik": 645,
-        "orijinalGenislik": 530,
-        "yazar": "Davidelit",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:1950_Constitution_Eng.jpg",
-        "aciklama": "An official translation of the Indonesian 1950 Constitution",
-        "konu": "anayasa"
-      }
+      "baslik": "Cumhuriyetin İlk Anayasası İçin İlk Adımlar Atıldı",
+      "ozet": "Türkiye Büyük Millet Meclisi tarafından oluşturulan Teşkilatı Esasiye Encümeni, genç Cumhuriyetin temel hukuk metnini hazırlamak amacıyla 3 Aralık 1923 tarihinde ilk toplantısını gerçekleştirdi. Bu komisyon, devletin yönetim biçimini, temel organlarını ve vatandaşların haklarını belirleyecek olan yeni anayasa taslağını şekillendirmekle görevlendirilmişti. Cumhuriyetin ilanından kısa bir süre sonra atılan bu adım, devletin kurumsal yapısının modern ve demokratik esaslara göre yeniden düzenlenmesi sürecinde kritik bir dönemeçti.\n\nBu çalışmalar, 1921 Anayasası'nın savaş koşullarında hazırlanmış olmasından kaynaklanan eksiklikleri gidermeyi ve yeni rejimin hukuki altyapısını sağlamlaştırmayı hedefliyordu. Encümen üyeleri, devletin işleyişini yasama, yürütme ve yargı erkleri arasında dengeleyecek bir sistem üzerinde yoğunlaştı. Bu süreç, Türkiye'nin hukuk sisteminde köklü bir dönüşümün başlangıcı oldu ve 1924 Anayasası'nın kabulüne giden yolda en önemli aşamayı oluşturdu. Hazırlanan metin, sadece bir yasa değil, aynı zamanda toplumun egemenlik haklarını ve devletin temel örgütlenmesini tanımlayan bir toplumsal sözleşme niteliği taşıyordu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1928-ekmek-otuz-para-ucuzladi",
@@ -413,10 +305,10 @@
       "konular": [
         "Ekmek"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Ekmek Fiyatlarında İndirim Kararı",
+      "ozet": "Cumhuriyetin ilk yıllarında temel gıda maddelerinin fiyatları, halkın alım gücünü korumak ve ekonomik istikrarı sağlamak amacıyla devlet tarafından yakından takip ediliyordu. 3 Aralık 1928 tarihinde alınan bir kararla, ekmek fiyatlarında otuz paralık bir indirime gidilmesi, dönemin ekonomik koşullarında halkın bütçesine doğrudan katkı sağlayan önemli bir gelişme olarak kaydedildi. Ekmek, tarih boyunca toplumların beslenme düzenindeki en temel unsur olma özelliğini korumuştur. Özellikle tarımsal üretimin ve gıda arzının düzenlenmeye çalışıldığı bu dönemde, temel tüketim maddelerindeki fiyat değişimleri doğrudan halkın günlük yaşamını etkilemekteydi. Bu tür fiyat düzenlemeleri, devletin piyasa üzerindeki denetimini ve halkın temel ihtiyaçlarına erişimini kolaylaştırma çabasını yansıtmaktadır. Ekmek fiyatındaki bu düşüş, o dönemde yaşanan ekonomik zorlukların hafifletilmesi ve gıda güvenliğinin sağlanması adına atılan adımlardan biri olarak değerlendirilebilir.",
+      "kategori": "Ekonomi",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Korb_mit_Br%C3%B6tchen.JPG/960px-Korb_mit_Br%C3%B6tchen.JPG",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Korb_mit_Br%C3%B6tchen.JPG/500px-Korb_mit_Br%C3%B6tchen.JPG",
@@ -429,7 +321,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Korb_mit_Br%C3%B6tchen.JPG",
         "aciklama": "Frühstückskorb mit Sesambrötchen, Mehrkornbrötchen, Roggenbrötchen, Schrippe und Krusti",
         "konu": "Ekmek"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1929-baskan-herbert-hoover-ilk-birligin-durumu-mesajini",
@@ -438,10 +331,10 @@
       "konular": [
         "Herbert C. Hoover"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Herbert Hoover'ın İlk Birliğin Durumu Mesajı",
+      "ozet": "Amerika Birleşik Devletleri Başkanı Herbert Hoover, 3 Aralık 1929 tarihinde Kongre'ye hitaben hazırladığı Birliğin Durumu mesajını sözlü bir konuşma yapmak yerine yazılı bir belge olarak iletti. Bu yöntem, o dönem için alışılagelmişin dışında bir uygulama olarak dikkat çekti ve başkanın yasama organıyla iletişim kurma biçiminde bir değişikliği temsil etti. Hoover, bu mesajında ülkenin içinde bulunduğu ekonomik durumu ve yönetiminin önceliklerini detaylandırdı.\n\nHoover'ın başkanlık dönemi, göreve başlamasından kısa bir süre sonra patlak veren Büyük Buhran'ın gölgesinde geçti. Bu mesaj, ekonomik krizin etkilerinin henüz yeni hissedilmeye başlandığı bir dönemde, yönetimin izleyeceği politikaların çerçevesini çizmesi açısından önem taşıyordu. Ancak Hoover'ın krizle mücadele yöntemleri ilerleyen yıllarda kamuoyu tarafından yetersiz bulunacak ve bu durum onun siyasi kariyerini derinden etkileyecekti. Yazılı mesaj geleneği, başkanın mesajını doğrudan halka ve Kongre'ye daha teknik bir dille ulaştırmasına olanak tanısa da, dönemin siyasi atmosferinde Hoover'ın liderlik tarzına dair tartışmaları da beraberinde getirdi.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/President_Hoover_portrait.jpg/960px-President_Hoover_portrait.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/President_Hoover_portrait.jpg/500px-President_Hoover_portrait.jpg",
@@ -454,7 +347,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:President_Hoover_portrait.jpg",
         "aciklama": "US President Herbert C. Hoover in 1928",
         "konu": "Herbert C. Hoover"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1934-dini-kisvelerle-ilgili-yasaklar-ongoren-bazi-kisvelerin",
@@ -475,51 +369,12 @@
         "Zonguldak",
         "maden"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Zonguldak_51.jpg/960px-Zonguldak_51.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Zonguldak_51.jpg/500px-Zonguldak_51.jpg",
-        "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 5333,
-        "yazar": "İncelemeelemani",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Zonguldak_51.jpg",
-        "aciklama": "Zonguldak",
-        "konu": "Zonguldak"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Zonguldak_51.jpg/960px-Zonguldak_51.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Zonguldak_51.jpg/500px-Zonguldak_51.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 5333,
-          "yazar": "İncelemeelemani",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Zonguldak_51.jpg",
-          "aciklama": "Zonguldak",
-          "konu": "Zonguldak"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Anglesite-Galena-249200.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Anglesite-Galena-249200.jpg",
-          "genislik": 700,
-          "yukseklik": 577,
-          "orijinalGenislik": 700,
-          "yazar": "Robert M. Lavinsky",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Anglesite-Galena-249200.jpg",
-          "aciklama": "Anglesite, Galena Locality: Monteponi Mine, Iglesias, Carbonia-Iglesias Province, Sardinia, Italy (Locality at mindat.org) Size: 4.8 x 4.0 x 3.0 cm. Water-clear, glassy anglesite blades to 1.0 cm are ",
-          "konu": "maden"
-        }
-      ]
+      "baslik": "Zonguldak Maden Ocağında Büyük Facia",
+      "ozet": "Türkiye'nin taşkömürü üretim merkezi olan Zonguldak'ta, 3 Aralık 1942 tarihinde yaşanan maden kazası, bölge tarihinin en acı olaylarından biri olarak kayıtlara geçti. Bir maden ocağında meydana gelen göçük veya patlama neticesinde 63 işçi yaşamını yitirdi. Bu elim olay, o dönemde Türkiye'nin sanayileşme hamlesi için hayati önem taşıyan kömür üretiminin ne kadar zorlu ve tehlikeli koşullar altında gerçekleştirildiğini gözler önüne serdi.\n\nZonguldak, sahip olduğu zengin taşkömürü yatakları sayesinde Cumhuriyetin ilk yıllarından itibaren Türkiye'nin enerji ve sanayi ihtiyacını karşılayan en önemli merkezlerden biri olmuştur. Ancak bu yoğun üretim süreci, iş güvenliği standartlarının henüz yeterince gelişmediği o yıllarda sık sık iş kazalarıyla anılmasına neden olmuştur. 1942 yılındaki bu facia, madenlerdeki çalışma koşullarının iyileştirilmesi ve iş güvenliği önlemlerinin artırılması gerekliliğini acı bir şekilde hatırlatan bir dönüm noktası teşkil etmiştir. Olay, hem bölge halkı üzerinde derin bir üzüntüye yol açmış hem de madencilik sektöründeki güvenlik politikalarının sorgulanmasına zemin hazırlamıştır.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1944-yunanistanda-komunistler-ve-kralcilar-arasinda-yunan-ic",
@@ -529,10 +384,10 @@
         "Yunanistan",
         "Yunan İç Savaşı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Yunanistan'da İç Savaşın Başlangıcı",
+      "ozet": "İkinci Dünya Savaşı'nın sonlarına doğru Yunanistan'da siyasi gerilimler zirveye ulaştı. 3 Aralık 1944 tarihinde Atina'da düzenlenen bir gösteri sırasında güvenlik güçleri ile sol görüşlü gruplar arasında yaşanan çatışmalar, ülkede uzun yıllar sürecek olan derin bir iç çatışmanın fitilini ateşledi. Bu olay, Nazi işgalinden yeni kurtulan ülkede iktidar mücadelesinin şiddetli bir boyuta taşınmasına neden oldu.\n\nSöz konusu çatışmalar, Yunanistan'ın savaş sonrası geleceğini belirlemek isteyen farklı ideolojik gruplar arasındaki uçurumu gözler önüne serdi. Bir tarafta monarşiyi ve Batı yanlısı düzeni savunan kralcılar, diğer tarafta ise komünist ideolojiyi benimseyen direniş grupları yer alıyordu. Bu gerilim, ilerleyen yıllarda ülkeyi tamamen etkisi altına alacak olan ve 1949 yılına kadar sürecek olan kapsamlı bir iç savaşa dönüştü. Yunanistan'ın toplumsal yapısında derin izler bırakan bu süreç, ülkenin siyasi istikrarını uzun süre olumsuz etkiledi.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%CE%91%CE%BD%CF%84%CE%AC%CF%81%CF%84%CE%B5%CF%82_%CF%84%CE%BF%CF%85_%CE%95%CE%91%CE%9C-%CE%95%CE%9B%CE%91%CE%A3.jpg/960px-%CE%91%CE%BD%CF%84%CE%AC%CF%81%CF%84%CE%B5%CF%82_%CF%84%CE%BF%CF%85_%CE%95%CE%91%CE%9C-%CE%95%CE%9B%CE%91%CE%A3.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%CE%91%CE%BD%CF%84%CE%AC%CF%81%CF%84%CE%B5%CF%82_%CF%84%CE%BF%CF%85_%CE%95%CE%91%CE%9C-%CE%95%CE%9B%CE%91%CE%A3.jpg/500px-%CE%91%CE%BD%CF%84%CE%AC%CF%81%CF%84%CE%B5%CF%82_%CF%84%CE%BF%CF%85_%CE%95%CE%91%CE%9C-%CE%95%CE%9B%CE%91%CE%A3.jpg",
@@ -545,7 +400,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:%CE%91%CE%BD%CF%84%CE%AC%CF%81%CF%84%CE%B5%CF%82_%CF%84%CE%BF%CF%85_%CE%95%CE%91%CE%9C-%CE%95%CE%9B%CE%91%CE%A3.jpg",
         "aciklama": "Ανταρτοεπονίτες της υποδειγματικής ομάδας-διμοιρίας της ΙΙας Μεραρχίας του ΕΛΑΣ. Πάρνηθα. Δεύτερος από δεξιά ο Σαλβατώρ Μπακόλας, τελευταίος ο Γιώργος Δούσης. () Εκδήλωση και έκθεση στο ΥΠΕΞ για τα 70",
         "konu": "Yunan İç Savaşı"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1944-yunan-ic-savasi-atinada-elas-ile-ingiliz",
@@ -556,23 +412,12 @@
         "Atina",
         "Yunan Halk Kurtuluş Ordusu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/La_fa%C3%A7ade_du_Zapp%C3%A9ion_%28Ath%C3%A8nes%29_%2830177808993%29.jpg/960px-La_fa%C3%A7ade_du_Zapp%C3%A9ion_%28Ath%C3%A8nes%29_%2830177808993%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/La_fa%C3%A7ade_du_Zapp%C3%A9ion_%28Ath%C3%A8nes%29_%2830177808993%29.jpg/500px-La_fa%C3%A7ade_du_Zapp%C3%A9ion_%28Ath%C3%A8nes%29_%2830177808993%29.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 1800,
-        "yazar": "Jean-Pierre Dalbéra from Paris, France",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:La_fa%C3%A7ade_du_Zapp%C3%A9ion_(Ath%C3%A8nes)_(30177808993).jpg",
-        "aciklama": "Le Zappéion est un édifice conçu par l'architecte danois Theophil Hansen et construit entre 1874 et 1888. Il est situé dans le jardin national à proximité du Parlement et de la présidence de la Républ",
-        "konu": "Atina"
-      }
+      "baslik": "Atina'da ELAS ve İngiliz Güçleri Arasında Çatışma",
+      "ozet": "İkinci Dünya Savaşı'nın sonlarına doğru Yunanistan'da yaşanan siyasi gerilim, 3 Aralık 1944 tarihinde Atina'da kanlı bir çatışmaya dönüştü. Nazi işgalinin sona ermesinin ardından ülkede yönetimin kimin elinde olacağı konusundaki belirsizlik, komünist eğilimli ELAS güçleri ile İngiliz ordusu tarafından desteklenen sürgündeki hükümet yanlıları arasında derin bir ayrışma yarattı. Atina sokaklarında düzenlenen bir protesto gösterisi sırasında açılan ateş, taraflar arasındaki çatışmaları tetikleyen kıvılcım oldu. Bu olay, Yunanistan'ın yakın tarihinde derin izler bırakacak olan iç savaş sürecinin en kritik dönüm noktalarından biri olarak kabul edilir. İngilizlerin müdahalesi, ülkedeki siyasi dengeleri sağ kanat lehine çevirirken, komünist direniş örgütleri ile merkezi hükümet arasındaki uçurumu daha da derinleştirdi. Bu çatışmalar, sadece Yunanistan'ın kendi içindeki güç mücadelesini değil, aynı zamanda İkinci Dünya Savaşı sonrası Avrupa'da şekillenmeye başlayan Doğu-Batı bloklaşmasının da ilk somut yansımalarından biri oldu. Olayın ardından yaşanan süreç, Yunanistan'ı yıllar sürecek bir istikrarsızlık ve toplumsal bölünme dönemine sürükledi.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1956-birlesik-krallik-ve-fransa-suveysten-cekileceklerini-acikladilar",
