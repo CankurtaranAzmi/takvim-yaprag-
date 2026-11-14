@@ -1109,7 +1109,7 @@
     "url": "https://tr.wikipedia.org/wiki/20_Kas%C4%B1m",
     "revid": 38170212
   },
-  "guncelleme": "2026-11-13T14:07:49.588Z",
+  "guncelleme": "2026-11-14T13:09:18.821Z",
   "haberler": [
     {
       "id": "2025-haber-2454216",
@@ -1124,16 +1124,28 @@
       },
       "konular": [
         "Suudi Arabistan",
-        "ABD",
-        "Yatırım"
+        "Amerika Birleşik Devletleri",
+        "Ekonomi"
       ],
       "yayin": "2025-11-20T08:52:00+03:00",
       "puan": 11,
       "durum": "yazildi",
-      "baslik": "Suudi Arabistan ve ABD Arasında Büyük Ölçekli Yatırım Anlaşması",
-      "ozet": "Suudi Arabistan Yatırım Bakanı Halid bin Abdulaziz el-Falih, iki ülke arasındaki ticari ilişkilerin kapsamının genişlediğini duyurdu. Bakan, Riyad ile Washington yönetimi arasında imzalanan yeni iş birliği protokollerinin toplam değerinin 557 milyar dolara ulaştığını ifade etti.",
+      "baslik": "Suudi Arabistan ve Amerika Birleşik Devletleri Arasında Büyük Yatırım Anlaşması",
+      "ozet": "Suudi Arabistan Yatırım Bakanı Halid bin Abdulaziz el-Falih, iki ülke arasında gerçekleştirilen iş birliği kapsamında imzalanan sözleşmelerin toplam değerinin 557 milyar dolara ulaştığını duyurdu. Söz konusu anlaşmaların Riyad ve Washington arasındaki ekonomik ortaklığı rekor bir seviyeye taşıdığı belirtildi.",
       "kategori": "Ekonomi",
-      "gorsel": null
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/960px-Luchtfoto_van_Lower_Manhattan.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/500px-Luchtfoto_van_Lower_Manhattan.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 5616,
+        "yazar": "Daniele Pieroni",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Luchtfoto_van_Lower_Manhattan.jpg",
+        "aciklama": "Lower Manhattan gezien vanuit het zuidwesten.",
+        "konu": "Ekonomi"
+      }
     },
     {
       "id": "2025-haber-2454306",
@@ -1265,13 +1277,13 @@
       },
       "konular": [
         "Türkiye Cumhuriyeti Kabinesi",
-        "Türkiye"
+        "Cumhurbaskanligi Külliyesi"
       ],
       "yayin": "2023-11-20T19:42:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Cumhurbaskanligi Kabine Toplantisi Gerceklestirildi",
-      "ozet": "Cumhurbaskanligi Külliyesinde düzenlenen Kabine Toplantisi tamamlandi. Toplantida ülke gündemindeki siyasi ve ekonomik konularin yani sira yürütülen calismalar degerlendirildi. Görüsmelerin ardindan alinan kararlar kamuoyu ile paylasildi.",
+      "baslik": "Cumhurbaskanligi Kabine Toplantisi Gerceklesti",
+      "ozet": "Cumhurbaskanligi Külliyesinde düzenlenen Kabine Toplantisi sona erdi. Toplantida devlet yönetimini ve ülkeyi ilgilendiren güncel meseleler kapsamli bir sekilde ele alindi. Görüsmenin ardindan toplantida alinan kararlara iliskin degerlendirmeler yapildi.",
       "kategori": "Siyaset"
     },
     {
@@ -1734,14 +1746,14 @@
       },
       "konular": [
         "Nazlı Çağla Dönertaş",
-        "Yelken (spor)",
+        "Yelken",
         "Fenerbahçe"
       ],
       "yayin": "2014-11-20T13:53:00+03:00",
       "puan": 8,
       "durum": "elendi",
-      "baslik": "Nazlı Çağla Dönertaş Yelken Dünya Kupası'na Katılacak",
-      "ozet": "Fenerbahçe Spor Kulübü bünyesinde yer alan yelkenci Nazlı Çağla Dönertaş, Dünya Kupası'nda yarışma hakkı elde etti. Yelken Milli Takımı formasıyla mücadele eden başarılı sporcu, organizasyonda ülkesini temsil etmek üzere hazırlıklarına başladı.",
+      "baslik": "Milli yelkenci Nazlı Çağla Dönertaş Dünya Kupası'na katılıyor",
+      "ozet": "Fenerbahçe Kulübü bünyesinde yer alan milli sporcu Nazlı Çağla Dönertaş, yelken branşında Dünya Kupası'nda yarışma hakkı elde etti. Başarılı sporcu, uluslararası organizasyonda Türkiye'yi temsil etmek üzere hazırlıklarına başladı.",
       "kategori": "Spor"
     },
     {
@@ -1786,8 +1798,8 @@
       "yayin": "2013-11-20T10:49:00+03:00",
       "puan": 7,
       "durum": "elendi",
-      "baslik": "Anadolu Ateşi dans akademisi İstanbul şubesi faaliyete geçti",
-      "ozet": "Şişli merkezinde düzenlenen törenle Anadolu Ateşi Dans Akademisi'nin yeni şubesi hizmete açıldı. Genel Sanat Yönetmeni Mustafa Erdoğan, kurumun eğitim faaliyetlerini İstanbul'un yanı sıra Ankara, Antalya ve Gaziantep şehirlerinde de sürdürdüğünü ifade etti.",
+      "baslik": "Anadolu Ateşi Dans Akademisi İstanbul şubesi faaliyete geçti",
+      "ozet": "İstanbul Şişli bölgesinde kurulan yeni dans akademisinin açılışı gerçekleştirildi. Anadolu Ateşi Genel Sanat Yönetmeni Mustafa Erdoğan, düzenlenen törende yaptığı konuşmada kurumun eğitim faaliyetlerini İstanbul ile birlikte Ankara, Antalya ve Gaziantep şehirlerinde sürdürdüğünü ifade etti.",
       "kategori": "Sanat"
     },
     {

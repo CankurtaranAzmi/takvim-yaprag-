@@ -184,10 +184,10 @@
         "Japonya",
         "II. Dünya Savaşı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Amerika Birleşik Devletleri'nin II. Dünya Savaşı'na Girişi",
+      "ozet": "Japon İmparatorluk Deniz Kuvvetleri'nin 7 Aralık 1941 tarihinde Hawaii'deki Pearl Harbor askerî üssüne düzenlediği sürpriz saldırı, Amerika Birleşik Devletleri'nin tarafsızlık politikasını derinden sarstı. Saldırının ertesi günü toplanan ABD Kongresi, Japonya'ya karşı savaş ilan etme kararını onaylayarak ülkenin II. Dünya Savaşı'na resmen katılımını başlattı. Bu karar, küresel çatışmanın seyrini değiştiren en kritik dönüm noktalarından biri oldu.\n\nSaldırı, Pasifik bölgesindeki Amerikan askerî varlığını hedef alarak büyük bir yıkıma yol açmıştı. Kongre'nin aldığı bu hızlı karar, Amerikan kamuoyunun savaşa yönelik tutumunu bir anda değiştirerek ülkeyi topyekûn bir seferberlik sürecine soktu. Bu gelişme, sadece Pasifik Cephesi'nde değil, Avrupa'daki savaşın da kaderini etkileyerek Müttefik Devletler lehine büyük bir askerî ve endüstriyel gücün devreye girmesini sağladı.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/USSArizona_PearlHarbor.jpg/960px-USSArizona_PearlHarbor.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/USSArizona_PearlHarbor.jpg/500px-USSArizona_PearlHarbor.jpg",
@@ -201,34 +201,7 @@
         "aciklama": "The USS Arizona (BB-39) burning after the Japanese attack on Pearl Harbor, 7 December 1941. The ship is resting level on the bottom. The supporting structure for the gun director tripod mast has colla",
         "konu": "Pearl Harbor Saldırısı"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/USSArizona_PearlHarbor.jpg/960px-USSArizona_PearlHarbor.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/USSArizona_PearlHarbor.jpg/500px-USSArizona_PearlHarbor.jpg",
-          "genislik": 960,
-          "yukseklik": 771,
-          "orijinalGenislik": 2961,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:USSArizona_PearlHarbor.jpg",
-          "aciklama": "The USS Arizona (BB-39) burning after the Japanese attack on Pearl Harbor, 7 December 1941. The ship is resting level on the bottom. The supporting structure for the gun director tripod mast has colla",
-          "konu": "Pearl Harbor Saldırısı"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-          "genislik": 400,
-          "yukseklik": 286,
-          "orijinalGenislik": 400,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
-          "aciklama": "Pitched battle at Changde.",
-          "konu": "II. Dünya Savaşı"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1942-vatan-gazetesi-hitler-ve-mihver-devletleri-aleyhtari",
@@ -239,10 +212,10 @@
         "Adolf Hitler",
         "Mihver Devletleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Vatan Gazetesi'nin II. Dünya Savaşı Sırasındaki Kapatılması",
+      "ozet": "Ahmet Emin Yalman tarafından kurulan Vatan gazetesi, II. Dünya Savaşı'nın en yoğun yaşandığı dönemlerden biri olan 1942 yılında, Nazi Almanyası ve Mihver Devletleri aleyhine yürüttüğü sert eleştirel yayınlar nedeniyle hükümet tarafından kapatıldı. Türkiye'nin savaşta tarafsız kalmaya çalıştığı bu hassas dönemde, basının dış politikadaki dengeleri gözetmesi bekleniyordu. Vatan gazetesinin Hitler ve Mihver bloğuna yönelik tavizsiz tutumu, dönemin siyasi atmosferinde ciddi bir gerilime yol açtı. Gazetenin yayınına son verilmesi, Türkiye'nin savaş yıllarındaki basın üzerindeki denetim mekanizmalarının ve dış politika hassasiyetlerinin somut bir örneği olarak tarihe geçti. Bu olay, aynı zamanda Türk basınının savaşın taraflarına karşı takındığı farklı tutumların ve bu tutumların devlet nezdindeki yansımalarının bir göstergesi niteliğindedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Vatan_1940-08-19-0.jpg/960px-Vatan_1940-08-19-0.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Vatan_1940-08-19-0.jpg/500px-Vatan_1940-08-19-0.jpg",
@@ -256,47 +229,7 @@
         "aciklama": "Vatan gazetesinin (1940-1975) ilk sayısının kapak sayfası",
         "konu": "Vatan (gazete, 1940)"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Vatan_1940-08-19-0.jpg/960px-Vatan_1940-08-19-0.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Vatan_1940-08-19-0.jpg/500px-Vatan_1940-08-19-0.jpg",
-          "genislik": 960,
-          "yukseklik": 1368,
-          "orijinalGenislik": 2000,
-          "yazar": "Vatan (gazete, 1940)",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Vatan_1940-08-19-0.jpg",
-          "aciklama": "Vatan gazetesinin (1940-1975) ilk sayısının kapak sayfası",
-          "konu": "Vatan (gazete, 1940)"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/960px-Hitler_portrait_crop.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/500px-Hitler_portrait_crop.jpg",
-          "genislik": 960,
-          "yukseklik": 1278,
-          "orijinalGenislik": 1384,
-          "yazar": "Heinrich Hoffmann",
-          "lisans": "CC BY-SA 3.0 de",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Hitler_portrait_crop.jpg",
-          "aciklama": "1938 portrait photograph of Adolf Hitler",
-          "konu": "Adolf Hitler"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Celebration_of_the_Japan-Germany-Italy-Triparite-Pact_%281940%29_in_Tokio.jpg/960px-Celebration_of_the_Japan-Germany-Italy-Triparite-Pact_%281940%29_in_Tokio.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Celebration_of_the_Japan-Germany-Italy-Triparite-Pact_%281940%29_in_Tokio.jpg/500px-Celebration_of_the_Japan-Germany-Italy-Triparite-Pact_%281940%29_in_Tokio.jpg",
-          "genislik": 960,
-          "yukseklik": 698,
-          "orijinalGenislik": 3000,
-          "yazar": "Unbekannter Fotograf (Foto vom 17. Dezember 1940)",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Celebration_of_the_Japan-Germany-Italy-Triparite-Pact_(1940)_in_Tokio.jpg",
-          "aciklama": "According to the Japanese source, the photo shows Kunihiko Hashida (minister for cultural affaires from 1940 to 1943 in the Konoe and Tōjō Cabinet) and the Mayor of Tokyo, Ōkubo Tomejirō (12 May 1940 ",
-          "konu": "Mihver Devletleri"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1948-birlesmis-milletler-guney-korenin-taninmasini-onayladi",
@@ -374,51 +307,24 @@
         "Tokyo",
         "İsmail Akçay"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İsmail Akçay'ın Tokyo Maratonu Başarısı",
+      "ozet": "Türk atletizminin efsanevi isimlerinden İsmail Akçay, 1968 yılında Japonya'nın başkenti Tokyo'da düzenlenen uluslararası maratonda sergilediği performansla dikkatleri üzerine çekti. Zorlu parkuru başarıyla tamamlayan Akçay, dünya çapındaki atletlerin katıldığı bu prestijli yarışta dördüncü olarak önemli bir derece elde etti. Bu başarı, Türk uzun mesafe koşucularının uluslararası arenada rekabet edebileceğini kanıtlayan dönüm noktalarından biri olarak kabul edilir.\n\nİsmail Akçay, kariyeri boyunca Türkiye'yi pek çok uluslararası organizasyonda başarıyla temsil etmiş ve Türk atletizminin gelişmesine büyük katkı sağlamıştır. 1968 Tokyo Maratonu'ndaki bu derecesi, onun disiplinli çalışma anlayışının ve dayanıklılığının bir göstergesi olmuştur. Akçay'ın bu başarısı, sonraki yıllarda yetişecek Türk atletler için de bir motivasyon kaynağı teşkil etmiş ve Türkiye'nin maraton branşındaki uluslararası görünürlüğünü artırmıştır.",
+      "kategori": "Spor",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/960px-Skyscrapers_of_Shinjuku_2009_January.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/500px-Skyscrapers_of_Shinjuku_2009_January.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Elfde_Internationale_Marathon_Enschede._De_kopgroep_Akcay_%284%29%2C_Steylen_%288%29%2C_Ries%2C_Bestanddeelnr_920-6390.jpg/960px-Elfde_Internationale_Marathon_Enschede._De_kopgroep_Akcay_%284%29%2C_Steylen_%288%29%2C_Ries%2C_Bestanddeelnr_920-6390.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Elfde_Internationale_Marathon_Enschede._De_kopgroep_Akcay_%284%29%2C_Steylen_%288%29%2C_Ries%2C_Bestanddeelnr_920-6390.jpg/500px-Elfde_Internationale_Marathon_Enschede._De_kopgroep_Akcay_%284%29%2C_Steylen_%288%29%2C_Ries%2C_Bestanddeelnr_920-6390.jpg",
         "genislik": 960,
-        "yukseklik": 512,
-        "orijinalGenislik": 2560,
-        "yazar": "Morio",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Skyscrapers_of_Shinjuku_2009_January.jpg",
-        "aciklama": "View of Shinjuku skyscrapers and Mount Fuji as seen from the Bunkyo Civic Center in Tokyo",
-        "konu": "Tokyo"
+        "yukseklik": 633,
+        "orijinalGenislik": 3648,
+        "yazar": "Ben Merk / Anefo",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Elfde_Internationale_Marathon_Enschede._De_kopgroep_Akcay_(4),_Steylen_(8),_Ries,_Bestanddeelnr_920-6390.jpg",
+        "aciklama": "Collectie / Archief : Fotocollectie Anefo Reportage / Serie : [ onbekend ] Beschrijving : Elfde Internationale Marathon Enschede. De kopgroep Akcay (4), Steylen (8), Riesner (5), Newsome (42), Mifune ",
+        "konu": "İsmail Akçay"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/960px-Skyscrapers_of_Shinjuku_2009_January.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/500px-Skyscrapers_of_Shinjuku_2009_January.jpg",
-          "genislik": 960,
-          "yukseklik": 512,
-          "orijinalGenislik": 2560,
-          "yazar": "Morio",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Skyscrapers_of_Shinjuku_2009_January.jpg",
-          "aciklama": "View of Shinjuku skyscrapers and Mount Fuji as seen from the Bunkyo Civic Center in Tokyo",
-          "konu": "Tokyo"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Elfde_Internationale_Marathon_Enschede._De_kopgroep_Akcay_%284%29%2C_Steylen_%288%29%2C_Ries%2C_Bestanddeelnr_920-6390.jpg/960px-Elfde_Internationale_Marathon_Enschede._De_kopgroep_Akcay_%284%29%2C_Steylen_%288%29%2C_Ries%2C_Bestanddeelnr_920-6390.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Elfde_Internationale_Marathon_Enschede._De_kopgroep_Akcay_%284%29%2C_Steylen_%288%29%2C_Ries%2C_Bestanddeelnr_920-6390.jpg/500px-Elfde_Internationale_Marathon_Enschede._De_kopgroep_Akcay_%284%29%2C_Steylen_%288%29%2C_Ries%2C_Bestanddeelnr_920-6390.jpg",
-          "genislik": 960,
-          "yukseklik": 633,
-          "orijinalGenislik": 3648,
-          "yazar": "Ben Merk / Anefo",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Elfde_Internationale_Marathon_Enschede._De_kopgroep_Akcay_(4),_Steylen_(8),_Ries,_Bestanddeelnr_920-6390.jpg",
-          "aciklama": "Collectie / Archief : Fotocollectie Anefo Reportage / Serie : [ onbekend ] Beschrijving : Elfde Internationale Marathon Enschede. De kopgroep Akcay (4), Steylen (8), Riesner (5), Newsome (42), Mifune ",
-          "konu": "İsmail Akçay"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1972-dogan-kologlu-7-5-yil-hapse-mahkum",
@@ -441,23 +347,12 @@
         "Fahri Korutürk",
         "Çetin Altan"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/20240425_132441_Fahri_Koruturk.jpg/960px-20240425_132441_Fahri_Koruturk.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/20240425_132441_Fahri_Koruturk.jpg/500px-20240425_132441_Fahri_Koruturk.jpg",
-        "genislik": 960,
-        "yukseklik": 626,
-        "orijinalGenislik": 1582,
-        "yazar": "HalitBaris",
-        "lisans": "CC0",
-        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:20240425_132441_Fahri_Koruturk.jpg",
-        "aciklama": "Devlet Büyükleri Anıt Mezarlığı'nda Fahri Korutürk'ün kabri.",
-        "konu": "Fahri Korutürk"
-      }
+      "baslik": "Cumhurbaşkanı Korutürk'ten Çetin Altan'a Kısmi Af",
+      "ozet": "Cumhurbaşkanı Fahri Korutürk, 8 Aralık 1973 tarihinde yazar ve gazeteci Çetin Altan'ın aldığı bazı cezaları affetme kararı aldı. Ancak bu af kararı, Altan'ın hüküm giydiği iki yıllık hapis cezasını kapsamadı. Bu gelişme, dönemin siyasi atmosferinde basın özgürlüğü ve fikir suçları tartışmalarının merkezinde yer alan Çetin Altan'ın hukuki durumu açısından önemli bir dönemeç olarak kaydedildi.\n\nÇetin Altan, Türkiye İşçi Partisi milletvekilliği yaptığı dönemden itibaren yazıları ve siyasi duruşu nedeniyle sık sık yargı süreçleriyle karşı karşıya kalmıştı. Dokunulmazlığı kaldırılan ilk milletvekili olma unvanını da taşıyan Altan, Türk basınında edebiyatçı köşe yazarı geleneğinin en önemli isimlerinden biriydi. Cumhurbaşkanlığı makamının kullandığı af yetkisi, o dönemde siyasi mahkumlar ve fikir suçluları üzerindeki baskının bir yansıması olarak kamuoyunda geniş yankı uyandırmıştı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1974-yapilan-plebisit-sonucunda-yunanistan-monarsisi-lagvedildi",
@@ -481,10 +376,10 @@
         "John Lennon",
         "New York"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Müzik Dünyasının İkonu John Lennon Hayatını Kaybetti",
+      "ozet": "The Beatles grubunun kurucularından ve popüler müzik tarihinin en etkili isimlerinden biri olan John Lennon, 8 Aralık 1980 tarihinde New York'ta yaşadığı binanın önünde vurularak öldürüldü. Bu trajik olay, sadece bir sanatçının kaybı olarak değil, aynı zamanda 20. yüzyılın kültürel ikliminde derin bir sarsıntı yaratan bir dönüm noktası olarak tarihe geçti. Lennon, müzikal dehasının yanı sıra barış yanlısı aktivist kimliğiyle de dünya çapında milyonlarca insana ilham veren bir figürdü.\n\nLiverpool'da başlayan müzik kariyerini The Beatles ile zirveye taşıyan Lennon, Paul McCartney ile kurduğu ortaklıkla müzik dünyasında devrim niteliğinde işlere imza attı. Grubun dağılmasının ardından solo kariyerinde de toplumsal meselelere duyarlı, barışçıl ve isyankâr bir duruş sergiledi. Ölümü, dünya genelinde büyük bir yasla karşılandı ve sanatçının mirası, aradan geçen on yıllara rağmen müziği ve savunduğu değerler üzerinden yaşamaya devam etmektedir.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/960px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/500px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg",
@@ -498,34 +393,7 @@
         "aciklama": "Press photo of John Lennon dated to 1974. It was a part of a press kit themed \"Listen to This __\" to promote his album Walls and Bridges. Bottom right reads \"Apple Records by Capitol Records\". No copy",
         "konu": "John Lennon"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/960px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/500px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 1381,
-          "yazar": "Bob Gruen; Distributed by Capitol Records",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_(color)_(cropped).jpg",
-          "aciklama": "Press photo of John Lennon dated to 1974. It was a part of a press kit themed \"Listen to This __\" to promote his album Walls and Bridges. Bottom right reads \"Apple Records by Capitol Records\". No copy",
-          "konu": "John Lennon"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/500px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 8207,
-          "yazar": "Dllu",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg",
-          "aciklama": "View of the Empire State Building in New York City from the Top of the Rock at 30 Rockefeller Plaza during sunset. The tower was illuminated in green in honor of Climate Week NYC.[1]",
-          "konu": "New York"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1980-11-subat-1980de-sol-goruslu-avukat-erdal",
@@ -578,51 +446,12 @@
         "Sovyetler Birliği",
         "Mihail Gorbaçov"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg/960px-Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg/500px-Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1221,
-        "orijinalGenislik": 1208,
-        "yazar": "Pete Souza",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ronald_Reagan_1985_presidential_portrait_(cropped).jpg",
-        "aciklama": "Official portrait photograph of Ronald Reagan, 1985",
-        "konu": "Ronald Reagan"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg/960px-Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg/500px-Ronald_Reagan_1985_presidential_portrait_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1221,
-          "orijinalGenislik": 1208,
-          "yazar": "Pete Souza",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ronald_Reagan_1985_presidential_portrait_(cropped).jpg",
-          "aciklama": "Official portrait photograph of Ronald Reagan, 1985",
-          "konu": "Ronald Reagan"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
-          "genislik": 480,
-          "yukseklik": 640,
-          "orijinalGenislik": 480,
-          "yazar": "RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev.jpg: Vladimir Vyatkin / Владимир Вяткин derivative work: Jbarta",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_(crop).jpg",
-          "aciklama": "“General Secretary of the CPSU CC M. Gorbachev”. General Secretary of the CPSU Central Committee Mikhail Gorbachev speaking at the 20th Congress of the VLKSM. Kremlin Palace of Congresses.",
-          "konu": "Mihail Gorbaçov"
-        }
-      ]
+      "baslik": "Soğuk Savaş'ta Dönüm Noktası: Nükleer Silahsızlanma Antlaşması",
+      "ozet": "Amerika Birleşik Devletleri Başkanı Ronald Reagan ve Sovyetler Birliği lideri Mihail Gorbaçov, 8 Aralık 1987 tarihinde Washington'da bir araya gelerek Orta Menzilli Nükleer Kuvvetler Antlaşması'nı (INF) imzaladılar. Bu tarihi belge, her iki süper gücün elinde bulunan kısa ve orta menzilli nükleer füzelerin tamamen imha edilmesini ve bu tür silahların üretiminin yasaklanmasını öngörüyordu. Antlaşma, Soğuk Savaş döneminin en gergin başlıklarından biri olan nükleer silahlanma yarışında atılmış en somut ve önemli adımlardan biri olarak kabul edildi.\n\nİki liderin bu uzlaşısı, on yıllardır süren nükleer tehdit algısını hafifletmekle kalmadı, aynı zamanda taraflar arasındaki diplomatik ilişkilerde yeni bir dönemin kapısını araladı. Antlaşma, sadece füzelerin imhasını değil, aynı zamanda tarafların birbirlerinin askeri tesislerini denetlemesine olanak tanıyan şeffaf bir mekanizmayı da beraberinde getirdi. Bu gelişme, Soğuk Savaş'ın sona erme sürecini hızlandıran kritik bir diplomatik başarı olarak tarihe geçti ve küresel güvenlik politikalarında silahsızlanma yönünde atılan en cesur adımlardan biri oldu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1991-boris-yeltsin-ile-ukrayna-ve-belarus-cumhuriyetlerinin",
@@ -634,10 +463,10 @@
         "Belarus",
         "Bağımsız Devletler Topluluğu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Sovyetler Birliği'nin Sonu ve Bağımsız Devletler Topluluğu",
+      "ozet": "Rusya Federasyonu Devlet Başkanı Boris Yeltsin, Ukrayna Devlet Başkanı Leonid Kravçuk ve Belarus Yüksek Sovyeti Başkanı Stanislav Şuşkeviç, Belarus'un Belovejskaya Puşça bölgesinde bir araya gelerek Sovyetler Birliği'nin hukuken sona erdiğini ve yerine Bağımsız Devletler Topluluğu'nun (BDT) kurulduğunu duyurdular. Bu tarihi buluşma, 1922'den beri varlığını sürdüren Sovyetler Birliği'nin dağılması sürecindeki en kritik dönüm noktalarından biri olarak kabul edilir.\n\nBelovejskaya Anlaşması olarak da bilinen bu mutabakat, Sovyet cumhuriyetlerinin bağımsızlıklarını kazanma sürecini hızlandırdı ve merkezi otoritenin tamamen çözülmesine yol açtı. BDT, üye devletler arasında ekonomik, siyasi ve askeri iş birliğini sürdürmeyi amaçlayan gevşek bir yapı olarak tasarlandı. Bu olay, Soğuk Savaş döneminin sona ermesinde ve dünya siyasi haritasının yeniden şekillenmesinde belirleyici bir rol oynadı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD-1_%28cropped%29_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD-1_%28cropped%29_%28cropped%29.jpg",
@@ -650,7 +479,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD-1_(cropped)_(cropped).jpg",
         "aciklama": "Official portrait of Boris Yeltsin (Борис Николаевич Ельцин).",
         "konu": "Boris Yeltsin"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1992-tbmm-somaliye-asker-gonderilmesini-kararlastirdi",
@@ -674,23 +504,12 @@
         "Karamay",
         "1994 Karamay yangını"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Pheasant2.jpg/960px-Pheasant2.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Pheasant2.jpg/500px-Pheasant2.jpg",
-        "genislik": 960,
-        "yukseklik": 743,
-        "orijinalGenislik": 1826,
-        "yazar": "User Snowyowls on zh.wikipedia",
-        "lisans": "CC BY-SA 1.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/1.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Pheasant2.jpg",
-        "aciklama": "Elliot's Pheasant Syrmaticus ellioti",
-        "konu": "Karamay"
-      }
+      "baslik": "Karamay Dostluk Tiyatrosu Yangını",
+      "ozet": "Çin'in Sincan Uygur Özerk Bölgesi'nde yer alan Karamay kentindeki Dostluk Tiyatrosu'nda 8 Aralık 1994 tarihinde meydana gelen yangın, ülkenin modern tarihindeki en trajik felaketlerden biri olarak kayıtlara geçti. Bir okul etkinliği sırasında gerçekleşen olayda, tiyatro salonunda bulunan yaklaşık 1000 öğrenci ve öğretmen mahsur kaldı. Alevlerin hızla yayılması sonucu 288'i çocuk olmak üzere toplam 325 kişi yaşamını yitirdi.\n\nYangın, sadece can kaybının büyüklüğüyle değil, sonrasında ortaya çıkan ihmallerle de büyük bir toplumsal infiale yol açtı. Olay sırasında öğrencilere ve öğretmenlere, tiyatroda bulunan yerel Komünist Parti yetkililerinin tahliyesine öncelik tanınması amacıyla yerlerinde kalmaları yönünde talimat verildiği iddia edildi. Bu durum, kurtarma çalışmalarındaki yönetim zafiyetini ve yetkililerin tutumunu tartışmaya açarak Çin kamuoyunda derin bir öfke ve eleştiri dalgası yarattı.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1995-kamu-emekcileri-sendikalari-konfederasyonu-kuruldu",
@@ -716,23 +535,12 @@
         "Van",
         "Fethullah Erbaş"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/960px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG/500px-Ho%C5%9Fap_Kalesi_%28Van%2C_T%C3%BCrkiye%29.JPG",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 2560,
-        "yazar": "Mevlüt Kılıç",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ho%C5%9Fap_Kalesi_(Van,_T%C3%BCrkiye).JPG",
-        "aciklama": "Hoşap Kalesi (Van, Türkiye)",
-        "konu": "Van"
-      }
+      "baslik": "Rehin Tutulan Askerlerin Serbest Bırakılması",
+      "ozet": "PKK tarafından alıkonulan 6 Türk askeri, 8 Aralık 1996 tarihinde Kuzey Irak'ın Zap bölgesinde bulunan bir kampta serbest bırakıldı. Askerlerin teslim alınması süreci, Refah Partisi Van Milletvekili Fethullah Erbaş, İnsan Hakları Derneği Genel Başkanı Akın Birdal ve Mazlum-Der İzmir Şube Başkanı Halit Çelik'ten oluşan bir heyetin yürüttüğü diplomatik girişimler sonucunda gerçekleşti. Bu olay, o dönemde Türkiye'nin iç siyasetinde ve güvenlik gündeminde önemli bir yer tutan rehine krizlerinden biri olarak kayıtlara geçti. Heyet üyeleri, askerleri teslim alarak Türkiye'ye getirmek üzere bölgeye gitmiş ve bu süreç kamuoyunda geniş yankı uyandırmıştı. Söz konusu teslimat, dönemin siyasi atmosferinde sivil toplum kuruluşlarının ve siyasetçilerin çatışma ortamındaki insani krizlere müdahil olma çabalarının bir örneği olarak değerlendirildi.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "2003-erdogan-tezic-cumhurbaskani-ahmet-necdet-sezer-tarafindan",
@@ -743,10 +551,10 @@
         "Ahmet Necdet Sezer",
         "Yükseköğretim Kurulu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Erdoğan Teziç Yükseköğretim Kurulu Başkanlığına Atandı",
+      "ozet": "Anayasa hukuku alanındaki çalışmalarıyla tanınan akademisyen Erdoğan Teziç, 2003 yılının Aralık ayında Yükseköğretim Kurulu Başkanlığı görevine getirildi. Cumhurbaşkanı Ahmet Necdet Sezer tarafından yapılan bu atama, Türkiye'deki üniversitelerin idari ve akademik yapısını denetleyen kurumun yönetiminde yeni bir dönemin başlangıcını temsil ediyordu. Teziç, bu görevi üstlenmeden önce Galatasaray Üniversitesi Rektörlüğü ve Galatasaray Lisesi Müdürlüğü gibi önemli eğitim kurumlarında idari sorumluluklar üstlenmiş, hukuk dünyasında saygın bir yere sahip bir isimdi.\n\nTeziç'in YÖK başkanlığı dönemi, Türkiye'de yükseköğretim politikalarının tartışıldığı ve üniversite özerkliği ile merkezi denetim arasındaki dengelerin sıkça gündeme geldiği bir sürece denk geldi. Hukukçu kimliğiyle akademik özgürlükler ve anayasal düzen konularında görüşleriyle öne çıkan Teziç, görev süresi boyunca kurumun işleyişine dair çeşitli düzenlemelerde bulundu. Türk eğitim sisteminin en kritik kurumlarından birinin başında yer alan Teziç, akademik kariyeri boyunca hukuk eğitimi ve anayasa hukuku üzerine verdiği eserlerle de Türk hukuk literatürüne önemli katkılar sağlamıştır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Ahmet_Necdet_Sezer.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Ahmet_Necdet_Sezer.jpg",
@@ -759,7 +567,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ahmet_Necdet_Sezer.jpg",
         "aciklama": "O presidente da Turquia Ahmet Necdet Sezer.",
         "konu": "Ahmet Necdet Sezer"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "2004-ohio-eyaletindeki-damageplan-konserinde-dimebag-darrell-darrell",
@@ -769,10 +578,10 @@
         "Ohio",
         "Dimebag Darrell"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Metal Müziğin Efsanesi Dimebag Darrell'ın Trajik Ölümü",
+      "ozet": "Pantera grubunun kurucularından ve metal müziğin en etkili gitaristlerinden biri olarak kabul edilen Dimebag Darrell, Damageplan grubuyla sahne aldığı sırada Nathan Gale adlı bir saldırgan tarafından vurularak öldürüldü. Columbus'taki bir gece kulübünde gerçekleşen bu saldırı, müzik dünyasında büyük bir şok etkisi yarattı ve konser güvenliği konusundaki tartışmaları yeniden alevlendirdi. Saldırganın olay yerinde etkisiz hale getirilmesiyle son bulan bu trajik olay, metal müzik camiasında derin bir üzüntüye yol açtı.\n\nDarrell Lance Abbott, kariyeri boyunca geliştirdiği özgün gitar teknikleri ve sert riffleriyle modern metal müziğin şekillenmesinde önemli bir rol oynamıştı. Pantera ile elde ettiği küresel başarı, onu neslinin en yetenekli gitaristlerinden biri haline getirmişti. Ölümü, sadece bir müzisyenin kaybı olarak değil, aynı zamanda sahne sanatlarının icra edildiği mekanların güvenliği ve sanatçıların korunması noktasında bir dönüm noktası olarak tarihe geçti.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Dimebag_Darrell_with_Pantera.jpg/960px-Dimebag_Darrell_with_Pantera.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Dimebag_Darrell_with_Pantera.jpg/500px-Dimebag_Darrell_with_Pantera.jpg",
@@ -785,7 +594,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Dimebag_Darrell_with_Pantera.jpg",
         "aciklama": "Dimebag Darrell with Pantera live at The Bayou in Georgetown, Washington, DC, on the Cowboys from Hell tour.",
         "konu": "Dimebag Darrell"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "2004-cusco-sehrinde-imzalanan-cusco-deklarasyonu-ile-guney",
@@ -810,23 +620,12 @@
         "Bağdat",
         "2009 Aralık Bağdad bombalı saldırısı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/5628442718_b10fc2c47f_o.jpg/960px-5628442718_b10fc2c47f_o.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/5628442718_b10fc2c47f_o.jpg/500px-5628442718_b10fc2c47f_o.jpg",
-        "genislik": 960,
-        "yukseklik": 630,
-        "orijinalGenislik": 2000,
-        "yazar": "USACE HQ , JIM GORDAN, CIV, USACE",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:5628442718_b10fc2c47f_o.jpg",
-        "aciklama": "This is an aerial view of the former Republican Palace (foreground), which served as both the prime ceremonial palace used by Saddam Hussein and the Headquarters for the now defunct Iraqi Republican G",
-        "konu": "Bağdat"
-      }
+      "baslik": "Bağdat'ta Kanlı Saldırı Dizisi",
+      "ozet": "Irak'ın başkenti Bağdat, 8 Aralık 2009 tarihinde eş zamanlı olarak gerçekleştirilen bir dizi bombalı saldırıyla sarsıldı. Şehrin farklı noktalarında patlatılan bombalar, özellikle kamu binalarını ve yoğun bölgeleri hedef alarak büyük bir yıkıma yol açtı. Saldırılar sonucunda 127 sivil hayatını kaybederken, 448 kişi çeşitli derecelerde yaralandı. Olay, bölgedeki güvenlik zafiyetlerini ve istikrarsızlığı bir kez daha gözler önüne serdi.\n\nSöz konusu saldırılar, 2003 yılındaki işgalin ardından Irak'ta süregelen şiddet sarmalının en ağır bilançolarından biri olarak kayıtlara geçti. Ülke genelinde mezhepsel gerilimlerin ve siyasi belirsizliğin tırmandığı bir dönemde gerçekleşen bu eylemler, halk üzerinde derin bir korku ve güvensizlik ortamı yarattı. Saldırıların ardından güvenlik önlemleri artırılsa da, bu tür büyük çaplı terör eylemleri Irak'ın yeniden inşası ve toplumsal barışın tesisi önündeki en büyük engellerden biri olmaya devam etti.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "2019-cinde-ilk-covid-19-vakasi-dogrulandi",
@@ -852,64 +651,24 @@
         "Beşşar Esad",
         "Esad rejiminin çöküşü"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Suriye'de Esad Rejiminin Sonu ve Şam'ın Düşüşü",
+      "ozet": "Suriye'de 2011 yılından bu yana devam eden iç karışıklıklar ve çatışmalar, 8 Aralık 2024 tarihinde tarihi bir dönüm noktasına ulaştı. Hey'etu Tahrîri'ş-Şâm ve çeşitli muhalif grupların 27 Kasım'da başlattığı geniş çaplı askerî harekât, kısa sürede ülkenin stratejik noktalarında kontrolün el değiştirmesine yol açtı. Muhalif güçlerin kuzeyden ve güneyden başkent Şam'a doğru ilerleyişi karşısında Suriye Arap Ordusu'nun savunma hatları çözüldü ve isyancı birlikler şehrin merkezine giriş yaptı. Bu hızlı ilerleyiş, on yıllardır süren Baas yönetimi için sonun başlangıcı oldu.\n\nBaşkentteki kontrolün kaybedilmesiyle birlikte Devlet Başkanı Beşşar Esad'ın ülkeyi terk ettiği bildirildi. Rus kaynakları, Esad'ın ailesiyle birlikte Moskova'ya geçerek sığınma hakkı elde ettiğini duyurdu. 1971 yılından bu yana Hafız Esad ve ardından oğlu Beşşar Esad tarafından yönetilen Suriye'de, bu olayla birlikte yarım asrı aşan iktidar dönemi resmen sona ermiş oldu. Bölgedeki siyasi dengeleri kökten değiştiren bu gelişme, Suriye'nin geleceği üzerinde yeni bir belirsizlik ve geçiş süreci başlatırken, uluslararası kamuoyunda da geniş yankı uyandırdı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Northwestern_Syria_offensive_%282024%29.jpg/960px-Northwestern_Syria_offensive_%282024%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Northwestern_Syria_offensive_%282024%29.jpg/500px-Northwestern_Syria_offensive_%282024%29.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Syrian_rebels_in_Aleppo%2C_30_November_2024.png/960px-Syrian_rebels_in_Aleppo%2C_30_November_2024.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Syrian_rebels_in_Aleppo%2C_30_November_2024.png/500px-Syrian_rebels_in_Aleppo%2C_30_November_2024.png",
         "genislik": 960,
-        "yukseklik": 865,
-        "orijinalGenislik": 10164,
-        "yazar": "Ecrusized",
-        "lisans": "CC0",
-        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Northwestern_Syria_offensive_(2024).jpg",
-        "aciklama": "Map of Northwestern Syria offensive (2024)",
-        "konu": "2024 Suriyeli muhaliflerin taarruzu"
+        "yukseklik": 588,
+        "orijinalGenislik": 1180,
+        "yazar": "Voice of America",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Syrian_rebels_in_Aleppo,_30_November_2024.png",
+        "aciklama": "Syrian rebels gather around an equestrian statue of Bassel al-Assad at Al-Basel roundabout, western Aleppo, during the 2024 Battle of Aleppo. The statue was torn down later that day.",
+        "konu": "Esad rejiminin çöküşü"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Northwestern_Syria_offensive_%282024%29.jpg/960px-Northwestern_Syria_offensive_%282024%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Northwestern_Syria_offensive_%282024%29.jpg/500px-Northwestern_Syria_offensive_%282024%29.jpg",
-          "genislik": 960,
-          "yukseklik": 865,
-          "orijinalGenislik": 10164,
-          "yazar": "Ecrusized",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Northwestern_Syria_offensive_(2024).jpg",
-          "aciklama": "Map of Northwestern Syria offensive (2024)",
-          "konu": "2024 Suriyeli muhaliflerin taarruzu"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bashar_al-Assad_in_May_2024.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bashar_al-Assad_in_May_2024.png",
-          "genislik": 481,
-          "yukseklik": 649,
-          "orijinalGenislik": 481,
-          "yazar": "khamenei.ir",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bashar_al-Assad_in_May_2024.png",
-          "aciklama": "Bashar al-Assad in May 2024",
-          "konu": "Beşşar Esad"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Syrian_rebels_in_Aleppo%2C_30_November_2024.png/960px-Syrian_rebels_in_Aleppo%2C_30_November_2024.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Syrian_rebels_in_Aleppo%2C_30_November_2024.png/500px-Syrian_rebels_in_Aleppo%2C_30_November_2024.png",
-          "genislik": 960,
-          "yukseklik": 588,
-          "orijinalGenislik": 1180,
-          "yazar": "Voice of America",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Syrian_rebels_in_Aleppo,_30_November_2024.png",
-          "aciklama": "Syrian rebels gather around an equestrian statue of Bassel al-Assad at Al-Basel roundabout, western Aleppo, during the 2024 Battle of Aleppo. The statue was torn down later that day.",
-          "konu": "Esad rejiminin çöküşü"
-        }
-      ]
+      "bolge": "dunya"
     }
   ],
   "dogumlar": [
