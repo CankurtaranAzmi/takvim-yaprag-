@@ -11,10 +11,10 @@
         "Fransa",
         "Madrid"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Napolyon'un Madrid'e Girişi ve Yarımada Savaşı",
+      "ozet": "Napolyon Bonapart, Avrupa'daki hakimiyetini pekiştirmek amacıyla başlattığı askeri harekatlar kapsamında 1808 yılının Aralık ayında İspanya'nın başkenti Madrid'e girdi. Fransız ordusunun şehre girişi, İspanya'da uzun yıllar sürecek olan ve Napolyon'un askeri gücünü ciddi şekilde yıpratan Yarımada Savaşı'nın en kritik dönemeçlerinden biri olarak kabul edilir. Bu olay, İspanya'daki Bourbon hanedanının devrilmesi ve Napolyon'un kardeşi Joseph Bonaparte'ın tahta geçirilmesiyle tetiklenen toplumsal ve siyasi huzursuzluğun bir sonucuydu.\n\nMadrid'in düşüşü, İspanyol halkı arasında Fransız işgaline karşı büyük bir direnişin fitilini ateşledi. Napolyon'un Avrupa genelinde uyguladığı liberal reformlar ve merkeziyetçi yönetim anlayışı, İspanya'da halkın geleneksel değerleri ve bağımsızlık arzusuyla çatıştı. Bu işgal, sadece askeri bir zafer değil, aynı zamanda Napolyon'un Avrupa'daki mutlak otoritesinin sorgulanmaya başlandığı ve gerilla savaşlarının yoğunlaştığı bir sürecin başlangıcı oldu. İspanya'daki bu uzun süreli çatışmalar, Napolyon'un ilerleyen yıllardaki nihai yenilgisine giden yolda önemli bir yıpratma unsuru olarak tarihe geçti.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/960px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/500px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
@@ -28,34 +28,7 @@
         "aciklama": null,
         "konu": "Napolyon Bonapart"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/960px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/500px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
-          "genislik": 960,
-          "yukseklik": 1363,
-          "orijinalGenislik": 1357,
-          "yazar": "Antoine-Jean Gros",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
-          "aciklama": null,
-          "konu": "Napolyon Bonapart"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Plaza_Mayor_De_Madrid_%28215862629%29_edited.jpeg/960px-Plaza_Mayor_De_Madrid_%28215862629%29_edited.jpeg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Plaza_Mayor_De_Madrid_%28215862629%29_edited.jpeg/500px-Plaza_Mayor_De_Madrid_%28215862629%29_edited.jpeg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 1817,
-          "yazar": "Francisco Anzola",
-          "lisans": "CC BY 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Plaza_Mayor_De_Madrid_(215862629)_edited.jpeg",
-          "aciklama": "500px provided description: Plaza Mayor De Madrid [#sky ,#city ,#street ,#travel ,#old ,#tourism ,#tourist ,#urban ,#architecture ,#building ,#square ,#town ,#castle ,#panoramic ,#outdoors ,#horizonta",
-          "konu": "Madrid"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1863-santiago-sili-de-bulunan-iglesia-de-la",
@@ -65,23 +38,12 @@
         "Santiago, Şili",
         "Şili"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Palacio_de_La_Moneda_-_miguelreflex.jpg/960px-Palacio_de_La_Moneda_-_miguelreflex.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Palacio_de_La_Moneda_-_miguelreflex.jpg/500px-Palacio_de_La_Moneda_-_miguelreflex.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 4272,
-        "yazar": "Miguel hernandez",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Palacio_de_La_Moneda_-_miguelreflex.jpg",
-        "aciklama": "La Moneda",
-        "konu": "Santiago, Şili"
-      }
+      "baslik": "Santiago'da Büyük Kilise Yangını",
+      "ozet": "Şili'nin başkenti Santiago'da 1863 yılının Aralık ayında meydana gelen Iglesia de la Compañía yangını, ülke tarihinin en trajik olaylarından biri olarak kayıtlara geçmiştir. Dini bir tören sırasında başlayan yangın, kilisenin ahşap yapısı ve o dönemdeki yetersiz güvenlik önlemleri nedeniyle hızla kontrolden çıkmıştır. İçeride bulunan binlerce kişinin dışarı çıkmakta zorlanması sonucunda, çoğu kadın ve çocuklardan oluşan 2000'den fazla insan hayatını kaybetmiştir. Bu felaket, Şili toplumunda derin bir yara açmış ve büyük bir yas dönemine neden olmuştur.\n\nYangının ardından bölge, yaşanan acı kaybın anısına bir anıt alanı haline getirilmiştir. Bu olay, sadece Şili'de değil, dünya genelinde kamuya açık binalarda yangın güvenliği ve tahliye prosedürlerinin yeniden değerlendirilmesi açısından bir dönüm noktası teşkil etmiştir. Felaketin büyüklüğü, mimari yapılarda yanmaz malzeme kullanımı ve acil çıkış kapılarının önemi gibi konularda modern güvenlik standartlarının geliştirilmesine yönelik toplumsal bir farkındalık yaratmıştır.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1868-ilk-isikli-trafik-lambalari-londrada-kullanilmaya-baslandi",
@@ -90,23 +52,12 @@
       "konular": [
         "Londra"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/500px-London_Skyline_%28125508655%29.jpeg",
-        "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 2048,
-        "yazar": "Ilya Grigorik",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg",
-        "aciklama": "500px provided description: London Skyline [#sunset ,#architecture ,#cityscape ,#london ,#uk ,#skyline ,#financial district ,#thames ,#london bridge ,#london shard]",
-        "konu": "Londra"
-      }
+      "baslik": "Dünyanın İlk Trafik Lambası Londra'da Kuruldu",
+      "ozet": "Londra'da Parlamento binasının yakınındaki bir kavşağa yerleştirilen ilk ışıklı trafik sinyalizasyon sistemi, 1868 yılının Aralık ayında faaliyete geçti. Demiryolu mühendisi John Peake Knight tarafından tasarlanan bu sistem, gaz lambalarıyla çalışıyor ve gece saatlerinde kırmızı ve yeşil ışıklar yayarak atlı arabaların geçişini düzenlemeyi amaçlıyordu. Bir polis memuru tarafından manuel olarak kontrol edilen bu düzenek, modern trafik yönetiminin ilk somut adımı olarak kabul edilmektedir. Ancak sistemin kullanımı oldukça kısa süreli oldu; kısa bir süre sonra meydana gelen bir gaz sızıntısı ve patlama sonucunda bir polis memurunun yaralanması üzerine uygulama durduruldu. Bu talihsiz kaza, trafik ışıklarının yaygınlaşmasını yaklaşık elli yıl kadar geciktirdi. Buna rağmen, bu girişim şehir içi ulaşımın karmaşıklaşan yapısına karşı geliştirilen ilk teknolojik çözüm olması bakımından ulaşım tarihinde önemli bir dönüm noktasıdır. Günümüzde kullandığımız elektrikli ve otomatik trafik ışıkları, bu ilk denemenin temel prensipleri üzerine inşa edilmiştir.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1869-birinci-vatikan-konsili-acildi",
@@ -142,10 +93,10 @@
         "V. Gustav",
         "İsveç monarşisi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İsveç Kralı V. Gustav'ın Tahta Çıkışı",
+      "ozet": "İsveç Kralı II. Oscar'ın 1907 yılında hayatını kaybetmesiyle birlikte, en büyük oğlu V. Gustav İsveç tahtının yeni sahibi oldu. 1950 yılındaki vefatına kadar sürecek olan uzun saltanatı, İsveç monarşisinin modernleşme sürecinde kritik bir döneme denk geldi. V. Gustav, İsveç tarihinde devlet yönetimine doğrudan müdahil olan son hükümdar olarak kabul edilmektedir. Saltanatı boyunca hem iç siyasetteki savunma bütçesi tartışmalarıyla hem de I. ve II. Dünya Savaşı gibi küresel krizlerin getirdiği diplomatik zorluklarla mücadele etti. Özellikle I. Dünya Savaşı sırasında Alman yanlısı bir tutum sergilemesi, dönemin siyasi atmosferinde dikkat çeken bir unsur olmuştur. Bununla birlikte, tutucu kişiliğine rağmen işçi hakları ve demokratikleşme adımlarına karşı ılımlı bir yaklaşım sergilemesi, onun yönetim tarzının karmaşık yapısını ortaya koymaktadır. II. Dünya Savaşı yıllarında ise barışçıl girişimlerde bulunarak uluslararası arenada diplomatik bir denge kurmaya çalışmıştır. V. Gustav'ın 43 yıl süren krallığı, İsveç'in mutlak monarşiden parlamenter sisteme geçişindeki dönüşümün önemli bir parçası olarak tarihe geçmiştir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Gustaf_V_f%C3%A4rgfoto.jpg/960px-Gustaf_V_f%C3%A4rgfoto.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Gustaf_V_f%C3%A4rgfoto.jpg/500px-Gustaf_V_f%C3%A4rgfoto.jpg",
@@ -158,7 +109,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Gustaf_V_f%C3%A4rgfoto.jpg",
         "aciklama": "King Gustav V of Sweden (1858-1950).",
         "konu": "V. Gustav"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1936-nikaraguada-anastasio-somoza-cumhurbaskani-secildi",
