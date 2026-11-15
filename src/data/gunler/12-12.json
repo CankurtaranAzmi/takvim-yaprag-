@@ -13,10 +13,10 @@
         "Sasani İmparatorluğu",
         "II. Hüsrev"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Bizans ve Sasani Savaşlarının Dönüm Noktası: Ninova Muharebesi",
+      "ozet": "Ninova Muharebesi, 602-628 yılları arasında süren uzun ve yıkıcı Bizans-Sasani savaşlarının en kritik kırılma noktasını oluşturur. İmparator Herakleios, Mezopotamya topraklarında Sasani ordusuna karşı kazandığı bu zaferle, imparatorluğunun varlığını tehdit eden en büyük gücü saf dışı bırakmayı başardı. Bu muharebe, Bizans'ın Orta Doğu'daki eski sınırlarına yeniden ulaşmasını sağlayan stratejik bir başarı olarak tarihe geçti.\n\nSavaşın ardından Sasani İmparatorluğu içerisinde derin bir siyasi istikrarsızlık ve iç karışıklık dönemi başladı. Bu durum, Sasani devletinin merkezi otoritesini zayıflatarak imparatorluğun çöküş sürecini hızlandırdı. Ancak Bizans için bu zaferin getirdiği prestij ve toprak kazanımları uzun ömürlü olmadı. Kısa bir süre sonra Arabistan'dan yükselen Râşidîn Halifeliği'nin fetihleri, her iki imparatorluğu da yeni ve çok daha büyük bir varoluşsal tehditle karşı karşıya bıraktı.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Histoire_de_la_guerre_sainte_de_Guilaume_de_Tyr_-_BNF_Fr2824_f1r_%28bataille_de_Ninive%29.jpg/960px-Histoire_de_la_guerre_sainte_de_Guilaume_de_Tyr_-_BNF_Fr2824_f1r_%28bataille_de_Ninive%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Histoire_de_la_guerre_sainte_de_Guilaume_de_Tyr_-_BNF_Fr2824_f1r_%28bataille_de_Ninive%29.jpg/500px-Histoire_de_la_guerre_sainte_de_Guilaume_de_Tyr_-_BNF_Fr2824_f1r_%28bataille_de_Ninive%29.jpg",
@@ -30,47 +30,7 @@
         "aciklama": "Miniature de frontispice ajoutée à un manuscrit du XIIIe siècle. Manuscrit ayant appartenu à Jean et Charles d'Angoulême",
         "konu": "Ninova Muharebesi (627)"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Histoire_de_la_guerre_sainte_de_Guilaume_de_Tyr_-_BNF_Fr2824_f1r_%28bataille_de_Ninive%29.jpg/960px-Histoire_de_la_guerre_sainte_de_Guilaume_de_Tyr_-_BNF_Fr2824_f1r_%28bataille_de_Ninive%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Histoire_de_la_guerre_sainte_de_Guilaume_de_Tyr_-_BNF_Fr2824_f1r_%28bataille_de_Ninive%29.jpg/500px-Histoire_de_la_guerre_sainte_de_Guilaume_de_Tyr_-_BNF_Fr2824_f1r_%28bataille_de_Ninive%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1497,
-          "orijinalGenislik": 3768,
-          "yazar": "Robinet Testard",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Histoire_de_la_guerre_sainte_de_Guilaume_de_Tyr_-_BNF_Fr2824_f1r_(bataille_de_Ninive).jpg",
-          "aciklama": "Miniature de frontispice ajoutée à un manuscrit du XIIIe siècle. Manuscrit ayant appartenu à Jean et Charles d'Angoulême",
-          "konu": "Ninova Muharebesi (627)"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Heraclius_solidus.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Heraclius_solidus.jpg",
-          "genislik": 717,
-          "yukseklik": 717,
-          "orijinalGenislik": 717,
-          "yazar": "Classical Numismatic Group",
-          "lisans": "CC BY-SA 2.5",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Heraclius_solidus.jpg",
-          "aciklama": "Solidus of Heraclius, minted 610-613",
-          "konu": "Herakleios"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/KhosrauIIGoldCoinCroppedHistoryofIran.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/KhosrauIIGoldCoinCroppedHistoryofIran.jpg",
-          "genislik": 400,
-          "yukseklik": 389,
-          "orijinalGenislik": 400,
-          "yazar": "Classical Numismatic Group; [1]",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:KhosrauIIGoldCoinCroppedHistoryofIran.jpg",
-          "aciklama": "Coin of Khosrau II, an Sasanian king.",
-          "konu": "II. Hüsrev"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1870-guney-karolinali-joseph-h-rainey-amerika-birlesik",
@@ -96,10 +56,10 @@
         "Johann Waaler",
         "ataş"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Modern Ofislerin Vazgeçilmezi: Ataşın İcadı",
+      "ozet": "Norveçli mucit Johann Waaler, 1900 yılının bugünlerinde kağıtları birbirine tutturmak için geliştirdiği metal tel tasarımının patentini alarak ofis hayatında devrim niteliğinde bir kolaylığın öncüsü oldu. İki halka oluşturan basit ama işlevsel yapısıyla dikkat çeken bu tasarım, günümüzde hala kullanılan temel formunu o günden bu yana neredeyse hiç değiştirmeden korumayı başardı. Ataşın icadından önce kağıtları bir arada tutmak için kullanılan iğneler, hem kağıtlara zarar veriyor hem de kullanım sırasında yaralanmalara yol açabiliyordu. Waaler'in geliştirdiği bu pratik çözüm, kağıtları delmeden veya yırtmadan bir arada tutma imkanı sunarak kısa sürede dünya genelinde standart bir ofis malzemesi haline geldi. Bugün basit bir kırtasiye ürünü olarak görülse de ataş, modern çalışma düzeninin en temel ve en uzun ömürlü icatlarından biri olarak kabul edilmektedir. Öyle ki, icadın anısını yaşatmak amacıyla 1989 yılında Oslo'da yedi metre yüksekliğinde dev bir ataş heykeli inşa edilmiştir.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/B%C3%BCroklammern_--_2021_--_6481.jpg/960px-B%C3%BCroklammern_--_2021_--_6481.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/B%C3%BCroklammern_--_2021_--_6481.jpg/500px-B%C3%BCroklammern_--_2021_--_6481.jpg",
@@ -112,7 +72,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:B%C3%BCroklammern_--_2021_--_6481.jpg",
         "aciklama": "Colorful paper clips",
         "konu": "ataş"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1901-italyan-mucit-guglielmo-marconi-telsiz-telgraf-sistemini-gelistirdi",
@@ -124,10 +85,10 @@
         "Birleşik Krallık",
         "Atlantik"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Radyo İletişiminde Devrim: İlk Atlantik Aşırı Mesaj",
+      "ozet": "İtalyan mucit Guglielmo Marconi, 12 Aralık 1901 tarihinde İngiltere'nin Cornwall bölgesinden gönderdiği sinyalin Kanada'nın Newfoundland kıyılarında alınmasını sağlayarak tarihte bir ilki gerçekleştirdi. Bu başarı, o güne kadar imkansız olduğu düşünülen okyanus aşırı kablosuz iletişimin mümkün olduğunu kanıtladı. Marconi, bu deneyi gerçekleştirmek için yüksek frekanslı radyo dalgalarını kullanarak devasa bir anten sistemi kurmuş ve dönemin bilim dünyasında büyük bir yankı uyandırmıştı.\n\nBu olay, modern telekomünikasyonun ve radyo teknolojisinin gelişiminde bir dönüm noktası kabul edilir. Marconi'nin çalışmaları, kablolu telgrafın sınırlamalarını ortadan kaldırarak bilginin kıtalar arasında anlık olarak iletilmesinin önünü açtı. Bu teknolojik atılım, denizcilikten askeri haberleşmeye kadar pek çok alanda köklü değişikliklere yol açtı. Marconi, bu çalışmalarıyla 1909 yılında Nobel Fizik Ödülü'ne layık görülmüş ve radyonun ticari bir başarıya dönüşmesinde öncü bir rol oynamıştır.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Guglielmo_Marconi.jpg/960px-Guglielmo_Marconi.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Guglielmo_Marconi.jpg/500px-Guglielmo_Marconi.jpg",
@@ -140,7 +101,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Guglielmo_Marconi.jpg",
         "aciklama": "Guglielmo Marconi, portrait, head and shoulders, facing left.",
         "konu": "Guglielmo Marconi"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1911-hindistanin-baskenti-kalkuta-yerine-delhi-oldu",
@@ -151,51 +113,24 @@
         "Kalküta",
         "Delhi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Hindistan'ın Başkenti Kalküta'dan Delhi'ye Taşındı",
+      "ozet": "Britanya Kralı V. George, 12 Aralık 1911 tarihinde düzenlenen Delhi Durbarı sırasında Hindistan'ın başkentinin Kalküta'dan Delhi'ye taşınacağını resmen ilan etti. Bu karar, İngiliz sömürge yönetiminin idari merkezini ülkenin daha merkezi bir noktasına taşıma arzusunu yansıtıyordu. Kalküta, Doğu Hindistan Şirketi döneminden beri İngiliz hakimiyetinin ana üssü ve ticaret merkezi konumundaydı ancak artan milliyetçi hareketler ve şehrin coğrafi konumu, yönetimi daha stratejik bir noktaya kaydırma ihtiyacını doğurmuştu.\n\nDelhi, tarih boyunca Babür İmparatorluğu gibi birçok büyük devletin merkezi olmuş, stratejik ve sembolik önemi yüksek bir şehirdi. Başkentin buraya taşınması, İngiliz yönetiminin Hindistan üzerindeki otoritesini pekiştirme çabası olarak görüldü. Bu kararın ardından, mevcut Delhi'nin hemen güneyinde modern bir idari merkez olarak Yeni Delhi'nin inşasına başlandı. 1920'lerde tamamlanan bu yeni şehir, 1947 yılında Hindistan bağımsızlığını kazandıktan sonra da ülkenin siyasi ve idari merkezi olma görevini sürdürdü.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Kolkata5.JPG/960px-Kolkata5.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Kolkata5.JPG/500px-Kolkata5.JPG",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Jama_Masjid_2011.jpg/960px-Jama_Masjid_2011.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Jama_Masjid_2011.jpg/500px-Jama_Masjid_2011.jpg",
         "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 3648,
-        "yazar": "Kedar Kulkarni",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Kolkata5.JPG",
-        "aciklama": "This is a photo of ASI monument number",
-        "konu": "Kalküta"
+        "yukseklik": 1138,
+        "orijinalGenislik": 3252,
+        "yazar": "Marcin Białek",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Jama_Masjid_2011.jpg",
+        "aciklama": "Jama Masjid mosque, Dehli, India.",
+        "konu": "Delhi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Kolkata5.JPG/960px-Kolkata5.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Kolkata5.JPG/500px-Kolkata5.JPG",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 3648,
-          "yazar": "Kedar Kulkarni",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Kolkata5.JPG",
-          "aciklama": "This is a photo of ASI monument number",
-          "konu": "Kalküta"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Jama_Masjid_2011.jpg/960px-Jama_Masjid_2011.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Jama_Masjid_2011.jpg/500px-Jama_Masjid_2011.jpg",
-          "genislik": 960,
-          "yukseklik": 1138,
-          "orijinalGenislik": 3252,
-          "yazar": "Marcin Białek",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Jama_Masjid_2011.jpg",
-          "aciklama": "Jama Masjid mosque, Dehli, India.",
-          "konu": "Delhi"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1913-1911-yilinda-louvre-muzesinden-calinip-kaybolan-mona",
@@ -206,10 +141,10 @@
         "Mona Lisa",
         "Floransa"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Mona Lisa'nın İki Yıllık Kayıp Serüveni Sona Erdi",
+      "ozet": "Leonardo da Vinci'nin dünyaca ünlü başyapıtı Mona Lisa, 1911 yılında Paris'teki Louvre Müzesi'nden çalınarak sanat dünyasında büyük bir şok etkisi yaratmıştı. İki yıl boyunca izine rastlanamayan ve çalınmasıyla birlikte dünya çapında bir efsaneye dönüşen tablo, 12 Aralık 1913 tarihinde İtalya'nın Floransa şehrinde ortaya çıkarıldı. Eserin bulunması, sanat tarihinin en büyük hırsızlık vakalarından birinin çözülmesini sağladı.\n\nTablonun çalınması, eserin Louvre Müzesi'ndeki popülaritesini daha da artırmış ve Mona Lisa'nın modern kültürdeki ikonik statüsünü pekiştirmişti. Floransa'da bir sanat tüccarına satılmaya çalışılırken ele geçirilen tablo, yapılan incelemelerin ardından ait olduğu yere, Paris'e geri gönderildi. Bu olay, müze güvenliği ve sanat eserlerinin korunması konusundaki tartışmaları dünya gündemine taşırken, Mona Lisa'nın gizemli yüz ifadesi ve sanatsal değeri üzerindeki ilgiyi de kalıcı bir şekilde artırdı.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/960px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/500px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
@@ -223,34 +158,7 @@
         "aciklama": null,
         "konu": "Mona Lisa"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/960px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/500px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
-          "genislik": 960,
-          "yukseklik": 1431,
-          "orijinalGenislik": 7479,
-          "yazar": "Leonardo da Vinci",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
-          "aciklama": null,
-          "konu": "Mona Lisa"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/FirenzeDec092023_01.jpg/960px-FirenzeDec092023_01.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/FirenzeDec092023_01.jpg/500px-FirenzeDec092023_01.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 4000,
-          "yazar": "Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:FirenzeDec092023_01.jpg",
-          "aciklama": "Firenze",
-          "konu": "Floransa"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1923-tbmm-15-mayis-1919-ile-1-kasim",
@@ -260,10 +168,10 @@
         "Türkiye Büyük Millet Meclisi",
         "İstiklal Madalyası"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Kurtuluş Savaşı Kahramanlarına İstiklal Madalyası Verilmesi",
+      "ozet": "Türkiye Büyük Millet Meclisi, Milli Mücadele döneminde gösterilen fedakarlıkları onurlandırmak amacıyla 12 Aralık 1923 tarihinde önemli bir karara imza attı. Bu kararla, 15 Mayıs 1919'da başlayan işgale karşı direniş sürecinden, saltanatın kaldırıldığı 1 Kasım 1923 tarihine kadar geçen sürede üstün başarı ve hizmet sergileyen asker, sivil ve milletvekillerine İstiklal Madalyası verilmesi resmileştirildi. Bu madalya, yeni kurulan devletin bağımsızlık mücadelesine verilen emeğin bir nişanesi olarak kabul edildi.\n\nİstiklal Madalyası, sadece cephede savaşan askerlere değil, aynı zamanda Erzurum ve Sivas kongrelerine katılanlara ve savaş sürecinde yararlılık gösteren sancaklara da verilmiştir. Toplamda 95 binden fazla kişiye takdim edilen bu madalya, Osmanlı döneminden kalan nişanların kaldırılmasının ardından Türkiye Cumhuriyeti'nin ilk ve en prestijli onur nişanı haline gelmiştir. Kanun gereği sağ göğüs üzerine takılan bu madalya, Türk milletinin bağımsızlık iradesinin ve Kurtuluş Savaşı'ndaki kararlılığının sembolü olarak tarihteki yerini almıştır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/%C4%B0stiklal_Madalyas%C4%B1_-_T%C3%BCrk_%C4%B0stiklal_Madalyas%C4%B1.png/960px-%C4%B0stiklal_Madalyas%C4%B1_-_T%C3%BCrk_%C4%B0stiklal_Madalyas%C4%B1.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/%C4%B0stiklal_Madalyas%C4%B1_-_T%C3%BCrk_%C4%B0stiklal_Madalyas%C4%B1.png/500px-%C4%B0stiklal_Madalyas%C4%B1_-_T%C3%BCrk_%C4%B0stiklal_Madalyas%C4%B1.png",
@@ -276,7 +184,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0stiklal_Madalyas%C4%B1_-_T%C3%BCrk_%C4%B0stiklal_Madalyas%C4%B1.png",
         "aciklama": "Türkiye İstiklal Madalyası",
         "konu": "İstiklal Madalyası"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1925-iranda-riza-han-pehlevi-kacar-hanedanina-son",
@@ -287,10 +196,10 @@
         "Rıza Han Pehlevi",
         "Kaçar Hanedanı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İran'da Kaçar Hanedanı'nın Sonu ve Pehlevi Dönemi",
+      "ozet": "İran'da uzun süredir devam eden Kaçar Hanedanı yönetimi, 1925 yılının son günlerinde Rıza Han Pehlevi'nin siyasi hamleleriyle sona erdi. İran Meclisi'nin aldığı kararla Kaçar hanedanının hükümdarlığı resmen kaldırıldı ve Rıza Han, ülkenin yeni şahı olarak ilan edildi. Bu olay, İran tarihinde yaklaşık 130 yıl süren Kaçar döneminin kapanışını ve modern İran'ın temellerinin atıldığı yeni bir siyasi sürecin başlangıcını simgeledi.\n\nRıza Şah Pehlevi'nin iktidara gelişi, İran'da laik, milliyetçi ve merkeziyetçi bir devlet yapısının kurulmasına zemin hazırladı. Kaçar Hanedanı'nın zayıflayan otoritesinin ardından yönetimi devralan Rıza Şah, ülkeyi modernleştirme hedefiyle kapsamlı reformlara girişti. Bu geçiş süreci, İran'ın siyasi ve toplumsal yapısında köklü değişikliklerin yaşandığı, militarist ve anti-komünist bir rejimin benimsendiği yeni bir dönemin kapılarını araladı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Reza_shah_uniform.jpg/960px-Reza_shah_uniform.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Reza_shah_uniform.jpg/500px-Reza_shah_uniform.jpg",
@@ -303,7 +212,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Reza_shah_uniform.jpg",
         "aciklama": "Picture of Reza Shah, emperor of Iran in the early 30's in uniform",
         "konu": "Rıza Han Pehlevi"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1929-basbakan-ismet-pasa-baslica-hedefimiz-milli-paramizi",
@@ -312,10 +222,10 @@
       "konular": [
         "İsmet İnönü"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türk Lirası İçin Altın Endeksli Ekonomi Hedefi",
+      "ozet": "Başbakan İsmet Paşa, 1929 yılının sonunda Türkiye Büyük Millet Meclisi'nde yaptığı konuşmada, genç Cumhuriyetin ekonomi politikalarına dair önemli bir vizyon ortaya koydu. O dönemde dünya genelinde yaşanan ekonomik çalkantıların gölgesinde, Türk lirasının değerini korumak ve uluslararası piyasalarda güvenilirliğini artırmak amacıyla millî paranın altına bağlanması gerektiğini vurguladı. Bu açıklama, Türkiye'nin kendi ekonomik bağımsızlığını sağlama ve para birimini istikrarlı bir zemine oturtma çabalarının bir parçası olarak değerlendirildi.\n\nCumhuriyetin ilk yıllarında yaşanan ekonomik zorluklar ve dışa bağımlılığın azaltılması hedefi, hükümetin temel öncelikleri arasındaydı. İsmet Paşa'nın bu hedefi, Türk ekonomisinin dış şoklara karşı daha dirençli hale getirilmesi ve millî bir para sisteminin güçlendirilmesi adına atılan stratejik bir adımdı. Altın standardına geçiş veya parayı altına endeksleme düşüncesi, o dönemin küresel finansal anlayışıyla uyumlu bir şekilde, Türkiye'nin mali disiplinini sağlama ve enflasyonist baskıları kontrol altına alma arzusunu yansıtıyordu. Bu yaklaşım, Türkiye'nin ekonomik kalkınma sürecinde millî egemenlik ve mali istikrarın korunması açısından kritik bir dönemeç olarak tarihe geçti.",
+      "kategori": "Ekonomi",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
@@ -328,7 +238,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Inonu_Ismet_(cropped).jpg",
         "aciklama": "President of Turkey 1938-1950 Ismet Inonu",
         "konu": "İsmet İnönü"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1940-salvador-gemisi-silivri-onlerinde-batti-bulgaristandan-filistine",
@@ -339,51 +250,12 @@
         "Bulgaristan",
         "Filistin (bölge)"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/SilivriPedestrianBridge.jpg/960px-SilivriPedestrianBridge.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/SilivriPedestrianBridge.jpg/500px-SilivriPedestrianBridge.jpg",
-        "genislik": 960,
-        "yukseklik": 636,
-        "orijinalGenislik": 4365,
-        "yazar": "CeeGee",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:SilivriPedestrianBridge.jpg",
-        "aciklama": "Pedestrian bridge in Silivri, Istanbul, Turkey",
-        "konu": "Silivri"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/SilivriPedestrianBridge.jpg/960px-SilivriPedestrianBridge.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/SilivriPedestrianBridge.jpg/500px-SilivriPedestrianBridge.jpg",
-          "genislik": 960,
-          "yukseklik": 636,
-          "orijinalGenislik": 4365,
-          "yazar": "CeeGee",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:SilivriPedestrianBridge.jpg",
-          "aciklama": "Pedestrian bridge in Silivri, Istanbul, Turkey",
-          "konu": "Silivri"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/MiddleEast.A2003031.0820.250m.jpg/960px-MiddleEast.A2003031.0820.250m.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/MiddleEast.A2003031.0820.250m.jpg/500px-MiddleEast.A2003031.0820.250m.jpg",
-          "genislik": 960,
-          "yukseklik": 1222,
-          "orijinalGenislik": 2200,
-          "yazar": "Jacques Descloitres, MODIS Rapid Response Team, NASA/GSFC",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:MiddleEast.A2003031.0820.250m.jpg",
-          "aciklama": "This Moderate Resolution Imaging Spectroradiometer (MODIS) image from the Terra satellite shows the Mediterranean Sea (left) and portions of the Middle East. Countries pictured are (clockwise from top",
-          "konu": "Filistin (bölge)"
-        }
-      ]
+      "baslik": "Salvador Gemisi Faciası: Silivri Açıklarında Büyük Kayıp",
+      "ozet": "İkinci Dünya Savaşı'nın devam ettiği 1940 yılında, Bulgaristan'dan yola çıkan Salvador adlı gemi, Filistin'e ulaşmaya çalışan Yahudi göçmenleri taşıyordu. Ancak gemi, İstanbul'un Silivri ilçesi açıklarında şiddetli fırtınaya yakalanarak battı. Gemide bulunan 352 yolcudan 230'u boğularak hayatını kaybetti. Bu trajik olay, dönemin zorlu koşullarında Avrupa'dan kaçmaya çalışan insanların yaşadığı büyük insani dramlardan biri olarak tarihe geçti.\n\nO dönemde Nazi zulmünden kaçan Yahudi nüfus için Filistin, güvenli bir sığınak arayışında önemli bir duraktı. Ancak İngiliz mandası altındaki Filistin'e girişlerin kısıtlı olması ve savaşın getirdiği lojistik imkansızlıklar, göçmenleri oldukça güvensiz ve eski teknelerle tehlikeli deniz yolculuklarına çıkmaya zorluyordu. Salvador faciası, bu umut yolculuklarının ne kadar büyük riskler barındırdığını ve savaşın siviller üzerindeki yıkıcı etkisini gözler önüne seren acı bir örnek olmuştur.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1941-ii-dunya-savasi-birlesik-krallik-bulgaristana-macaristan",
@@ -396,23 +268,12 @@
         "Macaristan",
         "Romanya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "genislik": 400,
-        "yukseklik": 286,
-        "orijinalGenislik": 400,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
-        "aciklama": "Pitched battle at Changde.",
-        "konu": "II. Dünya Savaşı"
-      }
+      "baslik": "II. Dünya Savaşı'nda Diplomatik Kırılma ve Savaş İlanları",
+      "ozet": "II. Dünya Savaşı'nın en kritik dönemlerinden biri olan 1941 yılının son günlerinde, savaşın tarafları arasındaki diplomatik bağlar hızla kopmaya başladı. 12 Aralık 1941 tarihinde gerçekleşen karşılıklı savaş ilanları, çatışmanın Avrupa'dan Asya'ya ve Amerika'ya kadar uzanan küresel etkisini gözler önüne serdi. Birleşik Krallık'ın Bulgaristan'a karşı aldığı tavır, Mihver devletlerinin Balkanlar üzerindeki etkisini kırma çabası olarak değerlendirilirken, Macaristan ve Romanya'nın ABD'ye savaş açması, Mihver bloğunun Almanya ile olan ittifak sadakatini pekiştiren bir hamle oldu. Aynı gün Hindistan'ın Japonya'ya savaş ilan etmesi ise Pasifik cephesindeki gerilimin İngiliz sömürge topraklarına yansımasıydı.\n\nBu diplomatik hamleler, savaşın sadece cephelerde değil, aynı zamanda uluslararası hukuk ve ittifak sistemleri düzeyinde de ne kadar geniş bir alana yayıldığını kanıtlıyordu. 1941 yılı, Pearl Harbor saldırısı ve ardından gelen bu zincirleme savaş ilanlarıyla birlikte, savaşın yerel bir Avrupa çatışması olmaktan çıkıp tam anlamıyla bir dünya savaşına dönüştüğü yıl olarak tarihe geçti. Bu süreç, tarafların tüm ekonomik ve askeri kapasitelerini topyekûn bir şekilde seferber etmelerini zorunlu kıldı.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1948-suleyman-demirel-nazmiye-sener-ile-evlendi",
@@ -422,10 +283,10 @@
         "Süleyman Demirel",
         "Nazmiye Demirel"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Süleyman Demirel ve Nazmiye Şener'in Evliliği",
+      "ozet": "Türkiye Cumhuriyeti'nin 9. Cumhurbaşkanı Süleyman Demirel, siyasi kariyerinin henüz çok başındayken, 12 Aralık 1948 tarihinde Nazmiye Şener ile hayatını birleştirdi. Bu evlilik, Demirel'in ilerleyen yıllarda Türk siyasetine damga vuracak uzun ve hareketli kariyerinin başlangıç dönemlerine denk gelmektedir. Çiftin birlikteliği, Demirel'in mühendislik yıllarından başlayarak başbakanlık ve cumhurbaşkanlığı dönemlerini kapsayan yarım asrı aşkın bir süreyi içine almıştır.\n\nNazmiye Demirel, eşinin siyasi mücadelesi boyunca onun en yakın destekçisi olmuş ve Türkiye'nin siyasi tarihinde önemli bir figür olarak yer almıştır. Süleyman Demirel'in 1960'lı yıllardan 2000'li yıllara kadar süren aktif siyasi yaşamında, Nazmiye Hanım da devlet protokolünde ve sosyal hayatta aktif bir rol üstlenmiştir. 2013 yılında Nazmiye Demirel'in vefatına kadar süren bu evlilik, Türk siyasi tarihinin en uzun süreli ve bilinen birlikteliklerinden biri olarak kabul edilmektedir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg",
@@ -438,7 +299,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Suleyman_Demirel_1998.jpg",
         "aciklama": "Turkish President Süleyman Demirel in Ankara on November 6, 1998, during a visit of US Secretary of Defense William Cohen.",
         "konu": "Süleyman Demirel"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1949-tbmm-turkiyenin-avrupa-konseyine-katilmasini-onayladi",
@@ -478,23 +340,12 @@
         "Yunanistan",
         "Kıbrıs"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Cyprus_ESA356100.jpg/960px-Cyprus_ESA356100.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Cyprus_ESA356100.jpg/500px-Cyprus_ESA356100.jpg",
-        "genislik": 960,
-        "yukseklik": 691,
-        "orijinalGenislik": 10000,
-        "yazar": "European Space Agency",
-        "lisans": "CC BY-SA 3.0 igo",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Cyprus_ESA356100.jpg",
-        "aciklama": "The third largest island in the Mediterranean, Cyprus is about 240 km long and 100 km wide. It is located on the Anatolian plate and therefore belongs geologically to Asia, but politically it is a mem",
-        "konu": "Kıbrıs"
-      }
+      "baslik": "Türkiye'den Kıbrıs İçin Birleşmiş Milletler'e Kritik Uyarı",
+      "ozet": "Türkiye, 1950'li yılların sonunda Kıbrıs meselesinin uluslararası platformlarda tartışıldığı bir dönemde, Birleşmiş Milletler nezdinde diplomatik bir girişimde bulundu. Ankara, Yunanistan'ın adadaki taleplerinin ve izlediği politikaların bölgedeki hassas dengeleri bozabileceğini vurgulayarak, bu tezlerin kabul görmesinin Kıbrıs'ta Türk ve Rum toplumları arasında ciddi bir iç çatışmaya yol açabileceği konusunda dünya kamuoyunu uyardı. Türkiye'nin bu çıkışı, adanın geleceği üzerindeki haklı endişelerini ve çözüm arayışındaki kararlı tutumunu yansıtıyordu.\n\nKıbrıs sorunu, o dönemde hem Türkiye hem de Yunanistan için dış politikanın en önemli gündem maddelerinden biriydi. Türkiye, adadaki Türk nüfusunun güvenliğini ve haklarını korumayı temel bir dış politika önceliği olarak görüyordu. Birleşmiş Milletler'e yapılan bu uyarı, meselenin sadece iki ülke arasındaki bir anlaşmazlık olmadığını, aynı zamanda bölgesel barış ve istikrarı doğrudan tehdit eden bir potansiyele sahip olduğunu göstermeyi amaçlıyordu. Bu diplomatik hamle, Türkiye'nin Kıbrıs'taki statükonun korunması ve adadaki Türklerin varlığının güvence altına alınması konusundaki diplomatik mücadelesinin önemli bir aşamasını oluşturdu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1962-turkiye-isci-partisi-genel-baskani-mehmet-ali",
@@ -577,23 +428,12 @@
         "Güney Kore",
         "askeri darbe"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg/960px-Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg/500px-Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg",
-        "genislik": 960,
-        "yukseklik": 1023,
-        "orijinalGenislik": 1833,
-        "yazar": "François Bouchot",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg",
-        "aciklama": null,
-        "konu": "askeri darbe"
-      }
+      "baslik": "Güney Kore'de 12 Aralık Askeri Darbesi",
+      "ozet": "Güney Kore'de 12 Aralık 1979 tarihinde, General Chun Doo-hwan'ın komutasındaki ordu birlikleri, mevcut askeri yönetimin kontrolünü ele geçirmek amacıyla bir darbe başlattı. Bu olay, ülkenin o dönemki siyasi istikrarsızlığının bir sonucu olarak ortaya çıktı ve Güney Kore tarihinde otoriter yönetimin pekiştiği kritik bir dönüm noktası oldu. Darbe, ordunun içindeki hiyerarşiyi sarsarak Chun Doo-hwan'ın iktidar yolunu açtı.\n\nBu askeri müdahale, Güney Kore'nin demokratikleşme sürecini uzun yıllar boyunca sekteye uğratan bir gelişme olarak kabul edilir. Darbenin ardından ülkede sıkıyönetim uygulamaları genişletilmiş ve muhalif sesler bastırılmıştır. Bu süreç, Güney Kore toplumunda derin izler bırakmış ve ilerleyen yıllarda demokrasi yanlısı protestoların temelini oluşturmuştur. Olay, Soğuk Savaş döneminde askeri elitlerin siyasi süreçlere doğrudan müdahale ettiği tipik bir örnek olarak tarihe geçmiştir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1980-milli-guvenlik-konseyi-piyade-er-zekeriya-ongeyi",
@@ -617,23 +457,12 @@
       "konular": [
         "1988 Sovyet Hava Kuvvetleri İlyuşin İl-76 kazası"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/IL-76M_Stargard_%2824132812174%29.jpg/960px-IL-76M_Stargard_%2824132812174%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/IL-76M_Stargard_%2824132812174%29.jpg/500px-IL-76M_Stargard_%2824132812174%29.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 1400,
-        "yazar": "Rob Schleiffert from Holland",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:IL-76M_Stargard_(24132812174).jpg",
-        "aciklama": "Stargard (Poland), 10 July 1992. Three An-12's, two IL-76's and one Mi-8 supported the withdrawal of the 159th Guards Fighter Aviation Regiment. Remarkable are the flare launchers for self defence beh",
-        "konu": "1988 Sovyet Hava Kuvvetleri İlyuşin İl-76 kazası"
-      }
+      "baslik": "Spitak Depremi Yardım Uçağı Kazası",
+      "ozet": "1988 yılının Aralık ayında Ermenistan'da meydana gelen yıkıcı depremin ardından, bölgeye insani yardım ve kurtarma ekipleri ulaştırmak amacıyla başlatılan hava köprüsü sırasında büyük bir trajedi yaşandı. Azerbaycan'dan havalanan ve içerisinde yardım personeli ile ekipman taşıyan Sovyet Hava Kuvvetleri'ne ait İlyuşin İl-76 tipi nakliye uçağı, Spitak şehri yakınlarında iniş hazırlığı yaptığı sırada yere çakıldı. Kazada uçakta bulunan 76 kişinin tamamı hayatını kaybetti.\n\nBu kaza, Ermenistan topraklarında gerçekleşmiş en ölümlü havacılık felaketi olarak kayıtlara geçti. Felaket, zaten depremin yarattığı büyük yıkım ve acıyla sarsılan bölgede, yardım çalışmalarının ne kadar zorlu ve riskli koşullar altında yürütüldüğünü gözler önüne serdi. Uçağın düşüş nedeni, bölgedeki olumsuz hava koşulları ve yoğun hava trafiği ile ilişkilendirilmiştir. Yaşanan bu olay, deprem sonrası uluslararası dayanışmanın ve yardım çabalarının trajik bir parçası olarak tarihe geçmiştir.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1990-arnavutlukta-yeni-partilerin-kurulmasina-izin-verildi",
@@ -643,23 +472,12 @@
         "Arnavutluk",
         "Siyasi parti"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/CHPkur10.jpg/960px-CHPkur10.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/CHPkur10.jpg/500px-CHPkur10.jpg",
-        "genislik": 960,
-        "yukseklik": 734,
-        "orijinalGenislik": 2048,
-        "yazar": "TamerCaba",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:CHPkur10.jpg",
-        "aciklama": "CHP 10. Kurultayı Anısı 22.06.1953",
-        "konu": "Siyasi parti"
-      }
+      "baslik": "Arnavutluk'ta Çok Partili Siyasi Sisteme Geçiş",
+      "ozet": "Arnavutluk'ta 1990 yılının sonlarına doğru yaşanan toplumsal hareketlilik, ülkenin siyasi yapısında köklü bir değişimi beraberinde getirdi. On yıllardır süren katı komünist rejim, halkın artan demokrasi talepleri ve değişen küresel konjonktür karşısında geri adım atmak zorunda kaldı. 12 Aralık 1990 tarihinde alınan tarihi kararla, ülkede tek parti egemenliğine son verilerek farklı siyasi oluşumların kurulmasına ve faaliyet göstermesine yasal zemin hazırlandı. Bu adım, Arnavutluk'un totaliter bir yönetimden demokratik bir parlamenter sisteme geçiş sürecindeki en kritik dönüm noktalarından biri olarak kabul edilir.\n\nBu yasal düzenleme, sadece yeni partilerin kurulmasını sağlamakla kalmadı, aynı zamanda Arnavut toplumunun siyasi katılım haklarını genişleterek ülkenin Avrupa ile bütünleşme sürecini de başlattı. Tek partili sistemin yarattığı kısıtlamaların kaldırılması, farklı ideolojilerin ve görüşlerin ifade edilebileceği bir ortamın oluşmasına olanak tanıdı. Bu gelişme, Arnavutluk'un modernleşme ve demokratikleşme yolunda attığı en önemli adımlardan biri olarak tarihe geçti ve ülkenin siyasi geleceğini yeniden şekillendirdi.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1990-erdal-inonu-ile-suleyman-demirel-bulustu-ortak",
@@ -723,51 +541,24 @@
         "Saddam Hüseyin",
         "Uday Hüseyin"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Uday Hüseyin'e Yönelik Suikast Girişimi",
+      "ozet": "Irak'ın devrik lideri Saddam Hüseyin'in büyük oğlu Uday Hüseyin, 12 Aralık 1996 tarihinde Bağdat'ın Mansur semtinde aracına düzenlenen silahlı saldırı sonucu ağır yaralandı. Saldırı, Uday'ın Irak'taki güç ve nüfuzunun zirvesinde olduğu bir dönemde gerçekleşti. Olayın ardından uzun süre tedavi gören Uday, vücudunda kalıcı hasarlar bırakan bu saldırıdan sonra babasının gözündeki konumunu kaybetmeye başladı. \n\nUday Hüseyin, babasının yönetiminde medya kuruluşları, paramiliter güçler ve spor komiteleri üzerinde kurduğu baskıcı kontrolle tanınıyordu. Özellikle sporculara yönelik işkence iddiaları ve acımasız yöntemleriyle bilinen Uday, uzun süre Saddam Hüseyin'in doğal varisi olarak görülmüştü. Ancak 1996'daki bu suikast girişimi, aile içindeki güç dengelerini değiştirdi. Saldırı sonrası fiziksel yeteneklerinin kısıtlanması ve yaşadığı sağlık sorunları, babasının veliahtlık konusunda küçük kardeşi Kusay Hüseyin'e yönelmesine neden oldu. Bu olay, Saddam rejiminin iç dinamiklerinde yaşanan çatlakların ve aile içi güç mücadelesinin önemli bir dönüm noktası olarak kabul edilmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Saddam_Hussein_in_1998.png",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Saddam_Hussein_in_1998.png",
-        "genislik": 900,
-        "yukseklik": 1188,
-        "orijinalGenislik": 900,
-        "yazar": "Iraqi News Agency",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Saddam_Hussein_in_1998.png",
-        "aciklama": "Iraqi President Saddam Hussein is about to deliver a speech on occasion of 10th anniversary of the end of Iran-Iraq War.",
-        "konu": "Saddam Hüseyin"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Yunkurin_Kashe_Uday_Hussein_a_Bagadaza_a_1996.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Yunkurin_Kashe_Uday_Hussein_a_Bagadaza_a_1996.jpg",
+        "genislik": 720,
+        "yukseklik": 702,
+        "orijinalGenislik": 720,
+        "yazar": "HK RIGASA2",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Yunkurin_Kashe_Uday_Hussein_a_Bagadaza_a_1996.jpg",
+        "aciklama": "Uday Hussein, babban ɗan tsohon shugaban Iraqi Saddam Hussein, ya samu munanan raunuka a wani harin kwanton ɓauna da aka kai masa a unguwar Al-Mansour da ke Bagadaza a ranar 12 ga Disamba, 1996. Harin",
+        "konu": "Uday Hüseyin"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Saddam_Hussein_in_1998.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Saddam_Hussein_in_1998.png",
-          "genislik": 900,
-          "yukseklik": 1188,
-          "orijinalGenislik": 900,
-          "yazar": "Iraqi News Agency",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Saddam_Hussein_in_1998.png",
-          "aciklama": "Iraqi President Saddam Hussein is about to deliver a speech on occasion of 10th anniversary of the end of Iran-Iraq War.",
-          "konu": "Saddam Hüseyin"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Yunkurin_Kashe_Uday_Hussein_a_Bagadaza_a_1996.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Yunkurin_Kashe_Uday_Hussein_a_Bagadaza_a_1996.jpg",
-          "genislik": 720,
-          "yukseklik": 702,
-          "orijinalGenislik": 720,
-          "yazar": "HK RIGASA2",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Yunkurin_Kashe_Uday_Hussein_a_Bagadaza_a_1996.jpg",
-          "aciklama": "Uday Hussein, babban ɗan tsohon shugaban Iraqi Saddam Hussein, ya samu munanan raunuka a wani harin kwanton ɓauna da aka kai masa a unguwar Al-Mansour da ke Bagadaza a ranar 12 ga Disamba, 1996. Harin",
-          "konu": "Uday Hüseyin"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1997-recep-tayyip-erdogan-davet-uzerine-gittigi-siirtte",
@@ -780,10 +571,10 @@
         "Balkan Savaşları",
         "Asker Duası"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Erdoğan'ın Siirt Konuşması ve Hapis Cezası Süreci",
+      "ozet": "İstanbul Büyükşehir Belediye Başkanı olduğu dönemde Siirt'e giden Recep Tayyip Erdoğan, burada halka hitaben yaptığı konuşmada Ziya Gökalp'in bir şiirinden alıntı yaptı. Erdoğan, şiirin orijinalindeki bazı ifadeleri değiştirerek \"Minareler süngü, kubbeler miğfer, camiler kışlamız, müminler asker\" dizelerini seslendirdi. Bu konuşma, dönemin siyasi atmosferinde büyük yankı uyandırdı ve hakkında hukuki bir süreç başlatılmasına neden oldu. Diyarbakır Devlet Güvenlik Mahkemesi'nde görülen dava sonucunda Erdoğan, Türk Ceza Kanunu'nun 312. maddesi uyarınca halkı din ve ırk farkı gözeterek kin ve düşmanlığa tahrik ettiği gerekçesiyle hapis cezasına mahkûm edildi. Bu olay, Erdoğan'ın siyasi kariyerinde bir dönüm noktası olarak kabul edilir. Mahkûmiyet kararı nedeniyle belediye başkanlığı görevinden ayrılmak zorunda kalan Erdoğan, cezasını 1999 yılında tamamladı. Söz konusu yargılama süreci, Türkiye'nin siyasi tarihinde ifade özgürlüğü ve siyasi yasaklar tartışmalarının merkezinde yer almış, Erdoğan'ın daha sonraki yıllarda kuracağı Adalet ve Kalkınma Partisi'nin siyasi söyleminde ve yükselişinde önemli bir referans noktası haline gelmiştir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
@@ -797,47 +588,7 @@
         "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
         "konu": "Recep Tayyip Erdoğan"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1318,
-          "orijinalGenislik": 1144,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-          "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-          "konu": "Recep Tayyip Erdoğan"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/City_center.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/City_center.jpg",
-          "genislik": 640,
-          "yukseklik": 480,
-          "orijinalGenislik": 640,
-          "yazar": "No machine-readable author provided. Veleye assumed (based on copyright claims).",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:City_center.jpg",
-          "aciklama": "Şehir Merkezi",
-          "konu": "Siirt"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Ziya_G%C3%B6kalp-1.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Ziya_G%C3%B6kalp-1.jpg",
-          "genislik": 565,
-          "yukseklik": 746,
-          "orijinalGenislik": 565,
-          "yazar": "Unknown photographer",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ziya_G%C3%B6kalp-1.jpg",
-          "aciklama": "Ziya Gökalp'ın meşhur fotoğrafının orijinali.",
-          "konu": "Ziya Gökalp"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "2000-abd-anayasa-mahkemesi-floridada-oylarin-yeniden-sayimi",
@@ -847,10 +598,10 @@
         "Florida",
         "George W. Bush"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "ABD Seçimlerinde Tarihi Yargı Kararı",
+      "ozet": "Amerika Birleşik Devletleri'nde 2000 yılında gerçekleştirilen başkanlık seçimleri, ülke tarihinin en çekişmeli ve tartışmalı süreçlerinden birine sahne oldu. Cumhuriyetçi aday George W. Bush ile Demokrat rakibi Al Gore arasındaki yarış, Florida eyaletindeki oyların birbirine çok yakın çıkması nedeniyle kilitlendi. Seçim sonuçlarının belirlenmesinde kritik bir rol oynayan Florida'daki oy sayım işlemleri, usulsüzlük iddiaları ve teknik aksaklıklar nedeniyle uzun süre belirsizliğini korudu. Demokrat kanadın oyların yeniden sayılması yönündeki talepleri, eyalet düzeyinde ve federal düzeyde hukuki bir mücadeleye dönüştü.\n\n12 Aralık 2000 tarihinde ABD Anayasa Mahkemesi, Florida'daki yeniden sayım sürecini durduran nihai kararını açıkladı. Mahkemenin bu müdahalesi, eyaletteki mevcut sonuçların geçerli kalmasını sağladı ve George W. Bush'un Seçiciler Kurulu'nda çoğunluğu elde ederek başkan seçilmesinin önünü açtı. Bu karar, Amerikan siyasi tarihinde yargının seçim sonuçları üzerindeki doğrudan etkisini gösteren en önemli örneklerden biri olarak kabul edilir. Seçimlerin ardından Bush, 2001 yılında Amerika Birleşik Devletleri'nin 43. başkanı olarak göreve başladı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif/lossy-page1-960px-President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif/lossy-page1-960px-President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif.jpg",
@@ -863,7 +614,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_(blue_tie).tif",
         "aciklama": "\"Official portrait of President George W. Bush\"",
         "konu": "George W. Bush"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "2000-etiyopya-ile-eritre-arasinda-2-yil-suren",
@@ -891,23 +643,12 @@
         "Anders Rasmussen",
         "Kopenhag kriterleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Christiansborg_fra_Nikolaj_Kirken.jpg/960px-Christiansborg_fra_Nikolaj_Kirken.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Christiansborg_fra_Nikolaj_Kirken.jpg/500px-Christiansborg_fra_Nikolaj_Kirken.jpg",
-        "genislik": 960,
-        "yukseklik": 473,
-        "orijinalGenislik": 1024,
-        "yazar": "Mik Hartwell from Copenhagen, Denmark",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Christiansborg_fra_Nikolaj_Kirken.jpg",
-        "aciklama": "Christiansborg Palace and Chapel on Slotsholmen in Copenhagen, Denmark, seen from the top of St. Nicolas' Church",
-        "konu": "Kopenhag"
-      }
+      "baslik": "Türkiye'nin Avrupa Birliği Üyelik Sürecinde Kopenhag Zirvesi",
+      "ozet": "Danimarka'nın başkenti Kopenhag'da düzenlenen Avrupa Birliği Zirvesi'nde, Türkiye'nin Avrupa Birliği'ne katılım süreci açısından kritik bir dönemeç geçildi. AB Dönem Başkanı ve Danimarka Başbakanı Anders Fogh Rasmussen, Türkiye'nin Kopenhag kriterlerini yerine getirdiğinin 2004 yılı Aralık ayında yapılacak bir değerlendirme ile tespit edilmesi halinde, vakit kaybetmeksizin katılım müzakerelerine başlanacağını duyurdu. Bu açıklama, Türkiye'nin Avrupa Birliği ile olan ilişkilerinde somut bir takvimin ilk kez netleşmeye başladığı önemli bir aşama olarak kayıtlara geçti.\n\nSöz konusu karar, Türkiye'nin uzun süredir devam eden Avrupa Birliği'ne tam üyelik hedefi doğrultusunda attığı siyasi ve ekonomik reform adımlarının uluslararası arenada karşılık bulması açısından büyük önem taşıyordu. Kopenhag kriterleri olarak bilinen demokrasi, hukukun üstünlüğü, insan hakları ve azınlıkların korunması gibi temel standartların karşılanması, Türkiye'nin Birlik içerisindeki konumunu güçlendirmeyi amaçlıyordu. Bu zirve, Türkiye'nin Avrupa entegrasyonu sürecinde bir yol haritası oluşturulması ve müzakere sürecinin başlatılması için gerekli olan siyasi iradenin ortaya konulması bakımından tarihi bir adım olarak değerlendirilmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "2004-fatih-akinin-filmi-duvara-karsi-avrupa-film",
@@ -918,10 +659,10 @@
         "Duvara Karşı",
         "Avrupa Film Akademisi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Duvara Karşı Filmi Avrupa'nın En İyisi Seçildi",
+      "ozet": "Yönetmen Fatih Akın'ın imzasını taşıyan Duvara Karşı filmi, 2004 yılında Avrupa Film Akademisi tarafından düzenlenen törende En İyi Film ödülünü kazanarak büyük bir başarıya imza attı. Türk ve Alman sinemasının ortak bir ürünü olan bu yapım, Avrupa sinemasının en prestijli ödüllerinden birini alarak uluslararası alanda dikkatleri üzerine çekti. Film, kültürel kimlikler ve bireysel özgürlük arayışı üzerine kurduğu derinlikli anlatımıyla hem eleştirmenlerden tam not aldı hem de izleyiciler üzerinde güçlü bir etki bıraktı. Aynı yıl Berlin Film Festivali'nde Altın Ayı ödülünü de kazanan Duvara Karşı, Fatih Akın'ın kariyerindeki en önemli dönüm noktalarından biri olarak kabul edilmektedir. Avrupa Film Akademisi'nin verdiği bu ödül, filmin sadece Almanya'da değil, tüm Avrupa genelinde sinematografik açıdan ne kadar değerli bulunduğunu tescillemiş oldu. Bu başarı, Türk kökenli bir yönetmenin Avrupa sinemasındaki etkisini ve görünürlüğünü artırması bakımından da sinema tarihimizdeki yerini sağlamlaştırdı.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Fatih_Akin-68626.jpg/960px-Fatih_Akin-68626.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Fatih_Akin-68626.jpg/500px-Fatih_Akin-68626.jpg",
@@ -934,7 +675,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Fatih_Akin-68626.jpg",
         "aciklama": "Film director Fatih Akin at the 74nd Berlin International Film Festival",
         "konu": "Fatih Akın"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "2019-gelecek-partisi-ahmet-davutoglu-tarafindan-kuruldu",
@@ -944,10 +686,10 @@
         "Gelecek Partisi",
         "Ahmet Davutoğlu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Ahmet Davutoğlu Liderliğinde Gelecek Partisi Kuruldu",
+      "ozet": "Eski Başbakan ve Dışişleri Bakanı Ahmet Davutoğlu, 12 Aralık 2019 tarihinde Gelecek Partisi'ni kurarak Türk siyasetinde yeni bir oluşum başlattı. Çınar yaprağını simge olarak benimseyen parti, kuruluş sürecinde özellikle parlamenter sisteme dönüş vurgusuyla dikkat çekti. Davutoğlu'nun uzun yıllar görev yaptığı Adalet ve Kalkınma Partisi'nden ayrılmasının ardından gelen bu adım, Türkiye'deki siyasi yelpazede yeni bir muhalefet kanadının doğuşu olarak değerlendirildi. Gelecek Partisi, kuruluşundan itibaren güçlendirilmiş parlamenter sistemin savunuculuğunu üstlenerek siyasi faaliyetlerini sürdürdü. Parti, Türkiye'nin demokratikleşme süreçleri ve yönetim sistemine dair önerileriyle muhalefet bloğunda kendine yer edindi. Ahmet Davutoğlu'nun akademik birikimi ve dış politika tecrübesi, partinin siyasi söyleminin temel taşlarını oluşturdu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ahmet_Davuto%C4%9Flu_2022_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ahmet_Davuto%C4%9Flu_2022_%28cropped%29.jpg",
@@ -960,7 +702,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ahmet_Davuto%C4%9Flu_2022_(cropped).jpg",
         "aciklama": "Gelecek Partisi Genel Başkanı Ahmet Davutoğlu",
         "konu": "Ahmet Davutoğlu"
-      }
+      },
+      "bolge": "turkiye"
     }
   ],
   "dogumlar": [

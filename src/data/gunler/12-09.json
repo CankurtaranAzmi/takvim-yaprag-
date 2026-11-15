@@ -10,10 +10,10 @@
         "Teksas Devrimi",
         "San Antonio"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Teksas Devrimi ve San Antonio'nun Ele Geçirilmesi",
+      "ozet": "Teksas Devrimi'nin önemli bir aşaması olan San Antonio kuşatması, 9 Aralık 1835 tarihinde Teksaslı isyancıların zaferiyle sonuçlandı. Meksika yönetimine karşı ayaklanan ve çoğunluğu bölgeye yerleşmiş Amerikalılardan oluşan Teksas Ordusu, stratejik öneme sahip olan bu şehri kontrol altına alarak bölgedeki Meksika varlığına karşı büyük bir darbe vurdu. Bu başarı, devrim sürecinde isyancıların moralini yükselten ve bağımsızlık mücadelesini güçlendiren kritik bir gelişme olarak tarihe geçti.\n\nO dönemde Meksika sınırları içerisinde yer alan Teksas, artan vergiler ve merkezi hükümetin baskıcı politikaları nedeniyle ciddi bir huzursuzluk yaşıyordu. San Antonio'nun ele geçirilmesi, bölgedeki Meksika askeri gücünün zayıfladığını gösteren bir sembol haline geldi. Ancak bu zafer, ilerleyen süreçte yaşanacak olan ve Teksas tarihinin en ikonik olaylarından biri kabul edilen Alamo Muharebesi gibi daha şiddetli çatışmaların da habercisi oldu. San Antonio'nun kontrolü, Teksas'ın Meksika'dan ayrılarak bağımsız bir cumhuriyet olma yolundaki kararlılığını pekiştiren önemli bir askeri adım olarak değerlendirilmektedir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Campaigns_of_the_Texas_Revolution.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Campaigns_of_the_Texas_Revolution.jpg",
@@ -27,34 +27,7 @@
         "aciklama": "derived from File:Fredonia and the Texas Revolt.jpg. Information related to the Republic of Fredonia was removed from the map, leaving the campaigns of the Texas Revolution. I also corrected the spell",
         "konu": "Teksas Devrimi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Campaigns_of_the_Texas_Revolution.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Campaigns_of_the_Texas_Revolution.jpg",
-          "genislik": 883,
-          "yukseklik": 1111,
-          "orijinalGenislik": 883,
-          "yazar": "original image drawn by Joseph L. Cain; update by karanacs",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Campaigns_of_the_Texas_Revolution.jpg",
-          "aciklama": "derived from File:Fredonia and the Texas Revolt.jpg. Information related to the Republic of Fredonia was removed from the map, leaving the campaigns of the Texas Revolution. I also corrected the spell",
-          "konu": "Teksas Devrimi"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alamo_Mission_San_Antonio_at_Night.jpg/960px-Alamo_Mission_San_Antonio_at_Night.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alamo_Mission_San_Antonio_at_Night.jpg/500px-Alamo_Mission_San_Antonio_at_Night.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 3925,
-          "yazar": "A. Michael Uhlmann",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Alamo_Mission_San_Antonio_at_Night.jpg",
-          "aciklama": "This is an image of a place or building that is listed on the National Register of Historic Places in the United States of America. Its reference number is 66000808 (Wikidata).",
-          "konu": "San Antonio"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1851-montrealda-ymcanin-kuzey-amerikadaki-ilk-subesi-acildi",
@@ -65,23 +38,12 @@
         "YMCA",
         "Kuzey Amerika"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Montreal-canada-parc-urban.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Montreal-canada-parc-urban.jpg",
-        "genislik": 874,
-        "yukseklik": 461,
-        "orijinalGenislik": 874,
-        "yazar": "https://www.pxfuel.com/",
-        "lisans": "CC0",
-        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Montreal-canada-parc-urban.jpg",
-        "aciklama": "Downtown Montreal as seen from Mount Royal.",
-        "konu": "Montreal"
-      }
+      "baslik": "Kuzey Amerika'nın İlk YMCA Şubesi Montreal'de Açıldı",
+      "ozet": "Genç Hristiyan Erkekler Birliği (YMCA), 19. yüzyılın ortalarında toplumsal dayanışmayı ve Hristiyan değerlerini genç nesillere aktarmak amacıyla kurulan küresel bir harekettir. Bu hareketin Kuzey Amerika kıtasındaki ilk şubesi, 9 Aralık 1851 tarihinde Kanada'nın Montreal şehrinde kapılarını açtı. Londra'da doğan bu organizasyonun Montreal'de şubeleşmesi, hareketin uluslararası bir kimlik kazanma sürecindeki en önemli adımlardan biri olarak kabul edilir. Kuruluş, bölgedeki gençlerin sosyal ve kültürel gelişimine katkı sağlamayı hedefleyen bir merkez işlevi gördü. YMCA, zamanla sadece dini bir topluluk olmanın ötesine geçerek, spor faaliyetleri, eğitim kursları ve sosyal yardım projeleriyle geniş kitlelere ulaşan devasa bir yapıya dönüştü. Montreal'de atılan bu ilk adım, organizasyonun kıta genelinde hızla yayılmasının ve bugün dünya çapında milyonlarca insana hizmet veren bir yapı haline gelmesinin temelini oluşturdu. Şubenin açılışı, Kuzey Amerika'daki sivil toplum örgütlenmeleri ve gençlik çalışmaları açısından tarihi bir dönüm noktası olarak değerlendirilmektedir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1892-ingiltere-futbol-kulubu-olan-newcastle-united-fc",
@@ -105,51 +67,24 @@
         "İstanbul",
         "Haliç"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İstanbul'da Haliç'in Donduğu Kış",
+      "ozet": "1893 yılının Aralık ayında İstanbul, tarihinin en sert kışlarından birini yaşadı. Şehirde günlerce süren dondurucu soğuklar, günlük yaşamı felç ederken, şehrin en önemli su yollarından biri olan Haliç'in yüzeyinin buz tutmasına neden oldu. Bu nadir doğa olayı, o dönemde yaşayan İstanbullular için unutulmaz bir kış hatırası olarak kayıtlara geçti.\n\nİstanbul'un coğrafi yapısında kritik bir öneme sahip olan Haliç, tarih boyunca şehrin ticaret ve ulaşım merkezi olmuştur. Denizin karaya doğru uzanan bu doğal girintisinin donması, bölgedeki deniz ulaşımının durmasına ve şehrin iklimsel olarak ne kadar zorlu bir süreçten geçtiğinin bir göstergesi haline gelmiştir. Bu olay, İstanbul'un iklim tarihine dair önemli bir not olarak günümüze ulaşmıştır.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ivan_Constantinovich_Aivazovsky_-_Dusk_on_the_Golden_Horn.JPG/960px-Ivan_Constantinovich_Aivazovsky_-_Dusk_on_the_Golden_Horn.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ivan_Constantinovich_Aivazovsky_-_Dusk_on_the_Golden_Horn.JPG/500px-Ivan_Constantinovich_Aivazovsky_-_Dusk_on_the_Golden_Horn.JPG",
         "genislik": 960,
-        "yukseklik": 494,
-        "orijinalGenislik": 2048,
-        "yazar": "Alexxx Malev",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-        "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-        "konu": "İstanbul"
+        "yukseklik": 691,
+        "orijinalGenislik": 1720,
+        "yazar": "Ivan Aivazovsky",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ivan_Constantinovich_Aivazovsky_-_Dusk_on_the_Golden_Horn.JPG",
+        "aciklama": null,
+        "konu": "Haliç"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "genislik": 960,
-          "yukseklik": 494,
-          "orijinalGenislik": 2048,
-          "yazar": "Alexxx Malev",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-          "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-          "konu": "İstanbul"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ivan_Constantinovich_Aivazovsky_-_Dusk_on_the_Golden_Horn.JPG/960px-Ivan_Constantinovich_Aivazovsky_-_Dusk_on_the_Golden_Horn.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ivan_Constantinovich_Aivazovsky_-_Dusk_on_the_Golden_Horn.JPG/500px-Ivan_Constantinovich_Aivazovsky_-_Dusk_on_the_Golden_Horn.JPG",
-          "genislik": 960,
-          "yukseklik": 691,
-          "orijinalGenislik": 1720,
-          "yazar": "Ivan Aivazovsky",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ivan_Constantinovich_Aivazovsky_-_Dusk_on_the_Golden_Horn.JPG",
-          "aciklama": null,
-          "konu": "Haliç"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1905-fransada-din-ve-devlet-islerini-birbirinden-ayiran",
@@ -171,10 +106,10 @@
       "konular": [
         "1905 Moskova Ayaklanması"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "1905 Moskova Ayaklanması'nda Silahlı Çatışmalar Başladı",
+      "ozet": "Rusya'da 1905 Devrimi'nin bir parçası olarak Moskova'da başlayan toplumsal hareketlilik, 9 Aralık günü dönüm noktasına ulaştı. İlk iki gün boyunca barışçıl gösterilerle devam eden süreç, Çarlık ordusunun şehre girmesi ve müdahalesiyle birlikte yerini kanlı sokak çatışmalarına bıraktı. Bolşeviklerin öncülük ettiği işçiler, şehrin çeşitli noktalarında barikatlar kurarak ordu birliklerine karşı direnişe geçti. Bu olay, dönemin Rusya'sındaki siyasi gerilimin ve halkın yönetimle olan çatışmasının en somut örneklerinden biri haline geldi.\n\nÇatışmaların şiddetlenmesi üzerine Çarlık yönetimi, ayaklanmayı bastırmak için Kazak süvarilerini ve topçu birliklerini devreye soktu. 16 Aralık'ta isyancılara karşı kesin vur emrinin verilmesiyle birlikte direnişin kırılması hızlandı ve 17 Aralık itibarıyla ayaklanma tamamen bastırıldı. Yüzlerce kişinin hayatını kaybettiği bu olaylar, Rusya'da monarşinin sarsıldığı ve devrimci hareketlerin güç kazandığı 1905 yılının en kritik dönemeçlerinden biri olarak tarihe geçti.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/The_Russian_Revolution%2C_1905_Q81555.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/The_Russian_Revolution%2C_1905_Q81555.jpg",
@@ -187,7 +122,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:The_Russian_Revolution,_1905_Q81555.jpg",
         "aciklama": "The barricades of Presnya, 1905. Black-and-white photo of a [preparatory sketch?] painting by Ivan Vladimirov (ru:Владимиров, Иван Алексеевич, 1870-1947) depicting the December, 1905 rising in Presnya",
         "konu": "1905 Moskova Ayaklanması"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1917-i-dunya-savasi-kudus-general-edmund-allenby",
@@ -198,64 +134,24 @@
         "Kudüs",
         "Edmund Allenby"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Kudüs'ün İngiliz Kuvvetleri Tarafından İşgali",
+      "ozet": "I. Dünya Savaşı'nın Orta Doğu cephesinde kritik bir dönüm noktası olan bu olay, General Edmund Allenby komutasındaki Mısır Seferi Kuvvetleri'nin şehre girmesiyle gerçekleşti. Osmanlı savunma hatlarının Gazze ve Birüssebi'de kırılmasının ardından ilerleyişini sürdüren İngiliz ordusu, 9 Aralık 1917 tarihinde Kudüs'ün kontrolünü ele aldı. Bu gelişme, bölgedeki Osmanlı hakimiyetinin sona ermesi ve İngiliz mandasının önünün açılması açısından büyük bir stratejik öneme sahipti.\n\nKudüs'ün düşüşü, sadece askeri bir başarı olarak değil, aynı zamanda bölgenin siyasi geleceğini şekillendiren bir sembol olarak da tarihe geçti. General Allenby, şehre girişinin ardından kazandığı bu zaferle \"Kudüs Fatihi\" unvanını aldı. Allenby'nin uyguladığı hızlı manevra ve süvari taktikleri, daha sonraki dönemlerde modern savaş doktrinleri üzerinde etkili olacak bir askeri başarı olarak değerlendirildi. Şehrin kaybı, Osmanlı İmparatorluğu'nun bölgedeki varlığını ciddi şekilde sarsarken, Orta Doğu'nun haritasının yeniden çizilmesine giden süreci hızlandırdı.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
-        "genislik": 960,
-        "yukseklik": 974,
-        "orijinalGenislik": 1300,
-        "yazar": "User:Hohum",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Edmund_Allenby.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Edmund_Allenby.jpg",
+        "genislik": 929,
+        "yukseklik": 1300,
+        "orijinalGenislik": 929,
+        "yazar": "Bilinmeyen yazar",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:WWImontage.jpg",
-        "aciklama": "Montage for WWI article. Top: Trenches - Image:The_badly_shelled_main_road_to_Bapaume.jpg (Trenches on the Western Front) Left Upper: Image:AlbatDIII.jpg (German Albatros D.III biplane fighters of Jas",
-        "konu": "I. Dünya Savaşı"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Edmund_Allenby.jpg",
+        "aciklama": "Field Marshal Viscount Edmund Allenby after Jerusalem conquer",
+        "konu": "Edmund Allenby"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/960px-WWImontage.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/WWImontage.jpg/500px-WWImontage.jpg",
-          "genislik": 960,
-          "yukseklik": 974,
-          "orijinalGenislik": 1300,
-          "yazar": "User:Hohum",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:WWImontage.jpg",
-          "aciklama": "Montage for WWI article. Top: Trenches - Image:The_badly_shelled_main_road_to_Bapaume.jpg (Trenches on the Western Front) Left Upper: Image:AlbatDIII.jpg (German Albatros D.III biplane fighters of Jas",
-          "konu": "I. Dünya Savaşı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg/960px-Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg/500px-Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 486,
-          "orijinalGenislik": 3412,
-          "yazar": "askii",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Dome_of_the_Rock_seen_from_the_Mount_of_Olives_(12395649153)_(cropped).jpg",
-          "aciklama": "Dome of the Rock seen from the Mount of Olives in Jerusalem Jerusalem",
-          "konu": "Kudüs"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Edmund_Allenby.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Edmund_Allenby.jpg",
-          "genislik": 929,
-          "yukseklik": 1300,
-          "orijinalGenislik": 929,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Edmund_Allenby.jpg",
-          "aciklama": "Field Marshal Viscount Edmund Allenby after Jerusalem conquer",
-          "konu": "Edmund Allenby"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1938-ankara-gari-hizmete-acildi",
@@ -264,10 +160,10 @@
       "konular": [
         "Ankara Garı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Cumhuriyetin Modern Yüzü: Ankara Garı Hizmete Girdi",
+      "ozet": "Ankara'nın Türkiye Cumhuriyeti'nin başkenti ilan edilmesinin ardından, şehrin artan nüfusu ve gelişen ulaşım ağları karşısında mevcut istasyon binası yetersiz kalmaya başlamıştı. Bu ihtiyacı karşılamak üzere tasarlanan ve modern mimari anlayışla inşa edilen yeni Ankara Garı binası, 1938 yılının Aralık ayında düzenlenen törenle hizmete girdi. Yapı, dönemin mimari estetiğini yansıtan tasarımıyla sadece bir ulaşım noktası değil, aynı zamanda genç Cumhuriyetin kalkınma hamlelerinin de bir simgesi haline geldi.\n\nAnkara Garı, İstanbul-Haydarpaşa hattının bitiş noktası ve doğuya uzanan demiryolu ağının başlangıcı olması sebebiyle stratejik bir öneme sahiptir. Tarihsel süreçte birçok kez yenilenen ve elektrifikasyon gibi modernizasyon çalışmalarıyla günümüze ulaşan gar, bugün hala Türkiye'nin en önemli demiryolu merkezlerinden biri olma özelliğini korumaktadır. TCDD'nin idari birimlerine de ev sahipliği yapan bu tarihi yapı, Ankara'nın kentsel hafızasında ve demiryolu ulaşım tarihinde merkezi bir yere sahiptir.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Ankara_asv2021-10_img19_Railway_station.jpg/960px-Ankara_asv2021-10_img19_Railway_station.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Ankara_asv2021-10_img19_Railway_station.jpg/500px-Ankara_asv2021-10_img19_Railway_station.jpg",
@@ -280,7 +176,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img19_Railway_station.jpg",
         "aciklama": "Main railway station in Ankara, Turkey",
         "konu": "Ankara Garı"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1941-ii-dunya-savasi-cin-cumhuriyeti-kuba-guatemala",
@@ -293,23 +190,12 @@
         "Guatemala",
         "Japon İmparatorluğu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "genislik": 400,
-        "yukseklik": 286,
-        "orijinalGenislik": 400,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
-        "aciklama": "Pitched battle at Changde.",
-        "konu": "II. Dünya Savaşı"
-      }
+      "baslik": "II. Dünya Savaşı'nda Küresel Cephe Genişliyor",
+      "ozet": "Pearl Harbor saldırısının hemen ardından, 9 Aralık 1941 tarihinde Çin Cumhuriyeti, Küba, Guatemala ve Filipinler Topluluğu, Mihver Devletleri'ne karşı savaş ilan ettiklerini duyurdu. Bu hamle, Avrupa ve Asya'da başlayan çatışmaların kısa sürede nasıl küresel bir boyuta ulaştığını ve dünyanın dört bir yanındaki ülkelerin taraf seçmeye zorlandığını gösteren kritik bir dönüm noktası oldu.\n\nSavaşın bu aşaması, Müttefik Devletler ittifakının genişlemesi ve Mihver güçlerine karşı ortak bir cephe oluşturulması açısından büyük önem taşıyordu. Özellikle Çin'in uzun süredir devam eden Japon işgaline karşı resmi bir savaş durumuna geçmesi ve Amerika kıtasındaki ülkelerin sürece dahil olması, savaşın lojistik ve stratejik dengelerini değiştirdi. Bu ülkelerin katılımı, sadece askeri bir destek değil, aynı zamanda Mihver bloğuna karşı uluslararası bir meşruiyet ve dayanışma mesajı niteliği taşıyordu. İnsanlık tarihinin en yıkıcı çatışması olan II. Dünya Savaşı, bu kararlarla birlikte artık dünyanın hemen her köşesini etkileyen topyekûn bir mücadeleye dönüşmüştü.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1946-nurnberg-uluslararasi-askeri-ceza-mahkemesinin-ikinci-asamasi",
@@ -319,10 +205,10 @@
         "Nürnberg Uluslararası Askerî Ceza Mahkemesi",
         "Nasyonal sosyalizm"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Nürnberg'de Nazi Doktorların Yargılanması Başladı",
+      "ozet": "İkinci Dünya Savaşı'nın sona ermesinin ardından Nürnberg'de kurulan uluslararası mahkemeler, Nazi rejiminin işlediği suçları aydınlatmak amacıyla bir dizi duruşma başlattı. 9 Aralık 1946 tarihinde başlayan ve tarihe Doktorlar Duruşması olarak geçen bu süreçte, toplama kamplarında esirler üzerinde ölümcül ve insanlık dışı tıbbi deneyler gerçekleştiren Nazi doktorlar ve sağlık görevlileri sanık sandalyesine oturtuldu. Bu yargılamalar, savaş suçlarının sadece siyasi liderlerle sınırlı kalmadığını, aynı zamanda tıp etiğini hiçe sayan bilim insanlarının da bu suçlara ortak olduğunu gözler önüne serdi.\n\nDoktorlar Duruşması, modern tıp etiği ve insan hakları hukuku açısından bir dönüm noktası kabul edilir. Mahkeme süreci, tıbbi araştırmalarda gönüllü rızasının ve etik standartların zorunluluğunu vurgulayan Nürnberg Kodu'nun ortaya çıkmasına zemin hazırladı. Nazi ideolojisinin ırkçı ve sosyal Darwinist temelleriyle meşrulaştırılmaya çalışılan bu vahşi deneyler, mahkeme kayıtlarıyla dünya kamuoyuna açıklandı. Bu yargılamalar, tıp dünyasında hastaya zarar vermeme ilkesinin evrensel bir hukuk kuralı haline gelmesinde ve tıbbi araştırmaların denetim altına alınmasında kritik bir rol oynadı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Color_photograph_of_judges%27_bench_at_IMT.jpg/960px-Color_photograph_of_judges%27_bench_at_IMT.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Color_photograph_of_judges%27_bench_at_IMT.jpg/500px-Color_photograph_of_judges%27_bench_at_IMT.jpg",
@@ -335,7 +221,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Color_photograph_of_judges%27_bench_at_IMT.jpg",
         "aciklama": "\"The judges at their bench (left) in Room 600 at the Palace of Justice, Nuremberg, during proceedings against leading Nazi figures for war crimes at the International Military Tribunal (IMT), Germany,",
         "konu": "Nürnberg Uluslararası Askerî Ceza Mahkemesi"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1949-birlesmis-milletler-kuduste-yonetimi-aldi",
@@ -345,10 +232,10 @@
         "Birleşmiş Milletler",
         "Kudüs"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Birleşmiş Milletler Kudüs'ün Yönetimini Üstlendi",
+      "ozet": "Birleşmiş Milletler Genel Kurulu, 1949 yılının Aralık ayında aldığı kritik bir kararla Kudüs'ün uluslararası bir rejim altında yönetilmesini öngören bir planı kabul etti. Bu karar, şehrin hem Yahudiler hem de Müslümanlar ve Hristiyanlar için taşıdığı derin dini ve tarihi önemi korumak amacıyla, Kudüs'ün tarafsız bir bölge olarak BM denetiminde kalmasını hedefliyordu. Söz konusu adım, bölgedeki çatışmaların tırmandığı bir dönemde, şehrin statüsünü uluslararası hukukun güvencesi altına alma girişimi olarak tarihe geçti.\n\nKudüs, binlerce yıllık geçmişi boyunca pek çok kez el değiştirmiş, kuşatılmış ve farklı imparatorlukların egemenliği altında kalmış bir merkezdir. Birleşmiş Milletler'in bu girişimi, şehrin çok kültürlü ve çok dinli yapısını korumaya yönelik diplomatik bir çaba olsa da, bölgedeki siyasi gerçeklikler ve taraflar arasındaki anlaşmazlıklar nedeniyle uzun vadede hedeflenen kalıcı barış ortamını sağlamakta zorlandı. Bu karar, modern Orta Doğu tarihinin en karmaşık meselelerinden biri olan Kudüs'ün statüsü tartışmalarında önemli bir dönüm noktası olarak kabul edilmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg/960px-Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg/500px-Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg",
@@ -361,7 +248,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Dome_of_the_Rock_seen_from_the_Mount_of_Olives_(12395649153)_(cropped).jpg",
         "aciklama": "Dome of the Rock seen from the Mount of Olives in Jerusalem Jerusalem",
         "konu": "Kudüs"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1950-soguk-savas-harry-gold-ii-dunya-savasi",
@@ -374,51 +262,24 @@
         "atom bombası",
         "Sovyetler Birliği"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Atom Bombası Sırlarını Sızdıran Casus Harry Gold'a Hapis Cezası",
+      "ozet": "Harry Gold, II. Dünya Savaşı döneminde Amerika Birleşik Devletleri'nin yürüttüğü nükleer silah geliştirme çalışmalarına dair kritik bilgileri Sovyetler Birliği'ne aktardığı suçlamasıyla yargılandığı davada 30 yıl hapis cezasına mahkûm edildi. Gold'un eylemleri, Soğuk Savaş'ın ilk yıllarında Batı dünyasında büyük bir güvenlik endişesine yol açan nükleer casusluk faaliyetlerinin en önemli halkalarından biri olarak kabul edildi. Bu olay, ABD'nin atom bombası üzerindeki tekelini koruma çabalarının ve Sovyetler Birliği'nin nükleer kapasitesini hızla geliştirme sürecinin bir yansımasıydı. Gold'un itirafları ve yargılanma süreci, dönemin casusluk ağlarının deşifre edilmesinde kritik bir rol oynadı. Soğuk Savaş'ın gergin atmosferinde gerçekleşen bu mahkûmiyet, nükleer silahların yayılmasını önleme çabalarının ve ideolojik bloklar arasındaki istihbarat savaşlarının ne denli sertleştiğini gözler önüne serdi. Bu dava, sadece bir casusluk vakası olmanın ötesinde, küresel güç dengelerinin nükleer teknoloji üzerinden yeniden şekillendiği bir dönemin sembolik olaylarından biri haline geldi.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Infobox_collage_for_Cold_War.png",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Infobox_collage_for_Cold_War.png",
-        "genislik": 503,
-        "yukseklik": 600,
-        "orijinalGenislik": 503,
-        "yazar": "AlexTref871",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Infobox_collage_for_Cold_War.png",
-        "aciklama": "Montage of Cold War",
-        "konu": "Soğuk Savaş"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Little_Boy_bomb.jpg/960px-Little_Boy_bomb.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Little_Boy_bomb.jpg/500px-Little_Boy_bomb.jpg",
+        "genislik": 960,
+        "yukseklik": 635,
+        "orijinalGenislik": 5900,
+        "yazar": "US Atomic Energy Commission (now US Department of Energy)",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Little_Boy_bomb.jpg",
+        "aciklama": "Photograph of a Little Boy nuclear bomb, the same type of weapon dropped on Hiroshima, Japan, in August 1945. This was the first photograph of a Little Boy bomb casing to ever be released by the U.S. ",
+        "konu": "atom bombası"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Infobox_collage_for_Cold_War.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Infobox_collage_for_Cold_War.png",
-          "genislik": 503,
-          "yukseklik": 600,
-          "orijinalGenislik": 503,
-          "yazar": "AlexTref871",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Infobox_collage_for_Cold_War.png",
-          "aciklama": "Montage of Cold War",
-          "konu": "Soğuk Savaş"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Little_Boy_bomb.jpg/960px-Little_Boy_bomb.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Little_Boy_bomb.jpg/500px-Little_Boy_bomb.jpg",
-          "genislik": 960,
-          "yukseklik": 635,
-          "orijinalGenislik": 5900,
-          "yazar": "US Atomic Energy Commission (now US Department of Energy)",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Little_Boy_bomb.jpg",
-          "aciklama": "Photograph of a Little Boy nuclear bomb, the same type of weapon dropped on Hiroshima, Japan, in August 1945. This was the first photograph of a Little Boy bomb casing to ever be released by the U.S. ",
-          "konu": "atom bombası"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1953-general-electric-tum-komunist-personellerini-isten-atacagini",
@@ -459,10 +320,10 @@
         "Nikolay Podgorni",
         "Sovyetler Birliği"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Nikolay Podgorni Sovyetler Birliği Devlet Başkanı Oldu",
+      "ozet": "Nikolay Podgorni, 1965 yılının Aralık ayında Sovyetler Birliği'nin en üst düzey devlet temsilcisi olan Yüksek Sovyet Prezidyumu Başkanlığı görevine getirildi. Ukrayna asıllı bir siyasetçi olan Podgorni, bu görevi üstlenerek Sovyetler Birliği'nin dış dünyadaki resmi yüzü haline geldi. Nikita Kruşçev'in görevden uzaklaştırılmasının ardından şekillenen yeni yönetim yapısında, Leonid Brejnev ile birlikte iktidarın önemli figürlerinden biri olarak öne çıktı.\n\nPodgorni'nin başkanlık dönemi, Sovyetler Birliği'nin Soğuk Savaş'ın ortasında süper güç konumunu korumaya çalıştığı bir sürece denk geldi. Devlet başkanlığı makamı, SSCB'nin merkeziyetçi yapısı içerisinde sembolik bir ağırlığa sahip olsa da, Podgorni'nin parti içindeki konumu ve SBKP Politbüro üyeliği, onun devlet politikalarının belirlenmesinde etkili bir rol oynamasını sağladı. 1977 yılına kadar sürdürdüğü bu görev, Sovyet bürokrasisinin ve siyasi hiyerarşisinin istikrar arayışını yansıtan önemli bir dönem olarak kabul edilir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Nikolai_Podgorny_in_1973.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Nikolai_Podgorny_in_1973.jpg",
@@ -475,7 +336,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Nikolai_Podgorny_in_1973.jpg",
         "aciklama": "Ystävyys-, yhteistyö- ja avunantosopimuksen allekirjoitus Finlandia-talossa. Kuvassa Neuvostoliiton presidentti Nikolai Viktorovitš Podgornyi.",
         "konu": "Nikolay Podgorni"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1966-barbados-birlesmis-milletlere-uye-oldu",
@@ -514,10 +376,10 @@
         "Batı Şeria",
         "Birinci İntifada"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Birinci İntifada'nın Başlangıcı",
+      "ozet": "Birinci İntifada, 1987 yılının Aralık ayında Gazze Şeridi'ndeki Cibaliye Mülteci Kampı'nda başlayan ve kısa sürede tüm Filistin topraklarına yayılan kitlesel bir halk ayaklanmasıdır. İsrail ordusuna ait bir aracın dört Filistinliyi öldürmesiyle tetiklenen olaylar, bölgedeki uzun süreli işgalin yarattığı gerilimin bir dışavurumu olarak tarihe geçmiştir. Bu olay, Filistin halkının İsrail yönetimine karşı başlattığı geniş çaplı bir sivil itaatsizlik hareketinin başlangıç noktası kabul edilir.\n\nAyaklanma süreci boyunca Filistinliler, İsrail kurumlarını boykot etmek, vergi ödemeyi reddetmek, genel grevler düzenlemek ve askeri noktalara karşı taşlı eylemlerde bulunmak gibi çeşitli yöntemlere başvurmuştur. İsrail yönetimi ise bu protestoları bastırmak amacıyla bölgeye on binlerce asker sevk etmiştir. 1993 yılında imzalanan Oslo Anlaşmaları'na kadar devam eden bu süreç, Orta Doğu siyasi tarihinde dönüm noktalarından biri olmuş ve Filistin meselesinin uluslararası arenada daha görünür hale gelmesinde etkili olmuştur.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Jabalya1988roadblock.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Jabalya1988roadblock.jpg",
@@ -530,7 +392,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Jabalya1988roadblock.jpg",
         "aciklama": "IDF soldier checking a car at a road block near Jabalia during the first intifada",
         "konu": "Birinci İntifada"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1990-solidarnosc-bagimsiz-ozerk-isci-sendikasi-dayanisma-hareketinin",
@@ -541,10 +404,10 @@
         "Lech Wałęsa",
         "Polonya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Lech Wałęsa'nın Polonya Cumhurbaşkanlığı Seçimini Kazanması",
+      "ozet": "Polonya'da komünist rejimin sona ermesinde kilit rol oynayan Dayanışma (Solidarność) hareketinin lideri Lech Wałęsa, 1990 yılında yapılan cumhurbaşkanlığı seçimlerinden zaferle ayrılarak ülkenin yeni devlet başkanı oldu. Gdańsk tersanelerinde bir işçi olarak başladığı mücadelesini, sosyalist yönetime karşı geniş çaplı bir toplumsal harekete dönüştüren Wałęsa, bu seçim başarısıyla Polonya'nın çok partili düzene geçiş sürecini resmen taçlandırmış oldu. 1983 Nobel Barış Ödülü sahibi olan Wałęsa, 1980'li yıllar boyunca komünist parti denetimi dışındaki ilk bağımsız sendikal örgütlenmeyi yöneterek, hükûmeti reform yapmaya zorlayan sürecin baş aktörüydü. Seçim zaferi, sadece bir liderin iktidara gelişi değil, aynı zamanda Varşova Paktı ülkeleri arasında komünist egemenliğin tamamen tasfiye edilmesinin sembolik bir sonucuydu. Wałęsa'nın başkanlığı, Polonya'nın demokratikleşme ve piyasa ekonomisine geçiş döneminde kritik bir dönemeç teşkil etti. Bu süreç, Dayanışma hareketinin bir protesto örgütünden devlet yönetimine uzanan tarihsel dönüşümünü de gözler önüne serdi. Wałęsa, 1995 yılına kadar sürdürdüğü görevi boyunca ülkesinin Avrupa ile entegrasyonu ve siyasi istikrarı için önemli adımlar attı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_%28cropped%29.jpg",
@@ -557,7 +420,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_(cropped).jpg",
         "aciklama": "Lech Wałęsa w 2026",
         "konu": "Lech Wałęsa"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1992-birlesik-krallik-prensi-charles-ve-prenses-diana",
@@ -567,51 +431,24 @@
         "III. Charles",
         "Diana (Galler prensesi)"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Galler Prensi Charles ve Prenses Diana'nın Ayrılığı",
+      "ozet": "1981 yılında dünya çapında büyük bir ilgiyle takip edilen görkemli bir törenle evlenen Galler Prensi Charles ve Prenses Diana, 1992 yılının sonunda yollarını ayırma kararı aldıklarını açıkladılar. İngiliz kraliyet ailesi için oldukça sarsıcı olan bu duyuru, çiftin uzun süredir devam eden evlilik sorunlarının ve kamuoyuna yansıyan anlaşmazlıkların resmi bir sonucu olarak görüldü. Bu ayrılık kararı, Britanya monarşisinin modern tarihindeki en çok konuşulan ve tartışılan olaylardan biri haline geldi.\n\nÇiftin evliliği, Prens William ve Prens Harry gibi iki varisin dünyaya gelmesine rağmen, zamanla ciddi fikir ayrılıkları ve kişisel sorunlarla gölgelenmişti. Ayrılık açıklaması, kraliyet ailesinin geleneksel yapısı ile medyanın yoğun ilgisi arasındaki gerilimi de gözler önüne serdi. Bu gelişme, sadece bir evliliğin sonu değil, aynı zamanda İngiliz kraliyet ailesinin halkla ilişkilerinde ve özel hayatlarının gizliliği konusunda yeni bir dönemin başlangıcı olarak kabul edildi. Çiftin boşanma süreci, 1996 yılındaki resmi boşanmaya kadar devam eden uzun ve sancılı bir dönemi beraberinde getirdi.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/King_Charles_III_%28July_2023%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/King_Charles_III_%28July_2023%29.jpg",
-        "genislik": 727,
-        "yukseklik": 1025,
-        "orijinalGenislik": 727,
-        "yazar": "White House",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:King_Charles_III_(July_2023).jpg",
-        "aciklama": "It was an honor meeting with His Majesty this morning for a wide-ranging discussion on the global challenges facing our nations.",
-        "konu": "III. Charles"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Diana%2C_Princess_of_Wales_1997_%282%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Diana%2C_Princess_of_Wales_1997_%282%29.jpg",
+        "genislik": 694,
+        "yukseklik": 928,
+        "orijinalGenislik": 694,
+        "yazar": "John Mathew Smith & www.celebrity-photos.com from Laurel Maryland, USA (Archived link)",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Diana,_Princess_of_Wales_1997_(2).jpg",
+        "aciklama": "Diana, Princess Of Wales, At The American Red Cross Headquarters In Washington D.C To Make A Speech For The Anti-landmines Campaign. This photo was on the cover of U.S News magazine and was the best s",
+        "konu": "Diana (Galler prensesi)"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/King_Charles_III_%28July_2023%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/King_Charles_III_%28July_2023%29.jpg",
-          "genislik": 727,
-          "yukseklik": 1025,
-          "orijinalGenislik": 727,
-          "yazar": "White House",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:King_Charles_III_(July_2023).jpg",
-          "aciklama": "It was an honor meeting with His Majesty this morning for a wide-ranging discussion on the global challenges facing our nations.",
-          "konu": "III. Charles"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Diana%2C_Princess_of_Wales_1997_%282%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Diana%2C_Princess_of_Wales_1997_%282%29.jpg",
-          "genislik": 694,
-          "yukseklik": 928,
-          "orijinalGenislik": 694,
-          "yazar": "John Mathew Smith & www.celebrity-photos.com from Laurel Maryland, USA (Archived link)",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Diana,_Princess_of_Wales_1997_(2).jpg",
-          "aciklama": "Diana, Princess Of Wales, At The American Red Cross Headquarters In Washington D.C To Make A Speech For The Anti-landmines Campaign. This photo was on the cover of U.S News magazine and was the best s",
-          "konu": "Diana (Galler prensesi)"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1995-nazim-hikmetin-ruzgara-karsi-yuruyen-adam-heykeli",
@@ -621,10 +458,10 @@
         "Nâzım Hikmet",
         "Fikri Sağlar"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Nâzım Hikmet Heykeli Ankara'da Yerini Aldı",
+      "ozet": "Türk edebiyatının dünya çapındaki ismi Nâzım Hikmet'in anısını yaşatmak amacıyla hazırlanan \"Rüzgâra Karşı Yürüyen Adam\" heykeli, 1995 yılının Aralık ayında düzenlenen bir törenle Ankara Atatürk Kültür Merkezi'nin bahçesine dikildi. Dönemin Kültür Bakanı Fikri Sağlar'ın da katılımıyla gerçekleşen bu etkinlik, şairin Türkiye'deki kültürel hafızada yeniden hak ettiği yeri bulması adına atılan sembolik adımlardan biri olarak kabul edildi. Heykelin yerleştirilmesi, Nâzım Hikmet'in uzun yıllar süren sürgün hayatı ve vatandaşlıktan çıkarılma süreciyle yaralanan toplumsal vicdanın onarılması çabalarının bir parçası niteliğindeydi.\n\nNâzım Hikmet, serbest nazımın Türk edebiyatındaki öncüsü olarak 20. yüzyılın en önemli şairleri arasında yer almaktadır. Siyasi görüşleri nedeniyle hayatının büyük bir kısmını hapishanelerde ve sürgünde geçiren şair, 1951 yılında Türkiye Cumhuriyeti vatandaşlığından çıkarılmıştı. Ölümünden yıllar sonra gerçekleşen bu heykel dikme töreni, şairin eserlerinin ve düşünce dünyasının Türkiye'de yeniden sahiplenilmeye başlandığı bir döneme denk gelmektedir. Heykel, şairin zorlu yaşam mücadelesini ve ideallerine olan bağlılığını temsil eden sanatsal bir anıt olarak Ankara'nın kamusal alanındaki yerini almıştır.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg/960px-N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg/500px-N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg",
@@ -637,7 +474,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:N%C3%A2z%C4%B1m_Hikmet,_Berlin_1956_(1).jpg",
         "aciklama": "Nâzım Hikmet, photographed by Hans-Joachim Koch at the IV German Writers' Congress, 9–14 January 1956, in East Berlin.",
         "konu": "Nâzım Hikmet"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "2002-endonezya-hukumetiyle-acehteki-ayrilikcilar-arasinda-26-yillik",
@@ -647,10 +485,10 @@
         "Endonezya",
         "Açe"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Açe'de Yirmi Altı Yıllık Çatışmaya Son Veren Barış Antlaşması",
+      "ozet": "Endonezya hükümeti ile Sumatra Adası'nın kuzey ucunda yer alan Açe bölgesindeki ayrılıkçı Özgür Açe Hareketi temsilcileri, uzun yıllardır devam eden silahlı çatışmaları durdurmak amacıyla Cenevre'de bir araya gelerek tarihi bir barış antlaşmasına imza attılar. 1976 yılından bu yana bölgede süregelen ve binlerce insanın hayatını kaybetmesine, bölgenin ekonomik ve sosyal yapısının büyük zarar görmesine neden olan çatışmalar, bu diplomatik girişimle önemli bir dönüm noktasına ulaştı. Antlaşma, taraflar arasında güven ortamı oluşturmayı ve bölgeye kalıcı bir istikrar getirmeyi hedefleyen kapsamlı bir yol haritası sundu. \n\nBu antlaşma, Endonezya'nın toprak bütünlüğünü koruma çabası ile Açe halkının yerel yönetim ve kültürel kimlik talepleri arasında bir denge kurma girişimi olarak değerlendirildi. Uzun süren savaşın ardından gelen bu uzlaşı, bölgedeki şiddet sarmalını kırmak adına atılan en somut adım oldu. Ancak barışın tesisi, sadece imzalanan metinlerle sınırlı kalmayıp, sonraki yıllarda bölgenin yeniden inşası ve siyasi statüsünün belirlenmesi gibi zorlu süreçleri de beraberinde getirdi. Bu gelişme, Güneydoğu Asya'daki ayrılıkçı hareketlerin çözümünde diplomatik yolların önemini vurgulayan örneklerden biri olarak tarihe geçti.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/IndonesiaAceh.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/IndonesiaAceh.png",
@@ -663,7 +501,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:IndonesiaAceh.png",
         "aciklama": null,
         "konu": "Açe"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "2002-amerika-birlesik-devletlerinin-ve-dunyanin-ikinci-buyuk",
