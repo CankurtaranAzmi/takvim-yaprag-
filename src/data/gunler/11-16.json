@@ -1010,10 +1010,6 @@
       "metin": "Mustapha Hadji, Faslı futbolcu"
     },
     {
-      "yil": 1974,
-      "metin": "Hannah Waddingham, İngiliz oyuncu ve şarkıcı"
-    },
-    {
       "yil": 1975,
       "metin": "Gábor Bukrán, Macar futbolcu"
     },
@@ -1149,7 +1145,7 @@
     },
     {
       "yil": 1947,
-      "metin": "Giuseppe Volpi, İtalyan iş insanı ve politikacısı (d. 1877)"
+      "metin": "Giuseppe Volpi, İtalyan iş adamı ve politikacısı (d. 1877)"
     },
     {
       "yil": 1960,
@@ -1297,7 +1293,7 @@
     },
     {
       "yil": 2019,
-      "metin": "John Campbell Brown, İskoç astronom, akademisyen ve bilim insanı (d. 1947)"
+      "metin": "John Campbell Brown, İskoç astronom, akademisyen ve bilim adamı (d. 1947)"
     },
     {
       "yil": 2019,
@@ -1366,9 +1362,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/16_Kas%C4%B1m",
-    "revid": 38169031
+    "revid": 38610937
   },
-  "guncelleme": "2026-11-15T13:37:52.690Z",
+  "guncelleme": "2026-11-16T15:08:39.941Z",
   "haberler": [
     {
       "id": "2024-haber-2269216",
@@ -1605,13 +1601,13 @@
       "konular": [
         "Konya Büyükşehir Belediyesi",
         "Konya",
-        "Belediyecilik"
+        "Belediye"
       ],
       "yayin": "2019-11-16T21:23:00+03:00",
       "puan": 8,
       "durum": "elendi",
-      "baslik": "Konya Büyükşehir Belediyesi ulaşım ve su tarifelerini güncelledi",
-      "ozet": "Konya Büyükşehir Belediyesi tarafından alınan karar doğrultusunda toplu taşıma ücretlerinde yüzde 15 oranında artış yapıldı. Aynı düzenleme kapsamında su fiyatlarında da değişikliğe gidildi. Belirlenen yeni tarifenin gelecek yılın ilk gününden itibaren yürürlüğe gireceği duyuruldu.",
+      "baslik": "Konya Büyükşehir Belediyesi ulaşım ve su tarifelerinde değişikliğe gitti",
+      "ozet": "Konya Büyükşehir Belediyesi tarafından alınan karar doğrultusunda toplu taşıma ücretlerinde yüzde 15 oranında artış yapıldı. Aynı düzenleme kapsamında su fiyatlarında da fiyat artışına gidilmesi kararlaştırıldı. Belirlenen yeni tarife uygulaması önümüzdeki yılın ilk gününden itibaren hayata geçirilecek.",
       "kategori": "Ekonomi"
     },
     {
@@ -1805,13 +1801,13 @@
       "konular": [
         "Rıza Sarraf",
         "Bekir Bozdağ",
-        "Loretta Lynch"
+        "Türkiye-Amerika Birleşik Devletleri ilişkileri"
       ],
       "yayin": "2016-11-16T21:07:00+03:00",
       "puan": 9,
       "durum": "yazildi",
-      "baslik": "Adalet Bakanı Bozdağ ve ABD Adalet Bakanı Lynch görüştü",
-      "ozet": "Adalet Bakanı Bekir Bozdağ, Amerika Birleşik Devletleri ziyareti kapsamında mevkidaşı Loretta Lynch ile bir araya geldi. Yapılan görüşmede, kara para aklama ve dolandırıcılık suçlamalarıyla tutuklu bulunan Rıza Sarraf'ın serbest bırakılması konusunun gündeme geldiği belirtildi. Söz konusu temas, Cumhuriyet Halk Partisi milletvekili Eren Erdem tarafından Türkiye Büyük Millet Meclisi gündemine taşındı.",
+      "baslik": "Adalet Bakanı Bozdağ ABD Adalet Bakanı ile görüştü",
+      "ozet": "Adalet Bakanı Bekir Bozdağ, Amerika Birleşik Devletleri'ne gerçekleştirdiği ziyarette mevkidaşı Loretta Lynch ile bir araya geldi. Görüşmede, kara para aklama ve dolandırıcılık suçlamalarıyla tutuklu bulunan Rıza Sarraf'ın serbest bırakılması talebi gündeme getirildi. Söz konusu temaslar, Cumhuriyet Halk Partisi milletvekili Eren Erdem tarafından Türkiye Büyük Millet Meclisi gündemine taşındı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bekir_Bozda%C4%9F_%28cropped%29.jpg",
