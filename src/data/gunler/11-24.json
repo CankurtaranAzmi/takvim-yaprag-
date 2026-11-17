@@ -1143,7 +1143,7 @@
     "url": "https://tr.wikipedia.org/wiki/24_Kas%C4%B1m",
     "revid": 38169446
   },
-  "guncelleme": "2026-11-16T15:08:43.106Z",
+  "guncelleme": "2026-11-17T15:39:56.894Z",
   "haberler": [
     {
       "id": "2025-haber-2455461",
@@ -1156,10 +1156,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/kayyimin-sisli-belediye-meclisiyle-ilgili-karari-idare-mahkemesine-tasindi-2455461"
       },
-      "konular": [],
+      "konular": [
+        "Şişli",
+        "Belediye meclisi",
+        "Kayyım"
+      ],
       "yayin": "2025-11-24T16:12:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Şişli Belediye Meclisinin Yetkileri İçin Hukuki Süreç Başlatıldı",
+      "ozet": "Şişli Belediyesinde yaşanan başkan değişikliği ve kayyım ataması sonrasında belediye meclisinin yetkilerinin kısıtlanması yargıya taşındı. İdare mahkemesinde görülen ilk duruşmada, yerel yönetim organının işlevselliğinin yeniden kazandırılması talebi görüşüldü. Belediye meclisinin faaliyetlerinin durdurulmasına yönelik kararın iptali için başlatılan hukuki girişim, yerel idarenin yönetimi üzerindeki etkileri nedeniyle takip ediliyor.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2025-haber-2455433",
@@ -1172,10 +1179,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-sampiyonlar-ligi-nde-ilk-pesinde-2455433"
       },
-      "konular": [],
+      "konular": [
+        "Galatasaray",
+        "UEFA Şampiyonlar Ligi",
+        "Union Saint-Gilloise"
+      ],
       "yayin": "2025-11-24T15:06:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Galatasaray Avrupa arenasında Belçika temsilcisiyle karşılaşıyor",
+      "ozet": "UEFA Şampiyonlar Ligi grup aşamasının beşinci haftasında Galatasaray, sahasında Union Saint-Gilloise ekibini ağırlamaya hazırlanıyor. Sarı-kırmızılı takım bu müsabaka ile birlikte tarihinde Belçika kulüplerine karşı dokuzuncu kez sahaya çıkmış olacak.",
+      "kategori": "Spor"
     },
     {
       "id": "2024-haber-2272074",
@@ -1188,10 +1202,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/chp-kayyum-ve-siyasi-yasak-davalarinin-erdoganin-guvenligi-icin-2272074"
       },
-      "konular": [],
+      "konular": [
+        "Cumhuriyet Halk Partisi",
+        "Özgür Özel",
+        "Kayyum"
+      ],
       "yayin": "2024-11-24T04:00:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "CHP Genel Başkanı Özel belediye başkanlarını Ankara toplantısına çağırdı",
+      "ozet": "Cumhuriyet Halk Partisi Genel Başkanı Özgür Özel, Tunceli ve Ovacık belediyelerine yapılan görevlendirmelerin ardından bir değerlendirme süreci başlattı. Bu kapsamda parti bünyesindeki tüm belediye başkanlarını 30 Kasım tarihinde Ankara'da düzenlenecek olan toplantıya davet etti. Söz konusu atamaların ve siyasi yasak davalarının iktidarın kendi güvenliğini sağlama amacı taşıdığını ifade etti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/%C3%96zg%C3%BCr_%C3%96zel_rally_in_%C4%B0zmir%2C_May_2026_37_%28cropped%29.jpg/960px-%C3%96zg%C3%BCr_%C3%96zel_rally_in_%C4%B0zmir%2C_May_2026_37_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/%C3%96zg%C3%BCr_%C3%96zel_rally_in_%C4%B0zmir%2C_May_2026_37_%28cropped%29.jpg/500px-%C3%96zg%C3%BCr_%C3%96zel_rally_in_%C4%B0zmir%2C_May_2026_37_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1327,
+        "orijinalGenislik": 1836,
+        "yazar": "Koray",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%96zg%C3%BCr_%C3%96zel_rally_in_%C4%B0zmir,_May_2026_37_(cropped).jpg",
+        "aciklama": "Mutlak butlan kararı sonrası Özgür Özel'in İzmir'deki ilk mitingi",
+        "konu": "Özgür Özel"
+      }
     },
     {
       "id": "2024-haber-2272084",
@@ -1204,10 +1238,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/karsta-deprem-mi-oldu-24-kasim-2024-nerede-ne-zaman-deprem-oldu-2272084"
       },
-      "konular": [],
+      "konular": [
+        "Deprem",
+        "Kars"
+      ],
       "yayin": "2024-11-24T09:04:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Kars merkezli sarsıntı bölgede hissedildi",
+      "ozet": "Kars ilinde meydana gelen deprem çevre bölgelerde de hissedildi. Sarsıntının ardından bölge halkı depremin merkez üssü ve şiddeti hakkında bilgi almak için ilgili kurumların verilerini takip etti. Yetkililer tarafından yapılan açıklamalarla sarsıntının detayları kamuoyuyla paylaşıldı.",
+      "kategori": "Afet"
     },
     {
       "id": "2023-haber-2144303",
@@ -1220,10 +1260,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/dev-abdli-yatirim-bankasi-goldman-sachstan-faiz-kararina-iliskin-yeni-2144303"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Goldman Sachs",
+        "Faiz"
+      ],
       "yayin": "2023-11-24T09:09:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Goldman Sachs Türkiye Cumhuriyet Merkez Bankası faiz beklentisini güncelledi",
+      "ozet": "ABD merkezli yatırım kuruluşu Goldman Sachs, Türkiye Cumhuriyet Merkez Bankası tarafından alınan son faiz kararını değerlendirdi. Banka, politika faizinin 250 baz puanlık bir artışla yüzde 42,50 seviyesine ulaşacağını ve bu hamlenin ardından mevcut sıkılaşma döngüsünün sona ereceğini öngördüğünü belirtti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2144412",
@@ -1236,10 +1283,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/iyi-partide-toplu-istifa-para-muslugunun-basinda-olan-kisi-ile-2144412"
       },
-      "konular": [],
+      "konular": [
+        "İYİ Parti",
+        "Bandırma",
+        "Siyaset"
+      ],
       "yayin": "2023-11-24T12:48:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İYİ Parti Bandırma teşkilatında toplu ayrılık kararı alındı",
+      "ozet": "Bandırma Demokrat Platformu Başkanı Adnan Erdan ve beraberindeki yaklaşık yüz kişilik grup, İYİ Parti üyeliğinden ayrılacaklarını duyurdu. Söz konusu grup, parti yönetimiyle yaşadıkları görüş ayrılıkları nedeniyle bu kararı aldıklarını belirtti. İstifa eden isimler, parti içindeki mali süreçlerin yönetimiyle ilgili eleştirilerini dile getirerek yollarını ayırdıklarını ifade etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-2005643",
@@ -1252,10 +1306,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/dolartlnin-gozu-merkez-bankasinin-faiz-kararinda-dolar-ne-kadar-oldu-24-kasim-2022-2005643"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Dolar",
+        "Ekonomi"
+      ],
       "yayin": "2022-11-24T09:31:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Merkez Bankası faiz kararı piyasalar tarafından takip ediliyor",
+      "ozet": "Dolar kuru 18,60 seviyelerinde yatay bir seyir izlerken gözler Türkiye Cumhuriyet Merkez Bankası tarafından açıklanacak faiz kararına çevrildi. Beklentiler, politika faizinin yüzde 9 seviyesine indirilerek yıl sonu için hedeflenen tek haneli rakamlara ulaşılması ve mevcut gevşeme sürecinin sonlandırılması yönünde yoğunlaştı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2021-haber-1887517",
@@ -1268,10 +1329,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/ajax-besiktas-macinda-sampiyonlar-ligi-tarihine-gecti-1887517"
       },
-      "konular": [],
+      "konular": [
+        "UEFA Şampiyonlar Ligi",
+        "Ajax",
+        "Sebastian Haller"
+      ],
       "yayin": "2021-11-24T22:51:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Ajax Şampiyonlar Ligi grup aşamasında tarihi bir başarıya ulaştı",
+      "ozet": "Beşiktaş ile oynadığı karşılaşmadan galibiyetle ayrılan Ajax, Şampiyonlar Ligi grup aşamasındaki ilk beş mücadelesini de kazanarak turnuva tarihinde bir ilki gerçekleştirdi. Hollanda ekibinin elde ettiği bu başarıda önemli rol oynayan Sebastian Haller, attığı gollerle organizasyonun istatistiklerine adını yazdırdı. Kulüp ve oyuncu bazında kırılan bu rekorlar, Avrupa futbolunda dikkat çeken bir gelişme olarak kayıtlara geçti.",
+      "kategori": "Spor",
+      "gorsel": null
     },
     {
       "id": "2021-haber-1887516",
@@ -1284,10 +1353,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika--5inci-yargi-paketini-iceren-kanun-teklifi-tbmm-genel-kurulunda-kabul-edildi-1887516"
       },
-      "konular": [],
+      "konular": [
+        "İcra ve İflas Kanunu",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2021-11-24T22:33:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Beşinci Yargı Paketi Türkiye Büyük Millet Meclisi Genel Kurulunda Onaylandı",
+      "ozet": "İcra ve İflas Kanunu ile çeşitli kanunlarda düzenlemeler öngören yasal teklif, Türkiye Büyük Millet Meclisi Genel Kurulunda yapılan görüşmelerin ardından kabul edildi. Kabul edilen yeni düzenleme ile birlikte vatandaşların haczedilen mallarının satış ve elden çıkarılma süreçlerinde kolaylık sağlanması hedeflendi.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2020-haber-1793532",
@@ -1300,10 +1376,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/arincin-istifasi-ve-reform-soyleminin-altinin-doldurulamamasinin-ardindan-dolar-yeniden-yukselise-gecti-1793532"
       },
-      "konular": [],
+      "konular": [
+        "Dolar",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2020-11-24T19:39:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Döviz kurlarında yeniden yukarı yönlü hareketlilik gözlemlendi",
+      "ozet": "Ekonomi yönetimindeki değişikliklerin ardından bir süre gerileyen dolar kuru, piyasalardaki gelişmelerle birlikte tekrar yükselişe geçti. Söz konusu döviz kuru, gün içerisinde 8 Türk lirasının üzerine çıkarak yeniden değer kazandı.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/USDnotes.png/960px-USDnotes.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/USDnotes.png/500px-USDnotes.png",
+        "genislik": 960,
+        "yukseklik": 837,
+        "orijinalGenislik": 2380,
+        "yazar": "derivative work: Hidro (talk) USDnotes.jpg: The original uploader was Andyhi18 at English Wikipedia.",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:USDnotes.png",
+        "aciklama": "Includes new banknotes",
+        "konu": "Dolar"
+      }
     },
     {
       "id": "2020-haber-1793509",
@@ -1316,10 +1411,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ust-mahkeme-karari-bozdu-palu-ailesi-davasi-yeniden-basladi-1793509"
       },
-      "konular": [],
+      "konular": [
+        "Palu ailesi davası",
+        "Kocaeli"
+      ],
       "yayin": "2020-11-24T17:22:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Palu ailesi davasında mahkeme kararı bozuldu",
+      "ozet": "Kocaeli merkezli yürütülen ve kamuoyunun yakından izlediği Meryem Tahnal ile kızı Melike Tahnal'ın kaybolmasına ilişkin dava süreci yeniden başladı. Sakarya Bölge İdare Mahkemesi, daha önce beş aile üyesine verilen cezaları usul eksiklikleri nedeniyle bozdu. Bu gelişmenin ardından yargılama süreci tekrar ele alınmaya başlandı.",
+      "kategori": "Toplum",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Eskihisarkale3k.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Eskihisarkale3k.jpg",
+        "genislik": 800,
+        "yukseklik": 532,
+        "orijinalGenislik": 800,
+        "yazar": "No machine-readable author provided. Bozkurttt assumed (based on copyright claims).",
+        "lisans": "FAL",
+        "lisansUrl": "http://artlibre.org/licence/lal/en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Eskihisarkale3k.jpg",
+        "aciklama": "Gebze deznize açılan penceresi.",
+        "konu": "Kocaeli"
+      }
     },
     {
       "id": "2019-haber-1703957",
@@ -1332,10 +1446,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/protestolarin-dinmedigi-hong-kongda-halk-yerel-secim-icin-sandik-basinda-1703957"
       },
-      "konular": [],
+      "konular": [
+        "2019 Hong Kong yerel seçimleri",
+        "Hong Kong protestoları",
+        "Hong Kong"
+      ],
       "yayin": "2019-11-24T09:30:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Hong Kong halkı protestoların sürdüğü ortamda yerel seçim için oy kullandı",
+      "ozet": "Hong Kong Özel İdari Bölgesi sakinleri, aylardır devam eden hükümet karşıtı gösterilerin etkisi altında mahalli idareleri belirlemek üzere sandık başına gitti. Haziran ayından beri bölgede süregelen siyasi gerginliklerin gölgesinde gerçekleşen seçim süreci, halkın yoğun katılımıyla tamamlandı.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2019-haber-1704039",
@@ -1348,10 +1470,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/trabzonspor-getafe-maci-hazirliklarina-basladi-1704039"
       },
-      "konular": [],
+      "konular": [
+        "Trabzonspor",
+        "Getafe CF",
+        "UEFA Avrupa Ligi"
+      ],
       "yayin": "2019-11-24T16:10:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Trabzonspor Getafe karşılaşması için antrenmanlara start verdi",
+      "ozet": "Trabzonspor, UEFA Avrupa Ligi C Grubu kapsamındaki mücadelesi için çalışmalarına giriş yaptı. Bordo mavili ekip, İspanya temsilcisi Getafe ile kendi sahasında yapacağı karşılaşmanın hazırlık sürecini başlattı.",
+      "kategori": "Spor"
     },
     {
       "id": "2018-haber-1150235",
@@ -1364,10 +1493,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/galatasaray-gozunu-sampiyonlar-ligine-cevirdi-1150235"
       },
-      "konular": [],
+      "konular": [
+        "Galatasaray (futbol takımı)",
+        "UEFA Şampiyonlar Ligi",
+        "Lokomotiv Moskova"
+      ],
       "yayin": "2018-11-24T14:28:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Galatasaray Lokomotiv Moskova deplasmanına hazırlanıyor",
+      "ozet": "Süper Lig'in on üçüncü haftasında Konyaspor ile bir bir berabere kalan Galatasaray, rotasını Avrupa kupalarına çevirdi. Sarı kırmızılı ekip, Şampiyonlar Ligi D Grubu beşinci hafta mücadelesinde deplasmanda karşılaşacağı Lokomotiv Moskova maçının hazırlıklarına başladı.",
+      "kategori": "Spor"
     },
     {
       "id": "2018-haber-1150419",
@@ -1380,10 +1516,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/derya-candan-dunya-rekoru-1150419"
       },
-      "konular": [],
+      "konular": [
+        "Derya Can",
+        "Salda Gölü",
+        "Serbest dalış"
+      ],
       "yayin": "2018-11-24T16:25:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Derya Can Salda Gölü'nde Yeni Bir Dünya Rekoruna İmza Attı",
+      "ozet": "Milli serbest dalış sporcusu Derya Can, Burdur sınırları içerisinde yer alan Salda Gölü'nde gerçekleştirdiği dalışla yeni bir başarıya ulaştı. Toplamda iki dakika beş saniye süren dalış sonucunda altmış sekiz metre derinliğe ulaşan sporcu, kadınlar tatlı su serbest dalış kategorisinde dünya rekorunun yeni sahibi oldu.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Lake_Salda_in_June_2020.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Lake_Salda_in_June_2020.jpg",
+        "genislik": 846,
+        "yukseklik": 846,
+        "orijinalGenislik": 846,
+        "yazar": "NASA Earth Observatory",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Lake_Salda_in_June_2020.jpg",
+        "aciklama": "The image shows Lake Salda on June 8, 2020, as observed by the Operational Land Imager (OLI) on Landsat 8. The lake contains alluvial fans full of rock deposits eroded and washed down from the surroun",
+        "konu": "Salda Gölü"
+      }
     },
     {
       "id": "2017-haber-873131",
@@ -1396,10 +1552,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dolar-cikista-borsa-dustu-avro-rekor-duzeyde-873131"
       },
-      "konular": [],
+      "konular": [
+        "Döviz kuru",
+        "Borsa İstanbul",
+        "Federal Rezerv"
+      ],
       "yayin": "2017-11-24T18:39:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Döviz piyasalarında hareketlilik ve borsa verileri",
+      "ozet": "ABD Merkez Bankası tarafından paylaşılan tutanakların ardından döviz kurlarında değişimler yaşandı. Dolar değer kazanırken Avro kendi rekor seviyesine ulaştı. Bu gelişmelerle eş zamanlı olarak borsa endeksinde düşüş gözlemlendi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2017-haber-872759",
@@ -1412,10 +1575,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hindistanda-siyasetci-aktrisin-basina-15-milyon-dolar-odul-koydu-872759"
       },
-      "konular": [],
+      "konular": [
+        "Bharatiya Janata Partisi",
+        "Hindistan",
+        "Siyaset"
+      ],
       "yayin": "2017-11-24T12:27:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Hindistan'da bir siyasetçiden oyuncu için tartışmalı ödül kararı",
+      "ozet": "İktidar partisi mensubu bir siyasetçi, bir kadın oyuncunun başı için yüksek miktarda para ödülü vadetti. Söz konusu siyasetçinin bu çıkışı kamuoyunda geniş yankı uyandırdı ve tepkilere yol açtı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg/960px-24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg/500px-24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg",
+        "genislik": 960,
+        "yukseklik": 562,
+        "orijinalGenislik": 7320,
+        "yazar": "Lula Oficial",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_(54018866744).jpg",
+        "aciklama": "24.09.2024 - Presidente da República, Luiz Inácio Lula da Silva, durante a Abertura do Debate Geral da 79ª Sessão da Assembleia Geral das Nações Unidas, no Salão da Assembleia Geral, da Sede das Naçõe",
+        "konu": "Siyaset"
+      }
     },
     {
       "id": "2016-haber-635548",
@@ -1428,10 +1611,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kolombiyada-yeni-baris-anlasmasi-imzalandi-635548"
       },
-      "konular": [],
+      "konular": [
+        "Kolombiya barış süreci",
+        "FARC",
+        "Kolombiya"
+      ],
       "yayin": "2016-11-24T21:01:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Kolombiya Hükümeti ve FARC Arasında Yeni Barış Antlaşması İmzalandı",
+      "ozet": "Kolombiya yönetimi ile Kolombiya Devrimci Silahlı Güçleri temsilcileri, uzun süredir devam eden çatışmaları sonlandırmak amacıyla hazırlanan güncellenmiş barış metnini imzaladı. Taraflar arasında varılan bu yeni mutabakat, ülkedeki iç huzuru sağlamaya yönelik atılan önemli bir adım olarak kayıtlara geçti.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2016-haber-635436",
@@ -1444,10 +1635,15 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-ligi-haftanin-11inde-skandal-hata-635436"
       },
-      "konular": [],
+      "konular": [
+        "UEFA Şampiyonlar Ligi"
+      ],
       "yayin": "2016-11-24T16:43:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Şampiyonlar Ligi haftanın kadrosunda dikkat çeken hata",
+      "ozet": "UEFA Şampiyonlar Ligi kapsamında belirlenen haftanın en iyi on bir oyuncusunun yer aldığı listede bir yanlışlık yapıldı. Sosyal medya üzerinden paylaşılan kadro görselindeki hata, futbolseverlerin ve takipçilerin gözünden kaçmadı. Söz konusu durum kısa sürede gündeme geldi.",
+      "kategori": "Spor"
     },
     {
       "id": "2015-haber-430371",
@@ -1460,10 +1656,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/merkez-bankasindan-faiz-karari-430371"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Faiz"
+      ],
       "yayin": "2015-11-24T14:04:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Merkez Bankası faiz oranlarında değişikliğe gitmedi",
+      "ozet": "Türkiye Cumhuriyet Merkez Bankası gerçekleştirdiği toplantı sonucunda mevcut faiz oranlarını sabit tutma kararı aldı. Banka tarafından yapılan açıklamada, para politikası uygulamalarında herhangi bir değişikliğe gidilmediği belirtildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2015-haber-431059",
@@ -1476,10 +1678,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-ve-obamadan-rus-ucagi-zirvesi-431059"
       },
-      "konular": [],
+      "konular": [
+        "2015 Rus Su-24 uçağının düşürülmesi",
+        "Recep Tayyip Erdoğan",
+        "Barack Obama"
+      ],
       "yayin": "2015-11-24T23:40:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanı Erdoğan ve ABD Başkanı Obama Rus uçağı konusunu görüştü",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ile Amerika Birleşik Devletleri Başkanı Barack Obama bir telefon görüşmesi gerçekleştirdi. İki lider, Türk hava sahasını ihlal eden Rus uçağının düşürülmesiyle sonuçlanan olayı ve bölgedeki gelişmeleri ele aldı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/%D0%91%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D0%BB%D0%B5%D1%82%D1%8B_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%B8_%D1%81_%D0%B0%D1%8D%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC%D0%B0_%C2%AB%D0%A5%D0%BC%D0%B5%D0%B9%D0%BC%D0%B8%D0%BC%C2%BB_%D0%B4%D0%BB%D1%8F_%D0%BD%D0%B0%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D1%83%D0%B4%D0%B0%D1%80%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0%D0%BC_%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2_%D0%B2_%D0%A1%D0%B8%D1%80%D0%B8%D0%B8_%289%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/%D0%91%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D0%BB%D0%B5%D1%82%D1%8B_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%B8_%D1%81_%D0%B0%D1%8D%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC%D0%B0_%C2%AB%D0%A5%D0%BC%D0%B5%D0%B9%D0%BC%D0%B8%D0%BC%C2%BB_%D0%B4%D0%BB%D1%8F_%D0%BD%D0%B0%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D1%83%D0%B4%D0%B0%D1%80%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0%D0%BC_%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2_%D0%B2_%D0%A1%D0%B8%D1%80%D0%B8%D0%B8_%289%29.jpg",
+        "genislik": 900,
+        "yukseklik": 600,
+        "orijinalGenislik": 900,
+        "yazar": "Russian Ministry of Defence",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D0%BB%D0%B5%D1%82%D1%8B_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%B8_%D1%81_%D0%B0%D1%8D%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC%D0%B0_%C2%AB%D0%A5%D0%BC%D0%B5%D0%B9%D0%BC%D0%B8%D0%BC%C2%BB_%D0%B4%D0%BB%D1%8F_%D0%BD%D0%B0%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D1%83%D0%B4%D0%B0%D1%80%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0%D0%BC_%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2_%D0%B2_%D0%A1%D0%B8%D1%80%D0%B8%D0%B8_(9).jpg",
+        "aciklama": "Боевые вылеты российской авиации с аэродрома «Хмеймим» для нанесения ударов по объектам террористов в Сирии",
+        "konu": "2015 Rus Su-24 uçağının düşürülmesi"
+      }
     },
     {
       "id": "2014-haber-149017",
@@ -1492,10 +1714,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/abd-savunma-bakani-istifa-etti-149017"
       },
-      "konular": [],
+      "konular": [
+        "Chuck Hagel",
+        "Amerika Birleşik Devletleri Savunma Bakanlığı",
+        "Amerika Birleşik Devletleri"
+      ],
       "yayin": "2014-11-24T16:48:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Amerika Birleşik Devletleri Savunma Bakanı görevinden ayrıldı",
+      "ozet": "Amerika Birleşik Devletleri Savunma Bakanı Chuck Hagel, görevini bırakma kararı aldığını duyurdu. Bakanın istifasına ilişkin süreç kamuoyuna yansıtıldı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Secretary_of_Defense_Chuck_Hagel._130227-A-SS368-001.jpg/960px-Secretary_of_Defense_Chuck_Hagel._130227-A-SS368-001.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Secretary_of_Defense_Chuck_Hagel._130227-A-SS368-001.jpg/500px-Secretary_of_Defense_Chuck_Hagel._130227-A-SS368-001.jpg",
+        "genislik": 960,
+        "yukseklik": 1200,
+        "orijinalGenislik": 2400,
+        "yazar": "DoD photo by Monica King, U.S. Army. (Released)",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Secretary_of_Defense_Chuck_Hagel._130227-A-SS368-001.jpg",
+        "aciklama": "United States Secretary of Defense Chuck Hagel's official portrait.",
+        "konu": "Chuck Hagel"
+      }
     },
     {
       "id": "2014-haber-148856",
@@ -1508,10 +1750,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/nur-serterden-erdogana-cok-sert-fitrat-cevabi-148856"
       },
-      "konular": [],
+      "konular": [
+        "Nur Serter",
+        "Recep Tayyip Erdoğan",
+        "Siyaset"
+      ],
       "yayin": "2014-11-24T14:05:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Nur Serter ile Cumhurbaşkanı Erdoğan Arasında Fıtrat Tartışması",
+      "ozet": "Cumhurbaşkanı Erdoğan tarafından yapılan bir konuşmada dile getirilen fıtrat kavramına, Nur Serter yanıt verdi. Serter, konuyla ilgili değerlendirmelerini kamuoyuyla paylaşarak eleştirilerini ifade etti. Bu açıklama, siyasi gündemde tartışmalara yol açan bir karşılıklı görüş alışverişi olarak kayıtlara geçti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2013-haber-12587",
@@ -1524,10 +1773,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/iranla-tarihi-anlasma-saglandi-12587"
       },
-      "konular": [],
+      "konular": [
+        "İran'ın nükleer programı",
+        "Cenevre",
+        "İran"
+      ],
       "yayin": "2013-11-24T10:10:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İran ile nükleer program konusunda uzlaşma sağlandı",
+      "ozet": "İsviçre'nin Cenevre şehrinde beş gün boyunca sürdürülen yoğun görüşmeler neticesinde taraflar arasında bir mutabakat imzalandı. İran'ın nükleer faaliyetlerini sınırlandırmasını öngören bu anlaşma, uluslararası diplomasi açısından önemli bir adım olarak değerlendirildi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Views_of_Geneva.jpg/960px-Views_of_Geneva.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Views_of_Geneva.jpg/500px-Views_of_Geneva.jpg",
+        "genislik": 960,
+        "yukseklik": 1200,
+        "orijinalGenislik": 1481,
+        "yazar": "MadGeographer",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Views_of_Geneva.jpg",
+        "aciklama": "Montage for the Geneva article on Wikipedia",
+        "konu": "Cenevre"
+      }
     },
     {
       "id": "2012-haber-385712",
@@ -1540,10 +1809,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-erdogan-ogretmenler-heyetini-kabul-etti-385712"
       },
-      "konular": [],
+      "konular": [
+        "Öğretmenler Günü",
+        "Recep Tayyip Erdoğan"
+      ],
       "yayin": "2012-11-24T18:12:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Başbakan Erdoğan öğretmenler heyeti ile bir araya geldi",
+      "ozet": "Başbakan Recep Tayyip Erdoğan, 24 Kasım Öğretmenler Günü dolayısıyla kendisini ziyaret eden öğretmenlerden oluşan bir heyeti kabul etti. Görüşme sırasında öğretmenlik mesleğinin önemine değinen Erdoğan, öğrencilerin gelecekte hangi makama gelirlerse gelsinler öğretmenlerine karşı her zaman saygı duymaları gerektiğini ifade etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2012-haber-385690",
@@ -1556,10 +1831,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tbmm-darbe-ve-muhtiralari-arastirma-komisyonu-raporu-385690"
       },
-      "konular": [],
+      "konular": [
+        "TBMM Darbe ve Muhtıraları Araştırma Komisyonu",
+        "Türkiye Büyük Millet Meclisi",
+        "Siyaset"
+      ],
       "yayin": "2012-11-24T15:36:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Darbe ve Muhtıraları Araştırma Komisyonu çalışmalarını tamamlıyor",
+      "ozet": "Türkiye Büyük Millet Meclisi bünyesinde kurulan Darbe ve Muhtıraları Araştırma Komisyonu, yürüttüğü incelemelerin ardından rapor hazırlıklarında sona yaklaştı. Komisyon üyeleri, geçmiş dönemlerde yaşanan müdahaleleri mercek altına alan kapsamlı raporun yazım sürecini bitirme aşamasına getirdi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg/960px-24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg/500px-24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg",
+        "genislik": 960,
+        "yukseklik": 562,
+        "orijinalGenislik": 7320,
+        "yazar": "Lula Oficial",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_(54018866744).jpg",
+        "aciklama": "24.09.2024 - Presidente da República, Luiz Inácio Lula da Silva, durante a Abertura do Debate Geral da 79ª Sessão da Assembleia Geral das Nações Unidas, no Salão da Assembleia Geral, da Sede das Naçõe",
+        "konu": "Siyaset"
+      }
     },
     {
       "id": "2011-haber-300512",
@@ -1572,10 +1867,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sikeye-indirim-kabul-edildi-300512"
       },
-      "konular": [],
+      "konular": [
+        "Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanun",
+        "Türkiye Büyük Millet Meclisi",
+        "Şike"
+      ],
       "yayin": "2011-11-24T20:50:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanun Teklifi Yasalaştı",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, spor alanındaki düzenlemeleri içeren yasa teklifini görüşerek karara bağladı. Sekiz maddeden oluşan ve şike cezalarında indirim öngören yasal değişiklikler, yapılan oylama sonucunda kabul edildi. Böylece spor müsabakalarındaki şiddet ve düzensizliklerin önlenmesi amacıyla hazırlanan yeni düzenleme yürürlüğe girmiş oldu.",
+      "kategori": "Siyaset",
+      "gorsel": null
     }
   ],
   "haberYillari": [

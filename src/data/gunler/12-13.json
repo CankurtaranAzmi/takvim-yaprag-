@@ -79,10 +79,10 @@
         "Kara Yorgi",
         "Belgrad"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Kara Yorgi Önderliğinde Belgrad'ın Ele Geçirilmesi",
+      "ozet": "1804 yılında başlayan Birinci Sırp Ayaklanması, Osmanlı yönetimine karşı bölgedeki Sırp halkının başlattığı kapsamlı bir bağımsızlık mücadelesiydi. Kara Yorgi Petroviç'in liderliğinde örgütlenen isyancılar, 13 Aralık 1805 tarihinde stratejik öneme sahip Belgrad şehrini kontrol altına alarak Osmanlı otoritesine karşı büyük bir zafer kazandı. Bu olay, Sırp milliyetçiliğinin yükselişinde ve bölgedeki Osmanlı hakimiyetinin sarsılmasında kritik bir dönüm noktası teşkil etti.\n\nKara Yorgi, bu ayaklanma ile sadece askeri bir başarı elde etmekle kalmadı, aynı zamanda Sırbistan'ın modern devletleşme sürecinin temellerini atan Karacorceviç Hanedanı'nın da kurucusu oldu. Belgrad'ın düşüşü, Osmanlı İmparatorluğu'nun Balkanlar'daki toprak bütünlüğünü koruma çabalarını zorlaştıran uzun süreli bir çatışma dönemini başlattı. Bu süreç, Sırpların kendi kaderlerini tayin etme arzularını güçlendirerek, ilerleyen yıllarda bölgede bağımsız bir Sırp devletinin kurulmasına giden yolu açtı.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Kara%C4%91or%C4%91e_Petrovi%C4%87%2C_by_Vladimir_Borovikovsky%2C_1816.jpg/960px-Kara%C4%91or%C4%91e_Petrovi%C4%87%2C_by_Vladimir_Borovikovsky%2C_1816.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Kara%C4%91or%C4%91e_Petrovi%C4%87%2C_by_Vladimir_Borovikovsky%2C_1816.jpg/500px-Kara%C4%91or%C4%91e_Petrovi%C4%87%2C_by_Vladimir_Borovikovsky%2C_1816.jpg",
@@ -96,34 +96,7 @@
         "aciklama": null,
         "konu": "Kara Yorgi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Kara%C4%91or%C4%91e_Petrovi%C4%87%2C_by_Vladimir_Borovikovsky%2C_1816.jpg/960px-Kara%C4%91or%C4%91e_Petrovi%C4%87%2C_by_Vladimir_Borovikovsky%2C_1816.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Kara%C4%91or%C4%91e_Petrovi%C4%87%2C_by_Vladimir_Borovikovsky%2C_1816.jpg/500px-Kara%C4%91or%C4%91e_Petrovi%C4%87%2C_by_Vladimir_Borovikovsky%2C_1816.jpg",
-          "genislik": 960,
-          "yukseklik": 1341,
-          "orijinalGenislik": 1024,
-          "yazar": "Vladimir Borovikovsky",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Kara%C4%91or%C4%91e_Petrovi%C4%87,_by_Vladimir_Borovikovsky,_1816.jpg",
-          "aciklama": null,
-          "konu": "Kara Yorgi"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Belgrade_Waterfront_%28%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B4%D0%B8%29.jpg/960px-Belgrade_Waterfront_%28%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B4%D0%B8%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Belgrade_Waterfront_%28%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B4%D0%B8%29.jpg/500px-Belgrade_Waterfront_%28%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B4%D0%B8%29.jpg",
-          "genislik": 960,
-          "yukseklik": 719,
-          "orijinalGenislik": 5280,
-          "yazar": "Petar Milošević",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Belgrade_Waterfront_(%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B4%D0%B8).jpg",
-          "aciklama": "Belgrade Waterfront, Serbia",
-          "konu": "Belgrad"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1877-2-meclis-i-mebusan-calismalarina-basladi",
@@ -158,10 +131,10 @@
         "Çanakkale",
         "HMS B11"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Mesudiye Zırhlısı'nın Çanakkale'de Batırılması",
+      "ozet": "I. Dünya Savaşı'nın ilk aylarında, 13 Aralık 1914 tarihinde Osmanlı donanmasına ait Mesudiye zırhlısı, Çanakkale Boğazı'nın girişinde İngiliz denizaltısı HMS B11 tarafından hedef alındı. Boğazın savunmasında görevli olan ve demirli halde bulunan gemi, denizaltının attığı torpidoların isabet etmesi sonucu kısa sürede sulara gömüldü. Bu olay, Osmanlı donanması için savaşın başlarında yaşanan ciddi bir kayıp olarak kayıtlara geçti.\n\nMesudiye zırhlısı, 19. yüzyılın sonlarında inşa edilmiş ve daha sonra modernize edilmiş, dönemi için oldukça güçlü bir savaş gemisiydi. Ancak bu saldırı, denizaltıların savaş stratejilerindeki yıkıcı etkisini ve savunma hatlarını aşmadaki başarısını gözler önüne serdi. Saldırıyı gerçekleştiren HMS B11 denizaltısının kaptanı, bu başarılı operasyonun ardından İngiltere'nin en prestijli askeri nişanı olan Viktorya Haçı ile ödüllendirildi. Mesudiye'nin kaybı, Çanakkale Boğazı'nın savunulması noktasında Osmanlı kuvvetleri için stratejik bir uyarı niteliği taşıdı ve ilerleyen süreçte deniz savunma tedbirlerinin yeniden gözden geçirilmesine neden oldu.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ottoman_ironclad_Mesudiye.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ottoman_ironclad_Mesudiye.jpg",
@@ -175,47 +148,7 @@
         "aciklama": "Ottoman ironclad Mesudiye after her 1898–1903 reconstruction at the en:Gio. Ansaldo & C. shipyard, en:Genoa.",
         "konu": "Mesudiye Zırhlısı"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ottoman_ironclad_Mesudiye.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ottoman_ironclad_Mesudiye.jpg",
-          "genislik": 515,
-          "yukseklik": 244,
-          "orijinalGenislik": 515,
-          "yazar": "Unknown, published in The Literary Digest History of the World War, 1920",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ottoman_ironclad_Mesudiye.jpg",
-          "aciklama": "Ottoman ironclad Mesudiye after her 1898–1903 reconstruction at the en:Gio. Ansaldo & C. shipyard, en:Genoa.",
-          "konu": "Mesudiye Zırhlısı"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Havadan_cnk.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Havadan_cnk.jpg",
-          "genislik": 900,
-          "yukseklik": 602,
-          "orijinalGenislik": 900,
-          "yazar": "Myamya",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Havadan_cnk.jpg",
-          "aciklama": "Canakkale from the Air - Murat",
-          "konu": "Çanakkale"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/HMS_B11_Under_way_decks_awash.JPG",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/HMS_B11_Under_way_decks_awash.JPG",
-          "genislik": 754,
-          "yukseklik": 401,
-          "orijinalGenislik": 754,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:HMS_B11_Under_way_decks_awash.JPG",
-          "aciklama": "Photograph of British Submarine HMS B11 under way decks awash",
-          "konu": "HMS B11"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1937-japon-imparatorluk-kara-kuvvetleri-cin-cumhuriyetinin-baskenti",
@@ -239,10 +172,10 @@
       "konular": [
         "Bant"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Günlük Hayatın Vazgeçilmezi Seloteyp Satışa Sunuldu",
+      "ozet": "Modern yaşamın en pratik araçlarından biri olan seloteyp, 1937 yılının bugününden itibaren raflardaki yerini alarak geniş kitlelere ulaştı. Richard Drew tarafından geliştirilen bu yapışkan bant, selüloz bazlı yapısı ve basınca duyarlı yüzeyi sayesinde kısa sürede ev ve ofis işlerinde devrim yarattı. İlk olarak endüstriyel ihtiyaçlar için tasarlanan bu ürün, pratikliği sayesinde hızla yaygınlaştı.\n\nSeloteyp, yapışkan yüzey teknolojisinin günlük kullanıma uyarlanmış en başarılı örneklerinden biri olarak kabul edilir. İnce ve şeffaf yapısı, kağıtları birleştirmekten küçük tamiratlara kadar pek çok alanda kullanım kolaylığı sağladı. Zamanla tıp dünyası gibi farklı alanlarda da özel versiyonları geliştirilen bu buluş, basit bir yapıştırıcı olmanın ötesine geçerek modern dünyanın en temel kırtasiye malzemelerinden biri haline geldi.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Tesaabroller.JPG/960px-Tesaabroller.JPG",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Tesaabroller.JPG/500px-Tesaabroller.JPG",
@@ -255,7 +188,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Tesaabroller.JPG",
         "aciklama": "Tesafilmabroller",
         "konu": "Bant"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1939-kriegsmarine-cep-zirhlisi-admiral-graf-spee-ile",
@@ -267,10 +201,10 @@
         "Kraliyet Donanması",
         "Río de la Plata Muharebesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Río de la Plata Deniz Muharebesi",
+      "ozet": "İkinci Dünya Savaşı'nın ilk büyük deniz çatışmalarından biri olan Río de la Plata Muharebesi, 13 Aralık 1939 tarihinde Güney Amerika açıklarında gerçekleşti. Alman Kriegsmarine donanmasına ait cep zırhlısı Admiral Graf Spee, ticaret yollarını korumakla görevli İngiliz Kraliyet Donanması'na bağlı HMS Exeter, HMS Ajax ve HMS Achilles kruvazörleri ile karşı karşıya geldi. Güney Atlantik'te yaşanan bu şiddetli çatışma, savaşın denizlerdeki seyrini etkileyen önemli bir dönüm noktası oldu.\n\nVersay Antlaşması'nın getirdiği tonaj sınırlamalarını aşan tasarımıyla dikkat çeken Admiral Graf Spee, savaşın başında Atlantik'te müttefik ticaret gemilerine yönelik operasyonlar yürütüyordu. İngiliz gemileriyle girdiği bu çatışmada ağır hasar alan Alman zırhlısı, Uruguay'ın Montevideo limanına sığınmak zorunda kaldı. Bu muharebe, Alman donanmasının yüzey gemileriyle yürüttüğü stratejinin sınırlarını ortaya koyarken, İngilizlerin deniz hakimiyetini koruma konusundaki kararlılığını da gözler önüne serdi. Çatışmanın ardından geminin akıbeti, savaşın ilk dönemindeki deniz stratejileri açısından tarihsel bir öneme sahiptir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bundesarchiv_DVM_10_Bild-23-63-06%2C_Panzerschiff_%22Admiral_Graf_Spee%22.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bundesarchiv_DVM_10_Bild-23-63-06%2C_Panzerschiff_%22Admiral_Graf_Spee%22.jpg",
@@ -283,7 +217,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_DVM_10_Bild-23-63-06,_Panzerschiff_%22Admiral_Graf_Spee%22.jpg",
         "aciklama": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Panzerschiff \"Admiral Graf Spee\"",
         "konu": "DKM Admiral Graf Spee"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1941-ii-dunya-savasi-macaristan-kralligi-ve-romanya",
@@ -295,23 +230,12 @@
         "Romanya Krallığı",
         "Amerika Birleşik Devletleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Changde_battle.jpg",
-        "genislik": 400,
-        "yukseklik": 286,
-        "orijinalGenislik": 400,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Changde_battle.jpg",
-        "aciklama": "Pitched battle at Changde.",
-        "konu": "II. Dünya Savaşı"
-      }
+      "baslik": "Macaristan ve Romanya'nın ABD'ye Savaş İlanı",
+      "ozet": "II. Dünya Savaşı'nın küresel bir boyuta ulaştığı 1941 yılının sonlarında, Mihver bloğunun Avrupa'daki müttefikleri olan Macaristan Krallığı ve Romanya Krallığı, Amerika Birleşik Devletleri'ne karşı savaş ilan etme kararı aldı. Bu hamle, Pearl Harbor saldırısı sonrasında Almanya'nın ABD'ye savaş açmasıyla tetiklenen diplomatik zincirleme reaksiyonun bir parçasıydı. Mihver devletleri, kendi aralarındaki ittifak yükümlülükleri gereği bu kararı alarak savaşı Avrupa sınırlarının ötesine taşıyan bir tutum sergilediler.\n\nMacaristan'da Miklós Horthy yönetimi ve Romanya'da Ion Antonescu liderliğindeki hükümetler, Almanya ile olan yakın siyasi ve askeri bağları nedeniyle bu kararı desteklediler. Her iki ülke de savaşın başında toprak kayıplarını geri kazanma ve bölgesel çıkarlarını koruma motivasyonuyla hareket ediyordu. Ancak bu savaş ilanı, ülkelerin savaşın ilerleyen yıllarında yaşadığı yıkımı ve siyasi dönüşümleri hızlandıran kritik bir dönüm noktası oldu. Özellikle savaşın sonunda Mihver bloğunun yenilgisi, her iki ülkede de mevcut rejimlerin çöküşüne ve Sovyet etkisinin artmasıyla yeni siyasi düzenlerin kurulmasına yol açtı.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1942-corumda-deprem-25-kisi-oldu-589-ev",
@@ -320,23 +244,12 @@
       "konular": [
         "Çorum"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/CorumMuseum1.jpg/960px-CorumMuseum1.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/CorumMuseum1.jpg/500px-CorumMuseum1.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 5184,
-        "yazar": "Klaus-Peter Simon",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:CorumMuseum1.jpg",
-        "aciklama": "Archäologisches Museum Çorum, Zentraltürkei",
-        "konu": "Çorum"
-      }
+      "baslik": "Çorum'da Yıkıcı Deprem Felaketi",
+      "ozet": "1942 yılının Aralık ayında Çorum merkezli olarak gerçekleşen şiddetli deprem, bölgede ciddi bir yıkıma yol açtı. Sarsıntının etkisiyle yüzlerce konut kullanılamaz hale gelirken, 25 vatandaşımız hayatını kaybetti. O dönemde yaşanan bu doğal afet, bölge halkı için büyük bir acıya ve maddi kayba neden oldu.\n\nTürkiye'nin sismik hareketliliği yüksek olan bölgelerinden birinde meydana gelen bu olay, dönemin imkanları dahilinde bölgede yürütülen yardım ve kurtarma çalışmalarını zorunlu kıldı. Depremin ardından evsiz kalan çok sayıda kişi için barınma ihtiyacı acil bir gündem maddesi haline geldi. Bu felaket, bölgenin yapısal dayanıklılığı ve afet yönetimi konusundaki tarihsel süreçte önemli bir kırılma noktası olarak kayıtlara geçti.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1949-israil-kudusu-baskent-ilan-etti-arap-israil",
@@ -348,51 +261,12 @@
         "Arap İsrail Savaşı",
         "Ürdün"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg/960px-Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg/500px-Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 486,
-        "orijinalGenislik": 3412,
-        "yazar": "askii",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Dome_of_the_Rock_seen_from_the_Mount_of_Olives_(12395649153)_(cropped).jpg",
-        "aciklama": "Dome of the Rock seen from the Mount of Olives in Jerusalem Jerusalem",
-        "konu": "Kudüs"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg/960px-Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg/500px-Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 486,
-          "orijinalGenislik": 3412,
-          "yazar": "askii",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Dome_of_the_Rock_seen_from_the_Mount_of_Olives_(12395649153)_(cropped).jpg",
-          "aciklama": "Dome of the Rock seen from the Mount of Olives in Jerusalem Jerusalem",
-          "konu": "Kudüs"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Arab_Israeli_Conflict_5.png/960px-Arab_Israeli_Conflict_5.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Arab_Israeli_Conflict_5.png/500px-Arab_Israeli_Conflict_5.png",
-          "genislik": 960,
-          "yukseklik": 513,
-          "orijinalGenislik": 1090,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Arab_Israeli_Conflict_5.png",
-          "aciklama": null,
-          "konu": "Arap İsrail Savaşı"
-        }
-      ]
+      "baslik": "İsrail'in Kudüs'ü Başkent İlan Etmesi",
+      "ozet": "İsrail hükümeti, 1948 Arap-İsrail Savaşı'nın ardından bölgedeki kontrolünü pekiştirmek amacıyla 13 Aralık 1949 tarihinde Kudüs'ü devletin başkenti olarak ilan etti. Bu karar, savaş sonrasında şehrin bölünmüş yapısını yasal bir zemine oturtma girişimi olarak değerlendirildi. Savaşın sonunda Batı Kudüs İsrail'in kontrolünde kalırken, Eski Şehir ve Doğu Kudüs Ürdün'ün yönetimine geçmişti. Birleşmiş Milletler'in daha önceki kararları, Kudüs'ün uluslararası bir statüye sahip olması gerektiğini öngörüyordu; ancak İsrail'in bu tek taraflı adımı, bölgedeki siyasi gerilimi tırmandıran önemli bir dönüm noktası oldu.\n\nKudüs'ün statüsü, hem Yahudiler hem de Müslümanlar için taşıdığı derin dini ve tarihi anlamlar nedeniyle on yıllardır süregelen çatışmaların merkezinde yer almaktadır. İsrail'in başkent ilanı, şehrin egemenliği konusundaki tartışmaları uluslararası arenada daha da karmaşık hale getirdi. Bu karar, sadece İsrail ile komşu Arap ülkeleri arasındaki ilişkileri değil, aynı zamanda küresel diplomasiyi de etkileyen, günümüze kadar uzanan uzun süreli bir anlaşmazlığın temel taşlarından biri olarak kabul edilmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1957-iranda-deprem-2-bin-kisi-oldu",
@@ -415,10 +289,10 @@
         "III. Makarios",
         "Kıbrıs Cumhuriyeti"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Kıbrıs Cumhuriyeti'nin İlk Cumhurbaşkanı Seçildi",
+      "ozet": "Kıbrıs Ortodoks Kilisesi'nin ruhani lideri olan Başpiskopos III. Makarios, 1959 yılında gerçekleştirilen seçimlerde Kıbrıs Cumhuriyeti'nin ilk cumhurbaşkanı olarak belirlendi. Bu seçim, adanın Birleşik Krallık yönetiminden bağımsızlığını kazanma sürecindeki en kritik siyasi adımlardan biri olarak tarihe geçti. Makarios, uzun yıllar boyunca adanın Yunanistan ile birleşmesini savunan Enosis hareketinin önde gelen isimlerinden biri olarak tanınıyordu. Seçilmesiyle birlikte, Kıbrıslı Türkler ve Kıbrıslı Rumların ortaklığına dayanan yeni devlet yapısının en üst düzey temsilcisi haline geldi. Kıbrıs Cumhuriyeti, Türkiye, Yunanistan ve Birleşik Krallık'ın garantörlüğünde kurulmuştu. Makarios'un cumhurbaşkanlığı dönemi, adanın bağımsızlık sonrası yaşadığı siyasi dönüşümlerin ve ilerleyen yıllarda derinleşecek olan Kıbrıs Sorunu'nun başlangıç evresini temsil eder. Bu seçim, adanın hem iç siyasi dengeleri hem de uluslararası statüsü açısından yeni bir dönemin kapılarını aralamıştır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Makarios_III_and_Robert_F._Wagner_NYWTS_cropped.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Makarios_III_and_Robert_F._Wagner_NYWTS_cropped.jpg",
@@ -431,7 +305,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Makarios_III_and_Robert_F._Wagner_NYWTS_cropped.jpg",
         "aciklama": "Archbishop Makarios of Cyprus. Mayor Wagner greets Archbishop Makarios at City Hall / World Telegram & Sun photo by O. Fernandez.",
         "konu": "III. Makarios"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1960-fransa-cumhurbaskani-charles-de-gaulleun-cezayir-ziyareti",
@@ -441,10 +316,10 @@
         "Charles de Gaulle",
         "Cezayir"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "De Gaulle'ün Cezayir Ziyaretinde Kanlı Olaylar",
+      "ozet": "Fransa Cumhurbaşkanı Charles de Gaulle, 1960 yılının Aralık ayında Cezayir'in bağımsızlık sürecine yönelik politikalarını yerinde incelemek ve durumu yatıştırmak amacıyla bölgeye bir ziyaret gerçekleştirdi. Ancak bu ziyaret, Cezayir'in Fransa'ya bağlı kalmasını savunan Fransız milliyetçileri ve yerleşimciler tarafından büyük bir tepkiyle karşılandı. De Gaulle'ün politikalarına karşı çıkan grupların başlattığı protestolar kısa sürede şiddet olaylarına dönüştü ve güvenlik güçleriyle göstericiler arasında yaşanan çatışmalarda 123 kişi yaşamını yitirdi.\n\nBu olay, Cezayir Bağımsızlık Savaşı'nın en gerilimli dönemlerinden birini temsil ediyordu. De Gaulle, Beşinci Cumhuriyet'i kurduktan sonra Cezayir'in geleceği konusunda daha esnek bir tutum sergilemeye başlamış, bu durum ise Fransa'daki aşırı sağcı çevrelerin ve Cezayir'deki Fransız yerleşimcilerin sert muhalefetiyle karşılaşmıştı. Ziyaret sırasında yaşanan bu büyük çaplı şiddet, Fransa'nın Cezayir üzerindeki kontrolünün zayıfladığını ve bağımsızlık sürecinin kaçınılmaz hale geldiğini gösteren önemli bir dönüm noktası olarak tarihe geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/De_Gaulle-OWI.jpg/960px-De_Gaulle-OWI.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/De_Gaulle-OWI.jpg/500px-De_Gaulle-OWI.jpg",
@@ -457,7 +332,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:De_Gaulle-OWI.jpg",
         "aciklama": "WWII French General Charles De Gaulle A WWII photo portrait of General Charles de Gaulle of the Free French Forces and first president of the Fifth Republic serving from 1959 to 1969.",
         "konu": "Charles de Gaulle"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1967-yunanistan-krali-ii-konstantinin-cuntaya-karsi-darbe",
