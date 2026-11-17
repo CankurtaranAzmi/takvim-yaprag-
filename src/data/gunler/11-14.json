@@ -930,7 +930,7 @@
     "url": "https://tr.wikipedia.org/wiki/14_Kas%C4%B1m",
     "revid": 38169009
   },
-  "guncelleme": "2026-11-16T15:08:39.177Z",
+  "guncelleme": "2026-11-17T15:39:52.411Z",
   "haberler": [
     {
       "id": "2025-haber-2452570",
@@ -1093,22 +1093,6 @@
       "durum": "haber"
     },
     {
-      "id": "2020-haber-1790956",
-      "yil": 2020,
-      "bolge": "turkiye",
-      "tur": "haber",
-      "metin": "Üç kentte rekor vaka artışı! Türkiye ortalamasının iki katı",
-      "aciklama": "Edirne Tabip Odası Başkanı Dr. Gürcan Altuğ, koronavirüs salgınında Edirne, Tekirdağ ve Kırklareli’ndeki son durum hakkında önemli açıklamalarda bulundu. Altuğ, Edirne, Tekirdağ ve Kırklareli’de vaka artışlarının Türkiye ortalamasının iki katı olduğunu dile getirdi.",
-      "haberKaynagi": {
-        "ad": "Cumhuriyet",
-        "url": "https://www.cumhuriyet.com.tr/haber/uc-kentte-rekor-koronavirus-artisi-turkiye-ortalamasinin-iki-kati-1790956"
-      },
-      "konular": [],
-      "yayin": "2020-11-14T13:00:00+03:00",
-      "puan": 9,
-      "durum": "haber"
-    },
-    {
       "id": "2019-haber-1702163",
       "yil": 2019,
       "bolge": "turkiye",
@@ -1186,38 +1170,6 @@
       "konular": [],
       "yayin": "2017-11-14T10:35:00+03:00",
       "puan": 11,
-      "durum": "haber"
-    },
-    {
-      "id": "2015-haber-418333",
-      "yil": 2015,
-      "bolge": "turkiye",
-      "tur": "haber",
-      "metin": "Galatasaray Adası hakkında karar verildi",
-      "aciklama": "Galatasaray Kulübü, camia içinde uzun süredir tartışma konusu olan Galatasaray Adası ile ilgili kararını verdi.",
-      "haberKaynagi": {
-        "ad": "Cumhuriyet",
-        "url": "https://www.cumhuriyet.com.tr/haber/galatasaray-adasi-hakkinda-karar-verildi-418333"
-      },
-      "konular": [],
-      "yayin": "2015-11-14T14:49:00+03:00",
-      "puan": 7,
-      "durum": "haber"
-    },
-    {
-      "id": "2015-haber-418623",
-      "yil": 2015,
-      "bolge": "turkiye",
-      "tur": "haber",
-      "metin": "Paris'teki saldırıda Türk asıllı Elif Doğan da hayatını kaybetti",
-      "aciklama": "Belçika basını Paris’te yaşamını\nyitiren iki Belçika vatandaşından\nbirinin Türk asıllı Elif Doğan\nolduğunu duyurdu.",
-      "haberKaynagi": {
-        "ad": "Cumhuriyet",
-        "url": "https://www.cumhuriyet.com.tr/haber/paristeki-saldirida-turk-asilli-elif-dogan-da-hayatini-kaybetti-418623"
-      },
-      "konular": [],
-      "yayin": "2015-11-14T19:09:00+03:00",
-      "puan": 6,
       "durum": "haber"
     },
     {
@@ -1339,12 +1291,10 @@
     2023,
     2022,
     2021,
-    2020,
     2019,
     2018,
     2017,
     2016,
-    2015,
     2014,
     2013,
     2012,

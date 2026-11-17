@@ -902,7 +902,7 @@
     "url": "https://tr.wikipedia.org/wiki/22_Kas%C4%B1m",
     "revid": 37272765
   },
-  "guncelleme": "2026-11-16T15:08:42.297Z",
+  "guncelleme": "2026-11-17T15:39:56.086Z",
   "haberler": [
     {
       "id": "2025-haber-2454764",
@@ -990,23 +990,10 @@
       ],
       "yayin": "2024-11-22T13:48:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
+      "durum": "elendi",
       "baslik": "Merkez Bankası zorunlu karşılık oranlarında değişikliğe gitti",
-      "ozet": "Merkez Bankası zorunlu karşılık oranlarını yeniden düzenledi. Yapılan düzenleme kapsamında Türk lirası mevduatlar için belirlenen yeni oran yüzde 17 seviyesine çekilirken yabancı para mevduatlarına uygulanan oranlarda ise yüzde 20 oranında bir düşüş sağlandı.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG/960px-TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG/500px-TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
-        "genislik": 960,
-        "yukseklik": 1280,
-        "orijinalGenislik": 2448,
-        "yazar": "Vikiçizer",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
-        "aciklama": "TC Merkez Bankası ön cephe",
-        "konu": "Türkiye Cumhuriyet Merkez Bankası"
-      }
+      "ozet": "Türkiye Cumhuriyet Merkez Bankası zorunlu karşılık oranlarını yeniden düzenledi. Yapılan düzenleme kapsamında Türk lirası mevduatları için belirlenen yeni oran yüzde 17 seviyesine çekildi. Aynı zamanda yabancı para mevduatlarına uygulanan zorunlu karşılık oranlarında da yüzde 20 oranında bir düşüş gerçekleştirildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2143880",
@@ -1021,13 +1008,14 @@
       },
       "konular": [
         "Ümit Dikbayır",
-        "İYİ Parti"
+        "İYİ Parti",
+        "Siyaset"
       ],
       "yayin": "2023-11-22T17:51:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Ümit Dikbayır Hakkında Disiplin Soruşturması Başlatıldı",
-      "ozet": "İYİ Parti yönetimi, kesin ihraç istemiyle disiplin kuruluna sevk edilen Sakarya milletvekili Ümit Dikbayır hakkında soruşturma yürütülmesine karar verdi. Parti tarafından yapılan açıklamada, söz konusu disiplin sürecinin başlatıldığı kamuoyuna duyuruldu.",
+      "baslik": "Ümit Dikbayır hakkında disiplin soruşturması başlatıldı",
+      "ozet": "İYİ Parti yönetimi, kesin ihraç istemiyle disiplin kuruluna sevk edilen Sakarya milletvekili Ümit Dikbayır ile ilgili yeni bir karar aldı. Parti tarafından yapılan açıklamada, Dikbayır hakkında soruşturma yürütülmesine karar verildiği kamuoyuna duyuruldu.",
       "kategori": "Siyaset"
     },
     {
@@ -1084,8 +1072,8 @@
       "yayin": "2022-11-22T11:28:00+03:00",
       "puan": 12,
       "durum": "elendi",
-      "baslik": "Cumhuriyet Halk Partisi milletvekili adaylığı için istifa sürecini başlattı",
-      "ozet": "Cumhuriyet Halk Partisi yönetimi, milletvekili aday adayı olmayı hedefleyen il ve ilçe başkanlarının görevlerinden ayrılmaları gerektiğini bildirdi. Genel merkez tarafından yapılan duyuruyla, boşalan koltuklar için genel başkan yardımcılarının onayı alınmadan herhangi bir atama veya seçim süreci işletilmeyeceği vurgulandı.",
+      "baslik": "Cumhuriyet Halk Partisi'nde milletvekili adaylığı süreci başladı",
+      "ozet": "Cumhuriyet Halk Partisi yönetimi, milletvekili aday adayı olmayı planlayan il ve ilçe başkanlarının görevlerinden ayrılmaları gerektiğini duyurdu. İstifa eden yöneticilerin yerine yapılacak atamalar veya seçim süreçleri ise genel merkez tarafından denetim altına alındı. Bu kapsamda, ilgili genel başkan yardımcılarının onayı olmadan herhangi bir yeni görevlendirme gerçekleştirilmeyeceği ifade edildi.",
       "kategori": "Siyaset"
     },
     {
@@ -1100,15 +1088,15 @@
         "url": "https://www.cumhuriyet.com.tr/turkiye/bolu-belediye-meclisinden-karar-yabancilara-su-dolarla-nikah-100-bin-tl-1886893"
       },
       "konular": [
-        "Bolu Belediyesi",
-        "Yabancılar hukuku"
+        "Bolu",
+        "Belediye meclisi"
       ],
       "yayin": "2021-11-22T21:26:00+03:00",
       "puan": 13,
       "durum": "elendi",
-      "baslik": "Bolu Belediye Meclisinde Yabancılara Yönelik Yeni Ücret Kararları",
-      "ozet": "Bolu Belediye Meclisi tarafından gerçekleştirilen toplantıda, yabancı uyruklu kişileri ilgilendiren iki önemli düzenleme oylandı. Alınan karar neticesinde, yabancıların kullandığı suyun ücretlendirilmesinin dolar kuru üzerinden yapılması ve nikah işlemlerinde 100 bin TL tutarında bir harç alınması uygulaması oy çokluğu ile onaylandı.",
-      "kategori": "Toplum"
+      "baslik": "Bolu Belediye Meclisi yabancılara yönelik yeni ücret tarifesini onayladı",
+      "ozet": "Bolu Belediye Meclisi tarafından gerçekleştirilen oturumda, yabancı uyruklu kişilere yönelik yeni bir fiyatlandırma politikası karara bağlandı. Alınan karara göre, yabancıların su tüketim bedellerinin dolar kuru üzerinden hesaplanması ve nikah işlemlerinde 100 bin Türk Lirası ücret talep edilmesi uygulaması oy çokluğuyla kabul edildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2021-haber-1886881",
@@ -1205,14 +1193,13 @@
       },
       "konular": [
         "İstanbul Büyükşehir Belediyespor",
-        "2020 Yaz Olimpiyatları",
-        "Olimpiyat Oyunları"
+        "2020 Yaz Olimpiyatları"
       ],
       "yayin": "2019-11-22T12:49:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "İBB Spor Kulübü Tokyo Olimpiyatları Hazırlıklarını Sürdürüyor",
-      "ozet": "Milli takımlara en fazla sporcu sağlayan kuruluşlardan biri olan İstanbul Büyükşehir Belediyesi Spor Kulübü, Tokyo Olimpiyatları hedefi doğrultusunda çalışmalarına hız verdi. Kulüp bünyesinde yer alan sporculardan sekizi olimpiyatlara katılma hakkını elde ederken, otuz dokuz sporcu ise kota almak için mücadelesini sürdürdü.",
+      "baslik": "İstanbul Büyükşehir Belediyesi Spor Kulübü Olimpiyat Hedefini Belirledi",
+      "ozet": "Milli takımlara en fazla sporcu sağlayan kulüplerden biri olan İstanbul Büyükşehir Belediyesi Spor Kulübü, Tokyo Olimpiyatları için hazırlıklarını sürdürdü. Kulüp bünyesindeki sekiz sporcu olimpiyatlara katılma hakkı kazanırken, otuz dokuz sporcu ise kota alabilmek için çalışmalarına devam etti.",
       "kategori": "Spor"
     },
     {
@@ -1234,8 +1221,8 @@
       "yayin": "2019-11-22T15:44:00+03:00",
       "puan": 10,
       "durum": "yazildi",
-      "baslik": "Toprak Razgatlıoğlu PATA Yamaha Takımı ile Anlaştı",
-      "ozet": "Milli motosikletçi Toprak Razgatlıoğlu, Dünya Superbike Şampiyonası kapsamında PATA Yamaha ekibine katıldı. Sporcu, bu transferle birlikte kariyerindeki önemli bir hedefe ulaştığını ve şampiyonluk yolunda büyük bir adım attığını belirtti.",
+      "baslik": "Toprak Razgatlıoğlu PATA Yamaha Takımı ile Anlaşma Sağladı",
+      "ozet": "Milli motosikletçi Toprak Razgatlıoğlu, Dünya Superbike Şampiyonası'ndaki kariyer hedeflerine ulaşmak adına PATA Yamaha ekibiyle resmi sözleşme imzaladı. Şampiyonluk yolunda önemli bir adım atan sporcu, yeni takımıyla birlikte yarışacak olmaktan duyduğu memnuniyeti dile getirdi.",
       "kategori": "Spor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Toprak_Razgatlioglu%2C_2022.jpg/960px-Toprak_Razgatlioglu%2C_2022.jpg",
@@ -1395,26 +1382,26 @@
       "konular": [
         "Hasan Ocak",
         "Gözaltında kayıplar",
-        "İnsan hakları"
+        "Türkiye'de insan hakları"
       ],
       "yayin": "2016-11-22T21:11:00+03:00",
       "puan": 10,
       "durum": "yazildi",
-      "baslik": "Hasan Ocak Soruşturması Hakkında Takipsizlik Kararı Verildi",
-      "ozet": "Öğretmen Hasan Ocak'ın gözaltı sürecinde işkenceye maruz kalarak hayatını kaybetmesiyle ilgili yürütülen hukuki soruşturma dosyası kapatıldı. Yetkililer, ölüm olayının zaman aşımına uğramadığını belirtse de yürütülen inceleme süreci neticelendirildi.",
-      "kategori": "Siyaset",
+      "baslik": "Hasan Ocak hakkındaki soruşturma dosyası kapatıldı",
+      "ozet": "Öğretmen Hasan Ocak'ın gözaltı sürecinde işkence görerek hayatını kaybetmesiyle ilgili yürütülen hukuki soruşturma süreci sonlandırıldı. Yetkili makamlar tarafından alınan kararla dosya kapatılırken, olayın aydınlatılmasına yönelik yürütülen yasal işlemler durduruldu.",
+      "kategori": "Toplum",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/960px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/500px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Human_Rights_Mural.JPG/960px-Human_Rights_Mural.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Human_Rights_Mural.JPG/500px-Human_Rights_Mural.JPG",
         "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 7200,
-        "yazar": "Original authors were the barons and King John of England. Uploaded by Earthsound.",
+        "yukseklik": 720,
+        "orijinalGenislik": 3264,
+        "yazar": "Mdozturk",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg",
-        "aciklama": "The Magna Carta (originally known as the Charter of Liberties) of 1215, written in iron gall ink on parchment in medieval Latin, using standard abbreviations of the period, authenticated with the Grea",
-        "konu": "İnsan hakları"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Human_Rights_Mural.JPG",
+        "aciklama": "A mural describing human rights in Turkey outside of the public education building in Bayramic Turkey",
+        "konu": "Türkiye'de insan hakları"
       }
     },
     {
@@ -1430,13 +1417,13 @@
       },
       "konular": [
         "Akaryakıt",
-        "PÜİS"
+        "Petrol Ürünleri İşverenler Sendikası"
       ],
       "yayin": "2016-11-22T11:07:00+03:00",
       "puan": 8,
       "durum": "elendi",
-      "baslik": "Benzin ve motorin fiyatlarında artış beklentisi",
-      "ozet": "Petrol Ürünleri İşverenler Sendikası tarafından yapılan açıklamada, akaryakıt fiyatlarında değişikliğe gidileceği duyuruldu. Gece yarısından itibaren geçerli olacak düzenleme ile benzinin litre fiyatına 15 kuruş, motorinin litre fiyatına ise 10 kuruş zam yapılması öngörüldü.",
+      "baslik": "Akaryakıt fiyatlarında gece yarısından itibaren artış bekleniyor",
+      "ozet": "Petrol Ürünleri İşverenler Sendikası tarafından yapılan açıklamada akaryakıt fiyatlarına zam yapılacağı duyuruldu. Gece yarısından itibaren geçerli olacak düzenleme kapsamında benzinin litre fiyatına 15 kuruş, motorinin litre fiyatına ise 10 kuruş zam yansıtılması öngörüldü.",
       "kategori": "Ekonomi"
     },
     {
@@ -1458,8 +1445,8 @@
       "yayin": "2015-11-22T18:51:00+03:00",
       "puan": 8,
       "durum": "elendi",
-      "baslik": "Fenerbahçe basketbol takımı Pınar Karşıyaka karşısında farklı kazandı",
-      "ozet": "Spor Toto Basketbol Ligi yedinci hafta mücadelesinde Fenerbahçe ile Pınar Karşıyaka karşı karşıya geldi. Rakibi karşısında üstün bir oyun sergileyen Fenerbahçe, karşılaşmayı 104-82 skorla galip tamamladı. Geçen sezonun şampiyonu olan Pınar Karşıyaka, bu sonuçla ligdeki mücadelesinde mağlubiyet yaşadı.",
+      "baslik": "Fenerbahçe basketbol takımı Pınar Karşıyaka karşısında kazandı",
+      "ozet": "Spor Toto Basketbol Ligi yedinci hafta mücadelesinde Fenerbahçe ile Pınar Karşıyaka karşı karşıya geldi. Rakibi karşısında üstün bir oyun sergileyen sarı lacivertli ekip, müsabakadan 104-82 gibi farklı bir skorla galip ayrıldı.",
       "kategori": "Spor"
     },
     {
@@ -1481,8 +1468,8 @@
       "yayin": "2015-11-22T20:51:00+03:00",
       "puan": 7,
       "durum": "yazildi",
-      "baslik": "Belçika'da Terör Saldırısı Endişesiyle Güvenlik Önlemleri Artırıldı",
-      "ozet": "Belçika Başbakanı Charles Michel, ülkede Paris benzeri bir saldırı gerçekleşmesinden duydukları endişeyi dile getirdi. Bu risk nedeniyle devlet genelinde güvenlik tedbirlerinin en üst seviyeye çıkarılmasına karar verildi. Yetkililer, olası tehditlere karşı önleyici faaliyetlerin yürütüldüğünü ifade etti.",
+      "baslik": "Belçika'da terör saldırısı endişesiyle güvenlik önlemleri yükseltildi",
+      "ozet": "Belçika Başbakanı Michel, ülkede Paris benzeri bir saldırı gerçekleşebileceği yönündeki kaygılarını dile getirdi. Bu risk değerlendirmesi üzerine yetkililer, güvenlik tedbirlerini üst seviyeye çıkardı. Kamu güvenliğini sağlamak amacıyla alınan bu kararlar kapsamında ülke genelinde denetimler sıkılaştırıldı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Charles_Michel_%2849467991288%29.jpg/960px-Charles_Michel_%2849467991288%29.jpg",
@@ -1509,10 +1496,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hamburg-besiktasin-rekoruna-goz-dikti-147339"
       },
-      "konular": [],
+      "konular": [
+        "Hamburger SV",
+        "Werder Bremen",
+        "Bundesliga"
+      ],
       "yayin": "2014-11-22T14:03:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Hamburg stadyumunda ses düzeyi rekoru denemesi yapılacak",
+      "ozet": "Bundesliga kapsamında gerçekleşecek Hamburg ve Werder Bremen karşılaşmasında ev sahibi takım farklı bir hedefe odaklandı. Hamburg ekibi, kendi sahasındaki müsabaka sırasında taraftarların desteğiyle stadyumdaki ses seviyesi rekorunu geliştirmeyi amaçladı. Bu girişimle birlikte spor müsabakalarında yeni bir işitsel eşiğe ulaşılması hedeflendi.",
+      "kategori": "Spor"
     },
     {
       "id": "2014-haber-147139",
@@ -1525,10 +1519,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akpnin-akili-kadir-inanir-erdogana-kirginim-147139"
       },
-      "konular": [],
+      "konular": [
+        "Kadir İnanır",
+        "Recep Tayyip Erdoğan",
+        "Akil İnsanlar Heyeti"
+      ],
       "yayin": "2014-11-22T10:26:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Kadir İnanır Cumhurbaşkanı Erdoğan'a Karşı Kırgınlığını İfade Etti",
+      "ozet": "Akil İnsanlar Heyeti bünyesinde görev üstlenen sanatçı Kadir İnanır, Cumhurbaşkanı Recep Tayyip Erdoğan ile yaşadığı sürece dair açıklamalarda bulundu. İnanır, Cumhurbaşkanı'na yönelik kişisel bir kırgınlık duyduğunu kamuoyuyla paylaştı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2013-haber-12133",
@@ -1541,10 +1542,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/putinden-erdogana-uzun-zamandir-gormesem-de-12133"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Vladimir Putin",
+        "Türkiye-Rusya ilişkileri"
+      ],
       "yayin": "2013-11-22T11:13:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Rusya ve Türkiye Arasında Üst Düzey İşbirliği Görüşmesi",
+      "ozet": "St. Petersburg kentinde düzenlenen Üst Düzey İşbirliği Konseyi toplantısı kapsamında bir araya gelen Recep Tayyip Erdoğan ve Vladimir Putin ikili bir görüşme gerçekleştirdi. İki ülke arasındaki ilişkilerin ele alındığı bu buluşmada, ortak bakanlar kurulu formatında yürütülen iş birliği süreçleri değerlendirildi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2013-haber-12255",
@@ -1557,10 +1578,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/son-10-yilin-yagmur-rekoru-kirildi-12255"
       },
-      "konular": [],
+      "konular": [
+        "Marmaris",
+        "Sel",
+        "Meteoroloji"
+      ],
       "yayin": "2013-11-22T17:20:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Marmaris'te aşırı yağışlar hayatı olumsuz etkiledi",
+      "ozet": "Marmaris bölgesinde bir gün içerisinde metrekareye düşen iki yüz kilogram yağış, son on yılın en yüksek seviyesine ulaştı. Şiddetli yağışlar nedeniyle birçok iş yeri sular altında kalırken, dağlardan gelen suların dereleri taşırması sonucu Aksaz Deniz Üs Komutanlığı ve Yalancı Boğaz yolu uzun süre ulaşıma kapandı.",
+      "kategori": "Afet"
     },
     {
       "id": "2012-haber-385154",
@@ -1573,10 +1601,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/altinda-yeni-yilda-yeni-rekor-beklentisi-385154"
       },
-      "konular": [],
+      "konular": [
+        "Altın",
+        "Ekonomi"
+      ],
       "yayin": "2012-11-22T10:18:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Altın piyasasında yeni yıl için yükseliş beklentisi",
+      "ozet": "Önceki dönemde yatırımcısına kazandıran ancak yıl içerisinde durgun bir seyir izleyen altın fiyatlarının, gelecek dönemde tekrar hareketlenmesi öngörüldü. Uzmanlar, değerli metalin 2011 yılındaki zirve noktasını geride bırakarak yeni bir rekor seviyeye ulaşabileceğini ifade etti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2012-haber-385164",
@@ -1589,10 +1623,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/besiktas-zirve-yolculugunu-surdurmek-istiyor-385164"
       },
-      "konular": [],
+      "konular": [
+        "Beşiktaş (futbol takımı)",
+        "Akhisarspor",
+        "Süper Lig"
+      ],
       "yayin": "2012-11-22T10:17:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Beşiktaş lig mücadelesinde Akhisar Belediyespor ile karşılaşıyor",
+      "ozet": "Spor Toto Süper Lig kapsamında Beşiktaş, kendi sahasında Akhisar Belediyespor'u ağırladı. Siyah beyazlı ekip, ligin üst sıralarındaki yerini korumak ve puan farkını kapatmak amacıyla sahaya galibiyet hedefiyle çıktı.",
+      "kategori": "Spor"
     },
     {
       "id": "2011-haber-299870",
@@ -1605,10 +1646,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/taliban-ateskes-ilan-ettik-299870"
       },
-      "konular": [],
+      "konular": [
+        "Tehrik-i Taliban Pakistan",
+        "Pakistan",
+        "Ateşkes"
+      ],
       "yayin": "2011-11-22T14:05:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Pakistan Talibanı barış görüşmeleri için ateşkes kararı aldı",
+      "ozet": "Pakistan Talibanı, hükümet ile yürütülen barış müzakerelerine katkı sağlamak amacıyla çatışmaları durdurma kararı aldığını duyurdu. Örgüt, bu adımın görüşme sürecini desteklemek için atıldığını belirtti.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2011-haber-299858",
@@ -1621,10 +1670,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpliler-meclisi-terk-etti-299858"
       },
-      "konular": [],
+      "konular": [
+        "TBMM Plan ve Bütçe Komisyonu",
+        "Cumhuriyet Halk Partisi",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2011-11-22T12:00:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "TBMM Plan ve Bütçe Komisyonunda CHP Grubu Salonu Terk Etti",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu toplantısı sırasında Cumhuriyet Halk Partisi milletvekilleri bir protesto gerçekleştirdi. Vekiller, İzmir merkezli olarak yürütülen bir operasyona yönelik tepkilerini dile getirmek amacıyla görüşmelerin yapıldığı salonu terk etme kararı aldı.",
+      "kategori": "Siyaset"
     }
   ],
   "haberYillari": [

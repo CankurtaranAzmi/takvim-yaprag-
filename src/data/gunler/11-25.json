@@ -1135,7 +1135,7 @@
     "url": "https://tr.wikipedia.org/wiki/25_Kas%C4%B1m",
     "revid": 38169687
   },
-  "guncelleme": "2026-11-16T15:08:43.489Z",
+  "guncelleme": "2026-11-17T15:39:57.269Z",
   "haberler": [
     {
       "id": "2025-haber-2455640",
@@ -1148,10 +1148,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/adalet-bakanligi-butcesi-tartismalarla-basladi-bakandan-chp-li-milletvekiline-sovu-kes-2455640"
       },
-      "konular": [],
+      "konular": [
+        "Adalet Bakanlığı",
+        "Türkiye Büyük Millet Meclisi",
+        "Siyaset"
+      ],
       "yayin": "2025-11-25T10:03:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Adalet Bakanlığı bütçe görüşmelerinde gergin anlar yaşandı",
+      "ozet": "Adalet Bakanlığına ait bütçe görüşmeleri, muhalefet kanadının belediyelere yönelik yürütülen soruşturmaları protesto etmesiyle gergin bir atmosferde başladı. Görüşmeler sırasında Cumhuriyet Halk Partisi Kadın Kolları Başkanı Asu Kaya, kadınların gönderdiği mesajları gündeme getirdi. Bakan ise bu esnada muhalefet milletvekiline yönelik sert bir tepki göstererek tartışmaya dahil oldu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2025-haber-2455622",
@@ -1164,10 +1171,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/detroit-pistons-13-maclik-galibiyet-serisiyle-sampiyon-kadrolarinin-rekorlarina-eristi-2455622"
       },
-      "konular": [],
+      "konular": [
+        "Detroit Pistons",
+        "Indiana Pacers",
+        "NBA"
+      ],
       "yayin": "2025-11-25T09:44:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Detroit Pistons galibiyet serisinde kulüp rekorunu egale etti",
+      "ozet": "Detroit Pistons, Indiana Pacers ile oynadığı karşılaşmayı 122-117 skorla kazanarak üst üste 13. galibiyetini elde etti. Bu sonuçla birlikte takım, kendi kulüp tarihindeki en uzun süreli galibiyet serisi rekoruna ortak oldu.",
+      "kategori": "Spor"
     },
     {
       "id": "2024-haber-2272505",
@@ -1180,10 +1194,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/kanada-basbakani-trudeaudan-vergi-indirimi-karari-iki-ay-sureyle-2272505"
       },
-      "konular": [],
+      "konular": [
+        "Justin Trudeau",
+        "Kanada",
+        "Vergi"
+      ],
       "yayin": "2024-11-25T12:36:00+03:00",
       "puan": 15,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Kanada'da tatil dönemi için belirli ürünlerde vergi muafiyeti kararı",
+      "ozet": "Kanada Başbakanı Justin Trudeau, yaklaşan tatil sezonunu kapsayacak şekilde iki ay sürecek bir satış vergisi indirimi yapılacağını açıkladı. Uygulama kapsamında oyuncaklar, Noel ağaçları ve restoranlarda sunulan yemekler gibi çeşitli ürünler vergi muafiyetinden yararlanacak. Hükümetin aldığı bu kararla tüketicilerin tatil alışverişlerinde maliyetlerin düşürülmesi hedeflendi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2024-haber-2272710",
@@ -1196,10 +1217,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/akpli-meclis-uyeleri-trafik-kazasi-gecirdi-2272710"
       },
-      "konular": [],
+      "konular": [
+        "Alucra",
+        "Giresun",
+        "Trafik kazası"
+      ],
       "yayin": "2024-11-25T21:43:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Giresun'da İl Genel Meclis Üyeleri Trafik Kazası Geçirdi",
+      "ozet": "Giresun'un Alucra ilçesinde seyir halindeki İl Genel Meclis üyeleri Erol Kapucu ve Yakup Urtaç bir trafik kazasına karıştı. Kazanın ardından yaralanan meclis üyeleri, sağlık ekiplerinin müdahalesiyle tedavi edilmek üzere hastaneye kaldırıldı.",
+      "kategori": "Toplum"
     },
     {
       "id": "2023-haber-2144818",
@@ -1212,10 +1240,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/devada-toplu-istifa-depremi-800-kisi-akpye-katildi-2144818"
       },
-      "konular": [],
+      "konular": [
+        "Demokrasi ve Atılım Partisi",
+        "Adalet ve Kalkınma Partisi",
+        "Erzurum"
+      ],
       "yayin": "2023-11-25T17:40:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Erzurum'da DEVA Partisi'nden ayrılan sekiz yüz kişi AKP'ye geçti",
+      "ozet": "Yerel seçim süreci yaklaşırken DEVA Partisi bünyesinde toplu ayrılıklar meydana geldi. Erzurum'un Horasan ve Karayazı ilçelerinde partiden istifa eden sekiz yüz kişilik grup, siyasi tercihlerini değiştirerek AKP'ye katılma kararı aldı. Söz konusu kişiler, genel seçimlerde CHP listelerinden milletvekili çıkaran DEVA Partisi'ndeki üyeliklerini sonlandırdı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2023-haber-2144746",
@@ -1228,10 +1263,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/chp-parti-meclisi-tuzuk-kurultayinin-tarihini-netlestirecek-2144746"
       },
-      "konular": [],
+      "konular": [
+        "Cumhuriyet Halk Partisi",
+        "Siyaset"
+      ],
       "yayin": "2023-11-25T13:21:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhuriyet Halk Partisi Parti Meclisi Tüzük Kurultayı İçin Toplanıyor",
+      "ozet": "Cumhuriyet Halk Partisi Parti Meclisi, tüzük kurultayının ne zaman gerçekleştirileceğini belirlemek üzere bir araya geldi. Seksen bir il başkanının yerel seçimlerin ardından yapılması yönündeki talebi, toplantının ana gündem maddelerinden birini oluşturdu. Kurul, bu konudaki nihai kararı vermek için değerlendirmelerde bulundu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-2006219",
@@ -1244,10 +1285,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-2023-yili-butcesi-komisyonda-kabul-edildi-2006219"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Devlet bütçesi"
+      ],
       "yayin": "2022-11-25T23:44:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "2023 Merkezi Yönetim Bütçe Kanun Teklifi Komisyondan Geçti",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, bir aydır devam eden bütçe görüşmelerini nihayete erdirdi. Cumhurbaşkanlığı, meclis ve bakanlıkların 2021 yılı kesin hesapları ile 2023 yılı bütçe kanun teklifi, komisyon üyeleri tarafından onaylanarak kabul edildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2022-haber-2005960",
@@ -1260,10 +1307,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/oldurulen-sampiyon-yariscinin-ablasi-konustu-kardesime-mafya-musallat-oldu-2005960"
       },
-      "konular": [],
+      "konular": [
+        "Kağıthane",
+        "Motosiklet"
+      ],
       "yayin": "2022-11-25T09:51:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Motosiklet yarışçısı Bayram Diril silahlı saldırı sonucu hayatını kaybetti",
+      "ozet": "İstanbul Kağıthane'de düzenlenen silahlı saldırı neticesinde motosiklet sporcusu Bayram Diril yaşamını yitirdi. Türkiye Motosiklet Federasyonu bünyesindeki Pist Şampiyonası'nda birçok kez birincilik elde eden sporcunun vefatı üzerine ablası Gülhan Diril açıklamalarda bulundu. Aile yakını, kardeşinin bir süredir tehdit altında olduğunu ifade etti.",
+      "kategori": "Toplum"
     },
     {
       "id": "2021-haber-1887588",
@@ -1276,10 +1329,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/piyasalarda-son-durum-1-dolar-ne-kadar-oldu-25-kasim-2021-1887588"
       },
-      "konular": [],
+      "konular": [
+        "Dolar",
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Ekonomi"
+      ],
       "yayin": "2021-11-25T09:45:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Dolar kurunda hareketli seyir devam ediyor",
+      "ozet": "Döviz piyasasında yaşanan hızlı yükselişlerin ardından kur değerinde bir süredir dalgalanmalar gözlemlendi. Önceki gün belirgin bir düşüş kaydeden dolar, yeni güne 12 seviyelerine yakın bir noktadan giriş yaptı. Yatırımcılar ve piyasa takipçileri, ekonomi yönetimi ile banka temsilcilerinin gerçekleştireceği görüşmelerden çıkacak sonuçlara odaklandı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2021-haber-1887758",
@@ -1292,10 +1352,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/12-dev-adam-dunya-kupasi-elemelerine-yenilgiyle-basladi-1887758"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye millî basketbol takımı",
+        "FIBA Basketbol Dünya Kupası"
+      ],
       "yayin": "2021-11-25T21:36:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "A Milli Erkek Basketbol Takımı elemelerde mağlubiyetle başladı",
+      "ozet": "FIBA Dünya Kupası Elemeleri kapsamında sahaya çıkan A Milli Erkek Basketbol Takımı, Belarus ile deplasmanda karşılaştı. Mücadeleyi 84-70 skorla kaybeden milliler, turnuvaya mağlubiyetle giriş yaptı.",
+      "kategori": "Spor"
     },
     {
       "id": "2020-haber-1793821",
@@ -1308,10 +1374,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fahrettin-koca-guncel-koronavirus-verilerini-acikladi-olu-sayisinda-rekor-1793821"
       },
-      "konular": [],
+      "konular": [
+        "COVID-19 pandemisi",
+        "Fahrettin Koca",
+        "Türkiye"
+      ],
       "yayin": "2020-11-25T20:14:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Sağlık Bakanlığı Günlük Koronavirüs Tablosunu Paylaştı",
+      "ozet": "Sağlık Bakanı Fahrettin Koca, ülke genelindeki güncel koronavirüs verilerini kamuoyuyla paylaştı. Açıklanan verilere göre bir gün içerisinde 6 bin 814 yeni tanı konulurken, toplam vaka sayısı 28 bin 351 seviyesine ulaştı. Salgın nedeniyle hayatını kaybedenlerin sayısı ise 168 kişi artarak, ilk vakanın tespit edildiği tarihten bu yana kaydedilen en yüksek günlük can kaybı verisi oldu.",
+      "kategori": "Toplum",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Fahrettin_Koca_20200311_2.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Fahrettin_Koca_20200311_2.jpg",
+        "genislik": 495,
+        "yukseklik": 660,
+        "orijinalGenislik": 495,
+        "yazar": "YIldız Yazıcıoğlu",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Fahrettin_Koca_20200311_2.jpg",
+        "aciklama": "Fahrettin Koca",
+        "konu": "Fahrettin Koca"
+      }
     },
     {
       "id": "2019-haber-1704302",
@@ -1324,10 +1410,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tbmm-komisyonunda-adalet-bakanligi-butcesi-gorusulurken-yargi-bagimsizligi-tartisildi-1704302"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Adalet Bakanlığı",
+        "Abdulhamit Gül"
+      ],
       "yayin": "2019-11-25T23:14:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Meclis bütçe görüşmelerinde yargı bağımsızlığı tartışması yaşandı",
+      "ozet": "Türkiye Büyük Millet Meclisi bünyesindeki plan ve bütçe komisyonunda Adalet Bakanlığının gelecek yılki bütçe tasarısı ele alındı. Görüşmeler sırasında yargı bağımsızlığı konusu gündeme geldi. Adalet Bakanı Abdulhamit Gül, yargı organlarının kimseden talimat almadığını ve yalnızca anayasa ile kanunlara göre hareket ettiğini vurguladı. Oturumda muhalefet milletvekilleri de konuyla ilgili eleştirilerini dile getirdi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2019-haber-1704102",
@@ -1340,10 +1433,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpli-ilgezdi-tbmm-gundemine-tasidi-1704102"
       },
-      "konular": [],
+      "konular": [
+        "Gamze Akkuş İlgezdi",
+        "Türkiye Büyük Millet Meclisi",
+        "Senfoni orkestrası"
+      ],
       "yayin": "2019-11-25T02:33:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Senfoni orkestralarındaki atama kriterleri meclis gündemine taşındı",
+      "ozet": "Cumhuriyet Halk Partisi Genel Başkan Yardımcısı Gamze Akkuş İlgezdi, senfoni orkestralarına yapılan atamalarda uygulanan kriterlerin kaldırılmasını meclis gündemine getirdi. İlgezdi, 2018 yılında yürürlüğe giren düzenleme ile orkestra şefi ve yardımcısı atamalarında aranan şartların iptal edildiğini belirterek konuya ilişkin açıklamalarda bulundu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2018-haber-1151403",
@@ -1356,10 +1456,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/karadenizde-ukrayna-rusya-gerginligi-savas-gemimize-ates-acildi-1151403"
       },
-      "konular": [],
+      "konular": [
+        "Kerç Boğazı krizi",
+        "Ukrayna",
+        "Rusya"
+      ],
       "yayin": "2018-11-25T21:56:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Karadeniz sularında Ukrayna ve Rusya arasında çatışma yaşandı",
+      "ozet": "Ukrayna yönetimi, Karadeniz bölgesinde bulunan deniz kuvvetlerine bağlı gemilerin Rusya tarafından hedef alındığını ve ateş açıldığını bildirdi. Yaşanan bu olay iki ülke arasındaki gerilimi tırmandırdı. Taraflar arasında deniz sahasında meydana gelen bu müdahale, bölgedeki güvenlik endişelerini artırdı.",
+      "kategori": "Savaş",
+      "gorsel": null
     },
     {
       "id": "2018-haber-1150823",
@@ -1372,10 +1480,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/balkan-sampiyonu-busra-azmiyle-on-yargilari-tus-etti-1150823"
       },
-      "konular": [],
+      "konular": [
+        "Güreş",
+        "Büşra Efe",
+        "Antalya"
+      ],
       "yayin": "2018-11-25T11:31:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Balkan şampiyonu güreşçi Büşra Efe yeni hedeflerine odaklandı",
+      "ozet": "Antalya'da yaşayan 13 yaşındaki milli sporcu Büşra Efe, ailesinin ilk etapta karşı çıkmasına rağmen ağabeylerinden esinlenerek güreşe başladı. Minderdeki disiplinli çalışmasıyla Balkan şampiyonluğuna ulaşan genç sporcu, kariyerine yeni başarılar eklemek için çalışmalarını sürdürüyor.",
+      "kategori": "Spor"
     },
     {
       "id": "2017-haber-873388",
@@ -1388,10 +1503,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-ligi-artik-bu-kanalda-yayinlanacak-873388"
       },
-      "konular": [],
+      "konular": [
+        "UEFA Şampiyonlar Ligi",
+        "beIN Sports"
+      ],
       "yayin": "2017-11-25T09:57:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Şampiyonlar Ligi yayın haklarında yeni dönem başladı",
+      "ozet": "Avrupa futbolunun en prestijli organizasyonu olan Şampiyonlar Ligi'nin Türkiye sınırları içerisindeki yayın hakları el değiştirdi. Yapılan anlaşma neticesinde turnuvanın yeni yayın kuruluşu beIN Sports olarak belirlendi.",
+      "kategori": "Spor"
     },
     {
       "id": "2017-haber-873343",
@@ -1404,10 +1525,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/muglada-depremden-etkilenen-mahalle-icin-tahliye-karari-bekleniyor-873343"
       },
-      "konular": [],
+      "konular": [
+        "Ula",
+        "Muğla",
+        "Deprem"
+      ],
       "yayin": "2017-11-25T08:28:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Muğla Ula'da deprem sonrası tahliye beklentisi",
+      "ozet": "Muğla'nın Ula ilçesinde yaşanan 5.1 büyüklüğündeki sarsıntı ve ardından gelen artçı hareketlilik bölge halkını olumsuz etkiledi. Dağlık kesimde yer alan Arıcılar Mahallesi'ndeki vatandaşlar, güvenlik endişeleri nedeniyle geceyi dışarıda kurulan çadırlarda geçirdi. Yetkililer, mahalle için tahliye kararı alınması yönünde değerlendirmelerini sürdürdü.",
+      "kategori": "Afet"
     },
     {
       "id": "2016-haber-635779",
@@ -1420,10 +1548,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dolar-rekora-doymuyor-dikis-tutmuyor-635779"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Dolar",
+        "Ekonomi"
+      ],
       "yayin": "2016-11-25T12:29:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Döviz piyasasında yükseliş eğilimi devam ediyor",
+      "ozet": "Merkez Bankasının Türk lirasındaki değer kaybını önlemek amacıyla faiz oranlarında yaptığı artış, döviz kurundaki yükselişi durdurmakta yetersiz kaldı. Avrupa Parlamentosunun yaptığı çağrının ardından piyasalarda hareketlilik yaşandı ve dolar kuru 3,4533 seviyesine ulaşarak yeni bir zirve kaydetti.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG/960px-TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG/500px-TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "orijinalGenislik": 2448,
+        "yazar": "Vikiçizer",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
+        "aciklama": "TC Merkez Bankası ön cephe",
+        "konu": "Türkiye Cumhuriyet Merkez Bankası"
+      }
     },
     {
       "id": "2016-haber-635626",
@@ -1436,10 +1584,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dolar-ve-euroda-yeni-rekor-635626"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Döviz kuru",
+        "Ekonomi"
+      ],
       "yayin": "2016-11-25T08:02:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Döviz kurlarında tarihi yükseliş yaşandı",
+      "ozet": "Merkez Bankası tarafından gerçekleştirilen faiz indirimlerinin ardından dolar ve euro değer kazandı. Söz konusu para birimleri piyasalarda yeni bir rekor seviyeye ulaştı.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG/960px-TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG/500px-TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "orijinalGenislik": 2448,
+        "yazar": "Vikiçizer",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
+        "aciklama": "TC Merkez Bankası ön cephe",
+        "konu": "Türkiye Cumhuriyet Merkez Bankası"
+      }
     },
     {
       "id": "2015-haber-431407",
@@ -1452,10 +1620,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/davutoglu-3-kadin-bakan-rekorunu-kiramadi-ama-akp-icin-rekor-431407"
       },
-      "konular": [],
+      "konular": [
+        "Ahmet Davutoğlu",
+        "Türkiye siyaseti",
+        "Bakanlar Kurulu"
+      ],
       "yayin": "2015-11-25T10:26:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Yeni kabinedeki kadın bakan sayısı siyasi tarihteki yerini korudu",
+      "ozet": "Kurulan yeni hükümette görev alan kadın bakan sayısı, geçmiş dönemlerdeki uygulamaların gerisinde kaldı. On üç yıllık iktidar süreci boyunca kabinede aynı anda ikiden fazla kadın bakan yer almadı. Bu durum, geçmiş yıllarda farklı hükümetler döneminde ulaşılan üç kadın bakan seviyesinin geride bırakılamadığını gösterdi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2015-haber-431385",
@@ -1468,10 +1643,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-2012de-kisa-sureli-sinir-ihlali-hicbir-zaman-saldiri-nedeni-olamaz-demisti-431385"
       },
-      "konular": [],
+      "konular": [
+        "2015 Rus Su-24 uçağının düşürülmesi",
+        "Recep Tayyip Erdoğan",
+        "Türkiye-Rusya ilişkileri"
+      ],
       "yayin": "2015-11-25T10:24:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Türkiye hava sahasını ihlal eden Rus uçağını düşürdü",
+      "ozet": "Türkiye hava sahasını 17 saniye boyunca ihlal ettiği gerekçesiyle bir Rus uçağına müdahale ederek düşürdü. Yaşanan bu gelişme uluslararası kamuoyunda geniş yankı uyandırdı. Cumhurbaşkanı Recep Tayyip Erdoğan, benzer bir ihlal durumunda Türkiye'nin kendi sınırlarını koruma hakkını kullanacağını daha önce 2012 yılında ifade etmişti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/%D0%91%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D0%BB%D0%B5%D1%82%D1%8B_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%B8_%D1%81_%D0%B0%D1%8D%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC%D0%B0_%C2%AB%D0%A5%D0%BC%D0%B5%D0%B9%D0%BC%D0%B8%D0%BC%C2%BB_%D0%B4%D0%BB%D1%8F_%D0%BD%D0%B0%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D1%83%D0%B4%D0%B0%D1%80%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0%D0%BC_%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2_%D0%B2_%D0%A1%D0%B8%D1%80%D0%B8%D0%B8_%289%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/%D0%91%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D0%BB%D0%B5%D1%82%D1%8B_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%B8_%D1%81_%D0%B0%D1%8D%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC%D0%B0_%C2%AB%D0%A5%D0%BC%D0%B5%D0%B9%D0%BC%D0%B8%D0%BC%C2%BB_%D0%B4%D0%BB%D1%8F_%D0%BD%D0%B0%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D1%83%D0%B4%D0%B0%D1%80%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0%D0%BC_%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2_%D0%B2_%D0%A1%D0%B8%D1%80%D0%B8%D0%B8_%289%29.jpg",
+        "genislik": 900,
+        "yukseklik": 600,
+        "orijinalGenislik": 900,
+        "yazar": "Russian Ministry of Defence",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D0%BB%D0%B5%D1%82%D1%8B_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%B8_%D1%81_%D0%B0%D1%8D%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC%D0%B0_%C2%AB%D0%A5%D0%BC%D0%B5%D0%B9%D0%BC%D0%B8%D0%BC%C2%BB_%D0%B4%D0%BB%D1%8F_%D0%BD%D0%B0%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D1%83%D0%B4%D0%B0%D1%80%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0%D0%BC_%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2_%D0%B2_%D0%A1%D0%B8%D1%80%D0%B8%D0%B8_(9).jpg",
+        "aciklama": "Боевые вылеты российской авиации с аэродрома «Хмеймим» для нанесения ударов по объектам террористов в Сирии",
+        "konu": "2015 Rus Su-24 uçağının düşürülmesi"
+      }
     },
     {
       "id": "2014-haber-149764",
@@ -1484,10 +1679,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/portekizin-eski-basbakani-yolsuzluktan-cezaevine-gonderildi-149764"
       },
-      "konular": [],
+      "konular": [
+        "Jose Socrates",
+        "Portekiz",
+        "Yolsuzluk"
+      ],
       "yayin": "2014-11-25T12:23:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Portekiz eski Başbakanı Jose Socrates tutuklanarak cezaevine gönderildi",
+      "ozet": "Portekiz tarihinde bir ilk yaşanarak eski Başbakan Jose Socrates hakkında tutuklama kararı verildi. Yolsuzluk suçlamalarıyla gözaltına alınan ve üç gün boyunca sorgulanan eski başbakan, mahkeme kararı doğrultusunda cezaevine sevk edildi.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2013-haber-12917",
@@ -1500,10 +1703,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hale-asaf-kendi-rekorunu-kirdi-12917"
       },
-      "konular": [],
+      "konular": [
+        "Mübin Orhon",
+        "Müzayede",
+        "Sanat"
+      ],
       "yayin": "2013-11-25T12:03:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Mübin Orhon imzalı eser müzayedede yüksek fiyata satıldı",
+      "ozet": "Antik AŞ Müzayede Evi tarafından gerçekleştirilen çağdaş sanat eserleri satışında önemli bir tablo yeni sahibini buldu. Mübin Orhon'un bir çalışması, düzenlenen açık artırmada 725 bin Türk Lirası bedelle alıcı bularak dikkat çekti. Sanat piyasasındaki bu gelişme, müzayede sürecinin öne çıkan sonuçlarından biri oldu.",
+      "kategori": "Sanat"
     },
     {
       "id": "2013-haber-12911",
@@ -1516,10 +1726,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-ve-barzani-bulusmasinin-perde-arkasindaki-pkk-mutabakati-12911"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Mesut Barzani",
+        "Çözüm süreci"
+      ],
       "yayin": "2013-11-25T11:58:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Diyarbakır görüşmesinde PKK mutabakatı gündeme geldi",
+      "ozet": "Dönemin Başbakanı Tayyip Erdoğan ile Kürdistan Bölgesel Yönetimi Lideri Mesut Barzani arasında Diyarbakır'da gerçekleşen görüşmenin detayları ortaya çıktı. Yapılan temasların arka planında PKK ile ilgili bir mutabakatın bulunduğu bilgisi paylaşıldı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2011-haber-300656",
@@ -1532,10 +1762,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fasta-parlamento-secimleri-basladi-300656"
       },
-      "konular": [],
+      "konular": [
+        "Fas",
+        "Seçim"
+      ],
       "yayin": "2011-11-25T11:10:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Fas halkı yeni parlamento üyelerini seçmek için sandık başına gitti",
+      "ozet": "Fas genelinde düzenlenen parlamento seçimleri kapsamında oy verme süreci başladı. Toplamda 395 milletvekilinin belirleneceği seçimlerde 13,5 milyon kayıtlı seçmen tercihlerini yapmak üzere oy kullanma merkezlerine yöneldi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/960px-Election_MG_3455.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/500px-Election_MG_3455.JPG",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 4368,
+        "yazar": "Rama",
+        "lisans": "CC BY-SA 2.0 fr",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Election_MG_3455.JPG",
+        "aciklama": "Second round of the French presidential election of 2007.",
+        "konu": "Seçim"
+      }
     },
     {
       "id": "2011-haber-300716",
@@ -1548,10 +1797,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/komunistlerin-soylemleri-basbakanin-soylemi-oldu-300716"
       },
-      "konular": [],
+      "konular": [
+        "Dersim İsyanı",
+        "Oktay Vural",
+        "Recep Tayyip Erdoğan"
+      ],
       "yayin": "2011-11-25T14:52:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Oktay Vural'dan Dersim Tartışmalarına İlişkin Eleştiri",
+      "ozet": "Milliyetçi Hareket Partisi Grup Başkanvekili Oktay Vural, Başbakan Recep Tayyip Erdoğan'ın Dersim olaylarına yönelik tutumunu eleştirdi. Vural, Başbakan'ın söylemlerinin isyancıların savunuculuğunu yapmakla eşdeğer olduğunu iddia etti. Bu açıklamalarla hükümetin tarihsel olaylara yaklaşımına dair muhalefetin tepkisi dile getirildi.",
+      "kategori": "Siyaset"
     }
   ],
   "haberYillari": [

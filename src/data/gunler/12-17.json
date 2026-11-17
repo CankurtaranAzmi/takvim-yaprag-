@@ -184,10 +184,10 @@
       "konular": [
         "1905 Moskova Ayaklanması"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "1905 Moskova Ayaklanması'nın Kanlı Sonu",
+      "ozet": "Rusya'da 1905 Devrimi'nin en kritik aşamalarından biri olan Moskova Ayaklanması, 17 Aralık 1905 tarihinde Çarlık ordusunun kontrolü yeniden sağlamasıyla sona erdi. Bolşeviklerin öncülüğünde 7 Aralık'ta başlayan protestolar, kısa sürede işçi sınıfının silahlı direnişine dönüştü. Moskova sokaklarında kurulan barikatlar, şehrin büyük bir kısmında otoriteyi sarsarken, Çarlık yönetimi isyanı bastırmak için topçu birliklerini ve Kazak süvarilerini devreye soktu. 9 Aralık'tan itibaren şiddetlenen çatışmalar, ordunun şehre tam anlamıyla hakim olmasıyla nihayete erdi.\n\nBu ayaklanma, Rusya'daki toplumsal huzursuzluğun ve monarşiye karşı biriken öfkenin somut bir göstergesiydi. On gün süren çatışmalar boyunca yaşanan ağır kayıplar ve ordunun sert müdahalesi, halk ile yönetim arasındaki uçurumu daha da derinleştirdi. Ayaklanmanın bastırılması Çarlık rejimine kısa vadeli bir istikrar sağlasa da, bu olaylar 1917 Devrimi'ne giden süreçte işçi hareketlerinin deneyim kazandığı ve örgütlenme kapasitesini artırdığı önemli bir dönüm noktası olarak tarihe geçti.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/The_Russian_Revolution%2C_1905_Q81555.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/The_Russian_Revolution%2C_1905_Q81555.jpg",
@@ -200,7 +200,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:The_Russian_Revolution,_1905_Q81555.jpg",
         "aciklama": "The barricades of Presnya, 1905. Black-and-white photo of a [preparatory sketch?] painting by Ivan Vladimirov (ru:Владимиров, Иван Алексеевич, 1870-1947) depicting the December, 1905 rising in Presnya",
         "konu": "1905 Moskova Ayaklanması"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1908-ittihat-ve-terakki-cemiyeti-ii-mesrutiyetin-ilanindan",
@@ -211,10 +212,10 @@
         "II. Meşrutiyet",
         "İttihat ve Terakki Fırkası"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İttihat ve Terakki Cemiyeti'nin Siyasi Partiye Dönüşümü",
+      "ozet": "Osmanlı İmparatorluğu'nda anayasal düzenin yeniden tesis edilmesinde kilit rol oynayan İttihat ve Terakki Cemiyeti, 17 Aralık 1908 tarihinde resmen İttihat ve Terakki Fırkası adını alarak siyasi parti kimliğine büründü. Başlangıçta gizli bir dernek olarak faaliyet gösteren yapı, İkinci Meşrutiyet'in ilanıyla birlikte parlamenter sistemin bir parçası haline geldi. Bu dönüşüm, cemiyetin devlet yönetimi üzerindeki etkisini kurumsallaştırmasının ilk adımı olarak kabul edilir.\n\nCemiyetin bir siyasi fırkaya dönüşmesi, Osmanlı siyasi hayatında çok partili döneme geçişin ve parlamenter demokrasinin yerleşme çabalarının önemli bir aşamasını oluşturdu. 1908'den 1918'e kadar imparatorluğun kaderinde belirleyici bir rol oynayan bu hareket, zamanla iktidarı denetleyen bir yapıdan, 1913 yılındaki Bâb-ı Âli Baskını sonrasında olduğu gibi, devlet yönetiminde mutlak hakimiyet kuran bir güce dönüştü. İttihat ve Terakki, sadece bir siyasi parti değil, aynı zamanda imparatorluğun son dönemine damgasını vuran bir neslin ve ideolojinin temsilcisi olmuştur.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/1908-mesrutiyet.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/1908-mesrutiyet.jpg",
@@ -227,7 +228,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:1908-mesrutiyet.jpg",
         "aciklama": "Postcard commemorating the Young Turk Revolution of 24 July 1908, with the slogan \"Long live the fatherland, long live the nation, long live liberty\" in Ottoman Turkish and French, and a picture of En",
         "konu": "II. Meşrutiyet"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1908-ii-mesrutiyetin-ilanindan-sonraki-secilen-yeni-osmanli",
@@ -251,51 +253,24 @@
         "Tunceli",
         "Pülümür"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Pülümür'ün Rus İşgalinden Kurtuluşu",
+      "ozet": "I. Dünya Savaşı'nın Kafkasya Cephesi'nde yaşanan çatışmaların ardından, 17 Aralık 1917 tarihinde Tunceli'nin Pülümür ilçesi Rus işgalinden kurtularak yeniden Türk idaresine geçti. Bu gelişme, bölgedeki askeri hareketliliğin ve cephe hattındaki değişimin bir parçası olarak gerçekleşti. Rus İmparatorluğu'nda yaşanan 1917 Devrimleri ve ardından gelen iç karışıklıklar, Rus ordusunun bölgedeki varlığını sürdürmesini zorlaştırmış ve geri çekilme sürecini hızlandırmıştı. Pülümür'ün kurtuluşu, bölge halkı için uzun süren işgal döneminin sona ermesi ve yerel yönetimin yeniden tesis edilmesi açısından kritik bir dönüm noktası olmuştur. Bu olay, aynı zamanda bölgedeki sivil yaşamın normale dönmesi ve savaşın yarattığı tahribatın onarılması sürecinin başlangıcını temsil eder. Pülümür'ün kurtuluşu, o dönemde Doğu Anadolu'da yaşanan genel geri çekilme ve yeniden yapılanma sürecinin yerel bir yansıması olarak tarihe geçmiştir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/D%C3%AArsim.jpg/960px-D%C3%AArsim.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/D%C3%AArsim.jpg/500px-D%C3%AArsim.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Dersim_districts.png/960px-Dersim_districts.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Dersim_districts.png/500px-Dersim_districts.png",
         "genislik": 960,
-        "yukseklik": 588,
-        "orijinalGenislik": 1888,
-        "yazar": "Dûrzan Cîrano",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:D%C3%AArsim.jpg",
-        "aciklama": "Dêrsim û Mûnzûr",
-        "konu": "Tunceli"
+        "yukseklik": 742,
+        "orijinalGenislik": 1056,
+        "yazar": "No machine-readable author provided. Rarelibra assumed (based on copyright claims).",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Dersim_districts.png",
+        "aciklama": "Map of the districts of Tunceli province in Turkey. Created by Rarelibra 17:52, 4 December 2006 (UTC) for public domain use, using MapInfo Professional v8.5 and various mapping resources. Edited by On",
+        "konu": "Pülümür"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/D%C3%AArsim.jpg/960px-D%C3%AArsim.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/D%C3%AArsim.jpg/500px-D%C3%AArsim.jpg",
-          "genislik": 960,
-          "yukseklik": 588,
-          "orijinalGenislik": 1888,
-          "yazar": "Dûrzan Cîrano",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:D%C3%AArsim.jpg",
-          "aciklama": "Dêrsim û Mûnzûr",
-          "konu": "Tunceli"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Dersim_districts.png/960px-Dersim_districts.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Dersim_districts.png/500px-Dersim_districts.png",
-          "genislik": 960,
-          "yukseklik": 742,
-          "orijinalGenislik": 1056,
-          "yazar": "No machine-readable author provided. Rarelibra assumed (based on copyright claims).",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Dersim_districts.png",
-          "aciklama": "Map of the districts of Tunceli province in Turkey. Created by Rarelibra 17:52, 4 December 2006 (UTC) for public domain use, using MapInfo Professional v8.5 and various mapping resources. Edited by On",
-          "konu": "Pülümür"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1918-fransiz-askerleri-denizden-mersine-cikarma-yapmaya-basladi",
@@ -308,64 +283,12 @@
         "Adana",
         "Ceyhan"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Mersin_Halkevi.jpg/960px-Mersin_Halkevi.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Mersin_Halkevi.jpg/500px-Mersin_Halkevi.jpg",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 1247,
-        "yazar": "Nedim Ardoğa (talk)",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Mersin_Halkevi.jpg",
-        "aciklama": "Mersin Halkevi",
-        "konu": "Mersin"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Mersin_Halkevi.jpg/960px-Mersin_Halkevi.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Mersin_Halkevi.jpg/500px-Mersin_Halkevi.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 1247,
-          "yazar": "Nedim Ardoğa (talk)",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mersin_Halkevi.jpg",
-          "aciklama": "Mersin Halkevi",
-          "konu": "Mersin"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ulucami%2C_Tarsus%2C_Mersin_Province.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ulucami%2C_Tarsus%2C_Mersin_Province.jpg",
-          "genislik": 799,
-          "yukseklik": 599,
-          "orijinalGenislik": 799,
-          "yazar": "Nedim Ardoğa",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ulucami,_Tarsus,_Mersin_Province.jpg",
-          "aciklama": "Ulucami (grand mosque) in Tarsus, Mersin Province",
-          "konu": "Tarsus"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Varda_Demiryolu_Koprusu.jpg/960px-Varda_Demiryolu_Koprusu.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Varda_Demiryolu_Koprusu.jpg/500px-Varda_Demiryolu_Koprusu.jpg",
-          "genislik": 960,
-          "yukseklik": 493,
-          "orijinalGenislik": 3318,
-          "yazar": "MUSTAFA TOR",
-          "lisans": "CC BY-SA 2.5",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Varda_Demiryolu_Koprusu.jpg",
-          "aciklama": "Varda Demiryolu Köprüsü; railway viaduct on Baghdad Railway in Taurus Mountains, Adana Province, Turkey",
-          "konu": "Adana"
-        }
-      ]
+      "baslik": "Mersin ve Çevresinin Fransız İşgaline Uğraması",
+      "ozet": "Birinci Dünya Savaşı'nın sona ermesinin ardından imzalanan Mondros Ateşkes Antlaşması'nı fırsat bilen İtilaf Devletleri, Anadolu'nun çeşitli bölgelerini işgal etmeye başladı. Bu kapsamda 17 Aralık 1918 tarihinde Fransız askerleri, deniz yoluyla Mersin'e ulaşarak şehre çıkarma yaptı. İşgal süreci kısa sürede genişleyerek Tarsus, Adana, Ceyhan, Misis ve Toprakkale gibi stratejik öneme sahip yerleşim birimlerini de içine aldı.\n\nÇukurova bölgesinin işgali, bölge halkı üzerinde büyük bir huzursuzluk yarattı ve yerel direniş hareketlerinin fitilini ateşledi. Fransızların bölgedeki varlığı, tarımsal üretimi ve sosyal yaşamı olumsuz etkilerken, Türk halkının bağımsızlık mücadelesi için örgütlenmesine zemin hazırladı. Bu işgal, ilerleyen yıllarda bölgede yürütülecek olan Güney Cephesi'ndeki mücadelenin temel nedenlerinden biri haline geldi ve bölge halkının işgalci güçlere karşı verdiği kararlı direnişle tarihe geçti.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1919-turkiye-isci-ve-ciftci-sosyalist-firkasi-kuruldu",
@@ -401,10 +324,10 @@
       "konular": [
         "Uşak Şeker Fabrikası"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türkiye'nin İlk Şeker Fabrikası Uşak'ta Açıldı",
+      "ozet": "Cumhuriyet'in ilk yıllarında sanayileşme hamlelerinin en önemli adımlarından biri olan Uşak Şeker Fabrikası, 17 Aralık 1926 tarihinde büyük bir coşkuyla faaliyete geçti. Uşaklı iş insanı Mehmet Hacım ve Nuri Şeker öncülüğünde, yerel halkın kolektif desteği ve sermayesiyle kurulan bu tesis, Türkiye'nin şeker ihtiyacını yerli üretimle karşılama hedefinin ilk somut meyvesi oldu. Fabrika, sadece ekonomik bir girişim değil, aynı zamanda Kurtuluş Savaşı sonrası toplumsal dayanışmanın ve kalkınma azminin bir sembolü olarak tarihe geçti.\n\nKuruluş sürecinde Uşak halkının büyük bir özveriyle desteklediği fabrika, kısa sürede bölgenin ekonomik kalkınmasında lokomotif görevi üstlendi. Başlangıçta anonim şirket yapısıyla kurulan ve daha sonra devletleştirilen tesis, şeker pancarı tarımının Anadolu'da yaygınlaşmasına ve tarıma dayalı sanayinin gelişmesine öncülük etti. Günümüzde de faaliyetlerini sürdüren fabrika, Türkiye'nin sanayi tarihinde yerli üretimin gücünü temsil eden en köklü kurumlar arasında yer almaktadır.",
+      "kategori": "Ekonomi",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/U%C5%9Fak_%C5%9Eeker_Fabrikas%C4%B1_Kurucular%C4%B1.jpg/960px-U%C5%9Fak_%C5%9Eeker_Fabrikas%C4%B1_Kurucular%C4%B1.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/U%C5%9Fak_%C5%9Eeker_Fabrikas%C4%B1_Kurucular%C4%B1.jpg/500px-U%C5%9Fak_%C5%9Eeker_Fabrikas%C4%B1_Kurucular%C4%B1.jpg",
@@ -417,7 +340,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:U%C5%9Fak_%C5%9Eeker_Fabrikas%C4%B1_Kurucular%C4%B1.jpg",
         "aciklama": "Founders of Uşak Sugar Factory",
         "konu": "Uşak Şeker Fabrikası"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1928-afganistanda-kral-emanullah-hana-karsi-ayaklanma-basladi",
@@ -427,10 +351,10 @@
         "Afganistan",
         "Emanullah Han"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Emanullah Han'a Karşı Başlayan Ayaklanma",
+      "ozet": "Afganistan Kralı Emanullah Han, 1919 yılında ülkesinin bağımsızlığını kazanmasının ardından, Türkiye'deki reform hareketlerinden esinlenerek Afganistan'ı modernleştirme hedefiyle kapsamlı bir değişim sürecine girmişti. Ancak bu hızlı sosyal ve siyasi dönüşüm çabaları, ülkedeki muhafazakâr kesimlerin ve aşiret liderlerinin tepkisini çekti. 17 Aralık 1928 tarihinde Habibullah Kalakani önderliğinde başlayan ayaklanma, bu hoşnutsuzluğun bir sonucu olarak patlak verdi ve kısa sürede ülke geneline yayıldı.\n\nAyaklanmanın şiddetlenmesiyle birlikte Emanullah Han'ın otoritesi sarsıldı ve reform programı ciddi bir dirençle karşılaştı. İç savaşın tırmanması üzerine Kral, 1929 yılının başında tahttan çekilmek zorunda kalarak ülkeyi terk etti. Bu olay, Afganistan'ın modernleşme yolundaki ilk büyük denemelerinden birinin kesintiye uğramasına ve ülkede uzun sürecek bir istikrarsızlık döneminin başlamasına neden oldu. Emanullah Han'ın sürgüne gidişi, Afganistan tarihinde Batılılaşma yanlısı politikaların yerel geleneklerle çatıştığı kritik bir dönüm noktası olarak kabul edilir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/King_Amanullah_Khan.jpg/960px-King_Amanullah_Khan.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/King_Amanullah_Khan.jpg/500px-King_Amanullah_Khan.jpg",
@@ -443,7 +367,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:King_Amanullah_Khan.jpg",
         "aciklama": "King Amanullah Khan of Afghanistan",
         "konu": "Emanullah Han"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1934-kasim-1934-tarihli-kanunla-kemal-oz-adli",
@@ -453,10 +378,10 @@
         "Mustafa Kemal Atatürk",
         "Türkiye Büyük Millet Meclisi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Atatürk Soyadının Korunması Hakkında Kanun",
+      "ozet": "Türkiye Büyük Millet Meclisi, 17 Aralık 1934 tarihinde aldığı bir kararla, Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal'e verilen Atatürk soyadının özel bir statüye sahip olduğunu tescil etti. Kabul edilen kanun uyarınca, Atatürk soyadı veya bu ismin başına ya da sonuna eklemeler yapılarak oluşturulan isimler, hiçbir vatandaş tarafından öz ad veya soyadı olarak kullanılamayacak şekilde koruma altına alındı. Bu düzenleme, Türkiye Cumhuriyeti'nin kurucu liderine duyulan saygının bir ifadesi olarak hukuk sistemine dahil edildi.\n\nBu karar, 1934 yılında yürürlüğe giren Soyadı Kanunu'nun ardından atılan tamamlayıcı bir adımdı. Atatürk soyadı, sadece bir aile ismi değil, aynı zamanda Türkiye'nin modernleşme sürecini ve ulusal bağımsızlık mücadelesini simgeleyen tarihsel bir kimlik olarak kabul edildi. Meclis tarafından alınan bu karar, söz konusu ismin özgünlüğünü ve toplumsal hafızadaki yerini hukuki bir güvenceyle muhafaza etmeyi amaçlıyordu. Böylece Atatürk ismi, Türk siyasi tarihinde ve toplumsal yaşamda tekil ve dokunulmaz bir konuma yerleştirilmiş oldu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -469,7 +394,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
         "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
         "konu": "Mustafa Kemal Atatürk"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1935-douglas-dc-3-tipi-ucagin-ilk-ucusu",
@@ -478,10 +404,10 @@
       "konular": [
         "Douglas DC-3"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Havacılıkta Devrim Yaratan Uçak: Douglas DC-3 İlk Uçuşunu Yaptı",
+      "ozet": "Havacılık dünyasında bir dönüm noktası kabul edilen Douglas DC-3, 17 Aralık 1935 tarihinde gökyüzüyle buluştu. American Airlines CEO'su Cyrus Smith ile uçak tasarımcısı Donald Douglas arasındaki yoğun görüşmelerin bir ürünü olarak ortaya çıkan bu model, aslında daha önceki DC-2 uçağının geliştirilmiş bir versiyonuydu. Tasarım sürecinde şef mühendis Arthur E. Raymond'ın liderliğinde şekillenen uçak, sunduğu konfor ve teknik özelliklerle sivil havacılığın çehresini değiştirdi.\n\nDC-3'ü döneminin diğer uçaklarından ayıran en önemli özellik, yolculara sunduğu mutfak hizmeti ve yatarak seyahat imkanı gibi yeniliklerdi. Bu konfor unsurları, hava yoluyla seyahati lüks bir seçenekten popüler bir ulaşım aracına dönüştürdü. İkinci Dünya Savaşı sırasında askeri amaçlarla C-47 ve Dakota gibi isimlerle on binlerce adet üretilen uçak, savaş sonrasında da sivil taşımacılıkta uzun yıllar hizmet verdi. Bugün bile havacılık tarihinin en başarılı ve güvenilir tasarımlarından biri olarak kabul edilen DC-3, modern yolcu taşımacılığının temellerinin atılmasında kritik bir rol oynamıştır.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Douglas_DC-3%2C_SE-CFP.jpg/960px-Douglas_DC-3%2C_SE-CFP.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Douglas_DC-3%2C_SE-CFP.jpg/500px-Douglas_DC-3%2C_SE-CFP.jpg",
@@ -494,7 +420,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Douglas_DC-3,_SE-CFP.jpg",
         "aciklama": "This is a picture of a Working Life Museums in Sweden, number",
         "konu": "Douglas DC-3"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1936-ankarada-19-mayis-stadyumu-basbakan-ismet-inonunun",
@@ -505,64 +432,24 @@
         "Ankara 19 Mayıs Stadyumu",
         "İsmet İnönü"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Ankara 19 Mayıs Stadyumu'nun Açılışı",
+      "ozet": "Cumhuriyetin ilk yıllarında başkent Ankara'nın modernleşme vizyonunun bir parçası olarak inşa edilen Ankara 19 Mayıs Stadyumu, 17 Aralık 1936 tarihinde düzenlenen törenle kapılarını açtı. Açılış konuşmasını dönemin Başbakanı İsmet İnönü gerçekleştirdi. Bu tesis, sadece bir spor alanı olarak değil, aynı zamanda genç Cumhuriyetin fiziksel ve sosyal kalkınma hedeflerini yansıtan önemli bir kamusal yapı olarak tasarlandı.\n\nStadyum, uzun yıllar boyunca Ankara'nın spor hayatının merkezi konumunda yer aldı. Gençlerbirliği ve MKE Ankaragücü gibi köklü kulüplerin iç saha maçlarına ev sahipliği yapmasının yanı sıra, devlet törenleri ve çeşitli toplumsal gösteriler için de ana merkezlerden biri oldu. 1954 yılında ışıklandırılmasıyla gece maçlarına da olanak tanıyan stadyum, Ankara'nın kentsel hafızasında derin bir yer edindi. 2018 yılında yıkılana kadar başkentin spor kültürünün en önemli simgelerinden biri olarak varlığını sürdürdü.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-        "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 7735,
-        "yazar": "A.Savin",
-        "lisans": "FAL",
-        "lisansUrl": "http://artlibre.org/licence/lal/en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-        "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
-        "konu": "Ankara"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gen%C3%A7lerbirli%C4%9Fi_2-1_Karab%C3%BCkspor.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gen%C3%A7lerbirli%C4%9Fi_2-1_Karab%C3%BCkspor.jpg",
+        "genislik": 800,
+        "yukseklik": 600,
+        "orijinalGenislik": 800,
+        "yazar": "Sabri76",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Gen%C3%A7lerbirli%C4%9Fi_2-1_Karab%C3%BCkspor.jpg",
+        "aciklama": "Turkish Super League match: Gençlerbirliği 2-1 Karabükspor",
+        "konu": "Ankara 19 Mayıs Stadyumu"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 7735,
-          "yazar": "A.Savin",
-          "lisans": "FAL",
-          "lisansUrl": "http://artlibre.org/licence/lal/en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
-          "konu": "Ankara"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gen%C3%A7lerbirli%C4%9Fi_2-1_Karab%C3%BCkspor.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gen%C3%A7lerbirli%C4%9Fi_2-1_Karab%C3%BCkspor.jpg",
-          "genislik": 800,
-          "yukseklik": 600,
-          "orijinalGenislik": 800,
-          "yazar": "Sabri76",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Gen%C3%A7lerbirli%C4%9Fi_2-1_Karab%C3%BCkspor.jpg",
-          "aciklama": "Turkish Super League match: Gençlerbirliği 2-1 Karabükspor",
-          "konu": "Ankara 19 Mayıs Stadyumu"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
-          "genislik": 549,
-          "yukseklik": 724,
-          "orijinalGenislik": 549,
-          "yazar": "Unknown. Official photo of President.",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Inonu_Ismet_(cropped).jpg",
-          "aciklama": "President of Turkey 1938-1950 Ismet Inonu",
-          "konu": "İsmet İnönü"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1941-almanlar-sivastopolu-kusattilar",
@@ -571,23 +458,12 @@
       "konular": [
         "Sivastopol"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/1356_%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%B0%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F%D0%BC.jpg/960px-1356_%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%B0%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F%D0%BC.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/1356_%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%B0%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F%D0%BC.jpg/500px-1356_%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%B0%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F%D0%BC.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 3504,
-        "yazar": "GIC198",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:1356_%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%B0%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F%D0%BC.jpg",
-        "aciklama": "Monument to the Sunken Ships: Sevastopol Bay, Leninsky district, Sevastopol",
-        "konu": "Sivastopol"
-      }
+      "baslik": "Sivastopol Kuşatması Başladı",
+      "ozet": "II. Dünya Savaşı'nın Doğu Cephesi'nde, Nazi Almanyası ve müttefikleri, Karadeniz'in en kritik liman kentlerinden biri olan Sivastopol'u ele geçirmek amacıyla kapsamlı bir kuşatma başlattı. Şehrin stratejik konumu, hem Sovyet Karadeniz Filosu'nun ana üssü olması hem de bölgedeki deniz hakimiyeti açısından büyük bir önem taşıyordu. Alman ordusu, şehri düşürerek Sovyetlerin Karadeniz'deki operasyonel kapasitesini tamamen kısıtlamayı hedefliyordu.\n\nSivastopol, kuruluşundan bu yana Rusya için vazgeçilmez bir deniz üssü olma özelliğini korumuştur. Kuşatma, şehrin savunma hatlarının zorlanmasıyla uzun süren ve ağır kayıplara yol açan bir sürece dönüştü. Sovyet savunması, şehrin coğrafi avantajlarını kullanarak Alman ilerleyişini durdurmaya çalıştı. Bu kuşatma, bölgedeki askeri dengeleri değiştiren ve savaşın seyrini etkileyen en önemli çarpışmalardan biri olarak tarihe geçti.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1941-ismet-inonu-hukumeti-yeni-yildan-itibaren-ekmegin",
@@ -608,23 +484,12 @@
         "Niteroi",
         "Brezilya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Boa_Viagem_Niter%C3%B3i.JPG/960px-Boa_Viagem_Niter%C3%B3i.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Boa_Viagem_Niter%C3%B3i.JPG/500px-Boa_Viagem_Niter%C3%B3i.JPG",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 3648,
-        "yazar": "DiMonteiro",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Boa_Viagem_Niter%C3%B3i.JPG",
-        "aciklama": "Boa Viagem, bairro de Niterói",
-        "konu": "Niteroi"
-      }
+      "baslik": "Niteroi Sirk Yangını Faciası",
+      "ozet": "Brezilya'nın Niteroi şehrinde 17 Aralık 1961 tarihinde kurulan bir sirkte, gösteri sırasında çıkan yangın büyük bir trajediye dönüştü. Sirk çadırının yanıcı malzemelerden yapılmış olması ve kalabalığın hızla tahliye edilememesi, 323 kişinin yaşamını yitirmesine ve yüzlerce kişinin yaralanmasına neden oldu. Bu olay, Brezilya tarihinin en büyük sirk felaketlerinden biri olarak kayıtlara geçti.\n\nYangının çıkış nedeni daha sonra yapılan soruşturmalarda kundaklama olarak belirlendi. Sirk çalışanlarından biriyle yaşadığı husumet nedeniyle çadırı ateşe verdiği iddia edilen bir şahıs, olayın baş sorumlusu olarak görüldü. Bu acı olay, dünya genelinde sirklerde ve kapalı eğlence mekanlarında yangın güvenliği standartlarının yeniden gözden geçirilmesine ve daha sıkı denetimlerin getirilmesine yol açan önemli bir dönüm noktası oldu.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1965-bm-turkiyenin-kibrisa-mudahale-edemeyecegine-iliskin-karar",
@@ -635,23 +500,12 @@
         "Türkiye",
         "Kıbrıs"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Cyprus_ESA356100.jpg/960px-Cyprus_ESA356100.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Cyprus_ESA356100.jpg/500px-Cyprus_ESA356100.jpg",
-        "genislik": 960,
-        "yukseklik": 691,
-        "orijinalGenislik": 10000,
-        "yazar": "European Space Agency",
-        "lisans": "CC BY-SA 3.0 igo",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Cyprus_ESA356100.jpg",
-        "aciklama": "The third largest island in the Mediterranean, Cyprus is about 240 km long and 100 km wide. It is located on the Anatolian plate and therefore belongs geologically to Asia, but politically it is a mem",
-        "konu": "Kıbrıs"
-      }
+      "baslik": "Birleşmiş Milletler'in Kıbrıs Müdahalesi Kararı ve Türkiye'nin Tepkisi",
+      "ozet": "Birleşmiş Milletler Genel Kurulu, 1965 yılının Aralık ayında Kıbrıs'taki gerilimi ele alan kritik bir oturum gerçekleştirdi. Bu oturum sonucunda kabul edilen kararla, Türkiye'nin adadaki duruma yönelik tek taraflı bir askeri müdahalede bulunmasının uluslararası hukuka aykırı olduğu vurgulandı. Söz konusu karar, adadaki tarafların egemenliğine ve toprak bütünlüğüne saygı gösterilmesi gerektiğini savunarak, sorunun diplomatik yollarla çözülmesi çağrısında bulundu. Türkiye Cumhuriyeti hükümeti ise bu kararı kabul etmeyerek, adadaki Türk toplumunun güvenliğinin ve haklarının korunmasının uluslararası antlaşmalardan doğan bir sorumluluk olduğunu belirtti. Ankara, bu kararın Kıbrıs meselesinin çözümünde taraflı bir yaklaşım sergilediğini savunarak, Türkiye'nin garantörlük haklarını kullanma konusundaki kararlılığını yineledi. Bu gelişme, Türkiye ile Birleşmiş Milletler arasındaki diplomatik ilişkilerde önemli bir kırılma noktası oluştururken, Kıbrıs sorununun uluslararası arenadaki karmaşık yapısını da gözler önüne serdi. Kararın reddedilmesi, Türkiye'nin adadaki gelişmelere karşı izlediği dış politika stratejisinin bir yansıması olarak tarihe geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1965-turkiye-fikir-kulupleri-federasyonu-fkf-kuruldu",
@@ -676,10 +530,10 @@
         "Portsea",
         "Victoria, Avustralya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Avustralya Başbakanı Harold Holt'un Gizemli Kayboluşu",
+      "ozet": "Avustralya'nın 17. Başbakanı olan Harold Holt, 17 Aralık 1967 tarihinde Victoria eyaletinde bulunan Cheviot Plajı'nda yüzerken aniden ortadan kayboldu. Olayın ardından başlatılan geniş çaplı arama çalışmalarına rağmen Holt'un bedenine ulaşılamadı ve yetkililer tarafından boğulduğu varsayıldı. Bu beklenmedik ve trajik olay, Avustralya siyasi tarihinde büyük bir şok etkisi yarattı. Holt'un kayboluşu, o dönemde hem ülke içinde hem de uluslararası kamuoyunda çeşitli spekülasyonlara ve komplo teorilerine konu oldu. Sadece 22 ay süren başbakanlık dönemi, bu dramatik sonla birlikte Avustralya tarihinin en gizemli olaylarından biri olarak kayıtlara geçti. Holt, görev süresi boyunca Vietnam Savaşı'na katılımı destekleyen politikaları ve \"LBJ ile sonuna kadar\" sloganıyla hatırlanmaktadır. Ayrıca, Hazine Bakanlığı döneminde gerçekleştirdiği mali reformlar ve göç politikalarındaki esnetmelerle tanınan bir siyasetçiydi. Ancak bugün, siyasi başarılarından ziyade, denizde kayboluşunun yarattığı belirsizlik ve bu olayın ani bir şekilde sona erdirdiği kariyeriyle anılmaktadır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Harold_Holt_SEATO.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Harold_Holt_SEATO.jpg",
@@ -692,7 +546,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Harold_Holt_SEATO.jpg",
         "aciklama": "Prime Minister Harold Holt of Australia at a SEATO leaders' summit.",
         "konu": "Harold Holt"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1969-abd-hava-kuvvetleri-yaptiklari-ufo-arastirmalari-sonucunda",
@@ -702,23 +557,12 @@
         "Amerika Birleşik Devletleri",
         "UFO"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Supposed_UFO%2C_Passaic%2C_New_Jersey.jpg/960px-Supposed_UFO%2C_Passaic%2C_New_Jersey.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Supposed_UFO%2C_Passaic%2C_New_Jersey.jpg/500px-Supposed_UFO%2C_Passaic%2C_New_Jersey.jpg",
-        "genislik": 960,
-        "yukseklik": 1429,
-        "orijinalGenislik": 3754,
-        "yazar": "George Stock",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Supposed_UFO,_Passaic,_New_Jersey.jpg",
-        "aciklama": "monotone non horizontal view of a supposed curvilinear centrally domed UFO relatively motionless (no blur) above an electrocommunications pole plus cables with deciduous trees. The lighter tone of the",
-        "konu": "UFO"
-      }
+      "baslik": "Mavi Kitap Projesi'nin Sonu ve UFO Araştırmalarının Durdurulması",
+      "ozet": "Amerika Birleşik Devletleri Hava Kuvvetleri, 17 Aralık 1969 tarihinde kamuoyuna yaptığı bir açıklama ile yıllardır sürdürdüğü tanımlanamayan uçan nesne (UFO) incelemelerini sonlandırdığını duyurdu. Mavi Kitap Projesi adı verilen bu kapsamlı araştırma programı, gökyüzünde görülen gizemli nesnelerin ulusal güvenlik için bir tehdit oluşturup oluşturmadığını belirlemek amacıyla yürütülmüştü. Yapılan nihai değerlendirmede, incelenen binlerce raporun hiçbirinin dünya dışı bir teknolojiye veya uzay gemisine işaret etmediği sonucuna varıldı. Hava Kuvvetleri yetkilileri, gözlemlerin büyük çoğunluğunun doğal fenomenler, atmosferik olaylar veya yanlış tanımlanmış uçaklardan ibaret olduğunu vurguladı. Bu karar, 1950'li yıllardan itibaren toplumda büyük bir merak uyandıran ve popüler kültürün önemli bir parçası haline gelen UFO fenomenlerine karşı devletin resmi tutumunu netleştirdi. Projenin kapatılması, bilimsel çevrelerde UFO iddialarının somut kanıtlardan yoksun olduğu görüşünü pekiştirirken, komplo teorisyenleri ve ufologlar arasında ise devletin bilgileri gizlediği yönündeki tartışmaların uzun yıllar sürmesine neden oldu. Mavi Kitap Projesi, günümüzde hala modern ufologların en çok başvurduğu arşivlerden biri olma özelliğini korumaktadır.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1969-salt-i-gorusmeleri-basladi",
@@ -740,10 +584,10 @@
       "konular": [
         "Haliç Köprüsü"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İstanbul Ulaşımında Yeni Bir Dönem: Haliç Köprüsü'nün Temeli Atıldı",
+      "ozet": "İstanbul'un iki yakası arasındaki ulaşım ağını güçlendirmek ve Boğaziçi Köprüsü'nün çevre yollarıyla entegrasyonunu sağlamak amacıyla projelendirilen 3. Haliç Köprüsü'nün temelleri 1971 yılının sonunda atıldı. Ayvansaray ile Halıcıoğlu semtlerini birbirine bağlayacak olan bu stratejik yapı, şehrin artan trafik yükünü hafifletmek için tasarlanan kapsamlı bir otoyol projesinin kritik bir parçası olarak planlandı. Köprünün inşası, dönemin mühendislik standartlarına uygun olarak uluslararası bir iş birliğiyle gerçekleştirildi.\n\nJapon ve Alman firmalarının ortaklığıyla yürütülen inşaat süreci yaklaşık 34 ay sürdü ve köprü 1974 yılında hizmete açıldı. Yaklaşık bir kilometre uzunluğundaki bu yapı, zamanla İstanbul'un en yoğun kullanılan geçiş noktalarından biri haline geldi. Şehrin hızla artan nüfusu ve araç trafiği nedeniyle 1995 yılında kapasite artırımına gidilerek yanına iki ek köprü daha inşa edildi. Bugün Otoyol 1 hattının önemli bir bileşeni olan Haliç Köprüsü, İstanbul'un ulaşım altyapısının modernleşme sürecindeki en önemli kilometre taşlarından biri olarak kabul edilmektedir.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Halic_Bridge%2C_Istanbul.jpg/960px-Halic_Bridge%2C_Istanbul.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Halic_Bridge%2C_Istanbul.jpg/500px-Halic_Bridge%2C_Istanbul.jpg",
@@ -756,7 +600,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Halic_Bridge,_Istanbul.jpg",
         "aciklama": "Halic Bridge Feshane Park wikimapia.org/#lat=41.0438702&lon=28.9432025&z=16... i090614 066",
         "konu": "Haliç Köprüsü"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1973-amerikan-psikiyatri-birligi-dsmden-escinselligi-listesinden-cikararak",
@@ -767,10 +612,10 @@
         "Mental Bozuklukların Tanısal ve Sayımsal El Kitabı",
         "eşcinsellik"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Eşcinselliğin Ruhsal Bozukluklar Listesinden Çıkarılması",
+      "ozet": "Amerikan Psikiyatri Birliği (APA), 1973 yılının Aralık ayında gerçekleştirdiği yönetim kurulu toplantısında, eşcinselliğin bir hastalık veya ruhsal bozukluk olarak sınıflandırılmaması gerektiğine karar verdi. Bu tarihi karar, Mental Bozuklukların Tanısal ve Sayımsal El Kitabı (DSM) üzerinde yapılan güncellemelerle resmileştirildi. Söz konusu adım, psikiyatri dünyasında cinsel yönelimlerin doğası üzerine süregelen tartışmalarda bir dönüm noktası olarak kabul edilmektedir.\n\nBu kararın alınmasında, cinsel yönelimin bir tercih veya patolojik bir durum değil, insan cinselliğinin doğal bir varyasyonu olduğu yönündeki bilimsel bulguların etkisi büyük olmuştur. APA'nın bu tutumu, eşcinsel bireylere yönelik tıbbi ve sosyal önyargıların kırılmasında önemli bir rol oynamıştır. Karar, psikiyatri disiplininin bilimsel veriler ışığında kendini güncelleme ve toplumsal değişimlere uyum sağlama kapasitesini göstermesi açısından da literatürde sıkça referans verilen bir gelişmedir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/DSM-5_Cover.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/DSM-5_Cover.png",
@@ -784,34 +629,7 @@
         "aciklama": "Book cover of the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5).",
         "konu": "Amerikan Psikiyatri Birliği"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/DSM-5_Cover.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/DSM-5_Cover.png",
-          "genislik": 600,
-          "yukseklik": 859,
-          "orijinalGenislik": 600,
-          "yazar": "American Psychiatric Association",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:DSM-5_Cover.png",
-          "aciklama": "Book cover of the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5).",
-          "konu": "Amerikan Psikiyatri Birliği"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Cover_of_Diagnostic_and_Statistical_Manual_of_Mental_Disorders.jpg/960px-Cover_of_Diagnostic_and_Statistical_Manual_of_Mental_Disorders.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Cover_of_Diagnostic_and_Statistical_Manual_of_Mental_Disorders.jpg/500px-Cover_of_Diagnostic_and_Statistical_Manual_of_Mental_Disorders.jpg",
-          "genislik": 960,
-          "yukseklik": 889,
-          "orijinalGenislik": 1000,
-          "yazar": "Richard Masoner",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Cover_of_Diagnostic_and_Statistical_Manual_of_Mental_Disorders.jpg",
-          "aciklama": "My wife reading in bed. And it wasn't because she was trying to get to sleep.",
-          "konu": "Mental Bozuklukların Tanısal ve Sayımsal El Kitabı"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1979-nazim-hikmetin-eseri-olan-ve-koreografisi-arif",
@@ -823,10 +641,10 @@
         "Ferhat ile Şirin",
         "Türkiye Radyo Televizyon Kurumu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Ferhat ile Şirin Balesi'nin TRT'den Kaldırılması",
+      "ozet": "Türk edebiyatının en önemli isimlerinden Nâzım Hikmet'in kaleminden çıkan ve Azeri besteci Arif Melikov'un müzikleriyle sahneye taşınan Ferhat ile Şirin balesi, 1979 yılının sonunda Türkiye'de sansür tartışmalarının odağına yerleşti. TRT'nin Sanat Dünyası adlı programında yer alması planlanan eser, dönemin yayın politikaları gerekçe gösterilerek programdan çıkarıldı. Bu karar, sanatın siyasi görüşlerden bağımsız değerlendirilmesi gerektiğine inanan çevrelerde tepkiyle karşılandı.\n\nFerhat ile Şirin, kökleri klasik edebiyata dayanan ve Anadolu'dan Orta Asya'ya kadar geniş bir coğrafyada sevilen bir aşk hikâyesidir. Nâzım Hikmet'in bu klasik anlatıyı modern bir bale formuna dönüştürmesi, eserin sanatsal değerini artırmış ve uluslararası alanda da ilgi görmesini sağlamıştı. Ancak Nâzım Hikmet'in siyasi kimliği ve o dönem Türkiye'sindeki ideolojik kutuplaşmalar, sanatçının eserlerinin devlet kurumlarında yer bulmasını zorlaştırıyordu. Bu olay, sanatın ideolojik süzgeçlerden geçirilerek kısıtlandığı dönemin kültürel atmosferini yansıtan sembolik bir örnek olarak tarihe geçti.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg/960px-N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg/500px-N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg",
@@ -840,47 +658,7 @@
         "aciklama": "Nâzım Hikmet, photographed by Hans-Joachim Koch at the IV German Writers' Congress, 9–14 January 1956, in East Berlin.",
         "konu": "Nâzım Hikmet"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg/960px-N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg/500px-N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1358,
-          "orijinalGenislik": 1600,
-          "yazar": "Hans-Joachim Koch",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:N%C3%A2z%C4%B1m_Hikmet,_Berlin_1956_(1).jpg",
-          "aciklama": "Nâzım Hikmet, photographed by Hans-Joachim Koch at the IV German Writers' Congress, 9–14 January 1956, in East Berlin.",
-          "konu": "Nâzım Hikmet"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Arif_Malikov.jpg/960px-Arif_Malikov.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Arif_Malikov.jpg/500px-Arif_Malikov.jpg",
-          "genislik": 960,
-          "yukseklik": 1331,
-          "orijinalGenislik": 1010,
-          "yazar": "Ramin Kuliev",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Arif_Malikov.jpg",
-          "aciklama": "Arif Malikov",
-          "konu": "Arif Melikov"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Thr_muze_art_islam_16.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Thr_muze_art_islam_16.jpg",
-          "genislik": 659,
-          "yukseklik": 1232,
-          "orijinalGenislik": 659,
-          "yazar": "Fabienkhan",
-          "lisans": "CC BY-SA 2.5",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Thr_muze_art_islam_16.jpg",
-          "aciklama": "Miniature Shirin et Farhad de Vahshi Bâfqi, Nastaliq, non signé, 1588. National Iran Museum, Tehran.",
-          "konu": "Ferhat ile Şirin"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1980-istanbul-sehir-tiyatrolarinda-calismalari-sakincali-gorulen-38",
@@ -893,64 +671,24 @@
         "Ali Taygun",
         "Mustafa Alabora"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İstanbul Şehir Tiyatroları'nda Sanatçı Tasfiyesi",
+      "ozet": "12 Eylül 1980 askeri müdahalesinin ardından Türkiye genelinde başlayan toplumsal ve kültürel kısıtlamalar, sanat dünyasını da derinden etkiledi. Bu sürecin bir yansıması olarak 17 Aralık 1980 tarihinde, İstanbul Şehir Tiyatroları'nda görev yapan 38 sanatçının iş akitleri, çalışmaları sakıncalı görüldüğü gerekçesiyle feshedildi. Kurumun köklü yapısına rağmen gerçekleştirilen bu toplu işten çıkarma kararı, dönemin siyasi atmosferinin sanat kurumları üzerindeki baskısını gözler önüne serdi.\n\nİşine son verilen isimler arasında Başar Sabuncu, Ali Taygun, Mustafa Alabora, Erdal Özyağcılar, Orhan Alkaya ve Beklan Algan gibi Türk tiyatrosuna büyük emek vermiş, önemli sanatçılar bulunuyordu. Bu olay, sadece bireysel kariyerleri sekteye uğratmakla kalmadı, aynı zamanda Türk tiyatrosunun sanatsal üretim kapasitesini ve ifade özgürlüğünü de kısıtlayan bir dönüm noktası olarak tarihe geçti. Söz konusu sanatçılar, sonraki yıllarda tiyatro ve sinema alanındaki nitelikli çalışmalarıyla Türk kültür hayatına katkı sağlamaya devam etseler de, bu tasfiye kararı Türkiye'de sanatın siyasi müdahalelerle karşılaştığı zorlu dönemlerin bir simgesi haline geldi.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Ba%C5%9Far_Sabuncu_1.jpg/960px-Ba%C5%9Far_Sabuncu_1.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Ba%C5%9Far_Sabuncu_1.jpg/500px-Ba%C5%9Far_Sabuncu_1.jpg",
         "genislik": 960,
-        "yukseklik": 494,
-        "orijinalGenislik": 2048,
-        "yazar": "Alexxx Malev",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-        "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-        "konu": "İstanbul"
+        "yukseklik": 455,
+        "orijinalGenislik": 4160,
+        "yazar": "Whizlorn",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ba%C5%9Far_Sabuncu_1.jpg",
+        "aciklama": "Başar Sabuncu 1",
+        "konu": "Başar Sabuncu"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "genislik": 960,
-          "yukseklik": 494,
-          "orijinalGenislik": 2048,
-          "yazar": "Alexxx Malev",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-          "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-          "konu": "İstanbul"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Ba%C5%9Far_Sabuncu_1.jpg/960px-Ba%C5%9Far_Sabuncu_1.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Ba%C5%9Far_Sabuncu_1.jpg/500px-Ba%C5%9Far_Sabuncu_1.jpg",
-          "genislik": 960,
-          "yukseklik": 455,
-          "orijinalGenislik": 4160,
-          "yazar": "Whizlorn",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ba%C5%9Far_Sabuncu_1.jpg",
-          "aciklama": "Başar Sabuncu 1",
-          "konu": "Başar Sabuncu"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Mustafa_alabora.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Mustafa_alabora.jpg",
-          "genislik": 600,
-          "yukseklik": 400,
-          "orijinalGenislik": 600,
-          "yazar": "Mehmet Ali Alabora at garajistanbul.org",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mustafa_alabora.jpg",
-          "aciklama": "Mustafa Alabora, a Turkish actor.",
-          "konu": "Mustafa Alabora"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1980-turkiyenin-sidney-baskonsolosu-sarik-ariyak-ve-koruma",
@@ -963,51 +701,24 @@
         "Enver Sever",
         "ASALA"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Sidney'de Türk Diplomata Suikast",
+      "ozet": "Türkiye'nin Sidney Başkonsolosu Şarık Arıyak, 17 Aralık 1980 sabahı evinden çıkarken uğradığı silahlı saldırı sonucu hayatını kaybetti. Saldırıda, başkonsolosu korumakla görevli polis memuru Enver Sever de olay yerinde yaşamını yitirdi. Terör örgütü ASALA, gerçekleştirilen bu suikastın sorumluluğunu üstlendiğini açıkladı. Bu olay, o dönemde Türk diplomatlarına yönelik yurt dışında gerçekleştirilen sistematik saldırıların bir parçası olarak kayıtlara geçti.\n\nŞarık Arıyak, uzun yıllar Türk dışişleri teşkilatında görev yapmış deneyimli bir diplomattı. Görevi başında şehit edilen Arıyak ve koruması Sever'in ölümü, Türkiye'de büyük bir üzüntü ve tepkiyle karşılandı. Bu saldırı, 1970'li ve 80'li yıllarda Türk diplomatik temsilciliklerini hedef alan şiddet sarmalının uluslararası boyuttaki en trajik örneklerinden biri olarak tarihe geçti. Suikastın ardından faillerin yakalanmasına yönelik süreç uzun süre gündemde kalmış, olay diplomatik ilişkilerde güvenlik konusunun önemini bir kez daha ortaya koymuştur.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg/960px-Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg/500px-Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%C5%9Ear%C4%B1k_Ar%C4%B1yak.jpg/960px-%C5%9Ear%C4%B1k_Ar%C4%B1yak.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%C5%9Ear%C4%B1k_Ar%C4%B1yak.jpg/500px-%C5%9Ear%C4%B1k_Ar%C4%B1yak.jpg",
         "genislik": 960,
-        "yukseklik": 480,
-        "orijinalGenislik": 6173,
-        "yazar": "Benh LIEU SONG (Flickr)",
+        "yukseklik": 1280,
+        "orijinalGenislik": 1920,
+        "yazar": "E4024",
         "lisans": "CC BY-SA 4.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_and_Harbour_Bridge_Dusk_(2)_2019-06-21.jpg",
-        "aciklama": "Jørn Utzon's Sydney Opera House, and the Harbour Bridge, two of Sydney's most famous landmarks, taken at late dusk. The Sydney Opera House is one of the most iconic buildings built in the 20th century",
-        "konu": "Sidney"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9Ear%C4%B1k_Ar%C4%B1yak.jpg",
+        "aciklama": "The grave of Turkish diplomat Şarık Arıyak, assassinated by an Armenian terrorist organization. The words written on the lid: \"Tüm insanları severdi\" means \"He used to love all human beings\" in Turkis",
+        "konu": "Şarık Arıyak"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg/960px-Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg/500px-Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg",
-          "genislik": 960,
-          "yukseklik": 480,
-          "orijinalGenislik": 6173,
-          "yazar": "Benh LIEU SONG (Flickr)",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_and_Harbour_Bridge_Dusk_(2)_2019-06-21.jpg",
-          "aciklama": "Jørn Utzon's Sydney Opera House, and the Harbour Bridge, two of Sydney's most famous landmarks, taken at late dusk. The Sydney Opera House is one of the most iconic buildings built in the 20th century",
-          "konu": "Sidney"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%C5%9Ear%C4%B1k_Ar%C4%B1yak.jpg/960px-%C5%9Ear%C4%B1k_Ar%C4%B1yak.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%C5%9Ear%C4%B1k_Ar%C4%B1yak.jpg/500px-%C5%9Ear%C4%B1k_Ar%C4%B1yak.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 1920,
-          "yazar": "E4024",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9Ear%C4%B1k_Ar%C4%B1yak.jpg",
-          "aciklama": "The grave of Turkish diplomat Şarık Arıyak, assassinated by an Armenian terrorist organization. The words written on the lid: \"Tüm insanları severdi\" means \"He used to love all human beings\" in Turkis",
-          "konu": "Şarık Arıyak"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1981-kizil-tugaylar-orgutu-italyadaki-en-yuksek-rutbeli",
@@ -1019,23 +730,12 @@
         "NATO",
         "James Dozier"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Aldo_Moro3.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Aldo_Moro3.jpg",
-        "genislik": 534,
-        "yukseklik": 684,
-        "orijinalGenislik": 534,
-        "yazar": "a member of the Red Brigades",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Aldo_Moro3.jpg",
-        "aciklama": "This is a picture of the italian politic Aldo Moro in april 19 1978, taken during his detention by Red Brigades.",
-        "konu": "Kızıl Tugaylar"
-      }
+      "baslik": "Kızıl Tugaylar'ın NATO Generalini Kaçırması",
+      "ozet": "İtalya'da 1970'li yıllardan itibaren devlet kurumlarını ve Batı Bloğu ile olan ilişkileri hedef alan Marksist Kızıl Tugaylar örgütü, 17 Aralık 1981 tarihinde ses getiren bir eyleme imza attı. Örgüt üyeleri, Verona'daki evine düzenledikleri baskınla, İtalya'daki en yüksek rütbeli NATO askeri yetkilisi olan Amerikalı General James Dozier'i kaçırdı. Bu olay, Soğuk Savaş döneminin en gerilimli anlarından biri olarak kayıtlara geçti.\n\nKızıl Tugaylar, İtalya'yı Batı ittifakından koparmayı ve devrimci bir düzen kurmayı amaçlayan stratejileri doğrultusunda, daha önce de üst düzey siyasetçileri ve yargı mensuplarını hedef almıştı. General Dozier'in kaçırılması, örgütün devletin kalbine yönelik saldırılarının bir devamı niteliğindeydi. Uluslararası çapta büyük yankı uyandıran bu kaçırma eylemi, İtalyan güvenlik güçlerinin geniş çaplı operasyonlar başlatmasına yol açtı. General Dozier, yaklaşık bir buçuk ay süren esaretinin ardından, 28 Ocak 1982'de İtalyan özel kuvvetlerinin düzenlediği başarılı bir operasyonla kurtarıldı.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1981-polonyada-polis-gosteri-yapan-iscilerin-uzerine-ates",
@@ -1068,23 +768,12 @@
       "konular": [
         "Madrid"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Plaza_Mayor_De_Madrid_%28215862629%29_edited.jpeg/960px-Plaza_Mayor_De_Madrid_%28215862629%29_edited.jpeg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Plaza_Mayor_De_Madrid_%28215862629%29_edited.jpeg/500px-Plaza_Mayor_De_Madrid_%28215862629%29_edited.jpeg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 1817,
-        "yazar": "Francisco Anzola",
-        "lisans": "CC BY 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Plaza_Mayor_De_Madrid_(215862629)_edited.jpeg",
-        "aciklama": "500px provided description: Plaza Mayor De Madrid [#sky ,#city ,#street ,#travel ,#old ,#tourism ,#tourist ,#urban ,#architecture ,#building ,#square ,#town ,#castle ,#panoramic ,#outdoors ,#horizonta",
-        "konu": "Madrid"
-      }
+      "baslik": "Madrid'de Gece Kulübü Yangını Faciası",
+      "ozet": "İspanya'nın başkenti Madrid'de 17 Aralık 1983 tarihinde gerçekleşen trajik bir yangın olayı, şehrin yakın tarihindeki en büyük felaketlerden biri olarak kayıtlara geçti. Alcalá 20 adlı gece kulübünde çıkan yangın, kısa sürede binayı sararak içeride bulunan çok sayıda kişinin mahsur kalmasına neden oldu. Olay sonucunda 82 kişi hayatını kaybederken, bu durum İspanya genelinde büyük bir üzüntü ve şok etkisi yarattı. Yangının çıkış nedeni ve binanın güvenlik standartları, olayın ardından uzun süre kamuoyunun ve yetkililerin gündeminde kaldı.\n\nBu elim olay, İspanya'da eğlence mekanlarının güvenlik denetimleri ve yangın yönetmelikleri konusunda ciddi bir dönüm noktası oluşturdu. Felaketin ardından kamu binalarında ve halka açık eğlence yerlerinde yangın çıkışları, acil durum tahliye planları ve yapısal güvenlik önlemleri çok daha sıkı bir şekilde denetlenmeye başlandı. Madrid'in kültürel ve sosyal hayatının önemli bir parçası olan gece yaşamı, bu trajediden sonra güvenlik odaklı yeni bir anlayışla yeniden şekillendi. Yaşanan bu kayıp, İspanyol toplumunda güvenlik bilincinin artırılması ve benzer felaketlerin önlenmesi adına atılan adımların temelini oluşturdu.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1983-erdal-inonu-yeniden-sodep-genel-baskanligina-secildi",
@@ -1150,51 +839,12 @@
         "Simpsonlar",
         "altın saatler"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Delfinekko.gif",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Delfinekko.gif",
-        "genislik": 400,
-        "yukseklik": 154,
-        "orijinalGenislik": 400,
-        "yazar": "Malene Thyssen",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Delfinekko.gif",
-        "aciklama": "Animation of the echo-location of a dolphin.",
-        "konu": "animasyon"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Delfinekko.gif",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Delfinekko.gif",
-          "genislik": 400,
-          "yukseklik": 154,
-          "orijinalGenislik": 400,
-          "yazar": "Malene Thyssen",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Delfinekko.gif",
-          "aciklama": "Animation of the echo-location of a dolphin.",
-          "konu": "animasyon"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Braun_HF_1.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Braun_HF_1.jpg",
-          "genislik": 916,
-          "yukseklik": 1200,
-          "orijinalGenislik": 916,
-          "yazar": "Oliver Kurmis",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Braun_HF_1.jpg",
-          "aciklama": "Fernsehgerät HF 1, 1958, Pinakothek der Moderne, München Hersteller: Max Braun, Frankfurt a. M., Deutschland Herbert Hirche 1910-2002",
-          "konu": "televizyon"
-        }
-      ]
+      "baslik": "Televizyon Tarihinin Efsanesi: Simpsonlar Başlıyor",
+      "ozet": "Matt Groening tarafından yaratılan Simpsonlar, 17 Aralık 1989 tarihinde FOX kanalında yayınlanan ilk bölümüyle televizyon dünyasında yeni bir dönemin kapılarını araladı. Springfield adlı kurgusal bir kasabada yaşayan Simpson ailesinin maceralarını konu alan dizi, başlangıçta kısa skeçler halinde sunulurken, bu tarihten itibaren yarım saatlik tam bir durum komedisi formatına geçiş yaptı. Dizi, Amerikan orta sınıf yaşamını hicveden keskin mizahı ve özgün karakter tasarımlarıyla kısa sürede geniş bir izleyici kitlesine ulaştı. Simpsonlar, sadece bir animasyon dizisi olmanın ötesine geçerek, popüler kültür üzerinde derin etkiler bırakan bir fenomen haline geldi. Yayınlandığı günden bu yana toplumsal olaylara, siyasete ve günlük yaşama dair eleştirel bakış açısını koruyan yapım, televizyon tarihinin en uzun soluklu durum komedilerinden biri olarak kabul edilmektedir. Animasyonun sadece çocuklara yönelik olduğu algısını yıkan dizi, yetişkinlere hitap eden mizah anlayışıyla televizyon yayıncılığında animasyon türünün sınırlarını genişletmiş ve kendisinden sonra gelen birçok yapım için öncü bir rol üstlenmiştir.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1991-turkiyede-ilk-futbol-cinayeti-galatasaray-futbol-takimi",
@@ -1205,23 +855,12 @@
         "Galatasaray (futbol takımı)GS",
         "Beşiktaş (futbol takımı)"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/960px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/500px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
-        "genislik": 960,
-        "yukseklik": 653,
-        "orijinalGenislik": 3420,
-        "yazar": "Rick Dikeman",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1995.jpg",
-        "aciklama": "Association football (soccer), Bloomington, Indiana. The offensive player (in red) is Chris Klein of the Indiana Hoosiers. He has sprinted past two defenders (in white) and is about to shoot the ball ",
-        "konu": "futbol"
-      }
+      "baslik": "Türk Futbolunda İlk Taraftar Cinayeti",
+      "ozet": "İstanbul'da oynanan Galatasaray ve Beşiktaş arasındaki derbi mücadelesi, maç sonrasında yaşanan trajik bir olayla spor tarihimize kara bir leke olarak geçti. Karşılaşmanın bitiş düdüğünün ardından taraftarlar arasında çıkan gerginlik, kontrol edilemez bir boyuta ulaşarak bir kişinin hayatını kaybetmesine neden oldu. Bu olay, Türkiye'de futbol müsabakalarıyla bağlantılı olarak gerçekleşen ilk cinayet vakası olarak kabul edilmektedir.\n\nSöz konusu olay, sporun birleştirici ruhunun yerini şiddete bıraktığı bir dönüm noktası olarak değerlendirilir. O güne kadar stadyum çevrelerinde yaşanan taşkınlıklar genellikle yaralanmalarla sınırlı kalırken, bu cinayetle birlikte güvenlik önlemleri ve taraftar psikolojisi üzerine ciddi tartışmalar başlamıştır. Türk futbolunda şiddetin önlenmesi adına atılan adımların ve alınan güvenlik tedbirlerinin temelinde, bu tür acı tecrübelerin yarattığı toplumsal infial yatmaktadır. Bu olay, sporun sadece bir oyun olduğu gerçeğinin unutulmaması ve rekabetin şiddete dönüşmemesi gerektiği konusunda toplumsal bir uyarı niteliği taşımaktadır.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1994-yeni-yuzyil-gazetesi-yayin-hayatina-basladi",
@@ -1245,10 +884,10 @@
         "Kofi Annan",
         "Birleşmiş Milletler"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Kofi Annan Birleşmiş Milletler Genel Sekreteri Oldu",
+      "ozet": "Ganalı diplomat Kofi Annan, 1995 yılının son günlerinde Birleşmiş Milletler'in en üst düzey görevine getirilerek uluslararası diplomaside yeni bir dönemin kapısını araladı. Annan, bu göreve gelen ilk Sahra Altı Afrikalı lider olma unvanını kazanarak küresel ölçekte büyük bir diplomatik başarıya imza attı. Birleşmiş Milletler'in barışçıl çözüm arayışlarında ve insani yardım faaliyetlerinde merkezi bir figür haline gelen Annan, kurumun küresel sorunlara yaklaşımında önemli bir değişim yarattı.\n\nAnnan'ın genel sekreterlik dönemi, soğuk savaş sonrası dünyanın karmaşık jeopolitik yapısında BM'nin etkinliğini artırma çabalarıyla geçti. Özellikle çatışma bölgelerinde arabuluculuk yapması ve insan hakları konusundaki kararlı duruşu, onu uluslararası toplumda saygın bir isim haline getirdi. Görevi süresince yürüttüğü çalışmalar, Birleşmiş Milletler'in sadece bir tartışma platformu değil, aynı zamanda küresel krizlere müdahale eden aktif bir aktör olarak konumlanmasına katkı sağladı. Annan, bu hizmetlerinden dolayı 2001 yılında Nobel Barış Ödülü'ne layık görülerek dünya barışına olan katkılarını tescilledi.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Kofi_Annan_2012_%28cropped%29.jpg/960px-Kofi_Annan_2012_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Kofi_Annan_2012_%28cropped%29.jpg/500px-Kofi_Annan_2012_%28cropped%29.jpg",
@@ -1261,7 +900,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Kofi_Annan_2012_(cropped).jpg",
         "aciklama": "Joint Special Envoy Kofi Annan spoke with the media at the United Nations Office at Geneva following the June 30, 2012 Meeting of the Action Group for Syria.",
         "konu": "Kofi Annan"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1996-sedat-bucakin-otomobilinde-bulunan-silahlarin-emniyet-mudurlugune",
@@ -1300,23 +940,12 @@
         "Katerini",
         "Yunanistan"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Katerinitownhall.JPG/960px-Katerinitownhall.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Katerinitownhall.JPG/500px-Katerinitownhall.JPG",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 3072,
-        "yazar": "Hansi667",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Katerinitownhall.JPG",
-        "aciklama": "Katerini Town Hall and Dimarcheiou Square",
-        "konu": "Katerini"
-      }
+      "baslik": "Yunanistan'da Ukrayna Uçağı Kazası",
+      "ozet": "17 Aralık 1997 tarihinde, Ukrayna'nın başkenti Kiev'den havalanan Aerosvit Havayolları'na ait bir yolcu uçağı, Yunanistan'ın Selanik kenti yakınlarındaki Katerini bölgesinde dağlık bir alana çarparak düştü. Kazanın ardından bölgede başlatılan arama kurtarma çalışmaları sonucunda, uçakta bulunan 70 yolcu ve mürettebattan kurtulan olmadığı açıklandı. Kaza, havacılık tarihine bölgedeki trajik olaylardan biri olarak geçti.\n\nUçağın düşüş nedeni, bölgedeki olumsuz hava koşulları ve pilotların iniş rotasındaki navigasyon hataları olarak değerlendirildi. Selanik Havalimanı'na iniş yapmaya hazırlanan uçağın, yoğun sis ve düşük görüş mesafesi nedeniyle rotasından saptığı ve Pieria Dağları'na çarptığı belirlendi. Bu elim kaza, uluslararası havacılık güvenliği standartlarının ve dağlık bölgelerdeki uçuş rotalarının yeniden gözden geçirilmesi gerekliliğini bir kez daha gündeme getirdi.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1998-safranbolu-kulturel-varlik-olarak-dunya-mirasi-listesine",
@@ -1326,10 +955,10 @@
         "Safranbolu",
         "Dünya Mirası listesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Safranbolu'nun Dünya Mirası Listesi'ne Girişi",
+      "ozet": "Karabük iline bağlı Safranbolu, sahip olduğu özgün Osmanlı dönemi mimari dokusuyla 17 Aralık 1994 tarihinde UNESCO Dünya Mirası Listesi'ne alınmıştır. Bu karar, ilçenin tarihsel süreçte koruduğu geleneksel kent yapısının ve sivil mimari örneklerinin uluslararası düzeyde tescillenmesi anlamına gelmektedir. Safranbolu, özellikle 17. yüzyılda İstanbul ile Sinop arasındaki ticaret yolu üzerinde bulunması sayesinde ekonomik ve kültürel açıdan büyük bir gelişme göstermiş, bu dönemde inşa edilen yapılar günümüze kadar ulaşarak kentin kimliğini oluşturmuştur. Klasik Osmanlı kent mimarisinin en iyi korunan örneklerinden biri olarak kabul edilen Safranbolu evleri, sadece birer konut değil, aynı zamanda dönemin yaşam tarzını, sosyal ilişkilerini ve estetik anlayışını yansıtan birer kültür mirasıdır. UNESCO tarafından koruma altına alınması, bölgenin hem mimari mirasının gelecek nesillere aktarılmasını sağlamış hem de Safranbolu'nun dünya çapında bir turizm merkezi haline gelmesine katkıda bulunmuştur. Bugün bu tarihi ilçe, Türkiye'nin kültürel zenginliğini temsil eden en önemli noktalardan biri olarak kabul edilmektedir.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Safranbolu_traditional_houses.jpg/960px-Safranbolu_traditional_houses.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Safranbolu_traditional_houses.jpg/500px-Safranbolu_traditional_houses.jpg",
@@ -1342,7 +971,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Safranbolu_traditional_houses.jpg",
         "aciklama": "Traditional houses of Safranbolu, Karabük, Turkey",
         "konu": "Safranbolu"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "2002-londrada-toplanan-irakli-rejim-muhalifleri-saddam-huseyin",
@@ -1353,51 +983,24 @@
         "Saddam Hüseyin",
         "Irak"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Iraklı Muhaliflerin Londra'daki Tarihi Uzlaşması",
+      "ozet": "Irak'ta Saddam Hüseyin rejiminin devrilmesi ihtimalinin güçlendiği bir dönemde, Londra'da toplanan farklı siyasi ve etnik grupları temsil eden muhalif liderler, ülkenin geleceğine dair kritik bir mutabakata vardı. Bu toplantı, uzun yıllar süren baskıcı yönetimin ardından Irak'ın nasıl bir siyasi yapıya kavuşacağına dair ilk somut planlardan biri olma özelliğini taşıyordu. Katılımcılar, geçiş sürecinin iki yılı aşmayacak şekilde planlanması, serbest seçimlerin düzenlenmesi ve yeni bir anayasanın hazırlanması konularında fikir birliğine vardılar.\n\nBu uzlaşma, Irak'ın gelecekteki federal yapısının temellerini atmayı ve farklı toplumsal kesimleri kapsayıcı bir demokrasi anlayışını benimsemeyi hedefliyordu. Toplantı, uluslararası toplumun da yakından takip ettiği bir süreç olarak, Saddam Hüseyin sonrası Irak'ın istikrara kavuşturulması ve devlet kurumlarının yeniden inşası için bir meşruiyet zemini oluşturma çabasıydı. Ancak bu planlar, bölgedeki karmaşık etnik ve dini dengeler ile savaş sonrası ortaya çıkan güvenlik sorunları nedeniyle ilerleyen yıllarda büyük sınamalarla karşı karşıya kalacaktı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/500px-London_Skyline_%28125508655%29.jpeg",
-        "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 2048,
-        "yazar": "Ilya Grigorik",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg",
-        "aciklama": "500px provided description: London Skyline [#sunset ,#architecture ,#cityscape ,#london ,#uk ,#skyline ,#financial district ,#thames ,#london bridge ,#london shard]",
-        "konu": "Londra"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Saddam_Hussein_in_1998.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Saddam_Hussein_in_1998.png",
+        "genislik": 900,
+        "yukseklik": 1188,
+        "orijinalGenislik": 900,
+        "yazar": "Iraqi News Agency",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Saddam_Hussein_in_1998.png",
+        "aciklama": "Iraqi President Saddam Hussein is about to deliver a speech on occasion of 10th anniversary of the end of Iran-Iraq War.",
+        "konu": "Saddam Hüseyin"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/500px-London_Skyline_%28125508655%29.jpeg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 2048,
-          "yazar": "Ilya Grigorik",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg",
-          "aciklama": "500px provided description: London Skyline [#sunset ,#architecture ,#cityscape ,#london ,#uk ,#skyline ,#financial district ,#thames ,#london bridge ,#london shard]",
-          "konu": "Londra"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Saddam_Hussein_in_1998.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Saddam_Hussein_in_1998.png",
-          "genislik": 900,
-          "yukseklik": 1188,
-          "orijinalGenislik": 900,
-          "yazar": "Iraqi News Agency",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Saddam_Hussein_in_1998.png",
-          "aciklama": "Iraqi President Saddam Hussein is about to deliver a speech on occasion of 10th anniversary of the end of Iran-Iraq War.",
-          "konu": "Saddam Hüseyin"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "2002-yugoslavya-federal-cumhuriyeti-parlamentosu-bosna-hersekte-43-ay",
@@ -1408,10 +1011,10 @@
         "Bosna-Hersek",
         "Dayton Barış Anlaşması"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Dayton Barış Anlaşması'nın Yugoslavya Tarafından Onaylanması",
+      "ozet": "Yugoslavya Federal Cumhuriyeti Parlamentosu, 17 Aralık 2002 tarihinde aldığı bir kararla, Bosna-Hersek'teki çatışmaları durduran Dayton Barış Anlaşması'nı resmen onayladı. 1995 yılında imzalanan ve bölgedeki üç buçuk yıllık kanlı savaşa son veren bu tarihi belge, imzalanmasından yedi yıl sonra Yugoslavya'nın yasama organı tarafından kabul edilmiş oldu. Bu gecikmeli onay, bölgedeki siyasi normalleşme sürecinin ve savaş sonrası hukuki düzenlemelerin tamamlanması adına sembolik bir adım olarak değerlendirildi.\n\nDayton Anlaşması, Bosna-Hersek'in toprak bütünlüğünü korurken ülkeyi iki ana idari yapıya bölmüştü. Ülkenin yüzde 51'i Boşnak ve Hırvatların oluşturduğu Bosna-Hersek Federasyonu'na, yüzde 49'u ise Sırp Cumhuriyeti'ne bırakılmıştı. Anlaşma, sadece askeri çatışmaları durdurmakla kalmamış, aynı zamanda Bosna-Hersek'in bugünkü karmaşık siyasi yapısının da temelini atmıştı. Yugoslavya'nın bu anlaşmayı onaylaması, savaşın tarafları arasındaki diplomatik ilişkilerin yeniden tesis edilmesi ve bölgede kalıcı bir istikrarın sağlanması yolunda atılan önemli bir hukuki aşamayı temsil ediyordu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/DaytonAgreement.jpg/960px-DaytonAgreement.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/DaytonAgreement.jpg/500px-DaytonAgreement.jpg",
@@ -1424,7 +1027,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:DaytonAgreement.jpg",
         "aciklama": "President Slobodan Milosevic of the Federal Republic of Yugoslavia, President Alija Izetbegovic of the Republic of Bosnia and Herzegovina, and President Franjo Tudjman of the Republic of Croatia initi",
         "konu": "Dayton Barış Anlaşması"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "2002-abd-baskani-george-w-bush-balistik-fuzelere",
@@ -1434,10 +1038,10 @@
         "Amerika Birleşik Devletleri",
         "George W. Bush"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "ABD'de Füze Kalkanı Dönemi Başlıyor",
+      "ozet": "Amerika Birleşik Devletleri Başkanı George W. Bush, 17 Aralık 2002 tarihinde imzaladığı bir direktif ile ülkenin balistik füze savunma sistemini hayata geçirme sürecini resmen başlattı. Füze kalkanı olarak bilinen bu stratejik savunma projesi, ABD topraklarını olası füze saldırılarına karşı korumak amacıyla tasarlanmış, yüksek teknolojili bir önleme mekanizması olarak kurgulandı. Bush yönetimi, bu adımı ulusal güvenlik stratejisinin merkezine yerleştirerek, değişen küresel tehdit algısına karşı proaktif bir savunma kalkanı oluşturmayı hedefledi.\n\nSöz konusu sistemin kurulum kararı, uluslararası arenada uzun süreli tartışmaları da beraberinde getirdi. Özellikle Soğuk Savaş döneminden kalan stratejik dengelerin değişmesi ve nükleer caydırıcılık kavramının yeniden tanımlanması bağlamında, füze kalkanı projesi hem müttefikler hem de rakip ülkeler tarafından yakından takip edildi. Projenin hayata geçirilmesi, ABD'nin savunma doktrininde önemli bir kırılma noktası oluştururken, küresel güvenlik mimarisinin geleceği üzerinde de belirleyici bir etki yarattı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif/lossy-page1-960px-President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif/lossy-page1-960px-President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_%28blue_tie%29.tif.jpg",
@@ -1450,7 +1054,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:President_Bush_poses_for_his_official_portrait_in_the_Roosevelt_Room_(blue_tie).tif",
         "aciklama": "\"Official portrait of President George W. Bush\"",
         "konu": "George W. Bush"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "2004-irakin-musul-kenti-yakinlarinda-ugradiklari-silahli-saldiri",
@@ -1461,23 +1066,12 @@
         "Musul",
         "Türkiye"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84.jpg",
-        "genislik": 714,
-        "yukseklik": 357,
-        "orijinalGenislik": 714,
-        "yazar": "Copyright © 2013 Younus Alhamdani",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84.jpg",
-        "aciklama": "The Old Bridge of Mosul, with the Mosul Grand Mosque in the background as seen from the south (Al Korneesh district on the western bank)",
-        "konu": "Musul"
-      }
+      "baslik": "Musul'da Türk Güvenlik Görevlilerine Saldırı",
+      "ozet": "Irak'ın kuzeyinde yer alan Musul şehri yakınlarında, 17 Aralık 2004 tarihinde Türk güvenlik görevlilerini taşıyan bir konvoya yönelik silahlı bir saldırı gerçekleştirildi. Bu elim olay sonucunda görev başındaki 5 Türk güvenlik personeli hayatını kaybetti. Saldırı, o dönemde bölgedeki güvenlik istikrarsızlığının ve çatışma ortamının Türk vatandaşlarına yönelik risklerini gözler önüne seren trajik bir gelişme olarak kayıtlara geçti.\n\nSöz konusu saldırı, Irak'ın işgal sonrası yaşadığı karmaşık siyasi ve güvenlik süreçlerinin bir parçası olarak değerlendirildi. Musul, stratejik konumu ve etnik çeşitliliği nedeniyle bölgedeki gerilimlerin yoğunlaştığı merkezlerden biriydi. Bu olay, Türkiye'nin bölgedeki diplomatik ve güvenlik odaklı dış politikasını etkileyen, kamuoyunda derin üzüntü yaratan ve sınır ötesindeki güvenlik risklerini tekrar gündeme taşıyan önemli bir dönüm noktası oldu.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "2004-ab-turkiye-ile-3-ekim-2005te-muzakerelere",
@@ -1500,23 +1094,12 @@
       "konular": [
         "Google"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/960px-Googleplex_HQ_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/500px-Googleplex_HQ_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 702,
-        "orijinalGenislik": 3024,
-        "yazar": "Asoundd",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Googleplex_HQ_(cropped).jpg",
-        "aciklama": "Googleplex Headquarters, Mountain View, US",
-        "konu": "Google"
-      }
+      "baslik": "Google, İnsan Vücudunu İnceleyen Google Body Uygulamasını Başlattı",
+      "ozet": "Google, 17 Aralık 2010 tarihinde internet kullanıcılarının insan anatomisini üç boyutlu olarak keşfetmelerine imkan tanıyan Google Body adlı yeni bir web uygulamasını duyurdu. Bu yenilikçi araç, kullanıcıların insan vücudunun farklı katmanlarını, kas sisteminden iskelet yapısına ve iç organlara kadar detaylı bir şekilde incelemesine olanak sağlıyordu. Tarayıcı tabanlı çalışan bu uygulama, herhangi bir ek yazılım kurulumuna gerek kalmadan, internet üzerinden interaktif bir anatomi atlası sunmayı hedefliyordu.\n\nGoogle Body, özellikle tıp öğrencileri, eğitimciler ve insan vücudunun işleyişine merak duyan genel kullanıcılar için önemli bir dijital kaynak olarak tasarlandı. Kullanıcılar, vücut üzerindeki katmanları şeffaflaştırarak veya belirli bölgelere odaklanarak karmaşık anatomik yapıları kolayca gözlemleyebiliyordu. Google'ın dünyadaki bilgiyi organize etme ve erişilebilir kılma misyonunun bir parçası olan bu proje, eğitim teknolojileri alanında görselleştirmenin gücünü ortaya koyan önemli bir adım olarak değerlendirildi. Uygulama daha sonra Zygote Body adıyla bağımsız bir platforma dönüştürülerek gelişimini sürdürdü.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "2013-turkiyede-4-bakan-cesitli-duzeyde-burokrat-ve",

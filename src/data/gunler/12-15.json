@@ -26,10 +26,10 @@
         "Osmanlı İmparatorluğu",
         "padişah"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "III. Murad'ın Osmanlı Tahtına Çıkışı",
+      "ozet": "Şehzade Selim ve Nurbanu Sultan'ın oğlu olan III. Murad, babası II. Selim'in 1574 yılındaki vefatı üzerine Osmanlı İmparatorluğu'nun 12. padişahı ve 91. İslam halifesi olarak yönetimi devraldı. Manisa'da dünyaya gelen ve şehzadeliği döneminde sancakbeyliği görevlerinde bulunarak devlet tecrübesi kazanan Murad, tahta geçişiyle birlikte imparatorluğun genişleme sürecini devralmış oldu.\n\nIII. Murad'ın saltanatı, Osmanlı tarihinin hem askeri hem de siyasi açıdan önemli dönemlerinden biridir. Padişahın bizzat sefere çıkmadığı bu dönemde, imparatorluk sınırları doğuda Hazar Denizi'ne kadar genişleyerek en geniş coğrafi alanına ulaştı. Özellikle Safevî Devleti ile yapılan uzun süreli savaşlar ve Fas üzerindeki hakimiyetin pekiştirilmesi, bu dönemin öne çıkan gelişmeleri arasındadır. Ayrıca, uzun yıllar devlet yönetiminde etkili olan Sadrazam Sokollu Mehmed Paşa'nın 1579'daki vefatı, imparatorluğun idari yapısında bir dönüm noktası teşkil etmiştir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Sultan_Murad_III.jpg/960px-Sultan_Murad_III.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Sultan_Murad_III.jpg/500px-Sultan_Murad_III.jpg",
@@ -42,7 +42,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Sultan_Murad_III.jpg",
         "aciklama": "Mourad III. Anonymous, T.Ü.Y.B., t.y., Topkapı Sarayı Müzesi 17/39 \"Another oil-on-canvas picture of the Sultan, is among the collections of Topkapı Palace Museum (Pic. 20). This, which is the last of",
         "konu": "III. Murad"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1840-napolyon-bonapartin-naasi-kulleri-saint-helena-adasindan",
@@ -54,64 +55,24 @@
         "Paris",
         "Les Invalides"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Napolyon Bonapart'ın Naaşının Paris'e Nakli",
+      "ozet": "Fransa İmparatoru Napolyon Bonapart'ın 1821 yılında Saint Helena Adası'nda sürgündeyken gerçekleşen vefatının ardından, naaşının ülkesine geri getirilmesi uzun süredir beklenen bir gelişmeydi. 1840 yılında Kral Louis-Philippe'in girişimiyle başlatılan bu süreç, imparatorun küllerinin büyük bir törenle Fransa'ya iadesini sağladı. Napolyon'un naaşı, Paris'e ulaştıktan sonra görkemli bir kortej eşliğinde taşınarak, askeri anıt mezar olan Les Invalides'e yerleştirildi.\n\nBu olay, Fransa'da Napolyon dönemine duyulan nostaljiyi ve imparatorun ulusal kimlik üzerindeki etkisini pekiştiren sembolik bir dönüm noktası oldu. Napolyon, Avrupa tarihini şekillendiren askeri başarıları ve uyguladığı liberal reformlarla hem tartışmalı hem de hayranlık uyandıran bir figür olarak kalmaya devam etti. Les Invalides'e yapılan bu nakil, onun Fransa tarihindeki yerini resmileştirirken, aynı zamanda imparatorluk mirasının modern Fransa'nın hafızasında kalıcı bir şekilde onurlandırılmasını sağladı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/960px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/500px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/L%27H%C3%B4tel_national_des_Invalides.jpg/960px-L%27H%C3%B4tel_national_des_Invalides.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/L%27H%C3%B4tel_national_des_Invalides.jpg/500px-L%27H%C3%B4tel_national_des_Invalides.jpg",
         "genislik": 960,
-        "yukseklik": 1363,
-        "orijinalGenislik": 1357,
-        "yazar": "Antoine-Jean Gros",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
-        "aciklama": null,
-        "konu": "Napolyon Bonapart"
+        "yukseklik": 640,
+        "orijinalGenislik": 5760,
+        "yazar": "Victor Grigas",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:L%27H%C3%B4tel_national_des_Invalides.jpg",
+        "aciklama": "L'Hôtel national des Invalides",
+        "konu": "Les Invalides"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/960px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/500px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
-          "genislik": 960,
-          "yukseklik": 1363,
-          "orijinalGenislik": 1357,
-          "yazar": "Antoine-Jean Gros",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
-          "aciklama": null,
-          "konu": "Napolyon Bonapart"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/960px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/500px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-          "genislik": 960,
-          "yukseklik": 600,
-          "orijinalGenislik": 4592,
-          "yazar": "Yann Caradec from Paris, France",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
-          "aciklama": "La Tour Eiffel vue de la Tour Saint-Jacques, Paris.",
-          "konu": "Paris"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/L%27H%C3%B4tel_national_des_Invalides.jpg/960px-L%27H%C3%B4tel_national_des_Invalides.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/L%27H%C3%B4tel_national_des_Invalides.jpg/500px-L%27H%C3%B4tel_national_des_Invalides.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 5760,
-          "yazar": "Victor Grigas",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:L%27H%C3%B4tel_national_des_Invalides.jpg",
-          "aciklama": "L'Hôtel national des Invalides",
-          "konu": "Les Invalides"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1890-amerikan-yerli-kabilelerinden-hunkpapa-lakotalarinin-sefi-oturan",
@@ -123,51 +84,24 @@
         "Tatanka Iyotake",
         "Kızılderili ajan polisi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Kızılderili Direnişinin Sembolü Oturan Boğa'nın Ölümü",
+      "ozet": "Hunkpapa Lakotalarının lideri olan Oturan Boğa, 19. yüzyılın ikinci yarısında Amerikan ordusuna karşı yürütülen yerli direnişinin en önemli figürlerinden biriydi. Özellikle 1876 yılındaki Little Bighorn Muharebesi'nde 7. Süvari Birliği'ne karşı kazandığı zaferle tarihe geçen Oturan Boğa, topraklarını ve halkının yaşam biçimini korumak için uzun yıllar mücadele verdi. Bir dönem Kanada'ya sığınmak zorunda kalsa da daha sonra ABD'ye dönerek hayatının son yıllarını geçirdi.\n\nÖlümü, dönemin gergin siyasi atmosferiyle doğrudan bağlantılıydı. Amerikan hükümeti, yerli halk arasında yayılan Hayalet Dansı hareketinden endişe duyuyor ve bu hareketin bir isyan başlatmasından korkuyordu. Oturan Boğa, bu hareketle doğrudan bir bağı olmamasına rağmen, yetkililer tarafından potansiyel bir tehdit olarak görüldü. 15 Aralık 1890 sabahı, onu tutuklamak üzere görevlendirilen ve ironik bir şekilde yine kendi halkından olan yerli polislerle yaşanan arbede sırasında vurularak öldürüldü. Bu olay, Amerikan yerlilerinin bağımsızlık mücadelesinde bir dönemin kapanışını simgeleyen trajik bir kırılma noktası olarak kabul edilir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Sioux01.png/960px-Sioux01.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Sioux01.png/500px-Sioux01.png",
-        "genislik": 960,
-        "yukseklik": 1079,
-        "orijinalGenislik": 1286,
-        "yazar": "User:Nikater",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cheyenne_Indian_policeman.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cheyenne_Indian_policeman.png",
+        "genislik": 400,
+        "yukseklik": 422,
+        "orijinalGenislik": 400,
+        "yazar": "Bilinmeyen yazar",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Sioux01.png",
-        "aciklama": "Tribal territory of the Great Sioux Nation. Legend: Green: former tribal area - yellow: todays's reservations",
-        "konu": "Hunkpapa Lakotaları"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Cheyenne_Indian_policeman.png",
+        "aciklama": null,
+        "konu": "Kızılderili ajan polisi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Sioux01.png/960px-Sioux01.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Sioux01.png/500px-Sioux01.png",
-          "genislik": 960,
-          "yukseklik": 1079,
-          "orijinalGenislik": 1286,
-          "yazar": "User:Nikater",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Sioux01.png",
-          "aciklama": "Tribal territory of the Great Sioux Nation. Legend: Green: former tribal area - yellow: todays's reservations",
-          "konu": "Hunkpapa Lakotaları"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cheyenne_Indian_policeman.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cheyenne_Indian_policeman.png",
-          "genislik": 400,
-          "yukseklik": 422,
-          "orijinalGenislik": 400,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Cheyenne_Indian_policeman.png",
-          "aciklama": null,
-          "konu": "Kızılderili ajan polisi"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1893-wilhelm-ludwig-thomsen-danimarka-kraliyet-ilimler-akademisinde",
@@ -192,23 +126,12 @@
         "Macaristan",
         "İstanbul"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
-        "genislik": 960,
-        "yukseklik": 494,
-        "orijinalGenislik": 2048,
-        "yazar": "Alexxx Malev",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-        "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-        "konu": "İstanbul"
-      }
+      "baslik": "Türkiye ve Macaristan Arasında Dostluk Antlaşması",
+      "ozet": "Türkiye Cumhuriyeti'nin kuruluşunun hemen ardından, genç devletin uluslararası arenada tanınması ve diplomatik bağlarını güçlendirmesi amacıyla atılan adımlardan biri olan Türkiye-Macaristan Dostluk Antlaşması, 15 Aralık 1923'te İstanbul'da imzalandı. Bu antlaşma, her iki ülkenin de Birinci Dünya Savaşı sonrasında yaşadığı büyük değişimlerin ardından, yeni bir dönemin başlangıcını simgeleyen önemli bir diplomatik belge niteliği taşıyordu.\n\nSöz konusu antlaşma, iki ülke arasındaki siyasi ilişkilerin hukuki bir zemine oturtulmasını sağladı. Türkiye'nin bağımsızlığını ve yeni rejimini uluslararası düzeyde kabul ettirme çabalarının bir parçası olan bu mutabakat, aynı zamanda Macaristan ile olan tarihsel ve kültürel bağların modern diplomasi çerçevesinde yeniden tanımlanmasına olanak tanıdı. İmzalanan bu metin, taraflar arasında barışçıl ilişkilerin geliştirilmesi ve karşılıklı iş birliğinin teşvik edilmesi konusunda ortak bir iradeyi temsil ediyordu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1925-riza-pehlevi-krallik-yeminini-etti-ve-kacar",
@@ -219,10 +142,10 @@
         "Kaçar Hanedanı",
         "Pehlevi Hanedanı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İran'da Pehlevi Hanedanı'nın Kuruluşu",
+      "ozet": "İran tarihinde bir dönüm noktası olan 15 Aralık 1925 tarihinde, Rıza Pehlevi krallık yeminini ederek ülkenin yönetimini devraldı. Bu olay, 1794 yılından beri İran'da hüküm süren ve Türk kökenli Kaçar boyuna dayanan Kaçar Hanedanı'nın resmen sona erdiğini ve yerine Pehlevi Hanedanı'nın geçtiğini ilan ediyordu. Rıza Pehlevi'nin tahta çıkışı, İran'ın modernleşme sürecinde yeni bir dönemin başlangıcı olarak kabul edilmektedir.\n\nKaçar Hanedanı'nın çöküşü ve Pehlevi döneminin başlaması, İran'ın siyasi yapısında köklü değişiklikleri beraberinde getirdi. Mazenderan kökenli bir aileden gelen Rıza Pehlevi, iktidarı boyunca merkezi otoriteyi güçlendiren ve ülkeyi batılılaşma ekseninde dönüştürmeyi hedefleyen politikalar izledi. Bu geçiş süreci, İran'ın 20. yüzyıl boyunca izleyeceği siyasi rotayı belirleyen en önemli olaylardan biri oldu. Hanedan değişikliği, sadece bir yönetim biçimi değişimi değil, aynı zamanda İran'ın toplumsal ve kültürel yapısında da derin izler bırakan bir sürecin başlangıcıydı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/%D8%B1%D8%B6%D8%A7_%D9%BE%D9%87%D9%84%D9%88%DB%8C_%D8%AF%D8%B1_%DA%AF%D9%81%D8%AA%DA%AF%D9%88_%D8%A8%D8%A7_%D8%B3%DB%8C%D8%A7%D9%85%DA%A9_%D8%AF%D9%87%D9%82%D8%A7%D9%86%D9%BE%D9%88%D8%B1_%D8%A7%D8%B2_%D8%B5%D8%AF%D8%A7%DB%8C_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%D8%8C_%D8%AA%DB%8C%D8%B1_%DB%B1%DB%B4%DB%B0%DB%B3_06_%28cropped%29.jpg/960px-%D8%B1%D8%B6%D8%A7_%D9%BE%D9%87%D9%84%D9%88%DB%8C_%D8%AF%D8%B1_%DA%AF%D9%81%D8%AA%DA%AF%D9%88_%D8%A8%D8%A7_%D8%B3%DB%8C%D8%A7%D9%85%DA%A9_%D8%AF%D9%87%D9%82%D8%A7%D9%86%D9%BE%D9%88%D8%B1_%D8%A7%D8%B2_%D8%B5%D8%AF%D8%A7%DB%8C_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%D8%8C_%D8%AA%DB%8C%D8%B1_%DB%B1%DB%B4%DB%B0%DB%B3_06_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/%D8%B1%D8%B6%D8%A7_%D9%BE%D9%87%D9%84%D9%88%DB%8C_%D8%AF%D8%B1_%DA%AF%D9%81%D8%AA%DA%AF%D9%88_%D8%A8%D8%A7_%D8%B3%DB%8C%D8%A7%D9%85%DA%A9_%D8%AF%D9%87%D9%82%D8%A7%D9%86%D9%BE%D9%88%D8%B1_%D8%A7%D8%B2_%D8%B5%D8%AF%D8%A7%DB%8C_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%D8%8C_%D8%AA%DB%8C%D8%B1_%DB%B1%DB%B4%DB%B0%DB%B3_06_%28cropped%29.jpg/500px-%D8%B1%D8%B6%D8%A7_%D9%BE%D9%87%D9%84%D9%88%DB%8C_%D8%AF%D8%B1_%DA%AF%D9%81%D8%AA%DA%AF%D9%88_%D8%A8%D8%A7_%D8%B3%DB%8C%D8%A7%D9%85%DA%A9_%D8%AF%D9%87%D9%82%D8%A7%D9%86%D9%BE%D9%88%D8%B1_%D8%A7%D8%B2_%D8%B5%D8%AF%D8%A7%DB%8C_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%D8%8C_%D8%AA%DB%8C%D8%B1_%DB%B1%DB%B4%DB%B0%DB%B3_06_%28cropped%29.jpg",
@@ -235,7 +158,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:%D8%B1%D8%B6%D8%A7_%D9%BE%D9%87%D9%84%D9%88%DB%8C_%D8%AF%D8%B1_%DA%AF%D9%81%D8%AA%DA%AF%D9%88_%D8%A8%D8%A7_%D8%B3%DB%8C%D8%A7%D9%85%DA%A9_%D8%AF%D9%87%D9%82%D8%A7%D9%86%D9%BE%D9%88%D8%B1_%D8%A7%D8%B2_%D8%B5%D8%AF%D8%A7%DB%8C_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%D8%8C_%D8%AA%DB%8C%D8%B1_%DB%B1%DB%B4%DB%B0%DB%B3_06_(cropped).jpg",
         "aciklama": "Rıza Pehlevi",
         "konu": "Rıza Pehlevi"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1934-bingolde-4-9-buyuklugundeki-depremde-12-kisi",
@@ -244,23 +168,12 @@
       "konular": [
         "Bingöl"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Bingolcitycenter.jpg/960px-Bingolcitycenter.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Bingolcitycenter.jpg/500px-Bingolcitycenter.jpg",
-        "genislik": 960,
-        "yukseklik": 513,
-        "orijinalGenislik": 1924,
-        "yazar": "Bingolll",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bingolcitycenter.jpg",
-        "aciklama": "Bingöl şehir merkezinden bir görünüm",
-        "konu": "Bingöl"
-      }
+      "baslik": "Bingöl'de Meydana Gelen Yıkıcı Deprem",
+      "ozet": "1934 yılının Aralık ayında Bingöl merkezli olarak gerçekleşen 4.9 büyüklüğündeki sarsıntı, bölgede ciddi bir yıkıma ve can kaybına yol açtı. Depremin etkisiyle 12 vatandaşımız hayatını kaybederken, yerleşim yerlerinde önemli ölçüde maddi hasar meydana geldi. O dönemde bölgenin yapısal durumu ve deprem bilincinin günümüzdeki kadar gelişmemiş olması, sarsıntının etkilerini daha ağır kıldı.\n\nTürkiye'nin sismik açıdan aktif bölgelerinden biri olan Bingöl, tarih boyunca pek çok kez benzer sarsıntılarla karşı karşıya kalmıştır. 1934 yılında yaşanan bu olay, bölgenin depremselliği ve yapı güvenliği konusundaki risklerin erken dönemdeki örneklerinden biri olarak kayıtlara geçmiştir. Bu tür afetler, Türkiye'nin deprem gerçeğiyle yüzleşme sürecinde yapı denetimi ve afet yönetimi konularının önemini zamanla daha belirgin hale getirmiştir.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1939-ruzgar-gibi-gecti-filmi-atlantada-abd-gosterime",
@@ -271,10 +184,10 @@
         "Atlanta",
         "Amerika Birleşik Devletleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Sinema Tarihinin Efsanesi: Rüzgâr Gibi Geçti",
+      "ozet": "Margaret Mitchell'ın Pulitzer ödüllü romanından beyaz perdeye uyarlanan Rüzgâr Gibi Geçti, 1939 yılında Atlanta'da gerçekleştirilen prömiyeriyle sinema dünyasında yeni bir dönemi başlattı. Amerikan İç Savaşı ve sonrasındaki yeniden yapılanma dönemini konu alan bu epik yapım, dönemin teknik imkanları ve devasa prodüksiyonuyla izleyicileri büyüledi. Film, gösterime girdiği andan itibaren hem eleştirmenlerin beğenisini kazandı hem de gişede büyük bir başarıya imza attı.\n\nEser, sinema tarihindeki yerini sadece ticari başarısıyla değil, kazandığı ödüller ve kültürel etkisiyle de sağlamlaştırdı. Toplam 14 dalda Oscar adaylığı elde eden film, 10 dalda ödül kazanarak uzun süre kırılamayacak bir rekora imza attı. Enflasyona göre düzenlenmiş gişe verilerine göre tüm zamanların en çok izlenen filmi olma unvanını koruyan yapım, 1993 yılında Kongre Kütüphanesi tarafından kültürel ve tarihi açıdan önemli kabul edilerek ABD Ulusal Film Arşivi'ne dahil edildi. Günümüzde dahi sinema sanatının en önemli klasiklerinden biri olarak kabul edilen film, dünya genelinde geniş kitleler tarafından izlenmeye devam etmektedir.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Poster_-_Gone_With_the_Wind_01.jpg/960px-Poster_-_Gone_With_the_Wind_01.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Poster_-_Gone_With_the_Wind_01.jpg/500px-Poster_-_Gone_With_the_Wind_01.jpg",
@@ -288,34 +201,7 @@
         "aciklama": "Film poster for Gone with the Wind. The public domain status of the poster is confirmed by court decision, although limitations may apply.",
         "konu": "Rüzgâr Gibi Geçti (film, 1939)"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Poster_-_Gone_With_the_Wind_01.jpg/960px-Poster_-_Gone_With_the_Wind_01.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Poster_-_Gone_With_the_Wind_01.jpg/500px-Poster_-_Gone_With_the_Wind_01.jpg",
-          "genislik": 960,
-          "yukseklik": 1478,
-          "orijinalGenislik": 1299,
-          "yazar": "Armando Seguso (per Heritage Auctions)",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Poster_-_Gone_With_the_Wind_01.jpg",
-          "aciklama": "Film poster for Gone with the Wind. The public domain status of the poster is confirmed by court decision, although limitations may apply.",
-          "konu": "Rüzgâr Gibi Geçti (film, 1939)"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Atlanta_cityscape.jpg/960px-Atlanta_cityscape.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Atlanta_cityscape.jpg/500px-Atlanta_cityscape.jpg",
-          "genislik": 960,
-          "yukseklik": 511,
-          "orijinalGenislik": 1920,
-          "yazar": "Paul Brennan",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Atlanta_cityscape.jpg",
-          "aciklama": "Atlanta, Georgia Cityscape View",
-          "konu": "Atlanta"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1941-769-rumen-yahudisi-yolcusuyla-filistine-giden-struma",
@@ -339,10 +225,10 @@
         "Türkiye Büyük Millet Meclisi",
         "Sivas Kongresi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Milli Mücadele Kahramanlarına Vefa Kanunu",
+      "ozet": "Türkiye Büyük Millet Meclisi, 15 Aralık 1948 tarihinde aldığı bir kararla, Milli Mücadele'nin en kritik dönemlerinde görev üstlenmiş olan tarihi şahsiyetlere yönelik önemli bir vefa adımını hayata geçirdi. Bu kanun düzenlemesiyle, Sivas Kongresi'nde seçilen Temsil Heyeti üyeleri ile TBMM'nin birinci döneminde görev yapan milletvekillerine, vatan hizmeti tertibinden düzenli aylık bağlanması kararlaştırıldı. Bu adım, bağımsızlık mücadelesinin zorlu şartlarında sorumluluk alan isimlerin emeklerinin devlet nezdinde tescillenmesi ve maddi güvence altına alınması amacını taşıyordu.\n\nSivas Kongresi, Türk milletinin işgale karşı direnişini örgütleyen ve yeni bir devletin temellerini atan ulusal bir dönüm noktasıydı. Erzurum Kongresi'nde alınan kararları tüm ülkeye yayarak bağımsızlık iradesini pekiştiren bu kongre, aynı zamanda TBMM'nin kuruluşuna giden yolda en önemli siyasi aşamalardan biri olmuştur. 1948 yılında çıkarılan bu kanun, Cumhuriyet'in kuruluşuna öncülük eden bu kadroların, ilerleyen yıllarda yaşadıkları ekonomik zorlukların giderilmesini ve devletin kurucu iradesine sahip çıkanlara karşı sorumluluğunu yerine getirmesini simgelemektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Sivas_Congress_September_1919.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Sivas_Congress_September_1919.jpg",
@@ -355,7 +241,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Sivas_Congress_September_1919.jpg",
         "aciklama": "Sivas Congress September 1919",
         "konu": "Sivas Kongresi"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1948-fransa-ilk-nukleer-reaktorun-kurulus-calismalarina-basladi",
@@ -365,23 +252,12 @@
         "Fransa",
         "nükleer reaktör"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%C4%B0T%C3%9C_Triga_Mark-II_Deneysel_N%C3%BCkleer_Reakt%C3%B6r.JPG/960px-%C4%B0T%C3%9C_Triga_Mark-II_Deneysel_N%C3%BCkleer_Reakt%C3%B6r.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%C4%B0T%C3%9C_Triga_Mark-II_Deneysel_N%C3%BCkleer_Reakt%C3%B6r.JPG/500px-%C4%B0T%C3%9C_Triga_Mark-II_Deneysel_N%C3%BCkleer_Reakt%C3%B6r.JPG",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 4320,
-        "yazar": "EmreOsm95",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0T%C3%9C_Triga_Mark-II_Deneysel_N%C3%BCkleer_Reakt%C3%B6r.JPG",
-        "aciklama": "İTÜ Enerji Mühendisliği bölümünde yer alan Triga Mark-II tipi deney amaçlı kullanılan nükleer reaktör",
-        "konu": "nükleer reaktör"
-      }
+      "baslik": "Fransa'nın Nükleer Enerji Yolculuğu Başlıyor",
+      "ozet": "Fransa, 15 Aralık 1948 tarihinde nükleer enerji alanındaki ilk somut adımını atarak ilk nükleer reaktörünün kurulum çalışmalarına başladı. Bu girişim, ülkenin İkinci Dünya Savaşı sonrasında enerji bağımsızlığını kazanma ve teknolojik kapasitesini artırma hedefinin bir parçası olarak hayata geçirildi. Söz konusu reaktör, Fransa'nın bilimsel araştırmalarda nükleer teknolojiyi kullanma konusundaki kararlılığını simgeleyen önemli bir dönüm noktası oldu.\n\nBu ilk adım, Fransa'nın ilerleyen yıllarda dünyanın en büyük nükleer enerji üreticilerinden biri haline gelmesinin temelini oluşturdu. Bugün Fransa, elektrik üretiminin büyük bir kısmını nükleer santrallerden karşılayan ve bu alanda küresel ölçekte öncü konumda bulunan ülkeler arasında yer almaktadır. 1948'de atılan bu temel, sadece enerji üretimi için değil, aynı zamanda ülkenin endüstriyel ve teknolojik altyapısının modernleşmesi sürecinde de kritik bir rol oynamıştır.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1949-birlesmis-milletler-egitim-bilim-ve-kultur-orgutu",
@@ -434,23 +310,12 @@
         "Yunanistan",
         "Kıbrıs"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Cyprus_ESA356100.jpg/960px-Cyprus_ESA356100.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Cyprus_ESA356100.jpg/500px-Cyprus_ESA356100.jpg",
-        "genislik": 960,
-        "yukseklik": 691,
-        "orijinalGenislik": 10000,
-        "yazar": "European Space Agency",
-        "lisans": "CC BY-SA 3.0 igo",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Cyprus_ESA356100.jpg",
-        "aciklama": "The third largest island in the Mediterranean, Cyprus is about 240 km long and 100 km wide. It is located on the Anatolian plate and therefore belongs geologically to Asia, but politically it is a mem",
-        "konu": "Kıbrıs"
-      }
+      "baslik": "Birleşmiş Milletler'de Kıbrıs Konusunda Yunan Tezinin Reddi",
+      "ozet": "Birleşmiş Milletler Genel Kurulu, 1957 yılının Aralık ayında gerçekleştirdiği oturumda, Yunanistan'ın Kıbrıs adasının statüsüne ilişkin sunduğu önerileri ve tezleri kabul etmedi. Bu karar, o dönemde İngiliz sömürge yönetimi altında bulunan adanın geleceği ve bölgedeki siyasi dengeler açısından kritik bir dönemeç olarak kayıtlara geçti. Yunanistan, adanın kendi topraklarına bağlanması yönündeki taleplerini uluslararası platformlara taşıyarak diplomatik bir destek arayışındaydı.\n\nSöz konusu ret kararı, Kıbrıs meselesinin uluslararası arenada çok boyutlu bir sorun olarak ele alındığını göstermesi bakımından önem taşımaktadır. O dönemde Birleşmiş Milletler, çatışmaları önlemek ve devletler arası ilişkileri düzenlemek amacıyla aktif bir rol üstlenmeye çalışıyordu. Yunanistan'ın tezinin reddedilmesi, adadaki taraflar arasındaki gerilimin diplomatik yollarla çözülmesinin zorluğunu ortaya koyarken, aynı zamanda Türkiye'nin de taraf olduğu bu karmaşık sürecin ilerleyen yıllarda nasıl bir seyir izleyeceğinin de bir habercisi niteliğindeydi.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1958-adalet-bakani-esat-budakoglu-4-yil-icinde",
@@ -487,10 +352,10 @@
         "Brüksel",
         "Belçika"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Belçika Kralı I. Baudouin'in Düğünü",
+      "ozet": "Belçika Kralı I. Baudouin, 15 Aralık 1960 tarihinde Fabiola de Mora y Aragón ile evlenerek Belçika halkının büyük ilgi gösterdiği görkemli bir törenle dünyaevine girdi. Brüksel'deki Saint-Michel-et-Gudule Katedrali'nde gerçekleştirilen bu evlilik, Belçika tarihinde bir ilke de sahne oldu. Tören, ülkede televizyondan canlı yayınlanan ilk kraliyet düğünü olarak kayıtlara geçti ve halkın kraliyet ailesiyle olan bağını güçlendiren sembolik bir an haline geldi. Bu yayın, o dönemde televizyonun toplumsal birleştirici gücünü gözler önüne seren önemli bir medya olayı olarak kabul edildi.\n\nI. Baudouin, 1951 yılında tahta çıkmış ve 1993 yılındaki vefatına kadar 42 yıl boyunca Belçika'nın beşinci kralı olarak görev yapmıştır. İspanyol asıllı bir aristokrat olan Fabiola de Mora y Aragón ise evliliğin ardından Kraliçe Fabiola unvanını almıştır. Çiftin evliliği, Belçika'nın üniter bir devletten federal bir yapıya dönüştüğü ve etnik gerilimlerin yaşandığı çalkantılı bir siyasi dönemde gerçekleşmiştir. Kraliçe Fabiola, özellikle sosyal yardım çalışmaları ve hayırseverlik faaliyetleriyle halk arasında sevilen bir figür haline gelmiş, kralın uzun süren hükümdarlığı boyunca onun en yakın destekçisi olmuştur.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/King_Baudouin_of_Belgium.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/King_Baudouin_of_Belgium.jpg",
@@ -504,34 +369,7 @@
         "aciklama": "King Baudouin of Belgium in 1960",
         "konu": "I. Baudouin (Belçika Kralı)"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/King_Baudouin_of_Belgium.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/King_Baudouin_of_Belgium.jpg",
-          "genislik": 894,
-          "yukseklik": 1280,
-          "orijinalGenislik": 894,
-          "yazar": "Anefo",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:King_Baudouin_of_Belgium.jpg",
-          "aciklama": "King Baudouin of Belgium in 1960",
-          "konu": "I. Baudouin (Belçika Kralı)"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Grand_Place_Bruselas_2.jpg/960px-Grand_Place_Bruselas_2.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Grand_Place_Bruselas_2.jpg/500px-Grand_Place_Bruselas_2.jpg",
-          "genislik": 960,
-          "yukseklik": 576,
-          "orijinalGenislik": 3332,
-          "yazar": "Francisco Conde Sánchez",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Grand_Place_Bruselas_2.jpg",
-          "aciklama": "The largest begonia carpet in the world at an event that takes place in August every two years.",
-          "konu": "Brüksel"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1970-sovyet-uzay-sondasi-venera-7-venus-gezegenine",
@@ -542,10 +380,10 @@
         "Venüs (gezegen)",
         "gezegen"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Başka Bir Gezegene İlk Başarılı İniş: Venera 7",
+      "ozet": "Sovyetler Birliği tarafından geliştirilen Venera 7 uzay aracı, 15 Aralık 1970 tarihinde Venüs yüzeyine ulaşarak uzay keşif tarihinde çığır açan bir başarıya imza attı. Bu görev, insanlık tarihinde başka bir gezegenin yüzeyine yumuşak iniş gerçekleştiren ve oradan Dünya'ya başarılı bir şekilde veri aktaran ilk uzay aracı olma unvanını kazandı. Sonda, Venüs'ün zorlu atmosfer koşullarına rağmen yüzeye ulaştıktan sonra yaklaşık 23 dakika boyunca Dünya'ya bilgi göndermeyi başardı.\n\nVenüs, Güneş Sistemi'nde Dünya'ya olan benzerliği nedeniyle uzun yıllar boyunca bilim insanlarının ilgisini çeken bir hedef olmuştur. Ancak gezegenin son derece yoğun atmosferi ve aşırı yüksek yüzey sıcaklıkları, önceki denemelerin başarısız olmasına neden olmuştu. Venera 7'nin elde ettiği veriler, Venüs'ün yüzey koşullarının anlaşılması adına kritik bir dönüm noktası oluşturdu. Bu görev, gezegenler arası keşiflerde teknolojinin sınırlarını zorlayarak, daha sonraki yıllarda gerçekleştirilecek olan karmaşık uzay görevlerinin önünü açan temel bir adım olarak kabul edilmektedir.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Venera-7.jpg/960px-Venera-7.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Venera-7.jpg/500px-Venera-7.jpg",
@@ -559,47 +397,7 @@
         "aciklama": "Descent vehicle of the Venera-7. Lavochkin Scientific Production Association. Russia, Moscow, BDNKh, Pavilion № 32 \"Cosmos\".",
         "konu": "Venera 7"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Venera-7.jpg/960px-Venera-7.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Venera-7.jpg/500px-Venera-7.jpg",
-          "genislik": 960,
-          "yukseklik": 955,
-          "orijinalGenislik": 2896,
-          "yazar": "Stanislav Kozlovskiy",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Venera-7.jpg",
-          "aciklama": "Descent vehicle of the Venera-7. Lavochkin Scientific Production Association. Russia, Moscow, BDNKh, Pavilion № 32 \"Cosmos\".",
-          "konu": "Venera 7"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg/960px-PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg/500px-PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 960,
-          "orijinalGenislik": 1096,
-          "yazar": "NASA/JPL-Caltech",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:PIA23791-Venus-RealAndEnhancedContrastViews-20200608_(cropped).jpg",
-          "aciklama": "PIA23791: Venus from Mariner 10 https://photojournal.jpl.nasa.gov/catalog/PIA23791 Click here for the combined view for PIA23791 Click on an individual image below for the larger versions: Click here ",
-          "konu": "Venüs (gezegen)"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Planet_collage_to_scale.jpg/960px-Planet_collage_to_scale.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Planet_collage_to_scale.jpg/500px-Planet_collage_to_scale.jpg",
-          "genislik": 960,
-          "yukseklik": 960,
-          "orijinalGenislik": 2048,
-          "yazar": "CactiStaccingCrane",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Planet_collage_to_scale.jpg",
-          "aciklama": "Credits: User:MotloAstro (Sun); NASA (Mercury, Venus, Earth, Jupiter [with ESA], Saturn, Uranus, Neptune); Emirate Mission (Mars);",
-          "konu": "gezegen"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1970-polonyada-isciler-ayaklandi",
@@ -621,10 +419,10 @@
       "konular": [
         "Yaşar Kemal"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Yaşar Kemal'in Pasaport Engeli ve Kamuoyu Tepkisi",
+      "ozet": "Türk edebiyatının en önemli kalemlerinden biri olan Yaşar Kemal, 15 Aralık 1972 tarihinde yurt dışında düzenlenecek uluslararası bir toplantıya katılmak üzere hazırlıklarını tamamlamıştı. Ancak yazarın pasaport başvurusu, dönemin idari uygulamaları gerekçe gösterilerek reddedildi. Bu durum, yazarın ifade özgürlüğü ve seyahat hakkının kısıtlanması olarak değerlendirilerek edebiyat ve sanat çevrelerinde büyük bir tepkiyle karşılandı. Yaşanan bu kısıtlama, yazarın eserlerindeki toplumsal eleştirel duruşuyla birleşince kamuoyunda geniş yankı uyandırdı.\n\nYaşar Kemal'in pasaportunun verilmemesi üzerine yükselen itirazlar ve kamuoyu baskısı, yetkililerin geri adım atmasını sağladı. Olayın üzerinden geçen 15 günlük sürenin ardından, yazarın pasaportu kendisine teslim edildi. Bu gelişme, sadece Yaşar Kemal'in kişisel bir sorununun çözümü değil, aynı zamanda o dönemde aydınların karşılaştığı bürokratik engellerin ve ifade özgürlüğü üzerindeki baskıların sembolik bir örneği olarak tarihe geçti. Yaşar Kemal, yaşamı boyunca edebiyatıyla olduğu kadar, toplumsal meselelere duyarlılığı ve aktivist kimliğiyle de Türkiye'nin entelektüel hafızasında derin izler bırakmıştır.",
+      "kategori": "Edebiyat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Y%C4%B1lmaz_B%C3%BCy%C3%BCker%C5%9Fen_wax_Museum_%28Ya%C5%9Far_Kemal%29.jpg/960px-Y%C4%B1lmaz_B%C3%BCy%C3%BCker%C5%9Fen_wax_Museum_%28Ya%C5%9Far_Kemal%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Y%C4%B1lmaz_B%C3%BCy%C3%BCker%C5%9Fen_wax_Museum_%28Ya%C5%9Far_Kemal%29.jpg/500px-Y%C4%B1lmaz_B%C3%BCy%C3%BCker%C5%9Fen_wax_Museum_%28Ya%C5%9Far_Kemal%29.jpg",
@@ -637,7 +435,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Y%C4%B1lmaz_B%C3%BCy%C3%BCker%C5%9Fen_wax_Museum_(Ya%C5%9Far_Kemal).jpg",
         "aciklama": "Yılmaz Büyükerşen wax Museum, Eskişehir (Yaşar Kemal)",
         "konu": "Yaşar Kemal"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1986-olimpiyat-sampiyonu-halterci-naim-suleymanoglu-turk-vatandasi",
@@ -660,10 +459,10 @@
         "dolar",
         "Türkiye Cumhuriyet Merkez Bankası"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türk Lirası'nda Dört Haneli Dolar Dönemi",
+      "ozet": "Türkiye ekonomisi için sembolik bir dönüm noktası olan 15 Aralık 1987 tarihinde, Amerikan Doları Türk Lirası karşısında ilk kez dört haneli seviyeye ulaştı. Türkiye Cumhuriyet Merkez Bankası tarafından açıklanan yeni kur düzenlemesiyle doların satış fiyatı 1.300 lira olarak belirlendi. Bu gelişme, o dönemde Türkiye'nin yaşadığı yüksek enflasyonist ortamın ve para birimindeki değer kaybının somut bir göstergesi olarak kayıtlara geçti.\n\nSöz konusu kur artışı, Türkiye'nin 1980'li yıllarda uyguladığı dışa açılma politikaları ve serbest piyasa ekonomisine geçiş sürecinin bir parçasıydı. Türk Lirası'nın değerindeki bu hızlı değişim, hem ithalat ve ihracat dengelerini hem de vatandaşların alım gücünü doğrudan etkileyen bir süreçti. Doların dört haneli rakamlara çıkması, o yıllarda kamuoyunda geniş yankı uyandırmış ve ekonomik istikrar tartışmalarının merkezine yerleşmişti. Bu olay, Türkiye'nin finansal tarihinde para biriminin yaşadığı devalüasyon süreçlerinin ve enflasyonla mücadelenin önemli bir kesiti olarak hatırlanmaktadır.",
+      "kategori": "Ekonomi",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/USDnotes.png/960px-USDnotes.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/USDnotes.png/500px-USDnotes.png",
@@ -677,34 +476,7 @@
         "aciklama": "Includes new banknotes",
         "konu": "dolar"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/USDnotes.png/960px-USDnotes.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/USDnotes.png/500px-USDnotes.png",
-          "genislik": 960,
-          "yukseklik": 837,
-          "orijinalGenislik": 2380,
-          "yazar": "derivative work: Hidro (talk) USDnotes.jpg: The original uploader was Andyhi18 at English Wikipedia.",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:USDnotes.png",
-          "aciklama": "Includes new banknotes",
-          "konu": "dolar"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Finans_Merkezi.jpg/960px-Finans_Merkezi.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Finans_Merkezi.jpg/500px-Finans_Merkezi.jpg",
-          "genislik": 960,
-          "yukseklik": 960,
-          "orijinalGenislik": 3000,
-          "yazar": "Ail Subway",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Finans_Merkezi.jpg",
-          "aciklama": "İstanbul Financial Centre",
-          "konu": "Türkiye Cumhuriyet Merkez Bankası"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1989-romanyada-devlet-baskani-nicolay-cavuseskunun-devrilmesine-kadar",
@@ -714,10 +486,10 @@
         "Romanya",
         "Nicolay Çavuşesku"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Romanya'da Çavuşesku Dönemini Bitiren Halk Ayaklanması",
+      "ozet": "Romanya'da 1989 yılının Aralık ayında patlak veren halk ayaklanması, ülkedeki komünist rejimin ve Nikolay Çavuşesku'nun yirmi yılı aşkın süredir devam eden otoriter yönetiminin sonunu getiren tarihi bir dönüm noktası oldu. Olaylar, Temeşvar şehrinde Macar asıllı bir papazın tutuklanmasına karşı başlayan protestolarla tetiklendi. Kısa sürede ülke geneline yayılan bu gösteriler, halkın ekonomik sıkıntılara, baskıcı rejime ve Çavuşesku'nun giderek artan kişisel kültüne karşı biriken öfkesinin dışa vurumu niteliğindeydi. Güvenlik güçlerinin müdahalesine rağmen durdurulamayan protestolar, ordunun da halkın safına geçmesiyle birlikte rejimin çöküşünü hızlandırdı. Ayaklanmanın ardından Çavuşesku ve eşi Elena, kısa süren bir askerî yargılamanın ardından idam edildi. Bu olay, Doğu Avrupa'daki komünist blokun çözülme sürecinin en şiddetli ve dramatik halkalarından biri olarak tarihe geçti. Romanya'nın demokratikleşme yolunda attığı bu ilk adım, ülkenin siyasi yapısında köklü bir değişimin başlangıcını temsil etmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Nicolae_Ceau%C8%99escu.jpg/960px-Nicolae_Ceau%C8%99escu.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Nicolae_Ceau%C8%99escu.jpg/500px-Nicolae_Ceau%C8%99escu.jpg",
@@ -730,7 +502,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Nicolae_Ceau%C8%99escu.jpg",
         "aciklama": "Portret Nicolae Ceaușescu.",
         "konu": "Nicolay Çavuşesku"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1990-kirgizistan-bagimsizligini-ilan-etti",
@@ -783,10 +556,10 @@
         "Rusya",
         "Mavi Akım"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türkiye ve Rusya Arasında Mavi Akım Anlaşması",
+      "ozet": "Türkiye ve Rusya Federasyonu arasında enerji iş birliğini stratejik bir boyuta taşıyan Mavi Akım projesi için imzalar 1997 yılının sonunda atıldı. Bu devasa altyapı projesi, Rusya'dan çıkarılan doğal gazın Karadeniz'in altından geçirilerek doğrudan Türkiye'ye ulaştırılmasını hedefleyen bir mühendislik girişimi olarak planlandı. Anlaşma, Türkiye'nin artan enerji ihtiyacını karşılamak adına uzun vadeli ve güvenilir bir tedarik kanalı oluşturulması açısından büyük önem taşıyordu.\n\nProje, 25 yıllık bir süreyi kapsayacak şekilde yıllık 16 milyar metreküp doğal gaz sevkiyatını öngören bir ticaret hacmi üzerine kuruldu. Toplamda 1213 kilometrelik bir uzunluğa sahip olan hattın yaklaşık 380 kilometrelik kısmı, Karadeniz'in derinliklerinden geçerek teknik açıdan oldukça zorlu bir süreci beraberinde getirdi. Rus enerji devi Gazprom ve İtalyan ENI ortaklığıyla inşa edilen hat, Türkiye'nin enerji arz güvenliğini çeşitlendirme stratejisinde kritik bir rol oynadı. 2003 yılında faaliyete geçen bu hat, Türkiye ile Rusya arasındaki ekonomik ilişkilerin en somut ve uzun soluklu göstergelerinden biri haline geldi.",
+      "kategori": "Ekonomi",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bluestream.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bluestream.png",
@@ -799,7 +572,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Bluestream.png",
         "aciklama": "Map of the Blue Stream natural gas transportation pipeline.",
         "konu": "Mavi Akım"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "2000-bitlisin-tatvan-ilcesi-yakininda-6-zirhli-tugay",
@@ -809,51 +583,12 @@
         "Bitlis",
         "Tatvan"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Bitlis_view.jpg/960px-Bitlis_view.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Bitlis_view.jpg/500px-Bitlis_view.jpg",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 2560,
-        "yazar": "Ahzaryamed",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bitlis_view.jpg",
-        "aciklama": "Bitlis, Turkey",
-        "konu": "Bitlis"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Bitlis_view.jpg/960px-Bitlis_view.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Bitlis_view.jpg/500px-Bitlis_view.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 2560,
-          "yazar": "Ahzaryamed",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bitlis_view.jpg",
-          "aciklama": "Bitlis, Turkey",
-          "konu": "Bitlis"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Tatvan_%28view_from_Nemrut%29.jpg/960px-Tatvan_%28view_from_Nemrut%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Tatvan_%28view_from_Nemrut%29.jpg/500px-Tatvan_%28view_from_Nemrut%29.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 3686,
-          "yazar": "EvgenyGenkin",
-          "lisans": "CC BY 2.5",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.5",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Tatvan_(view_from_Nemrut).jpg",
-          "aciklama": "Kürtlerin anavatanlarından biri Tatvan",
-          "konu": "Tatvan"
-        }
-      ]
+      "baslik": "Tatvan'da Askeri Helikopter Kazası",
+      "ozet": "Bitlis'in Tatvan ilçesi kırsalında 15 Aralık 2000 tarihinde meydana gelen elim kazada, 6. Zırhlı Tugay Komutanlığı bünyesinde görev yapan bir askeri helikopter henüz belirlenemeyen bir nedenle düştü. Olayın ardından bölgeye sevk edilen kurtarma ekipleri, enkaz alanında yaptıkları çalışmalarda 2 askerin şehit olduğunu, 5 askerin ise yaralandığını tespit etti. Yaralı askerler, bölgedeki hastanelere kaldırılarak tedavi altına alındı. Kazanın gerçekleştiği bölge, zorlu coğrafi koşulları ve sert iklimiyle bilinen Doğu Anadolu'nun stratejik noktalarından biridir. O dönemde bölgedeki askeri hareketliliğin yoğun olduğu göz önüne alındığında, kaza hem yerel halkta hem de kamuoyunda büyük bir üzüntüyle karşılandı. Olayın ardından başlatılan teknik incelemeler, helikopterin düşüş nedenini aydınlatmak amacıyla yürütüldü. Bu tür kazalar, bölgedeki askeri lojistik ve ulaşım faaliyetlerinin zorluklarını bir kez daha gündeme getirmiş, şehit düşen askerlerin anısı ise Türkiye genelinde derin bir saygıyla anılmıştır.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "2000-afyonkarahisar-ve-cevresinde-buyuklugu-5-8-olan",
@@ -862,23 +597,12 @@
       "konular": [
         "Afyonkarahisar"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Burgberg_Afyonkarahisar_02.jpg/960px-Burgberg_Afyonkarahisar_02.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Burgberg_Afyonkarahisar_02.jpg/500px-Burgberg_Afyonkarahisar_02.jpg",
-        "genislik": 960,
-        "yukseklik": 598,
-        "orijinalGenislik": 5180,
-        "yazar": "Ingeborg Simon",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Burgberg_Afyonkarahisar_02.jpg",
-        "aciklama": "Burgberg von Afyonkarahisar, Zentraltürkei",
-        "konu": "Afyonkarahisar"
-      }
+      "baslik": "Afyonkarahisar Depremi: 15 Aralık 2000",
+      "ozet": "Afyonkarahisar ve çevresini sarsan 5,8 büyüklüğündeki deprem, bölgede ciddi bir yıkıma ve can kaybına yol açtı. 15 Aralık 2000 tarihinde gerçekleşen sarsıntı sonucunda 6 vatandaşımız yaşamını yitirirken, 42 kişi de çeşitli şekillerde yaralandı. Depremin etkisiyle birçok konut ve iş yerinde hasar meydana geldi, bölge halkı büyük bir panik yaşadı.\n\nTürkiye'nin sismik açıdan aktif bölgelerinden birinde yer alan Afyonkarahisar'da yaşanan bu olay, bölgedeki yapı stokunun depreme dayanıklılığı konusundaki tartışmaları yeniden gündeme getirdi. Deprem sonrası bölgeye sevk edilen arama kurtarma ekipleri ve sağlık personeli, enkaz altında kalanlara ulaşmak ve yaralılara müdahale etmek için yoğun bir çalışma yürüttü. Bu felaket, bölgedeki deprem bilincinin artırılması ve yapı denetim süreçlerinin daha sıkı uygulanması gerekliliğini bir kez daha hatırlatan önemli bir dönüm noktası oldu.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "2000-cernobil-reaktor-kazasinin-ardindan-nukleer-santralin-calismasi",
@@ -904,51 +628,24 @@
         "M5 (İstanbul Metrosu)",
         "Üsküdar (İstanbul Metrosu)"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türkiye'nin İlk Sürücüsüz Metro Hattı Hizmete Açıldı",
+      "ozet": "İstanbul'un Anadolu yakasında ulaşımı kökten değiştiren M5 Üsküdar-Çekmeköy metro hattının ilk bölümü, 15 Aralık 2017 tarihinde düzenlenen törenle yolcu taşımaya başladı. Üsküdar ile Yamanevler arasındaki dokuz istasyonu kapsayan bu hat, Türkiye'nin ilk tam otomatik sürücüsüz metro sistemi olma özelliğini taşıyor. Proje, şehrin yoğun nüfuslu bölgeleri arasındaki ulaşım süresini önemli ölçüde kısaltarak toplu taşımada yeni bir dönemi başlattı.\n\nSürücüsüz metro teknolojisi, trenlerin hareketinden duruşuna, kapıların açılıp kapanmasından enerji yönetimine kadar tüm süreçlerin merkezi bir kontrol sistemi tarafından yönetilmesini sağlıyor. Bu sistem, insan hatasını minimize ederek daha sık aralıklarla ve yüksek verimlilikle sefer yapılabilmesine olanak tanıyor. İstanbul gibi trafiğin yoğun olduğu metropollerde, raylı sistemlerin bu şekilde modernize edilmesi, hem zaman tasarrufu sağlıyor hem de çevre dostu bir ulaşım alternatifi sunarak şehir içi hareketliliği daha sürdürülebilir kılıyor.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Lancaster_Gate_tube.jpg/960px-Lancaster_Gate_tube.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Lancaster_Gate_tube.jpg/500px-Lancaster_Gate_tube.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg/960px-%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg/500px-%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg",
         "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 1024,
-        "yazar": "tompagenet (Tom Page)",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Lancaster_Gate_tube.jpg",
-        "aciklama": "1992 stock Tube train at Lancaster Gate station, London",
-        "konu": "metro"
+        "yukseklik": 720,
+        "orijinalGenislik": 4032,
+        "yazar": "Kayra",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg",
+        "aciklama": "Üsküdar Metro İstasyonu",
+        "konu": "Üsküdar (İstanbul Metrosu)"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Lancaster_Gate_tube.jpg/960px-Lancaster_Gate_tube.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Lancaster_Gate_tube.jpg/500px-Lancaster_Gate_tube.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 1024,
-          "yazar": "tompagenet (Tom Page)",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Lancaster_Gate_tube.jpg",
-          "aciklama": "1992 stock Tube train at Lancaster Gate station, London",
-          "konu": "metro"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg/960px-%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg/500px-%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 4032,
-          "yazar": "Kayra",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%9Csk%C3%BCdar_Metro_%C4%B0stasyonu_M5_2024.jpg",
-          "aciklama": "Üsküdar Metro İstasyonu",
-          "konu": "Üsküdar (İstanbul Metrosu)"
-        }
-      ]
+      "bolge": "turkiye"
     }
   ],
   "dogumlar": [
