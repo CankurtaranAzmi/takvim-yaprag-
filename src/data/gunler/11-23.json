@@ -874,7 +874,7 @@
     "url": "https://tr.wikipedia.org/wiki/23_Kas%C4%B1m",
     "revid": 38204917
   },
-  "guncelleme": "2026-11-17T15:39:56.501Z",
+  "guncelleme": "2026-11-18T15:17:23.469Z",
   "haberler": [
     {
       "id": "2025-haber-2455051",
@@ -976,8 +976,8 @@
       "yayin": "2024-11-23T21:27:00+03:00",
       "puan": 9,
       "durum": "elendi",
-      "baslik": "Galatasaray ligin ilk 12 haftasında puan rekoru kırdı",
-      "ozet": "Galatasaray, Süper Lig'de geride kalan 12 haftalık süreçte topladığı 34 puanla dikkat çekici bir başarıya ulaştı. Sarı kırmızılı ekip, bu performansıyla lig tarihindeki en yüksek puan ortalamasını yakalayarak önemli bir rekora imza attı.",
+      "baslik": "Galatasaray lig tarihinde en iyi başlangıç performansına ulaştı",
+      "ozet": "Sarı kırmızılı ekip, ligin ilk on iki haftalık diliminde topladığı otuz dört puanla önemli bir başarıya imza attı. Kulüp, bu sonuçla lig tarihindeki en başarılı sezon başlangıçlarından birini gerçekleştirmiş oldu.",
       "kategori": "Spor"
     },
     {
@@ -993,14 +993,13 @@
       },
       "konular": [
         "Türkiye Cumhuriyet Merkez Bankası",
-        "Faiz",
-        "Ekonomi"
+        "Türkiye ekonomisi"
       ],
       "yayin": "2023-11-23T14:28:00+03:00",
       "puan": 14,
       "durum": "elendi",
-      "baslik": "Türkiye Cumhuriyet Merkez Bankası Kasım Ayı Faiz Kararını Açıkladı",
-      "ozet": "Türkiye Cumhuriyet Merkez Bankası Para Politikası Kurulu kasım ayına ilişkin faiz kararını kamuoyuyla paylaştı. Banka tarafından gerçekleştirilen toplantı neticesinde belirlenen yeni faiz oranı resmi kanallar aracılığıyla duyuruldu. Ekonomi çevreleri tarafından yakından takip edilen bu karar süreci tamamlanarak sonuçlar ilan edildi.",
+      "baslik": "Türkiye Cumhuriyet Merkez Bankası kasım ayı faiz kararını açıkladı",
+      "ozet": "Türkiye Cumhuriyet Merkez Bankası Para Politikası Kurulu kasım ayı toplantısını tamamlayarak yeni faiz oranını duyurdu. Kamuoyu tarafından yakından takip edilen toplantı sonucunda banka, mevcut para politikası stratejisi doğrultusunda faiz oranlarında değişikliğe gitti. Alınan bu kararın ekonomik etkileri piyasalar tarafından değerlendirilmeye başlandı.",
       "kategori": "Ekonomi"
     },
     {
@@ -1119,15 +1118,28 @@
         "url": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika--altinda-tum-zamanlarin-rekoru-kirildi-23-kasim-2021-1886994"
       },
       "konular": [
-        "Altın",
+        "Altın fiyatları",
         "Ekonomi"
       ],
       "yayin": "2021-11-23T15:35:00+03:00",
       "puan": 14,
-      "durum": "elendi",
-      "baslik": "Altın fiyatlarında tarihi zirve seviyesi görüldü",
-      "ozet": "Altının gram fiyatı, güne yukarı yönlü bir seyirle giriş yaptı. Bu hareketliliğin ardından değerli metal, piyasalarda bugüne kadarki en yüksek değerine ulaşarak rekor tazeledi.",
-      "kategori": "Ekonomi"
+      "durum": "yazildi",
+      "baslik": "Gram altın fiyatlarında tarihi zirve seviyesi görüldü",
+      "ozet": "Altının gram fiyatı, güne yukarı yönlü bir seyirle giriş yaptı. Yaşanan bu yükseliş hareketinin ardından kıymetli maden, piyasa tarihinde ulaştığı en yüksek seviyeyi kaydederek rekor tazeledi.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/960px-Luchtfoto_van_Lower_Manhattan.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/500px-Luchtfoto_van_Lower_Manhattan.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 5616,
+        "yazar": "Daniele Pieroni",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Luchtfoto_van_Lower_Manhattan.jpg",
+        "aciklama": "Lower Manhattan gezien vanuit het zuidwesten.",
+        "konu": "Ekonomi"
+      }
     },
     {
       "id": "2020-haber-1793133",
@@ -1148,8 +1160,8 @@
       "yayin": "2020-11-23T11:32:00+03:00",
       "puan": 10,
       "durum": "yazildi",
-      "baslik": "İzmir genelindeki binalarda hasar tespit çalışmaları sona erdi",
-      "ozet": "Çevre ve Şehircilik Bakanlığı yetkilileri, kentte yaşanan sarsıntının ardından yürütülen incelemelerin tamamlandığını duyurdu. Yirmi üç ilçeyi kapsayan süreçte yüz doksan binin üzerinde yapı ve dokuz yüz bin bağımsız bölüm kontrol edildi. Yapılan teknik değerlendirmelerle binaların mevcut durumları kayıt altına alındı.",
+      "baslik": "İzmir'deki deprem sonrası bina hasar tespit çalışmaları nihayete erdi",
+      "ozet": "Çevre ve Şehircilik Bakanlığı bünyesinde yürütülen incelemeler kapsamında İzmir genelindeki çok sayıda yapıda denetimler tamamlandı. Toplamda yirmi üç ilçeyi kapsayan süreçte yüz doksan binin üzerinde bina ve dokuz yüz bine yakın bağımsız bölümün hasar durumu kontrol edildi. Yapı İşleri Genel Müdürlüğü yetkilileri, bölgedeki saha çalışmalarının sona erdiğini kamuoyuna duyurdu.",
       "kategori": "Afet",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg/960px-2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
@@ -1202,14 +1214,14 @@
       },
       "konular": [
         "Türkiye Satranç Şampiyonası",
-        "Kemer",
-        "Satranç"
+        "Satranç",
+        "Kemer"
       ],
       "yayin": "2019-11-23T17:48:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Türkiye Satranç Şampiyonası Kemer'de Düzenlenmeye Başlandı",
-      "ozet": "Antalya'nın Kemer ilçesi, Türkiye Satranç Şampiyonası'na ev sahipliği yapmaya başladı. Ülke genelinden gelen sporcuların katılımıyla gerçekleştirilen turnuva, satranç camiası için önemli bir rekabet ortamı oluşturdu. Şampiyona kapsamında düzenlenen müsabakalarla katılımcılar dereceye girmek için hamlelerini yaptı.",
+      "baslik": "Türkiye Satranç Şampiyonası Kemer'de Başladı",
+      "ozet": "Ülke genelindeki satranç sporcularını bir araya getiren Türkiye Satranç Şampiyonası, Antalya'nın Kemer ilçesinde start aldı. Turnuvaya katılan sporcular şampiyonluk unvanı için hamle yapmaya başladı.",
       "kategori": "Spor"
     },
     {
@@ -1231,8 +1243,8 @@
       "yayin": "2019-11-23T11:04:00+03:00",
       "puan": 9,
       "durum": "elendi",
-      "baslik": "Luka Doncic rekor kırdığı maçta Mavericks galibiyetine öncülük etti",
-      "ozet": "Amerikan Basketbol Ligi mücadelesinde Dallas Mavericks, sahasında ağırladığı Cleveland Cavaliers karşısında farklı bir galibiyet elde etti. Karşılaşma boyunca sergilediği performansla dikkat çeken Luka Doncic, yeni bir rekora imza atarak takımının 143-101 skorla maçı kazanmasında önemli rol oynadı.",
+      "baslik": "Luka Doncic NBA'de yeni bir rekorun sahibi oldu",
+      "ozet": "Dallas Mavericks, kendi sahasında ağırladığı Cleveland Cavaliers karşısında üstün bir oyun sergiledi. Mücadeleyi 143-101 skorla kazanan ev sahibi ekipte Luka Doncic, sergilediği performansla lig tarihinde yeni bir rekora imza attı.",
       "kategori": "Spor"
     },
     {
@@ -1255,7 +1267,7 @@
       "puan": 8,
       "durum": "elendi",
       "baslik": "Zeynep Nur Eski Muay Thai Avrupa Şampiyonu Oldu",
-      "ozet": "Antalya ev sahipliğinde gerçekleştirilen EMF Muay Thai Avrupa Kupası müsabakaları tamamlandı. Organizasyonda milli sporcu Zeynep Nur Eski, rakiplerini geride bırakarak altın madalyanın sahibi oldu ve Avrupa şampiyonluğuna ulaştı.",
+      "ozet": "Antalya ev sahipliğinde gerçekleşen EMF Muay Thai Avrupa Kupası müsabakaları tamamlandı. Türkiye adına organizasyonda yer alan sporcu Zeynep Nur Eski, sergilediği performansla Avrupa şampiyonluğuna ulaştı.",
       "kategori": "Spor"
     },
     {
@@ -1364,15 +1376,15 @@
         "url": "https://www.cumhuriyet.com.tr/haber/desibel-rekorunun-sahibi-besiktas-bu-kez-sessizlik-rekoru-kiracak-634634"
       },
       "konular": [
-        "Beşiktaş (futbol takımı)",
+        "Beşiktaş JK",
         "UEFA Şampiyonlar Ligi",
         "Vodafone Park"
       ],
       "yayin": "2016-11-23T11:18:00+03:00",
       "puan": 9,
       "durum": "elendi",
-      "baslik": "Beşiktaş taraftarı Vodafone Arena'da sessizlik rekoru denemesi yapacak",
-      "ozet": "Beşiktaş taraftarları, UEFA Şampiyonlar Ligi kapsamında Benfica ile oynanacak müsabakada farklı bir etkinliğe imza attı. Daha önce yüksek ses seviyesiyle dikkat çeken taraftar grubu, bu kez stadyumda sessizlik rekoru kırmak amacıyla bir araya geldi. Söz konusu girişim, kulübün ev sahipliği yaptığı karşılaşma sırasında gerçekleştirildi.",
+      "baslik": "Beşiktaş taraftarından Vodafone Arena'da sessizlik eylemi",
+      "ozet": "Beşiktaş taraftarları, UEFA Şampiyonlar Ligi kapsamında oynanacak Benfica mücadelesinde farklı bir etkinliğe imza attı. Daha önce desibel rekoru ile gündeme gelen siyah beyazlı seyirciler, bu kez stadyumda sessizlik rekoru kırmak için bir araya geldi. Söz konusu girişim, taraftarın stadyumdaki atmosferi farklı bir şekilde yansıtma çabası olarak kayıtlara geçti.",
       "kategori": "Spor"
     },
     {
@@ -1430,8 +1442,8 @@
       "yayin": "2015-11-23T10:12:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "Avrupa Birliği ve Türkiye Arasındaki Göçmen Krizi Görüşmeleri",
-      "ozet": "İngiliz basınında yer alan bir değerlendirmede, Avrupa Birliği yönetiminin göçmen meselesine çözüm bulma arayışları kapsamında Cumhurbaşkanı Recep Tayyip Erdoğan ile yürüttüğü diplomasi süreci ele alındı. Söz konusu yayında, Avrupa Birliği'nin bu süreçte Türkiye'nin taleplerine karşı taviz verdiği yönünde bir görüş öne sürüldü.",
+      "baslik": "Avrupa Birliği ve Türkiye Arasında Göçmen Krizi Görüşmeleri",
+      "ozet": "İngiltere merkezli Financial Times gazetesi, Avrupa Birliği yetkililerinin göçmen meselesine çözüm bulma çabaları kapsamında Türkiye ile kurduğu ilişkiyi değerlendirdi. Gazete, Avrupa Birliği yönetiminin bu süreçte Cumhurbaşkanı Recep Tayyip Erdoğan karşısında taviz veren bir tutum sergilediğini iddia etti.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
@@ -1557,8 +1569,8 @@
       "yayin": "2011-11-23T19:36:00+03:00",
       "puan": 6,
       "durum": "elendi",
-      "baslik": "Aşık Veysel'in torunu Cemal Şatıroğlu vefat etti",
-      "ozet": "Ünlü halk ozanı Aşık Veysel Şatıroğlu'nun torunu olan Cemal Şatıroğlu, Sivas'ın Şarkışla ilçesinde hayata gözlerini yumdu. Kırk iki yaşındaki Şatıroğlu'nun ani bir kalp krizi neticesinde yaşamını yitirdiği bildirildi.",
+      "baslik": "Aşık Veysel'in Torunu Cemal Şatıroğlu Vefat Etti",
+      "ozet": "Ünlü halk ozanı Aşık Veysel Şatıroğlu'nun torunu Cemal Şatıroğlu, Sivas'ın Şarkışla ilçesinde hayata gözlerini yumdu. Kırk iki yaşındaki Şatıroğlu'nun geçirdiği ani bir kalp krizi nedeniyle yaşamını yitirdiği bildirildi.",
       "kategori": "Toplum"
     }
   ],
