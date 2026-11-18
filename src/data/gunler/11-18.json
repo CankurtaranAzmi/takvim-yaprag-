@@ -579,7 +579,7 @@
     },
     {
       "yil": 1906,
-      "metin": "George Wald, Amerikalı bilim insanı (ö. 1997)"
+      "metin": "George Wald, Amerikalı bilim adamı (ö. 1997)"
     },
     {
       "yil": 1911,
@@ -949,7 +949,7 @@
     },
     {
       "yil": 2018,
-      "metin": "Erdin Bircan, Türk iş insanı ve siyasetçi (d. 1959)"
+      "metin": "Erdin Bircan, Türk iş adamı ve siyasetçi (d. 1959)"
     },
     {
       "yil": 2018,
@@ -996,9 +996,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/18_Kas%C4%B1m",
-    "revid": 38169054
+    "revid": 38621075
   },
-  "guncelleme": "2026-11-17T15:39:54.464Z",
+  "guncelleme": "2026-11-18T15:17:21.598Z",
   "haberler": [
     {
       "id": "2025-haber-2453855",
@@ -1013,13 +1013,14 @@
       },
       "konular": [
         "Türkiye Büyük Millet Meclisi",
-        "Cumhuriyet Halk Partisi"
+        "Aylin Nazlıaka",
+        "Gökçe Gökçen"
       ],
       "yayin": "2025-11-18T20:50:00+03:00",
       "puan": 15,
       "durum": "elendi",
-      "baslik": "Ayşe Tokyaz'ın Ailesi TBMM'de Adalet Arayışını Dile Getirdi",
-      "ozet": "Üniversite öğrencisi Ayşe Tokyaz'ın hayatını kaybetmesiyle sonuçlanan olayın ardından aile üyeleri, Cumhuriyet Halk Partisi Genel Başkan Yardımcıları Aylin Nazlıaka ve Gökçe Gökçen ile Türkiye Büyük Millet Meclisi çatısı altında bir araya geldi. Görüşmede acılı aile, yaşanan kayıp karşısında adalet taleplerini yineleyerek hukuki süreçteki kararlılıklarını vurguladı. Aile temsilcileri, bu buluşmanın ardından hak arama mücadelelerinin yeni bir aşamaya girdiğini ifade etti.",
+      "baslik": "Ayşe Tokyaz cinayetiyle ilgili TBMM'de aile görüşmesi yapıldı",
+      "ozet": "Cumhuriyet Halk Partisi Genel Başkan Yardımcıları Aylin Nazlıaka ve Gökçe Gökçen, hayatını kaybeden üniversite öğrencisi Ayşe Tokyaz'ın yakınlarını Türkiye Büyük Millet Meclisi'nde ağırladı. Görüşmede genç kadının annesi Halime Tokyaz ve ikiz kardeşi Esra Tokyaz hazır bulundu. Aile üyeleri, yaşanan acı olayın ardından hukuki süreçteki kararlılıklarını ifade ederek adalet arayışlarını sürdüreceklerini belirtti.",
       "kategori": "Toplum"
     },
     {
@@ -1063,8 +1064,8 @@
       "yayin": "2024-11-18T10:53:00+03:00",
       "puan": 10,
       "durum": "yazildi",
-      "baslik": "Goldman Sachs altın fiyatlarında yeni rekor beklentisini duyurdu",
-      "ozet": "Uluslararası yatırım kuruluşu Goldman Sachs, altın piyasasına dair gelecek yıl için iyimser bir öngörü paylaştı. Banka, altın fiyatlarının önümüzdeki dönemde tarihi zirvelerini yenileyebileceğini ifade etti. Ayrıca raporda, Amerika Birleşik Devletleri'nin İran'a yönelik izlediği politikaların petrol ve metal piyasalarında belirsizlikleri artırabileceği uyarısında bulunuldu.",
+      "baslik": "Goldman Sachs altın fiyatlarında yeni rekor beklentisini açıkladı",
+      "ozet": "Finans kuruluşu Goldman Sachs, altın piyasasına dair 2025 yılı öngörülerini paylaştı. Banka, altın fiyatlarının gelecek dönemde tarihi yüksek seviyelere çıkabileceğini tahmin etti. Ayrıca kurum, ABD'nin İran'a yönelik izlediği politikaların petrol ve metal piyasalarında risk faktörlerini yükseltebileceğine dikkat çekti.",
       "kategori": "Ekonomi",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Au%2C79.jpg",
@@ -1094,13 +1095,13 @@
       "konular": [
         "MKE Ankaragücü",
         "Gençlerbirliği",
-        "Türkiye Spor Yazarları Derneği Kupası"
+        "TSYD Kupası"
       ],
       "yayin": "2023-11-18T18:08:00+03:00",
       "puan": 10,
       "durum": "elendi",
       "baslik": "TSYD Kupası finalinde kazanan taraf Ankaragücü oldu",
-      "ozet": "Türkiye Spor Yazarları Derneği tarafından düzenlenen kupa finalinde MKE Ankaragücü ile Gençlerbirliği karşı karşıya geldi. Mücadeleyi iki golle tamamlayan Ankaragücü, rakibini mağlup ederek turnuvayı şampiyonlukla noktaladı.",
+      "ozet": "Türkiye Spor Yazarları Derneği tarafından düzenlenen turnuvanın final mücadelesi gerçekleştirildi. Karşılaşmada rakibi Gençlerbirliği ile karşı karşıya gelen MKE Ankaragücü, sahadan iki sıfırlık skorla galip ayrıldı. Bu sonuçla birlikte Ankaragücü kupanın sahibi oldu.",
       "kategori": "Spor"
     },
     {
@@ -1116,14 +1117,13 @@
       },
       "konular": [
         "Türkiye Cumhuriyet Merkez Bankası",
-        "Faiz",
-        "Ekonomi"
+        "Faiz"
       ],
       "yayin": "2023-11-18T14:45:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Merkez Bankası Kasım Ayı Faiz Kararı Beklentisi",
-      "ozet": "Döviz kurları ve altın fiyatlarındaki dalgalanmaların ardından kamuoyu Merkez Bankası tarafından açıklanacak faiz kararına odaklandı. Vatandaşlar kurumun kasım ayı toplantısının ne zaman yapılacağını ve kararın duyurulup duyurulmadığını yakından takip ediyor. Ekonomi gündemini meşgul eden bu gelişme ile ilgili resmi açıklama süreci merakla bekleniyor.",
+      "baslik": "Türkiye Cumhuriyet Merkez Bankası faiz kararı bekleniyor",
+      "ozet": "Döviz kurları ve altın fiyatlarındaki değişimlerin ardından vatandaşlar Merkez Bankası tarafından açıklanacak olan kasım ayı faiz kararını beklemeye başladı. Kamuoyu, bankanın faiz oranları konusunda alacağı kararın ne zaman duyurulacağına dair gelişmeleri yakından takip ediyor.",
       "kategori": "Ekonomi"
     },
     {
@@ -1140,14 +1140,14 @@
       "konular": [
         "2020 Ege Denizi depremi",
         "İzmir",
-        "Deprem"
+        "Şerafetin Yağcı"
       ],
       "yayin": "2022-11-18T15:05:00+03:00",
       "puan": 11,
       "durum": "yazildi",
-      "baslik": "Yağcıoğlu Apartmanı davasında hapis cezası kararı kesinleşti",
-      "ozet": "İzmir depremi sırasında yıkılan ve çok sayıda kişinin yaşamını yitirmesine yol açan Yağcıoğlu Apartmanı ile ilgili hukuki süreçte yeni bir aşamaya gelindi. Binanın müteahhidi, bilinçli taksirle birden fazla kişinin ölümüne ve yaralanmasına sebebiyet verdiği gerekçesiyle yargılandığı davada hapis cezasına çarptırıldı. Yerel mahkeme tarafından verilen on iki yıl altı aylık hapis cezası kararı, yaşanan felaketin ardından yürütülen yargılamanın önemli bir parçası oldu.",
-      "kategori": "Afet",
+      "baslik": "Yağcıoğlu Apartmanı davasında verilen hapis cezalarına ilişkin karar",
+      "ozet": "İzmir depremi sırasında yıkılan ve çok sayıda kişinin yaşamını yitirmesine sebep olan Yağcıoğlu Apartmanı ile ilgili yargı süreci devam etti. Binanın müteahhidi Şerafetin Yağcı, bilinçli taksirle birden fazla kişinin ölümüne ve yaralanmasına yol açmak suçundan yargılandığı davada hapis cezasına çarptırıldı. Yerel mahkeme tarafından sanığa on ikişer yıl altışar ay hapis cezası verilmesi kararlaştırıldı.",
+      "kategori": "Toplum",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg/960px-2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg/500px-2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
@@ -1175,14 +1175,13 @@
       },
       "konular": [
         "Emeklilikte Yaşa Takılanlar",
-        "Sosyal Güvenlik Kurumu",
-        "Türkiye"
+        "Sosyal Güvenlik Kurumu"
       ],
       "yayin": "2022-11-18T12:11:00+03:00",
       "puan": 11,
       "durum": "yazildi",
-      "baslik": "Emeklilikte Yaşa Takılanlar İçin Borçlanma Süreci Önem Kazandı",
-      "ozet": "Emeklilikte yaşa takılanlar düzenlemesini bekleyen vatandaşlar, sigorta başlangıç tarihleri ve prim gün sayılarını incelemeye başladı. Düzenlemeden yararlanmak isteyen kişiler, eksik primlerini tamamlamak amacıyla askerlik ve doğum borçlanması gibi yöntemlere başvurarak gerekli şartları sağlamaya çalıştı. 1999 yılı öncesinde sigorta girişi bulunanları ilgilendiren bu süreçte, hak sahipleri prim günlerini kontrol ederek emeklilik haklarını elde etmeyi hedefledi.",
+      "baslik": "Emeklilikte yaşa takılanlar için borçlanma işlemleri süreci hızlandı",
+      "ozet": "Emeklilikte yaşa takılanlar düzenlemesini bekleyen çok sayıda vatandaş, sigorta başlangıç tarihleri ve prim gün sayılarını gözden geçirmeye başladı. Düzenleme kapsamında yer alabilmek isteyen kişiler, eksik primlerini tamamlamak amacıyla askerlik ve doğum borçlanması gibi seçenekleri değerlendirerek işlemlerini gerçekleştirdi.",
       "kategori": "Siyaset",
       "gorsel": null
     },
@@ -1287,8 +1286,8 @@
       "yayin": "2020-11-18T11:04:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Avrupa Judo Şampiyonası Çekya'nın Başkentinde Başlıyor",
-      "ozet": "Çekya'nın başkenti Prag'da düzenlenen Büyükler Avrupa Judo Şampiyonası'nın açılış gününde müsabakalar başladı. Organizasyonun ilk gününde dört milli sporcu madalya mücadelesi vermek üzere tatamiye çıktı.",
+      "baslik": "Prag Avrupa Judo Şampiyonası müsabakaları start alıyor",
+      "ozet": "Çekya sınırları içerisinde düzenlenen Büyükler Avrupa Judo Şampiyonası açılış gününde rekabete sahne oluyor. Turnuvanın başlangıcında dört Türk sporcu madalya mücadelesi vermek üzere mindere çıkıyor.",
       "kategori": "Spor"
     },
     {
@@ -1304,14 +1303,13 @@
       },
       "konular": [
         "Adalet ve Kalkınma Partisi",
-        "Bahçelievler",
-        "Siyaset"
+        "Bahçelievler"
       ],
       "yayin": "2019-11-18T17:51:00+03:00",
       "puan": 8,
       "durum": "elendi",
-      "baslik": "Adalet ve Kalkınma Partisi Bahçelievler teşkilatında istifa kararı",
-      "ozet": "Adalet ve Kalkınma Partisi Bahçelievler İlçe Başkan Yardımcılığı ve Seçim İşleri Başkanlığı görevlerini yürüten avukat Özer Öztaşbaşı partisinden ayrıldığını duyurdu. Söz konusu istifa kararı ilçe teşkilatında gerçekleşen bir görev değişikliği olarak kayıtlara geçti.",
+      "baslik": "Bahçelievler İlçe Başkan Yardımcılığı görevinde istifa kararı",
+      "ozet": "Adalet ve Kalkınma Partisi Bahçelievler teşkilatında görevli olan Seçim İşleri Başkanı Özer Öztaşbaşı, yürüttüğü ilçe başkan yardımcılığı görevinden ayrıldığını duyurdu. Avukat olan Öztaşbaşı, istifa kararını kamuoyuyla paylaştı.",
       "kategori": "Siyaset"
     },
     {
@@ -1327,13 +1325,14 @@
       },
       "konular": [
         "Buse Naz Çakıroğlu",
-        "Boks"
+        "Boks",
+        "2020 Yaz Olimpiyatları"
       ],
       "yayin": "2019-11-18T11:23:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "Buse Naz Çakıroğlu olimpiyat hedefi için çalışmalarına devam ediyor",
-      "ozet": "Dünya Kadınlar Boks Şampiyonası'nda gümüş madalya kazanan Buse Naz Çakıroğlu, bir sonraki büyük hedefi olan olimpiyat şampiyonluğu için hazırlıklarını sürdürdü. Kastamonu'daki kamp merkezinde bir araya gelen sporcu, 2020 Tokyo Olimpiyat Elemeleri öncesinde antrenmanlarını yoğun bir tempoyla gerçekleştirdi.",
+      "baslik": "Buse Naz Çakıroğlu Olimpiyat Hedefine Odaklandı",
+      "ozet": "Dünya Kadınlar Boks Şampiyonası'nda gümüş madalya elde eden milli boksör Buse Naz Çakıroğlu, gelecek olimpiyat oyunlarına hazırlanıyor. Kastamonu'daki kamp merkezinde antrenmanlarına devam eden sporcu, Tokyo Olimpiyat Elemeleri öncesinde çalışmalarını yoğunlaştırdı. Çakıroğlu, kariyerindeki en büyük hedefinin olimpiyat şampiyonluğu olduğunu belirtti.",
       "kategori": "Spor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Buse_Naz_%C3%87ak%C4%B1ro%C4%9Flu_%2851828948142%29_%28cropped%29.jpg/960px-Buse_Naz_%C3%87ak%C4%B1ro%C4%9Flu_%2851828948142%29_%28cropped%29.jpg",
@@ -1362,14 +1361,14 @@
       },
       "konular": [
         "Can Öncü",
-        "Moto3 Dünya Şampiyonası",
+        "Moto3",
         "Motosiklet yarışı"
       ],
       "yayin": "2018-11-18T15:09:00+03:00",
       "puan": 8,
       "durum": "yazildi",
       "baslik": "Can Öncü Moto3 Dünya Şampiyonasında Tarihe Geçti",
-      "ozet": "Milli motosikletçi Can Öncü, katıldığı Moto3 Dünya Şampiyonası yarışını birincilikle tamamlayarak büyük bir başarı elde etti. Bu derecesiyle birlikte Öncü, söz konusu şampiyonada yarışıp zirveye yerleşen en genç sürücü unvanını kazandı.",
+      "ozet": "Milli motosikletçi Can Öncü, katıldığı Moto3 Dünya Şampiyonası yarışında gösterdiği performansla birincilik kürsüsüne çıktı. Bu başarısıyla genç sporcu, şampiyona tarihinde yarış kazanan en genç pilot unvanını elde etti.",
       "kategori": "Spor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Can_Oncu.jpg/960px-Can_Oncu.jpg",
@@ -1404,8 +1403,8 @@
       "yayin": "2018-11-18T14:46:00+03:00",
       "puan": 8,
       "durum": "elendi",
-      "baslik": "Türkiye Ralli Şampiyonası'nda sezonun kazananı belli oldu",
-      "ozet": "Kocaeli ev sahipliğinde gerçekleştirilen Türkiye Ralli Şampiyonası'nın final etabı tamamlandı. Organizasyonun son ayağı olan Ford Otosan 36. Kocaeli Rallisi'ni başarıyla bitiren Burak Çukurova, genel klasmanda şampiyonluğa ulaştı.",
+      "baslik": "Türkiye Ralli Şampiyonası'nda Sezonun Şampiyonu Belli Oldu",
+      "ozet": "Kocaeli sınırları içerisinde gerçekleştirilen ve Türkiye Ralli Şampiyonası'nın final etabını oluşturan Ford Otosan 36. Kocaeli Rallisi tamamlandı. Zorlu yarışın ardından genel klasman puanlamasına göre Burak Çukurova sezonu şampiyon olarak bitirdi.",
       "kategori": "Spor"
     },
     {
@@ -1456,15 +1455,15 @@
         "url": "https://www.cumhuriyet.com.tr/haber/1-gunluk-is-birakma-eylemine-katilan-ogretmen-hukuk-savasini-kazandi-868598"
       },
       "konular": [
-        "Sendikal haklar",
+        "Öğretmen",
         "İzmir Bölge İdare Mahkemesi",
-        "Öğretmen"
+        "Disiplin cezası"
       ],
       "yayin": "2017-11-18T12:17:00+03:00",
       "puan": 9,
       "durum": "elendi",
-      "baslik": "Öğretmenin iş bırakma eylemi nedeniyle aldığı ceza mahkemece iptal edildi",
-      "ozet": "Bir günlük iş bırakma eylemine katıldığı gerekçesiyle hakkında kınama cezası uygulanan edebiyat öğretmeni, konuyu yargıya taşıdı. İzmir Bölge İdare Mahkemesi, söz konusu disiplin cezasını hukuka aykırı bularak iptal etti. Mahkeme heyeti, öğretmenin sendikal faaliyet kapsamında gerçekleştirdiği eylemin cezalandırılmaması gerektiğine oy çokluğuyla karar verdi.",
+      "baslik": "Öğretmenin iş bırakma eylemi nedeniyle aldığı ceza mahkemeden döndü",
+      "ozet": "İzmir Bölge İdare Mahkemesi, bir günlük iş bırakma eylemine katıldığı gerekçesiyle hakkında kınama cezası uygulanan bir edebiyat öğretmeninin açtığı davayı karara bağladı. Mahkeme, söz konusu disiplin cezasını oy çokluğuyla iptal etti. Böylece öğretmen, eyleme katılması nedeniyle kendisine verilen cezaya karşı yürüttüğü hukuki süreci kazanmış oldu.",
       "kategori": "Toplum"
     },
     {
@@ -1539,14 +1538,14 @@
       },
       "konular": [
         "İsmail Kahraman",
-        "Türkiye Büyük Millet Meclisi",
+        "Türkiye Büyük Millet Meclisi başkanı",
         "Adalet ve Kalkınma Partisi"
       ],
       "yayin": "2015-11-18T18:37:00+03:00",
       "puan": 9,
       "durum": "yazildi",
-      "baslik": "Adalet ve Kalkınma Partisi Meclis Başkan Adayını Belirledi",
-      "ozet": "Parti sözcüsü Ömer Çelik, merkez yürütme kurulu toplantısının ardından yaptığı açıklamada İsmail Kahraman'ın meclis başkanlığı için aday gösterildiğini duyurdu. İsmail Kahraman, Recep Tayyip Erdoğan Üniversitesi Geliştirme Vakfı'nın kurucular kurulu üyeleri arasında yer alıyordu.",
+      "baslik": "AKP Meclis Başkanlığı İçin İsmail Kahraman'ı Aday Gösterdi",
+      "ozet": "Adalet ve Kalkınma Partisi yönetimi, gerçekleştirilen toplantının ardından Türkiye Büyük Millet Meclisi Başkanlığı için İsmail Kahraman'ın ismini belirledi. Parti sözcüsü tarafından duyurulan bu kararla birlikte Kahraman'ın adaylığı resmileşti. İsmail Kahraman, aynı zamanda Recep Tayyip Erdoğan Üniversitesi Geliştirme Vakfı'nın kurucular kurulu üyeleri arasında yer alıyor.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/%C4%B0smail_Kahraman_MeclisBaskani.jpg",
@@ -1574,28 +1573,28 @@
         "url": "https://www.cumhuriyet.com.tr/haber/buyuk-marmara-depremi-olacak-mi-422951"
       },
       "konular": [
-        "Marmara Denizi",
         "Deprem",
+        "Marmara Denizi",
         "Şerif Barış"
       ],
       "yayin": "2015-11-18T12:56:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "Marmara Denizi merkezli deprem üzerine uzman değerlendirmesi",
-      "ozet": "Marmara Denizi'nde kaydedilen 4.2 büyüklüğündeki sarsıntının ardından açıklamalarda bulunan Prof. Dr. Şerif Barış, bu tür hareketliliklerin büyük bir depremin habercisi olarak görülmemesi gerektiğini belirtti. Bölgedeki sismik faaliyetlerin endişe yaratmaması gerektiğini vurgulayan uzman, halkın bu sarsıntıyı büyük bir felaket beklentisiyle ilişkilendirmesinin doğru olmadığını ifade etti.",
+      "baslik": "Marmara Denizi merkezli deprem sonrası uzman görüşü",
+      "ozet": "Kocaeli Üniversitesi bünyesinde görev yapan Prof. Dr. Şerif Barış, Marmara Denizi'nde kaydedilen 4.2 büyüklüğündeki sarsıntının ardından açıklamalarda bulundu. Yaşanan bu sarsıntının büyük bir depremin habercisi olarak yorumlanmaması gerektiğini belirten Barış, halkın bu konuda endişeye kapılmaması gerektiğini ifade etti.",
       "kategori": "Bilim",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2010_satellite_picture_of_the_Sea_of_Marmara.jpg/960px-2010_satellite_picture_of_the_Sea_of_Marmara.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2010_satellite_picture_of_the_Sea_of_Marmara.jpg/500px-2010_satellite_picture_of_the_Sea_of_Marmara.jpg",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 2400,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
+        "genislik": 800,
+        "yukseklik": 420,
+        "orijinalGenislik": 800,
         "yazar": "NASA",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:2010_satellite_picture_of_the_Sea_of_Marmara.jpg",
-        "aciklama": "2010 satellite picture of the Sea of Marmara",
-        "konu": "Marmara Denizi"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Quake_epicenters_1963-98_notitle.png",
+        "aciklama": "Quake epicenters: Preliminary Determination of Epicenters, 358,214 Events, 1963 - 1998",
+        "konu": "Deprem"
       }
     },
     {
@@ -1653,8 +1652,8 @@
       "yayin": "2014-11-18T15:30:00+03:00",
       "puan": 7,
       "durum": "elendi",
-      "baslik": "Dokuzuncu Contemporary Istanbul Sanat Fuarı Tamamlandı",
-      "ozet": "Dokuzuncu kez düzenlenen Contemporary Istanbul sanat fuarı, ziyaretçilerine kapılarını kapattı. On yedi bin metrekarelik geniş bir alana yayılan etkinlik, toplamda yetmiş yedi bin sanatsever tarafından gezildi. Fuar kapsamında sergilenen eserlerin toplam piyasa değerinin ise yüz doksan milyon Türk lirası olduğu açıklandı.",
+      "baslik": "Contemporary Istanbul Sanat Fuarı Yoğun İlgiyle Tamamlandı",
+      "ozet": "Dokuzuncu kez düzenlenen Contemporary Istanbul sanat fuarı, sanat tutkunlarının yoğun katılımıyla kapılarını kapattı. Geniş bir alanda sanatseverlerle buluşan etkinlikte, sergilenen eserlerin toplam piyasa değerinin 190 milyon Türk lirasına ulaştığı belirtildi. Organizasyonu toplamda 77 bin kişi ziyaret etti.",
       "kategori": "Sanat"
     },
     {
@@ -1711,8 +1710,8 @@
       "yayin": "2013-11-18T13:58:00+03:00",
       "puan": 8,
       "durum": "elendi",
-      "baslik": "Bakanlar Kurulu Toplantısı Başbakan Erdoğan Başkanlığında Gerçekleşti",
-      "ozet": "Başbakan Recep Tayyip Erdoğan yönetiminde toplanan Bakanlar Kurulu çalışmalarına başladı. Kabine üyelerinin katılımıyla gerçekleştirilen toplantıda gündemdeki konular ele alındı.",
+      "baslik": "Bakanlar Kurulu Toplantısı Başbakanın Başkanlığında Gerçekleşti",
+      "ozet": "Başbakan Recep Tayyip Erdoğan yönetiminde Bakanlar Kurulu bir araya geldi. Kabine üyelerinin katılımıyla düzenlenen toplantıda gündemdeki konular ele alındı.",
       "kategori": "Siyaset"
     },
     {
@@ -1764,14 +1763,13 @@
       },
       "konular": [
         "İran'ın nükleer programı",
-        "Uluslararası Atom Enerjisi Kurumu",
-        "İran"
+        "Uluslararası Atom Enerjisi Kurumu"
       ],
       "yayin": "2011-11-18T17:54:00+03:00",
       "puan": 7,
       "durum": "yazildi",
-      "baslik": "Uluslararası Atom Enerjisi Kurumu İran Hakkında Karar Aldı",
-      "ozet": "Uluslararası Atom Enerjisi Kurumu yönetim kurulu, İran'ın nükleer faaliyetlerini konu alan bir tasarıyı oylamaya sundu. Yapılan oylama sonucunda tasarı, otuz iki kabul, iki ret ve bir çekimser oyla onaylandı. Kurul, bu kararla birlikte ülkenin nükleer programına dair tutumunu resmiyete dökmüş oldu.",
+      "baslik": "Uluslararası Atom Enerjisi Kurumu İran Kararını Onayladı",
+      "ozet": "Uluslararası Atom Enerjisi Kurumu yönetim kurulu toplantısında İran nükleer faaliyetlerine ilişkin hazırlanan tasarı oylamaya sunuldu. Yapılan oylama sonucunda tasarı otuz iki kabul, iki ret ve bir çekimser oy ile onaylandı. Alınan bu karar kurumun İran programına dair yürüttüğü denetim ve inceleme süreçlerinin bir parçası olarak kayıtlara geçti.",
       "kategori": "Siyaset",
       "gorsel": null
     },

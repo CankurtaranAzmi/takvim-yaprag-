@@ -13,8 +13,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1893-kadinlar-ilk-kez-bir-ulusal-secimde-yeni",
@@ -26,8 +26,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1905-irlanda-siyasi-partisi-sinn-fein-kuruldu",
@@ -40,7 +40,6 @@
       "baslik": "İrlanda Siyasetinde Dönüm Noktası: Sinn Féin'in Kuruluşu",
       "ozet": "İrlanda'nın bağımsızlık mücadelesinde merkezi bir rol oynayan Sinn Féin, 1905 yılında Arthur Griffith tarafından siyasi bir hareket olarak başlatıldı. İrlandaca'da \"Biz Kendimiz\" anlamına gelen bu isim, partinin temel felsefesini ve İngiliz yönetimine karşı geliştirdiği milliyetçi duruşu yansıtmaktadır. Kuruluşundan itibaren İrlanda'nın kendi kaderini tayin etme hakkını savunan hareket, zamanla ülkenin siyasi atmosferini derinden etkileyen bir yapıya dönüştü.\n\nSinn Féin, sadece bir siyasi parti olmanın ötesinde, İrlanda'nın kültürel ve siyasi bağımsızlığını hedefleyen geniş bir toplumsal hareketin temsilcisi haline geldi. Özellikle 20. yüzyıl boyunca İrlanda tarihindeki kritik kırılma noktalarında aktif rol oynayan parti, İngiliz hükûmetine karşı yürüttüğü muhalefetle tanındı. Kendisini sol bir çizgide tanımlayan ve zaman zaman silahlı mücadeleyle ilişkilendirilen yapısıyla dikkat çeken Sinn Féin, günümüzde de İrlanda siyasetinin en önemli aktörlerinden biri olarak varlığını sürdürmektedir.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Arthur_Griffith_%281871-1922%29.jpg/960px-Arthur_Griffith_%281871-1922%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Arthur_Griffith_%281871-1922%29.jpg/500px-Arthur_Griffith_%281871-1922%29.jpg",
@@ -54,7 +53,7 @@
         "aciklama": null,
         "konu": "Sinn Féin"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1912-arnavutluk-osmanli-imparatorlugundan-bagimsizligini-ilan-etti",
@@ -68,7 +67,6 @@
       "baslik": "Arnavutluk'un Osmanlı İmparatorluğu'ndan Bağımsızlığı",
       "ozet": "Balkan Savaşları'nın yarattığı siyasi çalkantıların ortasında, 28 Kasım 1912 tarihinde Avlonya'da bir araya gelen 83 delege, Arnavutluk'un bağımsızlığını dünyaya duyurdu. İsmail Kemal Bey başkanlığında toplanan bu meclis, aynı zamanda ülkenin ilk geçici hükûmetini kurarak yeni devletin temellerini attı. Hem Arnavutça hem de Osmanlı Türkçesi ile kaleme alınan bağımsızlık bildirgesi, bölgedeki uzun süreli Osmanlı egemenliğinin sona erdiğini resmen ilan ediyordu.\n\nBu tarihi adım, Arnavut halkının kendi kaderini tayin etme arzusunun bir yansıması olarak gerçekleşti. Bağımsızlık ilanı, Balkanlar'daki güç dengelerinin hızla değiştiği bir dönemde, Arnavutluk'un uluslararası arenada bağımsız bir aktör olarak tanınma sürecini başlattı. Bu olay, modern Arnavut devletinin kuruluşunu simgelemekle kalmayıp, bölgenin siyasi haritasının yeniden şekillenmesinde de kritik bir dönüm noktası oluşturdu.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Deklarata_e_Pavar%C3%ABsis%C3%AB_%28dokumenti_origjinal_1912%29.jpg/960px-Deklarata_e_Pavar%C3%ABsis%C3%AB_%28dokumenti_origjinal_1912%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Deklarata_e_Pavar%C3%ABsis%C3%AB_%28dokumenti_origjinal_1912%29.jpg/500px-Deklarata_e_Pavar%C3%ABsis%C3%AB_%28dokumenti_origjinal_1912%29.jpg",
@@ -82,7 +80,7 @@
         "aciklama": "Photomontage of the original Act of the Albanian Declaration of Independence. The original document shown here was later in the posession of Lef Nosi, one of the signatories. It is believed to have di",
         "konu": "Arnavutluk Bağımsızlık Bildirgesi"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1918-kazim-karabekir-pasanin-karstan-istanbula-gelisi",
@@ -96,9 +94,8 @@
       "baslik": "Kâzım Karabekir Paşa'nın İstanbul'a Dönüşü",
       "ozet": "Birinci Dünya Savaşı'nın sona ermesi ve Mondros Mütarekesi'nin imzalanmasının ardından, Doğu Cephesi'nde önemli görevler üstlenmiş olan Kâzım Karabekir Paşa, 28 Kasım 1918'de İstanbul'a geldi. Bu dönüş, Osmanlı İmparatorluğu'nun savaş sonrası içine girdiği zorlu süreçte, ordunun ve ülkenin geleceği açısından kritik bir döneme denk geliyordu. Karabekir, bölgedeki askeri ve siyasi gelişmeleri yakından takip eden bir komutan olarak başkente dönerek, yaklaşan Milli Mücadele sürecinin hazırlık aşamalarında aktif rol alacak isimlerden biri haline geldi.\n\nKâzım Karabekir, ilerleyen yıllarda Türk Kurtuluş Savaşı'nın en önemli komutanlarından biri olarak Doğu Cephesi'ndeki başarılarıyla tarihe geçecek ve İstiklal Madalyası ile onurlandırılacaktır. İstanbul'a dönüşü, sadece kişisel bir görev değişimi değil, aynı zamanda Anadolu'da başlayacak olan bağımsızlık hareketinin askeri kadrolarının şekillenmeye başladığı bir dönemin habercisi niteliğindeydi. Paşa, daha sonraki yıllarda hem askeri başarıları hem de yetim kalan çocuklara sahip çıkmasıyla \"Yetimlerin Babası\" olarak anılacak ve Cumhuriyet döneminde siyasi alanda da önemli sorumluluklar üstlenecektir.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": null,
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1920-mehmet-akif-ersoy-ve-esref-edip-sebilur-resad",
@@ -113,7 +110,6 @@
       "baslik": "Sebilü'r-Reşad Dergisi Kastamonu'da Yeniden Yayımlanıyor",
       "ozet": "Kurtuluş Savaşı'nın en kritik dönemlerinden birinde, Mehmet Âkif Ersoy ve Eşref Edip, Millî Mücadele hareketini halka anlatmak ve kamuoyunu bilinçlendirmek amacıyla Sebilü'r-Reşad dergisini Kastamonu'da çıkarmaya başladılar. İstanbul'un işgal altında olduğu ve basının baskı gördüğü bir süreçte, Anadolu'nun kalbinden yükselen bu yayın, bağımsızlık mücadelesinin sesini Anadolu'nun dört bir yanına ulaştırmayı hedefliyordu. Kastamonu, o dönemde Millî Mücadele'nin önemli merkezlerinden biri olarak, derginin Anadolu'daki faaliyetleri için stratejik bir üs görevi gördü.\n\nSebilü'r-Reşad, sadece bir dergi olmanın ötesinde, Millî Mücadele'nin ideolojik ve manevi cephesini temsil eden bir yayın organıydı. Mehmet Âkif Ersoy'un başyazarlığını üstlendiği dergi, halkı birliğe davet eden ve bağımsızlık ruhunu canlı tutan yazılarıyla büyük bir etki yarattı. Eşref Edip'in uzun yıllar boyunca büyük bir özveriyle sürdürdüğü bu yayıncılık faaliyeti, Türk basın tarihinde Millî Mücadele'ye verdiği destekle önemli bir yere sahiptir. Dergi, Anadolu'daki direnişin meşruiyetini ve gerekliliğini savunan en güçlü kalemlerden biri olarak tarihe geçti.",
       "kategori": "Edebiyat",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Mehmet_%C3%82kif_Ersoy.png/960px-Mehmet_%C3%82kif_Ersoy.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Mehmet_%C3%82kif_Ersoy.png/500px-Mehmet_%C3%82kif_Ersoy.png",
@@ -127,7 +123,7 @@
         "aciklama": "Mehmet Âkif Ersoy",
         "konu": "Mehmet Âkif Ersoy"
       },
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1922-bursanin-iznik-ilcesinin-yunan-isgalinden-kurtulusu",
@@ -140,9 +136,8 @@
       "baslik": "İznik'in Yunan İşgalinden Kurtuluşu",
       "ozet": "Kurtuluş Savaşı'nın son aşamalarında, Türk ordusunun Büyük Taarruz ile elde ettiği zaferin ardından Anadolu'nun işgal altındaki bölgeleri birer birer özgürlüğüne kavuştu. Bu süreçte, stratejik konumu ve tarihsel önemiyle bilinen İznik de 28 Kasım 1922 tarihinde Yunan işgalinden kurtarıldı. Bölgedeki işgalin sona ermesi, Türk milletinin bağımsızlık mücadelesinin yerel düzeydeki en önemli kazanımlarından biri olarak kayıtlara geçti.\n\nİznik'in kurtuluşu, sadece askeri bir başarı değil, aynı zamanda bölge halkının uzun süredir devam eden işgalin getirdiği zorluklardan kurtulması anlamına geliyordu. Şehir, tarih boyunca pek çok medeniyete ev sahipliği yapmış olmasının yanı sıra, Milli Mücadele döneminde de stratejik bir öneme sahipti. İşgalin sona ermesiyle birlikte İznik, yeniden imar ve kalkınma sürecine girerek Türkiye Cumhuriyeti'nin bir parçası olarak huzurlu günlerine geri döndü. Bugün İznik, hem tarihi dokusuyla hem de kültürel mirasıyla Türkiye'nin önemli ilçelerinden biri olarak varlığını sürdürmektedir.",
       "kategori": "Savaş",
-      "durum": "yayinda",
       "gorsel": null,
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1925-kabul-edilen-sapka-kanunu-yururluge-girdi-artik",
@@ -154,7 +149,6 @@
       "baslik": "Modernleşme Yolunda Bir Adım: Şapka Kanunu",
       "ozet": "Türkiye Cumhuriyeti'nin kuruluş yıllarında gerçekleştirilen köklü reformlardan biri olan Şapka Kanunu, 28 Kasım 1925 tarihinde resmen yürürlüğe girdi. Bu düzenleme ile birlikte, özellikle kamu görevlileri başta olmak üzere tüm erkek vatandaşların fes yerine şapka kullanması zorunlu hale getirildi. Söz konusu yasa, toplumsal yaşamda Batılı normların benimsenmesi ve modernleşme sürecinin bir parçası olarak hayata geçirildi.\n\nŞapka Kanunu, dönemin toplumsal yapısında önemli bir kırılma noktası oluşturdu. Fesin uzun yıllar boyunca dini ve kültürel bir simge olarak kabul görmesi nedeniyle, bu değişikliğe karşı bazı kesimlerden tepkiler yükseldi. Bazı çevreler, şapka kullanımını dini değerlerin terk edilmesi olarak yorumlayarak karşıt görüşler geliştirdi. Ancak genel anlamda bakıldığında, bu reformun toplumun büyük bir kesimi tarafından benimsendiği ve Türkiye'nin çağdaşlaşma hedefleri doğrultusunda atılan kararlı bir adım olarak tarihe geçtiği görülmektedir.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Ataturk-hatreform.jpg/960px-Ataturk-hatreform.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Ataturk-hatreform.jpg/500px-Ataturk-hatreform.jpg",
@@ -168,7 +162,7 @@
         "aciklama": "Mustafa Kemal Atatürk during one of his national tours.",
         "konu": "Şapka Devrimi"
       },
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1934-hakimiyet-i-milliye-gazetesi-ulus-adiyla-cikmaya-basladi",
@@ -181,8 +175,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1936-japonya-italyanin-habesistani-ilhakini-tanidi",
@@ -196,8 +190,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1938-ataturkun-5-eylulde-yazdirdigi-vasiyetnamesi-acildi-ataturk",
@@ -210,7 +204,6 @@
       "baslik": "Atatürk'ün Vasiyetnamesinin Açılması",
       "ozet": "Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün 5 Eylül 1938 tarihinde hazırlattığı vasiyetname, vefatının ardından 28 Kasım 1938 günü yasal prosedürler çerçevesinde kamuoyuna açıklandı. Atatürk, bu belgeyle mal varlığının büyük bir kısmını, kurucusu olduğu Cumhuriyet Halk Partisi'ne bırakmayı tercih etti. Vasiyetin temel amacı, hem yakın çevresinin ve manevi evlatlarının geleceğini güvence altına almak hem de Cumhuriyet'in temel değerlerini koruyacak kurumlara destek sağlamaktı.\n\nAtatürk, vasiyetinde parasının nemasından yakınlarına ve manevi evlatlarına aylık bağlanmasını, İsmet İnönü'nün çocuklarının yükseköğrenim masraflarının karşılanmasını şart koştu. Mal varlığının ve Çankaya'daki mülkünün yönetimini Cumhuriyet Halk Partisi'ne devrederken, nemadan artan miktarın her yıl Türk Dil Kurumu ile Türk Tarih Kurumu arasında paylaştırılmasını vasiyet etti. Bu kurumlar, Atatürk'ün millî kimlik ve tarih bilinci oluşturma vizyonunun en önemli yapı taşları olarak görülüyordu. Vasiyetname, Atatürk'ün hem kişisel sorumluluklarını yerine getirme hassasiyetini hem de kurduğu devletin entelektüel ve kültürel temellerini geleceğe taşıma kararlılığını yansıtan tarihi bir belge niteliği taşımaktadır.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -224,7 +217,7 @@
         "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
         "konu": "Mustafa Kemal Atatürk"
       },
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1940-ii-dunya-savasi-ortaminda-500-kilogramdan-fazla",
@@ -236,9 +229,8 @@
       "baslik": "İkinci Dünya Savaşı Yıllarında Tahıl Stoklarına El Konulması",
       "ozet": "İkinci Dünya Savaşı'nın küresel çapta yarattığı yıkım ve ekonomik istikrarsızlık, Türkiye'yi de derinden etkilemişti. Savaşın getirdiği belirsizlikler ve olası bir kıtlık riski karşısında, 28 Kasım 1940 tarihinde Ticaret Bakanlığı kritik bir adım atarak 500 kilogramdan fazla tahıl stokuna sahip olan kişi ve kuruluşların ellerindeki ürünlere el konulmasını kararlaştırdı. Bu uygulama, devletin temel gıda maddeleri üzerindeki kontrolünü artırarak halkın temel ihtiyaçlarını güvence altına almayı amaçlıyordu.\n\nSavaş döneminde uygulanan bu tür sert tedbirler, devletin piyasayı denetleme ve stokçuluğun önüne geçme çabalarının bir parçasıydı. Savaşın getirdiği lojistik sorunlar ve dış ticaretin aksaması, yerli üretimin ve mevcut stokların stratejik bir öneme sahip olmasına yol açmıştı. Bu karar, dönemin zorlu ekonomik koşullarında devletin gıda güvenliğini sağlamak adına aldığı merkeziyetçi önlemlerden biri olarak tarihe geçti.",
       "kategori": "Ekonomi",
-      "durum": "yayinda",
       "gorsel": null,
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1943-winston-churchill-franklin-d-roosevelt-ve-josef",
@@ -253,7 +245,6 @@
       "baslik": "Tahran Konferansı: Müttefik Liderlerin Tarihi Buluşması",
       "ozet": "II. Dünya Savaşı'nın en kritik dönemeçlerinden biri olan Tahran Konferansı, 28 Kasım 1943 tarihinde Müttefik Devletler'in liderleri Winston Churchill, Franklin D. Roosevelt ve Josef Stalin'i İran'ın başkentinde bir araya getirdi. Bu zirve, savaşın gidişatını değiştirecek stratejik kararların alındığı ve üç büyük gücün ilk kez yüz yüze görüştüğü tarihi bir buluşma olma özelliği taşıyordu. Liderler, Nazi Almanyası'na karşı yürütülen mücadelenin koordinasyonunu sağlamak ve savaş sonrası dünyanın şekillendirilmesi üzerine fikir alışverişinde bulunmak amacıyla toplandılar.\n\nKonferansın en önemli sonuçlarından biri, Fransa'nın kuzeyinden yapılacak büyük bir çıkarma harekâtı olan Overlord Operasyonu'nun planlanmasıydı. Bu karar, Avrupa'da ikinci bir cephenin açılmasını sağlayarak Almanya üzerindeki baskıyı artırmayı hedefliyordu. Ayrıca, savaş sonrası dönemde uluslararası barışın korunması için bir örgüt kurulması fikri de bu görüşmelerde olgunlaştı. Tahran Konferansı, sadece askeri bir strateji toplantısı değil, aynı zamanda savaşın ardından kurulacak yeni dünya düzeninin temellerinin atıldığı, güç dengelerinin yeniden tanımlandığı diplomatik bir dönüm noktası olarak tarihe geçti.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/StalinCropped1943.jpg/960px-StalinCropped1943.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/StalinCropped1943.jpg/500px-StalinCropped1943.jpg",
@@ -267,7 +258,7 @@
         "aciklama": "A cropped image of Joseph Stalin during the Tehran Conference. In the full photo he is sitting beside Franklin D. Roosevelt, and Winston Churchill on the portico of the Russian Embassy.",
         "konu": "Josef Stalin"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1958-turkiye-fransa-ve-turkiye-belcika-arasinda-mali-yardim-anlasmalari",
@@ -281,8 +272,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1962-amerika-birlesik-devletleri-turkiyedeki-orta-menzilli-jupiter",
@@ -296,7 +287,6 @@
       "baslik": "Türkiye'deki Jüpiter Füzelerinin Sökülmesi",
       "ozet": "Amerika Birleşik Devletleri, 28 Kasım 1962 tarihinde Türkiye'de konuşlu bulunan PGM-19 Jüpiter orta menzilli nükleer füzelerini geri çekme kararı aldı. Bu adım, dünya genelinde büyük bir endişe yaratan Küba Füze Krizi'nin ardından gelen diplomatik çözüm sürecinin somut bir parçası olarak gerçekleşti. Füzelerin sökülmesi, Soğuk Savaş'ın en gerilimli dönemlerinden birinde taraflar arasındaki nükleer çatışma riskini azaltmayı hedefleyen stratejik bir hamleydi. Sovyetler Birliği'nin Küba'ya yerleştirdiği füzelerle doğrudan bağlantılı olan bu süreç, Türkiye'nin o dönemdeki jeopolitik konumunun küresel güç dengeleri üzerindeki kritik etkisini bir kez daha gözler önüne serdi. ABD'nin bu kararı, krizin barışçıl yollarla sona erdirilmesi için Sovyetler Birliği ile varılan gizli mutabakatın bir gereğiydi. Türkiye'deki füzelerin kaldırılması, bölgedeki nükleer tansiyonu düşürürken, aynı zamanda uluslararası ilişkilerde karşılıklı tavizlerin önemini vurgulayan tarihi bir dönüm noktası oldu.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Jupiter_emplacement.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Jupiter_emplacement.jpg",
@@ -310,7 +300,7 @@
         "aciklama": "Jupiter missile emplacement showing ground support equipment. The bottom third of the missile is encased in a \"flower petal shelter\" consisting of wedge-shaped metal panels allowing the crews to servi",
         "konu": "PGM-19 Jupiter"
       },
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1964-suleyman-demirel-favori-olan-rakibi-saadettin-bilgicten",
@@ -324,7 +314,6 @@
       "baslik": "Süleyman Demirel Adalet Partisi Genel Başkanı Seçildi",
       "ozet": "Adalet Partisi'nin 28 Kasım 1964 tarihinde düzenlenen kongresi, Türk siyasi tarihinde bir dönüm noktası olarak kabul edilir. Partinin genel başkanlığı için yarışan Süleyman Demirel, en güçlü rakibi olarak görülen Saadettin Bilgiç'e karşı 1072 oy fark atarak seçimi kazandı. Bu sonuç, genç bir mühendis olan Demirel'in siyaset sahnesindeki yükselişinin en önemli adımlarından biri oldu.\n\nDemirel'in genel başkan seçilmesi, Adalet Partisi'nin Demokrat Parti geleneğini sürdüren yapısını daha dinamik bir sürece taşıdı. Bu değişim, partinin 1965 genel seçimlerinde tek başına iktidara gelmesinin önünü açan stratejik bir hamle olarak değerlendirilir. Söz konusu kongre, sadece bir parti içi seçim değil, aynı zamanda Türkiye'de merkez sağ siyasetin uzun yıllar sürecek olan Demirel döneminin de başlangıcı niteliğini taşımaktadır.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg",
@@ -338,7 +327,7 @@
         "aciklama": "Turkish President Süleyman Demirel in Ankara on November 6, 1998, during a visit of US Secretary of Defense William Cohen.",
         "konu": "Süleyman Demirel"
       },
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1967-nato-genel-sekreteri-manlio-brosio-ankarada-dis",
@@ -354,7 +343,6 @@
       "baslik": "Kıbrıs Gerilimi ve NATO Diplomasisi",
       "ozet": "NATO Genel Sekreteri Manlio Brosio, 1967 yılının Kasım ayında Kıbrıs meselesi nedeniyle tırmanan gerilimi yatıştırmak amacıyla kritik bir diplomatik mekik dokudu. Ankara'da Dışişleri Bakanı İhsan Sabri Çağlayangil ile bir araya gelen Brosio, bölgedeki tansiyonu düşürmek için taraflar arasında arabuluculuk yapmaya çalıştı. Görüşmelerin ardından Atina'ya geçen Genel Sekreter, ittifakın iki üyesi arasındaki çatışma riskini önlemek için yoğun bir çaba sarf etti.\n\nBu diplomatik temasların yaşandığı günlerde, Kıbrıs üzerindeki hava sahasında Türk jetlerinin gerçekleştirdiği uyarı uçuşları, bölgedeki askeri hareketliliğin ne denli yüksek olduğunu gözler önüne seriyordu. 1960'lı yılların ortalarından itibaren adadaki toplumlar arası çatışmaların uluslararası bir krize dönüşmesi, Türkiye ve Yunanistan'ı sık sık karşı karşıya getiriyordu. NATO'nun bu süreçteki müdahalesi, ittifakın kendi üyeleri arasındaki bir savaşı engelleme çabası olarak tarihe geçti. Brosio'nun ziyareti, soğuk savaş döneminde ittifakın güney kanadındaki istikrarı koruma arayışının önemli bir parçasıydı.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Ihsan_Sabri_Caglayangil_%281968%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Ihsan_Sabri_Caglayangil_%281968%29.jpg",
@@ -368,7 +356,7 @@
         "aciklama": "Aankomst Turkse minister van Buitenlandse Zaken Ihsan Sabri Caglayangil op Schiphol, rechts minister Luns 15 juli 1968",
         "konu": "İhsan Sabri Çağlayangil"
       },
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1968-eski-cia-istasyon-sefi-abdnin-yeni-turkiye",
@@ -384,7 +372,6 @@
       "baslik": "Robert Komer'in Türkiye'ye Gelişine Protesto",
       "ozet": "Amerika Birleşik Devletleri'nin yeni Türkiye Büyükelçisi olarak atanan Robert Komer'in 28 Kasım 1968 tarihinde İstanbul Yeşilköy Havalimanı'na gelişi, dönemin siyasi atmosferinde büyük bir tepkiyle karşılandı. Komer'in geçmişte CIA bünyesinde yürüttüğü istihbarat faaliyetleri ve Vietnam Savaşı'ndaki rolü, Türkiye'deki sol görüşlü öğrenci grupları tarafından yoğun bir şekilde protesto edildi. Havalimanında gerçekleşen gösteriler sırasında güvenlik güçleri müdahalede bulundu ve Deniz Gezmiş, Rahmi Aydın, Mustafa Zülkadiroğlu, Toygun Erarslan ve Mustafa Gürkan isimli öğrenciler gözaltına alınarak tutuklandı.\n\nBu olay, 1960'ların sonunda Türkiye'de yükselen anti-emperyalist hareketlerin ve ABD karşıtı protestoların önemli bir simgesi haline geldi. Komer'in büyükelçilik görevi süresince Türkiye'deki varlığı, toplumsal muhalefetin odağında kalmaya devam etti. Özellikle üniversite gençliği arasında Amerikan dış politikasına yönelik duyulan tepki, bu protesto ile somut bir karşılık buldu. Söz konusu olay, ilerleyen dönemlerde yaşanacak olan daha geniş çaplı eylemlerin ve siyasi gerilimlerin habercisi niteliğindeydi.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Lyndon_Johnson_and_Robert_Komer.jpg/960px-Lyndon_Johnson_and_Robert_Komer.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Lyndon_Johnson_and_Robert_Komer.jpg/500px-Lyndon_Johnson_and_Robert_Komer.jpg",
@@ -398,7 +385,7 @@
         "aciklama": "Robert Komer meeting with Lyndon B. Johnson",
         "konu": "Robert Komer"
       },
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1974-ankaradaki-agac-ve-metal-isleri-olgunlasma-enstitusu",
@@ -408,8 +395,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1977-chp-lideri-bulent-ecevit-nigdede-tek-yol",
@@ -422,9 +409,8 @@
       "baslik": "Ecevit'ten Niğde'de Demokrasi Vurgusu",
       "ozet": "Cumhuriyet Halk Partisi Genel Başkanı Bülent Ecevit, 1977 yılındaki yoğun siyasi atmosferde gerçekleştirdiği Niğde gezisi sırasında dikkat çekici bir diyalog yaşadı. Kendisini karşılayan topluluğun \"Tek yol devrim\" sloganları atması üzerine Ecevit, demokratik süreçlere ve sandığın önemine olan inancını vurgulayarak \"Tek yol oy\" karşılığını verdi. Bu kısa ama etkili yanıt, o dönemde Türkiye'de yükselen siyasi gerilim ve kutuplaşma ortamında, Ecevit'in siyasi çözüm arayışını ve parlamenter sisteme olan bağlılığını simgeleyen bir an olarak hafızalara kazındı.\n\n1970'li yılların ikinci yarısı, Türkiye'de siyasi şiddetin ve ideolojik ayrışmaların yoğunlaştığı bir dönemdi. Ecevit, bu süreçte halkın desteğini sandık yoluyla kazanmayı ve toplumsal sorunları demokratik mekanizmalar içerisinde çözmeyi savunan bir siyaset izledi. Niğde'deki bu çıkışı, sokak hareketleri yerine seçimleri ve halk iradesini merkeze alan siyasi duruşunun bir yansıması olarak değerlendirildi. Ecevit'in bu yaklaşımı, partisi içerisindeki ve toplumun geniş kesimlerindeki demokratikleşme taleplerini temsil eden önemli bir mesaj niteliği taşıyordu.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": null,
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1977-yeni-zelandanin-auckland-uluslararasi-havalimanini-ile-antarktika",
@@ -440,7 +426,6 @@
       "baslik": "Antarktika'da Büyük Havacılık Faciası: Erebus Dağı Kazası",
       "ozet": "Yeni Zelanda havayolu şirketi Air New Zealand'a ait bir uçak, 1977 yılında Antarktika üzerinde gerçekleştirilen bir gezi uçuşu sırasında trajik bir şekilde sona erdi. Auckland'dan havalanan ve bölgeyi havadan izlemek isteyen yolcuları taşıyan McDonnell Douglas DC-10-30 tipi uçak, Ross Adası'nda bulunan Erebus Dağı'na çarptı. Kazada uçakta bulunan 237 yolcu ve 20 mürettebatın tamamı hayatını kaybetti. Bu olay, Yeni Zelanda tarihinin en ölümcül barış zamanı felaketlerinden biri olarak kayıtlara geçmiştir.\n\nKaza sonrası yapılan soruşturmalar, olayın ardındaki teknik ve operasyonel hataları gün yüzüne çıkardı. Uçağın rotasının, uçuş ekibine önceden verilen bilgilerle uyumsuz olduğu ve navigasyon sistemindeki bir veri hatasının pilotları yanlış yönlendirdiği anlaşıldı. Ayrıca Antarktika'nın zorlu hava koşulları ve beyaz örtünün yarattığı görsel algı yanılsamaları, uçağın dağa çarpmasına zemin hazırlayan faktörler arasında gösterildi. Bu felaket, havacılık güvenliği standartlarının yeniden gözden geçirilmesine ve özellikle kutup bölgelerindeki uçuş prosedürlerinin sıkılaştırılmasına yol açan önemli bir dönüm noktası oldu.",
       "kategori": "Ulaşım",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mt_erebus.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mt_erebus.jpg",
@@ -454,7 +439,7 @@
         "aciklama": "Mount Erebus, Ross Island, Antarctica.",
         "konu": "Erebus Dağı"
       },
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "1979-vatikan-devlet-baskani-papa-ii-jean-paul",
@@ -467,9 +452,8 @@
       "baslik": "Papa II. Jean Paul'ün Türkiye'ye İlk Resmi Ziyareti",
       "ozet": "Katolik Kilisesi'nin Polonya kökenli ilk lideri olan Papa II. Jean Paul, 1979 yılının Kasım ayında Türkiye'ye gerçekleştirdiği resmi ziyaretle dikkatleri üzerine çekti. Bu ziyaret, bir papanın Türkiye topraklarına yaptığı ilk resmi seyahatlerden biri olması bakımından diplomatik ve dini açıdan büyük bir önem taşıyordu. Papa, görev süresi boyunca dünya genelinde gerçekleştirdiği yoğun seyahat trafiğiyle tanınan bir figür olarak, Türkiye'deki temasları sırasında hem devlet yetkilileriyle bir araya geldi hem de ülkedeki Hristiyan topluluklarla buluştu.\n\nII. Jean Paul'ün bu ziyareti, Vatikan ile Türkiye arasındaki diplomatik ilişkilerin güçlendirilmesi ve dinler arası diyalog süreçlerinin teşvik edilmesi adına kritik bir adım olarak değerlendirildi. Papalık makamının dünyevi otoritesini ve ruhani liderliğini temsil eden II. Jean Paul, Türkiye'deki temasları boyunca barış ve hoşgörü mesajları vererek uluslararası kamuoyunun ilgisini çekti. Bu tarihi ziyaret, Türkiye'nin laik yapısı içerisinde farklı inanç gruplarına yönelik yaklaşımının ve uluslararası arenadaki diplomatik konumunun bir yansıması olarak tarihteki yerini aldı.",
       "kategori": "Siyaset",
-      "durum": "yayinda",
       "gorsel": null,
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1986-cumhurbaskani-kenan-evren-mgk-toplantisinda-nurcularin-ve",
@@ -481,8 +465,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1997-sivastaki-madimak-otelinde-2-temmuz-1993te-35",
@@ -495,7 +479,6 @@
       "baslik": "Madımak Oteli Davasında Karar Günü",
       "ozet": "Sivas'ta 2 Temmuz 1993 tarihinde düzenlenen Pir Sultan Abdal Şenlikleri sırasında Madımak Oteli'nin ateşe verilmesiyle sonuçlanan ve 33 aydın ile 2 otel çalışanının hayatını kaybettiği olayların ardından başlatılan hukuki süreçte önemli bir aşamaya gelindi. Ankara Devlet Güvenlik Mahkemesi tarafından yürütülen dava sonucunda, 28 Kasım 1997 tarihinde açıklanan kararla 99 sanıktan 33'ü hakkında idam cezası verildi. Bu karar, Türkiye kamuoyunda derin izler bırakan ve toplumsal hafızada önemli bir yer tutan olayın yargısal boyutundaki en dikkat çekici gelişmelerden biri olarak kayıtlara geçti. Olay, Türkiye'de inanç özgürlüğü, güvenlik zafiyeti ve devletin sorumluluğu gibi konularda uzun yıllar süren tartışmaların merkezinde yer almıştır. Katliamın ardından Aziz Nesin gibi hayatta kalan isimlerin devletin müdahale biçimine yönelik eleştirileri, dönemin siyasi atmosferini de derinden etkilemiştir. 1997 yılında verilen bu hükümler, olayın hukuki boyutunun yanı sıra toplumsal adalet arayışının da bir yansıması olarak değerlendirilmiştir.",
       "kategori": "Toplum",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Otel_Mad%C4%B1mak.jpg/960px-Otel_Mad%C4%B1mak.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Otel_Mad%C4%B1mak.jpg/500px-Otel_Mad%C4%B1mak.jpg",
@@ -509,7 +492,7 @@
         "aciklama": "A photograph of Otel Madımak in Sivas from 2007",
         "konu": "Sivas Katliamı"
       },
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "1998-hakkarinin-cukurca-ilcesi-yakininda-bir-askeri-helikopter",
@@ -523,9 +506,8 @@
       "baslik": "Çukurca'da Askeri Helikopter Kazası",
       "ozet": "1998 yılının Kasım ayında Hakkâri'nin Çukurca ilçesi kırsalında meydana gelen elim olayda, görev uçuşu gerçekleştiren bir askeri helikopter terör saldırısına hedef oldu. Açılan ateş sonucunda pilotun vurulmasıyla kontrolünü kaybeden hava aracı düşerek parçalandı. Kazanın ardından bölgeye sevk edilen ekipler, helikopterde bulunan 16 askerin şehit olduğunu tespit etti. Olay, bölgedeki güvenlik operasyonlarının yoğunlaştığı bir dönemde gerçekleşmiş ve kamuoyunda büyük bir üzüntüyle karşılanmıştır. Türkiye'nin zorlu coğrafi koşullarında yürütülen terörle mücadele faaliyetlerinin risklerini gözler önüne seren bu kaza, o dönemde güvenlik stratejileri ve hava araçlarının güvenliği üzerine tartışmaları da beraberinde getirmiştir. Yaşanan bu kayıp, Türk Silahlı Kuvvetleri'nin terörle mücadele tarihindeki acı olaylardan biri olarak kayıtlara geçmiştir.",
       "kategori": "Savaş",
-      "durum": "yayinda",
       "gorsel": null,
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "2002-kenyada-israillilerin-sahibi-oldugu-bir-otele-duzenlenen",
@@ -537,8 +519,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "2002-mombasa-hava-limanindan-kalkan-bir-israil-ucagina",
@@ -551,9 +533,8 @@
       "baslik": "Mombasa'da İsrail Uçağına Füze Saldırısı",
       "ozet": "Kenya'nın Mombasa kentindeki Moi Uluslararası Havalimanı'ndan havalanan Arkia Havayolları'na ait bir Boeing 757 tipi yolcu uçağı, kalkış esnasında terör saldırısının hedefi oldu. Uçağa yerden ateşlenen iki adet omuzdan atılan uçaksavar füzesi, uçağı ıskalayarak herhangi bir can kaybına veya ciddi bir hasara yol açmadı. Uçak, saldırının ardından güvenli bir şekilde rotasına devam ederek İsrail'e ulaştı. Aynı gün içerisinde Mombasa'daki bir otelde de bombalı bir saldırı gerçekleştirilmiş, bu olayda çok sayıda kişi hayatını kaybetmişti.\n\nSöz konusu saldırılar, bölgedeki güvenlik dengelerini sarsan ve uluslararası çapta yankı uyandıran olaylar olarak kayıtlara geçti. Saldırıların sorumluluğunu El-Kaide üstlenirken, bu girişimler sivil havacılığa yönelik füze tehdidinin ne kadar ciddi olduğunu gözler önüne serdi. Olayın ardından İsrail ve Kenya hükümetleri arasında güvenlik iş birliği artırılırken, havacılık otoriteleri de yolcu uçaklarının korunması amacıyla füze savunma sistemlerinin geliştirilmesi konusunu daha sık gündeme getirmeye başladı. Bu saldırı, Doğu Afrika'daki terör faaliyetlerinin İsrail hedeflerine yöneldiği bir dönemin önemli bir göstergesi olarak kabul edilmektedir.",
       "kategori": "Savaş",
-      "durum": "yayinda",
       "gorsel": null,
-      "bolge": "dunya"
+      "durum": "yayinda"
     },
     {
       "id": "2010-haydarpasa-garinin-catisinda-cikan-yangin-sonucunda-catisi",
@@ -565,7 +546,6 @@
       "baslik": "Haydarpaşa Garı'nda Büyük Yangın Felaketi",
       "ozet": "İstanbul'un Anadolu Yakası'ndaki tarihi ulaşım merkezi Haydarpaşa Garı, 28 Kasım 2010 tarihinde meydana gelen büyük bir yangınla sarsıldı. Garın çatı katında başlayan ve kısa sürede tüm çatıya yayılan alevler, binanın dördüncü katında da ağır hasara neden oldu. İtfaiye ekiplerinin yoğun müdahalesiyle kontrol altına alınan yangın, tarihi yapının mimari dokusunda derin izler bıraktı. Olayın ardından binanın restorasyon süreci gündeme gelirken, yangının çıkış nedeni kamuoyunda geniş tartışmalara yol açtı.\n\n1908 yılından bu yana İstanbul'un en önemli simgelerinden biri olan Haydarpaşa Garı, sadece bir tren istasyonu değil, aynı zamanda kentin kültürel mirasının da bir parçasıdır. Yangın, binanın hem yapısal bütünlüğüne zarar verdi hem de tarihi dokusunun korunması konusundaki hassasiyeti yeniden hatırlattı. Bu olay, İstanbul'un tarihi yapılarının yangın gibi felaketlere karşı ne kadar savunmasız olduğunu gözler önüne sererken, garın geleceği ve restorasyon çalışmaları üzerine uzun süreli bir toplumsal duyarlılık oluşturdu.",
       "kategori": "Toplum",
-      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Haydarpa%C5%9Fa_%282024%29.jpg/960px-Haydarpa%C5%9Fa_%282024%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Haydarpa%C5%9Fa_%282024%29.jpg/500px-Haydarpa%C5%9Fa_%282024%29.jpg",
@@ -579,7 +559,7 @@
         "aciklama": "Haydarpaşa Terminus as of 2024",
         "konu": "Haydarpaşa Garı"
       },
-      "bolge": "turkiye"
+      "durum": "yayinda"
     },
     {
       "id": "2015-diyarbakir-baro-baskani-tahir-elci-bir-basin",
@@ -591,8 +571,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     }
   ],
   "dogumlar": [
@@ -1215,7 +1195,474 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/28_Kas%C4%B1m",
-    "revid": 38169907
+    "revid": 38615426
   },
-  "guncelleme": "2026-10-22T11:21:34.741Z"
+  "guncelleme": "2026-11-18T15:17:25.390Z",
+  "haberler": [
+    {
+      "id": "2025-haber-2456548",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Hazine ve Maliye Bakanlığı, yeniden değerleme oranını yüzde 25.49 olarak ilan etti: Cezalar zamlandı, vergide gözler Erdoğan’da",
+      "aciklama": "Hazine ve Maliye Bakanlığı, kasım başında enflasyon verileriyle belli olan yeniden değerleme oranını (YDO) yüzde 25.49 olarak resmen ilan etti. Hazine ve Maliye Bakanı Mehmet Şimşek, vergi ve harçlardaki artışın daha düşük olması için çalıştıklarını bildirdi.  Cezalar ise yüzde 2",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/hazine-ve-maliye-bakanligi-yeniden-degerleme-oranini-yuzde-25-49-olarak-ilan-etti-cezalar-zamlandi-vergide-gozler-erdogan-da-2456548"
+      },
+      "konular": [],
+      "yayin": "2025-11-28T04:00:00+03:00",
+      "puan": 16,
+      "durum": "haber"
+    },
+    {
+      "id": "2025-haber-2456770",
+      "yil": 2025,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP'nin 39. Olağan Kurultayı... Parti programı 17 yıl sonra yenilendi; 15 maddelik parti tüzüğü değişikliği kabul edildi, gölge kabine Cumhurbaşkanlığı Aday Ofisi'ne bağlandı",
+      "aciklama": "CHP’nin 39’uncu Olağan Kurultay’ında yeni parti programı kabul edildi, parti tüzüğünde 15 maddede değişiklik yapıldı. Buna göre 60 olan Parti Meclisi üye sayısı 80'e çıkarılırken, kademeli olarak yüzde 25 olarak uygulanan gençlik kotasının birinci kademesindeki yaş aralığı yüksel",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/chp-nin-39-uncu-olagan-kurultayi-15-maddelik-parti-tuzugu-degisikligi-kabul-edildi-golge-kabine-cumhurbaskanligi-aday-ofisi-ne-baglandi-2456770"
+      },
+      "konular": [],
+      "yayin": "2025-11-28T16:25:00+03:00",
+      "puan": 15,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2273566",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Anayasa Mahkemesi'nden 5 siyasi parti hakkında suç duyurusu kararı!",
+      "aciklama": "Anayasa Mahkemesi'nin Türkiye Altın Çağ Partisi, Ülkem Partisi, Kuvayi Milliye Partisi ve Sevgi ve Saygı Partisi'nin 2021 ve 2022 yılı için kesin hesaplarında mali denetim kararı Resmi Gazete’de yayımlandı. Buna göre; partiler hakkında Ankara Cumhuriyet Savcılığı'na suç duyurusun",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/siyaset/anayasa-mahkemesinden-5-siyasi-parti-hakkinda-suc-duyurusu-karari-2273566"
+      },
+      "konular": [],
+      "yayin": "2024-11-28T08:16:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2024-haber-2273736",
+      "yil": 2024,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Şampiyonlar Ligi'nde Nuri Şahin fırtınası!",
+      "aciklama": "Borussia Dortmund'un Teknik Direktörü Nuri Şahin, UEFA Şampiyonlar Ligi'nde aldığı başarılı sonuçlarla adından söz ettiriyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/spor/galeri-sampiyonlar-liginde-nuri-sahin-firtinasi-2273736"
+      },
+      "konular": [],
+      "yayin": "2024-11-28T14:46:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2145724",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Merkez Bankası'nın toplam rezervlerinde tarihi zirve",
+      "aciklama": "Bankacıların hesaplamalarına göre, Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) toplam rezervleri geçen hafta 136.5 milyar dolara yükselerek tarihi zirvesine çıktı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasinin-toplam-rezervlerinde-tarihi-zirve-2145724"
+      },
+      "konular": [],
+      "yayin": "2023-11-28T10:51:00+03:00",
+      "puan": 13,
+      "durum": "haber"
+    },
+    {
+      "id": "2023-haber-2145709",
+      "yil": 2023,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolar yükselişini sürdürüyor! Dolar ve Euro ne kadar oldu? 28 Kasım 2023 döviz fiyatları...",
+      "aciklama": "Dolar TL yaklaşık üç aydır devam eden günlük sınırlı yükseliş eğilimine devam ederek başladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/dolar-yukselisini-surduruyor-dolar-ve-euro-ne-kadar-oldu-28-kasim-2145709"
+      },
+      "konular": [],
+      "yayin": "2023-11-28T10:20:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2022-haber-2006792",
+      "yil": 2022,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Dolar ne kadar oldu? (28 Kasım 2022)",
+      "aciklama": "TL bu yıl dolar karşısında yüzde 30 değer kaybetmesine karşılık son üç ayda yatay bir seyir izliyor. Dolar/TL, 18.60 civarında işlem görüyor.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/ekonomi/dolar-ne-kadar-oldu-28-kasim-2022-2006792"
+      },
+      "konular": [],
+      "yayin": "2022-11-28T09:23:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1888342",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Apple'ın hatalarını buldu, 20 bin dolar ödül kazandı",
+      "aciklama": "Bilgisayar Programcılığı Bölümü mezunu Rıza Sabuncu, ikisi bu ayda olmak üzere son 1,5 yılda teknoloji devi Apple'ın çeşitli güvenlik açıklarını bulup bildirerek toplamda 20 bin dolar ile ödüllendirildi. Rıza Sabuncu, Apple'ın yanı sıra birçok teknoloji şirketinin de açıklarını b",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/applein-hatalarini-buldu-20-bin-dolar-odul-kazandi-1888342"
+      },
+      "konular": [],
+      "yayin": "2021-11-28T11:53:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2021-haber-1888445",
+      "yil": 2021,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "AKP Merkez Karar ve Yönetim Kurulu Üyesi Ahmet Gündoğdu'dan dolar itirafı",
+      "aciklama": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın düşük faiz politikalarında kararlı olduğunu yinelemesi sonrası dolar/TL 13.45'e kadar yükselmişti. AKP Merkez Karar ve Yönetim Kurulu (MKYK) Üyesi Ahmet Gündoğdu, kurdaki yükselişi",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/akp-merkez-karar-ve-yonetim-kurulu-uyesi-ahmet-gundogdudan-dolar-itirafi-1888445"
+      },
+      "konular": [],
+      "yayin": "2021-11-28T19:53:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1794794",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bakan Kasapoğlu'ndan, Avrupa şampiyonu cimnastikçilere tebrik geldi",
+      "aciklama": "Gençlik ve Spor Bakanı Mehmet Muharrem Kasapoğlu, Ukrayna'da düzenlenen Ritmik Cimnastik Avrupa Şampiyonasında şampiyon olan milli takımı tebrik etti.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bakan-kasapoglundan-avrupa-sampiyonu-cimnastikcilere-tebrik-geldi-1794794"
+      },
+      "konular": [],
+      "yayin": "2020-11-28T19:53:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2020-haber-1794620",
+      "yil": 2020,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Beşiktaş'ta Fenerbahçe derbisinin kamp kadrosu belli oldu Ljajic yok",
+      "aciklama": "Süper Lig'in 10. haftasında yarın Fenerbahçe'ye konuk olacak Beşiktaş'ta kamp kadrosu belli oldu.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/besiktasta-fenerbahce-derbisinin-kamp-kadrosu-belli-oldu-ljajic-yok-1794620"
+      },
+      "konular": [],
+      "yayin": "2020-11-28T18:39:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1704898",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "TBMM'de ilk kez HDP önergesi kabul edildi!",
+      "aciklama": "Meclis’te ilk kez HDP’nin bir önergesi kabul edildi. Önergeye AKP de oy verdi. Önergenin kabulü ile, İçişleri Bakanlığı’nda mülki idare amirlerinin gerekli durumlarda birinci sınıftan çıkarılması için İçişleri Bakanına yetki veren düzenlemeden vazgeçildi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/tbmmde-ilk-kez-hdp-onergesi-kabul-edildi-1704898"
+      },
+      "konular": [],
+      "yayin": "2019-11-28T13:12:00+03:00",
+      "puan": 14,
+      "durum": "haber"
+    },
+    {
+      "id": "2019-haber-1704913",
+      "yil": 2019,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Maldivler eski başbakanı 5 yıl hapis cezasına çarptırıldı",
+      "aciklama": "Maldivler eski başbakanı Abdulla Yameen hakkında açılan davalar sonucunda 5 yıl hapis cezası ve 5 milyon Dolar para cezasına çarptırıldığı aktarıldı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/maldivler-eski-basbakani-5-yil-hapis-cezasina-carptirildi-1704913"
+      },
+      "konular": [],
+      "yayin": "2019-11-28T14:24:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1154078",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan ve Putin'den dolar kararı",
+      "aciklama": "Rusya Devlet Başkanı Vladimir Putin, Türkiye'ye yapılacak S-400 alım satım ile sevkiyatının ABD doları harici adımlarla yapılacağını söyledi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-ve-putinden-dolar-karari-1154078"
+      },
+      "konular": [],
+      "yayin": "2018-11-28T13:35:00+03:00",
+      "puan": 12,
+      "durum": "haber"
+    },
+    {
+      "id": "2018-haber-1153915",
+      "yil": 2018,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Şampiyonlar Ligi maçı savaş alanına döndü!",
+      "aciklama": "Şampiyonlar Ligi'nde Yunanistan temsilcisi AEK ile Hollanda ekibi Ajax karşı karşıya geldi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-ligi-maci-savas-alanina-dondu-1153915"
+      },
+      "konular": [],
+      "yayin": "2018-11-28T11:58:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-875607",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "İrlanda Başbakan Yardımcısı Fitzgerald istifa etti",
+      "aciklama": "İrlanda Başbakan Yardımcısı Frances Fitzgerald, görevinden istifa ettiğini açıkladı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/irlanda-basbakan-yardimcisi-fitzgerald-istifa-etti-875607"
+      },
+      "konular": [],
+      "yayin": "2017-11-28T18:36:00+03:00",
+      "puan": 11,
+      "durum": "haber"
+    },
+    {
+      "id": "2017-haber-875548",
+      "yil": 2017,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "CHP'li Tüm, Ayvalık'taki 'satılık mahalleleri' TBMM'ye taşıdı",
+      "aciklama": "CHP Balıkesir Milletveki Mehmet Tüm, Balıkesir'in Ayvalık ilçesine bağlı kırsal Çamoba, Akçapınar, Bağyüzü ve Karaayıt mahalleleri başta olmak üzere toplam 16 kırsal mahallede halkın yaşadığı arazilerin bir kısmının Hazine tarafından ihale yoluyla satışa çıkartılmasını, soru öner",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/chpli-tum-ayvaliktaki-satilik-mahalleleri-tbmmye-tasidi-875548"
+      },
+      "konular": [],
+      "yayin": "2017-11-28T17:23:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-637066",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Eski Fenerbahçeli oyuncunun şimdiki takımı Brezilya’da şampiyon oldu",
+      "aciklama": "Fenerbahçe’nin eski futbolcusu Edu Dracena’nın da forma giydiği Palmeiras, Brezilya 1. Futbol Liginde şampiyon oldu. Brezilya 1. Futbol Liginde Palmeiras, evinde ağırladığı Chapecoense’yi 1-0 mağlup ederek puanını 77’ye yükseltti. En yakın rakibi Santos’un da deplasmanda Flamengo",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/eski-fenerbahceli-oyuncunun-simdiki-takimi-brezilyada-sampiyon-oldu-637066"
+      },
+      "konular": [],
+      "yayin": "2016-11-28T13:59:00+03:00",
+      "puan": 10,
+      "durum": "haber"
+    },
+    {
+      "id": "2016-haber-637247",
+      "yil": 2016,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Hakkari'de 3 ilçede 'özel güvenlik bölgesi' ilan edildi",
+      "aciklama": "Hakkari'nin merkez ve üç ilçesinde bazı alanlarda 15 gün süreyle",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/hakkaride-3-ilcede-ozel-guvenlik-bolgesi-ilan-edildi-637247"
+      },
+      "konular": [],
+      "yayin": "2016-11-28T18:55:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-435469",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan: MİT TIR'larını dünyaya duyurdular",
+      "aciklama": "Cumhurbaşkanı Erdoğan, “Bir ajan marifetiyle MİT TIR'larının içinde ne var ne yok kontrol etmek suretiyle dünyaya ifşa ettiler” dedi.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-mit-tirlarini-dunyaya-duyurdular-435469"
+      },
+      "konular": [],
+      "yayin": "2015-11-28T18:37:00+03:00",
+      "puan": 5,
+      "durum": "haber"
+    },
+    {
+      "id": "2015-haber-435227",
+      "yil": 2015,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Tarihin en büyük dijital hırsızlığının arkasından Ruslar çıktı!",
+      "aciklama": "2014 yılında bir grup hacker’ın, 1.2 milyar online hesabın bilgilerini çaldığı ortaya çıkmıştı. Olayın peşine düşen FBI ise ilginç verilere ulaştı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/tarihin-en-buyuk-dijital-hirsizliginin-arkasindan-ruslar-cikti-435227"
+      },
+      "konular": [],
+      "yayin": "2015-11-28T14:27:00+03:00",
+      "puan": 5,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-151143",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Havada 40 kişilik rekor",
+      "aciklama": "TÜRK Hava Kurumu'nun (THK) lisanslı paraşütçüsü ünlü Rock müzik şarkıcısı Hayko Cepkin'in de aralarında bulunduğu amatör paraşütçüler, İzmir'in Selçuk İlçesi'nde 24 Way Türkiye Çoklu Tutuşma Rekoru'nu 40 kişiye çıkardı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/havada-40-kisilik-rekor-151143"
+      },
+      "konular": [],
+      "yayin": "2014-11-28T21:43:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2014-haber-151079",
+      "yil": 2014,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Papa ve Erdoğan'dan ortak basın toplantısı",
+      "aciklama": "Katoliklerin ruhani lideri Papa Franciscus, Cumhurbaşkanı Recep Tayyip Erdoğan ile açıklama yaptı.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/papa-ve-erdogandan-ortak-basin-toplantisi-151079"
+      },
+      "konular": [],
+      "yayin": "2014-11-28T16:15:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2013-haber-14011",
+      "yil": 2013,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Bu bir rekor! 1 günde 25 milyon izlenme (28.11.2013)",
+      "aciklama": "Miley Cyrus",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/bu-bir-rekor-1-gunde-25-milyon-izlenme-14011"
+      },
+      "konular": [],
+      "yayin": "2013-11-28T17:22:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-386574",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "'Talih Kuşu'nda yılbaşı heyecanı başlıyor",
+      "aciklama": "Milli Piyango'nun yılbaşı özel çekiliş biletleri yarından itibaren satışa sunulmaya başlanacak. Talih kuşu, yılbaşı özel çekilişinde 45 milyon lira ile tarihinin en büyük ikramiyesini de vermiş olacak.",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/talih-kusunda-yilbasi-heyecani-basliyor-386574"
+      },
+      "konular": [],
+      "yayin": "2012-11-28T10:00:00+03:00",
+      "puan": 6,
+      "durum": "haber"
+    },
+    {
+      "id": "2012-haber-386532",
+      "yil": 2012,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Başbağlar katliamı zamanaşımına giriyor",
+      "aciklama": "Erzincan'ın Kemaliye ilçesine bağlı Başbağlar köyünde 5 Temmuz 1993'te 33 sivilin öldürüldüğü",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/basbaglar-katliami-zamanasimina-giriyor-386532"
+      },
+      "konular": [],
+      "yayin": "2012-11-28T07:41:00+03:00",
+      "puan": 6,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-301378",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "'Füze kalkanını Başbakan'ın villasına kurun'",
+      "aciklama": "CHP Malatya Milletvekili Veli Ağbaba, Malatya Kürecik'e kurulacak Füze Kalkanı Projesi'ni eleştirerek,",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/fuze-kalkanini-basbakanin-villasina-kurun-301378"
+      },
+      "konular": [],
+      "yayin": "2011-11-28T13:15:00+03:00",
+      "puan": 9,
+      "durum": "haber"
+    },
+    {
+      "id": "2011-haber-301446",
+      "yil": 2011,
+      "bolge": "turkiye",
+      "tur": "haber",
+      "metin": "Erdoğan, Time 'yılın kişisi' sıralamasında birinci",
+      "aciklama": "Time Dergisi'nin",
+      "haberKaynagi": {
+        "ad": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-time-yilin-kisisi-siralamasinda-birinci-301446"
+      },
+      "konular": [],
+      "yayin": "2011-11-28T19:02:00+03:00",
+      "puan": 7,
+      "durum": "haber"
+    }
+  ],
+  "haberYillari": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011
+  ]
 }
