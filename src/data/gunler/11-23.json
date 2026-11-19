@@ -874,7 +874,7 @@
     "url": "https://tr.wikipedia.org/wiki/23_Kas%C4%B1m",
     "revid": 38204917
   },
-  "guncelleme": "2026-11-18T15:17:23.469Z",
+  "guncelleme": "2026-11-19T15:24:50.619Z",
   "haberler": [
     {
       "id": "2025-haber-2455051",
@@ -976,8 +976,8 @@
       "yayin": "2024-11-23T21:27:00+03:00",
       "puan": 9,
       "durum": "elendi",
-      "baslik": "Galatasaray lig tarihinde en iyi başlangıç performansına ulaştı",
-      "ozet": "Sarı kırmızılı ekip, ligin ilk on iki haftalık diliminde topladığı otuz dört puanla önemli bir başarıya imza attı. Kulüp, bu sonuçla lig tarihindeki en başarılı sezon başlangıçlarından birini gerçekleştirmiş oldu.",
+      "baslik": "Galatasaray ligin ilk 12 haftasında puan rekoru kırdı",
+      "ozet": "Galatasaray, Süper Lig'de geride kalan 12 haftalık süreçte topladığı 34 puanla dikkat çekici bir başarıya ulaştı. Sarı kırmızılı ekip, bu performansıyla lig tarihindeki en yüksek puan ortalamasını yakalayarak önemli bir rekora imza attı.",
       "kategori": "Spor"
     },
     {
@@ -993,13 +993,14 @@
       },
       "konular": [
         "Türkiye Cumhuriyet Merkez Bankası",
-        "Türkiye ekonomisi"
+        "Faiz",
+        "Ekonomi"
       ],
       "yayin": "2023-11-23T14:28:00+03:00",
       "puan": 14,
       "durum": "elendi",
-      "baslik": "Türkiye Cumhuriyet Merkez Bankası kasım ayı faiz kararını açıkladı",
-      "ozet": "Türkiye Cumhuriyet Merkez Bankası Para Politikası Kurulu kasım ayı toplantısını tamamlayarak yeni faiz oranını duyurdu. Kamuoyu tarafından yakından takip edilen toplantı sonucunda banka, mevcut para politikası stratejisi doğrultusunda faiz oranlarında değişikliğe gitti. Alınan bu kararın ekonomik etkileri piyasalar tarafından değerlendirilmeye başlandı.",
+      "baslik": "Türkiye Cumhuriyet Merkez Bankası Kasım Ayı Faiz Kararını Açıkladı",
+      "ozet": "Türkiye Cumhuriyet Merkez Bankası Para Politikası Kurulu kasım ayına ilişkin faiz kararını kamuoyuyla paylaştı. Banka tarafından gerçekleştirilen toplantı neticesinde belirlenen yeni faiz oranı resmi kanallar aracılığıyla duyuruldu. Ekonomi çevreleri tarafından yakından takip edilen bu karar süreci tamamlanarak sonuçlar ilan edildi.",
       "kategori": "Ekonomi"
     },
     {
@@ -1118,28 +1119,15 @@
         "url": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika--altinda-tum-zamanlarin-rekoru-kirildi-23-kasim-2021-1886994"
       },
       "konular": [
-        "Altın fiyatları",
+        "Altın",
         "Ekonomi"
       ],
       "yayin": "2021-11-23T15:35:00+03:00",
       "puan": 14,
-      "durum": "yazildi",
-      "baslik": "Gram altın fiyatlarında tarihi zirve seviyesi görüldü",
-      "ozet": "Altının gram fiyatı, güne yukarı yönlü bir seyirle giriş yaptı. Yaşanan bu yükseliş hareketinin ardından kıymetli maden, piyasa tarihinde ulaştığı en yüksek seviyeyi kaydederek rekor tazeledi.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/960px-Luchtfoto_van_Lower_Manhattan.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/500px-Luchtfoto_van_Lower_Manhattan.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 5616,
-        "yazar": "Daniele Pieroni",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Luchtfoto_van_Lower_Manhattan.jpg",
-        "aciklama": "Lower Manhattan gezien vanuit het zuidwesten.",
-        "konu": "Ekonomi"
-      }
+      "durum": "elendi",
+      "baslik": "Altın fiyatlarında tarihi zirve seviyesi görüldü",
+      "ozet": "Altının gram fiyatı, güne yukarı yönlü bir seyirle giriş yaptı. Bu hareketliliğin ardından değerli metal, piyasalarda bugüne kadarki en yüksek değerine ulaşarak rekor tazeledi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2020-haber-1793133",
@@ -1160,8 +1148,8 @@
       "yayin": "2020-11-23T11:32:00+03:00",
       "puan": 10,
       "durum": "yazildi",
-      "baslik": "İzmir'deki deprem sonrası bina hasar tespit çalışmaları nihayete erdi",
-      "ozet": "Çevre ve Şehircilik Bakanlığı bünyesinde yürütülen incelemeler kapsamında İzmir genelindeki çok sayıda yapıda denetimler tamamlandı. Toplamda yirmi üç ilçeyi kapsayan süreçte yüz doksan binin üzerinde bina ve dokuz yüz bine yakın bağımsız bölümün hasar durumu kontrol edildi. Yapı İşleri Genel Müdürlüğü yetkilileri, bölgedeki saha çalışmalarının sona erdiğini kamuoyuna duyurdu.",
+      "baslik": "İzmir genelindeki binalarda hasar tespit çalışmaları sona erdi",
+      "ozet": "Çevre ve Şehircilik Bakanlığı yetkilileri, kentte yaşanan sarsıntının ardından yürütülen incelemelerin tamamlandığını duyurdu. Yirmi üç ilçeyi kapsayan süreçte yüz doksan binin üzerinde yapı ve dokuz yüz bin bağımsız bölüm kontrol edildi. Yapılan teknik değerlendirmelerle binaların mevcut durumları kayıt altına alındı.",
       "kategori": "Afet",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg/960px-2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
@@ -1214,14 +1202,14 @@
       },
       "konular": [
         "Türkiye Satranç Şampiyonası",
-        "Satranç",
-        "Kemer"
+        "Kemer",
+        "Satranç"
       ],
       "yayin": "2019-11-23T17:48:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Türkiye Satranç Şampiyonası Kemer'de Başladı",
-      "ozet": "Ülke genelindeki satranç sporcularını bir araya getiren Türkiye Satranç Şampiyonası, Antalya'nın Kemer ilçesinde start aldı. Turnuvaya katılan sporcular şampiyonluk unvanı için hamle yapmaya başladı.",
+      "baslik": "Türkiye Satranç Şampiyonası Kemer'de Düzenlenmeye Başlandı",
+      "ozet": "Antalya'nın Kemer ilçesi, Türkiye Satranç Şampiyonası'na ev sahipliği yapmaya başladı. Ülke genelinden gelen sporcuların katılımıyla gerçekleştirilen turnuva, satranç camiası için önemli bir rekabet ortamı oluşturdu. Şampiyona kapsamında düzenlenen müsabakalarla katılımcılar dereceye girmek için hamlelerini yaptı.",
       "kategori": "Spor"
     },
     {
@@ -1243,8 +1231,8 @@
       "yayin": "2019-11-23T11:04:00+03:00",
       "puan": 9,
       "durum": "elendi",
-      "baslik": "Luka Doncic NBA'de yeni bir rekorun sahibi oldu",
-      "ozet": "Dallas Mavericks, kendi sahasında ağırladığı Cleveland Cavaliers karşısında üstün bir oyun sergiledi. Mücadeleyi 143-101 skorla kazanan ev sahibi ekipte Luka Doncic, sergilediği performansla lig tarihinde yeni bir rekora imza attı.",
+      "baslik": "Luka Doncic performansıyla Mavericks galibiyetinde öne çıktı",
+      "ozet": "Amerikan Basketbol Ligi mücadelesinde Dallas Mavericks, kendi sahasında ağırladığı Cleveland Cavaliers karşısında üstün bir oyun sergiledi. Karşılaşmayı 143-101 skorla kazanan ev sahibi ekipte Luka Doncic, sergilediği performansla yeni bir rekora imza attı.",
       "kategori": "Spor"
     },
     {
@@ -1267,7 +1255,7 @@
       "puan": 8,
       "durum": "elendi",
       "baslik": "Zeynep Nur Eski Muay Thai Avrupa Şampiyonu Oldu",
-      "ozet": "Antalya ev sahipliğinde gerçekleşen EMF Muay Thai Avrupa Kupası müsabakaları tamamlandı. Türkiye adına organizasyonda yer alan sporcu Zeynep Nur Eski, sergilediği performansla Avrupa şampiyonluğuna ulaştı.",
+      "ozet": "Antalya ev sahipliğinde gerçekleştirilen EMF Muay Thai Avrupa Kupası müsabakaları tamamlandı. Organizasyonda milli sporcu Zeynep Nur Eski, rakiplerini geride bırakarak altın madalyanın sahibi oldu ve Avrupa şampiyonluğuna ulaştı.",
       "kategori": "Spor"
     },
     {
@@ -1304,15 +1292,15 @@
         "url": "https://www.cumhuriyet.com.tr/haber/selvi-sarraf-itirafci-oldu-davanin-bir-numarali-hedefi-erdogan-872133"
       },
       "konular": [
-        "Reza Zarrab",
+        "Rıza Sarraf",
         "Recep Tayyip Erdoğan",
         "Türkiye-Amerika Birleşik Devletleri ilişkileri"
       ],
       "yayin": "2017-11-23T14:29:00+03:00",
       "puan": 9,
       "durum": "yazildi",
-      "baslik": "Rıza Sarraf davasının arka planına dair yeni iddialar gündeme geldi",
-      "ozet": "Gazeteci Abdulkadir Selvi, Rıza Sarraf ile ilgili yürütülen hukuki sürece dair değerlendirmelerde bulundu. Sarrafın itirafçı konumuna geçtiğini belirten Selvi, davanın temel amacının Cumhurbaşkanı Recep Tayyip Erdoğanı hedef almak olduğunu öne sürdü.",
+      "baslik": "Abdulkadir Selvi Rıza Sarraf davasındaki gelişmeleri değerlendirdi",
+      "ozet": "Hürriyet gazetesi yazarı Abdulkadir Selvi, Rıza Sarraf davasında yaşanan güncel gelişmelere dair bir köşe yazısı kaleme aldı. Selvi, Sarrafın itirafçı konumuna geçtiğini belirterek hukuki sürecin nihai amacının Cumhurbaşkanı Recep Tayyip Erdoğanı hedef almak olduğunu öne sürdü.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
@@ -1347,8 +1335,8 @@
       "yayin": "2017-11-23T23:19:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "Akkuyu Nükleer Santrali ÇED Raporu İptal Davası Görülmeye Başlandı",
-      "ozet": "Akkuyu Nükleer Santrali için verilen ÇED olumlu kararının iptal edilmesi talebiyle açılan davanın duruşması Danıştay 14. Dairesi bünyesinde gerçekleştirildi. Duruşma sırasında söz alan avukat Sevim Küçük, hazırlanan ÇED raporunun ve bilirkişi incelemelerinin bilimsel temellerden yoksun olduğunu savundu.",
+      "baslik": "Akkuyu Nükleer Santrali ÇED Raporu İçin Yargı Süreci Başladı",
+      "ozet": "Akkuyu Nükleer Santrali projesine verilen ÇED olumlu kararının iptal edilmesi talebiyle açılan dava Danıştay 14. Dairesi bünyesinde görülmeye başlandı. Duruşmada avukat Sevim Küçük, santral projesine dair hazırlanan ÇED raporunun ve bilirkişi incelemelerinin bilimsel temelden yoksun olduğunu savundu. Tarafların iddialarını sunduğu hukuki süreç yargı denetiminde devam etti.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Model_of_the_Akkuyu_Nuclear_Power_Plant.jpg/960px-Model_of_the_Akkuyu_Nuclear_Power_Plant.jpg",
@@ -1376,15 +1364,15 @@
         "url": "https://www.cumhuriyet.com.tr/haber/desibel-rekorunun-sahibi-besiktas-bu-kez-sessizlik-rekoru-kiracak-634634"
       },
       "konular": [
-        "Beşiktaş JK",
+        "Beşiktaş (futbol takımı)",
         "UEFA Şampiyonlar Ligi",
         "Vodafone Park"
       ],
       "yayin": "2016-11-23T11:18:00+03:00",
       "puan": 9,
       "durum": "elendi",
-      "baslik": "Beşiktaş taraftarından Vodafone Arena'da sessizlik eylemi",
-      "ozet": "Beşiktaş taraftarları, UEFA Şampiyonlar Ligi kapsamında oynanacak Benfica mücadelesinde farklı bir etkinliğe imza attı. Daha önce desibel rekoru ile gündeme gelen siyah beyazlı seyirciler, bu kez stadyumda sessizlik rekoru kırmak için bir araya geldi. Söz konusu girişim, taraftarın stadyumdaki atmosferi farklı bir şekilde yansıtma çabası olarak kayıtlara geçti.",
+      "baslik": "Beşiktaş taraftarı Vodafone Arena'da sessizlik rekoru denemesi yapacak",
+      "ozet": "Beşiktaş taraftarları, UEFA Şampiyonlar Ligi kapsamında Benfica ile oynanacak müsabakada farklı bir etkinliğe imza attı. Daha önce yüksek ses seviyesiyle dikkat çeken taraftar grubu, bu kez stadyumda sessizlik rekoru kırmak amacıyla bir araya geldi. Söz konusu girişim, kulübün ev sahipliği yaptığı karşılaşma sırasında gerçekleştirildi.",
       "kategori": "Spor"
     },
     {
@@ -1435,15 +1423,15 @@
         "url": "https://www.cumhuriyet.com.tr/haber/financial-times-avrupa-birligi-erdogana-boyun-egiyor-428649"
       },
       "konular": [
-        "Avrupa göçmen krizi",
+        "Avrupa Birliği",
         "Recep Tayyip Erdoğan",
-        "Avrupa Birliği"
+        "Avrupa göçmen krizi"
       ],
       "yayin": "2015-11-23T10:12:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "Avrupa Birliği ve Türkiye Arasında Göçmen Krizi Görüşmeleri",
-      "ozet": "İngiltere merkezli Financial Times gazetesi, Avrupa Birliği yetkililerinin göçmen meselesine çözüm bulma çabaları kapsamında Türkiye ile kurduğu ilişkiyi değerlendirdi. Gazete, Avrupa Birliği yönetiminin bu süreçte Cumhurbaşkanı Recep Tayyip Erdoğan karşısında taviz veren bir tutum sergilediğini iddia etti.",
+      "baslik": "Avrupa Birliği ve Türkiye Arasında Göçmen Krizi Üzerine Görüşmeler",
+      "ozet": "İngiltere merkezli Financial Times gazetesi, Avrupa Birliği ülkelerinin göçmen kriziyle mücadele etmek amacıyla Türkiye ile yürütülen diplomatik sürece ilişkin bir değerlendirme yayımladı. Haberde, Avrupa Birliği yönetiminin çözüm arayışları kapsamında Cumhurbaşkanı Recep Tayyip Erdoğan ile kurduğu ilişkiler ele alındı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
@@ -1471,14 +1459,14 @@
         "url": "https://www.cumhuriyet.com.tr/haber/2014-butcesi-komisyonda-kabul-edildi-12383"
       },
       "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Bütçe"
+        "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu",
+        "Türkiye ekonomisi"
       ],
       "yayin": "2013-11-23T11:36:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "2014 Merkezi Yönetim Bütçe Tasarısı Komisyondan Geçti",
-      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, gelecek yılın mali planlamasını içeren bütçe kanun tasarısını görüşerek onayladı. Yapılan değerlendirmelerin ardından kabul edilen tasarı, devletin bir sonraki yıl için öngördüğü harcama ve gelir kalemlerini kapsıyor.",
+      "baslik": "2014 Merkezi Yönetim Bütçe Tasarısı Komisyon Tarafından Onaylandı",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, gelecek yıla ait merkezi yönetim bütçesini içeren kanun tasarısını görüşerek karara bağladı. Yapılan değerlendirmelerin ardından tasarı, komisyon üyelerinin oylarıyla kabul edildi. Böylece bütçenin yasalaşma sürecindeki önemli aşamalardan biri geride bırakılmış oldu.",
       "kategori": "Ekonomi"
     },
     {
@@ -1569,8 +1557,8 @@
       "yayin": "2011-11-23T19:36:00+03:00",
       "puan": 6,
       "durum": "elendi",
-      "baslik": "Aşık Veysel'in Torunu Cemal Şatıroğlu Vefat Etti",
-      "ozet": "Ünlü halk ozanı Aşık Veysel Şatıroğlu'nun torunu Cemal Şatıroğlu, Sivas'ın Şarkışla ilçesinde hayata gözlerini yumdu. Kırk iki yaşındaki Şatıroğlu'nun geçirdiği ani bir kalp krizi nedeniyle yaşamını yitirdiği bildirildi.",
+      "baslik": "Aşık Veysel'in torunu Cemal Şatıroğlu vefat etti",
+      "ozet": "Ünlü halk ozanı Aşık Veysel Şatıroğlu'nun torunu olan Cemal Şatıroğlu, Sivas'ın Şarkışla ilçesinde hayata gözlerini yumdu. Kırk iki yaşındaki Şatıroğlu'nun ani bir kalp krizi neticesinde yaşamını yitirdiği bildirildi.",
       "kategori": "Toplum"
     }
   ],
