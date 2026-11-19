@@ -1109,7 +1109,7 @@
     "url": "https://tr.wikipedia.org/wiki/20_Kas%C4%B1m",
     "revid": 38170212
   },
-  "guncelleme": "2026-11-18T15:17:22.326Z",
+  "guncelleme": "2026-11-19T15:24:49.472Z",
   "haberler": [
     {
       "id": "2025-haber-2454216",
@@ -1125,15 +1125,27 @@
       "konular": [
         "Suudi Arabistan",
         "Amerika Birleşik Devletleri",
-        "Yatırım"
+        "Ekonomi"
       ],
       "yayin": "2025-11-20T08:52:00+03:00",
       "puan": 11,
       "durum": "yazildi",
-      "baslik": "Suudi Arabistan ve ABD Arasında Büyük Ölçekli Yatırım Anlaşması",
-      "ozet": "Suudi Arabistan Yatırım Bakanı Halid bin Abdulaziz el-Falih, Riyad ve Washington yönetimleri arasında gerçekleştirilen iş birliği görüşmelerinin sonuçlandığını duyurdu. İki ülke arasında imzalanan yeni anlaşmaların toplam değerinin 557 milyar dolara ulaştığı açıklandı.",
+      "baslik": "Suudi Arabistan ve Amerika Birleşik Devletleri Arasında Büyük Yatırım Anlaşması",
+      "ozet": "Suudi Arabistan Yatırım Bakanı Halid bin Abdulaziz el-Falih, iki ülke arasında gerçekleştirilen iş birliği kapsamında imzalanan sözleşmelerin toplam değerinin 557 milyar dolara ulaştığını duyurdu. Söz konusu anlaşmaların Riyad ve Washington arasındaki ekonomik ortaklığı rekor bir seviyeye taşıdığı belirtildi.",
       "kategori": "Ekonomi",
-      "gorsel": null
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/960px-Luchtfoto_van_Lower_Manhattan.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/500px-Luchtfoto_van_Lower_Manhattan.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 5616,
+        "yazar": "Daniele Pieroni",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Luchtfoto_van_Lower_Manhattan.jpg",
+        "aciklama": "Lower Manhattan gezien vanuit het zuidwesten.",
+        "konu": "Ekonomi"
+      }
     },
     {
       "id": "2025-haber-2454306",
@@ -1177,8 +1189,8 @@
       "yayin": "2024-11-20T18:48:00+03:00",
       "puan": 12,
       "durum": "elendi",
-      "baslik": "Türkiye Basketbol Federasyonu Başkanı'ndan Milli Takım Değerlendirmesi",
-      "ozet": "Türkiye Basketbol Federasyonu Başkanı Hidayet Türkoğlu, mevcut milli takım kadrosunun potansiyeline olan inancını dile getirdi. Türkoğlu, eldeki oyuncu grubunun yeteneklerine güvendiğini ifade ederek takıma olan desteğini belirtti.",
+      "baslik": "Türkiye Basketbol Federasyonu Başkanı Türkoğlu'ndan Milli Takım Açıklaması",
+      "ozet": "Türkiye Basketbol Federasyonu Başkanı Hidayet Türkoğlu, mevcut milli takım kadrosunun potansiyeline inandığını ifade etti. Türkoğlu, oyuncu grubunun yeteneklerine duyduğu güveni dile getirerek takımın geleceği hakkındaki olumlu görüşlerini paylaştı.",
       "kategori": "Spor"
     },
     {
@@ -1200,7 +1212,7 @@
       "puan": 11,
       "durum": "yazildi",
       "baslik": "Özbekistan'da Abdulla Aripov yeniden başbakanlık görevine getirildi",
-      "ozet": "Özbekistan'da gerçekleştirilen seçimlerin ardından hükümet kurma süreci kapsamında istifasını sunan Abdulla Aripov, tekrar başbakanlık görevine atandı. Ülkede yeni kabinenin oluşturulması amacıyla atılan bu adım, seçim sonrası yasal prosedürlerin bir parçası olarak gerçekleşti.",
+      "ozet": "Ülkede gerçekleştirilen genel seçimlerin ardından hükümet kurma süreci kapsamında istifasını sunan Abdulla Aripov, görevine tekrar atandı. Aripov, yeni dönemde tekrar başbakanlık koltuğuna oturarak çalışmalarına devam etti.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Minnikhanov_on_Vladimir_Putin%27s_state_visit_to_Uzbekistan_%282024-05-27%29_11_%28cropped%29_%28cropped%29.jpg/960px-Minnikhanov_on_Vladimir_Putin%27s_state_visit_to_Uzbekistan_%282024-05-27%29_11_%28cropped%29_%28cropped%29.jpg",
@@ -1264,14 +1276,14 @@
         "url": "https://www.cumhuriyet.com.tr/siyaset/kabinede-neler-gorusuldu-20-kasim-2023-kabine-kararlari-neler-2143093"
       },
       "konular": [
-        "Türkiye Cumhuriyeti Cumhurbaşkanlığı Kabinesi",
-        "Türkiye"
+        "Cumhurbaskanligi Kabinesi",
+        "Turkiye"
       ],
       "yayin": "2023-11-20T19:42:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Cumhurbaşkanlığı Kabine Toplantısı Tamamlandı",
-      "ozet": "Cumhurbaşkanlığı bünyesinde gerçekleştirilen kabine toplantısı sona erdi. Toplantıda ele alınan konular ve alınan kararlar kamuoyunun gündemine geldi.",
+      "baslik": "Cumhurbaskanligi Kabine Toplantisi Gerceklestirildi",
+      "ozet": "Cumhurbaskanligi Kabine Toplantisi tamamlanarak sona erdi. Toplantida devletin ic ve dis politikalarina dair cesitli meseleler ele alindi ve gundemdeki konular hakkinda gorus alisverisinde bulunuldu. Bakanlarin katilimiyla yapilan oturumda ülkeyi ilgilendiren farkli basliklar degerlendirildi.",
       "kategori": "Siyaset"
     },
     {
@@ -1403,15 +1415,15 @@
         "url": "https://www.cumhuriyet.com.tr/haber/faiz-artirimi-kararlarindan-sonra-ikinci-el-arac-piyasasi-1792456"
       },
       "konular": [
-        "Türkiye Cumhuriyet Merkez Bankası",
         "İkinci el araç",
+        "Türkiye Cumhuriyet Merkez Bankası",
         "Otomotiv sektörü"
       ],
       "yayin": "2020-11-20T11:16:00+03:00",
       "puan": 9,
       "durum": "elendi",
-      "baslik": "Merkez Bankası kararları ikinci el araç piyasasını hareketlendirdi",
-      "ozet": "Merkez Bankası tarafından duyurulan faiz artış kararları sonrasında ikinci el otomobil piyasasında bir hareketlenme gözlemlendi. Sektör temsilcilerinden VavaCars CEO'su Lawrence Merritt, bu gelişmelerin ardından Aralık ayı içerisinde ikinci el araç fiyatlarında bir gerileme beklendiğini ifade etti.",
+      "baslik": "Merkez Bankası faiz kararı sonrası ikinci el otomobil piyasasında değişim",
+      "ozet": "Merkez Bankasının faiz oranlarını yükseltme kararının ardından ikinci el taşıt piyasasında bir hareketlilik gözlemlendi. Sektör temsilcilerinden VavaCars yöneticisi Lawrence Merritt, bu gelişmelere bağlı olarak yılın son ayında ikinci el araç fiyatlarında bir gerileme yaşanabileceğini ifade etti.",
       "kategori": "Ekonomi"
     },
     {
@@ -1450,14 +1462,14 @@
       },
       "konular": [
         "Seyhan Avşar",
-        "İstanbul Adliyesi",
-        "FETÖ"
+        "FETÖ",
+        "İddianame"
       ],
       "yayin": "2019-11-20T00:14:00+03:00",
       "puan": 9,
       "durum": "yazildi",
       "baslik": "Gazeteci Seyhan Avşar Hakkında FETÖ Borsası Haberi Nedeniyle Dava Açıldı",
-      "ozet": "İstanbul Adliyesi içerisindeki iddiaları gündeme taşıyan muhabir Seyhan Avşar hakkında yürütülen soruşturma süreci tamamlandı. İstanbul Cumhuriyet Başsavcılığı tarafından hazırlanan iddianame kapsamında, söz konusu iddiaları haberleştiren gazeteci için yargılama süreci başlatıldı. Bu gelişme, adliyedeki bazı isimlerin açığa alınmasına yol açan iddiaların kamuoyuna yansıması sonrasında gerçekleşti.",
+      "ozet": "İstanbul Adliyesindeki iddiaları gündeme getiren muhabir Seyhan Avşar ile ilgili yürütülen soruşturma süreci tamamlandı. İstanbul Cumhuriyet Başsavcılığı tarafından hazırlanan iddianame kapsamında, söz konusu iddiaları haberleştiren gazeteci hakkında dava açılmasına karar verildi. Olayla bağlantılı olarak daha önce açığa alınan ve haklarında farklı bir soruşturma yürütülen isimlerin durumu ise Bakırköy Cumhuriyet Başsavcılığının takibinde bulunuyor.",
       "kategori": "Siyaset",
       "gorsel": null
     },
@@ -1481,7 +1493,7 @@
       "puan": 11,
       "durum": "elendi",
       "baslik": "Halkların Demokratik Partisi yerel seçim hazırlıklarına girişti",
-      "ozet": "Halkların Demokratik Partisi Diyarbakır İl Başkanlığı, gelecek yılın mart ayında yapılacak yerel seçimler için yürüteceği faaliyetleri duyurdu. Düzenlenen bir basın toplantısıyla sürecin başladığı belirtilirken, aynı zamanda aday adaylığı başvurularının da alınacağı açıklandı.",
+      "ozet": "Halkların Demokratik Partisi Diyarbakır İl Başkanlığı, yaklaşan yerel seçimler için yürüteceği faaliyetleri kamuoyuna duyurdu. Düzenlenen basın toplantısı ile birlikte aday adayı başvurularının alınmasına başlandığı ifade edildi. Parti yönetimi, Mart ayında yapılacak seçimler için resmi süreci başlatmış oldu.",
       "kategori": "Siyaset"
     },
     {
@@ -1580,13 +1592,13 @@
       "konular": [
         "Angela Merkel",
         "Almanya",
-        "Hristiyan Demokrat Birliği"
+        "Siyaset"
       ],
       "yayin": "2016-11-20T17:19:00+03:00",
       "puan": 10,
       "durum": "yazildi",
-      "baslik": "Angela Merkel dördüncü kez aday olacağını duyurdu",
-      "ozet": "Almanya Başbakanı Angela Merkel, uzun süredir merak edilen siyasi geleceğine yönelik kararını kamuoyuyla paylaştı. Merkel, görevine tekrar talip olacağını açıklayarak bir sonraki seçimlerde adaylık sürecini başlattı. Bu duyuruyla birlikte aylardır devam eden tartışmalar ve belirsizlikler sona erdi.",
+      "baslik": "Angela Merkel dördüncü dönem için adaylığını açıkladı",
+      "ozet": "Almanya Başbakanı Angela Merkel, uzun süredir kamuoyunda tartışılan adaylık konusundaki belirsizliği sonlandırdı. Merkel, yaklaşan seçimlerde tekrar başbakanlık görevine talip olacağını duyurdu. Böylece siyasi geleceği hakkındaki spekülasyonlar resmi bir açıklama ile netlik kazandı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Angela_Merkel_2019_cropped.jpg/960px-Angela_Merkel_2019_cropped.jpg",
@@ -1757,14 +1769,14 @@
       },
       "konular": [
         "Recep Tayyip Erdoğan",
-        "Twitter",
-        "Siyaset"
+        "A Haber",
+        "Twitter"
       ],
       "yayin": "2013-11-20T23:38:00+03:00",
       "puan": 7,
       "durum": "elendi",
-      "baslik": "Başbakan Erdoğan'ın açıklamaları sosyal medyada tartışmalara yol açtı",
-      "ozet": "Başbakan Recep Tayyip Erdoğan'ın televizyon kanallarının ortak yayınında gerçekleştirdiği konuşma, sosyal medya platformu Twitter üzerinde gündem oluşturdu. Yapılan açıklamaların ardından özellikle belirli bir gruba yakınlığıyla bilinen kişiler, paylaşımlarıyla tepkilerini dile getirdi. Bu durum platform üzerinde geniş çaplı bir tartışma sürecini beraberinde getirdi.",
+      "baslik": "Başbakan Erdoğan'ın televizyon yayını sosyal medyada tartışma yarattı",
+      "ozet": "Başbakan Recep Tayyip Erdoğan'ın A Haber ve ATV kanallarının ortak yayınında gerçekleştirdiği konuşma kamuoyunda geniş yankı uyandırdı. Programın ardından Twitter platformu üzerinden yapılan paylaşımlarda, özellikle cemaate yakınlığıyla bilinen isimler tarafından sert eleştiriler yöneltildi. Söz konusu açıklamalar sosyal medya kullanıcıları arasında yoğun bir tartışma ortamının oluşmasına neden oldu.",
       "kategori": "Siyaset"
     },
     {
@@ -1810,7 +1822,7 @@
       "puan": 8,
       "durum": "yazildi",
       "baslik": "D-8 Zirvesi Pakistan'ın Başkenti İslamabad'da Toplanıyor",
-      "ozet": "Dönemin Başbakanı Recep Tayyip Erdoğan, İslamabad şehrinde gerçekleştirilecek olan D-8 Zirvesi'ne iştirak etmek üzere Pakistan'a gitti. Gelişmekte olan sekiz ülkenin iş birliğini hedefleyen bu uluslararası toplantıda, üye ülkeler arasındaki ekonomik ve siyasi ilişkilerin geliştirilmesi üzerine görüşmeler yapılması planlandı.",
+      "ozet": "Dönemin Başbakanı Recep Tayyip Erdoğan, Gelişen Sekiz Ülke teşkilatının düzenlediği zirveye iştirak etmek üzere Pakistan'a gitti. İslamabad'da gerçekleşecek olan toplantıda üye ülkelerin temsilcileri bir araya gelerek iş birliği konularını görüştü.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
@@ -1861,15 +1873,15 @@
         "url": "https://www.cumhuriyet.com.tr/haber/secimleri-sag-goruslu-halk-partisi-kazandi-299344"
       },
       "konular": [
-        "İspanya genel seçimleri (2011)",
+        "İspanya genel seçimleri",
         "Halk Partisi (İspanya)",
         "İspanya"
       ],
       "yayin": "2011-11-20T08:33:00+03:00",
       "puan": 9,
       "durum": "yazildi",
-      "baslik": "İspanya genel seçimlerinde Halk Partisi çoğunluğu elde etti",
-      "ozet": "İspanya'da gerçekleştirilen genel seçimlerin ardından devlet televizyonu tarafından paylaşılan sandık çıkış anketleri, Halk Partisi'nin mecliste çoğunluğu sağladığını gösterdi. Toplam üç yüz elli sandalyeli mecliste Halk Partisi'nin tek başına iktidar kuracak sayıya ulaştığı, Sosyalist İşçi Partisi'nin ise daha az sayıda milletvekili çıkardığı açıklandı.",
+      "baslik": "İspanya'da Genel Seçimlerin Galibi Halk Partisi Oldu",
+      "ozet": "İspanya'da gerçekleştirilen genel seçimlerin sonuçları, devlet televizyonu tarafından yayımlanan anketlerle duyuruldu. Halk Partisi, meclisteki çoğunluğu sağlayarak tek başına iktidara gelme hakkını kazandı. Sosyalist İşçi Partisi ise mecliste daha az sayıda koltuk ile temsil edilme durumunda kaldı.",
       "kategori": "Siyaset",
       "gorsel": null
     },
@@ -1892,8 +1904,8 @@
       "yayin": "2011-11-20T08:51:00+03:00",
       "puan": 8,
       "durum": "elendi",
-      "baslik": "İstanbul Büyükşehir Belediyesi 2012 Mali Yılı Bütçesini Belirledi",
-      "ozet": "İstanbul Büyükşehir Belediyesi, 2012 yılı için hazırladığı konsolide bütçeyi yaklaşık 19,4 milyar lira seviyesinde kararlaştırdı. Söz konusu bütçe miktarı, belediyenin birçok bakanlığın yıllık ödeneklerinden daha yüksek bir mali kaynağa ulaştığını gösterdi.",
+      "baslik": "İstanbul Büyükşehir Belediyesi İçin 2012 Bütçesi Belirlendi",
+      "ozet": "İstanbul Büyükşehir Belediyesi, 2012 mali yılı için hazırlanan konsolide bütçeyi yaklaşık 19,4 milyar lira seviyesinde kararlaştırdı. Belediyenin açıkladığı bu mali kaynak, toplamda on sekiz bakanlığın yıllık bütçesinden daha yüksek bir miktara ulaştı.",
       "kategori": "Ekonomi"
     }
   ],

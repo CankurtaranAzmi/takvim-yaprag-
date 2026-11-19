@@ -725,7 +725,7 @@
     "url": "https://tr.wikipedia.org/wiki/21_Kas%C4%B1m",
     "revid": 37308860
   },
-  "guncelleme": "2026-11-18T15:17:22.719Z",
+  "guncelleme": "2026-11-19T15:24:49.854Z",
   "haberler": [
     {
       "id": "2025-haber-2454491",
@@ -840,8 +840,8 @@
       "yayin": "2024-11-21T04:00:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "İçişleri Bakanlığı bütçe görüşmelerinde gerginlik ve arbede yaşandı",
-      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu'nda İçişleri Bakanlığı'nın bütçe görüşmeleri sırasında gergin anlar meydana geldi. Cumhuriyet Halk Partisi milletvekilleri, Esenyurt Belediyesi'ne yönelik görevlendirmelere tepki göstermek amacıyla Bakan Ali Yerlikaya'nın salona girişini engellemeye çalıştı. Bu durum taraflar arasında fiziksel bir arbedeye yol açtı.",
+      "baslik": "İçişleri Bakanlığı bütçe görüşmelerinde tansiyon yükseldi",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu'nda gerçekleşen İçişleri Bakanlığı bütçe görüşmeleri sırasında iktidar ve muhalefet milletvekilleri arasında gergin anlar yaşandı. Cumhuriyet Halk Partisi kanadı, Esenyurt Belediyesi'ne yönelik kayyum uygulamasına tepki göstererek Bakan Ali Yerlikaya'nın salona girişini engellemeye çalıştı. Bu durum komisyon çalışmaları sırasında arbedeye yol açtı.",
       "kategori": "Siyaset"
     },
     {
@@ -879,13 +879,13 @@
       },
       "konular": [
         "Döviz kuru",
-        "Türkiye ekonomisi"
+        "Ekonomi"
       ],
       "yayin": "2023-11-21T09:26:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Döviz piyasalarında Euro değer kazandı ve Dolar yükselişini sürdürdü",
-      "ozet": "Döviz piyasasında Euro yeni bir zirve seviyesine ulaşırken Dolar da 29 lira sınırına doğru ilerleyişini devam ettirdi. Geçtiğimiz hafta başlayan risk primi düşüşü ise bu dönemde de etkisini sürdürdü. Piyasalardaki hareketlilik sınırlı değişimlerle gözlemlendi.",
+      "baslik": "Döviz piyasalarında Euro rekor tazeledi Dolar yükselişini sürdürdü",
+      "ozet": "Döviz piyasalarında Euro değer kazanarak yeni bir zirveye ulaştı. Dolar ise sınırlı değişimlerle 29 seviyesine yaklaşan yükseliş trendini korudu. Öte yandan ülkenin risk primini gösteren CDS oranlarındaki düşüş eğilimi devam etti.",
       "kategori": "Ekonomi"
     },
     {
@@ -901,14 +901,14 @@
       },
       "konular": [
         "Türkiye İstatistik Kurumu",
-        "Tarımsal girdi fiyat endeksi",
-        "Türkiye ekonomisi"
+        "Enflasyon",
+        "Tarım"
       ],
       "yayin": "2022-11-21T10:14:00+03:00",
       "puan": 12,
       "durum": "elendi",
-      "baslik": "Tarımsal Girdi Maliyetlerinde Yıllık Artış Rekor Seviyeye Ulaştı",
-      "ozet": "Türkiye İstatistik Kurumu tarafından paylaşılan verilere göre, tarımsal faaliyetlerde kullanılan girdi fiyatlarında ciddi bir yükseliş yaşandı. Eylül ayı itibarıyla yıllık bazda yüzde 138,15 oranında artış gösteren bu maliyetler, istatistiksel kayıtlara göre rekor düzeye ulaştı.",
+      "baslik": "Tarımsal Girdi Fiyatlarında Yıllık Artış Rekor Seviyeye Ulaştı",
+      "ozet": "Türkiye İstatistik Kurumu tarafından paylaşılan verilere göre tarımsal girdi maliyetlerinde eylül ayı itibarıyla büyük bir yükseliş yaşandı. Söz konusu maliyetler, bir önceki yılın aynı dönemine kıyasla yüzde 138,15 oranında artarak kayıtlara geçen en yüksek seviyeye çıktı.",
       "kategori": "Ekonomi"
     },
     {
@@ -1004,17 +1004,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akpli-yelizden-erdogana-anlasilmayan-mektup-1792777"
       },
-      "konular": [
-        "Ahmet Hamdi Çamlı",
-        "Adalet ve Kalkınma Partisi",
-        "Siyaset"
-      ],
+      "konular": [],
       "yayin": "2020-11-21T16:12:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Ahmet Hamdi Çamlı'nın Cumhurbaşkanı Erdoğan'a Yazdığı Mektup Tartışıldı",
-      "ozet": "İstanbul Milletvekili Ahmet Hamdi Çamlı, Cumhurbaşkanı Recep Tayyip Erdoğan'a hitaben bir mektup kaleme aldı. Kamuoyunda farklı bir isimle tanınan milletvekilinin yazdığı bu metin, içeriğinin anlaşılmakta güçlük çekilmesi nedeniyle çeşitli yorumlara yol açtı. Söz konusu mektup, okuyanlar arasında belirsizlik yarattı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1703506",
@@ -1051,27 +1044,27 @@
       },
       "konular": [
         "NATO",
-        "Uzay",
-        "Jens Stoltenberg"
+        "Jens Stoltenberg",
+        "Uzay"
       ],
       "yayin": "2019-11-21T22:39:00+03:00",
       "puan": 9,
       "durum": "yazildi",
-      "baslik": "NATO uzay alanını yeni harekat sahası olarak belirledi",
-      "ozet": "NATO Genel Sekreteri Jens Stoltenberg, ittifakın uzayı kara, deniz, hava ve siber alanların ardından beşinci operasyonel bölge olarak kabul ettiğini açıkladı. Bu kararla birlikte uzay sahasındaki faaliyetlerin savunma stratejileri içerisindeki önemi resmileştirildi.",
+      "baslik": "NATO uzayı beşinci operasyonel alan olarak tanımladı",
+      "ozet": "NATO Genel Sekreteri Jens Stoltenberg, ittifakın uzayı kara, deniz, hava ve siber alanların ardından yeni bir harekat sahası olarak kabul ettiğini duyurdu. Bu kararla birlikte uzay çalışmaları askeri stratejilerin bir parçası haline getirildi.",
       "kategori": "Savaş",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Galactic_treasure_chest_RXC_J0142.9%2B4438.jpg/960px-Galactic_treasure_chest_RXC_J0142.9%2B4438.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Galactic_treasure_chest_RXC_J0142.9%2B4438.jpg/500px-Galactic_treasure_chest_RXC_J0142.9%2B4438.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Jens_Stoltenberg%2C_Minister_of_Finance_of_Norway%2C_at_the_Munich_Security_Conference_in_Munich%2C_Germany_on_February_14%2C_2025_%28cropped%29.jpg/960px-Jens_Stoltenberg%2C_Minister_of_Finance_of_Norway%2C_at_the_Munich_Security_Conference_in_Munich%2C_Germany_on_February_14%2C_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Jens_Stoltenberg%2C_Minister_of_Finance_of_Norway%2C_at_the_Munich_Security_Conference_in_Munich%2C_Germany_on_February_14%2C_2025_%28cropped%29.jpg/500px-Jens_Stoltenberg%2C_Minister_of_Finance_of_Norway%2C_at_the_Munich_Security_Conference_in_Munich%2C_Germany_on_February_14%2C_2025_%28cropped%29.jpg",
         "genislik": 960,
-        "yukseklik": 921,
-        "orijinalGenislik": 6374,
-        "yazar": "ESA/Hubble & NASA, RELICS",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Galactic_treasure_chest_RXC_J0142.9%2B4438.jpg",
-        "aciklama": "Galaxies abound in this spectacular Hubble image; spiral arms swirl in all colours and orientations, and fuzzy ellipticals can be seen speckled across the frame as softly glowing smudges on the sky. E",
-        "konu": "Uzay"
+        "yukseklik": 1268,
+        "orijinalGenislik": 1010,
+        "yazar": "Chairman of the Joint Chiefs of Staff from Washington D.C, United States",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Jens_Stoltenberg,_Minister_of_Finance_of_Norway,_at_the_Munich_Security_Conference_in_Munich,_Germany_on_February_14,_2025_(cropped).jpg",
+        "aciklama": "Chairman of the Joint Chiefs of Staff Gen. CQ Brown, Jr. hosts a bilateral meeting with the Minister of Finance of Norway Jens Stoltenberg during the Munich Security Conference in Munich, Germany Feb.",
+        "konu": "Jens Stoltenberg"
       }
     },
     {
@@ -1109,27 +1102,28 @@
         "url": "https://www.cumhuriyet.com.tr/haber/guvenpark-patlamasi-davasinda-karar-1147229"
       },
       "konular": [
-        "Güvenpark saldırısı (2016)",
+        "2016 Ankara saldırısı",
+        "Güvenpark",
         "Ankara"
       ],
       "yayin": "2018-11-21T13:23:00+03:00",
       "puan": 9,
       "durum": "yazildi",
-      "baslik": "Güvenpark saldırısı davasında mahkeme kararını açıkladı",
-      "ozet": "Ankara Güvenparkta gerçekleştirilen terör saldırısıyla ilgili görülen dava sonuçlandı. Mahkeme heyeti, davanın baş sanığı olan Mehmet Veysi Dolaşanı otuz altı kez ağırlaştırılmış müebbet ve on bin iki yüz altmış yıl hapis cezasına mahkûm etti. Diğer sanıklardan Azamettin Karakoç ve Sebahattin Karakoç da ağırlaştırılmış müebbet hapis cezası alırken, yargılanan diğer kişiler hakkında da çeşitli hükümler kuruldu.",
+      "baslik": "Güvenpark saldırısı davasında mahkeme kararı açıklandı",
+      "ozet": "Ankara Güvenpark bölgesinde gerçekleştirilen saldırıya ilişkin yürütülen yargı süreci sonuçlandı. Mahkeme heyeti, davanın ana sanığı Mehmet Veysi Dolaşan hakkında otuz altı kez ağırlaştırılmış müebbet ile on bin iki yüz altmış yıl hapis cezasına hükmetti. Diğer sanıklar Azamettin Karakoç ve Sebahattin Karakoç ise ağırlaştırılmış müebbet hapis cezası aldı.",
       "kategori": "Toplum",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Ankara_-G%C3%BCven_park_-_panoramio.jpg/960px-Ankara_-G%C3%BCven_park_-_panoramio.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Ankara_-G%C3%BCven_park_-_panoramio.jpg/500px-Ankara_-G%C3%BCven_park_-_panoramio.jpg",
         "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 7735,
-        "yazar": "A.Savin",
-        "lisans": "FAL",
-        "lisansUrl": "http://artlibre.org/licence/lal/en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-        "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
-        "konu": "Ankara"
+        "yukseklik": 604,
+        "orijinalGenislik": 2729,
+        "yazar": "HALUK COMERTEL",
+        "lisans": "CC BY 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_-G%C3%BCven_park_-_panoramio.jpg",
+        "aciklama": "Ankara -Güven park",
+        "konu": "Güvenpark"
       }
     },
     {
@@ -1146,13 +1140,13 @@
       "konular": [
         "Döviz kuru",
         "Türkiye Cumhuriyet Merkez Bankası",
-        "Türk lirası"
+        "Ekonomi"
       ],
       "yayin": "2017-11-21T09:17:00+03:00",
       "puan": 11,
       "durum": "yazildi",
       "baslik": "Döviz kurlarında tarihi seviyeler test edildi",
-      "ozet": "İç ve dış piyasalarda yaşanan hareketlilik sonucunda dolar ve avro değer kazanarak kendi rekorlarını kırdı. Dolar üç lira doksan yedi kuruşu, avro ise dört lira altmış yedi kuruşu geçti. Merkez Bankası tarafından devreye alınan müdahale önlemleri neticesinde döviz kurlarında kısmi bir geri çekilme yaşandı ve dolar üç lira doksan beş kuruşun altına indi.",
+      "ozet": "İç ve dış piyasalarda yaşanan hareketlilik neticesinde dolar ve avro değer kazanarak kendi rekor seviyelerine ulaştı. Dolar 3.97 lira, avro ise 4.67 lira sınırını aşarak yükseliş gösterdi. Merkez Bankası tarafından devreye alınan müdahale araçlarının ardından kurlarda kısmi bir geri çekilme yaşandı ve dolar 3.95 liranın altına indi.",
       "kategori": "Ekonomi",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/South_East_Asia_Exchange_Rates_%286031878489%29.jpg/960px-South_East_Asia_Exchange_Rates_%286031878489%29.jpg",
@@ -1181,13 +1175,14 @@
       },
       "konular": [
         "Türkiye Satranç Şampiyonası",
-        "Türkiye Satranç Federasyonu"
+        "Türkiye Satranç Federasyonu",
+        "Süleymanpaşa"
       ],
       "yayin": "2017-11-21T21:28:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Türkiye Satranç Şampiyonası ödül töreniyle tamamlandı",
-      "ozet": "Türkiye Satranç Federasyonu ile Süleymanpaşa Belediyesi ortaklığında organize edilen ulusal satranç şampiyonası, düzenlenen ödül töreniyle nihayete erdi. Turnuvaya katılan sporcuların mücadelesi gerçekleştirilen final etkinlikleri ve madalya töreninin ardından son buldu.",
+      "baslik": "Türkiye Satranç Şampiyonası düzenlenen törenle tamamlandı",
+      "ozet": "Türkiye Satranç Federasyonu ile Süleymanpaşa Belediyesi iş birliğiyle organize edilen ulusal satranç turnuvası nihayete erdi. Organizasyonun kapanışı, dereceye giren sporculara ödüllerinin takdim edildiği bir törenle gerçekleştirildi.",
       "kategori": "Spor"
     },
     {
@@ -1232,8 +1227,8 @@
       "yayin": "2016-11-21T13:52:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Bakanlar Kurulu Toplantısı Başbakan Yıldırım Başkanlığında Toplandı",
-      "ozet": "Başbakan Binali Yıldırım yönetiminde bir araya gelen Bakanlar Kurulu toplantısı gerçekleştirildi. Hükümet üyelerinin katılımıyla düzenlenen bu oturumda gündemdeki konular ele alındı.",
+      "baslik": "Bakanlar Kurulu Toplantısı Başbakanın Katılımıyla Gerçekleşti",
+      "ozet": "Başbakan Binali Yıldırım idaresinde Bakanlar Kurulu bir araya geldi. Ülke gündemindeki konuların ele alındığı toplantı, belirlenen program dahilinde gerçekleştirildi.",
       "kategori": "Siyaset"
     },
     {
@@ -1255,8 +1250,8 @@
       "yayin": "2015-11-21T12:21:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "Dürdane Altunel Avrupa Tekvando Şampiyonası'nda zirveye ulaştı",
-      "ozet": "Romanya'da organize edilen Avrupa Tekvando Şampiyonası'nda milli sporcu Dürdane Altunel büyük bir başarıya imza attı. Kadınlar 57 kilogram kategorisinde rakipleriyle mücadele eden Altunel, sergilediği performansla altın madalyanın sahibi oldu.",
+      "baslik": "Dürdane Altunel Avrupa Tekvando Şampiyonası'nda altın madalya kazandı",
+      "ozet": "Romanya'da gerçekleştirilen Avrupa Tekvando Şampiyonası'nda milli sporcu Dürdane Altunel büyük bir başarıya imza attı. Kadınlar 57 kilogram kategorisinde mücadele eden Altunel, rakiplerini geride bırakarak şampiyonluk kürsüsüne çıktı ve altın madalyanın sahibi oldu.",
       "kategori": "Spor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Italian_Taekwondo_Championships_2013.jpg/960px-Italian_Taekwondo_Championships_2013.jpg",
@@ -1284,29 +1279,16 @@
         "url": "https://www.cumhuriyet.com.tr/haber/emir-hayata-boyle-acildi-427583"
       },
       "konular": [
-        "Avrupa göçmen krizi",
-        "Afganistan",
-        "Mülteci"
+        "Mülteci krizi",
+        "Afganistan"
       ],
       "yayin": "2015-11-21T23:41:00+03:00",
       "puan": 7,
       "durum": "yazildi",
-      "baslik": "Afgan göçmen çocukların zorlu deniz yolculuğu",
-      "ozet": "Afganistan kökenli bir çocuk, ülkesindeki yaşam koşullarından kaçarak çıktığı deniz yolculuğunu paylaştı. Aylan Kurdi örneğini hatırlatan çocuk, sadece hayatta kalmak istediğini ifade etti. Giydiği can yeleği ve üzerindeki mesajla uluslararası kamuoyunun dikkatini mülteci sorununa çekmeye çalıştı.",
+      "baslik": "Afgan mülteci çocukların yaşadığı zorlu yolculuk",
+      "ozet": "Afganistan kökenli küçük bir çocuk, tehlikeli bir deniz yolculuğuna çıkmadan önce yaşadığı zorlukları dile getirdi. Aylan Kurdi örneği üzerinden dikkat çekmeye çalışan çocuk, sadece ölümü bekleyen bir figür olmadığını ifade etti. Üzerindeki kıyafetle mesaj vermeye çalışan bu küçük çocuk, yaşadığı insani krizin dünya kamuoyu tarafından görülmesini talep etti.",
       "kategori": "Toplum",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/UN-laissez-passer.jpg/960px-UN-laissez-passer.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/UN-laissez-passer.jpg/500px-UN-laissez-passer.jpg",
-        "genislik": 960,
-        "yukseklik": 1358,
-        "orijinalGenislik": 1040,
-        "yazar": "United Nations, The original uploader was Fisherjs at English Wikipedia.",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:UN-laissez-passer.jpg",
-        "aciklama": "Scan of Laissez-passer issued by the United Nations.",
-        "konu": "Mülteci"
-      }
+      "gorsel": null
     },
     {
       "id": "2014-haber-146533",
@@ -1320,15 +1302,15 @@
         "url": "https://www.cumhuriyet.com.tr/haber/bilal-erdogan-ada-mi-aldi-bakanlik-bilgileri-paylasamadi-146533"
       },
       "konular": [
-        "İdris Güllüce",
         "Bilal Erdoğan",
+        "İdris Güllüce",
         "Çevre ve Şehircilik Bakanlığı"
       ],
       "yayin": "2014-11-21T16:06:00+03:00",
       "puan": 7,
       "durum": "elendi",
-      "baslik": "Bakanlık ada satışına ilişkin bilgileri paylaşmadı",
-      "ozet": "Çevre ve Şehircilik Bakanı İdris Güllüce, Cumhurbaşkanı Recep Tayyip Erdoğan'ın oğlunun bir ada satın aldığı yönündeki iddialar üzerine kendisine yöneltilen soruları yanıtsız bıraktı. Bakanlık, söz konusu iddialara dair herhangi bir bilgi paylaşımında bulunmayı tercih etmedi.",
+      "baslik": "Bakanlık ada satışı iddialarına ilişkin bilgi vermedi",
+      "ozet": "Çevre ve Şehircilik Bakanı İdris Güllüce, Cumhurbaşkanı Recep Tayyip Erdoğan'ın oğlunun bir ada satın aldığına dair ortaya atılan iddialar hakkında kendisine yöneltilen soruları yanıtlamadı. Bakanlık, konuyla ilgili detaylı bilgi paylaşımında bulunmaktan kaçındı.",
       "kategori": "Siyaset"
     },
     {
@@ -1349,8 +1331,8 @@
       "yayin": "2014-11-21T09:10:00+03:00",
       "puan": 7,
       "durum": "elendi",
-      "baslik": "Kim Kardashian temalı mobil oyun yüksek indirme rakamlarına ulaştı",
-      "ozet": "Magazin dünyasının tanınan isimlerinden Kim Kardashian, kendi adını taşıyan dijital oyunla büyük bir başarı yakaladı. Söz konusu oyun, kullanıcılar tarafından yoğun ilgi görerek dijital platformlarda rekor düzeyde indirilmeye devam etti.",
+      "baslik": "Kim Kardashian temalı mobil oyun yüksek indirme sayılarına ulaştı",
+      "ozet": "Amerikalı ünlü isim Kim Kardashian'ın adını taşıyan mobil oyun, kullanıcılar tarafından yoğun ilgi görmeye devam ediyor. Çeşitli mecralarda yer alan fotoğraflarıyla sıkça konuşulan Kardashian'ın dijital platformdaki oyunu, elde ettiği yüksek indirme rakamlarıyla dikkat çekiyor.",
       "kategori": "Teknoloji"
     },
     {
@@ -1401,28 +1383,28 @@
         "url": "https://www.cumhuriyet.com.tr/haber/bayik-mucadele-ettik-basbakan-kurdistan-dedi-11919"
       },
       "konular": [
-        "Diyarbakır",
-        "Recep Tayyip Erdoğan",
-        "Mesut Barzani"
+        "Çözüm süreci",
+        "Cemil Bayık",
+        "Diyarbakır"
       ],
       "yayin": "2013-11-21T15:38:00+03:00",
       "puan": 7,
       "durum": "yazildi",
-      "baslik": "Diyarbakır Buluşması Üzerine Değerlendirmeler Yapıldı",
-      "ozet": "Recep Tayyip Erdoğan ile Mesut Barzani arasında gerçekleşen Diyarbakır görüşmesi, farklı siyasi taraflarca yorumlandı. KCK Yürütme Konseyi Eşbaşkanı Cemil Bayık, söz konusu buluşmaya dair açıklamalarda bulundu. Bayık, toplantıdaki ifadeler ve yürütülen siyasi süreç hakkındaki görüşlerini paylaştı.",
+      "baslik": "Diyarbakır'daki Erdoğan ve Barzani Görüşmesine İlişkin Değerlendirme",
+      "ozet": "KCK Yürütme Konseyi Eşbaşkanı Cemil Bayık, Başbakan Recep Tayyip Erdoğan ile Irak Bölgesel Kürt Yönetimi Başkanı Mesut Barzani arasında Diyarbakır'da gerçekleşen buluşmayı yorumladı. Bayık, söz konusu görüşmede kullanılan ifadeler üzerinden yürütülen siyasi sürece dair kendi bakış açısını paylaştı.",
       "kategori": "Siyaset",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Diyarbak%C4%B1r_Surlar%C4%B1%2C_Diyarbak%C4%B1r_Turkey.jpg/960px-Diyarbak%C4%B1r_Surlar%C4%B1%2C_Diyarbak%C4%B1r_Turkey.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Diyarbak%C4%B1r_Surlar%C4%B1%2C_Diyarbak%C4%B1r_Turkey.jpg/500px-Diyarbak%C4%B1r_Surlar%C4%B1%2C_Diyarbak%C4%B1r_Turkey.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Kurdistan_of_Turkey_%28CIA%29.png/960px-Kurdistan_of_Turkey_%28CIA%29.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Kurdistan_of_Turkey_%28CIA%29.png/500px-Kurdistan_of_Turkey_%28CIA%29.png",
         "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 4608,
-        "yazar": "İbrahimtrn00",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Diyarbak%C4%B1r_Surlar%C4%B1,_Diyarbak%C4%B1r_Turkey.jpg",
-        "aciklama": "Diyarbakır Surları m.s 346 yılında Bizans İmparatoru II. Constantinus döneminde yapılmıştır.",
-        "konu": "Diyarbakır"
+        "yukseklik": 469,
+        "orijinalGenislik": 2000,
+        "yazar": "Çalak talk",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kurdistan_of_Turkey_(CIA).png",
+        "aciklama": "Kurdish inhabited regions of Turkiye",
+        "konu": "Çözüm süreci"
       }
     },
     {
@@ -1444,8 +1426,8 @@
       "yayin": "2012-11-21T19:53:00+03:00",
       "puan": 4,
       "durum": "elendi",
-      "baslik": "Fransa Halk Hareketi Birliği içinde liderlik tartışması derinleşti",
-      "ozet": "Fransa merkez sağ siyasetinde yer alan Halk Hareketi Birliği bünyesinde yaşanan başkanlık seçimi krizi yeni bir boyut kazandı. François Fillon seçim sonuçlarına dair yaptığı açıklamada galip tarafın kendisi olduğunu duyurdu. Parti içindeki çekişme nedeniyle yaşanan belirsizlik süreci ise giderek daha karmaşık bir hal aldı.",
+      "baslik": "Fransa Halk Hareketi Birliği içinde liderlik çekişmesi yaşandı",
+      "ozet": "Fransa merkez sağ siyasetinin önemli partilerinden Halk Hareketi Birliği bünyesinde yönetim krizi derinleşti. Parti içindeki liderlik mücadelesi kapsamında François Fillon seçimi kazandığını ilan etti. Bu açıklama ile birlikte kurum içerisindeki gerilim daha belirgin bir hale geldi.",
       "kategori": "Siyaset"
     },
     {
@@ -1467,8 +1449,8 @@
       "yayin": "2012-11-21T15:01:00+03:00",
       "puan": 4,
       "durum": "elendi",
-      "baslik": "Ekonomi Bakanı Çağlayan İhracat Verilerini Değerlendirdi",
-      "ozet": "Ekonomi Bakanı Zafer Çağlayan, Türk firmalarının dış ticaret alanında gösterdiği çabayı takdirle karşıladığını ifade etti. İhracatçıların yoğun gayretleri neticesinde ülkenin tarihsel süreçteki en yüksek dış satım rakamlarına ulaştığını belirtti. Bu başarıyı, döviz bazında sürekli artış sağlayan bir ekonomik ilerleme olarak nitelendirdi.",
+      "baslik": "Ekonomi Bakanından İhracat Rakamlarına İlişkin Değerlendirme",
+      "ozet": "Ekonomi Bakanı Zafer Çağlayan, Türk firmalarının dış ticarette gösterdiği yoğun gayreti takdirle karşıladığını belirtti. Bakan, ihracatçıların çalışmaları sayesinde Türkiye'nin dönem itibarıyla tarihinin en yüksek ihracat seviyesine ulaştığını ifade etti.",
       "kategori": "Ekonomi"
     },
     {
@@ -1490,8 +1472,8 @@
       "yayin": "2011-11-21T21:38:00+03:00",
       "puan": 11,
       "durum": "yazildi",
-      "baslik": "Van depremi sonrasında ilk tazminat davası süreci başladı",
-      "ozet": "Van bölgesinde yaşanan ve çok sayıda can kaybı ile ağır hasara yol açan deprem felaketinin ardından hukuki süreç başlatıldı. Erciş ilçesinde yıkılan bir binada hayatını kaybeden Taner Akgün adına maddi ve manevi tazminat talebiyle dava açıldı. Bu gelişme, deprem sonrası yaşanan yıkımlara ilişkin yargıya taşınan ilk dosya olma özelliğini taşıyor.",
+      "baslik": "Van Depremi Sonrası İlk Tazminat Davası Açıldı",
+      "ozet": "Van bölgesinde meydana gelen ve çok sayıda can kaybı ile ağır hasara yol açan deprem felaketinin ardından hukuki süreç başlatıldı. Erciş ilçesinde yıkılan bir binada hayatını kaybeden Taner Akgün adına maddi ve manevi tazminat talebiyle ilk dava mahkemeye taşındı. Deprem sonrası yaşanan yıkımların sorumluluğuna ilişkin hukuki girişimlerin ilki bu şekilde gerçekleşmiş oldu.",
       "kategori": "Afet",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Van_location_districts.png",
@@ -1525,8 +1507,8 @@
       "yayin": "2011-11-21T13:30:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "Japonya'da deprem sonrası yeniden yapılanma bütçesi kabul edildi",
-      "ozet": "Japonya yönetimi, yaşanan büyük deprem ve tsunami felaketinin ardından bölgenin tekrar inşa edilmesi amacıyla hazırlanan ek bütçeyi onayladı. Söz konusu mali kaynak, afetin yarattığı yıkımın giderilmesi ve bölgedeki çalışmaların hızlandırılması için kullanılacak. Toplamda 12 trilyon yen değerindeki bu bütçe, ülkenin afet sonrası toparlanma sürecindeki en önemli adımlardan biri oldu.",
+      "baslik": "Japonya'da deprem sonrası yeniden yapılanma için ek bütçe onaylandı",
+      "ozet": "Japonya yönetimi, yaşanan büyük deprem ve tsunami felaketinin ardından ülkenin imarı için hazırlanan bütçe tasarısını kabul etti. Toplamda 12 trilyon yen değerindeki bu ek kaynak, afetin yol açtığı hasarların giderilmesi ve bölgenin yeniden ayağa kaldırılması amacıyla kullanılacak.",
       "kategori": "Ekonomi",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/SH-60B_helicopter_flies_over_Sendai.jpg/960px-SH-60B_helicopter_flies_over_Sendai.jpg",

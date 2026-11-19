@@ -902,7 +902,7 @@
     "url": "https://tr.wikipedia.org/wiki/22_Kas%C4%B1m",
     "revid": 37272765
   },
-  "guncelleme": "2026-11-18T15:17:23.096Z",
+  "guncelleme": "2026-11-19T15:24:50.241Z",
   "haberler": [
     {
       "id": "2025-haber-2454764",
@@ -916,15 +916,15 @@
         "url": "https://www.cumhuriyet.com.tr/turkiye/kemal-memisoglu-saglik-bakanligimizin-2026-yili-butce-teklifi-tbmm-plan-ve-butce-komisyonu-nda-kabul-edildi-2454764"
       },
       "konular": [
-        "Türkiye Cumhuriyeti Sağlık Bakanlığı",
+        "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu",
         "Kemal Memişoğlu",
-        "Türkiye Büyük Millet Meclisi"
+        "Sağlık Bakanlığı"
       ],
       "yayin": "2025-11-22T00:31:00+03:00",
       "puan": 19,
       "durum": "elendi",
-      "baslik": "Sağlık Bakanlığının 2026 Yılı Bütçe Tasarısı Komisyondan Geçti",
-      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, Sağlık Bakanlığının gelecek yıla ait bütçe teklifini görüşerek onayladı. Sağlık Bakanı Kemal Memişoğlu, bütçe görüşmeleri kapsamında sunum yaparak kurumun planlamaları hakkında açıklamalarda bulundu. Yapılan değerlendirmelerin ardından ilgili bütçe teklifi komisyon üyeleri tarafından kabul edildi.",
+      "baslik": "Sağlık Bakanlığının 2026 Bütçe Teklifi Komisyonda Onaylandı",
+      "ozet": "Sağlık Bakanlığı tarafından hazırlanan 2026 yılı bütçe teklifi, Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu üyeleri tarafından görüşülerek kabul edildi. Bakan Kemal Memişoğlu, bütçe görüşmeleri kapsamında bakanlığın gelecek dönem hedefleri ve planlamaları hakkında komisyon üyelerine detaylı bilgiler sundu.",
       "kategori": "Siyaset"
     },
     {
@@ -938,16 +938,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/bu-hafta-en-cok-hangi-yatirim-araci-kazandirdi-dolar-altin-euro-borsa-2454790"
       },
-      "konular": [
-        "Yatırım",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2025-11-22T10:22:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Haftalık yatırım araçlarının piyasa performansı açıklandı",
-      "ozet": "Finansal piyasalarda geride kalan haftanın verileri netleşti. Yatırımcıların yakından takip ettiği döviz kurları, altın fiyatları ve borsa endeksindeki değişimler raporlandı. Söz konusu araçların haftalık bazda yatırımcısına sağladığı getiri veya kaybettirdiği oranlar kamuoyu ile paylaşıldı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2271551",
@@ -961,15 +955,15 @@
         "url": "https://www.cumhuriyet.com.tr/siyaset/tbmm-butce-gorusmelerinde-takvim-degisti-2271551"
       },
       "konular": [
-        "Türkiye Büyük Millet Meclisi",
+        "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu",
         "Milli Savunma Bakanlığı",
-        "Bütçe"
+        "Türkiye Büyük Millet Meclisi"
       ],
       "yayin": "2024-11-22T13:57:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Milli Savunma Bakanligi Butce Gorusmeleri Ertelendi",
-      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, çalışma takviminde düzenlemeye gitti. Yapılan değişiklikle birlikte Milli Savunma Bakanlığına ait bütçe görüşmelerinin gerçekleştirileceği tarih 26 Kasım olarak belirlendi.",
+      "baslik": "Meclis Plan ve Bütçe Komisyonu çalışma takvimini güncelledi",
+      "ozet": "Türkiye Büyük Millet Meclisi bünyesinde faaliyet gösteren Plan ve Bütçe Komisyonu görüşme takviminde düzenlemeye gitti. Yapılan değişiklikle birlikte Milli Savunma Bakanlığına ait bütçe görüşmelerinin gerçekleştirileceği tarih 26 Kasım olarak belirlendi.",
       "kategori": "Siyaset"
     },
     {
@@ -1148,13 +1142,13 @@
       "konular": [
         "COVID-19 pandemisi",
         "Meslek hastalığı",
-        "TBMM Sağlık, Aile, Çalışma ve Sosyal İşler Komisyonu"
+        "Türkiye Büyük Millet Meclisi"
       ],
       "yayin": "2020-11-22T23:13:00+03:00",
       "puan": 14,
       "durum": "yazildi",
-      "baslik": "Sağlık çalışanları için koronavirüs meslek hastalığı statüsüne alındı",
-      "ozet": "Türkiye Büyük Millet Meclisi Sağlık Komisyonu, koronavirüsün sağlık personelini kapsayacak şekilde meslek hastalığı olarak tanımlanmasını onayladı. Tüm siyasi partilerin üzerinde uzlaştığı bu düzenleme, sağlık çalışanlarının yaşadığı mağduriyetin giderilmesi amacıyla komisyon aşamasını başarıyla tamamladı.",
+      "baslik": "Sağlık çalışanları için koronavirüs meslek hastalığı olarak kabul edildi",
+      "ozet": "Türkiye Büyük Millet Meclisi Sağlık Komisyonu, sağlık sektöründe görev yapan personelin koronavirüse yakalanması durumunun meslek hastalığı sayılmasına yönelik düzenlemeyi onayladı. Tüm siyasi partilerin ortak mutabakatı ile alınan bu karar, komisyon üyelerinin desteğiyle yasalaşma sürecinde önemli bir aşamayı geride bıraktı.",
       "kategori": "Siyaset",
       "gorsel": null
     },
@@ -1193,13 +1187,14 @@
       },
       "konular": [
         "İstanbul Büyükşehir Belediyespor",
-        "2020 Yaz Olimpiyatları"
+        "2020 Yaz Olimpiyatları",
+        "Olimpiyat Oyunları"
       ],
       "yayin": "2019-11-22T12:49:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "İstanbul Büyükşehir Belediyesi Spor Kulübü Olimpiyat Hedefini Belirledi",
-      "ozet": "Milli takımlara en fazla sporcu sağlayan kulüplerden biri olan İstanbul Büyükşehir Belediyesi Spor Kulübü, Tokyo Olimpiyatları için hazırlıklarını sürdürdü. Kulüp bünyesindeki sekiz sporcu olimpiyatlara katılma hakkı kazanırken, otuz dokuz sporcu ise kota alabilmek için çalışmalarına devam etti.",
+      "baslik": "İBB Spor Kulübünden Olimpiyat Hedefine Güçlü Katılım",
+      "ozet": "Milli takımlara en fazla sporcu sağlayan İstanbul Büyükşehir Belediyesi Spor Kulübü, Tokyo Olimpiyatları için hazırlıklarını sürdürdü. Kulüp bünyesindeki sporculardan sekizi olimpiyatlara katılmaya hak kazanırken otuz dokuz sporcu ise kota alabilmek için çalışmalarına devam etti.",
       "kategori": "Spor"
     },
     {
@@ -1221,8 +1216,8 @@
       "yayin": "2019-11-22T15:44:00+03:00",
       "puan": 10,
       "durum": "yazildi",
-      "baslik": "Toprak Razgatlıoğlu PATA Yamaha Takımı İle Sözleşme İmzaladı",
-      "ozet": "Milli motosikletçi Toprak Razgatlıoğlu, Dünya Superbike Şampiyonası kapsamında PATA Yamaha ekibine katıldı. Başarılı sporcu, yeni takımıyla yaptığı bu anlaşmanın kariyerindeki en büyük hedeflerinden birini gerçekleştirmesini sağladığını ifade etti.",
+      "baslik": "Toprak Razgatlıoğlu PATA Yamaha Takımı ile Anlaşma Sağladı",
+      "ozet": "Milli motosikletçi Toprak Razgatlıoğlu, Dünya Superbike Şampiyonası'ndaki kariyer hedeflerine ulaşmak adına PATA Yamaha ekibiyle resmi sözleşme imzaladı. Şampiyonluk yolunda önemli bir adım atan sporcu, yeni takımıyla birlikte yarışacak olmaktan duyduğu memnuniyeti dile getirdi.",
       "kategori": "Spor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Toprak_Razgatlioglu%2C_2022.jpg/960px-Toprak_Razgatlioglu%2C_2022.jpg",
@@ -1257,8 +1252,8 @@
       "yayin": "2018-11-22T11:46:00+03:00",
       "puan": 12,
       "durum": "yazildi",
-      "baslik": "Jeremy Hunt'tan Brexit Anlaşması İçin Türkiye Uyarısı",
-      "ozet": "İngiltere Dışişleri Bakanı Jeremy Hunt, Başbakan Theresa May ile yaptığı görüşmede Avrupa Birliği ile varılan Brexit mutabakatına dair endişelerini dile getirdi. Hunt, söz konusu anlaşma metninin ülkesini Türkiye benzeri bir duruma sürükleyebileceği konusunda uyarıda bulundu. Bu değerlendirme, İngiliz basınında geniş yer buldu.",
+      "baslik": "İngiliz Dışişleri Bakanından Brexit Anlaşması Hakkında Türkiye Uyarısı",
+      "ozet": "İngiltere Dışişleri Bakanı Jeremy Hunt, Başbakan Theresa May ile yaptığı görüşmede Avrupa Birliği ile varılan Brexit mutabakatına dair endişelerini dile getirdi. Hunt, söz konusu anlaşma metninin İngiltere'yi Türkiye benzeri bir konuma sürükleyebileceği yönündeki çekincelerini paylaşarak hükümeti dikkatli olması konusunda uyardı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Jeremy_Hunt_Official_Cabinet_Portrait%2C_October_2022_%28cropped%29.jpg/960px-Jeremy_Hunt_Official_Cabinet_Portrait%2C_October_2022_%28cropped%29.jpg",
@@ -1286,14 +1281,14 @@
         "url": "https://www.cumhuriyet.com.tr/haber/butce-kanun-tasarisi-kabul-edildi-1148718"
       },
       "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Türkiye ekonomisi"
+        "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu",
+        "Türkiye Büyük Millet Meclisi"
       ],
       "yayin": "2018-11-22T20:08:00+03:00",
       "puan": 11,
       "durum": "elendi",
       "baslik": "2019 Yılı Bütçe Kanun Tasarısı Komisyondan Geçti",
-      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, gelecek yılın mali planlamasını içeren kanun tasarısını görüşerek onayladı. Yapılan değerlendirmelerin ardından tasarı, komisyon aşamasını tamamlayarak kabul edildi.",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, gelecek yılın bütçe tasarısı üzerine yürüttüğü görüşmeleri tamamladı. Yapılan değerlendirmelerin ardından 2019 yılına ait bütçe kanun teklifi komisyon üyeleri tarafından onaylanarak kabul edildi.",
       "kategori": "Ekonomi"
     },
     {
@@ -1381,28 +1376,15 @@
       },
       "konular": [
         "Hasan Ocak",
-        "Gözaltında kayıplar",
-        "Türkiye'de insan hakları"
+        "Gözaltında kayıplar"
       ],
       "yayin": "2016-11-22T21:11:00+03:00",
       "puan": 10,
       "durum": "yazildi",
-      "baslik": "Hasan Ocak hakkındaki soruşturma dosyası kapatıldı",
-      "ozet": "Öğretmen Hasan Ocak'ın gözaltı sürecinde işkence görerek hayatını kaybetmesiyle ilgili yürütülen hukuki soruşturma süreci sonlandırıldı. Yetkili makamlar tarafından alınan kararla dosya kapatılırken, olayın aydınlatılmasına yönelik yürütülen yasal işlemler durduruldu.",
-      "kategori": "Toplum",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Human_Rights_Mural.JPG/960px-Human_Rights_Mural.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Human_Rights_Mural.JPG/500px-Human_Rights_Mural.JPG",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 3264,
-        "yazar": "Mdozturk",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Human_Rights_Mural.JPG",
-        "aciklama": "A mural describing human rights in Turkey outside of the public education building in Bayramic Turkey",
-        "konu": "Türkiye'de insan hakları"
-      }
+      "baslik": "Hasan Ocak ile ilgili yürütülen soruşturma dosyası kapatıldı",
+      "ozet": "Öğretmen Hasan Ocak'ın gözaltı sürecinde işkenceye maruz kalarak hayatını kaybetmesi üzerine açılan soruşturma dosyası hakkında karar verildi. Yargı makamları, uzun süredir devam eden dava dosyasını kapatma kararı aldı.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2016-haber-634126",
@@ -1469,7 +1451,7 @@
       "puan": 7,
       "durum": "yazildi",
       "baslik": "Belçika'da terör saldırısı endişesiyle güvenlik önlemleri yükseltildi",
-      "ozet": "Belçika Başbakanı Michel, ülkede Paris'tekine benzer bir saldırı gerçekleştirilmesinden endişe duyduklarını ifade etti. Bu kaygılar üzerine ülke genelinde güvenlik tedbirleri kapsamlı bir şekilde artırıldı.",
+      "ozet": "Belçika Başbakanı Michel, ülkede Paris benzeri bir saldırı gerçekleşebileceği yönündeki kaygılarını dile getirdi. Bu risk değerlendirmesi üzerine yetkililer, güvenlik tedbirlerini üst seviyeye çıkardı. Kamu güvenliğini sağlamak amacıyla alınan bu kararlar kapsamında ülke genelinde denetimler sıkılaştırıldı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Charles_Michel_%2849467991288%29.jpg/960px-Charles_Michel_%2849467991288%29.jpg",
@@ -1609,7 +1591,7 @@
       "puan": 7,
       "durum": "elendi",
       "baslik": "Altın piyasasında yeni yıl için yükseliş beklentisi",
-      "ozet": "Önceki seneyi rekorlarla tamamlayan ancak mevcut dönemde durgun bir seyir izleyen altın fiyatlarının önümüzdeki yıl yeniden hareketleneceği öngörüldü. Analistler, değerli metalin bir önceki sene ulaştığı en yüksek değer olan 109 lirayı geride bırakarak yeni bir zirveye ulaşabileceğini belirtti. Yatırımcıların ilgisini çeken bu değişim beklentisi, piyasalarda yeni yıl için iyimser bir hava oluşturdu.",
+      "ozet": "Önceki dönemde yatırımcısına kazandıran ancak yıl içerisinde durgun bir seyir izleyen altın fiyatlarının, gelecek dönemde tekrar hareketlenmesi öngörüldü. Uzmanlar, değerli metalin 2011 yılındaki zirve noktasını geride bırakarak yeni bir rekor seviyeye ulaşabileceğini ifade etti.",
       "kategori": "Ekonomi"
     },
     {
@@ -1625,14 +1607,14 @@
       },
       "konular": [
         "Beşiktaş (futbol takımı)",
-        "Akhisarspor",
+        "Akhisar Belediyespor",
         "Süper Lig"
       ],
       "yayin": "2012-11-22T10:17:00+03:00",
       "puan": 5,
       "durum": "elendi",
       "baslik": "Beşiktaş lig mücadelesinde Akhisar Belediyespor ile karşılaşıyor",
-      "ozet": "Spor Toto Süper Lig kapsamında Beşiktaş, kendi sahasında Akhisar Belediyespor'u ağırladı. Siyah beyazlı ekip, ligin üst sıralarındaki yerini korumak ve puan farkını kapatmak amacıyla sahaya galibiyet hedefiyle çıktı.",
+      "ozet": "Süper Lig kapsamında Beşiktaş kendi sahasında Akhisar Belediyespor ekibini ağırladı. Siyah beyazlı takım puan sıralamasındaki yerini korumak ve üst sıralara doğru ilerleyişini devam ettirmek amacıyla bu karşılaşmadan galibiyetle ayrılmayı amaçladı.",
       "kategori": "Spor"
     },
     {
@@ -1648,15 +1630,14 @@
       },
       "konular": [
         "Tehrik-i Taliban Pakistan",
-        "Pakistan",
-        "Ateşkes"
+        "Pakistan"
       ],
       "yayin": "2011-11-22T14:05:00+03:00",
       "puan": 7,
       "durum": "yazildi",
       "baslik": "Pakistan Talibanı barış görüşmeleri için ateşkes kararı aldı",
-      "ozet": "Pakistan Talibanı, hükümet ile yürütülen barış müzakerelerine katkı sağlamak amacıyla çatışmaları durdurma kararı aldığını duyurdu. Örgüt, bu adımın görüşme sürecini desteklemek için atıldığını belirtti.",
-      "kategori": "Siyaset",
+      "ozet": "Pakistan Talibanı, hükümet tarafından sürdürülen barış müzakerelerine katkı sağlamak amacıyla çatışmaları durdurma kararı aldı. Örgüt yetkilileri, bu adımın diyalog sürecini desteklemeye yönelik olduğunu ifade etti.",
+      "kategori": "Savaş",
       "gorsel": null
     },
     {

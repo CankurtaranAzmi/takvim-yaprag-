@@ -1059,7 +1059,7 @@
     "url": "https://tr.wikipedia.org/wiki/17_Kas%C4%B1m",
     "revid": 38614392
   },
-  "guncelleme": "2026-11-18T15:17:21.202Z",
+  "guncelleme": "2026-11-19T15:24:48.272Z",
   "haberler": [
     {
       "id": "2025-haber-2453428",
@@ -1508,38 +1508,6 @@
       "yayin": "2012-11-17T14:12:00+03:00",
       "puan": 3,
       "durum": "haber"
-    },
-    {
-      "id": "2011-haber-298800",
-      "yil": 2011,
-      "bolge": "turkiye",
-      "tur": "haber",
-      "metin": "Erdoğan, Time dergisine kapak oldu",
-      "aciklama": "ABD'nin ünlü dergisi Time, yeni sayısında Erdoğan'ı kapak olarak seçti.",
-      "haberKaynagi": {
-        "ad": "Cumhuriyet",
-        "url": "https://www.cumhuriyet.com.tr/haber/erdogan-time-dergisine-kapak-oldu-298800"
-      },
-      "konular": [],
-      "yayin": "2011-11-17T22:01:00+03:00",
-      "puan": 5,
-      "durum": "haber"
-    },
-    {
-      "id": "2011-haber-298636",
-      "yil": 2011,
-      "bolge": "turkiye",
-      "tur": "haber",
-      "metin": "Erdoğan'dan dünyaya Suriye resti",
-      "aciklama": "Başbakan Recep Tayyip Erdoğan, Karadeniz Ekonomik ve İşbirliği Forumu'nda enerji politikalarını değerlendirdi.",
-      "haberKaynagi": {
-        "ad": "Cumhuriyet",
-        "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-dunyaya-suriye-resti-298636"
-      },
-      "konular": [],
-      "yayin": "2011-11-17T09:29:00+03:00",
-      "puan": 5,
-      "durum": "haber"
     }
   ],
   "haberYillari": [
@@ -1556,7 +1524,6 @@
     2015,
     2014,
     2013,
-    2012,
-    2011
+    2012
   ]
 }

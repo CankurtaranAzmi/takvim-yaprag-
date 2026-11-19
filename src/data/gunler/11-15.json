@@ -166,6 +166,17 @@
       "durum": "yayinda"
     },
     {
+      "id": "1943-turkiyede-iii-tarih-kongresi-toplandi",
+      "yil": 1943,
+      "metin": "Türkiye'de III. Tarih Kongresi toplandı.",
+      "konular": [],
+      "baslik": null,
+      "ozet": null,
+      "kategori": null,
+      "durum": "bekliyor",
+      "gorsel": null
+    },
+    {
       "id": "1956-orta-dogu-teknik-universitesi-kuruldu",
       "yil": 1956,
       "metin": "Orta Doğu Teknik Üniversitesi kuruldu.",
@@ -1082,9 +1093,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/15_Kas%C4%B1m",
-    "revid": 38610958
+    "revid": 38628172
   },
-  "guncelleme": "2026-11-18T15:17:20.421Z",
+  "guncelleme": "2026-11-19T15:24:46.680Z",
   "haberler": [
     {
       "id": "2025-haber-2452968",
