@@ -11,10 +11,10 @@
         "Hospitalier Şövalyeleri",
         "Malta"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Rodos'un Fethi ve Şövalyelerin Adayı Terki",
+      "ozet": "Kanuni Sultan Süleyman komutasındaki Osmanlı ordusu, uzun süren kuşatmanın ardından 20 Aralık 1522 tarihinde Rodos Adası'nı teslim aldı. Adada hakimiyet süren Hospitalier Şövalyeleri, Osmanlı yönetimiyle yaptıkları anlaşma uyarınca adayı terk etme şartıyla teslim olmayı kabul ettiler. Kanuni Sultan Süleyman, şövalyelerin can güvenliğini garanti altına alarak adadan ayrılmalarına izin verdi. Bu olay, Akdeniz'deki Osmanlı hakimiyetinin pekişmesi açısından kritik bir dönüm noktası oldu.\n\nRodos'un fethi, bölgedeki deniz ticaret yollarının güvenliği ve Osmanlı donanmasının Akdeniz'deki hareket kabiliyeti için büyük bir stratejik önem taşıyordu. Adayı terk etmek zorunda kalan şövalyeler, bir süre farklı bölgelerde konakladıktan sonra nihayetinde Malta'ya yerleştiler. Bu tarihten sonra Malta Şövalyeleri olarak anılmaya başlanan tarikat, Akdeniz'deki varlığını burada sürdürdü. Rodos'un Osmanlı topraklarına katılması, Kanuni Sultan Süleyman'ın imparatorluk sınırlarını genişletme ve denizlerdeki gücünü artırma hedefinin önemli bir parçası olarak tarihe geçti.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/960px-EmperorSuleiman.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/500px-EmperorSuleiman.jpg",
@@ -28,34 +28,7 @@
         "aciklama": "Delle tre versioni del ritratto di Solimano, ricordate dalle fonti come «di mano di Tiziano», ne sono giunte fino a noi solo due, iconograficamente diverse tra loro, ma entrambe riferibili alla botteg",
         "konu": "I. Süleyman"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/960px-EmperorSuleiman.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/500px-EmperorSuleiman.jpg",
-          "genislik": 960,
-          "yukseklik": 1123,
-          "orijinalGenislik": 1810,
-          "yazar": "Circle of Titian",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:EmperorSuleiman.jpg",
-          "aciklama": "Delle tre versioni del ritratto di Solimano, ricordate dalle fonti come «di mano di Tiziano», ne sono giunte fino a noi solo due, iconograficamente diverse tra loro, ma entrambe riferibili alla botteg",
-          "konu": "I. Süleyman"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Malta-Valletta-GrandMastersPalace1.jpg/960px-Malta-Valletta-GrandMastersPalace1.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Malta-Valletta-GrandMastersPalace1.jpg/500px-Malta-Valletta-GrandMastersPalace1.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 2448,
-          "yazar": "Jean-Christophe BENOIST",
-          "lisans": "CC BY 2.5",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.5",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Malta-Valletta-GrandMastersPalace1.jpg",
-          "aciklama": "Un couloir du palais des grands maitres à La Valette, Malte",
-          "konu": "Hospitalier Şövalyeleri"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1924-almanyada-tutuklu-bulunan-nsdap-lideri-adolf-hitler",
@@ -66,10 +39,10 @@
         "Nasyonal Sosyalist Alman İşçi Partisi",
         "Adolf Hitler"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Adolf Hitler Hapishaneden Tahliye Edildi",
+      "ozet": "Adolf Hitler, 1923 yılında Münih'te gerçekleştirdiği ve tarihe Birahane Darbesi olarak geçen başarısız iktidarı ele geçirme girişimi sonrasında vatana ihanet suçundan hüküm giymişti. Landsberg Hapishanesi'nde geçirdiği yaklaşık dokuz aylık hapis cezasının ardından, 20 Aralık 1924 tarihinde iyi hal gerekçesiyle şartlı olarak serbest bırakıldı. Bu süreç, Hitler'in siyasi kariyerinde önemli bir dönüm noktası olarak kabul edilir.\n\nHapis yattığı süre boyunca Mein Kampf adlı eserinin ilk cildini kaleme alan Hitler, bu dönemde stratejisini değiştirerek iktidara silahlı darbe yerine yasal yollarla, yani seçimler ve siyasi örgütlenme aracılığıyla ulaşma kararı aldı. Tahliyesinin ardından Nazi Partisi'ni yeniden yapılandırmaya başlayan Hitler, Weimar Cumhuriyeti'nin zayıf noktalarını kullanarak kısa sürede etkisini artırdı. Bu tahliye, ilerleyen yıllarda Almanya'nın demokratik yapısının çöküşüne ve Nazi rejiminin yükselişine giden sürecin önünü açan kritik bir gelişme oldu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/960px-Hitler_portrait_crop.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/500px-Hitler_portrait_crop.jpg",
@@ -82,7 +55,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Hitler_portrait_crop.jpg",
         "aciklama": "1938 portrait photograph of Adolf Hitler",
         "konu": "Adolf Hitler"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1924-kirkkilisenin-adi-kirklareli-olarak-degistirildi",
@@ -92,10 +66,10 @@
         "Kırklareli (il)",
         "Kırklareli"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Kırkkilise'den Kırklareli'ye İsim Değişikliği",
+      "ozet": "Türkiye Cumhuriyeti'nin kuruluş yıllarında, yerleşim yerlerinin isimlerinin Türkçeleştirilmesi ve bölgenin kültürel kimliğiyle uyumlu hale getirilmesi amacıyla çeşitli düzenlemeler yapılmıştır. Bu kapsamda, Trakya bölgesinin önemli merkezlerinden biri olan ve Osmanlı döneminde Kırkkilise olarak anılan şehrin ismi, 20 Aralık 1924 tarihinde Kırklareli olarak değiştirilmiştir. Bu karar, genç cumhuriyetin idari ve toplumsal yapısını yeniden inşa etme sürecinin bir parçası olarak değerlendirilmektedir.\n\nKırklareli, tarih boyunca stratejik konumu nedeniyle pek çok medeniyete ev sahipliği yapmış ve farklı isimlerle anılmıştır. Osmanlı döneminde Kırkkilise ismiyle bilinen şehir, Balkan Savaşları ve I. Dünya Savaşı'nın ardından yaşanan zorlu süreçlerin ardından 1922 yılında nihai özgürlüğüne kavuşmuştur. İsim değişikliği, şehrin yeni dönemdeki kimliğini pekiştirirken, bölgenin tarihsel mirasını modern Türkiye'nin idari yapısı içerisinde yeniden tanımlamıştır. Günümüzde Kırklareli, Marmara Bölgesi'nin Trakya kesiminde yer alan ve zengin bir tarihsel geçmişe sahip olan önemli bir ilimizdir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/K%C4%B1rklareli_5195.jpg/960px-K%C4%B1rklareli_5195.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/K%C4%B1rklareli_5195.jpg/500px-K%C4%B1rklareli_5195.jpg",
@@ -108,7 +82,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:K%C4%B1rklareli_5195.jpg",
         "aciklama": "İstasyon Caddesi in Kırklareli, Turkey",
         "konu": "Kırklareli (il)"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1938-ilk-elektronik-televizyon-sisteminin-patenti-alindi",
@@ -130,23 +105,12 @@
         "Paris",
         "Uluslararası Şarap Kurulu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/960px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/500px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-        "genislik": 960,
-        "yukseklik": 600,
-        "orijinalGenislik": 4592,
-        "yazar": "Yann Caradec from Paris, France",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
-        "aciklama": "La Tour Eiffel vue de la Tour Saint-Jacques, Paris.",
-        "konu": "Paris"
-      }
+      "baslik": "Türkiye'nin Uluslararası Şarap Kuruluna Katılımı",
+      "ozet": "Türkiye Büyük Millet Meclisi, 20 Aralık 1939 tarihinde aldığı bir kararla, merkezi Paris'te bulunan Uluslararası Şarap Kuruluna (Office International du Vin) resmen katılma kararı aldı. Bu adım, genç Cumhuriyetin uluslararası kuruluşlarla entegrasyonunu artırma ve tarımsal faaliyetlerini küresel standartlara taşıma hedefinin bir parçası olarak değerlendirildi. Türkiye'nin bu kuruluşa dahil olması, özellikle bağcılık ve şarap üretimi alanındaki teknik gelişmelerin yakından takip edilmesine ve uluslararası ticaret standartlarına uyum sağlanmasına olanak tanıdı. Söz konusu katılım, Türkiye'nin tarım politikalarında modernleşme ve dışa açılma stratejilerinin bir yansımasıydı. Kurul, şarap üretimi ve ticaretiyle ilgili teknik, ekonomik ve bilimsel verilerin paylaşılmasını sağlayan önemli bir platform olarak faaliyet gösteriyordu. Türkiye'nin bu üyeliği, ülkenin tarımsal ürünlerinin uluslararası pazarlardaki yerini güçlendirme ve sektördeki uzmanlığı artırma noktasında stratejik bir öneme sahipti. Bu yasal düzenleme, Türkiye'nin Avrupa merkezli uluslararası organizasyonlarla kurduğu iş birliği ağını genişleten somut bir örnek teşkil etti.",
+      "kategori": "Ekonomi",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1942-erbaa-niksarda-7-0-buyuklugunde-deprem",
@@ -156,51 +120,12 @@
         "Erbaa",
         "Niksar"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Tokat_districts.png/960px-Tokat_districts.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Tokat_districts.png/500px-Tokat_districts.png",
-        "genislik": 960,
-        "yukseklik": 742,
-        "orijinalGenislik": 1056,
-        "yazar": "No machine-readable author provided. Rarelibra assumed (based on copyright claims).",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Tokat_districts.png",
-        "aciklama": "Map of the districts of Tokat province in Turkey. Created by Rarelibra 17:52, 4 December 2006 (UTC) for public domain use, using MapInfo Professional v8.5 and various mapping resources. Edited by One ",
-        "konu": "Erbaa"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Tokat_districts.png/960px-Tokat_districts.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Tokat_districts.png/500px-Tokat_districts.png",
-          "genislik": 960,
-          "yukseklik": 742,
-          "orijinalGenislik": 1056,
-          "yazar": "No machine-readable author provided. Rarelibra assumed (based on copyright claims).",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Tokat_districts.png",
-          "aciklama": "Map of the districts of Tokat province in Turkey. Created by Rarelibra 17:52, 4 December 2006 (UTC) for public domain use, using MapInfo Professional v8.5 and various mapping resources. Edited by One ",
-          "konu": "Erbaa"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Niksar%2CKaleSW.jpg/960px-Niksar%2CKaleSW.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Niksar%2CKaleSW.jpg/500px-Niksar%2CKaleSW.jpg",
-          "genislik": 960,
-          "yukseklik": 643,
-          "orijinalGenislik": 1680,
-          "yazar": "Bertramz",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Niksar,KaleSW.jpg",
-          "aciklama": "Niksar, Tokat province, city center from kale towards sw",
-          "konu": "Niksar"
-        }
-      ]
+      "baslik": "Erbaa ve Niksar'da Yıkıcı Deprem",
+      "ozet": "Tokat ilinin Erbaa ve Niksar ilçeleri, 20 Aralık 1942 tarihinde yerel saatle akşam saatlerinde meydana gelen 7.0 büyüklüğündeki depremle sarsıldı. Kuzey Anadolu Fay Hattı üzerinde gerçekleşen bu sarsıntı, bölgedeki yerleşim yerlerinde büyük bir yıkıma yol açarak çok sayıda can kaybına ve binlerce binanın kullanılamaz hale gelmesine neden oldu. Kış mevsiminin en sert günlerinde yaşanan bu felaket, bölge halkı için hem barınma hem de temel ihtiyaçların karşılanması noktasında büyük bir insani krizi beraberinde getirdi.\n\n1939 Erzincan depreminin ardından bölgede yaşanan bu sarsıntı, Türkiye'nin sismik hareketliliğinin ne denli yüksek olduğunu bir kez daha gözler önüne serdi. Depremin ardından bölgeye yönelik yardım çalışmaları başlatılmış olsa da, dönemin zorlu ulaşım ve iklim koşulları kurtarma faaliyetlerini oldukça güçleştirdi. Erbaa ve Niksar'ın yeniden inşası uzun yıllar süren bir süreç haline gelirken, bu olay Türkiye'nin deprem gerçeğiyle yüzleşmesinde ve yapılaşma standartlarının gözden geçirilmesinde önemli bir dönüm noktası olarak tarihe geçti.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1945-istanbul-basin-birligi-baskanligina-sedat-simavi-getirildi",
@@ -210,10 +135,10 @@
         "İstanbul Basın Birliği",
         "Sedat Simavi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Sedat Simavi İstanbul Basın Birliği Başkanı Oldu",
+      "ozet": "Türk gazetecilik tarihinin en etkili figürlerinden biri olan Sedat Simavi, 1945 yılının sonunda İstanbul Basın Birliği'nin başkanlık koltuğuna oturdu. Bu görev, Simavi'nin mesleki birikimini ve basın dünyasındaki ağırlığını kurumsal bir düzeye taşıdığı önemli bir dönüm noktası olarak kabul edilir. Gazetecilik kariyerine karikatürist ve yazar olarak başlayan Simavi, bu dönemde basın camiasının örgütlenmesi ve mesleki standartların belirlenmesi süreçlerinde aktif bir rol üstlendi.\n\nSedat Simavi'nin bu göreve gelişi, Türkiye'de basının kurumsallaşma çabalarının yoğunlaştığı bir sürece denk gelmektedir. Simavi, sadece bir yönetici olarak değil, aynı zamanda basın etiği ve yayıncılık ilkeleri konusundaki vizyonuyla da döneminin gazetecilik anlayışına yön vermiştir. İlerleyen yıllarda Hürriyet gazetesini kurarak Türk basınında yeni bir ekol başlatan Simavi, İstanbul Basın Birliği'ndeki çalışmalarıyla meslektaşları arasında saygın bir konum edinmiş ve basın özgürlüğü ile mesleki dayanışma konularında öncü bir figür haline gelmiştir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/1330_05_10_Idman_Sedat_Simavi.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/1330_05_10_Idman_Sedat_Simavi.jpg",
@@ -226,7 +151,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:1330_05_10_Idman_Sedat_Simavi.jpg",
         "aciklama": "23 Mayıs 1914 tarihli İdman dergisinde Sedat Simavi'nin fotoğrafı.",
         "konu": "Sedat Simavi"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1945-kurtaj-yaptiklari-iddiasiyla-yargilanan-bir-ebe-6",
@@ -246,10 +172,10 @@
       "konular": [
         "İsmet İnönü"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Cumhurbaşkanlığı Yatları İçin Ayrılan Ödenek Kaldırıldı",
+      "ozet": "Türkiye Büyük Millet Meclisi'nde 1947 yılının son günlerinde gerçekleştirilen bütçe görüşmeleri sırasında, Cumhurbaşkanlığı makamına tahsis edilen yatların masraflarının devlet bütçesinden karşılanması uygulamasına son verilmesi kararlaştırıldı. Bu karar, dönemin siyasi atmosferinde devlet harcamalarının denetimi ve tasarruf tedbirleri bağlamında önemli bir tartışma konusu haline geldi. II. Dünya Savaşı'nın ardından Türkiye'nin yaşadığı ekonomik zorluklar, hükümetin harcama kalemlerini yeniden gözden geçirmesine neden olmuştu.\n\nSöz konusu gelişme, İsmet İnönü'nün cumhurbaşkanlığı döneminde devletin sembolik harcamalarına yönelik parlamenter denetimin arttığı bir süreci yansıtmaktadır. Yatların bütçeden çıkarılması, o dönemde muhalefetin ve kamuoyunun devlet harcamaları üzerindeki hassasiyetini göstermesi bakımından dikkat çekicidir. Bu adım, aynı zamanda Türkiye'nin çok partili hayata geçiş sürecinde siyasi kurumların ve devlet harcamalarının şeffaflığına dair yürütülen tartışmaların bir parçası olarak değerlendirilmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
@@ -262,7 +188,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Inonu_Ismet_(cropped).jpg",
         "aciklama": "President of Turkey 1938-1950 Ismet Inonu",
         "konu": "İsmet İnönü"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1951-arcoda-idaho-abd-ebr1-nukleer-reaktoru-ilk",
@@ -275,51 +202,24 @@
         "nükleer reaktör",
         "Türkiye'de elektrik dağıtımı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Nükleer Enerjiyle İlk Elektrik Üretimi",
+      "ozet": "Amerika Birleşik Devletleri'nin Idaho eyaletinde yer alan Arco kasabasındaki Deneysel Üretici Reaktör-1 (EBR-1), 20 Aralık 1951 tarihinde nükleer fisyon yoluyla elektrik enerjisi üreten ilk tesis olarak tarihe geçti. Bu tarihi deneme, atom enerjisinin sadece askeri amaçlarla değil, sivil ve endüstriyel ihtiyaçları karşılamak üzere kullanılabileceğini kanıtlayan bir dönüm noktası oldu. Reaktörün ürettiği elektrik, başlangıçta tesisin kendi aydınlatma sistemini çalıştırmak için kullanıldı.\n\nEBR-1'in başarısı, nükleer enerjinin gelecekteki enerji üretimindeki potansiyelini ortaya koyarak dünya genelinde nükleer santral projelerinin hız kazanmasını sağladı. Bu gelişme, enerji kaynaklarının çeşitlendirilmesi ve fosil yakıtlara olan bağımlılığın azaltılması yönünde atılan en önemli adımlardan biri olarak kabul edilir. Bugün bir müze olarak korunan tesis, nükleer teknolojinin gelişim sürecini anlamak adına büyük bir bilimsel öneme sahiptir.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Arco%2C_Idaho.jpg/960px-Arco%2C_Idaho.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Arco%2C_Idaho.jpg/500px-Arco%2C_Idaho.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%C4%B0T%C3%9C_Triga_Mark-II_Deneysel_N%C3%BCkleer_Reakt%C3%B6r.JPG/960px-%C4%B0T%C3%9C_Triga_Mark-II_Deneysel_N%C3%BCkleer_Reakt%C3%B6r.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%C4%B0T%C3%9C_Triga_Mark-II_Deneysel_N%C3%BCkleer_Reakt%C3%B6r.JPG/500px-%C4%B0T%C3%9C_Triga_Mark-II_Deneysel_N%C3%BCkleer_Reakt%C3%B6r.JPG",
         "genislik": 960,
-        "yukseklik": 589,
-        "orijinalGenislik": 1770,
-        "yazar": "davidwilson1949",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Arco,_Idaho.jpg",
-        "aciklama": "en:Arco, Idaho",
-        "konu": "Arco, Idaho"
+        "yukseklik": 720,
+        "orijinalGenislik": 4320,
+        "yazar": "EmreOsm95",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0T%C3%9C_Triga_Mark-II_Deneysel_N%C3%BCkleer_Reakt%C3%B6r.JPG",
+        "aciklama": "İTÜ Enerji Mühendisliği bölümünde yer alan Triga Mark-II tipi deney amaçlı kullanılan nükleer reaktör",
+        "konu": "nükleer reaktör"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Arco%2C_Idaho.jpg/960px-Arco%2C_Idaho.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Arco%2C_Idaho.jpg/500px-Arco%2C_Idaho.jpg",
-          "genislik": 960,
-          "yukseklik": 589,
-          "orijinalGenislik": 1770,
-          "yazar": "davidwilson1949",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Arco,_Idaho.jpg",
-          "aciklama": "en:Arco, Idaho",
-          "konu": "Arco, Idaho"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%C4%B0T%C3%9C_Triga_Mark-II_Deneysel_N%C3%BCkleer_Reakt%C3%B6r.JPG/960px-%C4%B0T%C3%9C_Triga_Mark-II_Deneysel_N%C3%BCkleer_Reakt%C3%B6r.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%C4%B0T%C3%9C_Triga_Mark-II_Deneysel_N%C3%BCkleer_Reakt%C3%B6r.JPG/500px-%C4%B0T%C3%9C_Triga_Mark-II_Deneysel_N%C3%BCkleer_Reakt%C3%B6r.JPG",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 4320,
-          "yazar": "EmreOsm95",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0T%C3%9C_Triga_Mark-II_Deneysel_N%C3%BCkleer_Reakt%C3%B6r.JPG",
-          "aciklama": "İTÜ Enerji Mühendisliği bölümünde yer alan Triga Mark-II tipi deney amaçlı kullanılan nükleer reaktör",
-          "konu": "nükleer reaktör"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1955-1954-secimlerinden-sonra-dpden-ayrilan-bazi-milletvekilleri",
@@ -357,10 +257,10 @@
         "Berlin Duvarı",
         "Berlin"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Berlin Duvarı'nda İlk Ziyaret İzni",
+      "ozet": "1961 yılında inşa edilen ve şehri ikiye bölen Berlin Duvarı, 20 Aralık 1963 tarihinde insani bir adım atılarak Batı Berlinli vatandaşların Doğu'da kalan yakınlarını ziyaret etmelerine olanak tanıyacak şekilde kısa süreliğine açıldı. Bu uygulama, duvarın örülmesinden sonra ailelerin birbirlerinden koparılmasıyla oluşan derin toplumsal travmanın hafifletilmesi adına atılan ilk somut adımlardan biri olarak tarihe geçti. İki taraf arasındaki geçişlerin sıkı denetim altında tutulduğu bu dönemde, ziyaretçilere bir günlüğüne geçiş izni verilmesi, bölünmüşlüğün yarattığı gerilimi bir nebze olsun azaltmayı hedefliyordu.\n\nSoğuk Savaş'ın en keskin sembollerinden biri olan Berlin Duvarı, Doğu Almanya yönetimi tarafından Batı'ya kaçışları engellemek amacıyla kurulmuştu. Yıllar boyunca \"Utanç Duvarı\" olarak anılan bu yapı, sadece fiziksel bir sınır değil, aynı zamanda ideolojik bir ayrışmanın da simgesiydi. 1963 yılındaki bu sınırlı ziyaret izni, duvarın yıkıldığı 1989 yılına kadar sürecek olan uzun ve sancılı sürecin insani boyutunu gözler önüne seriyordu. Ailelerin yeniden bir araya gelme çabası, siyasi engellerin ötesinde insani bağların ne kadar güçlü olduğunu kanıtlayan önemli bir tarihsel kesit oluşturdu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Berlinermauer.jpg/960px-Berlinermauer.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Berlinermauer.jpg/500px-Berlinermauer.jpg",
@@ -374,34 +274,7 @@
         "aciklama": "This image of the Berlin Wall was taken in 1986 by Thierry Noir at Bethaniendamm in Berlin-Kreuzberg.",
         "konu": "Berlin Duvarı"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Berlinermauer.jpg/960px-Berlinermauer.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Berlinermauer.jpg/500px-Berlinermauer.jpg",
-          "genislik": 960,
-          "yukseklik": 730,
-          "orijinalGenislik": 1200,
-          "yazar": "Noir",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Berlinermauer.jpg",
-          "aciklama": "This image of the Berlin Wall was taken in 1986 by Thierry Noir at Bethaniendamm in Berlin-Kreuzberg.",
-          "konu": "Berlin Duvarı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/960px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/500px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 560,
-          "orijinalGenislik": 5464,
-          "yazar": "Kasa Fue",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Museumsinsel_Berlin_Juli_2021_1_(cropped).jpg",
-          "aciklama": "Museumsinsel in Berlin, im Hintergrund der Fernsehturm am Alexanderplatz, Juli 2021",
-          "konu": "Berlin"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1963-kibris-rumlari-adadaki-turklere-karsi-katliama-basladi",
@@ -425,23 +298,12 @@
         "Türkiye",
         "Bulgaristan"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Galatasaray-Fenerbah%C3%A7e_12.04.2009.jpg/960px-Galatasaray-Fenerbah%C3%A7e_12.04.2009.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Galatasaray-Fenerbah%C3%A7e_12.04.2009.jpg/500px-Galatasaray-Fenerbah%C3%A7e_12.04.2009.jpg",
-        "genislik": 960,
-        "yukseklik": 410,
-        "orijinalGenislik": 1247,
-        "yazar": "QWL",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Galatasaray-Fenerbah%C3%A7e_12.04.2009.jpg",
-        "aciklama": "Galatasaray-Fenerbahçe_12.04.2009.jpg",
-        "konu": "Ali Sami Yen Stadyumu"
-      }
+      "baslik": "Ali Sami Yen Stadyumu'nun Talihsiz Açılışı",
+      "ozet": "İstanbul'un Mecidiyeköy semtinde inşa edilen Ali Sami Yen Stadyumu, 20 Aralık 1964 tarihinde Türkiye ile Bulgaristan arasında oynanan millî maçla kapılarını futbolseverlere açtı. Ancak stadyumun tarihindeki bu ilk büyük organizasyon, büyük bir coşkuyla başlaması beklenirken ciddi bir faciaya dönüştü. Maçın başlamasına kısa bir süre kala tribünlerde oluşan aşırı yoğunluk ve izdiham, açık tribünlerden birinin demir parmaklıklarının çökmesine neden oldu. Yaşanan bu kaza sonucunda 83 kişi yaralanarak hastanelere kaldırıldı.\n\nBu olay, stadyumun açılış gününe gölge düşürürken, o dönemde Türkiye'deki spor tesislerinin güvenlik standartları ve kapasite yönetimi konusundaki eksiklikleri de gözler önüne serdi. Galatasaray'ın uzun yıllar boyunca ev sahipliği yaptığı ve Türk futbolunun unutulmaz anlarına tanıklık eden Ali Sami Yen Stadyumu, bu talihsiz başlangıca rağmen ilerleyen yıllarda Türk spor tarihinin en ikonik mekanlarından biri haline geldi. 2011 yılında yerini Türk Telekom Arena'ya bırakana kadar hizmet veren stadyum, açılış günündeki bu üzücü olayla hafızalara kazınmış oldu.",
+      "kategori": "Spor",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1969-yildiz-devlet-muhendislik-ve-mimarlik-akademisi-kapatildi",
@@ -467,51 +329,24 @@
         "Władysław Gomułka",
         "Edward Gierek"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Polonya'da İşçi Protestoları ve Gomułka'nın İstifası",
+      "ozet": "Polonya'da 1970 yılının Aralık ayında, temel gıda maddelerine getirilen yüksek zamlar halkın ve özellikle işçi sınıfının büyük tepkisine yol açtı. Ülkenin kuzeyindeki liman kentlerinde başlayan protestolar, güvenlik güçlerinin sert müdahalesiyle karşılaştı. Göstericilerin üzerine ateş açılması sonucu çok sayıda kişi hayatını kaybetti ve yaralandı. Bu şiddetli müdahale, ülkede zaten var olan ekonomik hoşnutsuzluğu bir siyasi krize dönüştürerek yönetimin meşruiyetini sarstı.\n\nOlayların yarattığı toplumsal baskı, Polonya Birleşik İşçi Partisi içinde de bir değişimi zorunlu kıldı. 1956 yılından beri iktidarda olan ve başlangıçta reformist kimliğiyle destek gören ancak zamanla otoriterleşen Władysław Gomułka, protestoların ardından görevinden ayrılmak zorunda kaldı. Gomułka'nın yerine Edward Gierek geçti. Gierek yönetimi, ekonomik sorunları çözmek ve toplumsal huzuru yeniden sağlamak amacıyla bir dizi yeni politika uygulamaya koydu. Bu olay, Polonya'nın sosyalist dönemindeki en kritik dönüm noktalarından biri olarak kabul edilir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Franti%C5%A1ek_Dost%C3%A1l_Humor_5.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Franti%C5%A1ek_Dost%C3%A1l_Humor_5.jpg",
-        "genislik": 748,
-        "yukseklik": 1024,
-        "orijinalGenislik": 748,
-        "yazar": "František Dostál",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Franti%C5%A1ek_Dost%C3%A1l_Humor_5.jpg",
-        "aciklama": "František Dostál Humor",
-        "konu": "Komünist parti"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/W%C5%82adys%C5%82aw_Gomu%C5%82ka_1960.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/W%C5%82adys%C5%82aw_Gomu%C5%82ka_1960.jpg",
+        "genislik": 520,
+        "yukseklik": 702,
+        "orijinalGenislik": 520,
+        "yazar": "unknown-anonymous",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:W%C5%82adys%C5%82aw_Gomu%C5%82ka_1960.jpg",
+        "aciklama": "Władysław Gomułka (1905-1982) – Polish Communist politician",
+        "konu": "Władysław Gomułka"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Franti%C5%A1ek_Dost%C3%A1l_Humor_5.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Franti%C5%A1ek_Dost%C3%A1l_Humor_5.jpg",
-          "genislik": 748,
-          "yukseklik": 1024,
-          "orijinalGenislik": 748,
-          "yazar": "František Dostál",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Franti%C5%A1ek_Dost%C3%A1l_Humor_5.jpg",
-          "aciklama": "František Dostál Humor",
-          "konu": "Komünist parti"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/W%C5%82adys%C5%82aw_Gomu%C5%82ka_1960.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/W%C5%82adys%C5%82aw_Gomu%C5%82ka_1960.jpg",
-          "genislik": 520,
-          "yukseklik": 702,
-          "orijinalGenislik": 520,
-          "yazar": "unknown-anonymous",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:W%C5%82adys%C5%82aw_Gomu%C5%82ka_1960.jpg",
-          "aciklama": "Władysław Gomułka (1905-1982) – Polish Communist politician",
-          "konu": "Władysław Gomułka"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1971-pakistanda-yahya-han-istifa-etti-yerine-zulfikar",
@@ -522,10 +357,10 @@
         "Yahya Han",
         "Zülfikar Ali Butto"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Pakistan'da Yahya Han Dönemi Sona Erdi",
+      "ozet": "Pakistan'da 1971 yılının sonunda yaşanan büyük siyasi kriz, Devlet Başkanı Yahya Han'ın görevinden ayrılmasıyla sonuçlandı. Ülkenin yaşadığı iç karışıklıklar ve Doğu Pakistan'ın Bangladeş adıyla bağımsızlığını ilan etmesiyle neticelenen savaş süreci, askeri yönetimin meşruiyetini tamamen yitirmesine neden olmuştu. Bu kritik dönemde, Pakistan Halk Partisi'nin kurucusu olan Zülfikar Ali Butto, ülkenin yeni devlet başkanı olarak görevi devraldı. Butto'nun iktidara gelişi, Pakistan tarihinde sivil yönetime geçiş çabalarının ve yeni bir siyasi dönemin başlangıcı olarak kabul edildi. Yahya Han'ın istifası, ülkenin hem iç siyasetinde hem de dış ilişkilerinde büyük bir kırılma noktası oluşturdu. Butto, göreve geldiği andan itibaren hem savaşın yaralarını sarmak hem de ülkenin parçalanmış yapısını yeniden bir araya getirmek gibi zorlu bir görevle karşı karşıya kaldı. Bu değişim, Pakistan'ın yakın tarihindeki en çalkantılı dönemlerden birinin kapanışını ve Butto'nun sonraki yıllarda başbakanlık koltuğuna kadar uzanacak siyasi kariyerinin en önemli aşamalarından birini temsil etti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Z_A_Bhutto_%28President_of_Pakistan%29.jpg/960px-Z_A_Bhutto_%28President_of_Pakistan%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Z_A_Bhutto_%28President_of_Pakistan%29.jpg/500px-Z_A_Bhutto_%28President_of_Pakistan%29.jpg",
@@ -538,7 +373,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Z_A_Bhutto_(President_of_Pakistan).jpg",
         "aciklama": "Z A Bhutto (President of Pakistan)",
         "konu": "Zülfikar Ali Butto"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1971-stanley-kubrickin-otomatik-portakal-filmi-gosterime-girdi",
@@ -548,10 +384,10 @@
         "Stanley Kubrick",
         "Otomatik Portakal"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Sinema Tarihinin Kült Filmi: Otomatik Portakal",
+      "ozet": "Stanley Kubrick'in yönettiği ve Anthony Burgess'in aynı adlı romanından uyarlanan Otomatik Portakal, 1971 yılının sonunda izleyiciyle buluştu. Film, distopik bir gelecekte geçen hikayesi, görsel dili ve şiddet temalı tartışmalı sahneleriyle sinema dünyasında büyük bir yankı uyandırdı. Kubrick'in mükemmeliyetçi yönetmenlik anlayışını yansıtan yapım, kısa sürede kült statüsüne erişerek sinema tarihinin en çok konuşulan eserlerinden biri haline geldi. Eser, bireyin özgür iradesi ile devletin toplumsal düzeni sağlama adına uyguladığı baskıcı yöntemler arasındaki çatışmayı merkezine alır. Ana karakter Alex'in şiddet dolu dünyasından yola çıkan film, insanın doğası gereği özgür mü yoksa bir makine gibi programlanabilir mi olduğu sorusunu izleyiciye yöneltir. Burgess'in romanında işlediği modernleşme sancıları ve toplumsal eleştiriler, Kubrick'in kendine has sembolik anlatımıyla beyaz perdede yeniden hayat bulmuştur. Gösterime girdiği dönemde yarattığı tartışmalarla hem eleştirmenlerin hem de izleyicilerin dikkatini çeken film, günümüzde hala sinema okullarında ve kültürel analizlerde temel bir referans noktası olarak kabul edilmektedir.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Stanley_Kubrick_%281949_portrait_by_Phillip_Harrington_-_cropped%29.jpg/960px-Stanley_Kubrick_%281949_portrait_by_Phillip_Harrington_-_cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Stanley_Kubrick_%281949_portrait_by_Phillip_Harrington_-_cropped%29.jpg/500px-Stanley_Kubrick_%281949_portrait_by_Phillip_Harrington_-_cropped%29.jpg",
@@ -564,7 +400,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Stanley_Kubrick_(1949_portrait_by_Phillip_Harrington_-_cropped).jpg",
         "aciklama": "Portrait of Stanley Kubrick with a camera at the Sadler's Wells Theatre in London, 1949.",
         "konu": "Stanley Kubrick"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1972-gazeteci-turhan-dilligil-21-ay-5-gun",
@@ -669,23 +506,12 @@
         "Cali",
         "Kolombiya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Teatro_Municipal_de_Santiago_de_Cali_01.JPG/960px-Teatro_Municipal_de_Santiago_de_Cali_01.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Teatro_Municipal_de_Santiago_de_Cali_01.JPG/500px-Teatro_Municipal_de_Santiago_de_Cali_01.JPG",
-        "genislik": 960,
-        "yukseklik": 636,
-        "orijinalGenislik": 4928,
-        "yazar": "Joaquinfranke",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Teatro_Municipal_de_Santiago_de_Cali_01.JPG",
-        "aciklama": "This is a photo of a Colombian monument identified by the ID",
-        "konu": "Cali"
-      }
+      "baslik": "American Airlines'ın Cali'deki Trajik Uçak Kazası",
+      "ozet": "American Airlines'ın 965 sefer sayılı uçuşunu gerçekleştiren Boeing 757 tipi yolcu uçağı, 20 Aralık 1995 tarihinde Kolombiya'nın Cali kenti yakınlarında dağlık bir bölgeye çarptı. Miami'den kalkan ve Cali'ye iniş yapmaya hazırlanan uçakta bulunan 163 kişiden 160'ı hayatını kaybetti. Kazadan sadece dört kişi sağ kurtulabildi, ancak içlerinden biri daha sonra yaşamını yitirdi. Bu olay, Kolombiya havacılık tarihinin en büyük felaketlerinden biri olarak kayıtlara geçti.\n\nKazanın ardından yapılan incelemeler, uçağın navigasyon sistemindeki hatalar ve mürettebatın uçuş rotasındaki sapmaları fark edememesi sonucu dağa çarptığını ortaya koydu. Uçuş ekibinin, uçağın bilgisayarına yanlış bir koordinat girmesi ve ardından gelen kafa karışıklığı, uçağın rotasından çıkarak dağlık araziye yönelmesine neden oldu. Bu trajik kaza, havacılık dünyasında uçuş yönetim sistemlerinin kullanımı ve pilotların durumsal farkındalığı konusunda önemli güvenlik derslerinin çıkarılmasına yol açtı.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1996-next-apple-computer-ile-birlesti-ve-boylece",
@@ -696,23 +522,12 @@
         "Apple",
         "MacOS"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/960px-Aerial_view_of_Apple_Park_dllu.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/500px-Aerial_view_of_Apple_Park_dllu.jpg",
-        "genislik": 960,
-        "yukseklik": 641,
-        "orijinalGenislik": 7729,
-        "yazar": "Daniel L. Lu (user:dllu)",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Apple_Park_dllu.jpg",
-        "aciklama": "Aerial view of Apple Park, the corporate headquarters of Apple Inc., located in Cupertino, California. The roof is covered in solar panels with an output of 17 MWp, making it one of the biggest solar ",
-        "konu": "Apple"
-      }
+      "baslik": "Apple ve NeXT Birleşmesi: Modern macOS'in Doğuşu",
+      "ozet": "Apple Computer, 20 Aralık 1996 tarihinde Steve Jobs'un kurduğu yazılım şirketi NeXT'i satın alarak teknoloji dünyasında büyük bir dönüşümün kapısını araladı. Bu birleşme, o dönemde ciddi bir işletim sistemi krizi yaşayan Apple için hayati bir kurtuluş hamlesi olarak görüldü. Apple, kendi bünyesinde geliştirdiği yazılım projelerinde tıkanma yaşarken, NeXT'in sahip olduğu gelişmiş ve nesne yönelimli işletim sistemi teknolojisi bu soruna çözüm sundu.\n\nNeXT'in geliştirdiği NeXTSTEP işletim sistemi, bu satın almanın ardından Apple'ın yeni nesil işletim sistemi olan Mac OS X'in temelini oluşturdu. Bu teknolojik entegrasyon, sadece bir şirket birleşmesi değil, aynı zamanda Steve Jobs'un Apple'a geri dönüşünü ve şirketin yeniden yükseliş dönemini başlatan stratejik bir dönüm noktası oldu. Bugün kullandığımız macOS'in mimari yapısı, o gün atılan bu adımların bir devamı niteliğindedir.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1999-nasa-gunesin-enerji-radyasyonunu-arastirma-amaciyla-acrimsat",
@@ -725,10 +540,10 @@
         "radyasyon",
         "ACRIMSat"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Güneş Enerjisini İzleyen Uydu: ACRIMSat",
+      "ozet": "NASA, Güneş'in Dünya üzerindeki etkilerini ve enerji yayılımını daha yakından incelemek amacıyla ACRIMSat (Active Cavity Radiometer Irradiance Monitor Satellite) adlı özel bir uyduyu yörüngeye yerleştirdi. Bu görev, Güneş'in toplam ışınım miktarındaki değişimleri uzun vadeli olarak takip etmeyi ve bu verilerin gezegenimizin iklimi üzerindeki etkilerini anlamayı hedefliyordu. Güneş, Dünya'daki yaşamın temel enerji kaynağı olduğu için, bu tür hassas ölçümler atmosferik değişimlerin ve küresel ısınma gibi süreçlerin analizinde kritik bir rol oynamaktadır.\n\nACRIMSat, Güneş'ten gelen toplam ışınım enerjisinin zaman içindeki değişimlerini kaydederek, bilim insanlarına Güneş'in aktivite döngüleri hakkında değerli veriler sağladı. Uydu, daha önceki benzer görevlerin devamı niteliğinde tasarlanmış olup, Güneş'in yaydığı enerjinin sabit mi yoksa değişken mi olduğunu anlamak adına önemli bir veri seti oluşturdu. Bu çalışma, Güneş fiziği araştırmalarında elde edilen bilgilerin, Dünya'nın enerji dengesi ve iklim modelleriyle ilişkilendirilmesi açısından büyük önem taşımaktadır.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_Sun_in_white_light.jpg/960px-The_Sun_in_white_light.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_Sun_in_white_light.jpg/500px-The_Sun_in_white_light.jpg",
@@ -742,34 +557,7 @@
         "aciklama": "The Sun photographed on the 8th of May, 2019 in white light (true color). Sunspots AR2740 (to the right) and AR2741 (to the left) visible. Some other interesting features include faculae, white spots ",
         "konu": "Güneş"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_Sun_in_white_light.jpg/960px-The_Sun_in_white_light.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_Sun_in_white_light.jpg/500px-The_Sun_in_white_light.jpg",
-          "genislik": 960,
-          "yukseklik": 960,
-          "orijinalGenislik": 3648,
-          "yazar": "Matúš Motlo",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:The_Sun_in_white_light.jpg",
-          "aciklama": "The Sun photographed on the 8th of May, 2019 in white light (true color). Sunspots AR2740 (to the right) and AR2741 (to the left) visible. Some other interesting features include faculae, white spots ",
-          "konu": "Güneş"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Sun_in_February_%28black_version%29.jpg/960px-Sun_in_February_%28black_version%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Sun_in_February_%28black_version%29.jpg/500px-Sun_in_February_%28black_version%29.jpg",
-          "genislik": 960,
-          "yukseklik": 960,
-          "orijinalGenislik": 2632,
-          "yazar": "HalloweenNight",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Sun_in_February_(black_version).jpg",
-          "aciklama": "Sun on February 18, 2015. Taken with Canon 60d, Coronado PST, 20mm eyepiece, Vixen Polarie, 1/8 second, iso 400, HDR wavelets in Pixinsight and sharpening in GIMP.",
-          "konu": "enerji"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "2002-amerika-birlesik-devletleri-rusya-ab-ve-bmden",
@@ -797,23 +585,12 @@
         "Meksika",
         "2016 San Pablito pazarı patlaması"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Templo_de_Nuestra_Sra._de_Loreto%2C_Tultepec%2C_Mx.jpg/960px-Templo_de_Nuestra_Sra._de_Loreto%2C_Tultepec%2C_Mx.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Templo_de_Nuestra_Sra._de_Loreto%2C_Tultepec%2C_Mx.jpg/500px-Templo_de_Nuestra_Sra._de_Loreto%2C_Tultepec%2C_Mx.jpg",
-        "genislik": 960,
-        "yukseklik": 1280,
-        "orijinalGenislik": 2304,
-        "yazar": "Octavio Luis Zúñiga Ramos",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Templo_de_Nuestra_Sra._de_Loreto,_Tultepec,_Mx.jpg",
-        "aciklama": "La fotografía se tomó previamente a la realización de una \"misa de cuerpo presente\" de un difunto, de ahí que se aprecien al fondo, coronas florales para tal motivo, en Agosto del 2010",
-        "konu": "Tultepec"
-      }
+      "baslik": "San Pablito Havai Fişek Pazarı'nda Büyük Patlama",
+      "ozet": "Meksika'nın başkenti Meksiko'nun kuzeyinde yer alan Tultepec şehrindeki San Pablito havai fişek pazarında, 20 Aralık 2016 tarihinde büyük bir facia yaşandı. Pazar yerinde bulunan havai fişeklerin zincirleme şekilde infilak etmesiyle meydana gelen patlamalar, bölgede büyük bir yıkıma yol açtı. Olay sonucunda 42 kişi yaşamını yitirirken, 84'ten fazla kişi de çeşitli derecelerde yaralandı. Patlamanın şiddetiyle pazar alanı tamamen harabeye dönerken, çevredeki yapılar da ciddi hasar gördü.\n\nTultepec şehri, Meksika'da havai fişek üretimi ve ticaretiyle tanınan bir merkez konumundadır. San Pablito pazarı ise bu ürünlerin en yoğun şekilde sergilendiği ve satıldığı yerlerden biriydi. Olayın ardından bölgedeki güvenlik önlemleri ve havai fişek üretim tesislerinin denetimi ulusal çapta tartışmalara yol açtı. Bu trajik kaza, havai fişeklerin depolanması ve satışı sırasında alınması gereken güvenlik standartlarının hayati önemini bir kez daha gözler önüne serdi.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     }
   ],
   "dogumlar": [

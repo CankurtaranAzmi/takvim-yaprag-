@@ -1056,7 +1056,7 @@
     "url": "https://tr.wikipedia.org/wiki/29_Kas%C4%B1m",
     "revid": 37376632
   },
-  "guncelleme": "2026-11-19T15:24:53.243Z",
+  "guncelleme": "2026-11-20T15:01:38.448Z",
   "haberler": [
     {
       "id": "2025-haber-2456991",
@@ -1069,10 +1069,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/2025-dunya-ralli-sampiyonasi-ni-sebastien-ogier-kazandi-2456991"
       },
-      "konular": [],
+      "konular": [
+        "Dünya Ralli Şampiyonası",
+        "Sébastien Ogier",
+        "Toyota Gazoo Racing"
+      ],
       "yayin": "2025-11-29T17:29:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "2025 Dünya Ralli Şampiyonası'nda Şampiyon Sebastien Ogier Oldu",
+      "ozet": "Toyota Gazoo ekibi adına yarışan Sebastien Ogier, 2025 Dünya Ralli Şampiyonası sezonunu birincilikle tamamladı. Başarılı pilot, sergilediği performansla şampiyonluk kupasının sahibi oldu.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2023_Central_European_Rally_-_Ogier_01_%28cropped%29.jpg/960px-2023_Central_European_Rally_-_Ogier_01_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2023_Central_European_Rally_-_Ogier_01_%28cropped%29.jpg/500px-2023_Central_European_Rally_-_Ogier_01_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1200,
+        "orijinalGenislik": 2000,
+        "yazar": "Miloslav Rejha",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:2023_Central_European_Rally_-_Ogier_01_(cropped).jpg",
+        "aciklama": "Sébastien, 2023 Central European Rally",
+        "konu": "Sébastien Ogier"
+      }
     },
     {
       "id": "2025-haber-2456881",
@@ -1085,10 +1105,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/akp-de-yeni-anayasa-telasi-mi-yandas-gazeteden-iktidar-kulisi-referandum-hazirligi-yapiliyor-2456881"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyeti Anayasası",
+        "Adalet ve Kalkınma Partisi"
+      ],
       "yayin": "2025-11-29T08:35:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İktidar kanadında yeni anayasa ve referandum çalışmaları gündeme geldi",
+      "ozet": "Adalet ve Kalkınma Partisi bünyesinde oluşturulan on bir kişilik bir heyet, yeni anayasa hazırlıkları kapsamında çalışmalarına başladı. Söz konusu grubun yürüttüğü faaliyetlerin bir referandum sürecine yönelik olduğu iddiaları siyasi kulislerde yer buldu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Constitution_of_the_Republic_of_T%C3%BCrkiye_%281982%29.pdf/page1-960px-Constitution_of_the_Republic_of_T%C3%BCrkiye_%281982%29.pdf.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Constitution_of_the_Republic_of_T%C3%BCrkiye_%281982%29.pdf/page1-960px-Constitution_of_the_Republic_of_T%C3%BCrkiye_%281982%29.pdf.jpg",
+        "genislik": 960,
+        "yukseklik": 1357,
+        "orijinalGenislik": 1239,
+        "yazar": "Republic of Türkiye",
+        "lisans": "Copyrighted free use",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Constitution_of_the_Republic_of_T%C3%BCrkiye_(1982).pdf",
+        "aciklama": "Constitution of the Republic of Türkiye (1982)",
+        "konu": "Türkiye Cumhuriyeti Anayasası"
+      }
     },
     {
       "id": "2024-haber-2274100",
@@ -1101,10 +1140,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/sahte-dolar-krizi-meclis-gundeminde-chpli-deniz-demir-doviz-2274100"
       },
-      "konular": [],
+      "konular": [
+        "Deniz Demir",
+        "Türkiye Büyük Millet Meclisi",
+        "Döviz"
+      ],
       "yayin": "2024-11-29T13:15:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Sahte döviz iddiaları Türkiye Büyük Millet Meclisi gündemine taşındı",
+      "ozet": "Piyasada dolaşan sahte dolar iddiaları üzerine Cumhuriyet Halk Partisi Ankara Milletvekili Deniz Demir konuyu meclis çatısı altına taşıdı. Yaşanan durumun döviz piyasasındaki işlemleri olumsuz etkilediğini belirten Demir, sektördeki faaliyetlerin durma noktasına geldiğini ifade etti. Konuyla ilgili endişelerini dile getiren milletvekili, yaşanan aksaklıkların giderilmesi için çözüm beklediklerini vurguladı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2274280",
@@ -1117,10 +1163,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/tbmm-plan-ve-butce-komisyonunda-2025-yili-merkezi-yonetim-butce-kanunu-2274280"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu",
+        "Türkiye Büyük Millet Meclisi",
+        "Türkiye"
+      ],
       "yayin": "2024-11-29T22:16:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "2025 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi Komisyondan Geçti",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, 2025 yılına ait merkezi yönetim bütçe kanun teklifini görüşerek onayladı. Söz konusu bütçe tasarısı, komisyon üyelerinin değerlendirmelerinin ardından kabul edildi. Bu gelişmeyle birlikte bütçe teklifinin yasalaşma sürecinde önemli bir aşama tamamlanmış oldu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2023-haber-2146267",
@@ -1133,10 +1186,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/erdogan-bahceli-gorusmesi-basladi-2146267"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Devlet Bahçeli",
+        "Milliyetçi Hareket Partisi"
+      ],
       "yayin": "2023-11-29T16:39:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhurbaşkanı Erdoğan ve MHP Lideri Bahçeli bir araya geldi",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli ile görüşmek üzere bir araya geldi. İki liderin gerçekleştirdiği bu buluşma, siyasi gündemdeki konuları değerlendirmek amacıyla yapıldı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2023-haber-2146118",
@@ -1149,10 +1209,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/hasan-arat-fenerbahceyi-gecersek-sampiyonluk-sansimiz-baslayacak-2146118"
       },
-      "konular": [],
+      "konular": [
+        "Hasan Arat",
+        "Beşiktaş JK",
+        "Süper Lig"
+      ],
       "yayin": "2023-11-29T10:58:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Beşiktaş Başkan Adayı Hasan Arat'tan Şampiyonluk Yarışı Hakkında Değerlendirme",
+      "ozet": "Beşiktaş başkanlığına adaylığını koyan Hasan Arat, basın mensuplarıyla bir araya gelerek kulübün geleceğine dair görüşlerini paylaştı. Arat, ligdeki rekabet ortamına değinerek Fenerbahçe karşısında alınacak bir galibiyetin şampiyonluk yolunda önemli bir başlangıç noktası oluşturacağını ifade etti. Takımın hedeflerine ulaşması adına bu karşılaşmanın kritik bir öneme sahip olduğunu vurguladı.",
+      "kategori": "Spor"
     },
     {
       "id": "2022-haber-2007489",
@@ -1165,10 +1232,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/tbmm-genel-kurulunda-tutun-kanun-teklifinin-ilk-bolumu-kabul-edildi-2007489"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Tütün",
+        "Alkol"
+      ],
       "yayin": "2022-11-29T23:20:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Tütün ve alkol piyasasına yönelik yasal düzenleme teklifi görüşüldü",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, tütün ve alkol piyasasını ilgilendiren kanun teklifinin ilk bölümünü onayladı. Kabul edilen maddeler arasında, sektördeki işletmeler için 50 milyon liraya kadar teminat şartı getirilmesi ve Ürün Takip Sistemi'ne müdahale edenlere 8 yıla kadar hapis cezası verilmesi gibi önemli yaptırımlar yer aldı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-2007345",
@@ -1181,10 +1255,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/deva-partisi-istanbul-il-baskanligi-secim-kampanyasina-basladi-2007345"
       },
-      "konular": [],
+      "konular": [
+        "Demokrasi ve Atılım Partisi",
+        "Erhan Erol",
+        "İstanbul"
+      ],
       "yayin": "2022-11-29T14:43:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "DEVA Partisi İstanbul teşkilatı seçim çalışmalarına start verdi",
+      "ozet": "Demokrasi ve Atılım Partisi, hazırladığı reklam filmi ve özel tasarım mavi yeleklerle seçim sürecine yönelik faaliyetlerini başlattı. İstanbul İl Başkanı Erhan Erol, yürütecekleri kampanya sürecinin oldukça iddialı olacağını ifade etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2021-haber-1888526",
@@ -1197,10 +1278,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/wushu-sampiyonasina-giden-sporcular-kaza-gecirdi-1888526"
       },
-      "konular": [],
+      "konular": [
+        "Wushu",
+        "Trafik kazası"
+      ],
       "yayin": "2021-11-29T09:00:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Wushu sporcularını taşıyan araç kaza yaptı",
+      "ozet": "Sivas'tan Sakarya'ya doğru yola çıkan sporcu kafilesini taşıyan araç yolda kaza geçirdi. Türkiye Wushu Kung-Fu Federasyonu bünyesindeki bir derneğe bağlı olan beş öğrenci yaşanan olayda yaralandı. Yaralılar tedavi altına alındı.",
+      "kategori": "Ulaşım"
     },
     {
       "id": "2021-haber-1888480",
@@ -1213,10 +1300,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/cekyada-petr-fiala-basbakan-olarak-atandi-1888480"
       },
-      "konular": [],
+      "konular": [
+        "Petr Fiala",
+        "Miloš Zeman",
+        "Çekya"
+      ],
       "yayin": "2021-11-29T04:00:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Petr Fiala Çekya'nın yeni başbakanı olarak görevlendirildi",
+      "ozet": "Çekya Cumhurbaşkanı Milos Zeman, başkentte düzenlenen törenle Petr Fiala'yı ülkenin yeni başbakanı olarak atadı. Bu atama süreciyle birlikte hükümetin kurulması yönünde resmi adım atılmış oldu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Donald_Tusk_joined_various_leaders_in_Wroc%C5%82aw_for_recent_floods_in_Central_Europe_%287%29_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Donald_Tusk_joined_various_leaders_in_Wroc%C5%82aw_for_recent_floods_in_Central_Europe_%287%29_%28cropped%29.jpg",
+        "genislik": 604,
+        "yukseklik": 820,
+        "orijinalGenislik": 604,
+        "yazar": "Chancellery of the Prime Minister of Poland",
+        "lisans": "CC BY 3.0 pl",
+        "lisansUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Donald_Tusk_joined_various_leaders_in_Wroc%C5%82aw_for_recent_floods_in_Central_Europe_(7)_(cropped).jpg",
+        "aciklama": "The President of the European Commission Ursula von der Leyen, Austrian Chancellor Karl Nehammer and the Prime Ministers of the Czech Republic Petr Fiala and Slovakia Robert Fico came to Wrocław at th",
+        "konu": "Petr Fiala"
+      }
     },
     {
       "id": "2020-haber-1794867",
@@ -1229,10 +1336,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sergen-yalcin-besiktasin-adi-sampiyonluktur-1794867"
       },
-      "konular": [],
+      "konular": [
+        "Sergen Yalçın",
+        "Beşiktaş JK"
+      ],
       "yayin": "2020-11-29T22:27:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Sergen Yalçın Beşiktaş'ın Hedefinin Şampiyonluk Olduğunu Belirtti",
+      "ozet": "Beşiktaş Teknik Direktörü Sergen Yalçın, kulübün hedefleri hakkında açıklamalarda bulundu. Yalçın, siyah beyazlı camianın her zaman şampiyonluk parolasıyla hareket ettiğini ifade etti.",
+      "kategori": "Spor"
     },
     {
       "id": "2020-haber-1794733",
@@ -1245,10 +1358,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yelkende-rsx-avrupa-sampiyonasi-tamamlandi-1794733"
       },
-      "konular": [],
+      "konular": [
+        "RS:X",
+        "Yelken",
+        "Portekiz"
+      ],
       "yayin": "2020-11-29T10:15:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Portekiz'de Düzenlenen RS:X Avrupa Yelken Şampiyonası Sona Erdi",
+      "ozet": "Portekiz ev sahipliğinde gerçekleştirilen RS:X Avrupa Yelken Şampiyonası tamamlandı. Organizasyon kapsamında sporcular çeşitli kategorilerde mücadelelerini noktaladı. Yarışların bitişiyle birlikte şampiyona resmi olarak sona ermiş oldu.",
+      "kategori": "Spor"
     },
     {
       "id": "2019-haber-1705242",
@@ -1261,10 +1381,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/2020-yili-butcesi-tbmm-plan-ve-butce-komisyonunda-kabul-edildi-1705242"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2019-11-29T19:46:00+03:00",
       "puan": 16,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "2020 Merkezi Yönetim Bütçe Kanun Teklifi Komisyondan Geçti",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, gelecek yılın merkezi yönetim bütçesine ilişkin kanun teklifini görüşerek onayladı. Yapılan değerlendirmelerin ardından kabul edilen tasarı, yasalaşma sürecinin devamı için meclis genel kuruluna gönderildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2019-haber-1705215",
@@ -1277,10 +1403,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/irak-basbakani-adil-abdulmehdi-istifa-edecegini-acikladi-1705215"
       },
-      "konular": [],
+      "konular": [
+        "Adil Abdülmehdi",
+        "Irak",
+        "Irak protestoları"
+      ],
       "yayin": "2019-11-29T16:23:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Irak Başbakanı Adil Abdülmehdi görevinden ayrılacağını duyurdu",
+      "ozet": "Irak Başbakanı Adil Abdülmehdi, Nasiriye kentinde güvenlik güçlerinin hükümet karşıtı protestoculara yönelik müdahalesi sonucu çok sayıda kişinin yaşamını yitirmesinin ardından istifa etme kararı aldı. Ülke genelinde Bağdat, Necef ve Nasiriye gibi merkezlerde düzenlenen gösterilerde kırkın üzerinde insan hayatını kaybetmişti. Bu gelişmelerin ardından Abdülmehdi, görevini bırakacağını kamuoyuna açıkladı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Adil_Abdul-Mahdi_portrait.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Adil_Abdul-Mahdi_portrait.jpg",
+        "genislik": 455,
+        "yukseklik": 528,
+        "orijinalGenislik": 455,
+        "yazar": "LaGrandeOurs",
+        "lisans": "CC BY 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Adil_Abdul-Mahdi_portrait.jpg",
+        "aciklama": "Adil Abdul-Mahdi",
+        "konu": "Adil Abdülmehdi"
+      }
     },
     {
       "id": "2018-haber-1155611",
@@ -1293,10 +1439,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/cevre-kanunu-tbmmde-kabul-edildi-1155611"
       },
-      "konular": [],
+      "konular": [
+        "Çevre Kanunu",
+        "Plastik poşet",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2018-11-29T20:16:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Plastik Poşetlerin Ücretlendirilmesini İçeren Çevre Kanunu Yasalaştı",
+      "ozet": "Türkiye Büyük Millet Meclisi genel kurulunda yapılan görüşmeler neticesinde Çevre Kanunu ile bazı diğer kanunlarda değişiklik yapılmasına dair teklif onaylandı. Kabul edilen yeni düzenleme ile birlikte marketlerde kullanılan plastik alışveriş poşetlerinin ücretli bir şekilde tüketicilere sunulması kararlaştırıldı. Bu yasal değişiklikle çevre kirliliğinin azaltılması ve plastik kullanımının sınırlandırılması hedeflendi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/%C3%87evre_Kanunu.pdf/page1-960px-%C3%87evre_Kanunu.pdf.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/%C3%87evre_Kanunu.pdf/page1-960px-%C3%87evre_Kanunu.pdf.jpg",
+        "genislik": 960,
+        "yukseklik": 1357,
+        "orijinalGenislik": 1239,
+        "yazar": "TBMM",
+        "lisans": "Copyrighted free use",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87evre_Kanunu.pdf",
+        "aciklama": "Türk Çevre Kanunu",
+        "konu": "Çevre Kanunu"
+      }
     },
     {
       "id": "2018-haber-1155276",
@@ -1309,10 +1475,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-liginde-ilkler-haftasi-1155276"
       },
-      "konular": [],
+      "konular": [
+        "UEFA Şampiyonlar Ligi",
+        "Futbol"
+      ],
       "yayin": "2018-11-29T15:22:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "UEFA Şampiyonlar Ligi grup aşamasında dikkat çeken ilkler yaşandı",
+      "ozet": "UEFA Şampiyonlar Ligi grup müsabakalarının beşinci haftası, turnuva tarihinde daha önce görülmemiş gelişmelere ev sahipliği yaptı. Organizasyonun bu aşamasında kaydedilen çeşitli istatistikler ve olaylar, futbolseverler tarafından ilk kez deneyimlenen durumları beraberinde getirdi.",
+      "kategori": "Spor"
     },
     {
       "id": "2016-haber-637513",
@@ -1325,10 +1497,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-yildirim-ilk-kez-ekonomik-kriz-dedi-637513"
       },
-      "konular": [],
+      "konular": [
+        "Binali Yıldırım",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2016-11-29T11:37:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Başbakan Yıldırım ekonomik zorluklara yönelik değerlendirmelerde bulundu",
+      "ozet": "Başbakan Binali Yıldırım, partisinin grup toplantısında ekonomi gündemine geniş yer ayırdı. Yapılan konuşmada ilk defa ekonomik kriz ifadesine değinildi ve mevcut durum üzerine kapsamlı açıklamalarda bulunuldu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Binali_Y%C4%B1ld%C4%B1r%C4%B1m_%282018-08-18%29_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Binali_Y%C4%B1ld%C4%B1r%C4%B1m_%282018-08-18%29_%28cropped%29.jpg",
+        "genislik": 794,
+        "yukseklik": 1104,
+        "orijinalGenislik": 794,
+        "yazar": "duma.gov.ru",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Binali_Y%C4%B1ld%C4%B1r%C4%B1m_(2018-08-18)_(cropped).jpg",
+        "aciklama": "Председатель Великого национального собрания Турции Бинали Йылдырым",
+        "konu": "Binali Yıldırım"
+      }
     },
     {
       "id": "2016-haber-637777",
@@ -1341,10 +1532,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hdpli-ozsoy-bu-ulkenin-geleceginde-erdogan-yok-637777"
       },
-      "konular": [],
+      "konular": [
+        "Hişyar Özsoy",
+        "Recep Tayyip Erdoğan",
+        "Halkların Demokratik Partisi"
+      ],
       "yayin": "2016-11-29T17:18:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Hişyar Özsoy'dan Cumhurbaşkanı Erdoğan'ın Siyasi Geleceğine Dair Açıklama",
+      "ozet": "Halkların Demokratik Partisi Eş Genel Başkan Yardımcısı ve Bingöl Milletvekili Hişyar Özsoy, Cumhurbaşkanı Recep Tayyip Erdoğan'ın Türkiye'nin siyasi geleceğinde bir rolü bulunmadığını ifade etti. Özsoy, yaptığı değerlendirmede mevcut yönetimin gelecekteki siyasi süreçlerde yer almayacağını savundu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2015-haber-436483",
@@ -1357,10 +1555,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/burak-yilmazin-buyuk-sampiyonluk-iddiasi-436483"
       },
-      "konular": [],
+      "konular": [
+        "Burak Yılmaz",
+        "Galatasaray (futbol takımı)",
+        "Süper Lig"
+      ],
       "yayin": "2015-11-29T23:00:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Burak Yılmaz Galatasaray'ın Şampiyonluk Hedefini Değerlendirdi",
+      "ozet": "Galatasaray forması giyen deneyimli futbolcu Burak Yılmaz, Kasımpaşa ile oynanan müsabakanın ardından basın mensuplarına konuştu. Karşılaşmanın beraberlikle sonuçlanmasının ardından takımının ligdeki şampiyonluk şansına dair görüşlerini paylaşan oyuncu, hedeflerinin değişmediğini ifade etti.",
+      "kategori": "Spor"
     },
     {
       "id": "2014-haber-151403",
@@ -1373,10 +1578,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/once-erdogan-simdi-bakan-dunyanin-yuvarlak-oldugunu-muslumanlar-buldu-151403"
       },
-      "konular": [],
+      "konular": [
+        "Fikri Işık",
+        "Bilim Sanayi ve Teknoloji Bakanlığı",
+        "Türkiye"
+      ],
       "yayin": "2014-11-29T09:26:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Bilim Bakanı Işık'tan dünyanın şekli üzerine yeni bir açıklama geldi",
+      "ozet": "Cumhurbaşkanı Erdoğan'ın Amerika kıtasının keşfiyle ilgili ifadelerinin ardından Bilim Sanayi ve Teknoloji Bakanı Fikri Işık da konuyla ilgili bir değerlendirmede bulundu. Bakan Işık, dünyanın yuvarlak olduğu bilgisinin Müslüman bilim insanları tarafından ortaya konulduğunu savundu. Bu açıklama, geçmiş dönemdeki bilimsel keşiflerin kökenine dair tartışmaların bir parçası olarak kamuoyuna yansıdı.",
+      "kategori": "Bilim"
     },
     {
       "id": "2014-haber-151127",
@@ -1389,10 +1601,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/secim-icin-kelle-verecekler-151127"
       },
-      "konular": [],
+      "konular": [
+        "17-25 Aralık yolsuzluk ve rüşvet soruşturması",
+        "Yüce Divan",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2014-11-29T05:00:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Yolsuzluk komisyonu sürecinde bakanlar için yargı beklentisi",
+      "ozet": "Meclis bünyesindeki yolsuzluk komisyonuna getirilen yayın yasağı, siyasi çevrelerde farklı değerlendirmelere yol açtı. Muhalefet partileri ve siyasi kulislerde, yaklaşan seçimler de göz önünde bulundurularak iktidar partisinin dört bakandan ikisini yargılanmaları amacıyla Yüce Divan'a sevk edebileceği konuşulmaya başlandı. Yayın yasağı öncesinde bakanların aklanacağı yönündeki genel kanı, bu gelişmeyle birlikte yerini yeni bir tartışma ortamına bıraktı.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2013-haber-14247",
@@ -1405,10 +1625,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/brezilyadan-dunya-kupasi-icin-rekor-harcama-14247"
       },
-      "konular": [],
+      "konular": [
+        "2014 FIFA Dünya Kupası",
+        "Brezilya"
+      ],
       "yayin": "2013-11-29T13:26:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Brezilya 2014 Dünya Kupası Hazırlıkları İçin Yüksek Bütçe Ayırdı",
+      "ozet": "Brezilya, önümüzdeki yaz düzenlenecek olan 2014 FIFA Dünya Kupası organizasyonuna ev sahipliği yapmaya hazırlanıyor. Bu kapsamda gerçekleştirilen hazırlık çalışmaları ve altyapı düzenlemeleri için toplamda 2,5 milyar avro tutarında bir harcama yapıldı. Ülke, turnuvanın başarılı bir şekilde tamamlanması adına büyük bir mali kaynak ayırdı.",
+      "kategori": "Spor",
+      "gorsel": null
     },
     {
       "id": "2013-haber-14391",
@@ -1421,10 +1648,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/turkiyeye-aihmden-rekor-ceza-14391"
       },
-      "konular": [],
+      "konular": [
+        "Kuşkonar ve Koçağılı köylerinin bombalanması",
+        "Avrupa İnsan Hakları Mahkemesi",
+        "Türkiye"
+      ],
       "yayin": "2013-11-29T22:55:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "AİHM'den Türkiye'ye Kuşkonar ve Koçağılı köyleri için tazminat kararı",
+      "ozet": "Avrupa İnsan Hakları Mahkemesi, 1994 senesinde Şırnak'ın Kuşkonar ve Koçağılı köylerine düzenlenen hava saldırısı nedeniyle Türkiye'nin tazminat ödemesine hükmetti. Mahkeme, taraflara ilettiği kararda toplamda 2 milyon 305 bin Euro tutarında bir ödeme yapılmasına karar verdi. Bu gelişme, söz konusu köylerde yaşanan olayların hukuki süreci kapsamında resmiyet kazandı.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2012-haber-386852",
@@ -1437,10 +1672,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/eski-kosova-basbakani-haradinay-beraat-etti-386852"
       },
-      "konular": [],
+      "konular": [
+        "Ramuş Haradinay",
+        "Eski Yugoslavya Uluslararası Ceza Mahkemesi",
+        "Kosova"
+      ],
       "yayin": "2012-11-29T12:33:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Ramuş Haradinay hakkındaki beraat kararı açıklandı",
+      "ozet": "Lahey merkezli Eski Yugoslavya Uluslararası Ceza Mahkemesi, eski Kosova Başbakanı Ramuş Haradinay ile ilgili yargılama sürecini sonlandırdı. Mahkeme heyeti, Haradinay hakkında beraat kararı verdi. Bu hukuki gelişme Kosova genelinde sevinçle karşılanırken, Sırbistan yönetimi karara karşı memnuniyetsizliğini dile getirdi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/ICTY_2006-01-16.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/ICTY_2006-01-16.jpg",
+        "genislik": 715,
+        "yukseklik": 917,
+        "orijinalGenislik": 715,
+        "yazar": "No machine-readable author provided. MoRsE assumed (based on copyright claims).",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:ICTY_2006-01-16.jpg",
+        "aciklama": "Photo taken by MoRsE",
+        "konu": "Eski Yugoslavya Uluslararası Ceza Mahkemesi"
+      }
     },
     {
       "id": "2012-haber-386914",
@@ -1453,10 +1708,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/cervantes-odulunu-bonald-kazandi-386914"
       },
-      "konular": [],
+      "konular": [
+        "Cervantes Ödülü",
+        "Jose Manuel Caballero Bonald",
+        "İspanyol edebiyatı"
+      ],
       "yayin": "2012-11-29T16:26:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cervantes Edebiyat Ödülü Jose Manuel Caballero Bonald'a Verildi",
+      "ozet": "İspanyol dilindeki en saygın edebiyat ödüllerinden biri kabul edilen Cervantes Ödülü'nün yeni sahibi belli oldu. Ödüle, İspanyol edebiyatına katkılarıyla tanınan şair ve yazar Jose Manuel Caballero Bonald layık görüldü.",
+      "kategori": "Edebiyat",
+      "gorsel": null
     },
     {
       "id": "2011-haber-301668",
@@ -1469,10 +1732,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akp-istedi-secimler-iptal-301668"
       },
-      "konular": [],
+      "konular": [
+        "Yalova",
+        "İl Genel Meclisi",
+        "Adalet ve Kalkınma Partisi"
+      ],
       "yayin": "2011-11-29T16:18:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Yalova İl Genel Meclis Başkanlığı Seçimi İptal Edildi",
+      "ozet": "Yalova İl Genel Meclis Başkanlığı görevine nisan ayında muhalefet partilerinin oylarıyla getirilen Atalay Bestaş'ın başkanlığı mahkeme tarafından sonlandırıldı. Adalet ve Kalkınma Partisi temsilcilerinin seçim sonuçlarına yaptığı itirazı değerlendiren yargı organı, yedi ayın ardından seçimin iptaline karar verdi.",
+      "kategori": "Siyaset"
     }
   ],
   "haberYillari": [

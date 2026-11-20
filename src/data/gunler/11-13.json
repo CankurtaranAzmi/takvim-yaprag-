@@ -1056,7 +1056,7 @@
     "url": "https://tr.wikipedia.org/wiki/13_Kas%C4%B1m",
     "revid": 38587042
   },
-  "guncelleme": "2026-11-19T15:24:45.636Z",
+  "guncelleme": "2026-11-20T15:01:31.321Z",
   "haberler": [
     {
       "id": "2025-haber-2452205",
@@ -1087,38 +1087,6 @@
       },
       "konular": [],
       "yayin": "2025-11-13T16:09:00+03:00",
-      "puan": 10,
-      "durum": "haber"
-    },
-    {
-      "id": "2024-haber-2268151",
-      "yil": 2024,
-      "bolge": "turkiye",
-      "tur": "haber",
-      "metin": "NBA şampiyonu Erik Spoelstra’dan maç kaybettiren tarihi hata!",
-      "aciklama": "Amerikan Ulusal Basketbol Ligi (NBA) ekibi Miami Heat'in başantrenörü Erik Spoelstra, Detroit Pistons karşılaşmasında yaptığı hata ile takımının mağlup olmasına neden oldu.",
-      "haberKaynagi": {
-        "ad": "Cumhuriyet",
-        "url": "https://www.cumhuriyet.com.tr/spor/nba-sampiyonu-erik-spoelstradan-mac-kaybettiren-tarihi-hata-2268151"
-      },
-      "konular": [],
-      "yayin": "2024-11-13T12:03:00+03:00",
-      "puan": 11,
-      "durum": "haber"
-    },
-    {
-      "id": "2024-haber-2268382",
-      "yil": 2024,
-      "bolge": "turkiye",
-      "tur": "haber",
-      "metin": "Eczacıbaşı Dynavit, Şampiyonlar Ligi'nde 2'de 2 yaptı!",
-      "aciklama": "Eczacıbaşı Dynavit Kadın Voleybol Takımı, CEV Şampiyonlar Ligi B Grubu'nun 2. haftasında konuk olduğu Almanya temsilcisi SSC Palmberg'i 3-0 yendi.",
-      "haberKaynagi": {
-        "ad": "Cumhuriyet",
-        "url": "https://www.cumhuriyet.com.tr/spor/eczacibasi-dynavit-sampiyonlar-liginde-2de-2-yapti-2268382"
-      },
-      "konular": [],
-      "yayin": "2024-11-13T22:21:00+03:00",
       "puan": 10,
       "durum": "haber"
     },
@@ -1525,7 +1493,6 @@
   ],
   "haberYillari": [
     2025,
-    2024,
     2023,
     2022,
     2021,

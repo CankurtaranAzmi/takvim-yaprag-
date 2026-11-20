@@ -10,10 +10,10 @@
         "II. Henry",
         "Westminster Manastırı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İngiltere Kralı II. Henry'nin Taç Giyme Töreni",
+      "ozet": "İngiltere tahtına geçişi Ekim ayında gerçekleşen II. Henry, 19 Aralık 1154 tarihinde Londra'daki Westminster Abbey Kilisesi'nde düzenlenen görkemli bir törenle resmen taç giydi. Bu tören, İngiltere tarihinde uzun süren bir iç karışıklık döneminin ardından gelen yeni bir dönemin başlangıcını simgeliyordu. II. Henry'nin tahta çıkışı, annesi Matilda ile Kral Stephen arasında varılan anlaşmanın bir sonucu olarak gerçekleşmiş ve ülkede Anarşi olarak bilinen istikrarsız süreci sona erdirmiştir.\n\nWestminster Abbey, 1066 yılından bu yana İngiliz hükümdarlarının taç giyme törenlerine ev sahipliği yapan geleneksel bir merkez olma özelliğini taşımaktadır. II. Henry'nin burada taç giymesi, krallık otoritesinin yeniden tesis edilmesi ve meşruiyetin pekiştirilmesi açısından büyük önem arz ediyordu. Bu olay, Plantagenet Hanedanı'nın İngiltere'deki uzun süreli egemenliğinin de ilk adımlarından biri kabul edilir. II. Henry, hükümdarlığı boyunca İngiliz hukuk sisteminde yaptığı reformlarla ve genişleyen topraklarıyla Orta Çağ Avrupa'sının en güçlü figürlerinden biri haline gelmiştir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Westminster_Abbey_St_Peter.jpg/960px-Westminster_Abbey_St_Peter.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Westminster_Abbey_St_Peter.jpg/500px-Westminster_Abbey_St_Peter.jpg",
@@ -26,7 +26,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Westminster_Abbey_St_Peter.jpg",
         "aciklama": "Westminster Abbey",
         "konu": "Westminster Manastırı"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1805-napolyon-bonapart-komutasindaki-fransiz-ordusu-varsovaya-girdi",
@@ -36,10 +37,10 @@
         "Napolyon Bonapart",
         "Varşova"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Napolyon'un Varşova'ya Girişi",
+      "ozet": "Napolyon Bonapart önderliğindeki Fransız birlikleri, Avrupa'daki askeri harekatları kapsamında 1805 yılının son günlerinde Polonya'nın başkenti Varşova'ya girdi. Bu askeri ilerleme, Fransa'nın kıta üzerindeki hakimiyetini genişletme stratejisinin bir parçası olarak gerçekleşti. Napolyon'un şehre girişi, bölgedeki siyasi dengelerin değişeceği yeni bir dönemin habercisi oldu.  Bu gelişme, kısa bir süre sonra kurulacak olan Varşova Dükalığı'nın temellerinin atılmasına giden süreçte kritik bir rol oynadı. Napolyon'un Avrupa genelinde uyguladığı liberal reformlar ve feodal yapıları tasfiye eden politikaları, Polonya topraklarında da etkisini gösterdi. Şehrin stratejik konumu, Fransız İmparatorluğu'nun doğu sınırlarını koruma ve Rusya ile Avusturya gibi güçlere karşı bir tampon bölge oluşturma hedefleri açısından büyük önem taşıyordu. Varşova, bu dönemden itibaren imparatorluğun Avrupa'daki siyasi ve askeri merkezlerinden biri haline gelerek, Napolyon Savaşları'nın kaderini belirleyen önemli noktalardan biri olarak tarihe geçti.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/960px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/500px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
@@ -53,34 +54,7 @@
         "aciklama": null,
         "konu": "Napolyon Bonapart"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/960px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/500px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
-          "genislik": 960,
-          "yukseklik": 1363,
-          "orijinalGenislik": 1357,
-          "yazar": "Antoine-Jean Gros",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
-          "aciklama": null,
-          "konu": "Napolyon Bonapart"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Skyline_of_Warsaw%2C_Poland_%28cropped%29.jpg/960px-Skyline_of_Warsaw%2C_Poland_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Skyline_of_Warsaw%2C_Poland_%28cropped%29.jpg/500px-Skyline_of_Warsaw%2C_Poland_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 576,
-          "orijinalGenislik": 7341,
-          "yazar": "Quintin Soloviev",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Skyline_of_Warsaw,_Poland_(cropped).jpg",
-          "aciklama": "Winter sunrise over central Warsaw, featuring the Palace of Culture and Science and surrounding skyline, photographed in 2025.",
-          "konu": "Varşova"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1876-osmanli-sadrazami-mutercim-rustu-pasa-yasliligini-ve",
@@ -91,64 +65,24 @@
         "Midhat Paşa",
         "II. Abdülhamid"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Osmanlı Siyasetinde Sadaret Değişimi: Midhat Paşa Göreve Geliyor",
+      "ozet": "Osmanlı İmparatorluğu'nun kritik bir döneminde, sadrazamlık makamında önemli bir nöbet değişimi yaşandı. Beş kez sadrazamlık görevini üstlenmiş olan tecrübeli devlet adamı Mütercim Rüştü Paşa, ilerleyen yaşı ve sağlık problemleri nedeniyle görevinden ayrılma kararı aldı. Padişah II. Abdülhamid, bu boşalan makama reformist kimliğiyle tanınan ve anayasal düzenin kurulması konusunda kararlı bir duruş sergileyen Midhat Paşa'yı atadı. Bu atama, imparatorluğun siyasi geleceği açısından büyük bir dönüm noktası olarak kabul edilmektedir.\n\nMidhat Paşa'nın sadrazamlığa getirilmesi, Osmanlı tarihinde yeni bir dönemin habercisiydi. Özellikle devletin idari yapısını modernleştirmeyi hedefleyen ve ilk Osmanlı anayasası olan Kânûn-ı Esâsî'nin hazırlanmasında öncü rol oynayan Midhat Paşa, bu göreviyle birlikte anayasal monarşiye geçiş sürecini hızlandırdı. Padişah II. Abdülhamid ile girdiği bu iş birliği, kısa süre sonra ilan edilecek olan I. Meşrutiyet'in de temelini oluşturdu. Bu değişim, imparatorluğun içinde bulunduğu siyasi çalkantıları aşma ve merkezi otoriteyi yeniden yapılandırma çabalarının bir parçası olarak tarihe geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Muterjim_Rushdi_Pasha.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Muterjim_Rushdi_Pasha.jpg",
-        "genislik": 473,
-        "yukseklik": 674,
-        "orijinalGenislik": 473,
-        "yazar": "Mehmed Galip",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Nadar_-_Portrait_of_Midhat_Pasha.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Nadar_-_Portrait_of_Midhat_Pasha.jpg",
+        "genislik": 659,
+        "yukseklik": 900,
+        "orijinalGenislik": 659,
+        "yazar": "Nadar",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Muterjim_Rushdi_Pasha.jpg",
-        "aciklama": "Muterjim Mehmed Rushdi Pasha (1811-1882) Ottoman Grand Vizier",
-        "konu": "Mütercim Mehmed Rüşdi Paşa"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Nadar_-_Portrait_of_Midhat_Pasha.jpg",
+        "aciklama": "Midhat Pasha (1822–1884) Ottoman statesman.",
+        "konu": "Midhat Paşa"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Muterjim_Rushdi_Pasha.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Muterjim_Rushdi_Pasha.jpg",
-          "genislik": 473,
-          "yukseklik": 674,
-          "orijinalGenislik": 473,
-          "yazar": "Mehmed Galip",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Muterjim_Rushdi_Pasha.jpg",
-          "aciklama": "Muterjim Mehmed Rushdi Pasha (1811-1882) Ottoman Grand Vizier",
-          "konu": "Mütercim Mehmed Rüşdi Paşa"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Nadar_-_Portrait_of_Midhat_Pasha.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Nadar_-_Portrait_of_Midhat_Pasha.jpg",
-          "genislik": 659,
-          "yukseklik": 900,
-          "orijinalGenislik": 659,
-          "yazar": "Nadar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Nadar_-_Portrait_of_Midhat_Pasha.jpg",
-          "aciklama": "Midhat Pasha (1822–1884) Ottoman statesman.",
-          "konu": "Midhat Paşa"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sultan_Gazi_Abd%C3%BCl_Hamid_II_-_%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D9%8A_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png/960px-Sultan_Gazi_Abd%C3%BCl_Hamid_II_-_%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D9%8A_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sultan_Gazi_Abd%C3%BCl_Hamid_II_-_%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D9%8A_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png/500px-Sultan_Gazi_Abd%C3%BCl_Hamid_II_-_%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D9%8A_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png",
-          "genislik": 960,
-          "yukseklik": 1175,
-          "orijinalGenislik": 2327,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Sultan_Gazi_Abd%C3%BCl_Hamid_II_-_%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D9%8A_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png",
-          "aciklama": null,
-          "konu": "II. Abdülhamid"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1909-almanyanin-borussia-dortmund-futbol-kulubu-kuruldu",
@@ -159,23 +93,12 @@
         "Borussia Dortmund",
         "futbol"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/960px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/500px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
-        "genislik": 960,
-        "yukseklik": 653,
-        "orijinalGenislik": 3420,
-        "yazar": "Rick Dikeman",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1995.jpg",
-        "aciklama": "Association football (soccer), Bloomington, Indiana. The offensive player (in red) is Chris Klein of the Indiana Hoosiers. He has sprinted past two defenders (in white) and is about to shoot the ball ",
-        "konu": "futbol"
-      }
+      "baslik": "Dünya Futbolunun Devlerinden Borussia Dortmund Kuruldu",
+      "ozet": "Almanya'nın Kuzey Ren-Vestfalya eyaletinde yer alan Dortmund şehrinde, 19 Aralık 1909 tarihinde Ballspielverein Borussia 09 e. V. Dortmund adıyla kurulan kulüp, zamanla ülkenin ve dünyanın en önemli spor organizasyonlarından biri haline geldi. Başlangıçta futbolun yanı sıra atletizm, boks ve hentbol gibi farklı branşlarda da faaliyet göstermek amacıyla yola çıkan kulüp, günümüzde özellikle futbol takımıyla dünya çapında büyük bir taraftar kitlesine ulaşmıştır.\n\nBorussia Dortmund, tarihsel süreçte elde ettiği başarılarla Alman futbolunun lokomotiflerinden biri olmuştur. Kulüp, müzesinde bulundurduğu çok sayıda Bundesliga şampiyonluğu, Almanya Kupası ve Almanya Süper Kupası zaferleriyle istikrarlı bir başarı grafiği çizmiştir. Avrupa arenasında da önemli izler bırakan ekip, 1966 yılında kazandığı UEFA Kupa Galipleri Kupası ile Avrupa'da kupa kaldıran ilk Alman takımı olma unvanını elde etmiştir. 1997 yılında kazandığı UEFA Şampiyonlar Ligi şampiyonluğu ise kulüp tarihinin en parlak sayfalarından biridir. Bugün Signal Iduna Park stadyumunda maçlarını oynayan ve yüz binlerce üyeye sahip olan kulüp, yüksek taraftar ortalamasıyla futbol dünyasının en tutkulu topluluklarından birini temsil etmektedir.",
+      "kategori": "Spor",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1914-ingilizler-gorevdeki-misir-hidivi-ii-abbas-hilmi",
@@ -242,10 +165,10 @@
         "Anafartalar Cephesi",
         "Arıburnu Cephesi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Çanakkale'de Tahliye: Anzak ve İngiliz Birliklerinin Çekilişi",
+      "ozet": "I. Dünya Savaşı'nın en çetin muharebelerinden birine sahne olan Gelibolu Yarımadası'nda, İtilaf Devletleri için büyük bir hayal kırıklığıyla sonuçlanan tahliye süreci 19 Aralık 1915'te tamamlandı. Aylar süren kanlı çatışmaların ardından, stratejik hedeflerine ulaşamayan ve ağır kayıplar veren İngiliz ve Anzak birlikleri, Arıburnu ve Anafartalar cephelerindeki mevzilerini terk ederek bölgeden ayrılmaya başladı. Bu geri çekilme, Çanakkale Cephesi'ndeki Müttefik varlığının sona ermesi yolunda atılan en kritik adımlardan biri oldu.\n\nTahliye süreci, Türk savunma hatlarına fark ettirilmeden gerçekleştirilen oldukça hassas bir askeri operasyondu. Müttefik komutanlığı, askerlerini büyük bir gizlilik içinde gemilere bindirerek bölgeden uzaklaştırmayı başardı. Bu çekilme, Türk ordusu için büyük bir zaferin tescili anlamına gelirken, İtilaf Devletleri açısından ise Çanakkale'yi geçerek İstanbul'a ulaşma hedefinin tamamen terk edilmesi demekti. Gelibolu'daki bu tahliye, savaşın genel stratejisinde önemli bir kırılma noktası oluşturmuş ve bölgedeki askeri dengeleri kesin olarak Türk tarafının lehine çevirmiştir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Anzac_Cove_encampment_1915.jpg/960px-Anzac_Cove_encampment_1915.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Anzac_Cove_encampment_1915.jpg/500px-Anzac_Cove_encampment_1915.jpg",
@@ -259,47 +182,7 @@
         "aciklama": "New Zealand soldiers' encampment at Anzac Cove 1915.",
         "konu": "Avustralya ve Yeni Zelanda Kolordusu"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Anzac_Cove_encampment_1915.jpg/960px-Anzac_Cove_encampment_1915.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Anzac_Cove_encampment_1915.jpg/500px-Anzac_Cove_encampment_1915.jpg",
-          "genislik": 960,
-          "yukseklik": 616,
-          "orijinalGenislik": 2381,
-          "yazar": "user:GrahamBould",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Anzac_Cove_encampment_1915.jpg",
-          "aciklama": "New Zealand soldiers' encampment at Anzac Cove 1915.",
-          "konu": "Avustralya ve Yeni Zelanda Kolordusu"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Suvla_from_Battleship_Hill.jpg/960px-Suvla_from_Battleship_Hill.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Suvla_from_Battleship_Hill.jpg/500px-Suvla_from_Battleship_Hill.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 1236,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Suvla_from_Battleship_Hill.jpg",
-          "aciklama": null,
-          "konu": "Anafartalar Cephesi"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Anzac%2C_the_landing_1915.jpg/960px-Anzac%2C_the_landing_1915.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Anzac%2C_the_landing_1915.jpg/500px-Anzac%2C_the_landing_1915.jpg",
-          "genislik": 960,
-          "yukseklik": 514,
-          "orijinalGenislik": 2200,
-          "yazar": "George Washington Lambert",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Anzac,_the_landing_1915.jpg",
-          "aciklama": "The painting depicts the Australian soldiers of the covering force (3rd Infantry Brigade) climbing the seaward slope of Plugge's Plateau which overlooks the northern end of Anzac Cove. The view is to ",
-          "konu": "Arıburnu Cephesi"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1918-hatay-ilinin-dortyol-ilcesinde-fransiz-guclerine-karsi",
@@ -308,23 +191,12 @@
       "konular": [
         "Hatay"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Antakya_-_2011-04-10.jpg/960px-Antakya_-_2011-04-10.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Antakya_-_2011-04-10.jpg/500px-Antakya_-_2011-04-10.jpg",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 3264,
-        "yazar": "Maarten Sepp",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Antakya_-_2011-04-10.jpg",
-        "aciklama": "Antakya (Antioch), Hatay province, Turkey.",
-        "konu": "Hatay"
-      }
+      "baslik": "Dörtyol'da Fransız İşgaline Karşı İlk Kurşun",
+      "ozet": "Birinci Dünya Savaşı'nın ardından imzalanan Mondros Ateşkes Antlaşması sonrasında, İtilaf Devletleri Anadolu'nun çeşitli bölgelerini işgal etmeye başlamıştı. Bu süreçte Fransız kuvvetleri, stratejik öneme sahip olan Hatay ve çevresini kontrol altına almak amacıyla bölgeye girdi. 19 Aralık 1918 tarihinde, Dörtyol'un Karakese beldesinde Ömer Hocanın oğlu Mehmet, halk arasında bilinen adıyla Kara Mehmet, işgalci güçlere karşı ilk kurşunu sıkarak bölgedeki silahlı direnişi başlattı.\n\nBu olay, Türk Kurtuluş Savaşı'nın yerel düzeydeki ilk kıvılcımlarından biri olarak kabul edilir. Kara Mehmet'in gösterdiği bu cesur tavır, bölge halkının işgale karşı sessiz kalmayacağını ve bağımsızlık mücadelesine hazır olduğunu gösteren sembolik bir eyleme dönüştü. Dörtyol'da yakılan bu direniş ateşi, kısa sürede çevre bölgelere yayılarak işgalcilere karşı örgütlü bir mücadelenin temelini oluşturdu. Bugün bu olay, Türk milletinin vatan savunmasındaki kararlılığının ve bağımsızlık tutkusunun önemli bir nişanesi olarak anılmaktadır.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1919-mustafa-kemal-ve-heyeti-temsiliye-sivastan-ankaraya",
@@ -333,10 +205,10 @@
       "konular": [
         "Mustafa Kemal Atatürk"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Millî Mücadele'nin Kalbi Ankara'ya Taşınıyor",
+      "ozet": "Mustafa Kemal Paşa, Heyet-i Temsiliye ile birlikte 19 Aralık 1919 tarihinde Sivas'tan ayrılarak Ankara'ya doğru tarihî bir yolculuğa başladı. Sivas Kongresi'nin ardından Millî Mücadele'nin idari ve stratejik merkezi olarak Ankara'nın seçilmesi, bağımsızlık hareketinin geleceği açısından kritik bir dönüm noktasıydı. Ankara'nın coğrafi konumu, demiryolu ağına yakınlığı ve Batı Cephesi'ne olan stratejik mesafesi, bu kararın alınmasında belirleyici rol oynadı.\n\nAnkara'ya varış, sadece bir yer değişikliği değil, aynı zamanda yeni kurulacak olan devletin temellerinin atılacağı bir sürecin başlangıcıydı. Mustafa Kemal Paşa, Ankara'da halkın büyük bir coşkusuyla karşılandı ve burayı Millî Mücadele'nin karargâhı haline getirdi. Bu hamle, İstanbul'daki işgal yönetimine karşı Anadolu'daki direnişin daha organize ve merkezi bir yapıya kavuşmasını sağladı. Ankara'nın merkez seçilmesi, ilerleyen süreçte Türkiye Büyük Millet Meclisi'nin açılmasına ve nihayetinde Cumhuriyet'in ilanına giden yolda en önemli siyasi adımlardan biri olarak tarihe geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
@@ -349,7 +221,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
         "aciklama": "A portrait of Atatürk from the 1930s. Kemal Atatürk (Mustafa Kemal Pasha until 1934, Kamâl Atatürk from 1935 to 1937, commonly referred to as Mustafa Kemal Atatürk; 1881 – 10 November 1938) was a Turk",
         "konu": "Mustafa Kemal Atatürk"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1920-milli-mucadeleyi-destekleyen-antalyada-anadolu-gazetesi-yayinlanmaya",
@@ -358,10 +231,10 @@
       "konular": [
         "Türk Kurtuluş Savaşı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Antalya'da Millî Mücadele'nin Sesi: Anadolu Gazetesi",
+      "ozet": "Anadolu gazetesi, Türk Kurtuluş Savaşı'nın en çetin geçtiği dönemlerden biri olan 1920 yılında, Antalya'da yayın hayatına atılmıştır. Millî Mücadele yanlısı bir yayın çizgisi benimseyen gazete, o dönemde İtilaf Devletleri tarafından işgal edilen topraklarda halkın moralini yüksek tutmayı ve bağımsızlık hareketine dair doğru bilgileri kamuoyuna ulaştırmayı hedeflemiştir. Yerel basının, işgal altındaki bölgelerde halkı bilinçlendirme ve organize etme konusundaki kritik rolünün bir örneğini temsil etmektedir.\n\nGazetenin yayına başlaması, Anadolu'nun dört bir yanında Millî Mücadele'yi desteklemek amacıyla kurulan basın kuruluşlarının bir parçası olarak değerlendirilmektedir. Bu tür yayınlar, Mustafa Kemal Paşa önderliğinde yürütülen mücadelenin halka anlatılmasında ve millî birliğin sağlanmasında önemli bir işlev görmüştür. Antalya'da yayınlanan Anadolu gazetesi, bölgedeki millî bilincin pekişmesine katkı sağlayarak, Kurtuluş Savaşı'nın sadece cephede değil, aynı zamanda fikir ve basın dünyasında da büyük bir kararlılıkla yürütüldüğünün göstergesi olmuştur.",
+      "kategori": "Edebiyat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/T%C3%BCrk_Kurtulu%C5%9F_Sava%C5%9F%C4%B1_-_kolaj.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/T%C3%BCrk_Kurtulu%C5%9F_Sava%C5%9F%C4%B1_-_kolaj.jpg",
@@ -374,7 +247,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:T%C3%BCrk_Kurtulu%C5%9F_Sava%C5%9F%C4%B1_-_kolaj.jpg",
         "aciklama": "Türk Kurtuluş Savaşı'na ait görüntülerin yer aldığı savaş yıllarına ait kesit/resimlerle desteklenmiş kolaj çalışması.",
         "konu": "Türk Kurtuluş Savaşı"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1948-izmir-sehir-tiyatrosu-ve-sergi-sarayi-yandi",
@@ -383,23 +257,12 @@
       "konular": [
         "İzmir"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/960px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C4%B0zmir_Clock_Tower%2C_December_2018.jpg/500px-%C4%B0zmir_Clock_Tower%2C_December_2018.jpg",
-        "genislik": 960,
-        "yukseklik": 1280,
-        "orijinalGenislik": 3024,
-        "yazar": "BSRF",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0zmir_Clock_Tower,_December_2018.jpg",
-        "aciklama": "İzmir Clock Tower in Turkey.",
-        "konu": "İzmir"
-      }
+      "baslik": "İzmir Şehir Tiyatrosu ve Sergi Sarayı'nda Büyük Yangın",
+      "ozet": "İzmir'in kültürel yaşamında önemli bir yere sahip olan Şehir Tiyatrosu ve Sergi Sarayı binası, 1948 yılının Aralık ayında meydana gelen ve şehrin hafızasında derin izler bırakan bir yangın felaketiyle yok olmuştur. Dönemin modern mimari anlayışını yansıtan ve şehre sanatsal bir kimlik kazandıran bu yapı, sadece gösterilere ev sahipliği yapmasıyla değil, aynı zamanda kentli için bir buluşma noktası olmasıyla da büyük bir öneme sahipti. Yangın, binanın mimari değerlerinin yanı sıra içerisindeki teknik donanım ve sanatsal arşivin de büyük ölçüde kaybedilmesine neden olmuştur. Bu olay, İzmir'in kültürel altyapısının yeniden inşası sürecinde bir dönüm noktası olarak kabul edilir. Yangın sonrası dönemde, şehrin sanatsal faaliyetlerini sürdürebilmesi için yeni mekân arayışları hız kazanmış ve bu durum İzmir'in modernleşme sürecindeki kültürel mekan ihtiyacını bir kez daha gündeme getirmiştir. Yapının kaybı, sadece fiziksel bir yıkım değil, aynı zamanda şehrin sanat tarihinin önemli bir parçasının da yok oluşu anlamına geliyordu.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1950-dwight-d-eisenhower-kuzey-atlantik-antlasmasi-teskilati",
@@ -409,10 +272,10 @@
         "Dwight D. Eisenhower",
         "NATO"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Eisenhower NATO Kuvvetlerinin Başına Geçti",
+      "ozet": "İkinci Dünya Savaşı'nın efsanevi komutanlarından Dwight D. Eisenhower, 1950 yılının son günlerinde NATO Müttefik Kuvvetler Avrupa Yüksek Karargahı'nın (SHAPE) başına getirildi. Bu stratejik atama, henüz kuruluşunun ilk yıllarında olan ve ağırlıklı olarak siyasi bir yapı görünümündeki NATO'nun, askeri bir teşkilatlanmaya geçiş sürecinde atılan en kritik adımlardan biri kabul edilir. Eisenhower'ın göreve getirilmesi, Avrupa'nın savunma güvenliğinin Amerika Birleşik Devletleri'nin askeri tecrübesiyle birleştirilmesi anlamına geliyordu.\n\nNATO, 1949 yılında kurulduğunda başlangıçta sadece bir savunma paktı niteliği taşıyordu. Ancak Kore Savaşı'nın patlak vermesi ve Soğuk Savaş geriliminin tırmanması, ittifakın daha somut ve işlevsel bir askeri yapıya dönüşmesini zorunlu kıldı. Eisenhower, savaş yıllarında Müttefik Seferi Kuvvetler Yüksek Komutanı olarak kazandığı birleştirici liderlik vasıfları sayesinde, Avrupa'daki müttefik ülkelerin ordularını ortak bir komuta altında toplama görevini üstlendi. Bu adım, NATO'nun sadece bir anlaşma metni olmaktan çıkıp, Soğuk Savaş boyunca sürecek olan kurumsallaşmış askeri bir güce evrilmesinin yolunu açtı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/960px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/500px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg",
@@ -425,7 +288,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg",
         "aciklama": "An official portrait of Dwight D. Eisenhower",
         "konu": "Dwight D. Eisenhower"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1965-de-gaulle-fransa-cumhurbaskanligina-yeniden-secildi",
@@ -435,10 +299,10 @@
         "Charles de Gaulle",
         "Fransa"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Charles de Gaulle İkinci Kez Cumhurbaşkanı Seçildi",
+      "ozet": "Fransa'nın Beşinci Cumhuriyet döneminin kurucusu ve ilk cumhurbaşkanı olan Charles de Gaulle, 1965 yılında yapılan seçimlerde halkın büyük çoğunluğunun desteğini alarak görevine ikinci kez seçildi. Bu seçim, Fransa'da cumhurbaşkanının doğrudan halk oyuyla belirlendiği ilk seçim olma özelliğini taşıyordu. De Gaulle, bu zaferiyle birlikte ülkedeki siyasi otoritesini pekiştirmiş ve 1958 yılında kurduğu yeni anayasal düzenin kalıcılığını tescillemiş oldu. II. Dünya Savaşı'ndaki liderliği ve ardından gelen siyasi istikrar arayışıyla tanınan de Gaulle, bu dönemde Fransa'nın uluslararası arenadaki konumunu güçlendirmeye odaklandı. Cezayir krizinin ardından emeklilikten dönerek ülkeyi yönetmeye başlayan lider, Beşinci Cumhuriyet'in temellerini atarak Fransa'nın modern siyasi yapısını şekillendirdi. 1965 yılındaki bu seçim başarısı, onun 1969 yılındaki istifasına kadar sürecek olan iktidarının en önemli dönüm noktalarından biri olarak kabul edilir. De Gaulle'ün liderliği, Fransa'nın hem iç siyasetinde hem de dış politikasında merkeziyetçi ve güçlü bir devlet anlayışının yerleşmesini sağlamıştır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/De_Gaulle-OWI.jpg/960px-De_Gaulle-OWI.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/De_Gaulle-OWI.jpg/500px-De_Gaulle-OWI.jpg",
@@ -451,7 +315,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:De_Gaulle-OWI.jpg",
         "aciklama": "WWII French General Charles De Gaulle A WWII photo portrait of General Charles de Gaulle of the Free French Forces and first president of the Fifth Republic serving from 1959 to 1969.",
         "konu": "Charles de Gaulle"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1966-koc-grubu-tarafindan-uretilen-ilk-turk-otomobili",
@@ -461,23 +326,12 @@
         "Koç Holding",
         "Anadol"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Ko%C3%A7_Holding_headquarters.jpg/960px-Ko%C3%A7_Holding_headquarters.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Ko%C3%A7_Holding_headquarters.jpg/500px-Ko%C3%A7_Holding_headquarters.jpg",
-        "genislik": 960,
-        "yukseklik": 1169,
-        "orijinalGenislik": 2352,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC0",
-        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ko%C3%A7_Holding_headquarters.jpg",
-        "aciklama": "Koç Holding Corporate Headquarters, Istanbul by Project Leader: Sedat Hakki Eldem - European Heritage Awards Archive, Austria - Public Domain.",
-        "konu": "Koç Holding"
-      }
+      "baslik": "Türkiye'nin İlk Seri Üretim Otomobili Anadol Yollara Çıktı",
+      "ozet": "Türkiye otomotiv sanayisi için bir dönüm noktası olan Anadol, 1966 yılının sonunda Koç Grubu tarafından geliştirilerek satışa sunuldu. Vehbi Koç'un vizyonuyla hayata geçirilen bu proje, Türkiye'de seri üretim bandından çıkan ilk yerli otomobil markası olma unvanını kazandı. Dönemin şartlarında 26 bin 800 lira gibi bir bedelle alıcı bulan araç, yerli sanayinin dışa bağımlılığını azaltma hedefi doğrultusunda atılmış en somut adımlardan biri olarak kabul edildi.\n\nAnadol'un üretimi, Türkiye'nin sanayileşme hamlesinde otomotiv sektörünün gelişimine büyük katkı sağladı. Tasarımı ve teknik özellikleriyle Türk halkının otomobil sahibi olma hayallerini ulaşılabilir kılan bu girişim, sadece bir ulaşım aracı değil, aynı zamanda yerli mühendislik ve üretim kapasitesinin bir göstergesiydi. Yıllar içerisinde farklı modelleriyle yollarda yerini alan Anadol, Türk otomobil tarihinin en ikonik sembollerinden biri haline gelerek sanayi kültürünün yerleşmesinde önemli bir rol oynadı.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1968-piyanist-idil-biret-pariste-dunyanin-unlu-bes",
@@ -487,23 +341,12 @@
         "İdil Biret",
         "Paris"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/960px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/500px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-        "genislik": 960,
-        "yukseklik": 600,
-        "orijinalGenislik": 4592,
-        "yazar": "Yann Caradec from Paris, France",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
-        "aciklama": "La Tour Eiffel vue de la Tour Saint-Jacques, Paris.",
-        "konu": "Paris"
-      }
+      "baslik": "İdil Biret'in Paris'teki Büyük Virtüözler Konseri",
+      "ozet": "Türk piyano sanatçısı İdil Biret, 19 Aralık 1968'de Paris'te gerçekleşen prestijli bir etkinlikte dünyanın en yetenekli beş virtüözüyle aynı sahneyi paylaşarak uluslararası müzik dünyasındaki yerini bir kez daha kanıtladı. Henüz genç yaşlarında Harika Çocuk Yasası ile Paris Konservatuvarı'na gönderilen ve burada Alfred Cortot gibi efsanevi isimlerle çalışma fırsatı bulan Biret, bu konserle birlikte Avrupa'nın müzik merkezlerinde aranan bir sanatçı olduğunu tescillemiş oldu.\n\nİdil Biret'in kariyeri, klasik müzik dünyasında Türkiye'yi temsil eden en önemli figürlerden biri olarak kabul edilir. 16 yaşından itibaren dünya sahnelerinde binlerce konser veren sanatçı, özellikle piyano literatüründeki zorlu eserleri yorumlamasıyla tanınır. Paris'teki bu konser, onun sadece bir öğrenci olarak değil, dünyanın en iyi piyanistleriyle eşit düzeyde performans sergileyen bir virtüöz olarak kabul edildiği dönemin önemli bir göstergesidir. Biret'in bu başarısı, Türk müzisyenlerin uluslararası arenada kazandığı saygınlığın erken dönem örneklerinden biri olarak müzik tarihimizdeki yerini almıştır.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1969-amerikan-6-filosu-izmire-geldi-filonun-gelisi",
@@ -570,10 +413,10 @@
         "Andrey Saharov",
         "Yelena Bonner"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Andrey Saharov'un Yıllar Süren Sürgünü Sona Erdi",
+      "ozet": "Sovyetler Birliği yönetimi, 1986 yılının son günlerinde, ülkenin en tanınmış muhaliflerinden biri olan nükleer fizikçi Andrey Saharov ve eşi Yelena Bonner üzerindeki sürgün kararını kaldırdığını açıkladı. Yıllardır süren bu tecrit politikasına son verilmesi, dünya kamuoyunda Sovyetler Birliği'ndeki siyasi atmosferin yumuşayacağına dair önemli bir işaret olarak yorumlandı. Saharov, bilimsel başarılarının yanı sıra insan hakları ve silahsızlanma konusundaki kararlı duruşuyla tanınan bir isimdi.\n\nSaharov, Sovyet nükleer programındaki kritik rolüne rağmen, devletin baskıcı politikalarını ve nükleer silahlanmayı eleştirmeye başladığında yönetimin hedefi haline gelmişti. 1975 yılında Nobel Barış Ödülü'ne layık görülmesine rağmen baskılar artmış ve 1980 yılında Gorki şehrine sürgün edilmişti. Altı yıl süren bu zorunlu ikamet, Saharov'un bilim dünyasından ve sosyal hayattan koparılmasını amaçlıyordu. Serbest bırakılması, Sovyetler Birliği'nde Mihail Gorbaçov döneminde başlatılan reform sürecinin, yani glasnost ve perestroyka politikalarının somut bir yansıması olarak tarihe geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/RIAN_archive_25981_Academician_Sakharov.jpg/960px-RIAN_archive_25981_Academician_Sakharov.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/RIAN_archive_25981_Academician_Sakharov.jpg/500px-RIAN_archive_25981_Academician_Sakharov.jpg",
@@ -586,7 +429,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:RIAN_archive_25981_Academician_Sakharov.jpg",
         "aciklama": "“Academician Sakharov”. Academician Andrei Sakharov being interviewed at a conference of the U.S.S.R. Academy of Sciences.",
         "konu": "Andrey Saharov"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1987-uluslararasi-cumhuriyet-halter-turnuvasinda-naim-suleymanoglu-ilk",
@@ -649,51 +493,12 @@
         "Çanakkale",
         "Ümraniye"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Havadan_cnk.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Havadan_cnk.jpg",
-        "genislik": 900,
-        "yukseklik": 602,
-        "orijinalGenislik": 900,
-        "yazar": "Myamya",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Havadan_cnk.jpg",
-        "aciklama": "Canakkale from the Air - Murat",
-        "konu": "Çanakkale"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Havadan_cnk.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Havadan_cnk.jpg",
-          "genislik": 900,
-          "yukseklik": 602,
-          "orijinalGenislik": 900,
-          "yazar": "Myamya",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Havadan_cnk.jpg",
-          "aciklama": "Canakkale from the Air - Murat",
-          "konu": "Çanakkale"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/%C3%9Cmraniye.jpg/960px-%C3%9Cmraniye.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/%C3%9Cmraniye.jpg/500px-%C3%9Cmraniye.jpg",
-          "genislik": 960,
-          "yukseklik": 806,
-          "orijinalGenislik": 3207,
-          "yazar": "Itidal",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%9Cmraniye.jpg",
-          "aciklama": "Taken in Atakent, Ümraniye, Istanbul",
-          "konu": "Ümraniye"
-        }
-      ]
+      "baslik": "Cezaevlerinde Hayata Dönüş Operasyonu",
+      "ozet": "Türkiye'de cezaevlerinde uygulanan F tipi hücre sistemine ve tecrit koşullarına karşı tutuklu ve hükümlülerin başlattığı açlık grevi ve ölüm orucu eylemleri, 19 Aralık 2000 tarihinde devletin müdahalesiyle yeni bir boyuta taşındı. Hayata Dönüş Operasyonu adı verilen bu geniş çaplı müdahale, aynı anda 20 farklı cezaevinde yaklaşık 10 bin güvenlik görevlisinin katılımıyla gerçekleştirildi. Operasyonun ilk gününde Çanakkale ve Ümraniye dışındaki 18 cezaevinde eylemler sona erdirildi.\n\nBu operasyon, Türk ceza infaz sistemi tarihindeki en tartışmalı ve sarsıcı olaylardan biri olarak kayıtlara geçti. Müdahale sonucunda 2'si asker olmak üzere toplam 32 kişi hayatını kaybederken, yüzlerce kişi yaralandı. Operasyonun ardından cezaevlerinde F tipi hücre sistemine geçiş süreci hızlandırıldı. Olay, hem insan hakları savunucuları hem de kamuoyunda uzun yıllar boyunca hukuki ve siyasi tartışmaların odağında yer aldı; cezaevi yönetimi ve güvenlik politikaları açısından bir dönüm noktası olarak kabul edildi.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "2001-kabile-en-az-3-bin-kisiden-olusacak",
@@ -703,51 +508,24 @@
         "Kâbil",
         "Birleşmiş Milletler Güvenlik Konseyi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Kabil'de Uluslararası Güvenlik Gücü Görevi Başlıyor",
+      "ozet": "Birleşmiş Milletler Güvenlik Konseyi, 2001 yılının sonunda aldığı kritik bir kararla Afganistan'da barışın tesisi için önemli bir adım attı. Taliban rejiminin devrilmesinin ardından ülkede oluşan otorite boşluğunu doldurmak ve geçiş sürecini güvenli kılmak amacıyla, Kabil merkezli yaklaşık 3 bin kişilik çok uluslu bir gücün bölgeye gönderilmesi onaylandı. Bu karar, savaşın yaralarını sarmaya çalışan Afganistan'da uluslararası toplumun aktif bir rol üstlenmesinin önünü açtı. Uluslararası Güvenlik Destek Gücü (ISAF) olarak adlandırılan bu yapı, başlangıçta sadece başkent Kabil ve çevresinde güvenliği sağlamakla görevlendirildi. Zamanla görev alanı genişleyen bu güç, Afganistan'ın yeniden inşası ve demokratik kurumların yerleşmesi sürecinde merkezi bir rol oynadı. Birleşmiş Milletler'in bağlayıcı karar alma yetkisine sahip en güçlü organı olan Güvenlik Konseyi'nin bu girişimi, bölgedeki istikrarsızlığın küresel bir tehdit oluşturmasını engellemek adına atılmış stratejik bir hamle olarak tarihe geçti.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kabul%2C_Afghanistan_view.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kabul%2C_Afghanistan_view.jpg",
-        "genislik": 959,
-        "yukseklik": 640,
-        "orijinalGenislik": 959,
-        "yazar": "Weaveravel",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Kabul,_Afghanistan_view.jpg",
-        "aciklama": "Kabul, Afghanistan view",
-        "konu": "Kâbil"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/UN-Sicherheitsrat_-_UN_Security_Council_-_New_York_City_-_2014_01_06.jpg/960px-UN-Sicherheitsrat_-_UN_Security_Council_-_New_York_City_-_2014_01_06.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/UN-Sicherheitsrat_-_UN_Security_Council_-_New_York_City_-_2014_01_06.jpg/500px-UN-Sicherheitsrat_-_UN_Security_Council_-_New_York_City_-_2014_01_06.jpg",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 3648,
+        "yazar": "Per Krohg",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:UN-Sicherheitsrat_-_UN_Security_Council_-_New_York_City_-_2014_01_06.jpg",
+        "aciklama": "United Nations Security Council on the United Nations Headquarters in New York City",
+        "konu": "Birleşmiş Milletler Güvenlik Konseyi"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kabul%2C_Afghanistan_view.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kabul%2C_Afghanistan_view.jpg",
-          "genislik": 959,
-          "yukseklik": 640,
-          "orijinalGenislik": 959,
-          "yazar": "Weaveravel",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Kabul,_Afghanistan_view.jpg",
-          "aciklama": "Kabul, Afghanistan view",
-          "konu": "Kâbil"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/UN-Sicherheitsrat_-_UN_Security_Council_-_New_York_City_-_2014_01_06.jpg/960px-UN-Sicherheitsrat_-_UN_Security_Council_-_New_York_City_-_2014_01_06.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/UN-Sicherheitsrat_-_UN_Security_Council_-_New_York_City_-_2014_01_06.jpg/500px-UN-Sicherheitsrat_-_UN_Security_Council_-_New_York_City_-_2014_01_06.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 3648,
-          "yazar": "Per Krohg",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:UN-Sicherheitsrat_-_UN_Security_Council_-_New_York_City_-_2014_01_06.jpg",
-          "aciklama": "United Nations Security Council on the United Nations Headquarters in New York City",
-          "konu": "Birleşmiş Milletler Güvenlik Konseyi"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "2003-libya-lideri-muammer-kaddafi-ulkesinin-nukleer-ve",
@@ -758,10 +536,10 @@
         "Muammer Kaddafi",
         "nükleer"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Libya'nın Nükleer Silah Programını Sonlandırması",
+      "ozet": "Libya lideri Muammer Kaddafi, 19 Aralık 2003 tarihinde uluslararası kamuoyunu şaşırtan bir kararla, ülkesinin kitle imha silahları üretme hedefinden tamamen vazgeçtiğini duyurdu. Bu beklenmedik açıklama, Libya'nın nükleer, kimyasal ve biyolojik silah programlarını durdurmayı ve bu süreçte uluslararası denetçilerle tam bir iş birliği içinde çalışmayı kabul etmesini içeriyordu. Kaddafi'nin bu adımı, Libya'nın uzun yıllardır süregelen Batı dünyasıyla olan gerilimli ilişkilerinde bir dönüm noktası olarak kabul edildi.\n\nSöz konusu karar, Libya'nın uluslararası izolasyondan kurtulması ve ekonomik yaptırımların kaldırılması yolunda atılmış stratejik bir hamle olarak değerlendirildi. Kaddafi yönetimi, bu taahhüdüyle birlikte nükleer tesislerini ve ilgili ekipmanlarını uluslararası gözlemcilere açarak şeffaflık sözü verdi. Bu gelişme, Orta Doğu ve Kuzey Afrika bölgesindeki nükleer silahlanma tartışmalarında önemli bir diplomatik başarı olarak görülmüş ve Libya'nın küresel siyasete yeniden entegre olma sürecini başlatmıştır.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/960px-Muammar_al-Gaddafi_at_the_AU_summit.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/500px-Muammar_al-Gaddafi_at_the_AU_summit.jpg",
@@ -774,7 +552,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Muammar_al-Gaddafi_at_the_AU_summit.jpg",
         "aciklama": "Muammar al-Gaddafi at the 12th AU summit, February 2, 2009, in Addis Ababa.",
         "konu": "Muammer Kaddafi"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "2016-rusyanin-ankara-buyukelcisi-andrey-karlov-ankarada-katildigi",
@@ -784,10 +563,10 @@
         "Andrey Karlov",
         "Andrey Karlov suikastı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Rusya'nın Ankara Büyükelçisi Andrey Karlov'a Suikast",
+      "ozet": "Rusya'nın Ankara Büyükelçisi Andrey Karlov, 19 Aralık 2016 tarihinde Ankara'daki Çağdaş Sanatlar Merkezi'nde düzenlenen bir fotoğraf sergisinin açılışı sırasında uğradığı silahlı saldırı sonucu yaşamını yitirdi. Saldırıyı gerçekleştiren Mevlüt Mert Altıntaş, olay yerinde güvenlik güçleriyle girdiği çatışma neticesinde etkisiz hale getirildi. Karlov, 2013 yılından beri sürdürdüğü büyükelçilik görevi sırasında iki ülke arasındaki diplomatik ilişkilerin kritik bir döneminde görev yapıyordu.\n\nBu trajik olay, Türkiye ile Rusya arasındaki diplomatik ilişkilerde büyük bir gerilime yol açtı. Suikastın ardından her iki ülke yönetimi de olayı provokasyon olarak nitelendirerek ortak bir soruşturma süreci başlattı. Saldırganın kimliği ve bağlantıları üzerine yapılan incelemeler, olayın arkasındaki yapıların ortaya çıkarılmasına odaklandı. Andrey Karlov'un ölümü, uluslararası kamuoyunda geniş yankı uyandırırken, diplomatik temsilcilerin güvenliği konusundaki tartışmaları da beraberinde getirdi.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Andrey_Karlov_2016.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Andrey_Karlov_2016.jpg",
@@ -800,7 +579,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Andrey_Karlov_2016.jpg",
         "aciklama": "Andrey Karlov, Russian Ambassador to Turkey (2013-2016) and North Korea (2001-2006)",
         "konu": "Andrey Karlov"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "2016-almanyanin-baskenti-berlinde-noel-pazarinda-teror-saldirisi",
@@ -811,51 +591,24 @@
         "Berlin",
         "2016 Berlin saldırısı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Berlin Noel Pazarı'na Düzenlenen Terör Saldırısı",
+      "ozet": "Almanya'nın başkenti Berlin'de 19 Aralık 2016 tarihinde, Breitscheidplatz meydanında kurulan geleneksel Noel pazarı büyük bir trajediye sahne oldu. Bir tırın kalabalığın arasına kasten sürülmesi sonucu 12 kişi yaşamını yitirirken, 56 kişi de çeşitli derecelerde yaralandı. Olay, Avrupa'da o dönemde artan terör endişelerini zirveye taşıyan ve kamuoyunda büyük infial yaratan bir saldırı olarak kayıtlara geçti.\n\nSaldırının ardından başlatılan geniş çaplı soruşturma sonucunda failin Anis Amri olduğu tespit edildi. Olay yerinden kaçmayı başaran saldırgan, birkaç gün sonra İtalya'nın Milano kentinde gerçekleştirilen rutin bir kimlik kontrolü sırasında polis memurlarıyla girdiği çatışma neticesinde etkisiz hale getirildi. Dönemin Almanya Başbakanı Angela Merkel, saldırıyı bir terör eylemi olarak nitelendirerek toplumun birlik ve beraberlik mesajı vermesi gerektiğini vurguladı. Bu olay, Avrupa genelinde halka açık alanlarda güvenlik önlemlerinin yeniden gözden geçirilmesine ve benzer saldırıların önlenmesi adına yeni stratejilerin geliştirilmesine yol açtı.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/960px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/500px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/20151115_Berlin_bei_Nacht_15-1.jpg/960px-20151115_Berlin_bei_Nacht_15-1.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/20151115_Berlin_bei_Nacht_15-1.jpg/500px-20151115_Berlin_bei_Nacht_15-1.jpg",
         "genislik": 960,
-        "yukseklik": 560,
-        "orijinalGenislik": 5464,
-        "yazar": "Kasa Fue",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Museumsinsel_Berlin_Juli_2021_1_(cropped).jpg",
-        "aciklama": "Museumsinsel in Berlin, im Hintergrund der Fernsehturm am Alexanderplatz, Juli 2021",
-        "konu": "Berlin"
+        "yukseklik": 600,
+        "orijinalGenislik": 2567,
+        "yazar": "Sebastian Rittau (Originalfoto) Ralf Roletschek (Bearbeitung & Beschriftung)",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:20151115_Berlin_bei_Nacht_15-1.jpg",
+        "aciklama": "Berlin at night. View in westward direction from Europa-Center. Kurfürstendamm and christmas market at Breitscheidplatz around the Kaiser Wilhelm Memorial Church November 2015.",
+        "konu": "2016 Berlin saldırısı"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/960px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/500px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 560,
-          "orijinalGenislik": 5464,
-          "yazar": "Kasa Fue",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Museumsinsel_Berlin_Juli_2021_1_(cropped).jpg",
-          "aciklama": "Museumsinsel in Berlin, im Hintergrund der Fernsehturm am Alexanderplatz, Juli 2021",
-          "konu": "Berlin"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/20151115_Berlin_bei_Nacht_15-1.jpg/960px-20151115_Berlin_bei_Nacht_15-1.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/20151115_Berlin_bei_Nacht_15-1.jpg/500px-20151115_Berlin_bei_Nacht_15-1.jpg",
-          "genislik": 960,
-          "yukseklik": 600,
-          "orijinalGenislik": 2567,
-          "yazar": "Sebastian Rittau (Originalfoto) Ralf Roletschek (Bearbeitung & Beschriftung)",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:20151115_Berlin_bei_Nacht_15-1.jpg",
-          "aciklama": "Berlin at night. View in westward direction from Europa-Center. Kurfürstendamm and christmas market at Breitscheidplatz around the Kaiser Wilhelm Memorial Church November 2015.",
-          "konu": "2016 Berlin saldırısı"
-        }
-      ]
+      "bolge": "dunya"
     }
   ],
   "dogumlar": [

@@ -1197,7 +1197,7 @@
     "url": "https://tr.wikipedia.org/wiki/28_Kas%C4%B1m",
     "revid": 38615426
   },
-  "guncelleme": "2026-11-19T15:24:52.838Z",
+  "guncelleme": "2026-11-20T15:01:37.780Z",
   "haberler": [
     {
       "id": "2025-haber-2456548",
@@ -1210,10 +1210,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/hazine-ve-maliye-bakanligi-yeniden-degerleme-oranini-yuzde-25-49-olarak-ilan-etti-cezalar-zamlandi-vergide-gozler-erdogan-da-2456548"
       },
-      "konular": [],
+      "konular": [
+        "Yeniden değerleme oranı",
+        "Hazine ve Maliye Bakanlığı",
+        "Mehmet Şimşek"
+      ],
       "yayin": "2025-11-28T04:00:00+03:00",
       "puan": 16,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Yeniden Değerleme Oranı Yüzde 25.49 Olarak Belirlendi",
+      "ozet": "Hazine ve Maliye Bakanlığı, kasım ayı enflasyon rakamlarına göre hesaplanan yeniden değerleme oranını yüzde 25.49 seviyesinde duyurdu. Bu oranla birlikte çeşitli ceza tutarlarında artış yaşanırken, vergi ve harç kalemlerine uygulanacak oranlar konusunda çalışmaların sürdüğü belirtildi. Bakan Mehmet Şimşek, vergi ve harçlardaki yükselişin daha sınırlı tutulması için çaba gösterdiklerini ifade etti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2025-haber-2456770",
@@ -1226,10 +1233,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/chp-nin-39-uncu-olagan-kurultayi-15-maddelik-parti-tuzugu-degisikligi-kabul-edildi-golge-kabine-cumhurbaskanligi-aday-ofisi-ne-baglandi-2456770"
       },
-      "konular": [],
+      "konular": [
+        "Cumhuriyet Halk Partisi",
+        "Siyaset"
+      ],
       "yayin": "2025-11-28T16:25:00+03:00",
       "puan": 15,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhuriyet Halk Partisi Kurultayında Yeni Program ve Tüzük Kabul Edildi",
+      "ozet": "Gerçekleştirilen otuz dokuzuncu olağan kurultayda partinin programı on yedi yıl aradan sonra güncellendi. Toplantı kapsamında tüzükte on beş farklı maddede değişikliğe gidilerek Parti Meclisi üye sayısı altmıştan seksen kişiye yükseltildi. Ayrıca gölge kabine yapısı Cumhurbaşkanlığı Aday Ofisi bünyesine dahil edilirken gençlik kotasının ilk aşamasındaki yaş sınırında düzenleme yapıldı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg/960px-24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg/500px-24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg",
+        "genislik": 960,
+        "yukseklik": 562,
+        "orijinalGenislik": 7320,
+        "yazar": "Lula Oficial",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_(54018866744).jpg",
+        "aciklama": "24.09.2024 - Presidente da República, Luiz Inácio Lula da Silva, durante a Abertura do Debate Geral da 79ª Sessão da Assembleia Geral das Nações Unidas, no Salão da Assembleia Geral, da Sede das Naçõe",
+        "konu": "Siyaset"
+      }
     },
     {
       "id": "2024-haber-2273566",
@@ -1242,10 +1268,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/anayasa-mahkemesinden-5-siyasi-parti-hakkinda-suc-duyurusu-karari-2273566"
       },
-      "konular": [],
+      "konular": [
+        "Anayasa Mahkemesi",
+        "Siyasi parti",
+        "Türkiye"
+      ],
       "yayin": "2024-11-28T08:16:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Anayasa Mahkemesi Dört Siyasi Parti Hakkında Suç Duyurusunda Bulundu",
+      "ozet": "Anayasa Mahkemesi, Türkiye Altın Çağ Partisi, Ülkem Partisi, Kuvayi Milliye Partisi ile Sevgi ve Saygı Partisi'nin mali hesaplarını inceledi. İlgili siyasi oluşumların 2021 ve 2022 yıllarına ait kesin hesaplarında yapılan denetimler sonucunda tespit edilen usulsüzlükler nedeniyle Ankara Cumhuriyet Başsavcılığına suç duyurusu yapılmasına karar verildi. Söz konusu karara ilişkin detaylar Resmi Gazete aracılığıyla kamuoyuna duyuruldu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2273736",
@@ -1258,10 +1291,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/galeri-sampiyonlar-liginde-nuri-sahin-firtinasi-2273736"
       },
-      "konular": [],
+      "konular": [
+        "Nuri Şahin",
+        "Borussia Dortmund",
+        "UEFA Şampiyonlar Ligi"
+      ],
       "yayin": "2024-11-28T14:46:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Nuri Şahin yönetimindeki Borussia Dortmund Avrupa'da dikkat çekiyor",
+      "ozet": "Borussia Dortmund teknik direktörü Nuri Şahin, UEFA Şampiyonlar Ligi müsabakalarında elde ettiği başarılı sonuçlarla spor kamuoyunun ilgisini üzerine topladı. Takımıyla sergilediği performans sayesinde Avrupa futbolunda adından sıkça söz ettiren Şahin, turnuvadaki etkili gidişatını sürdürdü.",
+      "kategori": "Spor"
     },
     {
       "id": "2023-haber-2145724",
@@ -1274,10 +1314,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasinin-toplam-rezervlerinde-tarihi-zirve-2145724"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Döviz rezervi",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2023-11-28T10:51:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Merkez Bankası rezervleri rekor seviyeye ulaştı",
+      "ozet": "Türkiye Cumhuriyet Merkez Bankası bünyesindeki toplam rezerv miktarı, yapılan son hesaplamalara göre önemli bir artış gösterdi. Geçtiğimiz hafta içerisinde 136.5 milyar dolara ulaşan rezervler, kurum tarihindeki en yüksek seviyeyi gördü.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG/960px-TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG/500px-TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "orijinalGenislik": 2448,
+        "yazar": "Vikiçizer",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
+        "aciklama": "TC Merkez Bankası ön cephe",
+        "konu": "Türkiye Cumhuriyet Merkez Bankası"
+      }
     },
     {
       "id": "2023-haber-2145709",
@@ -1290,10 +1350,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/dolar-yukselisini-surduruyor-dolar-ve-euro-ne-kadar-oldu-28-kasim-2145709"
       },
-      "konular": [],
+      "konular": [
+        "Döviz kuru",
+        "Ekonomi"
+      ],
       "yayin": "2023-11-28T10:20:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Döviz piyasalarında yukarı yönlü hareketlilik devam ediyor",
+      "ozet": "Döviz kurları son üç aydır gözlemlenen kademeli artış eğilimini korudu. Haftanın bu gününde de dolar ve euro değer kazanmaya devam ederek güne yükselişle başladı. Piyasalar söz konusu hareketliliği sürdürürken döviz fiyatlarındaki değişimler yakından takip edildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2022-haber-2006792",
@@ -1306,10 +1372,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/dolar-ne-kadar-oldu-28-kasim-2022-2006792"
       },
-      "konular": [],
+      "konular": [
+        "Dolar",
+        "Türk lirası",
+        "Döviz kuru"
+      ],
       "yayin": "2022-11-28T09:23:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Dolar kurunun piyasalardaki güncel seyri",
+      "ozet": "Türk lirası yıl genelinde dolar karşısında yüzde otuz oranında bir değer kaybı yaşadı. Buna rağmen kurun son üç aylık dönemde dengeli bir seyir izlediği gözlemlendi. Dolar kuru piyasalarda on sekiz lira altmış kuruş seviyelerinde işlem görmeye devam etti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2021-haber-1888342",
@@ -1322,10 +1395,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/applein-hatalarini-buldu-20-bin-dolar-odul-kazandi-1888342"
       },
-      "konular": [],
+      "konular": [
+        "Apple",
+        "Siber güvenlik",
+        "Yazılım"
+      ],
       "yayin": "2021-11-28T11:53:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Yazılımcı Apple güvenlik açıklarını bularak ödül kazandı",
+      "ozet": "Bilgisayar Programcılığı bölümünden mezun olan Rıza Sabuncu, teknoloji şirketi Apple bünyesindeki çeşitli güvenlik zafiyetlerini tespit etti. Tespit ettiği bu açıklar sayesinde son bir buçuk yıl içerisinde toplamda 20 bin dolar tutarında ödülün sahibi oldu. Sabuncu, Apple dışında farklı teknoloji firmalarının sistemlerindeki hataları da raporlamaya devam etti.",
+      "kategori": "Teknoloji"
     },
     {
       "id": "2021-haber-1888445",
@@ -1338,10 +1418,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/akp-merkez-karar-ve-yonetim-kurulu-uyesi-ahmet-gundogdudan-dolar-itirafi-1888445"
       },
-      "konular": [],
+      "konular": [
+        "Adalet ve Kalkınma Partisi",
+        "Ahmet Gündoğdu",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2021-11-28T19:53:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ahmet Gündoğdu'dan döviz kurundaki artışa dair değerlendirme",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın düşük faiz uygulamalarındaki kararlılığını vurgulamasının ardından dolar kuru 13.45 seviyesine ulaştı. Bu gelişme üzerine açıklamalarda bulunan Adalet ve Kalkınma Partisi Merkez Karar ve Yönetim Kurulu Üyesi Ahmet Gündoğdu, yaşanan kur artışına ilişkin görüşlerini paylaştı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2020-haber-1794794",
@@ -1354,10 +1441,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bakan-kasapoglundan-avrupa-sampiyonu-cimnastikcilere-tebrik-geldi-1794794"
       },
-      "konular": [],
+      "konular": [
+        "Ritmik Cimnastik Avrupa Şampiyonası",
+        "Mehmet Muharrem Kasapoğlu",
+        "Cimnastik"
+      ],
       "yayin": "2020-11-28T19:53:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Bakan Kasapoğlu'ndan Avrupa Şampiyonu Milli Cimnastikçilere Tebrik",
+      "ozet": "Gençlik ve Spor Bakanı Mehmet Muharrem Kasapoğlu, Ukrayna'da gerçekleştirilen Ritmik Cimnastik Avrupa Şampiyonası'nda altın madalya kazanan milli sporcuları kutladı. Bakan Kasapoğlu, elde edilen başarıdan dolayı milli takımı tebrik ederek sporcuların performansını takdir etti.",
+      "kategori": "Spor"
     },
     {
       "id": "2020-haber-1794620",
@@ -1370,10 +1464,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/besiktasta-fenerbahce-derbisinin-kamp-kadrosu-belli-oldu-ljajic-yok-1794620"
       },
-      "konular": [],
+      "konular": [
+        "Beşiktaş (futbol takımı)",
+        "Fenerbahçe (futbol takımı)",
+        "Süper Lig"
+      ],
       "yayin": "2020-11-28T18:39:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Beşiktaş'ın Fenerbahçe Derbisi İçin Kamp Kadrosu Açıklandı",
+      "ozet": "Süper Lig'in onuncu haftasında oynanacak Fenerbahçe ve Beşiktaş karşılaşması öncesinde siyah beyazlı ekibin kamp kadrosu duyuruldu. Kadroda Adem Ljajic'in yer almadığı belirtildi. Beşiktaş, deplasmanda oynayacağı derbi mücadelesi için hazırlıklarını tamamladı.",
+      "kategori": "Spor"
     },
     {
       "id": "2019-haber-1704898",
@@ -1386,10 +1487,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tbmmde-ilk-kez-hdp-onergesi-kabul-edildi-1704898"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Halkların Demokratik Partisi",
+        "İçişleri Bakanlığı"
+      ],
       "yayin": "2019-11-28T13:12:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Mecliste HDP tarafından sunulan bir önerge onaylandı",
+      "ozet": "Türkiye Büyük Millet Meclisi genel kurulunda HDP tarafından verilen bir önerge kabul edildi. Adalet ve Kalkınma Partisi milletvekillerinin de desteklediği bu karar neticesinde, İçişleri Bakanlığı bünyesindeki mülki idare amirlerinin birinci sınıf statüsünden çıkarılabilmesine olanak tanıyan düzenleme yürürlükten kaldırıldı. Böylece ilgili bakanlığa tanınan yetki sınırlandırılmış oldu.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2019-haber-1704913",
@@ -1402,10 +1511,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/maldivler-eski-basbakani-5-yil-hapis-cezasina-carptirildi-1704913"
       },
-      "konular": [],
+      "konular": [
+        "Abdulla Yameen",
+        "Maldivler"
+      ],
       "yayin": "2019-11-28T14:24:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Maldivler eski devlet başkanı Abdulla Yameen hapis cezası aldı",
+      "ozet": "Maldivler eski devlet başkanı Abdulla Yameen hakkında yürütülen hukuki süreç neticelendi. Mahkeme, eski liderin beş yıl boyunca hapis cezasına çarptırılmasına karar verdi. Ayrıca Yameen'in beş milyon dolar tutarında para cezası ödemesine hükmedildi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Abdulla_Yameen_Abdul_Gayoom_in_January_2014.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Abdulla_Yameen_Abdul_Gayoom_in_January_2014.jpg",
+        "genislik": 400,
+        "yukseklik": 537,
+        "orijinalGenislik": 400,
+        "yazar": "Prime Minister's Office",
+        "lisans": "GODL-India",
+        "lisansUrl": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Abdulla_Yameen_Abdul_Gayoom_in_January_2014.jpg",
+        "aciklama": "The Prime Minister, Dr. Manmohan Singh meeting the President of the Republic of Maldives, Mr. Abdulla Yameen Abdul Gayoom, in New Delhi on January 02, 2014.",
+        "konu": "Abdulla Yameen"
+      }
     },
     {
       "id": "2018-haber-1154078",
@@ -1418,10 +1546,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-ve-putinden-dolar-karari-1154078"
       },
-      "konular": [],
+      "konular": [
+        "S-400 füze sistemi",
+        "Vladimir Putin",
+        "Türkiye-Rusya ilişkileri"
+      ],
       "yayin": "2018-11-28T13:35:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Türkiye ve Rusya Arasında S-400 Ödemeleri İçin Yeni Karar",
+      "ozet": "Rusya Devlet Başkanı Vladimir Putin, Türkiye ile gerçekleştirilecek S-400 hava savunma sistemi ticaretinde ABD dolarının kullanılmayacağını duyurdu. İki ülke arasındaki bu savunma sanayii alışverişinin ve sevkiyat sürecinin farklı para birimleri üzerinden yürütüleceği açıklandı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg",
+        "genislik": 666,
+        "yukseklik": 917,
+        "orijinalGenislik": 666,
+        "yazar": "Kremlin.ru",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_(2026_02_23)_(cropped).jpg",
+        "aciklama": "Vladimir Putin con il colonnello Vjacheslav Vedenin",
+        "konu": "Vladimir Putin"
+      }
     },
     {
       "id": "2018-haber-1153915",
@@ -1434,10 +1582,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-ligi-maci-savas-alanina-dondu-1153915"
       },
-      "konular": [],
+      "konular": [
+        "AEK (futbol takımı)",
+        "AFC Ajax",
+        "UEFA Şampiyonlar Ligi"
+      ],
       "yayin": "2018-11-28T11:58:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "AEK ve Ajax Arasındaki Şampiyonlar Ligi Karşılaşmasında Gerginlik",
+      "ozet": "Yunanistan temsilcisi AEK ile Hollanda takımı Ajax arasında oynanan Şampiyonlar Ligi mücadelesi sırasında saha dışında ve tribünlerde istenmeyen olaylar yaşandı. İki kulübün karşı karşıya geldiği müsabaka esnasında yaşanan gerginlikler spor gündemine yansıdı.",
+      "kategori": "Spor"
     },
     {
       "id": "2017-haber-875607",
@@ -1450,10 +1605,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/irlanda-basbakan-yardimcisi-fitzgerald-istifa-etti-875607"
       },
-      "konular": [],
+      "konular": [
+        "Frances Fitzgerald",
+        "İrlanda"
+      ],
       "yayin": "2017-11-28T18:36:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İrlanda Başbakan Yardımcısı Frances Fitzgerald görevinden ayrıldı",
+      "ozet": "İrlanda hükümetinde Başbakan Yardımcısı olarak görev yapan Frances Fitzgerald, makamından istifa etme kararı aldığını duyurdu. Söz konusu gelişme, ülkede siyasi gündemin öne çıkan başlıklarından biri oldu.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2017-haber-875548",
@@ -1466,10 +1628,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpli-tum-ayvaliktaki-satilik-mahalleleri-tbmmye-tasidi-875548"
       },
-      "konular": [],
+      "konular": [
+        "Ayvalık",
+        "Mehmet Tüm",
+        "Cumhuriyet Halk Partisi"
+      ],
       "yayin": "2017-11-28T17:23:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ayvalık'taki arazi satışları meclis gündemine taşındı",
+      "ozet": "Balıkesir milletvekili Mehmet Tüm, Ayvalık ilçesinde bulunan çok sayıda kırsal mahalledeki arazilerin Hazine tarafından ihaleyle satışa sunulması konusunu meclise taşıdı. Çamoba, Akçapınar, Bağyüzü ve Karaayıt gibi yerleşim yerlerinde yaşayan vatandaşların mağduriyetine dikkat çeken milletvekili, konuyla ilgili bir soru önergesi hazırlayarak yetkililerden açıklama talep etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2016-haber-637066",
@@ -1482,10 +1651,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/eski-fenerbahceli-oyuncunun-simdiki-takimi-brezilyada-sampiyon-oldu-637066"
       },
-      "konular": [],
+      "konular": [
+        "Palmeiras",
+        "Brezilya Série A",
+        "Edu Dracena"
+      ],
       "yayin": "2016-11-28T13:59:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Palmeiras Brezilya Ligi şampiyonluğunu ilan etti",
+      "ozet": "Brezilya birinci futbol liginde mücadele eden Palmeiras, kendi sahasında karşılaştığı Chapecoense ekibini tek golle mağlup etti. Bu galibiyetle puanını yükselten takım, ligin bitimine bir hafta kala şampiyonluğunu garantiledi. Fenerbahçe forması giymiş olan Edu Dracena da şampiyonluk yaşayan kadroda yer aldı.",
+      "kategori": "Spor"
     },
     {
       "id": "2016-haber-637247",
@@ -1498,10 +1674,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/hakkaride-3-ilcede-ozel-guvenlik-bolgesi-ilan-edildi-637247"
       },
-      "konular": [],
+      "konular": [
+        "Hakkari",
+        "Türkiye"
+      ],
       "yayin": "2016-11-28T18:55:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Hakkari'nin Bazı Bölgelerinde Özel Güvenlik Uygulaması Başlatıldı",
+      "ozet": "Hakkari il merkezi ile üç farklı ilçede bulunan belirli bölgeler, güvenlik gerekçesiyle özel güvenlik alanı olarak belirlendi. Söz konusu bölgelerde uygulamanın on beş gün boyunca geçerli olacağı duyuruldu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2015-haber-435469",
@@ -1514,10 +1696,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-mit-tirlarini-dunyaya-duyurdular-435469"
       },
-      "konular": [],
+      "konular": [
+        "MİT TIR'ları skandalı",
+        "Recep Tayyip Erdoğan",
+        "Türkiye"
+      ],
       "yayin": "2015-11-28T18:37:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanı Erdoğan MİT TIR'ları Olayına İlişkin Açıklamalarda Bulundu",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, MİT'e ait araçların durdurulması ve içeriklerinin görüntülenmesi sürecine dair değerlendirmeler yaptı. Erdoğan, söz konusu araçların bir ajan aracılığıyla kontrol edilerek içeriklerinin uluslararası kamuoyuna ifşa edildiğini ifade etti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2015-haber-435227",
@@ -1530,10 +1732,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tarihin-en-buyuk-dijital-hirsizliginin-arkasindan-ruslar-cikti-435227"
       },
-      "konular": [],
+      "konular": [
+        "Siber saldırı",
+        "FBI",
+        "Rusya"
+      ],
       "yayin": "2015-11-28T14:27:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Dijital dünyada gerçekleştirilen büyük çaplı veri hırsızlığının faili belirlendi",
+      "ozet": "İnternet üzerindeki bir milyar ikiyüz milyon kullanıcı hesabının bilgilerinin ele geçirildiği siber saldırının arkasında Rusya bağlantılı bir grubun olduğu tespit edildi. Federal Soruşturma Bürosu tarafından yürütülen detaylı incelemeler sonucunda, tarihin en kapsamlı dijital hırsızlık olaylarından biri olarak kayıtlara geçen bu saldırının faillerine dair önemli bulgulara ulaşıldı.",
+      "kategori": "Teknoloji",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Vulnerabilit%C3%A9_par_type_depuis_1999.png",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Vulnerabilit%C3%A9_par_type_depuis_1999.png",
+        "genislik": 778,
+        "yukseklik": 470,
+        "orijinalGenislik": 778,
+        "yazar": "Mailcube024",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vulnerabilit%C3%A9_par_type_depuis_1999.png",
+        "aciklama": "Distribution des vulnérabilités exploités de 1999 à 2016",
+        "konu": "Siber saldırı"
+      }
     },
     {
       "id": "2014-haber-151143",
@@ -1546,10 +1768,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/havada-40-kisilik-rekor-151143"
       },
-      "konular": [],
+      "konular": [
+        "Paraşüt",
+        "Hayko Cepkin",
+        "Selçuk"
+      ],
       "yayin": "2014-11-28T21:43:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İzmir'de paraşütle çoklu tutuşma rekoru kırıldı",
+      "ozet": "İzmir'in Selçuk ilçesinde bir araya gelen paraşütçüler, Türkiye çoklu tutuşma rekorunu geliştirdi. Aralarında Hayko Cepkin'in de bulunduğu grup, daha önce 24 kişiyle sınırlı olan rekoru 40 kişiye taşıyarak yeni bir başarıya imza attı. Türk Hava Kurumu lisanslı sporcuların katılımıyla gerçekleşen etkinlik, Türkiye'deki paraşütçülük faaliyetleri açısından önemli bir gelişme olarak kaydedildi.",
+      "kategori": "Spor"
     },
     {
       "id": "2014-haber-151079",
@@ -1562,10 +1791,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/papa-ve-erdogandan-ortak-basin-toplantisi-151079"
       },
-      "konular": [],
+      "konular": [
+        "Papa Franciscus",
+        "Recep Tayyip Erdoğan",
+        "Türkiye"
+      ],
       "yayin": "2014-11-28T16:15:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Papa Franciscus ve Cumhurbaşkanı Erdoğan Ankara'da görüştü",
+      "ozet": "Katolik dünyasının ruhani lideri Papa Franciscus, Türkiye'ye gerçekleştirdiği ziyaret kapsamında Cumhurbaşkanı Recep Tayyip Erdoğan ile bir araya geldi. İki lider, görüşmelerinin ardından basın mensuplarına ortak bir açıklama yaparak temaslarına dair değerlendirmelerde bulundu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Pope_Francis_Korea_Haemi_Castle_19.jpg/960px-Pope_Francis_Korea_Haemi_Castle_19.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Pope_Francis_Korea_Haemi_Castle_19.jpg/500px-Pope_Francis_Korea_Haemi_Castle_19.jpg",
+        "genislik": 960,
+        "yukseklik": 1272,
+        "orijinalGenislik": 1797,
+        "yazar": "Korea.net / Korean Culture and Information Service (Jeon Han)",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pope_Francis_Korea_Haemi_Castle_19.jpg",
+        "aciklama": "2014 Pastoral Visit of Pope Francis to Korea Closing Mass for Asian Youth Day August 17, 2014 Haemi Castle, Seosan-si, Chungcheongnam-do",
+        "konu": "Papa Franciscus"
+      }
     },
     {
       "id": "2013-haber-14011",
@@ -1578,10 +1827,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bu-bir-rekor-1-gunde-25-milyon-izlenme-14011"
       },
-      "konular": [],
+      "konular": [
+        "Miley Cyrus",
+        "Müzik videosu"
+      ],
       "yayin": "2013-11-28T17:22:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Miley Cyrus video klibiyle izlenme rekoru kırdı",
+      "ozet": "Miley Cyrus tarafından yayınlanan yeni müzik videosu, dijital platformlarda büyük bir ilgiyle karşılandı. Sanatçının klibi, sadece yirmi dört saatlik zaman dilimi içerisinde yirmi beş milyon kez izlenerek önemli bir başarıya ulaştı. Bu izlenme oranı, internet dünyasında kısa sürede ulaşılan en yüksek rakamlardan biri olarak kayıtlara geçti.",
+      "kategori": "Sanat"
     },
     {
       "id": "2012-haber-386574",
@@ -1594,10 +1849,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/talih-kusunda-yilbasi-heyecani-basliyor-386574"
       },
-      "konular": [],
+      "konular": [
+        "Milli Piyango İdaresi",
+        "Piyango"
+      ],
       "yayin": "2012-11-28T10:00:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Milli Piyango yılbaşı biletleri satışa çıkıyor",
+      "ozet": "Milli Piyango yılbaşı özel çekilişi için hazırlanan biletler yarın itibarıyla vatandaşların alımına sunuldu. Bu yılki çekilişte verilecek olan 45 milyon liralık büyük ikramiye, kurumun tarihinde dağıtılan en yüksek tutar olarak kayıtlara geçti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2012-haber-386532",
@@ -1610,10 +1871,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbaglar-katliami-zamanasimina-giriyor-386532"
       },
-      "konular": [],
+      "konular": [
+        "Başbağlar Katliamı",
+        "Kemaliye",
+        "Erzincan"
+      ],
       "yayin": "2012-11-28T07:41:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Başbağlar köyündeki saldırı dosyası zamanaşımı riskiyle karşı karşıya",
+      "ozet": "Erzincan ilinin Kemaliye ilçesinde bulunan Başbağlar köyünde gerçekleşen ve otuz üç sivilin hayatını kaybettiği saldırı ile ilgili hukuki süreçte zamanaşımı süreci gündeme geldi. Bin dokuz yüz doksan üç yılında yaşanan bu acı olayla ilgili yürütülen soruşturma ve dava dosyası, hukuki takvim gereği zamanaşımı tehlikesiyle karşı karşıya kaldı.",
+      "kategori": "Toplum",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kemaliye_-_E%C4%9Fin.JPG/960px-Kemaliye_-_E%C4%9Fin.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kemaliye_-_E%C4%9Fin.JPG/500px-Kemaliye_-_E%C4%9Fin.JPG",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 5184,
+        "yazar": "Mehmetaergun",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kemaliye_-_E%C4%9Fin.JPG",
+        "aciklama": "Kemaliye (Eğin), Erzincan",
+        "konu": "Kemaliye"
+      }
     },
     {
       "id": "2011-haber-301378",
@@ -1626,10 +1907,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fuze-kalkanini-basbakanin-villasina-kurun-301378"
       },
-      "konular": [],
+      "konular": [
+        "Kürecik Radar İstasyonu",
+        "Veli Ağbaba",
+        "Malatya"
+      ],
       "yayin": "2011-11-28T13:15:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Kürecik füze savunma sistemi projesine yönelik eleştiriler",
+      "ozet": "Malatya Kürecik bölgesinde hayata geçirilmesi planlanan füze savunma sistemi projesi, siyasi arenada tartışmalara yol açtı. Cumhuriyet Halk Partisi Malatya Milletvekili Veli Ağbaba, söz konusu projenin bölgeye yerleştirilmesine karşı çıkarak tepkisini dile getirdi. Ağbaba, projenin kurulum sürecine yönelik eleştirel bir yaklaşım sergiledi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Turgut_%C3%96zal_Tabiat_Park%C4%B1_G%C3%B6l.jpg/960px-Turgut_%C3%96zal_Tabiat_Park%C4%B1_G%C3%B6l.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Turgut_%C3%96zal_Tabiat_Park%C4%B1_G%C3%B6l.jpg/500px-Turgut_%C3%96zal_Tabiat_Park%C4%B1_G%C3%B6l.jpg",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 1205,
+        "yazar": "L.Versoa",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turgut_%C3%96zal_Tabiat_Park%C4%B1_G%C3%B6l.jpg",
+        "aciklama": "Malatya Turgut Özal Tabiat Parkı Gölü sonbahar manzarası",
+        "konu": "Malatya"
+      }
     },
     {
       "id": "2011-haber-301446",
@@ -1642,10 +1943,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-time-yilin-kisisi-siralamasinda-birinci-301446"
       },
-      "konular": [],
+      "konular": [
+        "Time Yılın Kişisi",
+        "Recep Tayyip Erdoğan",
+        "Time (dergi)"
+      ],
       "yayin": "2011-11-28T19:02:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Time dergisinin yılın kişisi anketinde ilk sırada yer aldı",
+      "ozet": "Time dergisi tarafından düzenlenen geleneksel yılın kişisi oylamasında Recep Tayyip Erdoğan okuyucuların tercihiyle listenin zirvesine yerleşti. İnternet üzerinden gerçekleştirilen ve geniş katılımın olduğu bu anket çalışması sonucunda elde edilen veriler kamuoyuyla paylaşıldı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     }
   ],
   "haberYillari": [
