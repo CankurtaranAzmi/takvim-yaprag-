@@ -1143,7 +1143,7 @@
     "url": "https://tr.wikipedia.org/wiki/24_Kas%C4%B1m",
     "revid": 38169446
   },
-  "guncelleme": "2026-11-19T15:24:51.021Z",
+  "guncelleme": "2026-11-20T15:01:36.263Z",
   "haberler": [
     {
       "id": "2025-haber-2455461",
@@ -1159,13 +1159,13 @@
       "konular": [
         "Şişli",
         "Belediye meclisi",
-        "Resul Emrah Şahan"
+        "Kayyım"
       ],
       "yayin": "2025-11-24T16:12:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Şişli Belediye Meclisinin Yetkileri İçin Hukuki Süreç Başladı",
-      "ozet": "Şişli Belediye Başkanı Resul Emrah Şahan’ın tutuklanmasının ardından göreve atanan kayyım ile birlikte meclis çalışmalarının durdurulması üzerine hukuki bir adım atıldı. Belediye meclisinin yetkilerinin tekrar verilmesi talebiyle açılan davanın ilk oturumu Bölge İdare Mahkemesi’nde gerçekleşti. Söz konusu hukuki süreç, yerel yönetim organlarının işleyişine dair tartışmaların ardından mahkeme salonuna taşınmış oldu.",
+      "baslik": "Şişli Belediye Meclisinin Yetkileri İçin Yargı Süreci Başladı",
+      "ozet": "Şişli Belediye Başkanı Resul Emrah Şahan'ın tutuklanması ve yerine kayyım atanmasının ardından işlevini yitiren belediye meclisinin yetkilerinin geri verilmesi talebiyle açılan davanın ilk duruşması Bölge İdare Mahkemesinde yapıldı. Söz konusu hukuki süreç, belediye meclisinin görevlerini yeniden yerine getirebilmesi amacıyla başlatıldı.",
       "kategori": "Siyaset"
     },
     {
@@ -1263,13 +1263,13 @@
       "konular": [
         "Türkiye Cumhuriyet Merkez Bankası",
         "Goldman Sachs",
-        "Faiz oranı"
+        "Faiz"
       ],
       "yayin": "2023-11-24T09:09:00+03:00",
       "puan": 10,
       "durum": "elendi",
       "baslik": "Goldman Sachs Türkiye Cumhuriyet Merkez Bankası faiz beklentisini güncelledi",
-      "ozet": "ABD merkezli yatırım kuruluşu Goldman Sachs, Türkiye Cumhuriyet Merkez Bankasının faiz politikasına dair öngörülerini paylaştı. Kurum, politika faizinin 250 baz puanlık artışla yüzde 42,50 seviyesine çıkarılacağını ve bu hamleyle birlikte para politikasındaki sıkılaştırma döneminin nihayete ereceğini belirtti.",
+      "ozet": "ABD merkezli yatırım kuruluşu Goldman Sachs, Türkiye Cumhuriyet Merkez Bankası tarafından alınan son faiz kararını değerlendirdi. Banka, politika faizinin 250 baz puanlık bir artışla yüzde 42,50 seviyesine ulaşacağını ve bu hamlenin ardından mevcut sıkılaşma döngüsünün sona ereceğini öngördüğünü belirtti.",
       "kategori": "Ekonomi"
     },
     {
@@ -1336,10 +1336,11 @@
       ],
       "yayin": "2021-11-24T22:51:00+03:00",
       "puan": 13,
-      "durum": "elendi",
+      "durum": "yazildi",
       "baslik": "Ajax Şampiyonlar Ligi grup aşamasında tarihi bir başarıya ulaştı",
-      "ozet": "Beşiktaş ile oynadığı karşılaşmadan galibiyetle ayrılan Ajax, turnuva tarihinde grup aşamasındaki ilk beş maçını kazanan ilk kulüp olma unvanını elde etti. Müsabakada fileleri havalandıran Sebastian Haller ise gösterdiği performansla organizasyonun istatistiklerine adını yazdırdı. Hollanda temsilcisi, aldığı bu sonuçla hem kulüp hem de bireysel düzeyde önemli rekorlara imza attı.",
-      "kategori": "Spor"
+      "ozet": "Beşiktaş ile oynadığı karşılaşmadan galibiyetle ayrılan Ajax, Şampiyonlar Ligi grup aşamasındaki ilk beş mücadelesini de kazanarak turnuva tarihinde bir ilki gerçekleştirdi. Hollanda ekibinin elde ettiği bu başarıda önemli rol oynayan Sebastian Haller, attığı gollerle organizasyonun istatistiklerine adını yazdırdı. Kulüp ve oyuncu bazında kırılan bu rekorlar, Avrupa futbolunda dikkat çeken bir gelişme olarak kayıtlara geçti.",
+      "kategori": "Spor",
+      "gorsel": null
     },
     {
       "id": "2021-haber-1887516",
@@ -1635,14 +1636,13 @@
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-ligi-haftanin-11inde-skandal-hata-635436"
       },
       "konular": [
-        "UEFA Şampiyonlar Ligi",
-        "UEFA"
+        "UEFA Şampiyonlar Ligi"
       ],
       "yayin": "2016-11-24T16:43:00+03:00",
       "puan": 8,
       "durum": "elendi",
       "baslik": "Şampiyonlar Ligi haftanın kadrosunda dikkat çeken hata",
-      "ozet": "UEFA tarafından duyurulan Şampiyonlar Ligi haftanın en iyi on biri listesinde önemli bir yanlışlık fark edildi. Söz konusu kadronun açıklandığı görselde yer alan bir detay, sosyal medya kullanıcılarının gözünden kaçmadı ve kısa sürede gündeme oturdu.",
+      "ozet": "UEFA Şampiyonlar Ligi kapsamında belirlenen haftanın en iyi on bir oyuncusunun yer aldığı listede bir yanlışlık yapıldı. Sosyal medya üzerinden paylaşılan kadro görselindeki hata, futbolseverlerin ve takipçilerin gözünden kaçmadı. Söz konusu durum kısa sürede gündeme geldi.",
       "kategori": "Spor"
     },
     {
@@ -1686,8 +1686,8 @@
       "yayin": "2015-11-24T23:40:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "Cumhurbaşkanı Erdoğan ve ABD Başkanı Obama Rus uçağını görüştü",
-      "ozet": "Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan ile Amerika Birleşik Devletleri Başkanı Barack Obama bir telefon görüşmesi gerçekleştirdi. İki lider, Türk hava sahasını ihlal eden Rus uçağının düşürülmesi olayını değerlendirdi. Görüşmede gerilimin tırmanmaması adına atılabilecek adımlar ve bölgedeki gelişmeler ele alındı.",
+      "baslik": "Cumhurbaşkanı Erdoğan ve ABD Başkanı Obama Rus uçağı konusunu görüştü",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ile Amerika Birleşik Devletleri Başkanı Barack Obama bir telefon görüşmesi gerçekleştirdi. İki lider, Türk hava sahasını ihlal eden Rus uçağının düşürülmesiyle sonuçlanan olayı ve bölgedeki gelişmeleri ele aldı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/%D0%91%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D0%BB%D0%B5%D1%82%D1%8B_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%B8_%D1%81_%D0%B0%D1%8D%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC%D0%B0_%C2%AB%D0%A5%D0%BC%D0%B5%D0%B9%D0%BC%D0%B8%D0%BC%C2%BB_%D0%B4%D0%BB%D1%8F_%D0%BD%D0%B0%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D1%83%D0%B4%D0%B0%D1%80%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0%D0%BC_%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2_%D0%B2_%D0%A1%D0%B8%D1%80%D0%B8%D0%B8_%289%29.jpg",
@@ -1833,15 +1833,28 @@
       },
       "konular": [
         "TBMM Darbe ve Muhtıraları Araştırma Komisyonu",
-        "Türkiye Büyük Millet Meclisi"
+        "Türkiye Büyük Millet Meclisi",
+        "Siyaset"
       ],
       "yayin": "2012-11-24T15:36:00+03:00",
       "puan": 5,
       "durum": "yazildi",
-      "baslik": "Darbe ve Muhtıraları Araştırma Komisyonu çalışmalarını tamamladı",
-      "ozet": "Türkiye Büyük Millet Meclisi bünyesinde kurulan Darbe ve Muhtıraları Araştırma Komisyonu, rapor hazırlık sürecinde sona ulaştı. Geçmiş dönemlerde gerçekleşen müdahaleleri incelemek amacıyla oluşturulan kurul, yürüttüğü çalışmaların ardından raporunu nihai aşamaya getirdi.",
+      "baslik": "Darbe ve Muhtıraları Araştırma Komisyonu çalışmalarını tamamlıyor",
+      "ozet": "Türkiye Büyük Millet Meclisi bünyesinde kurulan Darbe ve Muhtıraları Araştırma Komisyonu, yürüttüğü incelemelerin ardından rapor hazırlıklarında sona yaklaştı. Komisyon üyeleri, geçmiş dönemlerde yaşanan müdahaleleri mercek altına alan kapsamlı raporun yazım sürecini bitirme aşamasına getirdi.",
       "kategori": "Siyaset",
-      "gorsel": null
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg/960px-24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg/500px-24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_%2854018866744%29.jpg",
+        "genislik": 960,
+        "yukseklik": 562,
+        "orijinalGenislik": 7320,
+        "yazar": "Lula Oficial",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:24.09.2024_-_Abertura_do_Debate_Geral_da_79%C2%AA_Sess%C3%A3o_da_Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas_(54018866744).jpg",
+        "aciklama": "24.09.2024 - Presidente da República, Luiz Inácio Lula da Silva, durante a Abertura do Debate Geral da 79ª Sessão da Assembleia Geral das Nações Unidas, no Salão da Assembleia Geral, da Sede das Naçõe",
+        "konu": "Siyaset"
+      }
     },
     {
       "id": "2011-haber-300512",

@@ -173,8 +173,8 @@
       "baslik": null,
       "ozet": null,
       "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": null
+      "gorsel": null,
+      "durum": "bekliyor"
     },
     {
       "id": "1956-orta-dogu-teknik-universitesi-kuruldu",
@@ -1095,7 +1095,7 @@
     "url": "https://tr.wikipedia.org/wiki/15_Kas%C4%B1m",
     "revid": 38628172
   },
-  "guncelleme": "2026-11-19T15:24:46.680Z",
+  "guncelleme": "2026-11-20T15:01:32.505Z",
   "haberler": [
     {
       "id": "2025-haber-2452968",

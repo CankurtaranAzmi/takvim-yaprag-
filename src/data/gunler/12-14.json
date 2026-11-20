@@ -517,51 +517,12 @@
         "Hanuka",
         "2025 Bondi Plajı Silahlı Saldırısı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Israeli_soldiers_welcoming_Hanukkah.jpg/960px-Israeli_soldiers_welcoming_Hanukkah.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Israeli_soldiers_welcoming_Hanukkah.jpg/500px-Israeli_soldiers_welcoming_Hanukkah.jpg",
-        "genislik": 960,
-        "yukseklik": 960,
-        "orijinalGenislik": 1365,
-        "yazar": "Flickr/Government Press Office",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Israeli_soldiers_welcoming_Hanukkah.jpg",
-        "aciklama": "Israeli soldiers welcoming Hanukkah in a military tent during the Yom Kippur War, 1973.",
-        "konu": "Hanuka"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Israeli_soldiers_welcoming_Hanukkah.jpg/960px-Israeli_soldiers_welcoming_Hanukkah.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Israeli_soldiers_welcoming_Hanukkah.jpg/500px-Israeli_soldiers_welcoming_Hanukkah.jpg",
-          "genislik": 960,
-          "yukseklik": 960,
-          "orijinalGenislik": 1365,
-          "yazar": "Flickr/Government Press Office",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Israeli_soldiers_welcoming_Hanukkah.jpg",
-          "aciklama": "Israeli soldiers welcoming Hanukkah in a military tent during the Yom Kippur War, 1973.",
-          "konu": "Hanuka"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Bondi_from_above.jpg/960px-Bondi_from_above.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Bondi_from_above.jpg/500px-Bondi_from_above.jpg",
-          "genislik": 960,
-          "yukseklik": 539,
-          "orijinalGenislik": 3838,
-          "yazar": "Nick Ang",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bondi_from_above.jpg",
-          "aciklama": "Bondi Beach, located in the Eastern Suburbs of Sydney, is Australia's most iconic beach, known for its parked sand, the rocks, the blue water and the warm temperature combine to make the experience un",
-          "konu": "2025 Bondi Plajı Silahlı Saldırısı"
-        }
-      ]
+      "baslik": "Bondi Plajı'nda Hanuka Kutlamasına Silahlı Saldırı",
+      "ozet": "Avustralya'nın Sidney şehrinde bulunan dünyaca ünlü Bondi Plajı, 14 Aralık 2025 tarihinde büyük bir trajediye sahne oldu. Yahudi toplumu tarafından düzenlenen Hanuka Bayramı kutlamaları sırasında, Campbell Parade yakınlarında iki silahlı saldırgan tarafından gerçekleştirilen terör saldırısı sonucunda çok sayıda sivil yaşamını yitirdi ve onlarca kişi yaralandı. Olay, bölgedeki kutlamalara katılanlar arasında büyük bir paniğe yol açarken, güvenlik güçleri bölgeyi hızla kordon altına alarak halkı güvenli alanlara yönlendirdi. Saldırı, Avustralya tarihinin en karanlık günlerinden biri olarak kayıtlara geçti. New South Wales Polis Teşkilatı tarafından terör eylemi olarak nitelendirilen bu saldırı, 1996 yılındaki Port Arthur katliamından bu yana ülkede gerçekleşen en ölümcül toplu silahlı saldırı olma özelliğini taşıyor. Hanuka, Yahudi inancında Kudüs'ün geri alınışını simgeleyen ve sekiz gün boyunca mumların yakılmasıyla kutlanan köklü bir bayramdır. Barışçıl bir dini kutlama sırasında gerçekleştirilen bu şiddet eylemi, hem Avustralya'da hem de uluslararası kamuoyunda derin bir üzüntü ve tepkiyle karşılandı.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     }
   ],
   "dogumlar": [

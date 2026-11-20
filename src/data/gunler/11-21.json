@@ -725,7 +725,7 @@
     "url": "https://tr.wikipedia.org/wiki/21_Kas%C4%B1m",
     "revid": 37308860
   },
-  "guncelleme": "2026-11-19T15:24:49.854Z",
+  "guncelleme": "2026-11-20T15:01:35.141Z",
   "haberler": [
     {
       "id": "2025-haber-2454491",
@@ -840,8 +840,8 @@
       "yayin": "2024-11-21T04:00:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "İçişleri Bakanlığı bütçe görüşmelerinde tansiyon yükseldi",
-      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu'nda gerçekleşen İçişleri Bakanlığı bütçe görüşmeleri sırasında iktidar ve muhalefet milletvekilleri arasında gergin anlar yaşandı. Cumhuriyet Halk Partisi kanadı, Esenyurt Belediyesi'ne yönelik kayyum uygulamasına tepki göstererek Bakan Ali Yerlikaya'nın salona girişini engellemeye çalıştı. Bu durum komisyon çalışmaları sırasında arbedeye yol açtı.",
+      "baslik": "İçişleri Bakanlığı bütçe görüşmelerinde gergin anlar yaşandı",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu'nda İçişleri Bakanlığı'nın bütçe görüşmeleri sırasında tartışma çıktı. Cumhuriyet Halk Partisi milletvekilleri, Esenyurt Belediyesi'ne yönelik kayyum uygulamasına tepki göstermek amacıyla Bakan Ali Yerlikaya'nın salona girişini engellemeye çalıştı. Bu durum iktidar ve muhalefet milletvekilleri arasında arbedeye yol açtı.",
       "kategori": "Siyaset"
     },
     {
@@ -879,13 +879,13 @@
       },
       "konular": [
         "Döviz kuru",
-        "Ekonomi"
+        "Türkiye ekonomisi"
       ],
       "yayin": "2023-11-21T09:26:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Döviz piyasalarında Euro rekor tazeledi Dolar yükselişini sürdürdü",
-      "ozet": "Döviz piyasalarında Euro değer kazanarak yeni bir zirveye ulaştı. Dolar ise sınırlı değişimlerle 29 seviyesine yaklaşan yükseliş trendini korudu. Öte yandan ülkenin risk primini gösteren CDS oranlarındaki düşüş eğilimi devam etti.",
+      "baslik": "Döviz piyasalarında Euro değer kazandı ve Dolar yükselişini sürdürdü",
+      "ozet": "Döviz piyasasında Euro yeni bir zirve seviyesine ulaşırken Dolar da 29 lira sınırına doğru ilerleyişini devam ettirdi. Geçtiğimiz hafta başlayan risk primi düşüşü ise bu dönemde de etkisini sürdürdü. Piyasalardaki hareketlilik sınırlı değişimlerle gözlemlendi.",
       "kategori": "Ekonomi"
     },
     {
@@ -901,14 +901,14 @@
       },
       "konular": [
         "Türkiye İstatistik Kurumu",
-        "Enflasyon",
-        "Tarım"
+        "Tarım",
+        "Enflasyon"
       ],
       "yayin": "2022-11-21T10:14:00+03:00",
       "puan": 12,
       "durum": "elendi",
-      "baslik": "Tarımsal Girdi Fiyatlarında Yıllık Artış Rekor Seviyeye Ulaştı",
-      "ozet": "Türkiye İstatistik Kurumu tarafından paylaşılan verilere göre tarımsal girdi maliyetlerinde eylül ayı itibarıyla büyük bir yükseliş yaşandı. Söz konusu maliyetler, bir önceki yılın aynı dönemine kıyasla yüzde 138,15 oranında artarak kayıtlara geçen en yüksek seviyeye çıktı.",
+      "baslik": "Tarımsal Girdi Fiyatlarında Yıllık Artış Oranı Rekor Seviyeye Ulaştı",
+      "ozet": "Türkiye İstatistik Kurumu tarafından paylaşılan verilere göre tarımsal girdi fiyatlarında eylül ayı itibarıyla önemli bir yükseliş kaydedildi. Söz konusu maliyet kalemlerinde yıllık bazda yüzde 138,15 oranında bir artış yaşanarak yeni bir rekor seviye görüldü.",
       "kategori": "Ekonomi"
     },
     {
@@ -1004,10 +1004,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akpli-yelizden-erdogana-anlasilmayan-mektup-1792777"
       },
-      "konular": [],
+      "konular": [
+        "Ahmet Hamdi Çamlı",
+        "Adalet ve Kalkınma Partisi",
+        "Siyaset"
+      ],
       "yayin": "2020-11-21T16:12:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ahmet Hamdi Çamlı'nın Cumhurbaşkanı Erdoğan'a Yazdığı Mektup Tartışıldı",
+      "ozet": "İstanbul Milletvekili Ahmet Hamdi Çamlı, Cumhurbaşkanı Recep Tayyip Erdoğan'a hitaben bir mektup kaleme aldı. Kamuoyunda farklı bir isimle tanınan milletvekilinin yazdığı bu metin, içeriğinin anlaşılmakta güçlük çekilmesi nedeniyle çeşitli yorumlara yol açtı. Söz konusu mektup, okuyanlar arasında belirsizlik yarattı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2019-haber-1703506",
@@ -1022,13 +1029,14 @@
       },
       "konular": [
         "Türkiye Büyük Millet Meclisi",
-        "Vergi"
+        "Vergi Hukuku",
+        "Türkiye Ekonomisi"
       ],
       "yayin": "2019-11-21T22:19:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Yeni vergi düzenlemelerini içeren kanun teklifi Meclis'te onaylandı",
-      "ozet": "Dijital Hizmet Vergisi, Konaklama Vergisi ve Değerli Konut Vergisi gibi çeşitli başlıkları kapsayan yasal düzenleme, Türkiye Büyük Millet Meclisi Genel Kurulu'nda yapılan oylama sonucunda kabul edildi. Söz konusu kanun teklifi, gelir vergisi tarifesine yeni oranlar ve dilimler eklenmesini de içeren geniş kapsamlı değişiklikleri beraberinde getirdi.",
+      "baslik": "Yeni Vergi Düzenlemeleri Meclis Genel Kurulu Tarafından Onaylandı",
+      "ozet": "Dijital Hizmet Vergisi, Konaklama Vergisi ve Değerli Konut Vergisi gibi çeşitli başlıkları kapsayan kanun teklifi, Türkiye Büyük Millet Meclisi Genel Kurulu'nda görüşülerek kabul edildi. Yeni düzenleme kapsamında gelir vergisi tarifesine ilave dilimler ve farklı oranlar getirildi. Yasal süreçleri tamamlanan teklif, vergi sisteminde çeşitli değişiklikler yapılmasını sağladı.",
       "kategori": "Ekonomi"
     },
     {
@@ -1144,23 +1152,10 @@
       ],
       "yayin": "2017-11-21T09:17:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Döviz kurlarında tarihi seviyeler test edildi",
-      "ozet": "İç ve dış piyasalarda yaşanan hareketlilik neticesinde dolar ve avro değer kazanarak kendi rekor seviyelerine ulaştı. Dolar 3.97 lira, avro ise 4.67 lira sınırını aşarak yükseliş gösterdi. Merkez Bankası tarafından devreye alınan müdahale araçlarının ardından kurlarda kısmi bir geri çekilme yaşandı ve dolar 3.95 liranın altına indi.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/South_East_Asia_Exchange_Rates_%286031878489%29.jpg/960px-South_East_Asia_Exchange_Rates_%286031878489%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/South_East_Asia_Exchange_Rates_%286031878489%29.jpg/500px-South_East_Asia_Exchange_Rates_%286031878489%29.jpg",
-        "genislik": 960,
-        "yukseklik": 957,
-        "orijinalGenislik": 1027,
-        "yazar": "Nick Hubbard",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:South_East_Asia_Exchange_Rates_(6031878489).jpg",
-        "aciklama": "Next time I will bring in sterling, and not be ripped of by those money changers back home. Thai baht.",
-        "konu": "Döviz kuru"
-      }
+      "durum": "elendi",
+      "baslik": "Döviz kurlarında tarihi zirve ve Merkez Bankası müdahalesi",
+      "ozet": "Küresel piyasalardaki hareketlilik ve iç piyasadaki gelişmeler neticesinde dolar ve avro değer kazanarak kendi rekor seviyelerine ulaştı. Doların 3.97, avronun ise 4.67 lira sınırını aşması üzerine Merkez Bankası dövizdeki yükselişi dengelemek amacıyla çeşitli tedbirler uygulamaya koydu. Alınan bu kararların ardından dolar 3.95 liranın altına gerilerken, avro da bu düşüşten etkilenerek değer kaybetti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2017-haber-870939",
@@ -1227,8 +1222,8 @@
       "yayin": "2016-11-21T13:52:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Bakanlar Kurulu Toplantısı Başbakanın Katılımıyla Gerçekleşti",
-      "ozet": "Başbakan Binali Yıldırım idaresinde Bakanlar Kurulu bir araya geldi. Ülke gündemindeki konuların ele alındığı toplantı, belirlenen program dahilinde gerçekleştirildi.",
+      "baslik": "Bakanlar Kurulu Toplantısı Başbakan Yıldırım Başkanlığında Toplandı",
+      "ozet": "Başbakan Binali Yıldırım yönetiminde bir araya gelen Bakanlar Kurulu toplantısı gerçekleştirildi. Hükümet üyelerinin katılımıyla düzenlenen bu oturumda gündemdeki konular ele alındı.",
       "kategori": "Siyaset"
     },
     {
@@ -1279,16 +1274,29 @@
         "url": "https://www.cumhuriyet.com.tr/haber/emir-hayata-boyle-acildi-427583"
       },
       "konular": [
-        "Mülteci krizi",
-        "Afganistan"
+        "Avrupa göçmen krizi",
+        "Afganistan",
+        "Mülteci"
       ],
       "yayin": "2015-11-21T23:41:00+03:00",
       "puan": 7,
       "durum": "yazildi",
-      "baslik": "Afgan mülteci çocukların yaşadığı zorlu yolculuk",
-      "ozet": "Afganistan kökenli küçük bir çocuk, tehlikeli bir deniz yolculuğuna çıkmadan önce yaşadığı zorlukları dile getirdi. Aylan Kurdi örneği üzerinden dikkat çekmeye çalışan çocuk, sadece ölümü bekleyen bir figür olmadığını ifade etti. Üzerindeki kıyafetle mesaj vermeye çalışan bu küçük çocuk, yaşadığı insani krizin dünya kamuoyu tarafından görülmesini talep etti.",
+      "baslik": "Afgan mülteci çocuğun deniz yolculuğu üzerinden göçmen sorunu",
+      "ozet": "Afganistan kökenli küçük bir çocuk, yaşadığı zorluklara ve göç yolundaki tehlikelere dikkat çekmek amacıyla bir mesaj paylaştı. Aylan Kurdi örneği üzerinden hayatta kalmanın önemine vurgu yapan çocuk, üzerindeki kıyafetle uluslararası kamuoyuna sesini duyurmaya çalıştı. Bu durum, göçmen çocukların karşı karşıya kaldığı riskleri ve insani krizi yeniden gündeme taşıdı.",
       "kategori": "Toplum",
-      "gorsel": null
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/UN-laissez-passer.jpg/960px-UN-laissez-passer.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/UN-laissez-passer.jpg/500px-UN-laissez-passer.jpg",
+        "genislik": 960,
+        "yukseklik": 1358,
+        "orijinalGenislik": 1040,
+        "yazar": "United Nations, The original uploader was Fisherjs at English Wikipedia.",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:UN-laissez-passer.jpg",
+        "aciklama": "Scan of Laissez-passer issued by the United Nations.",
+        "konu": "Mülteci"
+      }
     },
     {
       "id": "2014-haber-146533",
@@ -1443,14 +1451,14 @@
       },
       "konular": [
         "Zafer Çağlayan",
-        "İhracat",
-        "Türkiye ekonomisi"
+        "Türkiye ekonomisi",
+        "İhracat"
       ],
       "yayin": "2012-11-21T15:01:00+03:00",
       "puan": 4,
       "durum": "elendi",
-      "baslik": "Ekonomi Bakanından İhracat Rakamlarına İlişkin Değerlendirme",
-      "ozet": "Ekonomi Bakanı Zafer Çağlayan, Türk firmalarının dış ticarette gösterdiği yoğun gayreti takdirle karşıladığını belirtti. Bakan, ihracatçıların çalışmaları sayesinde Türkiye'nin dönem itibarıyla tarihinin en yüksek ihracat seviyesine ulaştığını ifade etti.",
+      "baslik": "Ekonomi Bakanı Çağlayan ihracat rakamlarını değerlendirdi",
+      "ozet": "Ekonomi Bakanı Zafer Çağlayan, Türk firmalarının dış ticarette gösterdiği çabayı takdirle karşıladığını belirtti. Bakan, ihracatçıların özverili çalışmaları sayesinde ülkenin tarihsel olarak en yüksek dış satım seviyesine ulaştığını ifade etti.",
       "kategori": "Ekonomi"
     },
     {
@@ -1472,8 +1480,8 @@
       "yayin": "2011-11-21T21:38:00+03:00",
       "puan": 11,
       "durum": "yazildi",
-      "baslik": "Van Depremi Sonrası İlk Tazminat Davası Açıldı",
-      "ozet": "Van bölgesinde meydana gelen ve çok sayıda can kaybı ile ağır hasara yol açan deprem felaketinin ardından hukuki süreç başlatıldı. Erciş ilçesinde yıkılan bir binada hayatını kaybeden Taner Akgün adına maddi ve manevi tazminat talebiyle ilk dava mahkemeye taşındı. Deprem sonrası yaşanan yıkımların sorumluluğuna ilişkin hukuki girişimlerin ilki bu şekilde gerçekleşmiş oldu.",
+      "baslik": "Van depremi sonrasında ilk tazminat davası süreci başladı",
+      "ozet": "Van bölgesinde yaşanan ve çok sayıda can kaybı ile ağır hasara yol açan deprem felaketinin ardından hukuki süreç başlatıldı. Erciş ilçesinde yıkılan bir binada hayatını kaybeden Taner Akgün adına maddi ve manevi tazminat talebiyle dava açıldı. Bu gelişme, deprem sonrası yaşanan yıkımlara ilişkin yargıya taşınan ilk dosya olma özelliğini taşıyor.",
       "kategori": "Afet",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Van_location_districts.png",
@@ -1507,9 +1515,9 @@
       "yayin": "2011-11-21T13:30:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "Japonya'da deprem sonrası yeniden yapılanma için ek bütçe onaylandı",
-      "ozet": "Japonya yönetimi, yaşanan büyük deprem ve tsunami felaketinin ardından ülkenin imarı için hazırlanan bütçe tasarısını kabul etti. Toplamda 12 trilyon yen değerindeki bu ek kaynak, afetin yol açtığı hasarların giderilmesi ve bölgenin yeniden ayağa kaldırılması amacıyla kullanılacak.",
-      "kategori": "Ekonomi",
+      "baslik": "Japonya'da Afet Sonrası Yeniden Yapılanma Bütçesi Kabul Edildi",
+      "ozet": "Japonya yönetimi, meydana gelen büyük deprem ve tsunami felaketinin yaralarını sarmak amacıyla hazırlanan ek bütçe tasarısına onay verdi. Söz konusu kaynak, afetin ardından bölgenin yeniden inşa edilmesi ve zararların giderilmesi için kullanılacak. Toplamda 12 trilyon yen tutarındaki bu ödenek, ülkenin afet sonrası toparlanma sürecinde büyük bir adım olarak değerlendirildi.",
+      "kategori": "Afet",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/SH-60B_helicopter_flies_over_Sendai.jpg/960px-SH-60B_helicopter_flies_over_Sendai.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/SH-60B_helicopter_flies_over_Sendai.jpg/500px-SH-60B_helicopter_flies_over_Sendai.jpg",

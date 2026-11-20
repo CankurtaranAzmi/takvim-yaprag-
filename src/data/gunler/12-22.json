@@ -11,23 +11,12 @@
         "Dârülfünûn",
         "üniversite"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Laurentius_de_Voltolina_001.jpg/960px-Laurentius_de_Voltolina_001.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Laurentius_de_Voltolina_001.jpg/500px-Laurentius_de_Voltolina_001.jpg",
-        "genislik": 960,
-        "yukseklik": 775,
-        "orijinalGenislik": 2024,
-        "yazar": "Laurentius de Voltolina",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Laurentius_de_Voltolina_001.jpg",
-        "aciklama": null,
-        "konu": "üniversite"
-      }
+      "baslik": "İstanbul Üniversitesi'nin Tarihsel Temelleri",
+      "ozet": "İstanbul Üniversitesi, kökleri Osmanlı İmparatorluğu'nun ilk dönemlerine kadar uzanan köklü bir eğitim geleneğine sahiptir. Kurumun temelleri, İstanbul'un fethinin hemen ardından, 1453 yılında Fatih Sultan Mehmet'in talimatıyla kurulan Sahn-ı Seman medreselerine dayanmaktadır. Bu medreseler, Osmanlı'nın ilim dünyasında merkezi bir rol üstlenmiş ve uzun yıllar boyunca bilimsel faaliyetlerin yürütüldüğü bir eğitim yuvası olmuştur.\n\nYüzyıllar içinde farklı isimlerle anılan ve eğitim sistemini yenileyen kurum, 19. yüzyılda Darülfünun adıyla modern bir yükseköğretim yapısına kavuşmuştur. Cumhuriyet döneminde gerçekleştirilen 1933 reformları ile birlikte ise kurum, günümüzdeki İstanbul Üniversitesi kimliğini kazanmıştır. Bugün Türkiye'nin en eski devlet üniversitesi olma özelliğini taşıyan okul, yalnızca tarihsel bir mirasın temsilcisi değil, aynı zamanda uluslararası akademik sıralamalarda da kendine yer bulan önemli bir bilim ve araştırma merkezi konumundadır.",
+      "kategori": "Edebiyat",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1501-22-aralik-safevi-imparatorlugu-kuruldu",
@@ -343,10 +332,10 @@
         "Hindistan",
         "Mahatma Gandi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Mahatma Gandhi ve Binlerce Mahkûmun Serbest Bırakılması",
+      "ozet": "Hindistan'da İngiliz sömürge yönetimi, 22 Aralık 1932 tarihinde Mahatma Gandhi'nin de dahil olduğu yaklaşık 28 bin siyasi mahkûmu serbest bırakma kararı aldı. Bu adım, Hindistan Bağımsızlık Hareketi'nin yürüttüğü yoğun baskı ve sivil itaatsizlik eylemlerinin bir sonucu olarak gerçekleşti. Gandhi, İngiliz yönetimine karşı şiddet içermeyen direniş felsefesi olan Satyagraha'nın öncüsü olarak, halkı bağımsızlık mücadelesine teşvik eden en önemli figürlerden biriydi.\n\nGandhi'nin serbest bırakılması, Hindistan'ın bağımsızlık yolundaki kararlılığını simgeleyen kritik bir gelişme olarak tarihe geçti. İngiliz yönetimi, artan toplumsal huzursuzluğu yatıştırmak ve siyasi tansiyonu düşürmek amacıyla bu geniş çaplı affı uygulamaya koydu. Bu olay, Gandhi'nin liderliğindeki bağımsızlık hareketinin gücünü ve halk üzerindeki etkisini bir kez daha kanıtladı. Gandhi, hayatı boyunca savunduğu barışçıl direniş yöntemleriyle sadece Hindistan'ın bağımsızlığına değil, aynı zamanda dünya genelindeki özgürlük ve insan hakları savunucularına da ilham kaynağı olmaya devam etti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/960px-Mahatma-Gandhi%2C_studio%2C_1931.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/500px-Mahatma-Gandhi%2C_studio%2C_1931.jpg",
@@ -359,7 +348,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Mahatma-Gandhi,_studio,_1931.jpg",
         "aciklama": "Studio photograph of Mahatma Gandhi ji, London, 1931.",
         "konu": "Mahatma Gandi"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1933-almanyada-reichstag-parlamento-binasi-yanginini-cikaran-van",
@@ -370,10 +360,10 @@
         "Reichstag",
         "Marinus van der Lubbe"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Reichstag Yangını Davasında İdam Kararı",
+      "ozet": "Berlin'deki Reichstag binasında 27 Şubat 1933 tarihinde meydana gelen büyük yangının ardından başlatılan hukuki süreç, Hollandalı komünist Marinus van der Lubbe'nin suçlu bulunmasıyla sonuçlandı. Mahkeme, binayı ateşe verdiği iddiasıyla yargılanan Van der Lubbe hakkında idam cezası verdi. Bu karar, dönemin siyasi atmosferinde büyük yankı uyandıran ve Nazi rejiminin iktidarını pekiştirmesinde kritik bir rol oynayan olaylar zincirinin önemli bir parçasıydı.\n\nReichstag yangını, Nazi Partisi tarafından komünistlere karşı bir baskı aracı olarak kullanılmış ve temel hakların askıya alınmasına zemin hazırlamıştı. Olayın ardından binanın kullanılamaz hale gelmesiyle yasama faaliyetleri Kroll Opera Binası'na taşınmıştı. Van der Lubbe'nin idamı, Nazi Almanyası'nın muhalif unsurları tasfiye etme sürecinde sembolik bir dönüm noktası olarak kabul edilir. Tarihçiler, yangının arkasındaki gerçek sorumlular ve Nazi yönetiminin bu olayı kendi çıkarları doğrultusunda nasıl manipüle ettiği üzerine uzun yıllar süren tartışmalar yürütmüştür.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_reichstag_west_panorama_2.jpg/960px-Berlin_reichstag_west_panorama_2.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_reichstag_west_panorama_2.jpg/500px-Berlin_reichstag_west_panorama_2.jpg",
@@ -386,7 +376,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Berlin_reichstag_west_panorama_2.jpg",
         "aciklama": "The Reichstag building seen from the west. Inscription translates to \"For/To the German People\"",
         "konu": "Reichstag"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1938-alman-kimyaci-otto-hahn-tarafindan-ilk-atom",
@@ -395,10 +386,10 @@
       "konular": [
         "Otto Hahn"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Nükleer Çağın Başlangıcı: Atomun Parçalanması",
+      "ozet": "Alman kimyager Otto Hahn, 22 Aralık 1938 tarihinde laboratuvar ortamında uranyum atomunun çekirdeğini bölmeyi başararak nükleer fisyon sürecini keşfetti. Bu deney, atomun bölünemez olduğu yönündeki yerleşik bilimsel kanıyı yıkarak modern fiziğin ve nükleer çağın kapılarını aralayan en kritik dönüm noktalarından biri oldu. Hahn'ın bu çalışması, maddenin içindeki devasa enerjinin açığa çıkarılabileceğini kanıtlayarak bilim dünyasında büyük bir yankı uyandırdı.\n\nBu keşif, sadece teorik bir başarı olarak kalmayıp kısa sürede nükleer enerji üretimi ve atom bombası teknolojisi gibi alanların temelini oluşturdu. İnsanlık tarihini kökten değiştiren bu buluş, enerji üretiminde yeni bir dönemi başlatırken aynı zamanda savaş teknolojilerinde de yıkıcı bir gücün ortaya çıkmasına neden oldu. Otto Hahn, bu çalışmalarıyla nükleer kimyanın öncüsü olarak kabul edilmiş ve ilerleyen yıllarda nükleer enerjinin barışçıl amaçlarla kullanılması konusunda önemli bir figür haline gelmiştir.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Otto_Hahn_1970.jpg/960px-Otto_Hahn_1970.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Otto_Hahn_1970.jpg/500px-Otto_Hahn_1970.jpg",
@@ -411,7 +402,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Otto_Hahn_1970.jpg",
         "aciklama": "Otto Hahn",
         "konu": "Otto Hahn"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1944-vietnam-halk-ordusu-kuruldu",
@@ -472,10 +464,10 @@
       "konular": [
         "Lockheed SR-71 Blackbird"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Havacılıkta Hızın Sınırlarını Zorlayan Efsane: SR-71 Blackbird",
+      "ozet": "Lockheed Corporation tarafından geliştirilen stratejik keşif uçağı SR-71 Blackbird, ilk kez 1964 yılının sonunda gökyüzüyle buluştu. Clarence Kelly Johnson liderliğindeki bir ekip tarafından tasarlanan bu uçak, Soğuk Savaş döneminin en gelişmiş teknolojik ürünlerinden biri olarak kabul edildi. Mach 3 hızını aşabilen ve 25 bin metre irtifaya kadar çıkabilen uçak, sahip olduğu üstün hız ve yüksek irtifa kabiliyeti sayesinde düşman radarlarından ve füzelerinden korunabiliyordu. Uçağın gövdesinde kullanılan özel siyah boya, radar yansımalarını minimize etmeye yardımcı olurken, bu karakteristik görünümü ona Kara Kuş anlamına gelen Blackbird isminin verilmesini sağladı. Başlangıçta RS-71 olarak planlanan ancak dönemin ABD Başkanı Lyndon B. Johnson'ın bir konuşması sırasında yaptığı isim değişikliğiyle SR-71 olarak anılmaya başlanan bu hava aracı, uzun yıllar boyunca dünyanın en hızlı ve en yüksekten uçan operasyonel uçağı unvanını korudu. 1995 yılına kadar aktif görevde kalan Blackbird, keşif ve istihbarat toplama görevlerinde devrim yaratarak havacılık mühendisliğinde ulaşılan en uç noktalardan biri olarak tarihe geçti.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lockheed_SR-71_Blackbird.jpg/960px-Lockheed_SR-71_Blackbird.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lockheed_SR-71_Blackbird.jpg/500px-Lockheed_SR-71_Blackbird.jpg",
@@ -488,7 +480,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Lockheed_SR-71_Blackbird.jpg",
         "aciklama": "The SR-71B Blackbird, flown by the Dryden Flight Research Center as NASA 831, slices across the snow-covered southern Sierra Nevada Mountains of California after being refueled by an Air Force tanker ",
         "konu": "Lockheed SR-71 Blackbird"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1965-birlesik-krallikta-tum-kara-yollarinda-azami-hiz",
@@ -511,10 +504,10 @@
         "Erzurum",
         "çığ"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Erzurum'da Çığ Felaketi: Altı Kayakçı Hayatını Kaybetti",
+      "ozet": "Erzurum'da 22 Aralık 1974 tarihinde gerçekleşen trajik bir çığ felaketi, kış sporları için bölgede bulunan 6 kayakçının yaşamını yitirmesine neden oldu. Doğu Anadolu Bölgesi'nin zorlu coğrafi koşulları ve yoğun kar yağışı, bölgeyi çığ riski açısından Türkiye'nin en hassas noktalarından biri haline getirmektedir. Olay, kış sporlarının popülerleşmeye başladığı dönemlerde dağlık alanlardaki güvenlik önlemlerinin ve doğal afet risklerinin önemini bir kez daha gözler önüne sermiştir.\n\nÇığ, genellikle eğimli yamaçlarda biriken kar kütlelerinin dengesinin bozulmasıyla meydana gelen ve büyük yıkıcı güce sahip bir doğa olayıdır. Özellikle Palandöken gibi yüksek rakımlı dağlık bölgelerde, kar tabakalarının birbirine tutunamaması veya dış etkenlerle tetiklenmesi sonucu oluşan bu tür felaketler, geçmişten günümüze bölgedeki kış aktiviteleri için ciddi bir tehdit oluşturmaya devam etmektedir. Bu olay, dağcılık ve kayak sporlarıyla ilgilenenler için doğa koşullarının her zaman dikkatle takip edilmesi gerektiğini hatırlatan acı bir tecrübe olarak kayıtlara geçmiştir.",
+      "kategori": "Afet",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Lawine.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Lawine.jpg",
@@ -527,7 +520,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Lawine.jpg",
         "aciklama": "Lawine von www.nps.gov",
         "konu": "çığ"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1979-paristeki-turk-turizm-ve-tanitma-burosu-muduru",
@@ -553,23 +547,12 @@
         "Bernhard Hugo Goetz",
         "1984 New York Metrosu silahlı saldırısı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/500px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 8207,
-        "yazar": "Dllu",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg",
-        "aciklama": "View of the Empire State Building in New York City from the Top of the Rock at 30 Rockefeller Plaza during sunset. The tower was illuminated in green in honor of Climate Week NYC.[1]",
-        "konu": "New York"
-      }
+      "baslik": "New York Metrosu'nda Tartışmalı Silahlı Saldırı",
+      "ozet": "1984 yılının 22 Aralık gününde, Manhattan'da seyir halindeki bir metro treninde Bernhard Hugo Goetz isimli bir yolcu, yanına yaklaşan dört genci tabancasıyla vurarak yaraladı. Goetz, gençlerin kendisinden para sızdırmaya çalıştığını savunarak eylemini meşru müdafaa olarak nitelendirdi. Olayın ardından dokuz gün boyunca kayıplara karışan Goetz, daha sonra polise teslim oldu ve yargı süreci başladı. Kamuoyunda büyük yankı uyandıran bu olay, 1980'lerin başında suç oranlarının zirve yaptığı New York'ta geniş bir tartışma başlattı.\n\nBasın tarafından \"Metro İnfazcısı\" olarak adlandırılan Goetz, başlangıçta birçok vatandaş tarafından suçla mücadele eden bir figür olarak destek görse de, olayın detayları netleştikçe kamuoyu ikiye bölündü. Mahkeme süreci sonunda Goetz, cinayete teşebbüs suçlamalarından beraat etti ancak ruhsatsız silah taşıma suçundan hapis cezasına çarptırıldı. Olay, sadece bir suç vakası olarak kalmayıp, büyük şehirlerdeki güvenlik sorunları, bireysel silahlanma ve meşru müdafaa sınırlarının nerede başlayıp nerede bittiği üzerine yıllarca sürecek toplumsal ve hukuki tartışmaların merkezine yerleşti.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1989-romanya-devlet-baskani-nicolae-ceausescu-halk-ayaklanmasi",
@@ -579,10 +562,10 @@
         "Romanya",
         "Nikolay Çavuşesku"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Romanya'da Çavuşesku Döneminin Sonu",
+      "ozet": "1965 yılından itibaren Romanya'nın yönetiminde bulunan Nicolae Ceauşescu, 1989 yılının Aralık ayında patlak veren geniş çaplı halk protestoları karşısında iktidarını kaybetti. Uzun yıllar boyunca uyguladığı baskıcı politikalar, ekonomik sıkıntılar ve kişisel kültü etrafında şekillenen otoriter yönetimi, halkın sabrını taşıran temel unsurlar oldu. Temeşvar'da başlayan ve kısa sürede başkent Bükreş'e sıçrayan gösteriler, ordunun da halkın safına geçmesiyle birlikte rejimin çöküşünü hızlandırdı.\n\nCeauşescu'nun devrilmesi, Doğu Bloku'ndaki komünist rejimlerin birbiri ardına yıkıldığı 1989 devrimlerinin en şiddetli ve dramatik süreçlerinden biri olarak tarihe geçti. İktidardan uzaklaştırılmasının ardından eşi Elena Ceauşescu ile birlikte yakalanan lider, kısa süren bir askerî yargılamanın ardından kurşuna dizilerek infaz edildi. Bu olay, Romanya'da on yıllardır süren tek parti yönetiminin sonunu getirirken, ülkenin demokratikleşme ve Avrupa ile bütünleşme sürecine girmesinin de önünü açtı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Nicolae_Ceau%C8%99escu.jpg/960px-Nicolae_Ceau%C8%99escu.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Nicolae_Ceau%C8%99escu.jpg/500px-Nicolae_Ceau%C8%99escu.jpg",
@@ -595,7 +578,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Nicolae_Ceau%C8%99escu.jpg",
         "aciklama": "Portret Nicolae Ceaușescu.",
         "konu": "Nikolay Çavuşesku"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1989-brandenburg-kapisi-yeniden-acildi",
@@ -604,10 +588,10 @@
       "konular": [
         "Brandenburg Kapısı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Brandenburg Kapısı'nda Yeniden Birleşme",
+      "ozet": "Berlin Duvarı'nın yıkılmasından kısa bir süre sonra, 22 Aralık 1989 tarihinde Brandenburg Kapısı resmi bir törenle yeniden yaya trafiğine açıldı. Batı Almanya Başbakanı Helmut Kohl'ün Doğu Almanya Başbakanı Hans Modrow tarafından karşılandığı bu tarihi an, Soğuk Savaş'ın en güçlü sembollerinden birinin ortadan kalktığını ve bölünmüş Almanya'nın birleşme sürecine girdiğini tüm dünyaya ilan ediyordu. Kapının açılışı, sadece fiziksel bir geçişin ötesinde, ideolojik duvarların yıkılışının ve Avrupa'nın yeniden bütünleşme arzusunun somut bir göstergesi olarak kabul edildi.\n\nOn sekizinci yüzyılda Prusya Kralı II. Friedrich Wilhelm'in emriyle inşa edilen bu neoklasik anıt, tarih boyunca Almanya'nın yaşadığı pek çok siyasi değişime tanıklık etmiştir. İkinci Dünya Savaşı sonrasında Berlin'in bölünmesiyle birlikte kapı, Doğu ve Batı Berlin arasındaki sınır hattının tam ortasında kalarak uzun yıllar boyunca ulaşıma kapatılmıştı. 1989 yılındaki bu tarihi açılış, Berlin halkı için büyük bir coşkuyla karşılanmış ve şehrin yeniden birleşmesinin en önemli dönüm noktalarından biri haline gelmiştir. Bugün Brandenburg Kapısı, Almanya'nın birliğini ve özgürlüğünü temsil eden ulusal bir simge olarak varlığını sürdürmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Brandenburger_Tor_abends.jpg/960px-Brandenburger_Tor_abends.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Brandenburger_Tor_abends.jpg/500px-Brandenburger_Tor_abends.jpg",
@@ -620,7 +604,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_abends.jpg",
         "aciklama": "The Brandenburg Gate in Berlin, Germany",
         "konu": "Brandenburg Kapısı"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1990-lech-walesa-polonyanin-ilk-secilmis-baskani-sifatiyla",
@@ -630,10 +615,10 @@
         "Lech Wałęsa",
         "Polonya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Lech Walesa Polonya'nın İlk Seçilmiş Başkanı Oldu",
+      "ozet": "Polonya'da komünist yönetimin sona ermesinin ardından gerçekleştirilen demokratik seçimleri kazanan Lech Walesa, 22 Aralık 1990 tarihinde parlamentoda yemin ederek ülkenin ilk seçilmiş devlet başkanı sıfatıyla görevine başladı. Bu tören, Polonya'nın Soğuk Savaş sonrası dönemde tam bağımsız ve demokratik bir yapıya geçişinin en önemli sembollerinden biri olarak kabul edildi. Walesa'nın başkanlık koltuğuna oturması, sadece bir siyasi değişim değil, aynı zamanda ülkenin Avrupa'daki yeni siyasi düzenle bütünleşme sürecinin de başlangıcıydı.\n\nLech Walesa, başkanlık görevine gelmeden önce, Polonya'daki sosyalist rejime karşı kurulan ve ülkenin demokratikleşmesinde kilit rol oynayan Dayanışma Sendikası'nın lideri olarak dünya çapında tanınmıştı. İşçi hareketinin öncüsü olarak gösterdiği çabalarla 1983 yılında Nobel Barış Ödülü'ne layık görülen Walesa, halkın desteğiyle devlet başkanlığına yükselerek Polonya tarihinde yeni bir sayfa açtı. Onun liderliğindeki bu dönem, ülkenin ekonomik ve siyasi reformlarla yeniden şekillendiği, çok partili parlamenter sisteme geçişin kalıcı hale getirildiği bir süreç olarak tarihe geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_%28cropped%29.jpg",
@@ -646,7 +631,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_(cropped).jpg",
         "aciklama": "Lech Wałęsa w 2026",
         "konu": "Lech Wałęsa"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1992-futbolcu-tanju-colak-9-yil-hapse-mahkum",
@@ -655,10 +641,10 @@
       "konular": [
         "Tanju Çolak"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Tanju Çolak'a Kaçakçılık Davasında Hapis Cezası",
+      "ozet": "Türk futbol tarihinin en başarılı golcülerinden biri olan Tanju Çolak, 22 Aralık 1992 tarihinde kamuoyunu sarsan bir yargı kararıyla karşı karşıya kaldı. Dönemin en popüler sporcularından biri olan Çolak, yurda kaçak yollarla Mercedes marka otomobil soktuğu iddiasıyla yargılandığı davada 9 yıl hapis cezasına mahkûm edildi. Bu karar, spor dünyasında büyük bir şaşkınlık yaratırken, futbolcunun kariyerinin en parlak döneminde yaşadığı bu hukuki süreç uzun süre gündemi meşgul etti.\n\nTanju Çolak, Süper Lig'de kırdığı gol rekorları ve kazandığı Altın Ayakkabı ödülüyle Türk futbolunun unutulmaz isimleri arasında yer almaktadır. Sahadaki üstün başarısı ve golcülüğüyle taraflı tarafsız herkesin takdirini kazanan Çolak'ın, saha dışındaki bu olaya karışması spor kamuoyunda derin bir hayal kırıklığına yol açmıştı. Söz konusu hapis cezası, sadece bir futbolcunun değil, aynı zamanda dönemin popüler kültür figürlerinden birinin yaşadığı dramatik bir düşüşü simgelemesi açısından da dikkat çekicidir.",
+      "kategori": "Spor",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Samsunspor_tarihinin_en_iyi_11%27i.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Samsunspor_tarihinin_en_iyi_11%27i.png",
@@ -671,7 +657,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Samsunspor_tarihinin_en_iyi_11%27i.png",
         "aciklama": "The best first XI of Samsunspor's history choosing by Samsunspor supporters.",
         "konu": "Tanju Çolak"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1994-yeni-demokrasi-hareketi-ayni-adla-partilesti-genel",
@@ -698,10 +685,10 @@
         "Sümerbank",
         "Esbank"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türkiye'de Beş Bankaya Tasarruf Mevduatı Sigorta Fonu Tarafından El Konuldu",
+      "ozet": "Türkiye'de 1990'lı yılların sonunda yaşanan ekonomik çalkantılar ve bankacılık sektöründeki yapısal sorunlar, hükûmeti radikal kararlar almaya zorladı. 22 Aralık 1999 tarihinde Bakanlar Kurulu kararıyla Egebank, Yaşarbank, Yurtbank, Sümerbank ve Esbank'ın yönetimi, Bankalar Kanunu'nun ilgili maddeleri uyarınca Tasarruf Mevduatı Sigorta Fonu'na (TMSF) devredildi. Bu müdahale, sektördeki mali disiplini sağlamak ve mevduat sahiplerinin haklarını korumak amacıyla gerçekleştirilen geniş kapsamlı bir operasyonun parçasıydı.\n\nEl konulan bu bankalar, ilerleyen süreçte TMSF bünyesinde birleştirilerek tasfiye veya devir süreçlerine tabi tutuldu. Özellikle Sümerbank çatısı altında toplanan bu kurumların hisseleri, 2001 yılında Ordu Yardımlaşma Kurumu'na (OYAK) devredildi ve ardından Oyak Bank ile birleştirilerek sektörden çekildi. Bu olay, Türkiye'de bankacılık denetimlerinin sıkılaştırıldığı ve finansal sistemin yeniden yapılandırıldığı 2000'li yılların başındaki büyük dönüşümün önemli bir dönüm noktası olarak kabul edilmektedir.",
+      "kategori": "Ekonomi",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/1934_11_13_Cumhuriyet_Ataturk_Sumerbank.jpg/960px-1934_11_13_Cumhuriyet_Ataturk_Sumerbank.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/1934_11_13_Cumhuriyet_Ataturk_Sumerbank.jpg/500px-1934_11_13_Cumhuriyet_Ataturk_Sumerbank.jpg",
@@ -714,7 +701,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:1934_11_13_Cumhuriyet_Ataturk_Sumerbank.jpg",
         "aciklama": "11 Kasım 1934 tarihli Cumhuriyet gazetesinde Cumhurbaşkanı Gazi Mustafa Kemal, Sümerbank sergisinde.",
         "konu": "Sümerbank"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "2000-madonna-film-yonetmeni-guy-ritchie-ile-iskocyada",
@@ -725,51 +713,12 @@
         "Guy Ritchie",
         "İskoçya"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg/960px-MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg/500px-MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1536,
-        "orijinalGenislik": 1500,
-        "yazar": "Raph_PH",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:MadonnaO2171023_(97_of_133)_(53269593787)_(cropped).jpg",
-        "aciklama": "Madonna en 2023",
-        "konu": "Madonna"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg/960px-MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg/500px-MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1536,
-          "orijinalGenislik": 1500,
-          "yazar": "Raph_PH",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:MadonnaO2171023_(97_of_133)_(53269593787)_(cropped).jpg",
-          "aciklama": "Madonna en 2023",
-          "konu": "Madonna"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/GuyRitchiebyKathyHutchins.jpg/960px-GuyRitchiebyKathyHutchins.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/GuyRitchiebyKathyHutchins.jpg/500px-GuyRitchiebyKathyHutchins.jpg",
-          "genislik": 960,
-          "yukseklik": 1287,
-          "orijinalGenislik": 1141,
-          "yazar": "Kathy Hutchins",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:GuyRitchiebyKathyHutchins.jpg",
-          "aciklama": "Guy Ritchie at the Los Angles Premiere of King Arthur: Legend of the Sword on May 8, 2017",
-          "konu": "Guy Ritchie"
-        }
-      ]
+      "baslik": "Madonna ve Guy Ritchie'nin İskoçya'daki Düğünü",
+      "ozet": "Pop müziğin ikonik ismi Madonna, 22 Aralık 2000 tarihinde İngiliz yönetmen Guy Ritchie ile İskoçya'nın Sutherland bölgesindeki Skibo Kalesi'nde gerçekleşen özel bir törenle evlendi. Medyanın yoğun ilgi gösterdiği bu evlilik, dönemin en çok konuşulan magazin olaylarından biri haline geldi. Çiftin düğünü, İskoç geleneklerine uygun detayları ve yüksek güvenlik önlemleriyle dikkat çekmişti.\n\nBu evlilik, Madonna'nın kariyerindeki en popüler dönemlerinden birine denk gelmesi nedeniyle geniş kitleler tarafından takip edildi. Guy Ritchie ise o dönemde İngiliz sinemasının yükselen yönetmenlerinden biri olarak tanınıyordu. Birliktelikleri boyunca hem kişisel hayatları hem de profesyonel projeleriyle sık sık gündeme gelen çift, 2008 yılında yollarını ayırma kararı aldı. Bu evlilik, popüler kültür tarihinde iki farklı sanat dünyasının birleştiği önemli bir dönüm noktası olarak hatırlanmaktadır.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "2000-turkiyede-rahsan-affi-cikarildi",
@@ -792,10 +741,10 @@
         "Afganistan",
         "Hamid Karzai"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Afganistan'da Karzai Dönemi Başlıyor",
+      "ozet": "Taliban rejiminin devrilmesinin ardından Afganistan'da siyasi istikrarı sağlamak amacıyla oluşturulan Geçici Yönetim, Hamid Karzai'nin başkanlığında 22 Aralık 2002 tarihinde göreve başladı. Bu yönetim, ülkenin uzun süren çatışma döneminden sonra demokratik bir yapıya geçiş sürecindeki ilk önemli adımlardan biri olarak kabul edildi. Karzai, bu süreçte uluslararası toplumun desteğini alarak ülkeyi yeniden inşa etme ve farklı etnik grupları bir araya getirme sorumluluğunu üstlendi.\n\nBu geçiş dönemi, Afganistan'ın modern tarihindeki en kritik kırılma noktalarından birini temsil ediyordu. Taliban sonrası dönemde kurulan bu hükûmet, ülkenin merkezi otoritesini yeniden tesis etmeye çalışırken aynı zamanda güvenlik ve ekonomik kalkınma gibi devasa sorunlarla karşı karşıya kaldı. Karzai'nin liderliği, sonraki yıllarda yapılacak seçimlere ve anayasal düzenin kurulmasına zemin hazırladı. Ancak bu süreç, ilerleyen yıllarda Taliban ve El-Kaide gibi grupların yeniden güç kazanması ve yönetimdeki yolsuzluk iddiaları nedeniyle ciddi zorluklarla sınandı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamid_Karzai_in_June_2014.jpg/960px-Hamid_Karzai_in_June_2014.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamid_Karzai_in_June_2014.jpg/500px-Hamid_Karzai_in_June_2014.jpg",
@@ -808,7 +757,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Hamid_Karzai_in_June_2014.jpg",
         "aciklama": "President Hamid Karzai speaks to the journalists in Kabul after casting his vote. He said Afghans should vote for the candidate of their choice and called the vote “a step towards progress and democra",
         "konu": "Hamid Karzai"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "2016-irak-ve-sam-islam-devleti-tarafindan-sefter",
