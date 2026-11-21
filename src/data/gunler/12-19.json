@@ -109,10 +109,10 @@
         "Mısır Sultanlığı",
         "Hüseyin Kâmil"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Mısır'da İngiliz Himayesi ve Sultanlığın İlanı",
+      "ozet": "I. Dünya Savaşı'nın başlamasıyla birlikte bölgedeki stratejik çıkarlarını korumak isteyen İngiltere, Osmanlı İmparatorluğu'na bağlı olan Mısır üzerindeki kontrolünü resmileştirdi. İngiliz yönetimi, Osmanlı yanlısı bir tutum sergileyen Hidiv II. Abbas Hilmi Paşa'yı görevden uzaklaştırarak Mısır'daki hidivlik makamına son verdi. Bu hamle, Mısır'ın Osmanlı egemenliğinden koparılarak İngiliz himayesine girmesini sağlayan bir protektora yönetiminin başlangıcı oldu. Abbas Hilmi Paşa'nın yerine ise İngilizlerin desteğiyle amcası Hüseyin Kâmil getirildi. Hüseyin Kâmil'e sultan unvanı verilerek Mısır Sultanlığı ilan edildi. Bu olay, Mısır'ın siyasi statüsünde köklü bir değişikliğe yol açarken, bölgedeki İngiliz nüfuzunu pekiştiren ve Osmanlı İmparatorluğu'nun Mısır üzerindeki hukuki bağlarını fiilen koparan kritik bir dönüm noktası olarak tarihe geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/His_Highness_Abbas_Hilmy_II.png/960px-His_Highness_Abbas_Hilmy_II.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/His_Highness_Abbas_Hilmy_II.png/500px-His_Highness_Abbas_Hilmy_II.png",
@@ -126,34 +126,7 @@
         "aciklama": "His Highness Abbas Hilmy II. Khedive of Egypt.",
         "konu": "II. Abbas Hilmi Paşa"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/His_Highness_Abbas_Hilmy_II.png/960px-His_Highness_Abbas_Hilmy_II.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/His_Highness_Abbas_Hilmy_II.png/500px-His_Highness_Abbas_Hilmy_II.png",
-          "genislik": 960,
-          "yukseklik": 1217,
-          "orijinalGenislik": 2893,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:His_Highness_Abbas_Hilmy_II.png",
-          "aciklama": "His Highness Abbas Hilmy II. Khedive of Egypt.",
-          "konu": "II. Abbas Hilmi Paşa"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/HusseinKamelSultan.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/HusseinKamelSultan.jpg",
-          "genislik": 400,
-          "yukseklik": 593,
-          "orijinalGenislik": 400,
-          "yazar": "Ch. Chusseau-Flaviens",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:HusseinKamelSultan.jpg",
-          "aciklama": "Photograph of Hussein Kamel (1853-1917), Sultan of Egypt.",
-          "konu": "Hüseyin Kâmil"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1915-son-anzak-ve-ingiliz-birlikleri-anafartalar-cephesi",
