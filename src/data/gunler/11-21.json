@@ -356,7 +356,7 @@
     },
     {
       "yil": 1834,
-      "metin": "Hetty Green, Amerikalı iş insanı (ö. 1916)"
+      "metin": "Hetty Green, Amerikalı iş adamı (ö. 1916)"
     },
     {
       "yil": 1840,
@@ -463,10 +463,6 @@
       "metin": "Björk, İzlandalı şarkıcı"
     },
     {
-      "yil": 1966,
-      "metin": "İsmail Aydın, Türk hakim"
-    },
-    {
       "yil": 1969,
       "metin": "Süleyman Soylu, Türk siyasetçi"
     },
@@ -542,7 +538,7 @@
     },
     {
       "yil": 1555,
-      "metin": "Georgius Agricola, Alman bilim insanı (d. 1490)"
+      "metin": "Georgius Agricola, Alman bilim adamı (d. 1490)"
     },
     {
       "yil": 1695,
@@ -723,9 +719,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/21_Kas%C4%B1m",
-    "revid": 37308860
+    "revid": 38645529
   },
-  "guncelleme": "2026-11-20T15:01:35.141Z",
+  "guncelleme": "2026-11-21T14:23:12.847Z",
   "haberler": [
     {
       "id": "2025-haber-2454491",
@@ -1029,14 +1025,13 @@
       },
       "konular": [
         "Türkiye Büyük Millet Meclisi",
-        "Vergi Hukuku",
-        "Türkiye Ekonomisi"
+        "Vergi"
       ],
       "yayin": "2019-11-21T22:19:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Yeni Vergi Düzenlemeleri Meclis Genel Kurulu Tarafından Onaylandı",
-      "ozet": "Dijital Hizmet Vergisi, Konaklama Vergisi ve Değerli Konut Vergisi gibi çeşitli başlıkları kapsayan kanun teklifi, Türkiye Büyük Millet Meclisi Genel Kurulu'nda görüşülerek kabul edildi. Yeni düzenleme kapsamında gelir vergisi tarifesine ilave dilimler ve farklı oranlar getirildi. Yasal süreçleri tamamlanan teklif, vergi sisteminde çeşitli değişiklikler yapılmasını sağladı.",
+      "baslik": "Yeni vergi düzenlemelerini içeren kanun teklifi Meclis'te onaylandı",
+      "ozet": "Dijital Hizmet Vergisi, Konaklama Vergisi ve Değerli Konut Vergisi gibi çeşitli başlıkları kapsayan yasal düzenleme, Türkiye Büyük Millet Meclisi Genel Kurulu'nda yapılan oylama sonucunda kabul edildi. Söz konusu kanun teklifi, gelir vergisi tarifesine yeni oranlar ve dilimler eklenmesini de içeren geniş kapsamlı değişiklikleri beraberinde getirdi.",
       "kategori": "Ekonomi"
     },
     {
@@ -1094,8 +1089,8 @@
       "yayin": "2018-11-21T10:35:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Avrupalı atlet Nigel Levine doping nedeniyle ceza aldı",
-      "ozet": "Avrupa şampiyonluğu bulunan Büyük Britanyalı sporcu Nigel Levine, yasaklı madde kullandığı gerekçesiyle disiplin soruşturması geçirdi. Yapılan incelemeler sonucunda atletin müsabakalardan dört yıl süreyle men edilmesine karar verildi.",
+      "baslik": "Avrupalı atlet Nigel Levine spor müsabakalarından men edildi",
+      "ozet": "Büyük Britanya adına yarışan ve Avrupa şampiyonluğu bulunan atlet Nigel Levine, yasaklı madde kullandığının tespit edilmesi üzerine dört yıl boyunca yarışmalara katılmama cezası aldı. Sporcunun doping kurallarını ihlal ettiği gerekçesiyle verilen bu yaptırım, atletizm dünyasında karşılık buldu.",
       "kategori": "Spor"
     },
     {
@@ -1274,29 +1269,16 @@
         "url": "https://www.cumhuriyet.com.tr/haber/emir-hayata-boyle-acildi-427583"
       },
       "konular": [
-        "Avrupa göçmen krizi",
-        "Afganistan",
-        "Mülteci"
+        "Mülteci krizi",
+        "Afganistan"
       ],
       "yayin": "2015-11-21T23:41:00+03:00",
       "puan": 7,
       "durum": "yazildi",
-      "baslik": "Afgan mülteci çocuğun deniz yolculuğu üzerinden göçmen sorunu",
-      "ozet": "Afganistan kökenli küçük bir çocuk, yaşadığı zorluklara ve göç yolundaki tehlikelere dikkat çekmek amacıyla bir mesaj paylaştı. Aylan Kurdi örneği üzerinden hayatta kalmanın önemine vurgu yapan çocuk, üzerindeki kıyafetle uluslararası kamuoyuna sesini duyurmaya çalıştı. Bu durum, göçmen çocukların karşı karşıya kaldığı riskleri ve insani krizi yeniden gündeme taşıdı.",
+      "baslik": "Afgan çocuktan mülteci krizine dikkat çeken mesaj",
+      "ozet": "Afganistan doğumlu bir çocuk, yaşadığı zorlu koşulları ve göç yolculuğunu kendi bakış açısıyla dile getirdi. Aylan Kurdi örneği üzerinden hayatta kalma mücadelesine vurgu yapan çocuk, üzerindeki kıyafette yer alan mesaj aracılığıyla uluslararası kamuoyunun dikkatini mülteci sorununa çekmeye çalıştı. Bu çıkış, göçmenlerin yaşadığı insani dramın boyutlarını gözler önüne serdi.",
       "kategori": "Toplum",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/UN-laissez-passer.jpg/960px-UN-laissez-passer.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/UN-laissez-passer.jpg/500px-UN-laissez-passer.jpg",
-        "genislik": 960,
-        "yukseklik": 1358,
-        "orijinalGenislik": 1040,
-        "yazar": "United Nations, The original uploader was Fisherjs at English Wikipedia.",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:UN-laissez-passer.jpg",
-        "aciklama": "Scan of Laissez-passer issued by the United Nations.",
-        "konu": "Mülteci"
-      }
+      "gorsel": null
     },
     {
       "id": "2014-haber-146533",
@@ -1515,9 +1497,9 @@
       "yayin": "2011-11-21T13:30:00+03:00",
       "puan": 8,
       "durum": "yazildi",
-      "baslik": "Japonya'da Afet Sonrası Yeniden Yapılanma Bütçesi Kabul Edildi",
-      "ozet": "Japonya yönetimi, meydana gelen büyük deprem ve tsunami felaketinin yaralarını sarmak amacıyla hazırlanan ek bütçe tasarısına onay verdi. Söz konusu kaynak, afetin ardından bölgenin yeniden inşa edilmesi ve zararların giderilmesi için kullanılacak. Toplamda 12 trilyon yen tutarındaki bu ödenek, ülkenin afet sonrası toparlanma sürecinde büyük bir adım olarak değerlendirildi.",
-      "kategori": "Afet",
+      "baslik": "Japonya'da deprem sonrası yeniden yapılanma bütçesi kabul edildi",
+      "ozet": "Japonya yönetimi, yaşanan büyük deprem ve tsunami felaketinin ardından bölgenin tekrar inşa edilmesi amacıyla hazırlanan ek bütçeyi onayladı. Söz konusu mali kaynak, afetin yarattığı yıkımın giderilmesi ve bölgedeki çalışmaların hızlandırılması için kullanılacak. Toplamda 12 trilyon yen değerindeki bu bütçe, ülkenin afet sonrası toparlanma sürecindeki en önemli adımlardan biri oldu.",
+      "kategori": "Ekonomi",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/SH-60B_helicopter_flies_over_Sendai.jpg/960px-SH-60B_helicopter_flies_over_Sendai.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/SH-60B_helicopter_flies_over_Sendai.jpg/500px-SH-60B_helicopter_flies_over_Sendai.jpg",

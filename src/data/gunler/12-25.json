@@ -10,10 +10,10 @@
         "Noel",
         "Roma İmparatorluğu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Tarihteki İlk Noel Kutlaması",
+      "ozet": "Hristiyan dünyasının en önemli bayramlarından biri olan Noel, İsa'nın doğumunun anıldığı bir gün olarak kabul edilir. Tarihsel kayıtlara göre, bu bayramın 25 Aralık tarihinde resmi olarak kutlanmasına dair ilk somut kanıtlar, Roma İmparatorluğu döneminde, MS 336 yılına işaret etmektedir. Bu tarihten önce Hristiyan toplulukları arasında İsa'nın doğum günü için farklı tarihler öne sürülse de, 4. yüzyılda Roma'da bu günün 25 Aralık olarak belirlenmesi, bayramın kurumsallaşmasında kritik bir dönüm noktası olmuştur. Roma'nın bu tercihi, zamanla diğer Hristiyan merkezlerine de yayılarak evrensel bir gelenek haline gelmiştir. Noel'in bu tarihte kutlanmasının, o dönemde Roma'da yaygın olan kış gündönümü festivalleriyle ve güneş kültüyle olan ilişkisi tarihçiler tarafından sıkça tartışılmaktadır. İmparatorluk genelinde Hristiyanlığın yayılma sürecinde, bu tür geleneklerin yerleşik kültürel pratiklerle uyumlanması, dinin toplumsal kabulünü kolaylaştıran bir strateji olarak değerlendirilmektedir. Günümüzde Noel, dini kökenlerinin yanı sıra dünya genelinde kültürel ve seküler bir bayram olarak da geniş kitlelerce kutlanmaya devam etmektedir.",
+      "kategori": "Din",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/NativityChristmasLights2.jpg/960px-NativityChristmasLights2.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/NativityChristmasLights2.jpg/500px-NativityChristmasLights2.jpg",
@@ -27,34 +27,7 @@
         "aciklama": "Depiction of the Nativity using Christmas lights. Removal of connective wires and piece of wood obscuring the creche using photo editing software.",
         "konu": "Noel"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/NativityChristmasLights2.jpg/960px-NativityChristmasLights2.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/NativityChristmasLights2.jpg/500px-NativityChristmasLights2.jpg",
-          "genislik": 960,
-          "yukseklik": 686,
-          "orijinalGenislik": 3619,
-          "yazar": "File:NativityChristmasLights.jpg: derivative work: Crumpled Fire",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:NativityChristmasLights2.jpg",
-          "aciklama": "Depiction of the Nativity using Christmas lights. Removal of connective wires and piece of wood obscuring the creche using photo editing software.",
-          "konu": "Noel"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Roman_Empire_Trajan_117AD.png/960px-Roman_Empire_Trajan_117AD.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Roman_Empire_Trajan_117AD.png/500px-Roman_Empire_Trajan_117AD.png",
-          "genislik": 960,
-          "yukseklik": 611,
-          "orijinalGenislik": 2534,
-          "yazar": "Tataryn",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Roman_Empire_Trajan_117AD.png",
-          "aciklama": "The Roman Empire (red) and its clients (pink) in 117 AD during the reign of emperor Trajan.",
-          "konu": "Roma İmparatorluğu"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1522-rodos-osmanli-egemenligine-girdi",
@@ -64,23 +37,12 @@
         "Rodos",
         "Osmanlı İmparatorluğu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Aerial_view_of_Rhodes_Old_Town%2C_Greece_%2851698566526%29.jpg/960px-Aerial_view_of_Rhodes_Old_Town%2C_Greece_%2851698566526%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Aerial_view_of_Rhodes_Old_Town%2C_Greece_%2851698566526%29.jpg/500px-Aerial_view_of_Rhodes_Old_Town%2C_Greece_%2851698566526%29.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 5464,
-        "yazar": "dronepicr",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Rhodes_Old_Town,_Greece_(51698566526).jpg",
-        "aciklama": "Aerial view of Rhodes Old Town in Rhodos (city) on Rhodes island",
-        "konu": "Rodos"
-      }
+      "baslik": "Rodos'un Osmanlı İmparatorluğu'na Katılışı",
+      "ozet": "Kanuni Sultan Süleyman komutasındaki Osmanlı ordusu, uzun süren bir kuşatmanın ardından 25 Aralık 1522 tarihinde Rodos Adası'nı teslim aldı. Stratejik konumu nedeniyle Akdeniz'deki deniz ticaret yollarını kontrol altında tutan ada, Hospitalier Şövalyeleri'nin elindeydi. Şehrin teslim edilmesiyle birlikte adadaki şövalye hakimiyeti sona erdi ve bölge Osmanlı idaresine geçti. Bu fetih, Osmanlı İmparatorluğu'nun Doğu Akdeniz'deki deniz hakimiyetini pekiştiren en önemli askeri başarılardan biri olarak kabul edilir. Rodos'un alınması, Osmanlı donanmasının bölgedeki hareket alanını genişletmiş ve imparatorluğun denizlerdeki gücünü zirveye taşıyan süreçte kritik bir dönüm noktası oluşturmuştur. Fethin ardından adada uzun yıllar sürecek olan Osmanlı yönetimi başlamış ve bölgenin sosyal, kültürel ve mimari yapısında kalıcı izler bırakılmıştır.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1638-osmanli-ordusu-bagdata-girdi",
@@ -90,23 +52,12 @@
         "Osmanlı Ordusu",
         "Bağdat"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/5628442718_b10fc2c47f_o.jpg/960px-5628442718_b10fc2c47f_o.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/5628442718_b10fc2c47f_o.jpg/500px-5628442718_b10fc2c47f_o.jpg",
-        "genislik": 960,
-        "yukseklik": 630,
-        "orijinalGenislik": 2000,
-        "yazar": "USACE HQ , JIM GORDAN, CIV, USACE",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:5628442718_b10fc2c47f_o.jpg",
-        "aciklama": "This is an aerial view of the former Republican Palace (foreground), which served as both the prime ceremonial palace used by Saddam Hussein and the Headquarters for the now defunct Iraqi Republican G",
-        "konu": "Bağdat"
-      }
+      "baslik": "IV. Murad Döneminde Bağdat'ın Fethi",
+      "ozet": "Osmanlı İmparatorluğu, 25 Aralık 1638 tarihinde Bağdat'ı Safevi Devleti'nin elinden geri alarak bölgedeki hakimiyetini yeniden tesis etti. Sultan IV. Murad'ın bizzat komuta ettiği bu sefer, uzun süren kuşatmanın ardından şehrin teslim olmasıyla sonuçlandı. Bu zafer, Osmanlı'nın doğu sınırlarını güvence altına alma çabasında kritik bir dönüm noktası olarak kabul edilir. Bağdat'ın fethi, Osmanlı-Safevi rekabetinde önemli bir askeri başarı olmasının yanı sıra, imparatorluğun bölgedeki otoritesini pekiştiren sembolik bir güç gösterisiydi. Şehir, stratejik konumu ve tarihi önemi nedeniyle yüzyıllar boyunca iki imparatorluk arasında el değiştirmiş, bu kuşatma ile Osmanlı yönetimi altında uzun süreli bir istikrar dönemine girmiştir. Fetih sonrasında imzalanan Kasr-ı Şirin Antlaşması ile Osmanlı ve Safevi sınırları büyük ölçüde belirlenmiş ve bölgede uzun süreli bir barış ortamı sağlanmıştır. Bağdat, bu tarihten itibaren imparatorluğun önemli bir idari ve kültürel merkezi olma vasfını korumaya devam etmiştir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1683-ii-viyana-kusatmasinin-basarisizlikla-sonuclanmasi-uzerine-sadrazam",
@@ -117,51 +68,24 @@
         "Sadrazam",
         "Merzifonlu Kara Mustafa Paşa"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Merzifonlu Kara Mustafa Paşa'nın İdamı",
+      "ozet": "Osmanlı İmparatorluğu'nun yükseliş döneminden sonra Avrupa'daki ilerleyişinin duraklamasında kritik bir rol oynayan II. Viyana Kuşatması, 1683 yılında büyük bir askeri yenilgiyle sonuçlandı. Kuşatmanın komutasını üstlenen Sadrazam Merzifonlu Kara Mustafa Paşa, Kahlenberg Muharebesi'nde alınan ağır mağlubiyetin ardından devletin otoritesini sarsan bu başarısızlığın sorumlusu olarak görüldü. Padişah IV. Mehmed'in emriyle görevinden alınan Paşa, 25 Aralık 1683 tarihinde Belgrad'da boğularak idam edildi.\n\nMerzifonlu Kara Mustafa Paşa'nın ölümü, Osmanlı siyasi tarihinde önemli bir dönüm noktasıdır. Daha önceki savaşlarda kazandığı başarılara rağmen, Viyana önündeki bozgun imparatorluğun askeri prestijini derinden etkiledi. Bu olay, Osmanlıların Avrupa'daki toprak kayıplarının başlangıcı olan ve 1699 yılına kadar sürecek olan uzun bir savaş döneminin de habercisi oldu. Paşa'nın naaşı Belgrad'da defnedilirken, kesilen başı Edirne'ye getirilerek gömüldü.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Vienna_Battle_1683.jpg/960px-Vienna_Battle_1683.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Vienna_Battle_1683.jpg/500px-Vienna_Battle_1683.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Kara_Mustafa_Pasha.jpg/960px-Kara_Mustafa_Pasha.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Kara_Mustafa_Pasha.jpg/500px-Kara_Mustafa_Pasha.jpg",
         "genislik": 960,
-        "yukseklik": 635,
-        "orijinalGenislik": 2783,
-        "yazar": "Frans Geffels",
+        "yukseklik": 1478,
+        "orijinalGenislik": 1848,
+        "yazar": "Unidentified painter",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Vienna_Battle_1683.jpg",
-        "aciklama": "Δεύτερη Πολιορκία της Βιέννης το 1683",
-        "konu": "II. Viyana Kuşatması"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kara_Mustafa_Pasha.jpg",
+        "aciklama": "Posthumous Portrait of Kara Mustafa Paşa (1634-1683), Grand Vizier.",
+        "konu": "Merzifonlu Kara Mustafa Paşa"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Vienna_Battle_1683.jpg/960px-Vienna_Battle_1683.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Vienna_Battle_1683.jpg/500px-Vienna_Battle_1683.jpg",
-          "genislik": 960,
-          "yukseklik": 635,
-          "orijinalGenislik": 2783,
-          "yazar": "Frans Geffels",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Vienna_Battle_1683.jpg",
-          "aciklama": "Δεύτερη Πολιορκία της Βιέννης το 1683",
-          "konu": "II. Viyana Kuşatması"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Kara_Mustafa_Pasha.jpg/960px-Kara_Mustafa_Pasha.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Kara_Mustafa_Pasha.jpg/500px-Kara_Mustafa_Pasha.jpg",
-          "genislik": 960,
-          "yukseklik": 1478,
-          "orijinalGenislik": 1848,
-          "yazar": "Unidentified painter",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Kara_Mustafa_Pasha.jpg",
-          "aciklama": "Posthumous Portrait of Kara Mustafa Paşa (1634-1683), Grand Vizier.",
-          "konu": "Merzifonlu Kara Mustafa Paşa"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1809-amerikali-doktor-ephraim-mcdowell-klinigine-hamileyim-diyerek",
@@ -184,23 +108,12 @@
       "konular": [
         "Gaziantep"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gaziantep_Archaeology_museum_Roman_Statues_Hall_4431.jpg/960px-Gaziantep_Archaeology_museum_Roman_Statues_Hall_4431.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gaziantep_Archaeology_museum_Roman_Statues_Hall_4431.jpg/500px-Gaziantep_Archaeology_museum_Roman_Statues_Hall_4431.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 8256,
-        "yazar": "Dosseman",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Gaziantep_Archaeology_museum_Roman_Statues_Hall_4431.jpg",
-        "aciklama": "A room with many Roman statues.",
-        "konu": "Gaziantep"
-      }
+      "baslik": "Gaziantep'in Fransız İşgalinden Kurtuluşu",
+      "ozet": "Gaziantep, Birinci Dünya Savaşı sonrasında başlayan işgal sürecinde büyük bir direniş sergileyerek 25 Aralık 1921 tarihinde Fransız kuvvetlerinden temizlendi. Şehrin savunması, Türk Kurtuluş Savaşı'nın en önemli sembollerinden biri haline gelmiş ve halkın gösterdiği üstün gayret, şehrin daha sonra gazi unvanını almasını sağlamıştır. Uzun süren kuşatma ve çatışmaların ardından sağlanan bu zafer, bölgedeki işgalin sona ermesinde kritik bir dönüm noktası olmuştur.\n\nAntep halkı, kısıtlı imkanlara rağmen sergilediği kararlı duruşla işgal güçlerine karşı büyük bir mücadele vermiştir. Bu direniş, sadece askeri bir başarı değil, aynı zamanda yerel halkın bağımsızlık azminin bir göstergesi olarak tarihe geçmiştir. Bugün Gaziantep olarak anılan şehir, bu tarihi zaferin anısına Türkiye Büyük Millet Meclisi tarafından verilen gazi unvanını gururla taşımaktadır. Şehrin kurtuluşu, Türkiye'nin güney sınırlarının güvenliği ve ulusal egemenliğin tesisi açısından büyük bir öneme sahiptir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1922-tbmmnin-gizli-oturumunda-basbakan-h-rauf-orbayin",
@@ -211,10 +124,10 @@
         "Rauf Orbay",
         "Lozan Konferansı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Lozan Konferansı Süreci ve Meclis'teki Gizli Oturum",
+      "ozet": "Kurtuluş Savaşı'nın zaferle sonuçlanmasının ardından, Türkiye'nin bağımsızlığını uluslararası alanda tescilleyecek olan Lozan Barış Konferansı süreci büyük bir titizlikle yürütülüyordu. 25 Aralık 1922 tarihinde Türkiye Büyük Millet Meclisi'nde düzenlenen gizli oturum, bu kritik diplomatik sürecin iç siyasetteki yansımalarını göstermesi açısından önem taşımaktadır. Başbakan Rauf Orbay, İsviçre'de devam eden görüşmelerin seyri, Türk heyetinin tutumu ve karşılaşılan zorluklar hakkında meclis üyelerini bilgilendirerek, hükümetin izlediği stratejiye dair detaylı açıklamalarda bulundu.\n\nLozan Konferansı, Sevr Antlaşması'nın geçersizliğini kesinleştirmek ve yeni Türk devletinin sınırlarını, haklarını ve egemenliğini uluslararası hukuk nezdinde güvence altına almak amacıyla toplanmıştı. İsmet İnönü başkanlığındaki Türk heyeti, Misak-ı Milli hedeflerinden taviz vermeden görüşmeleri sürdürürken, Ankara'daki meclis de bu süreci yakından takip ediyordu. Gizli oturumlar, devletin en üst düzey karar alma mekanizmasının, dış politikadaki hassas dengeleri ve olası gelişmeleri ortak bir akılla değerlendirmesine olanak tanıyordu. Bu toplantılar, hem hükümetin meclise karşı sorumluluğunu yerine getirmesini sağlıyor hem de ulusal bağımsızlık mücadelesinin diplomatik aşamasında birlik ve beraberliğin korunmasına katkıda bulunuyordu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Turkey-Greece-Bulgaria_on_Treaty_of_Lausanne.png",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Turkey-Greece-Bulgaria_on_Treaty_of_Lausanne.png",
@@ -227,7 +140,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Turkey-Greece-Bulgaria_on_Treaty_of_Lausanne.png",
         "aciklama": null,
         "konu": "Lozan Konferansı"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1926-japon-imparatoru-taisonun-olumu-uzerine-oglu-hirohito",
@@ -238,10 +152,10 @@
         "Taişo (imparator)",
         "Hirohito"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Japonya'da Şova Dönemi Başlıyor",
+      "ozet": "İmparator Taişo'nun 1926 yılında vefat etmesiyle birlikte, oğlu Hirohito Japonya tahtına çıkarak ülkenin yeni imparatoru oldu. Taişo'nun hükümdarlığı boyunca yaşadığı sağlık sorunları nedeniyle 1921 yılından itibaren naip prens olarak görev yapan Hirohito, babasının ölümüyle resmen imparatorluk görevini devraldı. Bu geçiş, Japonya tarihinde Şova dönemi olarak adlandırılan ve ülkenin kaderini derinden etkileyecek uzun bir sürecin başlangıcını temsil ediyordu.\n\nHirohito'nun tahta çıkışı, Japonya'nın militarizmin yükselişine sahne olduğu ve ardından II. Dünya Savaşı'na sürüklendiği çalkantılı bir döneme denk geldi. İmparatorluk süreci, savaşın yıkıcı etkileri, atom bombası felaketleri ve sonrasında gelen büyük ekonomik kalkınma hamlelerini kapsayan 62 yıllık bir dönemi içerdi. Hirohito, savaş sonrası dönemde ilahi vasfını reddederek imparatorluk kurumunun modernleşmesinde kilit bir rol oynadı. Japon tarihinin en uzun süre tahtta kalan hükümdarı olan Hirohito'nun saltanatı, ülkenin geleneksel bir imparatorluktan modern bir dünya gücüne dönüşümünün en önemli tanığı oldu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Emperor_Taish%C5%8D.jpg/960px-Emperor_Taish%C5%8D.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Emperor_Taish%C5%8D.jpg/500px-Emperor_Taish%C5%8D.jpg",
@@ -254,7 +168,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Emperor_Taish%C5%8D.jpg",
         "aciklama": "Portrait of Emperor Taishō.",
         "konu": "Taişo (imparator)"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1932-cinin-guangzhou-bolgesinde-7-6-siddetinde-deprem",
@@ -265,51 +180,12 @@
         "Guangzhou",
         "deprem"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Canton_Tower_20220626_%28cropped%29.jpg/960px-Canton_Tower_20220626_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Canton_Tower_20220626_%28cropped%29.jpg/500px-Canton_Tower_20220626_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 2709,
-        "yazar": "Tim Wu",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Canton_Tower_20220626_(cropped).jpg",
-        "aciklama": "Aerial photograph of Guangzhou Tower",
-        "konu": "Guangzhou"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Canton_Tower_20220626_%28cropped%29.jpg/960px-Canton_Tower_20220626_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Canton_Tower_20220626_%28cropped%29.jpg/500px-Canton_Tower_20220626_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 2709,
-          "yazar": "Tim Wu",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Canton_Tower_20220626_(cropped).jpg",
-          "aciklama": "Aerial photograph of Guangzhou Tower",
-          "konu": "Guangzhou"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Quake_epicenters_1963-98_notitle.png",
-          "genislik": 800,
-          "yukseklik": 420,
-          "orijinalGenislik": 800,
-          "yazar": "NASA",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Quake_epicenters_1963-98_notitle.png",
-          "aciklama": "Quake epicenters: Preliminary Determination of Epicenters, 358,214 Events, 1963 - 1998",
-          "konu": "deprem"
-        }
-      ]
+      "baslik": "Guangzhou'da Yıkıcı Deprem Felaketi",
+      "ozet": "1932 yılının Noel gününde Çin'in güneyindeki Guangzhou bölgesini vuran 7,6 büyüklüğündeki deprem, bölge tarihinin en büyük doğal afetlerinden biri olarak kayıtlara geçti. Yer kabuğunda meydana gelen bu şiddetli sismik hareket, yoğun nüfuslu yerleşim alanlarında büyük bir yıkıma neden oldu. Sarsıntının etkisiyle binlerce bina yerle bir olurken, kurtarma çalışmalarının kısıtlı imkanlarla yürütüldüğü o dönemde can kaybı 70.000 gibi çok yüksek bir sayıya ulaştı.\n\nDepremler, yer kabuğundaki enerjinin aniden boşalmasıyla oluşan sismik dalgaların yeryüzünü sarsması sonucu meydana gelir. Özellikle 7 ve üzerindeki büyüklükteki sarsıntılar, yapısal dayanıklılığı düşük olan bölgelerde felaket boyutunda sonuçlar doğurabilmektedir. Guangzhou depremi, sismik aktivitenin insan yaşamı üzerindeki yıkıcı etkisini gözler önüne seren trajik bir örnek olmuştur. Bu olay, bölgenin yapılaşma ve afet yönetimi politikalarının gelişiminde de önemli bir dönüm noktası teşkil etmiştir.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1952-said-i-nursinin-yargilanmasina-baslandi",
@@ -318,10 +194,10 @@
       "konular": [
         "Said-i Nursi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Said Nursî'nin Yargılanma Süreci Başladı",
+      "ozet": "İslam âlimi ve Risale-i Nur külliyatının yazarı Said Nursî, 25 Aralık 1952 tarihinde İstanbul'da mahkeme karşısına çıkarıldı. Bu yargılama, Nursî'nin eserleri ve faaliyetleri üzerinden yürütülen hukuki sürecin önemli bir aşamasını oluşturuyordu. Dönemin siyasi atmosferinde, Nursî'nin fikirleri ve takipçileriyle olan ilişkisi devletin dikkatini çekmiş, bu durum çeşitli soruşturmaların ve davaların açılmasına zemin hazırlamıştı.\n\nSaid Nursî, hayatı boyunca Osmanlı'nın son döneminden Cumhuriyet'in kuruluşuna kadar uzanan geniş bir zaman diliminde aktif bir entelektüel ve dini figür olarak öne çıkmıştır. Özellikle fen ve din ilimlerinin bir arada okutulmasını savunduğu Medresetü'z-Zehra projesi ve Meşrutiyet dönemindeki siyasi görüşleriyle tanınmıştır. 1952 yılındaki bu yargılama, onun eserlerinin toplum üzerindeki etkisinin ve devletin dini gruplara yönelik o dönemki yaklaşımının bir yansıması olarak tarihe geçmiştir. Nursî, yaşamı boyunca birçok kez benzer hukuki süreçlerle karşılaşmış olsa da, bu dava onun fikirlerinin kamuoyunda daha geniş bir tartışma konusu haline gelmesine neden olmuştur.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Said_Nursi_passport_photo_1918.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Said_Nursi_passport_photo_1918.jpg",
@@ -334,7 +210,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Said_Nursi_passport_photo_1918.jpg",
         "aciklama": "Passport photograph of Said Nursi in 1918, taken in Germany after he escaped from captivity in Russia.",
         "konu": "Said-i Nursi"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1963-turkiye-cumhuriyeti-enerji-ve-tabii-kaynaklar-bakanligi",
@@ -343,10 +220,10 @@
       "konular": [
         "Türkiye Cumhuriyeti Enerji ve Tabii Kaynaklar Bakanlığı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Türkiye'nin Enerji Yönetiminde Yeni Bir Dönem: Bakanlığın Kuruluşu",
+      "ozet": "Türkiye Cumhuriyeti Enerji ve Tabii Kaynaklar Bakanlığı, ülkenin enerji politikalarını belirlemek ve doğal kaynakların verimli bir şekilde yönetilmesini sağlamak amacıyla 25 Aralık 1963 tarihinde kurulmuştur. Bakanlığın kuruluşu, Türkiye'nin sanayileşme hamleleri ve artan enerji ihtiyacının daha merkezi ve planlı bir yapıyla karşılanması gerekliliğinden doğmuştur. Bu adım, enerji sektöründeki faaliyetlerin tek bir çatı altında toplanarak daha etkin bir denetim ve yönetim mekanizmasına kavuşturulmasını hedeflemiştir.\n\nKuruluşundan bu yana bakanlık, Türkiye'nin enerji arz güvenliğinin sağlanması, yerli kaynakların ekonomiye kazandırılması ve enerji altyapısının modernizasyonu gibi kritik görevleri üstlenmiştir. Özellikle madencilik, petrol, doğalgaz ve elektrik enerjisi gibi stratejik alanlarda yürütülen çalışmalar, bakanlığın temel faaliyet sahalarını oluşturmaktadır. Günümüzde ise yenilenebilir enerji kaynaklarının sisteme entegrasyonu ve enerji verimliliği projeleri, bakanlığın öncelikli gündem maddeleri arasında yer alarak Türkiye'nin sürdürülebilir kalkınma hedeflerine hizmet etmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Enejivetabiikaynaklarbakanligi.jpg/960px-Enejivetabiikaynaklarbakanligi.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Enejivetabiikaynaklarbakanligi.jpg/500px-Enejivetabiikaynaklarbakanligi.jpg",
@@ -359,7 +236,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Enejivetabiikaynaklarbakanligi.jpg",
         "aciklama": "Ankara'da Enerji ve Tabii Kaynaklar Bakanlığı Yenilenebilir Enerji Genel Müdürlüğü binası.",
         "konu": "Türkiye Cumhuriyeti Enerji ve Tabii Kaynaklar Bakanlığı"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1963-kibrista-kibris-mucadelesi-ulusal-orgutu-eoka-adanin",
@@ -370,51 +248,24 @@
         "EOKA",
         "Kıbrıs Türkleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Kıbrıs'ta Kanlı Noel Saldırıları",
+      "ozet": "Kıbrıs'ta 1963 yılının Aralık ayında yaşanan ve tarihe Kanlı Noel olarak geçen olaylar, EOKA adlı silahlı Rum örgütünün adadaki Türk nüfusa karşı başlattığı sistematik saldırılarla başladı. Lefkoşa başta olmak üzere adanın pek çok noktasında eş zamanlı olarak gerçekleştirilen bu saldırılar, Kıbrıs Türkleri için büyük bir güvenlik krizi ve insani trajediye dönüştü. Çok sayıda sivilin hayatını kaybettiği bu süreç, adadaki toplumlar arası çatışmaların en şiddetli evrelerinden biri olarak kabul edilmektedir.\n\nSaldırıların ardından bölgedeki gerilim hızla tırmanırken, Türkiye Cumhuriyeti durumu yakından takip ederek diplomatik ve askeri düzeyde tepki gösterdi. Türk savaş uçaklarının ada üzerinde gerçekleştirdiği uyarı uçuşları, Türkiye'nin Kıbrıs Türklerinin güvenliğine verdiği önemi ve bölgedeki gelişmelere karşı kayıtsız kalmayacağını gösteren kritik bir hamle oldu. Bu olaylar, Kıbrıs meselesinin uluslararası boyutta daha karmaşık bir hale gelmesine ve adadaki siyasi çözüm arayışlarının kesintiye uğramasına neden olan dönüm noktalarından biri olarak tarihe geçti.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Cyprus_ESA356100.jpg/960px-Cyprus_ESA356100.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Cyprus_ESA356100.jpg/500px-Cyprus_ESA356100.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Children_in_North_Nicosia_3.jpg/960px-Children_in_North_Nicosia_3.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Children_in_North_Nicosia_3.jpg/500px-Children_in_North_Nicosia_3.jpg",
         "genislik": 960,
-        "yukseklik": 691,
-        "orijinalGenislik": 10000,
-        "yazar": "European Space Agency",
-        "lisans": "CC BY-SA 3.0 igo",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Cyprus_ESA356100.jpg",
-        "aciklama": "The third largest island in the Mediterranean, Cyprus is about 240 km long and 100 km wide. It is located on the Anatolian plate and therefore belongs geologically to Asia, but politically it is a mem",
-        "konu": "Kıbrıs"
+        "yukseklik": 540,
+        "orijinalGenislik": 4224,
+        "yazar": "Anja Leidel",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Children_in_North_Nicosia_3.jpg",
+        "aciklama": "Turkish Cypriot girls in Nicosia (Lefkosa).",
+        "konu": "Kıbrıs Türkleri"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Cyprus_ESA356100.jpg/960px-Cyprus_ESA356100.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Cyprus_ESA356100.jpg/500px-Cyprus_ESA356100.jpg",
-          "genislik": 960,
-          "yukseklik": 691,
-          "orijinalGenislik": 10000,
-          "yazar": "European Space Agency",
-          "lisans": "CC BY-SA 3.0 igo",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Cyprus_ESA356100.jpg",
-          "aciklama": "The third largest island in the Mediterranean, Cyprus is about 240 km long and 100 km wide. It is located on the Anatolian plate and therefore belongs geologically to Asia, but politically it is a mem",
-          "konu": "Kıbrıs"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Children_in_North_Nicosia_3.jpg/960px-Children_in_North_Nicosia_3.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Children_in_North_Nicosia_3.jpg/500px-Children_in_North_Nicosia_3.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 4224,
-          "yazar": "Anja Leidel",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Children_in_North_Nicosia_3.jpg",
-          "aciklama": "Turkish Cypriot girls in Nicosia (Lefkosa).",
-          "konu": "Kıbrıs Türkleri"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1972-nikaraguadaki-depremde-10-bin-kisi-oldu",
@@ -436,23 +287,12 @@
       "konular": [
         "Hac"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Pilgrims.jpg/960px-Pilgrims.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Pilgrims.jpg/500px-Pilgrims.jpg",
-        "genislik": 960,
-        "yukseklik": 655,
-        "orijinalGenislik": 1929,
-        "yazar": "Oula Lehtinen",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Pilgrims.jpg",
-        "aciklama": "Some European pilgrims on the road to Santiago de Compostela",
-        "konu": "Hac"
-      }
+      "baslik": "Hac Dönüşü Yaşanan Deniz Faciası",
+      "ozet": "1976 yılının Aralık ayında, kutsal topraklardaki hac vazifelerini yerine getirdikten sonra ülkelerine dönmekte olan yolcuları taşıyan bir gemi, yaşanan elim bir kaza sonucunda sulara gömüldü. Bu trajik olayda yaklaşık 100 kişi hayatını kaybederek büyük bir acıya neden oldu. Deniz ulaşımının yoğun olduğu dönemlerde yaşanan bu tür kazalar, hac yolculuklarının o yıllardaki zorlu koşullarını ve güvenlik risklerini bir kez daha gözler önüne serdi. Olay, hem hacı adaylarının aileleri hem de kamuoyu üzerinde derin bir üzüntü yarattı. Denizcilik tarihinde yaşanan bu kaza, hac yolculuklarında kullanılan ulaşım araçlarının güvenliği ve denetimi konusundaki hassasiyetin önemini hatırlatan hüzünlü bir anı olarak kayıtlara geçti.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1989-romanya-devlet-baskani-nikolay-cavusesku-ve-esi",
@@ -463,10 +303,10 @@
         "Nikolay Çavuşesku",
         "Elena Çavuşesku"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Romanya'da Çavuşesku Döneminin Sonu",
+      "ozet": "Romanya'da 1965 yılından itibaren iktidarda bulunan Nikolay Çavuşesku ve eşi Elena Çavuşesku, 1989 yılının Aralık ayında gerçekleşen geniş çaplı halk gösterileri ve askeri müdahale sonucunda devrildi. Ülkede uzun yıllar süren baskıcı rejimin ardından yaşanan bu olay, Romanya'nın komünist yönetimden demokrasiye geçiş sürecinin en kritik dönüm noktalarından biri olarak kabul edilir. Çift, iktidardan uzaklaştırıldıktan kısa bir süre sonra Târgovişte'de kurulan olağanüstü bir askeri mahkemede yargılandı. Televizyonda da yayınlanan bu hızlı yargılama süreci, çiftin suçlu bulunması ve aynı gün kurşuna dizilerek infaz edilmesiyle sonuçlandı.\n\nNikolay Çavuşesku, yönetiminin ilk yıllarında Batı dünyasıyla kurduğu görece ılımlı ilişkilerle dikkat çekse de, ilerleyen dönemlerde milliyetçi ve otoriter politikalarıyla hem halkın tepkisini çekti hem de uluslararası alanda yalnızlaştı. Eşi Elena Çavuşesku ise devlet yönetiminde aktif rol alarak başbakan yardımcılığı görevini üstlenmişti. Çiftin idamı, Doğu Bloku'nun çözülme sürecinde yaşanan en dramatik olaylardan biri olarak tarihe geçti. Bu infaz, Romanya'da on yıllardır süren tek parti iktidarının kesin bir şekilde sona erdiğini ve ülkede yeni bir siyasi dönemin başladığını simgeledi.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Nicolae_Ceau%C8%99escu.jpg/960px-Nicolae_Ceau%C8%99escu.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Nicolae_Ceau%C8%99escu.jpg/500px-Nicolae_Ceau%C8%99escu.jpg",
@@ -480,34 +320,7 @@
         "aciklama": "Portret Nicolae Ceaușescu.",
         "konu": "Nikolay Çavuşesku"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Nicolae_Ceau%C8%99escu.jpg/960px-Nicolae_Ceau%C8%99escu.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Nicolae_Ceau%C8%99escu.jpg/500px-Nicolae_Ceau%C8%99escu.jpg",
-          "genislik": 960,
-          "yukseklik": 1476,
-          "orijinalGenislik": 1055,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Attribution",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Nicolae_Ceau%C8%99escu.jpg",
-          "aciklama": "Portret Nicolae Ceaușescu.",
-          "konu": "Nikolay Çavuşesku"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Elena_Ceausescu_portrait.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Elena_Ceausescu_portrait.jpg",
-          "genislik": 886,
-          "yukseklik": 1238,
-          "orijinalGenislik": 886,
-          "yazar": "not credited",
-          "lisans": "Attribution",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Elena_Ceausescu_portrait.jpg",
-          "aciklama": "Portret Elena Ceauşescu.",
-          "konu": "Elena Çavuşesku"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1990-tim-berners-lee-html-ve-world-wide-webin",
@@ -518,10 +331,10 @@
         "HTML",
         "World Wide Web"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İnternetin Dönüm Noktası: World Wide Web'in Doğuşu",
+      "ozet": "İngiliz bilgisayar bilimci Tim Berners-Lee, 25 Aralık 1990 tarihinde CERN laboratuvarlarında yürüttüğü çalışmalarla modern dijital çağın en önemli yapı taşlarından birini hayata geçirdi. Berners-Lee, geliştirdiği HTML işaretleme dili ve World Wide Web sistemi sayesinde, iki bilgisayar arasında hipermetin teknolojisi kullanılarak ilk başarılı sunucu bağlantısını kurmayı başardı. Bu gelişme, bilginin internet üzerinde birbirine bağlı dokümanlar aracılığıyla paylaşılmasının önünü açan tarihi bir adım oldu.\n\nBu buluş, internetin sadece teknik bir ağ olmaktan çıkıp, herkesin erişebileceği küresel bir bilgi paylaşım platformuna dönüşmesini sağladı. Berners-Lee'nin tasarladığı sistem, metinlerin, görsellerin ve diğer çoklu ortam ögelerinin bağlantılar aracılığıyla birbirine bağlanmasına olanak tanıdı. Bugün web sayfalarını görüntülemek için kullandığımız tarayıcıların ve standartların temeli, o gün atılan bu adımlara dayanmaktadır. Berners-Lee, daha sonra bu teknolojinin standartlarını belirlemek amacıyla World Wide Web Konsorsiyumu'nu (W3C) kurarak, internetin açık ve erişilebilir bir yapı olarak gelişmesine öncülük etmeye devam etmiştir.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg",
@@ -535,34 +348,7 @@
         "aciklama": "Sir Tim arriving at the Guildhall to receive the Honorary Freedom of the City of London",
         "konu": "Tim Berners-Lee"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg",
-          "genislik": 570,
-          "yukseklik": 713,
-          "orijinalGenislik": 570,
-          "yazar": "Paul Clarke",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Sir_Tim_Berners-Lee_(cropped).jpg",
-          "aciklama": "Sir Tim arriving at the Guildhall to receive the Honorary Freedom of the City of London",
-          "konu": "Tim Berners-Lee"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/WorldWideWebAroundWikipedia.png/960px-WorldWideWebAroundWikipedia.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/WorldWideWebAroundWikipedia.png/500px-WorldWideWebAroundWikipedia.png",
-          "genislik": 960,
-          "yukseklik": 691,
-          "orijinalGenislik": 1185,
-          "yazar": "Chris 73 (talk · contribs)",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:WorldWideWebAroundWikipedia.png",
-          "aciklama": "WorldWideWeb Around Wikipedia – Wikipedia as part of the World Wide Web",
-          "konu": "World Wide Web"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1991-mihail-gorbacov-sovyetler-birligi-baskanligi-gorevinden-istifa",
@@ -572,10 +358,10 @@
         "Mihail Gorbaçov",
         "Sovyetler Birliği"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Sovyetler Birliği'nin Sonu ve Gorbaçov'un İstifası",
+      "ozet": "Mihail Gorbaçov, 25 Aralık 1991 tarihinde Sovyetler Birliği Devlet Başkanlığı görevinden istifa ettiğini açıklayarak, 20. yüzyılın en büyük siyasi aktörlerinden biri olan SSCB'nin fiilen sona erdiğini ilan etti. Gorbaçov'un televizyondan halka hitaben yaptığı bu tarihi konuşma, Kremlin'deki Sovyet bayrağının indirilmesiyle sembolize edilen bir dönemin kapanışını temsil ediyordu. İstifanın hemen ardından, ertesi gün Yüksek Sovyet'in aldığı kararla birlik resmen dağıldı.\n\nGorbaçov'un iktidara geldiği 1985 yılından itibaren başlattığı Glasnost (açıklık) ve Perestroyka (yeniden yapılanma) politikaları, sistemin hantallığını gidermeyi amaçlasa da, kontrol edilemeyen bir değişim sürecini tetikledi. Ekonomik krizler ve yükselen milliyetçilik akımları, birliği oluşturan cumhuriyetlerin bağımsızlık taleplerini güçlendirdi. Gorbaçov'un merkezi otoriteyi koruma çabaları sonuçsuz kalırken, 1991 yılındaki başarısız darbe girişimi süreci hızlandırdı. Bu istifa, sadece bir liderin görevden ayrılması değil, aynı zamanda Soğuk Savaş'ın sona ermesi ve dünya siyasi haritasının kökten değişmesi anlamına geliyordu.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
@@ -588,7 +374,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_(crop).jpg",
         "aciklama": "“General Secretary of the CPSU CC M. Gorbachev”. General Secretary of the CPSU Central Committee Mikhail Gorbachev speaking at the 20th Congress of the VLKSM. Kremlin Palace of Congresses.",
         "konu": "Mihail Gorbaçov"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1991-pkk-militanlari-istanbul-bakirkoyde-cetinkaya-magazalarina-molotofkokteyli",
@@ -598,51 +385,12 @@
         "İstanbul",
         "Bakırköy"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
-        "genislik": 960,
-        "yukseklik": 494,
-        "orijinalGenislik": 2048,
-        "yazar": "Alexxx Malev",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-        "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-        "konu": "İstanbul"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/960px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/500px-Bosphorus_Bridge_%28235499411%29.jpeg",
-          "genislik": 960,
-          "yukseklik": 494,
-          "orijinalGenislik": 2048,
-          "yazar": "Alexxx Malev",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg",
-          "aciklama": "The Bosphorus Bridge in Istanbul, Turkey, viewed from Çamlıca Hill on the Asian side of the Bosphorus strait.",
-          "konu": "İstanbul"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Bak%C4%B1rk%C3%B6y%2C_Istanbul.jpg/960px-Bak%C4%B1rk%C3%B6y%2C_Istanbul.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Bak%C4%B1rk%C3%B6y%2C_Istanbul.jpg/500px-Bak%C4%B1rk%C3%B6y%2C_Istanbul.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 1280,
-          "yazar": "Yusuf S",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Bak%C4%B1rk%C3%B6y,_Istanbul.jpg",
-          "aciklama": "Bird's-eye view of the Bakırköy district center from İncirli Avenue",
-          "konu": "Bakırköy"
-        }
-      ]
+      "baslik": "Bakırköy Çetinkaya Mağazası Saldırısı",
+      "ozet": "1991 yılının 25 Aralık günü, İstanbul'un Bakırköy ilçesinde bulunan Çetinkaya Mağazası'na yönelik gerçekleştirilen molotofkokteyli saldırısı, Türkiye'nin yakın tarihindeki en acı olaylardan biri olarak kayıtlara geçti. Mağazaya atılan yanıcı maddeler nedeniyle kısa sürede büyüyen yangın, içeride bulunan çalışanlar ve müşteriler için büyük bir felakete dönüştü. Olay sonucunda 11 kişi hayatını kaybederken, çok sayıda kişi de yaralandı. PKK militanları tarafından üstlenilen bu saldırı, dönemin Türkiye'sinde büyük bir infiale ve derin bir üzüntüye yol açtı. Saldırı, sivil hedeflerin doğrudan hedef alınması nedeniyle kamuoyunda sert tepkilerle karşılandı. Olay, terörün sivil yaşam üzerindeki yıkıcı etkisini gözler önüne seren ve toplumsal hafızada derin izler bırakan bir hadise olarak hatırlanmaktadır.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "2000-rusya-baskani-vladimir-putin-sovyetler-birligi-marsinin",
@@ -654,51 +402,24 @@
         "Aleksandr Aleksandrov",
         "Rusya Ulusal Marşı"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Rusya Federasyonu'nun Yeni Ulusal Marşı Kabul Edildi",
+      "ozet": "Rusya Devlet Başkanı Vladimir Putin, 25 Aralık 2000 tarihinde imzaladığı yasa ile ülkenin yeni ulusal marşını resmen yürürlüğe koydu. Bu karar, Sovyetler Birliği döneminde kullanılan ve bestesi Aleksandr Aleksandrov'a ait olan marşın melodisinin, yeni sözlerle Rusya Federasyonu'nun resmi marşı olarak benimsenmesini sağladı. Söz konusu düzenleme, Rusya'nın sembollerini yeniden tanımlama sürecinde önemli bir dönüm noktası olarak kabul edildi.\n\nSovyetler Birliği'nin dağılmasının ardından Rusya, bir süre sözsüz bir marş kullanmıştı. Ancak marşın toplumsal hafızadaki yeri ve melodisinin gücü, devlet yetkililerini eski Sovyet marşının müziğini koruyarak yeni bir metinle güncellemeye yöneltti. Besteci Aleksandr Aleksandrov'un imzasını taşıyan bu görkemli melodi, yeni sözlerle birlikte Rusya'nın devlet kimliğini yansıtan temel unsurlardan biri haline getirildi. Bu adım, ülkenin geçmişiyle kurduğu bağı korurken aynı zamanda yeni siyasi dönemin ruhunu yansıtma çabası olarak değerlendirildi.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Vladimir_Putin_%282026_02_23%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Vladimir_Putin_%282026_02_23%29.jpg",
-        "genislik": 896,
-        "yukseklik": 1183,
-        "orijinalGenislik": 896,
-        "yazar": "Kremlin.ru",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_(2026_02_23).jpg",
-        "aciklama": "Vladimir Putin con il colonnello Vjacheslav Vedenin",
-        "konu": "Vladimir Putin"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/A_B_Alexandrov.jpg/960px-A_B_Alexandrov.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/A_B_Alexandrov.jpg/500px-A_B_Alexandrov.jpg",
+        "genislik": 960,
+        "yukseklik": 1328,
+        "orijinalGenislik": 1298,
+        "yazar": "Unknown author Soviet army (individual photographer is anonymous).",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:A_B_Alexandrov.jpg",
+        "aciklama": "ألكسندر فاسيفليتش ألكسندروف، ملحن روسي سوفيتي، مؤلف ألحان نشيد الدولة للاتحاد السوفيتي",
+        "konu": "Aleksandr Aleksandrov"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Vladimir_Putin_%282026_02_23%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Vladimir_Putin_%282026_02_23%29.jpg",
-          "genislik": 896,
-          "yukseklik": 1183,
-          "orijinalGenislik": 896,
-          "yazar": "Kremlin.ru",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_(2026_02_23).jpg",
-          "aciklama": "Vladimir Putin con il colonnello Vjacheslav Vedenin",
-          "konu": "Vladimir Putin"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/A_B_Alexandrov.jpg/960px-A_B_Alexandrov.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/A_B_Alexandrov.jpg/500px-A_B_Alexandrov.jpg",
-          "genislik": 960,
-          "yukseklik": 1328,
-          "orijinalGenislik": 1298,
-          "yazar": "Unknown author Soviet army (individual photographer is anonymous).",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:A_B_Alexandrov.jpg",
-          "aciklama": "ألكسندر فاسيفليتش ألكسندروف، ملحن روسي سوفيتي، مؤلف ألحان نشيد الدولة للاتحاد السوفيتي",
-          "konu": "Aleksandr Aleksandrov"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "2021-james-webb-uzay-teleskopu-ariane-5-roketiyle",
@@ -708,10 +429,10 @@
         "James Webb Uzay Teleskopu",
         "Ariane 5"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "James Webb Uzay Teleskobu Uzay Yolculuğuna Başladı",
+      "ozet": "İnsanlığın evreni anlama çabasında yeni bir dönemi temsil eden James Webb Uzay Teleskobu, 25 Aralık 2021 tarihinde Fransız Guyanası'ndan Ariane 5 roketiyle başarıyla uzaya gönderildi. NASA, Avrupa Uzay Ajansı ve Kanada Uzay Ajansı'nın ortaklaşa yürüttüğü bu devasa proje, uzaya gönderilmiş en güçlü ve gelişmiş teleskop olma özelliğini taşıyor. Hubble Uzay Teleskobu'nun halefi olarak tasarlanan bu araç, evrenin derinliklerini kızılötesi dalga boyunda incelemek üzere geliştirildi.\n\nTeleskobun en dikkat çekici parçası, 6,5 metre genişliğindeki altın kaplama aynasıdır. Bu teknolojik donanım, teleskobun 13,5 milyar ışık yılı uzağı, yani evrenin ilk yıldızlarının ve galaksilerinin oluştuğu dönemleri gözlemlemesine olanak tanıyor. Dünya'dan yaklaşık 1,5 milyon kilometre uzaklıktaki L2 Lagrange noktasına yerleştirilen teleskop, evrenin oluşumuna dair temel sorulara yanıt arıyor. Uzun yıllar süren teknik hazırlıklar ve zorlu geliştirme süreçlerinin ardından gerçekleşen bu fırlatma, modern astronomi tarihinin en önemli kilometre taşlarından biri olarak kabul ediliyor.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Ariane_5ES_with_ATV_4_on_its_way_to_ELA-3.jpg/960px-Ariane_5ES_with_ATV_4_on_its_way_to_ELA-3.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Ariane_5ES_with_ATV_4_on_its_way_to_ELA-3.jpg/500px-Ariane_5ES_with_ATV_4_on_its_way_to_ELA-3.jpg",
@@ -724,7 +445,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Ariane_5ES_with_ATV_4_on_its_way_to_ELA-3.jpg",
         "aciklama": "Raumfrachter ATV-4 \"Albert Einstein\" Ariane 5ES mit \"OCAM\"-Kamerasystem Gemeinsam mit Partnern hat das DLR in den vergangenen Jahren das On-Board-Kamerasystem \"OCAM\" entwickeln lassen, mit dem sich de",
         "konu": "Ariane 5"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "2024-azerbaycan-havayollarinin-8243-sefer-sayili-ucagi-kazakistanin",
@@ -735,10 +457,10 @@
         "Kazakistan",
         "Aktau"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Azerbaycan Havayolları Uçağı Kazakistan'da Düştü",
+      "ozet": "Bakü'den Grozni'ye gitmek üzere havalanan Azerbaycan Havayolları'na ait Embraer E190AR tipi yolcu uçağı, 25 Aralık 2024 tarihinde Kazakistan'ın Aktau şehri yakınlarında kaza yaptı. Toplam 67 kişinin bulunduğu uçakta meydana gelen trajik olay sonucunda, aralarında iki pilotun da yer aldığı 38 kişi hayatını kaybederken, 29 yolcu kazadan sağ kurtulmayı başardı. Uçağın Grozni'deki yoğun sis nedeniyle rotasını değiştirmek zorunda kaldığı ve Hazar Denizi üzerindeyken acil durum sinyali verdiği belirtildi.\n\nKazanın nedenine ilişkin ilk aşamada kuş çarpması ihtimali üzerinde durulsa da, kurtulan yolcuların uçakta bir patlama sesi duyduklarına dair ifadeleri süreci farklı bir boyuta taşıdı. Olayın ertesi günü Azerbaycanlı yetkililer tarafından yapılan açıklamada, uçağın bir Rus füzesi tarafından vurulduğu iddia edildi. Yetkililer, hasar gören uçağın acil iniş taleplerinin reddedildiğini ve uçağın bu süreçte düştüğünü öne sürdü. Havacılık tarihine geçen bu elim olay, bölgedeki güvenlik ve hava sahası yönetimi tartışmalarını da beraberinde getirdi.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Azerbaijan_Airlines_-_Embraer_190AR_%28ERJ-190-100IGW%29_4K-AZ65_Antalya_Airport_June_18%2C_2016_%28cropped%29.jpg/960px-Azerbaijan_Airlines_-_Embraer_190AR_%28ERJ-190-100IGW%29_4K-AZ65_Antalya_Airport_June_18%2C_2016_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Azerbaijan_Airlines_-_Embraer_190AR_%28ERJ-190-100IGW%29_4K-AZ65_Antalya_Airport_June_18%2C_2016_%28cropped%29.jpg/500px-Azerbaijan_Airlines_-_Embraer_190AR_%28ERJ-190-100IGW%29_4K-AZ65_Antalya_Airport_June_18%2C_2016_%28cropped%29.jpg",
@@ -752,34 +474,7 @@
         "aciklama": "Azerbaijan Airlines - Embraer 190AR (ERJ-190-100IGW) 4K-AZ65 Antalya Airport June 18, 2016",
         "konu": "Azerbaycan Hava Yolları'nın 8243 sefer sayılı uçuşu"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Azerbaijan_Airlines_-_Embraer_190AR_%28ERJ-190-100IGW%29_4K-AZ65_Antalya_Airport_June_18%2C_2016_%28cropped%29.jpg/960px-Azerbaijan_Airlines_-_Embraer_190AR_%28ERJ-190-100IGW%29_4K-AZ65_Antalya_Airport_June_18%2C_2016_%28cropped%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Azerbaijan_Airlines_-_Embraer_190AR_%28ERJ-190-100IGW%29_4K-AZ65_Antalya_Airport_June_18%2C_2016_%28cropped%29.jpg/500px-Azerbaijan_Airlines_-_Embraer_190AR_%28ERJ-190-100IGW%29_4K-AZ65_Antalya_Airport_June_18%2C_2016_%28cropped%29.jpg",
-          "genislik": 960,
-          "yukseklik": 488,
-          "orijinalGenislik": 1280,
-          "yazar": "Mehmet Mustafa Celik",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Azerbaijan_Airlines_-_Embraer_190AR_(ERJ-190-100IGW)_4K-AZ65_Antalya_Airport_June_18,_2016_(cropped).jpg",
-          "aciklama": "Azerbaijan Airlines - Embraer 190AR (ERJ-190-100IGW) 4K-AZ65 Antalya Airport June 18, 2016",
-          "konu": "Azerbaycan Hava Yolları'nın 8243 sefer sayılı uçuşu"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Aktau_Light_house_Caspian_Sea.jpg/960px-Aktau_Light_house_Caspian_Sea.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Aktau_Light_house_Caspian_Sea.jpg/500px-Aktau_Light_house_Caspian_Sea.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 1100,
-          "yazar": "AnastassiyaL",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Aktau_Light_house_Caspian_Sea.jpg",
-          "aciklama": "Aktau: View on Microdistrict 4 and the light house from the sea side.",
-          "konu": "Aktau"
-        }
-      ]
+      "bolge": "dunya"
     }
   ],
   "dogumlar": [
