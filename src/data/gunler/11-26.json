@@ -999,7 +999,7 @@
     "url": "https://tr.wikipedia.org/wiki/26_Kas%C4%B1m",
     "revid": 37554768
   },
-  "guncelleme": "2026-11-21T14:23:14.824Z",
+  "guncelleme": "2026-11-22T14:15:39.901Z",
   "haberler": [
     {
       "id": "2025-haber-2456114",
@@ -1042,8 +1042,8 @@
       "yayin": "2025-11-26T15:56:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "A Milli Erkek Basketbol Takımı Dünya Kupası Elemeleri'ne başlıyor",
-      "ozet": "A Milli Erkek Basketbol Takımı, 2027 Dünya Kupası Avrupa Elemeleri kapsamındaki ilk müsabakasında Bosna Hersek ile karşı karşıya gelecek. Kendi sahasında oynanacak olan bu önemli karşılaşma perşembe günü akşam saatlerinde gerçekleşecek.",
+      "baslik": "A Milli Erkek Basketbol Takımı Dünya Kupası Elemelerine Başlıyor",
+      "ozet": "A Milli Erkek Basketbol Takımı, 2027 Dünya Kupası Avrupa Elemeleri kapsamındaki ilk müsabakasında sahaya çıkıyor. Milliler, kendi sahasında Bosna Hersek ile oynayacağı karşılaşma için hazırlıklarını tamamladı. Bu önemli mücadele, perşembe günü akşam saatlerinde başlayarak basketbolseverlerin beğenisine sunuldu.",
       "kategori": "Spor"
     },
     {
@@ -1109,10 +1109,23 @@
       ],
       "yayin": "2023-11-26T14:28:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Seçil Erzan soruşturmasında banka kasasından altın çıktı",
-      "ozet": "Dolandırıcılık suçlamasıyla tutuklu bulunan eski banka müdürü Seçil Erzan'ın Tekirdağ'ın Çorlu ilçesindeki banka şubesinde yer alan kasası açıldı. Yapılan incelemeler sonucunda kasanın içinde altın bulunduğu tespit edildi. Ayrıca yürütülen soruşturma kapsamında Erzan'ın Çorlu'da bir ev ve iş yeri ile Bozcaada'da bir bağ arazisine sahip olduğu belirlendi.",
-      "kategori": "Toplum"
+      "durum": "yazildi",
+      "baslik": "Seçil Erzan'ın banka kasasında ve mal varlığında inceleme yapıldı",
+      "ozet": "Dolandırıcılık suçlamasıyla tutuklu bulunan banka müdürü Seçil Erzan'ın Çorlu'daki banka kasası yetkililer tarafından açıldı. Yapılan incelemeler sonucunda kasada altın bulunduğu tespit edildi. Ayrıca Erzan'ın Çorlu'da bir konut ve iş yeri ile Bozcaada'da bir bağ arazisine sahip olduğu belirlendi.",
+      "kategori": "Toplum",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%C3%87orluMunicipality.jpg/960px-%C3%87orluMunicipality.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%C3%87orluMunicipality.jpg/500px-%C3%87orluMunicipality.jpg",
+        "genislik": 960,
+        "yukseklik": 599,
+        "orijinalGenislik": 4744,
+        "yazar": "CeeGee",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87orluMunicipality.jpg",
+        "aciklama": "Municipal building in Çorlu, Tekirdağ, Turkey",
+        "konu": "Çorlu"
+      }
     },
     {
       "id": "2022-haber-2006349",
@@ -1133,8 +1146,8 @@
       "yayin": "2022-11-26T12:28:00+03:00",
       "puan": 13,
       "durum": "yazildi",
-      "baslik": "Cristiano Ronaldo Dünya Kupası tarihinde yeni bir rekora imza attı",
-      "ozet": "Katar ev sahipliğinde gerçekleştirilen 2022 FIFA Dünya Kupası müsabakalarında Portekiz milli takımında görev alan Cristiano Ronaldo, Gana ile yapılan karşılaşmada önemli bir başarıya ulaştı. Deneyimli futbolcu, bu maçta sergilediği performansla turnuva tarihindeki rekorlarına yenilerini ekleyerek kariyerindeki istatistiklerini geliştirdi.",
+      "baslik": "Cristiano Ronaldo Dünya Kupası tarihinde yeni bir başarıya ulaştı",
+      "ozet": "Katar'da gerçekleştirilen Dünya Kupası organizasyonunda sahaya çıkan Portekizli futbolcu Cristiano Ronaldo, Gana karşılaşmasında önemli bir rekorun sahibi oldu. Başarılı oyuncu, çıktığı ilk maçta gösterdiği performansla kariyerine yeni bir başarı daha ekleyerek turnuva kayıtlarına geçti.",
       "kategori": "Spor",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/960px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg",
@@ -1162,15 +1175,15 @@
         "url": "https://www.cumhuriyet.com.tr/siyaset/yandas-isim-akp-ve-mhpde-konusulan-secim-tarihini-acikladi-2006350"
       },
       "konular": [
+        "2023 Türkiye genel seçimleri",
         "Adalet ve Kalkınma Partisi",
-        "Milliyetçi Hareket Partisi",
-        "Türkiye'de seçimler"
+        "Milliyetçi Hareket Partisi"
       ],
       "yayin": "2022-11-26T12:28:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Cumhur İttifakı için seçim tarihi kulislerde konuşulmaya başlandı",
-      "ozet": "Gazeteci Zafer Şahin, iktidar kanadında yer alan partilerin seçim takvimi üzerine yürüttüğü görüşmeleri kamuoyuyla paylaştı. Yapılan değerlendirmeler sonucunda Cumhur İttifakı bünyesinde öne çıkan tarihin 14 Mayıs olduğu ifade edildi.",
+      "baslik": "Cumhur İttifakı kanadında seçim tarihi için 14 Mayıs öne çıktı",
+      "ozet": "Gazeteci Zafer Şahin, iktidar partileri olan Adalet ve Kalkınma Partisi ile Milliyetçi Hareket Partisi'nin seçimler için değerlendirdiği takvime dair bilgiler paylaştı. İttifakın kapalı kapılar ardında yürütülen görüşmelerinde 14 Mayıs tarihinin üzerinde durulduğunu ifade etti.",
       "kategori": "Siyaset"
     },
     {
@@ -1582,15 +1595,15 @@
         "url": "https://www.cumhuriyet.com.tr/haber/buyukersen-basbakan-beni-aday-gosterecek-diye-endiselendim-13419"
       },
       "konular": [
-        "Yılmaz Büyükerşen",
-        "Eskişehir",
-        "Siyaset"
+        "Yilmaz Buyukersen",
+        "Eskisehir",
+        "Adalet ve Kalkinma Partisi"
       ],
       "yayin": "2013-11-26T20:24:00+03:00",
       "puan": 7,
       "durum": "elendi",
-      "baslik": "Yılmaz Büyükerşen adaylık açıklamasına dair değerlendirmelerde bulundu",
-      "ozet": "Eskişehir Büyükşehir Belediye Başkanı Yılmaz Büyükerşen, Başbakan Recep Tayyip Erdoğan'ın partisinin Eskişehir adayını duyurduğu sırada kullanılan görselleri eleştirdi. Büyükerşen, tanıtım sırasında kendi görev süresi boyunca hayata geçirilen projelerin ve eserlerin görüntülerinin yer alması nedeniyle aday gösterilme endişesi yaşadığını ifade etti.",
+      "baslik": "Yilmaz Buyukersen'den Eskişehir adayligi hakkinda aciklama",
+      "ozet": "Eskisehir Buyuksehir Belediye Baskani Yilmaz Buyukersen, donemin Basbakani Recep Tayyip Erdogan'in parti adayini duyurdugu sirada kullandigi goruntulere iliskin bir degerlendirmede bulundu. Buyukersen, soz konusu tanitim videosunda kendi gorev suresi icerisinde hayata gecirilen projelerin yer almasi nedeniyle aday gosterilme ihtimalinden endise duydugunu ifade etti.",
       "kategori": "Siyaset"
     },
     {

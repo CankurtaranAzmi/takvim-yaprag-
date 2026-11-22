@@ -1135,7 +1135,7 @@
     "url": "https://tr.wikipedia.org/wiki/25_Kas%C4%B1m",
     "revid": 38169687
   },
-  "guncelleme": "2026-11-21T14:23:14.425Z",
+  "guncelleme": "2026-11-22T14:15:39.492Z",
   "haberler": [
     {
       "id": "2025-haber-2455640",
@@ -1412,14 +1412,14 @@
       },
       "konular": [
         "Türkiye Büyük Millet Meclisi",
-        "Adalet Bakanlığı",
-        "Abdulhamit Gül"
+        "Abdulhamit Gül",
+        "Adalet Bakanlığı"
       ],
       "yayin": "2019-11-25T23:14:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Adalet Bakanlığı bütçe görüşmelerinde yargı bağımsızlığı tartışması",
-      "ozet": "Türkiye Büyük Millet Meclisi bünyesindeki plan ve bütçe komisyonunda Adalet Bakanlığına ait bütçe tasarısı ele alındı. Görüşmeler sırasında yargı bağımsızlığı konusu gündeme geldi. Adalet Bakanı Abdulhamit Gül, yargı organlarının kimseden talimat almadığını ve yalnızca anayasa ile kanunlara bağlı kalarak görev yaptığını ifade etti. Oturumda muhalefet milletvekilleri de konuyla ilgili eleştirilerini dile getirdi.",
+      "baslik": "Adalet Bakanlığı bütçe görüşmelerinde yargı bağımsızlığı gündeme geldi",
+      "ozet": "Türkiye Büyük Millet Meclisi bünyesinde gerçekleştirilen Adalet Bakanlığı bütçe görüşmeleri sırasında yargı bağımsızlığı konusu tartışıldı. Adalet Bakanı Abdulhamit Gül, yargı organlarının anayasa ve yasalar haricinde kimseden talimat almadığını ifade etti. Görüşmelerde yer alan Cumhuriyet Halk Partisi Konya Milletvekili Abdüllatif Şener ise iktidarın uygulamalarına yönelik eleştirilerde bulundu.",
       "kategori": "Siyaset"
     },
     {
@@ -1457,7 +1457,7 @@
         "url": "https://www.cumhuriyet.com.tr/haber/karadenizde-ukrayna-rusya-gerginligi-savas-gemimize-ates-acildi-1151403"
       },
       "konular": [
-        "Kerç Boğazı krizi",
+        "Kerç Boğazı olayı",
         "Ukrayna",
         "Rusya"
       ],
@@ -1465,9 +1465,21 @@
       "puan": 10,
       "durum": "yazildi",
       "baslik": "Karadeniz sularında Ukrayna ve Rusya arasında çatışma yaşandı",
-      "ozet": "Ukrayna yönetimi, Karadeniz bölgesinde bulunan deniz kuvvetlerine bağlı gemilerin Rusya tarafından hedef alındığını ve ateş açıldığını bildirdi. Yaşanan bu olay iki ülke arasındaki gerilimi tırmandırdı. Taraflar arasında deniz sahasında meydana gelen bu müdahale, bölgedeki güvenlik endişelerini artırdı.",
+      "ozet": "Ukrayna yönetimi, Karadeniz bölgesinde görev yapan deniz kuvvetlerine bağlı gemilerin Rus güçleri tarafından hedef alındığını bildirdi. Açılan ateş sonucunda taraflar arasında ciddi bir gerginlik meydana geldi. Olayın ardından yaşanan gelişmeler bölgedeki güvenlik endişelerini artırdı.",
       "kategori": "Savaş",
-      "gorsel": null
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Yani_Kapu_tugboat_attacked_by_Don_patrol_boat.png/960px-Yani_Kapu_tugboat_attacked_by_Don_patrol_boat.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Yani_Kapu_tugboat_attacked_by_Don_patrol_boat.png/500px-Yani_Kapu_tugboat_attacked_by_Don_patrol_boat.png",
+        "genislik": 960,
+        "yukseklik": 569,
+        "orijinalGenislik": 2853,
+        "yazar": "Міністерство оборони України",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Yani_Kapu_tugboat_attacked_by_Don_patrol_boat.png",
+        "aciklama": "Ukrainian 'Yani Kapu' tugboat (Krasnoperekopsk until 2016) attacked by Russian 'Don' patrol boat as seen on a screen of Ukrainian Gyurza-M artillery boat",
+        "konu": "Kerç Boğazı olayı"
+      }
     },
     {
       "id": "2018-haber-1150823",
@@ -1556,8 +1568,8 @@
       "yayin": "2016-11-25T12:29:00+03:00",
       "puan": 11,
       "durum": "yazildi",
-      "baslik": "Döviz piyasasında yükseliş eğilimi devam ediyor",
-      "ozet": "Merkez Bankasının Türk lirasındaki değer kaybını önlemek amacıyla faiz oranlarında yaptığı artış, döviz kurundaki yükselişi durdurmakta yetersiz kaldı. Avrupa Parlamentosunun yaptığı çağrının ardından piyasalarda hareketlilik yaşandı ve dolar kuru 3,4533 seviyesine ulaşarak yeni bir zirve kaydetti.",
+      "baslik": "Döviz piyasasında rekor seviyeler görüldü",
+      "ozet": "Merkez Bankasının Türk lirasındaki değer kaybını durdurmak amacıyla uyguladığı faiz artışı piyasalarda etkili olmadı. Avrupa Parlamentosunun yaptığı çağrıların ardından yükselişe geçen dolar kuru, 3,4533 seviyesine ulaşarak yeni bir rekor kaydetti.",
       "kategori": "Ekonomi",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG/960px-TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
@@ -1797,17 +1809,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/komunistlerin-soylemleri-basbakanin-soylemi-oldu-300716"
       },
-      "konular": [
-        "Dersim İsyanı",
-        "Oktay Vural",
-        "Recep Tayyip Erdoğan"
-      ],
+      "konular": [],
       "yayin": "2011-11-25T14:52:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Oktay Vural'dan Dersim Tartışmalarına İlişkin Eleştiri",
-      "ozet": "Milliyetçi Hareket Partisi Grup Başkanvekili Oktay Vural, Başbakan Recep Tayyip Erdoğan'ın Dersim olaylarına yönelik tutumunu eleştirdi. Vural, Başbakan'ın söylemlerinin isyancıların savunuculuğunu yapmakla eşdeğer olduğunu iddia etti. Bu açıklamalarla hükümetin tarihsel olaylara yaklaşımına dair muhalefetin tepkisi dile getirildi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     }
   ],
   "haberYillari": [

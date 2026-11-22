@@ -12,10 +12,10 @@
         "I. Justinianus",
         "Nika Ayaklanması"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Mimarlık Tarihinin Başyapıtı Ayasofya'nın Açılışı",
+      "ozet": "İstanbul'un simge yapılarından biri olan Ayasofya, Bizans İmparatoru I. Justinianus tarafından 532-537 yılları arasında inşa ettirilmiştir. Yapı, 532 yılında gerçekleşen Nika Ayaklanması sırasında çıkan yangınlarda büyük hasar gören ikinci Ayasofya'nın yerine, imparatorun kişisel gözetimi ve desteğiyle kısa sürede tamamlanmıştır. Dönemin mimari anlayışını kökten değiştiren bu katedral, kubbeli bazilika planıyla mimarlık tarihinde bir dönüm noktası kabul edilir.\n\nAyasofya, sadece bir ibadethane değil, aynı zamanda Bizans İmparatorluğu'nun gücünü ve ihtişamını yansıtan bir merkez olmuştur. İnşasında kullanılan teknikler ve devasa kubbesi, yüzyıllar boyunca mimarlar için bir ilham kaynağı teşkil etmiştir. Kutsal bilgelik anlamına gelen ismiyle de bilinen yapı, tarih boyunca farklı medeniyetlerin etkisiyle çeşitli değişimler geçirmiş olsa da, bugün hem mimari dehası hem de kültürel mirasıyla dünyanın en önemli tarihi yapılarından biri olma özelliğini korumaktadır.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/960px-Hagia_Sophia_%28228968325%29.jpeg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/500px-Hagia_Sophia_%28228968325%29.jpeg",
@@ -29,47 +29,7 @@
         "aciklama": "Hagia Sophia",
         "konu": "Ayasofya"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/960px-Hagia_Sophia_%28228968325%29.jpeg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/500px-Hagia_Sophia_%28228968325%29.jpeg",
-          "genislik": 960,
-          "yukseklik": 580,
-          "orijinalGenislik": 2048,
-          "yazar": "Adli Wahid",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_(228968325).jpeg",
-          "aciklama": "Hagia Sophia",
-          "konu": "Ayasofya"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg/960px-Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg/500px-Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1278,
-          "orijinalGenislik": 1500,
-          "yazar": "Petar Milošević",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_(Ravenna).jpg",
-          "aciklama": "San Vitale (Ravenna) - Mosaic of Iustinianus I",
-          "konu": "I. Justinianus"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Turkey-03228_-_Hippodrome_of_Constantinople_%2811312626353%29.jpg/960px-Turkey-03228_-_Hippodrome_of_Constantinople_%2811312626353%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Turkey-03228_-_Hippodrome_of_Constantinople_%2811312626353%29.jpg/500px-Turkey-03228_-_Hippodrome_of_Constantinople_%2811312626353%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1440,
-          "orijinalGenislik": 4000,
-          "yazar": "Dennis G. Jarvis",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Turkey-03228_-_Hippodrome_of_Constantinople_(11312626353).jpg",
-          "aciklama": "The Obelisk of Theodosius (in front) is the Ancient Egyptian obelisk of Pharaoh Tutmoses III re-erected in the Hippodrome of Constantinople by the Roman emperor Theodosius I in the 4th century AD. The",
-          "konu": "Nika Ayaklanması"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1831-ingiliz-doga-bilimci-charles-darwinin-icinde-oldugu",
@@ -79,51 +39,24 @@
         "Charles Darwin",
         "HMS Beagle"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Charles Darwin'in Tarihi Beagle Yolculuğu Başladı",
+      "ozet": "Charles Darwin, 1831 yılının son günlerinde HMS Beagle adlı gemiyle dünya tarihinin en önemli bilimsel keşif gezilerinden birine adım attı. Plymouth limanından hareket eden bu gemi, başlangıçta bir haritalama görevi için yola çıkmış olsa da, genç doğa bilimci Darwin için beş yıl sürecek olan ve modern biyolojinin temellerini atacak gözlemlerle dolu bir serüvene dönüştü. Bu yolculuk, Darwin'in doğa bilimlerine olan tutkusunu pekiştirdiği ve jeolojik değişimler üzerine fikirlerini geliştirdiği kritik bir dönem oldu.\n\nBeagle ile yapılan bu uzun deniz yolculuğu, Darwin'in canlı türlerinin çeşitliliği ve evrimsel süreçler üzerine düşünmesini sağlayan verileri toplamasına olanak tanıdı. Özellikle Güney Amerika kıyılarında ve çeşitli adalarda yaptığı incelemeler, onun daha sonra doğal seçilim teorisini formüle etmesinde temel teşkil etti. Bugün evrimsel biyolojinin en önemli dönüm noktalarından biri olarak kabul edilen bu keşif gezisi, sadece Darwin'in kariyerini değil, aynı zamanda insanlığın yaşamın kökenine dair bakış açısını da kökten değiştirdi.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/960px-Charles_Darwin_seated_crop.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/500px-Charles_Darwin_seated_crop.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/HMSBeagle.jpg/960px-HMSBeagle.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/HMSBeagle.jpg/500px-HMSBeagle.jpg",
         "genislik": 960,
-        "yukseklik": 1263,
-        "orijinalGenislik": 2370,
-        "yazar": "Charles_Darwin_seated.jpg: Henry Maull (1829–1914) and John Fox (1832–1907) (Maull & Fox) [3] derivative work: Beao",
+        "yukseklik": 610,
+        "orijinalGenislik": 2268,
+        "yazar": "Owen Stanley",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_seated_crop.jpg",
-        "aciklama": "Photograph of Charles Darwin; the frontispiece of Francis Darwin's The Life and Letters of Charles Darwin (1887) has the caption \"From a Photograph (1854?) by Messrs. Maull. And Fox. Engraved for Harp",
-        "konu": "Charles Darwin"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:HMSBeagle.jpg",
+        "aciklama": "(centre) painted during the third voyage while surveying Australia.",
+        "konu": "HMS Beagle"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/960px-Charles_Darwin_seated_crop.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/500px-Charles_Darwin_seated_crop.jpg",
-          "genislik": 960,
-          "yukseklik": 1263,
-          "orijinalGenislik": 2370,
-          "yazar": "Charles_Darwin_seated.jpg: Henry Maull (1829–1914) and John Fox (1832–1907) (Maull & Fox) [3] derivative work: Beao",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_seated_crop.jpg",
-          "aciklama": "Photograph of Charles Darwin; the frontispiece of Francis Darwin's The Life and Letters of Charles Darwin (1887) has the caption \"From a Photograph (1854?) by Messrs. Maull. And Fox. Engraved for Harp",
-          "konu": "Charles Darwin"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/HMSBeagle.jpg/960px-HMSBeagle.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/HMSBeagle.jpg/500px-HMSBeagle.jpg",
-          "genislik": 960,
-          "yukseklik": 610,
-          "orijinalGenislik": 2268,
-          "yazar": "Owen Stanley",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:HMSBeagle.jpg",
-          "aciklama": "(centre) painted during the third voyage while surveying Australia.",
-          "konu": "HMS Beagle"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1845-eter-ilk-kez-abdnin-georgia-eyaletinin-jefferson",
@@ -135,10 +68,10 @@
         "Jefferson, Georgia",
         "anestetik"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Tıpta Anestezinin Başlangıcı: Eterin İlk Kullanımı",
+      "ozet": "Amerikalı hekim Crawford Long, 1845 yılının son günlerinde gerçekleştirdiği bir doğum operasyonunda eteri anestetik olarak kullanarak tıp tarihinde çığır açan bir uygulamaya imza attı. Bu girişim, cerrahi müdahalelerin ve doğum süreçlerinin en büyük engeli olan şiddetli ağrının ortadan kaldırılması yolunda atılmış en önemli adımlardan biri kabul edilir. O dönemde hastaların operasyon sırasında yaşadığı acı, tıbbi müdahalelerin başarısını sınırlayan temel faktörlerden biriydi. Eterin bu amaçla kullanımı, hastaların operasyon sırasında bilincini yitirmesini ve ağrı hissetmemesini sağlayarak modern cerrahinin temellerinin atılmasına yardımcı oldu. Bu gelişme, sadece doğum hekimliğinde değil, genel cerrahinin tüm dallarında devrim niteliğinde bir değişimi tetikledi. Ağrısız cerrahi dönemi, hastaların operasyonlara olan güvenini artırırken, hekimlerin daha karmaşık ve uzun süreli müdahaleleri gerçekleştirmesine olanak tanıdı. Bugün rutin bir uygulama olan genel anestezi, 19. yüzyılda atılan bu cesur adımların bir sonucudur.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Dietil_eter.png/960px-Dietil_eter.png",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Dietil_eter.png/500px-Dietil_eter.png",
@@ -152,34 +85,7 @@
         "aciklama": "Diethyl ether",
         "konu": "Dietil eter"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Dietil_eter.png/960px-Dietil_eter.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Dietil_eter.png/500px-Dietil_eter.png",
-          "genislik": 960,
-          "yukseklik": 905,
-          "orijinalGenislik": 1731,
-          "yazar": "Saint concrete",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Dietil_eter.png",
-          "aciklama": "Diethyl ether",
-          "konu": "Dietil eter"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Jackson_County_Georgia_Courthouse.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Jackson_County_Georgia_Courthouse.jpg",
-          "genislik": 672,
-          "yukseklik": 431,
-          "orijinalGenislik": 672,
-          "yazar": "Calvin Beale",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Jackson_County_Georgia_Courthouse.jpg",
-          "aciklama": "Jackson County courthouse in Jefferson, Georgia, United States",
-          "konu": "Jefferson, Georgia"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1901-japon-kimyager-takamike-ve-amerikali-fizikci-abel",
@@ -189,23 +95,12 @@
         "adrenalin",
         "hormon"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Hormone_Transport.png/960px-Hormone_Transport.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Hormone_Transport.png/500px-Hormone_Transport.png",
-        "genislik": 960,
-        "yukseklik": 819,
-        "orijinalGenislik": 4608,
-        "yazar": "Adapted from an image by Frédéric Bouché",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Hormone_Transport.png",
-        "aciklama": "Left: A hormone feedback loop in a female adult. (1) Follicle-Stimulating Hormone, (2) Luteinizing Hormone, (3) Progesterone, (4) Estrogen. Right: Auxin transport from leaves to roots in Arabidopsis t",
-        "konu": "hormon"
-      }
+      "baslik": "Tıpta Devrim Yaratan Keşif: Adrenalin Hormonu",
+      "ozet": "Japon kimyager Jokichi Takamine ve Amerikalı fizikçi John Jacob Abel, 27 Aralık 1901 tarihinde adrenalin hormonunu izole etmeyi başararak tıp dünyasında önemli bir dönüm noktasına imza attılar. Böbrek üstü bezlerinden elde edilen bu madde, vücudun acil durumlara verdiği tepkileri düzenleyen temel bir sinyal molekülü olarak tanımlandı. Bu keşif, endokrinoloji alanındaki çalışmaların hız kazanmasını sağladı ve hormonların insan fizyolojisi üzerindeki kritik etkilerinin daha iyi anlaşılmasına olanak tanıdı.\n\nAdrenalin, organizmayı ani tehlikelere veya heyecan verici durumlara karşı hazırlayan bir mekanizmaya sahiptir. Kalp atış hızını artırması, kan basıncını yükseltmesi ve kaslara giden kan akışını hızlandırması gibi etkileriyle vücuda acil enerji sağlar. Keşfinden bu yana adrenalin, özellikle acil tıp ve cerrahi müdahalelerde hayati bir öneme sahip olmuştur. Günümüzde kalp durması, şiddetli alerjik reaksiyonlar ve astım krizleri gibi acil durumlarda kullanılan adrenalin, modern tıbbın en temel ilaçlarından biri olarak kabul edilmektedir.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1907-pariste-ikinci-jon-turk-kongresi-yapildi-sonuc",
@@ -273,51 +168,24 @@
         "Mersin",
         "Tarsus"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Tarsus'un Fransız İşgalinden Kurtuluşu",
+      "ozet": "Milli Mücadele döneminin önemli dönüm noktalarından biri olan Tarsus'un kurtuluşu, bölgedeki işgal güçlerinin geri çekilmesiyle sonuçlanan kararlı bir direnişin ürünüdür. I. Dünya Savaşı sonrasında imzalanan Mondros Ateşkes Antlaşması'nın ardından Anadolu'nun güney bölgeleri gibi Tarsus da Fransız kuvvetleri tarafından işgal edilmişti. Ancak bölge halkı, işgale karşı büyük bir azimle örgütlenerek Kuvayı Milliye çatısı altında mücadele başlattı. Uzun süren çatışmalar ve diplomatik süreçlerin ardından, 27 Aralık 1921 tarihinde Fransız birlikleri şehri terk etmek zorunda kaldı ve Tarsus yeniden Türk idaresine geçti. Bu kurtuluş, sadece yerel bir zafer değil, aynı zamanda Güney Cephesi'ndeki direnişin başarıya ulaşmasında kritik bir aşamayı temsil etmektedir. Tarsus'un özgürlüğüne kavuşması, bölge halkının bağımsızlık inancını pekiştirmiş ve ulusal kurtuluş hareketinin moral gücünü artırmıştır. Bugün Tarsus'ta her yıl coşkuyla kutlanan bu tarih, şehrin köklü geçmişiyle birleşen bağımsızlık iradesinin bir simgesi olarak kabul edilmektedir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Mersin_Halkevi.jpg/960px-Mersin_Halkevi.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Mersin_Halkevi.jpg/500px-Mersin_Halkevi.jpg",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 1247,
-        "yazar": "Nedim Ardoğa (talk)",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ulucami%2C_Tarsus%2C_Mersin_Province.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ulucami%2C_Tarsus%2C_Mersin_Province.jpg",
+        "genislik": 799,
+        "yukseklik": 599,
+        "orijinalGenislik": 799,
+        "yazar": "Nedim Ardoğa",
         "lisans": "CC BY-SA 3.0",
         "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Mersin_Halkevi.jpg",
-        "aciklama": "Mersin Halkevi",
-        "konu": "Mersin"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ulucami,_Tarsus,_Mersin_Province.jpg",
+        "aciklama": "Ulucami (grand mosque) in Tarsus, Mersin Province",
+        "konu": "Tarsus"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Mersin_Halkevi.jpg/960px-Mersin_Halkevi.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Mersin_Halkevi.jpg/500px-Mersin_Halkevi.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 1247,
-          "yazar": "Nedim Ardoğa (talk)",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Mersin_Halkevi.jpg",
-          "aciklama": "Mersin Halkevi",
-          "konu": "Mersin"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ulucami%2C_Tarsus%2C_Mersin_Province.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ulucami%2C_Tarsus%2C_Mersin_Province.jpg",
-          "genislik": 799,
-          "yukseklik": 599,
-          "orijinalGenislik": 799,
-          "yazar": "Nedim Ardoğa",
-          "lisans": "CC BY-SA 3.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ulucami,_Tarsus,_Mersin_Province.jpg",
-          "aciklama": "Ulucami (grand mosque) in Tarsus, Mersin Province",
-          "konu": "Tarsus"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1928-istanbul-belediyesi-eski-harflerle-yazili-tabelalarini-degistirmeyen",
@@ -354,10 +222,10 @@
       "konular": [
         "Nâzım Hikmet"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Şair Nâzım Hikmet'in Gözaltına Alınması",
+      "ozet": "Türk şiirinin öncü isimlerinden Nâzım Hikmet, 27 Aralık 1936 tarihinde gerçekleştirilen bir operasyonla gözaltına alındı. Bu olay, şairin siyasi görüşleri ve Türkiye Komünist Partisi ile olan ilişkileri nedeniyle maruz kaldığı uzun süreli baskı ve yargı süreçlerinin önemli bir halkasını oluşturuyordu. Nâzım Hikmet, eserlerindeki özgün üslubu ve serbest nazım anlayışıyla edebiyat dünyasında devrim yaratmış olsa da, dönemin siyasi atmosferinde fikirleri nedeniyle sık sık devletin hedefi haline gelmişti.\n\nBu gözaltı süreci, şairin hayatının büyük bir kısmını hapishanelerde ve sürgünde geçirmesine yol açan çok sayıda davanın başlangıçlarından biri olarak tarihe geçti. Nâzım Hikmet, yaşamı boyunca 11 ayrı davada yargılanmış ve toplamda 12 yılı aşkın bir süre cezaevinde kalmıştır. Eserleri elliden fazla dile çevrilen ve dünya çapında büyük bir üne kavuşan şair, siyasi kimliği nedeniyle uzun yıllar boyunca Türkiye'de yasaklı kalmış, hatta vatandaşlıktan çıkarılmıştır. 1936 yılındaki bu tutuklama, sanatçının hem edebi mücadelesinin hem de ideolojik duruşunun bedelini ödediği zorlu bir dönemin simgesi olmuştur.",
+      "kategori": "Edebiyat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg/960px-N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg/500px-N%C3%A2z%C4%B1m_Hikmet%2C_Berlin_1956_%281%29.jpg",
@@ -370,7 +238,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:N%C3%A2z%C4%B1m_Hikmet,_Berlin_1956_(1).jpg",
         "aciklama": "Nâzım Hikmet, photographed by Hans-Joachim Koch at the IV German Writers' Congress, 9–14 January 1956, in East Berlin.",
         "konu": "Nâzım Hikmet"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1939-erzincan-depremi-turkiyenin-erzincan-ilinde-richter-olcegine",
@@ -398,10 +267,10 @@
         "Çapakçur",
         "Bingöl"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Çapakçur'dan Bingöl'e İsim Değişikliği",
+      "ozet": "Türkiye Cumhuriyeti'nin idari yapılanma süreçleri içerisinde, Doğu Anadolu Bölgesi'nde yer alan Çapakçur bölgesinin ismi 27 Aralık 1944 tarihinde resmen Bingöl olarak değiştirilmiştir. Bu düzenleme, bölgenin coğrafi ve kültürel kimliğinin yeniden tanımlanması adına atılan idari adımlardan biri olarak kayıtlara geçmiştir. İsim değişikliği ile birlikte bölge, günümüzde Yukarı Fırat Bölümü'nde yer alan ve stratejik konumuyla dikkat çeken bir il merkezi haline gelmiştir.\n\nÇapakçur ismi, bölgenin tarihsel geçmişinde uzun süre kullanılmış olsa da, 1940'lı yıllarda gerçekleştirilen yerel isim düzenlemeleri kapsamında Bingöl ismi tercih edilmiştir. Bu değişiklik, bölgenin idari statüsünün güçlendirilmesi ve modern Türkiye'nin idari haritasına uyum sağlanması amacıyla yapılmıştır. Günümüzde Bingöl, geniş yüzölçümü ve zengin coğrafi yapısıyla Doğu Anadolu'nun önemli yerleşim merkezlerinden biri olarak varlığını sürdürmektedir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Bingolcitycenter.jpg/960px-Bingolcitycenter.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Bingolcitycenter.jpg/500px-Bingolcitycenter.jpg",
@@ -414,7 +283,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Bingolcitycenter.jpg",
         "aciklama": "Bingöl şehir merkezinden bir görünüm",
         "konu": "Çapakçur"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1945-28-devletin-uzerinde-anlastigi-ilkeler-dogrultusunda-dunya",
@@ -423,10 +293,10 @@
       "konular": [
         "Dünya Bankası"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Küresel Ekonominin Temeli: Dünya Bankası Kuruldu",
+      "ozet": "İkinci Dünya Savaşı'nın yıkıcı etkilerinin ardından küresel ekonomiyi yeniden inşa etmek ve kalkınmayı desteklemek amacıyla 27 Aralık 1945 tarihinde Dünya Bankası, o dönemki adıyla Uluslararası Yeniden Yapılanma ve Kalkınma Bankası olarak kuruldu. 28 devletin üzerinde uzlaştığı ilkeler doğrultusunda hayata geçirilen bu kurum, savaş sonrası dönemde uluslararası finansal sistemin en önemli yapı taşlarından biri haline geldi. Kuruluşun temel amacı, savaşta zarar gören ülkelerin toparlanmasına yardımcı olmak ve gelişmekte olan bölgelere finansal destek sağlamaktı.\n\nZaman içerisinde faaliyet alanını genişleten ve bünyesinde beş farklı kurumu barındıran bir grup haline gelen Dünya Bankası, günümüzde Birleşmiş Milletler'in özerk bir uzman kuruluşu olarak hizmet vermektedir. Kuruluş, üye devletlerin ekonomik kalkınma projelerine kredi sağlayarak küresel yoksullukla mücadelede aktif bir rol oynamaktadır. Türkiye de 1947 yılında bu yapıya katılarak, uzun vadeli kalkınma projeleri için kurumun sunduğu finansal imkanlardan yararlanmaya başlamıştır. Bugün dünya genelinde çok sayıda ülkenin üye olduğu banka, uluslararası mali iş birliğinin en köklü örneklerinden biri olarak varlığını sürdürmektedir.",
+      "kategori": "Ekonomi",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/The_World_Bank_Group_%2853844804648%29.jpg/960px-The_World_Bank_Group_%2853844804648%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/The_World_Bank_Group_%2853844804648%29.jpg/500px-The_World_Bank_Group_%2853844804648%29.jpg",
@@ -439,7 +309,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:The_World_Bank_Group_(53844804648).jpg",
         "aciklama": "Washington, DC",
         "konu": "Dünya Bankası"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1949-300-yil-suren-hollanda-egemenliginden-sonra-kralice",
