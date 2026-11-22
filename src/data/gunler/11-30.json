@@ -1184,7 +1184,7 @@
     "url": "https://tr.wikipedia.org/wiki/30_Kas%C4%B1m",
     "revid": 36735734
   },
-  "guncelleme": "2026-11-21T14:23:16.602Z",
+  "guncelleme": "2026-11-22T14:15:41.408Z",
   "haberler": [
     {
       "id": "2025-haber-2457241",
@@ -1243,15 +1243,15 @@
         "url": "https://www.cumhuriyet.com.tr/siyaset/tbmm-plan-ve-butce-komisyonunda-kilicdaroglu-tartismasi-2274304"
       },
       "konular": [
-        "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu",
+        "TBMM Plan ve Bütçe Komisyonu",
         "Yılmaz Tunç",
         "Sibel Suiçmez"
       ],
       "yayin": "2024-11-30T04:00:00+03:00",
       "puan": 12,
       "durum": "elendi",
-      "baslik": "TBMM Plan ve Bütçe Komisyonu Toplantısında Tartışma Yaşandı",
-      "ozet": "Plan ve Bütçe Komisyonu görüşmeleri sırasında Adalet Bakanı Tunç ile muhalefet milletvekilleri arasında Kılıçdaroğlu üzerinden bir gerginlik yaşandı. CHP Trabzon Milletvekili Sibel Suiçmez, Bakan Tunç'un açıklamalarına tepki göstererek kendisinden yaptığı hataları kabul etmesini istedi.",
+      "baslik": "TBMM Plan ve Bütçe Komisyonu Görüşmelerinde Kılıçdaroğlu Tartışması",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu toplantısında Adalet Bakanı Yılmaz Tunç ile muhalefet milletvekilleri arasında gergin anlar yaşandı. Görüşmeler sırasında söz alan Cumhuriyet Halk Partisi Trabzon Milletvekili Sibel Suiçmez, Bakan Tunç'a yönelik eleştirilerde bulundu. Suiçmez, Bakan Tunç'tan yapılan işlemlerde hata payı olduğunu kabul etmesini ve bu durumu açıkça ifade etmesini talep etti.",
       "kategori": "Siyaset"
     },
     {
@@ -1440,30 +1440,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/erdogan-faiz-kararini-acikladi-1889099"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Türkiye ekonomisi",
-        "Faiz"
-      ],
+      "konular": [],
       "yayin": "2021-11-30T22:34:00+03:00",
       "puan": 13,
-      "durum": "yazildi",
-      "baslik": "Cumhurbaşkanı Erdoğan faiz politikasına ilişkin değerlendirmelerde bulundu",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, TRT ekranlarında yayınlanan ortak bir programa katılarak faiz oranları hakkındaki görüşlerini paylaştı. Ekonomi yönetimi ve faiz politikası üzerine açıklamalarda bulunan Erdoğan, konuyla ilgili hükümetin yaklaşımını kamuoyuna aktardı.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1794980",
@@ -1719,8 +1699,8 @@
       "yayin": "2015-11-30T23:06:00+03:00",
       "puan": 8,
       "durum": "elendi",
-      "baslik": "Panathinaikos kulübüne derbi olayları nedeniyle ağır yaptırımlar uygulandı",
-      "ozet": "Yunanistan Süper Lig Disiplin Komitesi, Olympiakos ile yapılması planlanan derbi mücadelesi öncesinde yaşanan taraftar olayları sebebiyle Panathinaikos hakkında kararını verdi. Maçın başlamasına engel olan olaylar neticesinde kulübün üç puanı silindi ve dört maçlık seyircisiz oynama cezası getirildi. Ayrıca kulübe 190 bin Euro tutarında para cezası kesildi.",
+      "baslik": "Panathinaikos Kulübüne Atina Derbisindeki Olaylar Nedeniyle Ağır Ceza",
+      "ozet": "Yunanistan Süper Lig Disiplin Komitesi, Olympiakos mücadelesi öncesinde yaşanan taraftar olayları nedeniyle Panathinaikos hakkında kararını verdi. Söz konusu müsabakanın gerçekleşmesini engelleyen taraftar taşkınlıkları sebebiyle kulübün üç puanı silindi. Ayrıca takımın dört karşılaşmasını seyircisiz oynamasına ve 190 bin Euro tutarında para cezası ödemesine hükmedildi.",
       "kategori": "Spor"
     },
     {
@@ -1736,14 +1716,13 @@
       },
       "konular": [
         "Birleşmiş Milletler İklim Değişikliği Konferansı",
-        "Recep Tayyip Erdoğan",
-        "Rusya-Türkiye ilişkileri"
+        "Recep Tayyip Erdoğan"
       ],
       "yayin": "2015-11-30T21:46:00+03:00",
       "puan": 7,
       "durum": "yazildi",
-      "baslik": "Fransa'daki İklim Zirvesi'nde Rus muhabirin sorusu gerginlik yarattı",
-      "ozet": "Birleşmiş Milletler İklim Değişikliği Zirvesi'ne katılmak üzere Fransa'ya giden Cumhurbaşkanı Recep Tayyip Erdoğan'a, bir Rus basın mensubu tarafından IŞİD ile ilgili bir soru yöneltildi. Söz konusu muhabirin yönelttiği iddialı soru üzerine olay yerinde müdahale yaşandı. Zirve kapsamında gerçekleşen bu diyalog, uluslararası basında dikkat çeken bir gelişme olarak kayıtlara geçti.",
+      "baslik": "Paris İklim Zirvesinde Rus Gazetecinin Sorusuna Müdahale",
+      "ozet": "Fransa'da düzenlenen Birleşmiş Milletler İklim Değişikliği Zirvesi sırasında Cumhurbaşkanı Recep Tayyip Erdoğan'a bir Rus muhabir tarafından soru yöneltildi. Muhabir, Türkiye'nin IŞİD'i desteklediği iddiasına ilişkin bir soru sordu. Bu girişimin ardından söz konusu gazeteciye müdahale edildi.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
@@ -1823,10 +1802,23 @@
       ],
       "yayin": "2013-11-30T16:43:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Başbakan Erdoğan tencere ve tava eylemlerine ilişkin değerlendirme yaptı",
-      "ozet": "Dönemin Başbakanı Recep Tayyip Erdoğan, kamuoyunda tencere ve tava kullanılarak gerçekleştirilen protesto gösterileri hakkında açıklamalarda bulundu. Söz konusu eylemlerin niteliğine ve toplumsal yansımalarına dair görüşlerini paylaşan Erdoğan, bu tür tepki yöntemlerini değerlendirdi.",
-      "kategori": "Siyaset"
+      "durum": "yazildi",
+      "baslik": "Başbakan Erdoğan tencere tava eylemleri hakkında açıklama yaptı",
+      "ozet": "Başbakan Recep Tayyip Erdoğan, o dönem gündemde olan tencere tava çalma eylemlerine ilişkin değerlendirmelerde bulundu. Erdoğan, söz konusu protesto yöntemine dair tutumunu kamuoyuyla paylaştı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2013-haber-14599",
@@ -1892,8 +1884,8 @@
       "yayin": "2012-11-30T10:17:00+03:00",
       "puan": 7,
       "durum": "yazildi",
-      "baslik": "NATO Komutanından Türkiye ile İttifak Vurgusu",
-      "ozet": "NATO Avrupa Müttefik Kuvvetleri Yüksek Komutanı Oramiral James Stavridis, Türkiye ile ittifakın önemine değindi. İttifakın Türkiye'ye kuruluşundan bu yana güvendiğini belirten Stavridis, Türkiye'nin de NATO'ya her zaman itimat edebileceğini ifade etti.",
+      "baslik": "NATO Komutanından Türkiye ile İttifak İlişkilerine Dair Açıklama",
+      "ozet": "NATO Avrupa Müttefik Kuvvetleri Yüksek Komutanı Oramiral James Stavridis, ittifakın üyelik sürecinden itibaren Türkiye ile olan güven ilişkisine vurgu yaptı. Stavridis, Türkiye'nin her koşulda NATO'ya itimat edebileceğini belirtti.",
       "kategori": "Siyaset",
       "gorsel": null
     },

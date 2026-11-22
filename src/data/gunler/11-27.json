@@ -1041,7 +1041,7 @@
     "url": "https://tr.wikipedia.org/wiki/27_Kas%C4%B1m",
     "revid": 36450272
   },
-  "guncelleme": "2026-11-21T14:23:15.215Z",
+  "guncelleme": "2026-11-22T14:15:40.261Z",
   "haberler": [
     {
       "id": "2025-haber-2456342",
@@ -1090,17 +1090,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/mtv-ye-zam-2026-motorlu-tasitlar-vergisi-ne-kadar-oldu-mtv-ne-kadar-zamlandi-2456395"
       },
-      "konular": [
-        "Motorlu Taşıtlar Vergisi",
-        "Resmi Gazete",
-        "Vergi"
-      ],
+      "konular": [],
       "yayin": "2025-11-27T14:10:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "2026 Yılı Motorlu Taşıtlar Vergisi Oranları Belirlendi",
-      "ozet": "Resmi Gazete aracılığıyla duyurulan yeni düzenleme ile gelecek yıl uygulanacak yeniden değerleme oranı kesinleşti. Buna göre vergi ve harç kalemlerinde yüzde 25,49 oranında bir artış yapılması kararlaştırıldı. Söz konusu düzenleme ile birlikte 2026 yılı için ödenecek Motorlu Taşıtlar Vergisi tutarları da bu orana göre güncellenmiş oldu.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2273139",
@@ -1144,7 +1137,7 @@
       "puan": 10,
       "durum": "elendi",
       "baslik": "Karabük'te kar nedeniyle kapanan köy yolları trafiğe açıldı",
-      "ozet": "Karabük Valiliği, bölgede etkili olan yoğun kar yağışı sebebiyle ulaşıma kapanan köy yollarının durumuna ilişkin bir duyuru yaptı. Yapılan çalışmalar neticesinde kapanan 274 köy yolunun tamamı yeniden araç trafiğine uygun hale getirildi.",
+      "ozet": "Karabük Valiliği, bölgede etkili olan kar yağışı sebebiyle ulaşımın durduğu köy yolları hakkında bilgilendirme yaptı. Yapılan çalışmalarda kapanan iki yüz yetmiş dört köy yolunun tekrar trafiğe açıldığı belirtildi.",
       "kategori": "Ulaşım"
     },
     {
@@ -1165,8 +1158,8 @@
       "yayin": "2023-11-27T03:00:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "CHP Parti Meclisi tüzük kurultayı gündemiyle bir araya geliyor",
-      "ozet": "Cumhuriyet Halk Partisi Parti Meclisi, disiplin cezalarına yönelik uygulanması planlanan 100. yıl affı ve tüzük kurultayının tarihini netleştirmek üzere toplandı. İl başkanlarının önerisi doğrultusunda kurultay için mayıs ayının değerlendirildiği süreçte, toplantının ardından tüzük komisyonu çalışmalarına hız verecek.",
+      "baslik": "Cumhuriyet Halk Partisi Parti Meclisi Kurultay Gündemiyle Toplanıyor",
+      "ozet": "Cumhuriyet Halk Partisi Parti Meclisi, disiplin cezası bulunan üyeler için gündeme gelen yüzüncü yıl affı ve tüzük kurultayının zamanlamasını görüşmek üzere bir araya geldi. İl başkanlarının önerisi doğrultusunda mayıs ayının değerlendirildiği toplantı sonrasında, tüzük komisyonu hazırlık süreçlerini başlatacak.",
       "kategori": "Siyaset"
     },
     {
@@ -1188,8 +1181,8 @@
       "yayin": "2023-11-27T16:50:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "İstanbul ilçe belediyelerinin 2024 mali bütçeleri onaylandı",
-      "ozet": "İstanbul Büyükşehir Belediyesi Meclisi, çeşitli ilçe belediyelerinin gelecek yıla ait bütçe tasarılarını görüşerek karara bağladı. Yapılan oylama sonucunda Sultangazi, Şile, Şişli, Tuzla, Ümraniye, Üsküdar ve Zeytinburnu belediyelerinin bütçeleri oy birliğiyle kabul edildi. Kent genelindeki ilçe belediyeleri arasında en yüksek bütçeye sahip olan yer ise 8 milyar 387 milyon 500 bin liralık pay ile Esenyurt oldu.",
+      "baslik": "İstanbul ilçe belediyelerinin 2024 yılı mali bütçeleri onaylandı",
+      "ozet": "İstanbul Büyükşehir Belediye Meclisi tarafından yapılan oylamada, yedi ilçenin gelecek yılki mali planları kabul edildi. Yapılan değerlendirmeler sonucunda Esenyurt, sekiz milyar lirayı aşan bütçesiyle listenin ilk sırasında yer aldı. Meclis üyelerinin oy birliğiyle sonuçlanan oturumda, diğer belediyelerin de bütçe tasarıları onaylanarak yürürlüğe girdi.",
       "kategori": "Ekonomi"
     },
     {
@@ -1579,28 +1572,14 @@
       },
       "konular": [
         "Çözüm süreci",
-        "Ahmet Davutoğlu",
-        "Türkiye siyaseti"
+        "Ahmet Davutoğlu"
       ],
       "yayin": "2014-11-27T08:32:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Başbakan Davutoğlu'ndan Kamu Düzeni ve Çözüm Süreci Vurgusu",
-      "ozet": "Dönemin Başbakanı Ahmet Davutoğlu, çözüm sürecinin kararlılıkla devam edeceğini ifade etti. Toplumsal huzurun korunması adına kamu düzeninin tüm vatandaşlar tarafından benimsenmesi gerektiğini belirtti. Süreçten herhangi bir geri adım atılmayacağının altını çizdi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Kurdistan_of_Turkey_%28CIA%29.png/960px-Kurdistan_of_Turkey_%28CIA%29.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Kurdistan_of_Turkey_%28CIA%29.png/500px-Kurdistan_of_Turkey_%28CIA%29.png",
-        "genislik": 960,
-        "yukseklik": 469,
-        "orijinalGenislik": 2000,
-        "yazar": "Çalak talk",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Kurdistan_of_Turkey_(CIA).png",
-        "aciklama": "Kurdish inhabited regions of Turkiye",
-        "konu": "Çözüm süreci"
-      }
+      "durum": "elendi",
+      "baslik": "Kamu Düzeni ve Çözüm Süreci Hakkında Açıklama",
+      "ozet": "Dönemin Başbakanı Ahmet Davutoğlu, çözüm sürecinin kararlılıkla devam edeceğini ifade etti. Kamu düzeninin korunması konusunda toplumsal sorumluluğun önemine vurgu yapan Davutoğlu, bu sürecin başarıya ulaşması için herkesin üzerine düşen görevi yapması gerektiğini belirtti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2013-haber-13413",
@@ -1656,8 +1635,8 @@
       "yayin": "2013-11-27T14:24:00+03:00",
       "puan": 8,
       "durum": "elendi",
-      "baslik": "Sanica Boru Elazığspor'da İki İstifa Birden",
-      "ozet": "Ligde çıktığı son sekiz karşılaşmadan mağlubiyetle ayrılan Sanica Boru Elazığspor'da yönetim değişikliği yaşandı. Teknik kadroda yapılan düzenlemelerin ardından sportif direktör Yasir Elmacı ile genel menajer Özgür Öztürk görevlerini bıraktıklarını duyurdu.",
+      "baslik": "Sanica Boru Elazığspor'da üst düzey yönetim istifası",
+      "ozet": "Ligde çıktığı son sekiz karşılaşmadan mağlubiyetle ayrılan ve teknik ekip değişikliğine giden Sanica Boru Elazığspor'da yeni gelişmeler yaşandı. Kulüpte görev yapan Sportif Direktör Yasir Elmacı ile Genel Menajer Özgür Öztürk, görevlerini bıraktıklarını duyurdu. Takımın yaşadığı kötü gidişatın ardından gerçekleşen bu ayrılıklar, spor kamuoyuna yansıdı.",
       "kategori": "Spor"
     },
     {

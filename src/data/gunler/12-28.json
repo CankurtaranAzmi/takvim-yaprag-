@@ -12,10 +12,10 @@
         "astronom",
         "yıldız"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Galileo Galilei ve Neptün'ün İlk Gözlemi",
+      "ozet": "İtalyan bilim insanı Galileo Galilei, kendi geliştirdiği teleskopla gökyüzünü incelediği sırada, Güneş Sistemi'nin en uzak gezegeni olan Neptün'ü gözlemleyen ilk kişi oldu. Ancak o dönemdeki teleskop teknolojisinin sınırlılıkları ve gezegenin yavaş hareketi nedeniyle, Galileo bu gök cismini bir gezegen olarak değil, sabit bir yıldız olarak tanımladı. Bu nedenle Neptün'ün keşfi, yaklaşık iki yüzyıl sonra matematiksel hesaplamalarla resmen gerçekleşecekti.\n\nGalileo'nun bu gözlemi, modern astronomi tarihindeki en ilginç tesadüflerden biri olarak kabul edilir. Bilim insanı, Jüpiter'in uydularını ve Venüs'ün evrelerini keşfederek evren anlayışımızı kökten değiştiren gözlemler yapmış olsa da, Neptün'ü fark etmeden kayıtlara geçirmesi, astronomi tarihinde gözlem ve teorinin ne kadar iç içe olduğunu gösteren bir örnek olmuştur. Neptün'ün gerçek doğası ancak 1846 yılında, Uranüs'ün yörüngesindeki sapmaların matematiksel analizi sonucunda Johann Gottfried Galle tarafından doğrulanabilmiştir.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/960px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/500px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
@@ -29,47 +29,7 @@
         "aciklama": null,
         "konu": "Galileo Galilei"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/960px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/500px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
-          "genislik": 960,
-          "yukseklik": 1220,
-          "orijinalGenislik": 2500,
-          "yazar": "Justus Sustermans",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg",
-          "aciklama": null,
-          "konu": "Galileo Galilei"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Neptune_Voyager2_color_calibrated.png/960px-Neptune_Voyager2_color_calibrated.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Neptune_Voyager2_color_calibrated.png/500px-Neptune_Voyager2_color_calibrated.png",
-          "genislik": 960,
-          "yukseklik": 960,
-          "orijinalGenislik": 1200,
-          "yazar": "NASA / Voyager 2 / PDS / OPUS / Ardenau4",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Neptune_Voyager2_color_calibrated.png",
-          "aciklama": "Neptune on 1989-08-17, taken by NASA's Voyager 2 probe. This color image was composed of three frames, orange, green, and blue, taken by Voyager 2's imaging system. This color image has been calibrate",
-          "konu": "Neptün (gezegen)"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Justus_Sustermans_-_Portrait_of_Galileo_Galilei_%28Uffizi%29.jpg/960px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei_%28Uffizi%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Justus_Sustermans_-_Portrait_of_Galileo_Galilei_%28Uffizi%29.jpg/500px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei_%28Uffizi%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1136,
-          "orijinalGenislik": 2113,
-          "yazar": "Justus Sustermans",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei_(Uffizi).jpg",
-          "aciklama": null,
-          "konu": "astronom"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1785-ngc-2022-bulutsusu-frederick-william-herschel-tarafindan",
@@ -79,10 +39,10 @@
         "NGC 2022",
         "Frederick William Herschel"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "William Herschel'in NGC 2022 Bulutsusu'nu Keşfi",
+      "ozet": "Alman asıllı İngiliz astronom William Herschel, 1785 yılının son günlerinde gerçekleştirdiği gözlemler sırasında Avcı takımyıldızı içerisinde yer alan NGC 2022 isimli gezegenimsi bulutsuyu tanımladı. Herschel'in kendi geliştirdiği teleskoplarla yaptığı bu keşif, gökyüzünün derinliklerinde yer alan ve çıplak gözle görülmesi mümkün olmayan yapıların kataloglanması sürecinin önemli bir parçasıydı. Bugün modern astronomi tarafından gezegenimsi bulutsu olarak sınıflandırılan bu yapı, aslında ömrünün sonuna yaklaşan bir yıldızın dış katmanlarını uzaya püskürtmesiyle oluşan devasa bir gaz küresidir.\n\nWilliam Herschel, sadece bir astronom değil, aynı zamanda döneminin en yetenekli teleskop üreticilerinden biriydi. Uranüs gezegenini keşfederek Güneş Sistemi hakkındaki bilgileri kökten değiştiren Herschel, kariyeri boyunca binlerce bulutsu ve yıldız kümesini kayıt altına almıştır. NGC 2022 keşfi, onun sistematik gökyüzü taramalarının ve evrenin yapısını anlama konusundaki kararlılığının bir yansımasıdır. Herschel'in çalışmaları, günümüzde modern astrofiziğin temelini oluşturan derin uzay gözlemlerinin öncüsü kabul edilmektedir.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/The_Inky_Abyss.tif/lossy-page1-960px-The_Inky_Abyss.tif.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/The_Inky_Abyss.tif/lossy-page1-960px-The_Inky_Abyss.tif.jpg",
@@ -96,34 +56,7 @@
         "aciklama": "Although it looks more like an entity seen through a microscope than a telescope, this rounded object, named NGC 2022, is certainly no alga or tiny, blobby jellyfish. Instead, it is a vast orb of gas ",
         "konu": "NGC 2022"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/The_Inky_Abyss.tif/lossy-page1-960px-The_Inky_Abyss.tif.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/The_Inky_Abyss.tif/lossy-page1-960px-The_Inky_Abyss.tif.jpg",
-          "genislik": 960,
-          "yukseklik": 978,
-          "orijinalGenislik": 1018,
-          "yazar": "ESA/Hubble & NASA, R. Wade",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:The_Inky_Abyss.tif",
-          "aciklama": "Although it looks more like an entity seen through a microscope than a telescope, this rounded object, named NGC 2022, is certainly no alga or tiny, blobby jellyfish. Instead, it is a vast orb of gas ",
-          "konu": "NGC 2022"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/William_Herschel01.jpg/960px-William_Herschel01.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/William_Herschel01.jpg/500px-William_Herschel01.jpg",
-          "genislik": 960,
-          "yukseklik": 1174,
-          "orijinalGenislik": 1936,
-          "yazar": "Lemuel Francis Abbott",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:William_Herschel01.jpg",
-          "aciklama": null,
-          "konu": "Frederick William Herschel"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1836-ispanya-meksikanin-bagimsizligini-tanidi",
@@ -161,10 +94,10 @@
         "Ohio",
         "sakız"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Modern Sakızın Patent Yolculuğu",
+      "ozet": "Amerika Birleşik Devletleri'nin Ohio eyaletinde diş hekimliği yapan William F. Semple, 28 Aralık 1869 tarihinde sakız için resmi patent başvurusunda bulunarak bu ürünün modern tarihteki ilk tescilli örneklerinden birini oluşturdu. Semple'ın bu girişimi, çiğneme alışkanlığının endüstriyel bir ürüne dönüşmesinde önemli bir dönüm noktası kabul edilir. Sakızın kökeni antik dönemlere kadar uzansa da, Semple'ın patenti bu ürünün ticari bir form kazanmasına ve standartlaşmasına zemin hazırladı. Tarihsel süreçte ağaç reçinelerinden elde edilen doğal maddelerle başlayan çiğneme geleneği, bu patentle birlikte daha kontrollü ve üretilebilir bir yapıya kavuştu. Günümüzde şekerli veya şekersiz çeşitleriyle dünya genelinde yaygın bir tüketim maddesi olan sakız, diş sağlığına etkilerinden nikotin desteğine kadar pek çok farklı alanda kullanılmaktadır. Semple'ın attığı bu adım, basit bir çiğneme alışkanlığının küresel bir endüstriye evrilmesinin ilk resmi adımı olarak tarihe geçmiştir.",
+      "kategori": "Teknoloji",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Bubblegum.jpg/960px-Bubblegum.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Bubblegum.jpg/500px-Bubblegum.jpg",
@@ -177,7 +110,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Bubblegum.jpg",
         "aciklama": "A woman blowing a bubbleDay 12 | Bubblicious",
         "konu": "sakız"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1878-dundee-birlesik-krallik-yakinlarindaki-bir-demiryolu-koprusu",
@@ -187,23 +121,12 @@
         "Dundee",
         "Birleşik Krallık"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Dundee_Picture_Collage_%28new%29.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Dundee_Picture_Collage_%28new%29.jpg",
-        "genislik": 870,
-        "yukseklik": 1395,
-        "orijinalGenislik": 870,
-        "yazar": "File:442 dundee header.png (Tay Bridge and RSS Discovery images):- Original: PlutosAcademy File:V&A Dundee Near Completion Feb 2018 (Alex Li",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Dundee_Picture_Collage_(new).jpg",
-        "aciklama": "Collage of images of Dundee. (Created to replace File:Dundee Picture Collage.jpg; see notes below).",
-        "konu": "Dundee"
-      }
+      "baslik": "Tay Köprüsü Faciası: İskoçya'da Büyük Demiryolu Felaketi",
+      "ozet": "İskoçya'nın Dundee şehri yakınlarında bulunan Tay Demiryolu Köprüsü, 28 Aralık 1878 gecesi yaşanan şiddetli bir fırtına sırasında büyük bir kısmının yıkılmasıyla tarihe geçen bir felakete sahne oldu. Edinburgh'dan Dundee'ye gitmekte olan yolcu treni, köprünün orta kısmının çökmesiyle birlikte buzlu Tay Nehri'nin sularına gömüldü. Kazada trende bulunan 75 yolcu ve mürettebatın tamamı hayatını kaybetti. Bu olay, o dönem için mühendislik dünyasında büyük bir şok etkisi yarattı.\n\nKöprünün çöküşü, dönemin mühendislik standartlarının ve yapısal dayanıklılığın sorgulanmasına neden oldu. Yapılan incelemeler, köprünün tasarımındaki hataların ve şiddetli rüzgarlara karşı yetersiz kalan yapısal bütünlüğün felaketi kaçınılmaz kıldığını ortaya koydu. Bu trajik olay, demiryolu köprülerinin inşasında kullanılan malzeme kalitesi ve rüzgar yükü hesaplamaları konusunda çok daha katı güvenlik protokollerinin geliştirilmesine öncülük etti. Tay Köprüsü faciası, modern mühendislik tarihinde yapısal güvenlik ve denetim süreçlerinin önemini vurgulayan en önemli derslerden biri olarak kabul edilmektedir.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1895-alman-bilim-insani-wilhelm-rontgen-x-isinlarini",
@@ -213,51 +136,24 @@
         "Wilhelm Röntgen",
         "X ışınları"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Tıbbın Çehresini Değiştiren Keşif: X Işınları",
+      "ozet": "Alman fizikçi Wilhelm Conrad Röntgen, 1895 yılının son günlerinde gerçekleştirdiği deneyler sonucunda, o güne kadar bilinmeyen bir elektromanyetik dalga türünü keşfettiğini bilim dünyasına ilan etti. Crookes tüpleriyle yaptığı çalışmalar sırasında tesadüfen fark ettiği bu ışınlara, bilinmezliği temsil etmesi amacıyla X harfini verdi. Bu keşif, fizik dünyasında büyük bir heyecan yarattığı gibi, kısa sürede modern bilimin en önemli araçlarından biri haline geldi.\n\nX ışınlarının keşfi, özellikle tıp alanında devrim niteliğinde bir dönüm noktası oldu. İnsan vücudunun içini cerrahi bir müdahale olmaksızın görüntüleyebilme imkanı, teşhis ve tedavi yöntemlerini kökten değiştirdi. Bugün radyoloji olarak bildiğimiz alanın temelini atan bu buluş, Röntgen'e 1901 yılında ilk kez verilen Nobel Fizik Ödülü'nü kazandırdı. İyonlaştırıcı radyasyon sınıfında yer alan bu ışınlar, günümüzde sadece tıbbi görüntülemede değil, aynı zamanda malzeme bilimi ve güvenlik taramaları gibi pek çok farklı alanda vazgeçilmez bir teknoloji olarak kullanılmaya devam etmektedir.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Roentgen2.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Roentgen2.jpg",
-        "genislik": 911,
-        "yukseklik": 1280,
-        "orijinalGenislik": 911,
-        "yazar": "Bilinmeyen yazar",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg/960px-First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg/500px-First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg",
+        "genislik": 960,
+        "yukseklik": 1380,
+        "orijinalGenislik": 3391,
+        "yazar": "Wilhelm Röntgen",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Roentgen2.jpg",
-        "aciklama": "Photo of Wilhelm Conrad Röntgen. Cleaned up version of http://images.google.com/hosted/life/l?imgurl=6b3da250c6b5560f",
-        "konu": "Wilhelm Röntgen"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg",
+        "aciklama": "Hand mit Ringen (Hand with Rings): a print of one of the first X-rays by Wilhelm Röntgen (1845–1923) of the left hand of his wife Anna Bertha Ludwig. It was presented to Professor Ludwig Zehnder of th",
+        "konu": "X ışınları"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Roentgen2.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Roentgen2.jpg",
-          "genislik": 911,
-          "yukseklik": 1280,
-          "orijinalGenislik": 911,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Roentgen2.jpg",
-          "aciklama": "Photo of Wilhelm Conrad Röntgen. Cleaned up version of http://images.google.com/hosted/life/l?imgurl=6b3da250c6b5560f",
-          "konu": "Wilhelm Röntgen"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg/960px-First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg/500px-First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg",
-          "genislik": 960,
-          "yukseklik": 1380,
-          "orijinalGenislik": 3391,
-          "yazar": "Wilhelm Röntgen",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg",
-          "aciklama": "Hand mit Ringen (Hand with Rings): a print of one of the first X-rays by Wilhelm Röntgen (1845–1923) of the left hand of his wife Anna Bertha Ludwig. It was presented to Professor Ludwig Zehnder of th",
-          "konu": "X ışınları"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1895-lumiere-kardesler-pariste-boulevard-des-capucinesdeki-grand",
@@ -267,10 +163,10 @@
         "Auguste ve Louis Lumière",
         "Paris"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Sinemanın Doğuşu: İlk Ticari Film Gösterimi",
+      "ozet": "Auguste ve Louis Lumière kardeşler, 28 Aralık 1895 tarihinde Paris'teki Grand Café'nin alt katında bulunan Salon Indien'de tarihin ilk ücretli sinema gösterimini düzenlediler. Bu etkinlik, hareketli görüntülerin sadece bir laboratuvar deneyi olmaktan çıkıp geniş kitlelere hitap eden bir eğlence aracı haline geldiği an olarak kabul edilir. Kardeşlerin geliştirdiği Sinematograf cihazı, Edison'un bireysel izlemeye dayalı teknolojisinin aksine, görüntülerin bir perdeye yansıtılarak toplu halde izlenmesine olanak tanıyordu.\n\nGösterimde, Lumière fabrikasından çıkan işçileri konu alan ilk filmleri ve izleyiciler üzerinde büyük şaşkınlık yaratan istasyona yaklaşan tren görüntüsü gibi yaklaşık on kısa film yer aldı. Özellikle trenin perdede üzerlerine doğru geldiğini sanan izleyicilerin yaşadığı panik, sinemanın gerçeklik algısı üzerindeki dönüştürücü gücünü kanıtlar nitelikteydi. Bu tarihi gece, günümüzde milyarlarca dolarlık bir endüstriye dönüşen sinema sanatının ve modern görsel anlatım dilinin başlangıç noktası olarak kabul edilmektedir.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Fratelli_Lumiere.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Fratelli_Lumiere.jpg",
@@ -284,34 +180,7 @@
         "aciklama": "The brothers Auguste (left) and Louis Lumière, French inventors and film pioneers.",
         "konu": "Auguste ve Louis Lumière"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Fratelli_Lumiere.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Fratelli_Lumiere.jpg",
-          "genislik": 691,
-          "yukseklik": 930,
-          "orijinalGenislik": 691,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Fratelli_Lumiere.jpg",
-          "aciklama": "The brothers Auguste (left) and Louis Lumière, French inventors and film pioneers.",
-          "konu": "Auguste ve Louis Lumière"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/960px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/500px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-          "genislik": 960,
-          "yukseklik": 600,
-          "orijinalGenislik": 4592,
-          "yazar": "Yann Caradec from Paris, France",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
-          "aciklama": "La Tour Eiffel vue de la Tour Saint-Jacques, Paris.",
-          "konu": "Paris"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1897-edmond-rostandin-yazdigi-cyrano-de-bergerac-adli",
@@ -322,10 +191,10 @@
         "Cyrano de Bergerac",
         "Paris"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Cyrano de Bergerac Tiyatro Sahnesinde",
+      "ozet": "Fransız şair ve oyun yazarı Edmond Rostand'ın başyapıtı kabul edilen Cyrano de Bergerac, 19. yüzyılın sonunda Paris'te izleyiciyle buluştuğunda büyük bir başarıya imza attı. Neo-romantizm akımının en önemli örneklerinden biri olan bu eser, dönemin popüler natüralist tiyatro anlayışına karşı bir duruş sergileyerek izleyicileri büyüledi. Oyun, 17. yüzyılda yaşamış gerçek bir figür olan Hercule-Savinien de Cyrano de Bergerac'ın hayatından esinlenerek kurgulanmış, cesur bir şövalye ve şairin trajik aşk hikayesini konu almaktadır. Eserin merkezinde yer alan, büyük burnu nedeniyle yaşadığı özgüven sorununa rağmen zekası ve şiirsel yeteneğiyle öne çıkan Cyrano karakteri, edebiyat dünyasının en ikonik figürlerinden biri haline gelmiştir. Rostand'ın kaleme aldığı bu oyun, sadece yazıldığı dönemde değil, günümüzde de dünya tiyatrolarında en çok sahnelenen ve farklı dillere çevrilen eserler arasında yer almaktadır. Cyrano'nun Roxane'a olan karşılıksız aşkı ve bu aşkı ifade etmek için kullandığı edebi dil, eserin zamansız bir klasik olmasını sağlamıştır.",
+      "kategori": "Sanat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Edmond_Rostand_en_habit_vert_01.jpg/960px-Edmond_Rostand_en_habit_vert_01.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Edmond_Rostand_en_habit_vert_01.jpg/500px-Edmond_Rostand_en_habit_vert_01.jpg",
@@ -339,47 +208,7 @@
         "aciklama": "French playwright Edmond Rostand in the official uniform of the Académie française",
         "konu": "Edmond Rostand"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Edmond_Rostand_en_habit_vert_01.jpg/960px-Edmond_Rostand_en_habit_vert_01.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Edmond_Rostand_en_habit_vert_01.jpg/500px-Edmond_Rostand_en_habit_vert_01.jpg",
-          "genislik": 960,
-          "yukseklik": 1309,
-          "orijinalGenislik": 3815,
-          "yazar": "Léopold-Émile Reutlinger",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Edmond_Rostand_en_habit_vert_01.jpg",
-          "aciklama": "French playwright Edmond Rostand in the official uniform of the Académie française",
-          "konu": "Edmond Rostand"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Savinien_de_Cyrano_de_Bergerac.JPG/960px-Savinien_de_Cyrano_de_Bergerac.JPG",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Savinien_de_Cyrano_de_Bergerac.JPG/500px-Savinien_de_Cyrano_de_Bergerac.JPG",
-          "genislik": 960,
-          "yukseklik": 1293,
-          "orijinalGenislik": 1200,
-          "yazar": "ZH, pinxit (Zacharie Heince, 1611-1669)LAH, delin. et Sculpsit",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Savinien_de_Cyrano_de_Bergerac.JPG",
-          "aciklama": "Cyrano de Bergerac (1619 – 1655) French dramatist and soldier, author of The Comical History of the States and Empires of the Moon and The Comical History of the States and the Empires of the Sun. Por",
-          "konu": "Cyrano de Bergerac"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/960px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/500px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
-          "genislik": 960,
-          "yukseklik": 600,
-          "orijinalGenislik": 4592,
-          "yazar": "Yann Caradec from Paris, France",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
-          "aciklama": "La Tour Eiffel vue de la Tour Saint-Jacques, Paris.",
-          "konu": "Paris"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1908-sicilya-messinada-7-5-buyuklugunde-deprem-80",
@@ -389,23 +218,12 @@
         "Sicilya",
         "Messina"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Collage_Messina.jpg/960px-Collage_Messina.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Collage_Messina.jpg/500px-Collage_Messina.jpg",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 5120,
-        "yazar": "collection by DanieleDF1995 (talk)",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Collage_Messina.jpg",
-        "aciklama": "Collage di varie foto di Messina",
-        "konu": "Messina"
-      }
+      "baslik": "Messina'yı Yıkan Büyük Deprem Felaketi",
+      "ozet": "İtalya'nın Sicilya adasında yer alan Messina şehri, 28 Aralık 1908 sabahı tarihinin en büyük felaketlerinden biriyle sarsıldı. 7,5 büyüklüğünde gerçekleşen şiddetli deprem, şehrin neredeyse tamamını yerle bir etti. Depremin hemen ardından oluşan dev tsunamiler, kıyı şeridindeki yerleşim yerlerini de etkisi altına alarak yıkımın boyutunu daha da artırdı. Bu doğal afet sonucunda yaklaşık 80 bin insan yaşamını yitirdi ve bölge büyük bir insani krizle karşı karşıya kaldı.\n\nMessina depremi, Avrupa tarihinde modern zamanlarda kaydedilen en ölümcül sismik olaylardan biri olarak kabul edilir. Felaket, sadece Messina şehrini değil, aynı zamanda Reggio Calabria gibi çevre bölgeleri de ağır şekilde etkiledi. O dönemde bölgenin altyapısının yetersizliği ve binaların depreme dayanıklı olmaması, can kaybının bu denli yüksek olmasında temel etken oldu. Bu trajik olay, İtalya'da sismoloji çalışmalarının hız kazanmasına ve yapı denetim standartlarının yeniden gözden geçirilmesine yönelik önemli bir dönüm noktası oluşturdu.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1973-aleksandr-soljenitsin-sovyet-hapishanelerini-anlattigi-gulag-takimadalari",
@@ -416,10 +234,10 @@
         "Sovyetler Birliği",
         "Gulag Takımadaları"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Gulag Takımadaları ve Sovyet Gerçekleri",
+      "ozet": "Aleksandr Soljenitsin, 1958 ile 1968 yılları arasında kaleme aldığı üç ciltlik eseri Gulag Takımadaları'nı ilk kez 1973 yılında Paris'te yayımlayarak Sovyetler Birliği'ndeki baskıcı sistemin karanlık yüzünü dünyaya duyurdu. Yazarın kendi mahkûmiyet deneyimlerinin yanı sıra çok sayıda tanıklık, belge ve röportajla desteklediği bu çalışma, Sovyet zorunlu çalışma kampları sistemindeki insanlık dışı yaşam koşullarını gözler önüne seren kapsamlı bir edebi araştırma niteliği taşıyordu.\n\nEser, yayımlandığı dönemde Sovyet devletinin meşruiyetini derinden sarsan bir meydan okuma olarak kabul edildi. Başlangıçta ülkede yasaklı olan kitap, samizdat adı verilen yeraltı yayıncılığı yoluyla gizlice elden ele dolaştı. Milyonlarca insanın hapsedildiği ve yok edildiği bu sistemi tüm çıplaklığıyla belgeleyen kitap, Sovyetler Birliği'nin dağılmasına giden süreçte rejimin ideolojik temellerinin sorgulanmasında önemli bir rol oynadı. Soljenitsin'in bu cesur çalışması, sadece bir edebiyat eseri değil, aynı zamanda totaliter bir sistemin işleyişini ifşa eden tarihi bir belge olarak dünya literatüründeki yerini aldı.",
+      "kategori": "Edebiyat",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Aleksandr_Solzhenitsyn_1974crop.jpg/960px-Aleksandr_Solzhenitsyn_1974crop.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Aleksandr_Solzhenitsyn_1974crop.jpg/500px-Aleksandr_Solzhenitsyn_1974crop.jpg",
@@ -432,7 +250,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Aleksandr_Solzhenitsyn_1974crop.jpg",
         "aciklama": "De Russische schrijver Alexander Solzjenitsyn is uitgewezen uit Rusland en verblijft nu in het huis van Heinrich Böll",
         "konu": "Aleksandr Soljenitsin"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1973-ismet-inonu-devlet-toreniyle-anitkabire-defnedildi",
@@ -442,10 +261,10 @@
         "İsmet İnönü",
         "Anıtkabir"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İsmet İnönü Anıtkabir'de Defnedildi",
+      "ozet": "Türk siyasi tarihinin en önemli figürlerinden biri olan İsmet İnönü, 25 Aralık 1973'te hayatını kaybetmesinin ardından 28 Aralık günü Ankara'da gerçekleştirilen görkemli bir devlet töreniyle son yolculuğuna uğurlandı. İnönü'nün naaşı, Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün ebedi istirahatgahı olan Anıtkabir'de, Atatürk'ün karşısındaki özel bölümde defnedildi. Bu tören, Türkiye'nin kuruluşunda ve gelişiminde büyük emeği olan bir devlet adamına gösterilen vefanın bir nişanesi olarak tarihe geçti.\n\nİsmet İnönü, Kurtuluş Savaşı'ndaki askeri başarıları, Lozan Antlaşması'ndaki diplomatik çabaları ve Türkiye Cumhuriyeti'nin ilk yıllarındaki devlet adamlığı kimliğiyle modern Türkiye'nin inşasında kritik bir rol oynamıştır. Atatürk'ün en yakın çalışma arkadaşlarından biri olan İnönü, uzun yıllar boyunca başbakanlık ve cumhurbaşkanlığı görevlerini üstlenerek ülkenin çok partili hayata geçiş sürecinde ve II. Dünya Savaşı gibi zorlu dönemlerde kritik kararlar almıştır. Onun Anıtkabir'e defnedilmesi, Türk devlet geleneğinde Atatürk ile olan tarihi bağının ve devletin kuruluşundaki ortak mirasının bir sembolü olarak kabul edilmektedir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
@@ -459,34 +278,7 @@
         "aciklama": "President of Turkey 1938-1950 Ismet Inonu",
         "konu": "İsmet İnönü"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Inonu_Ismet_%28cropped%29.jpg",
-          "genislik": 549,
-          "yukseklik": 724,
-          "orijinalGenislik": 549,
-          "yazar": "Unknown. Official photo of President.",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Inonu_Ismet_(cropped).jpg",
-          "aciklama": "President of Turkey 1938-1950 Ismet Inonu",
-          "konu": "İsmet İnönü"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/960px-Ataturk%27s_Mausoleum_%286225341313%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/500px-Ataturk%27s_Mausoleum_%286225341313%29.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 5184,
-          "yazar": "William Neuheisel from DC, US",
-          "lisans": "CC BY 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ataturk%27s_Mausoleum_(6225341313).jpg",
-          "aciklama": "Exterior of the mausoleum building of Anıtkabir complex",
-          "konu": "Anıtkabir"
-        }
-      ]
+      "bolge": "turkiye"
     },
     {
       "id": "1980-gaziantepte-bir-eve-duzenlenen-baskin-sirasinda-cikan",
@@ -537,10 +329,10 @@
       "konular": [
         "Ankara metrosu"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Ankara Metrosu İlk Kez Yolcularıyla Buluştu",
+      "ozet": "Ankara'nın ulaşım tarihinde bir dönüm noktası olan Ankara Metrosu, 28 Aralık 1997 tarihinde Kızılay ile Batıkent arasında seferlerine başladı. EGO Genel Müdürlüğü tarafından işletilen bu hat, başkentin hızla artan nüfusuna ve yoğunlaşan şehir içi trafiğine karşı geliştirilen en önemli toplu taşıma projelerinden biri olarak hayata geçirildi. Bu açılışla birlikte Ankara, İstanbul'dan sonra Türkiye'de metro sistemine kavuşan ikinci şehir olma unvanını kazandı.\n\nKızılay-Batıkent hattının hizmete girmesi, Ankara'nın batı aksındaki yerleşim bölgeleri ile şehir merkezi arasındaki ulaşımı önemli ölçüde kolaylaştırdı. Zaman içerisinde sisteme eklenen yeni hatlarla genişleyen metro ağı, bugün başkentin ulaşım omurgasını oluşturan temel unsurlardan biri haline geldi. Günümüzde onlarca istasyonu ve kilometrelerce uzunluktaki raylı sistemiyle Ankara Metrosu, her gün binlerce vatandaşa hızlı ve güvenli bir ulaşım imkanı sunmaya devam etmektedir.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/15_Temmuz_K%C4%B1z%C4%B1lay_M%C3%AElli_%C4%B0rade_Metro_%C4%B0stasyonu_M4_2025.jpg/960px-15_Temmuz_K%C4%B1z%C4%B1lay_M%C3%AElli_%C4%B0rade_Metro_%C4%B0stasyonu_M4_2025.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/15_Temmuz_K%C4%B1z%C4%B1lay_M%C3%AElli_%C4%B0rade_Metro_%C4%B0stasyonu_M4_2025.jpg/500px-15_Temmuz_K%C4%B1z%C4%B1lay_M%C3%AElli_%C4%B0rade_Metro_%C4%B0stasyonu_M4_2025.jpg",
@@ -553,7 +345,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:15_Temmuz_K%C4%B1z%C4%B1lay_M%C3%AElli_%C4%B0rade_Metro_%C4%B0stasyonu_M4_2025.jpg",
         "aciklama": "15 Temmuz Kızılay Mîlli İrade Metro İstasyonu M4",
         "konu": "Ankara metrosu"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1999-saparmurat-niyazov-kendisini-turkmenistanin-yasam-boyu-lideri",
@@ -563,10 +356,10 @@
         "Saparmurat Niyazov",
         "Türkmenistan"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Saparmurat Niyazov'un Ömür Boyu Devlet Başkanlığı",
+      "ozet": "Türkmenistan'ın bağımsızlığını kazanmasının ardından ülkeyi yöneten Saparmurat Niyazov, 1999 yılının sonunda aldığı bir kararla devlet başkanlığı görevini ömür boyu sürdüreceğini ilan etti. Bu gelişme, Niyazov'un Sovyetler Birliği'nin dağılması sonrası kurulan genç cumhuriyetteki otoritesini mutlaklaştıran en önemli adımlardan biri olarak tarihe geçti. Türkmenbaşı unvanıyla da bilinen Niyazov, bu kararla birlikte ülkenin siyasi yapısını kendi kişisel yönetimi etrafında şekillendirme sürecini tamamlamış oldu. Niyazov'un 2006 yılındaki vefatına kadar süren bu dönem, Türkmenistan tarihinde tek adam yönetimi ve yoğun bir kişilik kültü ile karakterize edilen bir süreç olarak değerlendirilmektedir. Ülkenin bağımsızlık sonrası ilk yıllarında atılan bu adım, Türkmenistan'ın siyasi sisteminin demokratikleşme yerine merkeziyetçi ve otoriter bir yapıya evrilmesinde belirleyici bir rol oynamıştır. Niyazov'un yaşam boyu liderlik statüsü, devletin tüm kurumları üzerinde tam bir kontrol sağlamasına ve muhalefetin tamamen tasfiye edilmesine olanak tanıyan bir yasal zemin oluşturmuştur.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Nyyazov_in_February_1998.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Nyyazov_in_February_1998.jpg",
@@ -579,7 +372,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Nyyazov_in_February_1998.jpg",
         "aciklama": "Saparmurad Niyazov",
         "konu": "Saparmurat Niyazov"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "2000-adrian-nastase-romanya-basbakani-oldu",
@@ -604,10 +398,10 @@
         "Şırnak",
         "Türk Hava Kuvvetleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Uludere'de Yaşanan Hava Operasyonu",
+      "ozet": "28 Aralık 2011 gecesi, Şırnak'ın Uludere ilçesine bağlı Ortasu köyü yakınlarında meydana gelen olayda, Irak sınırından Türkiye'ye geçiş yapan bir grup sivil, Türk Hava Kuvvetleri'ne ait F-16 uçaklarının bombardımanı sonucu yaşamını yitirdi. Hayatını kaybeden 34 kişinin büyük çoğunluğu gençlerden oluşuyordu ve bölgede sınır ticaretiyle uğraşan köylülerdi. Olay, Türkiye kamuoyunda derin bir üzüntü ve tartışma yarattı.\n\nGenelkurmay Başkanlığı, olay sonrası yaptığı açıklamada, grubun PKK tarafından kullanılan güzergahlarda tespit edilmesi nedeniyle operasyonun gerçekleştirildiğini belirtti. Olayın ardından yürütülen süreçte, istihbarat kaynakları ve operasyon kararı üzerine çeşitli iddialar gündeme geldi. Türkiye'nin yakın tarihindeki en acı olaylardan biri olarak kabul edilen bu hadise, hem hukuki hem de toplumsal açıdan uzun süre tartışılmaya devam etti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Komkujiya_robosk%C3%AE.jpg/960px-Komkujiya_robosk%C3%AE.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Komkujiya_robosk%C3%AE.jpg/500px-Komkujiya_robosk%C3%AE.jpg",
@@ -621,47 +415,7 @@
         "aciklama": "Komkujiya roboskî",
         "konu": "Uludere olayı"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Komkujiya_robosk%C3%AE.jpg/960px-Komkujiya_robosk%C3%AE.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Komkujiya_robosk%C3%AE.jpg/500px-Komkujiya_robosk%C3%AE.jpg",
-          "genislik": 960,
-          "yukseklik": 640,
-          "orijinalGenislik": 1025,
-          "yazar": "Mahmut Bozarslan - VOA",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Komkujiya_robosk%C3%AE.jpg",
-          "aciklama": "Komkujiya roboskî",
-          "konu": "Uludere olayı"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%C5%9E%C4%B1rnak_%C5%9Fehir_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg/960px-%C5%9E%C4%B1rnak_%C5%9Fehir_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%C5%9E%C4%B1rnak_%C5%9Fehir_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg/500px-%C5%9E%C4%B1rnak_%C5%9Fehir_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 3686,
-          "yazar": "Zmangeldi",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9E%C4%B1rnak_%C5%9Fehir_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg",
-          "aciklama": "Türkiye'nin güneydoğusunda bulunan Şırnak ilinin merkezi olan Şırnak şehri",
-          "konu": "Şırnak"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Turkish_Air_Force_Document.jpg/960px-Turkish_Air_Force_Document.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Turkish_Air_Force_Document.jpg/500px-Turkish_Air_Force_Document.jpg",
-          "genislik": 960,
-          "yukseklik": 720,
-          "orijinalGenislik": 4032,
-          "yazar": "Aviation poseidon",
-          "lisans": "CC0",
-          "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_Air_Force_Document.jpg",
-          "aciklama": "This is a Turkish Air Force document",
-          "konu": "Türk Hava Kuvvetleri"
-        }
-      ]
+      "bolge": "turkiye"
     }
   ],
   "dogumlar": [

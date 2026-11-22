@@ -10,10 +10,10 @@
         "Osmanlı Ordusu",
         "Kudüs"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Kudüs'ün Osmanlı Hakimiyetine Girmesi",
+      "ozet": "Yavuz Sultan Selim'in 1516-1517 yıllarında gerçekleştirdiği Mısır seferi, Osmanlı İmparatorluğu'nun Orta Doğu'daki sınırlarını genişleten en kritik askeri harekatlardan biri oldu. Bu seferin bir parçası olarak Osmanlı ordusu, 30 Aralık 1517 tarihinde Kudüs'e giriş yaptı. Şehrin Osmanlı yönetimine geçmesi, bölgedeki siyasi dengeleri kökten değiştirirken, İslam dünyasının kutsal merkezlerinin de Osmanlı himayesine girmesini sağladı. Kudüs'ün fethi, Osmanlı Devleti'nin bölgedeki otoritesini pekiştiren ve imparatorluğun İslam dünyasındaki liderlik konumunu güçlendiren bir dönüm noktası olarak kabul edilir. Osmanlı yönetimi altında şehir, uzun süreli bir barış ve istikrar dönemine girdi. Daha sonraki yıllarda, özellikle Kanuni Sultan Süleyman döneminde, şehrin surları yeniden inşa edilerek Kudüs'ün mimari dokusu korunmaya çalışıldı. Bu dönemde şehir, Müslüman, Hristiyan ve Yahudi topluluklarının bir arada yaşadığı, dini ve kültürel açıdan büyük önem taşıyan bir merkez olma özelliğini sürdürdü. Osmanlı hakimiyeti, bölgedeki kutsal mekanların korunması ve yönetimi konusunda yeni bir idari düzenin başlangıcı oldu.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg/960px-Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg/500px-Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg",
@@ -26,7 +26,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Dome_of_the_Rock_seen_from_the_Mount_of_Olives_(12395649153)_(cropped).jpg",
         "aciklama": "Dome of the Rock seen from the Mount of Olives in Jerusalem Jerusalem",
         "konu": "Kudüs"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1898-gulhane-askeri-tip-mektebi-acildi",
@@ -49,23 +50,12 @@
         "Chicago",
         "Amerika Birleşik Devletleri"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_River_ferry_b.jpg/960px-Chicago_River_ferry_b.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_River_ferry_b.jpg/500px-Chicago_River_ferry_b.jpg",
-        "genislik": 960,
-        "yukseklik": 679,
-        "orijinalGenislik": 3736,
-        "yazar": "File:Chicago River ferry.jpg: John Picken derivative work: Georgfotoart",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Chicago_River_ferry_b.jpg",
-        "aciklama": "A Chicago River tour boat passes in front of Trump Tower",
-        "konu": "Chicago"
-      }
+      "baslik": "Iroquois Tiyatrosu Yangını: Chicago'da Büyük Facia",
+      "ozet": "Chicago'da bulunan Iroquois Tiyatrosu'nda sahnelenen bir matine sırasında çıkan yangın, Amerikan tarihinin en ölümcül tiyatro felaketlerinden biri olarak kayıtlara geçti. Gösteri sırasında bir sahne ışığının kısa devre yapması sonucu başlayan alevler, kısa sürede tüm sahneyi sardı. Tiyatronun kapasitesinin üzerinde seyirci alması ve acil çıkış kapılarının kilitli ya da dışarıya açılmayacak şekilde tasarlanmış olması, içerideki kalabalığın kaçışını imkansız hale getirdi. Çoğunluğu kadın ve çocuklardan oluşan yüzlerce kişi, çıkışlara ulaşamadan duman ve alevler arasında mahsur kalarak yaşamını yitirdi. Bu trajik olay, Amerika Birleşik Devletleri'nde kamu binalarındaki yangın güvenliği standartlarının yeniden gözden geçirilmesine yol açtı. Felaketin ardından tiyatrolarda yangına dayanıklı perde kullanımı, acil çıkışların dışa açılır olması ve panik barların zorunlu hale getirilmesi gibi çok daha sıkı güvenlik düzenlemeleri yürürlüğe konuldu. Iroquois Tiyatrosu yangını, modern yangın güvenliği mevzuatının oluşturulmasında bir dönüm noktası kabul edilmektedir.",
+      "kategori": "Afet",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "dunya"
     },
     {
       "id": "1911-cinin-secimle-isbasina-gelen-ilk-baskani-sun",
@@ -75,10 +65,10 @@
         "Çin",
         "Sun Yat-sen"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Çin Cumhuriyeti'nin İlk Başkanı Sun Yat-sen Göreve Başladı",
+      "ozet": "Sun Yat-sen, 1911 yılında gerçekleşen Xinhai Devrimi'nin ardından kurulan Çin Cumhuriyeti'nin ilk geçici başkanı olarak göreve getirildi. Modern Çin tarihinin en önemli figürlerinden biri kabul edilen Sun, uzun yıllar süren sürgün hayatı ve devrimci faaliyetlerinin ardından ülkesinde yeni bir siyasi düzenin temellerini atmak üzere bu kritik sorumluluğu üstlendi. Çin'de binlerce yıldır süregelen imparatorluk yönetiminin sona ermesiyle birlikte, cumhuriyetçi bir sistemin inşası için atılan bu adım, ülkenin modernleşme sürecinde bir dönüm noktası olarak kabul edilir.\n\nSun Yat-sen, hem Çin Cumhuriyeti'nin hem de Kuomintang partisinin kurucu lideri olarak, hem Tayvan'da hem de Çin ana karasında büyük bir saygıyla anılmaktadır. \"Ulusun Babası\" olarak nitelendirilen Sun, siyasi hayatı boyunca Çin'in birliği ve modernleşmesi için mücadele etmiştir. Başkanlık görevine başlaması, Çin'in feodal geçmişinden koparak demokratik bir yapıya geçiş çabalarının en somut göstergelerinden biri olmuştur. Ancak bu geçiş süreci oldukça sancılı geçmiş; Sun, kısa süre sonra görevini Yuan Shikai'a devretmek zorunda kalmış ve siyasi mücadelesine farklı cephelerde devam etmiştir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sun_Yat_Sen_portrait_2.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sun_Yat_Sen_portrait_2.jpg",
@@ -91,7 +81,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Sun_Yat_Sen_portrait_2.jpg",
         "aciklama": "​1912年9月11日，孙中山拜访逊清摄政王载沣，对其在辛亥革命期间，能代表清政府逊位并和平交出政权加以慰勉。此次拜访，孙中山还将其亲笔签名盖章的一张照片赠送给载沣。该照片是1911年12月25日，孙中山从海外归国后，由上海同生照相馆所拍摄的。这张孙中山亲笔签名照片，一直保存在载沣家中，直到1952年由载沣之子溥任（又名金友之）捐赠给中国国家博物馆。",
         "konu": "Sun Yat-sen"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1916-rusyada-carlik-ailesini-etkisi-altina-alan-sibiryali",
@@ -102,51 +93,24 @@
         "Sibirya",
         "Grigori Yefimoviç Rasputin"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Rusya'nın Gizemli Figürü Rasputin'in Ölümü",
+      "ozet": "Rus İmparatorluğu'nun son dönemlerinde saray üzerinde kurduğu tartışmalı etkisiyle tanınan Grigori Yefimoviç Rasputin, 30 Aralık 1916 tarihinde Sankt-Peterburg'da bir grup soylu tarafından öldürüldü. Kendisini kutsal bir adam ve şifacı olarak tanıtan Rasputin, özellikle Çar II. Nikolay ve Çariçe Aleksandra'nın hemofili hastası olan oğulları Aleksey'in sağlığı üzerindeki etkisi sayesinde imparatorluk ailesinin güvenini kazanmıştı. Bu yakınlık, onun saray koridorlarında siyasi kararları etkileyebilecek kadar güçlenmesine yol açtı.\n\nRasputin'in saraydaki varlığı, hem halk hem de aristokrasi arasında büyük bir huzursuzluk kaynağıydı. Bir kesim onu vizyoner bir peygamber olarak görürken, diğerleri onu devlet işlerine karışan bir şarlatan olarak nitelendiriyordu. Birinci Dünya Savaşı'nın getirdiği ağır şartlar ve imparatorluğun içine sürüklendiği siyasi istikrarsızlık, Rasputin'e duyulan tepkiyi daha da artırdı. Soylular tarafından gerçekleştirilen bu suikast, aslında Çarlık rejiminin otoritesini koruma ve saraydaki bu yabancı etkisini temizleme girişimi olarak görüldü. Ancak Rasputin'in ölümü, Rusya'yı bekleyen büyük devrimsel değişimlerin ve Çarlık rejiminin çöküşünün önünü almaktan ziyade, imparatorluğun sonuna giden süreçte bir dönüm noktası olarak tarihe geçti.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Siberia-FederalSubjects.png/960px-Siberia-FederalSubjects.png",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Siberia-FederalSubjects.png/500px-Siberia-FederalSubjects.png",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Rasputin_PA.jpg/960px-Rasputin_PA.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Rasputin_PA.jpg/500px-Rasputin_PA.jpg",
         "genislik": 960,
-        "yukseklik": 729,
-        "orijinalGenislik": 1130,
-        "yazar": "Hellerick (talk)",
+        "yukseklik": 1265,
+        "orijinalGenislik": 2276,
+        "yazar": "Bilinmeyen yazar",
         "lisans": "Public domain",
         "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Siberia-FederalSubjects.png",
-        "aciklama": "Map of Russian federal subjects belonging to Siberia. Siberian Federal District, Geographic Russian Siberia, Asian part of Russia.",
-        "konu": "Sibirya"
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Rasputin_PA.jpg",
+        "aciklama": "Portrait photograph of Grigori Rasputin, circa 1910s",
+        "konu": "Grigori Yefimoviç Rasputin"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Siberia-FederalSubjects.png/960px-Siberia-FederalSubjects.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Siberia-FederalSubjects.png/500px-Siberia-FederalSubjects.png",
-          "genislik": 960,
-          "yukseklik": 729,
-          "orijinalGenislik": 1130,
-          "yazar": "Hellerick (talk)",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Siberia-FederalSubjects.png",
-          "aciklama": "Map of Russian federal subjects belonging to Siberia. Siberian Federal District, Geographic Russian Siberia, Asian part of Russia.",
-          "konu": "Sibirya"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Rasputin_PA.jpg/960px-Rasputin_PA.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Rasputin_PA.jpg/500px-Rasputin_PA.jpg",
-          "genislik": 960,
-          "yukseklik": 1265,
-          "orijinalGenislik": 2276,
-          "yazar": "Bilinmeyen yazar",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Rasputin_PA.jpg",
-          "aciklama": "Portrait photograph of Grigori Rasputin, circa 1910s",
-          "konu": "Grigori Yefimoviç Rasputin"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1918-almanya-komunist-partisi-kuruldu",
@@ -169,10 +133,10 @@
         "Vladimir İlyiç Lenin",
         "Sovyetler Birliği"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Sovyetler Birliği'nin Kuruluşu",
+      "ozet": "Rusya'da gerçekleşen Ekim Devrimi'nin ardından, 1922 yılının sonunda Sovyetler Birliği'nin kuruluşu resmen ilan edildi. Vladimir İlyiç Lenin'in önderliğinde kurulan bu yeni devlet yapısı, Rusya SFSC ile birlikte çeşitli ulusal cumhuriyetlerin federal bir çatı altında birleşmesiyle meydana geldi. Bu adım, Rus İmparatorluğu'nun mirası üzerinde yükselen ve komünist ideolojiye dayalı, merkeziyetçi bir yönetim modelini benimseyen dünyanın ilk sosyalist devletinin doğuşunu simgeliyordu.\n\nSovyetler Birliği'nin kuruluşu, sadece bölge coğrafyasını değil, aynı zamanda 20. yüzyılın küresel siyasi dengelerini de kökten değiştiren bir dönüm noktası oldu. Avrasya'nın büyük bir bölümüne yayılan bu devasa yapı, ilerleyen yıllarda dünyanın iki süper gücünden biri haline gelerek uluslararası ilişkilerde belirleyici bir rol oynadı. Tek partili bir sistemle yönetilen ve merkezi bir ekonomi modelini benimseyen SSCB, 1991 yılındaki dağılışına kadar dünya tarihinin en etkili siyasi aktörlerinden biri olarak varlığını sürdürdü.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Lenin_in_1920_%28cropped%29.jpg/960px-Lenin_in_1920_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Lenin_in_1920_%28cropped%29.jpg/500px-Lenin_in_1920_%28cropped%29.jpg",
@@ -185,7 +149,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Lenin_in_1920_(cropped).jpg",
         "aciklama": "Standing portrait of Vladimir Lenin (1870–1924), Marxist revolutionary and leader of Soviet Russia and the Soviet Union from 1917 to 1924.",
         "konu": "Vladimir İlyiç Lenin"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1924-amerikali-astronom-edwin-hubble-evrende-samanyolundan-baska",
@@ -198,10 +163,10 @@
         "Samanyolu",
         "galaksi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Edwin Hubble ve Galaksilerin Keşfi",
+      "ozet": "Amerikalı astronom Edwin Hubble, 1924 yılının sonunda gerçekleştirdiği gözlemlerle modern astronomi tarihinin en önemli dönüm noktalarından birine imza attı. Hubble, o zamana kadar Samanyolu'nun tüm evreni kapsadığına inanılan genel kanıyı yıkarak, gökyüzünde gözlemlenen bazı bulutsu yapıların aslında kendi galaksimizin dışında yer alan bağımsız yıldız sistemleri olduğunu kanıtladı. Bu keşif, insanlığın evrene bakış açısını kökten değiştirerek kozmosun tahmin edilenden çok daha geniş ve karmaşık bir yapıya sahip olduğunu ortaya koydu.\n\nHubble'ın bu bulgusu, evrenin ölçeğini devasa boyutlara taşıyarak galaksilerin birbirlerinden uzaklaştığına dair ileride geliştirilecek olan genişleyen evren teorisinin de temelini oluşturdu. Samanyolu'nun evrendeki tek yapı olmadığını anlamak, astronomi biliminde yeni bir çağın başlamasını sağladı. Bugün evrenin milyarlarca galaksiden oluştuğunu biliyorsak, bu durum büyük ölçüde Hubble'ın 1924 yılındaki bu çığır açıcı gözlemlerine ve cesur bilimsel çıkarımlarına borçludur.",
+      "kategori": "Bilim",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG",
@@ -215,47 +180,7 @@
         "aciklama": "Studio Portrait of Edwin Powell Hubble. Photographer: Johan Hagemeyer, Camera Portraits Carmel. Photograph signed by photographer, dated 1931.",
         "konu": "Edwin Hubble"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG",
-          "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG",
-          "genislik": 846,
-          "yukseklik": 1068,
-          "orijinalGenislik": 846,
-          "yazar": "Johan Hagemeyer",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Studio_portrait_photograph_of_Edwin_Powell_Hubble_(cropped).JPG",
-          "aciklama": "Studio Portrait of Edwin Powell Hubble. Photographer: Johan Hagemeyer, Camera Portraits Carmel. Photograph signed by photographer, dated 1931.",
-          "konu": "Edwin Hubble"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg/960px-NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg/500px-NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg",
-          "genislik": 960,
-          "yukseklik": 877,
-          "orijinalGenislik": 2300,
-          "yazar": "NASA, ESA, H. Teplitz and M. Rafelski (IPAC/Caltech), A. Koekemoer (STScI), R. Windhorst (Arizona State University), and Z. Levay (STScI)",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg",
-          "aciklama": "June 3, 2014 RELEASE 14-151 Hubble Team Unveils Most Colorful View of Universe Captured by Space Telescope http://www.nasa.gov/press/2014/june/hubble-team-unveils-most-colorful-view-of-universe-captur",
-          "konu": "evren"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/ESO-VLT-Laser-phot-33a-07.jpg/960px-ESO-VLT-Laser-phot-33a-07.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/ESO-VLT-Laser-phot-33a-07.jpg/500px-ESO-VLT-Laser-phot-33a-07.jpg",
-          "genislik": 960,
-          "yukseklik": 638,
-          "orijinalGenislik": 3888,
-          "yazar": "ESO/Y. Beletsky",
-          "lisans": "CC BY 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:ESO-VLT-Laser-phot-33a-07.jpg",
-          "aciklama": "Image of the night sky above Paranal, Chile on 21 July 2007, taken by ESO astronomer Yuri Beletsky. A wide band of stars and dust clouds, spanning more than 100 degrees on the sky, is seen. This is th",
-          "konu": "Samanyolu"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1946-demokrat-partiyi-komunistlikle-suclayan-yozgat-valisi-sadri",
@@ -265,23 +190,12 @@
         "Demokrat Parti (1946)",
         "Yozgat"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Ormanc%C4%B1lar%C4%B1n_Emekleri_Burada_-_panoramio.jpg/960px-Ormanc%C4%B1lar%C4%B1n_Emekleri_Burada_-_panoramio.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Ormanc%C4%B1lar%C4%B1n_Emekleri_Burada_-_panoramio.jpg/500px-Ormanc%C4%B1lar%C4%B1n_Emekleri_Burada_-_panoramio.jpg",
-        "genislik": 960,
-        "yukseklik": 569,
-        "orijinalGenislik": 3072,
-        "yazar": "AHMET AKGÜL",
-        "lisans": "CC BY 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ormanc%C4%B1lar%C4%B1n_Emekleri_Burada_-_panoramio.jpg",
-        "aciklama": "Ormancıların Emekleri Burada",
-        "konu": "Yozgat"
-      }
+      "baslik": "Yozgat Valisi'nin Demokrat Parti'ye Yönelik İftira Davası",
+      "ozet": "Türkiye'de çok partili hayata geçişin ilk yıllarında siyasi tansiyon oldukça yüksekti. 1946 yılında kurulan Demokrat Parti, tek parti iktidarına karşı güçlü bir muhalefet hareketi olarak ortaya çıkmıştı. Bu dönemde iktidar yanlısı bürokratlar, muhalefeti yıpratmak amacıyla çeşitli suçlamalarda bulunuyorlardı. Yozgat Valisi Sadri Aka da bu süreçte Demokrat Parti'yi komünistlikle itham ederek siyasi bir karalama kampanyası yürütmüştü. Ancak bu suçlamalar yargıya taşındı ve mahkeme, valinin bu ifadelerini hukuka aykırı bularak onu mahkûm etti.\n\nBu dava, Türkiye'de siyasi rekabetin hukuk çerçevesinde yürütülmesi adına önemli bir emsal teşkil etmiştir. Demokrat Parti'nin henüz kuruluş aşamasında olduğu ve siyasi meşruiyetini kanıtlamaya çalıştığı bir dönemde, devlet görevlilerinin muhalefete karşı tarafsız kalması gerektiği ilkesi bu kararla vurgulanmıştır. Söz konusu mahkûmiyet, dönemin siyasi atmosferinde muhalefetin üzerindeki baskıların yargı yoluyla denetlenebileceğini göstermesi bakımından dikkat çekicidir.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1947-romanyada-sovyet-yanlisi-hukumet-kral-mihaii-tahtan",
@@ -292,10 +206,10 @@
         "Sovyetler Birliği",
         "Mihai"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Romanya'da Monarşinin Sonu ve Kral I. Mihai'nin Tahttan İndirilmesi",
+      "ozet": "Romanya Kralı I. Mihai, 30 Aralık 1947 tarihinde Sovyet yanlısı hükûmetin baskıları sonucunda tahtını bırakmak zorunda kaldı. II. Dünya Savaşı'nın ardından Doğu Avrupa'da nüfuzunu artıran Sovyetler Birliği, Romanya'daki siyasi yapıyı kendi ideolojisi doğrultusunda yeniden şekillendirme sürecine girmişti. Kral Mihai'nin görevden uzaklaştırılması, ülkede monarşinin resmen sona ermesine ve Romanya Halk Cumhuriyeti'nin ilan edilmesine giden yolu açtı.\n\nKral Mihai, 1940 yılında ikinci kez tahta çıktığında ülke, Nazi Almanyası ile müttefik olan Ion Antonescu'nun askeri diktatörlüğü altındaydı. 1944 yılında Antonescu'ya karşı düzenlenen darbeye öncülük eden Mihai, ülkesini Müttefik Devletler safına çekmeye çalışsa da savaş sonrası değişen jeopolitik dengeler, Romanya'nın Sovyet etkisine girmesini engelleyemedi. Tahttan çekilmeye zorlanması, Romanya'da komünist yönetimin tam kontrolü ele geçirmesinin sembolik ve siyasi bir dönüm noktası oldu. Bu olayla birlikte Romanya, Soğuk Savaş döneminde Doğu Bloku'nun bir parçası haline geldi.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Mihai.jpg",
         "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Mihai.jpg",
@@ -308,7 +222,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Mihai.jpg",
         "aciklama": "Image of king Michael I of Romania (*1921)",
         "konu": "Mihai"
-      }
+      },
+      "bolge": "dunya"
     },
     {
       "id": "1950-turkiye-25-temmuzda-koreye-asker-gonderme-karari",
@@ -348,10 +263,10 @@
         "Küba",
         "Batista"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Küba Devrimi'nde Kritik Dönemeç: Havana'ya Doğru",
+      "ozet": "1958 yılının son günlerinde Küba'da uzun süredir devam eden iç çatışmalar, Fidel Castro liderliğindeki isyancıların başkent Havana'yı kuşatmasıyla nihai aşamasına ulaştı. Fulgencio Batista'nın 1952 yılında gerçekleştirdiği darbeyle kurduğu otoriter rejim, halk nezdindeki desteğini büyük ölçüde yitirmişti. Castro ve arkadaşları, Meksika'da örgütledikleri 26 Temmuz Hareketi ile adaya dönerek Sierra Maestra dağlarında başlattıkları gerilla mücadelesini ülke geneline yaymayı başarmışlardı. 30 Aralık 1958 tarihi, Batista rejiminin çöküşünün kaçınılmaz hale geldiği ve devrimci güçlerin zaferine ramak kaldığı tarihi bir dönüm noktası olarak kayıtlara geçti. Bu süreç, sadece Küba'nın değil, tüm Latin Amerika'nın siyasi geleceğini kökten değiştirecek bir dönemin habercisiydi. Batista'nın ordusu üzerindeki kontrolünü kaybetmesi ve isyancıların stratejik bölgeleri birer birer ele geçirmesi, diktatörlüğün sonunu hızlandırdı. Kısa bir süre sonra Batista'nın ülkeyi terk etmesiyle sonuçlanacak olan bu gelişmeler, Küba'da tek partili sosyalist bir düzenin kurulmasına ve ülkenin Soğuk Savaş döneminin en önemli aktörlerinden biri haline gelmesine giden yolu açtı.",
+      "kategori": "Siyaset",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Fidel_Castro_in_Washington.jpg/960px-Fidel_Castro_in_Washington.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Fidel_Castro_in_Washington.jpg/500px-Fidel_Castro_in_Washington.jpg",
@@ -365,34 +280,7 @@
         "aciklama": "Fidel Castro arrives MATS Terminal, Washington, D.C.",
         "konu": "Fidel Castro"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Fidel_Castro_in_Washington.jpg/960px-Fidel_Castro_in_Washington.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Fidel_Castro_in_Washington.jpg/500px-Fidel_Castro_in_Washington.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 1454,
-          "yazar": "Fidel_Castro_-_MATS_Terminal_Washington_1959.png: Warren K. Leffler derivative work: Damiens.rf",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Fidel_Castro_in_Washington.jpg",
-          "aciklama": "Fidel Castro arrives MATS Terminal, Washington, D.C.",
-          "konu": "Fidel Castro"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Fulgencio_Batista%2C_1938.jpg/960px-Fulgencio_Batista%2C_1938.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Fulgencio_Batista%2C_1938.jpg/500px-Fulgencio_Batista%2C_1938.jpg",
-          "genislik": 960,
-          "yukseklik": 1444,
-          "orijinalGenislik": 1157,
-          "yazar": "Harris & Ewing",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Fulgencio_Batista,_1938.jpg",
-          "aciklama": "\"The Dictator from Cuba arrives. Washington, D.C., Nov. 10. Col. Fulgencio Batista, Cuba's Dictator, arrived in Washington today, he was met at the Union Station by General Malin Craig, Chief of Staff",
-          "konu": "Batista"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1960-uluslararasi-para-fonu-imf-ve-iktisadi-isbirligi",
@@ -418,10 +306,10 @@
         "Richard Nixon",
         "Hanoi"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "Vietnam Savaşı'nda Hanoi Bombardımanına Son Verilmesi",
+      "ozet": "Amerika Birleşik Devletleri Başkanı Richard Nixon, 30 Aralık 1972 tarihinde Kuzey Vietnam'ın başkenti Hanoi'ye yönelik sürdürülen ağır hava bombardımanlarının sona erdirilmesi emrini verdi. Linebacker II operasyonu olarak bilinen ve Aralık ayının sonlarında yoğunlaşan bu hava harekatı, savaşın en şiddetli bombardımanlarından biri olarak tarihe geçmişti. Nixon'ın bu kararı, hem askeri stratejilerdeki bir değişikliği hem de barış görüşmelerini yeniden canlandırma çabasını yansıtıyordu.\n\nBu bombardımanlar, Vietnam Savaşı'nın son dönemlerinde taraflar arasındaki diplomatik tıkanıklığı aşmak amacıyla gerçekleştirilmişti. ABD yönetimi, Kuzey Vietnam'ı müzakere masasına dönmeye zorlamak için stratejik hedeflere yönelik yoğun bir hava saldırısı stratejisi izliyordu. Saldırıların durdurulması, kısa bir süre sonra Paris Barış Görüşmeleri'nde ilerleme sağlanmasına ve nihayetinde 1973 yılında imzalanacak olan barış antlaşmasına giden sürecin önünü açtı. Bu olay, Vietnam Savaşı'nın sona ermesine yönelik diplomatik çabaların kritik bir dönüm noktası olarak kabul edilir.",
+      "kategori": "Savaş",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/960px-Richard_Nixon_presidential_portrait_%281%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/500px-Richard_Nixon_presidential_portrait_%281%29.jpg",
@@ -435,34 +323,7 @@
         "aciklama": "Richard Nixon's presidential portrait. Retouch has not been completed yet.",
         "konu": "Richard Nixon"
       },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/960px-Richard_Nixon_presidential_portrait_%281%29.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/500px-Richard_Nixon_presidential_portrait_%281%29.jpg",
-          "genislik": 960,
-          "yukseklik": 1280,
-          "orijinalGenislik": 2205,
-          "yazar": "Department of Defense. Department of the Army. Office of the Deputy Chief of Staff for Operations. U.S. Army Audiovisual Center. (ca. 1974 -",
-          "lisans": "Public domain",
-          "lisansUrl": null,
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Richard_Nixon_presidential_portrait_(1).jpg",
-          "aciklama": "Richard Nixon's presidential portrait. Retouch has not been completed yet.",
-          "konu": "Richard Nixon"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Hanoi_sjc.jpg/960px-Hanoi_sjc.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Hanoi_sjc.jpg/500px-Hanoi_sjc.jpg",
-          "genislik": 960,
-          "yukseklik": 1071,
-          "orijinalGenislik": 2552,
-          "yazar": "Bonjin/凡人[ラナ]",
-          "lisans": "CC BY-SA 2.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Hanoi_sjc.jpg",
-          "aciklama": "This Hanoi Church is designed similar to the architecture of Notre Dame Cathedral in Paris. The special thing about this Church is that the space around the Cathedral is an ideal meeting place for loc",
-          "konu": "Hanoi"
-        }
-      ]
+      "bolge": "dunya"
     },
     {
       "id": "1977-fatih-sultan-mehmet-koprusu-104-milyon-liraya",
@@ -471,10 +332,10 @@
       "konular": [
         "Fatih Sultan Mehmet Köprüsü"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
+      "baslik": "İstanbul'un İkinci Boğaz Köprüsü İçin İhale Süreci Başladı",
+      "ozet": "İstanbul'un artan trafik yükünü hafifletmek ve iki kıta arasındaki ulaşımı kolaylaştırmak amacıyla planlanan Fatih Sultan Mehmet Köprüsü'nün ihale süreci 1977 yılının sonunda önemli bir aşamaya ulaştı. Boğaziçi Köprüsü'nün ardından kentin ikinci büyük geçiş projesi olarak tasarlanan bu devasa yapı için 104 milyon liralık bir ihale bedeli belirlendi. Bu adım, İstanbul'un ulaşım altyapısını modernize etme yolunda atılan stratejik bir karar olarak kayıtlara geçti.\n\nProjenin ilerleyen yıllardaki uygulama aşamasında, köprünün inşası için uluslararası bir konsorsiyum kurulmuş ve yapım süreci 1985 yılında resmen başlamıştır. Kavacık ile Hisarüstü arasında inşa edilen köprü, tamamlandığında dünyanın en büyük çelik asma köprüleri arasında yerini alarak bölgenin lojistik kapasitesini önemli ölçüde artırmıştır. 1988 yılında hizmete açılan köprü, günümüzde İstanbul trafiğinin en kritik geçiş noktalarından biri olmaya devam etmektedir.",
+      "kategori": "Ulaşım",
+      "durum": "yayinda",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Fatih_sultan_mehmet_k%C3%B6pr%C3%BCs%C3%BC_%28cropped%29.jpg/960px-Fatih_sultan_mehmet_k%C3%B6pr%C3%BCs%C3%BC_%28cropped%29.jpg",
         "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Fatih_sultan_mehmet_k%C3%B6pr%C3%BCs%C3%BC_%28cropped%29.jpg/500px-Fatih_sultan_mehmet_k%C3%B6pr%C3%BCs%C3%BC_%28cropped%29.jpg",
@@ -487,7 +348,8 @@
         "kaynak": "https://commons.wikimedia.org/wiki/File:Fatih_sultan_mehmet_k%C3%B6pr%C3%BCs%C3%BC_(cropped).jpg",
         "aciklama": "The Fatih Sultan Mehmet Bridge. (Note: Significant optical distortion is present in this fisheye-lens photograph; the bridge does not actually have a curve in it.)",
         "konu": "Fatih Sultan Mehmet Köprüsü"
-      }
+      },
+      "bolge": "turkiye"
     },
     {
       "id": "1981-galatasaray-egitim-vakfi-kuruldu",
@@ -540,23 +402,12 @@
         "Yasemin Cebenoyan",
         "Onat Kutlar"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Istanbul_Taksim_Square_%2854515155507%29.jpg/960px-Istanbul_Taksim_Square_%2854515155507%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Istanbul_Taksim_Square_%2854515155507%29.jpg/500px-Istanbul_Taksim_Square_%2854515155507%29.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 5882,
-        "yazar": "Jorge Franganillo",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Istanbul_Taksim_Square_(54515155507).jpg",
-        "aciklama": "Istanbul (Turkey)",
-        "konu": "Taksim Meydanı"
-      }
+      "baslik": "Taksim'de Cafe Marmara'ya Düzenlenen Bombalı Saldırı",
+      "ozet": "1994 yılının son günlerinde İstanbul'un en işlek noktalarından biri olan Taksim Meydanı'ndaki The Marmara Oteli'nin giriş katında bulunan Cafe Marmara'da şiddetli bir patlama meydana geldi. Saldırı sonucunda arkeolog Yasemin Cebenoyan olay yerinde hayatını kaybederken, Türk edebiyatı ve sinemasının önemli isimlerinden yazar ve eleştirmen Onat Kutlar ağır yaralandı. Hastaneye kaldırılan Kutlar, yapılan tüm müdahalelere rağmen 11 Ocak 1995 tarihinde yaşamını yitirdi.\n\nBu saldırı, Türkiye'de entelektüel çevreleri ve sanat dünyasını derinden sarsan bir olay olarak tarihe geçti. Onat Kutlar, Türk sinemasının gelişimi ve kültürel hayatın zenginleşmesi için verdiği emeklerle tanınan, saygın bir figürdü. Saldırının ardından toplumun farklı kesimlerinden büyük tepkiler yükseldi ve olay, dönemin güvenlik politikaları ile toplumsal huzur ortamı üzerine yoğun tartışmaları beraberinde getirdi. Yasemin Cebenoyan ve Onat Kutlar'ın kaybı, Türkiye'nin kültürel hafızasında derin bir iz bırakmış, saldırı ise terörün sivil hedeflere yönelik acımasız yüzünün bir örneği olarak hatırlanmaya devam etmiştir.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     },
     {
       "id": "1997-cezayirde-silahli-kisiler-dort-koyde-katliam-yapti",
@@ -580,51 +431,12 @@
         "Ülkü Ocakları",
         "Sinan Ateş"
       ],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "durum": "bekliyor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-        "genislik": 960,
-        "yukseklik": 540,
-        "orijinalGenislik": 7735,
-        "yazar": "A.Savin",
-        "lisans": "FAL",
-        "lisansUrl": "http://artlibre.org/licence/lal/en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-        "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
-        "konu": "Ankara"
-      },
-      "gorselAdaylari": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg/500px-Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "genislik": 960,
-          "yukseklik": 540,
-          "orijinalGenislik": 7735,
-          "yazar": "A.Savin",
-          "lisans": "FAL",
-          "lisansUrl": "http://artlibre.org/licence/lal/en",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg",
-          "aciklama": "View from the mall at the base of Atakule TV tower in Ankara, Turkey",
-          "konu": "Ankara"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%C3%9Clk%C3%BC_Ocaklar%C4%B1_%C4%B0l_Ba%C5%9Fkanl%C4%B1klar%C4%B1.png/960px-%C3%9Clk%C3%BC_Ocaklar%C4%B1_%C4%B0l_Ba%C5%9Fkanl%C4%B1klar%C4%B1.png",
-          "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%C3%9Clk%C3%BC_Ocaklar%C4%B1_%C4%B0l_Ba%C5%9Fkanl%C4%B1klar%C4%B1.png/500px-%C3%9Clk%C3%BC_Ocaklar%C4%B1_%C4%B0l_Ba%C5%9Fkanl%C4%B1klar%C4%B1.png",
-          "genislik": 960,
-          "yukseklik": 578,
-          "orijinalGenislik": 5358,
-          "yazar": "SahinBasaran",
-          "lisans": "CC BY-SA 4.0",
-          "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%9Clk%C3%BC_Ocaklar%C4%B1_%C4%B0l_Ba%C5%9Fkanl%C4%B1klar%C4%B1.png",
-          "aciklama": "Ülkü Ocakları İl Başkanlıkları",
-          "konu": "Ülkü Ocakları"
-        }
-      ]
+      "baslik": "Sinan Ateş'in Ankara'da Silahlı Saldırı Sonucu Öldürülmesi",
+      "ozet": "Akademisyen ve siyasetçi Sinan Ateş, 30 Aralık 2022 tarihinde Ankara'nın Çankaya ilçesinde uğradığı silahlı saldırı neticesinde yaşamını yitirdi. Hacettepe Üniversitesi'nde öğretim görevlisi olarak görev yapan Ateş, 2019 ile 2020 yılları arasında Ülkü Ocakları Genel Başkanlığı görevini yürütmüştü. Saldırı, Türkiye'de geniş yankı uyandıran ve siyasi çevrelerde uzun süre tartışılan bir olay haline geldi.\n\nOlayın ardından başlatılan adli soruşturma süreci, kamuoyunun dikkatini çeken önemli gelişmelere sahne oldu. Soruşturma kapsamında Ülkü Ocakları ile bağlantılı isimlerin ve bazı emniyet görevlilerinin gözaltına alınması veya tutuklanması, cinayetin siyasi boyutuna dair tartışmaları derinleştirdi. Sinan Ateş, Ülkü Ocakları Genel Başkanlığı yapmış isimler arasında bir saldırı sonucu hayatını kaybeden ilk kişi olması nedeniyle de dikkat çekici bir vaka olarak kayıtlara geçti.",
+      "kategori": "Toplum",
+      "durum": "yayinda",
+      "gorsel": null,
+      "bolge": "turkiye"
     }
   ],
   "dogumlar": [

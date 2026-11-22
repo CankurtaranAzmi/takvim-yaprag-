@@ -1113,7 +1113,7 @@
     "url": "https://tr.wikipedia.org/wiki/20_Kas%C4%B1m",
     "revid": 38642998
   },
-  "guncelleme": "2026-11-21T14:23:12.457Z",
+  "guncelleme": "2026-11-22T14:15:37.601Z",
   "haberler": [
     {
       "id": "2025-haber-2454216",
@@ -1126,10 +1126,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/riyad-washington-ortakligi-rekor-seviyede-557-milyar-dolarlik-isbirligi-2454216"
       },
-      "konular": [],
+      "konular": [
+        "Suudi Arabistan",
+        "Amerika Birleşik Devletleri",
+        "Ekonomi"
+      ],
       "yayin": "2025-11-20T08:52:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Suudi Arabistan ve Amerika Birleşik Devletleri Arasında Büyük Yatırım Anlaşması",
+      "ozet": "Suudi Arabistan Yatırım Bakanı Halid bin Abdulaziz el-Falih, iki ülke arasında gerçekleştirilen iş birliği kapsamında imzalanan sözleşmelerin toplam değerinin 557 milyar dolara ulaştığını duyurdu. Söz konusu anlaşmaların Riyad ve Washington arasındaki ekonomik ortaklığı rekor bir seviyeye taşıdığı belirtildi.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/960px-Luchtfoto_van_Lower_Manhattan.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Luchtfoto_van_Lower_Manhattan.jpg/500px-Luchtfoto_van_Lower_Manhattan.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 5616,
+        "yazar": "Daniele Pieroni",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Luchtfoto_van_Lower_Manhattan.jpg",
+        "aciklama": "Lower Manhattan gezien vanuit het zuidwesten.",
+        "konu": "Ekonomi"
+      }
     },
     {
       "id": "2025-haber-2454306",
@@ -1142,10 +1162,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/altin-yatirimcilari-dikkat-dev-yatirim-bankasindan-yeni-rekor-tahmini-2454306"
       },
-      "konular": [],
+      "konular": [
+        "Altın",
+        "UBS",
+        "Ekonomi"
+      ],
       "yayin": "2025-11-20T12:56:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Uluslararası bir bankadan altın fiyatları için yukarı yönlü güncelleme",
+      "ozet": "İsviçre merkezli bankacılık kuruluşu UBS, dünya genelinde altına artan ilgi nedeniyle ons altın fiyatına yönelik beklentilerini güncelledi. Kurum, Amerikan Merkez Bankası'nın faiz oranlarında indirime gitme olasılığını değerlendirerek tahminlerini yükseltti. Banka, piyasalardaki mevcut talebin güçlenmeye devam edeceğini öngördü.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2024-haber-2270901",
@@ -1158,10 +1185,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/hidayet-turkoglu-hedefimiz-her-zaman-avrupa-sampiyonalarina-katilmak-2270901"
       },
-      "konular": [],
+      "konular": [
+        "Hidayet Türkoğlu",
+        "Türkiye Basketbol Federasyonu",
+        "Türkiye millî basketbol takımı"
+      ],
       "yayin": "2024-11-20T18:48:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türkiye Basketbol Federasyonu Başkanı Türkoğlu'ndan Milli Takım Açıklaması",
+      "ozet": "Türkiye Basketbol Federasyonu Başkanı Hidayet Türkoğlu, mevcut milli takım kadrosunun potansiyeline inandığını ifade etti. Türkoğlu, oyuncu grubunun yeteneklerine duyduğu güveni dile getirerek takımın geleceği hakkındaki olumlu görüşlerini paylaştı.",
+      "kategori": "Spor"
     },
     {
       "id": "2024-haber-2270761",
@@ -1174,10 +1208,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/dun-istifa-etmisti-yeniden-basbakan-oldu-2270761"
       },
-      "konular": [],
+      "konular": [
+        "Abdulla Aripov",
+        "Özbekistan"
+      ],
       "yayin": "2024-11-20T12:56:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Özbekistan'da Abdulla Aripov yeniden başbakanlık görevine getirildi",
+      "ozet": "Özbekistan'da gerçekleştirilen seçimlerin ardından hükümet kurma süreci kapsamında istifasını sunan Abdulla Aripov, tekrar başbakanlık görevine atandı. Ülkede yeni kabinenin oluşturulması amacıyla atılan bu adım, seçim sonrası yasal prosedürlerin bir parçası olarak gerçekleşti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Minnikhanov_on_Vladimir_Putin%27s_state_visit_to_Uzbekistan_%282024-05-27%29_11_%28cropped%29_%28cropped%29.jpg/960px-Minnikhanov_on_Vladimir_Putin%27s_state_visit_to_Uzbekistan_%282024-05-27%29_11_%28cropped%29_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Minnikhanov_on_Vladimir_Putin%27s_state_visit_to_Uzbekistan_%282024-05-27%29_11_%28cropped%29_%28cropped%29.jpg/500px-Minnikhanov_on_Vladimir_Putin%27s_state_visit_to_Uzbekistan_%282024-05-27%29_11_%28cropped%29_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1282,
+        "orijinalGenislik": 1351,
+        "yazar": "tatarstan.ru",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Minnikhanov_on_Vladimir_Putin%27s_state_visit_to_Uzbekistan_(2024-05-27)_11_(cropped)_(cropped).jpg",
+        "aciklama": "Работа Рустама Минниханова в составе российской делегации в ходе государственного визита Владимира Путина в Узбекистан",
+        "konu": "Abdulla Aripov"
+      }
     },
     {
       "id": "2023-haber-2143083",
@@ -1190,10 +1243,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/rekor-fiyat-bekleniyor-messinin-dunya-kupasi-formalari-satisa-cikiyor-2143083"
       },
-      "konular": [],
+      "konular": [
+        "Lionel Messi",
+        "2022 FIFA Dünya Kupası",
+        "Müzayede"
+      ],
       "yayin": "2023-11-20T18:31:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Lionel Messi'nin Dünya Kupası formaları açık artırmada satılacak",
+      "ozet": "Arjantinli futbolcu Lionel Messi'nin 2022 Dünya Kupası müsabakalarında giydiği altı adet forma koleksiyonu müzayede yoluyla satışa sunuldu. Söz konusu formaların spor dünyasında yüksek bir bedelle alıcı bulması bekleniyor.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/960px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/500px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+        "genislik": 960,
+        "yukseklik": 1440,
+        "orijinalGenislik": 3333,
+        "yazar": "Bryan Berlin",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+        "aciklama": "Lionel Messi during Argentina v Egypt at the 2026 FIFA World Cup",
+        "konu": "Lionel Messi"
+      }
     },
     {
       "id": "2023-haber-2143093",
@@ -1206,10 +1279,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/kabinede-neler-gorusuldu-20-kasim-2023-kabine-kararlari-neler-2143093"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyeti Bakanlar Kurulu",
+        "Cumhurbaskanligi"
+      ],
       "yayin": "2023-11-20T19:42:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhurbaskanligi Kabine Toplantisi Gerceklestirildi",
+      "ozet": "Cumhurbaskanligi Külliyesinde düzenlenen Kabine Toplantisi tamamlandi. Toplantida ülke gündemindeki güncel meseleler ve hükümetin yürütmekte oldugu politikalar kapsamli bir sekilde ele alindi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-2004296",
@@ -1222,10 +1301,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasinin-faiz-karari-merakla-bekleniyor-2004296"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Faiz",
+        "Ekonomi"
+      ],
       "yayin": "2022-11-20T07:00:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Merkez Bankası faiz kararı için yılın on birinci toplantısını yapacak",
+      "ozet": "Türkiye Cumhuriyet Merkez Bankası yıl içerisindeki on birinci faiz belirleme toplantısını gerçekleştirmek üzere hazırlıklarını sürdürüyor. Söz konusu karar, piyasalardaki döviz ve altın yatırımcıları tarafından dikkatle izleniyor. Bankanın alacağı yeni faiz kararı ekonomi çevrelerinde beklentiyle karşılanıyor.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2021-haber-1886340",
@@ -1238,10 +1324,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/milli-karatecilerden-dunya-sampiyonasinda-tarihi-ucunculuk-1886340"
       },
-      "konular": [],
+      "konular": [
+        "Karate",
+        "Türkiye millî karate takımı"
+      ],
       "yayin": "2021-11-20T19:36:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Erkek Kata Milli Takımı Dünya Şampiyonası'nda Bronz Madalya Kazandı",
+      "ozet": "Birleşik Arap Emirlikleri'nde düzenlenen Dünya Karate Şampiyonası'nda Türkiye'yi temsil eden Erkek Kata Milli Takımı, üçüncülük kürsüsüne çıktı. Ali Sofuoğlu, Emre Vefa Göktaş ve Enes Özdemir'den kurulu ekip, bu kategoride Türkiye'ye tarihinde ilk kez madalya kazandırma başarısı gösterdi.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Karate_WC_Tampere_2006-2.jpg/960px-Karate_WC_Tampere_2006-2.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Karate_WC_Tampere_2006-2.jpg/500px-Karate_WC_Tampere_2006-2.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 3504,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Nagi BY SA",
+        "lisansUrl": "http://nagi.ee/lists/PhotoLicense/Attribution-ShareAlike",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Karate_WC_Tampere_2006-2.jpg",
+        "aciklama": null,
+        "konu": "Karate"
+      }
     },
     {
       "id": "2021-haber-1886186",
@@ -1254,10 +1359,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/abdde-19-trilyon-dolarlik-sosyal-harcama-paketi-temsilciler-meclisinden-gecti-1886186"
       },
-      "konular": [],
+      "konular": [
+        "Joe Biden",
+        "ABD Temsilciler Meclisi",
+        "Amerika Birleşik Devletleri"
+      ],
       "yayin": "2021-11-20T09:37:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "ABD Temsilciler Meclisi sosyal harcama paketini onayladı",
+      "ozet": "Amerika Birleşik Devletleri Temsilciler Meclisi, Başkan Joe Biden tarafından önerilen kapsamlı sosyal harcama tasarısını kabul etti. Muhalefet kanadının sert eleştirilerine rağmen meclis onayından geçen 1,9 trilyon dolarlık bütçe planı, bundan sonraki süreçte görüşülmek üzere Senato'ya gönderildi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/960px-Joe_Biden_presidential_portrait.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/500px-Joe_Biden_presidential_portrait.jpg",
+        "genislik": 960,
+        "yukseklik": 1200,
+        "orijinalGenislik": 2400,
+        "yazar": "Adam Schultz",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg",
+        "aciklama": "U.S. President Joe Biden's official portrait, 2021",
+        "konu": "Joe Biden"
+      }
     },
     {
       "id": "2020-haber-1792580",
