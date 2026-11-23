@@ -813,7 +813,7 @@
     },
     {
       "yil": 2018,
-      "metin": "Bob McNair, Amerikalı hayırsever iş insanı (d. 1937)"
+      "metin": "Bob McNair, Amerikalı hayırsever iş adamı (d. 1937)"
     },
     {
       "yil": 2018,
@@ -872,9 +872,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/23_Kas%C4%B1m",
-    "revid": 38204917
+    "revid": 38675092
   },
-  "guncelleme": "2026-11-22T14:15:38.732Z",
+  "guncelleme": "2026-11-23T17:37:25.500Z",
   "haberler": [
     {
       "id": "2025-haber-2455051",
@@ -889,14 +889,14 @@
       },
       "konular": [
         "Ömer Bolat",
-        "T.C. Ticaret Bakanlığı",
+        "Türkiye Cumhuriyeti Ticaret Bakanlığı",
         "Esnaf"
       ],
       "yayin": "2025-11-23T12:10:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Esnaf kredilerinde faiz indirimi yeni yılın başında başlayacak",
-      "ozet": "Ticaret Bakanı Ömer Bolat, esnaflara sağlanan Hazine destekli krediler için faiz oranlarında düzenlemeye gidileceğini duyurdu. Bakan Bolat, söz konusu indirim uygulamasının yeni yılın ilk günlerinden itibaren yürürlüğe gireceğini belirtti.",
+      "baslik": "Ticaret Bakanlığından Esnaf Kredilerinde Faiz Düzenlemesi",
+      "ozet": "Ticaret Bakanı Ömer Bolat, esnafların yararlandığı Hazine destekli kredilerde faiz oranlarının düşürüleceğini duyurdu. Söz konusu düzenlemenin yeni yılın başlangıcıyla birlikte uygulamaya konulması planlanıyor.",
       "kategori": "Ekonomi"
     },
     {
@@ -933,30 +933,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/erdogandan-ucmnin-netanyahu-kararina-destek-uygulanmasi-2271941"
       },
-      "konular": [
-        "Uluslararası Ceza Mahkemesi",
-        "Recep Tayyip Erdoğan",
-        "Binyamin Netanyahu"
-      ],
+      "konular": [],
       "yayin": "2024-11-23T16:10:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Cumhurbaşkanı Erdoğan'dan Uluslararası Ceza Mahkemesi Kararına Destek",
-      "ozet": "İstanbul'da yaptığı bir konuşmada Uluslararası Ceza Mahkemesi tarafından alınan kararı değerlendiren Cumhurbaşkanı Recep Tayyip Erdoğan, söz konusu kararın uygulanmasının zorunlu olduğunu belirtti. Erdoğan, Avrupa ülkelerine bu kararın hayata geçirilmesi noktasında sorumluluk almaları çağrısında bulundu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2272028",
@@ -969,16 +949,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/galatasaraydan-tarihi-rekor-12-haftada-34-puan-2272028"
       },
-      "konular": [
-        "Galatasaray (futbol takımı)",
-        "Süper Lig"
-      ],
+      "konular": [],
       "yayin": "2024-11-23T21:27:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Galatasaray ligin ilk 12 haftasında puan rekoru kırdı",
-      "ozet": "Galatasaray, Süper Lig'de geride kalan 12 haftalık süreçte topladığı 34 puanla dikkat çekici bir başarıya ulaştı. Sarı kırmızılı ekip, bu performansıyla lig tarihindeki en yüksek puan ortalamasını yakalayarak önemli bir rekora imza attı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2144104",
@@ -991,17 +965,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/merkezi-bankasi-faiz-karari-ne-oldu-tcmb-2023-kasim-ayi-faiz-karari-2144104"
       },
-      "konular": [
-        "Türkiye Cumhuriyet Merkez Bankası",
-        "Faiz",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2023-11-23T14:28:00+03:00",
       "puan": 14,
-      "durum": "elendi",
-      "baslik": "Türkiye Cumhuriyet Merkez Bankası Kasım Ayı Faiz Kararını Açıkladı",
-      "ozet": "Türkiye Cumhuriyet Merkez Bankası Para Politikası Kurulu kasım ayına ilişkin faiz kararını kamuoyuyla paylaştı. Banka tarafından gerçekleştirilen toplantı neticesinde belirlenen yeni faiz oranı resmi kanallar aracılığıyla duyuruldu. Ekonomi çevreleri tarafından yakından takip edilen bu karar süreci tamamlanarak sonuçlar ilan edildi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2144177",
@@ -1014,17 +981,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/faiz-kararinin-ardindan-bankada-parasi-olanlar-dikkat-mevduat-2144177"
       },
-      "konular": [
-        "Türkiye Cumhuriyet Merkez Bankası",
-        "Mevduat faizi",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2023-11-23T17:35:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Mevduat faiz oranlarında son yirmi yılın en yüksek seviyesi görüldü",
-      "ozet": "Türkiye Cumhuriyet Merkez Bankası tarafından paylaşılan güncel veriler, mevduat faizlerindeki artış eğilimini ortaya koydu. Kasım ayının üçüncü haftası itibarıyla üç aya kadar vadeli mevduat hesaplarında uygulanan ortalama faiz oranı yüzde 46,25 seviyesine ulaştı. Bu oran, son yirmi yıllık dönem içerisindeki en yüksek seviye olarak kayıtlara geçti.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-2005569",
@@ -1037,16 +997,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/polis-yuksek-ogretim-kanun-teklifi-tbmmden-gecerek-yasalasti-2005569"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Polis Akademisi"
-      ],
+      "konular": [],
       "yayin": "2022-11-23T23:15:00+03:00",
       "puan": 13,
-      "durum": "elendi",
-      "baslik": "Polis Yüksek Öğretim Kanunu Meclis Genel Kurulu'nda Kabul Edildi",
-      "ozet": "Polis Yüksek Öğretim Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, Türkiye Büyük Millet Meclisi Genel Kurulu'nda yapılan görüşmelerin ardından onaylandı. Söz konusu düzenleme, yasalaşma sürecini tamamlayarak yürürlüğe girdi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-2005329",
@@ -1059,30 +1013,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-duzce-depremi-sonrasi-bakan-koca-yarali-sayisini-acikladi-2005329"
       },
-      "konular": [
-        "2022 Düzce depremi",
-        "Gölyaka",
-        "Düzce"
-      ],
+      "konular": [],
       "yayin": "2022-11-23T05:29:00+03:00",
       "puan": 13,
-      "durum": "yazildi",
-      "baslik": "Düzce merkezli depremin ardından yaralı sayısı hakkında açıklama yapıldı",
-      "ozet": "Düzce'nin Gölyaka ilçesinde sabahın erken saatlerinde meydana gelen 5.9 büyüklüğündeki sarsıntının ardından bölgedeki durum değerlendirildi. Belediye Başkanı Faruk Özlü, ilk belirlemelere göre herhangi bir can kaybı veya yaralanma bilgisi bulunmadığını ifade etti. Sağlık Bakanı Fahrettin Koca da deprem sonrası yaşanan gelişmeleri sosyal medya üzerinden kamuoyuyla paylaştı.",
-      "kategori": "Afet",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/D%C3%BCzce%2C_P%C3%BCrenni_Yaylas%C4%B1_Yolu_-_panoramio.jpg/960px-D%C3%BCzce%2C_P%C3%BCrenni_Yaylas%C4%B1_Yolu_-_panoramio.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/D%C3%BCzce%2C_P%C3%BCrenni_Yaylas%C4%B1_Yolu_-_panoramio.jpg/500px-D%C3%BCzce%2C_P%C3%BCrenni_Yaylas%C4%B1_Yolu_-_panoramio.jpg",
-        "genislik": 960,
-        "yukseklik": 614,
-        "orijinalGenislik": 1088,
-        "yazar": "Halit Edip Özcan",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:D%C3%BCzce,_P%C3%BCrenni_Yaylas%C4%B1_Yolu_-_panoramio.jpg",
-        "aciklama": "Düzce, Pürenni Yaylası Yolu",
-        "konu": "Gölyaka"
-      }
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1886982",
@@ -1095,17 +1029,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/piyasalarda-son-durum-1-dolar-13-lirayi-da-asti-art-arda-rekorlar-23-kasim-2021-1886982"
       },
-      "konular": [
-        "Türk lirası",
-        "Döviz kuru",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2021-11-23T15:35:00+03:00",
       "puan": 14,
-      "durum": "elendi",
-      "baslik": "Döviz kurlarında hızlı yükseliş ve yeni rekor seviyeler",
-      "ozet": "Türk Lirası karşısında döviz kurları yukarı yönlü hareketini sürdürdü. Doların değeri 13 lira seviyesini geçerken, Euro ise 15 liranın üzerine çıkarak piyasalarda yeni bir zirveye ulaştı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1886994",
@@ -1118,16 +1045,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika--altinda-tum-zamanlarin-rekoru-kirildi-23-kasim-2021-1886994"
       },
-      "konular": [
-        "Altın",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2021-11-23T15:35:00+03:00",
       "puan": 14,
-      "durum": "elendi",
-      "baslik": "Altın fiyatlarında tüm zamanların en yüksek seviyesi görüldü",
-      "ozet": "Altının gram değeri piyasalarda güne yukarı yönlü bir seyirle giriş yaptı. Yaşanan bu artış eğilimi sonucunda altın fiyatları tarihsel olarak ulaştığı en yüksek seviyeyi kaydetti.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1793133",
@@ -1140,30 +1061,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/izmirde-190-bin-binada-deprem-taramasi-tamamlandi-1793133"
       },
-      "konular": [
-        "2020 Ege Denizi depremi",
-        "İzmir",
-        "Çevre ve Şehircilik Bakanlığı"
-      ],
+      "konular": [],
       "yayin": "2020-11-23T11:32:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "İzmir genelindeki binalarda hasar tespit çalışmaları sona erdi",
-      "ozet": "Çevre ve Şehircilik Bakanlığı yetkilileri, kentte yaşanan sarsıntının ardından yürütülen incelemelerin tamamlandığını duyurdu. Yirmi üç ilçeyi kapsayan süreçte yüz doksan binin üzerinde yapı ve dokuz yüz bin bağımsız bölüm kontrol edildi. Yapılan teknik değerlendirmelerle binaların mevcut durumları kayıt altına alındı.",
-      "kategori": "Afet",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg/960px-2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg/500px-2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 2592,
-        "yazar": "Oğulcan Bakiler (VOA)",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:2020_Aegean_Sea_earthquake_search_and_rescue_efforts_2.jpg",
-        "aciklama": "search and rescue efforts due of 2020 Aegean Sea earthquake",
-        "konu": "2020 Ege Denizi depremi"
-      }
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1793140",
@@ -1176,18 +1077,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bakanlik-karar-degistirdi-32-bin-okul-acildi-1793140"
       },
-      "konular": [
-        "COVID-19 pandemisi",
-        "Milli Eğitim Bakanlığı",
-        "Türkiye"
-      ],
+      "konular": [],
       "yayin": "2020-11-23T11:53:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Milli Eğitim Bakanlığı okul öncesi eğitim kurumlarını yeniden açtı",
-      "ozet": "Milli Eğitim Bakanlığı, daha önce yüz yüze eğitime ara verilen okulların, çalışan ebeveynlerin çocukları için tekrar hizmet vermeye başlamasını kararlaştırdı. Bu düzenleme kapsamında ülke genelinde otuz iki bin okul kapılarını açtı. Salgın sürecindeki vaka artışlarına rağmen bir milyonu aşkın öğrenci ve yaklaşık yüz bin öğretmen sabah saatlerinde ders başı yapmak üzere okullara gitti.",
-      "kategori": "Toplum",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1703879",
@@ -1200,17 +1093,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlarin-sampiyonasi-kemerde-basladi-1703879"
       },
-      "konular": [
-        "Türkiye Satranç Şampiyonası",
-        "Kemer",
-        "Satranç"
-      ],
+      "konular": [],
       "yayin": "2019-11-23T17:48:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Türkiye Satranç Şampiyonası Kemer'de Düzenlenmeye Başlandı",
-      "ozet": "Antalya'nın Kemer ilçesi, Türkiye Satranç Şampiyonası'na ev sahipliği yapmaya başladı. Ülke genelinden gelen sporcuların katılımıyla gerçekleştirilen turnuva, satranç camiası için önemli bir rekabet ortamı oluşturdu. Şampiyona kapsamında düzenlenen müsabakalarla katılımcılar dereceye girmek için hamlelerini yaptı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1703801",
@@ -1223,17 +1109,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/mavericks-doncicin-rekor-kirdigi-macta-cavaliersi-yendi-1703801"
       },
-      "konular": [
-        "Luka Doncic",
-        "Dallas Mavericks",
-        "NBA"
-      ],
+      "konular": [],
       "yayin": "2019-11-23T11:04:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Luka Doncic rekor kırdığı maçta Mavericks galibiyetine öncülük etti",
-      "ozet": "Amerikan Basketbol Ligi mücadelesinde Dallas Mavericks, sahasında ağırladığı Cleveland Cavaliers karşısında farklı bir galibiyet elde etti. Karşılaşma boyunca sergilediği performansla dikkat çeken Luka Doncic, yeni bir rekora imza atarak takımının 143-101 skorla maçı kazanmasında önemli rol oynadı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1149673",
@@ -1246,17 +1125,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/zeynep-nur-eski-avrupa-sampiyonu-1149673"
       },
-      "konular": [
-        "Muay Thai",
-        "Zeynep Nur Eski",
-        "Antalya"
-      ],
+      "konular": [],
       "yayin": "2018-11-23T18:26:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Zeynep Nur Eski Muay Thai Avrupa Şampiyonu Oldu",
-      "ozet": "Antalya ev sahipliğinde gerçekleştirilen EMF Muay Thai Avrupa Kupası müsabakaları tamamlandı. Organizasyonda milli sporcu Zeynep Nur Eski, rakiplerini geride bırakarak altın madalyanın sahibi oldu ve Avrupa şampiyonluğuna ulaştı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1149468",
@@ -1269,16 +1141,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/galatasarayda-sedat-incesu-istifasini-geri-cekti-1149468"
       },
-      "konular": [
-        "Galatasaray (tekerlekli sandalye basketbol takımı)",
-        "Sedat İncesu"
-      ],
+      "konular": [],
       "yayin": "2018-11-23T16:15:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Galatasaray Tekerlekli Sandalye Basketbol Takımında İstifa Kararı Değişti",
-      "ozet": "Galatasaray Tekerlekli Sandalye Basketbol Takımı Başantrenörü Sedat İncesu, görevinden ayrılma kararını geri çektiğini duyurdu. Bir gün önce sosyal medya hesabı üzerinden istifasını kamuoyuna açıklayan İncesu, bu kararından vazgeçerek görevine devam edeceğini belirtti.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-872133",
@@ -1291,30 +1157,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/selvi-sarraf-itirafci-oldu-davanin-bir-numarali-hedefi-erdogan-872133"
       },
-      "konular": [
-        "Reza Zarrab",
-        "Recep Tayyip Erdoğan",
-        "Türkiye-Amerika Birleşik Devletleri ilişkileri"
-      ],
+      "konular": [],
       "yayin": "2017-11-23T14:29:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Rıza Sarraf davasının arka planına dair yeni iddialar gündeme geldi",
-      "ozet": "Gazeteci Abdulkadir Selvi, Rıza Sarraf ile ilgili yürütülen hukuki sürece dair değerlendirmelerde bulundu. Sarrafın itirafçı konumuna geçtiğini belirten Selvi, davanın temel amacının Cumhurbaşkanı Recep Tayyip Erdoğanı hedef almak olduğunu öne sürdü.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2017-haber-872507",
@@ -1327,30 +1173,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akkuyu-davasi-basladi-ced-ve-bilirkisi-bilimsel-degil-872507"
       },
-      "konular": [
-        "Akkuyu Nükleer Güç Santrali",
-        "Çevresel Etki Değerlendirmesi",
-        "Danıştay"
-      ],
+      "konular": [],
       "yayin": "2017-11-23T23:19:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "Akkuyu Nükleer Güç Santrali ile İlgili ÇED Raporu Davası Görülmeye Başlandı",
-      "ozet": "Akkuyu Nükleer Santrali projesi için verilen ÇED olumlu kararının iptal edilmesi talebiyle açılan davada ilk duruşma Danıştay 14. Dairesi tarafından gerçekleştirildi. Dava sürecinde söz alan avukat Sevim Küçük, proje için hazırlanan ÇED raporunun ve bilirkişi incelemelerinin bilimsel temelden yoksun olduğunu iddia ederek raporun iptalini istedi. Mahkeme heyeti tarafların beyanlarını dinleyerek süreci başlattı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Model_of_the_Akkuyu_Nuclear_Power_Plant.jpg/960px-Model_of_the_Akkuyu_Nuclear_Power_Plant.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Model_of_the_Akkuyu_Nuclear_Power_Plant.jpg/500px-Model_of_the_Akkuyu_Nuclear_Power_Plant.jpg",
-        "genislik": 960,
-        "yukseklik": 639,
-        "orijinalGenislik": 1118,
-        "yazar": "Akkuyu Nükleer A.Ş. (VOA)",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Model_of_the_Akkuyu_Nuclear_Power_Plant.jpg",
-        "aciklama": "A model of the Akkuyu Nuclear Power Plant in Mersin, Turkey",
-        "konu": "Akkuyu Nükleer Güç Santrali"
-      }
+      "durum": "haber"
     },
     {
       "id": "2016-haber-634634",
@@ -1363,17 +1189,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/desibel-rekorunun-sahibi-besiktas-bu-kez-sessizlik-rekoru-kiracak-634634"
       },
-      "konular": [
-        "Beşiktaş (futbol takımı)",
-        "UEFA Şampiyonlar Ligi",
-        "Vodafone Park"
-      ],
+      "konular": [],
       "yayin": "2016-11-23T11:18:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Beşiktaş taraftarı Vodafone Arena'da sessizlik rekoru denemesi yapacak",
-      "ozet": "Beşiktaş taraftarları, UEFA Şampiyonlar Ligi kapsamında Benfica ile oynanacak müsabakada farklı bir etkinliğe imza attı. Daha önce yüksek ses seviyesiyle dikkat çeken taraftar grubu, bu kez stadyumda sessizlik rekoru kırmak amacıyla bir araya geldi. Söz konusu girişim, kulübün ev sahipliği yaptığı karşılaşma sırasında gerçekleştirildi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-634514",
@@ -1386,30 +1205,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-15-dakika-konustu-dolar-firladi-634514"
       },
-      "konular": [
-        "Borsa İstanbul",
-        "Recep Tayyip Erdoğan",
-        "Döviz kuru"
-      ],
+      "konular": [],
       "yayin": "2016-11-23T09:21:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Borsa İstanbul'daki konuşmanın ardından döviz kurlarında yükseliş yaşandı",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Borsa İstanbul'da düzenlenen gong törenine katılarak bir konuşma gerçekleştirdi. Yaklaşık on beş dakika süren bu hitabın hemen ardından döviz piyasalarında hareketlilik gözlendi ve dolar kuru değer kazanarak rekor seviyeye ulaştı.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Istanbul-stock.jpg/960px-Istanbul-stock.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Istanbul-stock.jpg/500px-Istanbul-stock.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 3456,
-        "yazar": "Thomas Steiner",
-        "lisans": "CC BY-SA 2.5",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Istanbul-stock.jpg",
-        "aciklama": "Istanbul Stock Exchange",
-        "konu": "Borsa İstanbul"
-      }
+      "durum": "haber"
     },
     {
       "id": "2015-haber-428649",
@@ -1422,30 +1221,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/financial-times-avrupa-birligi-erdogana-boyun-egiyor-428649"
       },
-      "konular": [
-        "Avrupa Birliği",
-        "Recep Tayyip Erdoğan",
-        "Avrupa göçmen krizi"
-      ],
+      "konular": [],
       "yayin": "2015-11-23T10:12:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "Avrupa Birliği ile Türkiye Arasındaki Göçmen Mutabakatı Değerlendirildi",
-      "ozet": "İngiliz basınında yer alan bir analizde Avrupa Birliği ülkelerinin göçmen meselesine çözüm bulma çabaları ele alındı. Yazıda birliğin bu süreçte Cumhurbaşkanı Recep Tayyip Erdoğan ile yürüttüğü diplomasiye dair çeşitli değerlendirmelere yer verildi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2013-haber-12383",
@@ -1458,16 +1237,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/2014-butcesi-komisyonda-kabul-edildi-12383"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Bütçe"
-      ],
+      "konular": [],
       "yayin": "2013-11-23T11:36:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "2014 Merkezi Yönetim Bütçe Tasarısı Komisyondan Geçti",
-      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, gelecek yılın mali planlamasını içeren bütçe kanun tasarısını görüşerek onayladı. Yapılan değerlendirmelerin ardından kabul edilen tasarı, devletin bir sonraki yıl için öngördüğü harcama ve gelir kalemlerini kapsıyor.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2013-haber-12367",
@@ -1480,18 +1253,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/luks-harcama-tartismasi-bakan-istifa-ettirdi-12367"
       },
-      "konular": [
-        "Christian Friis Bach",
-        "Danimarka",
-        "Global Green Growth Institute"
-      ],
+      "konular": [],
       "yayin": "2013-11-23T10:32:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "Danimarka Dış Yardım Bakanı görevinden ayrıldı",
-      "ozet": "Danimarka Dış Yardım Bakanı Christian Friis Bach, Global Green Growth Institute bünyesinde gerçekleşen yüksek tutarlı harcamaların yarattığı tartışmaların ardından istifa kararı aldı. Güney Kore merkezli kuruluşun mali yönetimiyle ilgili ortaya çıkan iddialar, bakanın görevini bırakmasına yol açtı.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2012-haber-385488",
@@ -1504,17 +1269,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/abnin-butce-zirvesi-anlasmazlikla-sonuclandi-385488"
       },
-      "konular": [
-        "Avrupa Birligi bütçesi",
-        "Avrupa Birligi"
-      ],
+      "konular": [],
       "yayin": "2012-11-23T17:36:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Avrupa Birligi bütçe zirvesinde uzlaşma sağlanamadı",
-      "ozet": "Avrupa Birligi üyesi ülkelerin devlet ve hükümet başkanları, uzun vadeli bütçe planlamasını görüşmek üzere bir araya geldi. İki gün boyunca devam eden yoğun müzakereler sonucunda taraflar ortak bir noktada buluşamadı ve zirve herhangi bir anlaşma imzalanmadan sona erdi.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2011-haber-300012",
@@ -1527,17 +1285,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/eksi-sozluke-savas-acildi-300012"
       },
-      "konular": [
-        "Ekşi Sözlük",
-        "Mehmet Baransu",
-        "İnternet sansürü"
-      ],
+      "konular": [],
       "yayin": "2011-11-23T07:47:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Ekşi Sözlük Hakkında Kapatma Kampanyası Başlatıldı",
-      "ozet": "Taraf gazetesi yazarı Mehmet Baransu, sosyal medya platformu Twitter üzerinden Ekşi Sözlük'e yönelik bir kampanya başlattı. Söz konusu platformun dini değerlere hakaret içerdiğini ve kutsal kavramlara karşı saldırgan bir tutum sergilediğini öne süren Baransu, sitenin erişime kapatılması gerektiğini savundu.",
-      "kategori": "Toplum"
+      "durum": "haber"
     },
     {
       "id": "2011-haber-300202",
@@ -1550,16 +1301,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/asik-veyselin-torunu-hayatini-kaybetti-300202"
       },
-      "konular": [
-        "Aşık Veysel",
-        "Şarkışla"
-      ],
+      "konular": [],
       "yayin": "2011-11-23T19:36:00+03:00",
       "puan": 6,
-      "durum": "elendi",
-      "baslik": "Aşık Veysel'in torunu Cemal Şatıroğlu vefat etti",
-      "ozet": "Ünlü halk ozanı Aşık Veysel Şatıroğlu'nun torunu olan Cemal Şatıroğlu, Sivas'ın Şarkışla ilçesinde hayata gözlerini yumdu. Kırk iki yaşındaki Şatıroğlu'nun ani bir kalp krizi neticesinde yaşamını yitirdiği bildirildi.",
-      "kategori": "Toplum"
+      "durum": "haber"
     }
   ],
   "haberYillari": [

@@ -1184,7 +1184,7 @@
     "url": "https://tr.wikipedia.org/wiki/30_Kas%C4%B1m",
     "revid": 36735734
   },
-  "guncelleme": "2026-11-22T14:15:41.408Z",
+  "guncelleme": "2026-11-23T17:37:28.830Z",
   "haberler": [
     {
       "id": "2025-haber-2457241",
@@ -1197,17 +1197,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/canakkale-de-heyelan-kapanan-yol-ulasima-acildi-2457241"
       },
-      "konular": [
-        "Heyelan",
-        "Ayvacık",
-        "Çanakkale"
-      ],
+      "konular": [],
       "yayin": "2025-11-30T17:10:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Çanakkale Ayvacık'ta heyelan sonrası kapanan yol trafiğe açıldı",
-      "ozet": "Çanakkale'nin Ayvacık ilçesinde etkili olan şiddetli yağışlar toprak kaymasına yol açtı. Bu doğa olayı nedeniyle Sazlı köyü sahil yolu bir süreliğine araç geçişlerine kapatıldı. Ekiplerin bölgede yürüttüğü çalışmaların ardından yol tekrar ulaşıma uygun hale getirildi.",
-      "kategori": "Ulaşım"
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2457165",
@@ -1220,16 +1213,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/dikmen-halk-temsilcileri-meclisi-kuruldu-2457165"
       },
-      "konular": [
-        "Dikmen",
-        "Ankara"
-      ],
+      "konular": [],
       "yayin": "2025-11-30T12:30:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Dikmen Halk Temsilcileri Meclisi faaliyetlerine başladı",
-      "ozet": "Dikmen Halk Temsilcileri Meclisi, cumhuriyet değerlerini korumak ve halk odaklı bir yönetim anlayışını benimsemek amacıyla kuruldu. THTM bünyesinde yer alan bu yeni oluşum, toplumsal düzeni savunmak için çalışmalarına resmen adım attı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2274304",
@@ -1242,17 +1229,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/tbmm-plan-ve-butce-komisyonunda-kilicdaroglu-tartismasi-2274304"
       },
-      "konular": [
-        "TBMM Plan ve Bütçe Komisyonu",
-        "Yılmaz Tunç",
-        "Sibel Suiçmez"
-      ],
+      "konular": [],
       "yayin": "2024-11-30T04:00:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "TBMM Plan ve Bütçe Komisyonu Görüşmelerinde Kılıçdaroğlu Tartışması",
-      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu toplantısında Adalet Bakanı Yılmaz Tunç ile muhalefet milletvekilleri arasında gergin anlar yaşandı. Görüşmeler sırasında söz alan Cumhuriyet Halk Partisi Trabzon Milletvekili Sibel Suiçmez, Bakan Tunç'a yönelik eleştirilerde bulundu. Suiçmez, Bakan Tunç'tan yapılan işlemlerde hata payı olduğunu kabul etmesini ve bu durumu açıkça ifade etmesini talep etti.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2274554",
@@ -1265,16 +1245,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/erdogandan-depremzede-kadina-iki-cocuk-yetmez-2274554"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Türkiye"
-      ],
+      "konular": [],
       "yayin": "2024-11-30T22:33:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Cumhurbaşkanı Erdoğan'ın depremzede bir vatandaşla diyaloğu",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, deprem bölgesinde bir kadınla sohbet etti. Kadının iki çocuğu olduğunu belirtmesi üzerine Erdoğan, çocuk sayısının artırılması yönünde tavsiyede bulundu. Bu diyalog kamuoyunda geniş yer buldu.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2146636",
@@ -1287,30 +1261,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasi-rezervleri-rekor-seviyede-2146636"
       },
-      "konular": [
-        "Türkiye Cumhuriyet Merkez Bankası",
-        "Döviz rezervi",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2023-11-30T14:49:00+03:00",
       "puan": 14,
-      "durum": "yazildi",
-      "baslik": "Türkiye Cumhuriyet Merkez Bankası rezervlerinde tarihi zirve",
-      "ozet": "Merkez Bankası toplam rezervleri, Kasım ayının son haftasında önemli bir yükseliş kaydetti. Bir önceki haftaya kıyasla iki milyar doları aşkın artış gösteren rezerv miktarı, toplamda 136 milyar doların üzerine çıkarak kurum tarihinin en yüksek seviyesine ulaştı.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG/960px-TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG/500px-TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
-        "genislik": 960,
-        "yukseklik": 1280,
-        "orijinalGenislik": 2448,
-        "yazar": "Vikiçizer",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:TC_Merkez_Bankas%C4%B1_%C3%B6n.JPG",
-        "aciklama": "TC Merkez Bankası ön cephe",
-        "konu": "Türkiye Cumhuriyet Merkez Bankası"
-      }
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2146444",
@@ -1323,16 +1277,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/tarihi-zirve-dolar-29a-avro-32ye-kosuyor-dolar-ve-avro-ne-kadar-2146444"
       },
-      "konular": [
-        "Döviz kuru",
-        "Türkiye ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2023-11-30T09:19:00+03:00",
       "puan": 11,
-      "durum": "elendi",
-      "baslik": "Döviz kurlarında yeni zirve seviyeleri görüldü",
-      "ozet": "Dolar ve avro piyasalarda yukarı yönlü hareketini sürdürerek rekor tazeledi. Dolar kuru 28.95 seviyesine ulaşırken avro da 32 lira sınırına yaklaştı. Yaklaşık üç aydır devam eden kademeli artış eğilimi bu günle birlikte yeni bir noktaya taşınmış oldu.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-2007775",
@@ -1345,30 +1293,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-tutunle-ilgili-kanun-teklifi-tbmm-genel-kurulunda-kabul-edilerek-yasalasti-2007775"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Tütün",
-        "Alkol"
-      ],
+      "konular": [],
       "yayin": "2022-11-30T20:12:00+03:00",
       "puan": 13,
-      "durum": "yazildi",
-      "baslik": "Tütün ve Alkol Piyasasını Düzenleyen Yeni Yasal Düzenleme Kabul Edildi",
-      "ozet": "Tütün mamulleri ile alkol piyasasının işleyişine dair esasları içeren kanun teklifi, Türkiye Büyük Millet Meclisi Genel Kurulu'nda yapılan görüşmelerin ardından onaylanarak yürürlüğe girdi. Söz konusu düzenleme, mevcut kanunlarda birtakım değişiklikler yapılmasını öngören maddeleri kapsıyor. Meclis çatısı altında gerçekleştirilen oylama süreciyle birlikte ilgili yasal metin resmen yasalaşmış oldu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/DunhillEarlyMorningPipeMurrays.jpg/960px-DunhillEarlyMorningPipeMurrays.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/DunhillEarlyMorningPipeMurrays.jpg/500px-DunhillEarlyMorningPipeMurrays.jpg",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 2592,
-        "yazar": "Sjschen (Sjschen)",
-        "lisans": "CC BY 2.5",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.5",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:DunhillEarlyMorningPipeMurrays.jpg",
-        "aciklama": "Dunhill Early Morning Pipe Tobacco, 1990's Murray",
-        "konu": "Tütün"
-      }
+      "durum": "haber"
     },
     {
       "id": "2022-haber-2007704",
@@ -1381,17 +1309,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-chp-lideri-kilicdaroglunun-da-oldugu-69-dokunulmazlik-dosyasi-meclise-ulasti-2007704"
       },
-      "konular": [
-        "Kemal Kılıçdaroğlu",
-        "Türkiye Büyük Millet Meclisi",
-        "Yasama dokunulmazlığı"
-      ],
+      "konular": [],
       "yayin": "2022-11-30T16:34:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "TBMM'ye 69 yeni dokunulmazlık dosyası gönderildi",
-      "ozet": "Türkiye Büyük Millet Meclisi'ne aralarında Kemal Kılıçdaroğlu, Ali Mahir Başarır ve Mithat Sancar'ın da bulunduğu isimlere ait 69 adet dokunulmazlık dosyası ulaştı. Söz konusu dosyalar, ilgili milletvekillerinin yasama dokunulmazlıklarının kaldırılması talebiyle meclis gündemine taşındı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1889102",
@@ -1404,30 +1325,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakikaerdogan-konustu-dolardan-tarihi-zirve-1889102"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Türk lirası",
-        "Türkiye ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2021-11-30T23:06:00+03:00",
       "puan": 16,
-      "durum": "yazildi",
-      "baslik": "Cumhurbaşkanı Erdoğan'ın Faiz Açıklaması Sonrası Dolar Yükselişe Geçti",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, katıldığı bir yayında faiz oranlarını düşürme yönündeki kararlılığını ifade etti. Bu açıklamaların kamuoyuna yansımasının ardından döviz piyasalarında hareketlilik yaşandı. Dolar kuru, söz konusu beyanların etkisiyle değer kazanarak 13,82 seviyesine kadar yükseldi.",
-      "kategori": "Ekonomi",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1889099",
@@ -1456,16 +1357,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/besiktasin-derbilerde-yuzu-daha-cok-gulmeye-basladi-1794980"
       },
-      "konular": [
-        "Beşiktaş JK",
-        "Süper Lig"
-      ],
+      "konular": [],
       "yayin": "2020-11-30T11:05:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Beşiktaş derbi maçlarındaki performansını yükseltti",
-      "ozet": "Beşiktaş, 2014-2015 sezonunda Fenerbahçe ve Galatasaray ile oynadığı dört karşılaşmadan da mağlubiyetle ayrılmıştı. Siyah beyazlı ekip, bu dönemin ardından çıktığı son altı sezondaki yirmi beş derbi mücadelesinin on sekizinde rakiplerine yenilmedi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1795116",
@@ -1478,30 +1373,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-ligi-tarihinde-ilk-kez-kadin-hakem-duduk-calacak-1795116"
       },
-      "konular": [
-        "Stephanie Frappart",
-        "UEFA Şampiyonlar Ligi",
-        "Futbol"
-      ],
+      "konular": [],
       "yayin": "2020-11-30T20:49:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Şampiyonlar Ligi maçında ilk kez kadın hakem görev alacak",
-      "ozet": "UEFA Şampiyonlar Ligi G Grubu mücadelesinde Juventus ile Dinamo Kiev karşı karşıya geldi. Bu önemli karşılaşmayı yönetmek üzere Fransız hakem Stephanie Frappart atandı. Böylece turnuva tarihinde ilk defa bir kadın hakem görev yapmış oldu.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/960px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/500px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
-        "genislik": 960,
-        "yukseklik": 653,
-        "orijinalGenislik": 3420,
-        "yazar": "Rick Dikeman",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1995.jpg",
-        "aciklama": "Association football (soccer), Bloomington, Indiana. The offensive player (in red) is Chris Klein of the Indiana Hoosiers. He has sprinted past two defenders (in white) and is about to shoot the ball ",
-        "konu": "Futbol"
-      }
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1705254",
@@ -1514,30 +1389,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/irakta-protestolarin-hedefindeki-basbakan-abdulmehdi-istifa-karari-aldi-1705254"
       },
-      "konular": [
-        "Adil Abdülmehdi",
-        "Irak protestoları (2019-2021)",
-        "Irak"
-      ],
+      "konular": [],
       "yayin": "2019-11-30T02:00:00+03:00",
       "puan": 14,
-      "durum": "yazildi",
-      "baslik": "Irak Başbakanı Adil Abdülmehdi görevinden ayrılma kararı verdi",
-      "ozet": "Ülkede iki aydır devam eden yoğun protestoların ardından Başbakan Adil Abdülmehdi istifa edeceğini duyurdu. Gösteriler sırasında hayatını kaybedenlerin sayısının dört yüzü aştığı belirtilirken, yaşanan siyasi belirsizlik nedeniyle gözler parlamentonun atacağı adımlara çevrildi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Adil_Abdul-Mahdi_portrait.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Adil_Abdul-Mahdi_portrait.jpg",
-        "genislik": 455,
-        "yukseklik": 528,
-        "orijinalGenislik": 455,
-        "yazar": "LaGrandeOurs",
-        "lisans": "CC BY 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Adil_Abdul-Mahdi_portrait.jpg",
-        "aciklama": "Adil Abdul-Mahdi",
-        "konu": "Adil Abdülmehdi"
-      }
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1705442",
@@ -1550,29 +1405,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/irak-basbakani-istifasini-sundu-1705442"
       },
-      "konular": [
-        "Adil Abdülmehdi",
-        "Irak"
-      ],
+      "konular": [],
       "yayin": "2019-11-30T20:18:00+03:00",
       "puan": 13,
-      "durum": "yazildi",
-      "baslik": "Irak Başbakanı Adil Abdülmehdi görevinden ayrılma kararı aldı",
-      "ozet": "Irak Başbakanı Adil Abdülmehdi, ülkede iki aydır devam eden hükümet karşıtı gösterilerin ardından istifa dilekçesini meclise iletti. Uzun süredir devam eden toplumsal huzursuzluk ve protestolar sonucunda alınan bu karar, meclis yönetimine resmen sunuldu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Adil_Abdul-Mahdi_portrait.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Adil_Abdul-Mahdi_portrait.jpg",
-        "genislik": 455,
-        "yukseklik": 528,
-        "orijinalGenislik": 455,
-        "yazar": "LaGrandeOurs",
-        "lisans": "CC BY 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Adil_Abdul-Mahdi_portrait.jpg",
-        "aciklama": "Adil Abdul-Mahdi",
-        "konu": "Adil Abdülmehdi"
-      }
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1156430",
@@ -1585,17 +1421,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/mustafa-denizliden-sampiyonluk-kehaneti-1156430"
       },
-      "konular": [
-        "Mustafa Denizli",
-        "Kasımpaşa SK",
-        "Süper Lig"
-      ],
+      "konular": [],
       "yayin": "2018-11-30T15:29:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Mustafa Denizli ligin gidişatını ve şampiyonluk yarışını değerlendirdi",
-      "ozet": "Kasımpaşa teknik direktörü Mustafa Denizli, Süper Lig'in on dördüncü haftasında oynanacak Fenerbahçe mücadelesi öncesinde basın mensuplarının sorularını yanıtladı. Deneyimli çalıştırıcı, ligdeki şampiyonluk mücadelesine dair dikkat çeken öngörülerini ve değerlendirmelerini kamuoyuyla paylaştı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1156654",
@@ -1608,30 +1437,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/g-20-zirvesi-basladi-1156654"
       },
-      "konular": [
-        "G20",
-        "Muhammed bin Selman",
-        "Cemal Kaşıkçı"
-      ],
+      "konular": [],
       "yayin": "2018-11-30T18:20:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Arjantin ev sahipliğinde G-20 Liderler Zirvesi toplandı",
-      "ozet": "Buenos Aires kentinde düzenlenen G-20 Zirvesi resmi oturumlarla başladı. Toplantı sırasında Suudi gazeteci Cemal Kaşıkçı cinayetinin azmettiricisi olduğu öne sürülen Prens Muhammed bin Selman'ın varlığı uluslararası kamuoyunun dikkatini çekti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Family_photo_G20_Italy_2021.jpg/960px-Family_photo_G20_Italy_2021.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Family_photo_G20_Italy_2021.jpg/500px-Family_photo_G20_Italy_2021.jpg",
-        "genislik": 960,
-        "yukseklik": 640,
-        "orijinalGenislik": 6720,
-        "yazar": "Government of Brazil - Planalto Palace",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Family_photo_G20_Italy_2021.jpg",
-        "aciklama": "(Roma - Itália, 30/10/2021) Fotografia Oficial com os Chefes de Delegação do G20.Foto: Alan Santos/PR",
-        "konu": "G20"
-      }
+      "durum": "haber"
     },
     {
       "id": "2016-haber-638406",
@@ -1644,17 +1453,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-keske-binali-yildirimi-basbakan-yapmasaydim-diyor-kararlari-berat-albayrak-veriyor-638406"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Binali Yıldırım",
-        "Berat Albayrak"
-      ],
+      "konular": [],
       "yayin": "2016-11-30T21:01:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Ahmet Takan'dan Cumhurbaşkanı Erdoğan ve Binali Yıldırım Hakkında İddia",
-      "ozet": "Gazeteci Ahmet Takan, kaleme aldığı yazısında Cumhurbaşkanı Recep Tayyip Erdoğan'ın Binali Yıldırım'ı başbakanlık görevine getirdiği için pişmanlık duyduğunu iddia etti. Takan ayrıca devlet yönetimindeki kararların Berat Albayrak tarafından alındığını öne sürdü.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-638165",
@@ -1667,18 +1469,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpli-fikri-saglar-aladagdaki-yurt-faciasini-meclise-tasidi-gulen-cemaatine-ne-istedilerse-verdiniz-hala-mi-akillanmadiniz-638165"
       },
-      "konular": [
-        "2016 Aladağ yurt yangını",
-        "Fikri Sağlar",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2016-11-30T14:03:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Aladağ'daki yurt yangını Türkiye Büyük Millet Meclisi gündemine taşındı",
-      "ozet": "Adana'nın Aladağ ilçesinde bir öğrenci yurdunda meydana gelen yangın olayı, Cumhuriyet Halk Partisi milletvekili Fikri Sağlar tarafından meclis gündemine getirildi. Sağlar, konuyla ilgili hazırladığı soru önergesiyle yaşanan felaketin sorumlularının belirlenmesini ve denetim süreçlerinin sorgulanmasını talep etti. Söz konusu yurt binasında yaşanan yangın faciası, kamuoyunda geniş yankı uyandırarak eğitim kurumlarındaki güvenlik standartlarının tartışılmasına yol açtı.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2015-haber-437791",
@@ -1691,17 +1485,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yunanistan-derbisinde-fatura-agir-oldu-3-puan-silme-4-mac-seyircisiz-437791"
       },
-      "konular": [
-        "Panathinaikos",
-        "Olympiakos",
-        "Yunanistan Süper Ligi"
-      ],
+      "konular": [],
       "yayin": "2015-11-30T23:06:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Panathinaikos Kulübüne Atina Derbisindeki Olaylar Nedeniyle Ağır Ceza",
-      "ozet": "Yunanistan Süper Lig Disiplin Komitesi, Olympiakos mücadelesi öncesinde yaşanan taraftar olayları nedeniyle Panathinaikos hakkında kararını verdi. Söz konusu müsabakanın gerçekleşmesini engelleyen taraftar taşkınlıkları sebebiyle kulübün üç puanı silindi. Ayrıca takımın dört karşılaşmasını seyircisiz oynamasına ve 190 bin Euro tutarında para cezası ödemesine hükmedildi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2015-haber-437745",
@@ -1714,29 +1501,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogana-isid-sorusu-sonrasi-rus-muhabire-mudahale-437745"
       },
-      "konular": [
-        "Birleşmiş Milletler İklim Değişikliği Konferansı",
-        "Recep Tayyip Erdoğan"
-      ],
+      "konular": [],
       "yayin": "2015-11-30T21:46:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Paris İklim Zirvesinde Rus Gazetecinin Sorusuna Müdahale",
-      "ozet": "Fransa'da düzenlenen Birleşmiş Milletler İklim Değişikliği Zirvesi sırasında Cumhurbaşkanı Recep Tayyip Erdoğan'a bir Rus muhabir tarafından soru yöneltildi. Muhabir, Türkiye'nin IŞİD'i desteklediği iddiasına ilişkin bir soru sordu. Bu girişimin ardından söz konusu gazeteciye müdahale edildi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2014-haber-152203",
@@ -1749,18 +1517,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/anayasa-mahkemesi-secim-baraji-kararini-3-hafta-icinde-verecek-152203"
       },
-      "konular": [
-        "Seçim barajı",
-        "Anayasa Mahkemesi",
-        "Haşim Kılıç"
-      ],
+      "konular": [],
       "yayin": "2014-11-30T12:29:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "Anayasa Mahkemesi Seçim Barajı Başvurularını Karara Bağlayacak",
-      "ozet": "Anayasa Mahkemesi Başkanı Haşim Kılıç, seçim barajı uygulamasına yönelik yapılan itirazların değerlendirme sürecinin devam ettiğini belirtti. Kılıç, mahkemenin konuyla ilgili nihai kararını üç haftalık bir süre zarfında açıklayacağını ifade etti.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2014-haber-152405",
@@ -1773,17 +1533,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/turk-bayragi-acildi-olay-cikti-152405"
       },
-      "konular": [
-        "Novi Pazar",
-        "FK Partizan",
-        "Sırbistan"
-      ],
+      "konular": [],
       "yayin": "2014-11-30T21:12:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Novi Pazar ve Partizan Maçında Bayrak Gerginliği",
-      "ozet": "Sırbistan sınırları içerisinde yer alan ve Müslüman nüfusun yoğunlukta olduğu Novi Pazar şehrinde düzenlenen futbol müsabakası sırasında huzursuzluk yaşandı. Novi Pazar ile Partizan takımları arasındaki karşılaşmanın öncesinde, esnasında ve bitiminde Türk bayrağı açılması nedeniyle taraftarlar arasında gergin anlar meydana geldi. Yaşanan bu olaylar, spor müsabakasının önüne geçerek gündemi belirledi.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2013-haber-14587",
@@ -1796,29 +1549,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-erdogandan-tencere-tavali-mesaj-14587"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Türkiye siyaseti"
-      ],
+      "konular": [],
       "yayin": "2013-11-30T16:43:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Başbakan Erdoğan tencere tava eylemleri hakkında açıklama yaptı",
-      "ozet": "Başbakan Recep Tayyip Erdoğan, o dönem gündemde olan tencere tava çalma eylemlerine ilişkin değerlendirmelerde bulundu. Erdoğan, söz konusu protesto yöntemine dair tutumunu kamuoyuyla paylaştı.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2013-haber-14599",
@@ -1831,17 +1565,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/lider-fenerbahcenin-derbi-ustunlugu-14599"
       },
-      "konular": [
-        "Fenerbahçe (futbol takımı)",
-        "Beşiktaş (futbol takımı)",
-        "Süper Lig"
-      ],
+      "konular": [],
       "yayin": "2013-11-30T18:25:00+03:00",
       "puan": 6,
-      "durum": "elendi",
-      "baslik": "Fenerbahçe'nin ezeli rakiplerine karşı ligdeki istatistiksel üstünlüğü",
-      "ozet": "Süper Lig'de lider konumda bulunan Fenerbahçe, Beşiktaş ile oynayacağı derbi mücadelesi öncesinde dikkat çeken bir istatistiğe sahip. Sarı lacivertli ekip, son dönemde ligde karşılaştığı Beşiktaş ve Galatasaray maçlarında hem galibiyet sayısı hem de attığı gol miktarı bakımından rakiplerine karşı önde yer aldı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-387144",
@@ -1854,16 +1581,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/meclis-eylemcisinin-sabikasi-kabarik-cikti-387144"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Ensar Öğüt"
-      ],
+      "konular": [],
       "yayin": "2012-11-30T12:44:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Meclis bahçesindeki eylemcinin geçmişi dikkat çekti",
-      "ozet": "Türkiye Büyük Millet Meclisi yerleşkesinde bir ağaca çıkarak eylem yapan Murat Hamlacı isimli şahsın, daha önce de çeşitli suçlardan kaydı bulunduğu anlaşıldı. Söz konusu kişi, CHP Ardahan Milletvekili Ensar Öğüt ile yaptığı görüşmenin ardından ikna edilerek ağaçtan indirilmişti. Olayın ardından şahsın geçmişteki adli sicil kayıtları kamuoyuna yansıdı.",
-      "kategori": "Toplum"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-387080",
@@ -1876,18 +1597,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/turkiye-her-zaman-natoya-guvenebilir-387080"
       },
-      "konular": [
-        "NATO",
-        "James Stavridis",
-        "Türkiye"
-      ],
+      "konular": [],
       "yayin": "2012-11-30T10:17:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "NATO Komutanından Türkiye ile İttifak İlişkilerine Dair Açıklama",
-      "ozet": "NATO Avrupa Müttefik Kuvvetleri Yüksek Komutanı Oramiral James Stavridis, ittifakın üyelik sürecinden itibaren Türkiye ile olan güven ilişkisine vurgu yaptı. Stavridis, Türkiye'nin her koşulda NATO'ya itimat edebileceğini belirtti.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2011-haber-301866",
@@ -1900,17 +1613,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bdp-van-depremi-icin-arastirma-kurulmasini-istedi-301866"
       },
-      "konular": [
-        "2011 Van depremi",
-        "Levent Tüzel",
-        "Türkiye Büyük Millet Meclisi"
-      ],
+      "konular": [],
       "yayin": "2011-11-30T12:03:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Van depreminin incelenmesi için meclis araştırması talep edildi",
-      "ozet": "Bağımsız milletvekili Levent Tüzel, Van bölgesinde meydana gelen depremin etkilerinin ve sonuçlarının detaylıca incelenmesi amacıyla Türkiye Büyük Millet Meclisi bünyesinde bir araştırma komisyonu oluşturulması için önerge sundu. Söz konusu girişim, yaşanan doğal afetin ardından bölgedeki durumun kapsamlı bir şekilde değerlendirilmesini hedefledi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2011-haber-302022",
@@ -1923,17 +1629,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tgc-basin-odasi-caglayanda-acildi-302022"
       },
-      "konular": [
-        "İstanbul Adalet Sarayı",
-        "Türkiye Gazeteciler Cemiyeti",
-        "Gazetecilik"
-      ],
+      "konular": [],
       "yayin": "2011-11-30T21:05:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Çağlayan Adliyesi bünyesinde basın çalışma odası hizmete girdi",
-      "ozet": "İstanbul Adalet Sarayı içerisinde görev yapan gazetecilerin mesailerini daha rahat sürdürebilmeleri amacıyla yeni bir alan oluşturuldu. Türkiye Gazeteciler Cemiyeti tarafından yürütülen girişimler neticesinde İstanbul Cumhuriyet Başsavcılığı tarafından tahsis edilen basın odasının resmi açılışı yapıldı. Bu düzenleme ile adliyede çalışan basın mensuplarının çalışma koşullarının iyileştirilmesi hedeflendi.",
-      "kategori": "Toplum"
+      "durum": "haber"
     }
   ],
   "haberYillari": [

@@ -1382,7 +1382,7 @@
     "url": "https://tr.wikipedia.org/wiki/2_Aral%C4%B1k",
     "revid": 38170111
   },
-  "guncelleme": "2026-11-22T14:15:42.497Z",
+  "guncelleme": "2026-11-23T17:37:29.749Z",
   "haberler": [
     {
       "id": "2025-haber-2457795",
@@ -1395,17 +1395,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/kritik-veri-aciklandi-istanbul-da-kasim-ayi-zam-sampiyonu-belli-oldu-2457795"
       },
-      "konular": [
-        "İstanbul Ticaret Odası",
-        "İstanbul",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2025-12-02T12:22:00+03:00",
       "puan": 15,
-      "durum": "elendi",
-      "baslik": "İstanbul Ticaret Odası kasım ayı fiyat değişimlerini paylaştı",
-      "ozet": "İstanbul Ticaret Odası tarafından hazırlanan raporla kasım ayındaki perakende fiyat hareketleri kamuoyuna duyuruldu. Yapılan incelemeler sonucunda endekste bulunan yüzlerce üründen büyük bir kısmının fiyatında artış yaşandığı tespit edildi. Kurum, bu dönemde en yüksek fiyat artışının görüldüğü ürünü de belirleyerek verileri paylaştı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2457764",
@@ -1418,17 +1411,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/akp-nin-teklifi-kabul-edildi-sgk-afad-tuik-baskanina-30-bin-tl-zam-2457764"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Sosyal Güvenlik Kurumu",
-        "Türkiye İstatistik Kurumu"
-      ],
+      "konular": [],
       "yayin": "2025-12-02T11:41:00+03:00",
       "puan": 14,
-      "durum": "elendi",
-      "baslik": "Kamudaki üst düzey yöneticilerin maaşlarında artış kararı alındı",
-      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, kamu kurumlarında görevli üst düzey yöneticilerin maaşlarına yönelik hazırlanan düzenlemeyi onayladı. Kabul edilen teklif doğrultusunda, ilgili yöneticilerin aylık gelirlerine otuz bin Türk lirası tutarında seyyanen zam yapılması öngörüldü. Söz konusu yasal düzenleme, ilerleyen süreçte Türkiye Büyük Millet Meclisi Genel Kurulu'nun gündemine taşınarak görüşülmeye başlanacak.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2275051",
@@ -1441,17 +1427,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/istanbulda-kasim-ayi-zam-sampiyonu-belli-oldu-fiyati-yuzde-49-artti-2275051"
       },
-      "konular": [
-        "İstanbul Ticaret Odası",
-        "Enflasyon",
-        "İstanbul"
-      ],
+      "konular": [],
       "yayin": "2024-12-02T13:22:00+03:00",
       "puan": 15,
-      "durum": "elendi",
-      "baslik": "İstanbul'da Kasım Ayının Fiyat Değişim Verileri Açıklandı",
-      "ozet": "İstanbul Ticaret Odası, şehirdeki perakende fiyat hareketlerini içeren kasım ayı raporunu paylaştı. Yapılan incelemeler sonucunda patlıcan fiyatlarında en yüksek artışın yaşandığı belirlenirken, limon fiyatlarında ise belirgin bir düşüş kaydedildi. Kurum, piyasadaki ürünlerin fiyat değişim oranlarını kamuoyuyla paylaştı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2275068",
@@ -1464,30 +1443,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/buyuk-marmara-depremi-icin-dikkat-ceken-uyari-sadece-istanbul-2275068"
       },
-      "konular": [
-        "Marmara Depremi",
-        "Haluk Eyidoğan",
-        "İstanbul"
-      ],
+      "konular": [],
       "yayin": "2024-12-02T14:06:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Uzmanlardan Marmara Bölgesi genelindeki deprem riski için uyarı",
-      "ozet": "Prof. Dr. Haluk Eyidoğan, beklenen büyük Marmara depreminin etkilerinin yalnızca İstanbul ile sınırlı kalmayacağını belirtti. Bölgedeki sismik hareketliliğin çevre illeri de ciddi şekilde tehdit ettiğini vurgulayan uzman, geniş bir coğrafyanın bu durumdan etkilenebileceğine dikkat çekti.",
-      "kategori": "Afet",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Izmit_eart3.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Izmit_eart3.jpg",
-        "genislik": 640,
-        "yukseklik": 480,
-        "orijinalGenislik": 640,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "Public domain",
-        "lisansUrl": null,
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Izmit_eart3.jpg",
-        "aciklama": null,
-        "konu": "Marmara Depremi"
-      }
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2147242",
@@ -1500,17 +1459,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/istanbulda-zam-sampiyonu-erkek-paltosu-2147242"
       },
-      "konular": [
-        "Enflasyon",
-        "İstanbul",
-        "Tüketici fiyat endeksi"
-      ],
+      "konular": [],
       "yayin": "2023-12-02T11:05:00+03:00",
       "puan": 13,
-      "durum": "elendi",
-      "baslik": "Kasım ayında fiyatı en çok artan ve azalan ürünler belli oldu",
-      "ozet": "İstanbul piyasasında kasım ayı içerisinde fiyatı en yüksek oranda yükselen ürün erkek paltosu olarak kaydedildi. Aynı dönemde pırasa ise fiyatında yaşanan düşüşle listenin ilk sırasında yer aldı. Veriler, giyim ve gıda sektöründeki fiyat değişimlerini gözler önüne serdi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2147402",
@@ -1523,16 +1475,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/euro-2024un-para-odulleri-belli-oldu-sampiyon-takim-ne-kadar-2147402"
       },
-      "konular": [
-        "2024 Avrupa Futbol Şampiyonası",
-        "Türkiye millî futbol takımı"
-      ],
+      "konular": [],
       "yayin": "2023-12-02T18:21:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "EURO 2024 Avrupa Futbol Şampiyonası ödül miktarları duyuruldu",
-      "ozet": "Almanya ev sahipliğinde gerçekleştirilecek olan 2024 Avrupa Futbol Şampiyonası kapsamında takımlara verilecek para ödüllerinin detayları netleşti. A Milli Futbol Takımı'nın da yer alacağı turnuvada şampiyonluğa ulaşacak ekibin elde edeceği kazanç kamuoyuyla paylaşıldı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-2008396",
@@ -1545,17 +1491,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/akp-grup-baskanvekili-acikladi-basortusu-teklifi-imzaya-acildi-2008396"
       },
-      "konular": [
-        "Başörtüsü",
-        "Özlem Zengin",
-        "Adalet ve Kalkınma Partisi"
-      ],
+      "konular": [],
       "yayin": "2022-12-02T18:36:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Başörtüsü düzenlemesini içeren anayasa değişikliği teklifi imzaya açıldı",
-      "ozet": "Adalet ve Kalkınma Partisi Grup Başkanvekili Özlem Zengin, başörtüsü konusundaki anayasa değişikliği teklifinin imzaya açıldığını duyurdu. Söz konusu düzenleme için yürütülen hazırlık süreci tamamlanarak milletvekillerinin imzasına sunuldu. Bu gelişmeyle birlikte teklifin yasama sürecindeki ilk resmi adımı atılmış oldu.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-2008374",
@@ -1568,16 +1507,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-kulubu-baskani-dursun-ozbekten-sampiyonluk-mesaji-2008374"
       },
-      "konular": [
-        "Galatasaray (futbol takımı)",
-        "Dursun Özbek"
-      ],
+      "konular": [],
       "yayin": "2022-12-02T17:06:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Galatasaray Başkanı Dursun Özbek'ten Şampiyonluk Hedefi Açıklaması",
-      "ozet": "Galatasaray Kulübü Başkanı Dursun Özbek, 1905 Galatasaraylı Yönetici ve İş İnsanları Derneği tarafından düzenlenen bir etkinlikte konuştu. Kulüp camiasına yönelik değerlendirmelerde bulunan Özbek, sezon sonu için şampiyonluk hedefini vurguladı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1889668",
@@ -1590,16 +1523,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/cumhurbaskani-erdogan-sampiyon-sporcularla-bir-araya-geldi-1889668"
       },
-      "konular": [
-        "2020 Yaz Paralimpik Oyunları",
-        "Recep Tayyip Erdoğan"
-      ],
+      "konular": [],
       "yayin": "2021-12-02T21:39:00+03:00",
       "puan": 14,
-      "durum": "elendi",
-      "baslik": "Cumhurbaşkanı Erdoğan milli paralimpik sporcuları kabul etti",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, 2020 Tokyo Paralimpik Oyunları'nda dereceye giren sporcularla bir araya geldi. Kabulde, organizasyonda madalya kazanma başarısı gösteren milli sporcular yer aldı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1889609",
@@ -1612,17 +1539,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/chpli-tanju-ozcandan-partisini-kizdiracak-sozler-erdogana-faiz-destegi-1889609"
       },
-      "konular": [
-        "Tanju Özcan",
-        "Bolu Belediyesi",
-        "Cumhuriyet Halk Partisi"
-      ],
+      "konular": [],
       "yayin": "2021-12-02T15:34:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "Bolu Belediye Başkanı Tanju Özcan'dan Faiz Politikasına Destek",
-      "ozet": "Bolu Belediye Başkanı Tanju Özcan, belediye meclis toplantısı sırasında gerçekleştirdiği konuşmada ekonomi politikalarına dair görüşlerini paylaştı. Özcan, Cumhurbaşkanı Recep Tayyip Erdoğan'ın faiz konusundaki yaklaşımına destek veren ifadeler kullandı. Bu açıklamalar, mensubu olduğu Cumhuriyet Halk Partisi içerisinde farklı değerlendirmelere yol açtı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1795718",
@@ -1635,30 +1555,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-ligi-tarihine-gecti-1795718"
       },
-      "konular": [
-        "İrfan Can Kahveci",
-        "UEFA Şampiyonlar Ligi",
-        "İstanbul Başakşehir FK"
-      ],
+      "konular": [],
       "yayin": "2020-12-02T23:46:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "İrfan Can Kahveci Şampiyonlar Ligi tarihinde yerini aldı",
-      "ozet": "UEFA Şampiyonlar Ligi mücadelesinde Medipol Başakşehir ile RB Leipzig karşı karşıya geldi. Müsabakayı 4-3 kaybeden Türk temsilcisinde üç gol kaydeden İrfan Can Kahveci, turnuva tarihinde bir maçta hat-trick yapma başarısı gösteren üçüncü Türk futbolcu olarak kayıtlara geçti. Daha önce Tuncay Şanlı ve Burak Yılmaz da benzer bir başarıya imza atmıştı.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/%C4%B0rfan_Can_Kahveci_17_Fenerbah%C3%A7e_20260805_%283%29_%28cropped%29.JPG/960px-%C4%B0rfan_Can_Kahveci_17_Fenerbah%C3%A7e_20260805_%283%29_%28cropped%29.JPG",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/%C4%B0rfan_Can_Kahveci_17_Fenerbah%C3%A7e_20260805_%283%29_%28cropped%29.JPG/500px-%C4%B0rfan_Can_Kahveci_17_Fenerbah%C3%A7e_20260805_%283%29_%28cropped%29.JPG",
-        "genislik": 960,
-        "yukseklik": 1309,
-        "orijinalGenislik": 3608,
-        "yazar": "User:Zafer",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0rfan_Can_Kahveci_17_Fenerbah%C3%A7e_20260805_(3)_(cropped).JPG",
-        "aciklama": "İrfan Can Kahveci 17 Fenerbahçe 20260805",
-        "konu": "İrfan Can Kahveci"
-      }
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1795607",
@@ -1671,30 +1571,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/azerbaycanda-10-kasim-zafer-bayrami-ilan-edildi-1795607"
       },
-      "konular": [
-        "Dağlık Karabağ Savaşı (2020)",
-        "İlham Aliyev",
-        "Azerbaycan"
-      ],
+      "konular": [],
       "yayin": "2020-12-02T13:48:00+03:00",
       "puan": 9,
-      "durum": "yazildi",
-      "baslik": "Azerbaycan'da 10 Kasım Tarihi Zafer Bayramı Olarak Kabul Edildi",
-      "ozet": "Azerbaycan Cumhurbaşkanı İlham Aliyev tarafından imzalanan resmi kararname ile önemli bir düzenleme yapıldı. Bu karara göre Ermenistan'ın Dağlık Karabağ bölgesindeki mağlubiyetini kabul ettiği gün olan 10 Kasım tarihi, ülkede Zafer Bayramı şeklinde kutlanmasına karar verildi.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ilham_Aliyev%2C_December_2025_%28cropped%29.jpg/960px-Ilham_Aliyev%2C_December_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ilham_Aliyev%2C_December_2025_%28cropped%29.jpg/500px-Ilham_Aliyev%2C_December_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1243,
-        "orijinalGenislik": 1022,
-        "yazar": "Press Service of the President of the Republic of Azerbaijan",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Ilham_Aliyev,_December_2025_(cropped).jpg",
-        "aciklama": "Ilham Aliyev in December 2025",
-        "konu": "İlham Aliyev"
-      }
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1705657",
@@ -1707,30 +1587,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/malta-basbakani-muscat-istifa-edecegini-acikladi-1705657"
       },
-      "konular": [
-        "Daphne Caruana Galizia",
-        "Joseph Muscat",
-        "Malta"
-      ],
+      "konular": [],
       "yayin": "2019-12-02T06:18:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Malta Başbakanı Joseph Muscat görevinden ayrılacağını duyurdu",
-      "ozet": "Gazeteci Daphne Caruana Galizia cinayeti sonrasında ülkede yaşanan siyasi krizin ardından Başbakan Joseph Muscat, televizyondan halka seslenerek istifa kararını bildirdi. Muscat, önümüzdeki yıl içerisinde görevini bırakacağını açıkladı. 2017 yılında hayatını kaybeden gazeteci Galizia, siyasetçiler ve iş dünyası arasındaki yolsuzluk iddialarını inceleyen çalışmalarıyla tanınıyordu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/MDLXV_Statue_in_2020.01.jpg/960px-MDLXV_Statue_in_2020.01.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/MDLXV_Statue_in_2020.01.jpg/500px-MDLXV_Statue_in_2020.01.jpg",
-        "genislik": 960,
-        "yukseklik": 720,
-        "orijinalGenislik": 1600,
-        "yazar": "CAPTAIN RAJU",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:MDLXV_Statue_in_2020.01.jpg",
-        "aciklama": "MDLXV Statue in Valletta",
-        "konu": "Daphne Caruana Galizia"
-      }
+      "durum": "haber"
     },
     {
       "id": "2019-haber-1705790",
@@ -1743,17 +1603,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bakan-kasapoglu-avrupa-ve-dunya-sampiyonu-olan-ozel-sporculari-agirladi-1705790"
       },
-      "konular": [
-        "Mehmet Muharrem Kasapoğlu",
-        "Türkiye Özel Sporcular Spor Federasyonu",
-        "Spor"
-      ],
+      "konular": [],
       "yayin": "2019-12-02T16:08:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Bakan Kasapoğlu başarılı özel sporcularla bir araya geldi",
-      "ozet": "Gençlik ve Spor Bakanı Mehmet Muharrem Kasapoğlu, uluslararası müsabakalarda derece elde eden özel sporcuları makamında kabul etti. Avrupa ve dünya şampiyonalarında Türkiye adına yarışarak madalya kazanan sporcular, Bakan Kasapoğlu ile görüşerek başarılarını paylaştı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1158267",
@@ -1766,17 +1619,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akp-belediye-meclislerini-mhpye-birakmak-istemiyor-1158267"
       },
-      "konular": [
-        "Adalet ve Kalkınma Partisi",
-        "Milliyetçi Hareket Partisi",
-        "Türkiye'de yerel seçimler"
-      ],
+      "konular": [],
       "yayin": "2018-12-02T22:25:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Yerel seçim ittifakında belediye meclisleri için görüşmeler sürüyor",
-      "ozet": "İktidar partisi, yerel seçimlerde MHP adaylarını destekleme kararı alsa da belediye meclislerindeki çoğunluğu korumayı hedefliyor. Bu doğrultuda meclis üyelikleri konusunda farklı bir strateji izlenmesi planlanıyor.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2018-haber-1157885",
@@ -1789,16 +1635,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tunceli-belediyesinden-zam-yapmama-karari-1157885"
       },
-      "konular": [
-        "Tunceli Belediyesi",
-        "Tunceli"
-      ],
+      "konular": [],
       "yayin": "2018-12-02T14:13:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Tunceli Belediyesinden belediye hizmetlerine zam yapmama kararı",
-      "ozet": "Tunceli Belediye Meclisi, önümüzdeki yıl için belediye tarafından sunulan hizmetlerde fiyat artışına gitmeme yönünde bir karar aldı. Bu düzenleme kapsamında özellikle su ve ulaşım gibi temel hizmetlerin ücretlerinde herhangi bir değişikliğe gidilmeyeceği açıklandı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-878328",
@@ -1811,17 +1651,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/guinness-rekorlar-kitabina-giren-pilot-para-cezasina-carptirildi-878328"
       },
-      "konular": [
-        "Guinness Rekorlar Kitabı",
-        "Rusya",
-        "Havacılık"
-      ],
+      "konular": [],
       "yayin": "2017-12-02T16:44:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Rus pilotun gerçekleştirdiği rekor denemesine para cezası verildi",
-      "ozet": "Rusya'da mimarlık ve heykeltıraşlık mesleklerini icra eden bir pilot, havada yüz defa düz viril hareketi yaparak toplamda otuz altı bin derecelik dönüş gerçekleştirdi. Bu performansıyla Guinness Rekorlar Kitabı'na girmeyi başaran pilot, yaptığı uçuş nedeniyle idari para cezasına çarptırıldı.",
-      "kategori": "Toplum"
+      "durum": "haber"
     },
     {
       "id": "2017-haber-878099",
@@ -1834,17 +1667,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/senol-gunesten-derbi-icin-talisca-karari-878099"
       },
-      "konular": [
-        "Beşiktaş (futbol takımı)",
-        "Şenol Güneş",
-        "Anderson Talisca"
-      ],
+      "konular": [],
       "yayin": "2017-12-02T11:15:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Beşiktaş teknik heyeti derbi kadrosunu belirledi",
-      "ozet": "Süper Lig ekiplerinden Beşiktaş, yaklaşan derbi mücadelesi öncesinde kadro çalışmalarını tamamladı. Teknik direktör Şenol Güneş, orta sahada görevlendireceği oyuncular konusundaki tercihini yaptı. Takımın sahaya çıkacak ilk on biri büyük ölçüde netleşti.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2016-haber-639313",
@@ -1857,29 +1683,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyon-nico-rosberg-zirvede-birakti-639313"
       },
-      "konular": [
-        "Nico Rosberg",
-        "Formula 1"
-      ],
+      "konular": [],
       "yayin": "2016-12-02T16:26:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Formula 1 Dünya Şampiyonu Nico Rosberg Yarış Kariyerini Noktaladı",
-      "ozet": "Formula 1 dünyasında 2016 sezonunu şampiyonlukla tamamlayan pilot Nico Rosberg, profesyonel spor hayatını sonlandırma kararı aldığını duyurdu. Şampiyonluk başarısının hemen ardından gelen bu beklenmedik açıklama ile Rosberg, aktif yarış kariyerini noktaladığını kamuoyuyla paylaştı.",
-      "kategori": "Spor",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Web_Summit_2018_-_Forum_-_Day_1%2C_November_6_SAM_9594_%2845748916861%29.jpg/960px-Web_Summit_2018_-_Forum_-_Day_1%2C_November_6_SAM_9594_%2845748916861%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Web_Summit_2018_-_Forum_-_Day_1%2C_November_6_SAM_9594_%2845748916861%29.jpg/500px-Web_Summit_2018_-_Forum_-_Day_1%2C_November_6_SAM_9594_%2845748916861%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1428,
-        "orijinalGenislik": 3640,
-        "yazar": "Web Summit",
-        "lisans": "CC BY 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Web_Summit_2018_-_Forum_-_Day_1,_November_6_SAM_9594_(45748916861).jpg",
-        "aciklama": "6 November 2018; Nico Rosberg, Formula 1, on the Forum Stage during the opening day of Web Summit 2018 at the Altice Arena in Lisbon, Portugal. Photo by Sam Barnes/Web Summit via Sportsfile",
-        "konu": "Nico Rosberg"
-      }
+      "durum": "haber"
     },
     {
       "id": "2016-haber-639341",
@@ -1892,16 +1699,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yurttas-soruyor-cumhurbaskani-erdogan-dolarlarini-bozdurdu-mu-639341"
       },
-      "konular": [
-        "Recep Tayyip Erdoğan",
-        "Türkiye ekonomisi"
-      ],
+      "konular": [],
       "yayin": "2016-12-02T16:36:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Cumhurbaşkanı Erdoğan'ın döviz bozdurma çağrısı kamuoyunda tartışıldı",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, vatandaşlara yastık altındaki dövizlerini Türk lirasına veya altına çevirmeleri yönünde bir çağrıda bulundu. Bu açıklamanın ardından kamuoyunda, Cumhurbaşkanı'nın kendi elinde bulunan döviz varlıklarını bozdurup bozdurmadığına dair sorular gündeme geldi. Söz konusu çağrı, döviz kurlarının değer kazanmasının önüne geçilmesi amacıyla yapıldı.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2015-haber-440213",
@@ -1914,17 +1715,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tem-otoyolu-ankara-yonu-uc-bucuk-saat-sonra-ulasima-acildi-440213"
       },
-      "konular": [
-        "TEM otoyolu",
-        "Bolu",
-        "Ulaşım"
-      ],
+      "konular": [],
       "yayin": "2015-12-02T17:50:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "TEM Otoyolu ve D-100 Karayolunda Ulaşım Yeniden Sağlandı",
-      "ozet": "Bolu Yeniçağa bölgesinde etkili olan kar yağışı ve buzlanma nedeniyle araçlar yolda kaydı. Bu durum TEM otoyolunun Ankara istikametinin trafiğe kapanmasına neden oldu. Ekiplerin yürüttüğü çalışmalar sonucunda hem TEM otoyolu hem de D-100 karayolu üç buçuk saatlik bir aranın ardından tekrar araç trafiğine açıldı.",
-      "kategori": "Ulaşım"
+      "durum": "haber"
     },
     {
       "id": "2015-haber-439879",
@@ -1937,17 +1731,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/penaltiyi-haksiz-diye-atmadilar-sampiyon-olamadilar-439879"
       },
-      "konular": [
-        "Fair play",
-        "Amatör futbol",
-        "Avcılar Belediyespor"
-      ],
+      "konular": [],
       "yayin": "2015-12-02T14:12:00+03:00",
       "puan": 8,
-      "durum": "elendi",
-      "baslik": "Amatör ligde fair play örneği gösteren futbolcular penaltıyı kullanmadı",
-      "ozet": "İstanbul Amatör U15 Ligi mücadelesinde Avcılar Belediyespor oyuncuları, takımları mağlup durumdayken kazandıkları penaltı vuruşunun haksız olduğunu savundu. Hakem kararına itiraz eden sporcular, penaltı atışını kullanmayı reddederek fair play ruhuna uygun bir davranış sergiledi. Bu karar neticesinde şampiyonluk yarışında geride kalan takım, müsabakayı mağlubiyetle tamamladı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2014-haber-153233",
@@ -1960,18 +1747,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/israilde-erken-secim-karari-153233"
       },
-      "konular": [
-        "Knesset",
-        "Binyamin Netenyahu",
-        "İsrail"
-      ],
+      "konular": [],
       "yayin": "2014-12-02T20:54:00+03:00",
       "puan": 8,
-      "durum": "yazildi",
-      "baslik": "İsrail Parlamentosu feshedildi ve erken seçim kararı alındı",
-      "ozet": "İsrail Başbakanı Binyamin Netenyahu, mevcut yasama organı olan Knesset'in dağıtılmasına karar verdiğini duyurdu. Bu gelişmenin ardından ülkede erken genel seçim sürecinin başlatılacağı bilgisi paylaşıldı. Hükümet kanadından gelen bu açıklama ile birlikte İsrail siyasetinde yeni bir seçim dönemi resmen başlamış oldu.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2014-haber-153222",
@@ -1984,18 +1763,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fransa-meclisi-filistinin-devlet-olarak-taninmasini-istedi-153222"
       },
-      "konular": [
-        "Filistin devletinin tanınması",
-        "Fransa Ulusal Meclisi",
-        "Filistin"
-      ],
+      "konular": [],
       "yayin": "2014-12-02T18:22:00+03:00",
       "puan": 7,
-      "durum": "yazildi",
-      "baslik": "Fransa Ulusal Meclisi Filistin devletinin tanınması için oylama yaptı",
-      "ozet": "Fransa Meclisi, iktidar kanadında yer alan Sosyalist Parti milletvekillerinin hazırladığı tasarıyı gündemine aldı. Yapılan görüşmelerin ardından meclis, Filistin'in bağımsız bir devlet olarak tanınması yönünde tavsiye kararı aldı. Bu adım, bölgedeki diplomatik süreçlerin geleceği açısından önemli bir gelişme olarak değerlendirildi.",
-      "kategori": "Siyaset",
-      "gorsel": null
+      "durum": "haber"
     },
     {
       "id": "2013-haber-15165",
@@ -2008,17 +1779,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akpde-secim-anlasmazligi-14-istifa-15165"
       },
-      "konular": [
-        "Adalet ve Kalkınma Partisi",
-        "Bingöl",
-        "Yerel seçimler"
-      ],
+      "konular": [],
       "yayin": "2013-12-02T17:57:00+03:00",
       "puan": 14,
-      "durum": "elendi",
-      "baslik": "Bingöl teşkilatında aday belirleme süreci sonrası toplu istifa",
-      "ozet": "Adalet ve Kalkınma Partisi Bingöl İl Başkanı Cevdet Çalbay ile birlikte on üç yönetim kurulu üyesi görevlerinden ayrıldı. Söz konusu isimler, yerel seçimlerdeki belediye başkan adayı tercihi konusunda genel merkez yönetimiyle fikir ayrılığı yaşadıklarını belirterek partiden istifa ettiklerini duyurdu.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-387558",
@@ -2031,17 +1795,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kasimda-zam-sampiyonu-yas-uzum-oldu-387558"
       },
-      "konular": [
-        "Enflasyon",
-        "İstanbul",
-        "Gıda"
-      ],
+      "konular": [],
       "yayin": "2012-12-02T10:01:00+03:00",
       "puan": 14,
-      "durum": "elendi",
-      "baslik": "Kasım ayında İstanbul'da en çok fiyat artışı yaş üzümde görüldü",
-      "ozet": "İstanbul genelinde Kasım ayı içerisinde gıda ürünleri arasında fiyatı en yüksek oranda yükselen kalem yaş üzüm olarak belirlendi. Tüketici harcamalarını etkileyen bu artış, şehirdeki gıda fiyatları verilerine yansıdı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2012-haber-387590",
@@ -2054,30 +1811,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/israil-bm-kararini-reddediyoruz-387590"
       },
-      "konular": [
-        "Filistin'in Birleşmiş Milletler gözlemci devlet statüsü",
-        "Binyamin Netanyahu",
-        "İsrail"
-      ],
+      "konular": [],
       "yayin": "2012-12-02T17:06:00+03:00",
       "puan": 6,
-      "durum": "yazildi",
-      "baslik": "İsrail Birleşmiş Milletler'in Filistin Kararını Kabul Etmedi",
-      "ozet": "İsrail Başbakanı Binyamin Netanyahu, Birleşmiş Milletler tarafından Filistin'e tanınan üye olmayan gözlemci devlet statüsüne ilişkin kararı tanımadıklarını açıkladı. Hükümetin bu karara karşı duruşunu ifade eden Netanyahu, söz konusu gelişmeyi reddettiklerini belirtti.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Benjamin_Netanyahu%2C_February_2023.jpg/960px-Benjamin_Netanyahu%2C_February_2023.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Benjamin_Netanyahu%2C_February_2023.jpg/500px-Benjamin_Netanyahu%2C_February_2023.jpg",
-        "genislik": 960,
-        "yukseklik": 1398,
-        "orijinalGenislik": 2024,
-        "yazar": "Avi Ohayon",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu,_February_2023.jpg",
-        "aciklama": "Official portrait of Israel's 9th Prime Minister, Benjamin Netanyahu",
-        "konu": "Binyamin Netanyahu"
-      }
+      "durum": "haber"
     },
     {
       "id": "2011-haber-302420",
@@ -2090,17 +1827,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/istanbulun-zam-sampiyonu-domates-302420"
       },
-      "konular": [
-        "Domates",
-        "İstanbul",
-        "Enflasyon"
-      ],
+      "konular": [],
       "yayin": "2011-12-02T10:15:00+03:00",
       "puan": 12,
-      "durum": "elendi",
-      "baslik": "İstanbul'da gıda fiyatlarında en yüksek artış domateste görüldü",
-      "ozet": "İstanbul genelinde yapılan incelemeler sonucunda, geçtiğimiz ay içerisinde fiyatı en çok yükselen ürünün domates olduğu belirlendi. Yaş sebze ve meyve kategorisinde yer alan bu ürün, gıda harcamaları içerisinde fiyat artışıyla öne çıkan temel kalem haline geldi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2011-haber-302598",
@@ -2113,30 +1843,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/misirda-secimlere-katilim-orani-yuzde-62-302598"
       },
-      "konular": [
-        "2011-2012 Mısır parlamento seçimleri",
-        "Mısır",
-        "Hüsnü Mübarek"
-      ],
+      "konular": [],
       "yayin": "2011-12-02T19:19:00+03:00",
       "puan": 5,
-      "durum": "yazildi",
-      "baslik": "Mısır seçimlerinin ilk turuna katılım oranı belli oldu",
-      "ozet": "Hüsnü Mübarek yönetiminin sona ermesinin ardından ülkede gerçekleştirilen demokratik seçimlerin ilk aşamasına dair resmi sonuçlar paylaşıldı. Seçimlere katılım oranının yüzde 62 seviyesinde gerçekleştiği duyuruldu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Mohamed_Morsi-05-2013.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Mohamed_Morsi-05-2013.jpg",
-        "genislik": 684,
-        "yukseklik": 913,
-        "orijinalGenislik": 684,
-        "yazar": "Wilson Dias/ABr",
-        "lisans": "CC BY 3.0 br",
-        "lisansUrl": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Mohamed_Morsi-05-2013.jpg",
-        "aciklama": "A presidenta brasileira, Dilma Rousseff recebe, no Palácio do Planalto, o presidente egípcio, Mohamed Morsi",
-        "konu": "2011-2012 Mısır parlamento seçimleri"
-      }
+      "durum": "haber"
     }
   ],
   "haberYillari": [
