@@ -874,7 +874,7 @@
     "url": "https://tr.wikipedia.org/wiki/23_Kas%C4%B1m",
     "revid": 38675092
   },
-  "guncelleme": "2026-11-23T17:37:25.500Z",
+  "guncelleme": "2026-11-24T17:08:22.845Z",
   "haberler": [
     {
       "id": "2025-haber-2455051",
@@ -887,17 +887,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/esnafa-faiz-indirimi-geliyor-bakan-bolat-kritik-tarihi-paylasti-2455051"
       },
-      "konular": [
-        "Ömer Bolat",
-        "Türkiye Cumhuriyeti Ticaret Bakanlığı",
-        "Esnaf"
-      ],
+      "konular": [],
       "yayin": "2025-11-23T12:10:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Ticaret Bakanlığından Esnaf Kredilerinde Faiz Düzenlemesi",
-      "ozet": "Ticaret Bakanı Ömer Bolat, esnafların yararlandığı Hazine destekli kredilerde faiz oranlarının düşürüleceğini duyurdu. Söz konusu düzenlemenin yeni yılın başlangıcıyla birlikte uygulamaya konulması planlanıyor.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2455017",
@@ -910,17 +903,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/tbmm-de-yogun-hafta-genel-kurul-da-vergi-paketi-gorusulecek-2455017"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Vergi hukuku",
-        "Emlak vergisi"
-      ],
+      "konular": [],
       "yayin": "2025-11-23T10:41:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Türkiye Büyük Millet Meclisi gündeminde vergi düzenlemeleri yer alıyor",
-      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, yeni haftada vergi mevzuatında değişiklikler öngören kanun teklifini gündemine aldı. Söz konusu düzenleme kapsamında, emlak vergisi hesaplamalarında kullanılan rayiç bedellerin güncellenmesine yönelik maddeler milletvekilleri tarafından değerlendirilecek. Meclis çalışmaları süresince ilgili kanun teklifinin detayları ve olası etkileri üzerinde görüşmeler gerçekleştirilecek.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2271941",
