@@ -1554,7 +1554,7 @@
     "url": "https://tr.wikipedia.org/wiki/1_Aral%C4%B1k",
     "revid": 38117570
   },
-  "guncelleme": "2026-11-25T16:55:38.009Z",
+  "guncelleme": "2026-11-26T16:33:34.446Z",
   "haberler": [
     {
       "id": "2025-haber-2457453",
@@ -1567,10 +1567,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/kasim-ayi-zam-sampiyonu-belli-oldu-o-urunun-fiyatinda-buyuk-artis-2457453"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Ziraat Odaları Birliği",
+        "Enflasyon",
+        "Ekonomi"
+      ],
       "yayin": "2025-12-01T11:54:00+03:00",
       "puan": 15,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Kasım ayında market ve üretici fiyatlarındaki değişimler açıklandı",
+      "ozet": "Türkiye Ziraat Odaları Birliği tarafından kasım ayına ilişkin üretici ve market fiyatlarındaki değişimler kamuoyuyla paylaşıldı. Yapılan incelemeler sonucunda bazı ürünlerin fiyatlarında artış gözlemlenirken, bazı ürünlerde ise düşüş yaşandığı belirtildi. Kurum, kasım ayı içerisinde fiyatı en fazla yükselen ürünleri ve piyasadaki genel fiyat hareketliliğini detaylı bir şekilde raporladı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2025-haber-2457456",
@@ -1583,10 +1590,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/norvec-te-tarihi-sampiyonluk-34-yil-sonra-zirvede-2457456"
       },
-      "konular": [],
+      "konular": [
+        "Viking FK",
+        "Eliteserien",
+        "Norveç"
+      ],
       "yayin": "2025-12-01T11:57:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Viking Norveç Liginde Uzun Süren Şampiyonluk Hasretini Bitirdi",
+      "ozet": "Norveç Ligi mücadelesinde Viking, kendi sahasında karşılaştığı Valerenga ekibini beş bir gibi farklı bir skorla mağlup etti. Bu galibiyetin ardından puan tablosunun zirvesine yerleşen Viking, otuz dört yıllık şampiyonluk özlemine son vererek kupayı müzesine götürdü.",
+      "kategori": "Spor"
     },
     {
       "id": "2024-haber-2274585",
@@ -1599,10 +1613,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/2025-merkezi-yonetim-butce-kanun-teklifi-tbmm-plan-ve-butce-2274585"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Devlet bütçesi",
+        "Siyaset"
+      ],
       "yayin": "2024-12-01T04:00:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "2025 Yılı Merkezi Yönetim Bütçe Kanun Teklifi Komisyondan Geçti",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, 2025 yılına ait merkezi yönetim bütçe kanun teklifini onayladı. Görüşmeler sırasında muhalefet kanadının öğretmen atamaları, emekli ikramiyeleri ve kamu özel iş birliği projelerindeki garanti ödemelerine ilişkin sunduğu tüm değişiklik önergeleri reddedildi. Böylece bütçe teklifi, komisyon aşamasını tamamlayarak genel kurul sürecine taşındı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Government-Vedder-Highsmith-detail-1.jpeg/960px-Government-Vedder-Highsmith-detail-1.jpeg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Government-Vedder-Highsmith-detail-1.jpeg/500px-Government-Vedder-Highsmith-detail-1.jpeg",
+        "genislik": 960,
+        "yukseklik": 609,
+        "orijinalGenislik": 3696,
+        "yazar": "Artist is Elihu Vedder (1836–1923). Photographed 2007 by Carol Highsmith (1946–), who explicitly placed the photograph in the public domain.",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Government-Vedder-Highsmith-detail-1.jpeg",
+        "aciklama": "Detail from Government. Mural by Elihu Vedder. Lobby to Main Reading Room, Library of Congress Thomas Jefferson Building, Washington, D.C. Main figure is seated atop a pedestal saying \"GOVERNMENT\" and",
+        "konu": "Devlet bütçesi"
+      }
     },
     {
       "id": "2024-haber-2274587",
@@ -1615,10 +1649,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/erdoganin-korumalari-icin-gunluk-yapilan-masraf-385-asgari-ucrete-denk-2274587"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Türkiye Cumhuriyeti Cumhurbaşkanlığı"
+      ],
       "yayin": "2024-12-01T04:00:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhurbaşkanlığı koruma giderlerinde yıllık artış verileri açıklandı",
+      "ozet": "Cumhurbaşkanlığı koruma hizmetleri için yılın ilk on aylık döneminde yaklaşık iki milyar lira harcama yapıldı. Geçen yılın aynı dönemine kıyasla harcama miktarında iki katından fazla bir yükseliş gözlemlendi. Söz konusu maliyet artışı, önceki yılın verileriyle karşılaştırmalı olarak kamuoyuna duyuruldu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2023-haber-2146846",
@@ -1631,10 +1671,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/yerel-secim-takvimi-belli-oldu-ysk-karari-resmi-gazetede-yayimlandi-2146846"
       },
-      "konular": [],
+      "konular": [
+        "2024 Türkiye yerel seçimleri",
+        "Yüksek Seçim Kurulu"
+      ],
       "yayin": "2023-12-01T04:17:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Mahalli idareler genel seçimlerine ilişkin takvim süreci resmileşti",
+      "ozet": "Yüksek Seçim Kurulu, mart ayında gerçekleştirilecek yerel seçimlere dair uygulama takvimini kamuoyuyla paylaştı. Resmi Gazete üzerinden duyurulan karara göre seçim süreci ocak ayının başında başlayacak. Belirlenen takvim doğrultusunda seçime girmeye hak kazanan siyasi partilerin listesi ise ocak ayının ikinci gününde açıklanacak.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/T%C3%BClay_Hatimo%C4%9Fullar%C4%B1_Oru%C3%A7_2023_%28cropped%29.jpg/960px-T%C3%BClay_Hatimo%C4%9Fullar%C4%B1_Oru%C3%A7_2023_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/T%C3%BClay_Hatimo%C4%9Fullar%C4%B1_Oru%C3%A7_2023_%28cropped%29.jpg/500px-T%C3%BClay_Hatimo%C4%9Fullar%C4%B1_Oru%C3%A7_2023_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1238,
+        "orijinalGenislik": 3265,
+        "yazar": "Hestutv",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:T%C3%BClay_Hatimo%C4%9Fullar%C4%B1_Oru%C3%A7_2023_(cropped).jpg",
+        "aciklama": "Tülay Hatimoğulları Oruç",
+        "konu": "2024 Türkiye yerel seçimleri"
+      }
     },
     {
       "id": "2023-haber-2147030",
@@ -1647,10 +1706,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/3-kisinin-hayatini-kaybettigi-ucak-kazasinda-karar-havalimani-2147030"
       },
-      "konular": [],
+      "konular": [
+        "Pegasus Hava Yolları 2193 sefer sayılı uçuşu",
+        "Sabiha Gökçen Havalimanı",
+        "Havacılık kazası"
+      ],
       "yayin": "2023-12-01T15:48:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Sabiha Gökçen Havalimanı uçak kazası davasında bilirkişi raporu açıklandı",
+      "ozet": "Üç kişinin yaşamını yitirdiği uçak kazasına ilişkin hazırlanan yeni bilirkişi raporu mahkemeye sunuldu. Raporda, havalimanında pist sonu emniyet alanının bulunmaması önemli bir eksiklik olarak değerlendirildi. Bu durum nedeniyle havalimanı otoritesi asli kusurlu olarak belirlendi.",
+      "kategori": "Ulaşım",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/%C4%B0stanbul_Sabiha_G%C3%B6k%C3%A7en_Uluslararas%C4%B1_Havaliman%C4%B1.jpg/960px-%C4%B0stanbul_Sabiha_G%C3%B6k%C3%A7en_Uluslararas%C4%B1_Havaliman%C4%B1.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/%C4%B0stanbul_Sabiha_G%C3%B6k%C3%A7en_Uluslararas%C4%B1_Havaliman%C4%B1.jpg/500px-%C4%B0stanbul_Sabiha_G%C3%B6k%C3%A7en_Uluslararas%C4%B1_Havaliman%C4%B1.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 1620,
+        "yazar": "Apaleutos25",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0stanbul_Sabiha_G%C3%B6k%C3%A7en_Uluslararas%C4%B1_Havaliman%C4%B1.jpg",
+        "aciklama": "Sabiha Gökçen International Airport",
+        "konu": "Sabiha Gökçen Havalimanı"
+      }
     },
     {
       "id": "2022-haber-2007874",
@@ -1663,10 +1742,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/fransa-rekora-ortak-oldu-2022-dunya-kupasinda-bir-ilk-2007874"
       },
-      "konular": [],
+      "konular": [
+        "2022 FIFA Dünya Kupası",
+        "Fransa millî futbol takımı",
+        "Tunus millî futbol takımı"
+      ],
       "yayin": "2022-12-01T09:51:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Fransa Dünya Kupası tarihinde bir rekora ortak oldu",
+      "ozet": "Katar ev sahipliğinde düzenlenen turnuvada Fransa ile Tunus karşı karşıya geldi. Müsabakayı Tunus tek golle kazanmayı başardı. Bu sonuçla birlikte Fransa, Dünya Kupası tarihindeki önemli bir istatistiksel rekora ortak oldu.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/PAN-TUN_%285%29.jpg/960px-PAN-TUN_%285%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/PAN-TUN_%285%29.jpg/500px-PAN-TUN_%285%29.jpg",
+        "genislik": 960,
+        "yukseklik": 602,
+        "orijinalGenislik": 1200,
+        "yazar": "Екатерина Лаут",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:PAN-TUN_(5).jpg",
+        "aciklama": "Tunisia national football team",
+        "konu": "Tunus millî futbol takımı"
+      }
     },
     {
       "id": "2022-haber-2007967",
@@ -1679,10 +1778,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/depremin-ardindan-duzce-valiliginden-yuksek-kira-uyarisi-2007967"
       },
-      "konular": [],
+      "konular": [
+        "2022 Düzce depremi",
+        "Düzce Valiliği",
+        "Düzce"
+      ],
       "yayin": "2022-12-01T13:20:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Düzce Valiliğinden deprem sonrası kira artışı uyarısı",
+      "ozet": "Düzce merkezli yaşanan sarsıntının ardından bölgedeki konut piyasasında hareketlilik gözlendi. Valilik makamı, ağır hasarlı binaların tahliye edilmesini fırsat bilerek fahiş kira bedelleri talep eden kişilere karşı vatandaşları bilgilendirdi. Bu tür haksız uygulamalara karşı gerekli denetimlerin yapılacağı ve yasal süreçlerin takip edileceği vurgulandı.",
+      "kategori": "Toplum"
     },
     {
       "id": "2021-haber-1889382",
@@ -1695,10 +1801,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/ek-gosterge-zammi-genel-kurulda-kabul-edildi-1889382"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Doktor",
+        "Ek gösterge"
+      ],
       "yayin": "2021-12-01T18:10:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Doktorların ek gösterge düzenlemesi mecliste onaylandı",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, hekimlerin özlük haklarını iyileştirmeye yönelik hazırlanan ek gösterge artışını içeren yasa teklifini görüşerek kabul etti. Yapılan oylama sonucunda doktorların mali haklarında düzenleme yapılmasını öngören karar resmiyet kazandı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Doctor_-_Joseph_Tomanek%2C_after_Luke_Fildes.jpg/960px-The_Doctor_-_Joseph_Tomanek%2C_after_Luke_Fildes.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Doctor_-_Joseph_Tomanek%2C_after_Luke_Fildes.jpg/500px-The_Doctor_-_Joseph_Tomanek%2C_after_Luke_Fildes.jpg",
+        "genislik": 960,
+        "yukseklik": 652,
+        "orijinalGenislik": 6617,
+        "yazar": "Joseph Tomanek, reproduction of original by Luke Fildes",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:The_Doctor_-_Joseph_Tomanek,_after_Luke_Fildes.jpg",
+        "aciklama": "Reproduction of Luke Fildes' painting The Doctor, by Joseph Tomanek",
+        "konu": "Doktor"
+      }
     },
     {
       "id": "2021-haber-1889358",
@@ -1711,10 +1837,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/babacandan-merkez-bankasi-cikisi-erdogana-mudahale-etse-is-daha-hizli-cozulecek-1889358"
       },
-      "konular": [],
+      "konular": [
+        "Ali Babacan",
+        "Demokrasi ve Atılım Partisi",
+        "Türkiye Cumhuriyet Merkez Bankası"
+      ],
       "yayin": "2021-12-01T17:04:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ali Babacan Merkez Bankası Müdahaleleri Hakkında Değerlendirmelerde Bulundu",
+      "ozet": "DEVA Partisi Genel Başkanı Ali Babacan, Merkez Bankası tarafından piyasaya yapılan döviz müdahalelerine ilişkin açıklama yaptı. Babacan, Cumhurbaşkanı Recep Tayyip Erdoğan'ın bu süreçte doğrudan müdahil olması durumunda yaşanan ekonomik sorunların daha hızlı bir şekilde çözüme kavuşabileceğini ifade etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2020-haber-1795190",
@@ -1727,10 +1860,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bitcoin-tum-zamanlarin-rekorunu-kirdi-1795190"
       },
-      "konular": [],
+      "konular": [
+        "Bitcoin",
+        "Kripto para"
+      ],
       "yayin": "2020-12-01T09:30:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Bitcoin piyasasında yeni bir fiyat rekoru kaydedildi",
+      "ozet": "Kripto para piyasasının en yüksek işlem hacmine sahip birimi olan Bitcoin, değerini yükselterek daha önceki zirve noktasını geride bıraktı. Haftanın ilk gününde gerçekleşen bu artışla birlikte dijital para birimi, ulaştığı yeni seviyeyle tarihsel bir rekor elde etti.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg/960px-%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg/500px-%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg",
+        "genislik": 960,
+        "yukseklik": 960,
+        "orijinalGenislik": 2448,
+        "yazar": "Alexandr Gromov",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_HashCoins.jpg",
+        "aciklama": "Подготовка к отправке заказа: mining kit на основе чипа Golden Nonce.",
+        "konu": "Kripto para"
+      }
     },
     {
       "id": "2020-haber-1795456",
@@ -1743,10 +1895,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/okan-buruk-super-lig-ve-sampiyonlar-ligine-ayni-onemi-veriyoruz-1795456"
       },
-      "konular": [],
+      "konular": [
+        "Okan Buruk",
+        "İstanbul Başakşehir FK",
+        "Futbol"
+      ],
       "yayin": "2020-12-01T20:40:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Okan Buruk yoğun maç takvimine dair değerlendirmelerde bulundu",
+      "ozet": "Başakşehir Teknik Direktörü Okan Buruk, takımının sıkışık maç programına uyum sağladığını ifade etti. Yoğun fikstürün getirdiği zorluklara alıştıklarını belirten Buruk, bu süreçteki çalışma düzenlerine dair açıklamalarda bulundu.",
+      "kategori": "Spor"
     },
     {
       "id": "2019-haber-1705553",
@@ -1759,10 +1918,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/irak-basbakani-adil-abdulmehdinin-istifasi-kabul-edildi-1705553"
       },
-      "konular": [],
+      "konular": [
+        "Adil Abdulmehdi",
+        "Irak Parlamentosu",
+        "Irak"
+      ],
       "yayin": "2019-12-01T14:51:00+03:00",
       "puan": 16,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Irak Parlamentosu Başbakan Adil Abdulmehdi'nin İstifasını Onayladı",
+      "ozet": "Irak meclisi, Başbakan Adil Abdulmehdi tarafından sunulan istifa dilekçesini değerlendirerek kararı onayladı. Ülkede yaşanan siyasi gelişmelerin ardından gerçekleşen bu oylama ile hükümetin görevden ayrılma süreci resmileşmiş oldu.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2019-haber-1705564",
@@ -1775,10 +1942,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dunya-down-sendromlular-judo-sampiyonasinda-2-altin-madalya-1705564"
       },
-      "konular": [],
+      "konular": [
+        "Judo",
+        "Down sendromu",
+        "Türkiye"
+      ],
       "yayin": "2019-12-01T16:00:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Dünya Down Sendromlular Judo Şampiyonasında Türkiye İki Altın Madalya Kazandı",
+      "ozet": "Dünya Down Sendromlular Judo Şampiyonasında mücadele eden sporcularımız önemli bir başarıya imza attı. T23 kategorisinde yarışan Talha Ahmet Erdem, altın madalya elde ederek Türkiye adına bu branştaki ilk dünya şampiyonluğunu kazandı. Aynı organizasyonda T21 kategorisinde mindere çıkan Doğukan Coşar da altın madalyanın sahibi oldu.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Judo_throw.jpg/960px-Judo_throw.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Judo_throw.jpg/500px-Judo_throw.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 1326,
+        "yazar": "Schnuffel2002",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Judo_throw.jpg",
+        "aciklama": "Judo throw during competition",
+        "konu": "Judo"
+      }
     },
     {
       "id": "2018-haber-1156968",
@@ -1791,10 +1978,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bakan-pekcan-cumhuriyet-tarihinin-en-yuksek-kasim-ayi-ihracati-gerceklesti-1156968"
       },
-      "konular": [],
+      "konular": [
+        "İhracat",
+        "Ruhsar Pekcan",
+        "Türkiye Cumhuriyeti Ticaret Bakanlığı"
+      ],
       "yayin": "2018-12-01T11:17:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Kasım Ayında Cumhuriyet Tarihinin İhracat Rekoru Kırıldı",
+      "ozet": "Ticaret Bakanı Ruhsar Pekcan, kasım ayı dış ticaret verilerini kamuoyuyla paylaştı. Yapılan açıklamada, söz konusu ayda ulaşılan ihracat rakamının Cumhuriyet tarihinin en yüksek seviyesine çıktığı belirtildi.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Handshake_between_Ruhsar_Pekcan_and_Phil_Hogan_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Handshake_between_Ruhsar_Pekcan_and_Phil_Hogan_%28cropped%29.jpg",
+        "genislik": 856,
+        "yukseklik": 1136,
+        "orijinalGenislik": 856,
+        "yazar": "Lukasz Kobus, European Commission",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Handshake_between_Ruhsar_Pekcan_and_Phil_Hogan_(cropped).jpg",
+        "aciklama": "Ruhsar Pekcan",
+        "konu": "Ruhsar Pekcan"
+      }
     },
     {
       "id": "2018-haber-1157552",
@@ -1807,10 +2014,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/galatasarayin-antrenmaninda-dunya-rekoru-kirildi-1157552"
       },
-      "konular": [],
+      "konular": [
+        "Galatasaray SK",
+        "Türk Telekom Stadyumu",
+        "Beşiktaş JK"
+      ],
       "yayin": "2018-12-01T21:25:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Galatasaray taraftarı antrenmanda dünya rekoruna imza attı",
+      "ozet": "Beşiktaş ile oynanacak derbi mücadelesi öncesinde Türk Telekom Stadyumu'nda gerçekleştirilen halka açık antrenman yoğun ilgi gördü. Toplamda 40 bin 541 taraftarın bilet alarak takip ettiği bu çalışma, dünya genelinde ücretli izlenen antrenmanlar arasında en yüksek seyirci sayısına ulaşarak rekor kırdı.",
+      "kategori": "Spor"
     },
     {
       "id": "2017-haber-877391",
@@ -1823,10 +2037,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akpde-secim-ittifaki-zirvesi-877391"
       },
-      "konular": [],
+      "konular": [
+        "Adalet ve Kalkınma Partisi",
+        "Recep Tayyip Erdoğan",
+        "Seçim ittifakı"
+      ],
       "yayin": "2017-12-01T10:35:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Adalet ve Kalkınma Partisinde seçim ittifakı görüşmeleri",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, seçimlerde uygulanması planlanan ittifak modeli üzerine parti yönetimiyle bir araya geldi. Gerçekleştirilen toplantıda konuyla ilgili detaylar ve izlenecek yol haritası değerlendirildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2017-haber-877325",
@@ -1839,10 +2060,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ilker-basbug-suriye-ic-savasini-esad-kazandi-877325"
       },
-      "konular": [],
+      "konular": [
+        "Suriye İç Savaşı",
+        "İlker Başbuğ",
+        "Beşşar Esad"
+      ],
       "yayin": "2017-12-01T09:27:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İlker Başbuğ Suriye İç Savaşı Hakkında Değerlendirmelerde Bulundu",
+      "ozet": "Eski Genelkurmay Başkanı İlker Başbuğ, Uludağ Üniversitesi'nde düzenlenen bir söyleşiye katılarak Ortadoğu'daki gelişmeleri ele aldı. Osmanlı döneminden günümüze uzanan süreçte bölgedeki sorunları ve Kürt meselesinin kökenlerini değerlendiren Başbuğ, Suriye'deki çatışmaların sonuna gelindiğini ifade etti. IŞİD benzeri yapıların varlığı sona erdiğinde savaşın tamamen biteceğini belirten Başbuğ, mevcut durumda Esad yönetiminin galip geldiğini dile getirdi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "genislik": 704,
+        "yukseklik": 499,
+        "orijinalGenislik": 704,
+        "yazar": "jan Sefti",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "aciklama": "The phrase \"Down with Bashar\" (yaskut Baššār), during the Syrian Uprising 2011.",
+        "konu": "Suriye İç Savaşı"
+      }
     },
     {
       "id": "2016-haber-638500",
@@ -1855,10 +2096,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-altin-dedi-dolar-ve-avro-rekor-kirdi-638500"
       },
-      "konular": [],
+      "konular": [
+        "Döviz kuru",
+        "Recep Tayyip Erdoğan",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2016-12-01T09:00:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Döviz kurlarında Cumhurbaşkanı Erdoğan'ın açıklaması sonrası yükseliş",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın vatandaşlara altın yatırımı yapmaları yönündeki çağrısının ardından döviz piyasalarında hareketlilik yaşandı. Bu gelişmenin etkisiyle dolar kuru 3,59 seviyesini geçerek 3,5935 ile yeni bir zirveye ulaştı. Aynı süreçte avro kuru da değer kazanarak 3,80 seviyesini gördü.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/South_East_Asia_Exchange_Rates_%286031878489%29.jpg/960px-South_East_Asia_Exchange_Rates_%286031878489%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/South_East_Asia_Exchange_Rates_%286031878489%29.jpg/500px-South_East_Asia_Exchange_Rates_%286031878489%29.jpg",
+        "genislik": 960,
+        "yukseklik": 957,
+        "orijinalGenislik": 1027,
+        "yazar": "Nick Hubbard",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:South_East_Asia_Exchange_Rates_(6031878489).jpg",
+        "aciklama": "Next time I will bring in sterling, and not be ripped of by those money changers back home. Thai baht.",
+        "konu": "Döviz kuru"
+      }
     },
     {
       "id": "2016-haber-638712",
@@ -1871,10 +2132,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/firat-kalkani-harekatinda-asil-hedef-esad-diyen-erdogan-cark-etti-hedef-teror-orgutleri-638712"
       },
-      "konular": [],
+      "konular": [
+        "Fırat Kalkanı Harekatı",
+        "Recep Tayyip Erdoğan",
+        "Türkiye"
+      ],
       "yayin": "2016-12-01T13:53:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanı Erdoğan Fırat Kalkanı Harekatı'nın Amacını Açıkladı",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye tarafından yürütülen Fırat Kalkanı Harekatı'nın temel hedeflerine dair açıklamalarda bulundu. Harekatın bölgedeki stratejik amaçlarını ve Türkiye'nin beklentilerini kamuoyuyla paylaşan Erdoğan, operasyonun gerekçelerini detaylandırdı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2015-haber-438521",
@@ -1887,10 +2168,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-icin-gollum-yargilaniyor-bilirkisi-bile-atandi-438521"
       },
-      "konular": [],
+      "konular": [
+        "Gollum",
+        "Recep Tayyip Erdoğan",
+        "Türkiye"
+      ],
       "yayin": "2015-12-01T12:53:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhurbaşkanı Erdoğan'a hakaret davasında Gollum incelemesi",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik hakaret davası kapsamında mahkeme, Gollum karakterinin niteliğinin belirlenmesi için bilirkişi görevlendirdi. Yargı süreci, söz konusu karakterin kötücül olup olmadığının tespiti üzerine yoğunlaştı. Bu gelişme ile birlikte mahkeme heyeti, karakterin hukuki açıdan nasıl değerlendirilmesi gerektiğine dair uzman görüşüne başvurma kararı aldı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2015-haber-439207",
@@ -1903,10 +2191,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/engin-alana-rekor-tazminat-1-milyon-363-bin-lira-439207"
       },
-      "konular": [],
+      "konular": [
+        "Balyoz davası",
+        "Engin Alan"
+      ],
       "yayin": "2015-12-01T23:38:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Engin Alan için tazminat ödemesine karar verildi",
+      "ozet": "Balyoz davası kapsamında tutuklu yargılanan emekli korgeneral Engin Alan için devlet tarafından tazminat ödenmesi kararlaştırıldı. Söz konusu hukuki süreç neticesinde Alan'a bir milyon üç yüz altmış üç bin lira tutarında ödeme yapılmasına hükmedildi.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2014-haber-152509",
@@ -1919,10 +2214,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/eski-almanya-basbakani-schmidte-nazi-suclamasi-152509"
       },
-      "konular": [],
+      "konular": [
+        "Helmut Schmidt",
+        "Nasyonal Sosyalizm",
+        "Almanya"
+      ],
       "yayin": "2014-12-01T09:56:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Helmut Schmidt Hakkında Nazi Dönemi İddiaları Ortaya Çıktı",
+      "ozet": "Almanya'da geçmiş yıllarda başbakanlık görevini üstlenmiş olan Helmut Schmidt'in, gençlik döneminde Nasyonal Sosyalizm ideolojisine yakınlık duyduğuna dair belgelerin bulunduğu iddia edildi. Söz konusu belgelerin, eski başbakanın geçmişteki siyasi görüşlerini yansıttığı öne sürüldü.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Bundeskanzler_Helmut_Schmidt.jpg/960px-Bundeskanzler_Helmut_Schmidt.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Bundeskanzler_Helmut_Schmidt.jpg/500px-Bundeskanzler_Helmut_Schmidt.jpg",
+        "genislik": 960,
+        "yukseklik": 1295,
+        "orijinalGenislik": 2102,
+        "yazar": "Hans Schafgans",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bundeskanzler_Helmut_Schmidt.jpg",
+        "aciklama": "Helmut Schmidt, Chancellor of the Federal Republic of Germany in 1977",
+        "konu": "Helmut Schmidt"
+      }
     },
     {
       "id": "2014-haber-152617",
@@ -1935,10 +2250,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-davutoglu-yayin-yasagini-savundu-152617"
       },
-      "konular": [],
+      "konular": [
+        "17 Aralık yolsuzluk ve rüşvet soruşturması",
+        "Ahmet Davutoğlu",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2014-12-01T12:35:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Başbakan Davutoğlu soruşturma sürecindeki yayın yasağını değerlendirdi",
+      "ozet": "TBMM Soruşturma Komisyonu tarafından 17 Aralık süreciyle ilgili yürütülen çalışmalara getirilen yayın yasağı kamuoyunun gündemine geldi. Başbakan Ahmet Davutoğlu, söz konusu yasağın gerekliliğini savunan açıklamalarda bulundu. Yürütülen hukuki sürecin sağlıklı ilerlemesi adına alınan bu kararın gerekçeleri üzerinde duruldu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ahmet_Davuto%C4%9Flu_2022_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ahmet_Davuto%C4%9Flu_2022_%28cropped%29.jpg",
+        "genislik": 451,
+        "yukseklik": 613,
+        "orijinalGenislik": 451,
+        "yazar": "https://www.youtube.com/@voaturkce",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ahmet_Davuto%C4%9Flu_2022_(cropped).jpg",
+        "aciklama": "Gelecek Partisi Genel Başkanı Ahmet Davutoğlu",
+        "konu": "Ahmet Davutoğlu"
+      }
     },
     {
       "id": "2013-haber-14839",
@@ -1951,10 +2286,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-bir-taka-kaptaninin-ogludur-14839"
       },
-      "konular": [],
+      "konular": [
+        "Binali Yıldırım",
+        "Van Yüzüncü Yıl Üniversitesi",
+        "Hüseyin Çelik"
+      ],
       "yayin": "2013-12-01T20:04:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Binali Yıldırım'a Yüzüncü Yıl Üniversitesi'nden Fahri Doktora Unvanı",
+      "ozet": "Yüzüncü Yıl Üniversitesi tarafından düzenlenen törenle Ulaştırma, Denizcilik ve Haberleşme Bakanı Binali Yıldırım'a fahri doktora unvanı takdim edildi. Etkinlikte bir konuşma gerçekleştiren AK Parti Genel Başkan Yardımcısı Hüseyin Çelik, Başbakan Recep Tayyip Erdoğan'ın denizcilik geçmişine vurgu yaparak bir taka kaptanının oğlu olduğunu ifade etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2013-haber-14819",
@@ -1967,10 +2309,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-bir-kredi-karti-cikisi-daha-14819"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Muğla",
+        "Kredi kartı"
+      ],
       "yayin": "2013-12-01T16:51:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Başbakan Erdoğan'dan kredi kartı kullanımı hakkında uyarı",
+      "ozet": "Muğla ilinde halka hitap eden Başbakan Recep Tayyip Erdoğan, kredi kartı kullanımıyla ilgili değerlendirmelerde bulundu. Vatandaşları borçlanma konusunda dikkatli olmaya çağıran Erdoğan, kredi kartı harcamaları hakkında uyarılarda bulundu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2012-haber-387384",
@@ -1983,10 +2332,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kuveytte-parlamento-secimleri-basladi-387384"
       },
-      "konular": [],
+      "konular": [
+        "Kuveyt",
+        "Parlamento"
+      ],
       "yayin": "2012-12-01T11:15:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Kuveyt parlamento seçimleri için sandık başına gitti",
+      "ozet": "Kuveyt genelinde seçim mevzuatında gerçekleştirilen düzenlemelerin ardından yaşanan siyasi tartışmalar sürerken halk sandık başına gitti. Ülkedeki parlamento seçimleri kapsamında oy verme süreci resmen başlatıldı.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2012-haber-387394",
@@ -1999,10 +2355,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yeni-anayasa-taslaginin-referandum-tarihi-belli-oldu-387394"
       },
-      "konular": [],
+      "konular": [
+        "2012 Mısır anayasa referandumu",
+        "Muhammed Mursi",
+        "Mısır"
+      ],
       "yayin": "2012-12-01T11:52:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Mısır'da yeni anayasa taslağı için referandum tarihi belirlendi",
+      "ozet": "Mısır Cumhurbaşkanı Muhammed Mursi, hazırlanan yeni anayasa metninin halk oyuna sunulacağı tarihi açıkladı. Yapılan resmi duyuruya göre, anayasa taslağı 15 Aralık tarihinde referandum yoluyla halkın onayına sunulacak.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Mohamed_Morsi-05-2013.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Mohamed_Morsi-05-2013.jpg",
+        "genislik": 684,
+        "yukseklik": 913,
+        "orijinalGenislik": 684,
+        "yazar": "Wilson Dias/ABr",
+        "lisans": "CC BY 3.0 br",
+        "lisansUrl": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mohamed_Morsi-05-2013.jpg",
+        "aciklama": "A presidenta brasileira, Dilma Rousseff recebe, no Palácio do Planalto, o presidente egípcio, Mohamed Morsi",
+        "konu": "Muhammed Mursi"
+      }
     },
     {
       "id": "2011-haber-302212",
@@ -2015,10 +2391,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/chpli-orandan-basbakana-vip-sorusu-302212"
       },
-      "konular": [],
+      "konular": [
+        "Umut Oran",
+        "Recep Tayyip Erdoğan",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2011-12-01T14:42:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Umut Oran VIP uygulamaları hakkında soru önergesi verdi",
+      "ozet": "Cumhuriyet Halk Partisi İstanbul Milletvekili Umut Oran, Başbakan Recep Tayyip Erdoğan'ın yanıtlaması istemiyle Türkiye Büyük Millet Meclisi'ne bir soru önergesi sundu. Oran, VIP salonlarının kullanımı ve bu alandaki uygulamalarla ilgili çeşitli konularda bilgi talep etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2011-haber-302190",
@@ -2031,10 +2414,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-bakanlar-kuruluna-katilabilecek-mi-302190"
       },
-      "konular": [],
+      "konular": [
+        "Bakanlar Kurulu",
+        "Bülent Arınç",
+        "Recep Tayyip Erdoğan"
+      ],
       "yayin": "2011-12-01T12:07:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Bakanlar Kurulu Toplantısı Hakkında Açıklama Yapıldı",
+      "ozet": "Başbakan Yardımcısı Bülent Arınç, Başbakan Recep Tayyip Erdoğan ile gerçekleştirdiği telefon görüşmesinin detaylarını paylaştı. Arınç, Erdoğan'ın Bakanlar Kurulu toplantısına katılarak görevine pazartesi günü dönmeyi planladığını ifade etti.",
+      "kategori": "Siyaset"
     }
   ],
   "haberYillari": [

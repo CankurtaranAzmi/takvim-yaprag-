@@ -1041,7 +1041,7 @@
     "url": "https://tr.wikipedia.org/wiki/27_Kas%C4%B1m",
     "revid": 36450272
   },
-  "guncelleme": "2026-11-25T16:55:36.192Z",
+  "guncelleme": "2026-11-26T16:33:32.963Z",
   "haberler": [
     {
       "id": "2025-haber-2456342",
@@ -1054,10 +1054,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/depremde-yikilan-ogrenci-yurdu-sorusturmasi-1000-gun-sonra-muteahhit-oldu-gerekcesiyle-kapatildi-aileler-karara-itiraz-etti-2456342"
       },
-      "konular": [],
+      "konular": [
+        "2023 Kahramanmaraş depremleri",
+        "İskenderun",
+        "Soruşturma"
+      ],
       "yayin": "2025-11-27T11:52:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Yıkılan öğrenci yurdu soruşturması müteahhidin ölümüyle kapandı",
+      "ozet": "İskenderun Cumhuriyet Başsavcılığı, deprem felaketinde yıkılan ve içerisinde öğrenci yurdunun da yer aldığı Büyük Çarşı İş Hanı hakkındaki soruşturmayı sonlandırdı. Binayı inşa eden kişinin yaşamını yitirmiş olması nedeniyle alınan bu karara, hayatını kaybedenlerin yakınları tarafından itiraz edildi. Soruşturma süreci, depremin üzerinden geçen bin günlük zaman diliminin ardından müteahhidin vefatı gerekçe gösterilerek kapatıldı.",
+      "kategori": "Afet",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Collage_of_2023_Turkey%E2%80%93Syria_earthquake.jpg/960px-Collage_of_2023_Turkey%E2%80%93Syria_earthquake.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Collage_of_2023_Turkey%E2%80%93Syria_earthquake.jpg/500px-Collage_of_2023_Turkey%E2%80%93Syria_earthquake.jpg",
+        "genislik": 960,
+        "yukseklik": 960,
+        "orijinalGenislik": 1400,
+        "yazar": "Adem",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Collage_of_2023_Turkey%E2%80%93Syria_earthquake.jpg",
+        "aciklama": "2023 Turkey–Syria earthquake",
+        "konu": "2023 Kahramanmaraş depremleri"
+      }
     },
     {
       "id": "2025-haber-2456395",
@@ -1070,10 +1090,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/mtv-ye-zam-2026-motorlu-tasitlar-vergisi-ne-kadar-oldu-mtv-ne-kadar-zamlandi-2456395"
       },
-      "konular": [],
+      "konular": [
+        "Motorlu Taşıtlar Vergisi",
+        "Resmi Gazete",
+        "Vergi"
+      ],
       "yayin": "2025-11-27T14:10:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "2026 Yılı Motorlu Taşıtlar Vergisi Oranları Belirlendi",
+      "ozet": "Resmi Gazete aracılığıyla duyurulan yeni düzenleme ile gelecek yıl uygulanacak yeniden değerleme oranı kesinleşti. Buna göre vergi ve harç kalemlerinde yüzde 25,49 oranında bir artış yapılması kararlaştırıldı. Söz konusu düzenleme ile birlikte 2026 yılı için ödenecek Motorlu Taşıtlar Vergisi tutarları da bu orana göre güncellenmiş oldu.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2024-haber-2273139",
@@ -1086,10 +1113,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/ibbnin-2025-yili-butcesi-564-milyar-lira-olarak-kabul-edildi-2273139"
       },
-      "konular": [],
+      "konular": [
+        "İstanbul Büyükşehir Belediyesi",
+        "Ekrem İmamoğlu",
+        "İstanbul"
+      ],
       "yayin": "2024-11-27T00:11:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İstanbul Büyükşehir Belediyesi 2025 Yılı Bütçesi Onaylandı",
+      "ozet": "İstanbul Büyükşehir Belediyesi tarafından hazırlanan 2025 mali yılı bütçesi, belediye meclisindeki görüşmelerin ardından karara bağlandı. İSKİ ve İETT kurumlarının da dahil edildiği toplam 564 milyar liralık bütçe tasarısı, yapılan oylama sonucunda oy çokluğuyla kabul edildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2024-haber-2273476",
@@ -1102,10 +1136,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/karabukte-kar-yagisi-nedeniyle-kapanan-yollar-ulasima-acildi-2273476"
       },
-      "konular": [],
+      "konular": [
+        "Karabük",
+        "Kar yağışı"
+      ],
       "yayin": "2024-11-27T17:58:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Karabük'te kar nedeniyle kapanan köy yolları trafiğe açıldı",
+      "ozet": "Karabük Valiliği, bölgede etkili olan yoğun kar yağışı sebebiyle ulaşıma kapanan köy yollarının durumuna ilişkin bir duyuru yaptı. Yapılan çalışmalar neticesinde kapanan 274 köy yolunun tamamı yeniden araç trafiğine uygun hale getirildi.",
+      "kategori": "Ulaşım"
     },
     {
       "id": "2023-haber-2145182",
@@ -1118,10 +1158,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/chp-parti-meclisi-af-ve-tuzuk-kurultayinin-tarihini-belirlemek-icin-2145182"
       },
-      "konular": [],
+      "konular": [
+        "Cumhuriyet Halk Partisi",
+        "Siyaset"
+      ],
       "yayin": "2023-11-27T03:00:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhuriyet Halk Partisi Parti Meclisi Kurultay Gündemiyle Toplanıyor",
+      "ozet": "Cumhuriyet Halk Partisi Parti Meclisi, disiplin cezası bulunan üyeler için gündeme gelen yüzüncü yıl affı ve tüzük kurultayının zamanlamasını görüşmek üzere bir araya geldi. İl başkanlarının önerisi doğrultusunda mayıs ayının değerlendirildiği toplantı sonrasında, tüzük komisyonu hazırlık süreçlerini başlatacak.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2023-haber-2145497",
@@ -1134,10 +1180,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/ibb-meclisinde-onaylandi-en-yuksek-butceli-ilce-belli-oldu-2145497"
       },
-      "konular": [],
+      "konular": [
+        "İstanbul Büyükşehir Belediyesi",
+        "Esenyurt",
+        "Belediye bütçesi"
+      ],
       "yayin": "2023-11-27T16:50:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İstanbul ilçe belediyelerinin 2024 mali bütçeleri onaylandı",
+      "ozet": "İstanbul Büyükşehir Belediyesi Meclisi, çeşitli ilçe belediyelerinin gelecek yıla ait bütçe tasarılarını görüşerek karara bağladı. Yapılan oylama sonucunda Sultangazi, Şile, Şişli, Tuzla, Ümraniye, Üsküdar ve Zeytinburnu belediyelerinin bütçeleri oy birliğiyle kabul edildi. Kent genelindeki ilçe belediyeleri arasında en yüksek bütçeye sahip olan yer ise 8 milyar 387 milyon 500 bin liralık pay ile Esenyurt oldu.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2022-haber-2006597",
@@ -1150,10 +1203,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/adalet-bakanligi-39-milletvekili-hakkindaki-fezlekeleri-cumhurbaskanligina-gonderdi-kilicdaroglu-dosyasi-da-2006597"
       },
-      "konular": [],
+      "konular": [
+        "Kemal Kılıçdaroğlu",
+        "Türkiye Büyük Millet Meclisi",
+        "Adalet Bakanlığı"
+      ],
       "yayin": "2022-11-27T12:54:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Adalet Bakanlığı 39 Milletvekili Hakkında Hazırlanan Fezlekeleri İletti",
+      "ozet": "Adalet Bakanlığı, çeşitli milletvekilleri hakkında düzenlenen toplam 63 adet fezlekeyi Türkiye Büyük Millet Meclisi'ne ulaştırılmak üzere Cumhurbaşkanlığı makamına sundu. Söz konusu dosyalar arasında Cumhuriyet Halk Partisi Genel Başkanı Kemal Kılıçdaroğlu'na ait olan fezleke de yer aldı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-2006538",
@@ -1166,10 +1226,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/avrupa-senyor-kulup-sampiyonasinda-kazananlar-belli-oldu-2006538"
       },
-      "konular": [],
+      "konular": [
+        "Antalya",
+        "Tenis"
+      ],
       "yayin": "2022-11-27T09:26:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Avrupa Senyör Kulüp Şampiyonası'nda dereceye girenler belirlendi",
+      "ozet": "Antalya ev sahipliğinde gerçekleştirilen Avrupa Senyör Kulüp Şampiyonası tamamlandı. Organizasyon kapsamında otuz ile elli yaş aralığındaki sporcuların mücadele ettiği kategorilerde şampiyon olan isimler ve takımlar netleşti. Turnuva sonunda başarılı olan katılımcılara ödülleri takdim edildi.",
+      "kategori": "Spor"
     },
     {
       "id": "2021-haber-1888070",
@@ -1182,10 +1248,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/2022-yili-butcesi-tbmm-plan-ve-butce-komisyonunda-kabul-edildi-1888070"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Bütçe"
+      ],
       "yayin": "2021-11-27T01:54:00+03:00",
       "puan": 17,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Gelecek Yılın Merkezi Yönetim Bütçe Teklifi Komisyondan Geçti",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, önümüzdeki yılın merkezi yönetim bütçesine ilişkin kanun teklifini görüşerek onayladı. Yapılan değerlendirmelerin ardından kabul edilen bütçe tasarısı, yasalaşma sürecinin bir sonraki aşamasına taşındı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2021-haber-1888182",
@@ -1198,10 +1270,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/rekor-zamlarin-ardindan-artan-ucretler-en-ucuz-aracta-mtv-795-lira-olacak-1888182"
       },
-      "konular": [],
+      "konular": [
+        "Motorlu Taşıtlar Vergisi",
+        "Türkiye İstatistik Kurumu",
+        "Vergi"
+      ],
       "yayin": "2021-11-27T16:12:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Yeniden değerleme oranı ile vergi ve harçlara rekor zam geldi",
+      "ozet": "Türkiye İstatistik Kurumu tarafından paylaşılan verilere göre yeniden değerleme oranı yüzde 36,2 seviyesine ulaştı. Bu gelişmeyle birlikte ceza, harç ve damga vergisi gibi kalemlerde son on dokuz yılın en yüksek artışı gerçekleşti. Söz konusu düzenleme neticesinde devletin vatandaşlardan tahsil edeceği maktu vergi tutarları yeni yılda önemli ölçüde yükseldi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2020-haber-1794428",
@@ -1214,10 +1293,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tbmm-plan-ve-butce-komisyonunda-tek-dil-tartismasi-nedeniyle-gorusmelere-ara-verildi-1794428"
       },
-      "konular": [],
+      "konular": [
+        "TBMM Plan ve Bütçe Komisyonu",
+        "Türkiye Büyük Millet Meclisi",
+        "Siyaset"
+      ],
       "yayin": "2020-11-27T22:18:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Bütçe görüşmelerinde dil tartışması nedeniyle oturuma ara verildi",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu bünyesinde gerçekleştirilen bütçe görüşmeleri sırasında dil kullanımı üzerine bir anlaşmazlık yaşandı. Tartışmanın büyümesi üzerine komisyon başkanı oturuma kısa bir süre ara verme kararı aldı. Görüşmelerdeki gerginlik nedeniyle toplantı gündemine geçici olarak devam edilemedi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2020-haber-1794412",
@@ -1230,10 +1316,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/2021-yili-butcesi-kabul-edildi-1794412"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Bütçe"
+      ],
       "yayin": "2020-11-27T21:12:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "2021 Yılı Merkezi Yönetim Bütçe Tasarısı Komisyondan Geçti",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, gelecek yıla ait bütçe teklifini görüşerek onayladı. Yapılan değerlendirmelerin ardından kabul edilen tasarı, bütçe sürecinin bir sonraki aşamasına taşındı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2019-haber-1704743",
@@ -1246,10 +1338,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/iettnin-2020-butcesi-kabul-edildi-1704743"
       },
-      "konular": [],
+      "konular": [
+        "İETT",
+        "İstanbul Büyükşehir Belediyesi",
+        "Metrobüs"
+      ],
       "yayin": "2019-11-27T19:01:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İETT Genel Müdürlüğü'nün 2020 yılı bütçesi meclis tarafından onaylandı",
+      "ozet": "İstanbul Büyükşehir Belediyesi Meclisi, İETT Genel Müdürlüğü'nün gelecek yıl için hazırladığı bütçe tasarısını kabul etti. Kurum yetkilileri, bütçe kapsamında metrobüs filosunun yenilenmesi amacıyla elli adet yüksek kapasiteli yeni araç alımı yapılacağını duyurdu. Bu planlama doğrultusunda önümüzdeki süreçte tüm metrobüs araçlarının kademeli olarak değiştirilmesi hedefleniyor.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2019-haber-1704814",
@@ -1262,10 +1361,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dunyanin-ilk-hiv-pozitif-sperm-bankasi-yeni-zelandada-acildi-1704814"
       },
-      "konular": [],
+      "konular": [
+        "HIV",
+        "Sperm bankası",
+        "Yeni Zelanda"
+      ],
       "yayin": "2019-11-27T18:53:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Yeni Zelanda'da HIV pozitif bireylere yönelik ilk sperm bankası kuruldu",
+      "ozet": "Yeni Zelanda'da HIV ile yaşayan bireylerin bağış yapabilmesi amacıyla dünyada bir ilk gerçekleştirildi. Hastalığa karşı toplumdaki ön yargıları kırmayı hedefleyen bu merkez, virüs yükü tıbbi olarak tespit edilemeyecek düzeyde düşük olan üç gönüllünün bağışlarıyla faaliyetlerine başladı.",
+      "kategori": "Toplum",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/HIV-budding-Color.jpg/960px-HIV-budding-Color.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/HIV-budding-Color.jpg/500px-HIV-budding-Color.jpg",
+        "genislik": 960,
+        "yukseklik": 638,
+        "orijinalGenislik": 2967,
+        "yazar": "Photo Credit: C. Goldsmith Content Providers: CDC/ C. Goldsmith, P. Feorino, E. L. Palmer, W. R. McManus",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:HIV-budding-Color.jpg",
+        "aciklama": "Scanning electron micrograph of HIV-1 budding (in green) from cultured lymphocyte. This image has been colored to highlight important features; see PHIL 1197 for original black and white view of this ",
+        "konu": "HIV"
+      }
     },
     {
       "id": "2018-haber-1152959",
@@ -1278,10 +1397,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/feto-davasinda-cumhurbaskani-avukatlarini-soke-eden-karar-1152959"
       },
-      "konular": [],
+      "konular": [
+        "Fetullahçı Terör Örgütü",
+        "Şahabettin Harput",
+        "Bursa"
+      ],
       "yayin": "2018-11-27T13:31:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "FETÖ davasında avukatların duruşma salonundan ayrılma kararı",
+      "ozet": "Eski Bursa Valisi Şahabettin Harput'un da yargılandığı FETÖ davasının karar duruşmasında gergin anlar yaşandı. Cumhurbaşkanlığı avukatlarının davaya katılma talepleri mahkeme heyeti tarafından kabul edilmedi. Bu gelişme üzerine avukatlar duruşma salonunu terk ederek tepkilerini gösterdi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2017-haber-875045",
@@ -1294,10 +1420,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/izmirde-yilbasinda-suya-yuzde-10-zam-karari-875045"
       },
-      "konular": [],
+      "konular": [
+        "İZSU",
+        "İzmir Büyükşehir Belediyesi",
+        "İzmir"
+      ],
       "yayin": "2017-11-27T23:33:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İzmir su tarifelerinde yeni yıl itibarıyla artış kararı alındı",
+      "ozet": "İzmir Büyükşehir Belediyesi bünyesindeki İZSU Genel Kurulu, kurumun gelecek dönem bütçesini onayladı. Yapılan görüşmeler sonucunda belirlenen mali plan kapsamında, şehirdeki su kullanım ücretlerine ocak ayından itibaren geçerli olmak üzere yüzde on oranında zam yapılması kararlaştırıldı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2017-haber-874663",
@@ -1310,10 +1443,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yavuz-sultan-selim-koprusunde-yangin-panigi-kopru-tekrar-ulasima-acildi-874663"
       },
-      "konular": [],
+      "konular": [
+        "Yavuz Sultan Selim Köprüsü",
+        "İstanbul"
+      ],
       "yayin": "2017-11-27T13:22:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Yavuz Sultan Selim Köprüsü'nde araç yangını kontrol altına alındı",
+      "ozet": "Yavuz Sultan Selim Köprüsü girişinde seyir halindeki bir otomobilde henüz belirlenemeyen bir nedenle yangın meydana geldi. İtfaiye ekiplerinin müdahalesiyle kısa sürede söndürülen yangın sonrasında, köprüdeki trafik akışı kontrollü bir şekilde yeniden sağlandı.",
+      "kategori": "Ulaşım"
     },
     {
       "id": "2016-haber-636592",
@@ -1326,10 +1465,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ibb-onay-verdi-deniz-harp-okulu-kislasi-imara-acildi-636592"
       },
-      "konular": [],
+      "konular": [
+        "Deniz Harp Okulu",
+        "Tuzla",
+        "İstanbul Büyükşehir Belediyesi"
+      ],
       "yayin": "2016-11-27T11:47:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Deniz Harp Okulu arazisinin bir bölümü imar planına dahil edildi",
+      "ozet": "Tuzla Kaymakamlığı, Deniz Harp Okulu bünyesindeki sekiz bin metrekarelik alanın kullanım hakkını talep etti. Milli Savunma Bakanlığı tarafından uygun görülen bu talep doğrultusunda, söz konusu bölge eğitim alanı olarak yeniden düzenlendi. İstanbul Büyükşehir Belediyesi de bu değişikliğe onay vererek arazinin imara açılmasını sağladı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2016-haber-636734",
@@ -1342,10 +1488,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/van-depreminde-firar-eden-mahkum-5-yil-sonra-yakalandi-636734"
       },
-      "konular": [],
+      "konular": [
+        "2011 Van depremi",
+        "Van"
+      ],
       "yayin": "2016-11-27T19:55:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Van depremi sonrası firar eden hükümlü yakalandı",
+      "ozet": "Van ilinde meydana gelen deprem felaketinin ardından hasar gören cezaevinden kaçmayı başaran bir mahkum, güvenlik güçlerinin çalışmaları sonucunda bulundu. Olaydan beş yıl sonra yakalanan şahıs, emniyet birimleri tarafından gözaltına alındı.",
+      "kategori": "Toplum"
     },
     {
       "id": "2015-haber-434561",
@@ -1358,10 +1510,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/orgeneral-akar-ve-mit-mustesari-fidan-bakanlar-kurulu-toplantisina-katilacak-434561"
       },
-      "konular": [],
+      "konular": [
+        "Hulusi Akar",
+        "Hakan Fidan",
+        "Bakanlar Kurulu"
+      ],
       "yayin": "2015-11-27T18:53:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Bakanlar Kurulu toplantısında güvenlik zirvesi gerçekleştirilecek",
+      "ozet": "Genelkurmay Başkanı Orgeneral Hulusi Akar ile Milli İstihbarat Teşkilatı Müsteşarı Hakan Fidan, Bakanlar Kurulu toplantısında yer aldı. Söz konusu görüşmede güvenlik konuları ve güncel gelişmelerin ele alınması planlandı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2015-haber-434025",
@@ -1374,10 +1533,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/muhabirimiz-alican-uludaga-erdogan-sorusturmasi-434025"
       },
-      "konular": [],
+      "konular": [
+        "Alican Uludağ",
+        "Cumhuriyet (gazete)",
+        "Recep Tayyip Erdoğan"
+      ],
       "yayin": "2015-11-27T11:38:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Gazeteci Alican Uludağ hakkında hukuki süreç başlatıldı",
+      "ozet": "Cumhuriyet Gazetesi bünyesinde görev yapan muhabir Alican Uludağ hakkında bir soruşturma açıldı. Söz konusu işlemin gerekçesi olarak, Cumhurbaşkanı Recep Tayyip Erdoğan tarafından sunulan şikayet dilekçesinin sosyal medya platformlarında paylaşılması gösterildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2014-haber-150529",
@@ -1390,10 +1556,15 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-liginde-gecenin-sonuclari-150529"
       },
-      "konular": [],
+      "konular": [
+        "UEFA Şampiyonlar Ligi"
+      ],
       "yayin": "2014-11-27T08:24:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "UEFA Şampiyonlar Ligi grup aşamasında beşinci hafta maçları sona erdi",
+      "ozet": "Avrupa futbolunun kulüpler düzeyindeki en prestijli organizasyonu olan UEFA Şampiyonlar Ligi'nde beşinci hafta müsabakaları tamamlandı. Oynanan karşılaşmalarla birlikte gruplardaki puan durumu netleşmeye başladı ve turnuvanın bir sonraki aşamasına geçiş süreci hız kazandı.",
+      "kategori": "Spor"
     },
     {
       "id": "2014-haber-150533",
@@ -1406,10 +1577,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-kamu-duzenini-herkes-sahiplenmeli-150533"
       },
-      "konular": [],
+      "konular": [
+        "Çözüm süreci",
+        "Ahmet Davutoğlu",
+        "Türkiye siyaseti"
+      ],
       "yayin": "2014-11-27T08:32:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Başbakan Davutoğlu'ndan Kamu Düzeni ve Çözüm Süreci Vurgusu",
+      "ozet": "Dönemin Başbakanı Ahmet Davutoğlu, çözüm sürecinin kararlılıkla devam edeceğini ifade etti. Toplumsal huzurun korunması adına kamu düzeninin tüm vatandaşlar tarafından benimsenmesi gerektiğini belirtti. Süreçten herhangi bir geri adım atılmayacağının altını çizdi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Kurdistan_of_Turkey_%28CIA%29.png/960px-Kurdistan_of_Turkey_%28CIA%29.png",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Kurdistan_of_Turkey_%28CIA%29.png/500px-Kurdistan_of_Turkey_%28CIA%29.png",
+        "genislik": 960,
+        "yukseklik": 469,
+        "orijinalGenislik": 2000,
+        "yazar": "Çalak talk",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kurdistan_of_Turkey_(CIA).png",
+        "aciklama": "Kurdish inhabited regions of Turkiye",
+        "konu": "Çözüm süreci"
+      }
     },
     {
       "id": "2013-haber-13413",
@@ -1422,10 +1613,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/cihatci-orgut-erdogani-kafir-ilan-etti-13413"
       },
-      "konular": [],
+      "konular": [
+        "Suriye Türkmen Meclisi",
+        "Recep Tayyip Erdoğan",
+        "Suriye İç Savaşı"
+      ],
       "yayin": "2013-11-27T05:00:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Suriye Türkmen Meclisi Başkanı'ndan Türkiye ve Erdoğan açıklaması",
+      "ozet": "Suriye Türkmen Meclisi Başkanı Amro, bölgedeki bazı radikal grupların Türkiye'ye ve Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik bakış açısını değerlendirdi. Amro, söz konusu örgütlerin Türkiye'yi ve Erdoğan'ı kafir olarak nitelendirdiğini ifade etti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2013-haber-13617",
@@ -1438,10 +1649,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/super-ligde-istifa-depremi-13617"
       },
-      "konular": [],
+      "konular": [
+        "Elazığspor",
+        "Süper Lig"
+      ],
       "yayin": "2013-11-27T14:24:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Sanica Boru Elazığspor'da üst düzey istifalar yaşandı",
+      "ozet": "Ligde çıktığı son sekiz karşılaşmadan mağlubiyetle ayrılan Sanica Boru Elazığspor'da yönetimsel bir değişim gerçekleşti. Teknik ekipte değişikliğe giden kulüpte, Sportif Direktör Yasir Elmacı ile Genel Menejer Özgür Öztürk görevlerini bıraktıklarını duyurdu.",
+      "kategori": "Spor"
     },
     {
       "id": "2012-haber-386318",
@@ -1454,10 +1671,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/asgari-ucrette-zam-pazarligi-basliyor-386318"
       },
-      "konular": [],
+      "konular": [
+        "Asgari ücret",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2012-11-27T09:44:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Asgari ücret belirleme görüşmeleri süreci başlıyor",
+      "ozet": "Çalışanların maaşlarında yapılacak artış oranını belirlemek amacıyla gerçekleştirilecek olan asgari ücret görüşmeleri resmi olarak başladı. Taraflar yeni dönemdeki ücret seviyesini kararlaştırmak üzere bir araya geldi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2012-haber-386392",
@@ -1470,10 +1693,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-kendi-halkina-yalan-soyluyor-386392"
       },
-      "konular": [],
+      "konular": [
+        "Kemal Kılıçdaroğlu",
+        "Cumhuriyet Halk Partisi",
+        "Yasama dokunulmazlığı"
+      ],
       "yayin": "2012-11-27T11:44:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Kılıçdaroğlu dokunulmazlıkların kaldırılması çağrısını yineledi",
+      "ozet": "Cumhuriyet Halk Partisi Genel Başkanı Kemal Kılıçdaroğlu, partisinin grup toplantısında yaptığı konuşmada hükümet politikalarını eleştirdi. Dokunulmazlıkların kaldırılması konusundaki tartışmalara değinen Kılıçdaroğlu, kürsü dokunulmazlığı dışındaki tüm dokunulmazlıkların kaldırılması gerektiğini savundu. Partisinin bu konudaki tutumunun net olduğunu belirten Kılıçdaroğlu, kürsü dokunulmazlığı haricindeki tüm ayrıcalıkların son bulması yönündeki görüşünü paylaştı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2011-haber-301180",
@@ -1486,10 +1716,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/2011in-son-grand-prixsinin-sampiyonu-webber-301180"
       },
-      "konular": [],
+      "konular": [
+        "Brezilya Grand Prix",
+        "Mark Webber",
+        "Formula 1"
+      ],
       "yayin": "2011-11-27T20:19:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Brezilya Grand Prix yarışını Mark Webber kazandı",
+      "ozet": "Formula 1 takviminin 2011 yılındaki son mücadelesi olan Brezilya Grand Prix sona erdi. Sezonun on dokuzuncu ve final yarışı olma özelliğini taşıyan bu organizasyonda, Red Bull takımının Avustralyalı sürücüsü Mark Webber damalı bayrağı ilk sırada geçerek birinciliğe ulaştı.",
+      "kategori": "Spor"
     },
     {
       "id": "2011-haber-301156",
@@ -1502,10 +1739,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/semih-erden-spor-toto-spor-salonu-acildi-301156"
       },
-      "konular": [],
+      "konular": [
+        "Semih Erden",
+        "Bayrampaşa",
+        "Basketbol"
+      ],
       "yayin": "2011-11-27T16:47:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Bayrampaşa'da Semih Erden Spor Salonu hizmete girdi",
+      "ozet": "Milli basketbolcu Semih Erden'in adını taşıyan yeni spor tesisi, Bayrampaşa ilçesinde düzenlenen törenle kapılarını açtı. Sporcunun isminin verildiği salon, bölgedeki sportif faaliyetlere ev sahipliği yapmak üzere kullanıma sunuldu.",
+      "kategori": "Spor"
     }
   ],
   "haberYillari": [

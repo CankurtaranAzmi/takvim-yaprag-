@@ -540,7 +540,7 @@
     },
     {
       "yil": 1933,
-      "metin": "Arthur E. Bartlett, Amerikalı iş insanı (ö. 2009)"
+      "metin": "Arthur E. Bartlett, Amerikalı iş adamı (ö. 2009)"
     },
     {
       "yil": 1933,
@@ -628,7 +628,7 @@
     },
     {
       "yil": 1962,
-      "metin": "Erol Bilecik, Türk iş insanı"
+      "metin": "Erol Bilecik, Türk iş adamı"
     },
     {
       "yil": 1963,
@@ -842,7 +842,7 @@
     },
     {
       "yil": 1989,
-      "metin": "Ahmed Abdallah, Komorlu iş insanı ve siyasetçi (d. 1919)"
+      "metin": "Ahmed Abdallah, Komorlu iş adamı ve siyasetçi (d. 1919)"
     },
     {
       "yil": 1990,
@@ -997,9 +997,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/26_Kas%C4%B1m",
-    "revid": 37554768
+    "revid": 38704934
   },
-  "guncelleme": "2026-11-25T16:55:35.723Z",
+  "guncelleme": "2026-11-26T16:33:32.582Z",
   "haberler": [
     {
       "id": "2025-haber-2456114",
@@ -1012,10 +1012,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/dev-bankadan-altinda-yeni-rekor-tahmini-2026-yilinda-yeni-zirveler-gorulecek-2456114"
       },
-      "konular": [],
+      "konular": [
+        "Altın",
+        "Deutsche Bank",
+        "Ekonomi"
+      ],
       "yayin": "2025-11-26T15:20:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Deutsche Bank altın fiyatlarında yükseliş beklentisini paylaştı",
+      "ozet": "Deutsche Bank tarafından yayınlanan güncel analizde altın piyasasına dair iyimser öngörüler yer aldı. Küresel ölçekte artan yatırımcı talebinin fiyatları yukarı taşıdığı belirtilen raporda, önümüzdeki dönemde değerli metalin yeni zirvelere ulaşabileceği ifade edildi. Banka yetkilileri piyasadaki genel beklentinin yükseliş yönünde olduğunu vurguladı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2025-haber-2456128",
@@ -1028,10 +1035,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/12-dev-adam-in-dunya-kupasi-yolculugu-basliyor-2456128"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye millî basketbol takımı",
+        "FIBA Basketbol Dünya Kupası"
+      ],
       "yayin": "2025-11-26T15:56:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "A Milli Erkek Basketbol Takımı Dünya Kupası Elemeleri'ne başlıyor",
+      "ozet": "A Milli Erkek Basketbol Takımı, 2027 Dünya Kupası Avrupa Elemeleri kapsamındaki ilk müsabakasında Bosna Hersek ile karşı karşıya gelecek. Kendi sahasında oynanacak olan bu önemli karşılaşma perşembe günü akşam saatlerinde gerçekleşecek.",
+      "kategori": "Spor"
     },
     {
       "id": "2024-haber-2272868",
@@ -1044,10 +1057,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/tbmm-plan-ve-butce-komisyonu-gorusmelerinde-tartismalar-yasanirken-chp-2272868"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Ulaştırma ve Altyapı Bakanlığı",
+        "Abdülkadir Uraloğlu"
+      ],
       "yayin": "2024-11-26T11:20:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ulaştırma ve Altyapı Bakanlığı bütçe görüşmelerinde gergin anlar yaşandı",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu bünyesinde Ulaştırma ve Altyapı Bakanlığına ayrılan bütçenin ele alındığı toplantı sırasında gerginlikler meydana geldi. Bakan Abdülkadir Uraloğlu sunumunu gerçekleştirdiği esnada muhalefet kanadından itirazlar yükseldi. Cumhuriyet Halk Partisi temsilcileri, kamu özel işbirliği projeleri çerçevesinde gerçekleştirilen ödemeleri eleştirerek bu uygulamalara karşı tepkilerini dile getirdi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2023-haber-2145093",
@@ -1060,10 +1080,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/tbmmde-bu-hafta-fahis-fiyat-ve-vergi-istisnalari-gorusulecek-2145093"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Türkiye"
+      ],
       "yayin": "2023-11-26T16:54:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türkiye Büyük Millet Meclisi Genel Kurulu'nun Haftalık Gündemi",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, yeni haftada yoğun bir çalışma takvimiyle toplanmaya hazırlandı. Milletvekilleri, gündemlerinde yer alan çeşitli uluslararası anlaşmaların onaylanmasına ilişkin kanun tekliflerini değerlendirmek üzere mesai harcayacak. Ayrıca toplantılarda fahiş fiyat uygulamaları ve vergi istisnaları gibi ekonomi başlıkları da ele alınacak.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2023-haber-2145051",
@@ -1076,10 +1102,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/secil-erzanin-banka-kasasi-acildi-el-konuldu-2145051"
       },
-      "konular": [],
+      "konular": [
+        "Seçil Erzan",
+        "Çorlu",
+        "Dolandırıcılık"
+      ],
       "yayin": "2023-11-26T14:28:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Seçil Erzan'ın banka kasasında ve mal varlığında inceleme yapıldı",
+      "ozet": "Dolandırıcılık suçlamasıyla tutuklu bulunan banka müdürü Seçil Erzan'ın Çorlu'daki banka kasası yetkililer tarafından açıldı. Yapılan incelemeler sonucunda kasada altın bulunduğu tespit edildi. Ayrıca Erzan'ın Çorlu'da bir konut ve iş yeri ile Bozcaada'da bir bağ arazisine sahip olduğu belirlendi.",
+      "kategori": "Toplum",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%C3%87orluMunicipality.jpg/960px-%C3%87orluMunicipality.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%C3%87orluMunicipality.jpg/500px-%C3%87orluMunicipality.jpg",
+        "genislik": 960,
+        "yukseklik": 599,
+        "orijinalGenislik": 4744,
+        "yazar": "CeeGee",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87orluMunicipality.jpg",
+        "aciklama": "Municipal building in Çorlu, Tekirdağ, Turkey",
+        "konu": "Çorlu"
+      }
     },
     {
       "id": "2022-haber-2006349",
@@ -1092,10 +1138,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/portekizli-yildiz-cristiano-ronaldo-dunya-kupasindaki-rekorlarini-guncelledi-2006349"
       },
-      "konular": [],
+      "konular": [
+        "Cristiano Ronaldo",
+        "2022 FIFA Dünya Kupası",
+        "Portekiz millî futbol takımı"
+      ],
       "yayin": "2022-11-26T12:28:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cristiano Ronaldo Dünya Kupası tarihinde yeni bir rekora imza attı",
+      "ozet": "Katar ev sahipliğinde gerçekleştirilen 2022 FIFA Dünya Kupası müsabakalarında Portekiz milli takımında görev alan Cristiano Ronaldo, Gana ile yapılan karşılaşmada önemli bir başarıya ulaştı. Deneyimli futbolcu, bu maçta sergilediği performansla turnuva tarihindeki rekorlarına yenilerini ekleyerek kariyerindeki istatistiklerini geliştirdi.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/960px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/500px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1439,
+        "orijinalGenislik": 2812,
+        "yazar": "Bryan Berlin",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg",
+        "aciklama": "Cristiano Ronaldo during Croatia v Portugal on 2 July 2026 at the 2026 FIFA World Cup",
+        "konu": "Cristiano Ronaldo"
+      }
     },
     {
       "id": "2022-haber-2006350",
@@ -1108,10 +1174,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/yandas-isim-akp-ve-mhpde-konusulan-secim-tarihini-acikladi-2006350"
       },
-      "konular": [],
+      "konular": [
+        "Adalet ve Kalkınma Partisi",
+        "Milliyetçi Hareket Partisi",
+        "Türkiye'de seçimler"
+      ],
       "yayin": "2022-11-26T12:28:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhur İttifakı için seçim tarihi kulislerde konuşulmaya başlandı",
+      "ozet": "Gazeteci Zafer Şahin, iktidar kanadında yer alan partilerin seçim takvimi üzerine yürüttüğü görüşmeleri kamuoyuyla paylaştı. Yapılan değerlendirmeler sonucunda Cumhur İttifakı bünyesinde öne çıkan tarihin 14 Mayıs olduğu ifade edildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2021-haber-1887774",
@@ -1124,10 +1197,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/ibbnin-43-milyar-650-milyon-liralik-butcesi-kabul-edildi-1887774"
       },
-      "konular": [],
+      "konular": [
+        "İstanbul Büyükşehir Belediyesi",
+        "Ekrem İmamoğlu",
+        "İstanbul"
+      ],
       "yayin": "2021-11-26T00:33:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İstanbul Büyükşehir Belediyesi 2022 Yılı Bütçesi Onaylandı",
+      "ozet": "İstanbul Büyükşehir Belediyesi tarafından hazırlanan 43 milyar 650 milyon liralık bütçe tasarısı meclis görüşmelerinin ardından karara bağlandı. Yapılan oylama sonucunda bütçe teklifi oy çokluğu ile kabul edildi. Belediye Başkanı Ekrem İmamoğlu sürece dair değerlendirmelerde bulundu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2021-haber-1888000",
@@ -1140,10 +1220,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/osman-kavala-karari-sonrasi-dolar-yukselise-gecti-1888000"
       },
-      "konular": [],
+      "konular": [
+        "Osman Kavala",
+        "Gezi Parkı davası",
+        "Dolar"
+      ],
       "yayin": "2021-11-26T17:11:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Osman Kavala davasındaki tutukluluk kararı döviz piyasasını etkiledi",
+      "ozet": "Gezi davası kapsamında uzun süredir cezaevinde bulunan Osman Kavala için mahkeme heyeti tutukluluk halinin devamına hükmetti. Bu hukuki gelişmenin ardından döviz piyasalarında hareketlilik yaşandı ve dolar kurunda yukarı yönlü bir değişim gözlemlendi.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Osman_Kavala_2015.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Osman_Kavala_2015.jpg",
+        "genislik": 762,
+        "yukseklik": 779,
+        "orijinalGenislik": 762,
+        "yazar": "Janbazian",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Osman_Kavala_2015.jpg",
+        "aciklama": "Osman Kavala 2015",
+        "konu": "Osman Kavala"
+      }
     },
     {
       "id": "2020-haber-1794031",
@@ -1156,10 +1256,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/grekoromen-milli-takiminda-13-koronavirus-vakasi-1794031"
       },
-      "konular": [],
+      "konular": [
+        "Grekoromen güreş",
+        "COVID-19 pandemisi",
+        "Türkiye"
+      ],
       "yayin": "2020-11-26T14:13:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Grekoromen Güreş Milli Takımı'nda toplu koronavirüs vakası",
+      "ozet": "İstanbul'da hazırlık çalışmalarını sürdüren Büyükler Grekoromen Güreş A Milli Takımı'nda sağlık taraması yapıldı. Gerçekleştirilen testler sonucunda on üç sporcunun koronavirüs testinin pozitif olduğu belirlendi. Sporcuların sağlık durumları nedeniyle kampa ara verildi.",
+      "kategori": "Spor"
     },
     {
       "id": "2020-haber-1794089",
@@ -1172,10 +1279,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/turkiye-ve-katar-arasinda-10-anlasma-imzalandi-1794089"
       },
-      "konular": [],
+      "konular": [
+        "Borsa İstanbul",
+        "Türkiye Varlık Fonu",
+        "Katar"
+      ],
       "yayin": "2020-11-26T17:04:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Türkiye ve Katar Arasında On Farklı İş Birliği Anlaşması İmzalandı",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ile Katar Emiri Şeyh Temim bin Hamad Al Sani bir araya gelerek iki ülke arasındaki ilişkileri güçlendirecek on ayrı anlaşmaya imza attı. Bu kapsamda Türkiye Varlık Fonu ile Katar Yatırım Otoritesi arasında Borsa İstanbul hisselerinin yüzde onluk kısmının devredilmesine yönelik bir mutabakat metni oluşturuldu.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Istanbul-stock.jpg/960px-Istanbul-stock.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Istanbul-stock.jpg/500px-Istanbul-stock.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 3456,
+        "yazar": "Thomas Steiner",
+        "lisans": "CC BY-SA 2.5",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Istanbul-stock.jpg",
+        "aciklama": "Istanbul Stock Exchange",
+        "konu": "Borsa İstanbul"
+      }
     },
     {
       "id": "2019-haber-1704332",
@@ -1188,10 +1315,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yunanistanda-anayasa-degisikligi-kabul-edildi-1704332"
       },
-      "konular": [],
+      "konular": [
+        "Yunanistan Anayasası",
+        "Yunanistan Parlamentosu"
+      ],
       "yayin": "2019-11-26T07:52:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Yunanistan Parlamentosunda Anayasa Değişikliği Onaylandı",
+      "ozet": "Yunanistan yasama organında gerçekleştirilen oturumda, anayasa üzerinde düzenlemeler yapılmasını öngören kanun teklifi oylamaya sunuldu. Yapılan oylama sonucunda tasarı kabul edilerek yürürlüğe girdi.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2019-haber-1704487",
@@ -1204,10 +1338,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/avrupa-sampiyonasinda-turkiye-icin-1704487"
       },
-      "konular": [],
+      "konular": [
+        "Badminton",
+        "Serdar Koca",
+        "Türkiye"
+      ],
       "yayin": "2019-11-26T16:28:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Badminton Avrupa Takım Şampiyonası'nda Türkiye'yi Serdar Koca Temsil Edecek",
+      "ozet": "Badminton Avrupa Takım Şampiyonası'nda Türkiye adına mücadele edecek isim belli oldu. Milli sporcu Serdar Koca, turnuvada ülkesini temsil etmek üzere görevlendirildi.",
+      "kategori": "Spor"
     },
     {
       "id": "2018-haber-1151925",
@@ -1220,10 +1361,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-liginde-5-hafta-panoramasi-1151925"
       },
-      "konular": [],
+      "konular": [
+        "UEFA Şampiyonlar Ligi",
+        "Real Madrid CF",
+        "AS Roma"
+      ],
       "yayin": "2018-11-26T13:56:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "UEFA Şampiyonlar Ligi grup aşamasında beşinci hafta heyecanı başlıyor",
+      "ozet": "Avrupa futbolunun kulüpler düzeyindeki en prestijli organizasyonunda grup maçlarının beşinci haftası oynanacak sekiz karşılaşma ile start alıyor. E, F, G ve H gruplarındaki takımların sahaya çıkacağı gecenin en dikkat çeken mücadelesinde Roma, kendi sahasında Real Madrid ile karşı karşıya gelecek. Bu kritik müsabakadan galibiyetle ayrılan taraf, grubunda liderlik koltuğuna oturmayı başaracak.",
+      "kategori": "Spor"
     },
     {
       "id": "2018-haber-1151538",
@@ -1236,10 +1384,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/akpli-kurtulmus-af-tasarisi-secim-sonrasina-kalabilir-1151538"
       },
-      "konular": [],
+      "konular": [
+        "Numan Kurtulmuş",
+        "Milliyetçi Hareket Partisi",
+        "Adalet ve Kalkınma Partisi"
+      ],
       "yayin": "2018-11-26T09:13:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Af düzenlemesi ile ilgili çalışmaların ertelenmesi gündeme geldi",
+      "ozet": "Milliyetçi Hareket Partisi tarafından gündeme getirilen af tasarısı hakkındaki değerlendirmeler devam ediyor. Konuyla ilgili açıklama yapan Numan Kurtulmuş, söz konusu yasal düzenlemenin yerel seçimlerin sonrasına bırakılabileceğini ifade etti. Tasarının içeriği ve zamanlaması üzerindeki görüşmeler sürerken, sürecin seçim takvimiyle bağlantılı olarak yeniden değerlendirilebileceği belirtildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2017-haber-874174",
@@ -1252,10 +1407,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-hodri-meydan-ispat-et-istifa-edeyim-874174"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Kemal Kılıçdaroğlu",
+        "Adalet ve Kalkınma Partisi"
+      ],
       "yayin": "2017-11-26T15:15:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhurbaşkanı Erdoğan'dan iddialara yönelik istifa açıklaması",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, yakınlarının yurt dışına para transferi gerçekleştirdiği yönündeki iddialara yanıt verdi. Söz konusu iddiaları dile getiren Kemal Kılıçdaroğlu'na seslenen Erdoğan, yurt dışında herhangi bir varlığının bulunmadığını belirtti. İddiaların kanıtlanması durumunda görevinden ayrılacağını ifade etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2016-haber-636399",
@@ -1268,10 +1430,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/bu-zamana-kadar-hep-o-acmisti-bu-kez-erdogana-hakaret-davasi-aciliyor-636399"
       },
-      "konular": [],
+      "konular": [
+        "Barış İnce",
+        "Recep Tayyip Erdoğan",
+        "Gezi Parkı eylemleri"
+      ],
       "yayin": "2016-11-26T17:21:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Gazeteci Barış İnce Cumhurbaşkanı Erdoğan hakkında dava açacağını duyurdu",
+      "ozet": "Birgün gazetesi yazarı Barış İnce, Cumhurbaşkanı Recep Tayyip Erdoğan hakkında yasal yollara başvuracağını açıkladı. İnce, söz konusu girişimin gerekçesi olarak Erdoğan'ın Gezi Parkı eylemlerinde yer alan kişilere yönelik sarf ettiği ifadeleri gösterdi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2016-haber-636409",
@@ -1284,10 +1453,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tugrulhan-erdemir-dunya-sampiyonu-oldu-636409"
       },
-      "konular": [],
+      "konular": [
+        "Tuğrulhan Erdemir",
+        "Boks",
+        "Dünya Gençler Boks Şampiyonası"
+      ],
       "yayin": "2016-11-26T17:41:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Tuğrulhan Erdemir Dünya Gençler Boks Şampiyonu Oldu",
+      "ozet": "Rusya'nın St. Petersburg kentinde gerçekleştirilen Dünya Gençler Boks Şampiyonası'nda ringe çıkan milli sporcu Tuğrulhan Erdemir, 64 kilo kategorisinde altın madalyaya uzandı. Final müsabakasında karşılaştığı Rus rakibini mağlup etmeyi başaran Erdemir, dünya şampiyonluğu unvanını kazandı.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Boxing080905_photoshop.jpg/960px-Boxing080905_photoshop.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Boxing080905_photoshop.jpg/500px-Boxing080905_photoshop.jpg",
+        "genislik": 960,
+        "yukseklik": 593,
+        "orijinalGenislik": 1797,
+        "yazar": "Wayne Short",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Boxing080905_photoshop.jpg",
+        "aciklama": "Ricardo Dominguez (left) rallied late to win a decision over Oregon’s Rafael Ortiz in the night’s toughest fight.",
+        "konu": "Boks"
+      }
     },
     {
       "id": "2015-haber-432419",
@@ -1300,10 +1489,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yasin-oztekin-uefa-sampiyonu-olmak-istiyoruz-432419"
       },
-      "konular": [],
+      "konular": [
+        "Yasin Öztekin",
+        "Galatasaray",
+        "Atletico Madrid"
+      ],
       "yayin": "2015-11-26T00:06:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Yasin Öztekin Atletico Madrid Maçı Sonrası Değerlendirmelerde Bulundu",
+      "ozet": "Galatasaray forması giyen futbolcu Yasin Öztekin, Atletico Madrid karşısında alınan mağlubiyetin ardından basın mensuplarına konuştu. Oyuncu, müsabakanın ardından yaşanan gelişmeleri ve takımın performansını değerlendirdi.",
+      "kategori": "Spor"
     },
     {
       "id": "2015-haber-433659",
@@ -1316,10 +1512,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basketbol-sampiyonlar-ligi-basliyor-433659"
       },
-      "konular": [],
+      "konular": [
+        "Basketbol Şampiyonlar Ligi",
+        "FIBA"
+      ],
       "yayin": "2015-11-26T22:46:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "FIBA Basketbol Şampiyonlar Ligi Turnuvası Kuruluyor",
+      "ozet": "Uluslararası Basketbol Federasyonu, yeni bir organizasyon olan Basketbol Şampiyonlar Ligi'nin hayata geçirileceğini duyurdu. Söz konusu turnuvanın 2016-17 sezonu itibarıyla düzenlenmeye başlanacağı açıklandı.",
+      "kategori": "Spor",
+      "gorsel": null
     },
     {
       "id": "2014-haber-150303",
@@ -1332,10 +1535,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-ligi-maclarini-yayinlayacak-televizyon-kanali-degisti-150303"
       },
-      "konular": [],
+      "konular": [
+        "UEFA Şampiyonlar Ligi",
+        "UEFA Avrupa Ligi",
+        "TTNET"
+      ],
       "yayin": "2014-11-26T12:30:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Avrupa kupalarının yayın hakları el değiştirdi",
+      "ozet": "TTNET, Şampiyonlar Ligi ve Avrupa Ligi müsabakalarının yayınlanması konusunda anlaşmaya vardı. Şirket, 2015-2016 sezonundan itibaren başlayacak olan üç yıllık süreç için yayın haklarını bünyesine kattı.",
+      "kategori": "Spor"
     },
     {
       "id": "2014-haber-150315",
@@ -1348,10 +1558,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/refah-sinir-kapisi-iki-gunlugune-tek-yonlu-acildi-150315"
       },
-      "konular": [],
+      "konular": [
+        "Refah Sınır Kapısı",
+        "Mısır",
+        "Gazze Şeridi"
+      ],
       "yayin": "2014-11-26T12:46:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Refah Sınır Kapısı geçişler için kısa süreliğine açıldı",
+      "ozet": "Mısır yönetimi, yaklaşık bir aydır kapalı tutulan Refah Sınır Kapısı'nın tek yönlü olarak hizmet vermesine karar verdi. Alınan bu karar doğrultusunda sınır kapısı iki gün boyunca açık kaldı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Egyptian_Convoy_to_Gaza%2C_Palestine.jpg/960px-Egyptian_Convoy_to_Gaza%2C_Palestine.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Egyptian_Convoy_to_Gaza%2C_Palestine.jpg/500px-Egyptian_Convoy_to_Gaza%2C_Palestine.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 5184,
+        "yazar": "Gigi Ibrahim",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Egyptian_Convoy_to_Gaza,_Palestine.jpg",
+        "aciklama": "Egyptian Convoy to Gaza, Palestine.",
+        "konu": "Refah Sınır Kapısı"
+      }
     },
     {
       "id": "2013-haber-13419",
@@ -1364,10 +1594,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/buyukersen-basbakan-beni-aday-gosterecek-diye-endiselendim-13419"
       },
-      "konular": [],
+      "konular": [
+        "Yılmaz Büyükerşen",
+        "Eskişehir",
+        "Siyaset"
+      ],
       "yayin": "2013-11-26T20:24:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Yılmaz Büyükerşen adaylık açıklamasına dair değerlendirmelerde bulundu",
+      "ozet": "Eskişehir Büyükşehir Belediye Başkanı Yılmaz Büyükerşen, Başbakan Recep Tayyip Erdoğan'ın partisinin Eskişehir adayını duyurduğu sırada kullanılan görselleri eleştirdi. Büyükerşen, tanıtım sırasında kendi görev süresi boyunca hayata geçirilen projelerin ve eserlerin görüntülerinin yer alması nedeniyle aday gösterilme endişesi yaşadığını ifade etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2013-haber-13241",
@@ -1380,10 +1617,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/gezi-davasi-muzikle-basladi-13241"
       },
-      "konular": [],
+      "konular": [
+        "Gezi Parkı protestoları",
+        "Mersin",
+        "Dava"
+      ],
       "yayin": "2013-11-26T11:29:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Mersin Gezi Parkı davasında ilk duruşma görüldü",
+      "ozet": "Mersin'de düzenlenen Gezi eylemlerine katıldıkları gerekçesiyle haklarında dava açılan elli iki kişi ilk kez mahkemeye çıkarıldı. Duruşma öncesinde adliye binasının önünde toplanan grup protesto gösterisi gerçekleştirdi. Sanıklar arasında bulunan müzisyen Serdar Türkmen, mahkeme salonuna girmeden önce saksafonuyla müzik dinletisi sundu.",
+      "kategori": "Toplum"
     },
     {
       "id": "2012-haber-386198",
@@ -1396,10 +1640,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/2013-yili-butce-tasarisi-kabul-edildi-386198"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Bütçe"
+      ],
       "yayin": "2012-11-26T19:04:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Gelecek yılın merkezi yönetim bütçe tasarısı komisyondan geçti",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, önümüzdeki yıla ait merkezi yönetim bütçe kanun teklifini görüşerek onayladı. Yapılan değerlendirmelerin ardından tasarı, komisyon aşamasını tamamlayarak kabul edildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2012-haber-386058",
@@ -1412,10 +1662,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/konut-kdv-oranlarinda-bakanlar-kurulu-kararini-bekliyoruz-386058"
       },
-      "konular": [],
+      "konular": [
+        "Katma Değer Vergisi",
+        "Mehmet Şimşek",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2012-11-26T10:54:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Konutlarda KDV düzenlemesi için Bakanlar Kurulu bekleniyor",
+      "ozet": "Maliye Bakanı Mehmet Şimşek, konut sektöründeki katma değer vergisi oranlarına yönelik yapılacak düzenlemeler hakkında açıklamalarda bulundu. Bakan Şimşek, konuyla ilgili Bakanlar Kurulu kararının yıl bitmeden yayımlanmasını öngördüklerini ifade etti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2011-haber-300852",
@@ -1428,10 +1685,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fasta-secimleri-akp-kazandi-300852"
       },
-      "konular": [],
+      "konular": [
+        "Adalet ve Kalkınma Partisi (Fas)",
+        "Fas",
+        "Seçim"
+      ],
       "yayin": "2011-11-26T09:02:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Fas parlamento seçimlerinde Adalet ve Kalkınma Partisi öne çıktı",
+      "ozet": "Fas genelinde gerçekleştirilen parlamento seçimlerinin ardından Adalet ve Kalkınma Partisi sandıktan birinci parti olarak çıktığını duyurdu. Seçim sonuçlarına ilişkin değerlendirmelerde bulunan parti yetkilileri, elde edilen başarıyı kamuoyuyla paylaştı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/960px-Election_MG_3455.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/500px-Election_MG_3455.JPG",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 4368,
+        "yazar": "Rama",
+        "lisans": "CC BY-SA 2.0 fr",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Election_MG_3455.JPG",
+        "aciklama": "Second round of the French presidential election of 2007.",
+        "konu": "Seçim"
+      }
     },
     {
       "id": "2011-haber-300994",
@@ -1444,10 +1721,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/madrid-derbisini-real-madrid-kazandi-300994"
       },
-      "konular": [],
+      "konular": [
+        "Madrid derbisi",
+        "Real Madrid",
+        "La Liga"
+      ],
       "yayin": "2011-11-26T21:21:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Real Madrid Madrid derbisinde Atletico Madrid'i mağlup etti",
+      "ozet": "İspanya birinci futbol liginin on dördüncü haftasında gerçekleşen Madrid derbisinde gülen taraf Real Madrid oldu. Rakibi Atletico Madrid ile karşı karşıya gelen Real Madrid, mücadeleyi dört bir skorla kazanarak sahadan galibiyetle ayrıldı.",
+      "kategori": "Spor"
     }
   ],
   "haberYillari": [
