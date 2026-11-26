@@ -1058,7 +1058,7 @@
     "url": "https://tr.wikipedia.org/wiki/5_Aral%C4%B1k",
     "revid": 36484337
   },
-  "guncelleme": "2026-11-25T16:55:39.832Z",
+  "guncelleme": "2026-11-26T16:33:35.966Z",
   "haberler": [
     {
       "id": "2025-haber-2458692",
@@ -1071,10 +1071,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/11-yargi-paketi-tbmm-adalet-komisyonu-nda-kabul-edildi-2458692"
       },
-      "konular": [],
+      "konular": [
+        "Türk Ceza Kanunu",
+        "TBMM Adalet Komisyonu",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2025-12-05T08:33:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "11. Yargı Paketi Adalet Komisyonu Tarafından Onaylandı",
+      "ozet": "Türk Ceza Kanunu ve çeşitli kanunlarda düzenlemeler içeren yasa teklifi, Türkiye Büyük Millet Meclisi Adalet Komisyonu görüşmelerinin ardından oy çokluğuyla kabul edildi. Yeni düzenleme kapsamında, terör suçları ile kadın ve çocuklara karşı işlenen kasten öldürme suçlarından hüküm giyenler için tahliye imkanlarını kısıtlayan hükümler getirildi. Kovid-19 sürecine ilişkin mevcut düzenlemede yer alan ilgili madde daraltılarak kapsam dışı bırakılan suç türleri belirlendi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/T%C3%BCrk_Ceza_Kanunu.pdf/page1-960px-T%C3%BCrk_Ceza_Kanunu.pdf.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/T%C3%BCrk_Ceza_Kanunu.pdf/page1-960px-T%C3%BCrk_Ceza_Kanunu.pdf.jpg",
+        "genislik": 960,
+        "yukseklik": 1357,
+        "orijinalGenislik": 1239,
+        "yazar": "Türkiye Cumhuriyeti Cumhurbaşkanlığı",
+        "lisans": "Copyrighted free use",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:T%C3%BCrk_Ceza_Kanunu.pdf",
+        "aciklama": "Türk Ceza Kanunu",
+        "konu": "Türk Ceza Kanunu"
+      }
     },
     {
       "id": "2025-haber-2458678",
@@ -1087,10 +1107,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/trump-in-arabuluculugunda-ruanda-ve-kongo-demokratik-cumhuriyeti-baris-anlasmasi-imzalandi-2458678"
       },
-      "konular": [],
+      "konular": [
+        "Ruanda",
+        "Kongo Demokratik Cumhuriyeti",
+        "Donald Trump"
+      ],
       "yayin": "2025-12-05T00:36:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Ruanda ve Kongo Demokratik Cumhuriyeti Arasında Barış Antlaşması İmzalandı",
+      "ozet": "Ruanda ile Kongo Demokratik Cumhuriyeti temsilcileri, ABD Barış Enstitüsü çatısı altında bir araya geldi. Donald Trump'ın arabuluculuk faaliyetleri neticesinde iki ülke arasında barış antlaşması yürürlüğe girdi. Bölgedeki gerilimi sonlandırmayı hedefleyen bu diplomatik girişim, tarafların uzlaşmasıyla resmiyet kazandı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/500px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1200,
+        "orijinalGenislik": 1638,
+        "yazar": "Daniel Torok",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+        "aciklama": "Official Presidential Portrait of President Donald J. Trump in his second term",
+        "konu": "Donald Trump"
+      }
     },
     {
       "id": "2024-haber-2276291",
@@ -1103,10 +1143,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/macron-basbakan-barniernin-istifasini-kabul-etti-2276291"
       },
-      "konular": [],
+      "konular": [
+        "Michel Barnier",
+        "Emmanuel Macron",
+        "Fransa"
+      ],
       "yayin": "2024-12-05T18:23:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Fransa'da Michel Barnier Hükümeti Görevden Ayrıldı",
+      "ozet": "Fransa Cumhurbaşkanı Emmanuel Macron, parlamentoda kabul edilen gensoru önergesi neticesinde hükümetin düşmesinin ardından Başbakan Michel Barnier tarafından sunulan istifayı onayladı. Yaşanan siyasi gelişmeler sonucunda Barnier kabinesi resmen görevini bıraktı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Barnier_Portrait.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Barnier_Portrait.jpg",
+        "genislik": 774,
+        "yukseklik": 1160,
+        "orijinalGenislik": 774,
+        "yazar": "Florian David Pm",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Barnier_Portrait.jpg",
+        "aciklama": "Official portrait of the French Prime Minister, Michel Barnier, on October 21, 2024, in the garden of the Hôtel de Matignon, in Paris.",
+        "konu": "Michel Barnier"
+      }
     },
     {
       "id": "2024-haber-2276045",
@@ -1119,10 +1179,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/guney-korede-savunma-bakaninin-istifasi-kabul-edildi-2276045"
       },
-      "konular": [],
+      "konular": [
+        "Kim Yong-hyun",
+        "Yoon Suk Yeol",
+        "Güney Kore"
+      ],
       "yayin": "2024-12-05T08:32:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Güney Kore Savunma Bakanı görevinden ayrıldı",
+      "ozet": "Güney Kore Devlet Başkanı Yoon Suk Yeol, ülkede kısa süreliğine sıkıyönetim ilan edilmesini tavsiye eden Savunma Bakanı Kim Yong-hyun'un istifa talebini onayladı. Bakanın görevinden ayrılmasıyla sonuçlanan bu süreç, ülkede yaşanan siyasi hareketliliğin ardından gerçekleşti.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2023-haber-2148366",
@@ -1135,10 +1203,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/iyi-partide-sular-durulmuyor-uc-meclis-uyesi-istifa-etti-2148366"
       },
-      "konular": [],
+      "konular": [
+        "İYİ Parti",
+        "Körfez, Kocaeli",
+        "Siyaset"
+      ],
       "yayin": "2023-12-05T14:06:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İYİ Parti Körfez Belediye Meclis Üyeleri Görevlerinden Ayrıldı",
+      "ozet": "Cumhuriyet Halk Partisi tarafından sunulan yerel seçim iş birliği önerisini reddeden İYİ Parti bünyesinde ayrılıklar yaşandı. Kocaeli Körfez Belediye Meclisi çatısı altında görev yapan üç üye, partilerinin etkili bir muhalefet yürütme kapasitesini kaybettiğini ve iktidar olma hedefinden uzaklaştığını ifade ederek istifa kararı aldıklarını açıkladı.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2023-haber-2148391",
@@ -1151,10 +1226,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/deprem-sonrasi-tahliye-edilen-binada-incelemeler-tamamlandi-2148391"
       },
-      "konular": [],
+      "konular": [
+        "Avcılar",
+        "Deprem"
+      ],
       "yayin": "2023-12-05T15:21:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Avcılar'da deprem sonrası boşaltılan binada teknik inceleme bitti",
+      "ozet": "Marmara Denizi merkezli sarsıntının ardından hasar gördüğü gerekçesiyle tahliye edilen Avcılar'daki yapıda yürütülen teknik çalışmalar sona erdi. Yetkililer binanın mevcut durumuna ilişkin incelemelerini tamamlayarak süreci nihayete erdirdi.",
+      "kategori": "Afet"
     },
     {
       "id": "2022-haber-2009250",
@@ -1167,10 +1248,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/hirvat-yildiz-ivan-perisic-davor-sukerin-dunya-kupasi-rekorunu-kirdi-2009250"
       },
-      "konular": [],
+      "konular": [
+        "Ivan Perisic",
+        "Hırvatistan millî futbol takımı",
+        "2022 FIFA Dünya Kupası"
+      ],
       "yayin": "2022-12-05T21:52:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Ivan Perisic Hırvatistan Milli Takımı tarihine geçti",
+      "ozet": "Hırvatistan ile Japonya arasında oynanan Dünya Kupası son 16 turu mücadelesinde Ivan Perisic önemli bir başarıya imza attı. Karşılaşmada takımına beraberliği kazandıran golü kaydeden tecrübeli oyuncu, böylece Davor Suker'e ait olan dokuz gollük rekoru geride bıraktı. Perisic bu golle birlikte ülkesinin turnuva tarihindeki en golcü ismi unvanını elde etti.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Croatia_WC2018_final.jpg/960px-Croatia_WC2018_final.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Croatia_WC2018_final.jpg/500px-Croatia_WC2018_final.jpg",
+        "genislik": 960,
+        "yukseklik": 592,
+        "orijinalGenislik": 1880,
+        "yazar": "Russian Presidential Press and Information Office",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Croatia_WC2018_final.jpg",
+        "aciklama": "Стартовый состав сборной Хорватии перед финалом чемпионата мира 2018 в России",
+        "konu": "Hırvatistan millî futbol takımı"
+      }
     },
     {
       "id": "2022-haber-2009184",
@@ -1183,10 +1284,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/2022-fifa-dunya-kupasina-damga-vuran-rekorlar-2009184"
       },
-      "konular": [],
+      "konular": [
+        "2022 FIFA Dünya Kupası",
+        "Lionel Messi",
+        "Cristiano Ronaldo"
+      ],
       "yayin": "2022-12-05T16:33:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Katar'da düzenlenen Dünya Kupası'nda öne çıkan oyuncu rekorları",
+      "ozet": "Katar'ın ev sahipliği yaptığı futbol turnuvası, birçok başarılı sporcunun yeni başarılara imza atmasıyla dikkat çekti. Lionel Messi, Olivier Giroud, Kylian Mbappe ve Cristiano Ronaldo gibi isimler sergiledikleri performanslarla turnuva tarihinde kendilerine yer edindi. Bu oyuncular, organizasyon süresince gösterdikleri başarılarla istatistiksel olarak önemli derecelere ulaştı.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/960px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/500px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+        "genislik": 960,
+        "yukseklik": 1440,
+        "orijinalGenislik": 3333,
+        "yazar": "Bryan Berlin",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+        "aciklama": "Lionel Messi during Argentina v Egypt at the 2026 FIFA World Cup",
+        "konu": "Lionel Messi"
+      }
     },
     {
       "id": "2021-haber-1890237",
@@ -1199,10 +1320,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/barolar-birliginde-secim-maratonu-basladi-1890237"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Barolar Birliği",
+        "Metin Feyzioğlu",
+        "Erinç Sağkan"
+      ],
       "yayin": "2021-12-05T12:10:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türkiye Barolar Birliği başkanlık seçimi gerçekleştiriliyor",
+      "ozet": "Türkiye Barolar Birliği 36. Olağan Genel Kurulu kapsamında yeni başkanın belirleneceği seçim süreci başladı. Metin Feyzioğlu ile Erinç Sağkan'ın aday olduğu yarışta, oy verme işleminin tamamlanmasının ardından sonuçlar netleşecek. Seçim neticesinde birliğin yeni yönetimi ve başkanı belirlenmiş olacak.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2021-haber-1890183",
@@ -1215,10 +1343,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/dolartl-kuru-erdogan-yeni-ekonomi-politikalariyla-turkiyeyi-avrupali-yatirimcilar-icin-bir-cazibe-merkezi-haline-1890183"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye ekonomisi",
+        "Recep Tayyip Erdoğan",
+        "Yabancı yatırım"
+      ],
       "yayin": "2021-12-05T09:20:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Yeni Ekonomi Politikalarının Yatırımcı Üzerindeki Etkisi Tartışılıyor",
+      "ozet": "Türkiye tarafından uygulamaya konulan yeni ekonomi politikalarının Avrupalı yatırımcılar için bir çekim alanı oluşturup oluşturmayacağı gündeme geldi. Pandemi süreci ve siyasi gelişmeler nedeniyle Çin pazarına alternatif arayışında olan Alman iş dünyası, Türkiye'nin sahip olduğu potansiyele rağmen temkinli bir yaklaşım sergiledi. Uzmanlar, mevcut ekonomik adımların yabancı sermaye üzerindeki olası yansımalarını değerlendirdi.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/IFM_G%C3%B6rsel_%28cropped%29.jpg/960px-IFM_G%C3%B6rsel_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/IFM_G%C3%B6rsel_%28cropped%29.jpg/500px-IFM_G%C3%B6rsel_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 637,
+        "orijinalGenislik": 4437,
+        "yazar": "Acode37",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:IFM_G%C3%B6rsel_(cropped).jpg",
+        "aciklama": "default",
+        "konu": "Türkiye ekonomisi"
+      }
     },
     {
       "id": "2020-haber-1796367",
@@ -1231,10 +1379,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/cumhurbaskanligi-senfoni-orkestrasinin-yeni-binasinin-acilisina-once-davet-edilmediler-sonra-mimar-sayilmadilar-1796367"
       },
-      "konular": [],
+      "konular": [
+        "Cumhurbaşkanlığı Senfoni Orkestrası",
+        "Ankara",
+        "Mimarlık"
+      ],
       "yayin": "2020-12-05T09:46:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanlığı Senfoni Orkestrası Yeni Binası Hizmete Açıldı",
+      "ozet": "Ankara sınırları içerisinde inşa edilen ve üç farklı salondan oluşan Cumhurbaşkanlığı Senfoni Orkestrası binası düzenlenen bir törenle faaliyete geçti. Yapının mimari projesini hazırlayan Sema ve Özcan Uygur çiftinin açılış programına davet edilmemesi kamuoyunda tartışmalara yol açtı. Temeli yirmi üç yıl önce atılan bu büyük kültür kompleksi, uzun süren çalışmaların ardından sanatseverlerin kullanımına sunuldu.",
+      "kategori": "Sanat",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/1973_-_Presidential_Symphony_Orchestra%2C_Tun%C3%A7_%C3%9Cnver_playing.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/1973_-_Presidential_Symphony_Orchestra%2C_Tun%C3%A7_%C3%9Cnver_playing.jpg",
+        "genislik": 652,
+        "yukseklik": 504,
+        "orijinalGenislik": 652,
+        "yazar": "FUNICULA",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:1973_-_Presidential_Symphony_Orchestra,_Tun%C3%A7_%C3%9Cnver_playing.jpg",
+        "aciklama": "1973 Ankara - Turkey with Presidential Symphony Orchestra (dir. Jean PERISSON) Tunç Ünver playing.",
+        "konu": "Cumhurbaşkanlığı Senfoni Orkestrası"
+      }
     },
     {
       "id": "2020-haber-1796335",
@@ -1247,10 +1415,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/son-50-yilin-sicaklik-rekorlari-kirildi-turkiye-artik-kuraklik-yasiyor-su-krizi-buyuyor-1796335"
       },
-      "konular": [],
+      "konular": [
+        "Küresel ısınma",
+        "Meteoroloji Genel Müdürlüğü",
+        "Türkiye"
+      ],
       "yayin": "2020-12-05T02:00:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Türkiye genelinde son elli yılın en yüksek sıcaklıkları kaydedildi",
+      "ozet": "Meteoroloji Genel Müdürlüğü tarafından paylaşılan veriler, eylül ve ekim aylarında sıcaklıkların son elli yılın zirvesine ulaştığını ortaya koydu. İklim değişikliğinin etkilerinin belirginleştiği bu dönemde, ülke genelinde yaşanan kuraklık ve su kaynaklarındaki azalma endişe verici bir boyuta ulaştı. Uzmanlar, yaşanan bu sıcaklık artışlarının su krizi riskini daha da derinleştirdiğini belirtti.",
+      "kategori": "Bilim",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bobcat_Fire%2C_Los_Angeles%2C_San_Gabriel_Mountains.jpg/960px-Bobcat_Fire%2C_Los_Angeles%2C_San_Gabriel_Mountains.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bobcat_Fire%2C_Los_Angeles%2C_San_Gabriel_Mountains.jpg/500px-Bobcat_Fire%2C_Los_Angeles%2C_San_Gabriel_Mountains.jpg",
+        "genislik": 960,
+        "yukseklik": 489,
+        "orijinalGenislik": 5014,
+        "yazar": "Eddiem360",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bobcat_Fire,_Los_Angeles,_San_Gabriel_Mountains.jpg",
+        "aciklama": "Bobcat Fire view from our kitchen window in Monrovia, CA, September 10, 2020",
+        "konu": "Küresel ısınma"
+      }
     },
     {
       "id": "2019-haber-1706464",
@@ -1263,10 +1451,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdoganin-meclise-iade-ettigi-kanun-tasarisi-yeni-haliyle-kabul-edildi-1706464"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Termik santral",
+        "Recep Tayyip Erdoğan"
+      ],
       "yayin": "2019-12-05T17:21:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Termik santrallerle ilgili düzenleme Türkiye Büyük Millet Meclisi'nde kabul edildi",
+      "ozet": "Cumhurbaşkanı tarafından yeniden görüşülmek üzere Meclis'e gönderilen kanun tasarısı üzerinde değişiklik yapıldı. Termik santrallerin filtreleme sistemlerini kurmalarını erteleyen hüküm metinden tamamen çıkarıldı. Düzenlemenin yeni hali Genel Kurul'da oylanarak kabul edildi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/TermoElectricaBulgaria.jpg/960px-TermoElectricaBulgaria.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/TermoElectricaBulgaria.jpg/500px-TermoElectricaBulgaria.jpg",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 1280,
+        "yazar": "—ArielR 23:29, 4 May 2006 (UTC)",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:TermoElectricaBulgaria.jpg",
+        "aciklama": "Republika Power Plant in Bulgaria",
+        "konu": "Termik santral"
+      }
     },
     {
       "id": "2019-haber-1706479",
@@ -1279,10 +1487,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/atasehirin-sampiyon-kick-bokscularindan-madalya-sozu-1706479"
       },
-      "konular": [],
+      "konular": [
+        "Kick boks",
+        "Ataşehir Belediyespor"
+      ],
       "yayin": "2019-12-05T18:07:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ataşehir Belediyesporlu Kick Boksçular Başarılarını Kutladı",
+      "ozet": "Ataşehir Belediyespor bünyesinde yer alan ve uluslararası müsabakalarda önemli dereceler elde eden sporcular bir araya geldi. Dünya şampiyonu Emine Arslan, dünya ikincisi Kadir Altay ve Avrupa üçüncüsü Yunus Bayb, katıldıkları organizasyonlarda gösterdikleri performansla dikkat çekti. Başarılı sporcular düzenlenen kahvaltı etkinliğinde buluşarak gelecek dönemdeki hedeflerini paylaştı.",
+      "kategori": "Spor"
     },
     {
       "id": "2018-haber-1161219",
@@ -1295,10 +1509,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sari-yelekliler-kazandi-fransada-akaryakit-zamlari-iptal-edildi-1161219"
       },
-      "konular": [],
+      "konular": [
+        "Sarı Yelekliler hareketi",
+        "Fransa"
+      ],
       "yayin": "2018-12-05T19:47:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Fransa'da akaryakıt zammı kararı geri çekildi",
+      "ozet": "Fransa hükümeti, ülkede geniş çaplı protestolara yol açan akaryakıt fiyatlarındaki artış kararını iptal ettiğini duyurdu. Sarı yelekliler olarak bilinen grubun düzenlediği gösterilerin ardından yetkililer, zam uygulamasından vazgeçildiğini açıkladı.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2018-haber-1160492",
@@ -1311,10 +1532,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dunya-sampiyonundan-genclere-tavsiye-1160492"
       },
-      "konular": [],
+      "konular": [
+        "Vücut geliştirme",
+        "Serdar Aktolga"
+      ],
       "yayin": "2018-12-05T10:48:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Dünya Şampiyonu Serdar Aktolga'dan Genç Sporculara Öneriler",
+      "ozet": "Dünya Vücut Geliştirme Şampiyonu Serdar Aktolga, bu spor dalıyla ilgilenmek isteyen gençlere yönelik tavsiyelerde bulundu. Aktolga, vücut geliştirme disiplinine adım atmayı hedefleyen genç sporculara yol gösterici açıklamalarda bulundu.",
+      "kategori": "Spor"
     },
     {
       "id": "2017-haber-879827",
@@ -1327,10 +1554,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/enflasyon-tarihi-zirveyi-gordu-879827"
       },
-      "konular": [],
+      "konular": [
+        "Enflasyon",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2017-12-05T05:52:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Kasım ayında enflasyon oranlarında rekor artış yaşandı",
+      "ozet": "Kasım ayı içerisinde fiyat endeksinde bir önceki aya kıyasla yüzde 1.49 oranında bir yükseliş kaydedildi. Bu değişimle birlikte yıllık enflasyon yüzde 12.98 seviyesine ulaşarak 2003 yılından bu yana görülen en yüksek noktaya çıktı. Söz konusu artışın asgari ücretli çalışanların alım gücü üzerinde olumsuz etkiler yarattığı belirtildi.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Government-Vedder-Highsmith-detail-1.jpeg/960px-Government-Vedder-Highsmith-detail-1.jpeg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Government-Vedder-Highsmith-detail-1.jpeg/500px-Government-Vedder-Highsmith-detail-1.jpeg",
+        "genislik": 960,
+        "yukseklik": 609,
+        "orijinalGenislik": 3696,
+        "yazar": "Artist is Elihu Vedder (1836–1923). Photographed 2007 by Carol Highsmith (1946–), who explicitly placed the photograph in the public domain.",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Government-Vedder-Highsmith-detail-1.jpeg",
+        "aciklama": "Detail from Government. Mural by Elihu Vedder. Lobby to Main Reading Room, Library of Congress Thomas Jefferson Building, Washington, D.C. Main figure is seated atop a pedestal saying \"GOVERNMENT\" and",
+        "konu": "Enflasyon"
+      }
     },
     {
       "id": "2017-haber-880220",
@@ -1343,10 +1589,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/istifa-eden-lubnan-basbakani-haririden-yeni-aciklama-gorevimin-basindayim-880220"
       },
-      "konular": [],
+      "konular": [
+        "Saad Hariri",
+        "Lübnan",
+        "Siyaset"
+      ],
       "yayin": "2017-12-05T16:24:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Lübnan Başbakanı Hariri Görevine Devam Edeceğini Duyurdu",
+      "ozet": "Daha önce istifa ettiğini duyuran Lübnan Başbakanı Hariri, ülkesine dönüşünün ardından yeni bir açıklamada bulundu. Hariri, mevcut görevini sürdüreceğini kamuoyuna bildirdi. Suudi Arabistan'da bulunduğu sırada istifa kararını açıklayan siyasetçi, geri dönüşüyle birlikte çalışmalarına kaldığı yerden devam edeceğini belirtti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Saad_Hariri_in_Sochi%2C_13_September_2017.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Saad_Hariri_in_Sochi%2C_13_September_2017.jpg",
+        "genislik": 756,
+        "yukseklik": 1036,
+        "orijinalGenislik": 756,
+        "yazar": "This image has been extracted from another file",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Saad_Hariri_in_Sochi,_13_September_2017.jpg",
+        "aciklama": "President of Russia Vladimir Putin & Prime Minister Lebanon Saad Hariri in Sochi, 13 September 2017 (3) (Cropped)",
+        "konu": "Saad Hariri"
+      }
     },
     {
       "id": "2016-haber-640246",
@@ -1359,10 +1625,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/italya-basbakani-renzi-istifa-kararini-erteledi-640246"
       },
-      "konular": [],
+      "konular": [
+        "2016 İtalya anayasa referandumu",
+        "Matteo Renzi",
+        "İtalya"
+      ],
       "yayin": "2016-12-05T07:58:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "İtalya Başbakanı Matteo Renzi'nin İstifa Süreci Ertelendi",
+      "ozet": "İtalya'da gerçekleştirilen anayasa değişikliği referandumunda halkın büyük çoğunluğu sunulan reform paketine karşı oy kullandı. Referandum sonuçlarının ardından istifa edeceğini duyuran Başbakan Matteo Renzi, Cumhurbaşkanı Sergio Mattarella'nın talebi üzerine bu kararını bir süreliğine beklemeye aldı. Ülkedeki siyasi belirsizlik süreci, Cumhurbaşkanı ile yapılan görüşmelerin ardından yeni bir aşamaya taşındı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Matteo_Renzi_2015.jpeg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Matteo_Renzi_2015.jpeg",
+        "genislik": 443,
+        "yukseklik": 578,
+        "orijinalGenislik": 443,
+        "yazar": "Gobierno de Chile",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Matteo_Renzi_2015.jpeg",
+        "aciklama": "Matteo Renzi in 2015",
+        "konu": "Matteo Renzi"
+      }
     },
     {
       "id": "2016-haber-640548",
@@ -1375,10 +1661,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-icin-devrik-diktatorun-ucagi-satin-alindi-78-milyon-dolar-odendi-640548"
       },
-      "konular": [],
+      "konular": [
+        "Airbus A340",
+        "Recep Tayyip Erdoğan",
+        "Zeynel Abidin Bin Ali"
+      ],
       "yayin": "2016-12-05T14:58:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanlığı için Tunus'tan özel uçak satın alındı",
+      "ozet": "Türkiye, Tunus'un eski lideri Zeynel Abidin Bin Ali'ye ait olan Airbus A340 tipi VIP uçağı devraldı. Söz konusu hava aracı için 78 milyon dolar ödeme yapıldı. Satın alınan uçağın Cumhurbaşkanı Recep Tayyip Erdoğan'ın kullanımına tahsis edileceği açıklandı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/HB-JMO_LLBG_08-08-2014a.jpg/960px-HB-JMO_LLBG_08-08-2014a.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/HB-JMO_LLBG_08-08-2014a.jpg/500px-HB-JMO_LLBG_08-08-2014a.jpg",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 2564,
+        "yazar": "Oyoyoy",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:HB-JMO_LLBG_08-08-2014a.jpg",
+        "aciklama": "Landing at Ben Gurion International airport",
+        "konu": "Airbus A340"
+      }
     },
     {
       "id": "2014-haber-155895",
@@ -1391,10 +1697,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-100-bin-lira-savunmasi-kendime-bagisladim-155895"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Yüksek Seçim Kurulu",
+        "Türkiye'de seçimler"
+      ],
       "yayin": "2014-12-05T11:22:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Yüksek Seçim Kurulu seçim bağışı incelemesini tamamladı",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın seçim döneminde gerçekleştirdiği bağış işlemi Yüksek Seçim Kurulu tarafından incelendi. Kurul, söz konusu yüz bin liralık bağışın kendi adına yapıldığına dair sunulan savunmayı yeterli bularak herhangi bir usulsüzlük tespit etmedi. Bu kararla birlikte seçim sürecindeki bağış tartışmaları hukuki açıdan sonuçlanmış oldu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2014-haber-155985",
@@ -1407,10 +1733,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yavuz-bingol-meclis-gundeminde-155985"
       },
-      "konular": [],
+      "konular": [
+        "Yavuz Bingöl",
+        "Sezgin Tanrıkulu",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2014-12-05T12:20:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Yavuz Bingöl hakkındaki iddialar meclis gündemine taşındı",
+      "ozet": "Cumhuriyet Halk Partisi İstanbul Milletvekili Sezgin Tanrıkulu, Yavuz Bingöl ile ilgili bir soru önergesi hazırladı. Hazırlanan önerge, Türkiye Büyük Millet Meclisi Başkanlığına sunuldu. Tanrıkulu, söz konusu önergenin Başbakan Ahmet Davutoğlu tarafından yazılı olarak yanıtlanmasını talep etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2013-haber-16089",
@@ -1423,10 +1756,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yetenek-sizsinize-rekor-ceza-16089"
       },
-      "konular": [],
+      "konular": [
+        "Yetenek Sizsiniz Türkiye",
+        "Radyo ve Televizyon Üst Kurulu",
+        "Star TV"
+      ],
       "yayin": "2013-12-05T15:07:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "RTÜK tarafından televizyon kanalına yüksek tutarlı idari para cezası",
+      "ozet": "Radyo ve Televizyon Üst Kurulu, bir televizyon kanalında yayınlanan dans gösterisi nedeniyle yaptırım kararı aldı. Programda yer alan görüntülerin mozaiklenerek ekrana getirilmesi üzerine kanal yönetimine bir milyon yüz bin Türk lirası tutarında idari para cezası uygulandı.",
+      "kategori": "Toplum"
     },
     {
       "id": "2013-haber-16013",
@@ -1439,10 +1779,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/yskdan-secim-kararlari-16013"
       },
-      "konular": [],
+      "konular": [
+        "Yüksek Seçim Kurulu",
+        "Seçim"
+      ],
       "yayin": "2013-12-05T12:50:00+03:00",
       "puan": 5,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Yüksek Seçim Kurulu seçim yasaklarını duyurdu",
+      "ozet": "Yüksek Seçim Kurulu, seçim süreci ve propaganda dönemi boyunca uygulanacak olan yasal kısıtlamalara dair aldığı kararları kamuoyuyla paylaştı. Kurul tarafından yayımlanan metinde, seçim takviminin başlamasıyla birlikte uyulması zorunlu olan kurallar ve yasak kapsamına giren faaliyetler detaylandırıldı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Building_of_Turkish_Supreme_Electoral_Council.jpg/960px-Building_of_Turkish_Supreme_Electoral_Council.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Building_of_Turkish_Supreme_Electoral_Council.jpg/500px-Building_of_Turkish_Supreme_Electoral_Council.jpg",
+        "genislik": 960,
+        "yukseklik": 540,
+        "orijinalGenislik": 1597,
+        "yazar": "Yıldız Yazıcıoğlu (VOA)",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Building_of_Turkish_Supreme_Electoral_Council.jpg",
+        "aciklama": "Yüksek Seçim Kurulu (YSK) binası, Ankara, Türkiye.",
+        "konu": "Yüksek Seçim Kurulu"
+      }
     },
     {
       "id": "2012-haber-388266",
@@ -1455,10 +1814,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/cinde-grizu-patlamasi-16-olu-388266"
       },
-      "konular": [],
+      "konular": [
+        "Yünnan",
+        "Çin",
+        "Maden kazası"
+      ],
       "yayin": "2012-12-05T11:41:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Yünnan eyaletindeki kömür ocağında grizu faciası",
+      "ozet": "Çin'in güney bölgesinde yer alan Yünnan eyaletindeki bir kömür madeninde grizu patlaması yaşandı. Meydana gelen bu elim kazada 16 maden işçisi yaşamını yitirdi. Yetkililer olayla ilgili bilgileri kamuoyuyla paylaştı.",
+      "kategori": "Afet",
+      "gorsel": null
     },
     {
       "id": "2011-haber-303036",
@@ -1471,10 +1838,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/enflasyon-sampiyonu-patlican-oldu-303036"
       },
-      "konular": [],
+      "konular": [
+        "Enflasyon",
+        "Türkiye İstatistik Kurumu",
+        "Ekonomi"
+      ],
       "yayin": "2011-12-05T08:13:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Kasım ayı enflasyon verileri ve fiyat artışları açıklandı",
+      "ozet": "Türkiye İstatistik Kurumu, kasım ayına ilişkin tüketici ve üretici fiyat endekslerindeki değişim oranlarını paylaştı. Verilere göre tüketici fiyatlarında yüzde 1,73, üretici fiyatlarında ise yüzde 0,65 oranında bir yükseliş kaydedildi. Bu dönemde fiyatı en çok artan ürün ise patlıcan olarak belirlendi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2011-haber-303122",
@@ -1487,10 +1861,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-hasta-yataginda-o-liderlik-sevdasinda-303122"
       },
-      "konular": [],
+      "konular": [
+        "Muharrem İnce",
+        "Abdullah Gül",
+        "Cumhuriyet Halk Partisi"
+      ],
       "yayin": "2011-12-05T12:01:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Muharrem İnce'den Cumhurbaşkanı Gül'e yönelik eleştiriler",
+      "ozet": "Cumhuriyet Halk Partisi Grup Başkanvekili Muharrem İnce, Cumhurbaşkanı Abdullah Gül'ün kamuoyundaki tutumuna dair değerlendirmelerde bulundu. İnce, yaptığı açıklamada Gül'ün siyasi tavrını eleştirerek çeşitli iddialarda bulundu.",
+      "kategori": "Siyaset"
     }
   ],
   "haberYillari": [

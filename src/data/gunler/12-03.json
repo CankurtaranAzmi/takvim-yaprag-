@@ -1473,7 +1473,7 @@
     "url": "https://tr.wikipedia.org/wiki/3_Aral%C4%B1k",
     "revid": 38170407
   },
-  "guncelleme": "2026-11-25T16:55:38.929Z",
+  "guncelleme": "2026-11-26T16:33:35.215Z",
   "haberler": [
     {
       "id": "2025-haber-2458131",
@@ -1486,10 +1486,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/tuik-acikladi-kasim-ayi-zam-sampiyonu-belli-oldu-2458131"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye İstatistik Kurumu",
+        "Enflasyon",
+        "Ekonomi"
+      ],
       "yayin": "2025-12-03T12:29:00+03:00",
       "puan": 15,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Kasım ayında fiyatı en çok artan ve azalan ürünler açıklandı",
+      "ozet": "Türkiye İstatistik Kurumu tarafından paylaşılan kasım ayı verilerine göre, evcil hayvan ürünleri fiyat artışında ilk sırada yer aldı. Söz konusu dönemde hava yolu taşımacılığı ile paket turlar da yüksek fiyat artışlarıyla öne çıktı. Öte yandan taze sebze ve tavuk eti fiyatlarında ise düşüş gözlemlendi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2025-haber-2458123",
@@ -1502,10 +1509,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/asgari-ucret-zammi-oncesi-dusuk-enflasyon-dongusu-bakan-simsek-bakin-hangi-tarihi-isaret-etti-2458123"
       },
-      "konular": [],
+      "konular": [
+        "Mehmet Şimşek",
+        "Türkiye İstatistik Kurumu",
+        "Ekonomi"
+      ],
       "yayin": "2025-12-03T12:47:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Hazine ve Maliye Bakanı Şimşek enflasyon verilerini değerlendirdi",
+      "ozet": "Türkiye İstatistik Kurumu tarafından paylaşılan enflasyon rakamlarının ardından Hazine ve Maliye Bakanı Mehmet Şimşek açıklamalarda bulundu. Bakan Şimşek, ekonomideki normalleşme sürecine ve enflasyondaki düşüş eğilimine dikkat çekti. Asgari ücret belirleme dönemine girilirken yapılan bu değerlendirmeler kamuoyunda geniş yer buldu.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2024-haber-2275561",
@@ -1518,10 +1532,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/steamde-tum-zamanlarin-rekoru-kirildi-2275561"
       },
-      "konular": [],
+      "konular": [
+        "Windows 11",
+        "Steam",
+        "İşletim sistemi"
+      ],
       "yayin": "2024-12-03T17:55:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Windows 11 Steam platformunda kullanım rekoruna ulaştı",
+      "ozet": "Dijital oyun platformu Steam üzerinde yapılan ölçümlerde Windows 11 işletim sistemi kullanıcı sayısı bakımından en yüksek seviyeye çıktı. Söz konusu işletim sistemi, platformun tarihinde daha önce görülmemiş bir yoğunluğa ulaşarak yeni bir rekora imza attı.",
+      "kategori": "Teknoloji"
     },
     {
       "id": "2024-haber-2275316",
@@ -1534,10 +1555,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/antalya-tum-zamanlarin-turist-rekorunu-kirdi-2275316"
       },
-      "konular": [],
+      "konular": [
+        "Antalya",
+        "Turizm"
+      ],
       "yayin": "2024-12-03T10:13:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Antalya turizmde tarihinin en yüksek ziyaretçi sayısına ulaştı",
+      "ozet": "Akdeniz Turistik Otelciler ve İşletmeciler Birliği Başkanı Kaan Kaşif Kavaloğlu, yılın ilk on bir ayında şehri ziyaret eden turist sayısının 16 milyon 600 bini geçtiğini belirtti. Bu verilerle birlikte Antalya, geçmiş yılların toplam ziyaretçi sayılarını geride bırakarak tüm zamanların rekorunu tazeledi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2147520",
@@ -1550,10 +1577,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/olimpiyat-sampiyonu-yuzucuye-tutuklama-karari-2147520"
       },
-      "konular": [],
+      "konular": [
+        "2021 Amerika Birleşik Devletleri Kongre Binası baskını",
+        "Klete Keller",
+        "Yüzme"
+      ],
       "yayin": "2023-12-03T10:22:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Olimpiyat madalyalı yüzücüye Kongre baskını nedeniyle ceza verildi",
+      "ozet": "Atina Olimpiyatları'nda altın madalya kazanan eski milli yüzücü Klete Keller, Kongre binasına düzenlenen baskında yer aldığı gerekçesiyle yargılandı. Mahkeme, sporcunun eylemleri sonucunda altı ay süreyle ev hapsinde tutulmasına hükmetti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/DM_Freiwasserschwimmen_2009_Lindau.JPG/960px-DM_Freiwasserschwimmen_2009_Lindau.JPG",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/DM_Freiwasserschwimmen_2009_Lindau.JPG/500px-DM_Freiwasserschwimmen_2009_Lindau.JPG",
+        "genislik": 960,
+        "yukseklik": 1440,
+        "orijinalGenislik": 2048,
+        "yazar": "Giacomo1970",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:DM_Freiwasserschwimmen_2009_Lindau.JPG",
+        "aciklama": "DM Freiwasserschwimmen; 19. Juni 2009 in Lindau am Bodensee",
+        "konu": "Yüzme"
+      }
     },
     {
       "id": "2023-haber-2147517",
@@ -1566,10 +1613,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/yeni-baskan-belli-oluyor-besiktasta-secim-zamani-2147517"
       },
-      "konular": [],
+      "konular": [
+        "Beşiktaş JK",
+        "Hasan Arat",
+        "Serdal Adalı"
+      ],
       "yayin": "2023-12-03T10:13:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Beşiktaş Kulübü yeni başkanını seçmek için sandık başına gidiyor",
+      "ozet": "Beşiktaş Kulübü, olağanüstü seçimli genel kurul toplantısını gerçekleştirdi. Siyah-beyazlı camianın yeni başkanını belirlemek amacıyla düzenlenen bu seçimde Hasan Arat ve Serdal Adalı aday olarak yarıştı. Yapılan oylama süreci sonucunda kulübün yeni yönetimi belirlendi.",
+      "kategori": "Spor"
     },
     {
       "id": "2022-haber-2008583",
@@ -1582,10 +1636,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/kilicdaroglundan-vizyon-toplantisi-paylasimi-sampiyonlar-ligi-kadrosu-hazir-2008583"
       },
-      "konular": [],
+      "konular": [
+        "Kemal Kılıçdaroğlu",
+        "Cumhuriyet Halk Partisi"
+      ],
       "yayin": "2022-12-03T13:47:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Kemal Kılıçdaroğlu vizyon toplantısı öncesinde açıklama yaptı",
+      "ozet": "Cumhuriyet Halk Partisi Genel Başkanı Kemal Kılıçdaroğlu, İstanbul Lütfi Kırdar Kongre Merkezi'nde düzenlenecek olan vizyon toplantısı öncesinde sosyal medya üzerinden bir duyuru paylaştı. Kılıçdaroğlu, söz konusu etkinlikte tanıtılacak kadroyu Şampiyonlar Ligi benzetmesiyle ifade etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-2008619",
@@ -1598,10 +1658,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/bakan-nebati-duyurdu-vergi-bildiriminde-yeni-karar-2008619"
       },
-      "konular": [],
+      "konular": [
+        "Nureddin Nebati",
+        "T.C. Hazine ve Maliye Bakanlığı",
+        "Vergi"
+      ],
       "yayin": "2022-12-03T16:41:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Vergi bildirimlerinde Ba-Bs formu uygulaması için yeni düzenleme",
+      "ozet": "Hazine ve Maliye Bakanı Nureddin Nebati, vergi süreçlerinde kullanılan Ba-Bs bildirim formlarına yönelik alınan güncel kararı kamuoyuyla paylaştı. Bakan, söz konusu değişikliğe ilişkin detayları kişisel sosyal medya hesabı üzerinden yaptığı açıklama ile duyurdu.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2021-haber-1889923",
@@ -1614,10 +1681,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/hkp-genel-baskanina-erdogana-hakaretten-sorusturma-acildi-1889923"
       },
-      "konular": [],
+      "konular": [
+        "Halkın Kurtuluş Partisi",
+        "Nurullah Ankut",
+        "Recep Tayyip Erdoğan"
+      ],
       "yayin": "2021-12-03T19:36:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Nurullah Ankut hakkında hakaret iddiasıyla soruşturma başlatıldı",
+      "ozet": "Halkın Kurtuluş Partisi Genel Başkanı Nurullah Ankut, Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik ifadeleri nedeniyle başlatılan soruşturma kapsamında ifade verdi. İstanbul Cumhuriyet Başsavcılığına giden Ankut, kendisine yöneltilen hakaret suçlamasıyla ilgili savunmasını sundu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2021-haber-1889741",
@@ -1630,10 +1704,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/eski-galatasarayli-engin-baytardan-sampiyonluk-itirafi-artik-cok-zor-1889741"
       },
-      "konular": [],
+      "konular": [
+        "Engin Baytar",
+        "Galatasaray (futbol takımı)"
+      ],
       "yayin": "2021-12-03T09:29:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Engin Baytar Galatasaray'ın Şampiyonluk Şansını Değerlendirdi",
+      "ozet": "Galatasaray'ın eski futbolcularından Engin Baytar, sarı kırmızılı ekibin güncel durumu hakkında açıklamalarda bulundu. Baytar, takımın mevcut performansı göz önüne alındığında şampiyonluk hedefine ulaşmasının oldukça güç olduğunu ifade etti.",
+      "kategori": "Spor"
     },
     {
       "id": "2020-haber-1795770",
@@ -1646,10 +1726,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sampiyonlar-ligi-tarihine-gecen-kadin-1795770"
       },
-      "konular": [],
+      "konular": [
+        "Stephanie Frappart",
+        "UEFA Şampiyonlar Ligi",
+        "Futbol"
+      ],
       "yayin": "2020-12-03T08:16:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Şampiyonlar Ligi maçında ilk kadın hakem görev aldı",
+      "ozet": "Juventus ile Dinamo Kiev arasında oynanan UEFA Şampiyonlar Ligi karşılaşmasında Stephanie Frappart düdük çaldı. Bu müsabaka ile birlikte Frappart, erkekler kategorisindeki Şampiyonlar Ligi maçlarında görev yapan ilk kadın hakem unvanını kazandı. Söz konusu karşılaşma, futbol tarihinde önemli bir ilke sahne oldu.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/960px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/500px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
+        "genislik": 960,
+        "yukseklik": 653,
+        "orijinalGenislik": 3420,
+        "yazar": "Rick Dikeman",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1995.jpg",
+        "aciklama": "Association football (soccer), Bloomington, Indiana. The offensive player (in red) is Chris Klein of the Indiana Hoosiers. He has sprinted past two defenders (in white) and is about to shoot the ball ",
+        "konu": "Futbol"
+      }
     },
     {
       "id": "2020-haber-1796024",
@@ -1662,10 +1762,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-salgin-nedeniyle-bazi-ulkelere-butce-destegi-vermeye-calisiyoruz-1796024"
       },
-      "konular": [],
+      "konular": [
+        "COVID-19 pandemisi",
+        "Recep Tayyip Erdoğan",
+        "Türkiye"
+      ],
       "yayin": "2020-12-03T21:36:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türkiye salgın sürecinde birçok ülkeye destek sağladı",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, küresel salgın döneminde Türkiye'nin uluslararası alandaki yardım faaliyetlerine değindi. Erdoğan, bu süreçte toplamda 156 farklı ülkeye ve 9 uluslararası kuruluşa çeşitli destekler ulaştırıldığını açıkladı. Türkiye'nin salgınla mücadele eden devletlere yönelik yardım çalışmalarının devam ettiği belirtildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2019-haber-1706005",
@@ -1678,10 +1785,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/finlandiya-basbakani-antti-rinne-istifa-etti-1706005"
       },
-      "konular": [],
+      "konular": [
+        "Antti Rinne",
+        "Finlandiya",
+        "Siyaset"
+      ],
       "yayin": "2019-12-03T16:54:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Finlandiya Başbakanı Antti Rinne görevinden ayrıldı",
+      "ozet": "Finlandiya hükümetinde yer alan Merkez Partisi, yapılacak güven oylamasında destek vermeyeceğini duyurdu. Bu gelişmenin ardından Başbakan Antti Rinne, görevini bırakma kararı aldı. Koalisyon ortağının tutumu sonrası yaşanan bu siyasi süreç, hükümetin istifasıyla sonuçlandı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Finnish_Council_Presidency_priorities_debated_in_plenary_%2848308299127%29_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Finnish_Council_Presidency_priorities_debated_in_plenary_%2848308299127%29_%28cropped%29.jpg",
+        "genislik": 640,
+        "yukseklik": 860,
+        "orijinalGenislik": 640,
+        "yazar": "European Parliament from EU",
+        "lisans": "CC BY 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Finnish_Council_Presidency_priorities_debated_in_plenary_(48308299127)_(cropped).jpg",
+        "aciklama": "MEPs discussed the priorities of the incoming Finnish presidency with Prime Minister Antti Rinne and Commission Vice-President Jyrki Katainen. In his speech, Prime Minister Antti Rinne outlined that c",
+        "konu": "Antti Rinne"
+      }
     },
     {
       "id": "2019-haber-1705920",
@@ -1694,10 +1821,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/vakifbank-dunya-sampiyonasina-galibiyetle-basladi-1705920"
       },
-      "konular": [],
+      "konular": [
+        "VakıfBank (kadın voleybol takımı)",
+        "FIVB Kadınlar Dünya Kulüpler Voleybol Şampiyonası"
+      ],
       "yayin": "2019-12-03T11:38:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "VakıfBank Dünya Kulüpler Şampiyonası'na galibiyetle giriş yaptı",
+      "ozet": "VakıfBank Kadın Voleybol Takımı, FIVB Kulüpler Dünya Şampiyonası kapsamındaki ilk karşılaşmasında Brezilya ekibi Dentil Praia Clube ile karşı karşıya geldi. Rakibini 27-25, 25-20 ve 25-20'lik set sonuçlarıyla 3-0 mağlup eden temsilcimiz, turnuvanın B Grubu mücadelesine başarılı bir başlangıç yaptı.",
+      "kategori": "Spor"
     },
     {
       "id": "2018-haber-1158602",
@@ -1710,10 +1843,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/vakifbank-dunya-sampiyonasinda-sahneye-cikiyor-1158602"
       },
-      "konular": [],
+      "konular": [
+        "FIVB Kadınlar Dünya Kulüpler Voleybol Şampiyonası",
+        "VakıfBank (kadın voleybol takımı)",
+        "Shaoxing"
+      ],
       "yayin": "2018-12-03T11:48:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "VakıfBank Kadın Voleybol Takımı Dünya Şampiyonası'nda mücadele ediyor",
+      "ozet": "VakıfBank Kadın Voleybol Takımı, Çin'in Shaoxing kentinde organize edilen FIVB Kulüpler Dünya Şampiyonası'nda yerini aldı. Temsilcimiz, turnuvada üst üste ikinci ve toplamda üçüncü kez dünya şampiyonluğu unvanını kazanmak amacıyla parkeye çıktı.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Shaoxing_Cityscape.jpg/960px-Shaoxing_Cityscape.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Shaoxing_Cityscape.jpg/500px-Shaoxing_Cityscape.jpg",
+        "genislik": 960,
+        "yukseklik": 720,
+        "orijinalGenislik": 2048,
+        "yazar": "serapio",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Shaoxing_Cityscape.jpg",
+        "aciklama": "Shaoxing has a good mixture of parkland and city. And lots of pagodas.",
+        "konu": "Shaoxing"
+      }
     },
     {
       "id": "2018-haber-1159251",
@@ -1726,10 +1879,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/youtubeun-en-fazla-kazanani-yilik-22-milyon-dolarla-8-yasinda-bir-cocuk-1159251"
       },
-      "konular": [],
+      "konular": [
+        "Ryan's World",
+        "YouTube",
+        "İnternet fenomenleri"
+      ],
       "yayin": "2018-12-03T23:07:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Youtube platformunun en yüksek gelirli ismi sekiz yaşındaki bir çocuk oldu",
+      "ozet": "Video paylaşım sitesi üzerinden elde edilen yıllık kazanç verileri kamuoyuyla paylaşıldı. Listede ilk sırada, oyuncak incelemeleri yaptığı kanalıyla dikkat çeken sekiz yaşındaki Ryan yer aldı. On yedi milyonu aşkın abonesi bulunan kanalın sahibi, bir yıl içerisinde yirmi iki milyon dolarlık gelire ulaştı.",
+      "kategori": "Teknoloji",
+      "gorsel": null
     },
     {
       "id": "2017-haber-879091",
@@ -1742,10 +1903,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-yardimcisi-hakan-cavusoglu-kilicdaroglu-bir-projedir-879091"
       },
-      "konular": [],
+      "konular": [
+        "Kemal Kılıçdaroğlu",
+        "Hakan Çavuşoğlu",
+        "Cumhuriyet Halk Partisi"
+      ],
       "yayin": "2017-12-03T21:42:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Hakan Çavuşoğlu'ndan Kemal Kılıçdaroğlu'na yönelik açıklama",
+      "ozet": "Başbakan Yardımcısı Hakan Çavuşoğlu, Cumhuriyet Halk Partisi Genel Başkanı Kemal Kılıçdaroğlu'nun Cumhurbaşkanı Recep Tayyip Erdoğan ve yakın çevresiyle ilgili paylaştığı belgeler üzerine değerlendirmelerde bulundu. Çavuşoğlu, ana muhalefet liderinin tutumunu eleştirerek kendisinin bir proje olduğunu ifade etti.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2017-haber-878632",
@@ -1758,10 +1926,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/derbiden-aglayan-tek-besiktas-taraftari-878632"
       },
-      "konular": [],
+      "konular": [
+        "Beşiktaş (futbol takımı)",
+        "Galatasaray (futbol takımı)",
+        "Cenk Tosun"
+      ],
       "yayin": "2017-12-03T09:23:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Beşiktaş ve Galatasaray karşılaşmasında duygusal anlar yaşandı",
+      "ozet": "Beşiktaş ile Galatasaray arasında oynanan müsabaka öncesinde ilginç bir olay gerçekleşti. Cenk Tosun'a çiçek takdim etmek isteyen bir taraftar, amacına ulaşamayınca üzüntü yaşayarak gözyaşlarına hakim olamadı. Yanında bulunan bir kadın taraftarın, durumu fark ederek üzgün kişiyi teselli etmeye çalıştığı anlar kameralara yansıdı.",
+      "kategori": "Spor"
     },
     {
       "id": "2015-haber-441579",
@@ -1774,10 +1949,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/todays-zaman-genel-yayin-yonetmeni-bulent-kenes-istifa-etti-441579"
       },
-      "konular": [],
+      "konular": [
+        "Today's Zaman",
+        "Bülent Keneş",
+        "Gazetecilik"
+      ],
       "yayin": "2015-12-03T21:11:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Today's Zaman gazetesinde genel yayın yönetmeni değişikliği",
+      "ozet": "İngilizce dilinde yayın yapan Today's Zaman gazetesinin genel yayın yönetmeni Bülent Keneş görevinden ayrıldı. Keneş, yürüttüğü genel yayın yönetmenliği pozisyonunu bıraktığını duyurdu.",
+      "kategori": "Toplum"
     },
     {
       "id": "2015-haber-440771",
@@ -1790,10 +1972,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/fiyati-yuzde-40-artti-iste-kasim-ayinin-zam-sampiyonu-440771"
       },
-      "konular": [],
+      "konular": [
+        "Tüketici fiyat endeksi",
+        "Domates",
+        "Ekonomi"
+      ],
       "yayin": "2015-12-03T10:57:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Kasım ayında en yüksek fiyat artışı domateste yaşandı",
+      "ozet": "Tüketici fiyat endeksi verilerine göre kasım ayı içerisinde fiyatı en fazla yükselen ürün domates olarak belirlendi. Söz konusu sebzenin fiyatında yüzde kırkın üzerinde bir artış meydana geldi. Bu oranla domates, ayın zam şampiyonu oldu.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2014-haber-154285",
@@ -1806,10 +1995,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/suriye-tarafindan-askerlere-ates-acildi-154285"
       },
-      "konular": [],
+      "konular": [
+        "Suriye İç Savaşı",
+        "Türkiye-Suriye sınırı",
+        "Türk Silahlı Kuvvetleri"
+      ],
       "yayin": "2014-12-03T18:20:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Sınır bölgesinde görevli askerlere ateş açıldı",
+      "ozet": "Genelkurmay Başkanlığı tarafından yapılan açıklamada, sınır hattında kaçakçılık faaliyetlerini engellemeye çalışan güvenlik güçlerine Suriye tarafından ateş açıldığı belirtildi. Farklı zaman dilimlerinde gerçekleşen bu saldırıların kaleşnikof tipi piyade tüfekleri kullanılarak yapıldığı ifade edildi.",
+      "kategori": "Savaş",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "genislik": 704,
+        "yukseklik": 499,
+        "orijinalGenislik": 704,
+        "yazar": "jan Sefti",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "aciklama": "The phrase \"Down with Bashar\" (yaskut Baššār), during the Syrian Uprising 2011.",
+        "konu": "Suriye İç Savaşı"
+      }
     },
     {
       "id": "2014-haber-153753",
@@ -1822,10 +2031,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/aziz-yildirima-hapis-istemiyle-dava-acildi-153753"
       },
-      "konular": [],
+      "konular": [
+        "Aziz Yıldırım",
+        "Fenerbahçe"
+      ],
       "yayin": "2014-12-03T11:58:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Aziz Yıldırım hakkında dava süreci başlatıldı",
+      "ozet": "Fenerbahçe kulübünün gerçekleştirdiği şampiyonluk kutlamaları esnasında dile getirdiği ifadeler gerekçe gösterilerek Aziz Yıldırım hakkında yasal işlem başlatıldı. Söz konusu açıklamalar nedeniyle hakkında hapis cezası talep edilen bir dava açıldı.",
+      "kategori": "Spor"
     },
     {
       "id": "2013-haber-15275",
@@ -1838,10 +2053,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/simit-zammi-meclis-gundeminde-15275"
       },
-      "konular": [],
+      "konular": [
+        "Sezgin Tanrıkulu",
+        "Recep Tayyip Erdoğan",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2013-12-03T09:38:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Simit fiyatlarındaki artış Türkiye Büyük Millet Meclisi gündemine taşındı",
+      "ozet": "Cumhuriyet Halk Partisi Genel Başkan Yardımcısı Sezgin Tanrıkulu, simit fiyatlarına yapılan zammı meclis çatısı altına taşıdı. Konuyla ilgili hazırladığı soru önergesini Başbakan Recep Tayyip Erdoğan'ın yanıtlaması talebiyle sundu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2013-haber-15407",
@@ -1854,10 +2076,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakanin-gosterdigi-adaya-istifali-tepki-15407"
       },
-      "konular": [],
+      "konular": [
+        "Adalet ve Kalkınma Partisi",
+        "Muğla",
+        "Marmaris"
+      ],
       "yayin": "2013-12-03T13:40:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Muğla ve Marmaris teşkilatlarında aday belirleme süreci istifalara yol açtı",
+      "ozet": "Adalet ve Kalkınma Partisi tarafından Muğla ve Marmaris için açıklanan adaylar, yerel teşkilatlarda memnuniyetsizlik yarattı. Bu gelişmenin ardından çok sayıda partili görevlerinden ayrılma kararı aldı. İstifa eden isimler, aday belirleme yöntemine yönelik tepkilerini bu şekilde dile getirdi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2012-haber-387708",
@@ -1870,10 +2099,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kasim-ayinin-zam-sampiyonu-erkek-kabani-387708"
       },
-      "konular": [],
+      "konular": [
+        "Tüketici fiyat endeksi",
+        "Enflasyon",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2012-12-03T09:13:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Kasım ayında fiyatı en çok artan ürün erkek kabanı oldu",
+      "ozet": "Tüketici fiyat endeksi verilerine göre yılın on birinci ayında piyasadaki ürünler arasında en yüksek fiyat yükselişi erkek kabanında yaşandı. Söz konusu giyim ürününde görülen artış oranı yüzde 23,71 olarak kayıtlara geçti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2012-haber-387772",
@@ -1886,10 +2122,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/besiktas-eskisehirspor-maci-hazirliklarina-basladi-387772"
       },
-      "konular": [],
+      "konular": [
+        "Beşiktaş (futbol takımı)",
+        "Eskişehirspor",
+        "Süper Lig"
+      ],
       "yayin": "2012-12-03T10:40:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Beşiktaş Eskişehirspor mücadelesi için antrenmanlara start verdi",
+      "ozet": "Ligde oynadığı son karşılaşmada Orduspor karşısında sahadan galibiyetle ayrılan Beşiktaş, bir günlük dinlenmenin ardından çalışmalarına geri döndü. Siyah beyazlı ekip, Eskişehirspor ile yapacağı maçın hazırlıklarına teknik direktör yönetiminde gerçekleştirdiği antrenmanla başladı.",
+      "kategori": "Spor"
     },
     {
       "id": "2011-haber-302728",
@@ -1902,10 +2145,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/seyit-rizanin-torunu-basbakanlikta-302728"
       },
-      "konular": [],
+      "konular": [
+        "Seyit Rıza",
+        "Dersim İsyanı",
+        "Bülent Arınç"
+      ],
       "yayin": "2011-12-03T13:20:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Seyit Rıza'nın torunu Başbakanlık'ta görüşme gerçekleştirdi",
+      "ozet": "Dersim olaylarının sembol isimlerinden biri olan Seyit Rıza'nın torunu Rüstem Polat, Başbakanlık binasını ziyaret etti. Polat, burada Başbakan Yardımcısı Bülent Arınç ile bir araya gelerek görüşmelerde bulundu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sey_Riza.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sey_Riza.jpg",
+        "genislik": 910,
+        "yukseklik": 1212,
+        "orijinalGenislik": 910,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Sey_Riza.jpg",
+        "aciklama": "Seyid Riza (Zazaki: Sey Riza) was the political leader of Dersim, a religious figure and the leader of the Dersim rebellion.",
+        "konu": "Seyit Rıza"
+      }
     }
   ],
   "haberYillari": [

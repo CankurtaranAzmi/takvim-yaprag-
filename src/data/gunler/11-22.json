@@ -898,7 +898,7 @@
     "url": "https://tr.wikipedia.org/wiki/22_Kas%C4%B1m",
     "revid": 38654357
   },
-  "guncelleme": "2026-11-25T16:55:33.901Z",
+  "guncelleme": "2026-11-26T16:33:30.499Z",
   "haberler": [
     {
       "id": "2025-haber-2454764",
@@ -911,10 +911,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/kemal-memisoglu-saglik-bakanligimizin-2026-yili-butce-teklifi-tbmm-plan-ve-butce-komisyonu-nda-kabul-edildi-2454764"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu",
+        "Kemal Memişoğlu",
+        "Sağlık Bakanlığı"
+      ],
       "yayin": "2025-11-22T00:31:00+03:00",
       "puan": 19,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Sağlık Bakanlığının 2026 Bütçe Teklifi Komisyonda Onaylandı",
+      "ozet": "Sağlık Bakanlığı tarafından hazırlanan 2026 yılı bütçe teklifi, Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu üyeleri tarafından görüşülerek kabul edildi. Bakan Kemal Memişoğlu, bütçe görüşmeleri kapsamında bakanlığın gelecek dönem hedefleri ve planlamaları hakkında komisyon üyelerine detaylı bilgiler sundu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2025-haber-2454790",
@@ -927,10 +934,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/bu-hafta-en-cok-hangi-yatirim-araci-kazandirdi-dolar-altin-euro-borsa-2454790"
       },
-      "konular": [],
+      "konular": [
+        "Yatırım",
+        "Ekonomi"
+      ],
       "yayin": "2025-11-22T10:22:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Haftalık yatırım araçlarının piyasa performansı açıklandı",
+      "ozet": "Finansal piyasalarda geride kalan haftanın verileri netleşti. Yatırımcıların yakından takip ettiği döviz kurları, altın fiyatları ve borsa endeksindeki değişimler raporlandı. Söz konusu araçların haftalık bazda yatırımcısına sağladığı getiri veya kaybettirdiği oranlar kamuoyu ile paylaşıldı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2024-haber-2271551",
@@ -943,10 +956,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/tbmm-butce-gorusmelerinde-takvim-degisti-2271551"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Milli Savunma Bakanlığı",
+        "Bütçe"
+      ],
       "yayin": "2024-11-22T13:57:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Milli Savunma Bakanligi Butce Gorusmeleri Ertelendi",
+      "ozet": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu, çalışma takviminde düzenlemeye gitti. Yapılan değişiklikle birlikte Milli Savunma Bakanlığına ait bütçe görüşmelerinin gerçekleştirileceği tarih 26 Kasım olarak belirlendi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2024-haber-2271544",
@@ -959,10 +979,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasindan-zorunlu-karsilik-orani-karari-yuzde-20-dusurdu-2271544"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Zorunlu karşılık",
+        "Ekonomi"
+      ],
       "yayin": "2024-11-22T13:48:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Merkez Bankası zorunlu karşılık oranlarında değişikliğe gitti",
+      "ozet": "Türkiye Cumhuriyet Merkez Bankası zorunlu karşılık oranlarını yeniden düzenledi. Yapılan düzenleme kapsamında Türk lirası mevduatları için belirlenen yeni oran yüzde 17 seviyesine çekildi. Aynı zamanda yabancı para mevduatlarına uygulanan zorunlu karşılık oranlarında da yüzde 20 oranında bir düşüş gerçekleştirildi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2143880",
@@ -975,10 +1002,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-dikbayira-yonelik-sorusturma-baslatilmasi-kabul-edildi-2143880"
       },
-      "konular": [],
+      "konular": [
+        "Ümit Dikbayır",
+        "İYİ Parti",
+        "Siyaset"
+      ],
       "yayin": "2023-11-22T17:51:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ümit Dikbayır hakkında disiplin soruşturması başlatıldı",
+      "ozet": "İYİ Parti yönetimi, kesin ihraç istemiyle disiplin kuruluna sevk edilen Sakarya milletvekili Ümit Dikbayır ile ilgili yeni bir karar aldı. Parti tarafından yapılan açıklamada, Dikbayır hakkında soruşturma yürütülmesine karar verildiği kamuoyuna duyuruldu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2022-haber-2005263",
@@ -991,10 +1025,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/dunya-kupasinda-suudi-arabistan-zafer-sarhosu-ulkede-resmi-tatil-ilan-edildi-2005263"
       },
-      "konular": [],
+      "konular": [
+        "2022 FIFA Dünya Kupası",
+        "Suudi Arabistan millî futbol takımı",
+        "Arjantin millî futbol takımı"
+      ],
       "yayin": "2022-11-22T19:51:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Suudi Arabistan'ın Dünya Kupası galibiyeti sonrası resmi tatil kararı",
+      "ozet": "Katar'da düzenlenen Dünya Kupası mücadelesinde Arjantin'i iki bir skorla mağlup eden Suudi Arabistan milli takımı büyük bir başarıya imza attı. Alınan bu sürpriz galibiyetin ardından ülkede kutlama yapılması amacıyla çarşamba günü için resmi tatil kararı alındı.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Argentina_team_in_St._Petersburg.jpg/960px-Argentina_team_in_St._Petersburg.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Argentina_team_in_St._Petersburg.jpg/500px-Argentina_team_in_St._Petersburg.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 1500,
+        "yazar": "Кирилл Венедиктов",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Argentina_team_in_St._Petersburg.jpg",
+        "aciklama": "Argentina vs Nigeria match",
+        "konu": "Arjantin millî futbol takımı"
+      }
     },
     {
       "id": "2022-haber-2005107",
@@ -1007,10 +1061,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/chpde-secim-starti-verildi-aday-olacaklara-istifa-talimati-2005107"
       },
-      "konular": [],
+      "konular": [
+        "Cumhuriyet Halk Partisi",
+        "Siyaset"
+      ],
       "yayin": "2022-11-22T11:28:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Cumhuriyet Halk Partisi'nde milletvekili adaylığı süreci başladı",
+      "ozet": "Cumhuriyet Halk Partisi yönetimi, milletvekili aday adayı olmayı planlayan il ve ilçe başkanlarının görevlerinden ayrılmaları gerektiğini duyurdu. İstifa eden yöneticilerin yerine yapılacak atamalar veya seçim süreçleri ise genel merkez tarafından denetim altına alındı. Bu kapsamda, ilgili genel başkan yardımcılarının onayı olmadan herhangi bir yeni görevlendirme gerçekleştirilmeyeceği ifade edildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2021-haber-1886893",
@@ -1023,10 +1083,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/bolu-belediye-meclisinden-karar-yabancilara-su-dolarla-nikah-100-bin-tl-1886893"
       },
-      "konular": [],
+      "konular": [
+        "Bolu",
+        "Belediye meclisi"
+      ],
       "yayin": "2021-11-22T21:26:00+03:00",
       "puan": 13,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Bolu Belediye Meclisi yabancılara yönelik yeni ücret tarifesini onayladı",
+      "ozet": "Bolu Belediye Meclisi tarafından gerçekleştirilen oturumda, yabancı uyruklu kişilere yönelik yeni bir fiyatlandırma politikası karara bağlandı. Alınan karara göre, yabancıların su tüketim bedellerinin dolar kuru üzerinden hesaplanması ve nikah işlemlerinde 100 bin Türk Lirası ücret talep edilmesi uygulaması oy çokluğuyla kabul edildi.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2021-haber-1886881",
@@ -1039,10 +1105,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/akpli-cumhurbaskani-recep-tayyip-erdogan-konustu-dolar-firladi-1886881"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Türkiye ekonomisi",
+        "Döviz kuru"
+      ],
       "yayin": "2021-11-22T19:30:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanlığı Kabinesi toplantısı sonrasında ekonomi açıklaması yapıldı",
+      "ozet": "Cumhurbaşkanlığı Kabinesi toplantısının ardından Cumhurbaşkanı Recep Tayyip Erdoğan kamuoyuna yönelik değerlendirmelerde bulundu. Toplantı sonrasında yapılan açıklamaların ardından döviz kurlarında hareketlilik gözlemlendi.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2020-haber-1792869",
@@ -1055,10 +1141,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/koronavirusun-meslek-hastaligi-sayilmasi-meclis-saglik-komisyonunda-kabul-edildi-1792869"
       },
-      "konular": [],
+      "konular": [
+        "COVID-19 pandemisi",
+        "Meslek hastalığı",
+        "Türkiye Büyük Millet Meclisi"
+      ],
       "yayin": "2020-11-22T23:13:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Sağlık çalışanları için koronavirüs meslek hastalığı olarak kabul edildi",
+      "ozet": "Türkiye Büyük Millet Meclisi Sağlık Komisyonu, sağlık sektöründe görev yapan personelin koronavirüse yakalanması durumunun meslek hastalığı sayılmasına yönelik düzenlemeyi onayladı. Tüm siyasi partilerin ortak mutabakatı ile alınan bu karar, komisyon üyelerinin desteğiyle yasalaşma sürecinde önemli bir aşamayı geride bıraktı.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2020-haber-1792911",
@@ -1071,10 +1165,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/pentatlon-sampiyonasinda-bronz-madalya-1792911"
       },
-      "konular": [],
+      "konular": [
+        "Modern pentatlon",
+        "Türkiye millî pentatlon takımı"
+      ],
       "yayin": "2020-11-22T10:21:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Milli Pentatlon Takımı Avrupa Şampiyonası'nda Üçüncü Oldu",
+      "ozet": "Türkiye Erkek Milli Pentatlon Takımı, katıldığı şampiyonada başarılı bir performans sergiledi. Buğra Ünal, Dora Nusretoğlu ve Arda Selçuk'tan oluşan sporcu grubu, turnuvayı bronz madalya kazanarak tamamladı.",
+      "kategori": "Spor"
     },
     {
       "id": "2019-haber-1703626",
@@ -1087,10 +1187,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/ibb-spordan-olimpiyata-rekor-katilim-1703626"
       },
-      "konular": [],
+      "konular": [
+        "İstanbul Büyükşehir Belediyespor",
+        "2020 Yaz Olimpiyatları"
+      ],
       "yayin": "2019-11-22T12:49:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "İstanbul Büyükşehir Belediyesi Spor Kulübü Olimpiyat Hedefini Belirledi",
+      "ozet": "Milli takımlara en fazla sporcu sağlayan kulüplerden biri olan İstanbul Büyükşehir Belediyesi Spor Kulübü, Tokyo Olimpiyatları için hazırlıklarını sürdürdü. Kulüp bünyesindeki sekiz sporcu olimpiyatlara katılma hakkı kazanırken, otuz dokuz sporcu ise kota alabilmek için çalışmalarına devam etti.",
+      "kategori": "Spor"
     },
     {
       "id": "2019-haber-1703678",
@@ -1103,10 +1209,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/razgatlioglunun-hedefi-dunya-superbike-sampiyonasinda-birincilik-1703678"
       },
-      "konular": [],
+      "konular": [
+        "Toprak Razgatlıoğlu",
+        "Superbike Dünya Şampiyonası",
+        "Yamaha Motor"
+      ],
       "yayin": "2019-11-22T15:44:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Toprak Razgatlıoğlu PATA Yamaha Takımı ile Anlaşma Sağladı",
+      "ozet": "Milli motosikletçi Toprak Razgatlıoğlu, Dünya Superbike Şampiyonası'ndaki kariyer hedeflerine ulaşmak adına PATA Yamaha ekibiyle resmi sözleşme imzaladı. Şampiyonluk yolunda önemli bir adım atan sporcu, yeni takımıyla birlikte yarışacak olmaktan duyduğu memnuniyeti dile getirdi.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Toprak_Razgatlioglu%2C_2022.jpg/960px-Toprak_Razgatlioglu%2C_2022.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Toprak_Razgatlioglu%2C_2022.jpg/500px-Toprak_Razgatlioglu%2C_2022.jpg",
+        "genislik": 960,
+        "yukseklik": 640,
+        "orijinalGenislik": 3225,
+        "yazar": "Jearle",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Toprak_Razgatlioglu,_2022.jpg",
+        "aciklama": "Toprak Razgatlioglu in Parc Fermé, Donington World Superbike, 2022.",
+        "konu": "Toprak Razgatlıoğlu"
+      }
     },
     {
       "id": "2018-haber-1148117",

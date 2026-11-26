@@ -1235,7 +1235,7 @@
     "url": "https://tr.wikipedia.org/wiki/4_Aral%C4%B1k",
     "revid": 38170635
   },
-  "guncelleme": "2026-11-25T16:55:39.406Z",
+  "guncelleme": "2026-11-26T16:33:35.596Z",
   "haberler": [
     {
       "id": "2025-haber-2458661",
@@ -1248,10 +1248,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/vergi-sisteminde-duzenlemeleri-iceren-kanun-teklifi-tbmm-genel-kurulu-nda-kabul-edildi-2458661"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Vergi hukuku",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2025-12-04T23:42:00+03:00",
       "puan": 17,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Vergi sistemini yeniden düzenleyen kanun teklifi mecliste onaylandı",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, vergi mevzuatında kapsamlı değişiklikler öngören yasa teklifini görüşerek kabul etti. Düzenleme kapsamında katma değer vergisi istisnaları sınırlandırılırken, gayrimenkul ve tapu işlemlerine yönelik yeni vergi kuralları getirildi. Ayrıca kayıt dışı ekonomiyle mücadele edilmesi ve kamu gelirlerinin artırılarak bütçe dengesinin sağlanması hedeflendi.",
+      "kategori": "Ekonomi",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/IFM_G%C3%B6rsel_%28cropped%29.jpg/960px-IFM_G%C3%B6rsel_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/IFM_G%C3%B6rsel_%28cropped%29.jpg/500px-IFM_G%C3%B6rsel_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 637,
+        "orijinalGenislik": 4437,
+        "yazar": "Acode37",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:IFM_G%C3%B6rsel_(cropped).jpg",
+        "aciklama": "default",
+        "konu": "Türkiye ekonomisi"
+      }
     },
     {
       "id": "2024-haber-2275892",
@@ -1264,10 +1284,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/turk-lirasi-4-yilin-zirvesinde-merkez-bankasi-verileri-ortaya-2275892"
       },
-      "konular": [],
+      "konular": [
+        "Türk lirası",
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Ekonomi"
+      ],
       "yayin": "2024-12-04T17:44:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türk Lirası reel efektif döviz kuru endeksinde dört yılın en yüksek seviyesine ulaştı",
+      "ozet": "Merkez Bankası tarafından paylaşılan geçici veriler, Türk Lirası'nın değerinde önemli bir değişim yaşandığını gösterdi. Tüketici fiyat endeksi baz alınarak hesaplanan reel efektif döviz kuru endeksi, bir önceki aya göre yükseliş kaydetti. Bu gelişmeyle birlikte Türk Lirası, son dört yılın en değerli noktasına ulaştı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2024-haber-2275639",
@@ -1280,10 +1307,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/dunya/guney-kore-cumhurbaskani-neden-aniden-sikiyonetim-ilan-etti-2275639"
       },
-      "konular": [],
+      "konular": [
+        "Yoon Suk-yeol",
+        "Güney Kore",
+        "Sıkıyönetim"
+      ],
       "yayin": "2024-12-04T06:44:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Güney Kore'de Sıkıyönetim Kararı ve Geri Adım",
+      "ozet": "Güney Kore Cumhurbaşkanı Yoon Suk-yeol, yoğun siyasi baskılar neticesinde ülkede yarım asrı aşkın süredir uygulanmayan sıkıyönetim kararını yürürlüğe koydu. Parlamentonun bu karara karşı çıkarak engelleme yapmasının ardından Cumhurbaşkanı, sıkıyönetim uygulamasını sonlandıracağını duyurdu.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/South_Korea_President_Yoon_Suk_Yeol_portrait.jpg/960px-South_Korea_President_Yoon_Suk_Yeol_portrait.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/South_Korea_President_Yoon_Suk_Yeol_portrait.jpg/500px-South_Korea_President_Yoon_Suk_Yeol_portrait.jpg",
+        "genislik": 960,
+        "yukseklik": 1200,
+        "orijinalGenislik": 3070,
+        "yazar": "Office of the President of South Korea",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:South_Korea_President_Yoon_Suk_Yeol_portrait.jpg",
+        "aciklama": "South Korea President Yoon Suk-yeol official portrait",
+        "konu": "Yoon Suk-yeol"
+      }
     },
     {
       "id": "2023-haber-2147839",
@@ -1296,10 +1343,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/fiyat-artisi-belli-oldu-kasim-ayinin-zam-sampiyonu-tereyagi-2147839"
       },
-      "konular": [],
+      "konular": [
+        "Tüketici fiyat endeksi",
+        "Enflasyon",
+        "Türkiye ekonomisi"
+      ],
       "yayin": "2023-12-04T11:02:00+03:00",
       "puan": 15,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Kasım ayında en yüksek fiyat artışı tereyağında gerçekleşti",
+      "ozet": "Tüketici fiyat endeksi verilerine göre kasım ayında ürün bazında en büyük fiyat yükselişi yüzde 13,63 oranıyla tereyağında yaşandı. Aynı dönem içerisinde fiyatı en çok gerileyen ürün grubu ise yüzde 4,96 düşüşle taze meyveler oldu.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2023-haber-2147884",
@@ -1312,10 +1366,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/kasimda-e-ticarette-tum-zamanlarin-rekoru-kirildi-2147884"
       },
-      "konular": [],
+      "konular": [
+        "Elektronik ticaret",
+        "ETİD"
+      ],
       "yayin": "2023-12-04T12:05:00+03:00",
       "puan": 14,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Kasım ayında e-ticaret sektöründe tarihi satış hacmine ulaşıldı",
+      "ozet": "Elektronik Ticaret İşletmecileri Derneği Başkanı Hakan Çevikoğlu, kasım ayında dijital alışveriş platformlarında tüm zamanların en yüksek satış rakamlarının kaydedildiğini duyurdu. Söz konusu dönemde toplam işlem hacminin 300 milyar liraya ulaştığı ve tüketicilerin 500 milyon adet sipariş verdiği açıklandı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2022-haber-2008875",
@@ -1328,10 +1388,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/sgkden-yeni-hizmet-emekli-maasi-hesaplama-erisime-acildi-2008875"
       },
-      "konular": [],
+      "konular": [
+        "Emeklilikte Yaşa Takılanlar",
+        "Sosyal Güvenlik Kurumu"
+      ],
       "yayin": "2022-12-04T16:05:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Sosyal Güvenlik Kurumu emekli maaşı hesaplama sistemini kullanıma sundu",
+      "ozet": "Emeklilikte Yaşa Takılanlar düzenlemesine yönelik beklentilerin artmasıyla birlikte vatandaşların emekli maaşı tutarlarına dair merakı yükseldi. Bu süreçte Sosyal Güvenlik Kurumu, sigortalı çalışanların alacakları tahmini emekli maaşlarını öğrenebilmeleri amacıyla dijital bir hesaplama aracını erişime açtı. Söz konusu uygulama, 1999 yılı öncesinde sigorta girişi bulunan ve yasal düzenleme bekleyen kişilerin emeklilik haklarına dair bilgilere ulaşmasını kolaylaştırdı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2022-haber-2008745",
@@ -1344,10 +1410,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/metropoll-arastirmanin-son-secim-anketi-yayinlandi-cumhur-ittifakinda-erime-tekrar-basladi-2008745"
       },
-      "konular": [],
+      "konular": [
+        "MetroPOLL Araştırma",
+        "Kamuoyu araştırması",
+        "Türkiye'de seçimler"
+      ],
       "yayin": "2022-12-04T10:14:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "MetroPOLL Araştırma Şirketi Seçim Anketi Sonuçlarını Paylaştı",
+      "ozet": "MetroPOLL Araştırma kuruluşu, gerçekleştirdiği güncel seçim anketinin verilerini kamuoyuyla paylaştı. Söz konusu çalışma, siyasi partilerin oy oranlarındaki değişimleri ve seçmen eğilimlerini ortaya koyan bulguları içerdi. Araştırma şirketi tarafından hazırlanan rapor, seçim sürecine dair güncel verileri takip edenlerin bilgisine sunuldu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2021-haber-1890054",
@@ -1360,10 +1433,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/evren-devrim-zelyut-dolarin-gorecegi-tarihi-zirveyi-acikladi-1890054"
       },
-      "konular": [],
+      "konular": [
+        "Dolar",
+        "Evren Devrim Zelyut",
+        "Ekonomi"
+      ],
       "yayin": "2021-12-04T14:15:00+03:00",
       "puan": 11,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Ekonomist Evren Devrim Zelyut dolar kuru için tahminde bulundu",
+      "ozet": "Ekonomist Evren Devrim Zelyut, Türk lirasının Amerikan doları karşısındaki değer kaybı sürecini değerlendirdi. Kendi dijital yayın platformu üzerinden açıklamalarda bulunan Zelyut, dolar kurunun ulaşabileceği seviyeye dair öngörüsünü paylaştı. Uzman isim, doların 16.99 lira seviyesine çıkacağını ifade etti.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2021-haber-1890107",
@@ -1376,10 +1456,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/semih-sayginer-dunya-kupasini-kazandi-1890107"
       },
-      "konular": [],
+      "konular": [
+        "Semih Saygıner",
+        "Bilardo"
+      ],
       "yayin": "2021-12-04T18:36:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Semih Saygıner 3 Bant Bilardo Dünya Kupası şampiyonu oldu",
+      "ozet": "Milli sporcu Semih Saygıner, katıldığı 3 Bant Dünya Kupası turnuvasında rakiplerini geride bırakarak birinciliğe ulaştı. Başarılı bilardocu, sergilediği performansla turnuvayı şampiyonlukla tamamladı.",
+      "kategori": "Spor",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/3-Cushion_World_Cup_2017-7-Semih_Sayginer_%28TUR%29.jpg/960px-3-Cushion_World_Cup_2017-7-Semih_Sayginer_%28TUR%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/3-Cushion_World_Cup_2017-7-Semih_Sayginer_%28TUR%29.jpg/500px-3-Cushion_World_Cup_2017-7-Semih_Sayginer_%28TUR%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1280,
+        "orijinalGenislik": 3024,
+        "yazar": "Roger Schaewe",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:3-Cushion_World_Cup_2017-7-Semih_Sayginer_(TUR).jpg",
+        "aciklama": "see file name",
+        "konu": "Semih Saygıner"
+      }
     },
     {
       "id": "2020-haber-1796120",
@@ -1392,10 +1491,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dunya-ralli-sampiyonasinda-sampiyon-italyada-belli-oluyor-1796120"
       },
-      "konular": [],
+      "konular": [
+        "Dünya Ralli Şampiyonası",
+        "İtalya",
+        "Otomobil yarışı"
+      ],
       "yayin": "2020-12-04T10:28:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Dünya Ralli Şampiyonası İtalya'daki Final Yarışıyla Sona Eriyor",
+      "ozet": "Otomobil sporlarının en önemli etkinlikleri arasında yer alan Dünya Ralli Şampiyonası, sezonun son mücadelesine ev sahipliği yapıyor. Takvimin yedinci ve final etabı olan İtalya yarışı ile birlikte şampiyonluk düğümü çözülüyor. Organizasyon bu yarışın ardından sezonu tamamlıyor.",
+      "kategori": "Spor"
     },
     {
       "id": "2020-haber-1796100",
@@ -1408,10 +1514,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/adolf-hitler-adli-aday-namibyada-secim-kazandi-1796100"
       },
-      "konular": [],
+      "konular": [
+        "Namibya",
+        "Yerel seçimler"
+      ],
       "yayin": "2020-12-04T04:40:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Namibya'daki yerel seçimleri Adolf Hitler isimli aday kazandı",
+      "ozet": "Namibya'da gerçekleştirilen yerel seçimlerde Adolf Hitler adını taşıyan bir siyasetçi büyük bir başarı elde ederek seçimi kazandı. Seçim sonuçlarının ardından açıklama yapan aday, dünya genelinde bir hakimiyet kurma hedefi bulunmadığını belirtti. Bu durum, isminin yarattığı çağrışımlar nedeniyle uluslararası basında geniş yer buldu.",
+      "kategori": "Siyaset"
     },
     {
       "id": "2019-haber-1706216",
@@ -1424,10 +1536,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/eczacibasi-vitra-dunya-sampiyonasinda-tam-gaz-1706216"
       },
-      "konular": [],
+      "konular": [
+        "FIVB Kadınlar Dünya Kulüpler Voleybol Şampiyonası",
+        "Eczacıbaşı (kadın voleybol takımı)"
+      ],
       "yayin": "2019-12-04T13:43:00+03:00",
       "puan": 10,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Eczacıbaşı VitrA Dünya Kulüpler Şampiyonası'nda galibiyet elde etti",
+      "ozet": "FIVB Kadınlar Dünya Kulüpler Voleybol Şampiyonası A Grubu mücadelesinde Eczacıbaşı VitrA, Brezilya temsilcisi Itambe Minas ile karşı karşıya geldi. Gruptaki ikinci maçına çıkan Türk ekibi, rakibini set vermeden 3-0 mağlup ederek sahadan galibiyetle ayrıldı.",
+      "kategori": "Spor"
     },
     {
       "id": "2019-haber-1706201",
@@ -1440,10 +1558,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-nato-zirvesi-kapsaminda-trumpla-gorustu-1706201"
       },
-      "konular": [],
+      "konular": [
+        "NATO",
+        "Recep Tayyip Erdoğan",
+        "Donald Trump"
+      ],
       "yayin": "2019-12-04T15:10:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanı Erdoğan ve ABD Başkanı Trump Londra'da Görüştü",
+      "ozet": "NATO Liderler Zirvesi için İngiltere'nin başkenti Londra'da bulunan Cumhurbaşkanı Recep Tayyip Erdoğan, Amerika Birleşik Devletleri Başkanı Donald Trump ile ikili bir görüşme gerçekleştirdi. Zirve programı dahilinde bir araya gelen iki lider, çeşitli konuları ele aldı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2018-haber-1159448",
@@ -1456,10 +1594,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/sari-yelekliler-kazandi-fransa-zamlari-askiya-aldi-1159448"
       },
-      "konular": [],
+      "konular": [
+        "Sarı Yelekliler protestoları",
+        "Édouard Philippe",
+        "Fransa"
+      ],
       "yayin": "2018-12-04T10:24:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Fransa hükümeti akaryakıt zammı kararını erteledi",
+      "ozet": "Fransa Başbakanı Edouard Philippe, ülkede geniş çaplı protestolara yol açan akaryakıt fiyatlarındaki artışın durdurulduğunu duyurdu. Sarı yelekliler olarak bilinen grubun tepkileri üzerine hükümet, planlanan zamları askıya alma kararı verdiğini açıkladı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%C3%89douard_Philippe_%C3%A0_Ch%C3%A2lons-en-Champagne_en_2023._%28cropped%29.jpg/960px-%C3%89douard_Philippe_%C3%A0_Ch%C3%A2lons-en-Champagne_en_2023._%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%C3%89douard_Philippe_%C3%A0_Ch%C3%A2lons-en-Champagne_en_2023._%28cropped%29.jpg/500px-%C3%89douard_Philippe_%C3%A0_Ch%C3%A2lons-en-Champagne_en_2023._%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1278,
+        "orijinalGenislik": 1849,
+        "yazar": "Ksiamon",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Philippe_%C3%A0_Ch%C3%A2lons-en-Champagne_en_2023._(cropped).jpg",
+        "aciklama": "Édouard Philippe à la Foire de Châlons-en-Champagne (Marne), le 6 septembre 2023.",
+        "konu": "Édouard Philippe"
+      }
     },
     {
       "id": "2017-haber-879762",
@@ -1472,10 +1630,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/basbakan-yildirimdan-taseron-ve-enflasyon-aciklamasi-879762"
       },
-      "konular": [],
+      "konular": [
+        "Taşeron işçi",
+        "Binali Yıldırım",
+        "Türkiye"
+      ],
       "yayin": "2017-12-04T21:54:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Taşeron işçiler için hazırlanan düzenlemede sona gelindi",
+      "ozet": "Güney Kore ziyareti öncesinde havalimanında basın mensuplarına açıklamalarda bulunan Başbakan Binali Yıldırım, taşeron işçilerin durumuna ilişkin yürütülen çalışmalarda nihai aşamaya ulaşıldığını belirtti. Yıldırım, söz konusu düzenlemenin son halini aldığını ifade ederek konuyla ilgili gelişmeleri kamuoyuyla paylaştı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Binali_Y%C4%B1ld%C4%B1r%C4%B1m_%282018-08-18%29_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Binali_Y%C4%B1ld%C4%B1r%C4%B1m_%282018-08-18%29_%28cropped%29.jpg",
+        "genislik": 794,
+        "yukseklik": 1104,
+        "orijinalGenislik": 794,
+        "yazar": "duma.gov.ru",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Binali_Y%C4%B1ld%C4%B1r%C4%B1m_(2018-08-18)_(cropped).jpg",
+        "aciklama": "Председатель Великого национального собрания Турции Бинали Йылдырым",
+        "konu": "Binali Yıldırım"
+      }
     },
     {
       "id": "2017-haber-879172",
@@ -1488,10 +1666,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dolar-tutulamiyor-yeni-hafta-yukselisle-basladi-879172"
       },
-      "konular": [],
+      "konular": [
+        "Dolar",
+        "Döviz kuru",
+        "Ekonomi"
+      ],
       "yayin": "2017-12-04T07:55:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Döviz piyasasında haftanın ilk gününde yükseliş eğilimi gözlendi",
+      "ozet": "Geçtiğimiz hafta değer kaybı yaşayan dolar kuru, yeni haftaya artışla giriş yaptı. Piyasalardaki hareketlilikle birlikte döviz fiyatlarında yukarı yönlü bir seyir izlendi.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2016-haber-640158",
@@ -1504,10 +1689,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/avusturyada-sol-kazandi-secimin-galibi-van-der-bellen-640158"
       },
-      "konular": [],
+      "konular": [
+        "Alexander Van der Bellen",
+        "Avusturya Cumhurbaşkanlığı Seçimi",
+        "Avusturya"
+      ],
       "yayin": "2016-12-04T19:29:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Avusturya Cumhurbaşkanlığı Seçimini Alexander Van der Bellen Kazandı",
+      "ozet": "Avusturya'da merakla beklenen cumhurbaşkanlığı seçimleri sonuçlandı. Aşırı sağın yükselişi nedeniyle dikkatle takip edilen süreçte, Yeşiller Partisi'nin eski lideri bağımsız aday Alexander Van der Bellen ipi göğüsledi. Van der Bellen, özgür ve kozmopolit bir Avusturya vizyonunu savunduğu seçim kampanyasının ardından göreve seçildi. Aynı gün İtalya'da ise anayasa referandumuna ilişkin sonuçların açıklanması beklendi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Am_23._September_2025_nahm_Au%C3%9Fenministerin_Beate_Meinl-Reisinger_gemeinsam_mit_Bundespr%C3%A4sident_Alexander_Van_der_Bellen_%28M%29_und_Bundeskanzler_Christian_Stocker_%28L%29_%2854813003241%29_%28cropped%29.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Am_23._September_2025_nahm_Au%C3%9Fenministerin_Beate_Meinl-Reisinger_gemeinsam_mit_Bundespr%C3%A4sident_Alexander_Van_der_Bellen_%28M%29_und_Bundeskanzler_Christian_Stocker_%28L%29_%2854813003241%29_%28cropped%29.jpg",
+        "genislik": 878,
+        "yukseklik": 1171,
+        "orijinalGenislik": 878,
+        "yazar": "BMEIA/ Michael Gruber",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Am_23._September_2025_nahm_Au%C3%9Fenministerin_Beate_Meinl-Reisinger_gemeinsam_mit_Bundespr%C3%A4sident_Alexander_Van_der_Bellen_(M)_und_Bundeskanzler_Christian_Stocker_(L)_(54813003241)_(cropped).jpg",
+        "aciklama": "Am 23. September 2025 nahm Außenministerin Beate Meinl-Reisinger gemeinsam mit Bundespräsident Alexander Van der Bellen (M) und Bundeskanzler Christian Stocker (L) am Empfang zur Österreichischen Sich",
+        "konu": "Alexander Van der Bellen"
+      }
     },
     {
       "id": "2016-haber-640072",
@@ -1520,10 +1725,29 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogandan-bir-kez-daha-dolar-ve-idam-cikisi-640072"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "Türkiye siyaseti"
+      ],
       "yayin": "2016-12-04T16:07:00+03:00",
       "puan": 9,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Cumhurbaşkanı Erdoğan'dan Dolar ve İdam Cezası Hakkında Açıklamalar",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, gündemdeki konulara ilişkin değerlendirmelerde bulundu. Konuşmasında döviz kurlarında yaşanan hareketliliğe ve idam cezasının yeniden yürürlüğe girmesi tartışmalarına değindi. Erdoğan, bu iki konu hakkındaki görüşlerini kamuoyuyla paylaştı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2015-haber-441749",
@@ -1536,10 +1760,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/kazandan-basbakana-dundar-ve-gul-mektubu-441749"
       },
-      "konular": [],
+      "konular": [
+        "Can Dündar",
+        "Erdem Gül",
+        "Turgut Kazan"
+      ],
       "yayin": "2015-12-04T07:40:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Turgut Kazan'dan Başbakan'a tutuklu gazeteciler için mektup",
+      "ozet": "Eski İstanbul Barosu Başkanı Turgut Kazan, Silivri Cezaevi'nde tutuklu bulunan gazeteciler Can Dündar ve Erdem Gül'ü ziyaret etti. Ziyaretin ardından Kazan, konuyla ilgili düşüncelerini ve taleplerini içeren bir mektubu Başbakan Ahmet Davutoğlu'na iletti.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Can_D%C3%BCndar%2C_Frankfurter_Buchmesse_2023.jpg/960px-Can_D%C3%BCndar%2C_Frankfurter_Buchmesse_2023.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Can_D%C3%BCndar%2C_Frankfurter_Buchmesse_2023.jpg/500px-Can_D%C3%BCndar%2C_Frankfurter_Buchmesse_2023.jpg",
+        "genislik": 960,
+        "yukseklik": 1163,
+        "orijinalGenislik": 1624,
+        "yazar": "Elena Ternovaja",
+        "lisans": "CC BY-SA 3.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Can_D%C3%BCndar,_Frankfurter_Buchmesse_2023.jpg",
+        "aciklama": "Can Dündar at Frankfurt Book Fair 2023",
+        "konu": "Can Dündar"
+      }
     },
     {
       "id": "2015-haber-442419",
@@ -1552,10 +1796,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/adanadaki-toplu-tecavuz-davasi-basladi-dede-dedigim-adam-bana-tecavuz-etti-442419"
       },
-      "konular": [],
+      "konular": [
+        "Cinsel istismar",
+        "Adana",
+        "Çocuk hakları"
+      ],
       "yayin": "2015-12-04T15:28:00+03:00",
       "puan": 6,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Adana merkezli cinsel istismar davasında yargılama süreci başladı",
+      "ozet": "Adana sınırları içerisinde gerçekleşen ve çok sayıda çocuğun mağdur olduğu cinsel istismar davası mahkemeye taşındı. On dört yaşındaki bir mağdur, tanıdığı bir şahsın kendisini kandırarak istismarda bulunduğunu ifade etti. Toplamda on bir çocuk ile diğer mağdurların yer aldığı dosyada otuz bir sanığın yargılanmasına başlandı.",
+      "kategori": "Toplum",
+      "gorsel": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Martin_Van_Maele_-_La_Grande_Danse_macabre_des_vifs_-_11.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Martin_Van_Maele_-_La_Grande_Danse_macabre_des_vifs_-_11.jpg",
+        "genislik": 437,
+        "yukseklik": 600,
+        "orijinalGenislik": 437,
+        "yazar": "Martin Van Maële",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Martin_Van_Maele_-_La_Grande_Danse_macabre_des_vifs_-_11.jpg",
+        "aciklama": "Dessins de Martin van Maele. Illustration de La Grande Danse macabre des vifs, 1905.",
+        "konu": "Cinsel istismar"
+      }
     },
     {
       "id": "2014-haber-155456",
@@ -1568,10 +1832,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/tbmmde-madencilerle-ilgili-ilo-sozlesmesi-kabul-edildi-155456"
       },
-      "konular": [],
+      "konular": [
+        "Uluslararası Çalışma Örgütü",
+        "Türkiye Büyük Millet Meclisi",
+        "İş güvenliği"
+      ],
       "yayin": "2014-12-04T23:42:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Madenlerde İş Sağlığı ve Güvenliği Sözleşmesi Meclis'te Onaylandı",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, maden ocaklarında yaşanan kazaların ardından gündeme gelen Uluslararası Çalışma Örgütü'nün 176 sayılı sözleşmesini onayladı. Maden işyerlerinde güvenlik ve sağlık standartlarını düzenleyen bu uluslararası metnin kabul edilmesiyle birlikte, sektördeki çalışma koşullarının iyileştirilmesi hedeflendi. Söz konusu kanun tasarısı, madencilik faaliyetlerinde iş güvenliği önlemlerinin artırılmasına yönelik yasal bir adım olarak yürürlüğe girdi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ruby_Loftus_screwing_a_Breech-ring_%281943%29_%28Art._IWM_LD_2850%29.jpg/960px-Ruby_Loftus_screwing_a_Breech-ring_%281943%29_%28Art._IWM_LD_2850%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ruby_Loftus_screwing_a_Breech-ring_%281943%29_%28Art._IWM_LD_2850%29.jpg/500px-Ruby_Loftus_screwing_a_Breech-ring_%281943%29_%28Art._IWM_LD_2850%29.jpg",
+        "genislik": 960,
+        "yukseklik": 814,
+        "orijinalGenislik": 3327,
+        "yazar": "Laura Knight",
+        "lisans": "Public domain",
+        "lisansUrl": null,
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ruby_Loftus_screwing_a_Breech-ring_(1943)_(Art._IWM_LD_2850).jpg",
+        "aciklama": "A young factory worker in blue overalls is shown at work on a industrial lathe, cutting and turning the breech-ring component of a Bofors anti-aircraft gun. Other factory workers are visible in the ba",
+        "konu": "İş güvenliği"
+      }
     },
     {
       "id": "2014-haber-154891",
@@ -1584,10 +1868,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/diego-sampiyon-olup-devler-ligine-gitmek-istiyoruz-154891"
       },
-      "konular": [],
+      "konular": [
+        "Diego Ribas",
+        "Fenerbahçe (futbol takımı)",
+        "Süper Lig"
+      ],
       "yayin": "2014-12-04T12:04:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Diego Ribas Fenerbahçe'nin Hedeflerini Açıkladı",
+      "ozet": "Fenerbahçe forması giyen Brezilyalı oyuncu Diego Ribas, sezonu şampiyonlukla tamamlamayı amaçladıklarını belirtti. Takım olarak dördüncü yıldızı kazanmak istediklerini ifade eden futbolcu, bu başarının ardından UEFA Şampiyonlar Ligi'nde mücadele etmeyi hedeflediklerini dile getirdi.",
+      "kategori": "Spor"
     },
     {
       "id": "2013-haber-15617",
@@ -1600,10 +1891,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/patates-zam-sampiyonu-oldu-15617"
       },
-      "konular": [],
+      "konular": [
+        "Patates",
+        "Doğu Marmara Bölgesi",
+        "Enflasyon"
+      ],
       "yayin": "2013-12-04T10:13:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Doğu Marmara bölgesinde patates fiyatlarında yüksek artış yaşandı",
+      "ozet": "Doğu Marmara genelinde gerçekleştirilen fiyat incelemeleri sonucunda, geçtiğimiz ay içerisinde en fazla değer kazanan ürün patates oldu. Bölgedeki temel gıda maddeleri arasında yer alan patatesin fiyatındaki bu belirgin yükseliş, piyasa verilerine yansıdı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2013-haber-15811",
@@ -1616,10 +1914,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/dolarda-haftanin-rekoru-15811"
       },
-      "konular": [],
+      "konular": [
+        "Dolar",
+        "Ekonomi",
+        "ABD"
+      ],
       "yayin": "2013-12-04T17:57:00+03:00",
       "puan": 8,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Dolar kurunda yeni bir rekor seviye görüldü",
+      "ozet": "Amerika Birleşik Devletleri ekonomisinin toparlanma sürecine girdiğini gösteren verilerin açıklanmasıyla birlikte döviz piyasalarında hareketlilik yaşandı. Bu ekonomik göstergelerin etkisiyle dolar kuru, piyasalarda yeni bir zirveye ulaşarak önemli bir eşiği geride bıraktı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2012-haber-388038",
@@ -1632,10 +1937,17 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/soguyan-havalar-kisliklari-zam-sampiyonu-yapti-388038"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye İstatistik Kurumu",
+        "Enflasyon",
+        "Giyim"
+      ],
       "yayin": "2012-12-04T10:13:00+03:00",
       "puan": 12,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Kışlık giyim ürünlerinde fiyat artışı gözlemlendi",
+      "ozet": "Türkiye İstatistik Kurumu tarafından paylaşılan güncel veriler, kış mevsiminin gelmesiyle birlikte giyim sektöründeki fiyat değişimlerini ortaya koydu. Son iki aylık süreçte kaban, kazak ve bot gibi kışlık ürünlerin fiyatlarında belirgin bir yükseliş yaşandı. Bu ürünler, söz konusu dönem içerisinde fiyatı en çok artan kalemler arasında ilk sırada yer aldı.",
+      "kategori": "Ekonomi"
     },
     {
       "id": "2012-haber-388040",
@@ -1648,10 +1960,30 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/erdogan-israil-aklini-basina-alsin-388040"
       },
-      "konular": [],
+      "konular": [
+        "Recep Tayyip Erdoğan",
+        "İsrail-Türkiye ilişkileri",
+        "Ortadoğu"
+      ],
       "yayin": "2012-12-04T10:10:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Başbakan Erdoğan'dan İsrail'in Bölgesel Politikalarına Eleştiri",
+      "ozet": "Dönemin Başbakanı Recep Tayyip Erdoğan, Ortadoğu'daki mevcut gerilimler üzerine değerlendirmelerde bulundu. İsrail'in bölgedeki barış ortamını olumsuz etkilediğini belirten Erdoğan, bu ülkenin tutumunu gözden geçirmesi gerektiğini ifade etti. İsrail yönetiminin daha sağduyulu bir yaklaşım benimsemesini beklediklerini dile getirdi.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2011-haber-302942",
@@ -1664,10 +1996,18 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/misirda-secim-sonuclari-sasirtmadi-302942"
       },
-      "konular": [],
+      "konular": [
+        "Mısır parlamento seçimleri (2011-2012)",
+        "Hürriyet ve Adalet Partisi",
+        "Mısır"
+      ],
       "yayin": "2011-12-04T16:05:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "yazildi",
+      "baslik": "Mısır seçimlerinin ilk tur sonuçları belli oldu",
+      "ozet": "Mısırda uzun süreli yönetimin sona ermesinin ardından gerçekleştirilen seçimlerin ilk aşaması tamamlandı. Açıklanan verilere göre Hürriyet ve Adalet Partisi oyların büyük kısmını alarak seçimi önde bitirdi. Selefi Nur Partisi ise elde ettiği oy oranıyla ikinci sırada yer aldı.",
+      "kategori": "Siyaset",
+      "gorsel": null
     },
     {
       "id": "2011-haber-302858",
@@ -1680,10 +2020,16 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/haber/mecliste-butce-maratonu-basliyor-302858"
       },
-      "konular": [],
+      "konular": [
+        "Türkiye Büyük Millet Meclisi",
+        "Bütçe"
+      ],
       "yayin": "2011-12-04T09:31:00+03:00",
       "puan": 7,
-      "durum": "haber"
+      "durum": "elendi",
+      "baslik": "Türkiye Büyük Millet Meclisinde bütçe görüşmeleri başlıyor",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, 2012 yılına ait bütçe tasarısını ele almak üzere toplandı. Toplamda 13 gün boyunca aralıksız devam etmesi planlanan görüşmelerin açılış oturumunda siyasi parti liderlerinin kürsüye çıkarak değerlendirmelerde bulunması öngörüldü.",
+      "kategori": "Siyaset"
     }
   ],
   "haberYillari": [
