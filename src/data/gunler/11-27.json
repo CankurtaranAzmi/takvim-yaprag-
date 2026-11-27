@@ -424,17 +424,6 @@
       "durum": "yayinda"
     },
     {
-      "id": "1990-iki-escinsel-erkegin-evliliginden-ilk-dogum-gerceklesti",
-      "yil": 1990,
-      "metin": "İki eşcinsel erkeğin evliliğinden ilk doğum gerçekleşti. Alternatif dünya eşcinseller günü olarak da kabul edilir.",
-      "konular": [],
-      "baslik": null,
-      "ozet": null,
-      "kategori": null,
-      "gorsel": null,
-      "durum": "bekliyor"
-    },
-    {
       "id": "1994-ozellestirme-idaresi-baskanligi-kuruldu",
       "yil": 1994,
       "metin": "Özelleştirme İdaresi Başkanlığı kuruldu.",
@@ -632,7 +621,7 @@
     },
     {
       "yil": 1925,
-      "metin": "John Maddox, Britanyalı gazeteci ve bilim insanı (ö. 2009)"
+      "metin": "John Maddox, Britanyalı gazeteci ve bilim adamı (ö. 2009)"
     },
     {
       "yil": 1927,
@@ -874,7 +863,7 @@
     },
     {
       "yil": 1936,
-      "metin": "Basil Zaharoff, Osmanlı İmparatorluğu vatandaşı Rum iş insanı (d. 1849)"
+      "metin": "Basil Zaharoff, Osmanlı İmparatorluğu vatandaşı Rum iş adamı (d. 1849)"
     },
     {
       "yil": 1937,
@@ -1026,7 +1015,7 @@
     },
     {
       "yil": 2020,
-      "metin": "Aly Zaker, Bangladeşli aktör, iş insanı, yönetmen ve yazar (d. 1944)"
+      "metin": "Aly Zaker, Bangladeşli aktör, iş adamı, yönetmen ve yazar (d. 1944)"
     },
     {
       "yil": 2025,
@@ -1039,9 +1028,9 @@
   "kaynak": {
     "ad": "Vikipedi",
     "url": "https://tr.wikipedia.org/wiki/27_Kas%C4%B1m",
-    "revid": 36450272
+    "revid": 38711183
   },
-  "guncelleme": "2026-11-26T16:33:32.963Z",
+  "guncelleme": "2026-11-27T16:19:22.313Z",
   "haberler": [
     {
       "id": "2025-haber-2456342",
@@ -1614,28 +1603,28 @@
         "url": "https://www.cumhuriyet.com.tr/haber/cihatci-orgut-erdogani-kafir-ilan-etti-13413"
       },
       "konular": [
+        "Suriye İç Savaşı",
         "Suriye Türkmen Meclisi",
-        "Recep Tayyip Erdoğan",
-        "Suriye İç Savaşı"
+        "Recep Tayyip Erdoğan"
       ],
       "yayin": "2013-11-27T05:00:00+03:00",
       "puan": 9,
       "durum": "yazildi",
-      "baslik": "Suriye Türkmen Meclisi Başkanı'ndan Türkiye ve Erdoğan açıklaması",
-      "ozet": "Suriye Türkmen Meclisi Başkanı Amro, bölgedeki bazı radikal grupların Türkiye'ye ve Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik bakış açısını değerlendirdi. Amro, söz konusu örgütlerin Türkiye'yi ve Erdoğan'ı kafir olarak nitelendirdiğini ifade etti.",
+      "baslik": "Suriye Türkmen Meclisi Başkanı'ndan radikal örgüt açıklaması",
+      "ozet": "Suriye Türkmen Meclisi Başkanı Amro, bölgedeki radikal grupların Türkiye'yi ve Cumhurbaşkanı Recep Tayyip Erdoğan'ı kafir olarak nitelendirdiğini belirtti. Bu grupların bakış açısını aktaran Amro, Türkiye'ye yönelik olumsuz tavırlarını bu ifadelerle dile getirdi.",
       "kategori": "Siyaset",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "genislik": 704,
+        "yukseklik": 499,
+        "orijinalGenislik": 704,
+        "yazar": "jan Sefti",
+        "lisans": "CC BY-SA 2.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
+        "aciklama": "The phrase \"Down with Bashar\" (yaskut Baššār), during the Syrian Uprising 2011.",
+        "konu": "Suriye İç Savaşı"
       }
     },
     {
@@ -1656,8 +1645,8 @@
       "yayin": "2013-11-27T14:24:00+03:00",
       "puan": 8,
       "durum": "elendi",
-      "baslik": "Sanica Boru Elazığspor'da üst düzey istifalar yaşandı",
-      "ozet": "Ligde çıktığı son sekiz karşılaşmadan mağlubiyetle ayrılan Sanica Boru Elazığspor'da yönetimsel bir değişim gerçekleşti. Teknik ekipte değişikliğe giden kulüpte, Sportif Direktör Yasir Elmacı ile Genel Menejer Özgür Öztürk görevlerini bıraktıklarını duyurdu.",
+      "baslik": "Sanica Boru Elazığspor'da idari kadroda görev değişimi yaşandı",
+      "ozet": "Ligde üst üste sekiz mağlubiyet alan Sanica Boru Elazığspor bünyesinde ayrılık kararı alındı. Teknik ekipte değişikliğe giden kulüpte, Sportif Direktör Yasir Elmacı ile Genel Menejer Özgür Öztürk görevlerini bıraktıklarını duyurdu.",
       "kategori": "Spor"
     },
     {

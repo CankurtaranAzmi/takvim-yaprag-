@@ -1235,7 +1235,7 @@
     "url": "https://tr.wikipedia.org/wiki/4_Aral%C4%B1k",
     "revid": 38170635
   },
-  "guncelleme": "2026-11-26T16:33:35.596Z",
+  "guncelleme": "2026-11-27T16:19:25.004Z",
   "haberler": [
     {
       "id": "2025-haber-2458661",
@@ -1345,14 +1345,13 @@
       },
       "konular": [
         "Tüketici fiyat endeksi",
-        "Enflasyon",
-        "Türkiye ekonomisi"
+        "Türkiye İstatistik Kurumu"
       ],
       "yayin": "2023-12-04T11:02:00+03:00",
       "puan": 15,
       "durum": "elendi",
-      "baslik": "Kasım ayında en yüksek fiyat artışı tereyağında gerçekleşti",
-      "ozet": "Tüketici fiyat endeksi verilerine göre kasım ayında ürün bazında en büyük fiyat yükselişi yüzde 13,63 oranıyla tereyağında yaşandı. Aynı dönem içerisinde fiyatı en çok gerileyen ürün grubu ise yüzde 4,96 düşüşle taze meyveler oldu.",
+      "baslik": "Kasım ayı tüketici fiyatlarında en yüksek artış tereyağında kaydedildi",
+      "ozet": "Tüketici fiyat endeksine göre kasım ayında ürün bazında değişimler belirlendi. Verilere göre en yüksek fiyat yükselişi yüzde 13,63 oranıyla tereyağında gerçekleşti. Aynı dönemde taze meyve fiyatlarında ise yüzde 4,96 seviyesinde bir düşüş yaşandı.",
       "kategori": "Ekonomi"
     },
     {
@@ -1494,14 +1493,15 @@
       "konular": [
         "Dünya Ralli Şampiyonası",
         "İtalya",
-        "Otomobil yarışı"
+        "Otomobil sporu"
       ],
       "yayin": "2020-12-04T10:28:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Dünya Ralli Şampiyonası İtalya'daki Final Yarışıyla Sona Eriyor",
-      "ozet": "Otomobil sporlarının en önemli etkinlikleri arasında yer alan Dünya Ralli Şampiyonası, sezonun son mücadelesine ev sahipliği yapıyor. Takvimin yedinci ve final etabı olan İtalya yarışı ile birlikte şampiyonluk düğümü çözülüyor. Organizasyon bu yarışın ardından sezonu tamamlıyor.",
-      "kategori": "Spor"
+      "durum": "yazildi",
+      "baslik": "Dünya Ralli Şampiyonası Finali İtalya Yarışıyla Tamamlanıyor",
+      "ozet": "Otomobil sporlarının en önemli organizasyonları arasında yer alan Dünya Ralli Şampiyonası, sezonun son mücadelesine sahne oldu. Takvimin yedinci yarışı olan İtalya ayağıyla birlikte şampiyonluk düğümü çözüldü ve sezon noktalandı.",
+      "kategori": "Spor",
+      "gorsel": null
     },
     {
       "id": "2020-haber-1796100",
@@ -1691,14 +1691,14 @@
       },
       "konular": [
         "Alexander Van der Bellen",
-        "Avusturya Cumhurbaşkanlığı Seçimi",
-        "Avusturya"
+        "Avusturya",
+        "Yeşiller Partisi"
       ],
       "yayin": "2016-12-04T19:29:00+03:00",
       "puan": 9,
       "durum": "yazildi",
       "baslik": "Avusturya Cumhurbaşkanlığı Seçimini Alexander Van der Bellen Kazandı",
-      "ozet": "Avusturya'da merakla beklenen cumhurbaşkanlığı seçimleri sonuçlandı. Aşırı sağın yükselişi nedeniyle dikkatle takip edilen süreçte, Yeşiller Partisi'nin eski lideri bağımsız aday Alexander Van der Bellen ipi göğüsledi. Van der Bellen, özgür ve kozmopolit bir Avusturya vizyonunu savunduğu seçim kampanyasının ardından göreve seçildi. Aynı gün İtalya'da ise anayasa referandumuna ilişkin sonuçların açıklanması beklendi.",
+      "ozet": "Avusturya genelinde gerçekleştirilen cumhurbaşkanlığı seçimlerinde, Yeşiller Partisi eski lideri Alexander Van der Bellen ipi göğüsleyen isim oldu. Aşırı sağın yükselişi nedeniyle Avrupa genelinde dikkatle takip edilen seçim sürecinde, bağımsız aday Van der Bellen özgür ve kozmopolit bir Avusturya vurgusu yaptı. Aynı gün İtalya'da ise anayasa değişikliğine ilişkin referandumun sonuçları merakla beklenmeye başlandı.",
       "kategori": "Siyaset",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Am_23._September_2025_nahm_Au%C3%9Fenministerin_Beate_Meinl-Reisinger_gemeinsam_mit_Bundespr%C3%A4sident_Alexander_Van_der_Bellen_%28M%29_und_Bundeskanzler_Christian_Stocker_%28L%29_%2854813003241%29_%28cropped%29.jpg",
@@ -1805,7 +1805,7 @@
       "puan": 6,
       "durum": "yazildi",
       "baslik": "Adana merkezli cinsel istismar davasında yargılama süreci başladı",
-      "ozet": "Adana sınırları içerisinde gerçekleşen ve çok sayıda çocuğun mağdur olduğu cinsel istismar davası mahkemeye taşındı. On dört yaşındaki bir mağdur, tanıdığı bir şahsın kendisini kandırarak istismarda bulunduğunu ifade etti. Toplamda on bir çocuk ile diğer mağdurların yer aldığı dosyada otuz bir sanığın yargılanmasına başlandı.",
+      "ozet": "Adana sınırları içerisinde gerçekleşen cinsel istismar suçlamasına ilişkin dava mahkemeye taşındı. On dört yaşındaki mağdur çocuk, dede olarak hitap ettiği bir şahsın kendisini dondurma alma vaadiyle kandırarak istismarda bulunduğunu öne sürdü. Söz konusu dosyada aralarında çocukların da bulunduğu otuz bir kişinin yargılanmasına başlandı.",
       "kategori": "Toplum",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Martin_Van_Maele_-_La_Grande_Danse_macabre_des_vifs_-_11.jpg",
@@ -2028,7 +2028,7 @@
       "puan": 7,
       "durum": "elendi",
       "baslik": "Türkiye Büyük Millet Meclisinde bütçe görüşmeleri başlıyor",
-      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, 2012 yılına ait bütçe tasarısını ele almak üzere toplandı. Toplamda 13 gün boyunca aralıksız devam etmesi planlanan görüşmelerin açılış oturumunda siyasi parti liderlerinin kürsüye çıkarak değerlendirmelerde bulunması öngörüldü.",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, 2012 yılına ait bütçe tasarısını ele almak üzere toplandı. Toplamda on üç gün boyunca aralıksız devam etmesi planlanan görüşmelerin açılış oturumunda siyasi parti liderlerinin kürsüye çıkarak değerlendirmelerde bulunması öngörüldü.",
       "kategori": "Siyaset"
     }
   ],

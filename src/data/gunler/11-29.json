@@ -1056,7 +1056,7 @@
     "url": "https://tr.wikipedia.org/wiki/29_Kas%C4%B1m",
     "revid": 37376632
   },
-  "guncelleme": "2026-11-26T16:33:33.718Z",
+  "guncelleme": "2026-11-27T16:19:23.043Z",
   "haberler": [
     {
       "id": "2025-haber-2456991",
@@ -1234,13 +1234,14 @@
       },
       "konular": [
         "Türkiye Büyük Millet Meclisi",
-        "Tütün ve Alkol Piyasası Düzenleme Kurumu"
+        "Tütün",
+        "Alkol"
       ],
       "yayin": "2022-11-29T23:20:00+03:00",
       "puan": 13,
       "durum": "elendi",
-      "baslik": "Tütün ve alkol piyasasına yönelik yasal düzenleme mecliste görüşüldü",
-      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, tütün ve alkol sektörüne dair yeni yasal düzenlemeleri içeren kanun teklifinin ilk bölümünü onayladı. Kabul edilen maddeler arasında, Ürün Takip Sistemi üzerinde usulsüzlük yapanlara sekiz yıla kadar hapis cezası verilmesi ve sektördeki firmalara 50 milyon liraya varan teminat yükümlülüğü getirilmesi yer aldı.",
+      "baslik": "Tütün ve alkol piyasasına yönelik yasal düzenleme teklifi görüşüldü",
+      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, tütün ve alkol piyasasını ilgilendiren kanun teklifinin ilk bölümünü onayladı. Kabul edilen maddeler arasında, sektördeki işletmeler için 50 milyon liraya kadar teminat şartı getirilmesi ve Ürün Takip Sistemi'ne müdahale edenlere 8 yıla kadar hapis cezası verilmesi gibi önemli yaptırımlar yer aldı.",
       "kategori": "Siyaset"
     },
     {
@@ -1263,7 +1264,7 @@
       "puan": 12,
       "durum": "elendi",
       "baslik": "DEVA Partisi İstanbul teşkilatı seçim çalışmalarına start verdi",
-      "ozet": "Demokrasi ve Atılım Partisi, hazırladığı reklam filmi ve özel tasarım mavi yeleklerle seçim sürecine giriş yaptı. İstanbul İl Başkanı Erhan Erol, yürütecekleri kampanyanın oldukça iddialı olacağını ifade etti.",
+      "ozet": "Demokrasi ve Atılım Partisi, hazırladığı reklam filmi ve özel tasarım mavi yeleklerle seçim sürecine yönelik faaliyetlerini başlattı. İstanbul İl Başkanı Erhan Erol, yürütecekleri kampanya sürecinin oldukça iddialı olacağını ifade etti.",
       "kategori": "Siyaset"
     },
     {
@@ -1366,7 +1367,7 @@
       "puan": 10,
       "durum": "elendi",
       "baslik": "Portekiz'de Düzenlenen RS:X Avrupa Yelken Şampiyonası Sona Erdi",
-      "ozet": "Portekiz ev sahipliğinde gerçekleştirilen RS:X Avrupa Yelken Şampiyonası tamamlandı. Organizasyon kapsamında sporcular çeşitli kategorilerde mücadelelerini noktaladı. Yarışların bitişiyle birlikte şampiyona resmi olarak sona ermiş oldu.",
+      "ozet": "Portekiz ev sahipliğinde gerçekleştirilen RS:X Avrupa Yelken Şampiyonası tamamlandı. Organizasyon süresince sporcular farklı kategorilerde mücadele ederek yarışları noktaladı. Şampiyona sonunda dereceye giren isimler belirlenerek etkinlik resmen nihayete erdi.",
       "kategori": "Spor"
     },
     {
@@ -1557,14 +1558,14 @@
       },
       "konular": [
         "Burak Yılmaz",
-        "Galatasaray (futbol takımı)",
+        "Galatasaray",
         "Süper Lig"
       ],
       "yayin": "2015-11-29T23:00:00+03:00",
       "puan": 6,
       "durum": "elendi",
-      "baslik": "Burak Yılmaz Galatasaray'ın Şampiyonluk Hedefini Değerlendirdi",
-      "ozet": "Galatasaray forması giyen deneyimli futbolcu Burak Yılmaz, Kasımpaşa ile oynanan müsabakanın ardından basın mensuplarına konuştu. Karşılaşmanın beraberlikle sonuçlanmasının ardından takımının ligdeki şampiyonluk şansına dair görüşlerini paylaşan oyuncu, hedeflerinin değişmediğini ifade etti.",
+      "baslik": "Burak Yılmaz Galatasaray'ın Şampiyonluk Şansını Değerlendirdi",
+      "ozet": "Galatasaray'ın deneyimli futbolcusu Burak Yılmaz, Kasımpaşa ile oynanan karşılaşmanın ardından basın mensuplarına demeç verdi. Müsabakanın beraberlikle sonuçlanmasının ardından şampiyonluk hedefleri hakkındaki düşüncelerini paylaşan oyuncu, takımının ligdeki durumu ve geleceğiyle ilgili görüşlerini ifade etti.",
       "kategori": "Spor"
     },
     {
@@ -1649,17 +1650,29 @@
         "url": "https://www.cumhuriyet.com.tr/haber/turkiyeye-aihmden-rekor-ceza-14391"
       },
       "konular": [
-        "Kuşkonar ve Koçağılı köylerinin bombalanması",
+        "Kuşkonar ve Koçağılı bombardımanı",
         "Avrupa İnsan Hakları Mahkemesi",
-        "Türkiye"
+        "Şırnak"
       ],
       "yayin": "2013-11-29T22:55:00+03:00",
       "puan": 7,
       "durum": "yazildi",
-      "baslik": "AİHM'den Türkiye'ye Kuşkonar ve Koçağılı köyleri için tazminat kararı",
-      "ozet": "Avrupa İnsan Hakları Mahkemesi, 1994 senesinde Şırnak'ın Kuşkonar ve Koçağılı köylerine düzenlenen hava saldırısı nedeniyle Türkiye'nin tazminat ödemesine hükmetti. Mahkeme, taraflara ilettiği kararda toplamda 2 milyon 305 bin Euro tutarında bir ödeme yapılmasına karar verdi. Bu gelişme, söz konusu köylerde yaşanan olayların hukuki süreci kapsamında resmiyet kazandı.",
+      "baslik": "AİHM'den Şırnak'taki Köy Bombardımanı İçin Tazminat Kararı",
+      "ozet": "Avrupa İnsan Hakları Mahkemesi, 1994 senesinde Şırnak bölgesinde yer alan Kuşkonar ve Koçağılı köylerine yönelik gerçekleştirilen hava saldırısı nedeniyle Türkiye hakkında kararını verdi. Mahkeme, yaşanan olay neticesinde Türkiye'nin 2 milyon 305 bin Euro tutarında tazminat ödemesine hükmetti. Söz konusu hukuki karar, ilgili taraflara resmen tebliğ edildi.",
       "kategori": "Siyaset",
-      "gorsel": null
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%C5%9E%C4%B1rnak_%C5%9Fehir_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg/960px-%C5%9E%C4%B1rnak_%C5%9Fehir_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%C5%9E%C4%B1rnak_%C5%9Fehir_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg/500px-%C5%9E%C4%B1rnak_%C5%9Fehir_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg",
+        "genislik": 960,
+        "yukseklik": 540,
+        "orijinalGenislik": 3686,
+        "yazar": "Zmangeldi",
+        "lisans": "CC BY-SA 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9E%C4%B1rnak_%C5%9Fehir_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg",
+        "aciklama": "Türkiye'nin güneydoğusunda bulunan Şırnak ilinin merkezi olan Şırnak şehri",
+        "konu": "Şırnak"
+      }
     },
     {
       "id": "2012-haber-386852",
