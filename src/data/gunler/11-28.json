@@ -1197,7 +1197,7 @@
     "url": "https://tr.wikipedia.org/wiki/28_Kas%C4%B1m",
     "revid": 38615426
   },
-  "guncelleme": "2026-11-26T16:33:33.323Z",
+  "guncelleme": "2026-11-27T16:19:22.671Z",
   "haberler": [
     {
       "id": "2025-haber-2456548",
@@ -1270,14 +1270,13 @@
       },
       "konular": [
         "Anayasa Mahkemesi",
-        "Siyasi parti",
-        "Türkiye"
+        "Siyasi parti"
       ],
       "yayin": "2024-11-28T08:16:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Anayasa Mahkemesi Dört Siyasi Parti Hakkında Suç Duyurusunda Bulundu",
-      "ozet": "Anayasa Mahkemesi, Türkiye Altın Çağ Partisi, Ülkem Partisi, Kuvayi Milliye Partisi ile Sevgi ve Saygı Partisi'nin mali hesaplarını inceledi. İlgili siyasi oluşumların 2021 ve 2022 yıllarına ait kesin hesaplarında yapılan denetimler sonucunda tespit edilen usulsüzlükler nedeniyle Ankara Cumhuriyet Başsavcılığına suç duyurusu yapılmasına karar verildi. Söz konusu karara ilişkin detaylar Resmi Gazete aracılığıyla kamuoyuna duyuruldu.",
+      "baslik": "Anayasa Mahkemesinden Dört Siyasi Parti Hakkında Suç Duyurusu",
+      "ozet": "Anayasa Mahkemesi, Türkiye Altın Çağ Partisi, Ülkem Partisi, Kuvayi Milliye Partisi ile Sevgi ve Saygı Partisi'nin mali denetim sürecini tamamladı. Söz konusu siyasi oluşumların 2021 ve 2022 yıllarına ait kesin hesaplarının incelenmesi neticesinde, eksiklikler tespit edildi. Bu gelişme üzerine mahkeme, ilgili partiler hakkında Ankara Cumhuriyet Başsavcılığına suç duyurusunda bulunulmasına karar verdi ve bu karar Resmi Gazete aracılığıyla kamuoyuna duyuruldu.",
       "kategori": "Siyaset"
     },
     {
@@ -1403,8 +1402,8 @@
       "yayin": "2021-11-28T11:53:00+03:00",
       "puan": 11,
       "durum": "elendi",
-      "baslik": "Yazılımcı Apple güvenlik açıklarını bularak ödül kazandı",
-      "ozet": "Bilgisayar Programcılığı bölümünden mezun olan Rıza Sabuncu, teknoloji şirketi Apple bünyesindeki çeşitli güvenlik zafiyetlerini tespit etti. Tespit ettiği bu açıklar sayesinde son bir buçuk yıl içerisinde toplamda 20 bin dolar tutarında ödülün sahibi oldu. Sabuncu, Apple dışında farklı teknoloji firmalarının sistemlerindeki hataları da raporlamaya devam etti.",
+      "baslik": "Türk yazılımcı Apple sistemlerindeki güvenlik açıklarını tespit etti",
+      "ozet": "Bilgisayar Programcılığı bölümünden mezun olan Rıza Sabuncu, teknoloji şirketi Apple'ın yazılım sistemlerinde bulunan güvenlik zafiyetlerini ortaya çıkardı. Sabuncu, son bir buçuk yıllık süreçte gerçekleştirdiği bildirimler sayesinde toplam yirmi bin dolar tutarında ödül almaya hak kazandı. Başarılı yazılımcı, Apple dışında farklı teknoloji firmalarının sistemlerindeki hataları raporlayarak ödül programlarına katkı sağlamaya devam etti.",
       "kategori": "Teknoloji"
     },
     {
@@ -1629,15 +1628,15 @@
         "url": "https://www.cumhuriyet.com.tr/haber/chpli-tum-ayvaliktaki-satilik-mahalleleri-tbmmye-tasidi-875548"
       },
       "konular": [
-        "Ayvalık",
         "Mehmet Tüm",
-        "Cumhuriyet Halk Partisi"
+        "Ayvalık",
+        "Balıkesir"
       ],
       "yayin": "2017-11-28T17:23:00+03:00",
       "puan": 9,
       "durum": "elendi",
-      "baslik": "Ayvalık'taki arazi satışları meclis gündemine taşındı",
-      "ozet": "Balıkesir milletvekili Mehmet Tüm, Ayvalık ilçesinde bulunan çok sayıda kırsal mahalledeki arazilerin Hazine tarafından ihaleyle satışa sunulması konusunu meclise taşıdı. Çamoba, Akçapınar, Bağyüzü ve Karaayıt gibi yerleşim yerlerinde yaşayan vatandaşların mağduriyetine dikkat çeken milletvekili, konuyla ilgili bir soru önergesi hazırlayarak yetkililerden açıklama talep etti.",
+      "baslik": "Balıkesir'deki arazi satışları meclis gündemine taşındı",
+      "ozet": "Balıkesir milletvekili, Ayvalık ilçesine bağlı kırsal mahallelerde yaşayan vatandaşların kullandığı arazilerin Hazine tarafından ihale yöntemiyle satışa sunulmasını meclise taşıdı. Özellikle Çamoba, Akçapınar, Bağyüzü ve Karaayıt bölgeleri dahil olmak üzere toplam on altı mahalledeki mülkiyet durumunu soru önergesiyle gündeme getiren milletvekili, konuyla ilgili resmi açıklama talep etti.",
       "kategori": "Siyaset"
     },
     {
@@ -1776,8 +1775,8 @@
       "yayin": "2014-11-28T21:43:00+03:00",
       "puan": 7,
       "durum": "elendi",
-      "baslik": "İzmir'de paraşütle çoklu tutuşma rekoru kırıldı",
-      "ozet": "İzmir'in Selçuk ilçesinde bir araya gelen paraşütçüler, Türkiye çoklu tutuşma rekorunu geliştirdi. Aralarında Hayko Cepkin'in de bulunduğu grup, daha önce 24 kişiyle sınırlı olan rekoru 40 kişiye taşıyarak yeni bir başarıya imza attı. Türk Hava Kurumu lisanslı sporcuların katılımıyla gerçekleşen etkinlik, Türkiye'deki paraşütçülük faaliyetleri açısından önemli bir gelişme olarak kaydedildi.",
+      "baslik": "İzmir Selçuk'ta Paraşütle Çoklu Tutuşma Rekoru Kırıldı",
+      "ozet": "İzmir'in Selçuk ilçesinde gerçekleştirilen bir etkinlikte, Türk Hava Kurumu bünyesindeki sporcuların katılımıyla yeni bir Türkiye rekoruna imza atıldı. Aralarında sanatçı Hayko Cepkin'in de bulunduğu paraşütçü grubu, yirmi dört kişilik olan çoklu tutuşma rekorunu kırk kişiye yükselterek geliştirdi.",
       "kategori": "Spor"
     },
     {
