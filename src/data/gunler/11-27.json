@@ -1030,7 +1030,7 @@
     "url": "https://tr.wikipedia.org/wiki/27_Kas%C4%B1m",
     "revid": 38711183
   },
-  "guncelleme": "2026-11-27T16:19:22.313Z",
+  "guncelleme": "2026-11-28T15:13:09.451Z",
   "haberler": [
     {
       "id": "2025-haber-2456342",
@@ -1478,14 +1478,15 @@
         "url": "https://www.cumhuriyet.com.tr/haber/van-depreminde-firar-eden-mahkum-5-yil-sonra-yakalandi-636734"
       },
       "konular": [
-        "2011 Van depremi",
+        "Van depremi",
+        "Cezaevi firarisi",
         "Van"
       ],
       "yayin": "2016-11-27T19:55:00+03:00",
       "puan": 8,
       "durum": "elendi",
-      "baslik": "Van depremi sonrası firar eden hükümlü yakalandı",
-      "ozet": "Van ilinde meydana gelen deprem felaketinin ardından hasar gören cezaevinden kaçmayı başaran bir mahkum, güvenlik güçlerinin çalışmaları sonucunda bulundu. Olaydan beş yıl sonra yakalanan şahıs, emniyet birimleri tarafından gözaltına alındı.",
+      "baslik": "Van depreminde cezaevinden kaçan hükümlü yakalandı",
+      "ozet": "Van ilinde meydana gelen deprem felaketinin ardından hasar gören cezaevinden firar eden bir mahkum, güvenlik güçlerinin yürüttüğü çalışmalar sonucunda ele geçirildi. Beş yıllık arayışın ardından yakalanan şahıs, yeniden yargı sürecine dahil edilmek üzere ilgili birimlere teslim edildi.",
       "kategori": "Toplum"
     },
     {
@@ -1603,28 +1604,28 @@
         "url": "https://www.cumhuriyet.com.tr/haber/cihatci-orgut-erdogani-kafir-ilan-etti-13413"
       },
       "konular": [
-        "Suriye İç Savaşı",
         "Suriye Türkmen Meclisi",
-        "Recep Tayyip Erdoğan"
+        "Recep Tayyip Erdoğan",
+        "Suriye İç Savaşı"
       ],
       "yayin": "2013-11-27T05:00:00+03:00",
       "puan": 9,
       "durum": "yazildi",
-      "baslik": "Suriye Türkmen Meclisi Başkanı'ndan radikal örgüt açıklaması",
-      "ozet": "Suriye Türkmen Meclisi Başkanı Amro, bölgedeki radikal grupların Türkiye'yi ve Cumhurbaşkanı Recep Tayyip Erdoğan'ı kafir olarak nitelendirdiğini belirtti. Bu grupların bakış açısını aktaran Amro, Türkiye'ye yönelik olumsuz tavırlarını bu ifadelerle dile getirdi.",
+      "baslik": "Suriye Türkmen Meclisi Başkanı'ndan Türkiye ve Erdoğan açıklaması",
+      "ozet": "Suriye Türkmen Meclisi Başkanı Amro, bölgedeki bazı radikal grupların Türkiye'ye ve Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik bakış açısını değerlendirdi. Amro, söz konusu örgütlerin Türkiye'yi ve Erdoğan'ı kafir olarak nitelendirdiğini ifade etti.",
       "kategori": "Siyaset",
       "gorsel": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
-        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
-        "genislik": 704,
-        "yukseklik": 499,
-        "orijinalGenislik": 704,
-        "yazar": "jan Sefti",
-        "lisans": "CC BY-SA 2.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Anti_Assad_graffiti_on_walls_march_2011_syria.jpg",
-        "aciklama": "The phrase \"Down with Bashar\" (yaskut Baššār), during the Syrian Uprising 2011.",
-        "konu": "Suriye İç Savaşı"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
       }
     },
     {
@@ -1645,8 +1646,8 @@
       "yayin": "2013-11-27T14:24:00+03:00",
       "puan": 8,
       "durum": "elendi",
-      "baslik": "Sanica Boru Elazığspor'da idari kadroda görev değişimi yaşandı",
-      "ozet": "Ligde üst üste sekiz mağlubiyet alan Sanica Boru Elazığspor bünyesinde ayrılık kararı alındı. Teknik ekipte değişikliğe giden kulüpte, Sportif Direktör Yasir Elmacı ile Genel Menejer Özgür Öztürk görevlerini bıraktıklarını duyurdu.",
+      "baslik": "Sanica Boru Elazığspor'da üst düzey istifalar yaşandı",
+      "ozet": "Ligde çıktığı son sekiz karşılaşmadan mağlubiyetle ayrılan Sanica Boru Elazığspor'da yönetimsel bir değişim gerçekleşti. Teknik ekipte değişikliğe giden kulüpte, Sportif Direktör Yasir Elmacı ile Genel Menejer Özgür Öztürk görevlerini bıraktıklarını duyurdu.",
       "kategori": "Spor"
     },
     {

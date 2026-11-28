@@ -1184,7 +1184,7 @@
     "url": "https://tr.wikipedia.org/wiki/30_Kas%C4%B1m",
     "revid": 36735734
   },
-  "guncelleme": "2026-11-27T16:19:23.421Z",
+  "guncelleme": "2026-11-28T15:13:10.942Z",
   "haberler": [
     {
       "id": "2025-haber-2457241",
@@ -1205,8 +1205,8 @@
       "yayin": "2025-11-30T17:10:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Çanakkale Ayvacık'ta heyelan sonrası kapanan yol trafiğe açıldı",
-      "ozet": "Çanakkale'nin Ayvacık ilçesinde etkili olan şiddetli yağışlar toprak kaymasına yol açtı. Bu doğa olayı nedeniyle Sazlı köyü sahil yolu bir süreliğine araç geçişlerine kapatıldı. Ekiplerin bölgede yürüttüğü çalışmaların ardından yol tekrar ulaşıma uygun hale getirildi.",
+      "baslik": "Çanakkale Ayvacıkta heyelan sonucu kapanan yol trafiğe açıldı",
+      "ozet": "Çanakkale ilinin Ayvacık ilçesinde etkili olan aşırı yağışlar toprak kaymasına yol açtı. Meydana gelen heyelan nedeniyle Sazlı köyü sahil yolu geçici olarak ulaşıma kapandı. Bölgede gerçekleştirilen çalışmaların ardından yol yeniden araç trafiğine açıldı.",
       "kategori": "Ulaşım"
     },
     {
@@ -1227,8 +1227,8 @@
       "yayin": "2025-11-30T12:30:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Dikmen Halk Temsilcileri Meclisi faaliyetlerine başladı",
-      "ozet": "Dikmen Halk Temsilcileri Meclisi, cumhuriyet değerlerini korumak ve halk odaklı bir yönetim anlayışını benimsemek amacıyla kuruldu. THTM bünyesinde yer alan bu yeni oluşum, toplumsal düzeni savunmak için çalışmalarına resmen adım attı.",
+      "baslik": "Dikmen Halk Temsilcileri Meclisi faaliyete geçti",
+      "ozet": "Dikmen Halk Temsilcileri Meclisi, cumhuriyet değerlerini korumak ve toplumcu bir yönetim anlayışını hayata geçirmek amacıyla çalışmalarına resmen başladı. Söz konusu yapı, halk yararına bir düzen kurma hedefiyle yola çıktığını duyurdu.",
       "kategori": "Siyaset"
     },
     {
@@ -1266,13 +1266,14 @@
         "url": "https://www.cumhuriyet.com.tr/turkiye/erdogandan-depremzede-kadina-iki-cocuk-yetmez-2274554"
       },
       "konular": [
-        "Recep Tayyip Erdoğan"
+        "Recep Tayyip Erdoğan",
+        "Türkiye"
       ],
       "yayin": "2024-11-30T22:33:00+03:00",
       "puan": 10,
       "durum": "elendi",
-      "baslik": "Cumhurbaşkanı Erdoğan'ın depremzede vatandaşla diyaloğu",
-      "ozet": "Deprem bölgesini ziyaret eden Cumhurbaşkanı Erdoğan, bir vatandaş ile sohbet etti. Çocuk sayısı hakkında sorusuna iki yanıtını alan Erdoğan, bu sayının yeterli olmadığını ifade etti. Söz konusu diyalog kamuoyunda geniş bir şekilde yer buldu.",
+      "baslik": "Cumhurbaşkanı Erdoğan'ın depremzede bir vatandaşla diyaloğu",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, deprem bölgesinde bir kadınla sohbet etti. Kadının iki çocuğu olduğunu belirtmesi üzerine Erdoğan, çocuk sayısının artırılması yönünde tavsiyede bulundu. Bu diyalog kamuoyunda geniş yer buldu.",
       "kategori": "Siyaset"
     },
     {
@@ -1405,14 +1406,14 @@
       },
       "konular": [
         "Recep Tayyip Erdoğan",
-        "Dolar",
+        "Türk lirası",
         "Türkiye ekonomisi"
       ],
       "yayin": "2021-11-30T23:06:00+03:00",
       "puan": 16,
       "durum": "yazildi",
-      "baslik": "Cumhurbaşkanı Erdoğan'ın Faiz Açıklaması Sonrası Döviz Piyasasında Hareketlilik",
-      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, katıldığı bir yayında faiz oranlarını düşürme yönündeki kararlılığını ifade etti. Bu açıklamaların ardından döviz piyasasında hızlı bir değişim yaşandı ve dolar kuru 13,82 seviyesine ulaşarak yeni bir rekor kaydetti.",
+      "baslik": "Cumhurbaşkanı Erdoğan'ın Faiz Açıklaması Sonrası Dolar Yükselişe Geçti",
+      "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, katıldığı bir yayında faiz oranlarını düşürme yönündeki kararlılığını ifade etti. Bu açıklamaların kamuoyuna yansımasının ardından döviz piyasalarında hareketlilik yaşandı. Dolar kuru, söz konusu beyanların etkisiyle değer kazanarak 13,82 seviyesine kadar yükseldi.",
       "kategori": "Ekonomi",
       "gorsel": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
@@ -1476,8 +1477,9 @@
         "url": "https://www.cumhuriyet.com.tr/haber/besiktasin-derbilerde-yuzu-daha-cok-gulmeye-basladi-1794980"
       },
       "konular": [
-        "Beşiktaş JK",
-        "Süper Lig"
+        "Beşiktaş (futbol takımı)",
+        "Süper Lig",
+        "Derbi"
       ],
       "yayin": "2020-11-30T11:05:00+03:00",
       "puan": 12,
@@ -1822,10 +1824,23 @@
       ],
       "yayin": "2013-11-30T16:43:00+03:00",
       "puan": 7,
-      "durum": "elendi",
-      "baslik": "Başbakan Erdoğan tencere ve tava eylemlerine ilişkin değerlendirme yaptı",
-      "ozet": "Dönemin Başbakanı Recep Tayyip Erdoğan, kamuoyunda tencere ve tava kullanılarak gerçekleştirilen protesto gösterileri hakkında açıklamalarda bulundu. Söz konusu eylemlerin niteliğine ve toplumsal yansımalarına dair görüşlerini paylaşan Erdoğan, bu tür tepki yöntemlerini değerlendirdi.",
-      "kategori": "Siyaset"
+      "durum": "yazildi",
+      "baslik": "Başbakan Erdoğan tencere tava eylemlerine ilişkin değerlendirmelerde bulundu",
+      "ozet": "Dönemin Başbakanı Recep Tayyip Erdoğan, kamuoyunda tencere tava çalınarak gerçekleştirilen protesto gösterileri hakkında açıklama yaptı. Erdoğan, söz konusu eylemlerin niteliğine ve toplumsal yansımalarına dair görüşlerini kamuoyuyla paylaştı.",
+      "kategori": "Siyaset",
+      "gorsel": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
+        "genislik": 960,
+        "yukseklik": 1318,
+        "orijinalGenislik": 1144,
+        "yazar": "Bilinmeyen yazar",
+        "lisans": "CC BY 4.0",
+        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
+        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
+        "konu": "Recep Tayyip Erdoğan"
+      }
     },
     {
       "id": "2013-haber-14599",
@@ -1847,7 +1862,7 @@
       "puan": 6,
       "durum": "elendi",
       "baslik": "Fenerbahçe'nin ezeli rakiplerine karşı ligdeki istatistiksel üstünlüğü",
-      "ozet": "Süper Lig'de lider konumda bulunan Fenerbahçe, Beşiktaş ile oynayacağı derbi mücadelesi öncesinde dikkat çeken bir istatistiğe sahip. Sarı lacivertli ekip, son dönemde ligde karşılaştığı Beşiktaş ve Galatasaray maçlarında hem galibiyet sayısı hem de attığı gol miktarı bakımından rakiplerine karşı önde yer aldı.",
+      "ozet": "Süper Lig'de zirvede yer alan Fenerbahçe, Beşiktaş ile oynayacağı derbi mücadelesi öncesinde dikkat çeken bir istatistiğe sahip oldu. Sarı lacivertli ekip, son dönemde ligde karşılaştığı Beşiktaş ve Galatasaray maçlarında hem galibiyet sayısı hem de attığı gol miktarı bakımından rakiplerine karşı daha başarılı bir grafik çizdi.",
       "kategori": "Spor"
     },
     {

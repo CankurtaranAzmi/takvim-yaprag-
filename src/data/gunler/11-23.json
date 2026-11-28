@@ -874,7 +874,7 @@
     "url": "https://tr.wikipedia.org/wiki/23_Kas%C4%B1m",
     "revid": 38675092
   },
-  "guncelleme": "2026-11-27T16:19:20.836Z",
+  "guncelleme": "2026-11-28T15:13:06.466Z",
   "haberler": [
     {
       "id": "2025-haber-2455051",
@@ -887,17 +887,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/esnafa-faiz-indirimi-geliyor-bakan-bolat-kritik-tarihi-paylasti-2455051"
       },
-      "konular": [
-        "Ömer Bolat",
-        "T.C. Ticaret Bakanlığı",
-        "Esnaf"
-      ],
+      "konular": [],
       "yayin": "2025-11-23T12:10:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Esnaf kredilerinde faiz indirimi yeni yılın başında başlayacak",
-      "ozet": "Ticaret Bakanı Ömer Bolat, esnaflara sağlanan Hazine destekli krediler için faiz oranlarında düzenlemeye gidileceğini duyurdu. Bakan Bolat, söz konusu indirim uygulamasının yeni yılın ilk günlerinden itibaren yürürlüğe gireceğini belirtti.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2025-haber-2455017",
@@ -910,17 +903,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/tbmm-de-yogun-hafta-genel-kurul-da-vergi-paketi-gorusulecek-2455017"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Vergi hukuku",
-        "Emlak vergisi"
-      ],
+      "konular": [],
       "yayin": "2025-11-23T10:41:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Türkiye Büyük Millet Meclisi gündeminde vergi düzenlemeleri yer alıyor",
-      "ozet": "Türkiye Büyük Millet Meclisi Genel Kurulu, yeni haftada vergi mevzuatında değişiklikler öngören kanun teklifini gündemine aldı. Söz konusu düzenleme kapsamında, emlak vergisi hesaplamalarında kullanılan rayiç bedellerin güncellenmesine yönelik maddeler milletvekilleri tarafından değerlendirilecek. Meclis çalışmaları süresince ilgili kanun teklifinin detayları ve olası etkileri üzerinde görüşmeler gerçekleştirilecek.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2271941",
@@ -933,30 +919,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/siyaset/erdogandan-ucmnin-netanyahu-kararina-destek-uygulanmasi-2271941"
       },
-      "konular": [
-        "Uluslararası Ceza Mahkemesi",
-        "Recep Tayyip Erdoğan",
-        "Binyamin Netanyahu"
-      ],
+      "konular": [],
       "yayin": "2024-11-23T16:10:00+03:00",
       "puan": 11,
-      "durum": "yazildi",
-      "baslik": "Cumhurbaşkanı Erdoğan'dan Uluslararası Ceza Mahkemesi Kararına Destek",
-      "ozet": "İstanbul'da yaptığı bir konuşmada Uluslararası Ceza Mahkemesi tarafından alınan kararı değerlendiren Cumhurbaşkanı Recep Tayyip Erdoğan, söz konusu kararın uygulanmasının zorunlu olduğunu belirtti. Erdoğan, Avrupa ülkelerine bu kararın hayata geçirilmesi noktasında sorumluluk almaları çağrısında bulundu.",
-      "kategori": "Siyaset",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/960px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg/500px-Recep_Tayyip_Erdo%C4%9Fan_2025_%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1318,
-        "orijinalGenislik": 1144,
-        "yazar": "Bilinmeyen yazar",
-        "lisans": "CC BY 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg",
-        "aciklama": "Türkiye Cumhuriyeti'nin Cumhurbaşkanı Recep Tayyip Erdoğan",
-        "konu": "Recep Tayyip Erdoğan"
-      }
+      "durum": "haber"
     },
     {
       "id": "2024-haber-2272028",
@@ -969,16 +935,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/spor/galatasaraydan-tarihi-rekor-12-haftada-34-puan-2272028"
       },
-      "konular": [
-        "Galatasaray (futbol takımı)",
-        "Süper Lig"
-      ],
+      "konular": [],
       "yayin": "2024-11-23T21:27:00+03:00",
       "puan": 9,
-      "durum": "elendi",
-      "baslik": "Galatasaray ligin ilk 12 haftasında puan rekoru kırdı",
-      "ozet": "Galatasaray, Süper Lig'de geride kalan 12 haftalık süreçte topladığı 34 puanla dikkat çekici bir başarıya ulaştı. Sarı kırmızılı ekip, bu performansıyla lig tarihindeki en yüksek puan ortalamasını yakalayarak önemli bir rekora imza attı.",
-      "kategori": "Spor"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2144104",
@@ -991,17 +951,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/merkezi-bankasi-faiz-karari-ne-oldu-tcmb-2023-kasim-ayi-faiz-karari-2144104"
       },
-      "konular": [
-        "Türkiye Cumhuriyet Merkez Bankası",
-        "Faiz",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2023-11-23T14:28:00+03:00",
       "puan": 14,
-      "durum": "elendi",
-      "baslik": "Türkiye Cumhuriyet Merkez Bankası Kasım Ayı Faiz Kararını Açıkladı",
-      "ozet": "Türkiye Cumhuriyet Merkez Bankası Para Politikası Kurulu kasım ayına ilişkin faiz kararını kamuoyuyla paylaştı. Banka tarafından gerçekleştirilen toplantı neticesinde belirlenen yeni faiz oranı resmi kanallar aracılığıyla duyuruldu. Ekonomi çevreleri tarafından yakından takip edilen bu karar süreci tamamlanarak sonuçlar ilan edildi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2023-haber-2144177",
@@ -1014,17 +967,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/faiz-kararinin-ardindan-bankada-parasi-olanlar-dikkat-mevduat-2144177"
       },
-      "konular": [
-        "Türkiye Cumhuriyet Merkez Bankası",
-        "Mevduat faizi",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2023-11-23T17:35:00+03:00",
       "puan": 10,
-      "durum": "elendi",
-      "baslik": "Mevduat faiz oranlarında son yirmi yılın en yüksek seviyesi görüldü",
-      "ozet": "Türkiye Cumhuriyet Merkez Bankası tarafından paylaşılan güncel veriler, mevduat faizlerindeki artış eğilimini ortaya koydu. Kasım ayının üçüncü haftası itibarıyla üç aya kadar vadeli mevduat hesaplarında uygulanan ortalama faiz oranı yüzde 46,25 seviyesine ulaştı. Bu oran, son yirmi yıllık dönem içerisindeki en yüksek seviye olarak kayıtlara geçti.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-2005569",
@@ -1037,16 +983,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/polis-yuksek-ogretim-kanun-teklifi-tbmmden-gecerek-yasalasti-2005569"
       },
-      "konular": [
-        "Türkiye Büyük Millet Meclisi",
-        "Polis Akademisi"
-      ],
+      "konular": [],
       "yayin": "2022-11-23T23:15:00+03:00",
       "puan": 13,
-      "durum": "elendi",
-      "baslik": "Polis Yüksek Öğretim Kanunu Meclis Genel Kurulu'nda Kabul Edildi",
-      "ozet": "Polis Yüksek Öğretim Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, Türkiye Büyük Millet Meclisi Genel Kurulu'nda yapılan görüşmelerin ardından onaylandı. Söz konusu düzenleme, yasalaşma sürecini tamamlayarak yürürlüğe girdi.",
-      "kategori": "Siyaset"
+      "durum": "haber"
     },
     {
       "id": "2022-haber-2005329",
@@ -1059,30 +999,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-duzce-depremi-sonrasi-bakan-koca-yarali-sayisini-acikladi-2005329"
       },
-      "konular": [
-        "2022 Düzce depremi",
-        "Gölyaka",
-        "Düzce"
-      ],
+      "konular": [],
       "yayin": "2022-11-23T05:29:00+03:00",
       "puan": 13,
-      "durum": "yazildi",
-      "baslik": "Düzce merkezli depremin ardından yaralı sayısı hakkında açıklama yapıldı",
-      "ozet": "Düzce'nin Gölyaka ilçesinde sabahın erken saatlerinde meydana gelen 5.9 büyüklüğündeki sarsıntının ardından bölgedeki durum değerlendirildi. Belediye Başkanı Faruk Özlü, ilk belirlemelere göre herhangi bir can kaybı veya yaralanma bilgisi bulunmadığını ifade etti. Sağlık Bakanı Fahrettin Koca da deprem sonrası yaşanan gelişmeleri sosyal medya üzerinden kamuoyuyla paylaştı.",
-      "kategori": "Afet",
-      "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/D%C3%BCzce%2C_P%C3%BCrenni_Yaylas%C4%B1_Yolu_-_panoramio.jpg/960px-D%C3%BCzce%2C_P%C3%BCrenni_Yaylas%C4%B1_Yolu_-_panoramio.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/D%C3%BCzce%2C_P%C3%BCrenni_Yaylas%C4%B1_Yolu_-_panoramio.jpg/500px-D%C3%BCzce%2C_P%C3%BCrenni_Yaylas%C4%B1_Yolu_-_panoramio.jpg",
-        "genislik": 960,
-        "yukseklik": 614,
-        "orijinalGenislik": 1088,
-        "yazar": "Halit Edip Özcan",
-        "lisans": "CC BY-SA 3.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:D%C3%BCzce,_P%C3%BCrenni_Yaylas%C4%B1_Yolu_-_panoramio.jpg",
-        "aciklama": "Düzce, Pürenni Yaylası Yolu",
-        "konu": "Gölyaka"
-      }
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1886982",
@@ -1095,17 +1015,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/piyasalarda-son-durum-1-dolar-13-lirayi-da-asti-art-arda-rekorlar-23-kasim-2021-1886982"
       },
-      "konular": [
-        "Türk lirası",
-        "Döviz kuru",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2021-11-23T15:35:00+03:00",
       "puan": 14,
-      "durum": "elendi",
-      "baslik": "Döviz kurlarında hızlı yükseliş ve yeni rekor seviyeler",
-      "ozet": "Türk Lirası karşısında döviz kurları yukarı yönlü hareketini sürdürdü. Doların değeri 13 lira seviyesini geçerken, Euro ise 15 liranın üzerine çıkarak piyasalarda yeni bir zirveye ulaştı.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2021-haber-1886994",
@@ -1118,16 +1031,10 @@
         "ad": "Cumhuriyet",
         "url": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika--altinda-tum-zamanlarin-rekoru-kirildi-23-kasim-2021-1886994"
       },
-      "konular": [
-        "Altın",
-        "Ekonomi"
-      ],
+      "konular": [],
       "yayin": "2021-11-23T15:35:00+03:00",
       "puan": 14,
-      "durum": "elendi",
-      "baslik": "Altın fiyatlarında tarihi zirve seviyesi görüldü",
-      "ozet": "Altının gram fiyatı, güne yukarı yönlü bir seyirle giriş yaptı. Bu hareketliliğin ardından değerli metal, piyasalarda bugüne kadarki en yüksek değerine ulaşarak rekor tazeledi.",
-      "kategori": "Ekonomi"
+      "durum": "haber"
     },
     {
       "id": "2020-haber-1793133",

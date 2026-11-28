@@ -1235,7 +1235,7 @@
     "url": "https://tr.wikipedia.org/wiki/4_Aral%C4%B1k",
     "revid": 38170635
   },
-  "guncelleme": "2026-11-27T16:19:25.004Z",
+  "guncelleme": "2026-11-28T15:13:12.815Z",
   "haberler": [
     {
       "id": "2025-haber-2458661",
@@ -1345,13 +1345,14 @@
       },
       "konular": [
         "Tüketici fiyat endeksi",
-        "Türkiye İstatistik Kurumu"
+        "Enflasyon",
+        "Türkiye ekonomisi"
       ],
       "yayin": "2023-12-04T11:02:00+03:00",
       "puan": 15,
       "durum": "elendi",
-      "baslik": "Kasım ayı tüketici fiyatlarında en yüksek artış tereyağında kaydedildi",
-      "ozet": "Tüketici fiyat endeksine göre kasım ayında ürün bazında değişimler belirlendi. Verilere göre en yüksek fiyat yükselişi yüzde 13,63 oranıyla tereyağında gerçekleşti. Aynı dönemde taze meyve fiyatlarında ise yüzde 4,96 seviyesinde bir düşüş yaşandı.",
+      "baslik": "Kasım ayında en yüksek fiyat artışı tereyağında gerçekleşti",
+      "ozet": "Tüketici fiyat endeksi verilerine göre kasım ayında ürün bazında en büyük fiyat yükselişi yüzde 13,63 oranıyla tereyağında yaşandı. Aynı dönem içerisinde fiyatı en çok gerileyen ürün grubu ise yüzde 4,96 düşüşle taze meyveler oldu.",
       "kategori": "Ekonomi"
     },
     {
@@ -1493,15 +1494,14 @@
       "konular": [
         "Dünya Ralli Şampiyonası",
         "İtalya",
-        "Otomobil sporu"
+        "Otomobil yarışı"
       ],
       "yayin": "2020-12-04T10:28:00+03:00",
       "puan": 10,
-      "durum": "yazildi",
-      "baslik": "Dünya Ralli Şampiyonası Finali İtalya Yarışıyla Tamamlanıyor",
-      "ozet": "Otomobil sporlarının en önemli organizasyonları arasında yer alan Dünya Ralli Şampiyonası, sezonun son mücadelesine sahne oldu. Takvimin yedinci yarışı olan İtalya ayağıyla birlikte şampiyonluk düğümü çözüldü ve sezon noktalandı.",
-      "kategori": "Spor",
-      "gorsel": null
+      "durum": "elendi",
+      "baslik": "Dünya Ralli Şampiyonası İtalya'daki Final Yarışıyla Sona Eriyor",
+      "ozet": "Otomobil sporlarının en önemli etkinlikleri arasında yer alan Dünya Ralli Şampiyonası, sezonun son mücadelesine ev sahipliği yapıyor. Takvimin yedinci ve final etabı olan İtalya yarışı ile birlikte şampiyonluk düğümü çözülüyor. Organizasyon bu yarışın ardından sezonu tamamlıyor.",
+      "kategori": "Spor"
     },
     {
       "id": "2020-haber-1796100",
@@ -1606,16 +1606,16 @@
       "ozet": "Fransa Başbakanı Edouard Philippe, ülkede geniş çaplı protestolara yol açan akaryakıt fiyatlarındaki artışın durdurulduğunu duyurdu. Sarı yelekliler olarak bilinen grubun tepkileri üzerine hükümet, planlanan zamları askıya alma kararı verdiğini açıkladı.",
       "kategori": "Siyaset",
       "gorsel": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%C3%89douard_Philippe_%C3%A0_Ch%C3%A2lons-en-Champagne_en_2023._%28cropped%29.jpg/960px-%C3%89douard_Philippe_%C3%A0_Ch%C3%A2lons-en-Champagne_en_2023._%28cropped%29.jpg",
-        "kucukUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%C3%89douard_Philippe_%C3%A0_Ch%C3%A2lons-en-Champagne_en_2023._%28cropped%29.jpg/500px-%C3%89douard_Philippe_%C3%A0_Ch%C3%A2lons-en-Champagne_en_2023._%28cropped%29.jpg",
-        "genislik": 960,
-        "yukseklik": 1278,
-        "orijinalGenislik": 1849,
-        "yazar": "Ksiamon",
-        "lisans": "CC BY-SA 4.0",
-        "lisansUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Philippe_%C3%A0_Ch%C3%A2lons-en-Champagne_en_2023._(cropped).jpg",
-        "aciklama": "Édouard Philippe à la Foire de Châlons-en-Champagne (Marne), le 6 septembre 2023.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Edouard_Philippe_3x4_crop.jpg",
+        "kucukUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Edouard_Philippe_3x4_crop.jpg",
+        "genislik": 718,
+        "yukseklik": 958,
+        "orijinalGenislik": 718,
+        "yazar": "Wasasaq8",
+        "lisans": "CC0",
+        "lisansUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Edouard_Philippe_3x4_crop.jpg",
+        "aciklama": "Edouard Philippe posant pour un portrait",
         "konu": "Édouard Philippe"
       }
     },
@@ -1805,7 +1805,7 @@
       "puan": 6,
       "durum": "yazildi",
       "baslik": "Adana merkezli cinsel istismar davasında yargılama süreci başladı",
-      "ozet": "Adana sınırları içerisinde gerçekleşen cinsel istismar suçlamasına ilişkin dava mahkemeye taşındı. On dört yaşındaki mağdur çocuk, dede olarak hitap ettiği bir şahsın kendisini dondurma alma vaadiyle kandırarak istismarda bulunduğunu öne sürdü. Söz konusu dosyada aralarında çocukların da bulunduğu otuz bir kişinin yargılanmasına başlandı.",
+      "ozet": "Adana sınırları içerisinde gerçekleşen ve çok sayıda çocuğun mağdur olduğu cinsel istismar davası mahkemeye taşındı. On dört yaşındaki bir mağdur, tanıdığı bir şahsın kendisini kandırarak istismarda bulunduğunu ifade etti. Toplamda on bir çocuk ile diğer mağdurların yer aldığı dosyada otuz bir sanığın yargılanmasına başlandı.",
       "kategori": "Toplum",
       "gorsel": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Martin_Van_Maele_-_La_Grande_Danse_macabre_des_vifs_-_11.jpg",
@@ -2005,7 +2005,7 @@
       "puan": 7,
       "durum": "yazildi",
       "baslik": "Mısır seçimlerinin ilk tur sonuçları belli oldu",
-      "ozet": "Mısırda uzun süreli yönetimin sona ermesinin ardından gerçekleştirilen seçimlerin ilk aşaması tamamlandı. Açıklanan verilere göre Hürriyet ve Adalet Partisi oyların büyük kısmını alarak seçimi önde bitirdi. Selefi Nur Partisi ise elde ettiği oy oranıyla ikinci sırada yer aldı.",
+      "ozet": "Mısırda uzun süreli yönetimin sona ermesinin ardından gerçekleştirilen seçimlerin ilk aşaması tamamlandı. Açıklanan verilere göre Hürriyet ve Adalet Partisi oyların büyük kısmını alarak yarışı önde bitirdi. Selefi Nur Partisi ise seçimlerden ikinci sırada ayrıldı.",
       "kategori": "Siyaset",
       "gorsel": null
     },
